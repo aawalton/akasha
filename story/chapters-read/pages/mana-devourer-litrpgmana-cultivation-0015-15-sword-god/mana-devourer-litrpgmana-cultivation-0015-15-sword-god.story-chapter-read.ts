@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation001515SwordGod = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 15,
   ownLength: 3497,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-05",
   externalIdentity: [
     {

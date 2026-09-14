@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0122Chapter796SirElydor = {
   story: "story-read/hell-difficulty-tutorial",
   position: 122,
   ownLength: 2337,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-03",
   externalIdentity: [
     {

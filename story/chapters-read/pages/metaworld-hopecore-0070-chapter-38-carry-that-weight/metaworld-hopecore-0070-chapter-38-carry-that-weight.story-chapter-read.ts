@@ -8,7 +8,7 @@ export const metaworldHopecore0070Chapter38CarryThatWeight = {
   story: "metaworld-hopecore",
   position: 70,
   ownLength: 2185,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-14",
   externalIdentity: [
     {

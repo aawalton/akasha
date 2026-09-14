@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0038038AliceSteelweaver 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 38,
   ownLength: 2218,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-10",
   externalIdentity: [
     {

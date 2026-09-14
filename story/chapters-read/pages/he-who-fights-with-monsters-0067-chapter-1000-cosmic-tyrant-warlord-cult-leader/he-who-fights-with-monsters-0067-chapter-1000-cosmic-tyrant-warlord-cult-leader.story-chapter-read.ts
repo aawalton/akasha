@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0067Chapter1000CosmicTyrantWarlordCultLeader
   story: "story-read/he-who-fights-with-monsters",
   position: 67,
   ownLength: 2766,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-06",
   externalIdentity: [
     {

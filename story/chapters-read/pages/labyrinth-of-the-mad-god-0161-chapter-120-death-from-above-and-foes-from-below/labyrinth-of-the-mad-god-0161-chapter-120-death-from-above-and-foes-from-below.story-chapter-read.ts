@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0161Chapter120DeathFromAboveAndFoesFromBelow = 
   story: "labyrinth-of-the-mad-god",
   position: 161,
   ownLength: 1570,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-23",
   externalIdentity: [
     {

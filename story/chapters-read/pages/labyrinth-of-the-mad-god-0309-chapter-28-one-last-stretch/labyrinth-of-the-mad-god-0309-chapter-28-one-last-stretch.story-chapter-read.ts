@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0309Chapter28OneLastStretch = {
   story: "labyrinth-of-the-mad-god",
   position: 309,
   ownLength: 1836,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-04",
   externalIdentity: [
     {

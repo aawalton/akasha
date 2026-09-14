@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0042042BreakingPoint = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 42,
   ownLength: 2190,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-17",
   externalIdentity: [
     {

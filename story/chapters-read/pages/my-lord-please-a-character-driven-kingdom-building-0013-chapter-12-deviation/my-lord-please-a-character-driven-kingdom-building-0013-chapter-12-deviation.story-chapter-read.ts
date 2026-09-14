@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0013Chapter12Deviation =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 13,
   ownLength: 2271,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-28",
   externalIdentity: [
     {

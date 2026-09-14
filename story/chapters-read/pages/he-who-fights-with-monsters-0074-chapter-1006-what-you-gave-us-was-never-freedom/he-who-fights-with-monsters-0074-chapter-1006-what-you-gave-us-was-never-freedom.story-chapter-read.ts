@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0074Chapter1006WhatYouGaveUsWasNeverFreedom 
   story: "story-read/he-who-fights-with-monsters",
   position: 74,
   ownLength: 2306,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-12",
   externalIdentity: [
     {

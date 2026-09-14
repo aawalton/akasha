@@ -8,7 +8,7 @@ export const hellHorizonHealer0039Chapter39Monster = {
   story: "hell-horizon-healer",
   position: 39,
   ownLength: 1670,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-12",
   externalIdentity: [
     {

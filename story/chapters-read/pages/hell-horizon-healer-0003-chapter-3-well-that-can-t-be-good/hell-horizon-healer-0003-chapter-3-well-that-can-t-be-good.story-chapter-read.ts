@@ -8,7 +8,7 @@ export const hellHorizonHealer0003Chapter3WellThatCanTBeGood = {
   story: "hell-horizon-healer",
   position: 3,
   ownLength: 1356,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0078Chapter753AGlassOfJuice = {
   story: "story-read/hell-difficulty-tutorial",
   position: 78,
   ownLength: 3059,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-17",
   externalIdentity: [
     {

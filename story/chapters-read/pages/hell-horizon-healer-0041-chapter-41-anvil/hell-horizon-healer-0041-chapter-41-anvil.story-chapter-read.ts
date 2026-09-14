@@ -8,7 +8,7 @@ export const hellHorizonHealer0041Chapter41Anvil = {
   story: "hell-horizon-healer",
   position: 41,
   ownLength: 1694,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-19",
   externalIdentity: [
     {

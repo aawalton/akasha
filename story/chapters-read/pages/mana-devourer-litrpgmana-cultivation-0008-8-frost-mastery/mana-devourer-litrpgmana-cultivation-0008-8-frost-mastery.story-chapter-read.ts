@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation00088FrostMastery = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 8,
   ownLength: 3872,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-29",
   externalIdentity: [
     {

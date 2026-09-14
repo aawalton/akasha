@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0011Chapter11TheSwordOfJudgement = 
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 11,
   ownLength: 1771,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0087Chapter48FlippingTheBoard = {
   story: "labyrinth-of-the-mad-god",
   position: 87,
   ownLength: 1442,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-06",
   externalIdentity: [
     {

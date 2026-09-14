@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0066Chapter66ConfrontationP
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 66,
   ownLength: 1433,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-04",
   externalIdentity: [
     {

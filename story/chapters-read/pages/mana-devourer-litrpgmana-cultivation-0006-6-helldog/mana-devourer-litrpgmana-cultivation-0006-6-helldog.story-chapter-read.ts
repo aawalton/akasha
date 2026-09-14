@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation00066Helldog = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 6,
   ownLength: 3813,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-29",
   externalIdentity: [
     {

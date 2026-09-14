@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0003Chapter19RenTheHero = {
   story: "mythrans-master-of-all-continued-completed",
   position: 3,
   ownLength: 2570,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-06",
   externalIdentity: [
     {

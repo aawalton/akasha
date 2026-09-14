@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0091Chapter1021TheOneWayIKnowToKillAGod = {
   story: "story-read/he-who-fights-with-monsters",
   position: 91,
   ownLength: 2897,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

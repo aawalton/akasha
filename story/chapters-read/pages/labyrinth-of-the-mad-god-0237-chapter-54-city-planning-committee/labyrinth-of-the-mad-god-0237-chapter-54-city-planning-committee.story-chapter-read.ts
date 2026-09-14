@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0237Chapter54CityPlanningCommittee = {
   story: "labyrinth-of-the-mad-god",
   position: 237,
   ownLength: 2645,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-17",
   externalIdentity: [
     {

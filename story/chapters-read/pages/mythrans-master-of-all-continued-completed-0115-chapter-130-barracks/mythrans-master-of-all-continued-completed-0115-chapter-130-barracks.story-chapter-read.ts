@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0115Chapter130Barracks = {
   story: "mythrans-master-of-all-continued-completed",
   position: 115,
   ownLength: 3447,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-30",
   externalIdentity: [
     {

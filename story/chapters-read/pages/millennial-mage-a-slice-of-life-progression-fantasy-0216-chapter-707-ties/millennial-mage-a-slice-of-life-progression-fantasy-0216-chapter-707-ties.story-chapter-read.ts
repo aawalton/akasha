@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0216Chapter707Ties = {
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 216,
   ownLength: 3250,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

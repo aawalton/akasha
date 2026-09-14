@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0486Chapter486FixingMistakes =
   story: "mythrans-master-of-all-continued-completed",
   position: 486,
   ownLength: 3677,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-18",
   externalIdentity: [
     {

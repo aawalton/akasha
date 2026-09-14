@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0047Chapter43Misread = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 47,
   ownLength: 2341,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0664Chapter663IntoTheArena = {
   story: "mythrans-master-of-all-continued-completed",
   position: 664,
   ownLength: 3125,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-08",
   externalIdentity: [
     {

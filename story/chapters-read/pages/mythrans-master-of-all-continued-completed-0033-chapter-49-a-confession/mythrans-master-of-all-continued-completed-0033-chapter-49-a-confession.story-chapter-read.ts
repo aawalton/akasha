@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0033Chapter49AConfession = {
   story: "mythrans-master-of-all-continued-completed",
   position: 33,
   ownLength: 2008,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-12",
   externalIdentity: [
     {

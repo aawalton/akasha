@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0072Chapter88TeachMeNathalia =
   story: "mythrans-master-of-all-continued-completed",
   position: 72,
   ownLength: 3893,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-19",
   externalIdentity: [
     {

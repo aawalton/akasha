@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0058Chapter54Threshold =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 58,
   ownLength: 1921,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

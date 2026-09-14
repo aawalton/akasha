@@ -8,7 +8,7 @@ export const metaworldHopecore0109Chapter62TheCatCameBack2 = {
   story: "metaworld-hopecore",
   position: 109,
   ownLength: 2097,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-15",
   externalIdentity: [
     {

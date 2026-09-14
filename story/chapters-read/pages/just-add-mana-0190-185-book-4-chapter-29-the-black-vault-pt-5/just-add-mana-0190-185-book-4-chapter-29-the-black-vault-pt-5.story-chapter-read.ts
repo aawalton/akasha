@@ -6,7 +6,7 @@ export const justAddMana0190185Book4Chapter29TheBlackVaultPt5 = {
   slug: "just-add-mana-0190-185-book-4-chapter-29-the-black-vault-pt-5",
   position: 190,
   publishedAt: "2026-09-12",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

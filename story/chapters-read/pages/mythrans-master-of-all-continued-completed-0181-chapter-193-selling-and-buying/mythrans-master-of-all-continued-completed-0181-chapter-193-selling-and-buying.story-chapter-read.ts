@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0181Chapter193SellingAndBuying
   story: "mythrans-master-of-all-continued-completed",
   position: 181,
   ownLength: 3087,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-09",
   externalIdentity: [
     {

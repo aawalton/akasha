@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0119Chapter134AndTheWinnerIs =
   story: "mythrans-master-of-all-continued-completed",
   position: 119,
   ownLength: 4124,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-03",
   externalIdentity: [
     {

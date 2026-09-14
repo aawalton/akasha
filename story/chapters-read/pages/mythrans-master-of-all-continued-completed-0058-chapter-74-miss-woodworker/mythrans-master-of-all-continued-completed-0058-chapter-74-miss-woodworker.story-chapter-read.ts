@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0058Chapter74MissWoodworker = 
   story: "mythrans-master-of-all-continued-completed",
   position: 58,
   ownLength: 4149,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-06",
   externalIdentity: [
     {

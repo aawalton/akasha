@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0045Interlude02Sera = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 45,
   ownLength: 2040,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-25",
   externalIdentity: [
     {

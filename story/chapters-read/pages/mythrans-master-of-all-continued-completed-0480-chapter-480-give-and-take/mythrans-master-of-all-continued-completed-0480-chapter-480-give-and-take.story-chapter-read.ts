@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0480Chapter480GiveAndTake = {
   story: "mythrans-master-of-all-continued-completed",
   position: 480,
   ownLength: 3356,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-12",
   externalIdentity: [
     {

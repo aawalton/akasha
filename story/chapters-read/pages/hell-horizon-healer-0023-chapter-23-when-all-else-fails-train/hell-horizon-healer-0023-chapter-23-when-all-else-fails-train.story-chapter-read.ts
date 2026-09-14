@@ -8,7 +8,7 @@ export const hellHorizonHealer0023Chapter23WhenAllElseFailsTrain = {
   story: "hell-horizon-healer",
   position: 23,
   ownLength: 1770,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0718Chapter717AGiantSizedFanta
   story: "mythrans-master-of-all-continued-completed",
   position: 718,
   ownLength: 3502,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-01",
   externalIdentity: [
     {

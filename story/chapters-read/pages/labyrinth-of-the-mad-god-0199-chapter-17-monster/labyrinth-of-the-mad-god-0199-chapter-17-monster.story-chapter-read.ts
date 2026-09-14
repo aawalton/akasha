@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0199Chapter17Monster = {
   story: "labyrinth-of-the-mad-god",
   position: 199,
   ownLength: 2331,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-23",
   externalIdentity: [
     {

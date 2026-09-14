@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0020020ClashOfTheTitans 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 20,
   ownLength: 2217,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-19",
   externalIdentity: [
     {

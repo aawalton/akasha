@@ -8,7 +8,7 @@ export const hellHoundEvolutionLitrpg0074Chapter150 = {
   story: "hell-hound-evolution-litrpg",
   position: 74,
   ownLength: 2346,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

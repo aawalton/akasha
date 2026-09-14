@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0079Chapter1010DangerouslyExposingMyself = {
   story: "story-read/he-who-fights-with-monsters",
   position: 79,
   ownLength: 2710,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

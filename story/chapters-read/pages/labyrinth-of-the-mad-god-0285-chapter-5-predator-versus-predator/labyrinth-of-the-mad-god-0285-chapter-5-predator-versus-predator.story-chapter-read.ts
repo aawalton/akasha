@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0285Chapter5PredatorVersusPredator = {
   story: "labyrinth-of-the-mad-god",
   position: 285,
   ownLength: 2715,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-16",
   externalIdentity: [
     {

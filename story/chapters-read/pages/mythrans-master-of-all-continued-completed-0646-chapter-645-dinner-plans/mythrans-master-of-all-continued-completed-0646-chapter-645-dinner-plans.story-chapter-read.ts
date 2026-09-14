@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0646Chapter645DinnerPlans = {
   story: "mythrans-master-of-all-continued-completed",
   position: 646,
   ownLength: 2670,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-21",
   externalIdentity: [
     {

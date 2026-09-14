@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0241Chapter59ContemplationsByStarlight = {
   story: "labyrinth-of-the-mad-god",
   position: 241,
   ownLength: 1467,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-29",
   externalIdentity: [
     {

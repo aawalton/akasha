@@ -8,7 +8,7 @@ export const godOfTrash0305305ASmallFavor = {
   story: "god-of-trash",
   position: 305,
   ownLength: 2676,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-25",
   externalIdentity: [
     {

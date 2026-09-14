@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0549Chapter549MoreMeetings = {
   story: "mythrans-master-of-all-continued-completed",
   position: 549,
   ownLength: 2612,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-07",
   externalIdentity: [
     {

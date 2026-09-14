@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0750Chapter749CaravanConclusio
   story: "mythrans-master-of-all-continued-completed",
   position: 750,
   ownLength: 3187,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0291Chapter300SayingGoodbye = 
   story: "mythrans-master-of-all-continued-completed",
   position: 291,
   ownLength: 3023,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-05",
   externalIdentity: [
     {

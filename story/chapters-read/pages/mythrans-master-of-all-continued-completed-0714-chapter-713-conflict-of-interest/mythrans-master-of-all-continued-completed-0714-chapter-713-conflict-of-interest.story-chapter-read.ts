@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0714Chapter713ConflictOfIntere
   story: "mythrans-master-of-all-continued-completed",
   position: 714,
   ownLength: 2559,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-27",
   externalIdentity: [
     {

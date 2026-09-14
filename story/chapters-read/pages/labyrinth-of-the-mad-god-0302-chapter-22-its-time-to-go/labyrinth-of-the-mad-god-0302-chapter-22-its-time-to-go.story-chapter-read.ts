@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0302Chapter22ItsTimeToGo = {
   story: "labyrinth-of-the-mad-god",
   position: 302,
   ownLength: 3032,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-13",
   externalIdentity: [
     {

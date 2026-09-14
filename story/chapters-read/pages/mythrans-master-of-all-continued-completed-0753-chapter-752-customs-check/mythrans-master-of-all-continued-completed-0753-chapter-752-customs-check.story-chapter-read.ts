@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0753Chapter752CustomsCheck = {
   story: "mythrans-master-of-all-continued-completed",
   position: 753,
   ownLength: 3606,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-05",
   externalIdentity: [
     {

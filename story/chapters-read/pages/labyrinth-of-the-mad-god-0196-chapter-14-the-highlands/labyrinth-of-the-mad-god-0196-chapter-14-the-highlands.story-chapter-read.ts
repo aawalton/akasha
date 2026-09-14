@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0196Chapter14TheHighlands = {
   story: "labyrinth-of-the-mad-god",
   position: 196,
   ownLength: 2083,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-16",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0107Chapter102Dignity = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 107,
   ownLength: 2010,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-24",
   externalIdentity: [
     {

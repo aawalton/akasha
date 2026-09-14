@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0537Chapter537HardTruths = {
   story: "mythrans-master-of-all-continued-completed",
   position: 537,
   ownLength: 3399,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-26",
   externalIdentity: [
     {

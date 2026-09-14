@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0738Chapter737PervarianInteres
   story: "mythrans-master-of-all-continued-completed",
   position: 738,
   ownLength: 2719,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-21",
   externalIdentity: [
     {

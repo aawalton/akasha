@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0517Chapter517AnEntourage = {
   story: "mythrans-master-of-all-continued-completed",
   position: 517,
   ownLength: 2023,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-21",
   externalIdentity: [
     {

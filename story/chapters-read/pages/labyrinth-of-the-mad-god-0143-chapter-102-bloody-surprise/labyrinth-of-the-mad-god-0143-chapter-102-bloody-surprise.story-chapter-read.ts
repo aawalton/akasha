@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0143Chapter102BloodySurprise = {
   story: "labyrinth-of-the-mad-god",
   position: 143,
   ownLength: 1862,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-12",
   externalIdentity: [
     {

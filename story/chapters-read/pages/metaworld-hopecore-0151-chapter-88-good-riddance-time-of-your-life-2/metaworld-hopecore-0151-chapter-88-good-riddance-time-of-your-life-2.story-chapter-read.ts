@@ -8,7 +8,7 @@ export const metaworldHopecore0151Chapter88GoodRiddanceTimeOfYourLife2 = {
   story: "metaworld-hopecore",
   position: 151,
   ownLength: 2133,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-09",
   externalIdentity: [
     {

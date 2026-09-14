@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0198Chapter870MidPristine = {
   story: "story-read/hell-difficulty-tutorial",
   position: 198,
   ownLength: 2316,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-27",
   externalIdentity: [
     {

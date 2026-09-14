@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0318Chapter326TheTour = {
   story: "mythrans-master-of-all-continued-completed",
   position: 318,
   ownLength: 4846,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-09",
   externalIdentity: [
     {

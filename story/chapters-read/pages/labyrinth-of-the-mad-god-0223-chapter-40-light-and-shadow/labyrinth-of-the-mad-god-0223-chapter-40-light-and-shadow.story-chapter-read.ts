@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0223Chapter40LightAndShadow = {
   story: "labyrinth-of-the-mad-god",
   position: 223,
   ownLength: 1629,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-15",
   externalIdentity: [
     {

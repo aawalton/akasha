@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0146Chapter819InAGoodMood = {
   story: "story-read/hell-difficulty-tutorial",
   position: 146,
   ownLength: 2158,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-03",
   externalIdentity: [
     {

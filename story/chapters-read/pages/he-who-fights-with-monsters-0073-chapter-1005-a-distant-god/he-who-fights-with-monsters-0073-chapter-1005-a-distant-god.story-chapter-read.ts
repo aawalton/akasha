@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0073Chapter1005ADistantGod = {
   story: "story-read/he-who-fights-with-monsters",
   position: 73,
   ownLength: 2742,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

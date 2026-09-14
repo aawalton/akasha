@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0266Chapter83Nightsong = {
   story: "labyrinth-of-the-mad-god",
   position: 266,
   ownLength: 1754,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-24",
   externalIdentity: [
     {

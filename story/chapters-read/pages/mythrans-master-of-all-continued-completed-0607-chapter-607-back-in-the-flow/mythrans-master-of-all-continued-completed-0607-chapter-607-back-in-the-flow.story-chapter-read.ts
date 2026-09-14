@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0607Chapter607BackInTheFlow = 
   story: "mythrans-master-of-all-continued-completed",
   position: 607,
   ownLength: 2932,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-13",
   externalIdentity: [
     {

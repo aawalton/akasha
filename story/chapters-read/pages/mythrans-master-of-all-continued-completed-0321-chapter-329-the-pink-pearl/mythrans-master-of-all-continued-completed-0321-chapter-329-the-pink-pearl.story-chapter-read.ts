@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0321Chapter329ThePinkPearl = {
   story: "mythrans-master-of-all-continued-completed",
   position: 321,
   ownLength: 4148,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-12",
   externalIdentity: [
     {

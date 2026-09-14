@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0295Chapter15TheLostCityOfEroquis = {
   story: "labyrinth-of-the-mad-god",
   position: 295,
   ownLength: 1796,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-23",
   externalIdentity: [
     {

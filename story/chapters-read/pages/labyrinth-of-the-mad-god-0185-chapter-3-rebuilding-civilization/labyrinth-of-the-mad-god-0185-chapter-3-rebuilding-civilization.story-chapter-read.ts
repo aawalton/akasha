@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0185Chapter3RebuildingCivilization = {
   story: "labyrinth-of-the-mad-god",
   position: 185,
   ownLength: 1805,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0124Chapter118Catalyst =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 124,
   ownLength: 1938,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-23",
   externalIdentity: [
     {

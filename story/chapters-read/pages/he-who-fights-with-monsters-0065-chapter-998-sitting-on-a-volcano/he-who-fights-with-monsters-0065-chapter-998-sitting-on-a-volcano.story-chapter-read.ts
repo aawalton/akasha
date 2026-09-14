@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0065Chapter998SittingOnAVolcano = {
   story: "story-read/he-who-fights-with-monsters",
   position: 65,
   ownLength: 2582,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-01",
   externalIdentity: [
     {

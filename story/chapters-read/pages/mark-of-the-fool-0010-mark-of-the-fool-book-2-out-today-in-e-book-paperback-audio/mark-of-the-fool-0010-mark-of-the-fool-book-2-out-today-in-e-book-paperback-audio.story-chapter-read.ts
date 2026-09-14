@@ -9,7 +9,7 @@ export const markOfTheFool0010MarkOfTheFoolBook2OutTodayInEBookPaperbackAudio = 
   story: "story-read/mark-of-the-fool",
   position: 10,
   ownLength: 150,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-10",
   externalIdentity: [
     {

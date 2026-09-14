@@ -6,7 +6,7 @@ export const heavenPiercingGiraffeOpMcXianxia0032SameAnimalVoiceMc = {
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0032-same-animal-voice-mc",
   position: 32,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

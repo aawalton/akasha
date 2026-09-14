@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0075Chapter750EveryoneKnewItWasComing = {
   story: "story-read/hell-difficulty-tutorial",
   position: 75,
   ownLength: 2308,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-12",
   externalIdentity: [
     {

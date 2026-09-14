@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0605Chapter605ToFeedTheHungry 
   story: "mythrans-master-of-all-continued-completed",
   position: 605,
   ownLength: 2763,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-11",
   externalIdentity: [
     {

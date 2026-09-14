@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0622Chapter622IssacsShopAgain 
   story: "mythrans-master-of-all-continued-completed",
   position: 622,
   ownLength: 2683,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-28",
   externalIdentity: [
     {

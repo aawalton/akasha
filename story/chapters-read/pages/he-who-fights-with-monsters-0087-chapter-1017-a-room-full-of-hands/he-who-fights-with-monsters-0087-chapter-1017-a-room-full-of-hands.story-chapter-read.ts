@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0087Chapter1017ARoomFullOfHands = {
   story: "story-read/he-who-fights-with-monsters",
   position: 87,
   ownLength: 3179,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

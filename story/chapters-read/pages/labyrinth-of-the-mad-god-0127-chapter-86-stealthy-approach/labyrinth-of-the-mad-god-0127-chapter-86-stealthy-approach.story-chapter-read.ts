@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0127Chapter86StealthyApproach = {
   story: "labyrinth-of-the-mad-god",
   position: 127,
   ownLength: 1763,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-03",
   externalIdentity: [
     {

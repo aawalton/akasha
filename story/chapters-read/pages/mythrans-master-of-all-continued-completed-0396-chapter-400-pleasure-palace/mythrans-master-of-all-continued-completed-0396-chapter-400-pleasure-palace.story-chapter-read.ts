@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0396Chapter400PleasurePalace =
   story: "mythrans-master-of-all-continued-completed",
   position: 396,
   ownLength: 4071,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-25",
   externalIdentity: [
     {

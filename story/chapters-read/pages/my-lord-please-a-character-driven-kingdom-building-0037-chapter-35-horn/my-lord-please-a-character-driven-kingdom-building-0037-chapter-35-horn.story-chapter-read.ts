@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0037Chapter35Horn = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 37,
   ownLength: 2623,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-19",
   externalIdentity: [
     {

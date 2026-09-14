@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0713Chapter712LoveAndUnderstan
   story: "mythrans-master-of-all-continued-completed",
   position: 713,
   ownLength: 3026,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0613Chapter613DamageControl = 
   story: "mythrans-master-of-all-continued-completed",
   position: 613,
   ownLength: 2668,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-19",
   externalIdentity: [
     {

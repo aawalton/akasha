@@ -8,7 +8,7 @@ export const hellHorizonHealer0035Chapter35OldSoldierVsNew = {
   story: "hell-horizon-healer",
   position: 35,
   ownLength: 1672,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-03",
   externalIdentity: [
     {

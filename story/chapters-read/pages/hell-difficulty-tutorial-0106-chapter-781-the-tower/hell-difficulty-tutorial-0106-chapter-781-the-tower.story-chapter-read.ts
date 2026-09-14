@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0106Chapter781TheTower = {
   story: "story-read/hell-difficulty-tutorial",
   position: 106,
   ownLength: 2318,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellHorizonHealer0015Chapter15Focus = {
   story: "hell-horizon-healer",
   position: 15,
   ownLength: 1667,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-13",
   externalIdentity: [
     {

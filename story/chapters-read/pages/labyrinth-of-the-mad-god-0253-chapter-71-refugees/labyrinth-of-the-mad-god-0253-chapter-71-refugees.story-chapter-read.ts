@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0253Chapter71Refugees = {
   story: "labyrinth-of-the-mad-god",
   position: 253,
   ownLength: 1729,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-26",
   externalIdentity: [
     {

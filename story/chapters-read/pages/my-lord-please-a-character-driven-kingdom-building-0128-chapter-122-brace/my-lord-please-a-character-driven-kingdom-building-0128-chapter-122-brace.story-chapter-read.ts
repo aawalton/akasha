@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0128Chapter122Brace = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 128,
   ownLength: 2109,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-30",
   externalIdentity: [
     {

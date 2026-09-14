@@ -8,7 +8,7 @@ export const metaworldHopecore0119Chapter71BigGirlsDonTCry = {
   story: "metaworld-hopecore",
   position: 119,
   ownLength: 3538,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-30",
   externalIdentity: [
     {

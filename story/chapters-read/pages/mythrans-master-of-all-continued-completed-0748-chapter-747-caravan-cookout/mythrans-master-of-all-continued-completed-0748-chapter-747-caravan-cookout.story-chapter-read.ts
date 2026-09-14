@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0748Chapter747CaravanCookout =
   story: "mythrans-master-of-all-continued-completed",
   position: 748,
   ownLength: 3696,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-31",
   externalIdentity: [
     {

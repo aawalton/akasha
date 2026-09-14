@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0158Chapter117BreathingEasy = {
   story: "labyrinth-of-the-mad-god",
   position: 158,
   ownLength: 1884,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-16",
   externalIdentity: [
     {

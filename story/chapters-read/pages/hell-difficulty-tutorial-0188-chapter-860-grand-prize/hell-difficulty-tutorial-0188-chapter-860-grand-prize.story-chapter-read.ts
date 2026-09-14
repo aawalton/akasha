@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0188Chapter860GrandPrize = {
   story: "story-read/hell-difficulty-tutorial",
   position: 188,
   ownLength: 2234,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-13",
   externalIdentity: [
     {

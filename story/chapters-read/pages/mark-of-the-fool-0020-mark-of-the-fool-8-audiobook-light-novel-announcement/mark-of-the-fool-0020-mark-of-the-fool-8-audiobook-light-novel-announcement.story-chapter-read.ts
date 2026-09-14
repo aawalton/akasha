@@ -8,7 +8,7 @@ export const markOfTheFool0020MarkOfTheFool8AudiobookLightNovelAnnouncement = {
   story: "story-read/mark-of-the-fool",
   position: 20,
   ownLength: 355,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-19",
   externalIdentity: [
     {

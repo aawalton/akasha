@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0768Chapter767Blowback = {
   story: "mythrans-master-of-all-continued-completed",
   position: 768,
   ownLength: 2994,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-19",
   externalIdentity: [
     {

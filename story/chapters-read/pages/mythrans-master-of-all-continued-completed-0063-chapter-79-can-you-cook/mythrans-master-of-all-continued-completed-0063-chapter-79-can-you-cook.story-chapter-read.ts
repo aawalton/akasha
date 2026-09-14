@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0063Chapter79CanYouCook = {
   story: "mythrans-master-of-all-continued-completed",
   position: 63,
   ownLength: 4010,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-11",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0064Chapter30ViewOfTheCenter = {
   story: "labyrinth-of-the-mad-god",
   position: 64,
   ownLength: 1716,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-25",
   externalIdentity: [
     {

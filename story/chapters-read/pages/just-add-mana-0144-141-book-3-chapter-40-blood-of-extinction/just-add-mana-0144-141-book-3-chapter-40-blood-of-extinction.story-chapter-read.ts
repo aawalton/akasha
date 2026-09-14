@@ -8,7 +8,7 @@ export const justAddMana0144141Book3Chapter40BloodOfExtinction = {
   story: "just-add-mana",
   position: 144,
   ownLength: 3141,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-28",
   externalIdentity: [
     {

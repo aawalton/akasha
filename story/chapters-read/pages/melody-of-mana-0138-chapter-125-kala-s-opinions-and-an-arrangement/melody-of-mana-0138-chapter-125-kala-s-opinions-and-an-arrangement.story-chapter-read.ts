@@ -9,7 +9,7 @@ export const melodyOfMana0138Chapter125KalaSOpinionsAndAnArrangement = {
   position: 138,
   ownLength: 1748,
   ownProgress: 1748,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:30:36.891Z",
   publishedAt: "2022-04-28",
   externalIdentity: [

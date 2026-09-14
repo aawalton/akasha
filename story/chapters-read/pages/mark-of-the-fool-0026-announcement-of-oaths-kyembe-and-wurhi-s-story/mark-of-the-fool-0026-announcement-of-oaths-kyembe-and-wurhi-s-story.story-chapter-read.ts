@@ -8,7 +8,7 @@ export const markOfTheFool0026AnnouncementOfOathsKyembeAndWurhiSStory = {
   story: "story-read/mark-of-the-fool",
   position: 26,
   ownLength: 282,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-21",
   externalIdentity: [
     {

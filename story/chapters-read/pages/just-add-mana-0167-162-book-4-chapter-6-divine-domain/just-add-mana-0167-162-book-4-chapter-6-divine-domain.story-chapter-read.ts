@@ -8,7 +8,7 @@ export const justAddMana0167162Book4Chapter6DivineDomain = {
   story: "just-add-mana",
   position: 167,
   ownLength: 3629,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-21",
   externalIdentity: [
     {

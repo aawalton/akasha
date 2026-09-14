@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0678Chapter677PleasureInThePle
   story: "mythrans-master-of-all-continued-completed",
   position: 678,
   ownLength: 2947,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-22",
   externalIdentity: [
     {

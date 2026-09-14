@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0222Chapter39MountainOfMuscle = {
   story: "labyrinth-of-the-mad-god",
   position: 222,
   ownLength: 2252,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-12",
   externalIdentity: [
     {

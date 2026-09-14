@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0004Chapter20OutOfTheFryingPan
   story: "mythrans-master-of-all-continued-completed",
   position: 4,
   ownLength: 2115,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0198Chapter210LetsGoHome = {
   story: "mythrans-master-of-all-continued-completed",
   position: 198,
   ownLength: 3142,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-30",
   externalIdentity: [
     {

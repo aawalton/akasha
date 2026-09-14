@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0749Chapter748ContrivingCarava
   story: "mythrans-master-of-all-continued-completed",
   position: 749,
   ownLength: 2861,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-01",
   externalIdentity: [
     {

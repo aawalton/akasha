@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0130Chapter124Canvas = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 130,
   ownLength: 2243,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-02",
   externalIdentity: [
     {

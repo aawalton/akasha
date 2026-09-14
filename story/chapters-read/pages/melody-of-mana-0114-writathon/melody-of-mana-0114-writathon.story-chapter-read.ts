@@ -9,7 +9,7 @@ export const melodyOfMana0114Writathon = {
   position: 114,
   ownLength: 102,
   ownProgress: 102,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:30:04.358Z",
   publishedAt: "2022-04-03",
   externalIdentity: [

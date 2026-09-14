@@ -8,7 +8,7 @@ export const justAddMana0160Book3DeletedSceneMagicalFoci = {
   story: "just-add-mana",
   position: 160,
   ownLength: 1839,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-04",
   externalIdentity: [
     {

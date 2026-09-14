@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0029Chapter45Decorations = {
   story: "mythrans-master-of-all-continued-completed",
   position: 29,
   ownLength: 2367,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-08",
   externalIdentity: [
     {

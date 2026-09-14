@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0578Chapter578APrimeExample = 
   story: "mythrans-master-of-all-continued-completed",
   position: 578,
   ownLength: 2676,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-06",
   externalIdentity: [
     {

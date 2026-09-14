@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0040Chapter40NecromanticInt
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 40,
   ownLength: 1683,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-04",
   externalIdentity: [
     {

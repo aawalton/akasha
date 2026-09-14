@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0735Chapter734BundleOfTrouble 
   story: "mythrans-master-of-all-continued-completed",
   position: 735,
   ownLength: 3278,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-18",
   externalIdentity: [
     {

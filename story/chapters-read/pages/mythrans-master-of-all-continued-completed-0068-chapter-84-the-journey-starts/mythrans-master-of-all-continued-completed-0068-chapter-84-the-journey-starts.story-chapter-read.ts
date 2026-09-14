@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0068Chapter84TheJourneyStarts 
   story: "mythrans-master-of-all-continued-completed",
   position: 68,
   ownLength: 5027,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-16",
   externalIdentity: [
     {

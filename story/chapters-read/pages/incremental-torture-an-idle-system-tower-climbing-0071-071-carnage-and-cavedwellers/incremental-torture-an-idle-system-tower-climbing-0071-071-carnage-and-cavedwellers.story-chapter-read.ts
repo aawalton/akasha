@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0071071CarnageAndCavedwe
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 71,
   ownLength: 2234,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-17",
   externalIdentity: [
     {

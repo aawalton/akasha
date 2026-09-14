@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0051Chapter726HornlessDemon = {
   story: "story-read/hell-difficulty-tutorial",
   position: 51,
   ownLength: 2159,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-11",
   externalIdentity: [
     {

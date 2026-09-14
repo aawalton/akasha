@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0178Chapter190LoveAndUnderstan
   story: "mythrans-master-of-all-continued-completed",
   position: 178,
   ownLength: 3031,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-06",
   externalIdentity: [
     {

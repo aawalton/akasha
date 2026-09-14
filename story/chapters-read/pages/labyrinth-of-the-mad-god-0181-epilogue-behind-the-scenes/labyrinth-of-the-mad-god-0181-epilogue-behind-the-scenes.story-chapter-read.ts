@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0181EpilogueBehindTheScenes = {
   story: "labyrinth-of-the-mad-god",
   position: 181,
   ownLength: 661,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-06",
   externalIdentity: [
     {

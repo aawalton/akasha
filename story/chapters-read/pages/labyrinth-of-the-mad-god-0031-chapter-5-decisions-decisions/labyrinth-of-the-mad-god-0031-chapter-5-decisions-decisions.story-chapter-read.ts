@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0031Chapter5DecisionsDecisions = {
   story: "labyrinth-of-the-mad-god",
   position: 31,
   ownLength: 1975,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0255Chapter73BadTimingAndNewFriends = {
   story: "labyrinth-of-the-mad-god",
   position: 255,
   ownLength: 1625,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-01",
   externalIdentity: [
     {

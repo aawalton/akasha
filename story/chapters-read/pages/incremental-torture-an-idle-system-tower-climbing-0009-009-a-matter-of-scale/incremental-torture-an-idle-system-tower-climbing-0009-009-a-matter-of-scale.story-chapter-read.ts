@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0009009AMatterOfScale = 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 9,
   ownLength: 2158,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-06",
   externalIdentity: [
     {

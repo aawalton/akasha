@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0038Chapter36Abandoned =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 38,
   ownLength: 2493,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-20",
   externalIdentity: [
     {

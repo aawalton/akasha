@@ -8,7 +8,7 @@ export const justAddMana0159BookChapterFirstReincarnation = {
   story: "just-add-mana",
   position: 159,
   ownLength: 883,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-02",
   externalIdentity: [
     {

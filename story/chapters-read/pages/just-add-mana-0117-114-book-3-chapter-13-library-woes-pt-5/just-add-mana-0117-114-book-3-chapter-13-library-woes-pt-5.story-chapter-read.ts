@@ -8,7 +8,7 @@ export const justAddMana0117114Book3Chapter13LibraryWoesPt5 = {
   story: "just-add-mana",
   position: 117,
   ownLength: 3051,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-26",
   externalIdentity: [
     {

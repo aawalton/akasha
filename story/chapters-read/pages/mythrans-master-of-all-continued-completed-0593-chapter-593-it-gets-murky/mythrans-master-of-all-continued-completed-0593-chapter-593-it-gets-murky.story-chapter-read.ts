@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0593Chapter593ItGetsMurky = {
   story: "mythrans-master-of-all-continued-completed",
   position: 593,
   ownLength: 2670,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-21",
   externalIdentity: [
     {

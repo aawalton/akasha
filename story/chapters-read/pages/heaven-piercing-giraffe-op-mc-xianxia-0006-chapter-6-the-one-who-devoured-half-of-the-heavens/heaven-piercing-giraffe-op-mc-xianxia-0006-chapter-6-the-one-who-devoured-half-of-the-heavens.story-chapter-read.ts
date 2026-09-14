@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0006Chapter6TheOneWhoDevouredHalfOf
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 6,
   ownLength: 1980,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-01",
   externalIdentity: [
     {

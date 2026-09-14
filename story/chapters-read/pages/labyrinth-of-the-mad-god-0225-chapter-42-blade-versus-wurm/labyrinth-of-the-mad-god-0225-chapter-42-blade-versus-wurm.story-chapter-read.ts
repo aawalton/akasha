@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0225Chapter42BladeVersusWurm = {
   story: "labyrinth-of-the-mad-god",
   position: 225,
   ownLength: 2545,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0365Chapter371GloriaComeOnOver
   story: "mythrans-master-of-all-continued-completed",
   position: 365,
   ownLength: 3532,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-28",
   externalIdentity: [
     {

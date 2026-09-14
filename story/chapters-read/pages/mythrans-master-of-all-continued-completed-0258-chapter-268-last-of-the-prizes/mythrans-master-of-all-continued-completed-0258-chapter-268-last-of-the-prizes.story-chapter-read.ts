@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0258Chapter268LastOfThePrizes 
   story: "mythrans-master-of-all-continued-completed",
   position: 258,
   ownLength: 3504,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-01",
   externalIdentity: [
     {

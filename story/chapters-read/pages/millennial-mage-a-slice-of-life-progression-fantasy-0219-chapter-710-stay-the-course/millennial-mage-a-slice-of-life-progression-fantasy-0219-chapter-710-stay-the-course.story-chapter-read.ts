@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0219Chapter710StayTheCo
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 219,
   ownLength: 2587,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-01",
   externalIdentity: [
     {

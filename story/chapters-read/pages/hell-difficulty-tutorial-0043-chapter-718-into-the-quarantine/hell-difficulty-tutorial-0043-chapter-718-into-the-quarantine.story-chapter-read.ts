@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0043Chapter718IntoTheQuarantine = {
   story: "story-read/hell-difficulty-tutorial",
   position: 43,
   ownLength: 2203,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-23",
   externalIdentity: [
     {

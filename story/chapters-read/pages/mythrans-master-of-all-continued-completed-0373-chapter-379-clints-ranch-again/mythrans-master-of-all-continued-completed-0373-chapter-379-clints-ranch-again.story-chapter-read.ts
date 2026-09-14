@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0373Chapter379ClintsRanchAgain
   story: "mythrans-master-of-all-continued-completed",
   position: 373,
   ownLength: 3898,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-09",
   externalIdentity: [
     {

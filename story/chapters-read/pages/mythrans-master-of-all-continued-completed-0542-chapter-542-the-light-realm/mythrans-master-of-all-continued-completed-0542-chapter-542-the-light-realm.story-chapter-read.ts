@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0542Chapter542TheLightRealm = 
   story: "mythrans-master-of-all-continued-completed",
   position: 542,
   ownLength: 2760,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-31",
   externalIdentity: [
     {

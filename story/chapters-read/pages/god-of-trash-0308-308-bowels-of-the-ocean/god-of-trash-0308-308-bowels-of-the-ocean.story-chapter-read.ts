@@ -8,7 +8,7 @@ export const godOfTrash0308308BowelsOfTheOcean = {
   story: "god-of-trash",
   position: 308,
   ownLength: 1526,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

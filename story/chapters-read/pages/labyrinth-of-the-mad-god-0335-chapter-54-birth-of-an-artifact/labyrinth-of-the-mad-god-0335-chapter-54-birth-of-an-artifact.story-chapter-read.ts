@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0335Chapter54BirthOfAnArtifact = {
   story: "labyrinth-of-the-mad-god",
   position: 335,
   ownLength: 1474,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-10",
   externalIdentity: [
     {

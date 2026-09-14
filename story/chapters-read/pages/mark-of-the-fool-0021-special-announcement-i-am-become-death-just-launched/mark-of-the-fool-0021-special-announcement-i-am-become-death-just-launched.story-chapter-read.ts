@@ -8,7 +8,7 @@ export const markOfTheFool0021SpecialAnnouncementIAmBecomeDeathJustLaunched = {
   story: "story-read/mark-of-the-fool",
   position: 21,
   ownLength: 308,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0546Chapter546AnotherSlightCom
   story: "mythrans-master-of-all-continued-completed",
   position: 546,
   ownLength: 2893,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-04",
   externalIdentity: [
     {

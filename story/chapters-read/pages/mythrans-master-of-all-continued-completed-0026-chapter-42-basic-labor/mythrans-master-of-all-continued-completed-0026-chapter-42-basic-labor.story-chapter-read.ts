@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0026Chapter42BasicLabor = {
   story: "mythrans-master-of-all-continued-completed",
   position: 26,
   ownLength: 2480,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-04",
   externalIdentity: [
     {

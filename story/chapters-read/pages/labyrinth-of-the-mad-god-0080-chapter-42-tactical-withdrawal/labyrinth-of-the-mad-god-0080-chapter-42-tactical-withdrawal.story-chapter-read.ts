@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0080Chapter42TacticalWithdrawal = {
   story: "labyrinth-of-the-mad-god",
   position: 80,
   ownLength: 1548,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-23",
   externalIdentity: [
     {

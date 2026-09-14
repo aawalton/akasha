@@ -8,7 +8,7 @@ export const metaworldHopecore0107Chapter61JanuaryFriend = {
   story: "metaworld-hopecore",
   position: 107,
   ownLength: 3243,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-13",
   externalIdentity: [
     {

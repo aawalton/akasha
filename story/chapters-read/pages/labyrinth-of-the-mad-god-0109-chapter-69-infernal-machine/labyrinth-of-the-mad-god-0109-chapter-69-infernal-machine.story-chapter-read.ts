@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0109Chapter69InfernalMachine = {
   story: "labyrinth-of-the-mad-god",
   position: 109,
   ownLength: 1441,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-25",
   externalIdentity: [
     {

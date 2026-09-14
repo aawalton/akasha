@@ -7,7 +7,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0258Chapter747WordsMade
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 258,
   publishedAt: "2026-09-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

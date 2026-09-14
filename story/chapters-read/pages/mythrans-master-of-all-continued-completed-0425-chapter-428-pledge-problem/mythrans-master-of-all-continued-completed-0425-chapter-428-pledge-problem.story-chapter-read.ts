@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0425Chapter428PledgeProblem = 
   story: "mythrans-master-of-all-continued-completed",
   position: 425,
   ownLength: 3268,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0699Chapter698MorningSurprises
   story: "mythrans-master-of-all-continued-completed",
   position: 699,
   ownLength: 2922,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-12",
   externalIdentity: [
     {

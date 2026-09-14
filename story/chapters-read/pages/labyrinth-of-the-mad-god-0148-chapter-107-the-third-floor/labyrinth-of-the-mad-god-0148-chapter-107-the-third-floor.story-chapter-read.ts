@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0148Chapter107TheThirdFloor = {
   story: "labyrinth-of-the-mad-god",
   position: 148,
   ownLength: 1732,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-24",
   externalIdentity: [
     {

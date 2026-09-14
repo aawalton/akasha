@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0143Chapter157FireBad = {
   story: "mythrans-master-of-all-continued-completed",
   position: 143,
   ownLength: 4257,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-01",
   externalIdentity: [
     {

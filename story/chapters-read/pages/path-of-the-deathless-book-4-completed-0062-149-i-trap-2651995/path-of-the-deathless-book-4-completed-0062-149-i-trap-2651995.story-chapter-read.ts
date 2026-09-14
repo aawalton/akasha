@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0062149ITrap2651995 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 62,
   ownLength: 3349,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

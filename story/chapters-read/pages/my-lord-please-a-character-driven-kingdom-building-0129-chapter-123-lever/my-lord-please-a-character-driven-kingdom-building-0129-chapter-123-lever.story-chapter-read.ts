@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0129Chapter123Lever = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 129,
   ownLength: 2009,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

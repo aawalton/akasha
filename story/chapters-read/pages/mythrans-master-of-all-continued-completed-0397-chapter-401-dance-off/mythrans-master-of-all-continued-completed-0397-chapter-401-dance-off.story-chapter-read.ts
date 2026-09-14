@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0397Chapter401DanceOff = {
   story: "mythrans-master-of-all-continued-completed",
   position: 397,
   ownLength: 5242,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-25",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0312Chapter31JourneysEnd = {
   story: "labyrinth-of-the-mad-god",
   position: 312,
   ownLength: 1466,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-15",
   externalIdentity: [
     {

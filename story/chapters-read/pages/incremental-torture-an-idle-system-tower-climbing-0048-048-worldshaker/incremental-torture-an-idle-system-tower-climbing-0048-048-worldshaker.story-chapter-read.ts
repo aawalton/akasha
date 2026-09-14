@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0048048Worldshaker = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 48,
   ownLength: 1986,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-29",
   externalIdentity: [
     {

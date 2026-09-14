@@ -8,7 +8,7 @@ export const godOfTrash0356356HaltPayForYourCrimes = {
   story: "god-of-trash",
   position: 356,
   ownLength: 2096,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const librarySystemResetOverdueBookFourStubbed0008Chapter265NonethelessSt
   story: "library-system-reset-overdue-book-four-stubbed",
   position: 8,
   ownLength: 2207,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-25",
   externalIdentity: [
     {

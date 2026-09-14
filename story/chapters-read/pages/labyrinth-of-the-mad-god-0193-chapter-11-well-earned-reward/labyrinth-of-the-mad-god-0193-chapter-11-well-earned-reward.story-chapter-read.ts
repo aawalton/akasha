@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0193Chapter11WellEarnedReward = {
   story: "labyrinth-of-the-mad-god",
   position: 193,
   ownLength: 2061,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-09",
   externalIdentity: [
     {

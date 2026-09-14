@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0041Chapter41CityDeparture 
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 41,
   ownLength: 2002,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-05",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0080080YouCantTankThatEv
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 80,
   ownLength: 1601,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-15",
   externalIdentity: [
     {

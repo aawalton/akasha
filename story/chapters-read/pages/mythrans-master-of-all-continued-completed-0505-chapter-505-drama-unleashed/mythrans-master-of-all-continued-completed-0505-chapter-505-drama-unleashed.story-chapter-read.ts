@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0505Chapter505DramaUnleashed =
   story: "mythrans-master-of-all-continued-completed",
   position: 505,
   ownLength: 3082,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-08",
   externalIdentity: [
     {

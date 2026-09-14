@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0162186IiUdraalI2744289 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 162,
   ownLength: 3583,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

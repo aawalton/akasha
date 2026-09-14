@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0048Chapter44Familiarity
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 48,
   ownLength: 2343,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-27",
   externalIdentity: [
     {

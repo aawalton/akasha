@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0420Chapter423BuildMeABridge =
   story: "mythrans-master-of-all-continued-completed",
   position: 420,
   ownLength: 3671,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-16",
   externalIdentity: [
     {

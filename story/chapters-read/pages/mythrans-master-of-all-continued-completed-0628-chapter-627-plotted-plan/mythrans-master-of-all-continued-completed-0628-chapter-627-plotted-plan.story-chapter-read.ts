@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0628Chapter627PlottedPlan = {
   story: "mythrans-master-of-all-continued-completed",
   position: 628,
   ownLength: 2677,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-03",
   externalIdentity: [
     {

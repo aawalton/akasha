@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0281Chapter290SomethingForTomm
   story: "mythrans-master-of-all-continued-completed",
   position: 281,
   ownLength: 2953,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-25",
   externalIdentity: [
     {

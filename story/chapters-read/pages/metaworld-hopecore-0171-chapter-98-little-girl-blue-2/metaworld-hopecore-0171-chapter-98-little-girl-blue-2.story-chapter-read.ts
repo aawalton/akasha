@@ -8,7 +8,7 @@ export const metaworldHopecore0171Chapter98LittleGirlBlue2 = {
   story: "metaworld-hopecore",
   position: 171,
   ownLength: 2710,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-02",
   externalIdentity: [
     {

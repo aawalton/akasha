@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0121Chapter80ReadyToRoll = {
   story: "labyrinth-of-the-mad-god",
   position: 121,
   ownLength: 1723,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-20",
   externalIdentity: [
     {

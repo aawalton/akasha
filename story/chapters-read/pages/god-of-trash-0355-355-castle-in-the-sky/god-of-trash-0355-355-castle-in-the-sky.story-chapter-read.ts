@@ -8,7 +8,7 @@ export const godOfTrash0355355CastleInTheSky = {
   story: "god-of-trash",
   position: 355,
   ownLength: 2263,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-26",
   externalIdentity: [
     {

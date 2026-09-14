@@ -8,7 +8,7 @@ export const metaworldHopecore0117Chapter69Smile = {
   story: "metaworld-hopecore",
   position: 117,
   ownLength: 3446,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-28",
   externalIdentity: [
     {

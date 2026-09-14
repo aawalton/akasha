@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0781Chapter778RabbitRigmarole 
   story: "mythrans-master-of-all-continued-completed",
   position: 781,
   ownLength: 3149,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-29",
   externalIdentity: [
     {

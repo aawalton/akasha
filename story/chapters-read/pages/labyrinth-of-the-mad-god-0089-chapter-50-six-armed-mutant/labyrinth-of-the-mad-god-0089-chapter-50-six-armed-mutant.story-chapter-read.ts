@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0089Chapter50SixArmedMutant = {
   story: "labyrinth-of-the-mad-god",
   position: 89,
   ownLength: 1651,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-11",
   externalIdentity: [
     {

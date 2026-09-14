@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0091Chapter52CloseCall = {
   story: "labyrinth-of-the-mad-god",
   position: 91,
   ownLength: 1249,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-15",
   externalIdentity: [
     {

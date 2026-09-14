@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0044Chapter15SpecimenRefinement = {
   story: "labyrinth-of-the-mad-god",
   position: 44,
   ownLength: 1776,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-21",
   externalIdentity: [
     {

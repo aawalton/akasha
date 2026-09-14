@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0067Chapter32TheJanitor = {
   story: "labyrinth-of-the-mad-god",
   position: 67,
   ownLength: 1627,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-30",
   externalIdentity: [
     {

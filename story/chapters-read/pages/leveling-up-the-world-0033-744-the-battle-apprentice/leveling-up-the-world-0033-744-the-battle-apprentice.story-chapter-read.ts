@@ -9,7 +9,7 @@ export const levelingUpTheWorld0033744TheBattleApprentice = {
   position: 33,
   ownLength: 2202,
   ownProgress: 2202,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:41:18.279Z",
   publishedAt: "2023-05-15",
   externalIdentity: [

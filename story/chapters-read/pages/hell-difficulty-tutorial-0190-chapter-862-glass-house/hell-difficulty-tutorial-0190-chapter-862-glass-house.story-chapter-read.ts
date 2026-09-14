@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0190Chapter862GlassHouse = {
   story: "story-read/hell-difficulty-tutorial",
   position: 190,
   ownLength: 2194,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-17",
   externalIdentity: [
     {

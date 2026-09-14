@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0274Chapter283CleaningUp = {
   story: "mythrans-master-of-all-continued-completed",
   position: 274,
   ownLength: 3475,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-18",
   externalIdentity: [
     {

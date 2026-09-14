@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0412Chapter415TasteThis = {
   story: "mythrans-master-of-all-continued-completed",
   position: 412,
   ownLength: 3128,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-07",
   externalIdentity: [
     {

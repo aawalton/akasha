@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0057Chapter990MonstrousOnTheInside = {
   position: 57,
   ownLength: 2099,
   ownProgress: 269,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-06",
   externalIdentity: [
     {

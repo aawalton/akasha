@@ -9,7 +9,7 @@ export const melodyOfMana0166Chapter152DarkSky = {
   position: 166,
   ownLength: 1861,
   ownProgress: 1861,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:31:35.160Z",
   publishedAt: "2022-07-09",
   externalIdentity: [

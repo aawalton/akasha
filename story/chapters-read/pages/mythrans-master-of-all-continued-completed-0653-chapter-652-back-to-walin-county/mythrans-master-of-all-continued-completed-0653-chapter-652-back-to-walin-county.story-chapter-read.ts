@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0653Chapter652BackToWalinCount
   story: "mythrans-master-of-all-continued-completed",
   position: 653,
   ownLength: 2924,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-28",
   externalIdentity: [
     {

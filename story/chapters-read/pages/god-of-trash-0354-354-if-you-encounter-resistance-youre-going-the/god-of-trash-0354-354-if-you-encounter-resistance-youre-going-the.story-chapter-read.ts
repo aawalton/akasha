@@ -8,7 +8,7 @@ export const godOfTrash0354354IfYouEncounterResistanceYoureGoingThe = {
   story: "god-of-trash",
   position: 354,
   ownLength: 2180,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-24",
   externalIdentity: [
     {

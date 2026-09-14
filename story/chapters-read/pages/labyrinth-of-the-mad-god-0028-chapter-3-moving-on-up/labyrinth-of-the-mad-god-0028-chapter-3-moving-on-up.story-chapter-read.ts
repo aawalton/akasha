@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0028Chapter3MovingOnUp = {
   story: "labyrinth-of-the-mad-god",
   position: 28,
   ownLength: 1698,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-24",
   externalIdentity: [
     {

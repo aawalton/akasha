@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0167Chapter840AFleetingNuisance = {
   story: "story-read/hell-difficulty-tutorial",
   position: 167,
   ownLength: 4676,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-16",
   externalIdentity: [
     {

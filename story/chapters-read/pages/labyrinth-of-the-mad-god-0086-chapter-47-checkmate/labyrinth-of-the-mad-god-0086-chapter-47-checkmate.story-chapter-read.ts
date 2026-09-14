@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0086Chapter47Checkmate = {
   story: "labyrinth-of-the-mad-god",
   position: 86,
   ownLength: 1563,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-04",
   externalIdentity: [
     {

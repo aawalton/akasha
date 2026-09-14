@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0560Chapter560CookForMeBaby = 
   story: "mythrans-master-of-all-continued-completed",
   position: 560,
   ownLength: 2594,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-18",
   externalIdentity: [
     {

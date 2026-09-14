@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0501Chapter501TheWholePoint = 
   story: "mythrans-master-of-all-continued-completed",
   position: 501,
   ownLength: 3204,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-04",
   externalIdentity: [
     {

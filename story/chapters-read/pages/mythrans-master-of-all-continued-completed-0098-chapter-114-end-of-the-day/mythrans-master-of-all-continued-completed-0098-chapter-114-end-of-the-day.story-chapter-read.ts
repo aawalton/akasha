@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0098Chapter114EndOfTheDay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 98,
   ownLength: 5155,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-14",
   externalIdentity: [
     {

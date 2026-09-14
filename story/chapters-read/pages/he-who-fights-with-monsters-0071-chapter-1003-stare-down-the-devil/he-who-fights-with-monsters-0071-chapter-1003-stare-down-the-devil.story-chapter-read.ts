@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0071Chapter1003StareDownTheDevil = {
   story: "story-read/he-who-fights-with-monsters",
   position: 71,
   ownLength: 2945,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-05",
   externalIdentity: [
     {

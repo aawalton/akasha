@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0271Chapter88BonusObjective = {
   story: "labyrinth-of-the-mad-god",
   position: 271,
   ownLength: 1668,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-05",
   externalIdentity: [
     {

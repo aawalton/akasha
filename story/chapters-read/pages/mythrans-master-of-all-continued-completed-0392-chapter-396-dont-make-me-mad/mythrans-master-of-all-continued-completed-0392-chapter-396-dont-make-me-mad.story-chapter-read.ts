@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0392Chapter396DontMakeMeMad = 
   story: "mythrans-master-of-all-continued-completed",
   position: 392,
   ownLength: 3587,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-21",
   externalIdentity: [
     {

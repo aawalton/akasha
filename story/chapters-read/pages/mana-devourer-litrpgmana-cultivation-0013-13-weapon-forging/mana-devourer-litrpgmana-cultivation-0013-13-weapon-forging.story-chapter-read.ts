@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation001313WeaponForging = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 13,
   ownLength: 3703,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-03",
   externalIdentity: [
     {

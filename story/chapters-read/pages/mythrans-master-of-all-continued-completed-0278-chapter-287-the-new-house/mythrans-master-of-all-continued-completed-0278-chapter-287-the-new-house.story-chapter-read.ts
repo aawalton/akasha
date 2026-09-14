@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0278Chapter287TheNewHouse = {
   story: "mythrans-master-of-all-continued-completed",
   position: 278,
   ownLength: 3605,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-22",
   externalIdentity: [
     {

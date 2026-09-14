@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0035Chapter33Stranger = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 35,
   ownLength: 2151,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0156Chapter169NoJustNo = {
   story: "mythrans-master-of-all-continued-completed",
   position: 156,
   ownLength: 3405,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0706Chapter705ItsThatTimeAlrea
   story: "mythrans-master-of-all-continued-completed",
   position: 706,
   ownLength: 3062,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0191Chapter9FinishingMove = {
   story: "labyrinth-of-the-mad-god",
   position: 191,
   ownLength: 2228,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-04",
   externalIdentity: [
     {

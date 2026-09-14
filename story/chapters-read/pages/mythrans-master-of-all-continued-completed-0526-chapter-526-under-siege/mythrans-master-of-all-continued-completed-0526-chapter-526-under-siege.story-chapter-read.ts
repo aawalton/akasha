@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0526Chapter526UnderSiege = {
   story: "mythrans-master-of-all-continued-completed",
   position: 526,
   ownLength: 3228,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-05",
   externalIdentity: [
     {

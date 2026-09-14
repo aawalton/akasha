@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0174Chapter847TrailingTheBoys = {
   story: "story-read/hell-difficulty-tutorial",
   position: 174,
   ownLength: 2311,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

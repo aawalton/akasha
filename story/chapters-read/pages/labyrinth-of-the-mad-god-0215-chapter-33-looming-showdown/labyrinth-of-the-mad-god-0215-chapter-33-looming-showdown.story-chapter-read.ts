@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0215Chapter33LoomingShowdown = {
   story: "labyrinth-of-the-mad-god",
   position: 215,
   ownLength: 2450,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-29",
   externalIdentity: [
     {

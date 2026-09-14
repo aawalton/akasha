@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0085Chapter101ATasteOfStone = 
   story: "mythrans-master-of-all-continued-completed",
   position: 85,
   ownLength: 3684,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-01",
   externalIdentity: [
     {

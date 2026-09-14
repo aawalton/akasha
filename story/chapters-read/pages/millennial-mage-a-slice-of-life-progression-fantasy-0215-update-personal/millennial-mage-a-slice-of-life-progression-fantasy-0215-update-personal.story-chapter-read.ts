@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0215UpdatePersonal = {
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 215,
   ownLength: 146,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-16",
   externalIdentity: [
     {

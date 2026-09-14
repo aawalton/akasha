@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0090Chapter1020Adventurer = {
   story: "story-read/he-who-fights-with-monsters",
   position: 90,
   ownLength: 2641,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

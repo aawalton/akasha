@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0094Chapter769BoundTogether = {
   story: "story-read/hell-difficulty-tutorial",
   position: 94,
   ownLength: 2163,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-11",
   externalIdentity: [
     {

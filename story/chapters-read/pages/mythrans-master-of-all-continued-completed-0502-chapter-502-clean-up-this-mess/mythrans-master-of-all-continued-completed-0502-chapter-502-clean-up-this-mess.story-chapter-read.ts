@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0502Chapter502CleanUpThisMess 
   story: "mythrans-master-of-all-continued-completed",
   position: 502,
   ownLength: 3290,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-05",
   externalIdentity: [
     {

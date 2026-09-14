@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0345Chapter352CanYouResistChan
   story: "mythrans-master-of-all-continued-completed",
   position: 345,
   ownLength: 3645,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0041Chapter39Breach = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 41,
   ownLength: 2278,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-22",
   externalIdentity: [
     {

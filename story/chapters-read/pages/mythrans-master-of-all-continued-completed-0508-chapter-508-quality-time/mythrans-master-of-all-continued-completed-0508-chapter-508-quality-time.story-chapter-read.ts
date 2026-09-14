@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0508Chapter508QualityTime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 508,
   ownLength: 3427,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-11",
   externalIdentity: [
     {

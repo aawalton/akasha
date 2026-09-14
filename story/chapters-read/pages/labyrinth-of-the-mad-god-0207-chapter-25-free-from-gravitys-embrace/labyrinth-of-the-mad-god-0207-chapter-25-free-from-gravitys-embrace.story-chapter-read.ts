@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0207Chapter25FreeFromGravitysEmbrace = {
   story: "labyrinth-of-the-mad-god",
   position: 207,
   ownLength: 1774,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-11",
   externalIdentity: [
     {

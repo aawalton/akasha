@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0082RemainingBook13ChaptersBeingReleased = {
   story: "story-read/he-who-fights-with-monsters",
   position: 82,
   ownLength: 313,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-25",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0176Chapter849AgainstNyssaVolare = {
   story: "story-read/hell-difficulty-tutorial",
   position: 176,
   ownLength: 1938,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-29",
   externalIdentity: [
     {

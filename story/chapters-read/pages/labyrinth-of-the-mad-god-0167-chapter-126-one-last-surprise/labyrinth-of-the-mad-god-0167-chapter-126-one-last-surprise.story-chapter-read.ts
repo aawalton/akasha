@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0167Chapter126OneLastSurprise = {
   story: "labyrinth-of-the-mad-god",
   position: 167,
   ownLength: 2647,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-07",
   externalIdentity: [
     {

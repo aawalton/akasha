@@ -8,7 +8,7 @@ export const godOfTrash0357357AnticapitalistsIncorporated = {
   story: "god-of-trash",
   position: 357,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-30",
   externalIdentity: [
     {

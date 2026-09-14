@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0117Chapter792AdjustingTheObjective = {
   story: "story-read/hell-difficulty-tutorial",
   position: 117,
   ownLength: 2280,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-13",
   externalIdentity: [
     {

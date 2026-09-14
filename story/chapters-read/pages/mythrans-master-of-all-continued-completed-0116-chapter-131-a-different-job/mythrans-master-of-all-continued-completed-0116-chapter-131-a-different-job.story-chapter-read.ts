@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0116Chapter131ADifferentJob = 
   story: "mythrans-master-of-all-continued-completed",
   position: 116,
   ownLength: 4406,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-31",
   externalIdentity: [
     {

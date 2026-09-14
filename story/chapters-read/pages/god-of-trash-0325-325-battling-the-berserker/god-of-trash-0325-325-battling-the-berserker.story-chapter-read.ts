@@ -8,7 +8,7 @@ export const godOfTrash0325325BattlingTheBerserker = {
   story: "god-of-trash",
   position: 325,
   ownLength: 1947,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-17",
   externalIdentity: [
     {

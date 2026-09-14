@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0106Chapter121BuildingShelves 
   story: "mythrans-master-of-all-continued-completed",
   position: 106,
   ownLength: 4714,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-21",
   externalIdentity: [
     {

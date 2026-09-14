@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0524Chapter524IntoTheBreach = 
   story: "mythrans-master-of-all-continued-completed",
   position: 524,
   ownLength: 2580,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-28",
   externalIdentity: [
     {

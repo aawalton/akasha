@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0292Chapter301CastOff = {
   story: "mythrans-master-of-all-continued-completed",
   position: 292,
   ownLength: 3355,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-06",
   externalIdentity: [
     {

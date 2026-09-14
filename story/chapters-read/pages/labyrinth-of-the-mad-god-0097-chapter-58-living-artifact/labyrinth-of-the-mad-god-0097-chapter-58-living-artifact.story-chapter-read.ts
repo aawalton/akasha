@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0097Chapter58LivingArtifact = {
   story: "labyrinth-of-the-mad-god",
   position: 97,
   ownLength: 1624,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0169Chapter128BlightStoryIi = {
   story: "labyrinth-of-the-mad-god",
   position: 169,
   ownLength: 2611,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-12",
   externalIdentity: [
     {

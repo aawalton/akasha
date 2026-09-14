@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0032Chapter48NiceBoots = {
   story: "mythrans-master-of-all-continued-completed",
   position: 32,
   ownLength: 2218,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-11",
   externalIdentity: [
     {

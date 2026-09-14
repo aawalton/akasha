@@ -8,7 +8,7 @@ export const hellHorizonHealer0038Chapter38TwoSuns = {
   story: "hell-horizon-healer",
   position: 38,
   ownLength: 1579,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-10",
   externalIdentity: [
     {

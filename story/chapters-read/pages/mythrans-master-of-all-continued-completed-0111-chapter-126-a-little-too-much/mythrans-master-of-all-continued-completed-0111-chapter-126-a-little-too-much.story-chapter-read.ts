@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0111Chapter126ALittleTooMuch =
   story: "mythrans-master-of-all-continued-completed",
   position: 111,
   ownLength: 4947,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-27",
   externalIdentity: [
     {

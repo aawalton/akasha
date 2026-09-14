@@ -6,7 +6,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0191Chapter749WordsMade
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0191-chapter-749-words-made-real-4",
   position: 191,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

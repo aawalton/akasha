@@ -8,7 +8,7 @@ export const godOfTrash0344344MiracleWorker = {
   story: "god-of-trash",
   position: 344,
   ownLength: 2393,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0074Chapter749ShouldHaveExpectedThat = {
   story: "story-read/hell-difficulty-tutorial",
   position: 74,
   ownLength: 2294,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-11",
   externalIdentity: [
     {

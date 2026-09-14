@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0430Chapter433YouveGotThePower
   story: "mythrans-master-of-all-continued-completed",
   position: 430,
   ownLength: 3276,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-26",
   externalIdentity: [
     {

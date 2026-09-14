@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation004242Lexi = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 42,
   ownLength: 3671,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-01",
   externalIdentity: [
     {

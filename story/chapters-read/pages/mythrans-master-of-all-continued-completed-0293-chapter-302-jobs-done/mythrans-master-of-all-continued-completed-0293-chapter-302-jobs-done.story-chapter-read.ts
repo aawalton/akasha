@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0293Chapter302JobsDone = {
   story: "mythrans-master-of-all-continued-completed",
   position: 293,
   ownLength: 3445,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-07",
   externalIdentity: [
     {

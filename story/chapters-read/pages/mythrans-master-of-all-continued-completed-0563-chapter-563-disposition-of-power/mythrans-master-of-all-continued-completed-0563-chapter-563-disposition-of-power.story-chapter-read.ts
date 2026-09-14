@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0563Chapter563DispositionOfPow
   story: "mythrans-master-of-all-continued-completed",
   position: 563,
   ownLength: 3126,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-21",
   externalIdentity: [
     {

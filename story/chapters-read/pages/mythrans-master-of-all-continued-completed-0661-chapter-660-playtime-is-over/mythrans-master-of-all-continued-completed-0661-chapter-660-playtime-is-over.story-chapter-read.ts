@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0661Chapter660PlaytimeIsOver =
   story: "mythrans-master-of-all-continued-completed",
   position: 661,
   ownLength: 3272,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-06",
   externalIdentity: [
     {

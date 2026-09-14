@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0065Chapter740SticksAndStones = {
   story: "story-read/hell-difficulty-tutorial",
   position: 65,
   ownLength: 2115,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-29",
   externalIdentity: [
     {

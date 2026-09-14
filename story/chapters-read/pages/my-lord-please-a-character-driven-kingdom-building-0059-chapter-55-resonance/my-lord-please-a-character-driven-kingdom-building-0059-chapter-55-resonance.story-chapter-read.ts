@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0059Chapter55Resonance =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 59,
   ownLength: 1818,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

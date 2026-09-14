@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0534Chapter534BackInFullCapaci
   story: "mythrans-master-of-all-continued-completed",
   position: 534,
   ownLength: 2845,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-23",
   externalIdentity: [
     {

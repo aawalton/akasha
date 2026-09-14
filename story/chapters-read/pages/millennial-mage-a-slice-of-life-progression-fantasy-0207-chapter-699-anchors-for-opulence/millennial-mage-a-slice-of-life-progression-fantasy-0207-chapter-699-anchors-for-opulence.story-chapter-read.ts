@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0207Chapter699AnchorsFo
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 207,
   ownLength: 2989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-27",
   externalIdentity: [
     {

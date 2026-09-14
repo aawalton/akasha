@@ -6,7 +6,7 @@ export const godOfTrash0362362LookADistraction = {
   slug: "god-of-trash-0362-362-look-a-distraction",
   position: 362,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

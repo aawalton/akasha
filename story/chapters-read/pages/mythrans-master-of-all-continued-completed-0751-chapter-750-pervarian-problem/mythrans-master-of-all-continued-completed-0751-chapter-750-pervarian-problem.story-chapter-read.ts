@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0751Chapter750PervarianProblem
   story: "mythrans-master-of-all-continued-completed",
   position: 751,
   ownLength: 3973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-03",
   externalIdentity: [
     {

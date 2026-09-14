@@ -7,7 +7,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0132Chapter126Snare = {
   story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 132,
   publishedAt: "2026-09-06",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

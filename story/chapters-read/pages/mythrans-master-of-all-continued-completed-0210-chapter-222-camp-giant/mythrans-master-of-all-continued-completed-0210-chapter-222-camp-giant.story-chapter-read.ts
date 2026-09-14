@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0210Chapter222CampGiant = {
   story: "mythrans-master-of-all-continued-completed",
   position: 210,
   ownLength: 3774,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-12",
   externalIdentity: [
     {

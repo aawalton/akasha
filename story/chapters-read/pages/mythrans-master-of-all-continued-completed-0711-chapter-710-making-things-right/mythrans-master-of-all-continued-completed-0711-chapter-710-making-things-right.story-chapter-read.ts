@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0711Chapter710MakingThingsRigh
   story: "mythrans-master-of-all-continued-completed",
   position: 711,
   ownLength: 2989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-24",
   externalIdentity: [
     {

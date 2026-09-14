@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0163Chapter836LetsCheckOutTheSurface = {
   story: "story-read/hell-difficulty-tutorial",
   position: 163,
   ownLength: 2597,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-28",
   externalIdentity: [
     {

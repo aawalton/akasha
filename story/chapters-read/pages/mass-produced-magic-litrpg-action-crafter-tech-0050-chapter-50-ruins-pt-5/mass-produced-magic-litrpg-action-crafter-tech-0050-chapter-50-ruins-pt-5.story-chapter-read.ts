@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0050Chapter50RuinsPt5 = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 50,
   ownLength: 1941,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-23",
   externalIdentity: [
     {

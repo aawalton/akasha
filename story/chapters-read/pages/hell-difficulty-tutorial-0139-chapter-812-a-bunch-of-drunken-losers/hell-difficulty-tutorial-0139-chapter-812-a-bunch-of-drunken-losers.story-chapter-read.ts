@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0139Chapter812ABunchOfDrunkenLosers = {
   story: "story-read/hell-difficulty-tutorial",
   position: 139,
   ownLength: 2358,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

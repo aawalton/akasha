@@ -8,7 +8,7 @@ export const godOfTrash0314314MenInviteYouToTheirPrivateQuartersFor = {
   story: "god-of-trash",
   position: 314,
   ownLength: 1979,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0250Chapter68GuestLecture = {
   story: "labyrinth-of-the-mad-god",
   position: 250,
   ownLength: 1759,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-19",
   externalIdentity: [
     {

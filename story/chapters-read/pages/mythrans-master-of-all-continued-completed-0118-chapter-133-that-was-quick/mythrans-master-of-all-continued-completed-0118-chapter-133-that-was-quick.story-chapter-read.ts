@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0118Chapter133ThatWasQuick = {
   story: "mythrans-master-of-all-continued-completed",
   position: 118,
   ownLength: 3765,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-02",
   externalIdentity: [
     {

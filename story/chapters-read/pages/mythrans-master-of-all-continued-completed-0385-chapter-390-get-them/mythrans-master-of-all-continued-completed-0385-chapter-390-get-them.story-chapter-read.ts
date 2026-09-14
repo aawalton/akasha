@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0385Chapter390GetThem = {
   story: "mythrans-master-of-all-continued-completed",
   position: 385,
   ownLength: 3143,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-16",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0439Chapter440aMerryGoRoundExp
   story: "mythrans-master-of-all-continued-completed",
   position: 439,
   ownLength: 5245,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-04",
   externalIdentity: [
     {

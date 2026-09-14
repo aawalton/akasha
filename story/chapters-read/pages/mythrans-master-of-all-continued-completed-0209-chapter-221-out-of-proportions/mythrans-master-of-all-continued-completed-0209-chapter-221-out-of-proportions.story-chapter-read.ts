@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0209Chapter221OutOfProportions
   story: "mythrans-master-of-all-continued-completed",
   position: 209,
   ownLength: 3122,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-11",
   externalIdentity: [
     {

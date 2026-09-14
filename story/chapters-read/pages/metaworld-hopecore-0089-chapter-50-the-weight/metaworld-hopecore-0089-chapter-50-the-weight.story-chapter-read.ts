@@ -8,7 +8,7 @@ export const metaworldHopecore0089Chapter50TheWeight = {
   story: "metaworld-hopecore",
   position: 89,
   ownLength: 4326,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-28",
   externalIdentity: [
     {

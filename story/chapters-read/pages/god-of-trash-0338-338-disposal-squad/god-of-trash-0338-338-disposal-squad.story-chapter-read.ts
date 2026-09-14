@@ -8,7 +8,7 @@ export const godOfTrash0338338DisposalSquad = {
   story: "god-of-trash",
   position: 338,
   ownLength: 1895,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-17",
   externalIdentity: [
     {

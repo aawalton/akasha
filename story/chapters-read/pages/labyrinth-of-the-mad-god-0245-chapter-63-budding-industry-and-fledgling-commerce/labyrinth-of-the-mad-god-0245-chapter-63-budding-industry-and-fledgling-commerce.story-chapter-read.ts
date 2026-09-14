@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0245Chapter63BuddingIndustryAndFledglingCommerc
   story: "labyrinth-of-the-mad-god",
   position: 245,
   ownLength: 2097,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-07",
   externalIdentity: [
     {

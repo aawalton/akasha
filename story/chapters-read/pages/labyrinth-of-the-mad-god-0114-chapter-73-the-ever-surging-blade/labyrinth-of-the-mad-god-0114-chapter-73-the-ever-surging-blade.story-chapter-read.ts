@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0114Chapter73TheEverSurgingBlade = {
   story: "labyrinth-of-the-mad-god",
   position: 114,
   ownLength: 1518,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-03",
   externalIdentity: [
     {

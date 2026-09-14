@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0225Chapter236ABrokenPromise =
   story: "mythrans-master-of-all-continued-completed",
   position: 225,
   ownLength: 3397,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-26",
   externalIdentity: [
     {

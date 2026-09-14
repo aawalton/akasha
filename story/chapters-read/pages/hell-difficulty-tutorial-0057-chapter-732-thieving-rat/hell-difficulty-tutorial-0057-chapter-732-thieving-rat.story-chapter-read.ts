@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0057Chapter732ThievingRat = {
   story: "story-read/hell-difficulty-tutorial",
   position: 57,
   ownLength: 2219,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0429Chapter432YouveGotTheTouch
   story: "mythrans-master-of-all-continued-completed",
   position: 429,
   ownLength: 3909,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-25",
   externalIdentity: [
     {

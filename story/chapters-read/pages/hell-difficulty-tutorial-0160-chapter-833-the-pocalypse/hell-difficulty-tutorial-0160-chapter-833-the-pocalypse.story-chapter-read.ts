@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0160Chapter833ThePocalypse = {
   story: "story-read/hell-difficulty-tutorial",
   position: 160,
   ownLength: 2960,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-23",
   externalIdentity: [
     {

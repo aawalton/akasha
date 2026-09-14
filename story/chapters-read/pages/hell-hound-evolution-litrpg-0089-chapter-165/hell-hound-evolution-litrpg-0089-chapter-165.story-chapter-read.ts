@@ -7,7 +7,7 @@ export const hellHoundEvolutionLitrpg0089Chapter165 = {
   story: "story-read/hell-hound-evolution-litrpg",
   position: 89,
   publishedAt: "2026-09-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

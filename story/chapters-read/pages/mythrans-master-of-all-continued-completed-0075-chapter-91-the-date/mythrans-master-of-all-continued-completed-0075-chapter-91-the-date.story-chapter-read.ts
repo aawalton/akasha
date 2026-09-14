@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0075Chapter91TheDate = {
   story: "mythrans-master-of-all-continued-completed",
   position: 75,
   ownLength: 3305,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-22",
   externalIdentity: [
     {

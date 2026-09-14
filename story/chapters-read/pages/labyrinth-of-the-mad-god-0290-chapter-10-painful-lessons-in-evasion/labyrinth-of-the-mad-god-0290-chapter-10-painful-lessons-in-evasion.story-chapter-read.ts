@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0290Chapter10PainfulLessonsInEvasion = {
   story: "labyrinth-of-the-mad-god",
   position: 290,
   ownLength: 1986,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-06",
   externalIdentity: [
     {

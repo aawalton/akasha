@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0175Chapter848TheBoysVsTheWeirdAlbinoDemon = 
   story: "story-read/hell-difficulty-tutorial",
   position: 175,
   ownLength: 2661,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-28",
   externalIdentity: [
     {

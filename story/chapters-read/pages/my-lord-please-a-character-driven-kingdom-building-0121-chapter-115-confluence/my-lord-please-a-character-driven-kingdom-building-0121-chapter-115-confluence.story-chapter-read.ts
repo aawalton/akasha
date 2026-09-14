@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0121Chapter115Confluence
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 121,
   ownLength: 2109,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-17",
   externalIdentity: [
     {

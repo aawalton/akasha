@@ -8,7 +8,7 @@ export const newGam3Plus0007TheHallwayPt2 = {
   story: "new-gam3-plus",
   position: 7,
   ownLength: 4023,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

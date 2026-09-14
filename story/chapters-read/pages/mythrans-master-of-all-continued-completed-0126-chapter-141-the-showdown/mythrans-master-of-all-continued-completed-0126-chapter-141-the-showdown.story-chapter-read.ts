@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0126Chapter141TheShowdown = {
   story: "mythrans-master-of-all-continued-completed",
   position: 126,
   ownLength: 5108,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-10",
   externalIdentity: [
     {

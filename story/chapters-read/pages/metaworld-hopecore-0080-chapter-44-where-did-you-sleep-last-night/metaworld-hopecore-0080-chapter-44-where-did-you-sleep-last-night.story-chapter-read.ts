@@ -8,7 +8,7 @@ export const metaworldHopecore0080Chapter44WhereDidYouSleepLastNight = {
   story: "metaworld-hopecore",
   position: 80,
   ownLength: 3825,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-19",
   externalIdentity: [
     {

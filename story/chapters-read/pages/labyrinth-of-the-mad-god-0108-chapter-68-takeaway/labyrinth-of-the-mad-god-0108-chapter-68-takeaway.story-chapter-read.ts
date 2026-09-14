@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0108Chapter68Takeaway = {
   story: "labyrinth-of-the-mad-god",
   position: 108,
   ownLength: 1632,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0094Chapter55MagicBagCrafting = {
   story: "labyrinth-of-the-mad-god",
   position: 94,
   ownLength: 1372,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const newGam3Plus0013ToRecap = {
   story: "new-gam3-plus",
   position: 13,
   ownLength: 4731,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

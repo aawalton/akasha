@@ -8,7 +8,7 @@ export const hellHorizonHealer0027Chapter27FallenApe = {
   story: "hell-horizon-healer",
   position: 27,
   ownLength: 1526,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-30",
   externalIdentity: [
     {

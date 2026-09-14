@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0186Chapter4ItsGoodToBeHome = {
   story: "labyrinth-of-the-mad-god",
   position: 186,
   ownLength: 1833,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-23",
   externalIdentity: [
     {

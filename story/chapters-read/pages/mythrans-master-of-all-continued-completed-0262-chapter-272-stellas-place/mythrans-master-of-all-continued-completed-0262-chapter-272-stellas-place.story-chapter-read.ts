@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0262Chapter272StellasPlace = {
   story: "mythrans-master-of-all-continued-completed",
   position: 262,
   ownLength: 3462,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-05",
   externalIdentity: [
     {

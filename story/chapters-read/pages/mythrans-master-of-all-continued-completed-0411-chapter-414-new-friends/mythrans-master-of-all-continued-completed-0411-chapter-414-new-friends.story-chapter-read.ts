@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0411Chapter414NewFriends = {
   story: "mythrans-master-of-all-continued-completed",
   position: 411,
   ownLength: 3322,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0451Chapter451ABeaconOfLight =
   story: "mythrans-master-of-all-continued-completed",
   position: 451,
   ownLength: 3206,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-14",
   externalIdentity: [
     {

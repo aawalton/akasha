@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0047Chapter722WhatTheDoctorSaid = {
   story: "story-read/hell-difficulty-tutorial",
   position: 47,
   ownLength: 2145,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-05",
   externalIdentity: [
     {

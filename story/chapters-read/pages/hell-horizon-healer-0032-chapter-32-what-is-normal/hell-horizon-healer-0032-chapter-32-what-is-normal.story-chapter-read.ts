@@ -8,7 +8,7 @@ export const hellHorizonHealer0032Chapter32WhatIsNormal = {
   story: "hell-horizon-healer",
   position: 32,
   ownLength: 1395,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-24",
   externalIdentity: [
     {

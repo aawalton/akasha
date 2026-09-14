@@ -8,7 +8,7 @@ export const newGam3Plus0004KeepMovingForward = {
   story: "new-gam3-plus",
   position: 4,
   ownLength: 2486,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

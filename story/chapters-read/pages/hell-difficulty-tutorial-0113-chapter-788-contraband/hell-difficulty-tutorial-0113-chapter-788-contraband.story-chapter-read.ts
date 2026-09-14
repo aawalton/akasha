@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0113Chapter788Contraband = {
   story: "story-read/hell-difficulty-tutorial",
   position: 113,
   ownLength: 2939,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-07",
   externalIdentity: [
     {

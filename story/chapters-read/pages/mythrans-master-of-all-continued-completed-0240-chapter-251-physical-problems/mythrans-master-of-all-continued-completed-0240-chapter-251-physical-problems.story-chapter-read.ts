@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0240Chapter251PhysicalProblems
   story: "mythrans-master-of-all-continued-completed",
   position: 240,
   ownLength: 4850,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-11",
   externalIdentity: [
     {

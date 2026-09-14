@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0477Chapter477NewArrangements 
   story: "mythrans-master-of-all-continued-completed",
   position: 477,
   ownLength: 3454,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-09",
   externalIdentity: [
     {

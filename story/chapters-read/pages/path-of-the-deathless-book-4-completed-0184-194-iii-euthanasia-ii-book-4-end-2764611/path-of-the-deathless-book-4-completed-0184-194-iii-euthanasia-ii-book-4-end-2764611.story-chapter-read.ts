@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0184194IiiEuthanasiaIiBook4End27646
   story: "path-of-the-deathless-book-4-completed",
   position: 184,
   ownLength: 3233,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

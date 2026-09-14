@@ -8,7 +8,7 @@ export const metaworldHopecore0163Chapter94AHardRainsAGonnaFall2 = {
   story: "metaworld-hopecore",
   position: 163,
   ownLength: 2172,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-23",
   externalIdentity: [
     {

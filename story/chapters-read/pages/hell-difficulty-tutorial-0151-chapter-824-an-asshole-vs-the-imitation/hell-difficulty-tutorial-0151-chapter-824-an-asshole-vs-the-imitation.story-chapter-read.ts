@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0151Chapter824AnAssholeVsTheImitation = {
   story: "story-read/hell-difficulty-tutorial",
   position: 151,
   ownLength: 2298,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

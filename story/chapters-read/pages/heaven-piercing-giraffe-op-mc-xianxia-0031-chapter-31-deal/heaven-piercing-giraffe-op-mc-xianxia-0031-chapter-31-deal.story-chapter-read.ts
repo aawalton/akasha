@@ -6,7 +6,7 @@ export const heavenPiercingGiraffeOpMcXianxia0031Chapter31Deal = {
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0031-chapter-31-deal",
   position: 31,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

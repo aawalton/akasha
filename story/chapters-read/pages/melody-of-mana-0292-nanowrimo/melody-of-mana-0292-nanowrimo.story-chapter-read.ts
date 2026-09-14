@@ -9,7 +9,7 @@ export const melodyOfMana0292Nanowrimo = {
   position: 292,
   ownLength: 177,
   ownProgress: 177,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:35:54.958Z",
   publishedAt: "2023-10-21",
   externalIdentity: [

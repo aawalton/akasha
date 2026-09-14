@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0197Chapter15Bladewind = {
   story: "labyrinth-of-the-mad-god",
   position: 197,
   ownLength: 2433,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-18",
   externalIdentity: [
     {

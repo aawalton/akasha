@@ -8,7 +8,7 @@ export const justAddMana0141138Book3Chapter37AlchemyLessons = {
   story: "just-add-mana",
   position: 141,
   ownLength: 2783,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-21",
   externalIdentity: [
     {

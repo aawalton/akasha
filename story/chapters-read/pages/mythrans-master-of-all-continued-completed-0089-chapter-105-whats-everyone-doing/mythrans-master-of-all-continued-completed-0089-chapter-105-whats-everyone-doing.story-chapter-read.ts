@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0089Chapter105WhatsEveryoneDoi
   story: "mythrans-master-of-all-continued-completed",
   position: 89,
   ownLength: 3137,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-05",
   externalIdentity: [
     {

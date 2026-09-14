@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0450Chapter450STheSStandsForSp
   story: "mythrans-master-of-all-continued-completed",
   position: 450,
   ownLength: 2020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-13",
   externalIdentity: [
     {

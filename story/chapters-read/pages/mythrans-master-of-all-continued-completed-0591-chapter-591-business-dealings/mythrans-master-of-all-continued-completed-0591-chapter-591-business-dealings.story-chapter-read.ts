@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0591Chapter591BusinessDealings
   story: "mythrans-master-of-all-continued-completed",
   position: 591,
   ownLength: 2946,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-19",
   externalIdentity: [
     {

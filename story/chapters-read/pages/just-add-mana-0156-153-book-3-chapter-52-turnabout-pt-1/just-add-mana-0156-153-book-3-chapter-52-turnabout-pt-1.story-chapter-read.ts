@@ -8,7 +8,7 @@ export const justAddMana0156153Book3Chapter52TurnaboutPt1 = {
   story: "just-add-mana",
   position: 156,
   ownLength: 3311,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-25",
   externalIdentity: [
     {

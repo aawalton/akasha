@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0265Chapter275FoodForThought =
   story: "mythrans-master-of-all-continued-completed",
   position: 265,
   ownLength: 3375,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-08",
   externalIdentity: [
     {

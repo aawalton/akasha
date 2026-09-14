@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0316Chapter324OnTheShore = {
   story: "mythrans-master-of-all-continued-completed",
   position: 316,
   ownLength: 3227,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-07",
   externalIdentity: [
     {

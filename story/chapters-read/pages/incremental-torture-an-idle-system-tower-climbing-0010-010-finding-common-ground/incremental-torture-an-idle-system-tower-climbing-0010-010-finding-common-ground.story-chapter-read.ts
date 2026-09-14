@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0010010FindingCommonGrou
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 10,
   ownLength: 2087,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-07",
   externalIdentity: [
     {

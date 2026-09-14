@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0267Chapter276aPolicePlayExpli
   story: "mythrans-master-of-all-continued-completed",
   position: 267,
   ownLength: 1944,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-12",
   externalIdentity: [
     {

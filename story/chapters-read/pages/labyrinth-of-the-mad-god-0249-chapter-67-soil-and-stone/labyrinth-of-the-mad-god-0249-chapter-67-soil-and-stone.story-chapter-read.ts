@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0249Chapter67SoilAndStone = {
   story: "labyrinth-of-the-mad-god",
   position: 249,
   ownLength: 2015,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-17",
   externalIdentity: [
     {

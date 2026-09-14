@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0016Chapter15Fracture = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 16,
   ownLength: 2509,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-31",
   externalIdentity: [
     {

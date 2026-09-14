@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0695Chapter694GardenPartyWindi
   story: "mythrans-master-of-all-continued-completed",
   position: 695,
   ownLength: 2967,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-08",
   externalIdentity: [
     {

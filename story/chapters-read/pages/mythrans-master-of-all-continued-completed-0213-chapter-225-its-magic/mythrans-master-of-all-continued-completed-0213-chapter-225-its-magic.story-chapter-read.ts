@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0213Chapter225ItsMagic = {
   story: "mythrans-master-of-all-continued-completed",
   position: 213,
   ownLength: 4581,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-15",
   externalIdentity: [
     {

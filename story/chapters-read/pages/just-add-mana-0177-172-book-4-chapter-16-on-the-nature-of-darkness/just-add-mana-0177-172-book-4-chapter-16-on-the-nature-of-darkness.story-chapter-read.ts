@@ -8,7 +8,7 @@ export const justAddMana0177172Book4Chapter16OnTheNatureOfDarkness = {
   story: "just-add-mana",
   position: 177,
   ownLength: 3173,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0033Chapter31Commitment 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 33,
   ownLength: 2422,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-15",
   externalIdentity: [
     {

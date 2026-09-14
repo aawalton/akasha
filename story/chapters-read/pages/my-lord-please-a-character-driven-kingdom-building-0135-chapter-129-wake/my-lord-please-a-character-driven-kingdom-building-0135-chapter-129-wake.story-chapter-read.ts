@@ -6,7 +6,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0135Chapter129Wake = {
   slug: "my-lord-please-a-character-driven-kingdom-building-0135-chapter-129-wake",
   position: 135,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

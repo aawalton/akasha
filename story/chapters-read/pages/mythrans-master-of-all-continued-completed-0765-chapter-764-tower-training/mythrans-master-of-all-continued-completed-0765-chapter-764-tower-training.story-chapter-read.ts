@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0765Chapter764TowerTraining = 
   story: "mythrans-master-of-all-continued-completed",
   position: 765,
   ownLength: 3219,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-17",
   externalIdentity: [
     {

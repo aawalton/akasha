@@ -8,7 +8,7 @@ export const markOfTheFool0030AnnouncementAudioIsOutTodayForBook10OfMarkOfTheF =
   story: "story-read/mark-of-the-fool",
   position: 30,
   ownLength: 130,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-18",
   externalIdentity: [
     {

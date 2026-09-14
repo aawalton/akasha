@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0122Chapter81TheSecondFloor = {
   story: "labyrinth-of-the-mad-god",
   position: 122,
   ownLength: 1425,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-22",
   externalIdentity: [
     {

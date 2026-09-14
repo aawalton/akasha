@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0471Chapter471PartyTimeContinu
   story: "mythrans-master-of-all-continued-completed",
   position: 471,
   ownLength: 3234,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-03",
   externalIdentity: [
     {

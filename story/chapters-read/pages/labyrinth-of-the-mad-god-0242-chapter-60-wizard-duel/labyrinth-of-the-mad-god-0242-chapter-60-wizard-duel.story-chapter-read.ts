@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0242Chapter60WizardDuel = {
   story: "labyrinth-of-the-mad-god",
   position: 242,
   ownLength: 1504,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-31",
   externalIdentity: [
     {

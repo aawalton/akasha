@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0313Chapter32IntoTheBreech = {
   story: "labyrinth-of-the-mad-god",
   position: 313,
   ownLength: 2468,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-18",
   externalIdentity: [
     {

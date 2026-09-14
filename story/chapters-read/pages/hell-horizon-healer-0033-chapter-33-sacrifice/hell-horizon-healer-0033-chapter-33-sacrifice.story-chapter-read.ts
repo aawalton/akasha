@@ -8,7 +8,7 @@ export const hellHorizonHealer0033Chapter33Sacrifice = {
   story: "hell-horizon-healer",
   position: 33,
   ownLength: 1634,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-29",
   externalIdentity: [
     {

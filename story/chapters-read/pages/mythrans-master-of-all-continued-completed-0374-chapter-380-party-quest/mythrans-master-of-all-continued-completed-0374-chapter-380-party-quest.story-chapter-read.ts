@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0374Chapter380PartyQuest = {
   story: "mythrans-master-of-all-continued-completed",
   position: 374,
   ownLength: 3345,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-09",
   externalIdentity: [
     {

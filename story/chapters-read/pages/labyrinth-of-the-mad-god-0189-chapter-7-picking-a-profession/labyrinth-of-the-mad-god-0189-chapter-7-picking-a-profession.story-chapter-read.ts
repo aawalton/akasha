@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0189Chapter7PickingAProfession = {
   story: "labyrinth-of-the-mad-god",
   position: 189,
   ownLength: 1949,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-30",
   externalIdentity: [
     {

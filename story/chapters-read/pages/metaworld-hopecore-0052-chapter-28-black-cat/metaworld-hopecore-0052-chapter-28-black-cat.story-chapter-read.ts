@@ -8,7 +8,7 @@ export const metaworldHopecore0052Chapter28BlackCat = {
   story: "metaworld-hopecore",
   position: 52,
   ownLength: 2118,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0286Chapter295AHastyRetreat = 
   story: "mythrans-master-of-all-continued-completed",
   position: 286,
   ownLength: 4210,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-30",
   externalIdentity: [
     {

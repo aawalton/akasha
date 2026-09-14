@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0561Chapter561IHopeYouLearnedS
   story: "mythrans-master-of-all-continued-completed",
   position: 561,
   ownLength: 2555,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-19",
   externalIdentity: [
     {

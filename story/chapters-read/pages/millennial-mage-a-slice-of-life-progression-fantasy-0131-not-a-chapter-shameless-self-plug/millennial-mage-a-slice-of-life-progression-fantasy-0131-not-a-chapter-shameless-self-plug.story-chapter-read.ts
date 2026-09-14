@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0131NotAChapterShameles
   position: 131,
   ownLength: 69,
   ownProgress: 69,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:41:37.780Z",
   publishedAt: "2025-10-30",
   externalIdentity: [

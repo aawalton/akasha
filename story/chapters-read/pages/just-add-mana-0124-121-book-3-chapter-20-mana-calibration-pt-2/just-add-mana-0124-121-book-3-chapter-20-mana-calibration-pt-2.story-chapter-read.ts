@@ -8,7 +8,7 @@ export const justAddMana0124121Book3Chapter20ManaCalibrationPt2 = {
   story: "just-add-mana",
   position: 124,
   ownLength: 3247,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-11",
   externalIdentity: [
     {

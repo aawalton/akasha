@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0406Chapter409ShargonCaverns =
   story: "mythrans-master-of-all-continued-completed",
   position: 406,
   ownLength: 3558,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-01",
   externalIdentity: [
     {

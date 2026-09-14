@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0228Chapter239FillHerUp = {
   story: "mythrans-master-of-all-continued-completed",
   position: 228,
   ownLength: 3112,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0152Chapter89TheKidsAreAlright = {
   story: "metaworld-hopecore",
   position: 152,
   ownLength: 2992,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-11",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0065Chapter31TheGreatGarbageWar = {
   story: "labyrinth-of-the-mad-god",
   position: 65,
   ownLength: 1605,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-27",
   externalIdentity: [
     {

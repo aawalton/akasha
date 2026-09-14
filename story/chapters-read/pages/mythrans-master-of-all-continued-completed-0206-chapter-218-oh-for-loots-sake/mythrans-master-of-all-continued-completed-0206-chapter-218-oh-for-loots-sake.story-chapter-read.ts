@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0206Chapter218OhForLootsSake =
   story: "mythrans-master-of-all-continued-completed",
   position: 206,
   ownLength: 5968,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-08",
   externalIdentity: [
     {

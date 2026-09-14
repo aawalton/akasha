@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0168Chapter841KeepYourselfTogether = {
   story: "story-read/hell-difficulty-tutorial",
   position: 168,
   ownLength: 2530,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-19",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const motherOfLearning008787AgentsOfTheCrown = {
   position: 87,
   ownLength: 7727,
   ownProgress: 7727,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:49:23.423Z",
   publishedAt: "2019-01-16",
   externalIdentity: [

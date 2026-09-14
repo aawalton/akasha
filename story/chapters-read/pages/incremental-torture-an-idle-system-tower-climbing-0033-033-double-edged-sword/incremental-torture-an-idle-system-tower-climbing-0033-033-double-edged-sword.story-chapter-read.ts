@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0033033DoubleEdgedSword 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 33,
   ownLength: 2242,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-04",
   externalIdentity: [
     {

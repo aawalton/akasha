@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0515Chapter515OneSoulForTheRoa
   story: "mythrans-master-of-all-continued-completed",
   position: 515,
   ownLength: 3078,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-18",
   externalIdentity: [
     {

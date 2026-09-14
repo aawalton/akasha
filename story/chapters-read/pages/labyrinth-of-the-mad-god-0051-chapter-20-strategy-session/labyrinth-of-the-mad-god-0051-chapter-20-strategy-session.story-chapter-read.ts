@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0051Chapter20StrategySession = {
   story: "labyrinth-of-the-mad-god",
   position: 51,
   ownLength: 1643,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0769Chapter768MakingTheRounds 
   story: "mythrans-master-of-all-continued-completed",
   position: 769,
   ownLength: 3404,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-20",
   externalIdentity: [
     {

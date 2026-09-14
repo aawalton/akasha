@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0476Chapter476GhoulGrinding = 
   story: "mythrans-master-of-all-continued-completed",
   position: 476,
   ownLength: 3096,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-08",
   externalIdentity: [
     {

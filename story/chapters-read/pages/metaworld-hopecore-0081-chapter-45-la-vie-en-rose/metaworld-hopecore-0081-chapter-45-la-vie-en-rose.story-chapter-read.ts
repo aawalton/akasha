@@ -8,7 +8,7 @@ export const metaworldHopecore0081Chapter45LaVieEnRose = {
   story: "metaworld-hopecore",
   position: 81,
   ownLength: 3737,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-21",
   externalIdentity: [
     {

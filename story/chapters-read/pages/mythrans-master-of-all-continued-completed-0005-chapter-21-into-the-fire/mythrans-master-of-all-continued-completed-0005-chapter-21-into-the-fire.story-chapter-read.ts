@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0005Chapter21IntoTheFire = {
   story: "mythrans-master-of-all-continued-completed",
   position: 5,
   ownLength: 3081,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-08",
   externalIdentity: [
     {

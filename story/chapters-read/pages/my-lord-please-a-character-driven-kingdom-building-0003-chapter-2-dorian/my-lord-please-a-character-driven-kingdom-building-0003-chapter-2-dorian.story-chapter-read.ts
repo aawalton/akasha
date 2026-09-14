@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0003Chapter2Dorian = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 3,
   ownLength: 2045,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-25",
   externalIdentity: [
     {

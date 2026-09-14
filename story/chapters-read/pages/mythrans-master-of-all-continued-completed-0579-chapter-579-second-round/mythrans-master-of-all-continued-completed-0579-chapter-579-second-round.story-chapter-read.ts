@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0579Chapter579SecondRound = {
   story: "mythrans-master-of-all-continued-completed",
   position: 579,
   ownLength: 2686,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0252Chapter262CraftingGalore =
   story: "mythrans-master-of-all-continued-completed",
   position: 252,
   ownLength: 4168,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-26",
   externalIdentity: [
     {

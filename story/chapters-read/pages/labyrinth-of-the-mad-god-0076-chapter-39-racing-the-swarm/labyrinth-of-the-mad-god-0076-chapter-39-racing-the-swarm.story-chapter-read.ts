@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0076Chapter39RacingTheSwarm = {
   story: "labyrinth-of-the-mad-god",
   position: 76,
   ownLength: 1590,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-16",
   externalIdentity: [
     {

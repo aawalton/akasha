@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0180Chapter192CongratulationsI
   story: "mythrans-master-of-all-continued-completed",
   position: 180,
   ownLength: 3503,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0088Chapter763JustAsILikeIt = {
   story: "story-read/hell-difficulty-tutorial",
   position: 88,
   ownLength: 2483,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0039Chapter714TheGraySun = {
   story: "story-read/hell-difficulty-tutorial",
   position: 39,
   ownLength: 2204,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-17",
   externalIdentity: [
     {

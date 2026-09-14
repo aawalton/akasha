@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0151Chapter165ForThePeople = {
   story: "mythrans-master-of-all-continued-completed",
   position: 151,
   ownLength: 2995,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-09",
   externalIdentity: [
     {

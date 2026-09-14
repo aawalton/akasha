@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0030Chapter46TheGift = {
   story: "mythrans-master-of-all-continued-completed",
   position: 30,
   ownLength: 2821,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-09",
   externalIdentity: [
     {

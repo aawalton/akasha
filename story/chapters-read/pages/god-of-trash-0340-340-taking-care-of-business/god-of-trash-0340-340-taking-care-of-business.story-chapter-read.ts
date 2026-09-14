@@ -8,7 +8,7 @@ export const godOfTrash0340340TakingCareOfBusiness = {
   story: "god-of-trash",
   position: 340,
   ownLength: 2022,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-22",
   externalIdentity: [
     {

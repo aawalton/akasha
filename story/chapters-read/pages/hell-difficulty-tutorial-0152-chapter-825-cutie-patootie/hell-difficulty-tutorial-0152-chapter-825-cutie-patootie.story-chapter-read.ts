@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0152Chapter825CutiePatootie = {
   story: "story-read/hell-difficulty-tutorial",
   position: 152,
   ownLength: 2400,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-11",
   externalIdentity: [
     {

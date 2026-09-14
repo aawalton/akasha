@@ -8,7 +8,7 @@ export const godOfTrash0351351BabyImAFirework = {
   story: "god-of-trash",
   position: 351,
   ownLength: 2177,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-17",
   externalIdentity: [
     {

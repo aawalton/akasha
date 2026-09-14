@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0003003TheChallengerAwai
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 3,
   ownLength: 2075,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-03-22",
   externalIdentity: [
     {

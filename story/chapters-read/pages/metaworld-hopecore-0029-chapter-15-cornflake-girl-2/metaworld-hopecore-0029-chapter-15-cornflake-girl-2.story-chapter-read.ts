@@ -8,7 +8,7 @@ export const metaworldHopecore0029Chapter15CornflakeGirl2 = {
   story: "metaworld-hopecore",
   position: 29,
   ownLength: 2360,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

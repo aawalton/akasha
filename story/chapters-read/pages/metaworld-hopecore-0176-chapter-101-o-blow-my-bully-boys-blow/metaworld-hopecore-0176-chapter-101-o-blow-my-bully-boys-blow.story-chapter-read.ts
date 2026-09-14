@@ -6,7 +6,7 @@ export const metaworldHopecore0176Chapter101OBlowMyBullyBoysBlow = {
   slug: "metaworld-hopecore-0176-chapter-101-o-blow-my-bully-boys-blow",
   position: 176,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

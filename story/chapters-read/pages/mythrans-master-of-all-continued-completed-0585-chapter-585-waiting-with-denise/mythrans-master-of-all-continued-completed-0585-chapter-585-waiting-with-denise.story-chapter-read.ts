@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0585Chapter585WaitingWithDenis
   story: "mythrans-master-of-all-continued-completed",
   position: 585,
   ownLength: 2682,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-13",
   externalIdentity: [
     {

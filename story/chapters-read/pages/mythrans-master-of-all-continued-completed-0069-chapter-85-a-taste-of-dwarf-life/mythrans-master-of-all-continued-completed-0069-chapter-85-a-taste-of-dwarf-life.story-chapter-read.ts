@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0069Chapter85ATasteOfDwarfLife
   story: "mythrans-master-of-all-continued-completed",
   position: 69,
   ownLength: 4933,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-17",
   externalIdentity: [
     {

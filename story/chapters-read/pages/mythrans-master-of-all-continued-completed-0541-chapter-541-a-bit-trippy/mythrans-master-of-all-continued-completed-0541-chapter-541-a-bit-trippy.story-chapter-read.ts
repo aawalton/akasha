@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0541Chapter541ABitTrippy = {
   story: "mythrans-master-of-all-continued-completed",
   position: 541,
   ownLength: 2622,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-30",
   externalIdentity: [
     {

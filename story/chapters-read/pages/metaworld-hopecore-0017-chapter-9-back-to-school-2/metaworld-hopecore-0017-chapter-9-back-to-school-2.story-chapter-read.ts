@@ -8,7 +8,7 @@ export const metaworldHopecore0017Chapter9BackToSchool2 = {
   story: "metaworld-hopecore",
   position: 17,
   ownLength: 2021,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

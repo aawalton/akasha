@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation003636Calm = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 36,
   ownLength: 3265,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-26",
   externalIdentity: [
     {

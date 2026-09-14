@@ -8,7 +8,7 @@ export const newGam3Plus0008FriendOrFoe = {
   story: "new-gam3-plus",
   position: 8,
   ownLength: 2478,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0238Chapter728Stalemate
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 238,
   ownLength: 2596,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-20",
   externalIdentity: [
     {

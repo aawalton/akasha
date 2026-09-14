@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0152Chapter165aMaamYesMaamExpl
   story: "mythrans-master-of-all-continued-completed",
   position: 152,
   ownLength: 2628,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-10",
   externalIdentity: [
     {

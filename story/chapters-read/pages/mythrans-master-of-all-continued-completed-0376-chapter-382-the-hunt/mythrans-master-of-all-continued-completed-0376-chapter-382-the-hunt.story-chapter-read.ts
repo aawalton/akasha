@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0376Chapter382TheHunt = {
   story: "mythrans-master-of-all-continued-completed",
   position: 376,
   ownLength: 3611,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-09",
   externalIdentity: [
     {

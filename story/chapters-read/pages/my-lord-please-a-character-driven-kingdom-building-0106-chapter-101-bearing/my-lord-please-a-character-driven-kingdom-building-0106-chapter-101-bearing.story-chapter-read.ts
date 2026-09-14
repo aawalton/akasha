@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0106Chapter101Bearing = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 106,
   ownLength: 2197,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-22",
   externalIdentity: [
     {

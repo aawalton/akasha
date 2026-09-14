@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0533Chapter533ImFine = {
   story: "mythrans-master-of-all-continued-completed",
   position: 533,
   ownLength: 2841,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0644Chapter643MarketShare = {
   story: "mythrans-master-of-all-continued-completed",
   position: 644,
   ownLength: 3250,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-19",
   externalIdentity: [
     {

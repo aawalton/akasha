@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0143Chapter816AnAmbush = {
   story: "story-read/hell-difficulty-tutorial",
   position: 143,
   ownLength: 2087,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-31",
   externalIdentity: [
     {

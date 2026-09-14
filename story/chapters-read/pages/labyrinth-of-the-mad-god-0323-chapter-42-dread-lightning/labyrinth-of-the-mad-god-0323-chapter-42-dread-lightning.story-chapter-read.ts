@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0323Chapter42DreadLightning = {
   story: "labyrinth-of-the-mad-god",
   position: 323,
   ownLength: 1878,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-29",
   externalIdentity: [
     {

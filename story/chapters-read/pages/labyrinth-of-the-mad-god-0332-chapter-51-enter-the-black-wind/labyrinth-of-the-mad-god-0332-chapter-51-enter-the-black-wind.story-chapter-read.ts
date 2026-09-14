@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0332Chapter51EnterTheBlackWind = {
   story: "labyrinth-of-the-mad-god",
   position: 332,
   ownLength: 2088,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

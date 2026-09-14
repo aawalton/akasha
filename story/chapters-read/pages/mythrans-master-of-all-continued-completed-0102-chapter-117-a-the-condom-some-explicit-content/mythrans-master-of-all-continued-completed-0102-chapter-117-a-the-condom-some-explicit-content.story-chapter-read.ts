@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0102Chapter117ATheCondomSomeEx
   story: "mythrans-master-of-all-continued-completed",
   position: 102,
   ownLength: 1670,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-17",
   externalIdentity: [
     {

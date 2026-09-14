@@ -9,7 +9,7 @@ export const melodyOfMana0184Chapter170ExploringTheRuin = {
   position: 184,
   ownLength: 1548,
   ownProgress: 1548,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:32:11.954Z",
   publishedAt: "2022-09-15",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const hellHorizonHealer0026Chapter26ApesTogetherStrong = {
   story: "hell-horizon-healer",
   position: 26,
   ownLength: 1550,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-29",
   externalIdentity: [
     {

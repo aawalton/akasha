@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0029Chapter704YouCameToTheWrongNeighborhood =
   story: "story-read/hell-difficulty-tutorial",
   position: 29,
   ownLength: 2624,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-03",
   externalIdentity: [
     {

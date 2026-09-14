@@ -8,7 +8,7 @@ export const metaworldHopecore0115Chapter67AmIWrong = {
   story: "metaworld-hopecore",
   position: 115,
   ownLength: 2967,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-25",
   externalIdentity: [
     {

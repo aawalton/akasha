@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0641Chapter640AllThatSheWants 
   story: "mythrans-master-of-all-continued-completed",
   position: 641,
   ownLength: 2734,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-16",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0054Chapter729PrimordialKnightMorwag = {
   story: "story-read/hell-difficulty-tutorial",
   position: 54,
   ownLength: 2220,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-14",
   externalIdentity: [
     {

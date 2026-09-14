@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0734Chapter733DuelDilemma = {
   story: "mythrans-master-of-all-continued-completed",
   position: 734,
   ownLength: 3160,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-17",
   externalIdentity: [
     {

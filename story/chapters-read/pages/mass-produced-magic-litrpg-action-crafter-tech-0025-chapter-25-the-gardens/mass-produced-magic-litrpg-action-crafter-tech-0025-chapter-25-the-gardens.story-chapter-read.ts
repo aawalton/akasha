@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0025Chapter25TheGardens = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 25,
   ownLength: 2032,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-08",
   externalIdentity: [
     {

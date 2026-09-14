@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0162Chapter121MenVersusMachine = {
   story: "labyrinth-of-the-mad-god",
   position: 162,
   ownLength: 1636,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-25",
   externalIdentity: [
     {

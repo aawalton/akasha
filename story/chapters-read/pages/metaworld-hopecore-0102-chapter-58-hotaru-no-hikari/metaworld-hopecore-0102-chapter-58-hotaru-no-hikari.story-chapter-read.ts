@@ -8,7 +8,7 @@ export const metaworldHopecore0102Chapter58HotaruNoHikari = {
   story: "metaworld-hopecore",
   position: 102,
   ownLength: 2348,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-07",
   externalIdentity: [
     {

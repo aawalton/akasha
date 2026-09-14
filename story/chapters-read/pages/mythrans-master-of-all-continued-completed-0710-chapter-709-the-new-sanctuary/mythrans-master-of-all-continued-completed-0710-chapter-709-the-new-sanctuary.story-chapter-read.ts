@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0710Chapter709TheNewSanctuary 
   story: "mythrans-master-of-all-continued-completed",
   position: 710,
   ownLength: 3506,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-23",
   externalIdentity: [
     {

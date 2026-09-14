@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0035Chapter51Surprise = {
   story: "mythrans-master-of-all-continued-completed",
   position: 35,
   ownLength: 3456,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-14",
   externalIdentity: [
     {

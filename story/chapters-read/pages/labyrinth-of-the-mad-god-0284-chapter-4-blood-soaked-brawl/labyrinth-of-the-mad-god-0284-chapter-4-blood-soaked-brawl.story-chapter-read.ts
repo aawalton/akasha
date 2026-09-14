@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0284Chapter4BloodSoakedBrawl = {
   story: "labyrinth-of-the-mad-god",
   position: 284,
   ownLength: 2608,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-13",
   externalIdentity: [
     {

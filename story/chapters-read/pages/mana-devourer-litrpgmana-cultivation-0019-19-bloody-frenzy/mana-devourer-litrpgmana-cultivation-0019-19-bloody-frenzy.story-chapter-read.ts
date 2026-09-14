@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation001919BloodyFrenzy = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 19,
   ownLength: 3037,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-09",
   externalIdentity: [
     {

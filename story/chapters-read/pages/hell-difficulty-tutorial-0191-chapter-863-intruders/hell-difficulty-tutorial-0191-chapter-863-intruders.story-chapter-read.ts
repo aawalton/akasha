@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0191Chapter863Intruders = {
   story: "story-read/hell-difficulty-tutorial",
   position: 191,
   ownLength: 2442,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-18",
   externalIdentity: [
     {

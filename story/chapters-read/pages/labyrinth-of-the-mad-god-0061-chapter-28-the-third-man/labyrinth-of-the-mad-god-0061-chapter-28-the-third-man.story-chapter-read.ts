@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0061Chapter28TheThirdMan = {
   story: "labyrinth-of-the-mad-god",
   position: 61,
   ownLength: 1831,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-20",
   externalIdentity: [
     {

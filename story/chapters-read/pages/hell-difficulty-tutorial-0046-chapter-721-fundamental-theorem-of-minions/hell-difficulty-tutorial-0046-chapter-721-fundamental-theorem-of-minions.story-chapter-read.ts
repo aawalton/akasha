@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0046Chapter721FundamentalTheoremOfMinions = {
   story: "story-read/hell-difficulty-tutorial",
   position: 46,
   ownLength: 2448,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-04",
   externalIdentity: [
     {

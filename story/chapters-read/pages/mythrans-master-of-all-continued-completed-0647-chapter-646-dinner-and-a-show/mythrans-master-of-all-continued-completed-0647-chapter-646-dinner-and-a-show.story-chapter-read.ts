@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0647Chapter646DinnerAndAShow =
   story: "mythrans-master-of-all-continued-completed",
   position: 647,
   ownLength: 3222,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-22",
   externalIdentity: [
     {

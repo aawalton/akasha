@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0026BookThreeChapter1TheTrueTower = {
   story: "labyrinth-of-the-mad-god",
   position: 26,
   ownLength: 1606,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-20",
   externalIdentity: [
     {

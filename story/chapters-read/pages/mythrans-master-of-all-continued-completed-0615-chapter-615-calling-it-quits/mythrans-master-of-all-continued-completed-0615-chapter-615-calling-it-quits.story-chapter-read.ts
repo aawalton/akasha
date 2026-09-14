@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0615Chapter615CallingItQuits =
   story: "mythrans-master-of-all-continued-completed",
   position: 615,
   ownLength: 2849,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-21",
   externalIdentity: [
     {

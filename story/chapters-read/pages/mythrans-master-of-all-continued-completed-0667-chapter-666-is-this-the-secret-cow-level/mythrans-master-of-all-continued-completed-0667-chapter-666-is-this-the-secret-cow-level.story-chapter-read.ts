@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0667Chapter666IsThisTheSecretC
   story: "mythrans-master-of-all-continued-completed",
   position: 667,
   ownLength: 5524,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-11",
   externalIdentity: [
     {

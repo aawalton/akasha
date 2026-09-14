@@ -8,7 +8,7 @@ export const markOfTheFool0022MarkOfTheFoolAnnouncementLightNovelsDelayedToDuePa
   story: "story-read/mark-of-the-fool",
   position: 22,
   ownLength: 85,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-03",
   externalIdentity: [
     {

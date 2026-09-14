@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0282Chapter291PutABowOnIt = {
   story: "mythrans-master-of-all-continued-completed",
   position: 282,
   ownLength: 3168,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0787Chapter784OldBen = {
   story: "mythrans-master-of-all-continued-completed",
   position: 787,
   ownLength: 3682,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-12-05",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0022Chapter21Bend = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 22,
   ownLength: 3465,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-04",
   externalIdentity: [
     {

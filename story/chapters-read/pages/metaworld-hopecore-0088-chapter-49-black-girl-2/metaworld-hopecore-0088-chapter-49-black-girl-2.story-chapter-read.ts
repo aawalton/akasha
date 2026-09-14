@@ -8,7 +8,7 @@ export const metaworldHopecore0088Chapter49BlackGirl2 = {
   story: "metaworld-hopecore",
   position: 88,
   ownLength: 3142,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-26",
   externalIdentity: [
     {

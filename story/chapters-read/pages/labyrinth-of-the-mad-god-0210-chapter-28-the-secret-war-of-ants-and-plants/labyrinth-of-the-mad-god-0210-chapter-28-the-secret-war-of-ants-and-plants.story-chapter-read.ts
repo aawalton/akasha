@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0210Chapter28TheSecretWarOfAntsAndPlants = {
   story: "labyrinth-of-the-mad-god",
   position: 210,
   ownLength: 1961,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-18",
   externalIdentity: [
     {

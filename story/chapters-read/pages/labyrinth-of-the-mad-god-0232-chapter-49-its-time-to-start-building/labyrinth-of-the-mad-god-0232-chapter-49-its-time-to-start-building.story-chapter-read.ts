@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0232Chapter49ItsTimeToStartBuilding = {
   story: "labyrinth-of-the-mad-god",
   position: 232,
   ownLength: 2568,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-06",
   externalIdentity: [
     {

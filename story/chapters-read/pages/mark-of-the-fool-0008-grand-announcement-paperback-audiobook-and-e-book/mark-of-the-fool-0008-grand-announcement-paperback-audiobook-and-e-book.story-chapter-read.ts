@@ -9,7 +9,7 @@ export const markOfTheFool0008GrandAnnouncementPaperbackAudiobookAndEBook = {
   position: 8,
   ownLength: 287,
   ownProgress: 206,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-23",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const melodyOfMana0164Chapter150IntoTheHorizon = {
   position: 164,
   ownLength: 2039,
   ownProgress: 2039,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:31:30.884Z",
   publishedAt: "2022-07-01",
   externalIdentity: [

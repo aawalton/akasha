@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0424Chapter427Kamikaze = {
   story: "mythrans-master-of-all-continued-completed",
   position: 424,
   ownLength: 3228,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-20",
   externalIdentity: [
     {

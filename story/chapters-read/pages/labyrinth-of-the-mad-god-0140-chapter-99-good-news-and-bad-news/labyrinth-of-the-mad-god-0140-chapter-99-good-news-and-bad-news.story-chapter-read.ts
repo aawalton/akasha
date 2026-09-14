@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0140Chapter99GoodNewsAndBadNews = {
   story: "labyrinth-of-the-mad-god",
   position: 140,
   ownLength: 1760,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-05",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0201Chapter19CharismaConundrum = {
   story: "labyrinth-of-the-mad-god",
   position: 201,
   ownLength: 2336,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0216Chapter34BattlefieldTour = {
   story: "labyrinth-of-the-mad-god",
   position: 216,
   ownLength: 2463,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-01",
   externalIdentity: [
     {

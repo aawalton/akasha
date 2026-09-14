@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0161Chapter173LetMeDrive = {
   story: "mythrans-master-of-all-continued-completed",
   position: 161,
   ownLength: 4862,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-17",
   externalIdentity: [
     {

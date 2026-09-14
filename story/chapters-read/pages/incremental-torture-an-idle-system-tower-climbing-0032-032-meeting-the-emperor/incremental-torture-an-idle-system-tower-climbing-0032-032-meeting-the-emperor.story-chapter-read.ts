@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0032032MeetingTheEmperor
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 32,
   ownLength: 2066,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-03",
   externalIdentity: [
     {

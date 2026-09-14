@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0175Chapter134DarkMoment = {
   story: "labyrinth-of-the-mad-god",
   position: 175,
   ownLength: 3993,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-26",
   externalIdentity: [
     {

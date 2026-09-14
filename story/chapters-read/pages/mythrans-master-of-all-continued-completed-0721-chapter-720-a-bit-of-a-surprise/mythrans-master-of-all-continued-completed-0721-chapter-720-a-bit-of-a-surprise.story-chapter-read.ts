@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0721Chapter720ABitOfASurprise 
   story: "mythrans-master-of-all-continued-completed",
   position: 721,
   ownLength: 2846,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-04",
   externalIdentity: [
     {

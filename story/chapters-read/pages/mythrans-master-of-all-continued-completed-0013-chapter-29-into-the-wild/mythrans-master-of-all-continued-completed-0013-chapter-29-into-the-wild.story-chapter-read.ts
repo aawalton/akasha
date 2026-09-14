@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0013Chapter29IntoTheWild = {
   story: "mythrans-master-of-all-continued-completed",
   position: 13,
   ownLength: 2891,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-17",
   externalIdentity: [
     {

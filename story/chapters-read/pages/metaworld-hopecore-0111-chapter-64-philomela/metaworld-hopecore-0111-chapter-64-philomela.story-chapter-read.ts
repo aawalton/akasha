@@ -8,7 +8,7 @@ export const metaworldHopecore0111Chapter64Philomela = {
   story: "metaworld-hopecore",
   position: 111,
   ownLength: 4050,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-20",
   externalIdentity: [
     {

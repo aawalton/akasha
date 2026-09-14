@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0076Chapter92OhBabyExplicitCon
   story: "mythrans-master-of-all-continued-completed",
   position: 76,
   ownLength: 2170,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-23",
   externalIdentity: [
     {

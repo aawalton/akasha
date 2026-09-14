@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation002828Locked = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 28,
   ownLength: 2747,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-18",
   externalIdentity: [
     {

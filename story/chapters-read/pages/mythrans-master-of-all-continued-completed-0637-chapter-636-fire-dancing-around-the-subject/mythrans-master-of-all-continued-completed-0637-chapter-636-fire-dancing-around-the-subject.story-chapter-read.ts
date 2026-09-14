@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0637Chapter636FireDancingAroun
   story: "mythrans-master-of-all-continued-completed",
   position: 637,
   ownLength: 2624,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-12",
   externalIdentity: [
     {

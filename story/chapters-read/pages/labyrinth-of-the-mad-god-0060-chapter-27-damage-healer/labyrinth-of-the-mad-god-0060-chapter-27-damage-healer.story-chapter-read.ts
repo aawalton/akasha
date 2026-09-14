@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0060Chapter27DamageHealer = {
   story: "labyrinth-of-the-mad-god",
   position: 60,
   ownLength: 1924,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-18",
   externalIdentity: [
     {

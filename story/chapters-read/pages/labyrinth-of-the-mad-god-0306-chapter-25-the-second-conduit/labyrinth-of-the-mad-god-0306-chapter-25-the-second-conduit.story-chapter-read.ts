@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0306Chapter25TheSecondConduit = {
   story: "labyrinth-of-the-mad-god",
   position: 306,
   ownLength: 2301,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-24",
   externalIdentity: [
     {

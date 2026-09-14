@@ -8,7 +8,7 @@ export const metaworldHopecore0092Chapter52MothToAFlame = {
   story: "metaworld-hopecore",
   position: 92,
   ownLength: 2320,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-30",
   externalIdentity: [
     {

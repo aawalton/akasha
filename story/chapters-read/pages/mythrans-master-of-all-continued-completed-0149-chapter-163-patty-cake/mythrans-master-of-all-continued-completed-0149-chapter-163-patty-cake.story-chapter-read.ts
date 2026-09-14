@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0149Chapter163PattyCake = {
   story: "mythrans-master-of-all-continued-completed",
   position: 149,
   ownLength: 3689,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-07",
   externalIdentity: [
     {

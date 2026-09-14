@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0201Chapter873Contingencies = {
   story: "story-read/hell-difficulty-tutorial",
   position: 201,
   ownLength: 2212,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-01",
   externalIdentity: [
     {

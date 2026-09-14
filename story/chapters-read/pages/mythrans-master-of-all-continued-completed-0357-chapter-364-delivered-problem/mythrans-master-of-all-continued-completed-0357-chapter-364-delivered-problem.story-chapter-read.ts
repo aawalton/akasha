@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0357Chapter364DeliveredProblem
   story: "mythrans-master-of-all-continued-completed",
   position: 357,
   ownLength: 3741,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-22",
   externalIdentity: [
     {

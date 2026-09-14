@@ -6,7 +6,7 @@ export const hellDifficultyTutorial0208Chapter880IKnewYouWouldDoThat = {
   slug: "hell-difficulty-tutorial-0208-chapter-880-i-knew-you-would-do-that",
   position: 208,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

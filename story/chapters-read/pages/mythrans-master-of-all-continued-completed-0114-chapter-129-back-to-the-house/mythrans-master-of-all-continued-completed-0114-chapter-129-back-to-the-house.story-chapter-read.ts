@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0114Chapter129BackToTheHouse =
   story: "mythrans-master-of-all-continued-completed",
   position: 114,
   ownLength: 2766,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0319Chapter38BuildingAGlobalSociety2 = {
   story: "labyrinth-of-the-mad-god",
   position: 319,
   ownLength: 1952,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-08",
   externalIdentity: [
     {

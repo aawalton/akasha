@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0056UpdateBook9Cityboun
   position: 56,
   ownLength: 73,
   ownProgress: 73,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:37:05.546Z",
   publishedAt: "2025-04-28",
   externalIdentity: [

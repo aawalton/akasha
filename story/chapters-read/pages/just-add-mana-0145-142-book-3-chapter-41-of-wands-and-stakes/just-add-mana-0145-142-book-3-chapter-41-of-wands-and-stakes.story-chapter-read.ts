@@ -8,7 +8,7 @@ export const justAddMana0145142Book3Chapter41OfWandsAndStakes = {
   story: "just-add-mana",
   position: 145,
   ownLength: 2887,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-30",
   externalIdentity: [
     {

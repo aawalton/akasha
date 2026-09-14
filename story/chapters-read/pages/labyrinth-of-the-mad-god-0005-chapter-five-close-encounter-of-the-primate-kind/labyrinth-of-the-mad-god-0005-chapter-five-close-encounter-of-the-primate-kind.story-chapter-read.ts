@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0005ChapterFiveCloseEncounterOfThePrimateKind =
   story: "labyrinth-of-the-mad-god",
   position: 5,
   ownLength: 1599,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-03",
   externalIdentity: [
     {

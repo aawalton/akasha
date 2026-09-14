@@ -8,7 +8,7 @@ export const metaworldHopecore0086Chapter48YouAreMyLife2 = {
   story: "metaworld-hopecore",
   position: 86,
   ownLength: 2000,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

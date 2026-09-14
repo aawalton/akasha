@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0731Chapter730CuddleSecrets = 
   story: "mythrans-master-of-all-continued-completed",
   position: 731,
   ownLength: 2923,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-14",
   externalIdentity: [
     {

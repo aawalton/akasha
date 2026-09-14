@@ -8,7 +8,7 @@ export const metaworldHopecore0094Chapter53KissWithAFist = {
   story: "metaworld-hopecore",
   position: 94,
   ownLength: 3071,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-01",
   externalIdentity: [
     {

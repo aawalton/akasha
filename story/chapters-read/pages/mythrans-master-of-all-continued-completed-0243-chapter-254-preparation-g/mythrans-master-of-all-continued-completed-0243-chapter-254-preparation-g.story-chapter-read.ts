@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0243Chapter254PreparationG = {
   story: "mythrans-master-of-all-continued-completed",
   position: 243,
   ownLength: 4298,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-18",
   externalIdentity: [
     {

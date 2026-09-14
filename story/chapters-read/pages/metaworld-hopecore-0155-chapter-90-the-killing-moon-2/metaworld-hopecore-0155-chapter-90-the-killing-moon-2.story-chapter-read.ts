@@ -8,7 +8,7 @@ export const metaworldHopecore0155Chapter90TheKillingMoon2 = {
   story: "metaworld-hopecore",
   position: 155,
   ownLength: 3767,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0035Chapter19LadyStardust = {
   story: "metaworld-hopecore",
   position: 35,
   ownLength: 2394,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0170Chapter129TheWarForNickHenry = {
   story: "labyrinth-of-the-mad-god",
   position: 170,
   ownLength: 1441,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-12",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0361Chapter368AGoodDay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 361,
   ownLength: 5162,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-25",
   externalIdentity: [
     {

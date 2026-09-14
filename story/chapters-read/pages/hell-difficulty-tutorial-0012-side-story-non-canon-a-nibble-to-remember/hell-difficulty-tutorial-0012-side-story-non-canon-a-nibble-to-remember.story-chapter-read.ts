@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0012SideStoryNonCanonANibbleToRemember = {
   story: "story-read/hell-difficulty-tutorial",
   position: 12,
   ownLength: 1072,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-06-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0251Chapter69WelcomeHome = {
   story: "labyrinth-of-the-mad-god",
   position: 251,
   ownLength: 2867,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-22",
   externalIdentity: [
     {

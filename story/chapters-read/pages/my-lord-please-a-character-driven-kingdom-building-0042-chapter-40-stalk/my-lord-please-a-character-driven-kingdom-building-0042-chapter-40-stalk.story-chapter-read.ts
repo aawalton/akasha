@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0042Chapter40Stalk = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 42,
   ownLength: 1959,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-23",
   externalIdentity: [
     {

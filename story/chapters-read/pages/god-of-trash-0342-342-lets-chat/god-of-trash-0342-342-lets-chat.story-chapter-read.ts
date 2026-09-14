@@ -8,7 +8,7 @@ export const godOfTrash0342342LetsChat = {
   story: "god-of-trash",
   position: 342,
   ownLength: 2299,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

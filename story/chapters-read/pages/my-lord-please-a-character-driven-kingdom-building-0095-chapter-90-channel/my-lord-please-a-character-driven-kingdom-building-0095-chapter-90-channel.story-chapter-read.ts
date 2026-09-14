@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0095Chapter90Channel = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 95,
   ownLength: 2062,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

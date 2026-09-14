@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0046Maps = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 46,
   ownLength: 101,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-27",
   externalIdentity: [
     {

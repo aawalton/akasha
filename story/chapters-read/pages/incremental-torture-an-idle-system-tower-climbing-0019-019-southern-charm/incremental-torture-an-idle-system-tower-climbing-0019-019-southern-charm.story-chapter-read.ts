@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0019019SouthernCharm = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 19,
   ownLength: 2163,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-18",
   externalIdentity: [
     {

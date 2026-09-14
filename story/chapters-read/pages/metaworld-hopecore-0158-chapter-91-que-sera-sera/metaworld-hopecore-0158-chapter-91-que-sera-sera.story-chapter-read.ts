@@ -8,7 +8,7 @@ export const metaworldHopecore0158Chapter91QueSeraSera = {
   story: "metaworld-hopecore",
   position: 158,
   ownLength: 6501,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-15",
   externalIdentity: [
     {

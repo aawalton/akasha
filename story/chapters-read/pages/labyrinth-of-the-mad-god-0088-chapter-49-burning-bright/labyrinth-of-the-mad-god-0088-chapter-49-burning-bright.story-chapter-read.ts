@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0088Chapter49BurningBright = {
   story: "labyrinth-of-the-mad-god",
   position: 88,
   ownLength: 1993,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-08",
   externalIdentity: [
     {

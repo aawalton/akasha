@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0507Chapter507ClubOfHearts = {
   story: "mythrans-master-of-all-continued-completed",
   position: 507,
   ownLength: 3773,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const markOfTheFool0017FoolRelatedAnnouncementMarkOfTheFool8OutInEbookAn 
   story: "story-read/mark-of-the-fool",
   position: 17,
   ownLength: 173,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-18",
   externalIdentity: [
     {

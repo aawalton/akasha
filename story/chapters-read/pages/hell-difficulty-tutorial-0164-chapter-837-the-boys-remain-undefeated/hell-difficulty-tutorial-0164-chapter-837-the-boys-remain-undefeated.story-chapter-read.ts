@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0164Chapter837TheBoysRemainUndefeated = {
   story: "story-read/hell-difficulty-tutorial",
   position: 164,
   ownLength: 2471,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-29",
   externalIdentity: [
     {

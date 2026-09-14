@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0190Chapter8MagicArmorAndArcaneShield = {
   story: "labyrinth-of-the-mad-god",
   position: 190,
   ownLength: 2683,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-02",
   externalIdentity: [
     {

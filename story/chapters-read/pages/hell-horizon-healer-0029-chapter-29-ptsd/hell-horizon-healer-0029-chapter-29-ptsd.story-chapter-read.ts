@@ -9,7 +9,7 @@ export const hellHorizonHealer0029Chapter29Ptsd = {
   position: 29,
   ownLength: 1782,
   ownProgress: 181,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-02",
   externalIdentity: [
     {

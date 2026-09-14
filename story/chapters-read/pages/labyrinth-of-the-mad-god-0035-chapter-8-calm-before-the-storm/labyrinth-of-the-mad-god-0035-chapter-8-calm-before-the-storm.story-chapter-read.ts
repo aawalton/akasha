@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0035Chapter8CalmBeforeTheStorm = {
   story: "labyrinth-of-the-mad-god",
   position: 35,
   ownLength: 1815,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-05",
   externalIdentity: [
     {

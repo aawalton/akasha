@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0010Chapter10TheIslandAboveRamzanSe
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 10,
   ownLength: 1810,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

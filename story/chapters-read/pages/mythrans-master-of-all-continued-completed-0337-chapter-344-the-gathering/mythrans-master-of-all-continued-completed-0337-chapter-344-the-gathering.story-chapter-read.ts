@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0337Chapter344TheGathering = {
   story: "mythrans-master-of-all-continued-completed",
   position: 337,
   ownLength: 3026,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-27",
   externalIdentity: [
     {

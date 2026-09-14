@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0564Chapter564EnhanceYourCalm 
   story: "mythrans-master-of-all-continued-completed",
   position: 564,
   ownLength: 2747,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0127Chapter142FireGood = {
   story: "mythrans-master-of-all-continued-completed",
   position: 127,
   ownLength: 2910,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-11",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0077Book2Chapter2 = {
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0077-book-2-chapter-2",
   position: 77,
   publishedAt: "2026-09-12",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

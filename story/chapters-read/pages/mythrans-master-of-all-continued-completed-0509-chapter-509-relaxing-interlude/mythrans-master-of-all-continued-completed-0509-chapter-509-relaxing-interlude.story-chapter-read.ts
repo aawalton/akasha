@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0509Chapter509RelaxingInterlud
   story: "mythrans-master-of-all-continued-completed",
   position: 509,
   ownLength: 3326,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-12",
   externalIdentity: [
     {

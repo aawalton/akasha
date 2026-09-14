@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0200Chapter18Voidbear = {
   story: "labyrinth-of-the-mad-god",
   position: 200,
   ownLength: 3151,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-25",
   externalIdentity: [
     {

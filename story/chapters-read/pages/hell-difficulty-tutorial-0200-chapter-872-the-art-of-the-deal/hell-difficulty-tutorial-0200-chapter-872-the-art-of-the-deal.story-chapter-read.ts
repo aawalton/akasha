@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0200Chapter872TheArtOfTheDeal = {
   story: "story-read/hell-difficulty-tutorial",
   position: 200,
   ownLength: 2510,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

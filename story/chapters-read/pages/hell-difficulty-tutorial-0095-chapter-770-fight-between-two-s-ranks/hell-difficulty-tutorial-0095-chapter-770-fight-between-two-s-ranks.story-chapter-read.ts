@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0095Chapter770FightBetweenTwoSRanks = {
   story: "story-read/hell-difficulty-tutorial",
   position: 95,
   ownLength: 2481,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-12",
   externalIdentity: [
     {

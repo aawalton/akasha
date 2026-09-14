@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0084Chapter46ItsATrap = {
   story: "labyrinth-of-the-mad-god",
   position: 84,
   ownLength: 1845,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-01",
   externalIdentity: [
     {

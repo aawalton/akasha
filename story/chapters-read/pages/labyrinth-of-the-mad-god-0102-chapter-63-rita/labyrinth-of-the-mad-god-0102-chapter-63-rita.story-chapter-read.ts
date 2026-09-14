@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0102Chapter63Rita = {
   story: "labyrinth-of-the-mad-god",
   position: 102,
   ownLength: 1472,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-11",
   externalIdentity: [
     {

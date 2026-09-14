@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0003ChapterThreeIntegration = {
   story: "labyrinth-of-the-mad-god",
   position: 3,
   ownLength: 2319,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0068Chapter33KellensStory = {
   story: "labyrinth-of-the-mad-god",
   position: 68,
   ownLength: 1773,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0263Chapter80MetalAndMana = {
   story: "labyrinth-of-the-mad-god",
   position: 263,
   ownLength: 1715,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0081Chapter43Shapeshifter = {
   story: "labyrinth-of-the-mad-god",
   position: 81,
   ownLength: 1708,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-25",
   externalIdentity: [
     {

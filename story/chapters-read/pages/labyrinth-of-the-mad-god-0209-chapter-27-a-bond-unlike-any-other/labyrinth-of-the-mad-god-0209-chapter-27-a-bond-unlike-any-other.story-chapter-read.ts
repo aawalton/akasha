@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0209Chapter27ABondUnlikeAnyOther = {
   story: "labyrinth-of-the-mad-god",
   position: 209,
   ownLength: 2057,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-15",
   externalIdentity: [
     {

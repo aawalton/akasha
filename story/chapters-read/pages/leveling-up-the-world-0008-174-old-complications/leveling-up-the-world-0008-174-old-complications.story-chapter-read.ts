@@ -9,7 +9,7 @@ export const levelingUpTheWorld0008174OldComplications = {
   position: 8,
   ownLength: 3078,
   ownProgress: 3078,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:40:24.172Z",
   publishedAt: "2021-06-24",
   externalIdentity: [

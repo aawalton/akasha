@@ -8,7 +8,7 @@ export const godOfTrash0316316ImGoingToBeatUpYourGrandpa = {
   story: "god-of-trash",
   position: 316,
   ownLength: 1919,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-27",
   externalIdentity: [
     {

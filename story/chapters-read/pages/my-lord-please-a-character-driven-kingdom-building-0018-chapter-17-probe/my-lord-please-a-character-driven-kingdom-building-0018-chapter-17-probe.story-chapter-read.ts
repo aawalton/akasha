@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0018Chapter17Probe = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 18,
   ownLength: 2046,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-02",
   externalIdentity: [
     {

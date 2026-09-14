@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0125Chapter84HardDayLongNight = {
   story: "labyrinth-of-the-mad-god",
   position: 125,
   ownLength: 1554,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0110Chapter125ThereSheIs = {
   story: "mythrans-master-of-all-continued-completed",
   position: 110,
   ownLength: 8691,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0248Chapter66TrialOfMastery = {
   story: "labyrinth-of-the-mad-god",
   position: 248,
   ownLength: 2582,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-14",
   externalIdentity: [
     {

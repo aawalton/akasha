@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0138Chapter97CrashCourse = {
   story: "labyrinth-of-the-mad-god",
   position: 138,
   ownLength: 1687,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-28",
   externalIdentity: [
     {

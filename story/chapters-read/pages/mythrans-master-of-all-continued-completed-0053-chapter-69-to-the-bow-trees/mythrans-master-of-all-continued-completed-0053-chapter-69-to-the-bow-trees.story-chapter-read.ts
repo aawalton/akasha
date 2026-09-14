@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0053Chapter69ToTheBowTrees = {
   story: "mythrans-master-of-all-continued-completed",
   position: 53,
   ownLength: 2809,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-01",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0007ChapterSevenFightOrFlight = {
   story: "labyrinth-of-the-mad-god",
   position: 7,
   ownLength: 3468,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0174Chapter133ItOnlyGetsHarderFromHere = {
   story: "labyrinth-of-the-mad-god",
   position: 174,
   ownLength: 1809,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-23",
   externalIdentity: [
     {

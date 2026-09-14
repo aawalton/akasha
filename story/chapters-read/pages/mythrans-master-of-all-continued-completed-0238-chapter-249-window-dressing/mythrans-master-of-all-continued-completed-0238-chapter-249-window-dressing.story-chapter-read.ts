@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0238Chapter249WindowDressing =
   story: "mythrans-master-of-all-continued-completed",
   position: 238,
   ownLength: 3921,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-09",
   externalIdentity: [
     {

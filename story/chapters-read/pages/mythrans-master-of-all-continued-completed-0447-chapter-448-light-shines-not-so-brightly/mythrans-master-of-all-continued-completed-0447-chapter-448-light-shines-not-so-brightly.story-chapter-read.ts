@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0447Chapter448LightShinesNotSo
   story: "mythrans-master-of-all-continued-completed",
   position: 447,
   ownLength: 3337,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-11",
   externalIdentity: [
     {

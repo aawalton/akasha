@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0080Chapter1011JoinMeAndTogetherWeCouldRuleT
   story: "story-read/he-who-fights-with-monsters",
   position: 80,
   ownLength: 2537,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-26",
   externalIdentity: [
     {

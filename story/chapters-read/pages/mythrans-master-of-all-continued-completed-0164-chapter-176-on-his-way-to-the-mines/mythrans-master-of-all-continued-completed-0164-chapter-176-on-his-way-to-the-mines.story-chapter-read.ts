@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0164Chapter176OnHisWayToTheMin
   story: "mythrans-master-of-all-continued-completed",
   position: 164,
   ownLength: 4656,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-20",
   externalIdentity: [
     {

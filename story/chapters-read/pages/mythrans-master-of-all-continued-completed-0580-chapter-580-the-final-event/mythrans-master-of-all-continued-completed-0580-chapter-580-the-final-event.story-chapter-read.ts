@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0580Chapter580TheFinalEvent = 
   story: "mythrans-master-of-all-continued-completed",
   position: 580,
   ownLength: 3548,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0686Chapter685TimeWaitsForNoOn
   story: "mythrans-master-of-all-continued-completed",
   position: 686,
   ownLength: 3234,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-30",
   externalIdentity: [
     {

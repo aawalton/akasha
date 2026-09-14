@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0034034RunningTheGauntle
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 34,
   ownLength: 2163,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-05",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0307Chapter315aRedheadFever = 
   story: "mythrans-master-of-all-continued-completed",
   position: 307,
   ownLength: 2212,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-24",
   externalIdentity: [
     {

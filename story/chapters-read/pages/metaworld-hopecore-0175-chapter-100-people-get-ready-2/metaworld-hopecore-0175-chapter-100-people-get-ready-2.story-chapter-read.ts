@@ -6,7 +6,7 @@ export const metaworldHopecore0175Chapter100PeopleGetReady2 = {
   slug: "metaworld-hopecore-0175-chapter-100-people-get-ready-2",
   position: 175,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

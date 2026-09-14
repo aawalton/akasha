@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0333Chapter340MeetTheParents =
   story: "mythrans-master-of-all-continued-completed",
   position: 333,
   ownLength: 3745,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-23",
   externalIdentity: [
     {

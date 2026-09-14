@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0105Chapter120ALibrary = {
   story: "mythrans-master-of-all-continued-completed",
   position: 105,
   ownLength: 3298,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-20",
   externalIdentity: [
     {

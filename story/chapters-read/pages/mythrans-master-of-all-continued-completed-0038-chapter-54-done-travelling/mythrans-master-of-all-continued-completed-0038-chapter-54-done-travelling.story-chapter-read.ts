@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0038Chapter54DoneTravelling = 
   story: "mythrans-master-of-all-continued-completed",
   position: 38,
   ownLength: 2621,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-17",
   externalIdentity: [
     {

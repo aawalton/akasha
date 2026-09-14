@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0736Chapter735CodeDuello = {
   story: "mythrans-master-of-all-continued-completed",
   position: 736,
   ownLength: 3950,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-19",
   externalIdentity: [
     {

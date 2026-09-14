@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0217Chapter228Girlfriend = {
   story: "mythrans-master-of-all-continued-completed",
   position: 217,
   ownLength: 3496,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-18",
   externalIdentity: [
     {

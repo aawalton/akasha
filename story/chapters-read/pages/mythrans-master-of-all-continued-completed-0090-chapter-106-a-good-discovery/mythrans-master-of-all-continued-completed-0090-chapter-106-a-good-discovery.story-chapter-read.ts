@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0090Chapter106AGoodDiscovery =
   story: "mythrans-master-of-all-continued-completed",
   position: 90,
   ownLength: 3142,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-06",
   externalIdentity: [
     {

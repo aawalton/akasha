@@ -8,7 +8,7 @@ export const markOfTheCrijik0002MarkOfTheCrijikBook5IsOutToday = {
   story: "story-read/mark-of-the-crijik",
   position: 2,
   ownLength: 373,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-03-06",
   externalIdentity: [
     {

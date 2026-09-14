@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0368Chapter374FoodWithFriends 
   story: "mythrans-master-of-all-continued-completed",
   position: 368,
   ownLength: 3242,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-01",
   externalIdentity: [
     {

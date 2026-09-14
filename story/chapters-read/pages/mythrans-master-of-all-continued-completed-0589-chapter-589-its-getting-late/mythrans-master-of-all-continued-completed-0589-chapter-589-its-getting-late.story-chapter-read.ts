@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0589Chapter589ItsGettingLate =
   story: "mythrans-master-of-all-continued-completed",
   position: 589,
   ownLength: 3135,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-17",
   externalIdentity: [
     {

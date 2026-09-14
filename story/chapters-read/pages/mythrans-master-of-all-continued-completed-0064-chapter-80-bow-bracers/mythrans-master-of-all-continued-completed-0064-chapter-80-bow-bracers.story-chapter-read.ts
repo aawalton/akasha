@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0064Chapter80BowBracers = {
   story: "mythrans-master-of-all-continued-completed",
   position: 64,
   ownLength: 4449,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-12",
   externalIdentity: [
     {

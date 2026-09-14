@@ -9,7 +9,7 @@ export const motherOfLearning002929TheHuntersAndTheHunted = {
   position: 29,
   ownLength: 6262,
   ownProgress: 6262,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:44:48.206Z",
   publishedAt: "2018-11-18",
   externalIdentity: [

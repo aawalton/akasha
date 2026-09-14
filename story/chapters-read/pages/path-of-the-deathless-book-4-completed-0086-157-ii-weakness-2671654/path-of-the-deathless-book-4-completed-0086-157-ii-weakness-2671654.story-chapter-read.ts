@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0086157IiWeakness2671654 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 86,
   ownLength: 3136,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

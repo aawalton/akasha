@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0195Chapter13PointOfInterest = {
   story: "labyrinth-of-the-mad-god",
   position: 195,
   ownLength: 2014,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-14",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0045045FlamesOfMystery =
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 45,
   ownLength: 2175,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-23",
   externalIdentity: [
     {

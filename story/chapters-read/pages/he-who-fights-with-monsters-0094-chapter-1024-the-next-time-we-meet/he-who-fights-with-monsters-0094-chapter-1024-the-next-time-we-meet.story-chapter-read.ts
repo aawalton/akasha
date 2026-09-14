@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0094Chapter1024TheNextTimeWeMeet = {
   story: "story-read/he-who-fights-with-monsters",
   position: 94,
   ownLength: 3961,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0625Chapter624AArtemisRisingEx
   story: "mythrans-master-of-all-continued-completed",
   position: 625,
   ownLength: 2938,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-02",
   externalIdentity: [
     {

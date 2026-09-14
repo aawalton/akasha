@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0148Chapter162ToTheVillage = {
   story: "mythrans-master-of-all-continued-completed",
   position: 148,
   ownLength: 2994,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-06",
   externalIdentity: [
     {

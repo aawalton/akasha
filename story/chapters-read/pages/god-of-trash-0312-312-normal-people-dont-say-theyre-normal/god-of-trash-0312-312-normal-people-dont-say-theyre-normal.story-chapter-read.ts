@@ -8,7 +8,7 @@ export const godOfTrash0312312NormalPeopleDontSayTheyreNormal = {
   story: "god-of-trash",
   position: 312,
   ownLength: 2154,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-18",
   externalIdentity: [
     {

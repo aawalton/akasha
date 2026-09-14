@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0552Chapter552BlairInglyLoud =
   story: "mythrans-master-of-all-continued-completed",
   position: 552,
   ownLength: 2729,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-10",
   externalIdentity: [
     {

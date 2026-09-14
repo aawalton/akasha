@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0033Chapter7MysteriesRevealed = {
   story: "labyrinth-of-the-mad-god",
   position: 33,
   ownLength: 1551,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-02",
   externalIdentity: [
     {

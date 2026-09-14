@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0259Chapter269UnFreakingBeliev
   story: "mythrans-master-of-all-continued-completed",
   position: 259,
   ownLength: 3331,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-02",
   externalIdentity: [
     {

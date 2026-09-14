@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0777Chapter774LonelyHeartsClub
   story: "mythrans-master-of-all-continued-completed",
   position: 777,
   ownLength: 3111,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-26",
   externalIdentity: [
     {

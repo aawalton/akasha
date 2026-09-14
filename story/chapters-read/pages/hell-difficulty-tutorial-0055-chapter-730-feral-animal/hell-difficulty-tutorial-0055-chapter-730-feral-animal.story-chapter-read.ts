@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0055Chapter730FeralAnimal = {
   story: "story-read/hell-difficulty-tutorial",
   position: 55,
   ownLength: 2364,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-15",
   externalIdentity: [
     {

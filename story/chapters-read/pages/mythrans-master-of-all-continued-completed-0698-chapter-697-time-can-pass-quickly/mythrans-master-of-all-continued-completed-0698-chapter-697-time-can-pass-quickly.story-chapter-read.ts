@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0698Chapter697TimeCanPassQuick
   story: "mythrans-master-of-all-continued-completed",
   position: 698,
   ownLength: 3158,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-11",
   externalIdentity: [
     {

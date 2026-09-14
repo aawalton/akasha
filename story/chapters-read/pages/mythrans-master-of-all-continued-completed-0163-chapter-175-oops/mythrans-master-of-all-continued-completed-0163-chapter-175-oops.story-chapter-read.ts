@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0163Chapter175Oops = {
   story: "mythrans-master-of-all-continued-completed",
   position: 163,
   ownLength: 3583,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-19",
   externalIdentity: [
     {

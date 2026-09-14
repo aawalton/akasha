@@ -9,7 +9,7 @@ export const justAddMana0107104Book3Chapter3CatchingUp = {
   position: 107,
   ownLength: 3383,
   ownProgress: 2375,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0343Chapter350FightOrFlight = 
   story: "mythrans-master-of-all-continued-completed",
   position: 343,
   ownLength: 5247,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-02",
   externalIdentity: [
     {

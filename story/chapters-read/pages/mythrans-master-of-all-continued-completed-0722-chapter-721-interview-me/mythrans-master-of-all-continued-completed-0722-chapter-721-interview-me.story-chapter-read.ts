@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0722Chapter721InterviewMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 722,
   ownLength: 3122,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-05",
   externalIdentity: [
     {

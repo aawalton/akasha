@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0229Chapter240IntoTheDark = {
   story: "mythrans-master-of-all-continued-completed",
   position: 229,
   ownLength: 3704,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-30",
   externalIdentity: [
     {

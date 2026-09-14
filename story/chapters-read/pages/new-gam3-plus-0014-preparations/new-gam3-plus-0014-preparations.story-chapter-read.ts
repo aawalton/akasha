@@ -8,7 +8,7 @@ export const newGam3Plus0014Preparations = {
   story: "new-gam3-plus",
   position: 14,
   ownLength: 2296,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

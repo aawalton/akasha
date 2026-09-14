@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0219Chapter230PenPlay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 219,
   ownLength: 3658,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-20",
   externalIdentity: [
     {

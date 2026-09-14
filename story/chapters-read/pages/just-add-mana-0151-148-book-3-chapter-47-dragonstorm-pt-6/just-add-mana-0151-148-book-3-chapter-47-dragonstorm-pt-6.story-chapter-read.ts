@@ -8,7 +8,7 @@ export const justAddMana0151148Book3Chapter47DragonstormPt6 = {
   story: "just-add-mana",
   position: 151,
   ownLength: 3546,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash0306306TheVastSea = {
   story: "god-of-trash",
   position: 306,
   ownLength: 2039,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-04",
   externalIdentity: [
     {

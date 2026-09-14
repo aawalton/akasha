@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0684Chapter683BurningHatred = 
   story: "mythrans-master-of-all-continued-completed",
   position: 684,
   ownLength: 2814,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0075Chapter1007ThatWillKeepThemDead = {
   story: "story-read/he-who-fights-with-monsters",
   position: 75,
   ownLength: 2622,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-15",
   externalIdentity: [
     {

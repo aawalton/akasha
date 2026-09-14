@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0022Chapter22CultivatingTheGlowingN
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 22,
   ownLength: 1923,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-01",
   externalIdentity: [
     {

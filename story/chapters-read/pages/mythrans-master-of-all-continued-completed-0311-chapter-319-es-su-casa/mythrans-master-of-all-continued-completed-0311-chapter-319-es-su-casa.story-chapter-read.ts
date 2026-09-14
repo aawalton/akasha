@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0311Chapter319EsSuCasa = {
   story: "mythrans-master-of-all-continued-completed",
   position: 311,
   ownLength: 4069,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-27",
   externalIdentity: [
     {

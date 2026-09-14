@@ -8,7 +8,7 @@ export const metaworldHopecore0037Chapter20SuspiciousMinds = {
   story: "metaworld-hopecore",
   position: 37,
   ownLength: 3075,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

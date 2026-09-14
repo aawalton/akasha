@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0326Chapter45LairOfTheStormLord = {
   story: "labyrinth-of-the-mad-god",
   position: 326,
   ownLength: 2797,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-10",
   externalIdentity: [
     {

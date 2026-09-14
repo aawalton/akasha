@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation00099Preparation = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 9,
   ownLength: 3760,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-30",
   externalIdentity: [
     {

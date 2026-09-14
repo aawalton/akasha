@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0092Chapter53ForceRayAssault = {
   story: "labyrinth-of-the-mad-god",
   position: 92,
   ownLength: 1576,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-18",
   externalIdentity: [
     {

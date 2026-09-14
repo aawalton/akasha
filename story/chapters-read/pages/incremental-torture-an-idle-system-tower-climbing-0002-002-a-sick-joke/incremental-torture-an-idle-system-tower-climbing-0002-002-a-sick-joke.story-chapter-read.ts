@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0002002ASickJoke = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 2,
   ownLength: 2245,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-03-20",
   externalIdentity: [
     {

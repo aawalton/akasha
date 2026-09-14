@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation001717AuctionHouse = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 17,
   ownLength: 3123,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-07",
   externalIdentity: [
     {

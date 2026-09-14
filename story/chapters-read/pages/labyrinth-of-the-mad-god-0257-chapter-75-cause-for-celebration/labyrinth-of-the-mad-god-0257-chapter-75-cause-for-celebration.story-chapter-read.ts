@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0257Chapter75CauseForCelebration = {
   story: "labyrinth-of-the-mad-god",
   position: 257,
   ownLength: 1746,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-05",
   externalIdentity: [
     {

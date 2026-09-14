@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0027Chapter2Saferoom = {
   story: "labyrinth-of-the-mad-god",
   position: 27,
   ownLength: 1651,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-22",
   externalIdentity: [
     {

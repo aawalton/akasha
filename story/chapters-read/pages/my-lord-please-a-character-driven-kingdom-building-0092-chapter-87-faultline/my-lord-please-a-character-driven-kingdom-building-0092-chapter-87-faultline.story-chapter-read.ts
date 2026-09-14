@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0092Chapter87Faultline =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 92,
   ownLength: 2214,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-28",
   externalIdentity: [
     {

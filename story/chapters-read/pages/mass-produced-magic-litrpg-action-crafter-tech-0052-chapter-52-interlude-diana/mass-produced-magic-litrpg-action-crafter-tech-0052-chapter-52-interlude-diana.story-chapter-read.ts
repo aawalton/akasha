@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0052Chapter52InterludeDiana
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 52,
   ownLength: 1894,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-28",
   externalIdentity: [
     {

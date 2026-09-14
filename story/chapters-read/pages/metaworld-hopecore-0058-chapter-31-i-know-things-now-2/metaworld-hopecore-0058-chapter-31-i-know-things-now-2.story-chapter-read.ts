@@ -8,7 +8,7 @@ export const metaworldHopecore0058Chapter31IKnowThingsNow2 = {
   story: "metaworld-hopecore",
   position: 58,
   ownLength: 2513,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

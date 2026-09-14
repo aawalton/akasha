@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0631Chapter630SunivasSanctumSa
   story: "mythrans-master-of-all-continued-completed",
   position: 631,
   ownLength: 3135,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0099Chapter115TheNextMorning =
   story: "mythrans-master-of-all-continued-completed",
   position: 99,
   ownLength: 4798,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-15",
   externalIdentity: [
     {

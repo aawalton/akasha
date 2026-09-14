@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0131Chapter146RunningErrands =
   story: "mythrans-master-of-all-continued-completed",
   position: 131,
   ownLength: 9315,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-21",
   externalIdentity: [
     {

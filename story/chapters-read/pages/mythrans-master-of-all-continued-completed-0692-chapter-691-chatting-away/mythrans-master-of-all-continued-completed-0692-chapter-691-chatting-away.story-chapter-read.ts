@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0692Chapter691ChattingAway = {
   story: "mythrans-master-of-all-continued-completed",
   position: 692,
   ownLength: 3429,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-05",
   externalIdentity: [
     {

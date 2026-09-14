@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0007Chapter23TheField = {
   story: "mythrans-master-of-all-continued-completed",
   position: 7,
   ownLength: 2895,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-11",
   externalIdentity: [
     {

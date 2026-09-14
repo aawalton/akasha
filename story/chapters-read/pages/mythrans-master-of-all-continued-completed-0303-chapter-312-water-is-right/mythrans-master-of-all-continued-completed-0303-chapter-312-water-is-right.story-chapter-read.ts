@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0303Chapter312WaterIsRight = {
   story: "mythrans-master-of-all-continued-completed",
   position: 303,
   ownLength: 3188,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-19",
   externalIdentity: [
     {

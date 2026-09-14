@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0652Chapter651AreYouSureThatsT
   story: "mythrans-master-of-all-continued-completed",
   position: 652,
   ownLength: 3020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-27",
   externalIdentity: [
     {

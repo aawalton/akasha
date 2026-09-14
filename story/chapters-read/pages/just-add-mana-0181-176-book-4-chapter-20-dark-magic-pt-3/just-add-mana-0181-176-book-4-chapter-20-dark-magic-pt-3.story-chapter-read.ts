@@ -8,7 +8,7 @@ export const justAddMana0181176Book4Chapter20DarkMagicPt3 = {
   story: "just-add-mana",
   position: 181,
   ownLength: 3452,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-22",
   externalIdentity: [
     {

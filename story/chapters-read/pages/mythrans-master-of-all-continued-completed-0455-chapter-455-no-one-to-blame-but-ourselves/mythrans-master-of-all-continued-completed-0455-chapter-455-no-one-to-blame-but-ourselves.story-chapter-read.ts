@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0455Chapter455NoOneToBlameButO
   story: "mythrans-master-of-all-continued-completed",
   position: 455,
   ownLength: 3165,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-18",
   externalIdentity: [
     {

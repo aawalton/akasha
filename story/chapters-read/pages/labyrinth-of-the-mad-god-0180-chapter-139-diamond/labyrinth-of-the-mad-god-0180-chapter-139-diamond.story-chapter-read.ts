@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0180Chapter139Diamond = {
   story: "labyrinth-of-the-mad-god",
   position: 180,
   ownLength: 2805,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-06",
   externalIdentity: [
     {

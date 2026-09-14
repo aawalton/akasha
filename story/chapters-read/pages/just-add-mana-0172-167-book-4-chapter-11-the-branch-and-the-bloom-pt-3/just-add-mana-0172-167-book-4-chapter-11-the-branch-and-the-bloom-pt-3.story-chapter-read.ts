@@ -8,7 +8,7 @@ export const justAddMana0172167Book4Chapter11TheBranchAndTheBloomPt3 = {
   story: "just-add-mana",
   position: 172,
   ownLength: 3714,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-01",
   externalIdentity: [
     {

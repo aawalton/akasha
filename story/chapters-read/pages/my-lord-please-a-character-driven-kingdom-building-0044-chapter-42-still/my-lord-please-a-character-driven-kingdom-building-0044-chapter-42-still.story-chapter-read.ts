@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0044Chapter42Still = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 44,
   ownLength: 2322,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-25",
   externalIdentity: [
     {

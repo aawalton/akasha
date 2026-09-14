@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0122Chapter116Reserves =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 122,
   ownLength: 2126,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-19",
   externalIdentity: [
     {

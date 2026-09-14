@@ -7,7 +7,7 @@ export const heavenPiercingGiraffeOpMcXianxia0030Chapter30AgainstAGod = {
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 30,
   publishedAt: "2026-09-05",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

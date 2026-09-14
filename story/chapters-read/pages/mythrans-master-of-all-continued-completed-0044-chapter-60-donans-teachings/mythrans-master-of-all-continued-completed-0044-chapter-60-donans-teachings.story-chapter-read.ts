@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0044Chapter60DonansTeachings =
   story: "mythrans-master-of-all-continued-completed",
   position: 44,
   ownLength: 3941,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-23",
   externalIdentity: [
     {

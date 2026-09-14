@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0363Chapter370GutterBall = {
   story: "mythrans-master-of-all-continued-completed",
   position: 363,
   ownLength: 4042,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-27",
   externalIdentity: [
     {

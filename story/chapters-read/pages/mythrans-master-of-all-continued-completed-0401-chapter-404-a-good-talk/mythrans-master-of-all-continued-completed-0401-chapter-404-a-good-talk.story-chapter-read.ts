@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0401Chapter404AGoodTalk = {
   story: "mythrans-master-of-all-continued-completed",
   position: 401,
   ownLength: 3543,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-28",
   externalIdentity: [
     {

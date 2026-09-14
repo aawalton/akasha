@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0759Chapter758SoThatHappened =
   story: "mythrans-master-of-all-continued-completed",
   position: 759,
   ownLength: 3255,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-11",
   externalIdentity: [
     {

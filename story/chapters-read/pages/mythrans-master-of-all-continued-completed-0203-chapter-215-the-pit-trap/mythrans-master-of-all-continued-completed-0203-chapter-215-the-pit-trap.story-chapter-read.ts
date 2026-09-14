@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0203Chapter215ThePitTrap = {
   story: "mythrans-master-of-all-continued-completed",
   position: 203,
   ownLength: 3549,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-05",
   externalIdentity: [
     {

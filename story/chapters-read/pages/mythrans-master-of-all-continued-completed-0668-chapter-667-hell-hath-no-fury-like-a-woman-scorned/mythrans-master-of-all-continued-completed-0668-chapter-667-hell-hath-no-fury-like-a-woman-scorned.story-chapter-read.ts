@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0668Chapter667HellHathNoFuryLi
   story: "mythrans-master-of-all-continued-completed",
   position: 668,
   ownLength: 3281,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-12",
   externalIdentity: [
     {

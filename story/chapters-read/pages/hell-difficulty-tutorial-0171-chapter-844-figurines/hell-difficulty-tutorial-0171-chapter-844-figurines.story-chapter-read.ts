@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0171Chapter844Figurines = {
   story: "story-read/hell-difficulty-tutorial",
   position: 171,
   ownLength: 2155,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-22",
   externalIdentity: [
     {

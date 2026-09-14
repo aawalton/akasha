@@ -8,7 +8,7 @@ export const godOfTrash0310310TakeABreak = {
   story: "god-of-trash",
   position: 310,
   ownLength: 1670,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-13",
   externalIdentity: [
     {

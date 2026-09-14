@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0329Chapter48TacticsAndTeamwork = {
   story: "labyrinth-of-the-mad-god",
   position: 329,
   ownLength: 1601,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-20",
   externalIdentity: [
     {

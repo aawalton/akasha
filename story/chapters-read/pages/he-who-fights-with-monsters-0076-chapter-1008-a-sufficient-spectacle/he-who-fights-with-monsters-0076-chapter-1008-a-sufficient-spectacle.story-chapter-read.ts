@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0076Chapter1008ASufficientSpectacle = {
   story: "story-read/he-who-fights-with-monsters",
   position: 76,
   ownLength: 2976,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-17",
   externalIdentity: [
     {

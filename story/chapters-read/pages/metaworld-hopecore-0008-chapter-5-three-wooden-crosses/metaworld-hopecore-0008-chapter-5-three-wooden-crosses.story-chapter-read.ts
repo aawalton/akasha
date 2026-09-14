@@ -8,7 +8,7 @@ export const metaworldHopecore0008Chapter5ThreeWoodenCrosses = {
   story: "metaworld-hopecore",
   position: 8,
   ownLength: 1711,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

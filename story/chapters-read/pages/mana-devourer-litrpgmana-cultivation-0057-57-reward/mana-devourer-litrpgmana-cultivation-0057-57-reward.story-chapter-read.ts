@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation005757Reward = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 57,
   ownLength: 2554,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-24",
   externalIdentity: [
     {

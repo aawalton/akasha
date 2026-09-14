@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0059Chapter26BugBattle = {
   story: "labyrinth-of-the-mad-god",
   position: 59,
   ownLength: 1585,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-16",
   externalIdentity: [
     {

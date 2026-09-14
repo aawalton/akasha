@@ -8,7 +8,7 @@ export const justAddMana0178173Book4Chapter17RipplesInBrightscale = {
   story: "just-add-mana",
   position: 178,
   ownLength: 4020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-15",
   externalIdentity: [
     {

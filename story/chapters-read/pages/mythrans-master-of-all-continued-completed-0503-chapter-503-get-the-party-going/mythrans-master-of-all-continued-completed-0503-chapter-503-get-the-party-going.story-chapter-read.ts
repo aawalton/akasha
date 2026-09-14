@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0503Chapter503GetThePartyGoing
   story: "mythrans-master-of-all-continued-completed",
   position: 503,
   ownLength: 3295,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-06",
   externalIdentity: [
     {

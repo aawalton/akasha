@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0073Chapter748HowDoYouBecomeAnAbsolute = {
   story: "story-read/hell-difficulty-tutorial",
   position: 73,
   ownLength: 2272,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-10",
   externalIdentity: [
     {

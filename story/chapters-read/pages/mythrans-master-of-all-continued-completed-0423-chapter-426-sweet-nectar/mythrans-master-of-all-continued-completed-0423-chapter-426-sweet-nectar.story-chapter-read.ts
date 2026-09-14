@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0423Chapter426SweetNectar = {
   story: "mythrans-master-of-all-continued-completed",
   position: 423,
   ownLength: 3594,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-19",
   externalIdentity: [
     {

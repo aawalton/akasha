@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0120Chapter794NewTrait = {
   story: "story-read/hell-difficulty-tutorial",
   position: 120,
   ownLength: 2279,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0155Chapter168AnOldFriend = {
   story: "mythrans-master-of-all-continued-completed",
   position: 155,
   ownLength: 4781,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-12",
   externalIdentity: [
     {

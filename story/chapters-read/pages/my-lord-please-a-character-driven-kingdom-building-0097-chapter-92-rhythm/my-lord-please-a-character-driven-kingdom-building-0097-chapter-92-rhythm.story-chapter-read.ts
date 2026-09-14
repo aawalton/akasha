@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0097Chapter92Rhythm = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 97,
   ownLength: 3006,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-06",
   externalIdentity: [
     {

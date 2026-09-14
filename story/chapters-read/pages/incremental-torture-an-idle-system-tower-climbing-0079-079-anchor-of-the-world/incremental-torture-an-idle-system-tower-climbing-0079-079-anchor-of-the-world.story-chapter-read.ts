@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0079079AnchorOfTheWorld 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 79,
   ownLength: 1979,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-10",
   externalIdentity: [
     {

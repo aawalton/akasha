@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0490Chapter490RelaxingInStyle 
   story: "mythrans-master-of-all-continued-completed",
   position: 490,
   ownLength: 3421,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-24",
   externalIdentity: [
     {

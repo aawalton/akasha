@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0272Chapter281AssaultOnCastleB
   story: "mythrans-master-of-all-continued-completed",
   position: 272,
   ownLength: 3902,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-16",
   externalIdentity: [
     {

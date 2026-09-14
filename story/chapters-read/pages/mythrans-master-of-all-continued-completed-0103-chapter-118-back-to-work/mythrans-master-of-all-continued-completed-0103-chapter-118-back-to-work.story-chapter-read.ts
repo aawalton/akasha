@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0103Chapter118BackToWork = {
   story: "mythrans-master-of-all-continued-completed",
   position: 103,
   ownLength: 4641,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-18",
   externalIdentity: [
     {

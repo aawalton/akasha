@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0581Chapter581IllTakeCareOfIt 
   story: "mythrans-master-of-all-continued-completed",
   position: 581,
   ownLength: 2857,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-09",
   externalIdentity: [
     {

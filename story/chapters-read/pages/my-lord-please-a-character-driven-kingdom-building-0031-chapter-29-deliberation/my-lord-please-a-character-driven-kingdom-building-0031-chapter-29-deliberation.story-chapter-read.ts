@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0031Chapter29Deliberatio
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 31,
   ownLength: 2119,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-13",
   externalIdentity: [
     {

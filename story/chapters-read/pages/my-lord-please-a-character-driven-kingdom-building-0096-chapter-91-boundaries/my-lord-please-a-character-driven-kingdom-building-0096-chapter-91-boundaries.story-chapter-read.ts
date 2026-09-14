@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0096Chapter91Boundaries 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 96,
   ownLength: 2022,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-05",
   externalIdentity: [
     {

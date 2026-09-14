@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0172Chapter131RareAtLast = {
   story: "labyrinth-of-the-mad-god",
   position: 172,
   ownLength: 2904,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-19",
   externalIdentity: [
     {

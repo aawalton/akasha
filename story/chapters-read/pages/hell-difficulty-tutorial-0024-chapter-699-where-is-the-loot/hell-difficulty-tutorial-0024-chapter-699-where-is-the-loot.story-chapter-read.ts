@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0024Chapter699WhereIsTheLoot = {
   story: "story-read/hell-difficulty-tutorial",
   position: 24,
   ownLength: 2472,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-26",
   externalIdentity: [
     {

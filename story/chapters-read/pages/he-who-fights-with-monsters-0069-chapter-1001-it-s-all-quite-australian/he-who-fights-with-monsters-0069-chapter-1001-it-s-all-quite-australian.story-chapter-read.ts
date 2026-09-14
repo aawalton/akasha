@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0069Chapter1001ItSAllQuiteAustralian = {
   story: "story-read/he-who-fights-with-monsters",
   position: 69,
   ownLength: 3760,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-01",
   externalIdentity: [
     {

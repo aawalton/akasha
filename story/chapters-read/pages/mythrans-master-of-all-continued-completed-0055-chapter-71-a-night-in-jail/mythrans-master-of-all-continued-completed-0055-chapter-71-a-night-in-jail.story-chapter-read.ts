@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0055Chapter71ANightInJail = {
   story: "mythrans-master-of-all-continued-completed",
   position: 55,
   ownLength: 5218,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-03",
   externalIdentity: [
     {

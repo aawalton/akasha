@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0114127IiInfusion = {
   story: "path-of-the-deathless-book-4-completed",
   position: 114,
   ownLength: 0,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

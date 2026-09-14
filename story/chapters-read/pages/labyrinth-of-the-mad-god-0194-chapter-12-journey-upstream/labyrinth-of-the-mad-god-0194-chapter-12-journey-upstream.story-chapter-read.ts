@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0194Chapter12JourneyUpstream = {
   story: "labyrinth-of-the-mad-god",
   position: 194,
   ownLength: 2102,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-11",
   externalIdentity: [
     {

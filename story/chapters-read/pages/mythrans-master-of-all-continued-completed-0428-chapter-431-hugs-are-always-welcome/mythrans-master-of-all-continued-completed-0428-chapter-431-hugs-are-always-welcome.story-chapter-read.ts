@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0428Chapter431HugsAreAlwaysWel
   story: "mythrans-master-of-all-continued-completed",
   position: 428,
   ownLength: 3213,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-24",
   externalIdentity: [
     {

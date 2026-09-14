@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0660Chapter659PlansComeTogethe
   story: "mythrans-master-of-all-continued-completed",
   position: 660,
   ownLength: 3199,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-05",
   externalIdentity: [
     {

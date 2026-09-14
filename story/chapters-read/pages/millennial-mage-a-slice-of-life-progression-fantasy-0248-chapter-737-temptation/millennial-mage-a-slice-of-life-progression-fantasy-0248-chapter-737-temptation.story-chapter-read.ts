@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0248Chapter737Temptatio
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 248,
   ownLength: 2575,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-12",
   externalIdentity: [
     {

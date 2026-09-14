@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0485Chapter485IntoTheUnderworl
   story: "mythrans-master-of-all-continued-completed",
   position: 485,
   ownLength: 3825,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-17",
   externalIdentity: [
     {

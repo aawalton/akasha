@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0279EpilogueWrathOfTheMadGod = {
   story: "labyrinth-of-the-mad-god",
   position: 279,
   ownLength: 1849,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-23",
   externalIdentity: [
     {

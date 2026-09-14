@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0764Chapter763TowerTime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 764,
   ownLength: 3268,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-16",
   externalIdentity: [
     {

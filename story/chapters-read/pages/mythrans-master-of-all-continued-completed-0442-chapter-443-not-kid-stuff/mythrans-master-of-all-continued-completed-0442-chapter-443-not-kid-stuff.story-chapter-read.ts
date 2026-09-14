@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0442Chapter443NotKidStuff = {
   story: "mythrans-master-of-all-continued-completed",
   position: 442,
   ownLength: 3400,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0046Chapter24TheActor2 = {
   story: "metaworld-hopecore",
   position: 46,
   ownLength: 1557,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

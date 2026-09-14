@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0463Chapter463AllInADaysWork =
   story: "mythrans-master-of-all-continued-completed",
   position: 463,
   ownLength: 3247,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-26",
   externalIdentity: [
     {

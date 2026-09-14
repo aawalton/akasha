@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0086Chapter761EightGoldCoins = {
   story: "story-read/hell-difficulty-tutorial",
   position: 86,
   ownLength: 3028,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-01",
   externalIdentity: [
     {

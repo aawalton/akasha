@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0017Chapter33ALoophole = {
   story: "mythrans-master-of-all-continued-completed",
   position: 17,
   ownLength: 2826,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-25",
   externalIdentity: [
     {

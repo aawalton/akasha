@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0081Chapter1012WeHaveToKillClive = {
   story: "story-read/he-who-fights-with-monsters",
   position: 81,
   ownLength: 2615,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-29",
   externalIdentity: [
     {

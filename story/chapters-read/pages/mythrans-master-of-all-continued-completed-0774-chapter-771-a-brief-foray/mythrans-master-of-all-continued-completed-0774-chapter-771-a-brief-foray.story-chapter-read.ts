@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0774Chapter771ABriefForay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 774,
   ownLength: 2738,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-23",
   externalIdentity: [
     {

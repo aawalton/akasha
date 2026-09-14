@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0014Chapter13Friction = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 14,
   ownLength: 2484,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-29",
   externalIdentity: [
     {

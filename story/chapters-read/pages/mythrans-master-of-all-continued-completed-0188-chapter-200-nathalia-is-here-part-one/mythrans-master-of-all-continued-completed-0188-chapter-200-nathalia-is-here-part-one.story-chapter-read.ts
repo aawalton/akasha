@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0188Chapter200NathaliaIsHerePa
   story: "mythrans-master-of-all-continued-completed",
   position: 188,
   ownLength: 4224,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-20",
   externalIdentity: [
     {

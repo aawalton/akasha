@@ -9,7 +9,7 @@ export const motherOfLearning003030AGameOfShops = {
   position: 30,
   ownLength: 6439,
   ownProgress: 6439,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:44:53.852Z",
   publishedAt: "2018-11-19",
   externalIdentity: [

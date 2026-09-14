@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0324Chapter43ConceptualClues = {
   story: "labyrinth-of-the-mad-god",
   position: 324,
   ownLength: 1650,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

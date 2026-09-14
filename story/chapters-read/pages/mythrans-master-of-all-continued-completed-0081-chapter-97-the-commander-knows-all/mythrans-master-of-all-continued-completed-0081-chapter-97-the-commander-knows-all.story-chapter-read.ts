@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0081Chapter97TheCommanderKnows
   story: "mythrans-master-of-all-continued-completed",
   position: 81,
   ownLength: 3020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-27",
   externalIdentity: [
     {

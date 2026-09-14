@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0052Chapter48Mercy = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 52,
   ownLength: 1834,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-01",
   externalIdentity: [
     {

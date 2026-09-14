@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0479Chapter479GetTheBallRollin
   story: "mythrans-master-of-all-continued-completed",
   position: 479,
   ownLength: 3116,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-11",
   externalIdentity: [
     {

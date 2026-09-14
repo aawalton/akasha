@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0020Chapter20DwarvenGuidanc
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 20,
   ownLength: 3816,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-30",
   externalIdentity: [
     {

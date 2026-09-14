@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0461Chapter461SavingTheHighElv
   story: "mythrans-master-of-all-continued-completed",
   position: 461,
   ownLength: 3442,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0112Chapter65TongueTied = {
   story: "metaworld-hopecore",
   position: 112,
   ownLength: 3831,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-21",
   externalIdentity: [
     {

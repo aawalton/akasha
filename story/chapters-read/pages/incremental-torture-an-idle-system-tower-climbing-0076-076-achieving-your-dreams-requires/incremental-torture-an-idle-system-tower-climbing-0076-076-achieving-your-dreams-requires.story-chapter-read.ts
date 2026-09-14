@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0076076AchievingYourDrea
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 76,
   ownLength: 2006,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-30",
   externalIdentity: [
     {

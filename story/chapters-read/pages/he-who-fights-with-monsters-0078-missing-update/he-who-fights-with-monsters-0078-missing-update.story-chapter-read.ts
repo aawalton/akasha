@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0078MissingUpdate = {
   story: "story-read/he-who-fights-with-monsters",
   position: 78,
   ownLength: 15,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-22",
   externalIdentity: [
     {

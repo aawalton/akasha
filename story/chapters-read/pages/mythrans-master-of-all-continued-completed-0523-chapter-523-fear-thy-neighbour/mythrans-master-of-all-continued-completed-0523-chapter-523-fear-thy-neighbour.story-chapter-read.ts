@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0523Chapter523FearThyNeighbour
   story: "mythrans-master-of-all-continued-completed",
   position: 523,
   ownLength: 2097,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-27",
   externalIdentity: [
     {

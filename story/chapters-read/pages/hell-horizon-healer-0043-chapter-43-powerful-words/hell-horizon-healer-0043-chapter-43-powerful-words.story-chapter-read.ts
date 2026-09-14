@@ -8,7 +8,7 @@ export const hellHorizonHealer0043Chapter43PowerfulWords = {
   story: "hell-horizon-healer",
   position: 43,
   ownLength: 1353,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-26",
   externalIdentity: [
     {

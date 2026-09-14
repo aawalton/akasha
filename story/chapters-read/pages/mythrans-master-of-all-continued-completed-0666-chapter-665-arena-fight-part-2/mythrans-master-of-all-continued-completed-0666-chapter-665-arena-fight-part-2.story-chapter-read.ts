@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0666Chapter665ArenaFightPart2 
   story: "mythrans-master-of-all-continued-completed",
   position: 666,
   ownLength: 4959,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0004ChapterFourTutorialTheSearingIsle = {
   story: "labyrinth-of-the-mad-god",
   position: 4,
   ownLength: 2971,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0109Chapter124Caught = {
   story: "mythrans-master-of-all-continued-completed",
   position: 109,
   ownLength: 4853,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-24",
   externalIdentity: [
     {

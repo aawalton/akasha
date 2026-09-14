@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0218Chapter36GettingReadyToRumble = {
   story: "labyrinth-of-the-mad-god",
   position: 218,
   ownLength: 1799,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-05",
   externalIdentity: [
     {

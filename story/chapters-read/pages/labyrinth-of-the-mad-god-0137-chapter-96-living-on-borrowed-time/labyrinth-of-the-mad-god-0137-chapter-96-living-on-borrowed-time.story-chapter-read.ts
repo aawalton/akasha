@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0137Chapter96LivingOnBorrowedTime = {
   story: "labyrinth-of-the-mad-god",
   position: 137,
   ownLength: 1773,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-26",
   externalIdentity: [
     {

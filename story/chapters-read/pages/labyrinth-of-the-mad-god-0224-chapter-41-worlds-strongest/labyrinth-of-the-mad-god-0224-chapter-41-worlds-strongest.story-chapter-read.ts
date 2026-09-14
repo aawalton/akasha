@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0224Chapter41WorldsStrongest = {
   story: "labyrinth-of-the-mad-god",
   position: 224,
   ownLength: 1854,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-17",
   externalIdentity: [
     {

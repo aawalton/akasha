@@ -8,7 +8,7 @@ export const godOfTrash0320320TrainingPicksYou = {
   story: "god-of-trash",
   position: 320,
   ownLength: 2032,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-05",
   externalIdentity: [
     {

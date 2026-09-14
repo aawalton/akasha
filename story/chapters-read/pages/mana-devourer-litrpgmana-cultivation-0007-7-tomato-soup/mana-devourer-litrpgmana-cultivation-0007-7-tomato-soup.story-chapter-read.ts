@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation00077TomatoSoup = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 7,
   ownLength: 2512,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-29",
   externalIdentity: [
     {

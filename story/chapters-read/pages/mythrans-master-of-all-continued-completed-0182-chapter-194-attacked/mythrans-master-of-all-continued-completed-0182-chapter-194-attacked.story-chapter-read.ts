@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0182Chapter194Attacked = {
   story: "mythrans-master-of-all-continued-completed",
   position: 182,
   ownLength: 4209,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-10",
   externalIdentity: [
     {

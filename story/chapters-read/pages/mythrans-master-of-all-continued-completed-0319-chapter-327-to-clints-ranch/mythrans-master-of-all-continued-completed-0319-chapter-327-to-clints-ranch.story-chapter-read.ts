@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0319Chapter327ToClintsRanch = 
   story: "mythrans-master-of-all-continued-completed",
   position: 319,
   ownLength: 4074,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-10",
   externalIdentity: [
     {

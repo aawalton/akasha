@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0171Chapter130EnhancedEvolution = {
   story: "labyrinth-of-the-mad-god",
   position: 171,
   ownLength: 2130,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-16",
   externalIdentity: [
     {

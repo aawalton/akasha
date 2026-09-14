@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0696Chapter695AfterPartyPoolTi
   story: "mythrans-master-of-all-continued-completed",
   position: 696,
   ownLength: 3004,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-09",
   externalIdentity: [
     {

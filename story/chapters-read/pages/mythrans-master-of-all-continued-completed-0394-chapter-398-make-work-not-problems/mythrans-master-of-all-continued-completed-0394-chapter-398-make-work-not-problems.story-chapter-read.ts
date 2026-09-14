@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0394Chapter398MakeWorkNotProbl
   story: "mythrans-master-of-all-continued-completed",
   position: 394,
   ownLength: 4040,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-23",
   externalIdentity: [
     {

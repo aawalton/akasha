@@ -8,7 +8,7 @@ export const hellHorizonHealer0019Chapter19TheCalmAfterTheStorm = {
   story: "hell-horizon-healer",
   position: 19,
   ownLength: 1867,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-17",
   externalIdentity: [
     {

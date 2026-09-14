@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0097Chapter595HerExpert
   position: 97,
   ownLength: 2751,
   ownProgress: 2751,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:38:24.231Z",
   publishedAt: "2025-08-06",
   externalIdentity: [

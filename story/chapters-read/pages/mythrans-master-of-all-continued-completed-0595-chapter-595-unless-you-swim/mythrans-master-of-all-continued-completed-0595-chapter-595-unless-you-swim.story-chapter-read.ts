@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0595Chapter595UnlessYouSwim = 
   story: "mythrans-master-of-all-continued-completed",
   position: 595,
   ownLength: 2735,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-23",
   externalIdentity: [
     {

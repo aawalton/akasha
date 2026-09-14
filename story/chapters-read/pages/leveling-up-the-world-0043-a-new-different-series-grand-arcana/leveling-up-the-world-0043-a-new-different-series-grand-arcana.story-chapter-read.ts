@@ -8,7 +8,7 @@ export const levelingUpTheWorld0043ANewDifferentSeriesGrandArcana = {
   story: "story-read/leveling-up-the-world",
   position: 43,
   ownLength: 225,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-01",
   externalIdentity: [
     {

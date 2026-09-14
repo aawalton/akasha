@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0013Chapter13WildsPt2 = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 13,
   ownLength: 1974,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-18",
   externalIdentity: [
     {

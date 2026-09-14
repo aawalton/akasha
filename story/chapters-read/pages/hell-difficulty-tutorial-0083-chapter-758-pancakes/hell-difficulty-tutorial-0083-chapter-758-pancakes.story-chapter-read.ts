@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0083Chapter758Pancakes = {
   story: "story-read/hell-difficulty-tutorial",
   position: 83,
   ownLength: 2327,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-24",
   externalIdentity: [
     {

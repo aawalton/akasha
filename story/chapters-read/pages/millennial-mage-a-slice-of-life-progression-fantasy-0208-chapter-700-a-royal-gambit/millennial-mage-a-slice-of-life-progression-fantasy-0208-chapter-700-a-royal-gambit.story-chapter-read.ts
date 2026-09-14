@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0208Chapter700ARoyalGam
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 208,
   ownLength: 2809,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-29",
   externalIdentity: [
     {

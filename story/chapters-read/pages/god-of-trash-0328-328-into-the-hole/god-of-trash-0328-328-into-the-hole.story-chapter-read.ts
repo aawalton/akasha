@@ -8,7 +8,7 @@ export const godOfTrash0328328IntoTheHole = {
   story: "god-of-trash",
   position: 328,
   ownLength: 2510,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

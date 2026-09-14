@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0321Chapter40AmbushersAmbushed = {
   story: "labyrinth-of-the-mad-god",
   position: 321,
   ownLength: 1972,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-15",
   externalIdentity: [
     {

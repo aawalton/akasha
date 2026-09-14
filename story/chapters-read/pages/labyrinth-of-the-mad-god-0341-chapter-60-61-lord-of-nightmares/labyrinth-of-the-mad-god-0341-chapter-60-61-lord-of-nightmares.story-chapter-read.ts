@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0341Chapter6061LordOfNightmares = {
   story: "labyrinth-of-the-mad-god",
   position: 341,
   ownLength: 3714,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

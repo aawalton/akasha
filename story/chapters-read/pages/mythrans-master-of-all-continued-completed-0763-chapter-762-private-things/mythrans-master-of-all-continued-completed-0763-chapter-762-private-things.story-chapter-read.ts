@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0763Chapter762PrivateThings = 
   story: "mythrans-master-of-all-continued-completed",
   position: 763,
   ownLength: 2993,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-15",
   externalIdentity: [
     {

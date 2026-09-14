@@ -8,7 +8,7 @@ export const justAddMana0142139Book3Chapter38InTheFogOfPossibility = {
   story: "just-add-mana",
   position: 142,
   ownLength: 3446,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-23",
   externalIdentity: [
     {

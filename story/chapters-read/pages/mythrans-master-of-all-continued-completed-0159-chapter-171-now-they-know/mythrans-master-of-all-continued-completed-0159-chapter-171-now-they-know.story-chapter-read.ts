@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0159Chapter171NowTheyKnow = {
   story: "mythrans-master-of-all-continued-completed",
   position: 159,
   ownLength: 3389,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-15",
   externalIdentity: [
     {

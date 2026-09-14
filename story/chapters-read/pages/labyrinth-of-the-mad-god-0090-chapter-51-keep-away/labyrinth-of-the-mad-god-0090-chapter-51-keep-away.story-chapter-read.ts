@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0090Chapter51KeepAway = {
   story: "labyrinth-of-the-mad-god",
   position: 90,
   ownLength: 1527,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-13",
   externalIdentity: [
     {

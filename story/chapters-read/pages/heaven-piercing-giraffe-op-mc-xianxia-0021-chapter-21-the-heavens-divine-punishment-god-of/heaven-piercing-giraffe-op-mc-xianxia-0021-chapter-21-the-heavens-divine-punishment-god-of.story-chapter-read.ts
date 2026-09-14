@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0021Chapter21TheHeavensDivinePunish
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 21,
   ownLength: 1865,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

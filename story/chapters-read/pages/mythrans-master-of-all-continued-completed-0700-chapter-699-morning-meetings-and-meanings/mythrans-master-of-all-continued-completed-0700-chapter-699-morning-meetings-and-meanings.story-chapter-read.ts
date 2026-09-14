@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0700Chapter699MorningMeetingsA
   story: "mythrans-master-of-all-continued-completed",
   position: 700,
   ownLength: 3262,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-13",
   externalIdentity: [
     {

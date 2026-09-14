@@ -8,7 +8,7 @@ export const metaworldHopecore0159Chapter92EverybodysTalkin = {
   story: "metaworld-hopecore",
   position: 159,
   ownLength: 3403,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-18",
   externalIdentity: [
     {

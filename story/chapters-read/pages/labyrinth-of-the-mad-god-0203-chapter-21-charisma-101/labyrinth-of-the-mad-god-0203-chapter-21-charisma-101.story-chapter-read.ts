@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0203Chapter21Charisma101 = {
   story: "labyrinth-of-the-mad-god",
   position: 203,
   ownLength: 2139,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-01",
   externalIdentity: [
     {

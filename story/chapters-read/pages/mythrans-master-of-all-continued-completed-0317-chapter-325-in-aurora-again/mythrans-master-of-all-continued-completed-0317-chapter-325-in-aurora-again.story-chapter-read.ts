@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0317Chapter325InAuroraAgain = 
   story: "mythrans-master-of-all-continued-completed",
   position: 317,
   ownLength: 3789,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-08",
   externalIdentity: [
     {

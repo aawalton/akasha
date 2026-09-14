@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0571Chapter571AReverseHeist = 
   story: "mythrans-master-of-all-continued-completed",
   position: 571,
   ownLength: 2850,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-29",
   externalIdentity: [
     {

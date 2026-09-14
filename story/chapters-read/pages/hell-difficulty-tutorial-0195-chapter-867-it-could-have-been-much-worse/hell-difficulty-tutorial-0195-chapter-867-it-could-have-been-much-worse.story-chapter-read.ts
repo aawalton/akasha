@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0195Chapter867ItCouldHaveBeenMuchWorse = {
   story: "story-read/hell-difficulty-tutorial",
   position: 195,
   ownLength: 3091,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-24",
   externalIdentity: [
     {

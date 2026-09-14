@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0239Chapter56PredatoryDomain = {
   story: "labyrinth-of-the-mad-god",
   position: 239,
   ownLength: 2145,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-22",
   externalIdentity: [
     {

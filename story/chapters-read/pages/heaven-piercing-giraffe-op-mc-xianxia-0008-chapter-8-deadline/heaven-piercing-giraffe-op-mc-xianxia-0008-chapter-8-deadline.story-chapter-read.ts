@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0008Chapter8Deadline = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 8,
   ownLength: 1988,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

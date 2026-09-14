@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0010Chapter26TheHospital = {
   story: "mythrans-master-of-all-continued-completed",
   position: 10,
   ownLength: 2866,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-14",
   externalIdentity: [
     {

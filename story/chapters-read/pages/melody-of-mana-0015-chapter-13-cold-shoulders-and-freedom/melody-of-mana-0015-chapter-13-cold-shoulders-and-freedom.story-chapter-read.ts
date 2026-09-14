@@ -9,7 +9,7 @@ export const melodyOfMana0015Chapter13ColdShouldersAndFreedom = {
   position: 15,
   ownLength: 2415,
   ownProgress: 2415,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:26:46.458Z",
   publishedAt: "2021-06-27",
   externalIdentity: [

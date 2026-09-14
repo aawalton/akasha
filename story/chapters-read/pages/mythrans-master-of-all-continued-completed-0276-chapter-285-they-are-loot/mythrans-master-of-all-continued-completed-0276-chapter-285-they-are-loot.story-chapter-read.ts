@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0276Chapter285TheyAreLoot = {
   story: "mythrans-master-of-all-continued-completed",
   position: 276,
   ownLength: 3928,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-20",
   externalIdentity: [
     {

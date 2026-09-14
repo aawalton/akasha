@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0082Chapter757PartyPooperAndGrumpy = {
   story: "story-read/hell-difficulty-tutorial",
   position: 82,
   ownLength: 2099,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-23",
   externalIdentity: [
     {

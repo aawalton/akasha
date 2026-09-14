@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0306Chapter315RoomToMove = {
   story: "mythrans-master-of-all-continued-completed",
   position: 306,
   ownLength: 3291,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-22",
   externalIdentity: [
     {

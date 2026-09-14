@@ -8,7 +8,7 @@ export const godOfTrash0322322AChapterAboutDiggingAHole = {
   story: "god-of-trash",
   position: 322,
   ownLength: 2399,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

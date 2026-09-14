@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0265Chapter82AnotherBigStep = {
   story: "labyrinth-of-the-mad-god",
   position: 265,
   ownLength: 1429,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-22",
   externalIdentity: [
     {

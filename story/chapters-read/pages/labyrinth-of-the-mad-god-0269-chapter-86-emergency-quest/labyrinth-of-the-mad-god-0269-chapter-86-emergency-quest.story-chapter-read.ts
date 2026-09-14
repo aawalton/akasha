@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0269Chapter86EmergencyQuest = {
   story: "labyrinth-of-the-mad-god",
   position: 269,
   ownLength: 1811,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-31",
   externalIdentity: [
     {

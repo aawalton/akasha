@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0506Chapter506ABitOfWhy = {
   story: "mythrans-master-of-all-continued-completed",
   position: 506,
   ownLength: 3123,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0129Chapter88NoMercy = {
   story: "labyrinth-of-the-mad-god",
   position: 129,
   ownLength: 1795,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-07",
   externalIdentity: [
     {

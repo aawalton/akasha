@@ -8,7 +8,7 @@ export const metaworldHopecore0090Chapter51Vienna = {
   story: "metaworld-hopecore",
   position: 90,
   ownLength: 2628,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-30",
   externalIdentity: [
     {

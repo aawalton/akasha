@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0364Chapter370aBathroomBreakEx
   story: "mythrans-master-of-all-continued-completed",
   position: 364,
   ownLength: 6127,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-28",
   externalIdentity: [
     {

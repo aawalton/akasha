@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0231Chapter722LeaAndPal
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 231,
   ownLength: 2609,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-01",
   externalIdentity: [
     {

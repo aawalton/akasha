@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0627Chapter626PhaseTwoComplete
   story: "mythrans-master-of-all-continued-completed",
   position: 627,
   ownLength: 2752,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0575Chapter575YouCantEatThat =
   story: "mythrans-master-of-all-continued-completed",
   position: 575,
   ownLength: 2710,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-03",
   externalIdentity: [
     {

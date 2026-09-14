@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0208Chapter26BlendIntoTheBackground = {
   story: "labyrinth-of-the-mad-god",
   position: 208,
   ownLength: 2391,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-13",
   externalIdentity: [
     {

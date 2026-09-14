@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0007Chapter7HumanDad = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 7,
   ownLength: 1872,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-02",
   externalIdentity: [
     {

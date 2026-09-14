@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0723Chapter722ThatCantBeRight 
   story: "mythrans-master-of-all-continued-completed",
   position: 723,
   ownLength: 3252,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-06",
   externalIdentity: [
     {

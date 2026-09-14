@@ -8,7 +8,7 @@ export const metaworldHopecore0034Chapter18TheGiftOfGiving2 = {
   story: "metaworld-hopecore",
   position: 34,
   ownLength: 1593,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

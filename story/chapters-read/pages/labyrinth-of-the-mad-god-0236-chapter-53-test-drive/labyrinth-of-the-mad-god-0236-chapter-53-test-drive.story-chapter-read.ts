@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0236Chapter53TestDrive = {
   story: "labyrinth-of-the-mad-god",
   position: 236,
   ownLength: 2489,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-15",
   externalIdentity: [
     {

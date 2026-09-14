@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0166Chapter660TheFullMe
   position: 166,
   ownLength: 2893,
   ownProgress: 2893,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:40:22.688Z",
   publishedAt: "2026-01-19",
   externalIdentity: [

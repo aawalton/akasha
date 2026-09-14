@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0001ChapterOnePreludeToTheApocalypse = {
   story: "labyrinth-of-the-mad-god",
   position: 1,
   ownLength: 2056,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-02",
   externalIdentity: [
     {

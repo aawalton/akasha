@@ -7,7 +7,7 @@ export const metaworldHopecore0172Chapter99WithALittleHelpFromMyFriends = {
   story: "story-read/metaworld-hopecore",
   position: 172,
   publishedAt: "2026-09-05",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

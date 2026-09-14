@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0247HomeboundBook13Cove
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 247,
   ownLength: 36,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-11",
   externalIdentity: [
     {

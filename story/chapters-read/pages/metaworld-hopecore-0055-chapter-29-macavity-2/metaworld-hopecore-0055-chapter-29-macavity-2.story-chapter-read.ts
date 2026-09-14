@@ -8,7 +8,7 @@ export const metaworldHopecore0055Chapter29Macavity2 = {
   story: "metaworld-hopecore",
   position: 55,
   ownLength: 2681,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

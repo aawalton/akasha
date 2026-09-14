@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0293Chapter13EnhancedPhysicalSenses = {
   story: "labyrinth-of-the-mad-god",
   position: 293,
   ownLength: 1848,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-16",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0055Chapter23SupplyRun = {
   story: "labyrinth-of-the-mad-god",
   position: 55,
   ownLength: 2220,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-09",
   externalIdentity: [
     {

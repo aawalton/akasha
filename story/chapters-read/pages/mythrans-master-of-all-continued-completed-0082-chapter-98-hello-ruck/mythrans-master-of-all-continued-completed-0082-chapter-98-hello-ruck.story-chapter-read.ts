@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0082Chapter98HelloRuck = {
   story: "mythrans-master-of-all-continued-completed",
   position: 82,
   ownLength: 3988,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-28",
   externalIdentity: [
     {

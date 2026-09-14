@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0184Chapter2DawnOfANewEra = {
   story: "labyrinth-of-the-mad-god",
   position: 184,
   ownLength: 2328,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-20",
   externalIdentity: [
     {

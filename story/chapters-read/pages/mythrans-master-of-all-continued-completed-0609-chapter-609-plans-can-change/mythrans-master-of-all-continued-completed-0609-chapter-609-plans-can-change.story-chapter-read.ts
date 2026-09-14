@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0609Chapter609PlansCanChange =
   story: "mythrans-master-of-all-continued-completed",
   position: 609,
   ownLength: 2225,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-15",
   externalIdentity: [
     {

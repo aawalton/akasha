@@ -8,7 +8,7 @@ export const melodyOfMana0318Epilogue3 = {
   story: "story-read/melody-of-mana",
   position: 318,
   ownLength: 852,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-30",
   externalIdentity: [
     {

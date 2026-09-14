@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0558Chapter558BackToTheMeeting
   story: "mythrans-master-of-all-continued-completed",
   position: 558,
   ownLength: 2718,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-16",
   externalIdentity: [
     {

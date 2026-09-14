@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0027Chapter702Calvorn = {
   story: "story-read/hell-difficulty-tutorial",
   position: 27,
   ownLength: 2248,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-01",
   externalIdentity: [
     {

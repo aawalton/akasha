@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0488Chapter488ADishBestServedC
   story: "mythrans-master-of-all-continued-completed",
   position: 488,
   ownLength: 4028,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0334Chapter341APromiseIsAPromi
   story: "mythrans-master-of-all-continued-completed",
   position: 334,
   ownLength: 3516,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-24",
   externalIdentity: [
     {

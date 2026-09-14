@@ -8,7 +8,7 @@ export const metaworldHopecore0114Chapter66Tanabatasama2 = {
   story: "metaworld-hopecore",
   position: 114,
   ownLength: 1977,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-23",
   externalIdentity: [
     {

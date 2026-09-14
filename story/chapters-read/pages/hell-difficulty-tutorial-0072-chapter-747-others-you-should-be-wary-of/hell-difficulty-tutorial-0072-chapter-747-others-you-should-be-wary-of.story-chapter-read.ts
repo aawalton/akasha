@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0072Chapter747OthersYouShouldBeWaryOf = {
   story: "story-read/hell-difficulty-tutorial",
   position: 72,
   ownLength: 2484,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-09",
   externalIdentity: [
     {

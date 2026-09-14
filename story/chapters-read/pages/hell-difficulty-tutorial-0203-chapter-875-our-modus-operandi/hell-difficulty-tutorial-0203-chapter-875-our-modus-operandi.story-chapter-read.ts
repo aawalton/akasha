@@ -7,7 +7,7 @@ export const hellDifficultyTutorial0203Chapter875OurModusOperandi = {
   story: "story-read/hell-difficulty-tutorial",
   position: 203,
   publishedAt: "2026-09-03",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

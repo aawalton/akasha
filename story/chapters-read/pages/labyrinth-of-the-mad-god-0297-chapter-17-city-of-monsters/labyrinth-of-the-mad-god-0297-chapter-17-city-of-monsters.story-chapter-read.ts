@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0297Chapter17CityOfMonsters = {
   story: "labyrinth-of-the-mad-god",
   position: 297,
   ownLength: 2617,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-27",
   externalIdentity: [
     {

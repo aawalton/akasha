@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0015Chapter15CorpseFilledRealityAka
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 15,
   ownLength: 1782,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-14",
   externalIdentity: [
     {

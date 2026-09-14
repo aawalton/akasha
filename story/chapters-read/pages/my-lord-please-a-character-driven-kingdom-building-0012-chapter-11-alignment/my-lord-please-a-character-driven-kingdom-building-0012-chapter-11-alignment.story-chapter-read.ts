@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0012Chapter11Alignment =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 12,
   ownLength: 1977,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-28",
   externalIdentity: [
     {

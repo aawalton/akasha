@@ -8,7 +8,7 @@ export const hellHorizonHealer0025Chapter25WhatUseIsAShieldThatCanTDefend = {
   story: "hell-horizon-healer",
   position: 25,
   ownLength: 1877,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-26",
   externalIdentity: [
     {

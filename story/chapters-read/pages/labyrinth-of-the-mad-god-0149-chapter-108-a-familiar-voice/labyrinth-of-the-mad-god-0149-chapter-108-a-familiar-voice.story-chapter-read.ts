@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0149Chapter108AFamiliarVoice = {
   story: "labyrinth-of-the-mad-god",
   position: 149,
   ownLength: 1921,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-26",
   externalIdentity: [
     {

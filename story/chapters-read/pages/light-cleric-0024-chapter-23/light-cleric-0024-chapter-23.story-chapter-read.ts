@@ -8,7 +8,7 @@ export const lightCleric0024Chapter23 = {
   story: "light-cleric",
   position: 24,
   ownLength: 2428,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-24",
   externalIdentity: [
     {

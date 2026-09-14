@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0496Chapter496HoldYourHorses =
   story: "mythrans-master-of-all-continued-completed",
   position: 496,
   ownLength: 3326,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-30",
   externalIdentity: [
     {

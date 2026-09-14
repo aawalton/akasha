@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0687Chapter686MeetAndGreet = {
   story: "mythrans-master-of-all-continued-completed",
   position: 687,
   ownLength: 2982,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-31",
   externalIdentity: [
     {

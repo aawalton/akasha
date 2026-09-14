@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0399Chapter402aJennifersJoyExp
   story: "mythrans-master-of-all-continued-completed",
   position: 399,
   ownLength: 3538,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-27",
   externalIdentity: [
     {

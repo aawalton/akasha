@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0236Chapter247DinnerDate = {
   story: "mythrans-master-of-all-continued-completed",
   position: 236,
   ownLength: 3872,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-07",
   externalIdentity: [
     {

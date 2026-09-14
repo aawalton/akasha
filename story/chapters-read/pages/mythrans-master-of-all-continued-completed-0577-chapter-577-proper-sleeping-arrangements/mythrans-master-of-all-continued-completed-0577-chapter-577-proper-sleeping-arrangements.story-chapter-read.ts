@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0577Chapter577ProperSleepingAr
   story: "mythrans-master-of-all-continued-completed",
   position: 577,
   ownLength: 2540,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-05",
   externalIdentity: [
     {

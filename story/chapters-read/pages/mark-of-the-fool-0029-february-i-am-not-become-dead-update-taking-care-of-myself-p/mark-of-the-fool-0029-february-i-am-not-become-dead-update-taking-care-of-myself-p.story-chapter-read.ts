@@ -9,7 +9,7 @@ export const markOfTheFool0029FebruaryIAmNotBecomeDeadUpdateTakingCareOfMyselfP 
   story: "story-read/mark-of-the-fool",
   position: 29,
   ownLength: 806,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-01",
   externalIdentity: [
     {

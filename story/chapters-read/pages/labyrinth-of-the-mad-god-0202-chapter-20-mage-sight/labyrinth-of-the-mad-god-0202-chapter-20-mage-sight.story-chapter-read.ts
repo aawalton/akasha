@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0202Chapter20MageSight = {
   story: "labyrinth-of-the-mad-god",
   position: 202,
   ownLength: 1869,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-30",
   externalIdentity: [
     {

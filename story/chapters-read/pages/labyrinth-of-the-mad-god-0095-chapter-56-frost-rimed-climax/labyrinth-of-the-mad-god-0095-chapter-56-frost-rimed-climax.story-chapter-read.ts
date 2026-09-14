@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0095Chapter56FrostRimedClimax = {
   story: "labyrinth-of-the-mad-god",
   position: 95,
   ownLength: 1733,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-25",
   externalIdentity: [
     {

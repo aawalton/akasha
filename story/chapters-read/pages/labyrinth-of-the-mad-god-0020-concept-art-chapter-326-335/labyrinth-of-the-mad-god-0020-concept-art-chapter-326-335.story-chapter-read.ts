@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0020ConceptArtChapter326335 = {
   story: "labyrinth-of-the-mad-god",
   position: 20,
   ownLength: 115,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-14",
   externalIdentity: [
     {

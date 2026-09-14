@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0077Chapter1009KungFuWizardIsNotAVerb = {
   story: "story-read/he-who-fights-with-monsters",
   position: 77,
   ownLength: 2085,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-19",
   externalIdentity: [
     {

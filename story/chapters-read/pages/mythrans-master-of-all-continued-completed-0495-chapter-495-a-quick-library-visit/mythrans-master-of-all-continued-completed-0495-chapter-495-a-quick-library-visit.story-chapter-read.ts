@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0495Chapter495AQuickLibraryVis
   story: "mythrans-master-of-all-continued-completed",
   position: 495,
   ownLength: 3082,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-29",
   externalIdentity: [
     {

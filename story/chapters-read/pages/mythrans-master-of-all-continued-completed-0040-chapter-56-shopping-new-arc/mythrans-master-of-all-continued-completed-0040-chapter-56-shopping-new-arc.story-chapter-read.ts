@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0040Chapter56ShoppingNewArc = 
   story: "mythrans-master-of-all-continued-completed",
   position: 40,
   ownLength: 2051,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-19",
   externalIdentity: [
     {

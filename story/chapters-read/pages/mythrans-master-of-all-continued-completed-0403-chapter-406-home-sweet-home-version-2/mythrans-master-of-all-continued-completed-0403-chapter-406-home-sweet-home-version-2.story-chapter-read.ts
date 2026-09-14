@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0403Chapter406HomeSweetHomeVer
   story: "mythrans-master-of-all-continued-completed",
   position: 403,
   ownLength: 3442,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0635Chapter634Bedtime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 635,
   ownLength: 2830,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-10",
   externalIdentity: [
     {

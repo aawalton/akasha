@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0004Chapter4MockBattle = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 4,
   ownLength: 1908,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-27",
   externalIdentity: [
     {

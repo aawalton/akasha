@@ -9,7 +9,7 @@ export const melodyOfMana0246Chapter232SpaceTimeMaintenance = {
   position: 246,
   ownLength: 1583,
   ownProgress: 1583,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:34:19.827Z",
   publishedAt: "2023-04-29",
   externalIdentity: [

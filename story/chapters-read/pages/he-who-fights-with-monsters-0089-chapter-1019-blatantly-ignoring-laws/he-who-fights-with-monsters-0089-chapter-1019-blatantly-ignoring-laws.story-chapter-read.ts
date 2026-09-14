@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0089Chapter1019BlatantlyIgnoringLaws = {
   story: "story-read/he-who-fights-with-monsters",
   position: 89,
   ownLength: 2258,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0730Chapter729PleasureInterlud
   story: "mythrans-master-of-all-continued-completed",
   position: 730,
   ownLength: 2841,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-13",
   externalIdentity: [
     {

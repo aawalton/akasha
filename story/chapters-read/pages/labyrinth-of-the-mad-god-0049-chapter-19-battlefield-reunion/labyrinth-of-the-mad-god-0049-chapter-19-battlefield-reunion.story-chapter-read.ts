@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0049Chapter19BattlefieldReunion = {
   story: "labyrinth-of-the-mad-god",
   position: 49,
   ownLength: 1687,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-30",
   externalIdentity: [
     {

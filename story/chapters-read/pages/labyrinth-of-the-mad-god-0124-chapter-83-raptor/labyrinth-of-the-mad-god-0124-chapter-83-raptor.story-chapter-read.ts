@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0124Chapter83Raptor = {
   story: "labyrinth-of-the-mad-god",
   position: 124,
   ownLength: 1598,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-27",
   externalIdentity: [
     {

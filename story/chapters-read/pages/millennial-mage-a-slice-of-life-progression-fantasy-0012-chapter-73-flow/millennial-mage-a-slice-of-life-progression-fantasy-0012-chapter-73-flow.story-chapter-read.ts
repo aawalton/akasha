@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0012Chapter73Flow = {
   position: 12,
   ownLength: 3845,
   ownProgress: 3845,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:35:40.732Z",
   publishedAt: "2022-02-09",
   externalIdentity: [

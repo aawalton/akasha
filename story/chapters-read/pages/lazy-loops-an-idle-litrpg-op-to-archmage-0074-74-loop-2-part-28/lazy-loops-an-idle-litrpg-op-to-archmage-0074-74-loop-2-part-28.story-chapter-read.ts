@@ -6,7 +6,7 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage007474Loop2Part28 = {
   slug: "lazy-loops-an-idle-litrpg-op-to-archmage-0074-74-loop-2-part-28",
   position: 74,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

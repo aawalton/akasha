@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0070Chapter745EventsForThe3rdTournament = {
   story: "story-read/hell-difficulty-tutorial",
   position: 70,
   ownLength: 2634,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-05",
   externalIdentity: [
     {

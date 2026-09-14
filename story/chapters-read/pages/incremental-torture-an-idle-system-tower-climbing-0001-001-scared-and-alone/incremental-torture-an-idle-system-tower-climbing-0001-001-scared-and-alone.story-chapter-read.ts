@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0001001ScaredAndAlone = 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 1,
   ownLength: 2266,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-03-15",
   externalIdentity: [
     {

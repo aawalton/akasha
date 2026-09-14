@@ -8,7 +8,7 @@ export const justAddMana0119116Book3Chapter15NeverAgain = {
   story: "just-add-mana",
   position: 119,
   ownLength: 2894,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-31",
   externalIdentity: [
     {

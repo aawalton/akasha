@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0600Chapter600WhatCanIDo = {
   story: "mythrans-master-of-all-continued-completed",
   position: 600,
   ownLength: 2694,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-28",
   externalIdentity: [
     {

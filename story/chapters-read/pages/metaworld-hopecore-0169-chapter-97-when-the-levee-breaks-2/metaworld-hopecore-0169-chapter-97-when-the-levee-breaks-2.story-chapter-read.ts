@@ -8,7 +8,7 @@ export const metaworldHopecore0169Chapter97WhenTheLeveeBreaks2 = {
   story: "metaworld-hopecore",
   position: 169,
   ownLength: 2032,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0082Chapter46TheWrongSteps = {
   story: "metaworld-hopecore",
   position: 82,
   ownLength: 4318,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-22",
   externalIdentity: [
     {

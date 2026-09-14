@@ -8,7 +8,7 @@ export const markOfTheFool0031MarkOfTheWebtoonNotAnAprilFoolSJokeFoolWebtoonJu =
   story: "story-read/mark-of-the-fool",
   position: 31,
   ownLength: 373,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-02",
   externalIdentity: [
     {

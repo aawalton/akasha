@@ -8,7 +8,7 @@ export const metaworldHopecore0149Chapter87CatSInTheCradle = {
   story: "metaworld-hopecore",
   position: 149,
   ownLength: 5559,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-07",
   externalIdentity: [
     {

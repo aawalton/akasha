@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0070Chapter65Underlayer 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 70,
   ownLength: 1915,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-24",
   externalIdentity: [
     {

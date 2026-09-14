@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0281Chapter1AProblemWithTeeth = {
   story: "labyrinth-of-the-mad-god",
   position: 281,
   ownLength: 2396,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-02",
   externalIdentity: [
     {

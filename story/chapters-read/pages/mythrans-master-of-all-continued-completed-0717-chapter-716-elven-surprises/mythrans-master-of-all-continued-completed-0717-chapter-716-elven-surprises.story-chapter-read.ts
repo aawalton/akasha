@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0717Chapter716ElvenSurprises =
   story: "mythrans-master-of-all-continued-completed",
   position: 717,
   ownLength: 3450,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-30",
   externalIdentity: [
     {

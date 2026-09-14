@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0327Chapter334aAnabellesFulfil
   story: "mythrans-master-of-all-continued-completed",
   position: 327,
   ownLength: 1795,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-18",
   externalIdentity: [
     {

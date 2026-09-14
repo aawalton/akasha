@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0693Chapter692GardenPartyConti
   story: "mythrans-master-of-all-continued-completed",
   position: 693,
   ownLength: 3547,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-06",
   externalIdentity: [
     {

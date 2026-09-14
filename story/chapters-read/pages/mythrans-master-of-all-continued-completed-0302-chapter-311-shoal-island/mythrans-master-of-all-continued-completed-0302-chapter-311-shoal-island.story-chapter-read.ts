@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0302Chapter311ShoalIsland = {
   story: "mythrans-master-of-all-continued-completed",
   position: 302,
   ownLength: 3299,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-18",
   externalIdentity: [
     {

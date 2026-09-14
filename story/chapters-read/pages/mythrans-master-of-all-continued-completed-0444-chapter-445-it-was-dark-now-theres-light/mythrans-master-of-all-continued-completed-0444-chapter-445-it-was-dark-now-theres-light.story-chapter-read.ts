@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0444Chapter445ItWasDarkNowTher
   story: "mythrans-master-of-all-continued-completed",
   position: 444,
   ownLength: 3231,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-08",
   externalIdentity: [
     {

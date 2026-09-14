@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0014014FreshMeat = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 14,
   ownLength: 2059,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-12",
   externalIdentity: [
     {

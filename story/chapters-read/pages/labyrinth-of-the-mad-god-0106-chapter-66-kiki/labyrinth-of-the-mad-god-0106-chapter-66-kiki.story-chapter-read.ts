@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0106Chapter66Kiki = {
   story: "labyrinth-of-the-mad-god",
   position: 106,
   ownLength: 1636,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-18",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0291Chapter11SixthSense = {
   story: "labyrinth-of-the-mad-god",
   position: 291,
   ownLength: 1973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-09",
   externalIdentity: [
     {

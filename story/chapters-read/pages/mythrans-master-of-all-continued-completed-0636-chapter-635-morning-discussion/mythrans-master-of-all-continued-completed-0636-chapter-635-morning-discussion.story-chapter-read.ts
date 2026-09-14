@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0636Chapter635MorningDiscussio
   story: "mythrans-master-of-all-continued-completed",
   position: 636,
   ownLength: 2701,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-11",
   externalIdentity: [
     {

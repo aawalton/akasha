@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0041Chapter57TheSageOfAges = {
   story: "mythrans-master-of-all-continued-completed",
   position: 41,
   ownLength: 2648,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0093Chapter1023BrokenWhatMattersMost = {
   story: "story-read/he-who-fights-with-monsters",
   position: 93,
   ownLength: 3004,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

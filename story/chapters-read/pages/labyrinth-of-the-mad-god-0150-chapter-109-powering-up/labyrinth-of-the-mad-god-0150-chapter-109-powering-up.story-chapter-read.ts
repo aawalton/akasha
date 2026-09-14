@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0150Chapter109PoweringUp = {
   story: "labyrinth-of-the-mad-god",
   position: 150,
   ownLength: 2272,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-28",
   externalIdentity: [
     {

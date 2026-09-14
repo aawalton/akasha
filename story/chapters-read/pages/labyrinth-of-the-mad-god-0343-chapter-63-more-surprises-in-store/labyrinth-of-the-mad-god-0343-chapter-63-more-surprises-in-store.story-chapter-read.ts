@@ -6,7 +6,7 @@ export const labyrinthOfTheMadGod0343Chapter63MoreSurprisesInStore = {
   slug: "labyrinth-of-the-mad-god-0343-chapter-63-more-surprises-in-store",
   position: 343,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

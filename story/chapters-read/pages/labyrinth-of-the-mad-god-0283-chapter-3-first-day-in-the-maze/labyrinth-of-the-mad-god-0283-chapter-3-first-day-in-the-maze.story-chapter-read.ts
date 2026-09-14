@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0283Chapter3FirstDayInTheMaze = {
   story: "labyrinth-of-the-mad-god",
   position: 283,
   ownLength: 2502,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-09",
   externalIdentity: [
     {

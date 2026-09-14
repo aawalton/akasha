@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0020Chapter20CreaturesOfTheAbyss = 
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 20,
   ownLength: 1777,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-23",
   externalIdentity: [
     {

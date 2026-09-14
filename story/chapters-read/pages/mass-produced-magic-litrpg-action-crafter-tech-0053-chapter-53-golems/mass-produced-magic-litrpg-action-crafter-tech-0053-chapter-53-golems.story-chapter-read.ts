@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0053Chapter53Golems = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 53,
   ownLength: 1837,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-30",
   externalIdentity: [
     {

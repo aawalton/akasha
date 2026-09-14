@@ -8,7 +8,7 @@ export const metaworldHopecore0134Chapter79AChangeIsGonnaCome2 = {
   story: "metaworld-hopecore",
   position: 134,
   ownLength: 2102,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-21",
   externalIdentity: [
     {

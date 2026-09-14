@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0331Chapter338WalinCounty = {
   story: "mythrans-master-of-all-continued-completed",
   position: 331,
   ownLength: 3760,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-21",
   externalIdentity: [
     {

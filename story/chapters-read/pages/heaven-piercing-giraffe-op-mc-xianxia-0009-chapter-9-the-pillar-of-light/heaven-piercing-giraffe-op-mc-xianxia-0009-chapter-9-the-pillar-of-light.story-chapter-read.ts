@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0009Chapter9ThePillarOfLight = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 9,
   ownLength: 1717,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

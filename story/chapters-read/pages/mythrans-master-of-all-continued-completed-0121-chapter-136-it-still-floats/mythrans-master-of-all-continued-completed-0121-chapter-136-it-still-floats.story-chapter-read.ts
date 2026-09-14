@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0121Chapter136ItStillFloats = 
   story: "mythrans-master-of-all-continued-completed",
   position: 121,
   ownLength: 6646,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-05",
   externalIdentity: [
     {

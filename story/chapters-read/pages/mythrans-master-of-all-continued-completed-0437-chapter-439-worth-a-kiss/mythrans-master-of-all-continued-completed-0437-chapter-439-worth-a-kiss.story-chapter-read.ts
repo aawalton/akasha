@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0437Chapter439WorthAKiss = {
   story: "mythrans-master-of-all-continued-completed",
   position: 437,
   ownLength: 3129,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0092Chapter1022WhileWeHaveTheChance = {
   story: "story-read/he-who-fights-with-monsters",
   position: 92,
   ownLength: 2867,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

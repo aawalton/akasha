@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0026026Warlord = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 26,
   ownLength: 2198,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-26",
   externalIdentity: [
     {

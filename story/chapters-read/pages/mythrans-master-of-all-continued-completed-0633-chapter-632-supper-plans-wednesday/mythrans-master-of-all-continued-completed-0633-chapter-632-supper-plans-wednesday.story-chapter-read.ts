@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0633Chapter632SupperPlansWedne
   story: "mythrans-master-of-all-continued-completed",
   position: 633,
   ownLength: 3159,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-08",
   externalIdentity: [
     {

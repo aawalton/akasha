@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0188Chapter6StrangersInTheSky = {
   story: "labyrinth-of-the-mad-god",
   position: 188,
   ownLength: 2559,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-27",
   externalIdentity: [
     {

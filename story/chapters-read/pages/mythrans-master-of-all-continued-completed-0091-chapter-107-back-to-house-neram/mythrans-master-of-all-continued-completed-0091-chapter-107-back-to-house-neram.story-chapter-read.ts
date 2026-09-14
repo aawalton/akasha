@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0091Chapter107BackToHouseNeram
   story: "mythrans-master-of-all-continued-completed",
   position: 91,
   ownLength: 4994,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-07",
   externalIdentity: [
     {

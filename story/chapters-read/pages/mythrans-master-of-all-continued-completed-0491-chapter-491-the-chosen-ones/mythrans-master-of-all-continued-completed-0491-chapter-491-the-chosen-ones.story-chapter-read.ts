@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0491Chapter491TheChosenOnes = 
   story: "mythrans-master-of-all-continued-completed",
   position: 491,
   ownLength: 3732,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-25",
   externalIdentity: [
     {

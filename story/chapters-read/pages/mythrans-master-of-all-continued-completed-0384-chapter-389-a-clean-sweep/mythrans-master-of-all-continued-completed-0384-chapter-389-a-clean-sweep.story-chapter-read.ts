@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0384Chapter389ACleanSweep = {
   story: "mythrans-master-of-all-continued-completed",
   position: 384,
   ownLength: 3402,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-15",
   externalIdentity: [
     {

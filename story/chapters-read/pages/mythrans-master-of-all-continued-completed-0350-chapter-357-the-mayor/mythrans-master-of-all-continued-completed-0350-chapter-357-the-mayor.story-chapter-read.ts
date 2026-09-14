@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0350Chapter357TheMayor = {
   story: "mythrans-master-of-all-continued-completed",
   position: 350,
   ownLength: 3261,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0438Chapter440XuunahRenHunter 
   story: "mythrans-master-of-all-continued-completed",
   position: 438,
   ownLength: 3591,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-03",
   externalIdentity: [
     {

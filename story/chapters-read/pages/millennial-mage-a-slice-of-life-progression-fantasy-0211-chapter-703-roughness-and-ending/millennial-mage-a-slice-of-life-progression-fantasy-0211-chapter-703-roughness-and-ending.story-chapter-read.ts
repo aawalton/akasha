@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0211Chapter703Roughness
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 211,
   ownLength: 2959,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-06",
   externalIdentity: [
     {

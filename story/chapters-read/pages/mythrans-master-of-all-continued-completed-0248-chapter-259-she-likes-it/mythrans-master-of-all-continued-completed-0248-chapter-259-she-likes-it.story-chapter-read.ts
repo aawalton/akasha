@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0248Chapter259SheLikesIt = {
   story: "mythrans-master-of-all-continued-completed",
   position: 248,
   ownLength: 3239,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-23",
   externalIdentity: [
     {

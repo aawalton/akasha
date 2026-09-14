@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0036Chapter34Hunter = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 36,
   ownLength: 2247,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-18",
   externalIdentity: [
     {

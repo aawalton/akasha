@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0544Chapter544WattDidYouSay = 
   story: "mythrans-master-of-all-continued-completed",
   position: 544,
   ownLength: 3359,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-02",
   externalIdentity: [
     {

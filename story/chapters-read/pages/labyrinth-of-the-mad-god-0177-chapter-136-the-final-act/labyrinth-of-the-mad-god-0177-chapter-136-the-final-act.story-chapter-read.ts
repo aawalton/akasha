@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0177Chapter136TheFinalAct = {
   story: "labyrinth-of-the-mad-god",
   position: 177,
   ownLength: 1773,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-30",
   externalIdentity: [
     {

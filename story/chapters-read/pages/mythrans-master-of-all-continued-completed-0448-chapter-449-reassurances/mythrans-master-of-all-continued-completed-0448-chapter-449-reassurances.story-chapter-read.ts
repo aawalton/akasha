@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0448Chapter449Reassurances = {
   story: "mythrans-master-of-all-continued-completed",
   position: 448,
   ownLength: 3229,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-12",
   externalIdentity: [
     {

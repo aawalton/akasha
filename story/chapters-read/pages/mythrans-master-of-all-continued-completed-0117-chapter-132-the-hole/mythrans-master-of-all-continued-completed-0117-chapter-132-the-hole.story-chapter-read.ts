@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0117Chapter132TheHole = {
   story: "mythrans-master-of-all-continued-completed",
   position: 117,
   ownLength: 4480,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-01",
   externalIdentity: [
     {

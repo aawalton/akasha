@@ -8,7 +8,7 @@ export const godOfTrash0321321YouThinkYouCanLeave = {
   story: "god-of-trash",
   position: 321,
   ownLength: 1929,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0083Chapter78Mortar = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 83,
   ownLength: 1975,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-14",
   externalIdentity: [
     {

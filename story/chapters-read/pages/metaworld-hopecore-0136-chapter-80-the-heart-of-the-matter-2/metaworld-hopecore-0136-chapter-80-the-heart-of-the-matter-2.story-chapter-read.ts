@@ -8,7 +8,7 @@ export const metaworldHopecore0136Chapter80TheHeartOfTheMatter2 = {
   story: "metaworld-hopecore",
   position: 136,
   ownLength: 3193,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-23",
   externalIdentity: [
     {

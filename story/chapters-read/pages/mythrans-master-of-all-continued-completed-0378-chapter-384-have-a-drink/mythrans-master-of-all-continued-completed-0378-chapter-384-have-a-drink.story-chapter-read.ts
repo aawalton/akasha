@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0378Chapter384HaveADrink = {
   story: "mythrans-master-of-all-continued-completed",
   position: 378,
   ownLength: 3323,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-10",
   externalIdentity: [
     {

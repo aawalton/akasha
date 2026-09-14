@@ -8,7 +8,7 @@ export const metaworldHopecore0012Chapter7WorkinForALivin = {
   story: "metaworld-hopecore",
   position: 12,
   ownLength: 1785,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

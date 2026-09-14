@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0045Chapter720GuessWhosBackIdiot = {
   story: "story-read/hell-difficulty-tutorial",
   position: 45,
   ownLength: 2159,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-01",
   externalIdentity: [
     {

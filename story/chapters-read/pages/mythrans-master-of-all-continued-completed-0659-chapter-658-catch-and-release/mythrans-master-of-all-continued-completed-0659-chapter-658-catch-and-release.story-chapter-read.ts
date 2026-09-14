@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0659Chapter658CatchAndRelease 
   story: "mythrans-master-of-all-continued-completed",
   position: 659,
   ownLength: 2732,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-04",
   externalIdentity: [
     {

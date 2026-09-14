@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0230Chapter47BittersweetRevelry = {
   story: "labyrinth-of-the-mad-god",
   position: 230,
   ownLength: 2122,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-01",
   externalIdentity: [
     {

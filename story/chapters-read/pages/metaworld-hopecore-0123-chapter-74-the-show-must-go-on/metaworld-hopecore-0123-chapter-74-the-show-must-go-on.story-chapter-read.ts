@@ -8,7 +8,7 @@ export const metaworldHopecore0123Chapter74TheShowMustGoOn = {
   story: "metaworld-hopecore",
   position: 123,
   ownLength: 2478,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-07",
   externalIdentity: [
     {

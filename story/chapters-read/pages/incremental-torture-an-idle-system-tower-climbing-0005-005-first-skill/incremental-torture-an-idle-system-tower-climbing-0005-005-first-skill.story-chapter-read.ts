@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0005005FirstSkill = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 5,
   ownLength: 2161,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-03-29",
   externalIdentity: [
     {

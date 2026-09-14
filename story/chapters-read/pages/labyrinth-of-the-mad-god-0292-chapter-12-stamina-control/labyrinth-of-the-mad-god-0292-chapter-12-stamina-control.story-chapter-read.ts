@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0292Chapter12StaminaControl = {
   story: "labyrinth-of-the-mad-god",
   position: 292,
   ownLength: 2235,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-13",
   externalIdentity: [
     {

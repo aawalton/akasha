@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0760Chapter759BarbiAndBanter =
   story: "mythrans-master-of-all-continued-completed",
   position: 760,
   ownLength: 2955,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-12",
   externalIdentity: [
     {

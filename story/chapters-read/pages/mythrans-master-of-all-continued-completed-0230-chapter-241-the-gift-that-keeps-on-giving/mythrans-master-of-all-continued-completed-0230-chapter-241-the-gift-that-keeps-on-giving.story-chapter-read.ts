@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0230Chapter241TheGiftThatKeeps
   story: "mythrans-master-of-all-continued-completed",
   position: 230,
   ownLength: 3494,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-01",
   externalIdentity: [
     {

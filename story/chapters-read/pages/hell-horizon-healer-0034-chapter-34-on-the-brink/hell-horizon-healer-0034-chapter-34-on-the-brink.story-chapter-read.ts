@@ -8,7 +8,7 @@ export const hellHorizonHealer0034Chapter34OnTheBrink = {
   story: "hell-horizon-healer",
   position: 34,
   ownLength: 1709,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

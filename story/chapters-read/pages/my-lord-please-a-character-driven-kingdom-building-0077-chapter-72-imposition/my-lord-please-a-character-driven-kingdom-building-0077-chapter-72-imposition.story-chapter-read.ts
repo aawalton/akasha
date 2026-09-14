@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0077Chapter72Imposition 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 77,
   ownLength: 1920,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-05",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const justAddMana0189184Book4Chapter28TheGrandDesignPt1 = {
   slug: "just-add-mana-0189-184-book-4-chapter-28-the-grand-design-pt-1",
   position: 189,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

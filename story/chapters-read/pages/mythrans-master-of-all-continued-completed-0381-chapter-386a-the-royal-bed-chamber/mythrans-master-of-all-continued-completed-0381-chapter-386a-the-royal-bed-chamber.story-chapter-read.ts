@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0381Chapter386aTheRoyalBedCham
   story: "mythrans-master-of-all-continued-completed",
   position: 381,
   ownLength: 2373,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-13",
   externalIdentity: [
     {

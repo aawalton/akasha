@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0007007SightForSoreEyes 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 7,
   ownLength: 2236,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-04",
   externalIdentity: [
     {

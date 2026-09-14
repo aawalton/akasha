@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0062Chapter58Undertone =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 62,
   ownLength: 2270,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-11",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0214Chapter706Assumptio
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 214,
   ownLength: 3345,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-15",
   externalIdentity: [
     {

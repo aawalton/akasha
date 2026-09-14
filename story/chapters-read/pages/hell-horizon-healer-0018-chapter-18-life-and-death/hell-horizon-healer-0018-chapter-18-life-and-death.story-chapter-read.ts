@@ -8,7 +8,7 @@ export const hellHorizonHealer0018Chapter18LifeAndDeath = {
   story: "hell-horizon-healer",
   position: 18,
   ownLength: 1996,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-16",
   externalIdentity: [
     {

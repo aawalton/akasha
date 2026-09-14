@@ -6,7 +6,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0192Chapter750AMeditati
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0192-chapter-750-a-meditative-moment",
   position: 192,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

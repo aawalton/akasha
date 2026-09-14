@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0107Chapter67Outmatched = {
   story: "labyrinth-of-the-mad-god",
   position: 107,
   ownLength: 1588,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-20",
   externalIdentity: [
     {

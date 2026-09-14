@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0337Chapter56Dreadeater = {
   story: "labyrinth-of-the-mad-god",
   position: 337,
   ownLength: 3224,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-17",
   externalIdentity: [
     {

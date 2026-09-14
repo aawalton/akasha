@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0099Chapter60AMomentaryRespite = {
   story: "labyrinth-of-the-mad-god",
   position: 99,
   ownLength: 2556,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-04",
   externalIdentity: [
     {

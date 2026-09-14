@@ -7,7 +7,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0133Chapter127Tangle = {
   story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 133,
   publishedAt: "2026-09-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

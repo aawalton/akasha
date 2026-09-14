@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0124Chapter798BeneathTheInversePyramid = {
   story: "story-read/hell-difficulty-tutorial",
   position: 124,
   ownLength: 2629,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-05",
   externalIdentity: [
     {

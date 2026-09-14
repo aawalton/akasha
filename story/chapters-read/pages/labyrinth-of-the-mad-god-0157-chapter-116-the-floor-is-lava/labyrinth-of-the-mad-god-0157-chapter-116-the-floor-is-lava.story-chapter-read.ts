@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0157Chapter116TheFloorIsLava = {
   story: "labyrinth-of-the-mad-god",
   position: 157,
   ownLength: 2498,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-14",
   externalIdentity: [
     {

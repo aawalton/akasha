@@ -8,7 +8,7 @@ export const metaworldHopecore0138Chapter81ThatSEntertainment2 = {
   story: "metaworld-hopecore",
   position: 138,
   ownLength: 1816,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-26",
   externalIdentity: [
     {

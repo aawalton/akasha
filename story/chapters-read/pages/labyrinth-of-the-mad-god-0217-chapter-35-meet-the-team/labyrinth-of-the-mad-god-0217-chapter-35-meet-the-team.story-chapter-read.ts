@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0217Chapter35MeetTheTeam = {
   story: "labyrinth-of-the-mad-god",
   position: 217,
   ownLength: 2657,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-03",
   externalIdentity: [
     {

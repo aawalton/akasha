@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0294Chapter14DiscerningEye = {
   story: "labyrinth-of-the-mad-god",
   position: 294,
   ownLength: 2858,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0235Chapter52AdvancementInTheMagicalArts = {
   story: "labyrinth-of-the-mad-god",
   position: 235,
   ownLength: 1887,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-13",
   externalIdentity: [
     {

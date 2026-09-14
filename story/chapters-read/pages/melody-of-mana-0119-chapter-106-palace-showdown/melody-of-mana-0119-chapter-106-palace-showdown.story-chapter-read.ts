@@ -9,7 +9,7 @@ export const melodyOfMana0119Chapter106PalaceShowdown = {
   position: 119,
   ownLength: 2391,
   ownProgress: 2391,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:30:14.049Z",
   publishedAt: "2022-04-10",
   externalIdentity: [

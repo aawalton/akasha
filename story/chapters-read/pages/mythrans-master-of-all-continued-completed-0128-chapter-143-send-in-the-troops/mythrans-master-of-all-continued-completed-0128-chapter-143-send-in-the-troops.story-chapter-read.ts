@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0128Chapter143SendInTheTroops 
   story: "mythrans-master-of-all-continued-completed",
   position: 128,
   ownLength: 4091,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-12",
   externalIdentity: [
     {

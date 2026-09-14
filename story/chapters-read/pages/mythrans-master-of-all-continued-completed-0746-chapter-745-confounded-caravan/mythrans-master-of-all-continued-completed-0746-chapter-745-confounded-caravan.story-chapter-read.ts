@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0746Chapter745ConfoundedCarava
   story: "mythrans-master-of-all-continued-completed",
   position: 746,
   ownLength: 3392,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-29",
   externalIdentity: [
     {

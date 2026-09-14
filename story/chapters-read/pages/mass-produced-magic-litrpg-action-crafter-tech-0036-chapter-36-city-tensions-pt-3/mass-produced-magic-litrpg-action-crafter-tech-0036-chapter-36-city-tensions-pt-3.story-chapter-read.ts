@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0036Chapter36CityTensionsPt
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 36,
   ownLength: 2142,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-28",
   externalIdentity: [
     {

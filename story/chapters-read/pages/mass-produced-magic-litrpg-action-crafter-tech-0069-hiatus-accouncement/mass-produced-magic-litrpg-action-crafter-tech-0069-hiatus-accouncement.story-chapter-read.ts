@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0069HiatusAccouncement = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 69,
   ownLength: 134,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-12",
   externalIdentity: [
     {

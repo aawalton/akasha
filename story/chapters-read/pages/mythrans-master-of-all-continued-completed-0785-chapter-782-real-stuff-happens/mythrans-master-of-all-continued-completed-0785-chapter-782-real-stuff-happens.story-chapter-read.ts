@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0785Chapter782RealStuffHappens
   story: "mythrans-master-of-all-continued-completed",
   position: 785,
   ownLength: 3159,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-12-03",
   externalIdentity: [
     {

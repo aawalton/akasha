@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0131Chapter90CrystalAndFlame = {
   story: "labyrinth-of-the-mad-god",
   position: 131,
   ownLength: 2031,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-12",
   externalIdentity: [
     {

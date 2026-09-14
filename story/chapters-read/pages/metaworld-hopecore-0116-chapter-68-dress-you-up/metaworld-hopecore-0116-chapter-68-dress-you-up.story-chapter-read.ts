@@ -8,7 +8,7 @@ export const metaworldHopecore0116Chapter68DressYouUp = {
   story: "metaworld-hopecore",
   position: 116,
   ownLength: 3734,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-27",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const motherOfLearning007171ShadowsOfThePast = {
   position: 71,
   ownLength: 7533,
   ownProgress: 7533,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:46:27.475Z",
   publishedAt: "2019-01-01",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0300Chapter20SecretStash = {
   story: "labyrinth-of-the-mad-god",
   position: 300,
   ownLength: 2337,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-06",
   externalIdentity: [
     {

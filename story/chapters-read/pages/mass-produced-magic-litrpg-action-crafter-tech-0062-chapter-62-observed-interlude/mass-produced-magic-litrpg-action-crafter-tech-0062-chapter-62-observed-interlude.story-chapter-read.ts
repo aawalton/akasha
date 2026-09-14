@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0062Chapter62ObservedInterl
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 62,
   ownLength: 1453,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-22",
   externalIdentity: [
     {

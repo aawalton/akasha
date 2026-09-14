@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0018Chapter18RainedOnBySwords = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 18,
   ownLength: 1739,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-18",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0098Chapter55UeWoMuiteAruko2 = {
   story: "metaworld-hopecore",
   position: 98,
   ownLength: 1436,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-03",
   externalIdentity: [
     {

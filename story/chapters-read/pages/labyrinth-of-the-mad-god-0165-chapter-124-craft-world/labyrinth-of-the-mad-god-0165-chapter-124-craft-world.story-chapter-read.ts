@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0165Chapter124CraftWorld = {
   story: "labyrinth-of-the-mad-god",
   position: 165,
   ownLength: 2295,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-02",
   externalIdentity: [
     {

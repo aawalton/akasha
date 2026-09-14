@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0011011AmalgamatedHorror
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 11,
   ownLength: 2102,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-08",
   externalIdentity: [
     {

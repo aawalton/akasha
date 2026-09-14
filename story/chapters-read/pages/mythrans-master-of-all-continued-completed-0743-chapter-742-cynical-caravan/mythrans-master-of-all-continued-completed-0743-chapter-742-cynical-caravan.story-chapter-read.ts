@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0743Chapter742CynicalCaravan =
   story: "mythrans-master-of-all-continued-completed",
   position: 743,
   ownLength: 3096,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-26",
   externalIdentity: [
     {

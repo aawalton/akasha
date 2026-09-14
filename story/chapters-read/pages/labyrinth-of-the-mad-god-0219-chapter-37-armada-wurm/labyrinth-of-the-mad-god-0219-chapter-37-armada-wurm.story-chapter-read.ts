@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0219Chapter37ArmadaWurm = {
   story: "labyrinth-of-the-mad-god",
   position: 219,
   ownLength: 1853,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-08",
   externalIdentity: [
     {

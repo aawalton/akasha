@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0005Chapter5FaceSlap = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 5,
   ownLength: 2240,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-29",
   externalIdentity: [
     {

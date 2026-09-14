@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0322Chapter330TakeMeHome = {
   story: "mythrans-master-of-all-continued-completed",
   position: 322,
   ownLength: 3285,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-13",
   externalIdentity: [
     {

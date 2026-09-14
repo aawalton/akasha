@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0145Chapter104FrozenFlame = {
   story: "labyrinth-of-the-mad-god",
   position: 145,
   ownLength: 2358,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0300Chapter309TheShipPartThree
   story: "mythrans-master-of-all-continued-completed",
   position: 300,
   ownLength: 3017,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-16",
   externalIdentity: [
     {

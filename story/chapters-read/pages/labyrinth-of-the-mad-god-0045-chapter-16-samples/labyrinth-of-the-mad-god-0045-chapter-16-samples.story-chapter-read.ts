@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0045Chapter16Samples = {
   story: "labyrinth-of-the-mad-god",
   position: 45,
   ownLength: 1770,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-23",
   externalIdentity: [
     {

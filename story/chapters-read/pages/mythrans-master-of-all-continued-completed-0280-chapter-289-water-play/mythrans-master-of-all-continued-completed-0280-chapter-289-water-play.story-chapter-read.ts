@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0280Chapter289WaterPlay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 280,
   ownLength: 5924,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-24",
   externalIdentity: [
     {

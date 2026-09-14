@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0330Chapter49RainyDay = {
   story: "labyrinth-of-the-mad-god",
   position: 330,
   ownLength: 1747,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-24",
   externalIdentity: [
     {

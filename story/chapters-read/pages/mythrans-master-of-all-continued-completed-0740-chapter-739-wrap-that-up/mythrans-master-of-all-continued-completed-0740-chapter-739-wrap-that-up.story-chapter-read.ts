@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0740Chapter739WrapThatUp = {
   story: "mythrans-master-of-all-continued-completed",
   position: 740,
   ownLength: 2927,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-23",
   externalIdentity: [
     {

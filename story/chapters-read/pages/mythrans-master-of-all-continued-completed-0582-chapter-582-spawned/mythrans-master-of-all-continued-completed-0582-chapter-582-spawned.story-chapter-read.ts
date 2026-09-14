@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0582Chapter582Spawned = {
   story: "mythrans-master-of-all-continued-completed",
   position: 582,
   ownLength: 2603,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-10",
   externalIdentity: [
     {

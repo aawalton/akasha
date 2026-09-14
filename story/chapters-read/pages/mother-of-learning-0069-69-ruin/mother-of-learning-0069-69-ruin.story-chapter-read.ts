@@ -9,7 +9,7 @@ export const motherOfLearning006969Ruin = {
   position: 69,
   ownLength: 7950,
   ownProgress: 7950,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:46:22.275Z",
   publishedAt: "2018-12-30",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0093Chapter109TradingForIdeas 
   story: "mythrans-master-of-all-continued-completed",
   position: 93,
   ownLength: 4821,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-09",
   externalIdentity: [
     {

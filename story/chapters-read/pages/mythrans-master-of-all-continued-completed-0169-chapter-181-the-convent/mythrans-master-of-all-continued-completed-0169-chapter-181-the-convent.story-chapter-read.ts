@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0169Chapter181TheConvent = {
   story: "mythrans-master-of-all-continued-completed",
   position: 169,
   ownLength: 4336,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-25",
   externalIdentity: [
     {

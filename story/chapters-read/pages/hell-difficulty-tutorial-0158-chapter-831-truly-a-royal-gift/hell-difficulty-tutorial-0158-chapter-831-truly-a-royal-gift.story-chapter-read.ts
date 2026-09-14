@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0158Chapter831TrulyARoyalGift = {
   story: "story-read/hell-difficulty-tutorial",
   position: 158,
   ownLength: 2489,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-21",
   externalIdentity: [
     {

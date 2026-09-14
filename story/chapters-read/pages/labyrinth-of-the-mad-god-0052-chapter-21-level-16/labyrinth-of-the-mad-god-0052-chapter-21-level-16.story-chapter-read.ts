@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0052Chapter21Level16 = {
   story: "labyrinth-of-the-mad-god",
   position: 52,
   ownLength: 1927,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-04",
   externalIdentity: [
     {

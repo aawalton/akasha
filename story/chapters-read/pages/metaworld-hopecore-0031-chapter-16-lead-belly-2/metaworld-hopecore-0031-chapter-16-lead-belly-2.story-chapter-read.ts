@@ -8,7 +8,7 @@ export const metaworldHopecore0031Chapter16LeadBelly2 = {
   story: "metaworld-hopecore",
   position: 31,
   ownLength: 2610,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

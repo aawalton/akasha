@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0125Chapter119Paths = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 125,
   ownLength: 2338,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-24",
   externalIdentity: [
     {

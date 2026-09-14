@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0088Chapter83Divergence 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 88,
   ownLength: 1983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-22",
   externalIdentity: [
     {

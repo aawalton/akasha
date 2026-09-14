@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0108Chapter123YouveBeenShelved
   story: "mythrans-master-of-all-continued-completed",
   position: 108,
   ownLength: 4959,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-23",
   externalIdentity: [
     {

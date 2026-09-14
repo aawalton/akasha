@@ -9,7 +9,7 @@ export const melodyOfMana0316Epilogue1 = {
   position: 316,
   ownLength: 956,
   ownProgress: 956,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:36:43.558Z",
   publishedAt: "2024-01-27",
   externalIdentity: [

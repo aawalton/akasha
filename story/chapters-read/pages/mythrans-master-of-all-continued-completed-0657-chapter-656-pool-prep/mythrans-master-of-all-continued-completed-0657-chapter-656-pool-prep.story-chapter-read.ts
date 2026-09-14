@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0657Chapter656PoolPrep = {
   story: "mythrans-master-of-all-continued-completed",
   position: 657,
   ownLength: 3030,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-02",
   externalIdentity: [
     {

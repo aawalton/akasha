@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0197Chapter209GiantProblems = 
   story: "mythrans-master-of-all-continued-completed",
   position: 197,
   ownLength: 3292,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0229Chapter720LeaAndRan
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 229,
   ownLength: 2743,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0529Chapter529DeckedOut = {
   story: "mythrans-master-of-all-continued-completed",
   position: 529,
   ownLength: 3377,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-08",
   externalIdentity: [
     {

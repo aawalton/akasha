@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0443Chapter444MirrorMirror = {
   story: "mythrans-master-of-all-continued-completed",
   position: 443,
   ownLength: 4290,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-07",
   externalIdentity: [
     {

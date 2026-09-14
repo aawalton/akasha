@@ -8,7 +8,7 @@ export const metaworldHopecore0063Chapter34BridgeOverTroubledWater2 = {
   story: "metaworld-hopecore",
   position: 63,
   ownLength: 2282,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-11",
   externalIdentity: [
     {

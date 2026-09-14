@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0478Chapter478Voyeurs = {
   story: "mythrans-master-of-all-continued-completed",
   position: 478,
   ownLength: 3245,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-10",
   externalIdentity: [
     {

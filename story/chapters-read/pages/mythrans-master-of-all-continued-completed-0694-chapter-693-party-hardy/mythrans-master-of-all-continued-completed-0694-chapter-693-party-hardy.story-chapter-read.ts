@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0694Chapter693PartyHardy = {
   story: "mythrans-master-of-all-continued-completed",
   position: 694,
   ownLength: 3124,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-07",
   externalIdentity: [
     {

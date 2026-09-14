@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0024024Solitude = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 24,
   ownLength: 2148,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-24",
   externalIdentity: [
     {

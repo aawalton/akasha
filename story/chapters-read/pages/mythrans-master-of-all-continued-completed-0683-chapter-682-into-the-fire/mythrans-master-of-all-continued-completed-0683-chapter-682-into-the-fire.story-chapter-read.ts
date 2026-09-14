@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0683Chapter682IntoTheFire = {
   story: "mythrans-master-of-all-continued-completed",
   position: 683,
   ownLength: 2813,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-27",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0566Chapter566ACityFullPart1 =
   story: "mythrans-master-of-all-continued-completed",
   position: 566,
   ownLength: 2994,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-24",
   externalIdentity: [
     {

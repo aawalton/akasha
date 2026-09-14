@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0545Chapter545WhatWillYouChoos
   story: "mythrans-master-of-all-continued-completed",
   position: 545,
   ownLength: 2538,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-03",
   externalIdentity: [
     {

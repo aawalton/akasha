@@ -8,7 +8,7 @@ export const metaworldHopecore0049Chapter26TheManComesAround = {
   story: "metaworld-hopecore",
   position: 49,
   ownLength: 2343,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

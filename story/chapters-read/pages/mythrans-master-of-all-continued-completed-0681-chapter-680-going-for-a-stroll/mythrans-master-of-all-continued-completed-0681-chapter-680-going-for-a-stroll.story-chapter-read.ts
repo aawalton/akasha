@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0681Chapter680GoingForAStroll 
   story: "mythrans-master-of-all-continued-completed",
   position: 681,
   ownLength: 3180,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-25",
   externalIdentity: [
     {

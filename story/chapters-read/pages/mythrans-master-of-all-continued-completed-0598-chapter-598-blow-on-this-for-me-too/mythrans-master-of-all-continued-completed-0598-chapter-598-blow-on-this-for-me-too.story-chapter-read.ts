@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0598Chapter598BlowOnThisForMeT
   story: "mythrans-master-of-all-continued-completed",
   position: 598,
   ownLength: 2413,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-26",
   externalIdentity: [
     {

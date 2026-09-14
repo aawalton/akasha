@@ -8,7 +8,7 @@ export const metaworldHopecore0059Chapter32AHardDaySNight = {
   story: "metaworld-hopecore",
   position: 59,
   ownLength: 2336,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-10",
   externalIdentity: [
     {

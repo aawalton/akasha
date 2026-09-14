@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0018018Ruthless = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 18,
   ownLength: 2372,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-17",
   externalIdentity: [
     {

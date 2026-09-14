@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0402Chapter405InTheHospital = 
   story: "mythrans-master-of-all-continued-completed",
   position: 402,
   ownLength: 2846,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellHorizonHealer0020Chapter20RentIsDue = {
   story: "hell-horizon-healer",
   position: 20,
   ownLength: 1495,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-18",
   externalIdentity: [
     {

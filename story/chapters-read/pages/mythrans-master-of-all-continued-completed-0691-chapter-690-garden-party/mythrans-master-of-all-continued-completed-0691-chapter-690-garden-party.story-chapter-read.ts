@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0691Chapter690GardenParty = {
   story: "mythrans-master-of-all-continued-completed",
   position: 691,
   ownLength: 3459,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-04",
   externalIdentity: [
     {

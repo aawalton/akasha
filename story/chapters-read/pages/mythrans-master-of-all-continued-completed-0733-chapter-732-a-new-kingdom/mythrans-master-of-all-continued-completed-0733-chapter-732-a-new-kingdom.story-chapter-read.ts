@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0733Chapter732ANewKingdom = {
   story: "mythrans-master-of-all-continued-completed",
   position: 733,
   ownLength: 3428,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-16",
   externalIdentity: [
     {

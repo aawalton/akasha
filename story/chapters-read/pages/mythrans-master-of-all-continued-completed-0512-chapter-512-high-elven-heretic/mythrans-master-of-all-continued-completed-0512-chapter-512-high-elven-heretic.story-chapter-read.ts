@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0512Chapter512HighElvenHeretic
   story: "mythrans-master-of-all-continued-completed",
   position: 512,
   ownLength: 3176,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-15",
   externalIdentity: [
     {

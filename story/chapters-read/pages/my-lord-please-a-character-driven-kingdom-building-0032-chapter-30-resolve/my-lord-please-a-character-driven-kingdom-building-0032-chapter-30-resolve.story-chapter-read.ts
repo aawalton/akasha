@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0032Chapter30Resolve = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 32,
   ownLength: 2050,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-14",
   externalIdentity: [
     {

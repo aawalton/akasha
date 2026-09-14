@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0058Chapter991ThisOfferKindOfSucks = {
   story: "story-read/he-who-fights-with-monsters",
   position: 58,
   ownLength: 2501,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-16",
   externalIdentity: [
     {

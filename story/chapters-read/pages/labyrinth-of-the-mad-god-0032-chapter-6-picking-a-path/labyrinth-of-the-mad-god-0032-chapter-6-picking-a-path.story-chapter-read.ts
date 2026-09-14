@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0032Chapter6PickingAPath = {
   story: "labyrinth-of-the-mad-god",
   position: 32,
   ownLength: 1921,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-31",
   externalIdentity: [
     {

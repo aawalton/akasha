@@ -7,7 +7,7 @@ export const hellDifficultyTutorial0206Chapter878GoodAnt = {
   story: "story-read/hell-difficulty-tutorial",
   position: 206,
   publishedAt: "2026-09-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

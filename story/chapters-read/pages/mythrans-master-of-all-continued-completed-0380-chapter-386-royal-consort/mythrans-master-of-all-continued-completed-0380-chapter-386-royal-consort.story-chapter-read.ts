@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0380Chapter386RoyalConsort = {
   story: "mythrans-master-of-all-continued-completed",
   position: 380,
   ownLength: 3973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-12",
   externalIdentity: [
     {

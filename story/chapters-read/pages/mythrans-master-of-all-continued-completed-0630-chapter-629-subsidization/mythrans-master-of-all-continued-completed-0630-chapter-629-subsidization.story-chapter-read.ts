@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0630Chapter629Subsidization = 
   story: "mythrans-master-of-all-continued-completed",
   position: 630,
   ownLength: 2732,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-05",
   externalIdentity: [
     {

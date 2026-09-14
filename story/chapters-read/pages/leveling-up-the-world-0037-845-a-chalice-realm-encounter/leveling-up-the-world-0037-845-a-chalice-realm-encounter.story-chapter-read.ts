@@ -9,7 +9,7 @@ export const levelingUpTheWorld0037845AChaliceRealmEncounter = {
   position: 37,
   ownLength: 2057,
   ownProgress: 2057,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:41:26.507Z",
   publishedAt: "2023-12-15",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0079155IiiTarrasque2666783 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 79,
   ownLength: 1996,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

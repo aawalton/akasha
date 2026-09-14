@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0267Chapter84ShadyCave = {
   story: "labyrinth-of-the-mad-god",
   position: 267,
   ownLength: 1603,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-26",
   externalIdentity: [
     {

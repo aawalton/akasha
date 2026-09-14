@@ -8,7 +8,7 @@ export const metaworldHopecore0024Chapter13StarryStarryNight = {
   story: "metaworld-hopecore",
   position: 24,
   ownLength: 2975,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

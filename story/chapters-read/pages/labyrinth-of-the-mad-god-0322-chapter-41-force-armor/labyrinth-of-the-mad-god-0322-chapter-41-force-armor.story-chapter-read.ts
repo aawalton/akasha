@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0322Chapter41ForceArmor = {
   story: "labyrinth-of-the-mad-god",
   position: 322,
   ownLength: 2007,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-19",
   externalIdentity: [
     {

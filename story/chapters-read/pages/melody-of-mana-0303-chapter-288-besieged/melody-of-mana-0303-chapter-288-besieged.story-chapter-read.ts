@@ -9,7 +9,7 @@ export const melodyOfMana0303Chapter288Besieged = {
   position: 303,
   ownLength: 1364,
   ownProgress: 1364,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:36:17.190Z",
   publishedAt: "2023-11-29",
   externalIdentity: [

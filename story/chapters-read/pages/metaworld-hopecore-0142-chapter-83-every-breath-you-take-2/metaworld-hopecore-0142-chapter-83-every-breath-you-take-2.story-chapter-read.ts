@@ -8,7 +8,7 @@ export const metaworldHopecore0142Chapter83EveryBreathYouTake2 = {
   story: "metaworld-hopecore",
   position: 142,
   ownLength: 2939,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-30",
   externalIdentity: [
     {

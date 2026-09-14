@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0239Chapter250StainedGlass = {
   story: "mythrans-master-of-all-continued-completed",
   position: 239,
   ownLength: 3576,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-10",
   externalIdentity: [
     {

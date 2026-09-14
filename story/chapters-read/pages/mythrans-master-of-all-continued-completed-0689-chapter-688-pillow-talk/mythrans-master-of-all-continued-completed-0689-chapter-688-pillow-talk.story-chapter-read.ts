@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0689Chapter688PillowTalk = {
   story: "mythrans-master-of-all-continued-completed",
   position: 689,
   ownLength: 2833,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-02",
   externalIdentity: [
     {

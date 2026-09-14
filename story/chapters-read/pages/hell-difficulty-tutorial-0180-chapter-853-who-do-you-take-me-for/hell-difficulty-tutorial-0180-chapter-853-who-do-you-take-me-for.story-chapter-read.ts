@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0180Chapter853WhoDoYouTakeMeFor = {
   story: "story-read/hell-difficulty-tutorial",
   position: 180,
   ownLength: 2438,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-04",
   externalIdentity: [
     {

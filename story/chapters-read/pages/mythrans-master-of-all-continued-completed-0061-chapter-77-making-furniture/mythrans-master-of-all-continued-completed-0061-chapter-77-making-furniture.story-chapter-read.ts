@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0061Chapter77MakingFurniture =
   story: "mythrans-master-of-all-continued-completed",
   position: 61,
   ownLength: 3054,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-09",
   externalIdentity: [
     {

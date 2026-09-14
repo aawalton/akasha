@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0690Chapter689PrepForTheGarden
   story: "mythrans-master-of-all-continued-completed",
   position: 690,
   ownLength: 2852,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0166Chapter125GearingUp = {
   story: "labyrinth-of-the-mad-god",
   position: 166,
   ownLength: 2316,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-05",
   externalIdentity: [
     {

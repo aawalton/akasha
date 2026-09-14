@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0377Chapter383TheCause = {
   story: "mythrans-master-of-all-continued-completed",
   position: 377,
   ownLength: 3743,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellHorizonHealer0028Chapter28LifeInHellDifficulty = {
   story: "hell-horizon-healer",
   position: 28,
   ownLength: 1636,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-01",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0099Chapter56Sukiyaki = {
   story: "metaworld-hopecore",
   position: 99,
   ownLength: 3918,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-04",
   externalIdentity: [
     {

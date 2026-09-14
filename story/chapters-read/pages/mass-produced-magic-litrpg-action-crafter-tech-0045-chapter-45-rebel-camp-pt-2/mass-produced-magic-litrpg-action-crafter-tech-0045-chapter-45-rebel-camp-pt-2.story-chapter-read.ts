@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0045Chapter45RebelCampPt2 =
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 45,
   ownLength: 1996,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-12",
   externalIdentity: [
     {

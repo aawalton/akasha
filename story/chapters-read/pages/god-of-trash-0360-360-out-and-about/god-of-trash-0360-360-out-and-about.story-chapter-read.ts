@@ -7,7 +7,7 @@ export const godOfTrash0360360OutAndAbout = {
   story: "story-read/god-of-trash",
   position: 360,
   publishedAt: "2026-09-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

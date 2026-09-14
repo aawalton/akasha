@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0135Chapter94KillingTime = {
   story: "labyrinth-of-the-mad-god",
   position: 135,
   ownLength: 1780,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-21",
   externalIdentity: [
     {

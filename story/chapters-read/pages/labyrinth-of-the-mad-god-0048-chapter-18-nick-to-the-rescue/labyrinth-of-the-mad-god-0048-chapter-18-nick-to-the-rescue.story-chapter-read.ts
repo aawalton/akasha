@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0048Chapter18NickToTheRescue = {
   story: "labyrinth-of-the-mad-god",
   position: 48,
   ownLength: 1601,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-28",
   externalIdentity: [
     {

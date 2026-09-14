@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0014Chapter14GroundLevel = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 14,
   ownLength: 1917,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-13",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0204Chapter696Ending = 
   position: 204,
   ownLength: 4451,
   ownProgress: 3732,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-20",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const markOfTheFool0015MarkOfTheFool7LaunchesInEbookAndPaperback = {
   position: 15,
   ownLength: 154,
   ownProgress: 6,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0682Chapter681LunchAndDessert 
   story: "mythrans-master-of-all-continued-completed",
   position: 682,
   ownLength: 3451,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-26",
   externalIdentity: [
     {

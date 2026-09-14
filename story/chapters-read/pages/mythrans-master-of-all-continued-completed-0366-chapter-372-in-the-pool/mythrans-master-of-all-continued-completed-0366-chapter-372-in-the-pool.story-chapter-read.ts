@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0366Chapter372InThePool = {
   story: "mythrans-master-of-all-continued-completed",
   position: 366,
   ownLength: 3417,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-29",
   externalIdentity: [
     {

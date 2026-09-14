@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0584Chapter584WinnerWinnerChic
   story: "mythrans-master-of-all-continued-completed",
   position: 584,
   ownLength: 2772,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-12",
   externalIdentity: [
     {

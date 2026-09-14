@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0482Chapter482MakeMeSomething 
   story: "mythrans-master-of-all-continued-completed",
   position: 482,
   ownLength: 3433,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-14",
   externalIdentity: [
     {

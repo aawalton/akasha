@@ -8,7 +8,7 @@ export const newGam3Plus0012HiddenEdits = {
   story: "new-gam3-plus",
   position: 12,
   ownLength: 2782,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

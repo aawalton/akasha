@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0014Chapter30TheWild = {
   story: "mythrans-master-of-all-continued-completed",
   position: 14,
   ownLength: 2302,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-18",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0050Chapter725Accumulation = {
   story: "story-read/hell-difficulty-tutorial",
   position: 50,
   ownLength: 2158,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-08",
   externalIdentity: [
     {

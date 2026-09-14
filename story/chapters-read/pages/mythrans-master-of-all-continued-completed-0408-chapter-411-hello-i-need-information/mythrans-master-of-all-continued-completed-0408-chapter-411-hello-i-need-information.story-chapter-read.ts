@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0408Chapter411HelloINeedInform
   story: "mythrans-master-of-all-continued-completed",
   position: 408,
   ownLength: 3402,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-03",
   externalIdentity: [
     {

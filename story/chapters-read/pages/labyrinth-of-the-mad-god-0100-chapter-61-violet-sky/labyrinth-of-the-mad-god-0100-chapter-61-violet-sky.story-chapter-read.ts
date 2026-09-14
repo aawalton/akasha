@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0100Chapter61VioletSky = {
   story: "labyrinth-of-the-mad-god",
   position: 100,
   ownLength: 1671,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-06",
   externalIdentity: [
     {

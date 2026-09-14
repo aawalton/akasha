@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0238220IiSlipgate2819457 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 238,
   ownLength: 2803,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

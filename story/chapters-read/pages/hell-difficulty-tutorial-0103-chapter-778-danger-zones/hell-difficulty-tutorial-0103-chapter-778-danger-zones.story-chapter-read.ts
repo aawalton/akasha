@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0103Chapter778DangerZones = {
   story: "story-read/hell-difficulty-tutorial",
   position: 103,
   ownLength: 2170,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-24",
   externalIdentity: [
     {

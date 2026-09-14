@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation00011ARudeAwakening = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 1,
   ownLength: 4446,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-29",
   externalIdentity: [
     {

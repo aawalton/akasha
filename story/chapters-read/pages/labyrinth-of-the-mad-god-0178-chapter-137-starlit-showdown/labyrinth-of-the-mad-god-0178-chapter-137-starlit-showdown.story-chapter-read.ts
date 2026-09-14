@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0178Chapter137StarlitShowdown = {
   story: "labyrinth-of-the-mad-god",
   position: 178,
   ownLength: 2916,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-02",
   externalIdentity: [
     {

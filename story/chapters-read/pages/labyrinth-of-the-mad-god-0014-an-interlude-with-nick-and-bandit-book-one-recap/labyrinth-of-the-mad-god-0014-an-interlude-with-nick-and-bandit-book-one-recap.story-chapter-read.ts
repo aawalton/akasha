@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0014AnInterludeWithNickAndBanditBookOneRecap = 
   story: "labyrinth-of-the-mad-god",
   position: 14,
   ownLength: 1436,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-02",
   externalIdentity: [
     {

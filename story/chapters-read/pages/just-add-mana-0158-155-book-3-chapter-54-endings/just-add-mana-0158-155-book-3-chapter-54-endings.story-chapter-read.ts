@@ -8,7 +8,7 @@ export const justAddMana0158155Book3Chapter54Endings = {
   story: "just-add-mana",
   position: 158,
   ownLength: 4149,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-30",
   externalIdentity: [
     {

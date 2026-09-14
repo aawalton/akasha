@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0020Chapter36DidIDoThat = {
   story: "mythrans-master-of-all-continued-completed",
   position: 20,
   ownLength: 3173,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-28",
   externalIdentity: [
     {

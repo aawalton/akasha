@@ -8,7 +8,7 @@ export const hellHorizonHealer0037Chapter37TheAdventuresOfHannaAndPom = {
   story: "hell-horizon-healer",
   position: 37,
   ownLength: 1411,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-07",
   externalIdentity: [
     {

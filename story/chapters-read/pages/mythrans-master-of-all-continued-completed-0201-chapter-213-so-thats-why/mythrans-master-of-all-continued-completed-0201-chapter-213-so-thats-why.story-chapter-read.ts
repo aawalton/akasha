@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0201Chapter213SoThatsWhy = {
   story: "mythrans-master-of-all-continued-completed",
   position: 201,
   ownLength: 2804,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-03",
   externalIdentity: [
     {

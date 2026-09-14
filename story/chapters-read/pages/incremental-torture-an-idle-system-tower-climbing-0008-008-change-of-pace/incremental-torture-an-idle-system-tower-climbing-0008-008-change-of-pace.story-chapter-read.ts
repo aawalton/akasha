@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0008008ChangeOfPace = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 8,
   ownLength: 2044,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-05",
   externalIdentity: [
     {

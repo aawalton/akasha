@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0771Chapter770SuccubiSubmissio
   story: "mythrans-master-of-all-continued-completed",
   position: 771,
   ownLength: 3141,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-22",
   externalIdentity: [
     {

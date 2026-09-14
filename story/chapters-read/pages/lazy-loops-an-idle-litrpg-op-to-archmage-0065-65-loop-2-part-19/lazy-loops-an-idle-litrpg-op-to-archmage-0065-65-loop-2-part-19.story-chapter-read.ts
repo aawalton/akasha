@@ -8,7 +8,7 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage006565Loop2Part19 = {
   story: "lazy-loops-an-idle-litrpg-op-to-archmage",
   position: 65,
   ownLength: 2123,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-19",
   externalIdentity: [
     {

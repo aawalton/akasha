@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0083Chapter1013SomethingJasony = {
   story: "story-read/he-who-fights-with-monsters",
   position: 83,
   ownLength: 2571,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

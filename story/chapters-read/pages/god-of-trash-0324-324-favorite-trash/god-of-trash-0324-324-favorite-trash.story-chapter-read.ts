@@ -8,7 +8,7 @@ export const godOfTrash0324324FavoriteTrash = {
   story: "god-of-trash",
   position: 324,
   ownLength: 2134,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-15",
   externalIdentity: [
     {

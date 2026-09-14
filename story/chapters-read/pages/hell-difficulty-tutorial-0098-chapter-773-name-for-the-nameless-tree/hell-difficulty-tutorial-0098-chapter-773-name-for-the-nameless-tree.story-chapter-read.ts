@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0098Chapter773NameForTheNamelessTree = {
   story: "story-read/hell-difficulty-tutorial",
   position: 98,
   ownLength: 2382,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-17",
   externalIdentity: [
     {

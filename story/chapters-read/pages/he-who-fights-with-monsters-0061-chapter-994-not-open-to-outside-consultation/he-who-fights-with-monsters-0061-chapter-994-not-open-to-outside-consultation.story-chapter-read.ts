@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0061Chapter994NotOpenToOutsideConsultation =
   story: "story-read/he-who-fights-with-monsters",
   position: 61,
   ownLength: 3169,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-23",
   externalIdentity: [
     {

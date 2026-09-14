@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0022Chapter697ManFromTheEarth = {
   story: "story-read/hell-difficulty-tutorial",
   position: 22,
   ownLength: 2075,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-24",
   externalIdentity: [
     {

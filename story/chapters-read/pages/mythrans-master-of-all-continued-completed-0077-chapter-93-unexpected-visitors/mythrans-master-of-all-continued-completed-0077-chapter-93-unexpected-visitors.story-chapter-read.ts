@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0077Chapter93UnexpectedVisitor
   story: "mythrans-master-of-all-continued-completed",
   position: 77,
   ownLength: 3415,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-23",
   externalIdentity: [
     {

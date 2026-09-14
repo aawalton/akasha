@@ -8,7 +8,7 @@ export const markOfTheCrijik0001MarkOfTheCrijikGeneralUpdateBook4And5Update = {
   story: "story-read/mark-of-the-crijik",
   position: 1,
   ownLength: 3038,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-22",
   externalIdentity: [
     {

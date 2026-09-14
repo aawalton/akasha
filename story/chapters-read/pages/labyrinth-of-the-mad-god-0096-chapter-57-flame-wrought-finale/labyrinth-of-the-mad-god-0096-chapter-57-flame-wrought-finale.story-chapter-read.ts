@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0096Chapter57FlameWroughtFinale = {
   story: "labyrinth-of-the-mad-god",
   position: 96,
   ownLength: 1939,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-27",
   externalIdentity: [
     {

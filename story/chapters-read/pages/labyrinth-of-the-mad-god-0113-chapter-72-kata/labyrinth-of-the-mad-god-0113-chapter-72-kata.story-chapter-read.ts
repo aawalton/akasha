@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0113Chapter72Kata = {
   story: "labyrinth-of-the-mad-god",
   position: 113,
   ownLength: 1522,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-01",
   externalIdentity: [
     {

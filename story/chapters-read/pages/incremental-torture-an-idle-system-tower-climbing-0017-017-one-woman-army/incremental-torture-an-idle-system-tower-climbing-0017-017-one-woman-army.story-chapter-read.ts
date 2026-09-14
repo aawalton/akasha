@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0017017OneWomanArmy = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 17,
   ownLength: 2246,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0161Chapter93SixteenGoingOnSeventeen = {
   story: "metaworld-hopecore",
   position: 161,
   ownLength: 4360,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-21",
   externalIdentity: [
     {

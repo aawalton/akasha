@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0459Chapter459FullyArmored = {
   story: "mythrans-master-of-all-continued-completed",
   position: 459,
   ownLength: 3267,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-22",
   externalIdentity: [
     {

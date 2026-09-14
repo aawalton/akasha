@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0192Chapter864ACompetitionInTheEnd = {
   story: "story-read/hell-difficulty-tutorial",
   position: 192,
   ownLength: 2425,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-19",
   externalIdentity: [
     {

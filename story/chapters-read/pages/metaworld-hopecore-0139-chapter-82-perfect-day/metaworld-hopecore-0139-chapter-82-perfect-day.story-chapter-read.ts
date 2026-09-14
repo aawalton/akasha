@@ -8,7 +8,7 @@ export const metaworldHopecore0139Chapter82PerfectDay = {
   story: "metaworld-hopecore",
   position: 139,
   ownLength: 2633,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0050143ICaptureI2641615 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 50,
   ownLength: 2348,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

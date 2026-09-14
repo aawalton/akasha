@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0592Chapter592AsTheWaterChurns
   story: "mythrans-master-of-all-continued-completed",
   position: 592,
   ownLength: 2479,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-20",
   externalIdentity: [
     {

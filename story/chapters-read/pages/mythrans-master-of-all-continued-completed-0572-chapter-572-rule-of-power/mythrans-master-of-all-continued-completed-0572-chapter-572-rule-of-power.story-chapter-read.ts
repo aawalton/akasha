@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0572Chapter572RuleOfPower = {
   story: "mythrans-master-of-all-continued-completed",
   position: 572,
   ownLength: 2548,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-30",
   externalIdentity: [
     {

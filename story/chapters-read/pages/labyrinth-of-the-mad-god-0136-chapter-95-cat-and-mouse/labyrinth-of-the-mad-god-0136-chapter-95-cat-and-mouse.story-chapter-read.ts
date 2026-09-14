@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0136Chapter95CatAndMouse = {
   story: "labyrinth-of-the-mad-god",
   position: 136,
   ownLength: 1320,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-24",
   externalIdentity: [
     {

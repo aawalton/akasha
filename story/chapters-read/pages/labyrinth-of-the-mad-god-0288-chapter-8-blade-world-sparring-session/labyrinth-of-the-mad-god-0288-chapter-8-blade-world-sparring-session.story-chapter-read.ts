@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0288Chapter8BladeWorldSparringSession = {
   story: "labyrinth-of-the-mad-god",
   position: 288,
   ownLength: 1723,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-27",
   externalIdentity: [
     {

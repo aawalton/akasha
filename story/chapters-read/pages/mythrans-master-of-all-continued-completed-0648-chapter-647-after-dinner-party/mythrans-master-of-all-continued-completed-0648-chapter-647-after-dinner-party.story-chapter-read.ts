@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0648Chapter647AfterDinnerParty
   story: "mythrans-master-of-all-continued-completed",
   position: 648,
   ownLength: 3048,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-23",
   externalIdentity: [
     {

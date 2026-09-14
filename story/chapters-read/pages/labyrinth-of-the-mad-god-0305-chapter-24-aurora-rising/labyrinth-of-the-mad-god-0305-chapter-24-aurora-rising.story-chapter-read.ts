@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0305Chapter24AuroraRising = {
   story: "labyrinth-of-the-mad-god",
   position: 305,
   ownLength: 1904,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-20",
   externalIdentity: [
     {

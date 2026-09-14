@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0141Chapter100BreakingAndEntry = {
   story: "labyrinth-of-the-mad-god",
   position: 141,
   ownLength: 1818,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-07",
   externalIdentity: [
     {

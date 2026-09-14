@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0120Chapter135AFarmerVisits = 
   story: "mythrans-master-of-all-continued-completed",
   position: 120,
   ownLength: 4368,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-04",
   externalIdentity: [
     {

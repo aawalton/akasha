@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0142Chapter101Stowaways = {
   story: "labyrinth-of-the-mad-god",
   position: 142,
   ownLength: 2008,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-10",
   externalIdentity: [
     {

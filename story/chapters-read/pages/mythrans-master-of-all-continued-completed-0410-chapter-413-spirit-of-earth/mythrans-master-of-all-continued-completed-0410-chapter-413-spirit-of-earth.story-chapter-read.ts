@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0410Chapter413SpiritOfEarth = 
   story: "mythrans-master-of-all-continued-completed",
   position: 410,
   ownLength: 3736,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-05",
   externalIdentity: [
     {

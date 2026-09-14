@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0009Chapter25TheParty = {
   story: "mythrans-master-of-all-continued-completed",
   position: 9,
   ownLength: 3663,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-13",
   externalIdentity: [
     {

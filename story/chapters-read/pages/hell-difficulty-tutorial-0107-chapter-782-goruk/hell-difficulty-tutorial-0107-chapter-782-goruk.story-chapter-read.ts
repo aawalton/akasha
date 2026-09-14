@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0107Chapter782Goruk = {
   story: "story-read/hell-difficulty-tutorial",
   position: 107,
   ownLength: 2408,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0029Chapter28BreakOut = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 29,
   ownLength: 1587,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-25",
   externalIdentity: [
     {

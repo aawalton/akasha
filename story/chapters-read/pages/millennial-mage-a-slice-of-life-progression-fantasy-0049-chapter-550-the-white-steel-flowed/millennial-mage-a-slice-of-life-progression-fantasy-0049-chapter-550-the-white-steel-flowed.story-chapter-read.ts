@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0049Chapter550TheWhiteS
   position: 49,
   ownLength: 2634,
   ownProgress: 2634,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:36:52.096Z",
   publishedAt: "2025-04-14",
   externalIdentity: [

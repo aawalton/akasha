@@ -6,7 +6,7 @@ export const godOfTrash0361361AQuickStop = {
   slug: "god-of-trash-0361-361-a-quick-stop",
   position: 361,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0273Chapter90PlacingThePortal = {
   story: "labyrinth-of-the-mad-god",
   position: 273,
   ownLength: 2092,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-09",
   externalIdentity: [
     {

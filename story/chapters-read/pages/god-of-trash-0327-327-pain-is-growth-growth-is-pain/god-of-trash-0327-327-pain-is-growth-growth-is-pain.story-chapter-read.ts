@@ -8,7 +8,7 @@ export const godOfTrash0327327PainIsGrowthGrowthIsPain = {
   story: "god-of-trash",
   position: 327,
   ownLength: 1851,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0158Chapter170aShowerSlightlyE
   story: "mythrans-master-of-all-continued-completed",
   position: 158,
   ownLength: 1822,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-14",
   externalIdentity: [
     {

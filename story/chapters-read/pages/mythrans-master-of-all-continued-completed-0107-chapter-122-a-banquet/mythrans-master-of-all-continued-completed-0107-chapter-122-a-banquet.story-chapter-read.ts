@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0107Chapter122ABanquet = {
   story: "mythrans-master-of-all-continued-completed",
   position: 107,
   ownLength: 3927,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-22",
   externalIdentity: [
     {

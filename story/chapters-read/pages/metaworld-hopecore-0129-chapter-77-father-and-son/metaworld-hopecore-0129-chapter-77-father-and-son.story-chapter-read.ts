@@ -8,7 +8,7 @@ export const metaworldHopecore0129Chapter77FatherAndSon = {
   story: "metaworld-hopecore",
   position: 129,
   ownLength: 3050,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-16",
   externalIdentity: [
     {

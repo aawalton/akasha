@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0783Chapter780RabbitPunches = 
   story: "mythrans-master-of-all-continued-completed",
   position: 783,
   ownLength: 3177,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-12-01",
   externalIdentity: [
     {

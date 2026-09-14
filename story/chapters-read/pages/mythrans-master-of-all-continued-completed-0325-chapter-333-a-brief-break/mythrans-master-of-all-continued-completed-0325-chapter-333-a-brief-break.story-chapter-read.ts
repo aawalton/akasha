@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0325Chapter333ABriefBreak = {
   story: "mythrans-master-of-all-continued-completed",
   position: 325,
   ownLength: 3404,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-16",
   externalIdentity: [
     {

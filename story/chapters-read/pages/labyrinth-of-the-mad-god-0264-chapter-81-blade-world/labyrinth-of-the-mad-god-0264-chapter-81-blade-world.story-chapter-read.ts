@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0264Chapter81BladeWorld = {
   story: "labyrinth-of-the-mad-god",
   position: 264,
   ownLength: 2045,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-19",
   externalIdentity: [
     {

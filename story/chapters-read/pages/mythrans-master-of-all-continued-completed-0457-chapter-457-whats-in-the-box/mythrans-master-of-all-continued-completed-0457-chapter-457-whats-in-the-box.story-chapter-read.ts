@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0457Chapter457WhatsInTheBox = 
   story: "mythrans-master-of-all-continued-completed",
   position: 457,
   ownLength: 3201,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-20",
   externalIdentity: [
     {

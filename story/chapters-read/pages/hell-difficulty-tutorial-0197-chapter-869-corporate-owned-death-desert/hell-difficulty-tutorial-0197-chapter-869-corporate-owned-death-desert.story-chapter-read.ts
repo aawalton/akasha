@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0197Chapter869CorporateOwnedDeathDesert = {
   story: "story-read/hell-difficulty-tutorial",
   position: 197,
   ownLength: 2160,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-26",
   externalIdentity: [
     {

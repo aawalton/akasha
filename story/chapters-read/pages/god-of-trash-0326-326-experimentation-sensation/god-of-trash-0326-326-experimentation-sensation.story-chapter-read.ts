@@ -8,7 +8,7 @@ export const godOfTrash0326326ExperimentationSensation = {
   story: "god-of-trash",
   position: 326,
   ownLength: 1859,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-19",
   externalIdentity: [
     {

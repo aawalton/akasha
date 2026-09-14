@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0002Chapter2Purgatory = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 2,
   ownLength: 2379,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-16",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0500Chapter500NewResidence = {
   story: "mythrans-master-of-all-continued-completed",
   position: 500,
   ownLength: 5127,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-03",
   externalIdentity: [
     {

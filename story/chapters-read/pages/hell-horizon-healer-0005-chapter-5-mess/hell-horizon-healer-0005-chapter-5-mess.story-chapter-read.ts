@@ -8,7 +8,7 @@ export const hellHorizonHealer0005Chapter5Mess = {
   story: "hell-horizon-healer",
   position: 5,
   ownLength: 1830,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

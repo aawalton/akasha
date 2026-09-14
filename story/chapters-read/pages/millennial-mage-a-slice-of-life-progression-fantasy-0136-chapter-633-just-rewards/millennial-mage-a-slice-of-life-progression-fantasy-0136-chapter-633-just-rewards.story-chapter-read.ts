@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0136Chapter633JustRewar
   position: 136,
   ownLength: 2659,
   ownProgress: 2659,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:41:47.272Z",
   publishedAt: "2025-11-10",
   externalIdentity: [

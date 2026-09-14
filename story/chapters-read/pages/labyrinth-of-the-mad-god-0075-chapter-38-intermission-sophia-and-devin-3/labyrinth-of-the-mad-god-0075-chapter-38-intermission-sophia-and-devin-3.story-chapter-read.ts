@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0075Chapter38IntermissionSophiaAndDevin3 = {
   story: "labyrinth-of-the-mad-god",
   position: 75,
   ownLength: 1683,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-14",
   externalIdentity: [
     {

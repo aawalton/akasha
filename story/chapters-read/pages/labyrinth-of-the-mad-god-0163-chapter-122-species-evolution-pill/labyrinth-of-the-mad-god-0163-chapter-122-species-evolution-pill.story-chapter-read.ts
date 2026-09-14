@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0163Chapter122SpeciesEvolutionPill = {
   story: "labyrinth-of-the-mad-god",
   position: 163,
   ownLength: 1974,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-28",
   externalIdentity: [
     {

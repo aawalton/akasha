@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0048Chapter64BackAtTheMines = 
   story: "mythrans-master-of-all-continued-completed",
   position: 48,
   ownLength: 3961,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-27",
   externalIdentity: [
     {

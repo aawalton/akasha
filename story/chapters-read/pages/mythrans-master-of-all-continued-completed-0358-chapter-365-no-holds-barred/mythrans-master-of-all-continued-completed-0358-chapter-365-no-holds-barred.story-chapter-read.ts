@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0358Chapter365NoHoldsBarred = 
   story: "mythrans-master-of-all-continued-completed",
   position: 358,
   ownLength: 3348,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-22",
   externalIdentity: [
     {

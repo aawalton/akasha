@@ -8,7 +8,7 @@ export const godOfTrash0304304AndSoItEnds = {
   story: "god-of-trash",
   position: 304,
   ownLength: 2082,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-24",
   externalIdentity: [
     {

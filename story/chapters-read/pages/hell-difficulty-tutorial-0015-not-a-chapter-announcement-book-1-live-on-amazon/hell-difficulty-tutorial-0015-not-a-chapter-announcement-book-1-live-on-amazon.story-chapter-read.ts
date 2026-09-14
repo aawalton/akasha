@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0015NotAChapterAnnouncementBook1LiveOnAmazon 
   story: "story-read/hell-difficulty-tutorial",
   position: 15,
   ownLength: 260,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-14",
   externalIdentity: [
     {

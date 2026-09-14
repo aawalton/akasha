@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0072Chapter1004SchedulingYourCallousDumping 
   story: "story-read/he-who-fights-with-monsters",
   position: 72,
   ownLength: 2109,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-08",
   externalIdentity: [
     {

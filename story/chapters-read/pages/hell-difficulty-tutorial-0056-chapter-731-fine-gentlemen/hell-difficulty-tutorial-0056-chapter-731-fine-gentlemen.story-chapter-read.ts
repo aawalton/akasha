@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0056Chapter731FineGentlemen = {
   story: "story-read/hell-difficulty-tutorial",
   position: 56,
   ownLength: 2195,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-18",
   externalIdentity: [
     {

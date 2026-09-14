@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0246Chapter64ShrineOfTheFacelessGods = {
   story: "labyrinth-of-the-mad-god",
   position: 246,
   ownLength: 2047,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-10",
   externalIdentity: [
     {

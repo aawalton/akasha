@@ -8,7 +8,7 @@ export const markOfTheFool0027AnnouncementOathsLaunchesToday = {
   story: "story-read/mark-of-the-fool",
   position: 27,
   ownLength: 297,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-23",
   externalIdentity: [
     {

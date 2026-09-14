@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0118Chapter77IntermissionSophiaAndShaun = {
   story: "labyrinth-of-the-mad-god",
   position: 118,
   ownLength: 2495,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-13",
   externalIdentity: [
     {

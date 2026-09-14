@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0179Chapter138TheFateOfEarth = {
   story: "labyrinth-of-the-mad-god",
   position: 179,
   ownLength: 2708,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-04",
   externalIdentity: [
     {

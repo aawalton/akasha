@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0061061CreativeTechnique
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 61,
   ownLength: 2085,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-26",
   externalIdentity: [
     {

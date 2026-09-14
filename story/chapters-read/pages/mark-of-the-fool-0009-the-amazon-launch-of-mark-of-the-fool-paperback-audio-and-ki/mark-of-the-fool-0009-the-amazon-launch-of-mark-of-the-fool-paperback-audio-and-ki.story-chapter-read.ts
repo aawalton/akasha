@@ -8,7 +8,7 @@ export const markOfTheFool0009TheAmazonLaunchOfMarkOfTheFoolPaperbackAudioAndKi 
   story: "story-read/mark-of-the-fool",
   position: 9,
   ownLength: 363,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0025Book3Chapter0BookTwoRecap = {
   story: "labyrinth-of-the-mad-god",
   position: 25,
   ownLength: 1462,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-19",
   externalIdentity: [
     {

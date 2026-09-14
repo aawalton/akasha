@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0013HalloweenSpecialNonCanonNibbleToRemember 
   story: "story-read/hell-difficulty-tutorial",
   position: 13,
   ownLength: 1449,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-31",
   externalIdentity: [
     {

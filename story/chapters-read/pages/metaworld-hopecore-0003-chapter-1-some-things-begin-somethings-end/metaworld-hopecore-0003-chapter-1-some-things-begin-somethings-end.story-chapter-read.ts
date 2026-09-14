@@ -8,7 +8,7 @@ export const metaworldHopecore0003Chapter1SomeThingsBeginSomethingsEnd = {
   story: "metaworld-hopecore",
   position: 3,
   ownLength: 3139,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const hellDifficultyTutorial0207Chapter879ITotallyForgotAbout = {
   slug: "hell-difficulty-tutorial-0207-chapter-879-i-totally-forgot-about",
   position: 207,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

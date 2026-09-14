@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0038Chapter713PathfinderThane = {
   story: "story-read/hell-difficulty-tutorial",
   position: 38,
   ownLength: 2353,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-16",
   externalIdentity: [
     {

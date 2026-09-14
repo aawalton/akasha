@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0088Chapter104CampingOut = {
   story: "mythrans-master-of-all-continued-completed",
   position: 88,
   ownLength: 6407,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-04",
   externalIdentity: [
     {

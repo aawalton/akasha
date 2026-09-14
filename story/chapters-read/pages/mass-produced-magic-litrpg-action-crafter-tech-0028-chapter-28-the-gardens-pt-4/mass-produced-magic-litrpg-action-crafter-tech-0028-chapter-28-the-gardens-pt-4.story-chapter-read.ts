@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0028Chapter28TheGardensPt4 
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 28,
   ownLength: 2397,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-14",
   externalIdentity: [
     {

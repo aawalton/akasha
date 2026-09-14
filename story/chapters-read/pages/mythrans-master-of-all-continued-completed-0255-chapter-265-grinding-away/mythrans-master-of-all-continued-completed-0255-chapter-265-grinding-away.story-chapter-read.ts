@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0255Chapter265GrindingAway = {
   story: "mythrans-master-of-all-continued-completed",
   position: 255,
   ownLength: 3268,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-29",
   externalIdentity: [
     {

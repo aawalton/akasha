@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0084Chapter100Discharged = {
   story: "mythrans-master-of-all-continued-completed",
   position: 84,
   ownLength: 6940,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-30",
   externalIdentity: [
     {

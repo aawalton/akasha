@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0602Chapter602FatedMeeting = {
   story: "mythrans-master-of-all-continued-completed",
   position: 602,
   ownLength: 2887,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-30",
   externalIdentity: [
     {

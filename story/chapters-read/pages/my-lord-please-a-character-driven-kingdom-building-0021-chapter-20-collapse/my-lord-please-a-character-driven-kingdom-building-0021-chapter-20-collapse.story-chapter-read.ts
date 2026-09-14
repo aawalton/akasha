@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0021Chapter20Collapse = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 21,
   ownLength: 2330,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-03",
   externalIdentity: [
     {

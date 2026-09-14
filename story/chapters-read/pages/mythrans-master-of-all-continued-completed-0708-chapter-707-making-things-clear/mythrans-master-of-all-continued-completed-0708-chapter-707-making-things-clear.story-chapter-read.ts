@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0708Chapter707MakingThingsClea
   story: "mythrans-master-of-all-continued-completed",
   position: 708,
   ownLength: 3038,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-21",
   externalIdentity: [
     {

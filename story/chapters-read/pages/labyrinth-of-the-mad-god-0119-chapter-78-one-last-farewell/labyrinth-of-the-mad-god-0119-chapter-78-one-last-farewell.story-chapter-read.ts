@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0119Chapter78OneLastFarewell = {
   story: "labyrinth-of-the-mad-god",
   position: 119,
   ownLength: 1621,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-15",
   externalIdentity: [
     {

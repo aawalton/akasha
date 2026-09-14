@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0076Chapter751OpenChallengeCircuitBegins = {
   story: "story-read/hell-difficulty-tutorial",
   position: 76,
   ownLength: 3004,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-15",
   externalIdentity: [
     {

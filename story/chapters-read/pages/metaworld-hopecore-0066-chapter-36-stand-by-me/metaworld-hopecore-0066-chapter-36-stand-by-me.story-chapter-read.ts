@@ -8,7 +8,7 @@ export const metaworldHopecore0066Chapter36StandByMe = {
   story: "metaworld-hopecore",
   position: 66,
   ownLength: 1832,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-12",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0289Chapter9AbilityAdvancementSkillTrainingAnd 
   story: "labyrinth-of-the-mad-god",
   position: 289,
   ownLength: 2174,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-02",
   externalIdentity: [
     {

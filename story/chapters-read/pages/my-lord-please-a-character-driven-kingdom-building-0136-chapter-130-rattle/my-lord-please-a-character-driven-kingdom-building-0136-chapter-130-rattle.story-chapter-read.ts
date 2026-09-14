@@ -6,7 +6,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0136Chapter130Rattle = {
   slug: "my-lord-please-a-character-driven-kingdom-building-0136-chapter-130-rattle",
   position: 136,
   publishedAt: "2026-09-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

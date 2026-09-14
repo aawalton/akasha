@@ -8,7 +8,7 @@ export const hellHorizonHealer0031Chapter31Hiding = {
   story: "hell-horizon-healer",
   position: 31,
   ownLength: 1845,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-22",
   externalIdentity: [
     {

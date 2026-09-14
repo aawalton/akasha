@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0233Chapter50BrickByBrick = {
   story: "labyrinth-of-the-mad-god",
   position: 233,
   ownLength: 1958,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-08",
   externalIdentity: [
     {

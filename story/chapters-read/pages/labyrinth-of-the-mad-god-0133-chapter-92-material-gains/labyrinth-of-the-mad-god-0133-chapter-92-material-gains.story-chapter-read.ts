@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0133Chapter92MaterialGains = {
   story: "labyrinth-of-the-mad-god",
   position: 133,
   ownLength: 1707,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-17",
   externalIdentity: [
     {

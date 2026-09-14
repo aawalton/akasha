@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0639Chapter638DarkPlans = {
   story: "mythrans-master-of-all-continued-completed",
   position: 639,
   ownLength: 2642,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-14",
   externalIdentity: [
     {

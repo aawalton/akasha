@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0305Chapter314HighExpectations
   story: "mythrans-master-of-all-continued-completed",
   position: 305,
   ownLength: 3171,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-21",
   externalIdentity: [
     {

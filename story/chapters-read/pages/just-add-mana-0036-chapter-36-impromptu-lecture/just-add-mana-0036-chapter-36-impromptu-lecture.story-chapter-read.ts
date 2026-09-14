@@ -9,7 +9,7 @@ export const justAddMana0036Chapter36ImpromptuLecture = {
   position: 36,
   ownLength: 4992,
   ownProgress: 4992,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:48:47.909Z",
   publishedAt: "2025-09-18",
   externalIdentity: [

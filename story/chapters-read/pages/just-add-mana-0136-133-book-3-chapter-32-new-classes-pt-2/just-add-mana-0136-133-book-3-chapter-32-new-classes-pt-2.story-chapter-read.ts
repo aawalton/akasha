@@ -8,7 +8,7 @@ export const justAddMana0136133Book3Chapter32NewClassesPt2 = {
   story: "just-add-mana",
   position: 136,
   ownLength: 3255,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

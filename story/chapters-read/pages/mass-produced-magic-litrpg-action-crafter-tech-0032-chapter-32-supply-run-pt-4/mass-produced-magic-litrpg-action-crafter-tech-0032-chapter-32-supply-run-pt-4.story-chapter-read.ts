@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0032Chapter32SupplyRunPt4 =
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 32,
   ownLength: 2167,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-21",
   externalIdentity: [
     {

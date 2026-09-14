@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0270Chapter87BattleRoyale = {
   story: "labyrinth-of-the-mad-god",
   position: 270,
   ownLength: 1818,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-02",
   externalIdentity: [
     {

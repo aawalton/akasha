@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0301Chapter310EngineTrouble = 
   story: "mythrans-master-of-all-continued-completed",
   position: 301,
   ownLength: 3749,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-17",
   externalIdentity: [
     {

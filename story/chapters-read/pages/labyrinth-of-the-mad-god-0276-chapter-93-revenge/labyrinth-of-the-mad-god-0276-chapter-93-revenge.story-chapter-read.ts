@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0276Chapter93Revenge = {
   story: "labyrinth-of-the-mad-god",
   position: 276,
   ownLength: 1854,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-16",
   externalIdentity: [
     {

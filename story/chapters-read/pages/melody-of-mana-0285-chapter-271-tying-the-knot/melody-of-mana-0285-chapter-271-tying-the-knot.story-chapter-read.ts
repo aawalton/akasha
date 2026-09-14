@@ -9,7 +9,7 @@ export const melodyOfMana0285Chapter271TyingTheKnot = {
   position: 285,
   ownLength: 1867,
   ownProgress: 1867,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:35:40.398Z",
   publishedAt: "2023-09-27",
   externalIdentity: [

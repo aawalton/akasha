@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0328Chapter47AlphaStrike = {
   story: "labyrinth-of-the-mad-god",
   position: 328,
   ownLength: 2091,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-17",
   externalIdentity: [
     {

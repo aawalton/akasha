@@ -8,7 +8,7 @@ export const justAddMana0185180Book4Chapter24TheBlackVaultPt1 = {
   story: "just-add-mana",
   position: 185,
   ownLength: 3728,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-01",
   externalIdentity: [
     {

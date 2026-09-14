@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0298Chapter18SkitteringSkirmish = {
   story: "labyrinth-of-the-mad-god",
   position: 298,
   ownLength: 2687,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

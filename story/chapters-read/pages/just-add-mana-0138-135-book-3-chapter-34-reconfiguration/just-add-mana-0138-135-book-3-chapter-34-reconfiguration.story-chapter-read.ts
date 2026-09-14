@@ -8,7 +8,7 @@ export const justAddMana0138135Book3Chapter34Reconfiguration = {
   story: "just-add-mana",
   position: 138,
   ownLength: 2906,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-14",
   externalIdentity: [
     {

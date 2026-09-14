@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0029Chapter29DeathsBride = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 29,
   ownLength: 1571,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-30",
   externalIdentity: [
     {

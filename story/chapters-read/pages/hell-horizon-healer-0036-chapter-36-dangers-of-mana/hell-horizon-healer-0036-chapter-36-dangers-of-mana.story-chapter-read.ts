@@ -8,7 +8,7 @@ export const hellHorizonHealer0036Chapter36DangersOfMana = {
   story: "hell-horizon-healer",
   position: 36,
   ownLength: 1145,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-05",
   externalIdentity: [
     {

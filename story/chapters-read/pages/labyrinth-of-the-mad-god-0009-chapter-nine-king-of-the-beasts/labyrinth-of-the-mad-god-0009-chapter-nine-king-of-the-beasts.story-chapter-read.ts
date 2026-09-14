@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0009ChapterNineKingOfTheBeasts = {
   story: "labyrinth-of-the-mad-god",
   position: 9,
   ownLength: 1782,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-06",
   externalIdentity: [
     {

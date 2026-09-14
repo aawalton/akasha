@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0311Chapter30AdvancementBooster = {
   story: "labyrinth-of-the-mad-god",
   position: 311,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-11",
   externalIdentity: [
     {

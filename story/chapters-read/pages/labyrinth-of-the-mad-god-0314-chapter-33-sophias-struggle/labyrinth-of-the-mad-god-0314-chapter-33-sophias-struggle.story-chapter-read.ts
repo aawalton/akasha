@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0314Chapter33SophiasStruggle = {
   story: "labyrinth-of-the-mad-god",
   position: 314,
   ownLength: 1484,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-22",
   externalIdentity: [
     {

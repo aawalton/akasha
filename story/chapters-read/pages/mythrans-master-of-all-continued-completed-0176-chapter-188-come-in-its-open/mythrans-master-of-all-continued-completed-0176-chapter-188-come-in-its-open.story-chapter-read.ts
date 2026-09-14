@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0176Chapter188ComeInItsOpen = 
   story: "mythrans-master-of-all-continued-completed",
   position: 176,
   ownLength: 4753,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0077Chapter42Heroes2 = {
   story: "metaworld-hopecore",
   position: 77,
   ownLength: 2183,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-17",
   externalIdentity: [
     {

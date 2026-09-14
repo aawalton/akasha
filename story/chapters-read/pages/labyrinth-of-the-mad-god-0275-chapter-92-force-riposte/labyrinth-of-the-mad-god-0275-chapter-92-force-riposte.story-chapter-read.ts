@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0275Chapter92ForceRiposte = {
   story: "labyrinth-of-the-mad-god",
   position: 275,
   ownLength: 1512,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-14",
   externalIdentity: [
     {

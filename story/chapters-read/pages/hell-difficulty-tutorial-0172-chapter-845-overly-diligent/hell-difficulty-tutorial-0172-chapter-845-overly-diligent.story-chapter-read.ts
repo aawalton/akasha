@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0172Chapter845OverlyDiligent = {
   story: "story-read/hell-difficulty-tutorial",
   position: 172,
   ownLength: 2962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-23",
   externalIdentity: [
     {

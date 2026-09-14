@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0316Chapter35FrozenInPlace = {
   story: "labyrinth-of-the-mad-god",
   position: 316,
   ownLength: 2062,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-29",
   externalIdentity: [
     {

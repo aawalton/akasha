@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0776Chapter773AQuickMorning = 
   story: "mythrans-master-of-all-continued-completed",
   position: 776,
   ownLength: 3173,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-25",
   externalIdentity: [
     {

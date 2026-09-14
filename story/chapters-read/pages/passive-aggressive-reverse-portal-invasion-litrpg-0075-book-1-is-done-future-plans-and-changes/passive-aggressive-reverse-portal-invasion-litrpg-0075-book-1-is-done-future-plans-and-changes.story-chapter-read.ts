@@ -6,7 +6,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0075Book1IsDoneFuturePl
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0075-book-1-is-done-future-plans-and-changes",
   position: 75,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0391Chapter395TakeANap = {
   story: "mythrans-master-of-all-continued-completed",
   position: 391,
   ownLength: 3373,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-21",
   externalIdentity: [
     {

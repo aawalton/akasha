@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0093Chapter768Scram = {
   story: "story-read/hell-difficulty-tutorial",
   position: 93,
   ownLength: 2234,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const journeyToVeresavirFantasyLitrpg0045Chapter45 = {
   story: "journey-to-veresavir-fantasy-litrpg",
   position: 45,
   ownLength: 3090,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-18",
   externalIdentity: [
     {

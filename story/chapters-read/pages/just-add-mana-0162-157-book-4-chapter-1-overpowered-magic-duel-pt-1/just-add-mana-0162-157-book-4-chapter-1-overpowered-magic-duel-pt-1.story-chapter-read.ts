@@ -8,7 +8,7 @@ export const justAddMana0162157Book4Chapter1OverpoweredMagicDuelPt1 = {
   story: "just-add-mana",
   position: 162,
   ownLength: 3617,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0012Chapter28OpportunityKnocks
   story: "mythrans-master-of-all-continued-completed",
   position: 12,
   ownLength: 2623,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-16",
   externalIdentity: [
     {

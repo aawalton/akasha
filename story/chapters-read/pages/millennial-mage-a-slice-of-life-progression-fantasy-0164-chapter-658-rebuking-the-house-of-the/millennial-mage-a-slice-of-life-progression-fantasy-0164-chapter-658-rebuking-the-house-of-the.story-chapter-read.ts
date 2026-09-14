@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0164Chapter658RebukingT
   position: 164,
   ownLength: 2659,
   ownProgress: 2659,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:40:18.841Z",
   publishedAt: "2026-01-14",
   externalIdentity: [

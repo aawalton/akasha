@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0146Chapter105VisionsFromTheVoidI = {
   story: "labyrinth-of-the-mad-god",
   position: 146,
   ownLength: 2228,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-19",
   externalIdentity: [
     {

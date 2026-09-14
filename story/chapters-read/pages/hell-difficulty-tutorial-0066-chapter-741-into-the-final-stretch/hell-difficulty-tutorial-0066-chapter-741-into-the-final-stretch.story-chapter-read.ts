@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0066Chapter741IntoTheFinalStretch = {
   story: "story-read/hell-difficulty-tutorial",
   position: 66,
   ownLength: 2254,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-01",
   externalIdentity: [
     {

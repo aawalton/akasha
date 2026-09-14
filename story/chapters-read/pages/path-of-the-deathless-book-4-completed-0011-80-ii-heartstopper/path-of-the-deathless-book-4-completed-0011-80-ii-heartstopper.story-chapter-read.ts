@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed001180IiHeartstopper = {
   story: "path-of-the-deathless-book-4-completed",
   position: 11,
   ownLength: 0,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

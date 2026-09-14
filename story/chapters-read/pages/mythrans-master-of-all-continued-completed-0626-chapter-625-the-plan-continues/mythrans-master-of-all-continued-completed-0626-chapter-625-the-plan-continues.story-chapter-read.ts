@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0626Chapter625ThePlanContinues
   story: "mythrans-master-of-all-continued-completed",
   position: 626,
   ownLength: 2770,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-01",
   externalIdentity: [
     {

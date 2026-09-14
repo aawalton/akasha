@@ -8,7 +8,7 @@ export const metaworldHopecore0047Chapter25NotReadyToMakeNice = {
   story: "metaworld-hopecore",
   position: 47,
   ownLength: 2028,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0724Chapter723MakeAnException 
   story: "mythrans-master-of-all-continued-completed",
   position: 724,
   ownLength: 3559,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-07",
   externalIdentity: [
     {

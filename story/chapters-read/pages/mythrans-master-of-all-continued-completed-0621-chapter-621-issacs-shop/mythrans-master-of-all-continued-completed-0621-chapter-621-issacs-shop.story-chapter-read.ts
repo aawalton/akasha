@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0621Chapter621IssacsShop = {
   story: "mythrans-master-of-all-continued-completed",
   position: 621,
   ownLength: 2656,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-27",
   externalIdentity: [
     {

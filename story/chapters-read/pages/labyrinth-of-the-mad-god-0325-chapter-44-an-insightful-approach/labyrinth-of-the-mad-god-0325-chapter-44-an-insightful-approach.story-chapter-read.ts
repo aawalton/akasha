@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0325Chapter44AnInsightfulApproach = {
   story: "labyrinth-of-the-mad-god",
   position: 325,
   ownLength: 2139,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-06",
   externalIdentity: [
     {

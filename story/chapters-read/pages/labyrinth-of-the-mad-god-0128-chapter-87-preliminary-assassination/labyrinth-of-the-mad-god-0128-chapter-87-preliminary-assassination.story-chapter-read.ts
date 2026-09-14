@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0128Chapter87PreliminaryAssassination = {
   story: "labyrinth-of-the-mad-god",
   position: 128,
   ownLength: 1455,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-05",
   externalIdentity: [
     {

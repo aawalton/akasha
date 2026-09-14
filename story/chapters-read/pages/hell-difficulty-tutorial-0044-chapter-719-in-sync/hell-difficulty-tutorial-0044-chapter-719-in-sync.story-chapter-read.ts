@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0044Chapter719InSync = {
   story: "story-read/hell-difficulty-tutorial",
   position: 44,
   ownLength: 2084,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-24",
   externalIdentity: [
     {

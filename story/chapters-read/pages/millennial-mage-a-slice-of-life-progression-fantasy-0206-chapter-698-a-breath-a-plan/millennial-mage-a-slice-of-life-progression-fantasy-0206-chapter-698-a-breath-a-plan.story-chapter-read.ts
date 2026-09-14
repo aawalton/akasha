@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0206Chapter698ABreathAP
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 206,
   ownLength: 3651,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0040Chapter715TheLootTheBeyondQuestAndTheTwo 
   story: "story-read/hell-difficulty-tutorial",
   position: 40,
   ownLength: 2634,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-18",
   externalIdentity: [
     {

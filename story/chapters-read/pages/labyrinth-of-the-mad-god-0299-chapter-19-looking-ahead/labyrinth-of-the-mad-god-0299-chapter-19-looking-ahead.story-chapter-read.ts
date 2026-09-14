@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0299Chapter19LookingAhead = {
   story: "labyrinth-of-the-mad-god",
   position: 299,
   ownLength: 2276,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-03",
   externalIdentity: [
     {

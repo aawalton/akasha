@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0767Chapter766TravelTrouble = 
   story: "mythrans-master-of-all-continued-completed",
   position: 767,
   ownLength: 2823,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-19",
   externalIdentity: [
     {

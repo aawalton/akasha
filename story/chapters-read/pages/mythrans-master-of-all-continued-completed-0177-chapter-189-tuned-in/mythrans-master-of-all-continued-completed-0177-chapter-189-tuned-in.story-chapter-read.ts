@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0177Chapter189TunedIn = {
   story: "mythrans-master-of-all-continued-completed",
   position: 177,
   ownLength: 3991,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-05",
   externalIdentity: [
     {

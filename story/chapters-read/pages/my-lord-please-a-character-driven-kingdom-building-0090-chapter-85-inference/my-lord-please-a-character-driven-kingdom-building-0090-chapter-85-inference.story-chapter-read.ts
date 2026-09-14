@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0090Chapter85Inference =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 90,
   ownLength: 2216,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

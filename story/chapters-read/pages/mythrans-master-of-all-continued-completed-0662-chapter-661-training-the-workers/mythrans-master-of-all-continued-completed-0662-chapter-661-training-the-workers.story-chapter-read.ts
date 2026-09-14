@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0662Chapter661TrainingTheWorke
   story: "mythrans-master-of-all-continued-completed",
   position: 662,
   ownLength: 2984,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-06",
   externalIdentity: [
     {

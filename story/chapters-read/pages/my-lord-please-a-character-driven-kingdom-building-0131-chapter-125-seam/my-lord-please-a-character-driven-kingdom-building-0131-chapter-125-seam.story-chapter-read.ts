@@ -7,7 +7,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0131Chapter125Seam = {
   story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 131,
   publishedAt: "2026-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

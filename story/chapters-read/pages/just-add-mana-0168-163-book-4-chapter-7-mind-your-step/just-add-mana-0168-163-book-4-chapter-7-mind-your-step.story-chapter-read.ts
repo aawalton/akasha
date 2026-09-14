@@ -8,7 +8,7 @@ export const justAddMana0168163Book4Chapter7MindYourStep = {
   story: "just-add-mana",
   position: 168,
   ownLength: 3314,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-23",
   externalIdentity: [
     {

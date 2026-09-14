@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0231Chapter48YesterdaysEnemyIsTomorrowsFriend =
   story: "labyrinth-of-the-mad-god",
   position: 231,
   ownLength: 2175,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-03",
   externalIdentity: [
     {

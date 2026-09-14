@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0056056ADanceWithFate = 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 56,
   ownLength: 2292,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-17",
   externalIdentity: [
     {

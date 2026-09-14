@@ -9,7 +9,7 @@ export const melodyOfMana0247Chapter233SilverspringsMelee = {
   position: 247,
   ownLength: 1733,
   ownProgress: 1733,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:34:21.829Z",
   publishedAt: "2023-05-03",
   externalIdentity: [

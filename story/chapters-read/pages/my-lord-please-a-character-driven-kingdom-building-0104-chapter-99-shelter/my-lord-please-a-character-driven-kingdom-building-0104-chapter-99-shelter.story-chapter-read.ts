@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0104Chapter99Shelter = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 104,
   ownLength: 2279,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-19",
   externalIdentity: [
     {

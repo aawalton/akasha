@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0150Chapter823RecordOfAConfrontation = {
   story: "story-read/hell-difficulty-tutorial",
   position: 150,
   ownLength: 2381,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellHorizonHealer0002Chapter2WellThisIsStrange = {
   story: "hell-horizon-healer",
   position: 2,
   ownLength: 1574,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

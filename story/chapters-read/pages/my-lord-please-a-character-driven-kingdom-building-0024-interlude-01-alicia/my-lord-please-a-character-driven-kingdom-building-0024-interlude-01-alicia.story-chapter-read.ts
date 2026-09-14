@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0024Interlude01Alicia = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 24,
   ownLength: 2607,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-06",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0001Chapter1StrangeBusiness = {
   position: 1,
   ownLength: 2161,
   ownProgress: 2161,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:03:48.313Z",
   publishedAt: "2019-07-28",
   externalIdentity: [

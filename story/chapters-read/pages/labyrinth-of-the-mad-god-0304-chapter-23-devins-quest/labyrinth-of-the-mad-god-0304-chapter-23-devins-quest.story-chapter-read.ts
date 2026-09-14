@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0304Chapter23DevinsQuest = {
   story: "labyrinth-of-the-mad-god",
   position: 304,
   ownLength: 3224,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0134Chapter149StartShoveling =
   story: "mythrans-master-of-all-continued-completed",
   position: 134,
   ownLength: 4409,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-24",
   externalIdentity: [
     {

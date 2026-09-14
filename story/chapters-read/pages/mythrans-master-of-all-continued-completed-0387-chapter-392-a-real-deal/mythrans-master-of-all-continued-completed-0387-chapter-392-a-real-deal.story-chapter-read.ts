@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0387Chapter392ARealDeal = {
   story: "mythrans-master-of-all-continued-completed",
   position: 387,
   ownLength: 3247,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-18",
   externalIdentity: [
     {

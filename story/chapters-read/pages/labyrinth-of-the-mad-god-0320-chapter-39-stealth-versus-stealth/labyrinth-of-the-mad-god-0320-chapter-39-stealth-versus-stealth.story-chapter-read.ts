@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0320Chapter39StealthVersusStealth = {
   story: "labyrinth-of-the-mad-god",
   position: 320,
   ownLength: 1693,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-12",
   externalIdentity: [
     {

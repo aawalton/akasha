@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0632Chapter631WakeUpCall = {
   story: "mythrans-master-of-all-continued-completed",
   position: 632,
   ownLength: 2844,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-07",
   externalIdentity: [
     {

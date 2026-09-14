@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0685Chapter684StokeTheFire = {
   story: "mythrans-master-of-all-continued-completed",
   position: 685,
   ownLength: 2998,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-29",
   externalIdentity: [
     {

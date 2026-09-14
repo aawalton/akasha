@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0056Chapter24VeronicaAndNick = {
   story: "labyrinth-of-the-mad-god",
   position: 56,
   ownLength: 2196,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-11",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0187Chapter5ChangesWithoutAndWithin = {
   story: "labyrinth-of-the-mad-god",
   position: 187,
   ownLength: 2037,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-25",
   externalIdentity: [
     {

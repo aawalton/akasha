@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0238Chapter55KillingIntent = {
   story: "labyrinth-of-the-mad-god",
   position: 238,
   ownLength: 2028,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-20",
   externalIdentity: [
     {

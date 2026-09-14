@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0055Chapter51Irregularit
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 55,
   ownLength: 1988,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0130Chapter145PickedUp = {
   story: "mythrans-master-of-all-continued-completed",
   position: 130,
   ownLength: 4561,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-14",
   externalIdentity: [
     {

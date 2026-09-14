@@ -8,7 +8,7 @@ export const justAddMana0121118Book3Chapter17Labyrinth = {
   story: "just-add-mana",
   position: 121,
   ownLength: 3306,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-04",
   externalIdentity: [
     {

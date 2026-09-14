@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0212Chapter30CityBoss = {
   story: "labyrinth-of-the-mad-god",
   position: 212,
   ownLength: 1720,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-22",
   externalIdentity: [
     {

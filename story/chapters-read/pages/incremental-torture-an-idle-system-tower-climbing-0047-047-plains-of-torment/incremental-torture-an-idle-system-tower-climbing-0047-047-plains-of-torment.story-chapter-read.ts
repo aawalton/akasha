@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0047047PlainsOfTorment =
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 47,
   ownLength: 2158,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-25",
   externalIdentity: [
     {

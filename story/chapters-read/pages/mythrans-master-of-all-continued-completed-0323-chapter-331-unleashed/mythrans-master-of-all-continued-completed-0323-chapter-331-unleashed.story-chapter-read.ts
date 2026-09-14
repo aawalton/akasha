@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0323Chapter331Unleashed = {
   story: "mythrans-master-of-all-continued-completed",
   position: 323,
   ownLength: 3445,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-14",
   externalIdentity: [
     {

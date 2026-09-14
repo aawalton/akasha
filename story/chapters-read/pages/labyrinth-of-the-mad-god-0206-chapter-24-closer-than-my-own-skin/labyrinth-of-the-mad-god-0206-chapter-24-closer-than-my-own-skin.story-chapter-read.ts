@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0206Chapter24CloserThanMyOwnSkin = {
   story: "labyrinth-of-the-mad-god",
   position: 206,
   ownLength: 2384,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-08",
   externalIdentity: [
     {

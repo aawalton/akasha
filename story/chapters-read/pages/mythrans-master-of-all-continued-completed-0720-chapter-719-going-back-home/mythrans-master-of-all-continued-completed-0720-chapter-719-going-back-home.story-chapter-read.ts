@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0720Chapter719GoingBackHome = 
   story: "mythrans-master-of-all-continued-completed",
   position: 720,
   ownLength: 3207,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-03",
   externalIdentity: [
     {

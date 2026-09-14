@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0418Chapter421CuddleMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 418,
   ownLength: 3481,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-14",
   externalIdentity: [
     {

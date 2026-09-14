@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0006ChapterSixAGameOfLifeAndDeath = {
   story: "labyrinth-of-the-mad-god",
   position: 6,
   ownLength: 1839,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-03",
   externalIdentity: [
     {

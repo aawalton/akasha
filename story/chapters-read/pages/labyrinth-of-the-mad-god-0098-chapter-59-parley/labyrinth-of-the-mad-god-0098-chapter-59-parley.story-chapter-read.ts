@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0098Chapter59Parley = {
   story: "labyrinth-of-the-mad-god",
   position: 98,
   ownLength: 1827,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-02",
   externalIdentity: [
     {

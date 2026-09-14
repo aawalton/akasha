@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0326Chapter334SettlingThings =
   story: "mythrans-master-of-all-continued-completed",
   position: 326,
   ownLength: 4689,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-17",
   externalIdentity: [
     {

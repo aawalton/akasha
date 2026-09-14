@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0619Chapter619Reloaded = {
   story: "mythrans-master-of-all-continued-completed",
   position: 619,
   ownLength: 2756,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-25",
   externalIdentity: [
     {

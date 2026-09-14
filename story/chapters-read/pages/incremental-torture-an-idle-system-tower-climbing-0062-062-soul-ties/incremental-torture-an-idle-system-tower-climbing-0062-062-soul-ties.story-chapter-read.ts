@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0062062SoulTies = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 62,
   ownLength: 1934,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-27",
   externalIdentity: [
     {

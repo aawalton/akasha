@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0198Chapter16TravellingCompanion = {
   story: "labyrinth-of-the-mad-god",
   position: 198,
   ownLength: 1786,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-21",
   externalIdentity: [
     {

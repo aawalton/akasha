@@ -8,7 +8,7 @@ export const metaworldHopecore0072Chapter39TheSoundOfSilence = {
   story: "metaworld-hopecore",
   position: 72,
   ownLength: 2820,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-15",
   externalIdentity: [
     {

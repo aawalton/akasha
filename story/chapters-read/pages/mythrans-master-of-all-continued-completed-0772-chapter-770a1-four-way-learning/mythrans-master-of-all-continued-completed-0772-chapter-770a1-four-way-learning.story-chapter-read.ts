@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0772Chapter770a1FourWayLearnin
   story: "mythrans-master-of-all-continued-completed",
   position: 772,
   ownLength: 3448,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-23",
   externalIdentity: [
     {

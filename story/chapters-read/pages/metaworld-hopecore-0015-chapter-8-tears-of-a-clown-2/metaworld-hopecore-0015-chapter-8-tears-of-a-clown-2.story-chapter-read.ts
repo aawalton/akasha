@@ -8,7 +8,7 @@ export const metaworldHopecore0015Chapter8TearsOfAClown2 = {
   story: "metaworld-hopecore",
   position: 15,
   ownLength: 2790,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

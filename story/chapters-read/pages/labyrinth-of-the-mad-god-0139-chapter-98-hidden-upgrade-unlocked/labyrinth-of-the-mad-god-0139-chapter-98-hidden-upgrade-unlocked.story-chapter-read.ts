@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0139Chapter98HiddenUpgradeUnlocked = {
   story: "labyrinth-of-the-mad-god",
   position: 139,
   ownLength: 1777,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0001Prologue = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 1,
   ownLength: 2766,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-25",
   externalIdentity: [
     {

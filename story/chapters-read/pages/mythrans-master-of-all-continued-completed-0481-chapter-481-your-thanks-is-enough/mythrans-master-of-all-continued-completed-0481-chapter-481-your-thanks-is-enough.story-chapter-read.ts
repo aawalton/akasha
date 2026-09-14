@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0481Chapter481YourThanksIsEnou
   story: "mythrans-master-of-all-continued-completed",
   position: 481,
   ownLength: 3778,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-13",
   externalIdentity: [
     {

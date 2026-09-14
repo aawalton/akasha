@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0262Chapter79UnexpectedPublishment = {
   story: "labyrinth-of-the-mad-god",
   position: 262,
   ownLength: 1555,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0133Chapter148HolyCrap = {
   story: "mythrans-master-of-all-continued-completed",
   position: 133,
   ownLength: 3190,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-23",
   externalIdentity: [
     {

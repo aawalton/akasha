@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0227Chapter238CheckingThings =
   story: "mythrans-master-of-all-continued-completed",
   position: 227,
   ownLength: 4892,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-28",
   externalIdentity: [
     {

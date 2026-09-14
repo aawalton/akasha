@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0165Chapter177BraceletOfEnforc
   story: "mythrans-master-of-all-continued-completed",
   position: 165,
   ownLength: 3043,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-21",
   externalIdentity: [
     {

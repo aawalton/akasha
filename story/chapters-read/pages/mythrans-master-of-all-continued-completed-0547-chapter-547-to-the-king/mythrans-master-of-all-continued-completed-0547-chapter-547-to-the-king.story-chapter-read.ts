@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0547Chapter547ToTheKing = {
   story: "mythrans-master-of-all-continued-completed",
   position: 547,
   ownLength: 2729,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-05",
   externalIdentity: [
     {

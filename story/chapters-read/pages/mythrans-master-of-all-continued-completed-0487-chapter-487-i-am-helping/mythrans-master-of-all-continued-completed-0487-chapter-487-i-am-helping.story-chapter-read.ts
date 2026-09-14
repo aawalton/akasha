@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0487Chapter487IAmHelping = {
   story: "mythrans-master-of-all-continued-completed",
   position: 487,
   ownLength: 3584,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-19",
   externalIdentity: [
     {

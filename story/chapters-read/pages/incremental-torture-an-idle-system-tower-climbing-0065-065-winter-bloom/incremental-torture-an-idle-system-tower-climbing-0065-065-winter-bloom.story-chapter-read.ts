@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0065065WinterBloom = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 65,
   ownLength: 2249,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-03",
   externalIdentity: [
     {

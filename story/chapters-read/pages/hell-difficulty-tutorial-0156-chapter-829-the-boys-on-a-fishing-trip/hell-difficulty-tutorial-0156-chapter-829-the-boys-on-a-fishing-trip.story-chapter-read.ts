@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0156Chapter829TheBoysOnAFishingTrip = {
   story: "story-read/hell-difficulty-tutorial",
   position: 156,
   ownLength: 2874,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-17",
   externalIdentity: [
     {

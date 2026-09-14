@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0016Chapter16LivingWithATribe = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 16,
   ownLength: 1806,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-14",
   externalIdentity: [
     {

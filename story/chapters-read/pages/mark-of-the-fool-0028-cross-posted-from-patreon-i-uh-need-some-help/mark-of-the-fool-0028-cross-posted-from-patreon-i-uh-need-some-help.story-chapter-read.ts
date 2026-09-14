@@ -8,7 +8,7 @@ export const markOfTheFool0028CrossPostedFromPatreonIUhNeedSomeHelp = {
   story: "story-read/mark-of-the-fool",
   position: 28,
   ownLength: 303,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-25",
   externalIdentity: [
     {

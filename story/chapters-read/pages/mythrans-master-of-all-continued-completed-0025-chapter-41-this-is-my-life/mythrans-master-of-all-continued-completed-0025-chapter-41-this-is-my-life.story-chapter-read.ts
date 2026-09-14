@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0025Chapter41ThisIsMyLife = {
   story: "mythrans-master-of-all-continued-completed",
   position: 25,
   ownLength: 2422,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-03",
   externalIdentity: [
     {

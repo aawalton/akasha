@@ -8,7 +8,7 @@ export const hellHorizonHealer0030Chapter30PushingPastLimits = {
   story: "hell-horizon-healer",
   position: 30,
   ownLength: 1118,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

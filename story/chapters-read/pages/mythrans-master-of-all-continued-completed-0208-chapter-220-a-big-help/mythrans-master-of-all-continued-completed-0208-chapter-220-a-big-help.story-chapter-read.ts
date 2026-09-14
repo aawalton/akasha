@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0208Chapter220ABigHelp = {
   story: "mythrans-master-of-all-continued-completed",
   position: 208,
   ownLength: 3890,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-10",
   externalIdentity: [
     {

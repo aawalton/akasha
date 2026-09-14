@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0079Chapter754Vessel = {
   story: "story-read/hell-difficulty-tutorial",
   position: 79,
   ownLength: 2373,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-18",
   externalIdentity: [
     {

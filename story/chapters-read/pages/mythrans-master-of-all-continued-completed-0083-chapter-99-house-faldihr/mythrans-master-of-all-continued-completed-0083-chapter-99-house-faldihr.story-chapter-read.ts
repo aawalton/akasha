@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0083Chapter99HouseFaldihr = {
   story: "mythrans-master-of-all-continued-completed",
   position: 83,
   ownLength: 3436,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-29",
   externalIdentity: [
     {

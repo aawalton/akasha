@@ -8,7 +8,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0032LiamSAttributesTale
   story: "passive-aggressive-reverse-portal-invasion-litrpg",
   position: 32,
   ownLength: 635,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

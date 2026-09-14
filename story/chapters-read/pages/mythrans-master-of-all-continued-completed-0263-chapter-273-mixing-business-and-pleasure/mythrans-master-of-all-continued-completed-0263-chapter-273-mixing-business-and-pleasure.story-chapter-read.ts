@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0263Chapter273MixingBusinessAn
   story: "mythrans-master-of-all-continued-completed",
   position: 263,
   ownLength: 4315,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-06",
   externalIdentity: [
     {

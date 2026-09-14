@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0110Chapter785DescentIntoRuin = {
   story: "story-read/hell-difficulty-tutorial",
   position: 110,
   ownLength: 2192,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-02",
   externalIdentity: [
     {

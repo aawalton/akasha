@@ -9,7 +9,7 @@ export const melodyOfMana0048Chapter41ClothesAndMarks = {
   position: 48,
   ownLength: 2169,
   ownProgress: 2169,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:27:51.180Z",
   publishedAt: "2021-09-03",
   externalIdentity: [

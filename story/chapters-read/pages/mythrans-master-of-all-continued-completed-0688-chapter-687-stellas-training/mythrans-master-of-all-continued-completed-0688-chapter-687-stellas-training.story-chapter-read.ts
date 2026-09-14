@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0688Chapter687StellasTraining 
   story: "mythrans-master-of-all-continued-completed",
   position: 688,
   ownLength: 3070,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-01",
   externalIdentity: [
     {

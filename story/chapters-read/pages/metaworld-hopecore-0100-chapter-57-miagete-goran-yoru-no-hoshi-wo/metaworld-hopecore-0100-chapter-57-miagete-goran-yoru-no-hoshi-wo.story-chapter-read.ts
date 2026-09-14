@@ -8,7 +8,7 @@ export const metaworldHopecore0100Chapter57MiageteGoranYoruNoHoshiWo = {
   story: "metaworld-hopecore",
   position: 100,
   ownLength: 1769,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-06",
   externalIdentity: [
     {

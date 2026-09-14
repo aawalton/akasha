@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0168Chapter180Oathbreaker = {
   story: "mythrans-master-of-all-continued-completed",
   position: 168,
   ownLength: 4351,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-24",
   externalIdentity: [
     {

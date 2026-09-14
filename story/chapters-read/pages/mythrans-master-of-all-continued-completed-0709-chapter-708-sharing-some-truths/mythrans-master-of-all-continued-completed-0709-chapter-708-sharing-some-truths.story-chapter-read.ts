@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0709Chapter708SharingSomeTruth
   story: "mythrans-master-of-all-continued-completed",
   position: 709,
   ownLength: 2928,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-22",
   externalIdentity: [
     {

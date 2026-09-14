@@ -8,7 +8,7 @@ export const markOfTheFool0023MarkOfTheFoolLightNovelOutToday = {
   story: "story-read/mark-of-the-fool",
   position: 23,
   ownLength: 103,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-21",
   externalIdentity: [
     {

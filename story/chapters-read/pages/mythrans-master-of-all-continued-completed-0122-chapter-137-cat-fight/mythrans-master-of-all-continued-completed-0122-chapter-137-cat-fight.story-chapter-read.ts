@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0122Chapter137CatFight = {
   story: "mythrans-master-of-all-continued-completed",
   position: 122,
   ownLength: 7434,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-06",
   externalIdentity: [
     {

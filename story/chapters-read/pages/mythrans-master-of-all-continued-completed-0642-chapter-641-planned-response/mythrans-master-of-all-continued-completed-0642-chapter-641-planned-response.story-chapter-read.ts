@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0642Chapter641PlannedResponse 
   story: "mythrans-master-of-all-continued-completed",
   position: 642,
   ownLength: 2772,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-17",
   externalIdentity: [
     {

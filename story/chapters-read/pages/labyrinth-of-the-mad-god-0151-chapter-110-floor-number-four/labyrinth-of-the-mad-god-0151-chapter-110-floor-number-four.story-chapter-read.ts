@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0151Chapter110FloorNumberFour = {
   story: "labyrinth-of-the-mad-god",
   position: 151,
   ownLength: 1710,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-31",
   externalIdentity: [
     {

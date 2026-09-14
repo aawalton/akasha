@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0021021Shopaholic = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 21,
   ownLength: 2370,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-20",
   externalIdentity: [
     {

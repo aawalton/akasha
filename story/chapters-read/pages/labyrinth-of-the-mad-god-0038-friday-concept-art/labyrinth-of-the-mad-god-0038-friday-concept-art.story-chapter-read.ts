@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0038FridayConceptArt = {
   story: "labyrinth-of-the-mad-god",
   position: 38,
   ownLength: 8,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-09",
   externalIdentity: [
     {

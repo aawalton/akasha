@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0031031Reconnection = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 31,
   ownLength: 2256,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0215Chapter227EpisodeTwo = {
   story: "mythrans-master-of-all-continued-completed",
   position: 215,
   ownLength: 2454,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-17",
   externalIdentity: [
     {

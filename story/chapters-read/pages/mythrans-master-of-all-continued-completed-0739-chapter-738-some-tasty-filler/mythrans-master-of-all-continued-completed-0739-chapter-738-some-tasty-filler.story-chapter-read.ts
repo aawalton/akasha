@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0739Chapter738SomeTastyFiller 
   story: "mythrans-master-of-all-continued-completed",
   position: 739,
   ownLength: 2966,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-22",
   externalIdentity: [
     {

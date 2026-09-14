@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0015Chapter14Shift = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 15,
   ownLength: 2030,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

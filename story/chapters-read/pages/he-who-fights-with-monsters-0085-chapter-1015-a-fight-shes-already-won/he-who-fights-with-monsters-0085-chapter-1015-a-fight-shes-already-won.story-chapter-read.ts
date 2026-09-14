@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0085Chapter1015AFightShesAlreadyWon = {
   story: "story-read/he-who-fights-with-monsters",
   position: 85,
   ownLength: 2619,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

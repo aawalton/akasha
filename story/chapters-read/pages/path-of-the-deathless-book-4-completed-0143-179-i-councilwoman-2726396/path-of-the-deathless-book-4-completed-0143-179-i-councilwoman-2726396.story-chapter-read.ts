@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0143179ICouncilwoman2726396 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 143,
   ownLength: 2987,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

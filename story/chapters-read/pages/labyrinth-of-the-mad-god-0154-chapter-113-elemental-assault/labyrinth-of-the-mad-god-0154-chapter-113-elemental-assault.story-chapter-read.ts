@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0154Chapter113ElementalAssault = {
   story: "labyrinth-of-the-mad-god",
   position: 154,
   ownLength: 1793,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-07",
   externalIdentity: [
     {

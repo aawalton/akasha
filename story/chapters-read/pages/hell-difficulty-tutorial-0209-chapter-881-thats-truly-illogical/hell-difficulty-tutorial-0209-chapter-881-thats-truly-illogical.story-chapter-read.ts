@@ -6,7 +6,7 @@ export const hellDifficultyTutorial0209Chapter881ThatsTrulyIllogical = {
   slug: "hell-difficulty-tutorial-0209-chapter-881-thats-truly-illogical",
   position: 209,
   publishedAt: "2026-09-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0160Chapter119TheSkyIsFalling = {
   story: "labyrinth-of-the-mad-god",
   position: 160,
   ownLength: 1634,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-21",
   externalIdentity: [
     {

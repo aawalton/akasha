@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0712Chapter711HotUnderTheColla
   story: "mythrans-master-of-all-continued-completed",
   position: 712,
   ownLength: 2946,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-25",
   externalIdentity: [
     {

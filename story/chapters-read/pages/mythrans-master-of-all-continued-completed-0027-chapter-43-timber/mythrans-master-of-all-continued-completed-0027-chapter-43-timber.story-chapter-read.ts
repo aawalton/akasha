@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0027Chapter43Timber = {
   story: "mythrans-master-of-all-continued-completed",
   position: 27,
   ownLength: 3812,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-06",
   externalIdentity: [
     {

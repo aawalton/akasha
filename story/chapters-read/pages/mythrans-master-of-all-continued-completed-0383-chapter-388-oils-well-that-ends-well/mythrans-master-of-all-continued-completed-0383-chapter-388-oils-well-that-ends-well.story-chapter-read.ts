@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0383Chapter388OilsWellThatEnds
   story: "mythrans-master-of-all-continued-completed",
   position: 383,
   ownLength: 4231,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-14",
   externalIdentity: [
     {

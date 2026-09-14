@@ -8,7 +8,7 @@ export const godOfTrash0294294BreakOut = {
   story: "god-of-trash",
   position: 294,
   ownLength: 1865,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-01",
   externalIdentity: [
     {

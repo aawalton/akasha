@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0535Chapter535ShareShareAlike 
   story: "mythrans-master-of-all-continued-completed",
   position: 535,
   ownLength: 2863,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-24",
   externalIdentity: [
     {

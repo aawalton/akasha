@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0007Chapter6Ashridge = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 7,
   ownLength: 2083,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-26",
   externalIdentity: [
     {

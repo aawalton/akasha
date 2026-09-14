@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0227Chapter44ATurnForTheWorse = {
   story: "labyrinth-of-the-mad-god",
   position: 227,
   ownLength: 2268,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-24",
   externalIdentity: [
     {

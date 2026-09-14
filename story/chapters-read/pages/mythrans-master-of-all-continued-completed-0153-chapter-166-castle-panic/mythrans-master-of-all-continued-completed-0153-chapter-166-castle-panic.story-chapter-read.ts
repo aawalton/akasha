@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0153Chapter166CastlePanic = {
   story: "mythrans-master-of-all-continued-completed",
   position: 153,
   ownLength: 3866,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-10",
   externalIdentity: [
     {

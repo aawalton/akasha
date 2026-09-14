@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0603Chapter603MeetingWithThePr
   story: "mythrans-master-of-all-continued-completed",
   position: 603,
   ownLength: 2851,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-09",
   externalIdentity: [
     {

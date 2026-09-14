@@ -8,7 +8,7 @@ export const justAddMana0112109Book3Chapter8DivineStudiesPt5 = {
   story: "just-add-mana",
   position: 112,
   ownLength: 3251,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-14",
   externalIdentity: [
     {

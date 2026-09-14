@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0333Chapter52APlanCenturiesInTheMaking = {
   story: "labyrinth-of-the-mad-god",
   position: 333,
   ownLength: 1478,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-03",
   externalIdentity: [
     {

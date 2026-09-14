@@ -8,7 +8,7 @@ export const justAddMana0169164Book4Chapter8StateOfTheRealms = {
   story: "just-add-mana",
   position: 169,
   ownLength: 3292,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-25",
   externalIdentity: [
     {

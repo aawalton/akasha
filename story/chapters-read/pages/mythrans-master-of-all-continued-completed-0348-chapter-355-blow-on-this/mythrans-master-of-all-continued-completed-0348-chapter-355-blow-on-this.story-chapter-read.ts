@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0348Chapter355BlowOnThis = {
   story: "mythrans-master-of-all-continued-completed",
   position: 348,
   ownLength: 3621,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0233NotAChapterImportan
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 233,
   ownLength: 428,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-04",
   externalIdentity: [
     {

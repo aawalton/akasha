@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0153Chapter826VisitingDuncan = {
   story: "story-read/hell-difficulty-tutorial",
   position: 153,
   ownLength: 2068,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-14",
   externalIdentity: [
     {

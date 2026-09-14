@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0465Chapter465SpendingMyTimeWi
   story: "mythrans-master-of-all-continued-completed",
   position: 465,
   ownLength: 3288,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-28",
   externalIdentity: [
     {

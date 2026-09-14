@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0078Chapter73Disparity =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 78,
   ownLength: 1889,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-07",
   externalIdentity: [
     {

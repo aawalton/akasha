@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0254Chapter72LendingAHand = {
   story: "labyrinth-of-the-mad-god",
   position: 254,
   ownLength: 1739,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0114Chapter108Home = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 114,
   ownLength: 1995,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-05",
   externalIdentity: [
     {

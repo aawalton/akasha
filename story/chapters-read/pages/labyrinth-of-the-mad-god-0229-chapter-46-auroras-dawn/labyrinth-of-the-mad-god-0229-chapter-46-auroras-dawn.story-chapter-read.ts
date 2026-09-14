@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0229Chapter46AurorasDawn = {
   story: "labyrinth-of-the-mad-god",
   position: 229,
   ownLength: 2310,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-29",
   externalIdentity: [
     {

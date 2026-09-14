@@ -8,7 +8,7 @@ export const metaworldHopecore0056Chapter30StrangeFruit = {
   story: "metaworld-hopecore",
   position: 56,
   ownLength: 3375,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const librarySystemResetOverdueBookFourStubbed0010Chapter331Cacophany = {
   story: "library-system-reset-overdue-book-four-stubbed",
   position: 10,
   ownLength: 2228,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-24",
   externalIdentity: [
     {

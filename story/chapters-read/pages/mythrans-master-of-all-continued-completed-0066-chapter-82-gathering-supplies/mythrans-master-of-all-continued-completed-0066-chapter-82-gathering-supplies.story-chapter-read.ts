@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0066Chapter82GatheringSupplies
   story: "mythrans-master-of-all-continued-completed",
   position: 66,
   ownLength: 3808,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-14",
   externalIdentity: [
     {

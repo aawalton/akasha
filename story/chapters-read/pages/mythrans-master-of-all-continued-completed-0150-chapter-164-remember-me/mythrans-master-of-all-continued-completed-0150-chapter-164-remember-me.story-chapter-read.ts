@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0150Chapter164RememberMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 150,
   ownLength: 4207,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-08",
   externalIdentity: [
     {

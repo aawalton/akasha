@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0214Chapter32ReunionMinusOne = {
   story: "labyrinth-of-the-mad-god",
   position: 214,
   ownLength: 2132,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-27",
   externalIdentity: [
     {

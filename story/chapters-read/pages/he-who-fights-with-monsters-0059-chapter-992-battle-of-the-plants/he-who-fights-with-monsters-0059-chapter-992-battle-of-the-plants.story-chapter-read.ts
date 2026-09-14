@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0059Chapter992BattleOfThePlants = {
   story: "story-read/he-who-fights-with-monsters",
   position: 59,
   ownLength: 2457,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-18",
   externalIdentity: [
     {

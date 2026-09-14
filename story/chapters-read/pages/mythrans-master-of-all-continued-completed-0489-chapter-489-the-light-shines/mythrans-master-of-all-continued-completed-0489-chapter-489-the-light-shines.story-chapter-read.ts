@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0489Chapter489TheLightShines =
   story: "mythrans-master-of-all-continued-completed",
   position: 489,
   ownLength: 3765,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0658Chapter657FunInThePool = {
   story: "mythrans-master-of-all-continued-completed",
   position: 658,
   ownLength: 2777,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-03",
   externalIdentity: [
     {

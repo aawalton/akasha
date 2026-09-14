@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0256Chapter266HereTheyCome = {
   story: "mythrans-master-of-all-continued-completed",
   position: 256,
   ownLength: 10484,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0303MajorAnnouncement3272815 = {
   story: "labyrinth-of-the-mad-god",
   position: 303,
   ownLength: 342,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-14",
   externalIdentity: [
     {

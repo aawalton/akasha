@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0233Chapter244StellaSaysPlay =
   story: "mythrans-master-of-all-continued-completed",
   position: 233,
   ownLength: 3605,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0156Chapter115OutOfTheFreezerAndIntoTheFire = {
   story: "labyrinth-of-the-mad-god",
   position: 156,
   ownLength: 1807,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-11",
   externalIdentity: [
     {

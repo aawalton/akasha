@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0057Chapter53Helvarn = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 57,
   ownLength: 1877,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-06",
   externalIdentity: [
     {

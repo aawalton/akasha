@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0317Chapter36WhichWayShouldWeGo = {
   story: "labyrinth-of-the-mad-god",
   position: 317,
   ownLength: 1539,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-01",
   externalIdentity: [
     {

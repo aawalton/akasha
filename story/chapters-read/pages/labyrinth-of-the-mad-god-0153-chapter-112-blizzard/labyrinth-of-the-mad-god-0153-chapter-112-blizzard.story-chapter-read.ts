@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0153Chapter112Blizzard = {
   story: "labyrinth-of-the-mad-god",
   position: 153,
   ownLength: 1894,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-04",
   externalIdentity: [
     {

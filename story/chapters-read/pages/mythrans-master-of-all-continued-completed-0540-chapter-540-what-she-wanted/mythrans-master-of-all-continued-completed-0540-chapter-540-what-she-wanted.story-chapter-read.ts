@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0540Chapter540WhatSheWanted = 
   story: "mythrans-master-of-all-continued-completed",
   position: 540,
   ownLength: 3061,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-29",
   externalIdentity: [
     {

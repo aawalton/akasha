@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0390Chapter394NewResidents = {
   story: "mythrans-master-of-all-continued-completed",
   position: 390,
   ownLength: 4139,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0247Chapter65PuzzlesAndMysteries = {
   story: "labyrinth-of-the-mad-god",
   position: 247,
   ownLength: 2053,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-12",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0205Chapter23SpeciesEvolution = {
   story: "labyrinth-of-the-mad-god",
   position: 205,
   ownLength: 2248,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-06",
   externalIdentity: [
     {

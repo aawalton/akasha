@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0125Chapter799VaultNumber2 = {
   story: "story-read/hell-difficulty-tutorial",
   position: 125,
   ownLength: 2173,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0157Chapter170SuzieLike = {
   story: "mythrans-master-of-all-continued-completed",
   position: 157,
   ownLength: 2820,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-14",
   externalIdentity: [
     {

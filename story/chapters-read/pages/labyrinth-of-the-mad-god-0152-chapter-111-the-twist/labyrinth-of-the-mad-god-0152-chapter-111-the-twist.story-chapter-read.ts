@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0152Chapter111TheTwist = {
   story: "labyrinth-of-the-mad-god",
   position: 152,
   ownLength: 1557,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-02",
   externalIdentity: [
     {

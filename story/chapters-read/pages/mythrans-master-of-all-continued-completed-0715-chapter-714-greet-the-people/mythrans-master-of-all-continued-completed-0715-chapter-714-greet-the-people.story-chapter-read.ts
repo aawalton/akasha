@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0715Chapter714GreetThePeople =
   story: "mythrans-master-of-all-continued-completed",
   position: 715,
   ownLength: 3082,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-28",
   externalIdentity: [
     {

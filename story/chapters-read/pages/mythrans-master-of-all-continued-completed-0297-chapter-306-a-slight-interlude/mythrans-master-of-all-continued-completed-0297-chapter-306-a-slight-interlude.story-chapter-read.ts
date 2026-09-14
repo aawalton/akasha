@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0297Chapter306ASlightInterlude
   story: "mythrans-master-of-all-continued-completed",
   position: 297,
   ownLength: 4027,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-13",
   externalIdentity: [
     {

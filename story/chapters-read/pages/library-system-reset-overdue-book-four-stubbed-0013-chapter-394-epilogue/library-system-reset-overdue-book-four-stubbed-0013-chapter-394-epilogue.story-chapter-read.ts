@@ -8,7 +8,7 @@ export const librarySystemResetOverdueBookFourStubbed0013Chapter394Epilogue = {
   story: "library-system-reset-overdue-book-four-stubbed",
   position: 13,
   ownLength: 1442,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-23",
   externalIdentity: [
     {

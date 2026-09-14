@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0110Chapter70IntermissionVeronicaAndDevin = {
   story: "labyrinth-of-the-mad-god",
   position: 110,
   ownLength: 1817,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-27",
   externalIdentity: [
     {

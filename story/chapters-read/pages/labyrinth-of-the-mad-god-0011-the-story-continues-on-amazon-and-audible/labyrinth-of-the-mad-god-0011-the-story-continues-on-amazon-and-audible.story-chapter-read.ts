@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0011TheStoryContinuesOnAmazonAndAudible = {
   story: "labyrinth-of-the-mad-god",
   position: 11,
   ownLength: 238,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-02",
   externalIdentity: [
     {

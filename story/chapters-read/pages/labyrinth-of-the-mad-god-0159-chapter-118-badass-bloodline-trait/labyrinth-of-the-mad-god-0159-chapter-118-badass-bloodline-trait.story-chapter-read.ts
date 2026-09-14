@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0159Chapter118BadassBloodlineTrait = {
   story: "labyrinth-of-the-mad-god",
   position: 159,
   ownLength: 1688,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-18",
   externalIdentity: [
     {

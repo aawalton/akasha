@@ -8,7 +8,7 @@ export const godOfTrash0335335FierceMana = {
   story: "god-of-trash",
   position: 335,
   ownLength: 2097,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0120Chapter79JoyousReunion = {
   story: "labyrinth-of-the-mad-god",
   position: 120,
   ownLength: 2052,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0010ChapterTenBloodAndWater = {
   story: "labyrinth-of-the-mad-god",
   position: 10,
   ownLength: 1545,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-07",
   externalIdentity: [
     {

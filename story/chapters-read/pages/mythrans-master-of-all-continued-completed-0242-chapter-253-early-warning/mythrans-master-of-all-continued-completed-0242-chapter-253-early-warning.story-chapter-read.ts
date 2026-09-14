@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0242Chapter253EarlyWarning = {
   story: "mythrans-master-of-all-continued-completed",
   position: 242,
   ownLength: 3479,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-17",
   externalIdentity: [
     {

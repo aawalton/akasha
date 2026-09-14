@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0336Chapter55TheMusicOfChildrensVoices = {
   story: "labyrinth-of-the-mad-god",
   position: 336,
   ownLength: 1408,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-14",
   externalIdentity: [
     {

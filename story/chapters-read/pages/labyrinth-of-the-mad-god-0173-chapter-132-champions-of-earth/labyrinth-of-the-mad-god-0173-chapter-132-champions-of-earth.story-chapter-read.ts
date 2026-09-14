@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0173Chapter132ChampionsOfEarth = {
   story: "labyrinth-of-the-mad-god",
   position: 173,
   ownLength: 3705,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-21",
   externalIdentity: [
     {

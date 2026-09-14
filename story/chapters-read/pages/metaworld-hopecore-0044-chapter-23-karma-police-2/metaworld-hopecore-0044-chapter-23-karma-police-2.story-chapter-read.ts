@@ -8,7 +8,7 @@ export const metaworldHopecore0044Chapter23KarmaPolice2 = {
   story: "metaworld-hopecore",
   position: 44,
   ownLength: 1531,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

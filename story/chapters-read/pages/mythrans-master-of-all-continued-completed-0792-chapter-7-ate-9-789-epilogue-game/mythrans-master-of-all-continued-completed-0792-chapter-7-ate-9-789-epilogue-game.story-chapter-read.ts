@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0792Chapter7Ate9789EpilogueGam
   story: "mythrans-master-of-all-continued-completed",
   position: 792,
   ownLength: 710,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-12-08",
   externalIdentity: [
     {

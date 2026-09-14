@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0093Chapter54TheBigGuns = {
   story: "labyrinth-of-the-mad-god",
   position: 93,
   ownLength: 1717,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0133Chapter807IdBetterCleanItUp = {
   story: "story-read/hell-difficulty-tutorial",
   position: 133,
   ownLength: 2563,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-18",
   externalIdentity: [
     {

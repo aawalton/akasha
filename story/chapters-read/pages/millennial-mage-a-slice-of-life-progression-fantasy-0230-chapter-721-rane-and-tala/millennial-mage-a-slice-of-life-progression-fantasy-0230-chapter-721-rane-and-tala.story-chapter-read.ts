@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0230Chapter721RaneAndTa
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 230,
   ownLength: 2578,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-29",
   externalIdentity: [
     {

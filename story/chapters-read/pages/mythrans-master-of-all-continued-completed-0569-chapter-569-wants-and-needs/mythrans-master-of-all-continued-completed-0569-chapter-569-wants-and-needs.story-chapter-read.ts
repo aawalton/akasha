@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0569Chapter569WantsAndNeeds = 
   story: "mythrans-master-of-all-continued-completed",
   position: 569,
   ownLength: 2530,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-27",
   externalIdentity: [
     {

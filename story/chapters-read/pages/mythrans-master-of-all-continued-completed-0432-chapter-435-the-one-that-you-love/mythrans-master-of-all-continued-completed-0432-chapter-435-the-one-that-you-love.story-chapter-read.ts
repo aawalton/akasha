@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0432Chapter435TheOneThatYouLov
   story: "mythrans-master-of-all-continued-completed",
   position: 432,
   ownLength: 3649,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-28",
   externalIdentity: [
     {

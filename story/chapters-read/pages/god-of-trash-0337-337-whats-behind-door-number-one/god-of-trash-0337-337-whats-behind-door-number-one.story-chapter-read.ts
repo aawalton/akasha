@@ -8,7 +8,7 @@ export const godOfTrash0337337WhatsBehindDoorNumberOne = {
   story: "god-of-trash",
   position: 337,
   ownLength: 1858,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-15",
   externalIdentity: [
     {

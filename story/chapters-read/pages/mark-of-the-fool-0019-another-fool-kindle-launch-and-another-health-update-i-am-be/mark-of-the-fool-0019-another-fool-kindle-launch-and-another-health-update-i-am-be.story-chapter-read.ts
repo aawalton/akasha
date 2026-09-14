@@ -9,7 +9,7 @@ export const markOfTheFool0019AnotherFoolKindleLaunchAndAnotherHealthUpdateIAmBe
   story: "story-read/mark-of-the-fool",
   position: 19,
   ownLength: 398,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-12",
   externalIdentity: [
     {

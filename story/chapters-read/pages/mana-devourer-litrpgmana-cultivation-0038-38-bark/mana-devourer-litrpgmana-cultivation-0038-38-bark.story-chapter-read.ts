@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation003838Bark = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 38,
   ownLength: 2686,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-28",
   externalIdentity: [
     {

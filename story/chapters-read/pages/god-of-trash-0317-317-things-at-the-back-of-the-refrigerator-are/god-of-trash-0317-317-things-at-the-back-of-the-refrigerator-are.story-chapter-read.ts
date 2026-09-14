@@ -8,7 +8,7 @@ export const godOfTrash0317317ThingsAtTheBackOfTheRefrigeratorAre = {
   story: "god-of-trash",
   position: 317,
   ownLength: 2411,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-29",
   externalIdentity: [
     {

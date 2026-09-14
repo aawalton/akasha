@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0701Chapter700ThatsGoodNews = 
   story: "mythrans-master-of-all-continued-completed",
   position: 701,
   ownLength: 3991,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-14",
   externalIdentity: [
     {

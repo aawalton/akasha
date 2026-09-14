@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0038Chapter540WhatNow =
   position: 38,
   ownLength: 3167,
   ownProgress: 3167,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:36:30.961Z",
   publishedAt: "2025-03-17",
   externalIdentity: [

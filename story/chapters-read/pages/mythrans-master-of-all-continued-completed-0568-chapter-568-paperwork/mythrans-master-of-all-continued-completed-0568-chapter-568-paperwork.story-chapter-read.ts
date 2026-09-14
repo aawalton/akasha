@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0568Chapter568Paperwork = {
   story: "mythrans-master-of-all-continued-completed",
   position: 568,
   ownLength: 3041,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-26",
   externalIdentity: [
     {

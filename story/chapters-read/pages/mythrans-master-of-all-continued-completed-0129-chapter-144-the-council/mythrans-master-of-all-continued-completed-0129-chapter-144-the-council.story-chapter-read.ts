@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0129Chapter144TheCouncil = {
   story: "mythrans-master-of-all-continued-completed",
   position: 129,
   ownLength: 6399,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const hellHorizonHealer0006Chapter6APrice = {
   story: "hell-horizon-healer",
   position: 6,
   ownLength: 1573,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

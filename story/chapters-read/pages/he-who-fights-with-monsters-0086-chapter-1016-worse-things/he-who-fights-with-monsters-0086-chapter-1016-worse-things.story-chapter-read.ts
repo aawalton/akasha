@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0086Chapter1016WorseThings = {
   story: "story-read/he-who-fights-with-monsters",
   position: 86,
   ownLength: 2422,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

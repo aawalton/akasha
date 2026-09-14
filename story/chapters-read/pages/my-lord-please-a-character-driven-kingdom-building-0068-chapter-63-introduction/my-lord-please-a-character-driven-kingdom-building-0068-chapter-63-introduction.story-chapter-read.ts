@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0068Chapter63Introductio
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 68,
   ownLength: 1897,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0327Chapter46XuthusReturn = {
   story: "labyrinth-of-the-mad-god",
   position: 327,
   ownLength: 2134,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-13",
   externalIdentity: [
     {

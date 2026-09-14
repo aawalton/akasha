@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0039Chapter11AForkInTheRoad = {
   story: "labyrinth-of-the-mad-god",
   position: 39,
   ownLength: 1629,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-12",
   externalIdentity: [
     {

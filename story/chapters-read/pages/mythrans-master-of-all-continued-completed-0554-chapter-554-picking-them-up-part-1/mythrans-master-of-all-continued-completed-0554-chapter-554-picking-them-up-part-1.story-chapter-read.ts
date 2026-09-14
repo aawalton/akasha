@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0554Chapter554PickingThemUpPar
   story: "mythrans-master-of-all-continued-completed",
   position: 554,
   ownLength: 2465,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-12",
   externalIdentity: [
     {

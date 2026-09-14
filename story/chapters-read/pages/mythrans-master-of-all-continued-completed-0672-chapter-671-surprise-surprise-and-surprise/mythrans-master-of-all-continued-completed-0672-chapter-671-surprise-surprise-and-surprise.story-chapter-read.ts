@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0672Chapter671SurpriseSurprise
   story: "mythrans-master-of-all-continued-completed",
   position: 672,
   ownLength: 3192,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-16",
   externalIdentity: [
     {

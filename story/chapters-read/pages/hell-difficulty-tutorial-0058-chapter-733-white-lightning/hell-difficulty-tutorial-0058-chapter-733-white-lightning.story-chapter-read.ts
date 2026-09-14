@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0058Chapter733WhiteLightning = {
   story: "story-read/hell-difficulty-tutorial",
   position: 58,
   ownLength: 2186,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-20",
   externalIdentity: [
     {

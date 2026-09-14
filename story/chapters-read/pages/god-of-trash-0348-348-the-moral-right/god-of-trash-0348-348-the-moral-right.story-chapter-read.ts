@@ -8,7 +8,7 @@ export const godOfTrash0348348TheMoralRight = {
   story: "god-of-trash",
   position: 348,
   ownLength: 1978,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-10",
   externalIdentity: [
     {

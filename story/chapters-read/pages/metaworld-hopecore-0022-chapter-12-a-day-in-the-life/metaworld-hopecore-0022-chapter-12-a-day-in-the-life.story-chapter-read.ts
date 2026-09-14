@@ -8,7 +8,7 @@ export const metaworldHopecore0022Chapter12ADayInTheLife = {
   story: "metaworld-hopecore",
   position: 22,
   ownLength: 3662,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

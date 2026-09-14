@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0083Chapter45HailToTheQueen = {
   story: "labyrinth-of-the-mad-god",
   position: 83,
   ownLength: 1841,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-30",
   externalIdentity: [
     {

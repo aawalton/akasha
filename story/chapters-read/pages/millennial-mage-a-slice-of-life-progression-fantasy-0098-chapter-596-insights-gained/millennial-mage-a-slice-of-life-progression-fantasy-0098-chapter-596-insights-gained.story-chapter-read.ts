@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0098Chapter596InsightsG
   position: 98,
   ownLength: 2631,
   ownProgress: 2631,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:38:26.213Z",
   publishedAt: "2025-08-08",
   externalIdentity: [

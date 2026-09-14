@@ -8,7 +8,7 @@ export const godOfTrash0319319EveryoneHasTheirOwnStench = {
   story: "god-of-trash",
   position: 319,
   ownLength: 3203,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-03",
   externalIdentity: [
     {

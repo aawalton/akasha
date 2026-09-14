@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0221Chapter38TheFirstPhase = {
   story: "labyrinth-of-the-mad-god",
   position: 221,
   ownLength: 2971,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0218Chapter229FrenchToast = {
   story: "mythrans-master-of-all-continued-completed",
   position: 218,
   ownLength: 3498,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-19",
   externalIdentity: [
     {

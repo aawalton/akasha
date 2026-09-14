@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0113Chapter128OneAfterTheOther
   story: "mythrans-master-of-all-continued-completed",
   position: 113,
   ownLength: 8429,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-29",
   externalIdentity: [
     {

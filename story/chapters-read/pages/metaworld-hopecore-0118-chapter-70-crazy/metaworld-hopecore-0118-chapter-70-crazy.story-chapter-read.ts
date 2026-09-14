@@ -8,7 +8,7 @@ export const metaworldHopecore0118Chapter70Crazy = {
   story: "metaworld-hopecore",
   position: 118,
   ownLength: 3454,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-29",
   externalIdentity: [
     {

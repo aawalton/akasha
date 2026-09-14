@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0101Chapter117Repercussions = 
   story: "mythrans-master-of-all-continued-completed",
   position: 101,
   ownLength: 3743,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-12-17",
   externalIdentity: [
     {

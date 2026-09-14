@@ -8,7 +8,7 @@ export const metaworldHopecore0122Chapter73Apologize2 = {
   story: "metaworld-hopecore",
   position: 122,
   ownLength: 2387,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-04",
   externalIdentity: [
     {

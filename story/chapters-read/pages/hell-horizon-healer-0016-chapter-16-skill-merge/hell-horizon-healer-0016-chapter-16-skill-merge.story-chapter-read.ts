@@ -8,7 +8,7 @@ export const hellHorizonHealer0016Chapter16SkillMerge = {
   story: "hell-horizon-healer",
   position: 16,
   ownLength: 1879,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-14",
   externalIdentity: [
     {

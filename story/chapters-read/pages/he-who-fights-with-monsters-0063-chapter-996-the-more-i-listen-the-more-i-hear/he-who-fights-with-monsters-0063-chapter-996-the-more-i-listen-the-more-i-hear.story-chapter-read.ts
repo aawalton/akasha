@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0063Chapter996TheMoreIListenTheMoreIHear = {
   story: "story-read/he-who-fights-with-monsters",
   position: 63,
   ownLength: 2785,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-27",
   externalIdentity: [
     {

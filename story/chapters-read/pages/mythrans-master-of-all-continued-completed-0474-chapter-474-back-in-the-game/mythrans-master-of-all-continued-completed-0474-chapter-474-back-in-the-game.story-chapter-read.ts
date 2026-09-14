@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0474Chapter474BackInTheGame = 
   story: "mythrans-master-of-all-continued-completed",
   position: 474,
   ownLength: 3322,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-01-06",
   externalIdentity: [
     {

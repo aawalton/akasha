@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0183Chapter195MakingPlans = {
   story: "mythrans-master-of-all-continued-completed",
   position: 183,
   ownLength: 4168,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-11",
   externalIdentity: [
     {

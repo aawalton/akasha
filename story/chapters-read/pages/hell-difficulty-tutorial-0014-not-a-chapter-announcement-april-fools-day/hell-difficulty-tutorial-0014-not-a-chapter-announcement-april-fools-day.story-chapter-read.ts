@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0014NotAChapterAnnouncementAprilFoolsDay = {
   story: "story-read/hell-difficulty-tutorial",
   position: 14,
   ownLength: 381,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-01",
   externalIdentity: [
     {

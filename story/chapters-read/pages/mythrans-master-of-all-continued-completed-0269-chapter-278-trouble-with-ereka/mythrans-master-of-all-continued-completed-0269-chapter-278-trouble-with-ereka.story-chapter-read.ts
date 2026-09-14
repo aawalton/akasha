@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0269Chapter278TroubleWithEreka
   story: "mythrans-master-of-all-continued-completed",
   position: 269,
   ownLength: 3600,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-13",
   externalIdentity: [
     {

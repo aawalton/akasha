@@ -8,7 +8,7 @@ export const godOfTrash0333333LookingInTheWrongDirection = {
   story: "god-of-trash",
   position: 333,
   ownLength: 1848,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-06",
   externalIdentity: [
     {

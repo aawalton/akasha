@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0196Chapter208PreppedAndReady 
   story: "mythrans-master-of-all-continued-completed",
   position: 196,
   ownLength: 3441,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-28",
   externalIdentity: [
     {

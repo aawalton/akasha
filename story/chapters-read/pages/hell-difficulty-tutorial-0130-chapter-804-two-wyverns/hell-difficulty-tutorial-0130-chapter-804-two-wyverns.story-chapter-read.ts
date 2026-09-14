@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0130Chapter804TwoWyverns = {
   story: "story-read/hell-difficulty-tutorial",
   position: 130,
   ownLength: 2565,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-13",
   externalIdentity: [
     {

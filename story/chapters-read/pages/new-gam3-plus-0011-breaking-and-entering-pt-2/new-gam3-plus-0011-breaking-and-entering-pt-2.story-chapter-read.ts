@@ -8,7 +8,7 @@ export const newGam3Plus0011BreakingAndEnteringPt2 = {
   story: "new-gam3-plus",
   position: 11,
   ownLength: 2935,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

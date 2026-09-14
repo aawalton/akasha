@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0025Chapter23Mantle = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 25,
   ownLength: 2222,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-07",
   externalIdentity: [
     {

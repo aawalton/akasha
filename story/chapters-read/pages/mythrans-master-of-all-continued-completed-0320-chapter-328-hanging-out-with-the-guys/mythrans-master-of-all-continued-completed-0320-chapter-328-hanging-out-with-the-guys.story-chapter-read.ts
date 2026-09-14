@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0320Chapter328HangingOutWithTh
   story: "mythrans-master-of-all-continued-completed",
   position: 320,
   ownLength: 3743,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-11",
   externalIdentity: [
     {

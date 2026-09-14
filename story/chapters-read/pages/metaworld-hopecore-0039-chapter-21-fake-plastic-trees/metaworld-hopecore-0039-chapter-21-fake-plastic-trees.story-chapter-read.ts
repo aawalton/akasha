@@ -8,7 +8,7 @@ export const metaworldHopecore0039Chapter21FakePlasticTrees = {
   story: "metaworld-hopecore",
   position: 39,
   ownLength: 3071,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0020Chapter11LifeOnMars = {
   story: "metaworld-hopecore",
   position: 20,
   ownLength: 2292,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

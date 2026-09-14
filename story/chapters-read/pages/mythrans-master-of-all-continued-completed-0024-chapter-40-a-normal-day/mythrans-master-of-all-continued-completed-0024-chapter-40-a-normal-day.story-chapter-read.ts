@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0024Chapter40ANormalDay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 24,
   ownLength: 2040,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-02",
   externalIdentity: [
     {

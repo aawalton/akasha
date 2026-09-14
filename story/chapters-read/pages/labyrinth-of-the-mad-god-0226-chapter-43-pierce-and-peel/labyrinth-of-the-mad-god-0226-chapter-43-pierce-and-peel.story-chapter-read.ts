@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0226Chapter43PierceAndPeel = {
   story: "labyrinth-of-the-mad-god",
   position: 226,
   ownLength: 2012,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-22",
   externalIdentity: [
     {

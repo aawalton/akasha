@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0655Chapter654IGiveToYou = {
   story: "mythrans-master-of-all-continued-completed",
   position: 655,
   ownLength: 3224,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-07-31",
   externalIdentity: [
     {

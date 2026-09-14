@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0370Chapter376EpisodeFour = {
   story: "mythrans-master-of-all-continued-completed",
   position: 370,
   ownLength: 3207,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-03",
   externalIdentity: [
     {

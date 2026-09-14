@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0543Chapter543GoBackIntoTheLig
   story: "mythrans-master-of-all-continued-completed",
   position: 543,
   ownLength: 2778,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-01",
   externalIdentity: [
     {

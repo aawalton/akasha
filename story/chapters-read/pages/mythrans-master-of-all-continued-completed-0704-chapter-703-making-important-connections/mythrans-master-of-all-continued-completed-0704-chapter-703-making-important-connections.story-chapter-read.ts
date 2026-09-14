@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0704Chapter703MakingImportantC
   story: "mythrans-master-of-all-continued-completed",
   position: 704,
   ownLength: 3190,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-17",
   externalIdentity: [
     {

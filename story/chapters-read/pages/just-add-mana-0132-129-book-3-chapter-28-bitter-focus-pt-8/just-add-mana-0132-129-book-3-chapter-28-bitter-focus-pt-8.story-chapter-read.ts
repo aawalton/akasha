@@ -8,7 +8,7 @@ export const justAddMana0132129Book3Chapter28BitterFocusPt8 = {
   story: "just-add-mana",
   position: 132,
   ownLength: 3368,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-30",
   externalIdentity: [
     {

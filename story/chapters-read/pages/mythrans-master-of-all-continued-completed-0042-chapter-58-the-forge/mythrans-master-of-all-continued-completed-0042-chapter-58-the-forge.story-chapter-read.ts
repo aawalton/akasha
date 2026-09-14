@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0042Chapter58TheForge = {
   story: "mythrans-master-of-all-continued-completed",
   position: 42,
   ownLength: 3948,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-21",
   externalIdentity: [
     {

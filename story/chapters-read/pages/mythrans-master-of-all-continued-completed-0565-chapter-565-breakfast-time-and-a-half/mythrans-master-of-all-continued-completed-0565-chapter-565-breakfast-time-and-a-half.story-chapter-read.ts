@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0565Chapter565BreakfastTimeAnd
   story: "mythrans-master-of-all-continued-completed",
   position: 565,
   ownLength: 2926,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-23",
   externalIdentity: [
     {

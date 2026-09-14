@@ -8,7 +8,7 @@ export const metaworldHopecore0006Chapter3JustLikeStartingOver2 = {
   story: "metaworld-hopecore",
   position: 6,
   ownLength: 3582,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

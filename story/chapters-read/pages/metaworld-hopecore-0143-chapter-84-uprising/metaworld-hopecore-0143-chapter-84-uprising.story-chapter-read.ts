@@ -8,7 +8,7 @@ export const metaworldHopecore0143Chapter84Uprising = {
   story: "metaworld-hopecore",
   position: 143,
   ownLength: 3043,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-01",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0340Chapter59OneSidedBeatdown = {
   story: "labyrinth-of-the-mad-god",
   position: 340,
   ownLength: 1978,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-28",
   externalIdentity: [
     {

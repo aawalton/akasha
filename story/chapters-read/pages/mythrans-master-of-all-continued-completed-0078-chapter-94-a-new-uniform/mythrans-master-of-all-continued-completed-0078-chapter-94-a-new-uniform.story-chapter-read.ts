@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0078Chapter94ANewUniform = {
   story: "mythrans-master-of-all-continued-completed",
   position: 78,
   ownLength: 3544,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-24",
   externalIdentity: [
     {

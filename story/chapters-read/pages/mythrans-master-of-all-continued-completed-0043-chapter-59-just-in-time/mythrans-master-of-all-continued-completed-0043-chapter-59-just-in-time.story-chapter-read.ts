@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0043Chapter59JustInTime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 43,
   ownLength: 2050,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-22",
   externalIdentity: [
     {

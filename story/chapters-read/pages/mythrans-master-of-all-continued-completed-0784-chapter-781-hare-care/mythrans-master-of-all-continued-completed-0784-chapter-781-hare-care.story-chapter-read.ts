@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0784Chapter781HareCare = {
   story: "mythrans-master-of-all-continued-completed",
   position: 784,
   ownLength: 3148,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-12-02",
   externalIdentity: [
     {

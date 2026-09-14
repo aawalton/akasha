@@ -8,7 +8,7 @@ export const newGam3Plus0003QuestionsAndAnswers = {
   story: "new-gam3-plus",
   position: 3,
   ownLength: 2616,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

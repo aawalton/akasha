@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0341Chapter348ShoppingAtTheCap
   story: "mythrans-master-of-all-continued-completed",
   position: 341,
   ownLength: 3063,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-31",
   externalIdentity: [
     {

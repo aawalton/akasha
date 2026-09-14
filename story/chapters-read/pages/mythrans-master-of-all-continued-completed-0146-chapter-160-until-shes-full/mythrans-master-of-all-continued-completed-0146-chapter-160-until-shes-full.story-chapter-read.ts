@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0146Chapter160UntilShesFull = 
   story: "mythrans-master-of-all-continued-completed",
   position: 146,
   ownLength: 3469,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-04",
   externalIdentity: [
     {

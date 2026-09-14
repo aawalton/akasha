@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0289Chapter298SpecialDelivery 
   story: "mythrans-master-of-all-continued-completed",
   position: 289,
   ownLength: 4242,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-03",
   externalIdentity: [
     {

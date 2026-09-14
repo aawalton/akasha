@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0037Chapter970TheWisdomTheseSituationsDemand
   position: 37,
   ownLength: 2939,
   ownProgress: 2939,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:05:08.584Z",
   publishedAt: "2025-03-10",
   externalIdentity: [

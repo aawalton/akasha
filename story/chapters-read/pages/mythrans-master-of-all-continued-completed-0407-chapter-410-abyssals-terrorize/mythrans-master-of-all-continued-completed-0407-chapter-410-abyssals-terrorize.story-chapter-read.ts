@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0407Chapter410AbyssalsTerroriz
   story: "mythrans-master-of-all-continued-completed",
   position: 407,
   ownLength: 3329,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-02",
   externalIdentity: [
     {

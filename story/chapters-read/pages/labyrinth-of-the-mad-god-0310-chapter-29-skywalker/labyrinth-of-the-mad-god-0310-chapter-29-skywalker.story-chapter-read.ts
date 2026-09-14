@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0310Chapter29Skywalker = {
   story: "labyrinth-of-the-mad-god",
   position: 310,
   ownLength: 2054,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0790Chapter787DelegateSensibil
   story: "mythrans-master-of-all-continued-completed",
   position: 790,
   ownLength: 3077,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-12-07",
   externalIdentity: [
     {

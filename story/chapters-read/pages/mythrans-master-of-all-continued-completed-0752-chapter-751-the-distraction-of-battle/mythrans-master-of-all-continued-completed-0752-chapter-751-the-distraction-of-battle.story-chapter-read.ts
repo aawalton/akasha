@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0752Chapter751TheDistractionOf
   story: "mythrans-master-of-all-continued-completed",
   position: 752,
   ownLength: 3013,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-04",
   externalIdentity: [
     {

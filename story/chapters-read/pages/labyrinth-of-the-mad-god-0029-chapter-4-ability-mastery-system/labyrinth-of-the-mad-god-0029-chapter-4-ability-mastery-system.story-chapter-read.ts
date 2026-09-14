@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0029Chapter4AbilityMasterySystem = {
   story: "labyrinth-of-the-mad-god",
   position: 29,
   ownLength: 1458,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-26",
   externalIdentity: [
     {

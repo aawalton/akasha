@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0204Chapter22DivergingPaths = {
   story: "labyrinth-of-the-mad-god",
   position: 204,
   ownLength: 2461,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-04",
   externalIdentity: [
     {

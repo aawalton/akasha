@@ -8,7 +8,7 @@ export const metaworldHopecore0079Chapter43TheWholeOfTheMoon2 = {
   story: "metaworld-hopecore",
   position: 79,
   ownLength: 2411,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-18",
   externalIdentity: [
     {

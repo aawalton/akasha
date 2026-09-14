@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0123Chapter138TimeToRelax = {
   story: "mythrans-master-of-all-continued-completed",
   position: 123,
   ownLength: 5112,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-07",
   externalIdentity: [
     {

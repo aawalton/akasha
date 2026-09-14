@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0016Chapter32IsThatAClue = {
   story: "mythrans-master-of-all-continued-completed",
   position: 16,
   ownLength: 2072,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-24",
   externalIdentity: [
     {

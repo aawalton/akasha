@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0301Chapter21Jackpot = {
   story: "labyrinth-of-the-mad-god",
   position: 301,
   ownLength: 2449,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-10",
   externalIdentity: [
     {

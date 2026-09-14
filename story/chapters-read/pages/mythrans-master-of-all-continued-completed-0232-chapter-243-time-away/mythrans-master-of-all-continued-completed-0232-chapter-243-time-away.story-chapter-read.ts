@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0232Chapter243TimeAway = {
   story: "mythrans-master-of-all-continued-completed",
   position: 232,
   ownLength: 3290,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-03",
   externalIdentity: [
     {

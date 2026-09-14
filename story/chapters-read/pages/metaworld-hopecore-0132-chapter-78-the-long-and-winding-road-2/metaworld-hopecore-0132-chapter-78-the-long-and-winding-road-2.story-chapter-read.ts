@@ -8,7 +8,7 @@ export const metaworldHopecore0132Chapter78TheLongAndWindingRoad2 = {
   story: "metaworld-hopecore",
   position: 132,
   ownLength: 1697,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-18",
   externalIdentity: [
     {

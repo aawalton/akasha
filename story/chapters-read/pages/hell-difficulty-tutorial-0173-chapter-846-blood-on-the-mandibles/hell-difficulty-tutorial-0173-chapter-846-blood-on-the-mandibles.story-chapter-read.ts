@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0173Chapter846BloodOnTheMandibles = {
   story: "story-read/hell-difficulty-tutorial",
   position: 173,
   ownLength: 2528,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-26",
   externalIdentity: [
     {

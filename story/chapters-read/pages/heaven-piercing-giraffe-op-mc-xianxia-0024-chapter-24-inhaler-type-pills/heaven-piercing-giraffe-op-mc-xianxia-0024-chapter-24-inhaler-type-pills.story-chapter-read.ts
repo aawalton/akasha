@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0024Chapter24InhalerTypePills = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 24,
   ownLength: 1636,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-08",
   externalIdentity: [
     {

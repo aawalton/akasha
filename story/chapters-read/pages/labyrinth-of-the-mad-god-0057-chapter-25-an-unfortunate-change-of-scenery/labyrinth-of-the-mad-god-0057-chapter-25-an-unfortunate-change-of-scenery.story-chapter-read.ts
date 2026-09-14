@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0057Chapter25AnUnfortunateChangeOfScenery = {
   story: "labyrinth-of-the-mad-god",
   position: 57,
   ownLength: 1604,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-13",
   externalIdentity: [
     {

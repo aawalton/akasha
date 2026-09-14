@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0050Chapter66CaptainOfTheGuard
   story: "mythrans-master-of-all-continued-completed",
   position: 50,
   ownLength: 4046,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-29",
   externalIdentity: [
     {

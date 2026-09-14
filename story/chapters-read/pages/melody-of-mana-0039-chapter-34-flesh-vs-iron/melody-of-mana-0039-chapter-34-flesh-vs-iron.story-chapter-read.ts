@@ -9,7 +9,7 @@ export const melodyOfMana0039Chapter34FleshVsIron = {
   position: 39,
   ownLength: 2148,
   ownProgress: 2148,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:27:33.837Z",
   publishedAt: "2021-08-01",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0051Chapter67AQuickEncounter =
   story: "mythrans-master-of-all-continued-completed",
   position: 51,
   ownLength: 4564,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-30",
   externalIdentity: [
     {

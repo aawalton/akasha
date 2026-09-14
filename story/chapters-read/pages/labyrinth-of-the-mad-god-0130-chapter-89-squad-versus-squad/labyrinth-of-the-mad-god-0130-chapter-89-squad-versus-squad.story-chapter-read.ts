@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0130Chapter89SquadVersusSquad = {
   story: "labyrinth-of-the-mad-god",
   position: 130,
   ownLength: 1789,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-10",
   externalIdentity: [
     {

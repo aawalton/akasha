@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0065Chapter81CookingUpAStorm =
   story: "mythrans-master-of-all-continued-completed",
   position: 65,
   ownLength: 4587,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-13",
   externalIdentity: [
     {

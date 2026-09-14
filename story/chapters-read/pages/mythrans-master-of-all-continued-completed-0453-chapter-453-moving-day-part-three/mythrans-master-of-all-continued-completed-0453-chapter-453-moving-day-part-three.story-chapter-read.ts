@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0453Chapter453MovingDayPartThr
   story: "mythrans-master-of-all-continued-completed",
   position: 453,
   ownLength: 3965,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-16",
   externalIdentity: [
     {

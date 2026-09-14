@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0252Chapter70RunningWaterAndNotSoTerminal = {
   story: "labyrinth-of-the-mad-god",
   position: 252,
   ownLength: 2060,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-24",
   externalIdentity: [
     {

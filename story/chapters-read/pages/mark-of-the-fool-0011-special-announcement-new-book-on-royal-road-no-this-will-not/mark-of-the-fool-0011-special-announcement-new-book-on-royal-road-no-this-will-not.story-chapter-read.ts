@@ -8,7 +8,7 @@ export const markOfTheFool0011SpecialAnnouncementNewBookOnRoyalRoadNoThisWillNot
   story: "story-read/mark-of-the-fool",
   position: 11,
   ownLength: 180,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-23",
   externalIdentity: [
     {

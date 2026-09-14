@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0268Chapter277TwoHeadsAreBette
   story: "mythrans-master-of-all-continued-completed",
   position: 268,
   ownLength: 3067,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-12",
   externalIdentity: [
     {

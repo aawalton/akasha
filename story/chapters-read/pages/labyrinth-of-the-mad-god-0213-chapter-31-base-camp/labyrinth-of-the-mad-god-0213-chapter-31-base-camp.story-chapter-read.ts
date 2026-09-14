@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0213Chapter31BaseCamp = {
   story: "labyrinth-of-the-mad-god",
   position: 213,
   ownLength: 1946,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-25",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0559Chapter559MakingChoices = 
   story: "mythrans-master-of-all-continued-completed",
   position: 559,
   ownLength: 2442,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-17",
   externalIdentity: [
     {

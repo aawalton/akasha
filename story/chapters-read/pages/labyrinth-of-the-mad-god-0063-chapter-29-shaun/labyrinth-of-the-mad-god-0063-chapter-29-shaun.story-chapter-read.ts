@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0063Chapter29Shaun = {
   story: "labyrinth-of-the-mad-god",
   position: 63,
   ownLength: 1751,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-23",
   externalIdentity: [
     {

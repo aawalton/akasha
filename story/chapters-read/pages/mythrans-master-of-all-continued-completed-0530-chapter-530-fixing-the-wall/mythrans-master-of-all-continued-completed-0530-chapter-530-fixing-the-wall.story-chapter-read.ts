@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0530Chapter530FixingTheWall = 
   story: "mythrans-master-of-all-continued-completed",
   position: 530,
   ownLength: 2360,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0773Chapter770a2FourWayFun = {
   story: "mythrans-master-of-all-continued-completed",
   position: 773,
   ownLength: 3541,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-23",
   externalIdentity: [
     {

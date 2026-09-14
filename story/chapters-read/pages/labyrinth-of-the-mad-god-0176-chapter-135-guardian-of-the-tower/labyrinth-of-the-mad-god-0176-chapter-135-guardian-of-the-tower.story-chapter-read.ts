@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0176Chapter135GuardianOfTheTower = {
   story: "labyrinth-of-the-mad-god",
   position: 176,
   ownLength: 1734,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-28",
   externalIdentity: [
     {

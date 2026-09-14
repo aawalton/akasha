@@ -8,7 +8,7 @@ export const godOfTrash0330330BeyondTheForest = {
   story: "god-of-trash",
   position: 330,
   ownLength: 2185,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-29",
   externalIdentity: [
     {

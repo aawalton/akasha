@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0041Chapter716MythicalBeing = {
   story: "story-read/hell-difficulty-tutorial",
   position: 41,
   ownLength: 2131,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-21",
   externalIdentity: [
     {

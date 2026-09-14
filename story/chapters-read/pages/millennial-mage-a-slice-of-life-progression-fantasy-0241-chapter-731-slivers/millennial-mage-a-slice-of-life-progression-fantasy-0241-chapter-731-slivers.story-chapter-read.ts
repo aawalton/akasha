@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0241Chapter731Slivers =
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 241,
   ownLength: 2821,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

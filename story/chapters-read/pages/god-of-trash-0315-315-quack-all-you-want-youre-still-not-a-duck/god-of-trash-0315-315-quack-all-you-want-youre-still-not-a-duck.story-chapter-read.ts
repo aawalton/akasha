@@ -8,7 +8,7 @@ export const godOfTrash0315315QuackAllYouWantYoureStillNotADuck = {
   story: "god-of-trash",
   position: 315,
   ownLength: 3170,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

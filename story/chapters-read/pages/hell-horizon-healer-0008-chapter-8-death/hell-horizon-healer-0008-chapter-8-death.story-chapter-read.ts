@@ -8,7 +8,7 @@ export const hellHorizonHealer0008Chapter8Death = {
   story: "hell-horizon-healer",
   position: 8,
   ownLength: 1441,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

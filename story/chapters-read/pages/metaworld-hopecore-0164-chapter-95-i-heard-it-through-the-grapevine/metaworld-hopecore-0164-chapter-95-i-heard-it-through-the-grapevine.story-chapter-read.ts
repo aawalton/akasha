@@ -8,7 +8,7 @@ export const metaworldHopecore0164Chapter95IHeardItThroughTheGrapevine = {
   story: "metaworld-hopecore",
   position: 164,
   ownLength: 3151,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-25",
   externalIdentity: [
     {

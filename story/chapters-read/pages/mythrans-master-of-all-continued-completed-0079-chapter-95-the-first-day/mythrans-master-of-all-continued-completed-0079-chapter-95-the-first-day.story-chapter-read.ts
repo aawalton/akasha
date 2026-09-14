@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0079Chapter95TheFirstDay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 79,
   ownLength: 3590,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-25",
   externalIdentity: [
     {

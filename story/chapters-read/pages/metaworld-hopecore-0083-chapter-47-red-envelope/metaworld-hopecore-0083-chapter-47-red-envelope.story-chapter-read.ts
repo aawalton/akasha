@@ -8,7 +8,7 @@ export const metaworldHopecore0083Chapter47RedEnvelope = {
   story: "metaworld-hopecore",
   position: 83,
   ownLength: 2313,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-23",
   externalIdentity: [
     {

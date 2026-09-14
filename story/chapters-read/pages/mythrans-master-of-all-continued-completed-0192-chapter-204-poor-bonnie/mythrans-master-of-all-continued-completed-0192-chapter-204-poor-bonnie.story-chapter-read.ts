@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0192Chapter204PoorBonnie = {
   story: "mythrans-master-of-all-continued-completed",
   position: 192,
   ownLength: 3700,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-24",
   externalIdentity: [
     {

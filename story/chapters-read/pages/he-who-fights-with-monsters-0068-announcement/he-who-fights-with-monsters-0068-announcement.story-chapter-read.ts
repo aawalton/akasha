@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0068Announcement = {
   story: "story-read/he-who-fights-with-monsters",
   position: 68,
   ownLength: 43,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-13",
   externalIdentity: [
     {

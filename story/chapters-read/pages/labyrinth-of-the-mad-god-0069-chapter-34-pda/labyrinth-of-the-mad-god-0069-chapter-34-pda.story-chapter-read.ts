@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0069Chapter34Pda = {
   story: "labyrinth-of-the-mad-god",
   position: 69,
   ownLength: 1877,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-04",
   externalIdentity: [
     {

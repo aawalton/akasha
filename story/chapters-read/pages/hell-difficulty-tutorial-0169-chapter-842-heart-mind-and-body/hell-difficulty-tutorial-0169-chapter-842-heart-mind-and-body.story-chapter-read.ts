@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0169Chapter842HeartMindAndBody = {
   story: "story-read/hell-difficulty-tutorial",
   position: 169,
   ownLength: 2378,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-20",
   externalIdentity: [
     {

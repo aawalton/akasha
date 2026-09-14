@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0019Chapter19NewSkillAcquired = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 19,
   ownLength: 2379,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0167Chapter96WayfaringStranger2 = {
   story: "metaworld-hopecore",
   position: 167,
   ownLength: 2354,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-27",
   externalIdentity: [
     {

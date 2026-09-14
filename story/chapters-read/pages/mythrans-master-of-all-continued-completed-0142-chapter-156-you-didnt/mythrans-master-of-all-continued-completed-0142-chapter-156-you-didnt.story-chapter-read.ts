@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0142Chapter156YouDidnt = {
   story: "mythrans-master-of-all-continued-completed",
   position: 142,
   ownLength: 4182,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-31",
   externalIdentity: [
     {

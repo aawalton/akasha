@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0012Chapter12AgainstAWarVeteran = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 12,
   ownLength: 1720,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-07",
   externalIdentity: [
     {

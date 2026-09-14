@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0001Chapter1FirstEncounter 
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 1,
   ownLength: 1237,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-16",
   externalIdentity: [
     {

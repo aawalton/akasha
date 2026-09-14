@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0258Chapter76SophiasDemon = {
   story: "labyrinth-of-the-mad-god",
   position: 258,
   ownLength: 1710,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-08",
   externalIdentity: [
     {

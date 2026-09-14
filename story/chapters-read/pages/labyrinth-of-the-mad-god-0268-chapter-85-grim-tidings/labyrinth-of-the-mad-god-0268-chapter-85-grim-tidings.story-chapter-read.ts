@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0268Chapter85GrimTidings = {
   story: "labyrinth-of-the-mad-god",
   position: 268,
   ownLength: 1703,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-29",
   externalIdentity: [
     {

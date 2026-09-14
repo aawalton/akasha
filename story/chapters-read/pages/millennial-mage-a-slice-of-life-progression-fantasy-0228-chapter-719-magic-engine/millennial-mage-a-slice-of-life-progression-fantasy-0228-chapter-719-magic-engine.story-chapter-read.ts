@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0228Chapter719MagicEngi
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 228,
   ownLength: 2575,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

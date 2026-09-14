@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0259Chapter77RapidGrowth = {
   story: "labyrinth-of-the-mad-god",
   position: 259,
   ownLength: 2664,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-10",
   externalIdentity: [
     {

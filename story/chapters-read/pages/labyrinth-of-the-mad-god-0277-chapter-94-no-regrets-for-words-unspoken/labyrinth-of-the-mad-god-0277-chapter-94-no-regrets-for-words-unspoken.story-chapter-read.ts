@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0277Chapter94NoRegretsForWordsUnspoken = {
   story: "labyrinth-of-the-mad-god",
   position: 277,
   ownLength: 2136,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const metaworldHopecore0106Chapter60KaeroKaNa2 = {
   story: "metaworld-hopecore",
   position: 106,
   ownLength: 3383,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

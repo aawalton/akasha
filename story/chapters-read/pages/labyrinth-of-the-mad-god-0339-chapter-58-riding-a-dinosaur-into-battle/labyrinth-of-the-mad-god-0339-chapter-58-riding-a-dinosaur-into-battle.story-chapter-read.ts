@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0339Chapter58RidingADinosaurIntoBattle = {
   story: "labyrinth-of-the-mad-god",
   position: 339,
   ownLength: 2166,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-24",
   externalIdentity: [
     {

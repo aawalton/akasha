@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0070Chapter86AMisunderstanding
   story: "mythrans-master-of-all-continued-completed",
   position: 70,
   ownLength: 4147,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-18",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0045140IiPredatorsI2638512 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 45,
   ownLength: 2543,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

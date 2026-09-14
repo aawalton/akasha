@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0061Chapter61observed = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 61,
   ownLength: 1564,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-20",
   externalIdentity: [
     {

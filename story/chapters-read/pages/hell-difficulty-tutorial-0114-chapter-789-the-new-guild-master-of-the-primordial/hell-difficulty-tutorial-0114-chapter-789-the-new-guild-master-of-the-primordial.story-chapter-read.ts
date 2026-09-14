@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0114Chapter789TheNewGuildMasterOfThePrimordia
   story: "story-read/hell-difficulty-tutorial",
   position: 114,
   ownLength: 2619,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-08",
   externalIdentity: [
     {

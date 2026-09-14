@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0419Chapter422ANecessaryWarnin
   story: "mythrans-master-of-all-continued-completed",
   position: 419,
   ownLength: 3112,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-15",
   externalIdentity: [
     {

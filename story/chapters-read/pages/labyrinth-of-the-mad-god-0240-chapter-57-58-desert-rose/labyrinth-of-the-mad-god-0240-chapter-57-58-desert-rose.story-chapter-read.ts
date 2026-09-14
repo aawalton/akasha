@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0240Chapter5758DesertRose = {
   story: "labyrinth-of-the-mad-god",
   position: 240,
   ownLength: 3301,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-24",
   externalIdentity: [
     {

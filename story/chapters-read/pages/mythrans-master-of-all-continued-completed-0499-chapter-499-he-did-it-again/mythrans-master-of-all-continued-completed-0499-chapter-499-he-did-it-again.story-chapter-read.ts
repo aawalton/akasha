@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0499Chapter499HeDidItAgain = {
   story: "mythrans-master-of-all-continued-completed",
   position: 499,
   ownLength: 3324,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-02",
   externalIdentity: [
     {

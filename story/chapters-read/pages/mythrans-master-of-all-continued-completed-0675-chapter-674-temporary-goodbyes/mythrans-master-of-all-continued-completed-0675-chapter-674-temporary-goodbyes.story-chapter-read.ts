@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0675Chapter674TemporaryGoodbye
   story: "mythrans-master-of-all-continued-completed",
   position: 675,
   ownLength: 2926,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-19",
   externalIdentity: [
     {

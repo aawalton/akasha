@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0513Chapter513PitStop = {
   story: "mythrans-master-of-all-continued-completed",
   position: 513,
   ownLength: 2997,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-02-16",
   externalIdentity: [
     {

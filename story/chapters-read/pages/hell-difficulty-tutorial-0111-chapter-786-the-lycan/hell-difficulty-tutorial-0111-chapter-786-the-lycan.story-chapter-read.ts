@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0111Chapter786TheLycan = {
   story: "story-read/hell-difficulty-tutorial",
   position: 111,
   ownLength: 2489,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-05",
   externalIdentity: [
     {

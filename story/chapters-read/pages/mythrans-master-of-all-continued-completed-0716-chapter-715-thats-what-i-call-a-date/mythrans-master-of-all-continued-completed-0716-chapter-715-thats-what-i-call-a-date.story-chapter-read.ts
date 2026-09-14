@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0716Chapter715ThatsWhatICallAD
   story: "mythrans-master-of-all-continued-completed",
   position: 716,
   ownLength: 2927,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-09-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0431Chapter434HereIAm = {
   story: "mythrans-master-of-all-continued-completed",
   position: 431,
   ownLength: 3977,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-27",
   externalIdentity: [
     {

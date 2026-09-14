@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0046Chapter62LetThemEatCake = 
   story: "mythrans-master-of-all-continued-completed",
   position: 46,
   ownLength: 2662,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-25",
   externalIdentity: [
     {

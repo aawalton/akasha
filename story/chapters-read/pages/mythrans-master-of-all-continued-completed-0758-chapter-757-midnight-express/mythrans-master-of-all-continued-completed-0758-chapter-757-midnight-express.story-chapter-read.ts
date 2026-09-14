@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0758Chapter757MidnightExpress 
   story: "mythrans-master-of-all-continued-completed",
   position: 758,
   ownLength: 3119,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-10",
   externalIdentity: [
     {

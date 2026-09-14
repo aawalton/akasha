@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0140Chapter154HelloDoggie = {
   story: "mythrans-master-of-all-continued-completed",
   position: 140,
   ownLength: 4093,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-01-29",
   externalIdentity: [
     {

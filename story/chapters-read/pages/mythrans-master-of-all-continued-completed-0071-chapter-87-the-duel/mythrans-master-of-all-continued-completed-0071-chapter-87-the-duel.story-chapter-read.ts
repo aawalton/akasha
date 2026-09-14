@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0071Chapter87TheDuel = {
   story: "mythrans-master-of-all-continued-completed",
   position: 71,
   ownLength: 3972,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-19",
   externalIdentity: [
     {

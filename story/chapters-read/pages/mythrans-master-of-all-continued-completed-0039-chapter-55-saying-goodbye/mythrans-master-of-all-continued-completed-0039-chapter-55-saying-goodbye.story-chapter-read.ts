@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0039Chapter55SayingGoodbye = {
   story: "mythrans-master-of-all-continued-completed",
   position: 39,
   ownLength: 2338,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-10-18",
   externalIdentity: [
     {

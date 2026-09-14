@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0073Chapter37RunningToTheRescue = {
   story: "labyrinth-of-the-mad-god",
   position: 73,
   ownLength: 1538,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-11",
   externalIdentity: [
     {

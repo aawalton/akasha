@@ -8,7 +8,7 @@ export const metaworldHopecore0004Chapter2KarmaChameleon = {
   story: "metaworld-hopecore",
   position: 4,
   ownLength: 2636,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0656Chapter655GhoulCity = {
   story: "mythrans-master-of-all-continued-completed",
   position: 656,
   ownLength: 2681,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-01",
   externalIdentity: [
     {

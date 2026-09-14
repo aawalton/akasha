@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0313Chapter321ExponentialEncha
   story: "mythrans-master-of-all-continued-completed",
   position: 313,
   ownLength: 2538,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-29",
   externalIdentity: [
     {

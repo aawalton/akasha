@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0166Chapter839SystemWar = {
   story: "story-read/hell-difficulty-tutorial",
   position: 166,
   ownLength: 2796,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-15",
   externalIdentity: [
     {

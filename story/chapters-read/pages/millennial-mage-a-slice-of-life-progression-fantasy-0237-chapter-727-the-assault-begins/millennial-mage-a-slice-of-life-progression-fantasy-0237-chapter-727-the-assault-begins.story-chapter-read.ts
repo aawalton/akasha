@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0237Chapter727TheAssaul
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 237,
   ownLength: 2489,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-17",
   externalIdentity: [
     {

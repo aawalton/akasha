@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0548Chapter548UnexpectedMeetin
   story: "mythrans-master-of-all-continued-completed",
   position: 548,
   ownLength: 2893,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-06",
   externalIdentity: [
     {

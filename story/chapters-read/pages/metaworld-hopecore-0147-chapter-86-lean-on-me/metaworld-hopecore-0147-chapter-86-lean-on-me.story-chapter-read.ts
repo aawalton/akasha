@@ -8,7 +8,7 @@ export const metaworldHopecore0147Chapter86LeanOnMe = {
   story: "metaworld-hopecore",
   position: 147,
   ownLength: 2713,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-05",
   externalIdentity: [
     {

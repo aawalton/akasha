@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0061Chapter736WhenTheTimeComes = {
   story: "story-read/hell-difficulty-tutorial",
   position: 61,
   ownLength: 2379,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-25",
   externalIdentity: [
     {

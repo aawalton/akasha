@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0043Chapter14Escape = {
   story: "labyrinth-of-the-mad-god",
   position: 43,
   ownLength: 1765,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-19",
   externalIdentity: [
     {

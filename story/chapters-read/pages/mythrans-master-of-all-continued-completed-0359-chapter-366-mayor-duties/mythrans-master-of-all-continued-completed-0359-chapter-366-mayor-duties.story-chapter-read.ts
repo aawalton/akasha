@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0359Chapter366MayorDuties = {
   story: "mythrans-master-of-all-continued-completed",
   position: 359,
   ownLength: 3516,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-23",
   externalIdentity: [
     {

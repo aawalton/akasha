@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0112Chapter71DinnerSurprise = {
   story: "labyrinth-of-the-mad-god",
   position: 112,
   ownLength: 2691,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-30",
   externalIdentity: [
     {

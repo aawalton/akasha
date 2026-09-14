@@ -9,7 +9,7 @@ export const motherOfLearning005353Phantoms = {
   position: 53,
   ownLength: 8737,
   ownProgress: 8737,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:45:46.017Z",
   publishedAt: "2018-12-14",
   externalIdentity: [

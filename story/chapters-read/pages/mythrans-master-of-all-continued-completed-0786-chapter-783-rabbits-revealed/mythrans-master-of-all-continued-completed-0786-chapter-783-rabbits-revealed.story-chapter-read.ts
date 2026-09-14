@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0786Chapter783RabbitsRevealed 
   story: "mythrans-master-of-all-continued-completed",
   position: 786,
   ownLength: 3187,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-12-04",
   externalIdentity: [
     {

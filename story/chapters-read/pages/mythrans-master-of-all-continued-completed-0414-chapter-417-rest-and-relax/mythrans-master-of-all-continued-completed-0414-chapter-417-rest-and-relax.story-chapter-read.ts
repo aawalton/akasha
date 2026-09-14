@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0414Chapter417RestAndRelax = {
   story: "mythrans-master-of-all-continued-completed",
   position: 414,
   ownLength: 3685,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-09",
   externalIdentity: [
     {

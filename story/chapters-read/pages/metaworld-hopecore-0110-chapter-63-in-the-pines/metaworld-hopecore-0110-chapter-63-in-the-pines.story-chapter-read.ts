@@ -8,7 +8,7 @@ export const metaworldHopecore0110Chapter63InThePines = {
   story: "metaworld-hopecore",
   position: 110,
   ownLength: 3523,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-16",
   externalIdentity: [
     {

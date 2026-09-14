@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0015Chapter31TheHomestead = {
   story: "mythrans-master-of-all-continued-completed",
   position: 15,
   ownLength: 2733,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-23",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const melodyOfMana0204Chapter190Locked = {
   position: 204,
   ownLength: 1528,
   ownProgress: 1528,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:32:52.591Z",
   publishedAt: "2022-11-23",
   externalIdentity: [

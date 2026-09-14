@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0123Chapter82DangerAbove = {
   story: "labyrinth-of-the-mad-god",
   position: 123,
   ownLength: 1631,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0562Chapter562TheMorningAfter 
   story: "mythrans-master-of-all-continued-completed",
   position: 562,
   ownLength: 2520,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-04-20",
   externalIdentity: [
     {

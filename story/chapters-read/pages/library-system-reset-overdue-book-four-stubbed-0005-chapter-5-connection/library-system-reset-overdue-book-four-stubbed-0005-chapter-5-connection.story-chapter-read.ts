@@ -8,7 +8,7 @@ export const librarySystemResetOverdueBookFourStubbed0005Chapter5Connection = {
   story: "library-system-reset-overdue-book-four-stubbed",
   position: 5,
   ownLength: 2990,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-24",
   externalIdentity: [
     {

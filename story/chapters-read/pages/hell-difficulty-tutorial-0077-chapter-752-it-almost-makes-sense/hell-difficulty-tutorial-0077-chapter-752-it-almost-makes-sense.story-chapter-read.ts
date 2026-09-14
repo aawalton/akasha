@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0077Chapter752ItAlmostMakesSense = {
   story: "story-read/hell-difficulty-tutorial",
   position: 77,
   ownLength: 2532,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-16",
   externalIdentity: [
     {

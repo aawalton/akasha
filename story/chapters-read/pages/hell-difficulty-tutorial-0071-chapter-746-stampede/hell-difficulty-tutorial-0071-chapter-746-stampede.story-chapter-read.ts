@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0071Chapter746Stampede = {
   story: "story-read/hell-difficulty-tutorial",
   position: 71,
   ownLength: 3124,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-08",
   externalIdentity: [
     {

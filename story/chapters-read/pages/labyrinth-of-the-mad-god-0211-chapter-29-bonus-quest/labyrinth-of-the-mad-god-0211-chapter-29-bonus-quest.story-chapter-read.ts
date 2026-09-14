@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0211Chapter29BonusQuest = {
   story: "labyrinth-of-the-mad-god",
   position: 211,
   ownLength: 1584,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-20",
   externalIdentity: [
     {

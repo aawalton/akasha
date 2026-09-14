@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0324Chapter332PurrFectTiming =
   story: "mythrans-master-of-all-continued-completed",
   position: 324,
   ownLength: 3607,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-08-15",
   externalIdentity: [
     {

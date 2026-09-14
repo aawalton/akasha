@@ -8,7 +8,7 @@ export const metaworldHopecore0074Chapter40EverydayPeople2 = {
   story: "metaworld-hopecore",
   position: 74,
   ownLength: 2387,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0070Chapter1002TheOneWhoGetsToDecide = {
   story: "story-read/he-who-fights-with-monsters",
   position: 70,
   ownLength: 3113,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-03",
   externalIdentity: [
     {

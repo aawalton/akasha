@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0372Chapter378DeepLearning = {
   story: "mythrans-master-of-all-continued-completed",
   position: 372,
   ownLength: 3164,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-05",
   externalIdentity: [
     {

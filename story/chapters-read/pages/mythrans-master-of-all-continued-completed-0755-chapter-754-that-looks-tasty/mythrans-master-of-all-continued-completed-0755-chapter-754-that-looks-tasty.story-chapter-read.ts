@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0755Chapter754ThatLooksTasty =
   story: "mythrans-master-of-all-continued-completed",
   position: 755,
   ownLength: 2900,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-07",
   externalIdentity: [
     {

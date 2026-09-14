@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0116Chapter75BaredBladesByMidnight = {
   story: "labyrinth-of-the-mad-god",
   position: 116,
   ownLength: 1373,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-08",
   externalIdentity: [
     {

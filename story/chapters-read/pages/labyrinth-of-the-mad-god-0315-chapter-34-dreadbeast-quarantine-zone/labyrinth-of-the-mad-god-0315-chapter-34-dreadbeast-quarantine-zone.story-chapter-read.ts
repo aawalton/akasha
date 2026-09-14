@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0315Chapter34DreadbeastQuarantineZone = {
   story: "labyrinth-of-the-mad-god",
   position: 315,
   ownLength: 1991,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

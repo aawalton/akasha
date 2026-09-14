@@ -8,7 +8,7 @@ export const justAddMana0161Book3Blooper = {
   story: "just-add-mana",
   position: 161,
   ownLength: 711,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-07",
   externalIdentity: [
     {

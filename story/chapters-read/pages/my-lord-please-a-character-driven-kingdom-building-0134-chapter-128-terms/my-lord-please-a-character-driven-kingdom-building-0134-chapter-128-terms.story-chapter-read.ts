@@ -6,7 +6,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0134Chapter128Terms = {
   slug: "my-lord-please-a-character-driven-kingdom-building-0134-chapter-128-terms",
   position: 134,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0087Chapter82Veil = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 87,
   ownLength: 2054,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-21",
   externalIdentity: [
     {

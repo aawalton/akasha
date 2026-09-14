@@ -8,7 +8,7 @@ export const metaworldHopecore0145Chapter85KnightsOfCydonia = {
   story: "metaworld-hopecore",
   position: 145,
   ownLength: 2268,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-03",
   externalIdentity: [
     {

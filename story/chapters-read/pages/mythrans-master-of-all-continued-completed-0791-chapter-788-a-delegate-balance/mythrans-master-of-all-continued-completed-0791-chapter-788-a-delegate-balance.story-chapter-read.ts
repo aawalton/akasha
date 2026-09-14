@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0791Chapter788ADelegateBalance
   story: "mythrans-master-of-all-continued-completed",
   position: 791,
   ownLength: 3657,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-12-07",
   externalIdentity: [
     {

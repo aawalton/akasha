@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0053Chapter22IntermissionSophiaAndDevin = {
   story: "labyrinth-of-the-mad-god",
   position: 53,
   ownLength: 1581,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-06",
   externalIdentity: [
     {

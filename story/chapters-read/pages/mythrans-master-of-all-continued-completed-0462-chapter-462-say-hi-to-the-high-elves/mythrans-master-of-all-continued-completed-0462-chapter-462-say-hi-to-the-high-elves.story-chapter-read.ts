@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0462Chapter462SayHiToTheHighEl
   story: "mythrans-master-of-all-continued-completed",
   position: 462,
   ownLength: 2996,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-25",
   externalIdentity: [
     {

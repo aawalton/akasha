@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0002Chapter2ActLikeADecentHumanLess
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 2,
   ownLength: 2586,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0468Chapter468PartyTime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 468,
   ownLength: 3322,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-31",
   externalIdentity: [
     {

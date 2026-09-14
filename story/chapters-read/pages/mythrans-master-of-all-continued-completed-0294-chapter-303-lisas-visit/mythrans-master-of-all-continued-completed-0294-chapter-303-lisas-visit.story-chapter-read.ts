@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0294Chapter303LisasVisit = {
   story: "mythrans-master-of-all-continued-completed",
   position: 294,
   ownLength: 5075,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-10",
   externalIdentity: [
     {

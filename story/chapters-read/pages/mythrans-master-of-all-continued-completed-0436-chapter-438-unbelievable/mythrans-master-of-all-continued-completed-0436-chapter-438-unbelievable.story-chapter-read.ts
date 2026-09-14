@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0436Chapter438Unbelievable = {
   story: "mythrans-master-of-all-continued-completed",
   position: 436,
   ownLength: 3277,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-01",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0234Chapter245StudioTime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 234,
   ownLength: 3464,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-05",
   externalIdentity: [
     {

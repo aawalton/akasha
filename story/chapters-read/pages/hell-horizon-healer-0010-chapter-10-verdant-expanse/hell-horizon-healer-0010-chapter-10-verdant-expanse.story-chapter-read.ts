@@ -8,7 +8,7 @@ export const hellHorizonHealer0010Chapter10VerdantExpanse = {
   story: "hell-horizon-healer",
   position: 10,
   ownLength: 1644,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

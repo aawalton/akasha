@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0010Chapter10WheresTheTutor
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 10,
   ownLength: 2262,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-17",
   externalIdentity: [
     {

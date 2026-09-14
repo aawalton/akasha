@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0222Chapter233Warnings = {
   story: "mythrans-master-of-all-continued-completed",
   position: 222,
   ownLength: 3174,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-04-23",
   externalIdentity: [
     {

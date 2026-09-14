@@ -8,7 +8,7 @@ export const metaworldHopecore0120Chapter72BleedingLove = {
   story: "metaworld-hopecore",
   position: 120,
   ownLength: 4024,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-01",
   externalIdentity: [
     {

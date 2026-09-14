@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0008Chapter24AForgottenFriend 
   story: "mythrans-master-of-all-continued-completed",
   position: 8,
   ownLength: 3003,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-12",
   externalIdentity: [
     {

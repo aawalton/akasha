@@ -8,7 +8,7 @@ export const metaworldHopecore0041Chapter22KillingInTheName = {
   story: "metaworld-hopecore",
   position: 41,
   ownLength: 2349,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

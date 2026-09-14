@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0744Chapter743CurrentlyInTheCa
   story: "mythrans-master-of-all-continued-completed",
   position: 744,
   ownLength: 3260,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-27",
   externalIdentity: [
     {

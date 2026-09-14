@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0618Chapter618WhatHeWants = {
   story: "mythrans-master-of-all-continued-completed",
   position: 618,
   ownLength: 2439,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-24",
   externalIdentity: [
     {

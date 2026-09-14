@@ -8,7 +8,7 @@ export const metaworldHopecore0026Chapter14ThePretender = {
   story: "metaworld-hopecore",
   position: 26,
   ownLength: 2081,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

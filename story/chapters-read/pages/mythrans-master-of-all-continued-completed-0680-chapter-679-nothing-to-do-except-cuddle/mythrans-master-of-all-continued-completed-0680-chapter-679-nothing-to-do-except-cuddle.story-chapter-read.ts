@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0680Chapter679NothingToDoExcep
   story: "mythrans-master-of-all-continued-completed",
   position: 680,
   ownLength: 2849,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-08-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0287Chapter296Rampage = {
   story: "mythrans-master-of-all-continued-completed",
   position: 287,
   ownLength: 3328,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-01",
   externalIdentity: [
     {

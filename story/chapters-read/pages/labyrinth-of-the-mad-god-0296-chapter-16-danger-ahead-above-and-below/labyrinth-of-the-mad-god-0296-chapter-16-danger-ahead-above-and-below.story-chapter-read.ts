@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0296Chapter16DangerAheadAboveAndBelow = {
   story: "labyrinth-of-the-mad-god",
   position: 296,
   ownLength: 2094,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-23",
   externalIdentity: [
     {

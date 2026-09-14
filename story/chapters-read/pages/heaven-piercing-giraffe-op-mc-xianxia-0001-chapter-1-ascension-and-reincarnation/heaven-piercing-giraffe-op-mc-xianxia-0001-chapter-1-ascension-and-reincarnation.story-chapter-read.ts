@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0001Chapter1AscensionAndReincarnati
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 1,
   ownLength: 2514,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-06",
   externalIdentity: [
     {

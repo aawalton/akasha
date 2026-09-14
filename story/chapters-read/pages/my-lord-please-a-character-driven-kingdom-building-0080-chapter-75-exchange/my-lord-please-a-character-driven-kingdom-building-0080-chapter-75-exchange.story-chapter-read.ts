@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0080Chapter75Exchange = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 80,
   ownLength: 1949,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-08",
   externalIdentity: [
     {

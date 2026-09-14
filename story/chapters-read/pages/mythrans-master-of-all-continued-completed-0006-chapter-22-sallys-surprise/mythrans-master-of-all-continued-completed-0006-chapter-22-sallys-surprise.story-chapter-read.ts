@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0006Chapter22SallysSurprise = 
   story: "mythrans-master-of-all-continued-completed",
   position: 6,
   ownLength: 3172,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-09-10",
   externalIdentity: [
     {

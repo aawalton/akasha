@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0064Chapter60Convergence
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 64,
   ownLength: 2391,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-14",
   externalIdentity: [
     {

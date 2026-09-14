@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0126Chapter120Framework 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 126,
   ownLength: 2578,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-26",
   externalIdentity: [
     {

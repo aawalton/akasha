@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0138SideStoryNonCanonANyaToRemember = {
   story: "story-read/hell-difficulty-tutorial",
   position: 138,
   ownLength: 2474,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

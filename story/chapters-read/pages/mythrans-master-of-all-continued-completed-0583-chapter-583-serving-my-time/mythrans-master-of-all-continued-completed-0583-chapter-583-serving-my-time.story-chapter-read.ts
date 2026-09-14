@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0583Chapter583ServingMyTime = 
   story: "mythrans-master-of-all-continued-completed",
   position: 583,
   ownLength: 2969,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-05-11",
   externalIdentity: [
     {

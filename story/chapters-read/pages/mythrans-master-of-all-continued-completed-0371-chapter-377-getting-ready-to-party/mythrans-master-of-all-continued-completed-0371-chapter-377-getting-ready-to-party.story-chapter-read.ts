@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0371Chapter377GettingReadyToPa
   story: "mythrans-master-of-all-continued-completed",
   position: 371,
   ownLength: 3677,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-04",
   externalIdentity: [
     {

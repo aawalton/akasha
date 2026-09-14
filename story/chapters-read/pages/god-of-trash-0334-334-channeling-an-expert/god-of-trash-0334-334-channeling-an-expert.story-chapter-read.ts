@@ -8,7 +8,7 @@ export const godOfTrash0334334ChannelingAnExpert = {
   story: "god-of-trash",
   position: 334,
   ownLength: 2260,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-08",
   externalIdentity: [
     {

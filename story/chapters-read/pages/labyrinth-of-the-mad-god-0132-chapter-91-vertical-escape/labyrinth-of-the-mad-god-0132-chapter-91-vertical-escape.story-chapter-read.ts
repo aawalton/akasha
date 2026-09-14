@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0132Chapter91VerticalEscape = {
   story: "labyrinth-of-the-mad-god",
   position: 132,
   ownLength: 1656,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-14",
   externalIdentity: [
     {

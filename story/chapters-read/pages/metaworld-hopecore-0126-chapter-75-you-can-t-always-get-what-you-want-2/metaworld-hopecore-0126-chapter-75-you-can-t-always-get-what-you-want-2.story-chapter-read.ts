@@ -8,7 +8,7 @@ export const metaworldHopecore0126Chapter75YouCanTAlwaysGetWhatYouWant2 = {
   story: "metaworld-hopecore",
   position: 126,
   ownLength: 3139,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-10",
   externalIdentity: [
     {

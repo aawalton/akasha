@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0331Chapter50TheDevouringBlade = {
   story: "labyrinth-of-the-mad-god",
   position: 331,
   ownLength: 1664,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

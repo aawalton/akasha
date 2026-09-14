@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0344Chapter351ComfortingWords 
   story: "mythrans-master-of-all-continued-completed",
   position: 344,
   ownLength: 3534,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-03",
   externalIdentity: [
     {

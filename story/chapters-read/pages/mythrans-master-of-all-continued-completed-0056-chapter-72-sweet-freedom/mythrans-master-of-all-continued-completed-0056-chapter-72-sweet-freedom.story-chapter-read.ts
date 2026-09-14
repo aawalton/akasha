@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0056Chapter72SweetFreedom = {
   story: "mythrans-master-of-all-continued-completed",
   position: 56,
   ownLength: 4707,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2016-11-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0727Chapter726ACoupleMoreMeeti
   story: "mythrans-master-of-all-continued-completed",
   position: 727,
   ownLength: 3109,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-10",
   externalIdentity: [
     {

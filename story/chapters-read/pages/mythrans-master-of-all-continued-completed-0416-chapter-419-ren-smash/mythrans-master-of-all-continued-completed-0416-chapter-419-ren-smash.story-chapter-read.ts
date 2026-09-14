@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0416Chapter419RenSmash = {
   story: "mythrans-master-of-all-continued-completed",
   position: 416,
   ownLength: 3927,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-13",
   externalIdentity: [
     {

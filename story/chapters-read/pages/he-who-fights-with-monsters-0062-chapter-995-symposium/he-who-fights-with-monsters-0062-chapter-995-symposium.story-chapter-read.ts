@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0062Chapter995Symposium = {
   story: "story-read/he-who-fights-with-monsters",
   position: 62,
   ownLength: 3000,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-25",
   externalIdentity: [
     {

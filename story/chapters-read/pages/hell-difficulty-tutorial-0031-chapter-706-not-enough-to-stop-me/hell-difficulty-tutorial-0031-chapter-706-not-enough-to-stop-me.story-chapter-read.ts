@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0031Chapter706NotEnoughToStopMe = {
   story: "story-read/hell-difficulty-tutorial",
   position: 31,
   ownLength: 3145,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-07",
   externalIdentity: [
     {

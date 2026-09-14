@@ -8,7 +8,7 @@ export const librarySystemResetOverdueBookFourStubbed0012Chapter393Drevicia = {
   story: "library-system-reset-overdue-book-four-stubbed",
   position: 12,
   ownLength: 2184,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-23",
   externalIdentity: [
     {

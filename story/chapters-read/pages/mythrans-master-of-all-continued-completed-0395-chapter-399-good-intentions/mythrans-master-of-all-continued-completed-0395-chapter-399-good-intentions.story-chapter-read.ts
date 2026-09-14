@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0395Chapter399GoodIntentions =
   story: "mythrans-master-of-all-continued-completed",
   position: 395,
   ownLength: 3445,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-24",
   externalIdentity: [
     {

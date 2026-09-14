@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation005959Faith = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 59,
   ownLength: 3011,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-08",
   externalIdentity: [
     {

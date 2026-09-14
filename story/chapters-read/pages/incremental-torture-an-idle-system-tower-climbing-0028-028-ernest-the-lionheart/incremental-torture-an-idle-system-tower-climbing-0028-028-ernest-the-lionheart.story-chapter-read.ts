@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0028028ErnestTheLionhear
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 28,
   ownLength: 2267,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0008ChapterEightTurfWar = {
   story: "labyrinth-of-the-mad-god",
   position: 8,
   ownLength: 1798,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-05",
   externalIdentity: [
     {

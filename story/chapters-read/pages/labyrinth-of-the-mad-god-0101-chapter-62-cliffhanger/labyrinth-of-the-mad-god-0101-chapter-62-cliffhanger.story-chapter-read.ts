@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0101Chapter62Cliffhanger = {
   story: "labyrinth-of-the-mad-god",
   position: 101,
   ownLength: 1668,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-09",
   externalIdentity: [
     {

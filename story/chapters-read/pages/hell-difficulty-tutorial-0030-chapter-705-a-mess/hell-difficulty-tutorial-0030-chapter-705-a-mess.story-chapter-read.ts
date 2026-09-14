@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0030Chapter705AMess = {
   story: "story-read/hell-difficulty-tutorial",
   position: 30,
   ownLength: 2227,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-04",
   externalIdentity: [
     {

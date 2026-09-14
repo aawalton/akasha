@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0060Chapter56Talia = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 60,
   ownLength: 2274,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

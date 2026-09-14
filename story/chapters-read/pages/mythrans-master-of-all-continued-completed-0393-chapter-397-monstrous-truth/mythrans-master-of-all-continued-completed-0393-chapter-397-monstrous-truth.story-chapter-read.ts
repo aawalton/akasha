@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0393Chapter397MonstrousTruth =
   story: "mythrans-master-of-all-continued-completed",
   position: 393,
   ownLength: 3429,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-10-22",
   externalIdentity: [
     {

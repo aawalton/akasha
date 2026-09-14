@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0338Chapter57TwoMonthNap = {
   story: "labyrinth-of-the-mad-god",
   position: 338,
   ownLength: 2789,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-21",
   externalIdentity: [
     {

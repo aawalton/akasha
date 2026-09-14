@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0272Chapter89TieringUpTheTown = {
   story: "labyrinth-of-the-mad-god",
   position: 272,
   ownLength: 2083,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-07",
   externalIdentity: [
     {

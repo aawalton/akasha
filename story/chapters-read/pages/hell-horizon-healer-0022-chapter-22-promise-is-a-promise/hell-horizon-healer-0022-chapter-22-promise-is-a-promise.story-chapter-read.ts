@@ -8,7 +8,7 @@ export const hellHorizonHealer0022Chapter22PromiseIsAPromise = {
   story: "hell-horizon-healer",
   position: 22,
   ownLength: 2058,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-23",
   externalIdentity: [
     {

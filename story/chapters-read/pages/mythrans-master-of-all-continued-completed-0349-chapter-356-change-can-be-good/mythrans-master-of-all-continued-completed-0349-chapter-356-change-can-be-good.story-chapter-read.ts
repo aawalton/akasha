@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0349Chapter356ChangeCanBeGood 
   story: "mythrans-master-of-all-continued-completed",
   position: 349,
   ownLength: 3767,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-08",
   externalIdentity: [
     {

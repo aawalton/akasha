@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0105Chapter65MirrorImage = {
   story: "labyrinth-of-the-mad-god",
   position: 105,
   ownLength: 1429,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-16",
   externalIdentity: [
     {

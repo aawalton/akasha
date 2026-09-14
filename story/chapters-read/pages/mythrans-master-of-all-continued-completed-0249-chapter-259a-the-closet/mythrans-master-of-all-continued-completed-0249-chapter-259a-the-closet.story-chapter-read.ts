@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0249Chapter259aTheCloset = {
   story: "mythrans-master-of-all-continued-completed",
   position: 249,
   ownLength: 2777,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-05-24",
   externalIdentity: [
     {
