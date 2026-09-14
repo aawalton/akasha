@@ -4,7 +4,7 @@ export const aranya = {
   id: "01a0a003-e762-7000-80a7-1fdc774181ba",
   type: "seat",
   slug: "aranya",
-  persona: "aranya",
+  persona: "persona/aranya",
   assignmentSlug: "initiative/aranya-offload-to-cluster",
   role: "definer",
   person: "alan",

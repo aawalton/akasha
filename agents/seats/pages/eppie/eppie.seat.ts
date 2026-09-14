@@ -4,7 +4,7 @@ export const eppie = {
   id: "01a09b60-8172-7000-b9b7-86a3019abbf7",
   type: "seat",
   slug: "eppie",
-  persona: "eppie",
+  persona: "persona/eppie",
   assignmentSlug: "initiative/eppie-music-improvements",
   role: "definer",
   person: "alan",

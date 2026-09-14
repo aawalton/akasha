@@ -4,7 +4,7 @@ export const thea = {
   id: "01a0956a-e207-7000-abe4-714a414e3030",
   type: "seat",
   slug: "thea",
-  persona: "thea",
+  persona: "persona/thea",
   assignmentSlug: "initiative/thea-checks-system",
   role: "definer",
   person: "alan",
