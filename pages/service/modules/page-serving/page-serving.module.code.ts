@@ -3,6 +3,7 @@ import {
   filing,
 } from "akasha/pages/service/modules/file-answering/file-answering.module.code.ts"
 import {
+  answeringWithin,
   asking,
   type Query,
   shaping,
@@ -42,6 +43,7 @@ const ORDERING_TESTS = ["at-or-after", "after", "before", "at-or-before"]
 export type Serving = {
   readonly root: string
   readonly writer: Writer
+  readonly answeredAtMost?: number
 }
 
 function said(body: unknown, status: number): Response {
@@ -381,5 +383,10 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   if ("refused" in read) return said({ refused: read.refused }, 400)
   const answered = asking(given.root, read.query)
   if ("refused" in answered) return said({ refused: answered.refused }, 400)
-  return said({ rows: answered.rows, n: answered.n }, 200)
+  const within = answeringWithin(read.query, answered, given.answeredAtMost)
+  if ("refused" in within) return said({ refused: within.refused }, 400)
+  return new Response(within.said, {
+    status: 200,
+    headers: { "content-type": "application/json" },
+  })
 }

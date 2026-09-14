@@ -169,6 +169,10 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer is written out row by row and stops once past what it may carry.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The values a page keeps outside the commit are read from the file beside that page.",
     },

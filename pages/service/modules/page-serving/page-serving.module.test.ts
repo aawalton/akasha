@@ -21,6 +21,7 @@ import {
   repoWith,
   scratch,
   TOLD,
+  tightly,
   writing,
 } from "akasha/pages/service/modules/page-serving/page-serving.module.test-fixtures.ts"
 
@@ -40,6 +41,19 @@ test("an answer counts what matched before what was taken", async () => {
     await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", limit: 1 }))
   )
   expect(held.n).toBe(6)
+})
+
+test("a question whose rows run past what an answer carries is refused by size", async () => {
+  const answered = await tightly()
+  expect(answered.status).toBe(400)
+  const refused = String((await bodyOf(answered)).refused)
+  expect(refused).toContain("invariant-kind")
+  expect(refused).toContain("40 characters")
+  expect(refused).toContain("of 6 rows matching")
+})
+
+test("a question narrowed under what an answer carries is answered", async () => {
+  expect((await bodyOf(await tightly(1))).n).toBe(6)
 })
 
 test("nothing is asked at another path", async () => {

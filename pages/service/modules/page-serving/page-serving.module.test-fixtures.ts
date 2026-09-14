@@ -4,6 +4,7 @@ import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   ASK_AT,
+  answering,
   WRITE_AT,
 } from "akasha/pages/service/modules/page-serving/page-serving.module.code.ts"
 import type {
@@ -38,6 +39,15 @@ export function asking(body: unknown, at: string = ASK_AT, method: string = "POS
 
 export async function bodyOf(answered: Response): Promise<Record<string, unknown>> {
   return (await answered.json()) as Record<string, unknown>
+}
+
+const A_TIGHT_CEILING = 40
+
+const EVERY_INVARIANT_KIND = { pageTypeSlug: "invariant-kind", keys: ["slug"] }
+
+export function tightly(limit?: number): Promise<Response> {
+  const query = limit === undefined ? EVERY_INVARIANT_KIND : { ...EVERY_INVARIANT_KIND, limit }
+  return answering({ ...GIVEN, answeredAtMost: A_TIGHT_CEILING }, asking(query))
 }
 
 export const scratch = scratchWorld()

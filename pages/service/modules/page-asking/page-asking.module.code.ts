@@ -324,6 +324,30 @@ function answering(query: Query, taken: readonly Valued[], n: number): Asked {
   return { rows: taken.map((one) => rowOf(one.value, query.keys)), n }
 }
 
+const ANSWERED_AT_MOST = 64_000_000
+
+function overflowing(slug: string, over: number, n: number, ceiling: number): string {
+  return `\`${slug}\` answers past the ${ceiling} characters one answer carries — ${over} of ${n} rows matching filled it. Narrow by \`keys\`, by \`limit\`, or to a page type under \`${slug}\`.`
+}
+
+export function answeringWithin(
+  query: Query,
+  asked: { readonly rows: readonly Row[]; readonly n: number },
+  ceiling: number = ANSWERED_AT_MOST
+): { readonly said: string } | { readonly refused: string } {
+  const held: string[] = []
+  let carried = 0
+  for (const row of asked.rows) {
+    const one = JSON.stringify(row)
+    carried += one.length
+    if (carried > ceiling) {
+      return { refused: overflowing(query.pageTypeSlug, held.length, asked.n, ceiling) }
+    }
+    held.push(one)
+  }
+  return { said: `{"rows":[${held.join(",")}],"n":${asked.n}}` }
+}
+
 function countedFirst(root: string, query: Query, counting: readonly Counting[]): Asked {
   const counted = computedInto(root, counting)
   const darkened = unlit(query, counted.dark)

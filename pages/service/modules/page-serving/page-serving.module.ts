@@ -55,6 +55,22 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer carries at most sixty-four million characters of rows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question whose rows run past that is refused rather than answered in part.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for size names how many rows filled the answer and how many matched.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for size names narrowing the keys, the rows and the page type.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A read is handed in at a path of its own.",
     },
     {
