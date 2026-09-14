@@ -15,10 +15,6 @@ export const readRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "Which agents read a path is asked of every agent, there being few of them.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Which agents there are is read from the index rather than from a folder.",
     },
     {

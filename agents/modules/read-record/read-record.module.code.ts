@@ -213,14 +213,6 @@ export function carriedInto(held: Reading, carry: Carry, to: string): Reading | 
   return withReach(said, reachOf(held.readThrough))
 }
 
-export function agentIdsOf(root: string, path: string): readonly string[] {
-  const found: string[] = []
-  for (const one of everyOwner(root)) {
-    if (lastOf(readingsAt(one.at), path) !== null) found.push(one.agentId)
-  }
-  return found.sort()
-}
-
 export function carryReadings(root: string, carries: readonly Carry[]): undefined {
   const every = everyOwner(root)
   for (const carry of carries) {

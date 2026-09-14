@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
 import {
   ACTING_NAMED,
-  agentIdsOf,
   blobIdOf,
   carriedInto,
   carryReadings,
@@ -168,7 +167,6 @@ test("every agent holding the body is carried, not the first one found", () => {
   for (const one of [AGENT, OTHER]) {
     recordRead(root, one, { path: A, oid: was, seenAt: 1, carriedOid: null })
   }
-  expect(agentIdsOf(root, A)).toEqual([OTHER, AGENT].sort())
   carryReadings(root, [{ was: A, now: B, from: was }])
   for (const one of [AGENT, OTHER]) {
     expect(readingIn(root, one, B)?.carriedOid).toBe(now)
@@ -260,7 +258,6 @@ test("a composite owner has a file of its own beside its seat's", () => {
     recordRead(root, one, { path: A, oid: one, seenAt: 1, carriedOid: null })
   }
   expect(readsFileAt(root, AGENT)).not.toBe(readsFileAt(root, UNDER))
-  expect(agentIdsOf(root, A)).toEqual([AGENT, UNDER].sort())
 })
 
 test("a sweep takes the agent it names and leaves another agent's fresh reading", () => {
