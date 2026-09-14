@@ -1,15 +1,23 @@
 import { expect, test } from "bun:test"
+import { mkdtempSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import type { Stray } from "akasha/agents/modules/stray-process/stray-process.module.code.ts"
 import {
   burnedTicksIn,
   clockSaid,
+  keptAt,
+  keptRead,
+  keptWrite,
   lineOf,
+  type Swept,
   saidOf,
   sweptOnce,
   type TimesOf,
   withDescendants,
 } from "akasha/agents/modules/stray-sweeping/stray-sweeping.module.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
 
 const SEAT = "01a09581-cb35-7000-b00f-7156d6b3ce13"
 
@@ -141,4 +149,55 @@ test("a sweep that could read no subagent says so rather than passing for a clea
 
   expect(swept.ended).toEqual([])
   expect(saidOf(swept)).toEqual([`1 subagent(s) could not be read: ${ACTING}`])
+})
+
+function homeMade(): string {
+  return mkdtempSync(join(SCRATCH_AT, "akasha-stray-sweeping-"))
+}
+
+function tick(home: string, unread: readonly string[]): readonly string[] {
+  const swept: Swept = { ended: [], said: [], unread }
+  const lines = saidOf(swept, keptRead(home))
+  keptWrite(unread, home)
+  return lines
+}
+
+test("the set a tick could not read is kept where the workstation services keep their state", () => {
+  expect(keptAt("/h")).toBe("/h/.local/state/workstation-services/stray-sweep-unread.json")
+})
+
+test("the same set of subagents that could not be read is said once rather than on every tick", () => {
+  const home = homeMade()
+
+  expect(tick(home, [ACTING])).toEqual([`1 subagent(s) could not be read: ${ACTING}`])
+  expect(tick(home, [ACTING])).toEqual([])
+  expect(tick(home, [ACTING])).toEqual([])
+})
+
+test("a set that gains a subagent is said again", () => {
+  const home = homeMade()
+
+  tick(home, [ACTING])
+
+  expect(tick(home, [ACTING, OTHER])).toEqual([
+    `2 subagent(s) could not be read: ${ACTING}, ${OTHER}`,
+  ])
+})
+
+test("a set that empties says so, and then says nothing", () => {
+  const home = homeMade()
+
+  tick(home, [ACTING])
+
+  expect(tick(home, [])).toEqual(["every subagent a live process names was read"])
+  expect(tick(home, [])).toEqual([])
+})
+
+test("a kept set that will not be read leaves the tick saying what it could not read", () => {
+  const home = homeMade()
+
+  tick(home, [ACTING])
+  writeFileSync(keptAt(home), "this is no json")
+
+  expect(tick(home, [ACTING])).toEqual([`1 subagent(s) could not be read: ${ACTING}`])
 })

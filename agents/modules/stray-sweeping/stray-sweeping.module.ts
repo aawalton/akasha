@@ -10,7 +10,8 @@ export const straySweeping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The scan, the reading, the times and the ending are handed in.",
+      statement:
+        "The scan, the reading, the times, the ending and the set last said are handed in.",
     },
     {
       invariantKind: "departure",
@@ -43,6 +44,27 @@ export const straySweeping = {
       invariantKind: "departure",
       statement:
         "A stray and a stray's line are said the same way here and by the command naming strays.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The subagents a sweep could not read are said only where that set differs from the set handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A set that gains a subagent, loses one, or empties differs, and is said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A set handed in that will not be read reads as no subagent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every ending is said whatever that set does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The set a sweep could not read is written where it is read from again.",
     },
     {
       invariantKind: "absence",

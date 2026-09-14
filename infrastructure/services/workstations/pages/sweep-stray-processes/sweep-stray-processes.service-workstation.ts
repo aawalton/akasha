@@ -7,7 +7,7 @@ export const sweepStrayProcesses = {
   definition: "the service ending every process left running by a subagent that has returned",
   enabled: true,
   systemd: {
-    schedule: "*:*:00",
+    schedule: "*:0/5",
     jitterSeconds: 5,
     startTimeoutSeconds: 300,
   },
@@ -48,11 +48,42 @@ export const sweepStrayProcesses = {
     },
     {
       invariantKind: "departure",
-      statement: "A tick that ended nothing and read every subagent says nothing.",
+      statement:
+        "That naming is said only where the set differs from the set the tick before it saw.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A set that gains a subagent, loses one, or empties differs, and is said.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The set a tick could not read is kept where the workstation services keep their state.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tick that ended nothing and read what the tick before it read says nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How often a tick runs is weighed against how long a stray would otherwise run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How soon a stray could be caught does not set how often a tick runs.",
     },
     {
       invariantKind: "absence",
       statement: "No memory and no processor is read to choose what to end.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A tick is a process that outlives nothing, so nothing it holds reaches the next tick.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A tick costs about a second of processor whatever that tick finds.",
     },
     {
       invariantKind: "constraint",

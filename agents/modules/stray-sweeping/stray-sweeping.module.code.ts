@@ -1,4 +1,5 @@
-import { readFileSync, statSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
 import {
@@ -7,6 +8,7 @@ import {
   type Stray,
   strayNow,
 } from "akasha/agents/modules/stray-process/stray-process.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { ending } from "akasha/utils/process/modules/process-ending/process-ending.module.code.ts"
 
 const SECOND = 1000
@@ -134,10 +136,63 @@ export async function sweptOnce(
   return { ended, said, unread: read.unread }
 }
 
-export function saidOf(swept: Swept): readonly string[] {
-  if (swept.unread.length === 0) return swept.said
+const KEPT_AT = ".local/state/workstation-services/stray-sweep-unread.json"
+
+const NONE: readonly string[] = []
+
+export function keptAt(home: string): string {
+  return join(home, KEPT_AT)
+}
+
+export function homeAt(): string | null {
+  return optionalEnv("HOME") ?? null
+}
+
+export function unreadIn(held: unknown): readonly string[] {
+  if (!Array.isArray(held)) return NONE
+  return held.filter((one): one is string => typeof one === "string").sort()
+}
+
+export function keptRead(home: string | null): readonly string[] {
+  if (home === null) return NONE
+  const at = keptAt(home)
+  if (!existsSync(at)) return NONE
+  try {
+    return unreadIn(JSON.parse(readFileSync(at, "utf8")))
+  } catch {
+    return NONE
+  }
+}
+
+export function keptWrite(unread: readonly string[], home: string | null): undefined {
+  if (home === null) return
+  const at = keptAt(home)
+  try {
+    mkdirSync(dirname(at), { recursive: true })
+    writeFileSync(at, `${JSON.stringify([...unread].sort(), null, 2)}\n`)
+  } catch {
+    return
+  }
+}
+
+export function sameUnread(was: readonly string[], now: readonly string[]): boolean {
+  const one = [...was].sort()
+  const two = [...now].sort()
+  return one.length === two.length && one.every((said, at) => said === two[at])
+}
+
+export function saidOf(swept: Swept, was: readonly string[] = NONE): readonly string[] {
+  if (sameUnread(was, swept.unread)) return swept.said
   return [...swept.said, unreadSaid(swept.unread)]
 }
+
+export type Kept = () => readonly string[]
+
+export type Keeping = (unread: readonly string[]) => undefined
+
+const KEPT: Kept = () => keptRead(homeAt())
+
+const KEEPING: Keeping = (unread) => keptWrite(unread, homeAt())
 
 const LOG = "sweep-stray-processes:"
 
@@ -147,7 +202,11 @@ function logged(line: string): undefined {
 }
 
 export async function sweepStrayProcesses(
-  say: (line: string) => undefined = logged
+  say: (line: string) => undefined = logged,
+  kept: Kept = KEPT,
+  keeping: Keeping = KEEPING
 ): Promise<void> {
-  for (const line of saidOf(await sweptOnce())) say(line)
+  const swept = await sweptOnce()
+  for (const line of saidOf(swept, kept())) say(line)
+  keeping(swept.unread)
 }
