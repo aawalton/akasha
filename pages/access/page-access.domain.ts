@@ -19,7 +19,6 @@ export const pageAccess = {
     "module/file-page-type-config",
     "module/file-property-defs",
     "module/file-read",
-    "module/file-relation",
     "module/file-rows",
     "module/file-shape",
     "module/file-write",
