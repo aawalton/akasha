@@ -6,18 +6,11 @@ export const componentPropertyGroup = {
   id: "01a09c84-34f2-7b18-839c-48ef7ff084e7",
   type: "page-type",
   slug: "component-property-group",
-  definition: "a file property group held in a component's code, test and test fixtures",
+  definition: "a file property group held in a component's code",
   pluralSlug: "component-property-groups",
   extends: ["page-type/file-property-group"],
   properties: [
     { pageProperty: "code-file-property/code", required: true, many: false, fixed: "tsx" },
-    { pageProperty: "code-file-property/test", required: false, many: false, fixed: "tsx" },
-    {
-      pageProperty: "code-file-property/test-fixtures",
-      required: false,
-      many: false,
-      fixed: "tsx",
-    },
   ],
   invariants: [
     {
@@ -31,7 +24,7 @@ export const componentPropertyGroup = {
     },
     {
       invariantKind: "departure",
-      statement: "A page carrying the group states nothing about these files at all.",
+      statement: "A page carrying the group states nothing about that file at all.",
     },
     {
       invariantKind: "departure",
