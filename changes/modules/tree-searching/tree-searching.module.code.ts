@@ -1,4 +1,3 @@
-import { relative } from "node:path"
 import { rgPath } from "@vscode/ripgrep"
 import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
@@ -11,6 +10,8 @@ const BYTES = new TextEncoder()
 const LINED = "\n"
 
 const ENDED = "\0"
+
+const APART_BY = "/"
 
 const FOUND_NOTHING = 1
 
@@ -50,7 +51,8 @@ export function foundIn(out: string, code: number, err: string, root: string): r
   if (found.length === 0 && code !== 0 && code !== FOUND_NOTHING) {
     throw new Error(`the tree at \`${root}\` could not be searched — ${err.trim()}`)
   }
-  return found.map((one) => relative(root, one))
+  const cut = root.endsWith(APART_BY) ? root.length : root.length + APART_BY.length
+  return found.map((one) => one.slice(cut))
 }
 
 function ranWith(
