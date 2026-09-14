@@ -1,7 +1,5 @@
 import { describe, expect, test } from "bun:test"
 import {
-  assertProseMarkersWellFormed,
-  countProseMarkers,
   MalformedProseMarkerError,
   parseProseIntoRawSegments,
 } from "akasha/story/engine/core/modules/prose-segments/prose-segments.module.code.ts"
@@ -42,22 +40,5 @@ describe("parseProseIntoRawSegments", () => {
   test("a block reaching for a marker without being one is refused", () => {
     expect(() => parseProseIntoRawSegments("one {{system}} two")).toThrow(MalformedProseMarkerError)
     expect(() => parseProseIntoRawSegments("{{sistem}}")).toThrow(MalformedProseMarkerError)
-  })
-})
-
-describe("countProseMarkers", () => {
-  test("counts the markers", () => {
-    expect(countProseMarkers("a\n\n{{system}}\n\nb\n\n{{system}}\n\nc")).toBe(2)
-    expect(countProseMarkers("a")).toBe(0)
-  })
-})
-
-describe("assertProseMarkersWellFormed", () => {
-  test("says nothing about well-formed prose", () => {
-    expect(assertProseMarkersWellFormed("a\n\n{{system}}\n\nb")).toBe(undefined)
-  })
-
-  test("throws on a malformed marker", () => {
-    expect(() => assertProseMarkersWellFormed("a {{system}}")).toThrow(MalformedProseMarkerError)
   })
 })

@@ -51,11 +51,3 @@ export function parseProseIntoRawSegments(text: string): readonly RawProseSegmen
   flush()
   return segments
 }
-
-export function countProseMarkers(text: string): number {
-  return parseProseIntoRawSegments(text).filter((s) => s.kind === "marker").length
-}
-
-export function assertProseMarkersWellFormed(text: string): undefined {
-  parseProseIntoRawSegments(text)
-}
