@@ -3,6 +3,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { calledIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
+  slugAt,
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -64,7 +65,7 @@ export function heldIn(asking: Asking): readonly Naming[] {
     const value = asking.valueAt(path)
     if (value === null) continue
     const named = textAt(value, CALLED)
-    const slug = textAt(value, REACHES)
+    const slug = slugAt(value, REACHES)
     if (named === null || slug === null) continue
     found.push({ path, named, folder: asking.folderOf(ADDON, slug) })
   }
