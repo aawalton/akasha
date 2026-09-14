@@ -7,6 +7,7 @@ import {
 import {
   bothArriving,
   DASH_CODE,
+  filed,
   KEBAB_CODE,
   OTHER_CODE,
   rooted,
@@ -16,6 +17,7 @@ import {
   STATING,
   scratch,
 } from "akasha/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.decision.test-fixtures.ts"
+import { arriving } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -70,6 +72,13 @@ test("every regex literal a body holds is read, each with the line it sits on", 
 
 test("a name format arriving in a change states its shape to the check", () => {
   const change = bothArriving(rooted())
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect([...(everyShapeIn(change, cast.shadow).get(SHAPE) ?? [])]).toEqual([KEBAB_CODE])
+})
+
+test("a name format the index files states its shape, though the change carries neither its page nor its code", () => {
+  const change = arriving(filed(rooted()), { [OTHER_CODE]: SPELLING })
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   expect([...(everyShapeIn(change, cast.shadow).get(SHAPE) ?? [])]).toEqual([KEBAB_CODE])

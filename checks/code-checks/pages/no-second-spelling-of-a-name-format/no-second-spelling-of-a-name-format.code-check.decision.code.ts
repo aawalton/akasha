@@ -1,6 +1,5 @@
 import {
   bodyOf,
-  everyFileOf,
   overEachFile,
   textIn,
   textNamed,
@@ -11,10 +10,17 @@ import {
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
-const FORMAT = ".name-format.code.ts"
+const NAME_FORMAT = "name-format"
+
+const CODE = "code"
+
+const HELD = "ts"
+
+const FORMAT = `.${NAME_FORMAT}.${CODE}.${HELD}`
 
 const BELONGS = "a name format's shape belongs to its own page, reached by importing it"
 
@@ -42,13 +48,24 @@ export function shapesIn(at: string, text: string): readonly Spelt[] {
   return found
 }
 
+function formatsIn(change: Change, shadow: Shadow): readonly string[] {
+  const found = new Set<string>()
+  for (const one of shadow.index.everyOfType(NAME_FORMAT)) {
+    const at = besideAt(one.path, CODE, HELD)
+    if (at !== null) found.add(at)
+  }
+  for (const path of change.changed) {
+    if (path.endsWith(FORMAT)) found.add(path)
+  }
+  return [...found].sort()
+}
+
 export function everyShapeIn(
   change: Change,
   shadow: Shadow
 ): ReadonlyMap<string, readonly string[]> {
   const stated = new Map<string, string[]>()
-  for (const path of everyFileOf(shadow.index)) {
-    if (!path.endsWith(FORMAT)) continue
+  for (const path of formatsIn(change, shadow)) {
     const text = textIn(change, path)
     if (text === null) continue
     for (const one of shapesIn(path, text)) {

@@ -4,6 +4,7 @@ import {
   declaring,
   filing,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -65,6 +66,12 @@ export function bothArriving(root: string): Change {
     after: (path: string): Uint8Array | null => bodies[path] ?? null,
     before: (): null => null,
   }
+}
+
+export function filed(root: string): string {
+  writing(root, KEBAB_CODE, STATING)
+  listedFiled(root, "name-format", "kebab", [{ path: KEBAB_PAGE, id: `${ID}5` }])
+  return root
 }
 
 export function tracked(files: Readonly<Record<string, string>>): string {
