@@ -49,6 +49,10 @@ export const webAppReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A page a value names is found by the slug alone, whatever page type names it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A manifest page whose code file is not there is refused.",
     },
     {

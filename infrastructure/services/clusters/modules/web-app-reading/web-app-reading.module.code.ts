@@ -7,6 +7,8 @@ import {
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   numberAt,
+  slugAt,
+  slugsIn,
   textAt,
   textsAt,
   type Value,
@@ -75,6 +77,10 @@ export function wantingIn(value: Value, keys: readonly string[]): readonly strin
   return keys.filter((one) => value[one] === undefined)
 }
 
+export function manifestSlugIn(service: Value): string {
+  return slugAt(service, MANIFEST) as string
+}
+
 export function workloadIn(value: Value): Workload | null {
   const kind = textAt(value, RESOURCE_KIND)
   const namespace = textAt(value, NAMESPACE)
@@ -140,7 +146,7 @@ export function deployableNamed(root: string, slug: string): Read {
       refused: `${pagePath} states no ${wanting.join(" and no ")}, so a deploy of \`${slug}\` would rest on what no page says`,
     }
   }
-  const serviceSlugs = textsAt(stated, SERVICE_CLUSTERS) ?? []
+  const serviceSlugs = slugsIn(stated[SERVICE_CLUSTERS])
   if (serviceSlugs.length === 0) {
     return {
       refused: `${pagePath} names no cluster service, so nothing says what the cluster runs for \`${slug}\``,
@@ -170,7 +176,7 @@ export function deployableNamed(root: string, slug: string): Read {
       refused: `${found} states no kind, namespace and resource name together, so it names no workload`,
     }
   }
-  const manifestPath = manifestFor(root, textAt(service, MANIFEST) as string, found)
+  const manifestPath = manifestFor(root, manifestSlugIn(service), found)
   if (typeof manifestPath !== "string") return manifestPath
   const synthPath = codeBeside(manifestPath)
   if (!existsSync(join(root, synthPath))) {

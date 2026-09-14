@@ -12,6 +12,7 @@ import {
   CLUSTER_SERVICE_TYPE,
   codeBeside,
   MANIFEST_TYPE,
+  manifestSlugIn,
   pathsNamed,
   type Workload,
   wantingIn,
@@ -35,7 +36,6 @@ import {
 } from "akasha/infrastructure/services/secrets/modules/placing/secret-placing.module.code.ts"
 import { slugsOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "manifest"
 const NEEDS = ["resourceKind", "namespace", "resourceName", MANIFEST]
@@ -79,7 +79,7 @@ export function servableNamed(root: string, slug: string): Read {
       refused: `${servicePath} states no kind, namespace and resource name together, so it names no workload`,
     }
   }
-  const wanted = textAt(service, MANIFEST) as string
+  const wanted = manifestSlugIn(service)
   const found = pathsNamed(root, MANIFEST_TYPE, wanted)
   if (found.length === 0) {
     return {
