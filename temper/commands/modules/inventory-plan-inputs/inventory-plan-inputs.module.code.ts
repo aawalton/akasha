@@ -193,7 +193,9 @@ function compileBankStock(db: InventoryDatabase): Map<number, number> {
   return result
 }
 
-function classifyInventoryForMatcher(db: InventoryDatabase): readonly ClassifiedInventoryItem[] {
+export function classifyInventoryForMatcher(
+  db: InventoryDatabase
+): readonly ClassifiedInventoryItem[] {
   const out: ClassifiedInventoryItem[] = []
   for (const [locationKey, location] of Object.entries(db.locations)) {
     for (const [bagIdStr, slots] of Object.entries(location.bags)) {

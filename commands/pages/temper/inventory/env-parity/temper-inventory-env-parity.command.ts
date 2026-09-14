@@ -13,6 +13,14 @@ export const temperInventoryEnvParity = {
       statement: "The two read here are the env `explain` runs in and the env `plan` runs in.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each env is built from what the run it belongs to builds that env from.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An env built here from less than its run hands it compares something else.",
+    },
+    {
       invariantKind: "absence",
       statement: "Neither env read here is the addon's, so agreement is no sign the addon agrees.",
     },

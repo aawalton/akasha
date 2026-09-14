@@ -21,10 +21,16 @@ import {
   allBagItems,
   explainCapabilities,
 } from "akasha/temper/commands/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
-import { buildMatcherContext } from "akasha/temper/commands/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
+import {
+  buildMatcherContext,
+  classifyInventoryForMatcher,
+} from "akasha/temper/commands/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { WalkOutcome } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
-import { buildWebEvalEnv } from "akasha/temper/items-rules-matcher/modules/web-eval-env/web-eval-env.module.code.ts"
+import {
+  buildItemIdToCooldownGroup,
+  buildWebEvalEnv,
+} from "akasha/temper/items-rules-matcher/modules/web-eval-env/web-eval-env.module.code.ts"
 
 const NAMED = [jsonArgument, inventoryPathArgument, charactersPathArgument]
 
@@ -234,7 +240,9 @@ export async function temperInventoryEnvParity(
       wantedCompanionEquipment: config.wantedCompanionEquipment,
       db,
     })
-    const planEnv = buildWebEvalEnv(buildMatcherContext(config, charactersById, db), {})
+    const planEnv = buildWebEvalEnv(buildMatcherContext(config, charactersById, db), {
+      itemIdToCooldownGroup: buildItemIdToCooldownGroup(classifyInventoryForMatcher(db)),
+    })
 
     const held = allBagItems(caps, db)
     const factsOf = ({ item, location }: (typeof held)[number]) =>
