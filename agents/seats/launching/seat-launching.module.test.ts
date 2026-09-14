@@ -8,7 +8,6 @@ import {
   accountFor,
   envScrubArgv,
   envScrubShell,
-  isSeatMode,
   launchArgv,
   launching,
   launchModeFlags,
@@ -206,13 +205,6 @@ test("a launch naming no account is given the default account", () => {
   expect(accountFor(asked({ account: undefined }))).toBe("aawalton")
   expect(accountFor(asked({ account: "" }))).toBe("aawalton")
   expect(accountFor(asked({ account: "someone" }))).toBe("someone")
-})
-
-test("a mode is one of the two a seat starts in", () => {
-  expect(isSeatMode("interactive")).toBe(true)
-  expect(isSeatMode("headless")).toBe(true)
-  expect(isSeatMode("Headless")).toBe(false)
-  expect(isSeatMode("")).toBe(false)
 })
 
 test("only a headless launch carries the headless flag", () => {

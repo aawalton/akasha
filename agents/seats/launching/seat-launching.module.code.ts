@@ -12,8 +12,6 @@ export const SEAT_MODE_INTERACTIVE = "interactive"
 
 const SEAT_MODE_HEADLESS = "headless"
 
-const SEAT_MODES: readonly string[] = [SEAT_MODE_INTERACTIVE, SEAT_MODE_HEADLESS]
-
 export const DEFAULT_ACCOUNT = "aawalton"
 
 const AGENT_ID_ENV = "AGENT_ID"
@@ -75,10 +73,6 @@ export type SeatLaunch = {
   readonly modelOverride?: string
   readonly anthropicBaseUrl?: string
   readonly anthropicAuthToken?: string
-}
-
-export function isSeatMode(value: string): boolean {
-  return SEAT_MODES.includes(value)
 }
 
 export function accountFor(asked: SeatLaunch): string {
