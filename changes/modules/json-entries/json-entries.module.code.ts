@@ -10,29 +10,6 @@ export function objectOf(source: ts.JsonSourceFile): ts.ObjectLiteralExpression 
   return ts.isObjectLiteralExpression(held) ? held : null
 }
 
-function valueAt(source: ts.JsonSourceFile, key: string): ts.Expression | null {
-  const held = objectOf(source)
-  if (held === null) return null
-  for (const one of held.properties) {
-    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
-    if (one.name.text === key) return one.initializer
-  }
-  return null
-}
-
-export function objectAt(
-  source: ts.JsonSourceFile,
-  key: string
-): ts.ObjectLiteralExpression | null {
-  const held = valueAt(source, key)
-  return held !== null && ts.isObjectLiteralExpression(held) ? held : null
-}
-
-export function textAt(source: ts.JsonSourceFile, key: string): string | null {
-  const held = valueAt(source, key)
-  return held !== null && ts.isStringLiteral(held) ? held.text : null
-}
-
 function commaBefore(text: string, from: number): number {
   let back = from - 1
   while (back >= 0) {
@@ -82,16 +59,6 @@ function goneFrom(
   if (!after || first === undefined) return spans
   spans[opened] = { from: commaBefore(text, first.from), to: first.to, put: first.put }
   return spans
-}
-
-export function entriesGoingIn(
-  at: string,
-  text: string,
-  holding: string,
-  dropping: ReadonlySet<string>
-): readonly Splice[] {
-  const held = objectAt(ts.parseJsonText(at, text), holding)
-  return held === null ? [] : goneFrom(text, held, dropping)
 }
 
 export function keysGoingIn(
