@@ -230,17 +230,6 @@ export function landingsIn(command: string): readonly Landing[] {
   return found
 }
 
-export function programsIn(command: string): readonly string[] {
-  const found: string[] = []
-  for (const segment of segmentsOf(command)) {
-    const head = calledWords(segment)[0]
-    if (head === undefined) continue
-    const tool = basenameOf(head)
-    if (READING_A_PROGRAM.has(tool) && !found.includes(tool)) found.push(tool)
-  }
-  return found
-}
-
 export function rawCallsIn(command: string): readonly string[] {
   const found: string[] = []
   const text = joinedContinuations(command)

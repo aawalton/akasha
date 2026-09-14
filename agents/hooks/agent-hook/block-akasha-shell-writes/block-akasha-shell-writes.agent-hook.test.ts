@@ -5,7 +5,6 @@ import {
   namesTheLink,
   pathsSpelledIn,
   programHandedIn,
-  programsIn,
   rawCallsIn,
   redirectsIn,
 } from "akasha/agents/hooks/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
@@ -264,15 +263,6 @@ test("a path is taken out of a word the rest of which is program text", () => {
   expect(pathsSpelledIn("open(akasha/held.domain.ts,w).write(x)")).toEqual([
     "akasha/held.domain.ts",
   ])
-})
-
-test("an interpreter is read from the call rather than from a quoted run", () => {
-  expect(programsIn("python3 -c print(1)")).toEqual(["python3"])
-  expect(programsIn("echo 'run python3 over akasha'")).toEqual([])
-})
-
-test("an interpreter behind a prefix is the call", () => {
-  expect(programsIn("sudo python3 -c print(1)")).toEqual(["python3"])
 })
 
 test("a path another call in the chain names is not the program's", () => {
