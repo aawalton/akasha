@@ -15,10 +15,6 @@ export const olwenPagesSystemDisplay = {
     { statement: "A page type states the component drawing a page of that page type as a row." },
     {
       statement:
-        "A page named by a relation property is drawn as a chip by its own page type's component.",
-    },
-    {
-      statement:
         "The page page type states the components drawing any page, its chip, its row and its card.",
     },
     { statement: "A page type states the component drawing a page of that page type as a card." },

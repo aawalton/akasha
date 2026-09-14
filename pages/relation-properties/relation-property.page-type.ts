@@ -31,6 +31,11 @@ export const relationProperty = {
       invariantKind: "absence",
       statement: "No relation value lands that akasha cannot key to one page.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page a relation names is drawn as a chip by the page type that relation reaches.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
