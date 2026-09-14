@@ -4,6 +4,7 @@ export const ctw = {
   id: "019f0da9-efcc-7dc6-a794-9d37f79c8f71",
   type: "claude-account",
   slug: "ctw",
+  provider: "model-provider/anthropic",
   accountUuid: "6153b85a-17f7-4325-98bc-77dd0761463b",
   email: "alan@clear-the-world.com",
   aliasIndex: 5,

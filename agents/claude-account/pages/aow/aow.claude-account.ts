@@ -4,6 +4,7 @@ export const aow = {
   id: "019f1961-6768-77e4-934a-0e27173ee5bc",
   type: "claude-account",
   slug: "aow",
+  provider: "model-provider/anthropic",
   accountUuid: "849f42fd-b12a-4cb1-ad94-4d53103160a1",
   email: "alan@archiveofworlds.app",
   aliasIndex: 6,

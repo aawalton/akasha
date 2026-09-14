@@ -4,6 +4,7 @@ export const alanwalton = {
   id: "019db533-f3b2-7818-830b-b9063ba57490",
   type: "claude-account",
   slug: "alanwalton",
+  provider: "model-provider/anthropic",
   accountUuid: "978ace2d-4458-4ade-ad9e-400764d37813",
   email: "alan@alanwalton.com",
   aliasIndex: 2,

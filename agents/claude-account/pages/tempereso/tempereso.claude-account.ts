@@ -4,6 +4,7 @@ export const tempereso = {
   id: "019db533-f3b2-780f-ad94-08ee3332e5be",
   type: "claude-account",
   slug: "tempereso",
+  provider: "model-provider/anthropic",
   accountUuid: "80a42386-26f2-4457-9581-639fc99fac18",
   email: "alan@tempereso.com",
   aliasIndex: 4,

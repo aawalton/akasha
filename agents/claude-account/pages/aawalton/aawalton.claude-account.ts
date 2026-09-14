@@ -4,6 +4,7 @@ export const aawalton = {
   id: "019db533-f3b2-781d-8df5-fa78ae4131c5",
   type: "claude-account",
   slug: "aawalton",
+  provider: "model-provider/anthropic",
   accountUuid: "f866185e-c98d-4998-b4c6-626ffbee8799",
   email: "aawalton@gmail.com",
   aliasIndex: 1,
