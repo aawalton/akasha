@@ -69,7 +69,8 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type stating no plural is refused, because its pages have no folder.",
+      statement:
+        "A page type stating no plural is read for its pages as if its slug were that plural.",
     },
     {
       invariantKind: "departure",

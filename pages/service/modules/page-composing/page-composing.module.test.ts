@@ -7,6 +7,7 @@ import {
   folderFor,
   orderedIn,
   pagesAtFor,
+  pagesUnder,
   pathFor,
   slugRefused,
 } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
@@ -336,4 +337,19 @@ test("that folder is the folder every new page of that type is placed under", ()
 
 test("a page type that is no page the index holds is refused rather than guessed at", () => {
   expect(() => pagesAtFor(ROOT, "no-such-type")).toThrow("names no page type the index holds")
+})
+
+test("a page type stating no plural has its pages under the folder its own slug names", () => {
+  expect(pagesAtFor(ROOT, "shard")).toBe("akasha/shard/pages")
+})
+
+test("a new page of a page type stating no plural is placed in that folder", () => {
+  const said = composing({ pageTypeSlug: "shard", slug: "new-shard", values: { title: "one" } })
+  expect(pathIn(said)).toBe("akasha/shard/pages/new-shard.shard.ts")
+})
+
+test("a folder whose name closes the slug takes its pages under pages", () => {
+  const at = "akasha/agents/seat/log-day/seat-log-day.page-type.ts"
+  expect(pagesUnder(at, "seat-log-day")).toBe("akasha/agents/seat/log-day/pages")
+  expect(pagesAtFor(ROOT, "shard-log-day")).toBe("akasha/shard/log-day/pages")
 })

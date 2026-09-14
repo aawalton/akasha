@@ -173,6 +173,20 @@ export const ROOT: string = indexedRepo({
       properties: [declares("portrait"), declares("rounds")],
     }),
   ]),
+  ...under("shard/", [
+    aType("14", "shard", {
+      extends: ["page-type/thing"],
+      types: "ts",
+      properties: [],
+    }),
+  ]),
+  ...under("shard/log-day/", [
+    aType("15", "shard-log-day", {
+      extends: ["page-type/thing"],
+      types: "ts",
+      properties: [],
+    }),
+  ]),
   ...under("crates/pages/", [
     {
       id: HELD_CRATE_ID,

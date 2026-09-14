@@ -153,10 +153,7 @@ export function pagesAtFor(root: string, pageTypeSlug: string): string {
     throw new Error(`\`${pageTypeSlug}\` names no page type the index holds`)
   }
   const plural = textAt(valueAt(typeAt, root) ?? {}, PLURAL)
-  if (plural === null) {
-    throw new Error(`\`${pageTypeSlug}\` states no ${PLURAL}, so its pages have no folder`)
-  }
-  return pagesUnder(typeAt, plural)
+  return pagesUnder(typeAt, plural ?? pageTypeSlug)
 }
 
 export function pathFor(
@@ -260,11 +257,9 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   const typing = valueAt(typeAt, root) ?? {}
   const plural = textAt(typing, PLURAL)
   const typesAt = textAt(typing, TYPES) === HOLDS ? besideAt(typeAt, TYPES, HOLDS) : null
-  if (held === undefined && plural === null) {
-    return { refused: `\`${named.pageTypeSlug}\` states no ${PLURAL}, so a new page has no place` }
-  }
   const beside = held === undefined && besideItsPage(root, carried)
-  const at = held ?? pathFor(typeAt, plural ?? "", named.pageTypeSlug, named.slug, beside)
+  const placed = plural ?? named.pageTypeSlug
+  const at = held ?? pathFor(typeAt, placed, named.pageTypeSlug, named.slug, beside)
   const was = held === undefined ? null : valueAt(held, root)
   const already: Value = named.merge === true && was !== null ? was : {}
   const outside: Value = {}
