@@ -8,9 +8,9 @@ import {
   answeredWith,
   asJson,
   DATA,
+  OK,
   OPERATIONAL,
   refused,
-  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -168,6 +168,30 @@ export function rowsSaid(rows: readonly EnvParityRow[], items: number): readonly
   ]
 }
 
+export function foundSaid(out: EnvParityJson): readonly string[] {
+  if (out.disagreed === 0) return []
+  return [
+    `${String(out.disagreed)} of ${String(out.items)} items are decided differently by the two ` +
+      "envs, and the rows name them",
+  ]
+}
+
+export function answerFor(out: EnvParityJson, asOneJsonLine: boolean): Answer {
+  const found = foundSaid(out)
+  const code = found.length === 0 ? OK : DATA
+  if (asOneJsonLine) return asJson(out, found, code)
+  return answeredWith(
+    [
+      `env parity over ${out.inventoryPath}`,
+      `${String(out.rules)} rules, ${String(out.items)} items in ${String(out.stacks)} stacks`,
+      "",
+      ...rowsSaid(out.rows, out.items),
+    ],
+    found,
+    code
+  )
+}
+
 export async function temperInventoryEnvParity(
   argv: readonly string[],
   given: Given
@@ -253,23 +277,7 @@ export async function temperInventoryEnvParity(
       destinationAlone: rows.filter((one) => one.destinationAlone).length,
       rows,
     }
-    if (taken.json) return asJson(out)
-
-    const report = [
-      `env parity over ${inventoryPath}`,
-      `${String(out.rules)} rules, ${String(out.items)} items in ${String(out.stacks)} stacks`,
-      "",
-      ...rowsSaid(rows, out.items),
-    ]
-    if (rows.length === 0) return told(report)
-    return answeredWith(
-      report,
-      [
-        `${String(disagreed)} of ${String(out.items)} items are decided differently by the two ` +
-          "envs, and the rows above name them",
-      ],
-      DATA
-    )
+    return answerFor(out, taken.json === true)
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }

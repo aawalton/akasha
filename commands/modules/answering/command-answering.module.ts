@@ -39,6 +39,14 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "A value answered as JSON carries the refusals and the code its caller names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value answered as JSON alone carries no refusal and the code of work done.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value answered as indented JSON is one report line to each line of it.",
     },
     {

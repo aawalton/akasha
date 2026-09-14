@@ -29,6 +29,14 @@ export const temperInventoryOutcomeParity = {
       invariantKind: "departure",
       statement: "Both runs read one env, so a signal that env lacks leaves the two runs alike.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that found a divergence answers a code other than zero.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "This answers in one shape, so no second shape can answer a second code.",
+    },
   ],
   name: "outcome-parity",
   arguments: [{ argument: "argument/inventory-path" }, { argument: "argument/characters-path" }],

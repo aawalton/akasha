@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
+import { OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   agreementSaid,
+  answerFor,
   destinationAlone,
+  type EnvParityJson,
   rowsFrom,
   rowsSaid,
   type StackReading,
@@ -101,4 +104,38 @@ test("an outcome is read down to its kind, action and destination", () => {
   expect(side.destination).toBe("bank")
   expect(sidesAgree(side, sideOf(matchedTo(39, "bank", "Stock x10")))).toBe(true)
   expect(destinationAlone(side, sideOf(matchedTo(39, "craft-bag", "Stock x10")))).toBe(true)
+})
+
+const SPLIT: EnvParityJson = {
+  inventoryPath: "/held/TemperInventory.lua",
+  rules: 90,
+  items: 412,
+  stacks: 1979,
+  agreed: 411,
+  disagreed: 1,
+  destinationAlone: 1,
+  rows: rowsFrom([
+    reading(matchedTo(39, "bank", "Stock x10"), matchedTo(39, "house-storage:4677", "Stock x10")),
+  ]),
+}
+
+const ALIKE: EnvParityJson = { ...SPLIT, agreed: 412, disagreed: 0, destinationAlone: 0, rows: [] }
+
+test("the two shapes of one answer carry one code and one reason between them", () => {
+  expect(answerFor(SPLIT, false).code).not.toBe(OK)
+  expect(answerFor(SPLIT, true).code).toBe(answerFor(SPLIT, false).code)
+  expect(answerFor(SPLIT, true).refusals).toEqual(answerFor(SPLIT, false).refusals)
+})
+
+test("the shape asked for changes the report and leaves the rows whole", () => {
+  const oneLine = answerFor(SPLIT, true)
+  expect(oneLine.report).toHaveLength(1)
+  expect(JSON.parse(oneLine.report[0] ?? "")).toEqual(SPLIT)
+  expect(answerFor(SPLIT, false).report.join("\n")).toContain("house-storage:4677")
+})
+
+test("two envs deciding alike answer the code of work done however they are asked", () => {
+  expect(answerFor(ALIKE, false).code).toBe(OK)
+  expect(answerFor(ALIKE, true).code).toBe(OK)
+  expect(answerFor(ALIKE, true).refusals).toEqual([])
 })

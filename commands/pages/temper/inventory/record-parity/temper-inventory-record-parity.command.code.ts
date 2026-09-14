@@ -8,9 +8,9 @@ import {
   answeredWith,
   asJson,
   DATA,
+  OK,
   OPERATIONAL,
   refused,
-  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -149,6 +149,33 @@ export interface RecordParityJson extends Coverage {
   readonly rows: readonly RecordParityRow[]
 }
 
+export function foundSaid(out: RecordParityJson): readonly string[] {
+  if (out.disagreed === 0) return []
+  return [
+    `${String(out.disagreed)} of ${String(out.itemsCompared)} items carrying a record are ` +
+      "decided differently by a fresh reading, and the rows name them",
+  ]
+}
+
+export function answerFor(out: RecordParityJson, asOneJsonLine: boolean): Answer {
+  const found = foundSaid(out)
+  const code = found.length === 0 ? OK : DATA
+  if (asOneJsonLine) return asJson(out, found, code)
+  return answeredWith(
+    [
+      `record parity over ${out.inventoryPath}`,
+      `${String(out.rules)} rules, ${String(out.items)} items in ${String(out.stacks)} stacks`,
+      ...coverageSaid(out),
+      "",
+      ...uncoveredSaid(out),
+      "",
+      ...rowsSaid(out.rows, out.itemsCompared),
+    ],
+    found,
+    code
+  )
+}
+
 export async function temperInventoryRecordParity(
   argv: readonly string[],
   given: Given
@@ -239,26 +266,7 @@ export async function temperInventoryRecordParity(
       disagreed,
       rows,
     }
-    if (taken.json) return asJson(out)
-
-    const report = [
-      `record parity over ${inventoryPath}`,
-      `${String(out.rules)} rules, ${String(out.items)} items in ${String(out.stacks)} stacks`,
-      ...coverageSaid(counted),
-      "",
-      ...uncoveredSaid(counted),
-      "",
-      ...rowsSaid(rows, counted.itemsCompared),
-    ]
-    if (rows.length === 0) return told(report)
-    return answeredWith(
-      report,
-      [
-        `${String(disagreed)} of ${String(counted.itemsCompared)} items carrying a record are ` +
-          "decided differently by a fresh reading, and the rows above name them",
-      ],
-      DATA
-    )
+    return answerFor(out, taken.json === true)
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }

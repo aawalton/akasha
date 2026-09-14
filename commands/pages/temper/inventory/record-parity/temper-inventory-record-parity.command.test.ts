@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
+import { OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   agreementSaid,
+  answerFor,
   coverageSaid,
+  type RecordParityJson,
   rowsFrom,
   rowsSaid,
   type StackReading,
@@ -14,6 +17,30 @@ const LOCKPICK = 30357
 const STOCKED: Verdict = { action: "stock", destination: null, by: "ordered-rule", ruleIndex: 3 }
 
 const SOLD: Verdict = { action: "sell", destination: null, by: "ordered-rule", ruleIndex: 3 }
+
+const DISAGREEING: RecordParityJson = {
+  items: 412,
+  stacks: 1979,
+  recordedStacks: 1205,
+  itemsCompared: 300,
+  itemsUncovered: 112,
+  inventoryPath: "/held/TemperInventory.lua",
+  rules: 90,
+  agreed: 299,
+  disagreed: 1,
+  rows: [
+    {
+      itemId: LOCKPICK,
+      itemName: "Lockpick",
+      stacks: 1,
+      recorded: STOCKED,
+      fresh: SOLD,
+      differing: ["action"],
+    },
+  ],
+}
+
+const AGREEING: RecordParityJson = { ...DISAGREEING, agreed: 300, disagreed: 0, rows: [] }
 
 function reading(recorded: Verdict, freshVerdict: Verdict): StackReading {
   return { itemId: LOCKPICK, itemName: "Lockpick", recorded, fresh: freshVerdict }
@@ -73,4 +100,24 @@ test("how much is covered is counted from the records present", () => {
   expect(said).toContain("1205 of 1979 stacks")
   expect(said).toContain("60.9%")
   expect(said).toContain("300 of 412 items")
+})
+
+test("a disagreement found answers one code and one reason, whichever shape is asked for", () => {
+  const lines = answerFor(DISAGREEING, false)
+  const oneLine = answerFor(DISAGREEING, true)
+  expect(lines.code).not.toBe(OK)
+  expect(oneLine.code).toBe(lines.code)
+  expect(oneLine.refusals).toEqual(lines.refusals)
+})
+
+test("the one line answered carries the whole reading, coverage counted and all", () => {
+  const oneLine = answerFor(DISAGREEING, true)
+  expect(oneLine.report).toHaveLength(1)
+  expect(JSON.parse(oneLine.report[0] ?? "")).toEqual(DISAGREEING)
+})
+
+test("a run finding no disagreement answers the code of work done in either shape", () => {
+  expect(answerFor(AGREEING, false).code).toBe(OK)
+  expect(answerFor(AGREEING, true).code).toBe(OK)
+  expect(answerFor(AGREEING, true).refusals).toEqual([])
 })

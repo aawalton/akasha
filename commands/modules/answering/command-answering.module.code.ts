@@ -28,8 +28,8 @@ export function told(report: readonly string[]): Answer {
   return answeredWith(report, [], OK)
 }
 
-export function asJson(value: unknown): Answer {
-  return told([JSON.stringify(value)])
+export function asJson(value: unknown, said: readonly string[] = [], code = OK): Answer {
+  return answeredWith([JSON.stringify(value)], said, code)
 }
 
 export function asIndentedJson(value: unknown): Answer {

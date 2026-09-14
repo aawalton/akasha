@@ -32,6 +32,14 @@ export const temperInventoryEnvParity = {
       invariantKind: "departure",
       statement: "A run finding nothing says the two agree rather than answering empty.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that found a disagreement answers a code other than zero, in either form.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What that code says is what was found rather than what shape the answer took.",
+    },
   ],
   name: "env-parity",
   arguments: [
