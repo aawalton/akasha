@@ -19,6 +19,11 @@ export const theaChecksSystem = {
     },
 
     {
+      statement: "No arm of the codebase is built and reached by nothing.",
+      workingMemory:
+        "The story engine, tower and ui (224 files); the write half of `pages/access`; `landAkashaSessionRow` and the rows beside a day; geoapify geocoding and routing; email inbound routing; the litrpg reading selection; the jenny and ki sms dispatch; `ReadoutRing`; `installSimShell`; `cardioReading`; and `placeSecrets`, which a finding says the deploy still wants. Each is built whole and wired to nothing. Each waits on Alan, one at a time, the story engine first.",
+    },
+    {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
       workingMemory:
         "6 `service-workstation` bodies still carry export names from before that page type was renamed. `pages/modules/uncommitted/page-uncommitted.module.code.ts` makes the name a writer uses now. Each is rewritten the next time its service writes, and most of the 24 first seen have cleared themselves that way.",
