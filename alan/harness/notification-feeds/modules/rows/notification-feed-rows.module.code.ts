@@ -2,7 +2,6 @@ import {
   everyOfType,
   listedAt,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { entriesAt } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
@@ -93,7 +92,6 @@ export async function writeNotification(
   if (refused !== null) return { ok: false, why: refused }
   const at = made.queue.at()
   done.push(notifiedSaid(personSlug, at))
-  partFiled(akashaRoot(), page, at)
   return { ok: true, at }
 }
 
