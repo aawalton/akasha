@@ -72,12 +72,7 @@ export const subagentEditsActing = {
     },
     {
       invariantKind: "departure",
-      statement: "A file a write leaves lines in is filed in the path index.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A file a write leaves no line in is taken away and withdrawn from the path index.",
+      statement: "A file a write leaves no line in is taken away rather than left empty.",
     },
     {
       invariantKind: "departure",

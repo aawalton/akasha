@@ -36,7 +36,6 @@ import {
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
-import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { textIn } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
@@ -154,15 +153,10 @@ export const RECORD_WORDS: Words = wording({
   missing: `${NO_RECORD_AT}, so nothing went`,
 })
 
-function put(root: string, page: string, at: string, lines: readonly string[]): undefined {
+function put(root: string, at: string, lines: readonly string[]): undefined {
   const full = join(root, at)
-  if (lines.length === 0) {
-    rmSync(full, { force: true })
-    partUnfiled(root, at)
-    return undefined
-  }
-  writeFileSync(full, lines.map((one) => `${one}\n`).join(""))
-  partFiled(root, page, at)
+  if (lines.length === 0) rmSync(full, { force: true })
+  else writeFileSync(full, lines.map((one) => `${one}\n`).join(""))
   return undefined
 }
 
@@ -177,7 +171,6 @@ function dropped(root: string, page: string, at: string, paths: readonly string[
   const left = had.filter((one) => !went.includes(one))
   put(
     root,
-    page,
     at,
     left.map((one) => one.line)
   )
@@ -344,7 +337,6 @@ function taken(
   const left = had.filter((one) => !went.includes(one))
   put(
     root,
-    page,
     at,
     left.map((one) => one.line)
   )
