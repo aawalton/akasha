@@ -12,6 +12,7 @@ export const music = {
     "command/music-listening",
     "command/music-next",
     "command/music-now-playing",
+    "command/music-pause",
     "command/music-play",
     "command/music-queue",
     "command/music-rate",
