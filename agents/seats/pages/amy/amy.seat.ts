@@ -7,7 +7,7 @@ export const amy = {
   persona: "amy",
   assignmentSlug: "initiative/amy-harness-improvements",
   role: "definer",
-  person: "alan",
+  person: "person/alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",

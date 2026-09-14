@@ -7,7 +7,7 @@ export const aine = {
   persona: "aine",
   assignmentSlug: "initiative/aine-resource-management",
   role: "definer",
-  person: "alan",
+  person: "person/alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",

@@ -7,7 +7,7 @@ export const aranya = {
   persona: "aranya",
   assignmentSlug: "initiative/aranya-offload-to-cluster",
   role: "definer",
-  person: "alan",
+  person: "person/alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",

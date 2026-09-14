@@ -7,7 +7,7 @@ export const ryn = {
   persona: "ryn",
   assignmentSlug: "initiative/ryn-file-structure",
   role: "definer",
-  person: "alan",
+  person: "person/alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",

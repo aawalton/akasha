@@ -7,7 +7,7 @@ export const athena = {
   persona: "athena",
   assignmentSlug: "initiative/athena-agent-harness-improvements",
   role: "definer",
-  person: "alan",
+  person: "person/alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",

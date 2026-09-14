@@ -7,7 +7,7 @@ export const sophia = {
   persona: "sophia",
   assignmentSlug: "page-type/persona",
   role: "persona-craft",
-  person: "alan",
+  person: "person/alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
