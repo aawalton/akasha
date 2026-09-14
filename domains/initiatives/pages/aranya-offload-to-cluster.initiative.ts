@@ -11,7 +11,6 @@ export const aranyaOffloadToCluster = {
     "A build or a deploy is triggered on the workstation and runs nowhere on it.",
     "The commit a run is made at reaches the cluster as a push to origin.",
     "A run checks that commit out in the cluster rather than being handed a tree from the workstation.",
-    "A run reads the index the checkout carries rather than deriving that index again.",
     "What a run learns is written through the pages service rather than into the tree the run holds.",
   ],
 } as const satisfies Initiative
