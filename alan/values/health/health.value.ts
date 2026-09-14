@@ -8,7 +8,7 @@ export const health = {
   label: "Health",
   description:
     "Health represents my care for my physical body, including eat, move, sleep, and hygiene.",
-  color: "blue",
+  color: "color/blue",
   place: 3,
   unit: "green day units",
   scale: "readout-scale/green-day-units",
