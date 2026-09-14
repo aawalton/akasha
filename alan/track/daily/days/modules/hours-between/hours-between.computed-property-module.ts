@@ -9,11 +9,11 @@ export const hoursBetween = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The hours are the same whichever instant is handed in first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An end that is no readable instant is no reading rather than zero.",
     },
   ],

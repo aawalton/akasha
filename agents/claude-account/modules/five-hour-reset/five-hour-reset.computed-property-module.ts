@@ -9,19 +9,19 @@ export const fiveHourReset = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account that has spent its seven-day window has no five-hour reset.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account that has spent its five-hour window has that window's own reset.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account stating no five-hour reset has no five-hour reset.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seven-day window nothing has been read of holds no reset back.",
     },
   ],
