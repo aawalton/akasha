@@ -69,7 +69,7 @@ export const MODELS: Readonly<Record<ModelId, ModelSpec>> = {
     "cyberrealistic-zit-v4_bf16.safetensors",
     DISTILLED
   ),
-  "juggernaut-z-v1": zImage("juggernaut-z-v1", "juggernaut-z-v1_fp8.safetensors", DISTILLED),
+  "juggernaut-z-v1": zImage("juggernaut-z-v1", "juggernaut-z-v1_fp8.safetensors", UNDISTILLED),
 
   "redzdpo-v5-veris": zImage("redzdpo-v5-veris", "redzdpo-v5-veris_fp8.safetensors", DISTILLED),
 
