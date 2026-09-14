@@ -9,7 +9,7 @@ export const criticalRole = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2015-03-12",
   externalIdentity: [

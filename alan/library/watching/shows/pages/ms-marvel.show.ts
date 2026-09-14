@@ -9,7 +9,7 @@ export const msMarvel = {
   position: 35,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-06-08",
   externalIdentity: [

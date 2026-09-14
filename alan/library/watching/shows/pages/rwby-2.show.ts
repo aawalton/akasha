@@ -9,7 +9,7 @@ export const rwby2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "following",
   rank: "A",
   publishedAt: "2013-07-18",

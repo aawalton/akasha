@@ -9,7 +9,7 @@ export const theSarahJaneAdventures = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2007-01-01",
   externalIdentity: [

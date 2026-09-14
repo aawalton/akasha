@@ -9,7 +9,7 @@ export const elementary = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-09-28",
   externalIdentity: [

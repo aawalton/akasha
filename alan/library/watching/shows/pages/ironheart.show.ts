@@ -9,7 +9,7 @@ export const ironheart = {
   position: 58,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-06-25",
   externalIdentity: [

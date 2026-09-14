@@ -9,7 +9,7 @@ export const cloneWars = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2003-11-07",
   externalIdentity: [

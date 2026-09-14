@@ -9,7 +9,7 @@ export const creatureCommandos = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-12-05",
   externalIdentity: [

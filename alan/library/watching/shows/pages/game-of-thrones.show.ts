@@ -9,7 +9,7 @@ export const gameOfThrones = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-04-17",
   externalIdentity: [

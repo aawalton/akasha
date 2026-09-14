@@ -9,7 +9,7 @@ export const planetOfTheApes1974 = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1974-09-14",
   externalIdentity: [

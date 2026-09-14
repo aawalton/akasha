@@ -9,7 +9,7 @@ export const starTrekProdigy = {
   position: 24,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-10-28",
   externalIdentity: [

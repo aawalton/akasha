@@ -9,7 +9,7 @@ export const theLordOfTheRingsTheRingsOfPower = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-09-01",
   externalIdentity: [

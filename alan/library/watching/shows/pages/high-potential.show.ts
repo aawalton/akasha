@@ -9,7 +9,7 @@ export const highPotential = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "following",
   publishedAt: "2024-09-18",
   externalIdentity: [

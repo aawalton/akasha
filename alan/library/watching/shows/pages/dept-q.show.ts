@@ -9,7 +9,7 @@ export const deptQ = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "following",
   publishedAt: "2025-05-29",
   externalIdentity: [

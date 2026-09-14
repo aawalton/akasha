@@ -9,7 +9,7 @@ export const jessicaJones = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2015-11-20",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const marvelZombies = {
   position: 59,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-09-24",
   externalIdentity: [

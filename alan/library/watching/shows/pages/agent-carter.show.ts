@@ -9,7 +9,7 @@ export const agentCarter = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-01-07",
   externalIdentity: [

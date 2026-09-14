@@ -9,7 +9,7 @@ export const ncisNewOrleans = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-09-24",
   externalIdentity: [

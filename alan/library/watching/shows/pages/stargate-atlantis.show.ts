@@ -9,7 +9,7 @@ export const stargateAtlantis = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2004-07-16",
   externalIdentity: [

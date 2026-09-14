@@ -9,7 +9,7 @@ export const lukeCage = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-09-30",
   externalIdentity: [

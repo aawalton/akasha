@@ -9,7 +9,7 @@ export const starWarsRebels = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-10-03",
   externalIdentity: [

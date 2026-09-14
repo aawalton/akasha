@@ -9,7 +9,7 @@ export const battlestarGalactica2004 = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2003-12-08",
   externalIdentity: [

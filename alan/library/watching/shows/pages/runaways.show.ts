@@ -9,7 +9,7 @@ export const runaways = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-11-21",
   externalIdentity: [

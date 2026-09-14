@@ -9,7 +9,7 @@ export const duneProphecy = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-11-18",
   externalIdentity: [

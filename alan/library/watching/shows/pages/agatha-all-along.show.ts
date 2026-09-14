@@ -9,7 +9,7 @@ export const agathaAllAlong = {
   position: 51,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-09-18",
   externalIdentity: [

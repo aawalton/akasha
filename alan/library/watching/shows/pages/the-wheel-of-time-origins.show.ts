@@ -9,7 +9,7 @@ export const theWheelOfTimeOrigins = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-11-18",
   externalIdentity: [

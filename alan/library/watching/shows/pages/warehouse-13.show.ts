@@ -9,7 +9,7 @@ export const warehouse13 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2009-07-08",
   externalIdentity: [

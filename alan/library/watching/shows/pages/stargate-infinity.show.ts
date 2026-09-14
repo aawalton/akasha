@@ -9,7 +9,7 @@ export const stargateInfinity = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2002-09-14",
   externalIdentity: [

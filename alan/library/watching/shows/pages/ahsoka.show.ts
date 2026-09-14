@@ -9,7 +9,7 @@ export const ahsoka = {
   position: 22,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-08-22",
   externalIdentity: [

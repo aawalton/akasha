@@ -9,7 +9,7 @@ export const starTrekPicard = {
   position: 22,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2020-01-23",
   externalIdentity: [

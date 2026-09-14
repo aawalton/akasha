@@ -9,7 +9,7 @@ export const iAmGroot = {
   position: 36,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-08-10",
   externalIdentity: [

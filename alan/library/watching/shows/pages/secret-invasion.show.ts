@@ -9,7 +9,7 @@ export const secretInvasion = {
   position: 42,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-06-21",
   externalIdentity: [

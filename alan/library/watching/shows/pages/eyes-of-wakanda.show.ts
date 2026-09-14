@@ -9,7 +9,7 @@ export const eyesOfWakanda = {
   position: 53,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-08-01",
   externalIdentity: [

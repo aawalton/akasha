@@ -9,7 +9,7 @@ export const scorpion = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-09-23",
   externalIdentity: [

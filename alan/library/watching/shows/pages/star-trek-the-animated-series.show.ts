@@ -9,7 +9,7 @@ export const starTrekTheAnimatedSeries = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1973-09-08",

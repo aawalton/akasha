@@ -9,7 +9,7 @@ export const ncis = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2003-09-23",
   externalIdentity: [

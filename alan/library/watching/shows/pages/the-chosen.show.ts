@@ -9,7 +9,7 @@ export const theChosen = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   rank: "S",
   publishedAt: "2019-04-21",

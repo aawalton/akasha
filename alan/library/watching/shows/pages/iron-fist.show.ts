@@ -9,7 +9,7 @@ export const ironFist = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-03-17",
   externalIdentity: [

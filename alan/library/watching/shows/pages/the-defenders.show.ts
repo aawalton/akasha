@@ -9,7 +9,7 @@ export const theDefenders = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-08-18",
   externalIdentity: [

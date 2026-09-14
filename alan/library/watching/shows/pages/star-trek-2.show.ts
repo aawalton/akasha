@@ -9,7 +9,7 @@ export const starTrek2 = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "1966-09-08",

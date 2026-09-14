@@ -9,7 +9,7 @@ export const cloakAndDagger = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-06-08",
   externalIdentity: [

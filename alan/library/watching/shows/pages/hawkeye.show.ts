@@ -9,7 +9,7 @@ export const hawkeye = {
   position: 32,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-11-24",
   externalIdentity: [

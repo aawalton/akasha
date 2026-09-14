@@ -9,7 +9,7 @@ export const numb3rs = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-01-24",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const theRookie = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "in-progress",
   publishedAt: "2018-10-17",
   externalIdentity: [

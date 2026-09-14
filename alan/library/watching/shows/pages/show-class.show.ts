@@ -9,7 +9,7 @@ export const showClass = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-10-22",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const stevenUniverse = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2013-11-05",
   externalIdentity: [

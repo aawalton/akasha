@@ -9,7 +9,7 @@ export const theBookOfBobaFett = {
   position: 18,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-12-29",
   externalIdentity: [

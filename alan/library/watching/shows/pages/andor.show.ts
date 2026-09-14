@@ -9,7 +9,7 @@ export const andor = {
   position: 20,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-09-21",
   externalIdentity: [

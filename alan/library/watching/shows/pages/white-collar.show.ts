@@ -9,7 +9,7 @@ export const whiteCollar = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-10-24",
   externalIdentity: [

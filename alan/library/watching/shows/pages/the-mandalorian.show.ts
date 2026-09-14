@@ -9,7 +9,7 @@ export const theMandalorian = {
   position: 16,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-11-12",
   externalIdentity: [

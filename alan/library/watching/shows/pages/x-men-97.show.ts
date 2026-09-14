@@ -9,7 +9,7 @@ export const xMen97 = {
   position: 49,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-03-20",
   externalIdentity: [

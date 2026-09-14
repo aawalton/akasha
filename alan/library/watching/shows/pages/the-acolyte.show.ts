@@ -9,7 +9,7 @@ export const theAcolyte = {
   position: 23,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-06-05",
   externalIdentity: [

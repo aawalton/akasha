@@ -9,7 +9,7 @@ export const electricDreams = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-09-17",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const sheHulkAttorneyAtLaw = {
   position: 37,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-08-18",
   externalIdentity: [

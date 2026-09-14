@@ -9,7 +9,7 @@ export const houseOfTheDragon = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-08-21",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const returnToThePlanetOfTheApes = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1975-09-06",
   externalIdentity: [

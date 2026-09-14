@@ -9,7 +9,7 @@ export const wandavision = {
   position: 28,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-01-15",
   externalIdentity: [
