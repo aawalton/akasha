@@ -11,11 +11,11 @@ export const running = {
   definition: "the code a workstation service runs",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service that runs until stopped never answers from its run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The code a service runs is reached by that service's slug rather than by a path.",
     },
   ],
