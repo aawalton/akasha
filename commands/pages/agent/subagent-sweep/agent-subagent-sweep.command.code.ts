@@ -35,11 +35,11 @@ import {
   movedOnto,
   saidOf,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import {
-  landedMechanically,
-  type runMechanicalChange,
+import type {
+  Asking,
+  Landing,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,
@@ -58,13 +58,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { agentSubagentSweep as page } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"
 
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
-
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof runMechanicalChange>
 
 export interface SeatTranscripts {
   readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
@@ -253,7 +246,7 @@ async function taking(
     at: TAKE,
     given: { at: one.page.path },
   }))
-  const landed = await landing(done, root, changes, messageOf(stale))
+  const landed = await landing(root, changes, messageOf(stale), null, { done })
   if ("refusals" in landed) return answeredWith(done, landed.refusals, OPERATIONAL)
   if (landed.wrong.length > 0) return answeredWith(done, landed.wrong, OPERATIONAL)
   for (const one of stale) done.push(`${one.page.path} went`)
@@ -271,7 +264,7 @@ export async function agentSubagentSweep(
   entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,
   baseDir?: string,
   said: RunningSaid = transcriptsSay,
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [remove])
   if ("refused" in read) return refusedBy(read.refused)

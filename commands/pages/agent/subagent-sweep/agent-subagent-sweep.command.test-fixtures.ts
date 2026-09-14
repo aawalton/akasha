@@ -16,14 +16,16 @@ import {
   OperationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type {
+  Asking,
+  Landing,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   agentSubagentSweep,
-  type Landing,
   type RunningSaid,
   type SeatTranscripts,
   TAKE,
@@ -253,10 +255,10 @@ export function landings(answer: Applied | Refused = LANDED): Landings {
   const asked: (readonly Asking[])[] = []
   const said: string[] = []
   return {
-    landing: (done, _root, changes, message) => {
+    landing: (_root, changes, message, _agentId, noting) => {
       asked.push(changes)
       said.push(message)
-      if ("commit" in answer && answer.commit !== null) done.push(answer.commit)
+      if ("commit" in answer && answer.commit !== null) noting?.done?.push(answer.commit)
       return Promise.resolve(answer)
     },
     asked: () => asked,
@@ -403,8 +405,8 @@ export const THROWN: Landing = () => {
   throw new OperationalError("another landing held the lock")
 }
 
-export const THREW_AFTER: Landing = (done) => {
-  done.push(COMMIT)
+export const THREW_AFTER: Landing = (_root, _changes, _message, _agentId, noting) => {
+  noting?.done?.push(COMMIT)
   throw new OperationalError("the commit landed and the work after that commit stopped")
 }
 
