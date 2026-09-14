@@ -20,7 +20,7 @@ export const nimueNewModels = {
     {
       statement: "DeepSeek is a model provider akasha holds a model-account with.",
       workingMemory:
-        "DeepSeek speaks the Anthropic wire shape at `https://api.deepseek.com/anthropic` under an `x-api-key` header, so only the base and the key differ. A `claude-opus` name maps to `deepseek-v4-pro` and `claude-sonnet` or `claude-haiku` to `deepseek-flash`, both holding 1M context. The key is a page secret rather than an oauth token, and the account is prepaid rather than a subscription.",
+        "Alan's key is live and answers at `https://api.deepseek.com/anthropic` under an `x-api-key` header, so only the base and the auth differ. A request carrying `claude-opus-5[1m]`, a cached system block, cached tools and a tool choice came back from `deepseek-v4-pro` as a proper `tool_use`, with the cache counts at zero. `claude-sonnet` and `claude-haiku` map to `deepseek-flash`. The key waits in `DEEPSEEK_API_KEY` in `~/.secrets.env` for a page to sit beside.",
     },
     {
       statement: "The gateway falls back to DeepSeek where every claude-account is at its limit.",
