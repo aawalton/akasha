@@ -1,7 +1,6 @@
 import { join } from "node:path"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
-import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.ts"
 import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   beneath,
@@ -30,8 +29,6 @@ export type Listed = {
 const IDENTITY = indexIdentity.name
 
 const IMPORT = indexImport.name
-
-const LISTING = indexListing.name
 
 const RELATION = indexRelation.name
 
@@ -409,12 +406,6 @@ export function idsNaming(
     ROOT,
     `which pages name \`${id}\` as their \`${propertySlug}\``,
     (reading) => endingIn(reading.listing(join(RELATION, PAGE, ID, id, propertySlug)))
-  )
-}
-
-export function everyPath(given: string | Reading): readonly string[] {
-  return answered(given, ROOT, "which files are there", (reading) =>
-    reading.lines(join(LISTING, `${AT_PATH}${ENDING}`))
   )
 }
 

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { existsSync, readFileSync } from "node:fs"
+import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   APP_STAMP_MARKER,
@@ -15,7 +15,6 @@ import {
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.code.ts"
 import {
-  everyPath,
   listedAt,
   readingIn,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -121,9 +120,11 @@ describe("the marker contract with the seam that writes it", () => {
       const page = listedAt(reading, IOS_APP, app.slug)[0]
       if (page === undefined) continue
       const scriptsIn = `${dirname(page.path)}/scripts/`
-      const scripts = everyPath(reading).filter(
-        (one) => one.startsWith(scriptsIn) && one.endsWith(".sh")
-      )
+      const scriptsAt = join(repoRoot, scriptsIn)
+      if (!existsSync(scriptsAt)) continue
+      const scripts = readdirSync(scriptsAt, { recursive: true, encoding: "utf8" })
+        .filter((one) => one.endsWith(".sh"))
+        .map((one) => join(scriptsIn, one))
       if (scripts.length === 0) continue
       const seamTree = scripts.map((one) => readFileSync(join(repoRoot, one), "utf8")).join("\n")
       expect(seamTree).toContain("build-stamp.shell-script.shell.sh")

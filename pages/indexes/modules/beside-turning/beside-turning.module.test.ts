@@ -9,7 +9,6 @@ import {
 } from "akasha/pages/indexes/modules/beside-turning/beside-turning.module.code.ts"
 import { filePropertiesIn } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { sidecarsIn } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
-import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
 type Held = Record<string, unknown>
@@ -99,7 +98,6 @@ test("a page already of a turned page type is answered, and one the change carri
 test("a file that is no page is not answered though the index names that file", () => {
   const turned = new Set(["id"])
 
-  expect(everyPath(READING)).toEqual([PAGE, BESIDE])
   expect(pagesElsewhere(READING, turned, new Set()).map((one) => one.path)).toEqual([PAGE])
   expect(pagesElsewhere(READING, new Set(), new Set())).toEqual([])
   expect(pagesElsewhere(READING, turned, new Set([PAGE]))).toEqual([])

@@ -7,7 +7,6 @@ import {
 import { dropBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import {
   everyOfType,
-  everyPath,
   importersOf,
   indexNamed,
   listedById,
@@ -20,7 +19,6 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   importFiled,
-  listingFiled,
   nothingFiled,
   scopedFiled,
   shapeAdded,
@@ -126,29 +124,6 @@ test("a scope named on its own is answered without an address being composed", (
   ).toEqual([held])
 })
 
-test("every path the index files is answered as the lines of the one file holding them", () => {
-  const root = rootAt()
-  const held = ["akasha/a.module.code.ts", "akasha/a.module.ts", "akasha/held/b.module.ts"]
-  listingFiled(root, held)
-
-  expect(everyPath(root)).toEqual(held)
-})
-
-test("those paths come back in the order they were filed rather than sorted again", () => {
-  const root = rootAt()
-  const held = ["b.module.ts", "a.module.ts"]
-  listingFiled(root, held)
-
-  expect(everyPath(root)).toEqual(held)
-})
-
-test("an index that is there filing no listing is answered with no path rather than refused", () => {
-  const root = rootAt()
-  nothingFiled(root)
-
-  expect(everyPath(root)).toEqual([])
-})
-
 test("an id the index carries is answered with the page carrying it", () => {
   const root = rootAt()
   idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
@@ -169,7 +144,6 @@ test("every reader is refused where the index stands nowhere, whatever it was as
 
   expect(() => listedById(root, A)).toThrow(indexNamed())
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
-  expect(() => everyPath(root)).toThrow(/is not an index naming none/)
 })
 
 test("every reader is refused where a refresh left the index part way through", () => {
@@ -178,7 +152,6 @@ test("every reader is refused where a refresh left the index part way through", 
   dropBuilt(indexIn(root))
 
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
-  expect(() => everyPath(root)).toThrow(/is not an index naming none/)
 })
 
 test("a refusal names the directory the reading read from rather than a path under a root", () => {

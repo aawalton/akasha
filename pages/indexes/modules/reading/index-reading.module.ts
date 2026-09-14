@@ -94,18 +94,6 @@ export const indexReading = {
         "An address stating no page type is answered under the page type its caller names.",
     },
     {
-      invariantKind: "departure",
-      statement: "Every path the index files is answered by reading the one file with them.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Those paths come back in the order they were filed rather than sorted again.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The answer is the pages themselves.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here walks a tree.",
     },
