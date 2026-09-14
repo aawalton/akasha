@@ -21,7 +21,7 @@ import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/seat-launching.mo
 import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
 import { resumeSeat as relaunchStoppedSeat } from "akasha/agents/seats/reviving/modules/resume-seat/resume-seat.module.code.ts"
 import {
-  liveResumeVerifySleep,
+  liveResumeVerifyDeps,
   resumeAndVerify,
 } from "akasha/agents/seats/reviving/modules/resume-verify/resume-verify.module.code.ts"
 import { sweepSupersededAgentTrees } from "akasha/agents/seats/reviving/modules/seat-recovery/seat-recovery.module.code.ts"
@@ -154,13 +154,7 @@ async function relaunch(input: RelaunchInput, done: string[]): Promise<ResumedSe
   if (verify) {
     const { handle, verdict } = await resumeAndVerify(
       { agentId, graceMs, prompt, bootPrompt },
-      {
-        revive: relaunchStoppedSeat,
-        sampleTranscriptMtimeMs: readTranscriptMtimeMs,
-        sampleOwnedRowUpdatedAtMs: () => null,
-        now: Date.now,
-        sleep: liveResumeVerifySleep,
-      }
+      liveResumeVerifyDeps(readTranscriptMtimeMs)
     )
     done.push(`revived ${handle.agentId} in \`${handle.name}\` at pid ${handle.pid}`)
     if (verdict === "wedged") {
