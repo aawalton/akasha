@@ -88,5 +88,19 @@ export const serviceLoading = {
       statement:
         "A service that mends a broken pages service is started out of the pinned tree rather than here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A pages service that refuses the connection is told apart from one answering nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A pages service that does not answer is asked again, each wait longer than the last.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A loader the pages service never answers names that address and refuses the run.",
+    },
   ],
 } as const satisfies Module

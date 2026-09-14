@@ -59,6 +59,25 @@ test("a path the one call did not carry is asked for on its own and counted", ()
   expect(text).toContain("process.stderr.write")
 })
 
+test("the loader asks the pages service itself rather than spawning a program to ask", () => {
+  const text = loaderText(ROOT, PORT, RUNNER)
+  expect(text).toContain("await fetch(READ")
+  expect(text).not.toContain("Bun.spawnSync")
+})
+
+test("a pages service that does not answer is asked again, each wait longer than the last", () => {
+  const text = loaderText(ROOT, PORT, RUNNER)
+  expect(text).toContain("const ASK_AGAIN_FOR = 10000")
+  expect(text).toContain("wait = Math.min(wait * 2, LONGEST_WAIT)")
+})
+
+test("a pages service that never answers is said plainly and the run is refused", () => {
+  const text = loaderText(ROOT, PORT, RUNNER)
+  const said = text.indexOf('SAID + " the pages service did not answer at " + READ')
+  expect(said).toBeGreaterThan(-1)
+  expect(text.indexOf("process.exit(REFUSED_EXIT)", said)).toBeGreaterThan(said)
+})
+
 test("a unit reaches the loader through the home directory systemd spells for it", () => {
   expect(loaderRun("held-service")).toBe(`bun %h/${STAGING}/${LOADER_FILE} held-service`)
 })

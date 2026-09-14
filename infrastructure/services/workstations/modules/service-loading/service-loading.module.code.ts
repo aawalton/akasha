@@ -47,6 +47,10 @@ const AKASHA = ${JSON.stringify(AKASHA)}
 const WIRE = "wire"
 const SAID = "service-loader:"
 const REFUSED_EXIT = 2
+const ANSWER_IN = 20000
+const ASK_AGAIN_FOR = 10000
+const FIRST_WAIT = 250
+const LONGEST_WAIT = 2000
 
 const slug = process.argv[2]
 if (slug === undefined) {
@@ -57,17 +61,47 @@ if (slug === undefined) {
 const held = new Map<string, string>()
 let late = 0
 
-function asked(paths: readonly string[]): undefined {
+function waited(ms: number): Promise<undefined> {
+  return new Promise((go) => setTimeout(go, ms))
+}
+
+async function answered(paths: readonly string[]): Promise<string> {
+  const body = JSON.stringify({ paths })
+  const stopAt = Date.now() + ASK_AGAIN_FOR
+  let wait = FIRST_WAIT
+  let tries = 0
+  let why = "it was never reached"
+  for (;;) {
+    tries += 1
+    try {
+      const answer = await fetch(READ, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body,
+        signal: AbortSignal.timeout(ANSWER_IN),
+      })
+      if (answer.ok) return await answer.text()
+      why = "it answered " + answer.status
+    } catch (thrown) {
+      why = thrown instanceof Error ? thrown.message : String(thrown)
+    }
+    if (stopAt - Date.now() <= 0) break
+    process.stderr.write(
+      SAID + " " + READ + " did not answer (" + why + "); asking again in " + wait + "ms\n"
+    )
+    await waited(wait)
+    wait = Math.min(wait * 2, LONGEST_WAIT)
+  }
+  process.stderr.write(
+    SAID + " the pages service did not answer at " + READ + ", over " + tries +
+      " tries: " + why + "\n"
+  )
+  process.exit(REFUSED_EXIT)
+}
+
+async function asked(paths: readonly string[]): Promise<undefined> {
   if (paths.length === 0) return
-  const answer = Bun.spawnSync({
-    cmd: [
-      "curl", "-s", "-m", "60", "-X", "POST", READ,
-      "-H", "content-type: application/json",
-      "--data-binary", "@-",
-    ],
-    stdin: new TextEncoder().encode(JSON.stringify({ paths })),
-  })
-  const said = JSON.parse(answer.stdout.toString()) as {
+  const said = JSON.parse(await answered(paths)) as {
     bodies?: { path: string; content: string }[]
     refused?: string
   }
@@ -75,17 +109,17 @@ function asked(paths: readonly string[]): undefined {
   for (const one of said.bodies ?? []) held.set(one.path, one.content)
 }
 
-function bodyOf(path: string): string {
+async function bodyOf(path: string): Promise<string> {
   const kept = held.get(path)
   if (kept !== undefined) return kept
   late += 1
-  asked([path])
+  await asked([path])
   const got = held.get(path)
   if (got === undefined) throw new Error(SAID + " nothing was answered for " + path)
   return got
 }
 
-asked(
+await asked(
   readFileSync(join(import.meta.dir, slug + PATHS), "utf8")
     .split("\n")
     .filter((one) => one !== "")
@@ -102,8 +136,8 @@ plugin({
       path: join(dirname(args.importer), args.path),
       namespace: WIRE,
     }))
-    build.onLoad({ filter: /.*/, namespace: WIRE }, (args) => ({
-      contents: bodyOf(relative(ROOT, args.path)),
+    build.onLoad({ filter: /.*/, namespace: WIRE }, async (args) => ({
+      contents: await bodyOf(relative(ROOT, args.path)),
       loader: "ts",
     }))
   },
