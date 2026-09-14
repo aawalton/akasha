@@ -8,7 +8,7 @@ export const following = {
   definition: "whether a person is working through a collection as the collection arrives",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection a person follows is never finished while the collection grows.",
     },
   ],

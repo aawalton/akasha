@@ -8,11 +8,11 @@ export const ruleLocked = {
   definition: "whether a rule is held back from being edited or deleted",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A locked rule is carried through a reset to defaults untouched.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Whether a rule is locked is stated rather than worked out from where that rule came.",
     },

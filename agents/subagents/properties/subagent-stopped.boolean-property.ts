@@ -8,35 +8,35 @@ export const subagentStopped = {
   definition: "whether a subagent was stopped from the agents panel",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subagent nobody stopped states this neither way.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subagent stopped this way is refused every model turn it asks for after that.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The stop reaches the subagent at the next model turn that subagent asks for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subagent inside a tool call finishes that call before the stop reaches it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stop written here outlives a restart of the proxy refusing the turns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stop outlives that restart only while the page it is beside is there.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stop written here reads the subagent's page as stale to the sweep.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stop written here goes with the subagent's page.",
     },
   ],

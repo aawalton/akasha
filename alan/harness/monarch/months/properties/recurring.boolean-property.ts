@@ -8,7 +8,7 @@ export const recurring = {
   definition: "whether a transaction is one Monarch expects again",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry stating nothing here states the opposite.",
     },
   ],

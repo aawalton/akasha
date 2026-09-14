@@ -8,11 +8,11 @@ export const markReadOnEnd = {
   definition: "whether coming to the end of a page records that page as read",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page recorded as read at its end is recorded as read to its whole length.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page already recorded as read is left as that page stands.",
     },
   ],

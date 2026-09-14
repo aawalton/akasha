@@ -9,15 +9,15 @@ export const allowsTmpPaths = {
     "whether the paths a page of this type spells are a container's rather than this machine's",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type saying nothing here spells the paths of this workstation.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type says true here where its pages spell the paths inside a container.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path inside a container is not a path on this workstation.",
     },
   ],

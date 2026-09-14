@@ -8,11 +8,11 @@ export const runsChecks = {
   definition: "whether checks run on a change of this kind",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change kind whose changes are expected to pass checks runs checks.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change kind whose changes are not expected to pass checks runs no check.",
     },
   ],

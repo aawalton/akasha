@@ -8,7 +8,7 @@ export const pending = {
   definition: "whether a transaction has yet to clear",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry stating nothing here states the opposite.",
     },
   ],

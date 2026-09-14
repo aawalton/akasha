@@ -8,11 +8,11 @@ export const answersACheckoutRoot = {
   definition: "whether a module answers a checkout root",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A module saying nothing here answers no checkout root.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A module that answers where a checkout sits says true here rather than being named elsewhere.",
     },

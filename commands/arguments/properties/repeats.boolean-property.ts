@@ -8,15 +8,15 @@ export const repeats = {
   definition: "whether one call says an argument more than once",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry stating nothing here says its argument once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A repeating argument gathers its values in the order the values are said.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An argument that does not repeat is refused where one call says it twice.",
     },
   ],

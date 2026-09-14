@@ -8,15 +8,15 @@ export const holdsBytes = {
   definition: "whether the files a property has are bytes rather than text",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property saying nothing here has text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property holding bytes is answered as the bytes on disk rather than as text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property exempts every file that property has rather than one file named here.",
     },
   ],

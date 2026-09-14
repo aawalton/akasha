@@ -8,7 +8,7 @@ export const pendingSync = {
   definition: "whether a task has changed since the watcher last carried it out to the game",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The watcher clears this property as soon as that watcher has written the task out.",
     },

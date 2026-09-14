@@ -8,7 +8,7 @@ export const frameEdgeToEdge = {
   definition: "whether a page's body runs to the edges of the screen",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body running to the edges leaves no room for a frame beside that body.",
     },
   ],

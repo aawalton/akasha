@@ -8,19 +8,19 @@ export const readoutEnabled = {
   definition: "whether anything draws a reading",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout stating false keeps a page and leaves the strip.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stilled readout is no member of the groups the readout names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout stating nothing is drawn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service has a separate property of the same key.",
     },
   ],

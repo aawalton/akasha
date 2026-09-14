@@ -8,15 +8,15 @@ export const runsFileLength = {
   definition: "whether the byte ceiling is judged over the files a property has",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property saying nothing here is judged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No file of a property saying false is judged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property exempts every file that property has rather than one file named here.",
     },
   ],

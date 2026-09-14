@@ -8,12 +8,12 @@ export const needsSecrets = {
   definition: "whether a service is handed the secrets in the home directory",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A service stating true is handed every secret the file has rather than some secrets.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service stating nothing is handed no secret.",
     },
   ],

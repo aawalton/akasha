@@ -8,20 +8,20 @@ export const secret = {
   definition: "whether the value a page has for this property is hidden from whoever has the files",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A person who can read the repository can read every other value in that repository from the files.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A secret value is put in through a command that encrypts that value.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No write of the page's own file has a secret value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A secret value is withheld from a read that did not ask for that value.",
     },
   ],

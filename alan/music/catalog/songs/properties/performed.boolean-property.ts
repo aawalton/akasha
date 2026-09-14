@@ -8,7 +8,7 @@ export const performed = {
   definition: "whether the artist performs the song themselves",
   invariants: [
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "Every song is performed by its own artist.",
     },
   ],

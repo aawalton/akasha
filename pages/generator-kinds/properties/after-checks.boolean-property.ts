@@ -8,20 +8,20 @@ export const afterChecks = {
   definition: "whether a value is worked out after the checks pass rather than before them",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A value worked out after the checks is spent by no refusal and is seen by no check.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value worked out before the checks is judged like any other value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refusal wastes a value worked out before the checks.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value the index needs to file a page at all waits for nothing.",
     },
   ],

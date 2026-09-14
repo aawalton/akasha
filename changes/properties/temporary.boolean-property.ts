@@ -8,15 +8,15 @@ export const temporary = {
   definition: "whether what a change writes is meant to be taken away again",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change saying nothing here writes what is meant to stay.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What a temporary change writes answers to no page of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whoever writes it takes it away again.",
     },
   ],

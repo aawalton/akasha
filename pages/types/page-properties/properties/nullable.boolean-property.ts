@@ -9,15 +9,15 @@ export const nullable = {
   types: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property saying nothing here holds a value wherever a page states it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property saying true here is written as its kind or nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Stating nothing and leaving the key out are two facts.",
     },
   ],

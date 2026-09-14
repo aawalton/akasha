@@ -8,7 +8,7 @@ export const catchUp = {
   definition: "whether a timer runs for a time it was down for",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A timer stating false lets a missed time go by.",
     },
   ],

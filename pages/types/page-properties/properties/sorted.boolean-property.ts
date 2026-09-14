@@ -9,19 +9,19 @@ export const sorted = {
   types: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property saying nothing here keeps its values in the order they were put in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property saying true here takes a value into the place that order asks for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The order is the one the values sort in as they are written.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property whose order carries meaning of its own says nothing here.",
     },
   ],

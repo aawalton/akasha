@@ -8,15 +8,15 @@ export const takesAtMost = {
   definition: "whether a change takes a ceiling on how many pages one run acts on",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change saying nothing here acts on every page that change reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change saying true takes that ceiling under `at-most`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run handed no ceiling acts on every page the change reaches.",
     },
   ],

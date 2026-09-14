@@ -8,15 +8,15 @@ export const onCall = {
   definition: "whether this is ready for work sent to it",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page not on call states false.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page cleared of this property is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat whose role is on call starts on call.",
     },
   ],

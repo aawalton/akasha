@@ -8,7 +8,7 @@ export const needsReview = {
   definition: "whether a transaction is waiting for somebody to settle it",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry stating nothing here states the opposite.",
     },
   ],

@@ -8,7 +8,7 @@ export const showReadingProgress = {
   definition: "whether how far through a page the reader has come stands on the screen",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How far through a page the reader has come is read off two named properties.",
     },
   ],

@@ -8,7 +8,7 @@ export const frameFocusMode = {
   definition: "whether all but a page's body is put away while the page is read",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parts put away come back the moment the reader asks for those parts.",
     },
   ],

@@ -8,23 +8,23 @@ export const appendOnly = {
   definition: "whether a file is only ever added to at its end",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file only added to at its end is never rewritten.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property saying nothing here holds a file that may be rewritten.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What such a file already holds records a moment that has passed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path written there was that path when the line naming it was written.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No act rewriting a body reaches such a file.",
     },
   ],

@@ -8,11 +8,11 @@ export const drawnOffline = {
   definition: "whether the component drawing a page type's pages works with no network",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type saying nothing here is drawn plainly while the network is away.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type saying true here is drawn by its own component either way.",
     },
   ],

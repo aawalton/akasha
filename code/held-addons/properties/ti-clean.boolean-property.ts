@@ -8,16 +8,16 @@ export const tiClean = {
   definition: "whether an addon's TypeScript source has no raw table call",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A ti-clean addon has no `table.insert` and no `table.remove` call site in its TypeScript.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The `ti-clean-source-zero` ratchet keeps a ti-clean addon clean.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon saying nothing here is backlog rather than a violation.",
     },
   ],

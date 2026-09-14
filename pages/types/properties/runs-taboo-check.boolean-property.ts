@@ -8,19 +8,19 @@ export const runsTabooCheck = {
   definition: "whether the taboo terms are judged over the pages of a page type",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type saying nothing here is judged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No page of a page type saying false is judged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words a page type's own file has are judged whatever that page type says.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type says false here where the words its pages carry are somebody else's.",
     },
   ],

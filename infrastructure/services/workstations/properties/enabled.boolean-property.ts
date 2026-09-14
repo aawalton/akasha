@@ -8,7 +8,7 @@ export const enabled = {
   definition: "whether a service is to be running",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service stating false is installed and stopped rather than left uninstalled.",
     },
   ],

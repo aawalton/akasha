@@ -8,16 +8,16 @@ export const figureOffScale = {
   definition: "whether a reading past either end of its scale still draws its number",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A group stating nothing draws no number past either end of its scale.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reading has no number to draw past either end of its scale where the group states false.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading between two rungs draws its number whatever the group states.",
     },
   ],

@@ -8,11 +8,11 @@ export const fitnessEquipmentAvailable = {
   definition: "whether Alan can load a movement with this piece today",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece Alan means to buy is a page already.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece Alan means to buy is not available.",
     },
   ],
