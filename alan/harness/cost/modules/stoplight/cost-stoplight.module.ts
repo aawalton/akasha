@@ -4,7 +4,7 @@ export const costStoplight = {
   id: "01a08baf-2d7b-7409-962f-a47157e07198",
   type: "module",
   slug: "cost-stoplight",
-  definition: "the cost answered as a stoplight, colored with the tier the surplus reaches",
+  definition: "the cost answered as a stoplight, colored with the surplus in hours",
   code: "ts",
   test: "ts",
   invariants: [
@@ -19,8 +19,16 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
+      statement: "The surplus handed to that rule is the figure in hours rather than a tier.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The color is worked out without the scale the surplus readout's page names.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "The tier the surplus reaches is read against the scale the surplus readout's page names.",
+        "The tier on the surplus carried is read against the scale the surplus readout's page names.",
     },
     {
       invariantKind: "departure",
@@ -127,8 +135,9 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement: "A surplus nothing carried colors the cost as a black surplus colors it.",
+      statement: "A cost beside a surplus nothing was read for is black.",
     },
+
     {
       invariantKind: "departure",
       statement: "A surplus nothing carried is not carried.",

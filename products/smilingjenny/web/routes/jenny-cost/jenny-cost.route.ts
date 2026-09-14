@@ -24,7 +24,7 @@ export const jennyCost = {
     },
     {
       invariantKind: "departure",
-      statement: "The color is the cost read together with the tier the surplus reaches.",
+      statement: "The color is the cost read together with the surplus in hours.",
     },
     {
       invariantKind: "departure",

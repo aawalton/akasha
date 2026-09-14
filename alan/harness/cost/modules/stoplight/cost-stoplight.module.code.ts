@@ -29,7 +29,12 @@ const SURPLUS_READOUT = "upkeep-surplus"
 
 const NO_FIGURE = ""
 
-async function surplusNow(readingHeld: ReadingHeld = relayedReading): Promise<Stoplight | null> {
+type SurplusNow = {
+  readonly stoplight: Stoplight | null
+  readonly hours: number | null
+}
+
+async function surplusNow(readingHeld: ReadingHeld = relayedReading): Promise<SurplusNow | null> {
   const asked = await askingFor({
     pageTypeSlug: READOUT,
     where: { slug: { is: SURPLUS_READOUT } },
@@ -39,7 +44,9 @@ async function surplusNow(readingHeld: ReadingHeld = relayedReading): Promise<St
   const [row] = asked.rows
   if (row === undefined) return null
 
-  return await stoplightOf(row, HABIT, readingHeld)
+  const reading = readingHeld(row)
+  const stoplight = await stoplightOf(row, HABIT, () => reading)
+  return { stoplight, hours: reading.held === "fresh" ? reading.value : null }
 }
 
 function countingDown(cost: number, surplus: Stoplight | null): Pick<Stoplight, "coloredWith"> {
@@ -50,7 +57,7 @@ function countingDown(cost: number, surplus: Stoplight | null): Pick<Stoplight, 
 
 function costStoplightWith(
   row: Values,
-  surplus: Stoplight | null,
+  surplus: SurplusNow | null,
   readingHeld: ReadingHeld = relayedReading
 ): Stoplight | null {
   const label = stated(row.label)
@@ -71,9 +78,9 @@ function costStoplightWith(
   return {
     habit: wireKey,
     label,
-    tier: costColorAt(reading.value, surplus?.tier ?? null),
+    tier: costColorAt(reading.value, surplus?.hours ?? null),
     reading: readingSaid(reading.value),
-    ...countingDown(reading.value, surplus),
+    ...countingDown(reading.value, surplus?.stoplight ?? null),
   }
 }
 

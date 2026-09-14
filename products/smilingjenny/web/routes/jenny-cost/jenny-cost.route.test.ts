@@ -141,18 +141,23 @@ test("the cost is colored with the surplus carried in beside it", async () => {
   await carryNow(0.5, 5)
   expect((await drawn())[0]?.tier).toBe("yellow")
   dropRelayed()
-  await carryNow(0.5, 1)
+  await carryNow(0.5, -5)
   expect((await drawn())[0]?.tier).toBe("red")
 })
 
-test("a cost above one is black whatever the surplus is", async () => {
-  await carryNow(1.5, 5)
+test("a cost above two multipliers is black whatever the surplus is", async () => {
+  await carryNow(32, 20)
   expect((await drawn())[0]?.tier).toBe("black")
 })
 
-test("a cost of nothing is green whatever the surplus is", async () => {
+test("a cost of nothing over four hours of surplus is blue", async () => {
+  await carryNow(0, 5)
+  expect((await drawn())[0]?.tier).toBe("blue")
+})
+
+test("a cost of nothing beneath eight hours of debt is black", async () => {
   await carryNow(0, -20)
-  expect((await drawn())[0]?.tier).toBe("green")
+  expect((await drawn())[0]?.tier).toBe("black")
 })
 
 test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {

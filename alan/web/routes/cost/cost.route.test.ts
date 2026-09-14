@@ -117,8 +117,8 @@ test("a cost carried in is colored with the surplus carried in beside it", async
   expect(one?.tier).toBe("yellow")
 })
 
-test("the same cost against a green surplus is red rather than yellow", async () => {
-  await carryNow(0.5, 1)
+test("the same cost five hours into the night is red rather than yellow", async () => {
+  await carryNow(0.5, -5)
   expect((await tile.drawn())[0]?.tier).toBe("red")
 })
 

@@ -95,28 +95,36 @@ function costing(multiplier: number, surplusHours?: number): undefined {
   return undefined
 }
 
-test("a cost of nothing is green whatever the surplus is", async () => {
-  costing(0, -20)
+test("a cost of nothing over four hours of surplus is blue", async () => {
+  costing(0, 5)
+  expect((await oneDrawn())?.tier).toBe("blue")
+})
+
+test("a cost of nothing over nothing of surplus is green", async () => {
+  costing(0, 2)
   expect((await oneDrawn())?.tier).toBe("green")
 })
 
-test("a cost above one is black whatever the surplus is", async () => {
-  costing(1.5, 5)
-  expect((await oneDrawn())?.tier).toBe("black")
-})
-
-test("a cost of one or less is yellow where the surplus is blue", async () => {
-  costing(1, 5)
+test("a cost of one multiplier is yellow where a cost of nothing is green", async () => {
+  costing(0, 2)
+  expect((await oneDrawn())?.tier).toBe("green")
+  dropRelayed()
+  costing(1, 2)
   expect((await oneDrawn())?.tier).toBe("yellow")
 })
 
-test("a cost of one or less is red where the surplus is green", async () => {
-  costing(0.5, 1)
+test("a cost above one multiplier over four hours of surplus is red", async () => {
+  costing(1.5, 5)
   expect((await oneDrawn())?.tier).toBe("red")
 })
 
-test("a cost of one or less is black where the surplus is beneath green", async () => {
-  costing(0.5, -2)
+test("a cost above two multipliers is black whatever the surplus is", async () => {
+  costing(32, 20)
+  expect((await oneDrawn())?.tier).toBe("black")
+})
+
+test("a cost of nothing beneath eight hours of debt is black", async () => {
+  costing(0, -20)
   expect((await oneDrawn())?.tier).toBe("black")
 })
 
@@ -124,11 +132,11 @@ test("the color is read from the cost and the surplus rather than from the cost 
   costing(0.5, 5)
   expect((await oneDrawn())?.tier).toBe("yellow")
   dropRelayed()
-  costing(0.5, 1)
+  costing(0.5, -5)
   expect((await oneDrawn())?.tier).toBe("red")
 })
 
-test("a surplus nothing carried colors the cost as a black surplus colors it", async () => {
+test("a cost beside a surplus nothing was read for is black", async () => {
   relayedFor(COST, 0.5)
   expect((await oneDrawn())?.tier).toBe("black")
 })
@@ -187,8 +195,8 @@ test("the figure is the multiplier written as a figure", async () => {
   expect((await oneDrawn())?.reading).toBe("0.6")
 })
 
-test("a cost is never answered blue", async () => {
-  for (const multiplier of [0, 0.5, 1, 1.5, 32]) {
+test("a cost above nothing is never answered blue", async () => {
+  for (const multiplier of [0.5, 1, 1.5, 32]) {
     for (const hours of [-20, -6, -1, 1, 5]) {
       dropRelayed()
       costing(multiplier, hours)
@@ -217,10 +225,16 @@ test("a group no readout is left in is answered as no reading", async () => {
   expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
 })
 
-test("a scale the store withholds colors the cost as a black surplus colors it", async () => {
+test("a scale the store withholds leaves the color the surplus figure sets", async () => {
   costing(0.5, 5)
   ANSWERED.scales = []
-  expect((await oneDrawn())?.tier).toBe("black")
+  expect((await oneDrawn())?.tier).toBe("yellow")
+})
+
+test("a scale the store withholds leaves the cost carrying no surplus", async () => {
+  falling(0.5, 9, 2)
+  ANSWERED.scales = []
+  expect((await oneDrawn())?.coloredWith).toBeUndefined()
 })
 
 test("a refusal a guard answers is served whole rather than made again here", async () => {
