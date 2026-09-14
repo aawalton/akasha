@@ -28,10 +28,6 @@ export const appBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "An app naming part of its staging is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An app naming no sync script is refused rather than walked to.",
     },
     {

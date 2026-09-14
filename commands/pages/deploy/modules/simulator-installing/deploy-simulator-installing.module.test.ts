@@ -52,7 +52,6 @@ const PLAN: Plan = {
   buildScriptPath: "akasha/quiet/build.sh",
   syncScriptPath: "akasha/quiet/sync.sh",
   dependencies: {},
-  staging: null,
   deliverPaths: ["akasha/quiet"],
   deliverFiles: [],
   exports: [],

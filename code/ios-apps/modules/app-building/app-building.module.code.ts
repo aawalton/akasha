@@ -22,18 +22,12 @@ const MANIFEST = "package.json"
 
 export type Ranged = Readonly<Record<string, string>>
 
-export type Staging = {
-  readonly scriptPath: string
-  readonly sourcePath: string
-}
-
 export type Plan = {
   readonly appSlug: string
   readonly shellPath: string
   readonly buildScriptPath: string
   readonly syncScriptPath: string
   readonly dependencies: Ranged
-  readonly staging: Staging | null
   readonly deliverPaths: readonly string[]
   readonly deliverFiles: readonly string[]
   readonly exports: readonly string[]
@@ -147,23 +141,6 @@ function dependenciesOf(root: string, app: Value, appSlug: string): Ranging {
   return { ranges }
 }
 
-type Staged = { readonly staging: Staging | null } | { readonly why: string }
-
-function stagingOf(root: string, app: Value, appSlug: string): Staged {
-  const named = textAt(app, "stageScript")
-  const source = textAt(app, "spaSourcePath")
-  if (named === null && source === null) return { staging: null }
-  if (named === null) {
-    return { why: `${appSlug} says where its site is built from and names no \`stage-script\`` }
-  }
-  if (source === null) {
-    return { why: `${appSlug} names a \`stage-script\` and no \`spa-source-path\` to build from` }
-  }
-  const found = shellOf(root, named, appSlug, "stage script")
-  if ("why" in found) return found
-  return { staging: { scriptPath: found.at, sourcePath: source } }
-}
-
 export function planFor(root: string, appSlug: string): Planned {
   const appPath = pathOf(root, "ios-app", appSlug)
   if (appPath === null) return { refused: [`no ios-app page in akasha is slugged ${appSlug}`] }
@@ -175,8 +152,6 @@ export function planFor(root: string, appSlug: string): Planned {
       refused: [`${appSlug} states no \`build-script\`, so its page names nothing that builds it`],
     }
   }
-  const staged = stagingOf(root, app, appSlug)
-  if ("why" in staged) return { refused: [staged.why] }
   const built = shellOf(root, named, appSlug, "build script")
   if ("why" in built) return { refused: [built.why] }
   const syncing = textAt(app, "syncScript")
@@ -202,7 +177,6 @@ export function planFor(root: string, appSlug: string): Planned {
     buildScriptPath: built.at,
     syncScriptPath: synced.at,
     dependencies: ranged.ranges,
-    staging: staged.staging,
     deliverPaths: [shellPath],
     deliverFiles: shared.files,
     exports: exportsOf(app, programs.shipped, programs.hosting),
