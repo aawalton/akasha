@@ -1,8 +1,8 @@
-const MEM_TOTAL = "MemTotal"
-
 const MEM_AVAILABLE = "MemAvailable"
 
-const WHOLE = 100
+const KB_A_GB = 1024 * 1024
+
+const TENTHS = 10
 
 function kilobytesOf(meminfo: string, name: string): number | null {
   const matched = new RegExp(`^${name}:\\s+(\\d+)\\s+kB`, "m").exec(meminfo)
@@ -13,8 +13,7 @@ function kilobytesOf(meminfo: string, name: string): number | null {
 }
 
 export function memoryIn(meminfo: string): number | null {
-  const total = kilobytesOf(meminfo, MEM_TOTAL)
   const available = kilobytesOf(meminfo, MEM_AVAILABLE)
-  if (total === null || available === null || total <= 0) return null
-  return Math.min(WHOLE, Math.max(0, ((total - available) / total) * WHOLE))
+  if (available === null) return null
+  return Math.round((available / KB_A_GB) * TENTHS) / TENTHS
 }

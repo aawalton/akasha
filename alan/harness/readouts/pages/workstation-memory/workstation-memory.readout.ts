@@ -4,10 +4,10 @@ export const workstationMemory = {
   id: "01a0a065-1fe2-7ef7-8efc-0759f66b9875",
   type: "readout",
   slug: "workstation-memory",
-  definition: "how much of the workstation's memory is in use",
+  definition: "how much memory the kernel says the workstation still has to give",
   reading: {},
   label: "Memory",
-  unit: "percent",
+  unit: "gigabytes",
   place: 2,
   drawnAs: "number",
   groups: ["workstation"],
@@ -15,15 +15,27 @@ export const workstationMemory = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the share of memory the kernel says is not available.",
+      statement: "The reading is the gigabytes of memory the kernel says are available.",
     },
     {
       invariantKind: "departure",
-      statement: "Memory the kernel could reclaim counts as available rather than in use.",
+      statement: "A gigabyte here is a kernel kilobyte over a thousand and twenty-four squared.",
     },
     {
       invariantKind: "departure",
-      statement: "A meminfo naming no total or no available memory is no reading rather than zero.",
+      statement: "Memory the kernel could reclaim counts as available rather than as gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading is kept to a tenth of a gigabyte.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How much memory the workstation has in all is no part of the reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A meminfo naming no available memory is no reading rather than zero.",
     },
     {
       invariantKind: "absence",

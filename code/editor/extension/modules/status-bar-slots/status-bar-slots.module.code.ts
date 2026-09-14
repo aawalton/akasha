@@ -9,6 +9,10 @@ function formatPct(v: number | null): string {
   return v === null ? "—" : `${Math.floor(v)}%`
 }
 
+function formatGb(v: number | null): string {
+  return v === null ? "—" : `${v.toFixed(1)} GB`
+}
+
 const RAW_SLOTS: readonly SlotDef[] = [
   {
     kind: "workstation",
@@ -22,9 +26,9 @@ const RAW_SLOTS: readonly SlotDef[] = [
     kind: "workstation",
     id: "opsStatusBar.workstation.memory",
     priority: 0,
-    label: "memory use",
+    label: "memory available",
     hex: CHALK_HEX,
-    read: (w) => formatPct(w.memoryPct),
+    read: (w) => formatGb(w.memoryGb),
   },
 
   { kind: "separator", id: "opsStatusBar.sep.workstationUsage", priority: 0 },

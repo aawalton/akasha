@@ -9,15 +9,19 @@ export const statusBarWorkstation = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A share is handed in rather than read here.",
+      statement: "A figure is handed in rather than read here.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading with neither share is no reading rather than two figures of nothing.",
+      statement: "The processor figure is a share and the memory figure an amount.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading with one share keeps the other as no figure.",
+      statement: "A reading with neither figure is no reading rather than two figures of nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading with one figure keeps the other as no figure.",
     },
     {
       invariantKind: "absence",

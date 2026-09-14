@@ -10,7 +10,7 @@ declare type StatusBarUsage = {
 
 declare type StatusBarWorkstation = {
   readonly processorPct: number | null
-  readonly memoryPct: number | null
+  readonly memoryGb: number | null
 }
 
 declare type StatusBarState = {

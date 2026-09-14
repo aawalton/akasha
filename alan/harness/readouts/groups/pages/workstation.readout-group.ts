@@ -18,7 +18,11 @@ export const workstation = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading here is a share of what the workstation has rather than an amount.",
+      statement: "The processor reading here is a share and the memory reading an amount.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading here is drawn in the unit its own readout names.",
     },
   ],
 } as const satisfies ReadoutGroup

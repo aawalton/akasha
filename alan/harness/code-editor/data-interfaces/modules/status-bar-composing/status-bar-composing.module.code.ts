@@ -125,7 +125,7 @@ function sectionOf(
   return { glyphs: glyphsOf(stoplights), legend: legendOf(stoplights) }
 }
 
-function percentHeldOn(rows: readonly Values[], wireKey: string): number | null {
+function figureHeldOn(rows: readonly Values[], wireKey: string): number | null {
   const row = rows.find((one) => !stilled(one) && textAt(one, WIRE_KEY) === wireKey)
   if (row === undefined) return null
   const held = readingHeldOn(row)
@@ -134,7 +134,7 @@ function percentHeldOn(rows: readonly Values[], wireKey: string): number | null 
 
 function workstationNow(rows: readonly Values[]): WorkstationReading | null {
   const here = rows.filter((one) => namesGroup(one, WORKSTATION_GROUP))
-  return workstationReadingOf(percentHeldOn(here, PROCESSOR_KEY), percentHeldOn(here, MEMORY_KEY))
+  return workstationReadingOf(figureHeldOn(here, PROCESSOR_KEY), figureHeldOn(here, MEMORY_KEY))
 }
 
 function usageNow(): UsageReading | null {

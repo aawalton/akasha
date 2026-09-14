@@ -87,7 +87,7 @@ export function takerOf(
     const processor =
       before === null || times === null ? null : wholePercent(processorIn(before, times))
     if (times !== null) before = times
-    const memory = wholePercent(memoryIn(kernel.meminfo()))
+    const memory = memoryIn(kernel.meminfo())
     if (processor !== null && processor !== lastProcessor) {
       kept(root, pages.processor, processor, now)
       lastProcessor = processor

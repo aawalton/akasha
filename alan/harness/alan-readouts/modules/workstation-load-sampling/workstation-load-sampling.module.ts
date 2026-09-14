@@ -29,11 +29,15 @@ export const workstationLoadSampling = {
     },
     {
       invariantKind: "departure",
-      statement: "A share is kept as a whole percent.",
+      statement: "The processor share is kept as a whole percent.",
     },
     {
       invariantKind: "departure",
-      statement: "A sample finding the percent the sample before found writes nothing.",
+      statement: "The memory reading is kept in the gigabytes its own readout answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sample finding the reading the sample before found writes nothing.",
     },
     {
       invariantKind: "departure",

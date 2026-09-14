@@ -34,7 +34,15 @@ export const statusBarSlots = {
     },
     {
       invariantKind: "departure",
-      statement: "A figure is drawn with the part after the point dropped.",
+      statement: "A figure of a share is drawn with the part after the point dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure of an amount is drawn to a tenth.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure carries the unit that figure counts in.",
     },
     {
       invariantKind: "absence",

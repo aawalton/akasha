@@ -16,8 +16,10 @@ function stat(busy: number, idle: number): string {
   return `cpu  ${busy} 0 0 ${idle} 0 0 0 0 0 0\ncpu0 0 0 0 0 0 0 0 0 0 0\n`
 }
 
-function meminfo(total: number, available: number): string {
-  return `MemTotal:       ${total} kB\nMemAvailable:   ${available} kB\n`
+const KB_A_GB = 1024 * 1024
+
+function meminfo(totalGb: number, availableGb: number): string {
+  return `MemTotal:       ${totalGb * KB_A_GB} kB\nMemAvailable:   ${availableGb * KB_A_GB} kB\n`
 }
 
 type Written = { readonly page: string; readonly value: number }
@@ -43,13 +45,13 @@ function scripted(stats: readonly string[], meminfos: readonly string[]) {
 }
 
 test("the first sample answers no processor reading and a memory reading", () => {
-  const { next, written } = scripted([stat(0, 100)], [meminfo(100, 60)])
+  const { next, written } = scripted([stat(0, 100)], [meminfo(64, 40)])
   expect(next()).toEqual({ processor: null, memory: 40 })
   expect(written).toEqual([{ page: PAGES.memory, value: 40 }])
 })
 
 test("the second sample answers the share busy since the first", () => {
-  const { next, written } = scripted([stat(0, 100), stat(30, 170)], [meminfo(100, 60)])
+  const { next, written } = scripted([stat(0, 100), stat(30, 170)], [meminfo(64, 40)])
   next()
   expect(next()).toEqual({ processor: 30, memory: 40 })
   expect(written).toEqual([
@@ -58,10 +60,10 @@ test("the second sample answers the share busy since the first", () => {
   ])
 })
 
-test("a sample finding the percent the sample before found writes nothing", () => {
+test("a sample finding the reading the sample before found writes nothing", () => {
   const { next, written } = scripted(
     [stat(0, 100), stat(30, 170), stat(60, 240)],
-    [meminfo(100, 60)]
+    [meminfo(64, 40)]
   )
   next()
   next()
@@ -72,14 +74,14 @@ test("a sample finding the percent the sample before found writes nothing", () =
   ])
 })
 
-test("a share is kept as a whole percent", () => {
+test("the processor share is kept as a whole percent", () => {
   expect(wholePercent(33.4)).toBe(33)
   expect(wholePercent(33.5)).toBe(34)
   expect(wholePercent(null)).toBeNull()
 })
 
 test("a sample finding no reading writes nothing and keeps the sample before for the next share", () => {
-  const { next, written } = scripted([stat(0, 100), "", stat(50, 150)], [meminfo(100, 60), ""])
+  const { next, written } = scripted([stat(0, 100), "", stat(50, 150)], [meminfo(64, 40), ""])
   next()
   expect(next()).toEqual({ processor: null, memory: null })
   expect(next()).toEqual({ processor: 50, memory: null })
