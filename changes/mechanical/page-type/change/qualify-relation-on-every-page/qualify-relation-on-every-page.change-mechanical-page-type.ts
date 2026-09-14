@@ -107,5 +107,5 @@ export const qualifyRelationOnEveryPage = {
       statement: "No name is written with a scope.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalPageType

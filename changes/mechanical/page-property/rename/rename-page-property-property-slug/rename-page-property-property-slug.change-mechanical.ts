@@ -168,5 +168,5 @@ export const renamePagePropertyPropertySlug = {
       statement: "Nothing here reaches a change.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

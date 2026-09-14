@@ -78,5 +78,5 @@ export const addPageTypeTypes = {
       statement: "Nothing here writes the type the page type gains.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalPageType

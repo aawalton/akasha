@@ -32,5 +32,5 @@ export const removeFile = {
       statement: "Nothing here reads the disk or an index.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFile

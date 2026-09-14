@@ -99,5 +99,5 @@ export const addPropertyRecord = {
         "An `after` stated where the page states the key already is refused rather than dropped.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

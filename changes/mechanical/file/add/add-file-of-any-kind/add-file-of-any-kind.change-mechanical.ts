@@ -81,5 +81,5 @@ export const addFileOfAnyKind = {
         "A path under a page property name is written by the change judging the keys carried.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

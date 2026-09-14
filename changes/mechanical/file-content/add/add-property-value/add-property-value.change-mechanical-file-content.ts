@@ -123,5 +123,5 @@ export const addPropertyValue = {
       statement: "A value that kind does not hold is refused before the body is read.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

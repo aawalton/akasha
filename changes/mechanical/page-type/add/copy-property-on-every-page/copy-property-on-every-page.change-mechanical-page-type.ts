@@ -83,5 +83,5 @@ export const copyPropertyOnEveryPage = {
       statement: "No page body is read to find out which pages hold the key.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalPageType

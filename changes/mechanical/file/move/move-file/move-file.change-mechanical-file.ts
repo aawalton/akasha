@@ -32,5 +32,5 @@ export const moveFile = {
       statement: "The calling change repoints every body naming the path that moved.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFile

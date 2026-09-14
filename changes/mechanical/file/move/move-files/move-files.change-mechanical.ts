@@ -61,5 +61,5 @@ export const moveFiles = {
       statement: "No rung is reached for a file that moves.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

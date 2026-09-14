@@ -95,5 +95,5 @@ export const removeEveryPageOfAType = {
       statement: "Nothing here reads a page's own body to find the files beside it.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalPageType

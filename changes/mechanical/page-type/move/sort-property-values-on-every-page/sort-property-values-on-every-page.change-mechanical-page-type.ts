@@ -52,5 +52,5 @@ export const sortPropertyValuesOnEveryPage = {
       statement: "A key holding no list is passed over rather than refused.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalPageType

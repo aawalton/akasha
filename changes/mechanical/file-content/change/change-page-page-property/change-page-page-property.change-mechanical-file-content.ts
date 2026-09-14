@@ -31,5 +31,5 @@ export const changePagePageProperty = {
       "statement": "A newline ending the value asked for is dropped.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

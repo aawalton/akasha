@@ -29,5 +29,5 @@ export const addFilePage = {
       statement: "The pages the body names are judged by the guard this change names.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

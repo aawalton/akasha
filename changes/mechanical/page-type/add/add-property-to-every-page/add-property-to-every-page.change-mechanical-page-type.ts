@@ -82,5 +82,5 @@ export const addPropertyToEveryPage = {
       statement: "No rung beneath is reached.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalPageType

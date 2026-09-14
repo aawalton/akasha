@@ -57,5 +57,5 @@ export const addIfNotPresentFile = {
       statement: "A path already holding the body given is left alone whatever `old` states.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFile

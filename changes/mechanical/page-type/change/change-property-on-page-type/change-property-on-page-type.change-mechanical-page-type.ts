@@ -99,5 +99,5 @@ export const changePropertyOnPageType = {
       statement: "A default is taken off the declaration where the caller states none.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalPageType

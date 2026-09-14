@@ -77,5 +77,5 @@ export const addPropertyToPageType = {
       statement: "Nothing here writes a page of the type the property was declared on.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalPageType

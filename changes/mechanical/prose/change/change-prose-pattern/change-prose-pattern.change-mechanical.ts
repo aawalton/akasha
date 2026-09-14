@@ -74,5 +74,5 @@ export const changeProsePattern = {
       statement: "No rung beneath is reached.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

@@ -25,5 +25,5 @@ export const removeFilePageType = {
       statement: "The pages filed under the page type are judged by the guard this change names.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

@@ -157,5 +157,5 @@ export const moveFolder = {
       statement: "A body that is not text spells no path that moved.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFolder

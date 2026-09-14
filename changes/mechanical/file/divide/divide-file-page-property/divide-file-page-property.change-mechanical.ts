@@ -46,5 +46,5 @@ export const divideFilePageProperty = {
         "No guard runs here, where every file written is one the page beside it already claims.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

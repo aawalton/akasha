@@ -57,5 +57,5 @@ export const changePagePagePropertyRelation = {
       statement: "No page is taken away here.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

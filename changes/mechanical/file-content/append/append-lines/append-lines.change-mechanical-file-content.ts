@@ -32,5 +32,5 @@ export const appendLines = {
       statement: "Nothing here judges what the content spells.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

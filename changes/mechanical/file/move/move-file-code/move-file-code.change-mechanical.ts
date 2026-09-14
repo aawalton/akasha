@@ -61,5 +61,5 @@ export const moveFileCode = {
       statement: "A generated body importing what moved is written by the generator.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

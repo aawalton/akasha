@@ -16,5 +16,5 @@ export const renameLocalVariable = {
       statement: "The offset handed in is named `spot` rather than `at`.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

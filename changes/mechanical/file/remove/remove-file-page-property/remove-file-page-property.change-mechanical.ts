@@ -29,5 +29,5 @@ export const removeFilePageProperty = {
       statement: "No page has that key while the property goes.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

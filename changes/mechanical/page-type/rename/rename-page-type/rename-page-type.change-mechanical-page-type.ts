@@ -114,5 +114,5 @@ export const renamePageType = {
       statement: "The folder a page type owns is left where that folder sits.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalPageType

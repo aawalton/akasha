@@ -32,5 +32,5 @@ export const removeExportKeyword = {
       statement: "Which names handed in this change reaches is answered without changing anything.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

@@ -32,5 +32,5 @@ export const changeFileContentOfAnyKind = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

@@ -192,5 +192,5 @@ export const renameFilePage = {
       statement: "One module reads the files beside a page both here and in the move of a page.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

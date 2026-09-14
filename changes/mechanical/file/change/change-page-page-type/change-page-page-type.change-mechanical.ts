@@ -75,5 +75,5 @@ export const changePagePageType = {
       statement: "Nothing here reads an argument off the command line.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

@@ -61,5 +61,5 @@ export const renameEntryKey = {
       statement: "Nothing here reads the index.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

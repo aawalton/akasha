@@ -48,5 +48,5 @@ export const renamePropertySignature = {
       statement: "A property declared outside the file as well is refused.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

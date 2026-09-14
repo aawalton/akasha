@@ -49,5 +49,5 @@ export const moveCodeExport = {
       statement: "Nothing here works out which passages the carrying leaves.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

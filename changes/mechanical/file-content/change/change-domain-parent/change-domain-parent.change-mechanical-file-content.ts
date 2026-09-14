@@ -77,5 +77,5 @@ export const changeDomainParent = {
       statement: "The list gained is written where the pages of the parent's type write that key.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent
