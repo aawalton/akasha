@@ -5,7 +5,6 @@ export const seatConditions = {
   type: "page-type",
   slug: "seat-conditions",
   definition: "what a seat settles for an agent before the agent starts working there",
-  pluralSlug: "seat-conditions",
   extends: ["page-type/page"],
   parts: [
     "boolean-property/extended-context-available",
