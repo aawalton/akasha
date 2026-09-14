@@ -1,0 +1,79 @@
+import type { AgentHook } from "akasha/agents/hook/agent-hook/agent-hook.page-type.types.ts"
+
+export const blockSubagentAudit = {
+  id: "01a06906-100c-7bd1-92e8-8157b8483c37",
+  type: "agent-hook",
+  slug: "block-subagent-audit",
+  definition:
+    "a refusal of an `akasha audit` a subagent narrows, the bare call left through for anyone",
+  code: "ts",
+  test: "ts",
+  runsAt: ["PreToolUse"],
+  overTools: ["Bash"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "An audit is refused for the memory a run has rather than for the changes a run writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent is told from its seat by the subagent id the payload names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call the seat itself makes is not refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A prefix that only runs the call behind that prefix does not hide that call from this hook.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal says a run's cost.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run narrowed to named checks is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run narrowed to named paths is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run naming no check and no path asks the service, so that run is refused here by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A narrowed run asks the service like a bare run, so the cost this refusal names is gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run's cost is said as a figure measured rather than as a figure supposed.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Every akasha command but `audit` is no business of this hook.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A payload naming no subagent leaves the call as the call is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A payload this cannot read judges nothing and exits so the dispatch refuses.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A payload that parses and is not an object is a payload this cannot read.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A harness naming no subagent refuses nobody rather than refusing everyone.",
+    },
+  ],
+} as const satisfies AgentHook

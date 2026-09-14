@@ -1,0 +1,79 @@
+import type { AgentHook } from "akasha/agents/hook/agent-hook/agent-hook.page-type.types.ts"
+
+export const stateSubagent = {
+  id: "01a0598f-18de-7467-a5af-de60b85fefd7",
+  type: "agent-hook",
+  slug: "state-subagent",
+  definition: "a subagent's page, put up when it starts and taken away when it stops",
+  code: "ts",
+  test: "ts",
+  runsAt: ["SubagentStart", "SubagentStop"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A subagent that exists is a page that exists.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent its seat has seen return has no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop ends a turn rather than a subagent, so a stop alone takes no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent the seat's transcript still names as one that has not returned keeps its page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent resuming takes up the page that subagent had.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat is named by the page the index has for the id the call runs under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A payload naming no subagent leaves the subagent pages unchanged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start naming no kind puts up nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This hook changes the subagent pages rather than judging a call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This hook refuses nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The subagent begins and ends either way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat's id reaches the take-down as the seat's id reaches the put-up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing refused after this hook stepped aside leaves its reason in a log.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A page a refusal left unwritten is put up from that log.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing left to finish here and the restore of a dirty akasha take one lock.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page half-landed by a process that died is swept by the next process to take that lock.",
+    },
+  ],
+} as const satisfies AgentHook

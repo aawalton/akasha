@@ -1,4 +1,4 @@
-import { mendedFor } from "akasha/agents/hooks/modules/links/hook-links.module.code.ts"
+import { mendedFor } from "akasha/agents/hook/modules/links/hook-links.module.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {

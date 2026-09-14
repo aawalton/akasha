@@ -1,7 +1,4 @@
-import {
-  eventsIn,
-  hooksIn,
-} from "akasha/agents/hooks/modules/dispatch/hook-dispatch.module.code.ts"
+import { eventsIn, hooksIn } from "akasha/agents/hook/modules/dispatch/hook-dispatch.module.code.ts"
 import { linesOf, windowOf } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"

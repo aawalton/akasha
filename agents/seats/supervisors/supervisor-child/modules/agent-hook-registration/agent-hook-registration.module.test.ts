@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Valued } from "akasha/agents/hooks/modules/dispatch/hook-dispatch.module.code.ts"
+import type { Valued } from "akasha/agents/hook/modules/dispatch/hook-dispatch.module.code.ts"
 import { runnableIn } from "akasha/agents/seats/supervisors/supervisor-child/modules/agent-hook-registration/agent-hook-registration.module.code.ts"
 
 const NOWHERE = "/no-such-checkout"
