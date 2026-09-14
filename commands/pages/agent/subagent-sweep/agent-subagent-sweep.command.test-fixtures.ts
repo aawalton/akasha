@@ -105,7 +105,7 @@ function bodyOf(seatName: string, own: string, agentId: string): string {
     `export const ${slug} = {`,
     '  pageTypeSlug: "subagent",',
     `  slug: ${JSON.stringify(`${seatName}-${own}`)},`,
-    `  principalSeatName: ${JSON.stringify(seatName)},`,
+    `  principalSeatName: ${JSON.stringify(`seat/${seatName}`)},`,
     '  assignmentSlug: "domain/akasha",',
     '  dispatchedAs: "Explore",',
     `  agentId: ${JSON.stringify(agentId)},`,
