@@ -51,4 +51,5 @@ export const changePagePagePropertyText = {
   ],
   changeKind: "change-restated",
   maxCpuSeconds: 30,
+  maxMemoryMb: 1024,
 } as const satisfies ChangeAgent
