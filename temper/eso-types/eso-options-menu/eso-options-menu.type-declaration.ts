@@ -8,15 +8,15 @@ export const esoOptionsMenu = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name here keeps the spelling the game gives that name.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "One declaration here serves every package reaching the name.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

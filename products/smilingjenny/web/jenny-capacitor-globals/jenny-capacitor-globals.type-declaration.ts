@@ -8,11 +8,11 @@ export const jennyCapacitorGlobals = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The shell putting these globals on the window is built outside akasha.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A browser outside that shell carries no such global.",
     },
   ],

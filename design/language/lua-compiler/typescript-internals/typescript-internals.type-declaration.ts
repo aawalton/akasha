@@ -8,11 +8,11 @@ export const typescriptInternals = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each name here is a name the compiler ships without declaring.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A program's options are read as the Lua compiler's options.",
     },
   ],

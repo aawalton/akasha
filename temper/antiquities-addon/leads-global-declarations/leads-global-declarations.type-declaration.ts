@@ -8,7 +8,7 @@ export const leadsGlobalDeclarations = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A key here is spelled as the markup that calls the key spells the key.",
     },
   ],

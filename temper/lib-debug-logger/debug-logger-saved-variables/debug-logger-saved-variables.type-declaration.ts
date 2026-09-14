@@ -8,7 +8,7 @@ export const debugLoggerSavedVariables = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The settings and the log are kept apart.",
     },
   ],

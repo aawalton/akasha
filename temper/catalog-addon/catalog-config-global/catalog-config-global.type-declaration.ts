@@ -8,11 +8,11 @@ export const catalogConfigGlobal = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game loads the side file before the compiled add-on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty side file leaves the name with nothing.",
     },
   ],

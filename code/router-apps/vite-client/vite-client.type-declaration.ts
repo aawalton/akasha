@@ -8,12 +8,12 @@ export const viteClient = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An asset import and the bundler's environment are declared by the bundler itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every router app compiles against the same bundler declarations.",
     },
   ],

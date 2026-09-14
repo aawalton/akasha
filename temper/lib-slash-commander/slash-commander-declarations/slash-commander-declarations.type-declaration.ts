@@ -8,11 +8,11 @@ export const slashCommanderDeclarations = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the names the code here reaches are declared.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "This page restates declarations the game keeps outside akasha.",
     },
   ],

@@ -9,12 +9,12 @@ export const destinationsPreviewControls = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A control here is made by the settings library from a reference the destinations menu passes.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

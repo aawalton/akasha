@@ -8,11 +8,11 @@ export const esoSandbox = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The compiler's own runtime library is compiled against the names declared here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The names the game adds to Lua are apart from the names Lua itself has.",
     },
   ],

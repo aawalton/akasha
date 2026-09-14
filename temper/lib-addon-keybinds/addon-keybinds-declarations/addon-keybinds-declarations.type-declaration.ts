@@ -8,15 +8,15 @@ export const addonKeybindsDeclarations = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the names the code here reaches are declared.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name more than one package reaches is declared in the shared game types.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

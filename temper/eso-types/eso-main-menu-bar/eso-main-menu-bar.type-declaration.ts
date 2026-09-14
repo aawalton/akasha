@@ -8,16 +8,16 @@ export const esoMainMenuBar = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An `Lmm` name describes a game table the game itself leaves unnamed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A method takes an explicit `this` parameter so the built Lua calls that method with a colon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A descriptor is spelled out at each use rather than named once.",
     },
   ],

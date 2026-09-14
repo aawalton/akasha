@@ -8,7 +8,7 @@ export const leadsWindowDeclarations = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every name here is declared by the markup rather than by any code.",
     },
   ],

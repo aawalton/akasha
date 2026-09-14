@@ -8,11 +8,11 @@ export const esoKeybindings = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name here is the game's own rather than a library's.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Rebinding is a protected call the game refuses to an untrusted caller.",
     },
   ],

@@ -8,15 +8,15 @@ export const orderListBoxPublished = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The XML and the name here are spelled the same way.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A handler is unset until the widget builds a row.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

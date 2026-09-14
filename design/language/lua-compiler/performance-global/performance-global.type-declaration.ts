@@ -8,7 +8,7 @@ export const performanceGlobal = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global declared here is implemented by the compiler's own runtime library.",
     },
   ],

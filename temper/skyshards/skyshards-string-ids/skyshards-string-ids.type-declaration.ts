@@ -8,7 +8,7 @@ export const skyshardsStringIds = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The text these identifiers have is English alone.",
     },
   ],

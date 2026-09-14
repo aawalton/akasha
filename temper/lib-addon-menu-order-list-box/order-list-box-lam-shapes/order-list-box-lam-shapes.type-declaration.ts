@@ -8,15 +8,15 @@ export const orderListBoxLamShapes = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name here is the menu library's own and is never renamed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The library global is merged rather than declared a second time.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

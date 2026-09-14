@@ -8,7 +8,7 @@ export const languageExtensions = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each name here is a name the compiler gives a meaning of its own at a call site.",
     },
   ],

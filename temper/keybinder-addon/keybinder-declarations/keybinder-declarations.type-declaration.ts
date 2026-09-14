@@ -8,11 +8,11 @@ export const keybinderDeclarations = {
   d: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shape a second package reaches is declared in the shared game types.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The shapes left here are the shapes the keybinder add-on alone reads.",
     },
   ],
