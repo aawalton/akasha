@@ -33,6 +33,10 @@ export const componentPropertyGroup = {
       invariantKind: "departure",
       statement: "A page carrying the group states nothing about these files at all.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A component group's code file exports a component named `Drawing`.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
