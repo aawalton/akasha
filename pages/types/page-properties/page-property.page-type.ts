@@ -13,6 +13,7 @@ export const pageProperty = {
     "boolean-property/nullable",
     "boolean-property/runs-file-length",
     "boolean-property/sorted",
+    "file-property/shape",
     "number-property/max-count",
     "number-property/max-length",
     "relation-property/generator",
@@ -29,6 +30,7 @@ export const pageProperty = {
     { pageProperty: "file-property/types", required: false, many: false },
     { pageProperty: "boolean-property/nullable", required: false, many: false },
     { pageProperty: "boolean-property/sorted", required: false, many: false },
+    { pageProperty: "file-property/shape", required: false, many: false },
   ],
   invariants: [
     {

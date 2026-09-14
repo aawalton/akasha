@@ -1,5 +1,6 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { AllowsTmpPaths } from "akasha/pages/types/properties/allows-tmp-paths.boolean-property.types.ts"
+import type { Carried } from "akasha/pages/types/properties/carried.file-property.types.ts"
 import type { DetailConfig } from "akasha/pages/types/properties/detail-config.record-property.types.ts"
 import type { DrawnOffline } from "akasha/pages/types/properties/drawn-offline.boolean-property.types.ts"
 import type { ExtendsType } from "akasha/pages/types/properties/extends-type.relation-property.types.ts"
@@ -41,4 +42,5 @@ export type PageType = Domain & {
   propertyBadgeComponent?: PropertyBadgeComponent
   propertyRowComponent?: PropertyRowComponent
   drawnOffline?: DrawnOffline
+  carried?: Carried
 }
