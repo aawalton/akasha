@@ -69,8 +69,32 @@ export const sweepSubagentPages = {
       statement: "A tick is allowed longer than that wait, so a held lock ends a tick gently.",
     },
     {
+      invariantKind: "constraint",
+      statement: "systemd runs one tick of a unit at a time, whatever the timer does meanwhile.",
+    },
+    {
       invariantKind: "departure",
-      statement: "A tick runs less often than it is allowed to last, so no tick meets its next.",
+      statement:
+        "A timer elapsing during a tick joins that tick rather than starting a second one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An interval under a tick's own ceiling is therefore safe and costs a skipped tick.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "Reading which pages carry a stop costs a quarter second and 135 MB over 24 pages.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "That reading is the whole of a tick's work where no page carries a stop.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "That cheap reading shares this clock with the full census rather than running oftener.",
     },
     {
       invariantKind: "constraint",
