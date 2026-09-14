@@ -9,15 +9,15 @@ set -euo pipefail
 # did not follow. Nothing said so: a seat reader at a path that is not there answers nothing, and
 # the line simply came out short. Walking up to the folder that holds the seats survives the move.
 AKASHA=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)
-while [ "$AKASHA" != "/" ] && [ ! -d "$AKASHA/agents" ]; do
+while [ "$AKASHA" != "/" ] && [ ! -d "$AKASHA/agent" ]; do
   AKASHA=$(dirname "$AKASHA")
 done
-if [ ! -d "$AKASHA/agents" ]; then
-  printf 'statusline: no folder above this one holds agents\n' >&2
+if [ ! -d "$AKASHA/agent" ]; then
+  printf 'statusline: no folder above this one holds agent\n' >&2
   exit 1
 fi
 BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")
-SEAT_READER="$AKASHA/agents/seats/page/modules/seat-reading/seat-reading.module.code.ts"
+SEAT_READER="$AKASHA/agent/seats/page/modules/seat-reading/seat-reading.module.code.ts"
 
 INPUT=$(cat)
 
@@ -25,9 +25,9 @@ SESSION_ID=$(echo "$INPUT" | jq -r '.session_id // "unknown"' 2>/dev/null || ech
 
 AGENT_COUNT=0
 if [ -n "${AGENT_ID:-}" ]; then
-  AGENT_COUNT=$("$BUN_BIN" "$AKASHA/agents/seats/fleet/modules/seat-children/seat-children.module.code.ts" "$AGENT_ID" 2>/dev/null || echo 0)
+  AGENT_COUNT=$("$BUN_BIN" "$AKASHA/agent/seats/fleet/modules/seat-children/seat-children.module.code.ts" "$AGENT_ID" 2>/dev/null || echo 0)
   case "$AGENT_COUNT" in '' | *[!0-9]*) AGENT_COUNT=0 ;; esac
-  printf '%s' "$INPUT" | "$BUN_BIN" "$AKASHA/agents/seats/usage/modules/keep/seat-usage-keep.module.code.ts" "$AGENT_ID" >/dev/null 2>&1 || true
+  printf '%s' "$INPUT" | "$BUN_BIN" "$AKASHA/agent/seats/usage/modules/keep/seat-usage-keep.module.code.ts" "$AGENT_ID" >/dev/null 2>&1 || true
 fi
 
 MODEL_DISPLAY=""

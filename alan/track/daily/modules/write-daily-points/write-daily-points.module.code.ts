@@ -78,10 +78,6 @@ export function writeNutritionPoints(
   return writeDailyReading(dayStr, "nutritionPoints", nutritionPoints)
 }
 
-export function writeTaskPoints(dayStr: string, taskPoints: number): Promise<WriteOutcome> {
-  return writeDailyReading(dayStr, "taskPoints", taskPoints)
-}
-
 export function writeWisdomWords(dayStr: string, wisdomWords: number): Promise<WriteOutcome> {
   return writeDailyReading(dayStr, "wisdomWords", wisdomWords)
 }
