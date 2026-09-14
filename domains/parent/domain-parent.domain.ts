@@ -21,7 +21,8 @@ export const domainParent = {
     },
     {
       invariantKind: "departure",
-      statement: "A domain's folder sits directly in its parent domain's folder.",
+      statement:
+        "A page of page type `domain` sits directly in the folder of the page naming it a part.",
     },
     {
       invariantKind: "departure",
