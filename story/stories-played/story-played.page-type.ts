@@ -11,6 +11,7 @@ export const storyPlayed = {
   parts: [
     "file-property/prose",
     "module/game-beside",
+    "module/played-channel",
     "module/played-rows",
     "module/prose-beside",
     "relation-property/world",
