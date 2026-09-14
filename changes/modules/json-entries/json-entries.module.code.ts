@@ -44,7 +44,7 @@ function commaBefore(text: string, from: number): number {
   return from
 }
 
-export function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
+function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
   const from = node.getFullStart()
   const to = node.getEnd()
   let at = to

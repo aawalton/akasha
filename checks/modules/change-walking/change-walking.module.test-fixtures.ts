@@ -45,7 +45,7 @@ function bodyAt(root: string, path: string, body: string): undefined {
   return undefined
 }
 
-export function worldOf(paths: readonly string[]): string {
+function worldOf(paths: readonly string[]): string {
   const root = scratch.rootFor("akasha-change-walking-")
   for (const path of paths) {
     bodyAt(root, path, `export const held = "${path}"\n`)
