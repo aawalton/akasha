@@ -21,6 +21,7 @@ export const temperProgress = {
     "page-type/temper-rule-goal",
     "page-type/temper-rule-template",
     "page-type/temper-task",
+    "page-type/temper-task-progress",
     "page-type/temper-watcher-enrolment",
     "readout/inboxes-temper-tasks",
   ],
