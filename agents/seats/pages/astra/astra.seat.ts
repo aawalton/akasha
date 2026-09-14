@@ -7,7 +7,7 @@ export const astra = {
   persona: "astra",
   assignmentSlug: "initiative/astra-index-cleanup",
   role: "definer",
-  person: "alan",
+  person: "person/alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
