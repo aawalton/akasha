@@ -143,21 +143,3 @@ export function mergeInventoryContext(
     transmuteCrystalAmount: inventory?.transmuteCrystalAmount,
   }
 }
-
-export function buildRuleMatcherContext(
-  completionCharacters: readonly CompletionCharacterInput[],
-  characterBuilds: readonly CharacterBuildInput[],
-  completionCompanions: readonly CompletionCompanionInput[],
-  companionBuilds: readonly CompanionBuildInput[],
-  inventory: InventoryDatabase | null,
-  automationSettings?: AutomationSettings
-): RuleMatcherContext {
-  const buildDerived = buildDerivedContext(
-    completionCharacters,
-    characterBuilds,
-    completionCompanions,
-    companionBuilds,
-    automationSettings
-  )
-  return mergeInventoryContext(buildDerived, inventory)
-}
