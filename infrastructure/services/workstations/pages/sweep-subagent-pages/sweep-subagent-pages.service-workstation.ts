@@ -7,9 +7,9 @@ export const sweepSubagentPages = {
   definition: "the service taking away every subagent page the census judges stale",
   enabled: true,
   systemd: {
-    schedule: "*:0/5",
+    schedule: "*:0/15",
     jitterSeconds: 60,
-    startTimeoutSeconds: 300,
+    startTimeoutSeconds: 420,
   },
   invariants: [
     {
@@ -58,11 +58,40 @@ export const sweepSubagentPages = {
     },
     {
       invariantKind: "constraint",
-      statement: "A tick costs about three seconds and 300 MB whatever that tick finds.",
+      statement: "A tick costs 5 to 19 seconds of processor and peaks between 1 and 2 GB.",
     },
     {
       invariantKind: "constraint",
-      statement: "Most ticks find nothing, since a returning subagent's page goes at its own end.",
+      statement: "A tick waits up to 300 seconds for the landing lock every seat shares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tick is allowed longer than that wait, so a held lock ends a tick gently.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tick runs less often than it is allowed to last, so no tick meets its next.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A tick reads the tree and then waits, so waiting longer means more moved under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tick whose paths moved while it waited writes nothing and names what moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That tick ran rather than failed, and the tick after it reads the tree again.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A tick keeps no edits, so a tick leaves nothing behind for the next tick.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page gone between the census and the take leaves the take saying so.",
     },
     {
       invariantKind: "departure",
