@@ -21,11 +21,11 @@ export const ki = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pages Ki keeps here are reached by Ki alone among the people outside akasha.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type here serves Ki as the matching page type of Alan's serves Alan.",
     },
   ],
