@@ -28,7 +28,6 @@ export const temperBuildDeployChecks = {
     "module/check-addon-removed-refs",
     "module/check-addon-sandbox-load",
     "module/check-addon-sandbox-safety",
-    "module/check-eso-declaration-fresh",
     "module/cli-args",
     "module/error-message",
     "module/eso-base-game-string-ids",
