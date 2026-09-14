@@ -22,6 +22,12 @@ const SAID =
 export type Judging = {
   readonly pageTypes: ReadonlySet<string>
   readonly generated: (path: string) => boolean
+  readonly listed: (pageTypeSlug: string, slug: string) => boolean
+}
+
+export type Named = {
+  readonly pageTypeSlug: string
+  readonly slug: string
 }
 
 export function judgedAt(judging: Judging, path: string): boolean {
@@ -30,18 +36,21 @@ export function judgedAt(judging: Judging, path: string): boolean {
   return !judging.generated(path)
 }
 
-export function addressed(pageTypes: ReadonlySet<string>, text: string): boolean {
+export function addressed(pageTypes: ReadonlySet<string>, text: string): Named | null {
   const said = addressIn(text)
-  if (said.kind === "id" || said.kind === "bare") return false
-  if (!pageTypes.has(said.pageTypeSlug) || !lowerKebabCase(said.slug)) return false
-  return said.kind === "qualified" || lowerKebabCase(said.scope)
+  if (said.kind === "id" || said.kind === "bare") return null
+  if (!pageTypes.has(said.pageTypeSlug) || !lowerKebabCase(said.slug)) return null
+  if (said.kind === "scoped" && !lowerKebabCase(said.scope)) return null
+  return { pageTypeSlug: said.pageTypeSlug, slug: said.slug }
 }
 
 export function found(judging: Judging, path: string, text: string): readonly string[] {
   if (!judgedAt(judging, path)) return []
   const said: string[] = []
   for (const one of spelledIn(path, text)) {
-    if (!addressed(judging.pageTypes, one.text)) continue
+    const named = addressed(judging.pageTypes, one.text)
+    if (named === null) continue
+    if (!judging.listed(named.pageTypeSlug, named.slug)) continue
     said.push(`\`${one.text}\` spells a page's address as a plain string — ${SAID}`)
   }
   return said
@@ -67,5 +76,6 @@ export const judgingFor = heldPerShadow((shadow: Shadow): Judging => {
   return {
     pageTypes: pageTypesFor(shadow),
     generated: (path) => generatedIn(facing, path),
+    listed: (pageTypeSlug, slug) => shadow.index.listedAt(pageTypeSlug, slug).length > 0,
   }
 })

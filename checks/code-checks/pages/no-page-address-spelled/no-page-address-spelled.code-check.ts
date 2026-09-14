@@ -24,7 +24,7 @@ export const noPageAddressSpelled = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether the address names a page that is there is not judged.",
+      statement: "A string naming no page the index lists is no address.",
     },
     {
       invariantKind: "departure",

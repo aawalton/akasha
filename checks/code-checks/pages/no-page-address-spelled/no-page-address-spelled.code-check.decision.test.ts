@@ -30,32 +30,37 @@ test("each spelling is named on its own", () => {
 })
 
 test("a string opening with no page type is no address", () => {
-  expect(addressed(JUDGING.pageTypes, "nowhere/held")).toBe(false)
+  expect(addressed(JUDGING.pageTypes, "nowhere/held")).toBeNull()
   expect(reasonsIn(given(HELD, 'const AT = "nowhere/held"\n'))).toEqual([])
 })
 
+test("a string naming no page that is there is passed over", () => {
+  expect(addressed(JUDGING.pageTypes, "module/gone")).not.toBeNull()
+  expect(reasonsIn(given(HELD, 'const AT = "module/gone"\n'))).toEqual([])
+})
+
 test("a bare slug is no address", () => {
-  expect(addressed(JUDGING.pageTypes, "held")).toBe(false)
+  expect(addressed(JUDGING.pageTypes, "held")).toBeNull()
 })
 
 test("an id is no address", () => {
-  expect(addressed(JUDGING.pageTypes, "01a04e11-9f98-775b-846d-a9985a5ebd21")).toBe(false)
+  expect(addressed(JUDGING.pageTypes, "01a04e11-9f98-775b-846d-a9985a5ebd21")).toBeNull()
 })
 
 test("a specifier is no address, because its slug carries a dot", () => {
   const body = 'import { held } from "akasha/command-system/held.module.code.ts"\n'
   expect(reasonsIn(given(HELD, body))).toEqual([])
-  expect(addressed(JUDGING.pageTypes, "module/held.module.code.ts")).toBe(false)
+  expect(addressed(JUDGING.pageTypes, "module/held.module.code.ts")).toBeNull()
 })
 
 test("a string whose slug is not lower kebab case is no address", () => {
-  expect(addressed(JUDGING.pageTypes, "module/Held")).toBe(false)
-  expect(addressed(JUDGING.pageTypes, "module/held one")).toBe(false)
-  expect(addressed(JUDGING.pageTypes, "module/")).toBe(false)
+  expect(addressed(JUDGING.pageTypes, "module/Held")).toBeNull()
+  expect(addressed(JUDGING.pageTypes, "module/held one")).toBeNull()
+  expect(addressed(JUDGING.pageTypes, "module/")).toBeNull()
 })
 
 test("a string parted more than twice is no address", () => {
-  expect(addressed(JUDGING.pageTypes, "page-property/module/code/more")).toBe(false)
+  expect(addressed(JUDGING.pageTypes, "page-property/module/code/more")).toBeNull()
 })
 
 test("a page is passed over", () => {

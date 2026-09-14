@@ -3,6 +3,7 @@ import {
   reasonsOver,
 } from "akasha/checks/code-checks/pages/no-page-address-spelled/no-page-address-spelled.code-check.decision.code.ts"
 import {
+  filing,
   founded,
   typed,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
@@ -27,9 +28,12 @@ export const SCOPED = "page-property/module/code"
 
 const PAGE_TYPES: ReadonlySet<string> = new Set(["module", "page-type", "page-property"])
 
+const LISTED: ReadonlySet<string> = new Set([ADDRESS, "page-type/module", "page-property/code"])
+
 export const JUDGING: Judging = {
   pageTypes: PAGE_TYPES,
   generated: (path) => path === GENERATED,
+  listed: (pageTypeSlug, slug) => LISTED.has(`${pageTypeSlug}/${slug}`),
 }
 
 export const given = bodiesIn(ROOT)
@@ -46,6 +50,7 @@ export function rooted(
   founded(root)
   typed(root, "module", "page")
   typed(root, "page-type", "page")
+  filing(root, "module", "held", "id-held")
   for (const [path, body] of Object.entries(files)) writing(root, path, body)
   return root
 }

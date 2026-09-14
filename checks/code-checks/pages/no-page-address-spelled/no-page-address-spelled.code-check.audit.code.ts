@@ -9,12 +9,14 @@ import {
   facingOn,
   generatedIn,
 } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 function judgingOn(root: string): Judging {
   const facing = facingOn(root)
   return {
     pageTypes: pageTypesIn(root),
     generated: (path) => generatedIn(facing, path),
+    listed: (pageTypeSlug, slug) => listedAt(root, pageTypeSlug, slug).length > 0,
   }
 }
 
