@@ -158,7 +158,7 @@ function toldApart(name: string): boolean {
 export function namesToldIn(path: string, text: string): readonly string[] | null {
   const found = exportsIn(parsedAs(path, text))
   if (found.includes(ANYTHING)) return null
-  return found.filter(toldApart)
+  return [...new Set(found.filter(toldApart))]
 }
 
 function spelledBy(node: ts.Node): string | null {

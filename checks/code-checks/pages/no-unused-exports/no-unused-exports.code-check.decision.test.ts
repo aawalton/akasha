@@ -89,6 +89,17 @@ test("the values a file exports are told apart by name", () => {
   expect(namesToldIn(AT, HELD_TEXT)).toEqual(["held", "spare"])
 })
 
+test("a name a file exports more than once is told once", () => {
+  const text =
+    "export function held(one: string): string\n" +
+    "export function held(one: number): number\n" +
+    "export function held(one: string | number): string | number {\n" +
+    "  return one\n" +
+    "}\n"
+
+  expect(namesToldIn(AT, text)).toEqual(["held"])
+})
+
 test("a file exporting every name of another file is judged by nothing", () => {
   expect(namesToldIn(AT, 'export * from "akasha/one.module.code.ts"\n')).toBeNull()
 })

@@ -23,6 +23,10 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
+      statement: "A name exported more than once in a file is judged once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file no file imports has every value it exports refused.",
     },
     {
