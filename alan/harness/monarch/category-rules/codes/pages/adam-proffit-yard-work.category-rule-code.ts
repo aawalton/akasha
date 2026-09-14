@@ -6,5 +6,5 @@ export const adamProffitYardWork = {
   slug: "adam-proffit-yard-work",
   title: "Adam proffit yard work",
   matches: [{ key: "merchant", comparison: "is", values: ["adam proffit"] }],
-  category: "house",
+  category: "monarch-category/house",
 } as const satisfies CategoryRuleCode

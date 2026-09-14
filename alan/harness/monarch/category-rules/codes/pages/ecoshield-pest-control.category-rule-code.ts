@@ -6,5 +6,5 @@ export const ecoshieldPestControl = {
   slug: "ecoshield-pest-control",
   title: "Ecoshield pest control",
   matches: [{ key: "merchant", comparison: "is", values: ["ecoshield"] }],
-  category: "house",
+  category: "monarch-category/house",
 } as const satisfies CategoryRuleCode

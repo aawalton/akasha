@@ -9,5 +9,5 @@ export const youtubePremium = {
     { key: "merchant", comparison: "is", values: ["youtube premium"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "shopping",
+  category: "monarch-category/shopping",
 } as const satisfies CategoryRuleCode

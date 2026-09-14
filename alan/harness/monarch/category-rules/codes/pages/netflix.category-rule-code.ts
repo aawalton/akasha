@@ -9,5 +9,5 @@ export const netflix = {
     { key: "merchant", comparison: "is", values: ["netflix"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "shopping",
+  category: "monarch-category/shopping",
 } as const satisfies CategoryRuleCode

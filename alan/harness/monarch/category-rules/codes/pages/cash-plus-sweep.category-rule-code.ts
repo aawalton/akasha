@@ -9,5 +9,5 @@ export const cashPlusSweep = {
     { key: "merchant", comparison: "is", values: ["cash plus sweep"] },
     { key: "account", comparison: "is", values: ["2749"] },
   ],
-  category: "transfer",
+  category: "monarch-category/transfer",
 } as const satisfies CategoryRuleCode

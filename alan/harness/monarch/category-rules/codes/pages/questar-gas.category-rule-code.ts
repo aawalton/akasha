@@ -10,6 +10,6 @@ export const questarGas = {
     { key: "account", comparison: "is", values: ["7151"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "utilities",
+  category: "monarch-category/utilities",
   ruleNote: "Natural gas bill",
 } as const satisfies CategoryRuleCode

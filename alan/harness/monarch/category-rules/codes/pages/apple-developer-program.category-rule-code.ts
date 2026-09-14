@@ -9,6 +9,6 @@ export const appleDeveloperProgram = {
     { key: "merchant", comparison: "is", values: ["apple"] },
     { key: "amount", comparison: "is", values: ["-106.36"] },
   ],
-  category: "alans-spending",
+  category: "monarch-category/alans-spending",
   ruleNote: "Apple Developer Program annual membership",
 } as const satisfies CategoryRuleCode

@@ -10,5 +10,5 @@ export const venmoTopUp = {
     { key: "account", comparison: "is", values: ["4042", "7151"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "transfer",
+  category: "monarch-category/transfer",
 } as const satisfies CategoryRuleCode

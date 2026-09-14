@@ -10,6 +10,6 @@ export const royalRoadJoseph = {
     { key: "sign", comparison: "is", values: ["negative"] },
     { key: "month", comparison: "is", values: ["september"] },
   ],
-  category: "kids-learning",
+  category: "monarch-category/kids-learning",
   ruleNote: "Royal Road annual subscription — Joseph's",
 } as const satisfies CategoryRuleCode

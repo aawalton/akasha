@@ -9,6 +9,6 @@ export const primeVideoAdFree = {
     { key: "merchant", comparison: "is", values: ["digital purchase"] },
     { key: "amount", comparison: "is", values: ["-5.36"] },
   ],
-  category: "shopping",
+  category: "monarch-category/shopping",
   ruleNote: "Prime Video Ultra subscription",
 } as const satisfies CategoryRuleCode

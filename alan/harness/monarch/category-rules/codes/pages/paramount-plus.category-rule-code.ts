@@ -9,5 +9,5 @@ export const paramountPlus = {
     { key: "merchant", comparison: "is", values: ["paramount plus"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "shopping",
+  category: "monarch-category/shopping",
 } as const satisfies CategoryRuleCode

@@ -9,5 +9,5 @@ export const jiffyLube = {
     { key: "merchant", comparison: "is", values: ["jiffy lube"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "transportation",
+  category: "monarch-category/transportation",
 } as const satisfies CategoryRuleCode

@@ -9,5 +9,5 @@ export const telnyx = {
     { key: "merchant", comparison: "is", values: ["telnyx"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "alans-spending",
+  category: "monarch-category/alans-spending",
 } as const satisfies CategoryRuleCode

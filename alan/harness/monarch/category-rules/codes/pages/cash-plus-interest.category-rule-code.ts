@@ -9,5 +9,5 @@ export const cashPlusInterest = {
     { key: "merchant", comparison: "is", values: ["interest"] },
     { key: "account", comparison: "is", values: ["2749"] },
   ],
-  category: "interest",
+  category: "monarch-category/interest",
 } as const satisfies CategoryRuleCode

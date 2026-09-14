@@ -9,5 +9,5 @@ export const brightPediatricDentistry = {
     { key: "merchant", comparison: "is", values: ["bright pediatric dentistry"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "medical",
+  category: "monarch-category/medical",
 } as const satisfies CategoryRuleCode

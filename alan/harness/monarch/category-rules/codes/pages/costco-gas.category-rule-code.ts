@@ -9,5 +9,5 @@ export const costcoGas = {
     { key: "merchant", comparison: "is", values: ["costco gas"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "transportation",
+  category: "monarch-category/transportation",
 } as const satisfies CategoryRuleCode

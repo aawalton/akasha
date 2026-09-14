@@ -9,5 +9,5 @@ export const lob = {
     { key: "merchant", comparison: "is", values: ["lob"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "alans-spending",
+  category: "monarch-category/alans-spending",
 } as const satisfies CategoryRuleCode

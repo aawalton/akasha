@@ -10,6 +10,6 @@ export const venmoCashOut = {
     { key: "account", comparison: "is", values: ["Personal Profile"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "transfer",
+  category: "monarch-category/transfer",
   counterpartWithinDays: 7,
 } as const satisfies CategoryRuleCode

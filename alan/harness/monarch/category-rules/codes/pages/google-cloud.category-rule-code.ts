@@ -9,5 +9,5 @@ export const googleCloud = {
     { key: "merchant", comparison: "is", values: ["google cloud"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "alans-spending",
+  category: "monarch-category/alans-spending",
 } as const satisfies CategoryRuleCode

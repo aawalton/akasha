@@ -9,5 +9,5 @@ export const disneyPlus = {
     { key: "merchant", comparison: "is", values: ["disney plus"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "shopping",
+  category: "monarch-category/shopping",
 } as const satisfies CategoryRuleCode
