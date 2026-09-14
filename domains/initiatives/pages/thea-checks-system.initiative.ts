@@ -15,13 +15,13 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "250 refusals: 148 only a test names, 101 a value nothing names, 1 only its own file names. alan 40, agents 38, story 26, pages 21, infrastructure 20, personas 19, code 19, temper 18, commands 16. Most sit in modules that are reached, so narrowing those takes no feature away; a file dead whole is where a feature leaves, and those wait on Alan.",
+        "210 refusals, 208 of them distinct. alan 38, agents 28, pages 20, infrastructure 20, story 18, personas 18, temper 17, code 14, checks 9. Most sit in modules that are reached, so narrowing those takes no feature away; a file dead whole is where a feature leaves, and those wait on Alan. An overloaded name was told once per signature until 7a31c6eab4a.",
     },
 
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "The pages-service migration left nine tombstones, each a body of one throw under a type promising a value. Alan repairs the idle gacha game behind them, and removes the rest: page-by-relation listing, the offline reading writes, the sms allowlist. Also gone: the domain and role message address, the persona points sources, the recurrence parser, the rules-engine partition prover. Wired: the completion category tree and the overall score.",
+        "About forty arms are built and reached by nothing, some eighty refusals, and they wait on Alan. Three are loose wires rather than dead code: nothing writes the rotated session three readers read, nothing decides whether a seat may be stopped alone, and the resume notice that degrades is the unwired one while the wired copy throws. The rest are whole capabilities, among them the simulator install, the story recommender, the persona image craft and the plain-language grammar.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
