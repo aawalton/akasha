@@ -9,6 +9,6 @@ export const davidWeber = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "paused",
 } as const satisfies Author

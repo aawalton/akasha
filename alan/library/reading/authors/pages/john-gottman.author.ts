@@ -9,7 +9,7 @@ export const johnGottman = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "in-progress",
   rank: "A",
 } as const satisfies Author
