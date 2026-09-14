@@ -15,6 +15,8 @@ const PAGE_PATH =
 const RUNS_TYPESCRIPT =
   "bun akasha/service-system/service-workstation/held-listening/held-listening.module.code.ts"
 
+const LOADED_SLUG = "sweep-log-days"
+
 const BASE = {
   id: "01a05a51-0000-7000-8000-00000000000a",
   type: "service-workstation",
@@ -197,4 +199,40 @@ test("a service stating one exit twice is written that exit once", () => {
 test("the accuracy a scheduled service states is written on that service's timer", () => {
   const text = timerUnitText(pageOf({ systemd: { schedule: "*:*:00", accuracySeconds: 1 } }))
   expect(text).toContain("AccuracySec=1")
+})
+
+test("a unit the loader starts is ordered after the pages service and wants it", () => {
+  const text = serviceUnitText(pageOf({ slug: LOADED_SLUG }))
+  expect(text).toContain("After=pages-service.service")
+  expect(text).toContain("Wants=pages-service.service")
+  expect(text.indexOf("After=")).toBeLessThan(text.indexOf("[Service]"))
+})
+
+test("a unit the loader does not start is ordered against the pages service by nothing", () => {
+  expect(serviceUnitText(pageOf({}))).not.toContain("pages-service")
+})
+
+test("what a loader-run service states it is ordered against joins the pages service", () => {
+  const text = serviceUnitText(
+    pageOf({ slug: LOADED_SLUG, systemd: { after: ["network-online.target"] } })
+  )
+  expect(text).toContain("After=network-online.target")
+  expect(text).toContain("After=pages-service.service")
+})
+
+test("a loader-run service stating the pages service is written it once", () => {
+  const text = serviceUnitText(
+    pageOf({ slug: LOADED_SLUG, systemd: { after: ["pages-service.service"] } })
+  )
+  expect(text.split("After=pages-service.service").length - 1).toBe(1)
+})
+
+test("every unit runs its command in the checkout, so a bare specifier resolves there", () => {
+  for (const one of [
+    pageOf({}),
+    pageOf({ slug: LOADED_SLUG }),
+    pageOf({ systemd: { schedule: "daily" } }),
+  ]) {
+    expect(serviceUnitText(one)).toContain("WorkingDirectory=%h/repos/akasha")
+  }
 })

@@ -94,5 +94,13 @@ export const unitWriting = {
       invariantKind: "departure",
       statement: "An exit code a service states joins that exit rather than replacing it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A unit the loader starts is ordered after the pages service and wants it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every unit runs its command in the checkout, so a bare specifier resolves there.",
+    },
   ],
 } as const satisfies Module

@@ -1,8 +1,10 @@
+import { loadedHere } from "akasha/infrastructure/services/workstations/modules/service-loading/service-loading.module.code.ts"
 import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
 
 const PATH_ENV =
   "%h/.bun/bin:%h/.local/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/bin:/usr/bin:/bin"
 const CHECKOUT = "%h/repos/akasha"
+const PAGES_UNIT = "pages-service.service"
 const SLICE = "background.slice"
 const SIGTERM_EXIT = 143
 const DEFAULT_RESTART = "always"
@@ -70,9 +72,15 @@ function opening(given: Service): readonly string[] {
 
 function orderingLines(given: Service): readonly string[] {
   const stated = given.service.systemd
+  const after = new Set(stated?.after ?? [])
+  const wants = new Set(stated?.wants ?? [])
+  if (loadedHere(given.service.slug)) {
+    after.add(PAGES_UNIT)
+    wants.add(PAGES_UNIT)
+  }
   const lines: string[] = []
-  for (const one of stated?.after ?? []) lines.push(`After=${one}`)
-  for (const one of stated?.wants ?? []) lines.push(`Wants=${one}`)
+  for (const one of after) lines.push(`After=${one}`)
+  for (const one of wants) lines.push(`Wants=${one}`)
   if (stated?.partOf !== undefined) lines.push(`PartOf=${stated.partOf}`)
   if (stated?.startLimitIntervalSeconds !== undefined) {
     lines.push(`StartLimitIntervalSec=${stated.startLimitIntervalSeconds}`)
