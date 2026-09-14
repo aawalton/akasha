@@ -6,7 +6,7 @@ export const commitmentNotAttachment = {
   slug: "commitment-not-attachment",
   title: "Commitment, not attachment",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

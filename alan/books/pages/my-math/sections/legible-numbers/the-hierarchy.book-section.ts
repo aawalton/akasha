@@ -6,7 +6,7 @@ export const theHierarchy = {
   slug: "the-hierarchy",
   title: "The hierarchy, and the index on the word",
   sectionOf: "alan-book/my-math",
-  partOfCollections: ["my-math", "book-section/my-math/legible-numbers"],
+  partOfCollections: ["alan-book/my-math", "book-section/my-math/legible-numbers"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

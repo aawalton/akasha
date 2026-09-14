@@ -8,7 +8,7 @@ export const eppie = {
   sectionOf: "alan-book/all-about-alan",
   description:
     "Eppie — a Faith-axis persona still in definition. Waiting page: she is not yet sourced; her function and rib await a future /abby session.",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/personas"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

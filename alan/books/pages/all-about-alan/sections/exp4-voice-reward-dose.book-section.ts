@@ -6,7 +6,7 @@ export const exp4VoiceRewardDose = {
   slug: "exp4-voice-reward-dose",
   title: "Exp 4 — voice-reward dose test",
   sectionOf: "book-section/all-about-alan/experiments",
-  partOfCollections: ["book-section/all-about-alan/experiments", "all-about-alan"],
+  partOfCollections: ["book-section/all-about-alan/experiments", "alan-book/all-about-alan"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

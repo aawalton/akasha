@@ -7,7 +7,7 @@ export const otherCitizenshipAndorra = {
   title: "Andorra",
   sectionOf: "book-section/second-passport/other-citizenship",
   description: "Andorra citizenship paths (May 2026 snapshot).",
-  partOfCollections: ["book-section/second-passport/other-citizenship", "my-projects"],
+  partOfCollections: ["book-section/second-passport/other-citizenship", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

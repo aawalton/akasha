@@ -6,7 +6,7 @@ export const wantingAsGauge = {
   slug: "wanting-as-gauge",
   title: "Wanting as a gauge",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const bookChapter004Inboxes = {
   title: "My inboxes",
   sectionOf: "alan-book/my-strategy",
   position: 4,
-  partOfCollections: ["my-strategy"],
+  partOfCollections: ["alan-book/my-strategy"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

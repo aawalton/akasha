@@ -8,7 +8,7 @@ export const natalie = {
   sectionOf: "alan-book/all-about-alan",
   description:
     "Natalie — Alan's Food on the Health axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/personas"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -6,7 +6,7 @@ export const extinctionModel = {
   slug: "extinction-model",
   title: "Safety — the extinction model",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/safety"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/safety"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

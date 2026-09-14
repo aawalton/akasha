@@ -6,7 +6,7 @@ export const stayLeaveLedger = {
   slug: "stay-leave-ledger",
   title: "The stay-or-leave ledger",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/central-loneliness"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/central-loneliness"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

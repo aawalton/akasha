@@ -8,7 +8,7 @@ export const solarPower = {
   sectionOf: "alan-book/my-projects",
   description:
     "Putting photovoltaic generation on the Provo house, and the envelope work that sets how much generation the house needs. The sections beneath hold the scope, the demand the system is sized against, the sizing itself, the pricing, the installers, and the interconnection the design must fit.",
-  partOfCollections: ["my-projects"],
+  partOfCollections: ["alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

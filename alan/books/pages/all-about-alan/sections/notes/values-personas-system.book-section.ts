@@ -6,7 +6,7 @@ export const valuesPersonasSystem = {
   slug: "values-personas-system",
   title: "The values-personas system",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

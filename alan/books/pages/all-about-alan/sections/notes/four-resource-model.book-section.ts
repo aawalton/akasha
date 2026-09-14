@@ -8,7 +8,7 @@ export const fourResourceModel = {
   sectionOf: "alan-book/all-about-alan",
   description:
     "Four-resource model — overview. Health (stress capacity), Mana (executive function), Stamina (physical energy), Safety (vagal tone). Each resource has its own doc; this file is the hub.",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

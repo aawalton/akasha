@@ -6,7 +6,10 @@ export const dryRunEvidence = {
   slug: "dry-run-evidence",
   title: "Exp-4 harness — dry-run evidence (agent-verified, no Alan)",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/experiments/exp4-voice-reward-dose"],
+  partOfCollections: [
+    "alan-book/all-about-alan",
+    "book-section/experiments/exp4-voice-reward-dose",
+  ],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

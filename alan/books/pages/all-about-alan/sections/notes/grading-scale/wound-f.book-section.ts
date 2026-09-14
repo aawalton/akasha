@@ -6,7 +6,7 @@ export const woundF = {
   slug: "wound-f",
   title: "The wound-F — stress of connection as a standing cost",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/grading-scale"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/grading-scale"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

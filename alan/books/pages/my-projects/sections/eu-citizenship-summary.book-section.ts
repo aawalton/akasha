@@ -6,7 +6,7 @@ export const euCitizenshipSummary = {
   slug: "eu-citizenship-summary",
   title: "Summary",
   sectionOf: "book-section/second-passport/eu-citizenship",
-  partOfCollections: ["book-section/second-passport/eu-citizenship", "my-projects"],
+  partOfCollections: ["book-section/second-passport/eu-citizenship", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

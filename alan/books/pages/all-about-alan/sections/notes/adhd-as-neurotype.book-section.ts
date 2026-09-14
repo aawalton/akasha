@@ -7,7 +7,7 @@ export const adhdAsNeurotype = {
   title: "ADHD as neurotype (working definition)",
   sectionOf: "alan-book/all-about-alan",
   description: "ADHD as a neurotype — Alan's working definition in his own terms.",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

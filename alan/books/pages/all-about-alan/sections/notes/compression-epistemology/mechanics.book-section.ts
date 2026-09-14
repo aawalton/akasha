@@ -6,7 +6,10 @@ export const mechanics = {
   slug: "mechanics",
   title: "Compression epistemology — mechanics",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/compression-epistemology"],
+  partOfCollections: [
+    "alan-book/all-about-alan",
+    "book-section/all-about-alan/compression-epistemology",
+  ],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

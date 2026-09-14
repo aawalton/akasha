@@ -6,7 +6,7 @@ export const workedExamples = {
   slug: "worked-examples",
   title: "The worked-examples wall",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/perfection-is-safe"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/perfection-is-safe"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

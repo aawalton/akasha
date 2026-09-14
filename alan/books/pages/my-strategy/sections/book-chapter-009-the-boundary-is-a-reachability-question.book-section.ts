@@ -7,7 +7,7 @@ export const bookChapter009TheBoundaryIsAReachabilityQuestion = {
   title: "The boundary is a reachability question",
   sectionOf: "alan-book/my-strategy",
   position: 9,
-  partOfCollections: ["my-strategy"],
+  partOfCollections: ["alan-book/my-strategy"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

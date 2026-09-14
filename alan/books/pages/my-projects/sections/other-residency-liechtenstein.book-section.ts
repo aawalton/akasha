@@ -7,7 +7,7 @@ export const otherResidencyLiechtenstein = {
   title: "Liechtenstein",
   sectionOf: "book-section/second-passport/other-residency",
   description: "Liechtenstein residency paths (May 2026 snapshot).",
-  partOfCollections: ["book-section/second-passport/other-residency", "my-projects"],
+  partOfCollections: ["book-section/second-passport/other-residency", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

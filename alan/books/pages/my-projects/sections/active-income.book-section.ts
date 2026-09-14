@@ -6,7 +6,7 @@ export const activeIncome = {
   slug: "active-income",
   title: "Active Income",
   sectionOf: "book-section/my-projects/second-passport",
-  partOfCollections: ["book-section/my-projects/second-passport", "my-projects"],
+  partOfCollections: ["book-section/my-projects/second-passport", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

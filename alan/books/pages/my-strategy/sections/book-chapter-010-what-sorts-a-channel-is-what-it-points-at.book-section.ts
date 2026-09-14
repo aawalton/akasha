@@ -7,7 +7,7 @@ export const bookChapter010WhatSortsAChannelIsWhatItPointsAt = {
   title: "What sorts a channel is what it points at",
   sectionOf: "alan-book/my-strategy",
   position: 10,
-  partOfCollections: ["my-strategy"],
+  partOfCollections: ["alan-book/my-strategy"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

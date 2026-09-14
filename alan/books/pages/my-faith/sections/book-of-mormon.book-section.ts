@@ -6,7 +6,7 @@ export const bookOfMormon = {
   slug: "book-of-mormon",
   title: "The Book of Mormon",
   sectionOf: "book-section/my-faith/sources",
-  partOfCollections: ["book-section/my-faith/sources", "my-faith"],
+  partOfCollections: ["book-section/my-faith/sources", "alan-book/my-faith"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

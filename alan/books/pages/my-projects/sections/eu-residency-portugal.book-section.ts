@@ -8,7 +8,7 @@ export const euResidencyPortugal = {
   sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Portugal residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/portugal.md.",
-  partOfCollections: ["book-section/second-passport/eu-residency", "my-projects"],
+  partOfCollections: ["book-section/second-passport/eu-residency", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

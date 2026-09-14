@@ -6,7 +6,7 @@ export const journal = {
   slug: "journal",
   title: "Journal",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["alan-book/all-about-alan"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

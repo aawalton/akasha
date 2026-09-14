@@ -6,7 +6,7 @@ export const origin = {
   slug: "origin",
   title: "Origin — the dig site",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/perfection-is-safe"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/perfection-is-safe"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

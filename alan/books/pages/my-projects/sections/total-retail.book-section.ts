@@ -7,7 +7,7 @@ export const totalRetail = {
   title: "Total Retail $/W",
   sectionOf: "book-section/solar-power/pricing",
   description: "Residential solar total retail $/W — national and Utah, cash vs financed.",
-  partOfCollections: ["book-section/solar-power/pricing", "my-projects"],
+  partOfCollections: ["book-section/solar-power/pricing", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const doubleEmpathyMechanism = {
   title: "Double-empathy mechanism",
   sectionOf: "alan-book/all-about-alan",
   partOfCollections: [
-    "all-about-alan",
+    "alan-book/all-about-alan",
     "book-section/all-about-alan/stateless-social-architecture",
   ],
   unit: "unit/words",

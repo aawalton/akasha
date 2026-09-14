@@ -7,7 +7,7 @@ export const legibleNumbers = {
   title: "Legible numbers",
   sectionOf: "alan-book/my-math",
   position: 1,
-  partOfCollections: ["my-math"],
+  partOfCollections: ["alan-book/my-math"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

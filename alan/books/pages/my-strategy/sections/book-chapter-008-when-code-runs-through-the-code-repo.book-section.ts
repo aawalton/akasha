@@ -7,7 +7,7 @@ export const bookChapter008WhenCodeRunsThroughTheCodeRepo = {
   title: "When code runs through the code repo",
   sectionOf: "alan-book/my-strategy",
   position: 8,
-  partOfCollections: ["my-strategy"],
+  partOfCollections: ["alan-book/my-strategy"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

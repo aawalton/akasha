@@ -8,7 +8,7 @@ export const pricing = {
   sectionOf: "book-section/my-projects/solar-power",
   description:
     "Rooftop solar pricing — component breakdown, levers, and cost-curve history for residential US (with Utah context).",
-  partOfCollections: ["book-section/my-projects/solar-power", "my-projects"],
+  partOfCollections: ["book-section/my-projects/solar-power", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

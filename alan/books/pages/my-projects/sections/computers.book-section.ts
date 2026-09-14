@@ -8,7 +8,7 @@ export const computers = {
   sectionOf: "book-section/solar-power/energy-demand",
   description:
     "12 high-end gaming PCs — per-system TDP breakdown, moderate vs heavy usage scenarios, annual kWh range, peak coincident draw, year-round flat profile.",
-  partOfCollections: ["book-section/solar-power/energy-demand", "my-projects"],
+  partOfCollections: ["book-section/solar-power/energy-demand", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const beginnings = {
   title: "My Strategy",
   sectionOf: "alan-book/my-strategy",
   position: 0,
-  partOfCollections: ["my-strategy"],
+  partOfCollections: ["alan-book/my-strategy"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

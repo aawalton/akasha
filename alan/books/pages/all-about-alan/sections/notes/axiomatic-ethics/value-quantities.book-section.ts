@@ -6,7 +6,7 @@ export const valueQuantities = {
   slug: "value-quantities",
   title: "Value quantities — state value, action value, and Sentience Weight",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -8,7 +8,7 @@ export const automaticitySystems = {
   sectionOf: "alan-book/all-about-alan",
   description:
     'Automaticity in Alan\'s brain — five distinct routes to "becoming automatic", three reduced and two intact.',
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

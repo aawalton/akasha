@@ -6,7 +6,7 @@ export const inverseRoutes = {
   slug: "inverse-routes",
   title: "Inverse routes to the same interior",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

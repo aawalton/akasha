@@ -6,7 +6,7 @@ export const bookChapter20260608ConnectionConversationWithJen = {
   slug: "book-chapter-2026-06-08-connection-conversation-with-jen",
   title: "Connection conversation with Jen",
   sectionOf: "alan-book/all-about-alan",
-  partOfCollections: ["all-about-alan", "book-section/all-about-alan/journal"],
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/journal"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

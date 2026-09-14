@@ -8,7 +8,7 @@ export const resource = {
   sectionOf: "book-section/solar-power/efficiency-factors",
   description:
     "Solar resource at Provo, UT — annual and monthly GHI/DNI, peak sun hours, altitude bonus. The denominator before any roof factor.",
-  partOfCollections: ["book-section/solar-power/efficiency-factors", "my-projects"],
+  partOfCollections: ["book-section/solar-power/efficiency-factors", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection
