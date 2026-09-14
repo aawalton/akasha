@@ -42,13 +42,3 @@ export function openedDayOf(roots: Roots, instant: Date): string {
   const opensNext = recordedOpeningAt(roots, next)
   return opensNext !== null && at >= opensNext ? next : day
 }
-
-export interface DayOpening {
-  readonly instant: string
-  readonly day: string
-}
-
-export function openedOn(roots: Roots, at: number): DayOpening {
-  const day = openedDayOf(roots, new Date(at))
-  return { instant: openingInstantOn(roots, day), day }
-}

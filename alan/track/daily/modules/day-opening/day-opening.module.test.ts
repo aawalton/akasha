@@ -4,7 +4,6 @@ import { dirname, join } from "node:path"
 import {
   openedDayOf,
   openedDayWindow,
-  openedOn,
   openingInstantOn,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
@@ -97,14 +96,6 @@ test("an instant before its own day opened counts to the day before", () => {
 test("an instant after its own day opened counts to that day", () => {
   const roots = sleptWorld("akasha-opened-within-")
   expect(openedDayOf(roots, new Date("2026-07-06T13:00:00.000Z"))).toBe(LATE)
-})
-
-test("an instant answers the day it fell in and the moment that day opened", () => {
-  const roots = sleptWorld("akasha-opened-on-")
-  expect(openedOn(roots, Date.parse("2026-07-04T20:00:00.000Z"))).toEqual({
-    instant: "2026-07-04T04:00:00.000Z",
-    day: SLEPT,
-  })
 })
 
 test("a day holding no sleep opens at six the previous evening in Utah", () => {
