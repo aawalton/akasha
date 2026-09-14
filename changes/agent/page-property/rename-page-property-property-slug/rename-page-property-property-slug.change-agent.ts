@@ -39,4 +39,5 @@ export const renamePagePropertyPropertySlug = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 120,
 } as const satisfies ChangeAgent
