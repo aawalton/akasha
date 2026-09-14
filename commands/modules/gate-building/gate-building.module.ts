@@ -10,7 +10,11 @@ export const gateBuilding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A module is loaded by name through a require made here and imported nowhere.",
+      statement: "A module is loaded by name through an import made here and named nowhere else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module is loaded by awaiting it, so a module the loader serves is reached.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +31,7 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "This file's own location is what the require made here resolves a name against.",
+      statement: "This file's own location is what the import made here resolves a name against.",
     },
     {
       invariantKind: "departure",

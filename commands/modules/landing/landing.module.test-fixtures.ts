@@ -1,5 +1,5 @@
 import { expect } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
@@ -45,8 +45,7 @@ export const git = gitIn
 export function repoWith(named: Readonly<Record<string, string | Uint8Array>>): string {
   const root = scratch.rootFor("akasha-landing-")
   git(root, ["init", "--quiet"])
-  git(root, ["config", "user.email", "held@nowhere"])
-  git(root, ["config", "user.name", "Held"])
+  appendFileSync(join(root, ".git", "config"), "[user]\n\temail = held@nowhere\n\tname = Held\n")
   excludingIndex(root)
   for (const [path, body] of Object.entries(named)) {
     const at = join(root, path)
@@ -280,7 +279,6 @@ export const pagesRepo = (): string =>
 export const filedFor = (id: string): readonly string[] => [
   `identity/page/id/${id}.jsonl`,
   "identity/page-type/domain/slug/a.jsonl",
-  "path/akasha/a.domain.ts.jsonl",
 ]
 
 const VOCABULARY: readonly (readonly [string, string])[] = [

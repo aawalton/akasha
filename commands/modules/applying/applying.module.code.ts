@@ -185,7 +185,7 @@ export async function applying(
   if (carried === null) {
     return notLanded(mistaking(keeping([noneSaid(given.root, page)])))
   }
-  const built = gateBuilt(given.root)
+  const built = await gateBuilt(given.root)
   if (broken === null && !("gate" in built)) {
     const unloadable = `the checks would not load — ${built.broken}`
     return notLanded(refusedBy(keeping([unloadable]), OPERATIONAL))

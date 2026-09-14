@@ -212,14 +212,10 @@ test("a change that takes a file away removes it and commits the removal", async
   expect(filesIn(root)).toEqual(besides("one.txt"))
 })
 
-test("a landing names the commit it landed in a slot the caller hands in", async () => {
+test("a landing names the commit it landed in a slot handed in, and on the list as prose", async () => {
   const said = await landedNoting(true)
   expect(said.commit).toBe(said.noting.commit)
   expect(said.noting.commit).not.toBeNull()
-})
-
-test("a landing names that commit on the caller's list as prose, not as a bare token", async () => {
-  const said = await landedNoting(true)
   expect(said.done).toEqual([`commit ${said.noting.commit}`])
 })
 
@@ -261,18 +257,11 @@ test("a change read against a commit that moved a path it carries is refused unw
   committedAgain(root, "akasha/a.domain.ts", `${A}\n`)
   const said = await landedMoving(root, read)
   expect("refusals" in said).toBe(true)
-  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("moved in between")
-  expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(`${A}\n`)
-})
-
-test("a refusal over a body that moved names the drop that leaves other edits kept", async () => {
-  const root = pagesRepo()
-  const read = baseOf(root)
-  committedAgain(root, "akasha/a.domain.ts", `${A}\n`)
-  const said = await landedMoving(root, read)
   const why = "refusals" in said ? said.refusals.join("\n") : ""
+  expect(why).toContain("moved in between")
   expect(why).toContain("a drop naming those paths")
   expect(why).toContain("leaves every other edit kept")
+  expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(`${A}\n`)
 })
 
 test("a change read against a commit that moved nothing it carries is landed", async () => {

@@ -339,6 +339,7 @@ export async function landing(
     }
   }
   allowedThrough()
+  const keeping = await indexingLoaded()
   return holding(root, () => {
     const base = baseOf(root)
     const paths = edits.map((one) => one.path)
@@ -358,7 +359,6 @@ export async function landing(
       ...split.committing.map((one) => one.path),
       ...moving.committing.flatMap((one) => [one.from, one.to]),
     ])
-    const keeping = indexingLoaded()
     try {
       const putting = split.committing.filter((one) => !lands.has(one.path))
       const put = wroteOnto(root, putting)

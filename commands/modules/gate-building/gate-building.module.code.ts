@@ -1,11 +1,12 @@
-import { createRequire } from "node:module"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Indexing } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
 
 const CHANGE = "change"
 
-const loadFrom = createRequire(import.meta.url)
+function loadFrom(name: string): Promise<Record<string, unknown>> {
+  return import(name) as Promise<Record<string, unknown>>
+}
 
 export const CHECKING_IN = "akasha/checks/modules/checking/checking.module.code.ts"
 
@@ -21,8 +22,8 @@ type Checking = {
   readonly judgingBy: (every: readonly unknown[], phase: string) => Judging
 }
 
-function checkingLoaded(): Checking {
-  const held = loadFrom(CHECKING_IN) as Partial<Checking>
+async function checkingLoaded(): Promise<Checking> {
+  const held = (await loadFrom(CHECKING_IN)) as Partial<Checking>
   const named = [held.checksIn, held.checksAt, held.judgingBy]
   if (named.some((one) => typeof one !== "function")) {
     throw new Error("it answers to no `checksIn`, `checksAt` and `judgingBy` a gate is built from")
@@ -32,23 +33,23 @@ function checkingLoaded(): Checking {
 
 export type Keeping = (repo: string) => Indexing
 
-export function indexingLoaded(): Keeping {
-  const held = loadFrom(INDEXING_IN) as { readonly keepingIn?: unknown }
+export async function indexingLoaded(): Promise<Keeping> {
+  const held = (await loadFrom(INDEXING_IN)) as { readonly keepingIn?: unknown }
   if (typeof held.keepingIn !== "function") {
     throw new Error(`${INDEXING_IN} answers to no \`keepingIn\` the index is kept by`)
   }
   return held.keepingIn as Keeping
 }
 
-export function gateFor(root: string, phase: string): Built {
+export async function gateFor(root: string, phase: string): Promise<Built> {
   try {
-    const held = checkingLoaded()
+    const held = await checkingLoaded()
     return { gate: held.judgingBy(held.checksAt(held.checksIn(root), phase), phase) }
   } catch (thrown) {
     return { broken: whyOf(thrown) }
   }
 }
 
-export function gateBuilt(root: string): Built {
+export function gateBuilt(root: string): Promise<Built> {
   return gateFor(root, CHANGE)
 }

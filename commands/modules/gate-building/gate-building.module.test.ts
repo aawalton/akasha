@@ -17,10 +17,10 @@ afterAll(scratch.sweep)
 
 const HERE = rootOf(import.meta.path)
 
-test("the gate reaches the checks late, and a root carrying no check index will not build one", () => {
+test("the gate reaches the checks late, and a root carrying no check index will not build one", async () => {
   const root = repoWith({ "one.txt": "committed" })
   indexTakenFrom(root)
-  const said = gateBuilt(root)
+  const said = await gateBuilt(root)
   expect("broken" in said).toBe(true)
   const why = "broken" in said ? said.broken : ""
   expect(why).toContain(indexNamed())
@@ -45,12 +45,12 @@ test("the two modules loaded late are named as imports, and each reaches a file 
   expect(existsSync(loadFrom.resolve(INDEXING_IN))).toBe(true)
 })
 
-test("the index is kept by what that path answers, loaded rather than imported", () => {
-  expect(typeof indexingLoaded()).toBe("function")
+test("the index is kept by what that path answers, loaded rather than imported", async () => {
+  expect(typeof (await indexingLoaded())).toBe("function")
 })
 
-test("a gate is built over the pages, naming the checks that will judge a change", () => {
-  const said = gateBuilt(HERE)
+test("a gate is built over the pages, naming the checks that will judge a change", async () => {
+  const said = await gateBuilt(HERE)
   expect("gate" in said).toBe(true)
   expect("gate" in said ? said.gate.named.length : 0).toBeGreaterThan(0)
 })
