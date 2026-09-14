@@ -13,7 +13,6 @@ export const folderMatchesAShape = {
     "module/one-type-only",
     "module/property-pages",
     "module/shape-loading",
-    "module/shape-progress",
     "page-type/folder-shape",
   ],
   runsOnChange: true,
