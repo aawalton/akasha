@@ -12,47 +12,47 @@ export const subagentBriefKept = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A word of this prompt changed is a prompt no longer measured.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The one sign looked for is the turn repeating what it told a helper.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A helper is another agent rather than a watcher, a sweep or any other machinery.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A briefing still to come is no briefing given.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Saying a helper is running, is out, or came back is no briefing repeated.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The last line answers to what was quoted rather than to the reasoning above it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Eight turns already judged are put in, three of them turns this judge got wrong.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This judges the rule the third test here judges, by another sign.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "One sign of a rule broken many ways leaves five breaches in six uncaught.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here weighs what the helper came back with.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "It refused one clean case in 832 judged, over four runs, once the key's own errors were mended.",
     },

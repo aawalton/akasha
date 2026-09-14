@@ -12,41 +12,41 @@ export const goingOnKept = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A word of this prompt changed is a prompt no longer measured.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The sign is a phrase copied from a closed list rather than the sense of the turn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A phrase merely close to a list entry is named here as no match.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Leave to begin one settled thing is told apart from a choice between two.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This judges the rule dont-stop-kept judges, by a second sign.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The last line answers to what survived the steps rather than to what was written out.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An entry reading `May I go on` drew a match on `may I?` and was taken out.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This catches 5 of 93 twice over, refusing none of 164 clean cases either time.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges a rule other than the one this test's code names.",
     },
   ],

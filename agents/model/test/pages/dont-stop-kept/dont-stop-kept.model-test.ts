@@ -12,47 +12,47 @@ export const dontStopKept = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A word of this prompt changed is a prompt no longer measured.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The sign is a phrase copied from a closed list rather than the sense of the turn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "No phrase opening a question is on the list, since the ask decides, not the words.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A turn naming its next move and handing Alan the decision keeps the rule.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Asking leave keeps the rule where Alan's intent is not yet clear.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A guard settling the answer alone sits after the ordered steps.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The last line answers to what survived the steps rather than to what was written out.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A wording judging the sense of the turn caught twice as many and refused seven.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "This catches 12 and 14 of 93, refusing one clean case in 328 judged over two runs.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges a rule other than the one this test's code names.",
     },
   ],

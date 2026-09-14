@@ -12,49 +12,49 @@ export const oneAtATimeKept = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The wording is the wording measured, and a word of it changed costs the precision.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Turns already judged are put to the model with the judgement on each.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One narrow sign is looked for: the turn announcing its own count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A count of what the agent did rather than of what it wants from Alan keeps the rule.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The steps the model works are ordered rather than listed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A guard sits inside the ordered steps rather than beside them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What Alan asked for settles the answer alone, and is put again after the steps.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A turn quoted here to calibrate the model is a turn out of the cases.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Judging one narrow sign leaves two breaches in five uncaught.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges a rule other than the one this test's code names.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Two wordings alike but for two words refused none twice, and then one and two of the clean.",
     },

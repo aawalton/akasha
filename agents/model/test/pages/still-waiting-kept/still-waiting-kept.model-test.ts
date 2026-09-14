@@ -12,44 +12,44 @@ export const stillWaitingKept = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The sign is one phrase copied from a closed list rather than the sense of the turn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The word `still` is what parts a wait restated from a wait first named.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A phrase the model cannot copy out of the turn is read as absent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The last line answers to what survived the steps rather than to every sentence written out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A turn saying it waits on another agent is judged as one saying it waits on Alan.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This rule is judged here by a third sign, beside the two the other tests judge it by.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Thirteen cases carry this mark, and the answer key calls three of them clean.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "One sentence carrying this mark is labelled clean and its twin elsewhere is labelled a breach.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This is kept off the hook: eight more catches cost the union its zero refusals.",
     },
   ],

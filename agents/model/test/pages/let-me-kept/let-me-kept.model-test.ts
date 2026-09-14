@@ -12,41 +12,41 @@ export const letMeKept = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A word of this prompt changed is a prompt no longer measured.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The sign is a phrase copied from a closed list rather than the sense of the turn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry is matched whole, and the model writes it beside the turn's own words.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An act named and then shown done in the same turn was not left named.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reading and checking are acts the agent could have performed rather than named.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This judges the rule dont-stop-kept judges, by a third sign.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Matching an entry by one word of it refused a clean case until the whole was asked.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This catches 8 of 93 twice over, refusing none of 164 clean cases either time.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges a rule other than the one this test's code names.",
     },
   ],

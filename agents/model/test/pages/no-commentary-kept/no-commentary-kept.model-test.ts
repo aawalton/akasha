@@ -12,53 +12,53 @@ export const noCommentaryKept = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A word of this prompt changed is a prompt no longer measured.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "One narrow sign is looked for: an aside the turn marks as worth knowing and disclaims.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Both halves of the mark are closed lists, and a passage matching one alone is no mark.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A phrase the model cannot copy out of the turn is not in the turn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "News about the work Alan asked for is the result rather than an aside.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An aside the turn goes on to act on is no aside.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Eight turns already judged are put in, four of them turns this judge got wrong.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A guard settling the answer alone sits after the ordered steps.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Judging two closed lists at once leaves seven breaches in eight uncaught.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the other four rules Alan's page states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The last line answers to what was quoted rather than to the reasoning above it.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The phrase `Also worth` opens the answer Alan asked for as often as it opens an aside.",
     },
