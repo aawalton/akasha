@@ -28,6 +28,16 @@ export const LIST_KEY = "partOfCollections"
 
 export const TEXT_KEY = "definition"
 
+export const RECORD_KEY = "holds"
+
+export const FIELD_KEY = "collection"
+
+const RECORD_SLUG = "book-holds"
+
+const FIELD_SLUG = "book-held-collection"
+
+export const HOLDING_AT = "alan/books/holding.book-section.ts"
+
 export const ONE_AT = "alan/books/one.book-section.ts"
 
 export const TWO_AT = "alan/books/two.book-section.ts"
@@ -60,7 +70,11 @@ export const PAGES: readonly Reached[] = [SCRIPTURES, SONGS]
 
 const ADMITTING: readonly string[] = [TARGET, "scripture-collection"]
 
-const TARGETED: ReadonlySet<string> = new Set(["book-section-of", "book-part-of-collections"])
+const TARGETED: ReadonlySet<string> = new Set([
+  "book-section-of",
+  "book-part-of-collections",
+  FIELD_SLUG,
+])
 
 function listedOf(one: Reached): Listed {
   return { path: `alan/collections/${one.slug}.${one.pageTypeSlug}.ts`, id: one.id }
@@ -96,10 +110,28 @@ function declaring(key: string, slug: string, propertySlug: string, many: boolea
   }
 }
 
+function declaringRecord(): Declared {
+  return {
+    pagePropertySlug: `record-property/${RECORD_SLUG}`,
+    pageTypeSlug: "record-property",
+    propertySlug: "holds",
+    key: RECORD_KEY,
+    unique: null,
+    declaredBy: TYPE,
+    required: false,
+    many: true,
+    maxCount: null,
+    maxLength: null,
+    uncommitted: false,
+    secret: false,
+  }
+}
+
 export const DECLARED: readonly Declared[] = [
   declaring(ONE_KEY, "book-section-of", "section-of", false),
   declaring(LIST_KEY, "book-part-of-collections", "part-of-collections", true),
   declaring(TEXT_KEY, "definition", "definition", false),
+  declaringRecord(),
 ]
 
 export function sectionAt(slug: string, one: string, held: readonly string[]): string {
@@ -133,6 +165,30 @@ export const VALUES = valued({
   [TWO_AT]: pageOf("collection/songs", ["songs"]),
 })
 
+export function holdingAt(slug: string, held: readonly string[]): string {
+  const entries = held.map((each) => `    { ${FIELD_KEY}: ${JSON.stringify(each)} },`).join("\n")
+  return `export const ${slug} = {
+  pageTypeSlug: "book-section",
+  slug: "${slug}",
+  ${RECORD_KEY}: [
+${entries}
+  ],
+} as const satisfies BookSection
+`
+}
+
+export function holdingOf(held: readonly string[]): Value {
+  return { [RECORD_KEY]: held.map((each) => ({ [FIELD_KEY]: each })) }
+}
+
+export const HOLDING_BODIES: Files = {
+  [HOLDING_AT]: holdingAt("holding", ["scriptures", "collection/songs"]),
+}
+
+export const HOLDING_VALUES = valued({
+  [HOLDING_AT]: holdingOf(["scriptures", "collection/songs"]),
+})
+
 export function worldFor(
   bodies: Files,
   values: ReadonlyMap<string, Value>,
@@ -144,6 +200,8 @@ export function worldFor(
     targetOf: (propertySlug) => (TARGETED.has(propertySlug) ? TARGET : null),
     admitting: (one) => (one === TARGET ? ADMITTING : []),
     filed: filedIn(pages),
+    fieldOfKey: (propertySlug, key) =>
+      propertySlug === RECORD_SLUG && key === FIELD_KEY ? FIELD_SLUG : null,
   })
   const index = {
     kindsUnder: () => new Set([TYPE]),

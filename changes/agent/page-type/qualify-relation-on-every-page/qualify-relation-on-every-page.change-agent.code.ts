@@ -9,19 +9,23 @@ import {
 
 const QUALIFY_RELATION = "change-mechanical-page-type/qualify-relation-on-every-page"
 
+const FIELD = "field"
+
+export type FieldHoldingAsked = KeyHoldingAsked & { readonly field?: string | null }
+
 export async function qualifyRelationOnEveryPage(
   world: World,
-  given: KeyHoldingAsked
+  given: FieldHoldingAsked
 ): Promise<Answer> {
   return (await reach(world, QUALIFY_RELATION, given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = keyHoldingTakes
+export const takes: readonly string[] = [...keyHoldingTakes, FIELD]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const asked = keyAskedIn(given)
   if (typeof asked === "string") return refusing(asked)
-  return await qualifyRelationOnEveryPage(world, asked)
+  return await qualifyRelationOnEveryPage(world, { ...asked, field: given[FIELD] ?? null })
 }

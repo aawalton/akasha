@@ -2,12 +2,19 @@ import { expect, test } from "bun:test"
 import { qualifyRelationOnEveryPage } from "akasha/changes/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts"
 import {
   BODIES,
+  FIELD_KEY,
+  HOLDING_AT,
+  HOLDING_BODIES,
+  HOLDING_VALUES,
+  holdingAt,
+  holdingOf,
   LIST_KEY,
   NOTHING_BARE,
   ONE_AT,
   ONE_KEY,
   PAGES,
   pageOf,
+  RECORD_KEY,
   SONGS,
   sectionAt,
   TEXT_KEY,
@@ -136,6 +143,48 @@ test("a page type no page of which names a page by a bare name is refused", () =
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOTHING_BARE)
+})
+
+test("a field named inside a record property is written anew the same way", () => {
+  const world = worldFor(HOLDING_BODIES, HOLDING_VALUES)
+
+  const said = qualifyRelationOnEveryPage(world, {
+    pageType: TYPE,
+    key: RECORD_KEY,
+    field: FIELD_KEY,
+  })
+
+  expect(said.refused).toBeNull()
+  const body = bodiesIn(said, world.base).get(HOLDING_AT) ?? ""
+  expect(body).toContain(`{ collection: "scripture-collection/scriptures" }`)
+  expect(body).toContain(`{ collection: "collection/songs" }`)
+})
+
+test("what a field declares is read off the record property that field sits in", () => {
+  const world = worldFor(HOLDING_BODIES, HOLDING_VALUES)
+
+  const said = qualifyRelationOnEveryPage(world, {
+    pageType: TYPE,
+    key: RECORD_KEY,
+    field: "heldBy",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("a `holds` entry has no field under `heldBy`")
+})
+
+test("a record property no entry of which names a page by a bare name is refused", () => {
+  const held = { [HOLDING_AT]: holdingAt("holding", ["collection/songs"]) }
+  const values = valued({ [HOLDING_AT]: holdingOf(["collection/songs"]) })
+
+  const said = qualifyRelationOnEveryPage(worldFor(held, values), {
+    pageType: TYPE,
+    key: RECORD_KEY,
+    field: FIELD_KEY,
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("no `book-section` names a page by a bare name under `collection`")
 })
 
 test("a page the world holds no body for is refused by its path", () => {

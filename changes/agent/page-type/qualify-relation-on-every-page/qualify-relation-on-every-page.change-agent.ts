@@ -23,6 +23,14 @@ export const qualifyRelationOnEveryPage = {
     },
     {
       invariantKind: "departure",
+      statement: "A field named beside the key is written inside each of that key's entries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming no field writes the key's own value.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type no page of which names a page by a bare name is refused.",
     },
     {

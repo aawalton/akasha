@@ -8,7 +8,12 @@ import type {
   Said,
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { listIn, statedIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
+import {
+  keyOf,
+  listIn,
+  statedIn,
+  valuesIn,
+} from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import {
@@ -20,7 +25,11 @@ import {
 } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import { addressIn, namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  recordsIn,
+  slugOf,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
 const BARE = "bare"
@@ -28,6 +37,7 @@ const BARE = "bare"
 export type Asked = {
   readonly pageType: string
   readonly key: string
+  readonly field?: string | null
   readonly atMost?: number | null
 }
 
@@ -57,15 +67,29 @@ export function bareIn(held: unknown): readonly string[] {
   return found
 }
 
+export function underIn(given: Asked): string {
+  return given.field ?? given.key
+}
+
+export function saidOf(given: Asked): string {
+  const field = given.field ?? null
+  if (field === null) return `\`${given.key}\` on a \`${given.pageType}\``
+  return `\`${field}\` in a \`${given.key}\` entry on a \`${given.pageType}\``
+}
+
 export function namingFor(world: World, given: Asked): Naming | string {
   const carried = world.index.propertiesIfNamed(given.pageType)
   if (carried === null) return `\`${given.pageType}\` names no page type`
   const held = carried.find((one) => one.key === given.key)
   if (held === undefined) return `a \`${given.pageType}\` has no property under \`${given.key}\``
   const known = world.index.knownIn()
-  const wanted = known.targetOf(slugOf(held.pagePropertySlug))
+  const under = slugOf(held.pagePropertySlug)
+  const field = given.field ?? null
+  const slug = field === null ? under : known.fieldOfKey(under, field)
+  if (slug === null) return `a \`${given.key}\` entry has no field under \`${field}\``
+  const wanted = known.targetOf(slug)
   if (eachTarget(wanted).length === 0) {
-    return `\`${given.key}\` on a \`${given.pageType}\` declares no page type to reach`
+    return `${saidOf(given)} declares no page type to reach`
   }
   return { wanted, known, pageTypeOf: (id) => pageTypeIn(known, id) }
 }
@@ -78,6 +102,18 @@ export function qualifiedBy(naming: Naming, named: string): string | { readonly 
   return namedAs(pageTypeSlug, named, null)
 }
 
+export function bareOn(value: Value, given: Asked): readonly string[] {
+  const field = given.field ?? null
+  if (field === null) return bareIn(value[given.key])
+  const found: string[] = []
+  for (const entry of recordsIn(value[given.key])) {
+    for (const one of bareIn(entry[field])) {
+      if (!found.includes(one)) found.push(one)
+    }
+  }
+  return found
+}
+
 export function spelledOver(
   world: World,
   naming: Naming,
@@ -85,16 +121,17 @@ export function spelledOver(
 ): readonly Carried[] | string {
   const found: Carried[] = []
   const atMost = given.atMost ?? null
+  const under = underIn(given)
   for (const kind of world.index.kindsUnder(given.pageType)) {
     for (const [path, value] of world.index.valuesByPath(kind)) {
       if (atMost !== null && found.length >= atMost) return found
-      const bare = bareIn(value[given.key])
+      const bare = bareOn(value, given)
       if (bare.length === 0) continue
       const spelled = new Map<string, string>()
       for (const one of bare) {
         const said = qualifiedBy(naming, one)
         if (typeof said !== "string") {
-          return `\`${path}\` states \`${given.key}\`, and ${said.refused}`
+          return `\`${path}\` states \`${under}\`, and ${said.refused}`
         }
         spelled.set(one, said)
       }
@@ -111,17 +148,36 @@ export function literalsAt(source: ts.SourceFile, key: string): readonly ts.Stri
   return list === null ? [] : list.elements.filter((each) => ts.isStringLiteral(each))
 }
 
+export function fieldLiteralsIn(
+  entry: ts.ObjectLiteralExpression,
+  field: string
+): readonly ts.StringLiteral[] {
+  for (const one of entry.properties) {
+    if (!ts.isPropertyAssignment(one) || keyOf(one) !== field) continue
+    if (ts.isStringLiteral(one.initializer)) return [one.initializer]
+    if (!ts.isArrayLiteralExpression(one.initializer)) return []
+    return one.initializer.elements.filter((each) => ts.isStringLiteral(each))
+  }
+  return []
+}
+
+export function literalsIn(source: ts.SourceFile, given: Asked): readonly ts.StringLiteral[] {
+  const field = given.field ?? null
+  if (field === null) return literalsAt(source, given.key)
+  return valuesIn(source, given.key).flatMap((entry) => fieldLiteralsIn(entry, field))
+}
+
 export function editsFor(world: World, given: Asked, one: Carried): readonly FileChange[] | string {
   const text = world.textOf(one.path)
   if (text === null) return `\`${one.path}\` could not be read`
   const source = parsedAs(one.path, text)
   const spots: Splice[] = []
-  for (const held of literalsAt(source, given.key)) {
+  for (const held of literalsIn(source, given)) {
     const now = one.spelled.get(held.text)
     if (now === undefined) continue
     spots.push({ from: held.getStart(source), to: held.getEnd(), put: JSON.stringify(now) })
   }
-  if (spots.length === 0) return `\`${one.path}\` states no bare name under \`${given.key}\``
+  if (spots.length === 0) return `\`${one.path}\` states no bare name under \`${underIn(given)}\``
   return splicedIn(one.path, text, spots)
 }
 
@@ -131,7 +187,9 @@ export function qualifyRelationOnEveryPage(world: World, given: Asked): Said {
   const held = spelledOver(world, naming, given)
   if (typeof held === "string") return refusing(held)
   if (held.length === 0) {
-    return refusing(`no \`${given.pageType}\` names a page by a bare name under \`${given.key}\``)
+    return refusing(
+      `no \`${given.pageType}\` names a page by a bare name under \`${underIn(given)}\``
+    )
   }
   const edits: FileChange[] = []
   for (const one of held) {

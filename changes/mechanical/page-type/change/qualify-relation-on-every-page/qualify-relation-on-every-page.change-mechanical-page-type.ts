@@ -79,6 +79,22 @@ export const qualifyRelationOnEveryPage = {
       statement: "A key the page type declares nowhere is refused.",
     },
     {
+      invariantKind: "departure",
+      statement: "A field named beside the key is written inside each of that key's entries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a field declares is read off the record property the key names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field the record property declares nowhere is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming no field writes the key's own value.",
+    },
+    {
       invariantKind: "absence",
       statement: "No rung beneath is reached.",
     },
