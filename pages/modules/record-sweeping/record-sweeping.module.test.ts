@@ -13,11 +13,10 @@ type Held = Record<string, unknown>
 type Page = {
   readonly name: string
   readonly path: string
+  readonly value: Held | null
 }
 
 const HOURS = 24
-
-const VALUES = "value"
 
 const IDENTITY = "identity"
 
@@ -55,18 +54,36 @@ const PROPERTIES: readonly Held[] = [
   aProperty("lines", null),
 ]
 
+function carrying(pageTypeSlug: string, values: readonly Held[]): readonly Page[] {
+  return values.map((one) => {
+    const slug = String(one["slug"])
+    return { name: slug, path: `${slug}.${pageTypeSlug}.ts`, value: one }
+  })
+}
+
 const PAGES: ReadonlyMap<string, readonly Page[]> = new Map([
-  ["hook", [{ name: "one", path: HOOK }]],
-  ["check", [{ name: "two", path: CHECK }]],
-  ["held-group", [{ name: "audit", path: GROUP }]],
+  ["page-type", carrying("page-type", TYPES)],
+  ["file-property", carrying("file-property", PROPERTIES)],
+  ["hook", [{ name: "one", path: HOOK, value: null }]],
+  ["check", [{ name: "two", path: CHECK, value: null }]],
+  ["held-group", [{ name: "audit", path: GROUP, value: null }]],
 ])
+
+function bodiesIn(): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const pages of PAGES.values()) {
+    for (const one of pages) {
+      if (one.value === null) continue
+      found.set(one.path, `export const held = ${JSON.stringify(one.value)}\n`)
+    }
+  }
+  return found
+}
+
+const BODIES = bodiesIn()
 
 function slugFolder(pageTypeSlug: string): string {
   return `${IDENTITY}/page-type/${pageTypeSlug}/slug`
-}
-
-function linesOf(values: readonly Held[]): readonly string[] {
-  return values.map((one) => JSON.stringify({ path: `${String(one["slug"])}.page.ts`, value: one }))
 }
 
 const READING: Reading = {
@@ -79,8 +96,6 @@ const READING: Reading = {
     return []
   },
   lines: (at) => {
-    if (at === `${VALUES}/page-type.jsonl`) return linesOf(TYPES)
-    if (at === `${VALUES}/file-property.jsonl`) return linesOf(PROPERTIES)
     for (const [pageTypeSlug, pages] of PAGES) {
       for (const one of pages) {
         if (at !== `${slugFolder(pageTypeSlug)}/${one.name}.jsonl`) continue
@@ -89,7 +104,7 @@ const READING: Reading = {
     }
     return []
   },
-  read: () => null,
+  read: (path) => BODIES.get(path) ?? null,
 }
 
 const THERE: ReadonlySet<string> = new Set([
