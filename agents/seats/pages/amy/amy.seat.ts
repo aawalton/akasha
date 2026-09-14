@@ -4,7 +4,7 @@ export const amy = {
   id: "01a09581-cb35-7000-b00f-7156d6b3ce13",
   type: "seat",
   slug: "amy",
-  persona: "persona/amy",
+  persona: "amy",
   assignmentSlug: "initiative/amy-harness-improvements",
   role: "definer",
   person: "alan",
