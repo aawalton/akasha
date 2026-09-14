@@ -143,8 +143,11 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The name made from a command's slug is reached by the runner calling that command.",
+      statement: "The name made from a page's slug is reached in that page's code by its loader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which page types name a loader is read from the index rather than listed here.",
     },
     {
       invariantKind: "departure",
@@ -161,21 +164,15 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
-      statement: "The name made from a check's slug is reached by the runner running that check.",
+      statement: "The name made from a check's slug is reached in its check code and audit code.",
     },
     {
       invariantKind: "departure",
-      statement: "The name made from a name format's slug is reached by the reader judging a name.",
+      statement: "The `mark` a syntax rule's code exports is reached by its loader.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The `mark` and the name made from a syntax rule's slug are reached by its loader.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The `HOLDS` and the name made from a folder shape's slug are reached by its loader.",
+      statement: "The `HOLDS` a folder shape's code exports is reached by its loader.",
     },
     {
       invariantKind: "departure",
