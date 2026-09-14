@@ -5,6 +5,6 @@ export const kiFeatureRequestPages = {
   type: "person-authority",
   slug: "ki-feature-request-pages",
   person: "person/ki",
-  authorityKind: "feature-request",
+  authorityKind: "authority-kind/feature-request",
   target: "pages",
 } as const satisfies PersonAuthority

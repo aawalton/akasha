@@ -5,6 +5,6 @@ export const alanFeatureRequestAll = {
   type: "person-authority",
   slug: "alan-feature-request-all",
   person: "person/alan",
-  authorityKind: "feature-request",
+  authorityKind: "authority-kind/feature-request",
   target: "all",
 } as const satisfies PersonAuthority

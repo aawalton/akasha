@@ -5,6 +5,6 @@ export const alanDomainAll = {
   type: "person-authority",
   slug: "alan-domain-all",
   person: "person/alan",
-  authorityKind: "domain",
+  authorityKind: "authority-kind/domain",
   target: "all",
 } as const satisfies PersonAuthority

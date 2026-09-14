@@ -5,6 +5,6 @@ export const kiFeatureRequestArchiveofworlds = {
   type: "person-authority",
   slug: "ki-feature-request-archiveofworlds",
   person: "person/ki",
-  authorityKind: "feature-request",
+  authorityKind: "authority-kind/feature-request",
   target: "archiveofworlds",
 } as const satisfies PersonAuthority
