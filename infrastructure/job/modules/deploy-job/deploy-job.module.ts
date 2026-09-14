@@ -70,5 +70,9 @@ export const deployJob = {
       statement: "Nothing here reads the workstation's checkout.",
     },
     { invariantKind: "departure", statement: "A job runs under no syscall filter." },
+    {
+      invariantKind: "departure",
+      statement: "The overlay a job's test gate mounts is held on a volume of the job's own.",
+    },
   ],
 } as const satisfies Module

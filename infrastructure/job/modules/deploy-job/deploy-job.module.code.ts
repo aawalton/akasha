@@ -1,3 +1,4 @@
+import { HOLD } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import { ref } from "akasha/commands/arguments/pages/ref.argument.ts"
 import { deploy } from "akasha/commands/pages/deploy/deploy.command.ts"
 import {
@@ -41,6 +42,8 @@ const ROOM_GB = "1"
 const NAMED = 12
 
 const WORK = "work"
+
+const HELD = "held"
 
 const KEPT_SECONDS = 3600
 
@@ -91,7 +94,10 @@ export function jobFor(
           nodeSelector: workloadClassMemberSelector(CLASS),
           restartPolicy: "Never",
           securityContext: { seccompProfile: { type: UNCONFINED } },
-          volumes: [{ name: WORK, emptyDir: {} }],
+          volumes: [
+            { name: WORK, emptyDir: {} },
+            { name: HELD, emptyDir: {} },
+          ],
           containers: [
             {
               name: deploy.name,
@@ -105,7 +111,10 @@ export function jobFor(
                   valueFrom: { secretKeyRef: { name: JOB_SECRET, key: GIT_TOKEN } },
                 },
               ],
-              volumeMounts: [{ name: WORK, mountPath: ORCHESTRATOR_CACHE_MOUNT_PATH }],
+              volumeMounts: [
+                { name: WORK, mountPath: ORCHESTRATOR_CACHE_MOUNT_PATH },
+                { name: HELD, mountPath: HOLD },
+              ],
               resources: {
                 requests: { cpu: "2", memory: "6Gi" },
                 limits: { cpu: "8", memory: "12Gi" },
