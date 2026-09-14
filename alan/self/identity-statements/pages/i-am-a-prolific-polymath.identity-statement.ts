@@ -11,6 +11,6 @@ export const iAmAProlificPolymath = {
   identityStatementRank: "a-rank",
   replacesStatements: ["i-am-an-omnivorous-autodidact"],
   identityStatementStatus: "in-progress",
-  identityStatementValue: "learn",
+  identityStatementValue: "value/learn",
   icon: "file-text",
 } as const satisfies IdentityStatement

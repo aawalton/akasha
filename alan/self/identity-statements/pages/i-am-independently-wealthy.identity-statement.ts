@@ -11,6 +11,6 @@ export const iAmIndependentlyWealthy = {
   identityStatementRank: "a-rank",
   replacesStatements: ["i-am-comfortably-retired"],
   identityStatementStatus: "planned",
-  identityStatementValue: "wealth",
+  identityStatementValue: "value/wealth",
   icon: "file-text",
 } as const satisfies IdentityStatement

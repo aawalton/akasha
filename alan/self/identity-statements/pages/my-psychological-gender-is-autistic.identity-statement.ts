@@ -11,6 +11,6 @@ export const myPsychologicalGenderIsAutistic = {
   identityStatementRank: "b-rank",
   identityStatementStatus: "deprecated",
   identityStatementTags: ["gender"],
-  identityStatementValue: "faith",
+  identityStatementValue: "value/faith",
   icon: "file-text",
 } as const satisfies IdentityStatement

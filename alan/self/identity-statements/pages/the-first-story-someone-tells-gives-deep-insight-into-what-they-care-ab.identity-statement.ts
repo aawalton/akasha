@@ -11,6 +11,6 @@ export const theFirstStorySomeoneTellsGivesDeepInsightIntoWhatTheyCareAb = {
   identityStatementRank: "c-rank",
   identityStatementStatus: "planned",
   identityStatementTags: ["connection"],
-  identityStatementValue: "love",
+  identityStatementValue: "value/love",
   icon: "file-text",
 } as const satisfies IdentityStatement

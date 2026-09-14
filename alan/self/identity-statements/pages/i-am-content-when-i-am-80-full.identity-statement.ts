@@ -12,6 +12,6 @@ export const iAmContentWhenIAm80Full = {
   replacesStatements: ["i-am-almost-never-hungry"],
   identityStatementStatus: "planned",
   identityStatementTags: ["eat"],
-  identityStatementValue: "health",
+  identityStatementValue: "value/health",
   icon: "file-text",
 } as const satisfies IdentityStatement

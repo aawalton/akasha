@@ -19,6 +19,6 @@ export const iAmProfoundlyNeurodivergent = {
     "i-can-and-should-do-things-i-like-that-are-not-normal",
   ],
   identityStatementTags: ["neurodiversity"],
-  identityStatementValue: "faith",
+  identityStatementValue: "value/faith",
   icon: "file-text",
 } as const satisfies IdentityStatement

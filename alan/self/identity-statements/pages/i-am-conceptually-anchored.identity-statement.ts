@@ -11,6 +11,6 @@ export const iAmConceptuallyAnchored = {
   identityStatementRank: "b-rank",
   replacedByStatements: ["i-am-fully-integrated"],
   identityStatementStatus: "current",
-  identityStatementValue: "faith",
+  identityStatementValue: "value/faith",
   icon: "file-text",
 } as const satisfies IdentityStatement

@@ -11,6 +11,6 @@ export const iDontLikeProcessedFoods = {
   identityStatementRank: "b-rank",
   identityStatementStatus: "planned",
   identityStatementTags: ["eat"],
-  identityStatementValue: "health",
+  identityStatementValue: "value/health",
   icon: "file-text",
 } as const satisfies IdentityStatement

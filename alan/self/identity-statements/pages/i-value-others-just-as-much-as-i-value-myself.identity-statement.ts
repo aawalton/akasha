@@ -11,6 +11,6 @@ export const iValueOthersJustAsMuchAsIValueMyself = {
   identityStatementRank: "a-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
-  identityStatementValue: "love",
+  identityStatementValue: "value/love",
   icon: "file-text",
 } as const satisfies IdentityStatement

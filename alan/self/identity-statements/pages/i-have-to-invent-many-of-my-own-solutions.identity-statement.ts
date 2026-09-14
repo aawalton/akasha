@@ -12,6 +12,6 @@ export const iHaveToInventManyOfMyOwnSolutions = {
   identityStatementRank: "b-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
-  identityStatementValue: "wealth",
+  identityStatementValue: "value/wealth",
   icon: "file-text",
 } as const satisfies IdentityStatement

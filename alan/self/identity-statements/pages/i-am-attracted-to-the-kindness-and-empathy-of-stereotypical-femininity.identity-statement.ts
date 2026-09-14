@@ -11,6 +11,6 @@ export const iAmAttractedToTheKindnessAndEmpathyOfStereotypicalFemininity = {
   identityStatementRank: "c-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["attraction"],
-  identityStatementValue: "love",
+  identityStatementValue: "value/love",
   icon: "file-text",
 } as const satisfies IdentityStatement

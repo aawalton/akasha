@@ -11,6 +11,6 @@ export const iAmSociallyIsolated = {
   identityStatementRank: "d-rank",
   replacedByStatements: ["i-am-deeply-connected"],
   identityStatementStatus: "current",
-  identityStatementValue: "love",
+  identityStatementValue: "value/love",
   icon: "file-text",
 } as const satisfies IdentityStatement
