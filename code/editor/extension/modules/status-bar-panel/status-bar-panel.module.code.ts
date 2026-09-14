@@ -21,6 +21,7 @@ import {
   SEPARATOR_HEX,
 } from "akasha/code/editor/extension/modules/status-bar-theme/status-bar-theme.module.code.ts"
 import type { UsageReading } from "akasha/code/editor/extension/modules/status-bar-usage/status-bar-usage.module.code.ts"
+import type { WorkstationReading } from "akasha/code/editor/extension/modules/status-bar-workstation/status-bar-workstation.module.code.ts"
 import * as vscode from "vscode"
 
 const FEATURE = "status-bar"
@@ -75,6 +76,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     upkeep: undefined,
     attributes: undefined,
     usage: undefined,
+    workstation: undefined,
   }
 
   let legends: StoplightLegends = NO_LEGENDS
@@ -85,6 +87,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       upkeep: sectionOf(held.upkeep?.glyphs),
       attributes: sectionOf(held.attributes?.glyphs),
       usage: sectionOf<UsageReading>(held.usage),
+      workstation: sectionOf<WorkstationReading>(held.workstation),
     }
     legends = {
       inbox: legendKept(held.inbox, legends.inbox),
@@ -98,6 +101,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       upkeep: reads.upkeep.lastFreshAt,
       attributes: reads.attributes.lastFreshAt,
       usage: reads.usage.lastFreshAt,
+      workstation: reads.workstation.lastFreshAt,
     }
     logRefresh(trigger, outcomes)
     return undefined
@@ -126,6 +130,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
 function logRefresh(trigger: string, outcomes: ReadOutcomes): undefined {
   const failures: string[] = []
+  if (outcomes.workstation.status === "rejected") {
+    failures.push(`workstation: ${String(outcomes.workstation.reason)}`)
+  }
   if (outcomes.inbox.status === "rejected") {
     failures.push(`inbox: ${String(outcomes.inbox.reason)}`)
   }

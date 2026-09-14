@@ -1,21 +1,42 @@
 import type { SlotDef } from "akasha/code/editor/extension/modules/status-bar-slot-types/status-bar-slot-types.module.code.ts"
 import {
   BLUE_HEX,
+  CHALK_HEX,
   PURPLE_HEX,
+  SILVER_HEX,
 } from "akasha/code/editor/extension/modules/status-bar-theme/status-bar-theme.module.code.ts"
 
-function formatUsagePct(v: number | null): string {
+function formatPct(v: number | null): string {
   return v === null ? "—" : `${Math.floor(v)}%`
 }
 
 const RAW_SLOTS: readonly SlotDef[] = [
+  {
+    kind: "workstation",
+    id: "opsStatusBar.workstation.processor",
+    priority: 0,
+    label: "processor use",
+    hex: SILVER_HEX,
+    read: (w) => formatPct(w.processorPct),
+  },
+  {
+    kind: "workstation",
+    id: "opsStatusBar.workstation.memory",
+    priority: 0,
+    label: "memory use",
+    hex: CHALK_HEX,
+    read: (w) => formatPct(w.memoryPct),
+  },
+
+  { kind: "separator", id: "opsStatusBar.sep.workstationUsage", priority: 0 },
+
   {
     kind: "usage",
     id: "opsStatusBar.usage.session",
     priority: 0,
     label: "session usage",
     hex: BLUE_HEX,
-    read: (u) => formatUsagePct(u.sessionPct),
+    read: (u) => formatPct(u.sessionPct),
   },
   {
     kind: "usage",
@@ -23,7 +44,7 @@ const RAW_SLOTS: readonly SlotDef[] = [
     priority: 0,
     label: "weekly usage",
     hex: PURPLE_HEX,
-    read: (u) => formatUsagePct(u.weeklyPct),
+    read: (u) => formatPct(u.weeklyPct),
   },
 
   { kind: "separator", id: "opsStatusBar.sep.usageUpkeep", priority: 0 },

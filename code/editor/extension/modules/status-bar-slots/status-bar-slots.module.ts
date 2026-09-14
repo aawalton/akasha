@@ -25,7 +25,8 @@ export const statusBarSlots = {
     },
     {
       invariantKind: "departure",
-      statement: "A separator is drawn between the usage figures and each stoplight section.",
+      statement:
+        "A separator is drawn between the workstation figures, the usage figures, and each stoplight section.",
     },
     {
       invariantKind: "departure",
@@ -42,6 +43,10 @@ export const statusBarSlots = {
     {
       invariantKind: "absence",
       statement: "Nothing here has an editor item.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The workstation figures are drawn before the usage figures.",
     },
   ],
 } as const satisfies Module

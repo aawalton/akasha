@@ -5,7 +5,7 @@ export const statusBarTheme = {
   type: "module",
   slug: "status-bar-theme",
   definition:
-    "the two colors the status bar's usage slots take and the color and glyph a separator takes",
+    "the colors the status bar's figure slots take and the color and glyph a separator takes",
   code: "ts",
   invariants: [
     {
@@ -22,7 +22,7 @@ export const statusBarTheme = {
     },
     {
       invariantKind: "departure",
-      statement: "A separator takes a color apart from the two usage colors.",
+      statement: "A separator takes a color apart from every figure color.",
     },
     {
       invariantKind: "departure",
@@ -35,6 +35,15 @@ export const statusBarTheme = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a color the editor's own theme names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The processor and the memory figures take the two neutrals above the separator's grey.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure earning no color from a scale takes a neutral.",
     },
   ],
 } as const satisfies Module

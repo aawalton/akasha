@@ -54,7 +54,7 @@ export const statusBarPanel = {
 
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a stoplight or a usage figure.",
+      statement: "Nothing here reads a stoplight or a figure.",
     },
   ],
 } as const satisfies Module

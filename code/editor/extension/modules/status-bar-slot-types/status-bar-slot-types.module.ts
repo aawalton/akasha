@@ -9,11 +9,12 @@ export const statusBarSlotTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A slot is a usage figure or a separator or a stoplight section.",
+      statement:
+        "A slot is a workstation figure, a usage figure, a separator, or a stoplight section.",
     },
     {
       invariantKind: "departure",
-      statement: "A slot states which of the three kinds the slot is.",
+      statement: "A slot states which of the four kinds the slot is.",
     },
     {
       invariantKind: "departure",
@@ -34,6 +35,11 @@ export const statusBarSlotTypes = {
     {
       invariantKind: "absence",
       statement: "Nothing here is a slot.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A workstation slot has the reading the slot takes out of one whole workstation answer.",
     },
   ],
 } as const satisfies Module

@@ -1,6 +1,8 @@
 import type { StoplightLegends } from "akasha/code/editor/extension/modules/status-bar-legends/status-bar-legends.module.code.ts"
+import type { FigureSlotDef } from "akasha/code/editor/extension/modules/status-bar-slot-types/status-bar-slot-types.module.code.ts"
 import { SLOTS } from "akasha/code/editor/extension/modules/status-bar-slots/status-bar-slots.module.code.ts"
 import type { UsageReading } from "akasha/code/editor/extension/modules/status-bar-usage/status-bar-usage.module.code.ts"
+import type { WorkstationReading } from "akasha/code/editor/extension/modules/status-bar-workstation/status-bar-workstation.module.code.ts"
 import type * as vscode from "vscode"
 
 export type SectionResult<T> = {
@@ -14,6 +16,7 @@ export type SettledReads = {
   readonly upkeep: SectionResult<string>
   readonly attributes: SectionResult<string>
   readonly usage: SectionResult<UsageReading>
+  readonly workstation: SectionResult<WorkstationReading>
 }
 
 export type ReadOutcomes = {
@@ -21,6 +24,7 @@ export type ReadOutcomes = {
   readonly upkeep: PromiseSettledResult<string>
   readonly attributes: PromiseSettledResult<string>
   readonly usage: PromiseSettledResult<UsageReading>
+  readonly workstation: PromiseSettledResult<WorkstationReading>
 }
 
 export type FreshAts = {
@@ -28,6 +32,7 @@ export type FreshAts = {
   readonly upkeep: number | undefined
   readonly attributes: number | undefined
   readonly usage: number | undefined
+  readonly workstation: number | undefined
 }
 
 export type RenderItem = {
@@ -52,6 +57,7 @@ export function settleReads(outcomes: ReadOutcomes, prev: FreshAts, now: number)
     upkeep: settleSection(outcomes.upkeep, prev.upkeep, now),
     attributes: settleSection(outcomes.attributes, prev.attributes, now),
     usage: settleSection(outcomes.usage, prev.usage, now),
+    workstation: settleSection(outcomes.workstation, prev.workstation, now),
   }
 }
 
@@ -71,6 +77,18 @@ function legendTooltip(legend: string | undefined, suffix: string): string | und
   return shown === "" ? undefined : shown
 }
 
+function drawFigure<Kind extends string, Reading>(
+  item: RenderItem,
+  slot: FigureSlotDef<Kind, Reading>,
+  section: SectionResult<Reading>
+): undefined {
+  const suffix = formatStaleSuffix(section.stale, section.lastFreshAt)
+  const text = section.value === undefined ? undefined : slot.read(section.value)
+  item.text = text === undefined ? item.text : text
+  item.tooltip = `${slot.label}${suffix}`
+  return undefined
+}
+
 export function applyToItems(
   items: readonly RenderItem[],
   reads: SettledReads,
@@ -83,11 +101,9 @@ export function applyToItems(
       continue
     }
     if (slot.kind === "usage") {
-      const section = reads.usage
-      const suffix = formatStaleSuffix(section.stale, section.lastFreshAt)
-      const text = section.value === undefined ? undefined : slot.read(section.value)
-      item.text = text === undefined ? item.text : text
-      item.tooltip = `${slot.label}${suffix}`
+      drawFigure(item, slot, reads.usage)
+    } else if (slot.kind === "workstation") {
+      drawFigure(item, slot, reads.workstation)
     } else {
       const section = reads[slot.section]
       const suffix = formatStaleSuffix(section.stale, section.lastFreshAt)

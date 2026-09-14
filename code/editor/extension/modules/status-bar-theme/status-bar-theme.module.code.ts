@@ -1,9 +1,14 @@
 import { blue } from "akasha/design/interfaces/colors/pages/blue.color.ts"
+import { chalk } from "akasha/design/interfaces/colors/pages/chalk.color.ts"
 import { grey } from "akasha/design/interfaces/colors/pages/grey.color.ts"
 import { purple } from "akasha/design/interfaces/colors/pages/purple.color.ts"
+import { silver } from "akasha/design/interfaces/colors/pages/silver.color.ts"
 
 export const SEPARATOR_HEX = grey.hex
 export const SEPARATOR_GLYPH = "|"
 
 export const BLUE_HEX = blue.hex
 export const PURPLE_HEX = purple.hex
+
+export const SILVER_HEX = silver.hex
+export const CHALK_HEX = chalk.hex
