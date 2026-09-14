@@ -26,6 +26,10 @@ export const attributesReading = {
     },
     {
       invariantKind: "departure",
+      statement: "That link reads back as the slug alone, whatever page type names it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The question to ask and how to read each answer are on each readout's own page.",
     },
     {

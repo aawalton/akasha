@@ -26,6 +26,7 @@ import {
   AKASHA,
   resolveRoots,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const READOUTS = "alan/attributes/readouts"
@@ -101,12 +102,12 @@ async function constitutionOf(now: Date): Promise<number> {
 }
 
 export const ATTRIBUTE_OF: Readonly<Record<string, string>> = {
-  [STRENGTH_PAGE]: attributeStrength.attribute,
-  [ENDURANCE_PAGE]: attributeEndurance.attribute,
-  [CONSTITUTION_PAGE]: attributeConstitution.attribute,
-  [WISDOM_PAGE]: attributeWisdom.attribute,
-  [INTELLIGENCE_PAGE]: attributeIntelligence.attribute,
-  [CHARISMA_PAGE]: attributeCharisma.attribute,
+  [STRENGTH_PAGE]: slugOf(attributeStrength.attribute),
+  [ENDURANCE_PAGE]: slugOf(attributeEndurance.attribute),
+  [CONSTITUTION_PAGE]: slugOf(attributeConstitution.attribute),
+  [WISDOM_PAGE]: slugOf(attributeWisdom.attribute),
+  [INTELLIGENCE_PAGE]: slugOf(attributeIntelligence.attribute),
+  [CHARISMA_PAGE]: slugOf(attributeCharisma.attribute),
 }
 
 const OFF_THE_DAY = [
