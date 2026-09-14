@@ -12,19 +12,19 @@ export const conditions = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule stating no condition matches every item of its category.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field names a temper-condition-field page with the key the field tests.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key a rule engine reads is held by that page rather than written here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A field naming a comparison has the key of a temper comparison op.",
     },
   ],

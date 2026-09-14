@@ -13,11 +13,11 @@ export const craftingLevels = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One line is one craft of one character.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A craft a character has not opened still has a line.",
     },
   ],

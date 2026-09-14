@@ -13,11 +13,11 @@ export const snapshotLocations = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One line is one bag holder a reading found.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "When a holder was last read is the holder's own moment rather than the reading's.",
     },

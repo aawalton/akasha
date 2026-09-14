@@ -14,7 +14,7 @@ export const cadwellStops = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stop here is one point of interest Cadwell sends a player to.",
     },
   ],

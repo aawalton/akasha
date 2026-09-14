@@ -12,11 +12,11 @@ export const openCooldowns = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One line is one cooldown a reading found.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A cooldown names when that cooldown comes round again rather than how long is left.",
     },

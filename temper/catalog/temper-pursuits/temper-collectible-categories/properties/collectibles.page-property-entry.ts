@@ -12,7 +12,7 @@ export const collectibles = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collectible here is filed by the game under the category with the file.",
     },
   ],

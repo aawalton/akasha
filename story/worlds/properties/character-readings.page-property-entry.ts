@@ -14,7 +14,7 @@ export const characterReadings = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading names its character only where the reading's kind is `character`.",
     },
   ],

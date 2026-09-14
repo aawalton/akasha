@@ -13,7 +13,7 @@ export const cards = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A card here is a card a patron lets a player upgrade.",
     },
   ],

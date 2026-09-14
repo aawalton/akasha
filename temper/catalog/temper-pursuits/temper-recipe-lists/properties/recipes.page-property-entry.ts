@@ -12,11 +12,11 @@ export const recipes = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recipe here is a recipe a player learns from an item the game names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The recipes of one list are kept in the order the game hands the recipes over.",
     },
   ],

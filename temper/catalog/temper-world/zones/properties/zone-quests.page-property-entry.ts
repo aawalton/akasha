@@ -12,7 +12,7 @@ export const zoneQuests = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quest here is a quest the game counts against the zone that quest is given in.",
     },
   ],

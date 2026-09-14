@@ -22,15 +22,15 @@ export const placedFurnishings = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One line is one furnishing placed in one home.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A price field is absent where the price source priced nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A furnishing is reached by an item link or by a collectible link.",
     },
   ],

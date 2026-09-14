@@ -14,12 +14,12 @@ export const achievements = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An achievement here is an achievement the game files under the heading with the line.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The lines run in ascending order of the achievement id.",
     },
   ],

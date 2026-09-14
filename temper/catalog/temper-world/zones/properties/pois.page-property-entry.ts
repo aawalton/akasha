@@ -14,7 +14,7 @@ export const pois = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place here has the label of the kind of point of interest the place is.",
     },
   ],

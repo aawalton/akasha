@@ -12,7 +12,7 @@ export const traits = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trait here is a trait a player researches on the item a line names.",
     },
   ],

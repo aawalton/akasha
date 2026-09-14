@@ -12,7 +12,7 @@ export const books = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book here is a book a player finds in the world and reads into a collection.",
     },
   ],

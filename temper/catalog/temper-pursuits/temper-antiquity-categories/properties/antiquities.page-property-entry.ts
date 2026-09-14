@@ -14,7 +14,7 @@ export const antiquities = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An antiquity here is an antiquity a player digs up and reads lore from.",
     },
   ],

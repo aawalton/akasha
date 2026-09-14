@@ -24,15 +24,15 @@ export const tracks = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every heard track names a Spotify track id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No two heard tracks on one page name the same Spotify track id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A heard track is written the first time the track is heard.",
     },
   ],

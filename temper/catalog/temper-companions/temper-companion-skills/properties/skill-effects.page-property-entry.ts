@@ -49,19 +49,19 @@ export const skillEffects = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An effect names the kind of thing casting a skill does.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which fields an effect carries beyond its kind follows from that kind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An effect that delays or repeats has an inner effect.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A skill with no effect states no effect rather than an empty list.",
     },
   ],

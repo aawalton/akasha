@@ -20,20 +20,20 @@ export const chronologyAnchors = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An anchor is one place in one chapter rather than a date the chapter has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An anchor has the words that date the anchor.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An anchor naming nobody who claimed that anchor is an anchor the story itself tells.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every chapter a world's chronology rests on has its anchors here.",
     },
   ],

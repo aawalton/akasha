@@ -13,11 +13,11 @@ export const bagSizes = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One line is one bag of one holder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A holder with no bag of a kind has no line for that kind.",
     },
   ],

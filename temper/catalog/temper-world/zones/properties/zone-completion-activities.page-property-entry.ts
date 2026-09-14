@@ -15,7 +15,7 @@ export const zoneCompletionActivities = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An activity here has the label of the completion type the activity falls under.",
     },
   ],

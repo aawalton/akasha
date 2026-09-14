@@ -14,7 +14,7 @@ export const mechanicReadings = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading names its mechanic unless the reading's kind is `none` or `unsure`.",
     },
   ],

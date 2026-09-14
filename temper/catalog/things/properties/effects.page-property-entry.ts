@@ -29,16 +29,16 @@ export const effects = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An effect moves a metric or puts a buff on the character or companion with the effect.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An effect stating no metric states a buff or a debuff.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which further fields an effect states is settled by the effect type.",
     },
   ],
