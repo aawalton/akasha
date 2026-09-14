@@ -11,6 +11,7 @@ import {
   TAKING,
   WRITING,
 } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
+import { akasha } from "akasha/akasha.domain.ts"
 import { heldSaid, WAITED_AT_MOST } from "akasha/git/modules/holding/holding.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -30,6 +31,8 @@ export const TASK = "rg --json needle ."
 
 const REFUSED = heldSaid(WAITED_AT_MOST)
 
+const AKASHA = `${akasha.type}/${akasha.slug}` as const
+
 export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`
 }
@@ -42,7 +45,7 @@ export function indexPut(root: string): string {
 export function pagePut(root: string, seatName: string, own: string, agentId: string): string {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
-  put(root, at, bodyOf(slug, seatName, "domain/akasha", "Explore", agentId))
+  put(root, at, bodyOf(slug, seatName, AKASHA, "Explore", agentId))
   valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
   return at
 }
@@ -50,7 +53,7 @@ export function pagePut(root: string, seatName: string, own: string, agentId: st
 export function awayPut(root: string, seatName: string, own: string, agentId: string): string {
   const slug = slugOf(seatName, own)
   const at = `agents/elsewhere/${slug}.subagent.ts`
-  put(root, at, bodyOf(slug, seatName, "domain/akasha", "Explore", agentId))
+  put(root, at, bodyOf(slug, seatName, AKASHA, "Explore", agentId))
   valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
   return at
 }

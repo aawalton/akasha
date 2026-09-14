@@ -12,7 +12,7 @@ const AT = ".local/state/workstation-services/landing-admission"
 
 const ROOM_GB = 8
 
-const HELD_MS = 30_000
+const HELD_MS = 1_000
 
 const ASKED_MS = 2_000
 
