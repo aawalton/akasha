@@ -9,7 +9,7 @@ export const kingdomOfThePlanetOfTheApes = {
   position: 12,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-05-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const theSuicideSquad = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-08-05",
   externalIdentity: [

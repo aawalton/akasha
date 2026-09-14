@@ -9,7 +9,7 @@ export const theXFiles1998 = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1998-06-19",
   externalIdentity: [

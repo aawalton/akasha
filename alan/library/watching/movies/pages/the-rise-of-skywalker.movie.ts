@@ -9,7 +9,7 @@ export const theRiseOfSkywalker = {
   position: 15,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-12-20",
   externalIdentity: [

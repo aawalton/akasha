@@ -9,7 +9,7 @@ export const theFlash = {
   position: 14,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-06-16",
   externalIdentity: [

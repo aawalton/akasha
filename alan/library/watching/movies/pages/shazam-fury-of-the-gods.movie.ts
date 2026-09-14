@@ -9,7 +9,7 @@ export const shazamFuryOfTheGods = {
   position: 13,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-03-17",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const guardiansOfTheGalaxy = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-08-01",
   externalIdentity: [

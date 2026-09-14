@@ -9,7 +9,7 @@ export const manOfSteel = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-06-14",
   externalIdentity: [

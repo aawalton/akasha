@@ -9,7 +9,7 @@ export const dungeonsAndDragonsHonorAmongThieves = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-03-31",
   externalIdentity: [

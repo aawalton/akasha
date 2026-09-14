@@ -9,7 +9,7 @@ export const twilightZoneTheMovie = {
   position: 1983,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1983-06-24",
   externalIdentity: [

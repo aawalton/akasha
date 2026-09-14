@@ -9,7 +9,7 @@ export const returnOfTheJedi = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1983-05-25",
   externalIdentity: [

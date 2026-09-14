@@ -9,7 +9,7 @@ export const blackPanther = {
   position: 18,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-02-16",
   externalIdentity: [

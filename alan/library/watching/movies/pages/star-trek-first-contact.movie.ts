@@ -9,7 +9,7 @@ export const starTrekFirstContact = {
   position: 13,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1996-11-22",
   externalIdentity: [

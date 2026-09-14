@@ -9,7 +9,7 @@ export const antManAndTheWasp = {
   position: 20,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-07-06",
   externalIdentity: [

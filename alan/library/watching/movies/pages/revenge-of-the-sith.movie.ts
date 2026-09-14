@@ -9,7 +9,7 @@ export const revengeOfTheSith = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-05-19",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const doctorStrangeInTheMultiverseOfMadness = {
   position: 33,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-05-06",
   externalIdentity: [

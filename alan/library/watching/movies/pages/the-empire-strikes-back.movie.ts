@@ -9,7 +9,7 @@ export const theEmpireStrikesBack = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1980-05-21",
   externalIdentity: [

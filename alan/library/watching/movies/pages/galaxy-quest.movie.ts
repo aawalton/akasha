@@ -9,7 +9,7 @@ export const galaxyQuest = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1999-12-25",
   externalIdentity: [

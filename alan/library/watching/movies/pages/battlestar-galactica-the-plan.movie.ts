@@ -9,7 +9,7 @@ export const battlestarGalacticaThePlan = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2009-10-27",
   externalIdentity: [

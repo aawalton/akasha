@@ -9,7 +9,7 @@ export const doctorStrange = {
   position: 14,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-04",
   externalIdentity: [

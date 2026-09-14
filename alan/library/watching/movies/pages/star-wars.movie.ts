@@ -9,7 +9,7 @@ export const starWars = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1977-05-25",
   externalIdentity: [

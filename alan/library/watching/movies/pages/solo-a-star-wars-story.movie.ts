@@ -9,7 +9,7 @@ export const soloAStarWarsStory = {
   position: 13,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-05-25",
   externalIdentity: [

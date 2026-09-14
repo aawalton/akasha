@@ -9,7 +9,7 @@ export const battleForThePlanetOfTheApes = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1973-06-15",
   externalIdentity: [

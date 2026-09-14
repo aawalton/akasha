@@ -9,7 +9,7 @@ export const starTrekViTheUndiscoveredCountry = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1991-12-06",
   externalIdentity: [

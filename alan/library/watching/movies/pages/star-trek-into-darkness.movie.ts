@@ -9,7 +9,7 @@ export const starTrekIntoDarkness = {
   position: 18,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2013-05-16",
   externalIdentity: [

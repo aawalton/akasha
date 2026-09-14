@@ -9,7 +9,7 @@ export const ironMan = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-05-02",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const escapeFromThePlanetOfTheApes = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1971-05-20",
   externalIdentity: [

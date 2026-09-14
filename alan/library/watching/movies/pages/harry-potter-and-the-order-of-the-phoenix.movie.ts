@@ -9,7 +9,7 @@ export const harryPotterAndTheOrderOfThePhoenix = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2007-07-11",

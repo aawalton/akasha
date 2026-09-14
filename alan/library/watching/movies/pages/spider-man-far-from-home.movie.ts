@@ -9,7 +9,7 @@ export const spiderManFarFromHome = {
   position: 23,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-07-02",
   externalIdentity: [

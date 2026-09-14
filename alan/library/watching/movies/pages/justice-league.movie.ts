@@ -9,7 +9,7 @@ export const justiceLeague = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-11-17",
   externalIdentity: [

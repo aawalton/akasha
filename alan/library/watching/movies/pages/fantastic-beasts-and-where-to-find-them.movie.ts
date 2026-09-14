@@ -9,7 +9,7 @@ export const fantasticBeastsAndWhereToFindThem = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2016-11-18",

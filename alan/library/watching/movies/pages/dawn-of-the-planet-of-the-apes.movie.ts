@@ -9,7 +9,7 @@ export const dawnOfThePlanetOfTheApes = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-07-11",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const theHobbitTheBattleOfTheFiveArmies = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2014-12-17",

@@ -9,7 +9,7 @@ export const thePhantomMenace = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1999-05-19",
   externalIdentity: [

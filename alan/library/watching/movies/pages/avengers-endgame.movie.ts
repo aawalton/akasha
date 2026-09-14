@@ -9,7 +9,7 @@ export const avengersEndgame = {
   position: 22,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-04-26",
   externalIdentity: [

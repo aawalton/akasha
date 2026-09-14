@@ -9,7 +9,7 @@ export const avengersAgeOfUltron = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-05-01",
   externalIdentity: [

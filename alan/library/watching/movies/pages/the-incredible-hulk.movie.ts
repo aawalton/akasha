@@ -9,7 +9,7 @@ export const theIncredibleHulk = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-06-12",
   externalIdentity: [

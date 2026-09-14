@@ -9,7 +9,7 @@ export const avengersInfinityWar = {
   position: 19,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-04-27",
   externalIdentity: [

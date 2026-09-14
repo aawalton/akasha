@@ -9,7 +9,7 @@ export const beneathThePlanetOfTheApes = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1970-05-26",
   externalIdentity: [

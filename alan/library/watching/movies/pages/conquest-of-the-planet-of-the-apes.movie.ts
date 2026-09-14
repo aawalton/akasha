@@ -9,7 +9,7 @@ export const conquestOfThePlanetOfTheApes = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1972-06-29",
   externalIdentity: [

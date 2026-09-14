@@ -9,7 +9,7 @@ export const spiderManNoWayHome = {
   position: 27,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-12-17",
   externalIdentity: [

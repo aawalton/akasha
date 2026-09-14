@@ -9,7 +9,7 @@ export const eternals = {
   position: 26,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-11-05",
   externalIdentity: [

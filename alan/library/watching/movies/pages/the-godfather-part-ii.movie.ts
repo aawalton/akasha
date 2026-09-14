@@ -9,7 +9,7 @@ export const theGodfatherPartIi = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1974-12-20",
   externalIdentity: [

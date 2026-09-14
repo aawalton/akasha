@@ -9,7 +9,7 @@ export const rogueOne = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-12-16",
   externalIdentity: [

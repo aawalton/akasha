@@ -9,7 +9,7 @@ export const shangChiAndTheLegendOfTheTenRings = {
   position: 25,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-03",
   externalIdentity: [

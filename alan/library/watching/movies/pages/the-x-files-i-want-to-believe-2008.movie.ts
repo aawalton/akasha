@@ -9,7 +9,7 @@ export const theXFilesIWantToBelieve2008 = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-07-25",
   externalIdentity: [

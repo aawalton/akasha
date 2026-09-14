@@ -9,7 +9,7 @@ export const piratesOfTheCaribbeanOnStrangerTides = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-05-20",
   externalIdentity: [

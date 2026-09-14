@@ -9,7 +9,7 @@ export const theLastJedi = {
   position: 12,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-12-15",
   externalIdentity: [

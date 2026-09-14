@@ -9,7 +9,7 @@ export const riseOfThePlanetOfTheApes = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-08-05",
   externalIdentity: [

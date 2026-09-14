@@ -9,7 +9,7 @@ export const dune = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1984-12-14",
   externalIdentity: [

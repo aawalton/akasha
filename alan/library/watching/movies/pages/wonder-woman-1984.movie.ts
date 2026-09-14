@@ -9,7 +9,7 @@ export const wonderWoman1984 = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-12-25",
   externalIdentity: [

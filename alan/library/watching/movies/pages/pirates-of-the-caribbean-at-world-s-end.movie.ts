@@ -9,7 +9,7 @@ export const piratesOfTheCaribbeanAtWorldSEnd = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2007-05-25",
   externalIdentity: [

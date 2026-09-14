@@ -9,7 +9,7 @@ export const aCallToArms = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1999-01-03",
   externalIdentity: [

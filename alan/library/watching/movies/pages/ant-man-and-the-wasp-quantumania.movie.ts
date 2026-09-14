@@ -9,7 +9,7 @@ export const antManAndTheWaspQuantumania = {
   position: 41,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-02-17",
   externalIdentity: [

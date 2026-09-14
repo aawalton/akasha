@@ -9,7 +9,7 @@ export const theLordOfTheRingsTheTwoTowers = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2002-12-18",

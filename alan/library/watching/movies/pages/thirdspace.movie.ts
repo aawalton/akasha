@@ -9,7 +9,7 @@ export const thirdspace = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1998-07-19",
   externalIdentity: [

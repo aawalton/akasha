@@ -9,7 +9,7 @@ export const antMan = {
   position: 12,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-07-17",
   externalIdentity: [

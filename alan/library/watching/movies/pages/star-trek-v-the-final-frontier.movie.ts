@@ -9,7 +9,7 @@ export const starTrekVTheFinalFrontier = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1989-06-09",
   externalIdentity: [

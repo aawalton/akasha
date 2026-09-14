@@ -9,7 +9,7 @@ export const theLegendOfTheRangersToLiveAndDieInStarlight = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2002-01-19",
   externalIdentity: [

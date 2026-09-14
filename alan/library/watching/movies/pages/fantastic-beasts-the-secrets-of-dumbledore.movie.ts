@@ -9,7 +9,7 @@ export const fantasticBeastsTheSecretsOfDumbledore = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-04-15",

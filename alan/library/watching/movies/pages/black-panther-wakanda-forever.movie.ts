@@ -9,7 +9,7 @@ export const blackPantherWakandaForever = {
   position: 39,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-11-11",
   externalIdentity: [

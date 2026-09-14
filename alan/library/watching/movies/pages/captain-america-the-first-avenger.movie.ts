@@ -9,7 +9,7 @@ export const captainAmericaTheFirstAvenger = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-07-22",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const thunderbolts = {
   position: 56,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-05-02",
   externalIdentity: [

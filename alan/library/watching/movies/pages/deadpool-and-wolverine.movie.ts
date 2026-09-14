@@ -9,7 +9,7 @@ export const deadpoolAndWolverine = {
   position: 50,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-07-26",
   externalIdentity: [

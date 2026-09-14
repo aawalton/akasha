@@ -9,7 +9,7 @@ export const thorRagnarok = {
   position: 17,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-11-03",
   externalIdentity: [

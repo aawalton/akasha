@@ -9,7 +9,7 @@ export const theAvengers = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-05-04",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const babylon5TheRoadHome = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-08-15",
   externalIdentity: [

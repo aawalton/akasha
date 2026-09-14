@@ -9,7 +9,7 @@ export const starTrekBeyond = {
   position: 19,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-07-22",
   externalIdentity: [

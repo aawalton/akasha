@@ -9,7 +9,7 @@ export const piratesOfTheCaribbeanDeadManSChest = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2006-07-07",
   externalIdentity: [

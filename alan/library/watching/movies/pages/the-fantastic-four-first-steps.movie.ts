@@ -9,7 +9,7 @@ export const theFantasticFourFirstSteps = {
   position: 57,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-07-25",
   externalIdentity: [

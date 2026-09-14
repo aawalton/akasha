@@ -9,7 +9,7 @@ export const guardiansOfTheGalaxyVol3 = {
   position: 43,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-05-05",
   externalIdentity: [

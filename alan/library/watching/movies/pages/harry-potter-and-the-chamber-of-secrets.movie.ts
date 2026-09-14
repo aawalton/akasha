@@ -9,7 +9,7 @@ export const harryPotterAndTheChamberOfSecrets = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2002-11-15",

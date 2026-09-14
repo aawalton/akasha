@@ -9,7 +9,7 @@ export const attackOfTheClones = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2002-05-16",
   externalIdentity: [

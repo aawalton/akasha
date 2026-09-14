@@ -9,7 +9,7 @@ export const swordArtOnlineTheMovieProgressiveAriaOfAStarlessNight2 = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-10-30",

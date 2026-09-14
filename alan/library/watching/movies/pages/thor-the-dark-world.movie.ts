@@ -9,7 +9,7 @@ export const thorTheDarkWorld = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-11-08",
   externalIdentity: [

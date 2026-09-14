@@ -9,7 +9,7 @@ export const theGodfather = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1972-03-24",
   externalIdentity: [

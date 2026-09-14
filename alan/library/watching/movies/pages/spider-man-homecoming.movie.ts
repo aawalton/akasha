@@ -9,7 +9,7 @@ export const spiderManHomecoming = {
   position: 16,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-07-07",
   externalIdentity: [

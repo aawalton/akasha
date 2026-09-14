@@ -9,7 +9,7 @@ export const doctorWho1996 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1996-05-14",
   externalIdentity: [
