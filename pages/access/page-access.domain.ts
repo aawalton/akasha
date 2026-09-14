@@ -16,7 +16,6 @@ export const pageAccess = {
     "module/domain-title-prefix",
     "module/file-backed-roster",
     "module/file-narrow",
-    "module/file-page-name",
     "module/file-page-type-config",
     "module/file-property-defs",
     "module/file-read",
