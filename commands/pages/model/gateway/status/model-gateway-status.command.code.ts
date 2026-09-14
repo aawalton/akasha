@@ -1,5 +1,5 @@
 import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
-import type { LiveProxySeat } from "akasha/agent/model/gateway/modules/proxy-seat/proxy-seats.module.code.ts"
+import type { LiveProxySeat } from "akasha/agent/model/gateway/modules/proxy-seat/proxy-seat.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
@@ -10,7 +10,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { liveSeats } from "akasha/commands/pages/model/gateway/modules/live-gateway-seat/live-gateway-seats.module.code.ts"
+import { liveSeats } from "akasha/commands/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.code.ts"
 import { modelGatewayStatus as page } from "akasha/commands/pages/model/gateway/status/model-gateway-status.command.ts"
 
 const SHORT = 12

@@ -1,12 +1,12 @@
 import {
   type Definition,
   everyKind,
-} from "akasha/agent/subagent/modules/compose-subagent/compose-subagents.module.code.ts"
+} from "akasha/agent/subagent/modules/compose-subagent/compose-subagent.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const LOG = "[spawn-agents]"
 
-const COMPOSE_MODULE = "compose-subagents"
+const COMPOSE_MODULE = "compose-subagent"
 
 const DELEGATION_TOOL = "Agent"
 

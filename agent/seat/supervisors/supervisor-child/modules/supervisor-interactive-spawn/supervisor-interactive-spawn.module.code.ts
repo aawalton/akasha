@@ -22,7 +22,7 @@ import { processCleanup } from "akasha/agent/seat/supervisors/supervisor-child/m
 import {
   disallowedToolsForLaunch,
   resolveSubagentDefinitions,
-} from "akasha/agent/seat/supervisors/supervisor-child/modules/supervisor-spawn-agent/supervisor-spawn-agents.module.code.ts"
+} from "akasha/agent/seat/supervisors/supervisor-child/modules/supervisor-spawn-agent/supervisor-spawn-agent.module.code.ts"
 import { materializeSpawnSettings } from "akasha/agent/seat/supervisors/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 import type { SeatResume } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"

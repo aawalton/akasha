@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const composeSubagents = {
+export const composeSubagent = {
   id: "01a0693a-bad9-717d-acdb-f16a6ac2554c",
   type: "module",
-  slug: "compose-subagents",
+  slug: "compose-subagent",
   definition: "every subagent kind rendered as the JSON object the client's agents flag takes",
   code: "ts",
   invariants: [

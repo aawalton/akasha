@@ -19,7 +19,7 @@ export const supervisorChild = {
     "module/supervisor-interactive-spawn",
     "module/supervisor-seat-defaults",
     "module/supervisor-seat-spawn-decisions",
-    "module/supervisor-spawn-agents",
+    "module/supervisor-spawn-agent",
     "module/supervisor-spawn-settings",
   ],
 } as const satisfies Domain

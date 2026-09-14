@@ -10,7 +10,7 @@ export const subagent = {
   mortal: true,
   parts: [
     "boolean-property/subagent-stopped",
-    "module/compose-subagents",
+    "module/compose-subagent",
     "module/subagent-body",
     "module/subagent-census",
     "module/subagent-guard",

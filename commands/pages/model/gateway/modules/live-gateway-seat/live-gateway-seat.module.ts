@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const liveGatewaySeats = {
+export const liveGatewaySeat = {
   id: "01a07c0e-3845-7753-9dd0-c01a2d905a11",
   type: "module",
-  slug: "live-gateway-seats",
+  slug: "live-gateway-seat",
   definition: "the seats with a gateway process that still answers",
   code: "ts",
   invariants: [
@@ -17,7 +17,7 @@ export const liveGatewaySeats = {
     },
     {
       invariantKind: "gap",
-      statement: "The ordering and the liveness folding are `agent/proxy-seats`.",
+      statement: "The ordering and the liveness folding are `agent/proxy-seat`.",
     },
     {
       invariantKind: "absence",
