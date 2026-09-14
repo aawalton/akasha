@@ -155,19 +155,8 @@ function listed(every: readonly string[], calledAs: string): string {
   return every.map((one) => `  ${calledAs} ${one}`).join("\n")
 }
 
-function pageAt(root: string, slug: string): string | null {
-  const said = commandSlugIn(root)
-  const found = said === null ? [] : listedAt(root, said, slug)
-  return found.length === 1 ? (found[0]?.path ?? null) : null
-}
-
 function fileBeside(page: string): string | null {
   return besideAt(page, CODE, TS)
-}
-
-export function commandFileIn(root: string, slug: string): string | null {
-  const page = pageAt(root, slug)
-  return page === null ? null : fileBeside(page)
 }
 
 function pageIn(root: string, path: string, slug: string): Record<string, unknown> | null {
