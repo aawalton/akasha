@@ -5,7 +5,6 @@ export const role = {
   type: "page-type",
   slug: "role",
   definition: "the work an agent is answerable for",
-  pluralSlug: "roles",
   extends: ["page-type/domain"],
   parts: [
     "role/coach",
