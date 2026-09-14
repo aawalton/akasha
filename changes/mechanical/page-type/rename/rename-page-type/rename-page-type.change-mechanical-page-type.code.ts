@@ -1,4 +1,7 @@
-import { restatedOver } from "akasha/changes/modules/address-restating/address-restating.module.code.ts"
+import {
+  pathsSpelling,
+  restatedOver,
+} from "akasha/changes/modules/address-restating/address-restating.module.code.ts"
 import {
   gathered,
   pathsIn,
@@ -20,11 +23,7 @@ import {
   pagesMoved,
   typeMoved,
 } from "akasha/changes/modules/page-type-renaming/page-type-renaming.module.code.ts"
-import {
-  pathsThere,
-  type World,
-  worldOver,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { type World, worldOver } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
@@ -164,7 +163,7 @@ function answeredIn(world: World, given: Asked, was: string): Answer {
   const own = ownAnew(world, given, read.lands)
   if (typeof own === "string") return refusing(own)
   const edits: FileChange[] = [
-    ...restatedOver(pathsThere(world), world.textOf, read.addresses),
+    ...restatedOver(pathsSpelling(world, read.addresses), world.textOf, read.addresses),
     ...carried,
   ]
   for (const one of read.paged) {

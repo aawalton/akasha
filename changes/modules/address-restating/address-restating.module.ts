@@ -26,6 +26,10 @@ export const addressRestating = {
     },
     {
       invariantKind: "departure",
+      statement: "The bodies read are the ones a search of the tree names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The bodies read are the paths the world holds once the edits so far have landed.",
     },
     {
@@ -35,6 +39,10 @@ export const addressRestating = {
     {
       invariantKind: "departure",
       statement: "A path the answer carries away is left out of the bodies read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree that could not be searched refuses rather than restating nothing.",
     },
     {
       invariantKind: "departure",

@@ -5,10 +5,29 @@ import {
   restatedOver,
 } from "akasha/changes/modules/address-restating/address-restating.module.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyAnswered,
   worldOf,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  put,
+  scratch,
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+
+function worldSpelling(
+  held: Readonly<Record<string, string>>,
+  over: Answer = NOTHING_OVER,
+  wrote: Readonly<Record<string, string>> = held
+): World {
+  const root = scratch.rootFor("address-restating-")
+  for (const [at, body] of Object.entries(wrote)) put(root, at, body)
+  return { ...worldOf(held), root, over }
+}
 
 const ONE_WAS = ["held-kind", "held-one"].join("/")
 
@@ -78,7 +97,7 @@ test("the page type of each address is what a body is parsed for", () => {
 })
 
 test("the bodies read are the paths the world holds", () => {
-  const said = restatedIn(worldOf({ [PAGE_AT]: PAGE_BODY, [OTHER_AT]: OTHER_BODY }), MOVED)
+  const said = restatedIn(worldSpelling({ [PAGE_AT]: PAGE_BODY, [OTHER_AT]: OTHER_BODY }), MOVED)
 
   expect(said.refused).toBe(null)
   expect(said.edits.flatMap(pathsOf)).toEqual([PAGE_AT])
@@ -131,35 +150,35 @@ const SCOPED_BODY = `export const heldThree = {
 `
 
 test("an address handed to a call is restated", () => {
-  const world = worldOf({ [CALL_AT]: CALL_BODY })
+  const world = worldSpelling({ [CALL_AT]: CALL_BODY })
   const said = restatedIn(world, ONE)
 
   expect(bodyAnswered(said, world, CALL_AT)).toBe(`held(world, "${ONE_NOW}", {})\n`)
 })
 
 test("a body a machine writes is restated too", () => {
-  const world = worldOf({ [MADE_AT]: MADE_BODY })
+  const world = worldSpelling({ [MADE_AT]: MADE_BODY })
   const said = restatedIn(world, ONE)
 
   expect(bodyAnswered(said, world, MADE_AT)).toBe(`export type Held = { "${ONE_NOW}": string }\n`)
 })
 
 test("a body spelling the slug without its page type is left as that body is", () => {
-  const said = restatedIn(worldOf({ [BARE_AT]: BARE_BODY }), ONE)
+  const said = restatedIn(worldSpelling({ [BARE_AT]: BARE_BODY }), ONE)
 
   expect(said.refused).toBe(null)
   expect(said.edits).toHaveLength(0)
 })
 
 test("an address naming a scope between the page type and the slug is restated", () => {
-  const world = worldOf({ [SCOPED_AT]: SCOPED_BODY })
+  const world = worldSpelling({ [SCOPED_AT]: SCOPED_BODY })
   const said = restatedIn(world, new Map([[SCOPED_WAS, SCOPED_NOW]]))
 
   expect(bodyAnswered(said, world, SCOPED_AT)).toContain(`["${SCOPED_NOW}"]`)
 })
 
 test("an address naming no scope leaves a body spelling a scoped address alone", () => {
-  const said = restatedIn(worldOf({ [SCOPED_AT]: SCOPED_BODY }), ONE)
+  const said = restatedIn(worldSpelling({ [SCOPED_AT]: SCOPED_BODY }), ONE)
 
   expect(said.refused).toBe(null)
   expect(said.edits).toHaveLength(0)
@@ -169,4 +188,37 @@ test("a name with more parts than a page type, a scope and a slug is refused", (
   const said = restatedIn(worldOf({}), new Map([[`${SCOPED_WAS}/held-more`, SCOPED_NOW]]))
 
   expect(said.refused).toContain("is no address")
+})
+
+const WRITTEN_AT = "akasha/held/four/held-four.held-kind.code.ts"
+
+const WRITTEN_WAS = `const HELD = "other/thing"\n`
+
+const WRITTEN_NOW = `const HELD = "${ONE_WAS}"\n`
+
+test("the bodies read are the ones a search of the tree names", () => {
+  const world = worldSpelling({ [PAGE_AT]: PAGE_BODY }, NOTHING_OVER, { [OTHER_AT]: OTHER_BODY })
+  const said = restatedIn(world, MOVED)
+
+  expect(said.refused).toBe(null)
+  expect(said.edits).toHaveLength(0)
+})
+
+test("a path the answer writes is read beside the paths the index lists", () => {
+  const over: Answer = {
+    edits: [
+      { kind: "replace", path: WRITTEN_AT, contentFrom: WRITTEN_WAS, contentTo: WRITTEN_NOW },
+    ],
+    refused: null,
+  }
+  const world = worldSpelling({ [WRITTEN_AT]: WRITTEN_NOW }, over, { [WRITTEN_AT]: WRITTEN_WAS })
+  const said = restatedIn(world, ONE)
+
+  expect(bodyAnswered(said, world, WRITTEN_AT)).toBe(`const HELD = "${ONE_NOW}"\n`)
+})
+
+test("a tree that could not be searched refuses rather than restating nothing", () => {
+  const said = restatedIn(worldOf({ [PAGE_AT]: PAGE_BODY }), MOVED)
+
+  expect(said.refused).toContain("so no address was restated")
 })
