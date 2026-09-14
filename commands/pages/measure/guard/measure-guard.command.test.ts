@@ -12,7 +12,10 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { measureGuard } from "akasha/commands/pages/measure/guard/measure-guard.command.code.ts"
 import { measureGuard as page } from "akasha/commands/pages/measure/guard/measure-guard.command.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -35,9 +38,13 @@ const HOOK = "agent-hook"
 
 const ASKING = "inference-hook"
 
+const HOOK_SLUG = "held-guard"
+
 const HOOK_PAGE = "temper/held-guard/held-guard.agent-hook.ts"
 
 const HOOK_ROWS = "temper/held-guard/held-guard.agent-hook.entries.uncommitted.jsonl"
+
+const ASKING_SLUG = "held-asking"
 
 const ASKING_PAGE = "temper/held-asking/held-asking.inference-hook.ts"
 
@@ -78,16 +85,18 @@ const rootHolding = (
 ): string => {
   const root = scratch.rootFor("measure-guard-")
   nothingFiled(root)
+  listedFiled(root, HOOK, HOOK_SLUG, [{ path: HOOK_PAGE, id: ONE }])
   valueAlsoFiled(root, HOOK, [
     {
       path: HOOK_PAGE,
-      value: { id: ONE, pageTypeSlug: HOOK, slug: "held-guard", runsAt: [OVER_TOOLS] },
+      value: { id: ONE, pageTypeSlug: HOOK, slug: HOOK_SLUG, runsAt: [OVER_TOOLS] },
     },
   ])
+  listedFiled(root, ASKING, ASKING_SLUG, [{ path: ASKING_PAGE, id: TWO }])
   valueAlsoFiled(root, ASKING, [
     {
       path: ASKING_PAGE,
-      value: { id: TWO, pageTypeSlug: ASKING, slug: "held-asking", runsAt: [OVER_STOP] },
+      value: { id: TWO, pageTypeSlug: ASKING, slug: ASKING_SLUG, runsAt: [OVER_STOP] },
     },
   ])
   for (const [at, rows] of Object.entries(held)) {
