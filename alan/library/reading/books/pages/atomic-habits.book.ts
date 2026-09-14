@@ -7,6 +7,6 @@ export const atomicHabits = {
   title: "Atomic Habits",
   status: "not-started",
   author: "James Clear",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 83700,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const shrubleyTheMonsterAdventurer = {
   title: "Shrubley, The Monster Adventurer",
   status: "completed",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 147000,
   ownProgress: 147000,

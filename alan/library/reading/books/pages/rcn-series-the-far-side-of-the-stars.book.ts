@@ -6,7 +6,7 @@ export const rcnSeriesTheFarSideOfTheStars = {
   slug: "rcn-series-the-far-side-of-the-stars",
   title: "RCN Series: The Far Side of the Stars",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 125750,
   externalIdentity: [

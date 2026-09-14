@@ -8,7 +8,7 @@ export const theLittleBookOfTalent = {
   status: "completed",
   rank: "A",
   author: "Daniel Coyle",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 27750,
   ownProgress: 27750,
 } as const satisfies Book

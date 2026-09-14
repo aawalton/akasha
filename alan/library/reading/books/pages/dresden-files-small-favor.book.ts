@@ -7,7 +7,7 @@ export const dresdenFilesSmallFavor = {
   title: "Dresden Files: Small Favor",
   status: "not-started",
   author: "Jim Butcher",
-  unit: "words",
+  unit: "unit/words",
   position: 9,
   ownLength: 111000,
   externalIdentity: [

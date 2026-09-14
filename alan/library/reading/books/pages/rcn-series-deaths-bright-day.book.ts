@@ -6,7 +6,7 @@ export const rcnSeriesDeathsBrightDay = {
   slug: "rcn-series-deaths-bright-day",
   title: "RCN Series: Death's Bright Day",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 76250,
   externalIdentity: [

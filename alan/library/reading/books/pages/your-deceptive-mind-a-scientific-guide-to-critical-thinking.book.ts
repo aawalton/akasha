@@ -7,6 +7,6 @@ export const yourDeceptiveMindAScientificGuideToCriticalThinking = {
   title: "Your Deceptive Mind: A Scientific Guide to Critical Thinking",
   status: "not-started",
   author: "Professor Steven Novella; The Great Courses",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 189750,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const motherOfLearningBook1 = {
   title: "Mother of Learning",
   status: "completed",
   author: "Domagoj Kurmaic",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 161250,
   ownProgress: 161250,

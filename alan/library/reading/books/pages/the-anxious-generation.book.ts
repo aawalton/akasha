@@ -7,6 +7,6 @@ export const theAnxiousGeneration = {
   title: "The Anxious Generation",
   status: "not-started",
   author: "Jonathan Haidt",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 157950,
 } as const satisfies Book

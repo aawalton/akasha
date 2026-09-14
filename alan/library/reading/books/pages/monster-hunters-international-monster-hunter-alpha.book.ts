@@ -7,7 +7,7 @@ export const monsterHuntersInternationalMonsterHunterAlpha = {
   title: "Monster Hunters International: Monster Hunter Alpha",
   status: "not-started",
   author: "Nick Roberts, Greg Kramer",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 127750,
   externalIdentity: [

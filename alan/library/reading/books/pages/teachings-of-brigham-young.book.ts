@@ -7,7 +7,7 @@ export const teachingsOfBrighamYoung = {
   title: "Teachings of Brigham Young",
   status: "not-started",
   author: "Brigham Young",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 121250,
 } as const satisfies Book

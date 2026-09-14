@@ -7,6 +7,6 @@ export const whatTheDogSaw = {
   title: "What the Dog Saw",
   status: "not-started",
   author: "Malcolm Gladwell",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 191550,
 } as const satisfies Book

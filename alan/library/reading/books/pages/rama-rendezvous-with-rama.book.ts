@@ -7,7 +7,7 @@ export const ramaRendezvousWithRama = {
   title: "Rama: Rendezvous with Rama",
   status: "not-started",
   author: "Arthur C. Clarke",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 65250,
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const vattasWarCommandDecision = {
   title: "Vatta's War: Command Decision",
   status: "not-started",
   author: "Elizabeth Moon",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 96500,
   externalIdentity: [

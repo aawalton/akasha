@@ -7,7 +7,7 @@ export const ultimateLevel1ShatteredBoundaries = {
   title: "Ultimate Level 1: Shattered Boundaries",
   status: "completed",
   author: "Shawn Wilson",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 105000,
   ownProgress: 105000,

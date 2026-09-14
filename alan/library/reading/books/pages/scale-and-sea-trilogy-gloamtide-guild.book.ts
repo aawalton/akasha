@@ -6,7 +6,7 @@ export const scaleAndSeaTrilogyGloamtideGuild = {
   slug: "scale-and-sea-trilogy-gloamtide-guild",
   title: "Scale & Sea Trilogy: Gloamtide Guild",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 119250,
   ownProgress: 119250,

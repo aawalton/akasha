@@ -8,7 +8,7 @@ export const wheelOfTimeACrownOfSwords = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 225500,
   ownProgress: 225500,

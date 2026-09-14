@@ -6,7 +6,7 @@ export const milesVorsokiganCryoburn = {
   slug: "miles-vorsokigan-cryoburn",
   title: "Miles Vorsokigan: CryoBurn",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 13,
   ownLength: 92000,
   externalIdentity: [

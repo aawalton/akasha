@@ -6,7 +6,7 @@ export const honorHarringtonWorldsOfHonorChangerOfWorlds = {
   slug: "honor-harrington-worlds-of-honor-changer-of-worlds",
   title: "Honor Harrington - Worlds of Honor: Changer of Worlds",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 99000,
   externalIdentity: [

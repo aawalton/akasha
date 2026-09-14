@@ -7,6 +7,6 @@ export const theClocks = {
   title: "The Clocks",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 29,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const secondAgeOfRethraTheDesperateQuest = {
   title: "Second Age of Rethra: The Desperate Quest",
   status: "completed",
   rank: "A",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 79500,
   ownProgress: 79500,

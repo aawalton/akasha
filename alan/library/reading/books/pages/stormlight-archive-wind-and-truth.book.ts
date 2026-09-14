@@ -7,7 +7,7 @@ export const stormlightArchiveWindAndTruth = {
   title: "Stormlight Archive: Wind and Truth",
   status: "not-started",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 329000,
   publishedAt: "2024-12-06",

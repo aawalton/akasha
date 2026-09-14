@@ -8,7 +8,7 @@ export const wheelOfTimeCrossroadsOfTwilight = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 156750,
   ownProgress: 156750,

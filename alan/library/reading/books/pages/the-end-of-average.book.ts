@@ -7,6 +7,6 @@ export const theEndOfAverage = {
   title: "The End of Average",
   status: "not-started",
   author: "Todd Rose, Todd Rose",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 97800,
 } as const satisfies Book

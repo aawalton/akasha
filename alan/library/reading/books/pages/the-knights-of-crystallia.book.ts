@@ -8,7 +8,7 @@ export const theKnightsOfCrystallia = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 77250,
   ownProgress: 77250,

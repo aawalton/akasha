@@ -7,7 +7,7 @@ export const poetsProgress = {
   title: "Poet's Progress",
   status: "not-started",
   author: "Ben Linsey-Bloom, Pamella Linsey",
-  unit: "words",
+  unit: "unit/words",
   position: 13,
   ownLength: 55750,
 } as const satisfies Book

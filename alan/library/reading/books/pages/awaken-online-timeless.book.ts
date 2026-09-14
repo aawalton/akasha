@@ -7,7 +7,7 @@ export const awakenOnlineTimeless = {
   title: "Awaken Online: Timeless",
   status: "completed",
   author: "Travis Bagwell",
-  unit: "words",
+  unit: "unit/words",
   position: 11,
   ownLength: 195250,
   ownProgress: 195250,

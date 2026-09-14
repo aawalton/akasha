@@ -7,7 +7,7 @@ export const safeholdByHeresiesDistressed = {
   title: "Safehold: By Heresies Distressed",
   status: "not-started",
   author: "David Weber",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 164000,
   externalIdentity: [

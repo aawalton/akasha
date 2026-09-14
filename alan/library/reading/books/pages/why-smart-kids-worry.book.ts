@@ -7,6 +7,6 @@ export const whySmartKidsWorry = {
   title: "Why Smart Kids Worry",
   status: "not-started",
   author: "Allison Edwards",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 98550,
 } as const satisfies Book

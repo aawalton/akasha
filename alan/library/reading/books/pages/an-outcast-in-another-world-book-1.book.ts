@@ -7,7 +7,7 @@ export const anOutcastInAnotherWorldBook1 = {
   title: "An Outcast In Another World",
   status: "completed",
   author: "KamikazePotato ",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 112250,
   ownProgress: 112250,

@@ -6,7 +6,7 @@ export const chrysalisAntelligentDesign = {
   slug: "chrysalis-antelligent-design",
   title: "Chrysalis: Antelligent Design",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 184000,
   ownProgress: 184000,

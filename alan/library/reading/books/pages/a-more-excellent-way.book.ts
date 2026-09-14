@@ -8,7 +8,7 @@ export const aMoreExcellentWay = {
   status: "completed",
   rank: "C",
   author: "Henry Wright",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 34750,
   ownProgress: 34750,

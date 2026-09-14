@@ -7,6 +7,6 @@ export const theAddictiveBrain = {
   title: "The Addictive Brain",
   status: "not-started",
   author: "David K. Miller, Kenneth Blum",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 94800,
 } as const satisfies Book

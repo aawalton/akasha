@@ -7,7 +7,7 @@ export const cinnamonBun6 = {
   title: "Cinnamon Bun 6",
   status: "not-started",
   author: "Sara B.",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 80250,
   publishedAt: "2025-06-24",

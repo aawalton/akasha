@@ -8,7 +8,7 @@ export const weTalkOfChristWeRejoiceInChrist = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 44000,
   ownProgress: 44000,

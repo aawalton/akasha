@@ -6,7 +6,7 @@ export const dragonHeartLandOfTheEnemy = {
   slug: "dragon-heart-land-of-the-enemy",
   title: "Dragon Heart: Land of The Enemy",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 90750,
   ownProgress: 90750,

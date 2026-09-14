@@ -7,7 +7,7 @@ export const daemonFreedom = {
   title: "Daemon: Freedom",
   status: "not-started",
   author: "François-René de Chateaubriand",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 104250,
   externalIdentity: [

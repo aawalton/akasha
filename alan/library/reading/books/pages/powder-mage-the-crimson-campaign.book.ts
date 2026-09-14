@@ -7,7 +7,7 @@ export const powderMageTheCrimsonCampaign = {
   title: "Powder Mage: The Crimson Campaign",
   status: "not-started",
   author: "Brian McClellan",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 157000,
   externalIdentity: [

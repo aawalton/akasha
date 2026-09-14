@@ -7,7 +7,7 @@ export const theLostMetal = {
   title: "The Lost Metal",
   status: "not-started",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 132000,
   externalIdentity: [

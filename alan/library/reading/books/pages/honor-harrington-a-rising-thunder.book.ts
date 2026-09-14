@@ -7,7 +7,7 @@ export const honorHarringtonARisingThunder = {
   title: "Honor Harrington: A Rising Thunder",
   status: "not-started",
   author: "David Weber",
-  unit: "words",
+  unit: "unit/words",
   position: 12,
   ownLength: 105750,
   externalIdentity: [

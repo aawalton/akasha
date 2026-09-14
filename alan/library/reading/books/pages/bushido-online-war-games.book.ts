@@ -6,7 +6,7 @@ export const bushidoOnlineWarGames = {
   slug: "bushido-online-war-games",
   title: "Bushido Online: War Games",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 152250,
   ownProgress: 152250,

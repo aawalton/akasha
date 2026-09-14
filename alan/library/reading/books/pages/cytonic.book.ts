@@ -8,7 +8,7 @@ export const cytonic = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 103750,
   ownProgress: 103750,

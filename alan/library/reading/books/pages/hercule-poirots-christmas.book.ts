@@ -7,6 +7,6 @@ export const herculePoirotsChristmas = {
   title: "Hercule Poirot's Christmas",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 17,
 } as const satisfies Book

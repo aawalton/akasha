@@ -7,6 +7,6 @@ export const youAreNowLessDumb = {
   title: "You Are Now Less Dumb",
   status: "not-started",
   author: "David McRaney",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 130050,
 } as const satisfies Book

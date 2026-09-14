@@ -8,7 +8,7 @@ export const childrenOfTheNameless = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 9,
   ownLength: 55000,
   ownProgress: 55000,

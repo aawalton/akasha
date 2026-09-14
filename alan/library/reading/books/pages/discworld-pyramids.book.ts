@@ -7,7 +7,7 @@ export const discworldPyramids = {
   title: "Discworld: Pyramids",
   status: "not-started",
   author: "Terry Pratchett",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 92000,
   externalIdentity: [

@@ -7,7 +7,7 @@ export const runelordsBrotherhoodOfTheWolf = {
   title: "Runelords: Brotherhood of the Wolf",
   status: "not-started",
   author: "David Farland",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 168750,
   externalIdentity: [

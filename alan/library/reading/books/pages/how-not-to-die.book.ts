@@ -7,6 +7,6 @@ export const howNotToDie = {
   title: "How Not to Die",
   status: "not-started",
   author: "Michael Greger, Gene Stone",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 264000,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const book1776 = {
   title: "1776",
   status: "not-started",
   author: "David McCullough",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 73500,
 } as const satisfies Book

@@ -7,6 +7,6 @@ export const theHappinessHypothesis = {
   title: "The Happiness Hypothesis",
   status: "not-started",
   author: "Jonathan Haidt",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 154500,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const expeditionaryForceRenegades = {
   title: "Expeditionary Force: Renegades",
   status: "not-started",
   author: "Craig Alanson",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 79000,
   externalIdentity: [

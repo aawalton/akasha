@@ -6,7 +6,7 @@ export const theCalamitousBobTheDeathPath = {
   slug: "the-calamitous-bob-the-death-path",
   title: "The Calamitous Bob: The Death Path",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 98000,
   ownProgress: 98000,

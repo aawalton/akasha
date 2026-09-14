@@ -6,7 +6,7 @@ export const theCalamitousBobTheLeagueOfLesserEvil = {
   slug: "the-calamitous-bob-the-league-of-lesser-evil",
   title: "The Calamitous Bob: The League of Lesser Evil",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 139000,
   ownProgress: 139000,

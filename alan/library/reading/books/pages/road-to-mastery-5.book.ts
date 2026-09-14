@@ -7,7 +7,7 @@ export const roadToMastery5 = {
   title: "Road to Mastery 5",
   status: "completed",
   author: "Valerios",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 138000,
   ownProgress: 138000,

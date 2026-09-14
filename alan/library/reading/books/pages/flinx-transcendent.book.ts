@@ -7,6 +7,6 @@ export const flinxTranscendent = {
   title: "Flinx Transcendent",
   status: "not-started",
   author: "Alan Dean Foster",
-  unit: "words",
+  unit: "unit/words",
   position: 14,
 } as const satisfies Book

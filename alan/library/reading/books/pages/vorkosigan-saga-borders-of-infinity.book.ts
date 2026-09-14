@@ -7,7 +7,7 @@ export const vorkosiganSagaBordersOfInfinity = {
   title: "Vorkosigan Saga: Borders of Infinity",
   status: "not-started",
   author: "Lois McMaster Bujold",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 76250,
   externalIdentity: [

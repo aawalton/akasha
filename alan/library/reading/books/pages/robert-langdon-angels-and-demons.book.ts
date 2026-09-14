@@ -7,7 +7,7 @@ export const robertLangdonAngelsAndDemons = {
   title: "Robert Langdon: Angels & Demons",
   status: "not-started",
   author: "Dan Brown",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 184000,
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const expeditionaryForceMavericks = {
   title: "Expeditionary Force: Mavericks",
   status: "not-started",
   author: "Craig Alanson",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 72750,
   externalIdentity: [

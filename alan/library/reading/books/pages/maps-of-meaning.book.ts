@@ -8,7 +8,7 @@ export const mapsOfMeaning = {
   status: "completed",
   rank: "C",
   author: "Jordan B. Peterson",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 463050,
   ownProgress: 463050,
 } as const satisfies Book

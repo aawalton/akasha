@@ -6,7 +6,7 @@ export const systemUniverseTrialsOfCydaria = {
   slug: "system-universe-trials-of-cydaria",
   title: "System Universe: Trials of Cydaria",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 109500,
   ownProgress: 109500,

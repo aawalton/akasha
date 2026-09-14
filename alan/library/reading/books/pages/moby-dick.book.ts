@@ -7,7 +7,7 @@ export const mobyDick = {
   title: "Moby Dick",
   status: "not-started",
   author: "Herman Melville",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 153750,
 } as const satisfies Book

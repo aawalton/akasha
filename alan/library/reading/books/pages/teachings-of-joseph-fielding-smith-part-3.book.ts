@@ -7,7 +7,7 @@ export const teachingsOfJosephFieldingSmithPart3 = {
   title: "Teachings of Joseph Fielding Smith Part 3",
   status: "not-started",
   author: "William Shakespeare",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 90500,
 } as const satisfies Book

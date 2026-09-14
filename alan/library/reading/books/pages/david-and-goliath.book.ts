@@ -7,6 +7,6 @@ export const davidAndGoliath = {
   title: "David and Goliath",
   status: "not-started",
   author: "Malcolm Gladwell",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 105300,
 } as const satisfies Book

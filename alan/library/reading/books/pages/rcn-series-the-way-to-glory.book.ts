@@ -6,7 +6,7 @@ export const rcnSeriesTheWayToGlory = {
   slug: "rcn-series-the-way-to-glory",
   title: "RCN Series: The Way to Glory",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 106000,
   externalIdentity: [

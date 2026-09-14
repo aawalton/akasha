@@ -7,7 +7,7 @@ export const theViridianGateArchivesCataclysm = {
   title: "The Viridian Gate Archives: Cataclysm",
   status: "completed",
   author: "J. A. Hunter",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 54750,
   ownProgress: 54750,

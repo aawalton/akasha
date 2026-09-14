@@ -7,7 +7,7 @@ export const marchUpcountryMarchToTheStars = {
   title: "March Upcountry: March to the Stars",
   status: "not-started",
   author: "John Ringo, David Weber",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 109000,
   externalIdentity: [

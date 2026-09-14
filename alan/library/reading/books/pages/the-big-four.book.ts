@@ -7,7 +7,7 @@ export const theBigFour = {
   title: "The Big Four",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 70500,
 } as const satisfies Book

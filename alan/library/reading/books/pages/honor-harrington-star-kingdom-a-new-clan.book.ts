@@ -6,7 +6,7 @@ export const honorHarringtonStarKingdomANewClan = {
   slug: "honor-harrington-star-kingdom-a-new-clan",
   title: "Honor Harrington - Star Kingdom: A New Clan",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 105000,
   externalIdentity: [

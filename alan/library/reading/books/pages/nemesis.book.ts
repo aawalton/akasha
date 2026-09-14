@@ -7,6 +7,6 @@ export const nemesis = {
   title: "Nemesis",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 12,
 } as const satisfies Book

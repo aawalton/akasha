@@ -6,7 +6,7 @@ export const honorHarringtonStarKingdomTreecatWars = {
   slug: "honor-harrington-star-kingdom-treecat-wars",
   title: "Honor Harrington - Star Kingdom: Treecat Wars",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 60750,
   externalIdentity: [

@@ -8,7 +8,7 @@ export const infinityBladeAwakening = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 37500,
   ownProgress: 37500,

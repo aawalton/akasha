@@ -7,7 +7,7 @@ export const fairyTale = {
   title: "Fairy Tale",
   status: "completed",
   author: "Stephen King",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "open-library",

@@ -7,6 +7,6 @@ export const adhdIsAwesome = {
   title: "ADHD Is Awesome",
   status: "not-started",
   author: "Penn Holderness, Kim Holderness",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 132450,
 } as const satisfies Book

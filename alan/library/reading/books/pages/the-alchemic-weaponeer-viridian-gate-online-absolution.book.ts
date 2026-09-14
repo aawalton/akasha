@@ -6,7 +6,7 @@ export const theAlchemicWeaponeerViridianGateOnlineAbsolution = {
   slug: "the-alchemic-weaponeer-viridian-gate-online-absolution",
   title: "The Alchemic Weaponeer: Viridian Gate Online: Absolution",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 101750,
   ownProgress: 101750,

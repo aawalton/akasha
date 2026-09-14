@@ -7,7 +7,7 @@ export const safeholdLikeAMightyArmy = {
   title: "Safehold: Like a Mighty Army",
   status: "not-started",
   author: "David Weber",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 168250,
   externalIdentity: [

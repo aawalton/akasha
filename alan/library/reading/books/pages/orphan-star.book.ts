@@ -7,6 +7,6 @@ export const orphanStar = {
   title: "Orphan Star",
   status: "not-started",
   author: "Alan Dean Foster",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const steelheart = {
   title: "Steelheart",
   status: "paused",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 96500,
   ownProgress: 9500,

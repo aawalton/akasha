@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoonsOfGodsAndDragons = {
   slug: "beneath-the-dragoneye-moons-of-gods-and-dragons",
   title: "Beneath the Dragoneye Moons: Of Gods and Dragons",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 16,
   ownLength: 84500,
   ownProgress: 84500,

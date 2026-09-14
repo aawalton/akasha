@@ -7,7 +7,7 @@ export const roadToMastery3 = {
   title: "Road to Mastery 3",
   status: "completed",
   author: "Wallace D. Wattles, Ruth L Miller, Patricia J. Crane, Rick Nichols",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 160500,
   ownProgress: 160500,

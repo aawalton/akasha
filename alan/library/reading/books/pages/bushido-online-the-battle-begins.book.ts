@@ -6,7 +6,7 @@ export const bushidoOnlineTheBattleBegins = {
   slug: "bushido-online-the-battle-begins",
   title: "Bushido Online: the Battle Begins",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 82250,
   ownProgress: 82250,

@@ -8,7 +8,7 @@ export const wheelOfTimeTheShadowRising = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 262750,
   ownProgress: 262750,

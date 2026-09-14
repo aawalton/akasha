@@ -7,7 +7,7 @@ export const discworldWitchesAbroad = {
   title: "Discworld: Witches Abroad",
   status: "not-started",
   author: "Terry Pratchett",
-  unit: "words",
+  unit: "unit/words",
   position: 12,
   ownLength: 84000,
   externalIdentity: [

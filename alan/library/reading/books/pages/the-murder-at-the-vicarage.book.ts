@@ -7,6 +7,6 @@ export const theMurderAtTheVicarage = {
   title: "The Murder at the Vicarage",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
 } as const satisfies Book

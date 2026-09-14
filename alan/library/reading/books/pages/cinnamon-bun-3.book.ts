@@ -7,7 +7,7 @@ export const cinnamonBun3 = {
   title: "Cinnamon Bun 3",
   status: "not-started",
   author: "Laurie Gilmore",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 117750,
   publishedAt: "2021-09-14",

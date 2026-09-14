@@ -6,7 +6,7 @@ export const legionSkipDeep = {
   slug: "legion-skip-deep",
   title: "Legion: Skip Deep",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 51500,
 } as const satisfies Book

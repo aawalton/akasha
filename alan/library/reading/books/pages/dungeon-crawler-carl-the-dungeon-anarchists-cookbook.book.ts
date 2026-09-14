@@ -7,7 +7,7 @@ export const dungeonCrawlerCarlTheDungeonAnarchistsCookbook = {
   title: "Dungeon Crawler Carl: The Dungeon Anarchist's Cookbook",
   status: "not-started",
   author: "Matt Dinniman",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 133500,
   publishedAt: "2021-04-02",

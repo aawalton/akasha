@@ -7,7 +7,7 @@ export const outOfTheDark = {
   title: "Out of the Dark",
   status: "not-started",
   author: "David Weber",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 132250,
   externalIdentity: [
     {

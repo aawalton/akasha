@@ -6,7 +6,7 @@ export const disgardiumClassAThreat = {
   slug: "disgardium-class-a-threat",
   title: "Disgardium: Class-A Threat",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 129250,
   ownProgress: 129250,

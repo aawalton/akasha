@@ -6,7 +6,7 @@ export const chrysalisFatedAntagonist = {
   slug: "chrysalis-fated-antagonist",
   title: "Chrysalis: Fated Antagonist",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 197500,
   ownProgress: 197500,

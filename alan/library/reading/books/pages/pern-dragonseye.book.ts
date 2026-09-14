@@ -7,7 +7,7 @@ export const pernDragonseye = {
   title: "Pern: Dragonseye",
   status: "not-started",
   author: "Anne McCaffrey, Dick Hill",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 104000,
   externalIdentity: [

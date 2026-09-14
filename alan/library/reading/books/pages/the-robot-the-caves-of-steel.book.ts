@@ -7,7 +7,7 @@ export const theRobotTheCavesOfSteel = {
   title: "The Robot: The Caves of Steel",
   status: "not-started",
   author: "Isaac Asimov",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 68000,
   externalIdentity: [
     {

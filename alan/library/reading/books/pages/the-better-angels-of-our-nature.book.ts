@@ -8,7 +8,7 @@ export const theBetterAngelsOfOurNature = {
   status: "completed",
   rank: "A",
   author: "Steven Pinker",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 549750,
   ownProgress: 549750,
 } as const satisfies Book

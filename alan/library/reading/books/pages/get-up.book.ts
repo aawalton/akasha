@@ -7,6 +7,6 @@ export const getUp = {
   title: "Get Up!",
   status: "not-started",
   author: "Dr. Seuss",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 137700,
 } as const satisfies Book

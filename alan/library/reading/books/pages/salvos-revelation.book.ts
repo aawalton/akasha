@@ -6,7 +6,7 @@ export const salvosRevelation = {
   slug: "salvos-revelation",
   title: "Salvos: Revelation",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 101000,
   publishedAt: "2023-05-27",

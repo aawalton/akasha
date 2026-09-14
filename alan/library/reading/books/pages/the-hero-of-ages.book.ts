@@ -7,7 +7,7 @@ export const theHeroOfAges = {
   title: "The Hero of Ages",
   status: "not-started",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 186750,
   externalIdentity: [

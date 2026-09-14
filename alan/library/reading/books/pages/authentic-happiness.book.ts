@@ -7,6 +7,6 @@ export const authenticHappiness = {
   title: "Authentic Happiness",
   status: "not-started",
   author: "Martin Elias Pete Seligman",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 66300,
 } as const satisfies Book

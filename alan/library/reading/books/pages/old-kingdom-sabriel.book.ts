@@ -7,7 +7,7 @@ export const oldKingdomSabriel = {
   title: "Old Kingdom: Sabriel",
   status: "not-started",
   author: "Garth Nix",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 124000,
   externalIdentity: [
     {

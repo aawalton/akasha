@@ -7,7 +7,7 @@ export const safeholdMidstToilAndTribulation = {
   title: "Safehold: Midst Toil and Tribulation",
   status: "not-started",
   author: "David Weber",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 152000,
   externalIdentity: [

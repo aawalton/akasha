@@ -7,7 +7,7 @@ export const nicholasNickleby = {
   title: "Nicholas Nickleby",
   status: "not-started",
   author: "Charles Dickens",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 208500,
 } as const satisfies Book

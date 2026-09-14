@@ -8,7 +8,7 @@ export const menAndWomenOfChrist = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 33000,
   ownProgress: 33000,

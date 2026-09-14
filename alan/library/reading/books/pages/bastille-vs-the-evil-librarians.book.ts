@@ -8,7 +8,7 @@ export const bastilleVsTheEvilLibrarians = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 65750,
   ownProgress: 65750,

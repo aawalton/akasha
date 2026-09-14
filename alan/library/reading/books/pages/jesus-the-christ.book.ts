@@ -7,7 +7,7 @@ export const jesusTheChrist = {
   title: "Jesus The Christ",
   status: "not-started",
   author: "James Edward Talmage",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 137750,
 } as const satisfies Book

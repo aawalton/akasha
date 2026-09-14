@@ -7,7 +7,7 @@ export const whyMarriagesSucceedOrFail = {
   title: "Why Marriages Succeed or Fail",
   status: "completed",
   author: "John Mordechai Gottman",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 120750,
   ownProgress: 120750,
   publishedAt: "2012-03-27",

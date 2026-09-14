@@ -7,7 +7,7 @@ export const theLostEdgeEdgeOfTheWoods = {
   title: "The Lost Edge: Edge of the Woods",
   status: "not-started",
   author: "William Shakespeare",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 136250,
   publishedAt: "2023-09-12",

@@ -7,7 +7,7 @@ export const theMarriageClinic = {
   title: "The Marriage Clinic",
   status: "not-started",
   author: "John Mordechai Gottman",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 227250,
   publishedAt: "2020-06-23",
 } as const satisfies Book

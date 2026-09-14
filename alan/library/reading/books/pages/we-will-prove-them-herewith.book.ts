@@ -8,7 +8,7 @@ export const weWillProveThemHerewith = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell, Deseret Book Company",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 32000,
   ownProgress: 32000,

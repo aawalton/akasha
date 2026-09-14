@@ -7,6 +7,6 @@ export const selfCareForAutisticPeople = {
   title: "Self-Care for Autistic People",
   status: "not-started",
   author: "Megan Anna Neff",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 79950,
 } as const satisfies Book

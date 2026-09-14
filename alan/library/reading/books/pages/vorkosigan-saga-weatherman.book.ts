@@ -6,7 +6,7 @@ export const vorkosiganSagaWeatherman = {
   slug: "vorkosigan-saga-weatherman",
   title: "Vorkosigan Saga: Weatherman",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 27250,
   externalIdentity: [

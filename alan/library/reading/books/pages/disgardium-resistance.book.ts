@@ -6,7 +6,7 @@ export const disgardiumResistance = {
   slug: "disgardium-resistance",
   title: "Disgardium: Resistance",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 128250,
   ownProgress: 128250,

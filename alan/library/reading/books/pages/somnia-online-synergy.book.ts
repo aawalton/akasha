@@ -6,7 +6,7 @@ export const somniaOnlineSynergy = {
   slug: "somnia-online-synergy",
   title: "Somnia Online: Synergy",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 89500,
   ownProgress: 89500,

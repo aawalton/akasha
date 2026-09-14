@@ -7,7 +7,7 @@ export const awakenOnlineCatharsis = {
   title: "Awaken Online: Catharsis",
   status: "completed",
   author: "Travis Bagwell",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 131750,
   ownProgress: 131750,

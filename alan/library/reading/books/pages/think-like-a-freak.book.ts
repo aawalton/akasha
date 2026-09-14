@@ -7,6 +7,6 @@ export const thinkLikeAFreak = {
   title: "Think Like a Freak",
   status: "not-started",
   author: "Steven D. Levitt, Stephen J. Dubner",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 106200,
 } as const satisfies Book

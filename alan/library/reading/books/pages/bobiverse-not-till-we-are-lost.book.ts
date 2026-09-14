@@ -7,7 +7,7 @@ export const bobiverseNotTillWeAreLost = {
   title: "Bobiverse: Not Till We Are Lost",
   status: "not-started",
   author: "Dennis E. Taylor",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 103250,
   externalIdentity: [

@@ -6,7 +6,7 @@ export const theElderEmpireShadowOfShadowAndSea = {
   slug: "the-elder-empire-shadow-of-shadow-and-sea",
   title: "The Elder Empire - Shadow: Of Shadow and Sea",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 101000,
   externalIdentity: [
     {

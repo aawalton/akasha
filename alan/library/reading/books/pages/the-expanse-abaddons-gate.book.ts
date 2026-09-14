@@ -7,7 +7,7 @@ export const theExpanseAbaddonsGate = {
   title: "The Expanse: Abaddon's Gate",
   status: "not-started",
   author: "James S. A. Corey",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 136750,
   externalIdentity: [

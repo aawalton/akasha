@@ -7,6 +7,6 @@ export const crucialConversations = {
   title: "Crucial Conversations",
   status: "not-started",
   author: "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler, Stephen R. Covey",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 64200,
 } as const satisfies Book

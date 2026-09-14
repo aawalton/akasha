@@ -7,7 +7,7 @@ export const thePrimalHunterBook1 = {
   title: "The Primal Hunter",
   status: "completed",
   author: "Zogarth",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 178500,
   ownProgress: 178500,

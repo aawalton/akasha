@@ -6,7 +6,7 @@ export const artoriansArchivesAcyrologia = {
   slug: "artorians-archives-acyrologia",
   title: "Artorian's Archives: Acyrologia",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 112000,
   publishedAt: "2022-05-25",

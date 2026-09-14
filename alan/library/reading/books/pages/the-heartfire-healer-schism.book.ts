@@ -6,7 +6,7 @@ export const theHeartfireHealerSchism = {
   slug: "the-heartfire-healer-schism",
   title: "The Heartfire Healer: Schism",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 102000,
   publishedAt: "2021-08-17",

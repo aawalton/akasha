@@ -7,6 +7,6 @@ export const verbalJudoUpdatedEdition = {
   title: "Verbal Judo, Updated Edition",
   status: "not-started",
   author: "Jerry B. Jenkins",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 93000,
 } as const satisfies Book

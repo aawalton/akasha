@@ -6,7 +6,7 @@ export const infiniteRealmTheCentennialTournament = {
   slug: "infinite-realm-the-centennial-tournament",
   title: "Infinite Realm: The Centennial Tournament",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 294750,
   publishedAt: "2021-10-26",

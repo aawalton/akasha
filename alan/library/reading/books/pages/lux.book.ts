@@ -7,6 +7,6 @@ export const lux = {
   title: "Lux",
   status: "not-started",
   author: "Jennifer L. Armentrout",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
 } as const satisfies Book

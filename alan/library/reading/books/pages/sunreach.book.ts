@@ -8,7 +8,7 @@ export const sunreach = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson, Janci Patterson",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 78500,
   ownProgress: 78500,

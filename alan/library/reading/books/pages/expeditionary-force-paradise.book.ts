@@ -7,7 +7,7 @@ export const expeditionaryForceParadise = {
   title: "Expeditionary Force: Paradise",
   status: "not-started",
   author: "Craig Alanson",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 71250,
   externalIdentity: [

@@ -7,7 +7,7 @@ export const somniaOnlineInitializing = {
   title: "Somnia Online: Initializing",
   status: "completed",
   author: "K T Hanna",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 108000,
   ownProgress: 108000,

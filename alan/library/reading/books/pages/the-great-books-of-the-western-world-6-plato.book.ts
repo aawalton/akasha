@@ -8,7 +8,7 @@ export const theGreatBooksOfTheWesternWorld6Plato = {
   status: "completed",
   rank: "B",
   author: "Plato",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 203500,
   ownProgress: 203500,

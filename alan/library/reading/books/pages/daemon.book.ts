@@ -7,7 +7,7 @@ export const daemon = {
   title: "Daemon",
   status: "not-started",
   author: "Daniel Suarez",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 122250,
   externalIdentity: [
     {

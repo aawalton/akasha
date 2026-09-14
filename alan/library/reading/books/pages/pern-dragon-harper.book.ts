@@ -7,7 +7,7 @@ export const pernDragonHarper = {
   title: "Pern: Dragon Harper",
   status: "not-started",
   author: "Anne McCaffrey",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 96500,
   externalIdentity: [

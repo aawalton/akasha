@@ -7,6 +7,6 @@ export const halloweenParty = {
   title: "Hallowe'en Party",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 31,
 } as const satisfies Book

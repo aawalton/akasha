@@ -7,6 +7,6 @@ export const theEndOfTheMatter = {
   title: "The End of the Matter",
   status: "not-started",
   author: "Alan Dean Foster",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
 } as const satisfies Book

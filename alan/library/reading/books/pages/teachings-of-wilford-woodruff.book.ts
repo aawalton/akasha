@@ -7,7 +7,7 @@ export const teachingsOfWilfordWoodruff = {
   title: "Teachings of Wilford Woodruff",
   status: "not-started",
   author: "Wilford Woodruff",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 87500,
 } as const satisfies Book

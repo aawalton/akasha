@@ -8,7 +8,7 @@ export const chaosSeedsForging = {
   status: "completed",
   rank: "B",
   author: "Aleron Kong",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 129000,
   ownProgress: 129000,

@@ -7,7 +7,7 @@ export const expeditionaryForceFailureMode = {
   title: "Expeditionary Force: Failure Mode",
   status: "not-started",
   author: "Craig Alanson",
-  unit: "words",
+  unit: "unit/words",
   position: 14,
   ownLength: 174250,
   externalIdentity: [

@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld19DanteChaucer = {
   slug: "the-great-books-of-the-western-world-19-dante-chaucer",
   title: "The Great Books of the Western World 19: Dante, Chaucer",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 19,
   ownLength: 117750,
 } as const satisfies Book

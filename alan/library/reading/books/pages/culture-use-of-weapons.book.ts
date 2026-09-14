@@ -7,7 +7,7 @@ export const cultureUseOfWeapons = {
   title: "Culture: Use of Weapons",
   status: "not-started",
   author: "Iain Banks",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 128500,
   externalIdentity: [

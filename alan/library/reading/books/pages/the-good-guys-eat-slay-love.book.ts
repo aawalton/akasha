@@ -7,7 +7,7 @@ export const theGoodGuysEatSlayLove = {
   title: "The Good Guys: Eat, Slay, Love",
   status: "completed",
   author: "Winsor McCay",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 97000,
   ownProgress: 97000,

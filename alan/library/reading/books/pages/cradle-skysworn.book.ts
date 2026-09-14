@@ -7,7 +7,7 @@ export const cradleSkysworn = {
   title: "Cradle: Skysworn",
   status: "completed",
   author: "Will Wight",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 81000,
   ownProgress: 81000,

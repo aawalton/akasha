@@ -7,7 +7,7 @@ export const monsterHuntersInternationalMonsterHunterVendetta = {
   title: "Monster Hunters International: Monster Hunter Vendetta",
   status: "not-started",
   author: "Matt Fox",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 137000,
   externalIdentity: [

@@ -6,7 +6,7 @@ export const theCompletionistChroniclesRexusSideQuest = {
   slug: "the-completionist-chronicles-rexus-side-quest",
   title: "The Completionist Chronicles: Rexus, Side Quest",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 50000,
   ownProgress: 50000,

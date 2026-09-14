@@ -7,7 +7,7 @@ export const discworldMenAtArms = {
   title: "Discworld: Men at Arms",
   status: "not-started",
   author: "Terry Pratchett",
-  unit: "words",
+  unit: "unit/words",
   position: 15,
   ownLength: 99750,
   externalIdentity: [

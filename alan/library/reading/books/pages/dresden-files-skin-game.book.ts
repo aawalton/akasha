@@ -7,7 +7,7 @@ export const dresdenFilesSkinGame = {
   title: "Dresden Files: Skin Game",
   status: "not-started",
   author: "Jim Butcher, James Marsters",
-  unit: "words",
+  unit: "unit/words",
   position: 14,
   ownLength: 152250,
   externalIdentity: [

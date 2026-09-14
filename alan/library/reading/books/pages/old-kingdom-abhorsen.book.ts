@@ -7,7 +7,7 @@ export const oldKingdomAbhorsen = {
   title: "Old Kingdom: Abhorsen",
   status: "not-started",
   author: "Garth Nix",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 132000,
   externalIdentity: [

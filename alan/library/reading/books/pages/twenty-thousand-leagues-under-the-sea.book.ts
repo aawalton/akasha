@@ -7,7 +7,7 @@ export const twentyThousandLeaguesUnderTheSea = {
   title: "Twenty Thousand Leagues Under the Sea",
   status: "not-started",
   author: "ColorLab ColorLab Series (bogus 'author'), Jules Verne",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 81250,
 } as const satisfies Book

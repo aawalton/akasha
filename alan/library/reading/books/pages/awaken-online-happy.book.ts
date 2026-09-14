@@ -6,7 +6,7 @@ export const awakenOnlineHappy = {
   slug: "awaken-online-happy",
   title: "Awaken Online: Happy",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 9,
   ownLength: 187250,
   ownProgress: 187250,

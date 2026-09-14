@@ -7,7 +7,7 @@ export const theWayOfTheShamanThePhantomCastle = {
   title: "The Way of the Shaman: The Phantom Castle",
   status: "completed",
   author: "Vasily Mahanenko",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 148250,
   ownProgress: 148250,

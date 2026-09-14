@@ -7,7 +7,7 @@ export const ramaRamaRevealed = {
   title: "Rama: Rama Revealed",
   status: "not-started",
   author: "Arthur C. Clarke",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 156500,
   externalIdentity: [

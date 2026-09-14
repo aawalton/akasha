@@ -7,7 +7,7 @@ export const theRobotTheRobotsOfDawn = {
   title: "The Robot: The Robots of Dawn",
   status: "not-started",
   author: "Isaac Asimov",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 121750,
   externalIdentity: [

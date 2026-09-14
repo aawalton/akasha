@@ -7,6 +7,6 @@ export const oneTwoBuckleMyShoe = {
   title: "One, Two, Buckle My Shoe",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 19,
 } as const satisfies Book

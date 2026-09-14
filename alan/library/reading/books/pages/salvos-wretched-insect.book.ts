@@ -6,7 +6,7 @@ export const salvosWretchedInsect = {
   slug: "salvos-wretched-insect",
   title: "Salvos: Wretched Insect",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 97500,
   publishedAt: "2022-08-02",

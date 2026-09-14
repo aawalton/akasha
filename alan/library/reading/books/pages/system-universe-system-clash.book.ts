@@ -7,7 +7,7 @@ export const systemUniverseSystemClash = {
   title: "System Universe: System Clash",
   status: "completed",
   author: "Douglas A. Irwin",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 186000,
   ownProgress: 186000,

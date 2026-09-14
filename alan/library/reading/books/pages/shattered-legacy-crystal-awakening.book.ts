@@ -6,7 +6,7 @@ export const shatteredLegacyCrystalAwakening = {
   slug: "shattered-legacy-crystal-awakening",
   title: "Shattered Legacy: Crystal Awakening",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 105750,
   publishedAt: "2022-11-29",

@@ -7,7 +7,7 @@ export const pernTheMasterharperOfPern = {
   title: "Pern: The Masterharper of Pern",
   status: "not-started",
   author: "Anne McCaffrey",
-  unit: "words",
+  unit: "unit/words",
   position: 14,
   ownLength: 108000,
   externalIdentity: [

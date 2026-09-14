@@ -8,7 +8,7 @@ export const aTimeToChoose = {
   status: "completed",
   rank: "C",
   author: "Richard Parker",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 22250,
   ownProgress: 22250,

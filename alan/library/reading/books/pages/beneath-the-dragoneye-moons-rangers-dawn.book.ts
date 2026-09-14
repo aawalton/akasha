@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoonsRangersDawn = {
   slug: "beneath-the-dragoneye-moons-rangers-dawn",
   title: "Beneath the Dragoneye Moons: Ranger's Dawn",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 170250,
   ownProgress: 170250,

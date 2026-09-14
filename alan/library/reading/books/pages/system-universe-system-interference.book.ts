@@ -7,7 +7,7 @@ export const systemUniverseSystemInterference = {
   title: "System Universe: System Interference",
   status: "completed",
   author: "C. F. Lo",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 103000,
   ownProgress: 103000,

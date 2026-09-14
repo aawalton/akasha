@@ -6,7 +6,7 @@ export const theTravelersGateTrilogyHouseOfBlades = {
   slug: "the-travelers-gate-trilogy-house-of-blades",
   title: "The Traveler's Gate Trilogy: House of Blades",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 101500,
   externalIdentity: [
     {

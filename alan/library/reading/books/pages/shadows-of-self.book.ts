@@ -7,7 +7,7 @@ export const shadowsOfSelf = {
   title: "Shadows of Self",
   status: "not-started",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 90250,
   externalIdentity: [

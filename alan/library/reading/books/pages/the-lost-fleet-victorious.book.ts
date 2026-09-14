@@ -7,7 +7,7 @@ export const theLostFleetVictorious = {
   title: "The Lost Fleet: Victorious",
   status: "not-started",
   author: "Jack Campbell",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 88500,
   externalIdentity: [

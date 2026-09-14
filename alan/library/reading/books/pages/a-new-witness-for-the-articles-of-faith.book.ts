@@ -7,6 +7,6 @@ export const aNewWitnessForTheArticlesOfFaith = {
   title: "A New Witness for the Articles of Faith",
   status: "not-started",
   author: "Bruce R. McConkie",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
 } as const satisfies Book

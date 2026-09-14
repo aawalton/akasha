@@ -7,7 +7,7 @@ export const cultureThePlayerOfGames = {
   title: "Culture: The Player of Games",
   status: "not-started",
   author: "Iain Banks",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 104250,
   externalIdentity: [

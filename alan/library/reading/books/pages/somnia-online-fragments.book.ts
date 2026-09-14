@@ -6,7 +6,7 @@ export const somniaOnlineFragments = {
   slug: "somnia-online-fragments",
   title: "Somnia Online: Fragments",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 88750,
   ownProgress: 88750,

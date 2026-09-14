@@ -7,7 +7,7 @@ export const theLastHorizonTheKnight = {
   title: "The Last Horizon: The Knight",
   status: "not-started",
   author: "Will Wight",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 101750,
   externalIdentity: [

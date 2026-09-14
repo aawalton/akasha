@@ -7,6 +7,6 @@ export const misbehaving = {
   title: "Misbehaving",
   status: "not-started",
   author: "Richard H. Thaler",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 203700,
 } as const satisfies Book

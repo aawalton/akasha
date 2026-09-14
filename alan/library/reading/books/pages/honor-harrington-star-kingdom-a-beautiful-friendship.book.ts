@@ -6,7 +6,7 @@ export const honorHarringtonStarKingdomABeautifulFriendship = {
   slug: "honor-harrington-star-kingdom-a-beautiful-friendship",
   title: "Honor Harrington - Star Kingdom: A Beautiful Friendship",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 69250,
   externalIdentity: [
     {

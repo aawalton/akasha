@@ -7,7 +7,7 @@ export const aThousandLiTheThirdKingdom = {
   title: "A Thousand Li: The Third Kingdom",
   status: "completed",
   author: "Bible",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 98250,
   ownProgress: 98250,

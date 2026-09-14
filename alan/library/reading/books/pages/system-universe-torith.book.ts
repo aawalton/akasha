@@ -6,7 +6,7 @@ export const systemUniverseTorith = {
   slug: "system-universe-torith",
   title: "System Universe: Torith",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 126750,
   ownProgress: 126750,

@@ -7,7 +7,7 @@ export const theGam3OpeningMoves = {
   title: "The Gam3: Opening Moves",
   status: "completed",
   author: "Cosimo Yap",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 110750,
   ownProgress: 110750,

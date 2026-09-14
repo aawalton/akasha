@@ -6,7 +6,7 @@ export const theViridianGateArchivesCrimsonAlliance = {
   slug: "the-viridian-gate-archives-crimson-alliance",
   title: "The Viridian Gate Archives: Crimson Alliance",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 64000,
   ownProgress: 64000,

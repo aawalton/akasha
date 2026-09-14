@@ -7,7 +7,7 @@ export const expeditionaryForceCriticalMass = {
   title: "Expeditionary Force: Critical Mass",
   status: "not-started",
   author: "Craig Alanson",
-  unit: "words",
+  unit: "unit/words",
   position: 9,
   ownLength: 98750,
   externalIdentity: [

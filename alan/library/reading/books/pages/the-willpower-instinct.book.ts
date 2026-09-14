@@ -7,6 +7,6 @@ export const theWillpowerInstinct = {
   title: "The Willpower Instinct",
   status: "not-started",
   author: "Kelly McGonigal",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 125250,
 } as const satisfies Book

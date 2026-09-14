@@ -7,7 +7,7 @@ export const theGam3SacrificialPieces = {
   title: "The Gam3: Sacrificial Pieces",
   status: "completed",
   author: "Cosimo Yap",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 69500,
   ownProgress: 69500,

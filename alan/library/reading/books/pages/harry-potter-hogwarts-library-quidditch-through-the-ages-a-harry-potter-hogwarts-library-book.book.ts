@@ -8,7 +8,7 @@ export const harryPotterHogwartsLibraryQuidditchThroughTheAgesAHarryPotterHogwar
     "Harry Potter: Hogwarts Library: Quidditch Through the Ages: A Harry Potter Hogwarts Library Book",
   status: "not-started",
   author: "J. K. Rowling",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 15750,
   publishedAt: "2016-05-09",

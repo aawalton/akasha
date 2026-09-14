@@ -7,7 +7,7 @@ export const cultureConsiderPhlebas = {
   title: "Culture: Consider Phlebas",
   status: "not-started",
   author: "Iain Banks",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 136250,
   externalIdentity: [
     {

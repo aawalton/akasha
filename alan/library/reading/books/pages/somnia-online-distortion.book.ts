@@ -6,7 +6,7 @@ export const somniaOnlineDistortion = {
   slug: "somnia-online-distortion",
   title: "Somnia Online: Distortion",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 86750,
   ownProgress: 86750,

@@ -6,7 +6,7 @@ export const theSystemApocalypseWorldUnbound = {
   slug: "the-system-apocalypse-world-unbound",
   title: "The System Apocalypse: World Unbound",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 99250,
   ownProgress: 99250,

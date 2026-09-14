@@ -7,7 +7,7 @@ export const pernDragonsKin = {
   title: "Pern: Dragon's Kin",
   status: "not-started",
   author: "Anne McCaffrey, Todd McCaffrey",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 80000,
   externalIdentity: [

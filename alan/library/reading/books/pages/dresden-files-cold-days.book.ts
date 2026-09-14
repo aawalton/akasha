@@ -7,7 +7,7 @@ export const dresdenFilesColdDays = {
   title: "Dresden Files: Cold Days",
   status: "not-started",
   author: "Jim Butcher, James Marsters",
-  unit: "words",
+  unit: "unit/words",
   position: 13,
   ownLength: 132250,
   externalIdentity: [

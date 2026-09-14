@@ -7,7 +7,7 @@ export const honorHarringtonOnBasiliskStation = {
   title: "Honor Harrington: On Basilisk Station",
   status: "paused",
   author: "David Weber",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 84500,
   ownProgress: 1250,
   externalIdentity: [

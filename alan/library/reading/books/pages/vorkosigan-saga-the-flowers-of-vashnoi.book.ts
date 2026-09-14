@@ -7,7 +7,7 @@ export const vorkosiganSagaTheFlowersOfVashnoi = {
   title: "Vorkosigan Saga: The Flowers of Vashnoi",
   status: "not-started",
   author: "Lois McMaster Bujold",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 22250,
   externalIdentity: [

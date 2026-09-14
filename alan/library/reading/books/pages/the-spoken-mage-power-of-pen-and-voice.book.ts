@@ -6,7 +6,7 @@ export const theSpokenMagePowerOfPenAndVoice = {
   slug: "the-spoken-mage-power-of-pen-and-voice",
   title: "The Spoken Mage: Power of Pen and Voice",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 67500,
   externalIdentity: [

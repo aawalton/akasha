@@ -7,7 +7,7 @@ export const saintsBoldlyNoblyAndIndependent = {
   title: "Saints: Boldly, Nobly, and Independent",
   status: "not-started",
   author: "The Church of Jesus Christ of Latter-day Saints",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 189250,
 } as const satisfies Book

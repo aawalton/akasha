@@ -8,7 +8,7 @@ export const theShatteredLens = {
   status: "completed",
   rank: "B",
   author: "Jonathan Alpeyrie",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 80250,
   ownProgress: 80250,

@@ -7,7 +7,7 @@ export const honorHarringtonInEnemyHands = {
   title: "Honor Harrington: In Enemy Hands",
   status: "not-started",
   author: "David Weber",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 136250,
   publishedAt: "2013-12-04",

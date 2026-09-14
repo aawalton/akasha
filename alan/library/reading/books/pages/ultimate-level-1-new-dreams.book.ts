@@ -7,7 +7,7 @@ export const ultimateLevel1NewDreams = {
   title: "Ultimate Level 1: New Dreams",
   status: "completed",
   author: "Shawn Wilson",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 121250,
   ownProgress: 121250,

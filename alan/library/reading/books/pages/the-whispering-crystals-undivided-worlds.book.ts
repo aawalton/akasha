@@ -6,7 +6,7 @@ export const theWhisperingCrystalsUndividedWorlds = {
   slug: "the-whispering-crystals-undivided-worlds",
   title: "The Whispering Crystals: Undivided Worlds",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 118750,
   ownProgress: 118750,

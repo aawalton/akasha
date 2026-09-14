@@ -7,7 +7,7 @@ export const thePathOfAscension2 = {
   title: "The Path of Ascension 2",
   status: "completed",
   author: "C. Mantis",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 115500,
   ownProgress: 115500,

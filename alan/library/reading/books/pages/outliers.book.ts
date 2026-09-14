@@ -7,6 +7,6 @@ export const outliers = {
   title: "Outliers",
   status: "not-started",
   author: "Malcolm Gladwell",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 109500,
 } as const satisfies Book

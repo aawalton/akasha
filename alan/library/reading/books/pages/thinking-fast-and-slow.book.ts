@@ -8,7 +8,7 @@ export const thinkingFastAndSlow = {
   status: "completed",
   rank: "S",
   author: "Daniel Kahneman, Daniel Kahneman",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 300450,
   ownProgress: 300450,
 } as const satisfies Book

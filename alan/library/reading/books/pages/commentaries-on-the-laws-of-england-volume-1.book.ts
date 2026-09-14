@@ -7,7 +7,7 @@ export const commentariesOnTheLawsOfEnglandVolume1 = {
   title: "Commentaries on the Laws of England Volume 1",
   status: "paused",
   author: "William Blackstone",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 118250,
   ownProgress: 500,

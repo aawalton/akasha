@@ -6,7 +6,7 @@ export const annalsOfDrakisCitadelsOfTheLost = {
   slug: "annals-of-drakis-citadels-of-the-lost",
   title: "Annals of Drakis: Citadels of the Lost",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 91250,
   externalIdentity: [

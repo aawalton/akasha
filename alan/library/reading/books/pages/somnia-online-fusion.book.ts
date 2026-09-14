@@ -6,7 +6,7 @@ export const somniaOnlineFusion = {
   slug: "somnia-online-fusion",
   title: "Somnia Online: Fusion",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 106500,
   ownProgress: 106500,

@@ -7,7 +7,7 @@ export const strengtheningOutFamilies = {
   title: "Strengthening Out Families",
   status: "paused",
   author: "William R. Beardslee",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 97500,
   ownProgress: 3500,

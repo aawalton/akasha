@@ -7,7 +7,7 @@ export const expeditionaryForceTaskForceHammer = {
   title: "Expeditionary Force: Task Force Hammer",
   status: "not-started",
   author: "Craig Alanson",
-  unit: "words",
+  unit: "unit/words",
   position: 16,
   ownLength: 117250,
   externalIdentity: [

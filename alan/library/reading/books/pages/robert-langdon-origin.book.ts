@@ -7,7 +7,7 @@ export const robertLangdonOrigin = {
   title: "Robert Langdon: Origin",
   status: "not-started",
   author: "Dan Brown",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 115750,
   externalIdentity: [

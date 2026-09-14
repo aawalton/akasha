@@ -6,7 +6,7 @@ export const stonehavenLeagueTempleOfSorrow = {
   slug: "stonehaven-league-temple-of-sorrow",
   title: "Stonehaven League: Temple of Sorrow",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 95500,
   ownProgress: 95500,

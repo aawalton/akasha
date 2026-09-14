@@ -6,7 +6,7 @@ export const apocalypseHealer2 = {
   slug: "apocalypse-healer-2",
   title: "Apocalypse Healer 2",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 127000,
   publishedAt: "2025-07-16",

@@ -7,6 +7,6 @@ export const theCultureCode = {
   title: "The Culture Code",
   status: "not-started",
   author: "Daniel Coyle",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 108300,
 } as const satisfies Book

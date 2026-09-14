@@ -8,7 +8,7 @@ export const essentialReality = {
   status: "completed",
   rank: "C",
   author: "Jason Fried, David Heinemeier Hansson",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 14250,
   ownProgress: 14250,
 } as const satisfies Book

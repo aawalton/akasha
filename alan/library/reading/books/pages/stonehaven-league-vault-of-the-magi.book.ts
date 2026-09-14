@@ -6,7 +6,7 @@ export const stonehavenLeagueVaultOfTheMagi = {
   slug: "stonehaven-league-vault-of-the-magi",
   title: "Stonehaven League: Vault of the Magi",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 93500,
   ownProgress: 93500,

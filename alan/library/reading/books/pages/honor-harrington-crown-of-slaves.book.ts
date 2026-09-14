@@ -6,7 +6,7 @@ export const honorHarringtonCrownOfSlaves = {
   slug: "honor-harrington-crown-of-slaves",
   title: "Honor Harrington - Crown of Slaves",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 169750,
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const guardianOfAsterFallMoonlightRelic = {
   title: "Guardian of Aster Fall: Moonlight Relic",
   status: "completed",
   author: "David North",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 111250,
   ownProgress: 111250,

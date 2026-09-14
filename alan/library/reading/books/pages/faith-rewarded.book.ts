@@ -7,7 +7,7 @@ export const faithRewarded = {
   title: "Faith Rewarded",
   status: "not-started",
   author: "Monson, Thomas S.",
-  unit: "words",
+  unit: "unit/words",
   position: 9,
   ownLength: 44000,
 } as const satisfies Book

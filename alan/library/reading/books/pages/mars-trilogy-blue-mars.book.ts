@@ -7,7 +7,7 @@ export const marsTrilogyBlueMars = {
   title: "Mars Trilogy: Blue Mars",
   status: "not-started",
   author: "Kim Stanley Robinson",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 187000,
   externalIdentity: [

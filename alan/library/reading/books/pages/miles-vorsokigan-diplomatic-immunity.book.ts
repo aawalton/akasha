@@ -6,7 +6,7 @@ export const milesVorsokiganDiplomaticImmunity = {
   slug: "miles-vorsokigan-diplomatic-immunity",
   title: "Miles Vorsokigan: Diplomatic Immunity",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 12,
   ownLength: 89250,
   externalIdentity: [

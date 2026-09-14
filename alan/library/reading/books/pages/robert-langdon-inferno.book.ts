@@ -7,7 +7,7 @@ export const robertLangdonInferno = {
   title: "Robert Langdon: Inferno",
   status: "not-started",
   author: "Dan Brown",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 144500,
   externalIdentity: [

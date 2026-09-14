@@ -7,7 +7,7 @@ export const calamity = {
   title: "Calamity",
   status: "not-started",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 104000,
   externalIdentity: [

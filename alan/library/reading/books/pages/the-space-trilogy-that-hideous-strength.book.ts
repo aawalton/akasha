@@ -7,7 +7,7 @@ export const theSpaceTrilogyThatHideousStrength = {
   title: "The Space Trilogy: That Hideous Strength",
   status: "not-started",
   author: "C. S. Lewis",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 104250,
   externalIdentity: [

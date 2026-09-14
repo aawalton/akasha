@@ -6,7 +6,7 @@ export const somniaOnlineAnomaly = {
   slug: "somnia-online-anomaly",
   title: "Somnia Online: Anomaly",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 88750,
   ownProgress: 88750,

@@ -6,7 +6,7 @@ export const voidknightAscension4 = {
   slug: "voidknight-ascension-4",
   title: "Voidknight Ascension 4",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 173750,
   ownProgress: 173750,

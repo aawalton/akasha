@@ -7,7 +7,7 @@ export const furySeriesInFuryBorn = {
   title: "Fury Series: In Fury Born",
   status: "not-started",
   author: "Sherrilyn Kenyon",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 253000,
   externalIdentity: [
     {

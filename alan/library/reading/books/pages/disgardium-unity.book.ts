@@ -6,7 +6,7 @@ export const disgardiumUnity = {
   slug: "disgardium-unity",
   title: "Disgardium: Unity",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 12,
   ownLength: 135750,
   publishedAt: "2023-05-17",

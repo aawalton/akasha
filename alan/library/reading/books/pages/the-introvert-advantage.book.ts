@@ -7,6 +7,6 @@ export const theIntrovertAdvantage = {
   title: "The Introvert Advantage",
   status: "not-started",
   author: "Marti Olsen Laney",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 156300,
 } as const satisfies Book

@@ -8,7 +8,7 @@ export const wheelOfTimeThePathOfDaggers = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 167250,
   ownProgress: 167250,

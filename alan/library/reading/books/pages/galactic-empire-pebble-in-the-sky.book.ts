@@ -7,7 +7,7 @@ export const galacticEmpirePebbleInTheSky = {
   title: "Galactic Empire: Pebble in the Sky",
   status: "not-started",
   author: "Isaac Asimov",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 61500,
   externalIdentity: [

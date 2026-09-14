@@ -7,6 +7,6 @@ export const meMyselfAndUs = {
   title: "Me, Myself, and Us",
   status: "not-started",
   author: "Brian R. Little Ph.D.",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 132000,
 } as const satisfies Book

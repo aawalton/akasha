@@ -7,7 +7,7 @@ export const articlesOfFaith = {
   title: "Articles of Faith",
   status: "not-started",
   author: "Ronald Harwood",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 88750,
 } as const satisfies Book

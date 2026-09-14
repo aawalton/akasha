@@ -7,7 +7,7 @@ export const legionLiesOfTheBeholder = {
   title: "Legion: Lies of the Beholder",
   status: "not-started",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 37000,
   externalIdentity: [

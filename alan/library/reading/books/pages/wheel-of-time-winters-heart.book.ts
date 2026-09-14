@@ -8,7 +8,7 @@ export const wheelOfTimeWintersHeart = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unit: "words",
+  unit: "unit/words",
   position: 9,
   ownLength: 176250,
   ownProgress: 176250,

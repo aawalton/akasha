@@ -6,7 +6,7 @@ export const rcnSeriesWithTheLightnings = {
   slug: "rcn-series-with-the-lightnings",
   title: "RCN Series: With the Lightnings",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 105000,
   externalIdentity: [
     {

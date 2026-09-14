@@ -7,7 +7,7 @@ export const swordArtOnline6 = {
   title: "Sword Art Online 6",
   status: "not-started",
   author: "Reki Kawahara",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 80000,
   publishedAt: "2017-06-27",

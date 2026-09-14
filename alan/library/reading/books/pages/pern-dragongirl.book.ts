@@ -7,7 +7,7 @@ export const pernDragongirl = {
   title: "Pern: Dragongirl",
   status: "not-started",
   author: "Todd McCaffrey, Anne McCaffrey",
-  unit: "words",
+  unit: "unit/words",
   position: 9,
   ownLength: 128250,
   externalIdentity: [

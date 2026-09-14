@@ -8,7 +8,7 @@ export const ofOneHeartLookBackAtSodom = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 25000,
   ownProgress: 25000,

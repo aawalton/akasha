@@ -6,7 +6,7 @@ export const theFirebrandEmbersOfRebellion = {
   slug: "the-firebrand-embers-of-rebellion",
   title: "The Firebrand: Embers of Rebellion",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 107000,
   ownProgress: 107000,

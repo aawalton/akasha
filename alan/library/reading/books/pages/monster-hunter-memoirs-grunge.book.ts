@@ -7,7 +7,7 @@ export const monsterHunterMemoirsGrunge = {
   title: "Monster Hunter Memoirs: Grunge",
   status: "not-started",
   author: "Larry Correia, John Ringo, Oliver Wyman",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 66500,
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const theFiveElementsOfEffectiveThinking = {
   status: "completed",
   rank: "A",
   author: "Edward B. Burger, Michael Starbird, Brian Troxell",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 47250,
   ownProgress: 47250,
 } as const satisfies Book

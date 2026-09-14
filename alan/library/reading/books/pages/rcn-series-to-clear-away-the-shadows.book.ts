@@ -6,7 +6,7 @@ export const rcnSeriesToClearAwayTheShadows = {
   slug: "rcn-series-to-clear-away-the-shadows",
   title: "RCN Series: To Clear Away the Shadows",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 12,
   ownLength: 63750,
   externalIdentity: [

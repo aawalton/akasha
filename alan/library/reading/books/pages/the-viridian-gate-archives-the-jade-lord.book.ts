@@ -7,7 +7,7 @@ export const theViridianGateArchivesTheJadeLord = {
   title: "The Viridian Gate Archives: The Jade Lord",
   status: "completed",
   author: "James A. Hunter",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 90250,
   ownProgress: 90250,

@@ -8,7 +8,7 @@ export const forThePowerIsInThem = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 15750,
   ownProgress: 15750,

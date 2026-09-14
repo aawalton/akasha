@@ -6,7 +6,7 @@ export const theStormlightArchiveAPocketCompanion = {
   slug: "the-stormlight-archive-a-pocket-companion",
   title: "The Stormlight Archive: A Pocket Companion",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 7000,
 } as const satisfies Book

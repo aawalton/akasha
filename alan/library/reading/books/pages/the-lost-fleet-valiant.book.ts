@@ -7,7 +7,7 @@ export const theLostFleetValiant = {
   title: "The Lost Fleet: Valiant",
   status: "not-started",
   author: "Jack Campbell",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 82750,
   externalIdentity: [

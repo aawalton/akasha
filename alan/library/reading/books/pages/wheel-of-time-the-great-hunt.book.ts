@@ -8,7 +8,7 @@ export const wheelOfTimeTheGreatHunt = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 164500,
   ownProgress: 164500,

@@ -7,7 +7,7 @@ export const expeditionaryForceBreakaway = {
   title: "Expeditionary Force: Breakaway",
   status: "not-started",
   author: "Craig Alanson",
-  unit: "words",
+  unit: "unit/words",
   position: 11,
   ownLength: 98750,
   externalIdentity: [

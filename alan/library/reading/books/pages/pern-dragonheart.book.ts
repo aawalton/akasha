@@ -7,7 +7,7 @@ export const pernDragonheart = {
   title: "Pern: Dragonheart",
   status: "not-started",
   author: "Todd McCaffrey",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 136500,
   externalIdentity: [

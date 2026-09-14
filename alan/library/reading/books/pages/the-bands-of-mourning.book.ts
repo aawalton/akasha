@@ -7,7 +7,7 @@ export const theBandsOfMourning = {
   title: "The Bands of Mourning",
   status: "not-started",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 111750,
   externalIdentity: [

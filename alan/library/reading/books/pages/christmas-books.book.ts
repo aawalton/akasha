@@ -7,7 +7,7 @@ export const christmasBooks = {
   title: "Christmas Books",
   status: "not-started",
   author: "Charles Dickens",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 120500,
 } as const satisfies Book

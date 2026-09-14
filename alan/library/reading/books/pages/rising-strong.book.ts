@@ -7,6 +7,6 @@ export const risingStrong = {
   title: "Rising Strong",
   status: "not-started",
   author: "Brené Brown",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 132750,
 } as const satisfies Book

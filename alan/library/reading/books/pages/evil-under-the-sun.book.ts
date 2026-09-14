@@ -7,6 +7,6 @@ export const evilUnderTheSun = {
   title: "Evil Under the Sun",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 20,
 } as const satisfies Book

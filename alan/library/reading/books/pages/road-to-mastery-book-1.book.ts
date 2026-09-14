@@ -7,7 +7,7 @@ export const roadToMasteryBook1 = {
   title: "Road to Mastery",
   status: "completed",
   author: "Tony Annesi",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 184000,
   ownProgress: 184000,

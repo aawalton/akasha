@@ -7,7 +7,7 @@ export const theLostFleetDauntless = {
   title: "The Lost Fleet: Dauntless",
   status: "not-started",
   author: "Jack Campbell",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 76500,
   externalIdentity: [
     {

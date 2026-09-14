@@ -7,6 +7,6 @@ export const childhoodDisrupted = {
   title: "Childhood Disrupted",
   status: "not-started",
   author: "Donna Jackson Nakazawa",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 121050,
 } as const satisfies Book

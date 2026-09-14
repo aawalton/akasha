@@ -7,7 +7,7 @@ export const thePoemsOfRobertBrowning = {
   title: "The Poems of Robert Browning",
   status: "not-started",
   author: "Robert Browning, Daniel Karlin, John Woolford",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 72000,
 } as const satisfies Book

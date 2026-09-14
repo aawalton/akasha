@@ -7,6 +7,6 @@ export const theBodyInTheLibrary = {
   title: "The Body in the Library",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
 } as const satisfies Book

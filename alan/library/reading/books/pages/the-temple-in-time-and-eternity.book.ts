@@ -7,7 +7,7 @@ export const theTempleInTimeAndEternity = {
   title: "The Temple in Time and Eternity",
   status: "not-started",
   author: "Donald W. Parry, Stephen David Ricks",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 83500,
 } as const satisfies Book

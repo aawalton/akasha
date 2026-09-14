@@ -7,7 +7,7 @@ export const dragonHeartIronWill = {
   title: "Dragon Heart: Iron Will",
   status: "completed",
   author: "Kirill Klevanski",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 107000,
   ownProgress: 107000,

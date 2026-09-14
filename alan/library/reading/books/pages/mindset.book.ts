@@ -7,6 +7,6 @@ export const mindset = {
   title: "Mindset",
   status: "not-started",
   author: "Carol S. Dweck",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 155700,
 } as const satisfies Book

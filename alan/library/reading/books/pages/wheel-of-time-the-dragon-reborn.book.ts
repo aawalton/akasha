@@ -8,7 +8,7 @@ export const wheelOfTimeTheDragonReborn = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 168250,
   ownProgress: 168250,

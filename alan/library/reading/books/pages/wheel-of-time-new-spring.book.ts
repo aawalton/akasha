@@ -8,7 +8,7 @@ export const wheelOfTimeNewSpring = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 104250,
   ownProgress: 104250,
   publishedAt: "2011-07-29",

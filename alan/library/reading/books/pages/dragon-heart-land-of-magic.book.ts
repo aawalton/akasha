@@ -7,7 +7,7 @@ export const dragonHeartLandOfMagic = {
   title: "Dragon Heart: Land of Magic",
   status: "completed",
   author: "Nick Roberts, Greg Kramer",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 147750,
   ownProgress: 147750,

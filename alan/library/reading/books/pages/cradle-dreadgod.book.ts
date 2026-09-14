@@ -7,7 +7,7 @@ export const cradleDreadgod = {
   title: "Cradle: Dreadgod",
   status: "completed",
   author: "Will Wight",
-  unit: "words",
+  unit: "unit/words",
   position: 11,
   ownLength: 121500,
   ownProgress: 121500,

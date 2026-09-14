@@ -6,7 +6,7 @@ export const beastborneChroniclesMistWardens = {
   slug: "beastborne-chronicles-mist-wardens",
   title: "Beastborne Chronicles: Mist Wardens",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 237750,
   ownProgress: 237750,

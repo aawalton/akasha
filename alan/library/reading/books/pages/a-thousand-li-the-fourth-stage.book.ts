@@ -7,7 +7,7 @@ export const aThousandLiTheFourthStage = {
   title: "A Thousand Li: the Fourth Stage",
   status: "completed",
   author: "Tao Wong",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 109750,
   ownProgress: 109750,

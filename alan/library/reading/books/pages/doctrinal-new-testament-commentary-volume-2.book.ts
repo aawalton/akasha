@@ -7,7 +7,7 @@ export const doctrinalNewTestamentCommentaryVolume2 = {
   title: "Doctrinal New Testament Commentary Volume 2",
   status: "not-started",
   author: "Bible",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 136000,
 } as const satisfies Book

@@ -8,7 +8,7 @@ export const wheelOfTimeTheEyeOfTheWorld = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 188250,
   ownProgress: 188250,

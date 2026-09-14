@@ -7,7 +7,7 @@ export const robertLangdonTheDaVinciCode = {
   title: "Robert Langdon: The Da Vinci Code",
   status: "not-started",
   author: "Dan Brown",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 124000,
   externalIdentity: [

@@ -6,7 +6,7 @@ export const theSystemApocalypseBrokenCouncil = {
   slug: "the-system-apocalypse-broken-council",
   title: "The System Apocalypse: Broken Council",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 114750,
   ownProgress: 114750,

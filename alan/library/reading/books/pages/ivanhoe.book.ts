@@ -7,7 +7,7 @@ export const ivanhoe = {
   title: "Ivanhoe",
   status: "not-started",
   author: "Sir Walter Scott",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 112500,
 } as const satisfies Book

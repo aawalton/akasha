@@ -7,7 +7,7 @@ export const monsterHuntersInternationalMonsterHunterSiege = {
   title: "Monster Hunters International: Monster Hunter Siege",
   status: "not-started",
   author: "Larry Correia",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 88500,
   externalIdentity: [

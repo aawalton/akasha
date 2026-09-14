@@ -6,7 +6,7 @@ export const theWanderingInnBook1 = {
   slug: "the-wandering-inn-book-1",
   title: "The Wandering Inn",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   ownProgress: 10.33,
   externalIdentity: [{ source: "the-wandering-inn", externalLink: "https://wanderinginn.com" }],
 } as const satisfies Book

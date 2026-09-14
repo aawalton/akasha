@@ -6,7 +6,7 @@ export const theViridianGateArchivesImperialLegion = {
   slug: "the-viridian-gate-archives-imperial-legion",
   title: "The Viridian Gate Archives: Imperial Legion",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 93500,
   ownProgress: 93500,

@@ -6,7 +6,7 @@ export const milesVorsokiganKomarr = {
   slug: "miles-vorsokigan-komarr",
   title: "Miles Vorsokigan: Komarr",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 83000,
   externalIdentity: [

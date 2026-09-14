@@ -7,7 +7,7 @@ export const mitosis = {
   title: "Mitosis",
   status: "not-started",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 6250,
 } as const satisfies Book

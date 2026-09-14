@@ -6,7 +6,7 @@ export const theElderEmpireShadowOfDarknessAndDawn = {
   slug: "the-elder-empire-shadow-of-darkness-and-dawn",
   title: "The Elder Empire - Shadow: Of Darkness and Dawn",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 91000,
   externalIdentity: [

@@ -7,7 +7,7 @@ export const autobiographyOfParleyPPratt = {
   title: "Autobiography of Parley P. Pratt",
   status: "not-started",
   author: "Parley P. Pratt",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 152250,
 } as const satisfies Book

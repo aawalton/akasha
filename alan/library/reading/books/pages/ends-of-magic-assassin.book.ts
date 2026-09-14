@@ -7,7 +7,7 @@ export const endsOfMagicAssassin = {
   title: "Ends of Magic: Assassin",
   status: "completed",
   author: "L. Fletcher Prouty",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 99500,
   ownProgress: 99500,

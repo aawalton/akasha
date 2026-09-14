@@ -6,7 +6,7 @@ export const markOfTheCrijikGestiSky = {
   slug: "mark-of-the-crijik-gesti-sky",
   title: "Mark of the Crijik: Gesti Sky",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 112000,
   publishedAt: "2023-05-02",

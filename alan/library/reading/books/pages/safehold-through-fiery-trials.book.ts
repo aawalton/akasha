@@ -7,7 +7,7 @@ export const safeholdThroughFieryTrials = {
   title: "Safehold: Through Fiery Trials",
   status: "not-started",
   author: "David Weber",
-  unit: "words",
+  unit: "unit/words",
   position: 9,
   ownLength: 172500,
   externalIdentity: [

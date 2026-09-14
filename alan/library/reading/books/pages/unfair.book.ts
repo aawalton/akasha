@@ -7,6 +7,6 @@ export const unfair = {
   title: "Unfair",
   status: "not-started",
   author: "Adam Benforado",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 150750,
 } as const satisfies Book

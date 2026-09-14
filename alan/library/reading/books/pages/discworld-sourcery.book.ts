@@ -7,7 +7,7 @@ export const discworldSourcery = {
   title: "Discworld: Sourcery",
   status: "not-started",
   author: "Terry Pratchett",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 79500,
   externalIdentity: [

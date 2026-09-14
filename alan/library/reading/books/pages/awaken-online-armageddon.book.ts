@@ -6,7 +6,7 @@ export const awakenOnlineArmageddon = {
   slug: "awaken-online-armageddon",
   title: "Awaken Online: Armageddon",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 161250,
   ownProgress: 161250,

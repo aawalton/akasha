@@ -7,6 +7,6 @@ export const theTalentCode = {
   title: "The Talent Code",
   status: "not-started",
   author: "Daniel Coyle",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 91500,
 } as const satisfies Book

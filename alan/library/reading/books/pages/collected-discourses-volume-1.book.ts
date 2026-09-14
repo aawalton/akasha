@@ -7,7 +7,7 @@ export const collectedDiscoursesVolume1 = {
   title: "Collected Discourses Volume 1",
   status: "not-started",
   author: "Theodore Parker",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 99250,
 } as const satisfies Book

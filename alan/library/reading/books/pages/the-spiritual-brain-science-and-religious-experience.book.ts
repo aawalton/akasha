@@ -7,6 +7,6 @@ export const theSpiritualBrainScienceAndReligiousExperience = {
   title: "The Spiritual Brain: Science and Religious Experience",
   status: "not-started",
   author: "Andrew B. Newberg",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 184200,
 } as const satisfies Book

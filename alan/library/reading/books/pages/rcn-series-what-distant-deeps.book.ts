@@ -6,7 +6,7 @@ export const rcnSeriesWhatDistantDeeps = {
   slug: "rcn-series-what-distant-deeps",
   title: "RCN Series: What Distant Deeps",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 104750,
   externalIdentity: [

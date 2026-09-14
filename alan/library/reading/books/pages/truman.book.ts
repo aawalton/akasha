@@ -8,7 +8,7 @@ export const truman = {
   status: "completed",
   rank: "B",
   author: "David McCullough",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 248000,
   ownProgress: 248000,

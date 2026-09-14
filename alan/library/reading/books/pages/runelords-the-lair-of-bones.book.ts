@@ -7,7 +7,7 @@ export const runelordsTheLairOfBones = {
   title: "Runelords: The Lair of Bones",
   status: "not-started",
   author: "David Farland",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 110500,
   externalIdentity: [

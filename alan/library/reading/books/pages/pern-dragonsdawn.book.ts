@@ -7,7 +7,7 @@ export const pernDragonsdawn = {
   title: "Pern: Dragonsdawn",
   status: "not-started",
   author: "Anne McCaffrey",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 96000,
   externalIdentity: [

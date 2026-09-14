@@ -6,7 +6,7 @@ export const theWhisperingCrystalsUntamedSpirit = {
   slug: "the-whispering-crystals-untamed-spirit",
   title: "The Whispering Crystals: Untamed Spirit",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 128000,
   ownProgress: 128000,

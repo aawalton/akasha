@@ -7,6 +7,6 @@ export const theEverythingParentsGuideToChildrenWithExecutiveFunctioningDisorder
   title: "The Everything Parent's Guide to Children with Executive Functioning Disorder",
   status: "not-started",
   author: "Rebecca Branstetter",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 124500,
 } as const satisfies Book

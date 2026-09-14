@@ -7,7 +7,7 @@ export const theSystemApocalypseSystemFinale = {
   title: "The System Apocalypse: System Finale",
   status: "completed",
   author: "Ernst Bloch, J. T. Swann, Thompson, Peter",
-  unit: "words",
+  unit: "unit/words",
   position: 12,
   ownLength: 119000,
   ownProgress: 119000,

@@ -6,7 +6,7 @@ export const riseOfTheDevourerVoidborne = {
   slug: "rise-of-the-devourer-voidborne",
   title: "Rise of the Devourer: Voidborne",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 123000,
   publishedAt: "2023-10-24",

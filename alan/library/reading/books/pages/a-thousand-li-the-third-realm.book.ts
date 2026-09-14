@@ -7,7 +7,7 @@ export const aThousandLiTheThirdRealm = {
   title: "A Thousand Li: The Third Realm",
   status: "completed",
   author: "Tao Wong",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 125250,
   ownProgress: 125250,

@@ -7,6 +7,6 @@ export const flourish = {
   title: "Flourish",
   status: "not-started",
   author: "Martin Elias Pete Seligman",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 142500,
 } as const satisfies Book

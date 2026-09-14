@@ -7,7 +7,7 @@ export const teachingsOfHowardWHunter = {
   title: "Teachings of Howard W. Hunter",
   status: "not-started",
   author: "Howard W. Hunter",
-  unit: "words",
+  unit: "unit/words",
   position: 15,
   ownLength: 67750,
 } as const satisfies Book

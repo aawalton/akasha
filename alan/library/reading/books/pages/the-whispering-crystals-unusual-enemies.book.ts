@@ -6,7 +6,7 @@ export const theWhisperingCrystalsUnusualEnemies = {
   slug: "the-whispering-crystals-unusual-enemies",
   title: "The Whispering Crystals: Unusual Enemies",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 73750,
   ownProgress: 73750,

@@ -7,6 +7,6 @@ export const threeActTragedy = {
   title: "Three Act Tragedy",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
 } as const satisfies Book

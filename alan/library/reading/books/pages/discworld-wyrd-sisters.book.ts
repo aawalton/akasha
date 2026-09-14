@@ -7,7 +7,7 @@ export const discworldWyrdSisters = {
   title: "Discworld: Wyrd Sisters",
   status: "not-started",
   author: "Terry Pratchett",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 83500,
   externalIdentity: [

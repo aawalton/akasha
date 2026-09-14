@@ -6,7 +6,7 @@ export const stonehavenLeagueFortressOfShadows = {
   slug: "stonehaven-league-fortress-of-shadows",
   title: "Stonehaven League: Fortress of Shadows",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 96000,
   ownProgress: 96000,

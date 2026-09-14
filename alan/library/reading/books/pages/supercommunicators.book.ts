@@ -7,6 +7,6 @@ export const supercommunicators = {
   title: "Supercommunicators",
   status: "not-started",
   author: "Charles Duhigg",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 112050,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const theLostFleetRelentless = {
   title: "The Lost Fleet: Relentless",
   status: "not-started",
   author: "Jack Campbell",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 84500,
   externalIdentity: [

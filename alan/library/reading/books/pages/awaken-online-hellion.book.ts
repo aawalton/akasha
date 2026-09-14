@@ -6,7 +6,7 @@ export const awakenOnlineHellion = {
   slug: "awaken-online-hellion",
   title: "Awaken Online: Hellion",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 180500,
   ownProgress: 180500,

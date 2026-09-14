@@ -7,7 +7,7 @@ export const theNewWorldBook1 = {
   title: "The New World",
   status: "completed",
   author: "Pat Robertson",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 212250,
   ownProgress: 212250,

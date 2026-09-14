@@ -7,6 +7,6 @@ export const patrimony = {
   title: "Patrimony",
   status: "not-started",
   author: "Alan Dean Foster",
-  unit: "words",
+  unit: "unit/words",
   position: 13,
 } as const satisfies Book

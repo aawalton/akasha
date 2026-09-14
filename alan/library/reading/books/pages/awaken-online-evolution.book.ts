@@ -7,7 +7,7 @@ export const awakenOnlineEvolution = {
   title: "Awaken Online: Evolution",
   status: "completed",
   author: "Travis Bagwell",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 192250,
   ownProgress: 192250,

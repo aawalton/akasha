@@ -7,7 +7,7 @@ export const dresdenFilesChanges = {
   title: "Dresden Files: Changes",
   status: "not-started",
   author: "Jim Butcher",
-  unit: "words",
+  unit: "unit/words",
   position: 11,
   ownLength: 138500,
   externalIdentity: [

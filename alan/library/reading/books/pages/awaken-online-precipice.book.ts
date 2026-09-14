@@ -7,7 +7,7 @@ export const awakenOnlinePrecipice = {
   title: "Awaken Online: Precipice",
   status: "completed",
   author: "Travis Bagwell",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 149000,
   ownProgress: 149000,

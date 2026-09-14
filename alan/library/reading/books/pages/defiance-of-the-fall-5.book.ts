@@ -7,7 +7,7 @@ export const defianceOfTheFall5 = {
   title: "Defiance of the Fall 5",
   status: "completed",
   author: "J. F. Brink",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 165000,
   ownProgress: 165000,

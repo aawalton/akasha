@@ -7,7 +7,7 @@ export const safeholdAtTheSignOfTriumph = {
   title: "Safehold: At the Sign of Triumph",
   status: "not-started",
   author: "David Weber",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 191250,
   externalIdentity: [

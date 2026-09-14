@@ -7,6 +7,6 @@ export const bloodhype = {
   title: "Bloodhype",
   status: "not-started",
   author: "Alan Dean Foster",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
 } as const satisfies Book

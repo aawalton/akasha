@@ -6,7 +6,7 @@ export const artoriansArchivesAnaheim = {
   slug: "artorians-archives-anaheim",
   title: "Artorian's Archives: Anaheim",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 17,
   ownLength: 124500,
   publishedAt: "2024-02-21",

@@ -6,7 +6,7 @@ export const salvosTheTreasuresOfAlexander = {
   slug: "salvos-the-treasures-of-alexander",
   title: "Salvos: The Treasures of Alexander",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 102000,
   publishedAt: "2022-10-02",

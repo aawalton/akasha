@@ -8,7 +8,7 @@ export const theGreatBooksOfTheWesternWorld5HerodotusThucydides = {
   status: "completed",
   rank: "C",
   author: "Mortimer J. Adler",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 148250,
   ownProgress: 148250,

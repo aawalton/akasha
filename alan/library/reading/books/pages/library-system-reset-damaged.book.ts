@@ -7,7 +7,7 @@ export const librarySystemResetDamaged = {
   title: "Library System Reset: Damaged",
   status: "not-started",
   author: "K. T. Hanna",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 160750,
   publishedAt: "2024-09-10",

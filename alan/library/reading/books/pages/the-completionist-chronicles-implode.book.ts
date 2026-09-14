@@ -6,7 +6,7 @@ export const theCompletionistChroniclesImplode = {
   slug: "the-completionist-chronicles-implode",
   title: "The Completionist Chronicles: Implode",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   ownLength: 97500,
   publishedAt: "2022-10-05",

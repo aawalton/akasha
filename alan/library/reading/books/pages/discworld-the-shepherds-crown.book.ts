@@ -7,7 +7,7 @@ export const discworldTheShepherdsCrown = {
   title: "Discworld: The Shepherd's Crown",
   status: "not-started",
   author: "Terry Pratchett, Manuel Viciano Delibano, Paul Kidby, Laura Ellen Andersen",
-  unit: "words",
+  unit: "unit/words",
   position: 41,
   ownLength: 71250,
   publishedAt: "2015-09-01",

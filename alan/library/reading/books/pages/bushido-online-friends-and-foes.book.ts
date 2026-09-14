@@ -6,7 +6,7 @@ export const bushidoOnlineFriendsAndFoes = {
   slug: "bushido-online-friends-and-foes",
   title: "Bushido Online: Friends and Foes",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 130000,
   ownProgress: 130000,

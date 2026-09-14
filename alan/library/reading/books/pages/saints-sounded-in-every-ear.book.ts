@@ -7,6 +7,6 @@ export const saintsSoundedInEveryEar = {
   title: "Saints: Sounded in Every Ear",
   status: "not-started",
   author: "The Church of Jesus Christ of Latter-day Saints",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
 } as const satisfies Book

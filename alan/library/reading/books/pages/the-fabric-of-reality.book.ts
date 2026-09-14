@@ -7,7 +7,7 @@ export const theFabricOfReality = {
   title: "The Fabric of Reality",
   status: "not-started",
   author: "David Deutsch",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 97500,
 } as const satisfies Book

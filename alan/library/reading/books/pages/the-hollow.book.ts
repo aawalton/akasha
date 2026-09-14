@@ -7,6 +7,6 @@ export const theHollow = {
   title: "The Hollow",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 22,
 } as const satisfies Book

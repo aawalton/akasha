@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld27Cervantes = {
   title: "The Great Books of the Western World 27: Cervantes",
   status: "not-started",
   author: "Miguel de Cervantes Saavedra",
-  unit: "words",
+  unit: "unit/words",
   position: 27,
   ownLength: 127250,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const bleakHouse = {
   title: "Bleak House",
   status: "not-started",
   author: "Charles Dickens",
-  unit: "words",
+  unit: "unit/words",
   position: 9,
   ownLength: 218500,
 } as const satisfies Book

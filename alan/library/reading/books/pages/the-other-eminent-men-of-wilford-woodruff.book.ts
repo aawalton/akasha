@@ -7,7 +7,7 @@ export const theOtherEminentMenOfWilfordWoodruff = {
   title: "The Other Eminent Men of Wilford Woodruff",
   status: "paused",
   author: "Vicki Jo Anderson",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 99250,
   ownProgress: 2250,

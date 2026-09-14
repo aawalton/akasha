@@ -7,7 +7,7 @@ export const scaleAndSeaTrilogySovereignSoul = {
   title: "Scale & Sea Trilogy: Sovereign Soul",
   status: "completed",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 170000,
   ownProgress: 170000,

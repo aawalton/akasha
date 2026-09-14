@@ -7,7 +7,7 @@ export const guardianOfAsterFallAsterFall = {
   title: "Guardian of Aster Fall: Aster Fall",
   status: "completed",
   author: "David North",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 133500,
   ownProgress: 133500,

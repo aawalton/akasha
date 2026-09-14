@@ -8,7 +8,7 @@ export const neurotribes = {
   status: "completed",
   rank: "A",
   author: "Steve Silberman",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 281550,
   ownProgress: 281550,
 } as const satisfies Book

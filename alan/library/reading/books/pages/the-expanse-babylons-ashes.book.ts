@@ -7,7 +7,7 @@ export const theExpanseBabylonsAshes = {
   title: "The Expanse: Babylon's Ashes",
   status: "not-started",
   author: "James S. A. Corey",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 144750,
   externalIdentity: [

@@ -7,7 +7,7 @@ export const psychologyOfHumanBehavior = {
   title: "Psychology of Human Behavior",
   status: "completed",
   author: "Nancy Lui",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 277500,
   ownProgress: 277500,
 } as const satisfies Book

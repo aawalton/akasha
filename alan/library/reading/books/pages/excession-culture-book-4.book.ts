@@ -7,7 +7,7 @@ export const excessionCultureBook4 = {
   title: "Excession (Culture Book 4)",
   status: "not-started",
   author: "Glover, David",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 149500,
   externalIdentity: [

@@ -7,7 +7,7 @@ export const cinnamonBun2 = {
   title: "Cinnamon Bun 2",
   status: "not-started",
   author: "michael linnett",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 105500,
   publishedAt: "2020-10-07",

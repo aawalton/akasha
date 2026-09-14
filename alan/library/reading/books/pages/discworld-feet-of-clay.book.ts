@@ -7,7 +7,7 @@ export const discworldFeetOfClay = {
   title: "Discworld: Feet of Clay",
   status: "not-started",
   author: "Terry Pratchett",
-  unit: "words",
+  unit: "unit/words",
   position: 19,
   ownLength: 92750,
   externalIdentity: [

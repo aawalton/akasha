@@ -7,6 +7,6 @@ export const happierAtHome = {
   title: "Happier at Home",
   status: "not-started",
   author: "Gretchen Rubin",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 139950,
 } as const satisfies Book

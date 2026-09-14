@@ -7,7 +7,7 @@ export const hyperionCantosRiseOfEndymion = {
   title: "Hyperion Cantos: Rise of Endymion",
   status: "not-started",
   author: "Dan Simmons",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 180500,
   externalIdentity: [

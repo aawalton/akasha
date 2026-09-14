@@ -7,7 +7,7 @@ export const vattasWarTradingInDanger = {
   title: "Vatta's War: Trading in Danger",
   status: "not-started",
   author: "Elizabeth Moon",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 78500,
   externalIdentity: [
     {

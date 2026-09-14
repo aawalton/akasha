@@ -6,7 +6,7 @@ export const aTreasuryOfIrishFolklore = {
   slug: "a-treasury-of-irish-folklore",
   title: "A Treasury of Irish Folklore",
   status: "paused",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 153250,
   ownProgress: 3500,

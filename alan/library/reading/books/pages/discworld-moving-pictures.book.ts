@@ -7,7 +7,7 @@ export const discworldMovingPictures = {
   title: "Discworld: Moving Pictures",
   status: "not-started",
   author: "Terry Pratchett",
-  unit: "words",
+  unit: "unit/words",
   position: 10,
   ownLength: 103500,
   externalIdentity: [

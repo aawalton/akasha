@@ -6,7 +6,7 @@ export const honorHarringtonWorldsOfHonorInFireForged = {
   slug: "honor-harrington-worlds-of-honor-in-fire-forged",
   title: "Honor Harrington - Worlds of Honor: In Fire Forged",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 4,
   ownLength: 100000,
   externalIdentity: [

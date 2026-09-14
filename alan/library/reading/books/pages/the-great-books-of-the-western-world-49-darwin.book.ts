@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld49Darwin = {
   title: "The Great Books of the Western World 49: Darwin",
   status: "not-started",
   author: "Charles Darwin",
-  unit: "words",
+  unit: "unit/words",
   position: 49,
   ownLength: 164750,
 } as const satisfies Book

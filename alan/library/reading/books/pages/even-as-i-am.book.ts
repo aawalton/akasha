@@ -8,7 +8,7 @@ export const evenAsIAm = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 30500,
   ownProgress: 30500,

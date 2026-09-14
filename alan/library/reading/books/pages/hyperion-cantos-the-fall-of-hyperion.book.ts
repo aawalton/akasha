@@ -7,7 +7,7 @@ export const hyperionCantosTheFallOfHyperion = {
   title: "Hyperion Cantos: The Fall of Hyperion",
   status: "not-started",
   author: "Dan Simmons",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 169000,
   externalIdentity: [

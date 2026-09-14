@@ -8,7 +8,7 @@ export const japaneseFairyTales = {
   status: "completed",
   rank: "C",
   author: "Yei Theodora Ozaki",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 70250,
   ownProgress: 70250,

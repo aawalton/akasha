@@ -7,6 +7,6 @@ export const theCompleteGuideToFasting = {
   title: "The Complete Guide to Fasting",
   status: "not-started",
   author: "Jason Fung",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 114000,
 } as const satisfies Book

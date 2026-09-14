@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoonsImmortalMoments = {
   slug: "beneath-the-dragoneye-moons-immortal-moments",
   title: "Beneath the Dragoneye Moons: Immortal Moments",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 124250,
   ownProgress: 124250,

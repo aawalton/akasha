@@ -6,7 +6,7 @@ export const earthenContendersUnbelievableHealer = {
   slug: "earthen-contenders-unbelievable-healer",
   title: "Earthen Contenders: Unbelievable Healer",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 131750,
   ownProgress: 131750,

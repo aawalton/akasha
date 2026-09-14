@@ -6,7 +6,7 @@ export const artoriansArchivesAntelucan = {
   slug: "artorians-archives-antelucan",
   title: "Artorian's Archives: Antelucan",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 13,
   ownLength: 118500,
   publishedAt: "2023-01-11",

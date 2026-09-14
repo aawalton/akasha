@@ -7,7 +7,7 @@ export const isaiahProphetSeerAndPoet = {
   title: "Isaiah: Prophet, Seer, and Poet",
   status: "paused",
   author: "Victor L. Ludlow",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 137000,
   ownProgress: 4750,

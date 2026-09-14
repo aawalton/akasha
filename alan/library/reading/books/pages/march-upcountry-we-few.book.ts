@@ -7,7 +7,7 @@ export const marchUpcountryWeFew = {
   title: "March Upcountry: We Few",
   status: "not-started",
   author: "John Ringo",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 120750,
   externalIdentity: [

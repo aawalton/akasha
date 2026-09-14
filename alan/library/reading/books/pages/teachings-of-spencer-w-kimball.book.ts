@@ -7,7 +7,7 @@ export const teachingsOfSpencerWKimball = {
   title: "Teachings of Spencer W. Kimball",
   status: "not-started",
   author: "Spencer W. Kimball",
-  unit: "words",
+  unit: "unit/words",
   position: 13,
   ownLength: 155000,
 } as const satisfies Book

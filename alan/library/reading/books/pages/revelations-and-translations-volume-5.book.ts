@@ -7,6 +7,6 @@ export const revelationsAndTranslationsVolume5 = {
   title: "Revelations and Translations Volume 5",
   status: "not-started",
   author: "Bible",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
 } as const satisfies Book

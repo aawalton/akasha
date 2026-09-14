@@ -6,7 +6,7 @@ export const theGoodGuysDukesAndLadders = {
   slug: "the-good-guys-dukes-and-ladders",
   title: "The Good Guys: Dukes and Ladders",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   ownLength: 85000,
   ownProgress: 85000,

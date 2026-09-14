@@ -7,7 +7,7 @@ export const expeditionaryForceSpecops = {
   title: "Expeditionary Force: SpecOps",
   status: "not-started",
   author: "Craig Alanson",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 69250,
   externalIdentity: [

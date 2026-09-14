@@ -7,7 +7,7 @@ export const vattasWarEngagingTheEnemy = {
   title: "Vatta's War: Engaging the Enemy",
   status: "not-started",
   author: "Elizabeth Moon",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 104000,
   externalIdentity: [

@@ -8,7 +8,7 @@ export const wheelOfTimeAMemoryOfLight = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan, Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 14,
   ownLength: 256250,
   ownProgress: 256250,

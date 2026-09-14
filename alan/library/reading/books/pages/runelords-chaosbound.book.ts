@@ -7,7 +7,7 @@ export const runelordsChaosbound = {
   title: "Runelords: Chaosbound",
   status: "not-started",
   author: "David Farland",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 88000,
   externalIdentity: [

@@ -7,6 +7,6 @@ export const theFormula = {
   title: "The Formula",
   status: "not-started",
   author: "Albert-László Barabási",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 118500,
 } as const satisfies Book

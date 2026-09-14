@@ -7,7 +7,7 @@ export const soulGuardianBook1 = {
   title: "Soul Guardian",
   status: "completed",
   author: "Alex Karne",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 89250,
   ownProgress: 89250,

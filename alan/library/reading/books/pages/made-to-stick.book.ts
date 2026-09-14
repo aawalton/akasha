@@ -7,6 +7,6 @@ export const madeToStick = {
   title: "Made to Stick",
   status: "not-started",
   author: "Chip Heath, Dan Heath, ʻAlizah Raʻanan",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 129300,
 } as const satisfies Book

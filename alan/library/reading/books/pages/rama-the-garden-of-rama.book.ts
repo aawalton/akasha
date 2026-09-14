@@ -7,7 +7,7 @@ export const ramaTheGardenOfRama = {
   title: "Rama: The Garden of Rama",
   status: "not-started",
   author: "Arthur C. Clarke, Gentry Lee",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 132500,
   externalIdentity: [

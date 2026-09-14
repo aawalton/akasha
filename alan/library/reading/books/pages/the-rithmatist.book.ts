@@ -7,7 +7,7 @@ export const theRithmatist = {
   title: "The Rithmatist",
   status: "not-started",
   author: "Brandon Sanderson",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 93000,
 } as const satisfies Book

@@ -6,7 +6,7 @@ export const theFirebrandViridianGateOnline = {
   slug: "the-firebrand-viridian-gate-online",
   title: "The Firebrand: Viridian Gate Online",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   ownLength: 69500,
   ownProgress: 69500,

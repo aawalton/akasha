@@ -7,7 +7,7 @@ export const theWarOfBrokenMirrorsForgingDivinity = {
   title: "The War of Broken Mirrors: Forging Divinity",
   status: "completed",
   author: "Andrew Rowe",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 77500,
   ownProgress: 77500,
   externalIdentity: [

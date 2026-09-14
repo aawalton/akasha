@@ -7,7 +7,7 @@ export const aTaleOfTwoCities = {
   title: "A Tale of Two Cities",
   status: "not-started",
   author: "Charles Dickens",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   ownLength: 90750,
 } as const satisfies Book

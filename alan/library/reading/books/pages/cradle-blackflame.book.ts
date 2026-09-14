@@ -7,7 +7,7 @@ export const cradleBlackflame = {
   title: "Cradle: Blackflame",
   status: "completed",
   author: "Will Wight",
-  unit: "words",
+  unit: "unit/words",
   position: 3,
   ownLength: 92250,
   ownProgress: 92250,

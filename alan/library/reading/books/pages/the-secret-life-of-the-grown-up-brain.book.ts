@@ -7,6 +7,6 @@ export const theSecretLifeOfTheGrownUpBrain = {
   title: "The Secret Life of the Grown-Up Brain",
   status: "not-started",
   author: "Barbara Strauch",
-  unit: "words",
+  unit: "unit/words",
   ownLength: 103050,
 } as const satisfies Book

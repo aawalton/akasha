@@ -7,7 +7,7 @@ export const davidCopperfield = {
   title: "David Copperfield",
   status: "not-started",
   author: "Charles Dickens",
-  unit: "words",
+  unit: "unit/words",
   position: 7,
   ownLength: 217750,
 } as const satisfies Book

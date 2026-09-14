@@ -7,6 +7,6 @@ export const thirdGirl = {
   title: "Third Girl",
   status: "not-started",
   author: "Agatha Christie",
-  unit: "words",
+  unit: "unit/words",
   position: 30,
 } as const satisfies Book

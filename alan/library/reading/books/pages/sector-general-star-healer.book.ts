@@ -7,7 +7,7 @@ export const sectorGeneralStarHealer = {
   title: "Sector General: Star Healer",
   status: "not-started",
   author: "James White",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   ownLength: 54250,
   publishedAt: "1985-01-01",
