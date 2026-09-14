@@ -14,10 +14,7 @@ export const SKYSHARDS_PINDATA_ZONEGUIDEINDEX = 3
 export const SKYSHARDS_PINDATA_MOREINFO = 4
 
 export const SKYSHARDS_PINDATA_ON_CITY_MAP = 1
-export const SKYSHARDS_PINDATA_IN_DELVE = 2
-export const SKYSHARDS_PINDATA_IN_PUBLIC_DUNGEON = 3
 export const SKYSHARDS_PINDATA_UNDER_GROUND = 4
-export const SKYSHARDS_PINDATA_IN_GROUP_DELVE = 5
 
 export interface SkyShardsDefaults {
   compassMaxDistance: number
