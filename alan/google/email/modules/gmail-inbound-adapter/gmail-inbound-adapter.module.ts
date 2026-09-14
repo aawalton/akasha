@@ -9,6 +9,14 @@ export const gmailInboundAdapter = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The summary the caller already holds is shaped rather than fetched again.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches Gmail.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Whether Alan sent the message is read off the SENT label rather than off the sender.",
     },
