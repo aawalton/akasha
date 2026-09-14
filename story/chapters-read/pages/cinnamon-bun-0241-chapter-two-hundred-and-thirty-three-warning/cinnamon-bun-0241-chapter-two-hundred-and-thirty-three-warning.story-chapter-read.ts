@@ -8,7 +8,7 @@ export const cinnamonBun0241ChapterTwoHundredAndThirtyThreeWarning = {
   story: "story-read/cinnamon-bun",
   position: 241,
   ownLength: 1941,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-03",
   externalIdentity: [
     {

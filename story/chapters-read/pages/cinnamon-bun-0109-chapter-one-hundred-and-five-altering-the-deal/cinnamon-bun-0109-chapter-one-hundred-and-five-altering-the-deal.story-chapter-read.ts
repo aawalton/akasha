@@ -8,7 +8,7 @@ export const cinnamonBun0109ChapterOneHundredAndFiveAlteringTheDeal = {
   story: "story-read/cinnamon-bun",
   position: 109,
   ownLength: 1995,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-07",
   externalIdentity: [
     {

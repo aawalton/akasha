@@ -8,7 +8,7 @@ export const cinnamonBun0099ChapterNinetySixTheRustyRaven = {
   story: "story-read/cinnamon-bun",
   position: 99,
   ownLength: 1977,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-21",
   externalIdentity: [
     {

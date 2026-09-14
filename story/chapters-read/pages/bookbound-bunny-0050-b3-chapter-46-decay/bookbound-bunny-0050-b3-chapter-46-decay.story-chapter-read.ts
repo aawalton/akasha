@@ -8,7 +8,7 @@ export const bookboundBunny0050B3Chapter46Decay = {
   story: "bookbound-bunny",
   position: 50,
   ownLength: 2249,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-26",
   externalIdentity: [
     {

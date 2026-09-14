@@ -8,7 +8,7 @@ export const chrysalis0454Chapter1801MerchantMerchantIng = {
   story: "story-read/chrysalis",
   position: 454,
   ownLength: 1041,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-31",
   externalIdentity: [
     {

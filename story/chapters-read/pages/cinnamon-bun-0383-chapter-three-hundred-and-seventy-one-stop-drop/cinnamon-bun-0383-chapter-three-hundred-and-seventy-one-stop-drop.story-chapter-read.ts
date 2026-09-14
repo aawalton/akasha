@@ -8,7 +8,7 @@ export const cinnamonBun0383ChapterThreeHundredAndSeventyOneStopDrop = {
   story: "story-read/cinnamon-bun",
   position: 383,
   ownLength: 2065,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-29",
   externalIdentity: [
     {

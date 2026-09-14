@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0031219BunnysFirstSystemFreeSpell = {
   story: "story-read/bunny-girl-evolution",
   position: 31,
   ownLength: 2416,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-29",
   externalIdentity: [
     {

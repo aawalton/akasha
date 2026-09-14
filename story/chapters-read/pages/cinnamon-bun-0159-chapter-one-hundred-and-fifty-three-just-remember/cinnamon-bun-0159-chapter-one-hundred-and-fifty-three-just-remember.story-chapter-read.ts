@@ -8,7 +8,7 @@ export const cinnamonBun0159ChapterOneHundredAndFiftyThreeJustRemember = {
   story: "story-read/cinnamon-bun",
   position: 159,
   ownLength: 2023,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-21",
   externalIdentity: [
     {

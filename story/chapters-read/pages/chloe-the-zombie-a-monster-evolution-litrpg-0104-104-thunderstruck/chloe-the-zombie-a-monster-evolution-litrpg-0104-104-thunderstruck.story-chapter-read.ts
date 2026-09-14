@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0104104Thunderstruck = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 104,
   ownLength: 1899,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-23",
   externalIdentity: [
     {

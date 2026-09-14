@@ -8,7 +8,7 @@ export const cinnamonBun0180ChapterOneHundredAndSeventyFourChaosAnd = {
   story: "story-read/cinnamon-bun",
   position: 180,
   ownLength: 2141,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-24",
   externalIdentity: [
     {

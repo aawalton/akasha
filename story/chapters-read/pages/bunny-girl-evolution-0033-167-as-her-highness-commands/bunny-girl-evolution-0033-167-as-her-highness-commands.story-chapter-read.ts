@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0033167AsHerHighnessCommands = {
   position: 33,
   ownLength: 3876,
   ownProgress: 3876,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:03:43.586Z",
   publishedAt: "2026-01-27",
   externalIdentity: [

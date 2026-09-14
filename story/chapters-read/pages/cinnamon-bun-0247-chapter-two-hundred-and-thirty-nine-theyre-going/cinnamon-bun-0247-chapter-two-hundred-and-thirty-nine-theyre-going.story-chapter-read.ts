@@ -8,7 +8,7 @@ export const cinnamonBun0247ChapterTwoHundredAndThirtyNineTheyreGoing = {
   story: "story-read/cinnamon-bun",
   position: 247,
   ownLength: 2045,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-24",
   externalIdentity: [
     {

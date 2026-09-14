@@ -8,7 +8,7 @@ export const cinnamonBun0305ChapterTwoHundredAndNinetySevenHugsAnd = {
   story: "story-read/cinnamon-bun",
   position: 305,
   ownLength: 1953,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-01",
   externalIdentity: [
     {

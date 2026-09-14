@@ -7,7 +7,7 @@ export const bewareOfChicken0020V4c123InductionPart3 = {
   story: "story-read/beware-of-chicken",
   position: 20,
   publishedAt: "2023-06-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

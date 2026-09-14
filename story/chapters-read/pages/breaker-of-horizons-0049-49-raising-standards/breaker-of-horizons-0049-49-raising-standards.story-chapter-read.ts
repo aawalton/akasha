@@ -8,7 +8,7 @@ export const breakerOfHorizons004949RaisingStandards = {
   story: "story-read/breaker-of-horizons",
   position: 49,
   ownLength: 3222,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-19",
   externalIdentity: [
     {

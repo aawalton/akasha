@@ -7,7 +7,7 @@ export const bewareOfChicken0053V4c40TheInquisition1339125 = {
   story: "story-read/beware-of-chicken",
   position: 53,
   publishedAt: "2023-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

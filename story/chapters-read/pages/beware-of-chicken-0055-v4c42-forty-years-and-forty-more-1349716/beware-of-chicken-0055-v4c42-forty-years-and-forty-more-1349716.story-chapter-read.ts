@@ -7,7 +7,7 @@ export const bewareOfChicken0055V4c42FortyYearsAndFortyMore1349716 = {
   story: "story-read/beware-of-chicken",
   position: 55,
   publishedAt: "2023-09-21",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

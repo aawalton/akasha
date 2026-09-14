@@ -9,7 +9,7 @@ export const chrysalis0160Chapter1512UnexpectedVisitor = {
   position: 160,
   ownLength: 972,
   ownProgress: 972,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:48:57.822Z",
   publishedAt: "2025-02-19",
   externalIdentity: [

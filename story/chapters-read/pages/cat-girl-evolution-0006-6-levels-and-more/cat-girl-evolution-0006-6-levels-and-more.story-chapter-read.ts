@@ -8,7 +8,7 @@ export const catGirlEvolution00066LevelsAndMore = {
   story: "cat-girl-evolution",
   position: 6,
   ownLength: 1924,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons0157157WeightyChoices = {
   story: "story-read/breaker-of-horizons",
   position: 157,
   ownLength: 2603,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-12-02",
   externalIdentity: [
     {

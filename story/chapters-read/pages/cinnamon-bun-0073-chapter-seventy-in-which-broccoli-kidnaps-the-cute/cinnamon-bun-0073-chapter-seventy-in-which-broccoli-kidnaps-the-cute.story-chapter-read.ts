@@ -8,7 +8,7 @@ export const cinnamonBun0073ChapterSeventyInWhichBroccoliKidnapsTheCute = {
   story: "story-read/cinnamon-bun",
   position: 73,
   ownLength: 1940,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-06",
   externalIdentity: [
     {

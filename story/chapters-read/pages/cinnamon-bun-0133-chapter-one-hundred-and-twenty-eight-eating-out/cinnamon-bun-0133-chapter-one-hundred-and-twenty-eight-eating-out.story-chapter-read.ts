@@ -8,7 +8,7 @@ export const cinnamonBun0133ChapterOneHundredAndTwentyEightEatingOut = {
   story: "story-read/cinnamon-bun",
   position: 133,
   ownLength: 1927,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-09",
   externalIdentity: [
     {

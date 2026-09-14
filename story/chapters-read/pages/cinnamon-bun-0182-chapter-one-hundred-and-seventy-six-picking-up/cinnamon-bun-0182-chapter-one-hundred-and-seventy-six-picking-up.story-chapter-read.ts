@@ -8,7 +8,7 @@ export const cinnamonBun0182ChapterOneHundredAndSeventySixPickingUp = {
   story: "story-read/cinnamon-bun",
   position: 182,
   ownLength: 1914,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-26",
   externalIdentity: [
     {

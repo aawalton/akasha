@@ -8,7 +8,7 @@ export const breakerOfHorizons007575EldritchReasoning = {
   story: "story-read/breaker-of-horizons",
   position: 75,
   ownLength: 2129,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-18",
   externalIdentity: [
     {

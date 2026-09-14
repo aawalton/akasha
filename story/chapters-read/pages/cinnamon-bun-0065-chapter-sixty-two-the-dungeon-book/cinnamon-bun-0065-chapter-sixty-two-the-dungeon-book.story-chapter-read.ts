@@ -8,7 +8,7 @@ export const cinnamonBun0065ChapterSixtyTwoTheDungeonBook = {
   story: "story-read/cinnamon-bun",
   position: 65,
   ownLength: 2126,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-22",
   externalIdentity: [
     {

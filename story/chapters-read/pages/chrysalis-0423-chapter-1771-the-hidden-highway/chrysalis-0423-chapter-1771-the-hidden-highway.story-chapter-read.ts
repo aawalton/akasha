@@ -8,7 +8,7 @@ export const chrysalis0423Chapter1771TheHiddenHighway = {
   story: "story-read/chrysalis",
   position: 423,
   ownLength: 981,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-14",
   externalIdentity: [
     {

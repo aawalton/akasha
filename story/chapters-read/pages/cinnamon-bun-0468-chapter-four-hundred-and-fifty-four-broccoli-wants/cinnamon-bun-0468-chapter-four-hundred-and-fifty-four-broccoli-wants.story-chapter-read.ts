@@ -8,7 +8,7 @@ export const cinnamonBun0468ChapterFourHundredAndFiftyFourBroccoliWants = {
   story: "story-read/cinnamon-bun",
   position: 468,
   ownLength: 1574,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-15",
   externalIdentity: [
     {

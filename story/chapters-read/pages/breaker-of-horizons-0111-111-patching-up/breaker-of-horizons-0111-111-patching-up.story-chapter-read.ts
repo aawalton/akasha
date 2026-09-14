@@ -8,7 +8,7 @@ export const breakerOfHorizons0111111PatchingUp = {
   story: "story-read/breaker-of-horizons",
   position: 111,
   ownLength: 1965,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-24",
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const arkendrithyst0129JanesClassAbilityOptionsP1NotAChapter = {
   story: "story-read/arkendrithyst",
   position: 129,
   publishedAt: "2020-08-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

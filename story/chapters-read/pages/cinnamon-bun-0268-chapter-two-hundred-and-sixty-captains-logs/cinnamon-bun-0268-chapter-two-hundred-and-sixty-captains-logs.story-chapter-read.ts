@@ -8,7 +8,7 @@ export const cinnamonBun0268ChapterTwoHundredAndSixtyCaptainsLogs = {
   story: "story-read/cinnamon-bun",
   position: 268,
   ownLength: 1927,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-01",
   externalIdentity: [
     {

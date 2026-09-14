@@ -8,7 +8,7 @@ export const cinnamonBun0279ChapterTwoHundredAndSeventyOneFortressOf = {
   story: "story-read/cinnamon-bun",
   position: 279,
   ownLength: 1967,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-03",
   externalIdentity: [
     {

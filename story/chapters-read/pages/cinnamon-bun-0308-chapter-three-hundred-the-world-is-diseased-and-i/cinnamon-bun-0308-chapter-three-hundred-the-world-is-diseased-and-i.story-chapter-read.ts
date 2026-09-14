@@ -8,7 +8,7 @@ export const cinnamonBun0308ChapterThreeHundredTheWorldIsDiseasedAndI = {
   story: "story-read/cinnamon-bun",
   position: 308,
   ownLength: 1951,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-08",
   externalIdentity: [
     {

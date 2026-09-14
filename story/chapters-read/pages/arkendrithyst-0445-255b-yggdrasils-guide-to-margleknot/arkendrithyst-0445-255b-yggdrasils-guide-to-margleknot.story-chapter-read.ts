@@ -7,7 +7,7 @@ export const arkendrithyst0445255bYggdrasilsGuideToMargleknot = {
   story: "story-read/arkendrithyst",
   position: 445,
   publishedAt: "2023-10-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -7,7 +7,7 @@ export const azarinthHealer0001Chapter1BoringIntroductionWhereIsTheMagic198097 =
   story: "story-read/azarinth-healer",
   position: 1,
   publishedAt: "2018-03-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const azarinthHealer0015AzarinthHealerBook3OutTodayOnAmazonAndAudibleMass
   story: "story-read/azarinth-healer",
   position: 15,
   ownLength: 607,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-11",
   externalIdentity: [
     {

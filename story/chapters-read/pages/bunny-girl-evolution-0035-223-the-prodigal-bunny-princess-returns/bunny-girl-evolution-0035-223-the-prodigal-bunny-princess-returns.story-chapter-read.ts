@@ -6,7 +6,7 @@ export const bunnyGirlEvolution0035223TheProdigalBunnyPrincessReturns = {
   slug: "bunny-girl-evolution-0035-223-the-prodigal-bunny-princess-returns",
   position: 35,
   publishedAt: "2026-09-12",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

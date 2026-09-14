@@ -8,7 +8,7 @@ export const catGirlEvolution0152149TheFrogDilemma = {
   story: "cat-girl-evolution",
   position: 152,
   ownLength: 2353,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-14",
   externalIdentity: [
     {

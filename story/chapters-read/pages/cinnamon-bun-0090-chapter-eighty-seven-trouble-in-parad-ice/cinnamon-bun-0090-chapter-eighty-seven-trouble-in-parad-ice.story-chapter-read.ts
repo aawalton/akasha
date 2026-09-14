@@ -8,7 +8,7 @@ export const cinnamonBun0090ChapterEightySevenTroubleInParadIce = {
   story: "story-read/cinnamon-bun",
   position: 90,
   ownLength: 2001,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-31",
   externalIdentity: [
     {

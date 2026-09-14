@@ -8,7 +8,7 @@ export const cinnamonBun0036ChapterThirtyThreeTheFirstStepInAShort = {
   story: "story-read/cinnamon-bun",
   position: 36,
   ownLength: 2034,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-03",
   externalIdentity: [
     {

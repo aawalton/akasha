@@ -8,7 +8,7 @@ export const breakerOfHorizons003030ChippingAtTheFetters = {
   story: "story-read/breaker-of-horizons",
   position: 30,
   ownLength: 2823,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-13",
   externalIdentity: [
     {

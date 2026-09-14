@@ -8,7 +8,7 @@ export const cinnamonBun0126ChapterOneHundredAndTwentyOneGangstaBun = {
   story: "story-read/cinnamon-bun",
   position: 126,
   ownLength: 2033,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-27",
   externalIdentity: [
     {

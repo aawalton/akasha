@@ -8,7 +8,7 @@ export const bewareOfChicken0298V7c45WelcomingTheEarth = {
   story: "story-read/beware-of-chicken",
   position: 298,
   ownLength: 2145,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-05",
   externalIdentity: [
     {

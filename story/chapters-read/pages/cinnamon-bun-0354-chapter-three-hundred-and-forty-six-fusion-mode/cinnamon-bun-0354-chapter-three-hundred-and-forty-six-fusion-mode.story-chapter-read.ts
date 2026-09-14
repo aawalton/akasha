@@ -8,7 +8,7 @@ export const cinnamonBun0354ChapterThreeHundredAndFortySixFusionMode = {
   story: "story-read/cinnamon-bun",
   position: 354,
   ownLength: 1854,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-26",
   externalIdentity: [
     {

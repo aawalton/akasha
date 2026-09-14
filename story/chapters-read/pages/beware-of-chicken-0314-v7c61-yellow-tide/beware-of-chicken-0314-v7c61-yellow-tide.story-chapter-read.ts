@@ -8,7 +8,7 @@ export const bewareOfChicken0314V7c61YellowTide = {
   story: "story-read/beware-of-chicken",
   position: 314,
   ownLength: 2882,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-27",
   externalIdentity: [
     {

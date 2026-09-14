@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0026Book6Chapter19ReturnToStart2 = {
   position: 26,
   ownLength: 2436,
   ownProgress: 2436,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-03",
   externalIdentity: [
     {

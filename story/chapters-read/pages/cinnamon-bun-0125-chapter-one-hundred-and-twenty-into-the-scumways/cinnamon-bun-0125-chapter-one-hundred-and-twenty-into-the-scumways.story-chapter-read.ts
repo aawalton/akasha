@@ -8,7 +8,7 @@ export const cinnamonBun0125ChapterOneHundredAndTwentyIntoTheScumways = {
   story: "story-read/cinnamon-bun",
   position: 125,
   ownLength: 2186,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-26",
   externalIdentity: [
     {

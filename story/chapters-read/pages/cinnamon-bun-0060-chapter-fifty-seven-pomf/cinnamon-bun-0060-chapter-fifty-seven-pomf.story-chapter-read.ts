@@ -8,7 +8,7 @@ export const cinnamonBun0060ChapterFiftySevenPomf = {
   story: "story-read/cinnamon-bun",
   position: 60,
   ownLength: 1983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-10",
   externalIdentity: [
     {

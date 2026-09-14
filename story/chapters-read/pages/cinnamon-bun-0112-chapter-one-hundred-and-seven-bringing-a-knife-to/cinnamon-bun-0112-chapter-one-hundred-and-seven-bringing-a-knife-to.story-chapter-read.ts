@@ -8,7 +8,7 @@ export const cinnamonBun0112ChapterOneHundredAndSevenBringingAKnifeTo = {
   story: "story-read/cinnamon-bun",
   position: 112,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-08",
   externalIdentity: [
     {

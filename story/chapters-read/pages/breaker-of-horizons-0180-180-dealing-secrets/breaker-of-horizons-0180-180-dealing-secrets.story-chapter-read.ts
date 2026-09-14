@@ -8,7 +8,7 @@ export const breakerOfHorizons0180180DealingSecrets = {
   story: "story-read/breaker-of-horizons",
   position: 180,
   ownLength: 2239,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-21",
   externalIdentity: [
     {

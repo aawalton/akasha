@@ -8,7 +8,7 @@ export const cinnamonBun0066ChapterSixtyThreeTheShadyLady = {
   story: "story-read/cinnamon-bun",
   position: 66,
   ownLength: 2027,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-24",
   externalIdentity: [
     {

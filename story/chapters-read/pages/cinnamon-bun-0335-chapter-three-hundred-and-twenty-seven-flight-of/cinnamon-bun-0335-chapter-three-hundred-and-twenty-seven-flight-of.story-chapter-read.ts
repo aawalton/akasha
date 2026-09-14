@@ -8,7 +8,7 @@ export const cinnamonBun0335ChapterThreeHundredAndTwentySevenFlightOf = {
   story: "story-read/cinnamon-bun",
   position: 335,
   ownLength: 1970,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-21",
   externalIdentity: [
     {

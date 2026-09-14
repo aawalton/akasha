@@ -9,7 +9,7 @@ export const chrysalis0045Chapter1398MoreMutating = {
   position: 45,
   ownLength: 1101,
   ownProgress: 1101,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:45:04.511Z",
   publishedAt: "2024-08-29",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const chrysalis0501Chapter1846SettleInWeatherIsRough = {
   story: "story-read/chrysalis",
   position: 501,
   ownLength: 1089,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-18",
   externalIdentity: [
     {

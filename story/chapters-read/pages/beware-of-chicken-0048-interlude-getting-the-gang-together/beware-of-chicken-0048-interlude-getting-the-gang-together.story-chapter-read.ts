@@ -9,7 +9,7 @@ export const bewareOfChicken0048InterludeGettingTheGangTogether = {
   position: 48,
   ownLength: 4624,
   ownProgress: 4624,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:53:00.671Z",
   publishedAt: "2023-08-31",
   externalIdentity: [

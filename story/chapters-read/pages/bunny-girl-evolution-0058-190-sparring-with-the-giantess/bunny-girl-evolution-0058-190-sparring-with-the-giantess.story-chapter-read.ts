@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0058190SparringWithTheGiantess = {
   story: "story-read/bunny-girl-evolution",
   position: 58,
   ownLength: 3303,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-18",
   externalIdentity: [
     {

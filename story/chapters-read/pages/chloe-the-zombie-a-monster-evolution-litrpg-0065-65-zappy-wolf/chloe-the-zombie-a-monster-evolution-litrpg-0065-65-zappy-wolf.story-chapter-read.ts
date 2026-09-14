@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006565ZappyWolf = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 65,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-07",
   externalIdentity: [
     {

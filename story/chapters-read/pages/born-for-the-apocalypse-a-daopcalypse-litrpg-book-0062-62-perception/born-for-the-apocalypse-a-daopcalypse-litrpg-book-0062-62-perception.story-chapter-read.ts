@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook006262Perception = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 62,
   ownLength: 1986,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-28",
   externalIdentity: [
     {

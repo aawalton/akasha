@@ -8,7 +8,7 @@ export const cinnamonBun0012ChapterTenMushroomHop = {
   story: "story-read/cinnamon-bun",
   position: 12,
   ownLength: 1960,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-22",
   externalIdentity: [
     {

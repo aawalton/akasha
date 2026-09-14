@@ -8,7 +8,7 @@ export const bookboundBunny0070B3Chapter66CatchUp = {
   story: "bookbound-bunny",
   position: 70,
   ownLength: 2168,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-16",
   externalIdentity: [
     {

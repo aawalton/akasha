@@ -8,7 +8,7 @@ export const bewareOfChicken0328V7v75TheStepsMayStopButTheFootprintsRemain = {
   story: "story-read/beware-of-chicken",
   position: 328,
   ownLength: 1892,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-05",
   externalIdentity: [
     {

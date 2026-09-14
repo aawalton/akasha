@@ -8,7 +8,7 @@ export const cinnamonBun0143ChapterOneHundredAndThirtyEightAvianation = {
   story: "story-read/cinnamon-bun",
   position: 143,
   ownLength: 2016,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-01",
   externalIdentity: [
     {

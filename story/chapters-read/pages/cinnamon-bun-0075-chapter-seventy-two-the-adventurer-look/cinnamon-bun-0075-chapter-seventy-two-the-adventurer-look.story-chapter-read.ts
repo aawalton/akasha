@@ -8,7 +8,7 @@ export const cinnamonBun0075ChapterSeventyTwoTheAdventurerLook = {
   story: "story-read/cinnamon-bun",
   position: 75,
   ownLength: 1949,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-10",
   externalIdentity: [
     {

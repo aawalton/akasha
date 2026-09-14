@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0034Book4Chapter29AStrategic
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 34,
   ownLength: 5720,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-19",
   externalIdentity: [
     {

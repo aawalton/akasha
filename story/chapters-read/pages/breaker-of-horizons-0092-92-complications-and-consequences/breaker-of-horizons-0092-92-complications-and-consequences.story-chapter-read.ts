@@ -8,7 +8,7 @@ export const breakerOfHorizons009292ComplicationsAndConsequences = {
   story: "story-read/breaker-of-horizons",
   position: 92,
   ownLength: 1657,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-18",
   externalIdentity: [
     {

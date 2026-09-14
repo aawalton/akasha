@@ -8,7 +8,7 @@ export const breakerOfHorizons0112112DiametricPowers = {
   story: "story-read/breaker-of-horizons",
   position: 112,
   ownLength: 2016,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-27",
   externalIdentity: [
     {

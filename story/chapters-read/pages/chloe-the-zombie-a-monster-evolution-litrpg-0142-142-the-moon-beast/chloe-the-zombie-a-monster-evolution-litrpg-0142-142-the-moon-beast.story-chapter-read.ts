@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0142142TheMoonBeast = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 142,
   ownLength: 2174,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0040ChapterThirtySevenLetMeLevelWithYou = {
   story: "story-read/cinnamon-bun",
   position: 40,
   ownLength: 2012,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-09",
   externalIdentity: [
     {

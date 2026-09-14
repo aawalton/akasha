@@ -7,7 +7,7 @@ export const bewareOfChicken0057V4c44APickledPrank1354736 = {
   story: "story-read/beware-of-chicken",
   position: 57,
   publishedAt: "2023-09-26",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

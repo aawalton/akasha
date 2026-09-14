@@ -9,7 +9,7 @@ export const chrysalis0300Chapter1651OnTheStudyOfTheChal = {
   position: 300,
   ownLength: 1094,
   ownProgress: 1094,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:53:24.671Z",
   publishedAt: "2025-09-23",
   externalIdentity: [

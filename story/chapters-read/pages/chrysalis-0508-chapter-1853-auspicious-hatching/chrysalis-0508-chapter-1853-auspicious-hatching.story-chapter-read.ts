@@ -8,7 +8,7 @@ export const chrysalis0508Chapter1853AuspiciousHatching = {
   story: "story-read/chrysalis",
   position: 508,
   ownLength: 969,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const catGirlEvolution0106104WelcomeToMaligarB3Start = {
   story: "cat-girl-evolution",
   position: 106,
   ownLength: 2586,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-26",
   externalIdentity: [
     {

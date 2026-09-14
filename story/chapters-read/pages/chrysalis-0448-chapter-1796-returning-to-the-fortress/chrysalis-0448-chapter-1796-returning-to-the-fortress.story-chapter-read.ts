@@ -8,7 +8,7 @@ export const chrysalis0448Chapter1796ReturningToTheFortress = {
   story: "story-read/chrysalis",
   position: 448,
   ownLength: 1092,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-19",
   externalIdentity: [
     {

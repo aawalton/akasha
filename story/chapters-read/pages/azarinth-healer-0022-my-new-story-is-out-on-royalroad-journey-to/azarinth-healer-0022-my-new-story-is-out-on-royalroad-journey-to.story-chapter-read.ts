@@ -7,7 +7,7 @@ export const azarinthHealer0022MyNewStoryIsOutOnRoyalroadJourneyTo = {
   story: "story-read/azarinth-healer",
   position: 22,
   publishedAt: "2025-10-25",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

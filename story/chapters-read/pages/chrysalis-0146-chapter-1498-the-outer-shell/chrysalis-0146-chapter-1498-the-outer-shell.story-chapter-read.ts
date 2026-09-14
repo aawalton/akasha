@@ -9,7 +9,7 @@ export const chrysalis0146Chapter1498TheOuterShell = {
   position: 146,
   ownLength: 963,
   ownProgress: 963,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:48:31.405Z",
   publishedAt: "2025-01-30",
   externalIdentity: [

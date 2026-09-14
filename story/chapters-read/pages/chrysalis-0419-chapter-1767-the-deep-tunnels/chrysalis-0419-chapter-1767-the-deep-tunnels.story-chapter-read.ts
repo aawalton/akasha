@@ -8,7 +8,7 @@ export const chrysalis0419Chapter1767TheDeepTunnels = {
   story: "story-read/chrysalis",
   position: 419,
   ownLength: 1036,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-08",
   externalIdentity: [
     {

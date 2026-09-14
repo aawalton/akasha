@@ -8,7 +8,7 @@ export const cinnamonBun0403ChapterThreeHundredAndNinetyOneRampUp = {
   story: "story-read/cinnamon-bun",
   position: 403,
   ownLength: 1983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-16",
   externalIdentity: [
     {

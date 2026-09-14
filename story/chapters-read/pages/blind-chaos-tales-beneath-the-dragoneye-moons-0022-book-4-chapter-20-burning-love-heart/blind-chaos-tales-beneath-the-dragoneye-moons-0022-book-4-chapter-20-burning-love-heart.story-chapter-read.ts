@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0022Book4Chapter20BurningLov
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 22,
   ownLength: 5737,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-10",
   externalIdentity: [
     {

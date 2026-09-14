@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0020154TakingControlOfThings = {
   position: 20,
   ownLength: 3172,
   ownProgress: 3172,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:03:18.535Z",
   publishedAt: "2025-12-13",
   externalIdentity: [

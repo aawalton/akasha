@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005252Briefing = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 52,
   ownLength: 3125,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-15",
   externalIdentity: [
     {

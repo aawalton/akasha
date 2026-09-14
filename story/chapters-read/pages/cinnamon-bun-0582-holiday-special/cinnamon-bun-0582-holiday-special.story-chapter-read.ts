@@ -8,7 +8,7 @@ export const cinnamonBun0582HolidaySpecial = {
   story: "story-read/cinnamon-bun",
   position: 582,
   ownLength: 1034,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-24",
   externalIdentity: [
     {

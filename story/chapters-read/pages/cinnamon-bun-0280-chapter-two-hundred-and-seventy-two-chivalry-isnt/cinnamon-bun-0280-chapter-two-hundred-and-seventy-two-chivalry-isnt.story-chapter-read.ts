@@ -8,7 +8,7 @@ export const cinnamonBun0280ChapterTwoHundredAndSeventyTwoChivalryIsnt = {
   story: "story-read/cinnamon-bun",
   position: 280,
   ownLength: 1993,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-04",
   externalIdentity: [
     {

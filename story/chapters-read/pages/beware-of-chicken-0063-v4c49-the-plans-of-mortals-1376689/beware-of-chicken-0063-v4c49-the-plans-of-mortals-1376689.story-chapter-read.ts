@@ -7,7 +7,7 @@ export const bewareOfChicken0063V4c49ThePlansOfMortals1376689 = {
   story: "story-read/beware-of-chicken",
   position: 63,
   publishedAt: "2023-10-17",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

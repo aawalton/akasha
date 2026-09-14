@@ -8,7 +8,7 @@ export const breakerOfHorizons0100100AngerAndAgency = {
   story: "story-read/breaker-of-horizons",
   position: 100,
   ownLength: 2184,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-15",
   externalIdentity: [
     {

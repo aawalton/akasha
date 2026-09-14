@@ -8,7 +8,7 @@ export const cinnamonBun0173ChapterOneHundredAndSixtySevenPeaceForOur = {
   story: "story-read/cinnamon-bun",
   position: 173,
   ownLength: 1966,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-08",
   externalIdentity: [
     {

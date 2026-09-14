@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0018Book6Ch11NotAUsualEruption2 = {
   position: 18,
   ownLength: 2303,
   ownProgress: 2303,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-16",
   externalIdentity: [
     {

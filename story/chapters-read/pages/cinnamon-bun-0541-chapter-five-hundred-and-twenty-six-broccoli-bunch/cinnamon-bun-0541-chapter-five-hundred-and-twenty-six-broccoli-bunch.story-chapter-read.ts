@@ -9,7 +9,7 @@ export const cinnamonBun0541ChapterFiveHundredAndTwentySixBroccoliBunch = {
   story: "story-read/cinnamon-bun",
   position: 541,
   ownLength: 1479,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-26",
   externalIdentity: [
     {

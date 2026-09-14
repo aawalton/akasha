@@ -8,7 +8,7 @@ export const catGirlEvolution0151148TheButler = {
   story: "cat-girl-evolution",
   position: 151,
   ownLength: 2823,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-12",
   externalIdentity: [
     {

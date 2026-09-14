@@ -8,7 +8,7 @@ export const azarinthHealer0016NotAChapterUpdateOnTheStorySerializedVersion = {
   story: "story-read/azarinth-healer",
   position: 16,
   ownLength: 488,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-31",
   externalIdentity: [
     {

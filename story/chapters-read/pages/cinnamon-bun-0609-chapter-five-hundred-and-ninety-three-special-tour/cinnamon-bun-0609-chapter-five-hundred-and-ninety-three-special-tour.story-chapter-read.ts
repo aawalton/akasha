@@ -8,7 +8,7 @@ export const cinnamonBun0609ChapterFiveHundredAndNinetyThreeSpecialTour = {
   story: "story-read/cinnamon-bun",
   position: 609,
   ownLength: 1493,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-08",
   externalIdentity: [
     {

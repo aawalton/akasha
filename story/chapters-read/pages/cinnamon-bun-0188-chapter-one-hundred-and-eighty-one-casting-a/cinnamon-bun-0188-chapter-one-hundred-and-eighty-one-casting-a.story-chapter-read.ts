@@ -8,7 +8,7 @@ export const cinnamonBun0188ChapterOneHundredAndEightyOneCastingA = {
   story: "story-read/cinnamon-bun",
   position: 188,
   ownLength: 1941,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-21",
   externalIdentity: [
     {

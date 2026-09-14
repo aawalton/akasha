@@ -8,7 +8,7 @@ export const bookboundBunny0057B3Chapter53GlyphsForEverything = {
   story: "bookbound-bunny",
   position: 57,
   ownLength: 2357,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-13",
   externalIdentity: [
     {

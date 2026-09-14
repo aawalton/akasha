@@ -8,7 +8,7 @@ export const breakerOfHorizons002828Puzzlement = {
   story: "story-read/breaker-of-horizons",
   position: 28,
   ownLength: 2493,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-06",
   externalIdentity: [
     {

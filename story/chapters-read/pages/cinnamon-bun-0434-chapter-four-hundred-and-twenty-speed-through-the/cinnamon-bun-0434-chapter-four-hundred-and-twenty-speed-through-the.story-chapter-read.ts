@@ -8,7 +8,7 @@ export const cinnamonBun0434ChapterFourHundredAndTwentySpeedThroughThe = {
   story: "story-read/cinnamon-bun",
   position: 434,
   ownLength: 2033,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-26",
   externalIdentity: [
     {

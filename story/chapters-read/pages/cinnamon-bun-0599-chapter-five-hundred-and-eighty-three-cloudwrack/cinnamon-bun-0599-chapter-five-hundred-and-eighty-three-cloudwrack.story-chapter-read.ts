@@ -8,7 +8,7 @@ export const cinnamonBun0599ChapterFiveHundredAndEightyThreeCloudwrack = {
   story: "story-read/cinnamon-bun",
   position: 599,
   ownLength: 1465,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-29",
   externalIdentity: [
     {

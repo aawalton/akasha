@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0029217PainIsGoodForYou = {
   story: "story-read/bunny-girl-evolution",
   position: 29,
   ownLength: 2574,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-22",
   externalIdentity: [
     {

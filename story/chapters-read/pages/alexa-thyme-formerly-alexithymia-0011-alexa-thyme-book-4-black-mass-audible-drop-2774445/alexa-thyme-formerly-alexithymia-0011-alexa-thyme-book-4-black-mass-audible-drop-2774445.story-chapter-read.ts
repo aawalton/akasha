@@ -7,7 +7,7 @@ export const alexaThymeFormerlyAlexithymia0011AlexaThymeBook4BlackMassAudibleDro
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 11,
   publishedAt: "2025-11-19",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

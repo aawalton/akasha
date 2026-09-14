@@ -8,7 +8,7 @@ export const azarinthHealer0004Chapter4Exploration = {
   story: "story-read/azarinth-healer",
   position: 4,
   ownLength: 2918,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-03",
   externalIdentity: [
     {

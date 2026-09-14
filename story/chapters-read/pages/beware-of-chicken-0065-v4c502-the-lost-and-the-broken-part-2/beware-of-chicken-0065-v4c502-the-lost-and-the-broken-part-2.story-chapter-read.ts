@@ -7,7 +7,7 @@ export const bewareOfChicken0065V4c502TheLostAndTheBrokenPart2 = {
   story: "story-read/beware-of-chicken",
   position: 65,
   publishedAt: "2023-10-21",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

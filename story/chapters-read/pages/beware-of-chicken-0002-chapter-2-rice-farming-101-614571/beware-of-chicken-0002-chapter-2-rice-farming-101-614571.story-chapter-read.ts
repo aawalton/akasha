@@ -7,7 +7,7 @@ export const bewareOfChicken0002Chapter2RiceFarming101614571 = {
   story: "story-read/beware-of-chicken",
   position: 2,
   publishedAt: "2021-01-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

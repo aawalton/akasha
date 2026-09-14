@@ -8,7 +8,7 @@ export const cinnamonBun0364SpookimonBooN = {
   story: "story-read/cinnamon-bun",
   position: 364,
   ownLength: 1739,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-31",
   externalIdentity: [
     {

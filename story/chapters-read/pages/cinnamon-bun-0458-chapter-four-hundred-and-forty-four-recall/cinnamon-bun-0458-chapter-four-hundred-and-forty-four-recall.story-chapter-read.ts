@@ -8,7 +8,7 @@ export const cinnamonBun0458ChapterFourHundredAndFortyFourRecall = {
   story: "story-read/cinnamon-bun",
   position: 458,
   ownLength: 1592,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-11-09",
   externalIdentity: [
     {

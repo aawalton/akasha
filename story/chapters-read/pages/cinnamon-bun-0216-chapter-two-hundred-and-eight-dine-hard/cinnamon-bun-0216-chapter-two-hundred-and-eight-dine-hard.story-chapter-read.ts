@@ -8,7 +8,7 @@ export const cinnamonBun0216ChapterTwoHundredAndEightDineHard = {
   story: "story-read/cinnamon-bun",
   position: 216,
   ownLength: 1893,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-16",
   externalIdentity: [
     {

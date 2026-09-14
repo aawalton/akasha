@@ -8,7 +8,7 @@ export const cinnamonBun0029ChapterTwentySevenPlantingTheSeedsOfAQuest = {
   story: "story-read/cinnamon-bun",
   position: 29,
   ownLength: 1959,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-22",
   externalIdentity: [
     {

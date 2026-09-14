@@ -8,7 +8,7 @@ export const breakerOfHorizons0137137Monstrous = {
   story: "story-read/breaker-of-horizons",
   position: 137,
   ownLength: 1811,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-23",
   externalIdentity: [
     {

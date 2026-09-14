@@ -8,7 +8,7 @@ export const cinnamonBun0390ChapterThreeHundredAndSeventyEightPayForIt = {
   story: "story-read/cinnamon-bun",
   position: 390,
   ownLength: 2088,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-24",
   externalIdentity: [
     {

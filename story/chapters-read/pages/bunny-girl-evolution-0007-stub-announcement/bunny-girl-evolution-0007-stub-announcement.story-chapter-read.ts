@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0007StubAnnouncement = {
   position: 7,
   ownLength: 199,
   ownProgress: 199,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:02:53.314Z",
   publishedAt: "2025-06-29",
   externalIdentity: [

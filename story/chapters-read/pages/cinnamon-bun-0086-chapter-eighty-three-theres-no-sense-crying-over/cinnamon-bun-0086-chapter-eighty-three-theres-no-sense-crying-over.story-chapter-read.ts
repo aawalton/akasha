@@ -8,7 +8,7 @@ export const cinnamonBun0086ChapterEightyThreeTheresNoSenseCryingOver = {
   story: "story-read/cinnamon-bun",
   position: 86,
   ownLength: 2029,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-25",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0340ChapterThreeHundredAndThirtyTwoMeatNew = {
   story: "story-read/cinnamon-bun",
   position: 340,
   ownLength: 1923,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-09",
   externalIdentity: [
     {

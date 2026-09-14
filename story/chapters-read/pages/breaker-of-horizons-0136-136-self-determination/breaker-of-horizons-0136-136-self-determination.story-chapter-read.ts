@@ -8,7 +8,7 @@ export const breakerOfHorizons0136136SelfDetermination = {
   story: "story-read/breaker-of-horizons",
   position: 136,
   ownLength: 1873,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-19",
   externalIdentity: [
     {

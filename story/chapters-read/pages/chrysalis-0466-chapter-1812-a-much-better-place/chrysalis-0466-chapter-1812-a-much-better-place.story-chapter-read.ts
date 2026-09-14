@@ -8,7 +8,7 @@ export const chrysalis0466Chapter1812AMuchBetterPlace = {
   story: "story-read/chrysalis",
   position: 466,
   ownLength: 973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

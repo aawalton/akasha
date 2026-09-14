@@ -8,7 +8,7 @@ export const catGirlEvolution0103101NewMeal = {
   story: "cat-girl-evolution",
   position: 103,
   ownLength: 3305,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-21",
   externalIdentity: [
     {

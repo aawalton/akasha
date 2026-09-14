@@ -8,7 +8,7 @@ export const cinnamonBun0509ChapterFourHundredAndNinetyFiveLoveIsBeing = {
   story: "story-read/cinnamon-bun",
   position: 509,
   ownLength: 1455,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-03",
   externalIdentity: [
     {

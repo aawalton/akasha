@@ -8,7 +8,7 @@ export const breakerOfHorizons006565UnseenHurdles = {
   story: "story-read/breaker-of-horizons",
   position: 65,
   ownLength: 2072,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-14",
   externalIdentity: [
     {

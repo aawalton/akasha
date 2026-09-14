@@ -8,7 +8,7 @@ export const cinnamonBun0336ChapterThreeHundredAndTwentyEightSuccessful = {
   story: "story-read/cinnamon-bun",
   position: 336,
   ownLength: 1926,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-26",
   externalIdentity: [
     {

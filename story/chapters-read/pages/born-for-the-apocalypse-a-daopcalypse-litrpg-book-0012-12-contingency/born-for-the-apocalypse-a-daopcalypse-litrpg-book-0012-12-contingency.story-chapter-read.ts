@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001212Contingency = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 12,
   ownLength: 980,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-20",
   externalIdentity: [
     {

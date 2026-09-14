@@ -8,7 +8,7 @@ export const cinnamonBun0550ChapterFiveHundredAndThirtyFiveAManOutOf = {
   story: "story-read/cinnamon-bun",
   position: 550,
   ownLength: 1535,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-30",
   externalIdentity: [
     {

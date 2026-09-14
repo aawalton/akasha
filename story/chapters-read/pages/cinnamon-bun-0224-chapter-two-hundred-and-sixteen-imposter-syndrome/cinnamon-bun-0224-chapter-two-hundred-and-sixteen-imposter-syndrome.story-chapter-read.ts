@@ -8,7 +8,7 @@ export const cinnamonBun0224ChapterTwoHundredAndSixteenImposterSyndrome = {
   story: "story-read/cinnamon-bun",
   position: 224,
   ownLength: 2020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-05",
   externalIdentity: [
     {

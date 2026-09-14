@@ -8,7 +8,7 @@ export const cinnamonBun0522ChapterFiveHundredAndEightBridalWail = {
   story: "story-read/cinnamon-bun",
   position: 522,
   ownLength: 1467,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-02",
   externalIdentity: [
     {

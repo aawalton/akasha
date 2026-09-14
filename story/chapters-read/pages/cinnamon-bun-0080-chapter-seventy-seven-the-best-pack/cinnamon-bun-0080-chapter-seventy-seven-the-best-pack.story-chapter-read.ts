@@ -8,7 +8,7 @@ export const cinnamonBun0080ChapterSeventySevenTheBestPack = {
   story: "story-read/cinnamon-bun",
   position: 80,
   ownLength: 2020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-17",
   externalIdentity: [
     {

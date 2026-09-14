@@ -8,7 +8,7 @@ export const cinnamonBun0282ChapterTwoHundredAndSeventyFourHotSprings = {
   story: "story-read/cinnamon-bun",
   position: 282,
   ownLength: 2012,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-11",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0428Chapter1776AWeb = {
   story: "story-read/chrysalis",
   position: 428,
   ownLength: 958,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-21",
   externalIdentity: [
     {

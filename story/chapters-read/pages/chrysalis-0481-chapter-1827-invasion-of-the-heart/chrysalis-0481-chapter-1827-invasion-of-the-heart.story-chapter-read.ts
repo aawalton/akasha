@@ -8,7 +8,7 @@ export const chrysalis0481Chapter1827InvasionOfTheHeart = {
   story: "story-read/chrysalis",
   position: 481,
   ownLength: 919,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-01",
   externalIdentity: [
     {

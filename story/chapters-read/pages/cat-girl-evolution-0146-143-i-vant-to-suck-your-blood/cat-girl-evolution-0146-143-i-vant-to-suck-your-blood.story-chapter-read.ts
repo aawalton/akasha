@@ -8,7 +8,7 @@ export const catGirlEvolution0146143IVantToSuckYourBlood = {
   story: "cat-girl-evolution",
   position: 146,
   ownLength: 3135,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

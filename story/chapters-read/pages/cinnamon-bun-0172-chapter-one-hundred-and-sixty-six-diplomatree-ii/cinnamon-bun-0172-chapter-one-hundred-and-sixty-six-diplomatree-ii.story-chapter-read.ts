@@ -8,7 +8,7 @@ export const cinnamonBun0172ChapterOneHundredAndSixtySixDiplomatreeIi = {
   story: "story-read/cinnamon-bun",
   position: 172,
   ownLength: 2013,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-05",
   externalIdentity: [
     {

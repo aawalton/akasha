@@ -8,7 +8,7 @@ export const breakerOfHorizons0140140BreakingFrames = {
   story: "story-read/breaker-of-horizons",
   position: 140,
   ownLength: 2041,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-02",
   externalIdentity: [
     {

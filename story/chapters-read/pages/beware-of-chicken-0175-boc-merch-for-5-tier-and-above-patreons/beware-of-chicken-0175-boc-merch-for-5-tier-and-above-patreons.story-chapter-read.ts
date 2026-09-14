@@ -9,7 +9,7 @@ export const bewareOfChicken0175BocMerchFor5TierAndAbovePatreons = {
   position: 175,
   ownLength: 95,
   ownProgress: 95,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:57:18.963Z",
   publishedAt: "2024-11-21",
   externalIdentity: [

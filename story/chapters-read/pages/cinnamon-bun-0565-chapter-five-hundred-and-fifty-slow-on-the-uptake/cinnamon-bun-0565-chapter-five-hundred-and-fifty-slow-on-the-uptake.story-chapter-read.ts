@@ -8,7 +8,7 @@ export const cinnamonBun0565ChapterFiveHundredAndFiftySlowOnTheUptake = {
   story: "story-read/cinnamon-bun",
   position: 565,
   ownLength: 1386,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-20",
   externalIdentity: [
     {

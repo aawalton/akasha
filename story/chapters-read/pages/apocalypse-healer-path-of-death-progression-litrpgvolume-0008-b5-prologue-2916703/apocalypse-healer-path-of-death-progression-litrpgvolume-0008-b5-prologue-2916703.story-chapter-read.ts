@@ -7,7 +7,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0008B5Prologue291
   story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 8,
   publishedAt: "2026-01-06",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

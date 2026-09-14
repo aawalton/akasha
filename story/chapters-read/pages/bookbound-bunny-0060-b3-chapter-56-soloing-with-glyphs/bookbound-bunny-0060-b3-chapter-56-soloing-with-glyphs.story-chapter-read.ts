@@ -8,7 +8,7 @@ export const bookboundBunny0060B3Chapter56SoloingWithGlyphs = {
   story: "bookbound-bunny",
   position: 60,
   ownLength: 2391,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-20",
   externalIdentity: [
     {

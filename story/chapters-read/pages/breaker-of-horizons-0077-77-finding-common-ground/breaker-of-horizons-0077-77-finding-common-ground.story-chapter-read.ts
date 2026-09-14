@@ -8,7 +8,7 @@ export const breakerOfHorizons007777FindingCommonGround = {
   story: "story-read/breaker-of-horizons",
   position: 77,
   ownLength: 2187,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-25",
   externalIdentity: [
     {

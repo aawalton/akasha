@@ -8,7 +8,7 @@ export const cinnamonBun0587ChapterFiveHundredAndSeventyOneThisKnight = {
   story: "story-read/cinnamon-bun",
   position: 587,
   ownLength: 1570,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-28",
   externalIdentity: [
     {

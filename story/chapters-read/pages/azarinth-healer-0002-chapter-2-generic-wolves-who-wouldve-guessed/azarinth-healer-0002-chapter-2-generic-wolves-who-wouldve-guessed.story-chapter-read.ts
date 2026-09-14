@@ -7,7 +7,7 @@ export const azarinthHealer0002Chapter2GenericWolvesWhoWouldveGuessed = {
   story: "story-read/azarinth-healer",
   position: 2,
   publishedAt: "2018-03-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

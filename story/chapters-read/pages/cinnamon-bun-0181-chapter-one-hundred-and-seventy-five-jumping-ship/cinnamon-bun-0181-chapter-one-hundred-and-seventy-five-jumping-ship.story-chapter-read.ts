@@ -8,7 +8,7 @@ export const cinnamonBun0181ChapterOneHundredAndSeventyFiveJumpingShip = {
   story: "story-read/cinnamon-bun",
   position: 181,
   ownLength: 2023,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-24",
   externalIdentity: [
     {

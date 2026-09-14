@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0044177CaveSpiderKillingCompetition = {
   position: 44,
   ownLength: 3244,
   ownProgress: 419,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-03",
   externalIdentity: [
     {

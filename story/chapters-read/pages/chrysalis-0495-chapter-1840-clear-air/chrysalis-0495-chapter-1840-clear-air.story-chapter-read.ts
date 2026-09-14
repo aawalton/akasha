@@ -8,7 +8,7 @@ export const chrysalis0495Chapter1840ClearAir = {
   story: "story-read/chrysalis",
   position: 495,
   ownLength: 1072,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons003737Convergence = {
   story: "story-read/breaker-of-horizons",
   position: 37,
   ownLength: 2277,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-07",
   externalIdentity: [
     {

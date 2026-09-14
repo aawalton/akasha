@@ -8,7 +8,7 @@ export const catGirlEvolution008686LongTermPreparations = {
   story: "cat-girl-evolution",
   position: 86,
   ownLength: 2841,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-08",
   externalIdentity: [
     {

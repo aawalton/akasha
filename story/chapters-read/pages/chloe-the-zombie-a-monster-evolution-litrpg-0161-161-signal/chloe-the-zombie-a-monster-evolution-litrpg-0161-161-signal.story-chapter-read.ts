@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0161161Signal = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 161,
   ownLength: 2134,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-05",
   externalIdentity: [
     {

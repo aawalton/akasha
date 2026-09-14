@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0019EndOfBook2PopularityPol
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 19,
   ownLength: 100,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-06-16",
   externalIdentity: [
     {

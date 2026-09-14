@@ -8,7 +8,7 @@ export const cinnamonBun0454ChapterFourHundredAndFortyModernDraconic = {
   story: "story-read/cinnamon-bun",
   position: 454,
   ownLength: 1940,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-12",
   externalIdentity: [
     {

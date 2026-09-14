@@ -8,7 +8,7 @@ export const cinnamonBun0177ChapterOneHundredAndSeventyOneOhTheSmall = {
   story: "story-read/cinnamon-bun",
   position: 177,
   ownLength: 1953,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-17",
   externalIdentity: [
     {

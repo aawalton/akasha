@@ -8,7 +8,7 @@ export const cinnamonBun0516ChapterFiveHundredAndTwoChoiceParalysis = {
   story: "story-read/cinnamon-bun",
   position: 516,
   ownLength: 1681,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0289ChapterTwoHundredAndEightyOneHowToWin = {
   story: "story-read/cinnamon-bun",
   position: 289,
   ownLength: 2064,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0592ChapterFiveHundredAndSeventySixNightParade = {
   story: "story-read/cinnamon-bun",
   position: 592,
   ownLength: 1453,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-11",
   externalIdentity: [
     {

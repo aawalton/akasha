@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0027215Lesson1DirectedAetherPulse = {
   story: "story-read/bunny-girl-evolution",
   position: 27,
   ownLength: 2913,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-15",
   externalIdentity: [
     {

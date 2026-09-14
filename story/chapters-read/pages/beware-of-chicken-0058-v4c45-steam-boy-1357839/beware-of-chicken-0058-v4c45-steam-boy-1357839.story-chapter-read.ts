@@ -7,7 +7,7 @@ export const bewareOfChicken0058V4c45SteamBoy1357839 = {
   story: "story-read/beware-of-chicken",
   position: 58,
   publishedAt: "2023-09-29",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

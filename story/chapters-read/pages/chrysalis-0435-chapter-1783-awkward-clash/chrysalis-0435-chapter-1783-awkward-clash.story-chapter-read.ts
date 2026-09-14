@@ -8,7 +8,7 @@ export const chrysalis0435Chapter1783AwkwardClash = {
   story: "story-read/chrysalis",
   position: 435,
   ownLength: 999,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004545HeadlongRush = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 45,
   ownLength: 2101,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-03",
   externalIdentity: [
     {

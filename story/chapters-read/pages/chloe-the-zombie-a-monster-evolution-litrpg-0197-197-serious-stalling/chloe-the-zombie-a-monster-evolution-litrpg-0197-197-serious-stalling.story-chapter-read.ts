@@ -6,7 +6,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0197197SeriousStalling = {
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0197-197-serious-stalling",
   position: 197,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

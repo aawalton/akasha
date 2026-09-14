@@ -8,7 +8,7 @@ export const chrysalis0490Chapter1835PlanningAhead = {
   story: "story-read/chrysalis",
   position: 490,
   ownLength: 941,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-03",
   externalIdentity: [
     {

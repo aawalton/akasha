@@ -8,7 +8,7 @@ export const breakerOfHorizons0103103ChartingACourse = {
   story: "story-read/breaker-of-horizons",
   position: 103,
   ownLength: 1882,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-26",
   externalIdentity: [
     {

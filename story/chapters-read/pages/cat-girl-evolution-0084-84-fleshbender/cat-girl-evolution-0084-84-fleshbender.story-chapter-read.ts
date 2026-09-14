@@ -8,7 +8,7 @@ export const catGirlEvolution008484Fleshbender = {
   story: "cat-girl-evolution",
   position: 84,
   ownLength: 2895,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-04",
   externalIdentity: [
     {

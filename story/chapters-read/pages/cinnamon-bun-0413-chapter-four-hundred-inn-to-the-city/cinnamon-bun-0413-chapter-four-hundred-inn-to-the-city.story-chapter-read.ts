@@ -8,7 +8,7 @@ export const cinnamonBun0413ChapterFourHundredInnToTheCity = {
   story: "story-read/cinnamon-bun",
   position: 413,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-25",
   externalIdentity: [
     {

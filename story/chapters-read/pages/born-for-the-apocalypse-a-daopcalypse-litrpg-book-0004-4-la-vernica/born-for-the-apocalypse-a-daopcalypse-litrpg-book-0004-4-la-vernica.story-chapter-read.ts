@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00044LaVernica = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 4,
   ownLength: 3680,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0119ChapterOneHundredAndFourteenThirdWheeling = {
   story: "story-read/cinnamon-bun",
   position: 119,
   ownLength: 2049,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-18",
   externalIdentity: [
     {

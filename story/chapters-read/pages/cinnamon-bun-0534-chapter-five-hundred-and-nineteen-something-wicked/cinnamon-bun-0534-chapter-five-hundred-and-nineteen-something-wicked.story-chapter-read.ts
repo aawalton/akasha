@@ -8,7 +8,7 @@ export const cinnamonBun0534ChapterFiveHundredAndNineteenSomethingWicked = {
   story: "story-read/cinnamon-bun",
   position: 534,
   ownLength: 1508,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-01",
   externalIdentity: [
     {

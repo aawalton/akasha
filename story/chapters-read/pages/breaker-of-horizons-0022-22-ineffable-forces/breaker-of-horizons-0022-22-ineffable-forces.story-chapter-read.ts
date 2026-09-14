@@ -8,7 +8,7 @@ export const breakerOfHorizons002222IneffableForces = {
   story: "story-read/breaker-of-horizons",
   position: 22,
   ownLength: 2462,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-16",
   externalIdentity: [
     {

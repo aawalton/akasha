@@ -8,7 +8,7 @@ export const cinnamonBun0578ChapterFiveHundredAndSixtyThreeAnchors = {
   story: "story-read/cinnamon-bun",
   position: 578,
   ownLength: 1508,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-26",
   externalIdentity: [
     {

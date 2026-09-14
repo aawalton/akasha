@@ -8,7 +8,7 @@ export const breakerOfHorizons00066FamilialTies = {
   story: "story-read/breaker-of-horizons",
   position: 6,
   ownLength: 2174,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-21",
   externalIdentity: [
     {

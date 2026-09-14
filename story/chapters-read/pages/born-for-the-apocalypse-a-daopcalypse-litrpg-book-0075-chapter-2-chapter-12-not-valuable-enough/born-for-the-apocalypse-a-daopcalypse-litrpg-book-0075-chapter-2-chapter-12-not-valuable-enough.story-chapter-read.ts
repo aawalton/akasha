@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0075Chapter2Chapter12NotV
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 75,
   ownLength: 1720,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-22",
   externalIdentity: [
     {

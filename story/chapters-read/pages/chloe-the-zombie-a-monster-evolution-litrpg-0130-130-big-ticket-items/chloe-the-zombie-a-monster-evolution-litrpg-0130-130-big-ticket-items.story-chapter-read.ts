@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0130130BigTicketItems = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 130,
   ownLength: 2019,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-25",
   externalIdentity: [
     {

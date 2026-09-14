@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002525DoubleWhammy = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 25,
   ownLength: 2006,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-05",
   externalIdentity: [
     {

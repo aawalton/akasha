@@ -6,7 +6,7 @@ export const catGirlEvolution0164161Connection = {
   slug: "cat-girl-evolution-0164-161-connection",
   position: 164,
   publishedAt: "2026-09-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

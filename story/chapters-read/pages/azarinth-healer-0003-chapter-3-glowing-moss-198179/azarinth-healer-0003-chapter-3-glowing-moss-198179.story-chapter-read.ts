@@ -7,7 +7,7 @@ export const azarinthHealer0003Chapter3GlowingMoss198179 = {
   story: "story-read/azarinth-healer",
   position: 3,
   publishedAt: "2018-03-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

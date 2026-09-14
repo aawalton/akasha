@@ -8,7 +8,7 @@ export const chrysalis0509Chapter1854SkyDreaming = {
   story: "story-read/chrysalis",
   position: 509,
   ownLength: 967,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-28",
   externalIdentity: [
     {

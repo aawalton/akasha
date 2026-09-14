@@ -8,7 +8,7 @@ export const breakerOfHorizons005454DarknessIncarnate = {
   story: "story-read/breaker-of-horizons",
   position: 54,
   ownLength: 2260,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-05",
   externalIdentity: [
     {

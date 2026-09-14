@@ -8,7 +8,7 @@ export const cinnamonBun0535ChapterFiveHundredAndTwentyMysteryBox = {
   story: "story-read/cinnamon-bun",
   position: 535,
   ownLength: 1516,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-08",
   externalIdentity: [
     {

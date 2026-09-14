@@ -8,7 +8,7 @@ export const cinnamonBun0226ChapterTwoHundredAndEighteenInquiringMind = {
   story: "story-read/cinnamon-bun",
   position: 226,
   ownLength: 1867,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-09",
   externalIdentity: [
     {

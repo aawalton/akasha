@@ -8,7 +8,7 @@ export const cinnamonBun0313ChapterThreeHundredAndFiveAleaIactaQuest = {
   story: "story-read/cinnamon-bun",
   position: 313,
   ownLength: 1916,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-27",
   externalIdentity: [
     {

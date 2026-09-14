@@ -8,7 +8,7 @@ export const cinnamonBun0051ChapterFortyEightAGoodBoy = {
   story: "story-read/cinnamon-bun",
   position: 51,
   ownLength: 1974,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-24",
   externalIdentity: [
     {

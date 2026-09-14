@@ -8,7 +8,7 @@ export const cinnamonBun0428ChapterFourHundredAndFourteenCanYouSay = {
   story: "story-read/cinnamon-bun",
   position: 428,
   ownLength: 1992,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-04",
   externalIdentity: [
     {

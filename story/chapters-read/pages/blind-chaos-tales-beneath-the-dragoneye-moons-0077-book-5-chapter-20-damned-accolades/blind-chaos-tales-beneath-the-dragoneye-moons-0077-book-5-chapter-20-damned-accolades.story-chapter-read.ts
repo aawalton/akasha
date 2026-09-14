@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0077Book5Chapter20DamnedAcco
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 77,
   ownLength: 4925,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-29",
   externalIdentity: [
     {

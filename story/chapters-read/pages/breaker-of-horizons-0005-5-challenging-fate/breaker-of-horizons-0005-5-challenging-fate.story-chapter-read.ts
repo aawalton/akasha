@@ -8,7 +8,7 @@ export const breakerOfHorizons00055ChallengingFate = {
   story: "story-read/breaker-of-horizons",
   position: 5,
   ownLength: 1944,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-18",
   externalIdentity: [
     {

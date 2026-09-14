@@ -8,7 +8,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0008B5Prologue = 
   story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 8,
   ownLength: 1058,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-06",
   externalIdentity: [
     {

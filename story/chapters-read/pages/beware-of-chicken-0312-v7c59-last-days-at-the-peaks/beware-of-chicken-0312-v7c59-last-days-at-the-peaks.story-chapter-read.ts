@@ -8,7 +8,7 @@ export const bewareOfChicken0312V7c59LastDaysAtThePeaks = {
   story: "story-read/beware-of-chicken",
   position: 312,
   ownLength: 3265,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-22",
   externalIdentity: [
     {

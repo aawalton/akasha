@@ -8,7 +8,7 @@ export const breakerOfHorizons0191AKnotInFatesWeave = {
   story: "story-read/breaker-of-horizons",
   position: 191,
   ownLength: 591,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-22",
   externalIdentity: [
     {

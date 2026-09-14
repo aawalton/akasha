@@ -8,7 +8,7 @@ export const breakerOfHorizons0138138FragmentsOfHumanity = {
   story: "story-read/breaker-of-horizons",
   position: 138,
   ownLength: 2031,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-26",
   externalIdentity: [
     {

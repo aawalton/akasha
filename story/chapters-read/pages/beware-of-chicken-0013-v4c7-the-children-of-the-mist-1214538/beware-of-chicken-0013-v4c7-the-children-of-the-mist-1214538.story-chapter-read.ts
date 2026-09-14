@@ -7,7 +7,7 @@ export const bewareOfChicken0013V4c7TheChildrenOfTheMist1214538 = {
   story: "story-read/beware-of-chicken",
   position: 13,
   publishedAt: "2023-05-16",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

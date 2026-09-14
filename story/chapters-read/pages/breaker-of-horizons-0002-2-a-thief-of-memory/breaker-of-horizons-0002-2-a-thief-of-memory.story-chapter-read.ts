@@ -8,7 +8,7 @@ export const breakerOfHorizons00022AThiefOfMemory = {
   story: "story-read/breaker-of-horizons",
   position: 2,
   ownLength: 2446,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-07",
   externalIdentity: [
     {

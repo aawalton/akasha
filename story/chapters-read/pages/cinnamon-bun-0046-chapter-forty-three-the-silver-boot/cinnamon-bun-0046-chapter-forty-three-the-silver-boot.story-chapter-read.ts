@@ -8,7 +8,7 @@ export const cinnamonBun0046ChapterFortyThreeTheSilverBoot = {
   story: "story-read/cinnamon-bun",
   position: 46,
   ownLength: 2019,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0551ChapterFiveHundredAndThirtySixTheDevilsIn = {
   story: "story-read/cinnamon-bun",
   position: 551,
   ownLength: 1632,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-07",
   externalIdentity: [
     {

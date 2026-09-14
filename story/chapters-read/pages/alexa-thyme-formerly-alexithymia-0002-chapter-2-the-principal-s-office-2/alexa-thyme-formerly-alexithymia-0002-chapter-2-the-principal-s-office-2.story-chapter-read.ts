@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0002Chapter2ThePrincipalSOffice2 = {
   story: "alexa-thyme-formerly-alexithymia",
   position: 2,
   ownLength: 2837,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-03",
   externalIdentity: [
     {

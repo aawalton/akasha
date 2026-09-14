@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0036B6Ch29SkillGrind5 = {
   position: 36,
   ownLength: 2532,
   ownProgress: 2532,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-24",
   externalIdentity: [
     {

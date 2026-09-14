@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0116116FragmentsOfDarkness = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 116,
   ownLength: 1983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0286ChapterTwoHundredAndSeventyEightDisorderIn = {
   story: "story-read/cinnamon-bun",
   position: 286,
   ownLength: 1852,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-25",
   externalIdentity: [
     {

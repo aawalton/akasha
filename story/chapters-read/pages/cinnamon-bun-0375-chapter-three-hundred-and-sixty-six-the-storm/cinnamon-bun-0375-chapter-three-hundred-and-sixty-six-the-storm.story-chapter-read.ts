@@ -8,7 +8,7 @@ export const cinnamonBun0375ChapterThreeHundredAndSixtySixTheStorm = {
   story: "story-read/cinnamon-bun",
   position: 375,
   ownLength: 2187,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-06",
   externalIdentity: [
     {

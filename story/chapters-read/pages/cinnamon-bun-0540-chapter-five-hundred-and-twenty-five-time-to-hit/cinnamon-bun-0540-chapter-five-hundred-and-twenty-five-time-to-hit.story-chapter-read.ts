@@ -8,7 +8,7 @@ export const cinnamonBun0540ChapterFiveHundredAndTwentyFiveTimeToHit = {
   story: "story-read/cinnamon-bun",
   position: 540,
   ownLength: 1474,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-19",
   externalIdentity: [
     {

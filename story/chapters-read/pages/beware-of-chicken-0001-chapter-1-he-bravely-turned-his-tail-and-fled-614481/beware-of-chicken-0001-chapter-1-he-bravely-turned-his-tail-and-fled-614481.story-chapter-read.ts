@@ -7,7 +7,7 @@ export const bewareOfChicken0001Chapter1HeBravelyTurnedHisTailAndFled614481 = {
   story: "story-read/beware-of-chicken",
   position: 1,
   publishedAt: "2021-01-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

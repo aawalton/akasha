@@ -8,7 +8,7 @@ export const cinnamonBun0260ChapterTwoHundredAndFiftyTwoMoveFastAnd = {
   story: "story-read/cinnamon-bun",
   position: 260,
   ownLength: 1943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-05",
   externalIdentity: [
     {

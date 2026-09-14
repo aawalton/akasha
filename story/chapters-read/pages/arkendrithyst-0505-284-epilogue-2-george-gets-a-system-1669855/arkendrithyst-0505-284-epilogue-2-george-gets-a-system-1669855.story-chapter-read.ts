@@ -7,7 +7,7 @@ export const arkendrithyst0505284Epilogue2GeorgeGetsASystem1669855 = {
   story: "story-read/arkendrithyst",
   position: 505,
   publishedAt: "2024-06-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const cinnamonBun0292ChapterTwoHundredAndEightyFourTheHonourable = {
   story: "story-read/cinnamon-bun",
   position: 292,
   ownLength: 1944,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-15",
   externalIdentity: [
     {

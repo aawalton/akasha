@@ -7,7 +7,7 @@ export const arkendrithyst0178121EpilogueBook4627755 = {
   story: "story-read/arkendrithyst",
   position: 178,
   publishedAt: "2021-02-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

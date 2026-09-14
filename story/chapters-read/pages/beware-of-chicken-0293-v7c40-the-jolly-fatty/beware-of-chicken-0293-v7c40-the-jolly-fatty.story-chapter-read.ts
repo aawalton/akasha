@@ -8,7 +8,7 @@ export const bewareOfChicken0293V7c40TheJollyFatty = {
   story: "story-read/beware-of-chicken",
   position: 293,
   ownLength: 2020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-24",
   externalIdentity: [
     {

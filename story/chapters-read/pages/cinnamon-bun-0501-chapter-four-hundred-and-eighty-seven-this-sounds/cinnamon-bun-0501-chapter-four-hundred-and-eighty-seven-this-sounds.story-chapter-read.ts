@@ -8,7 +8,7 @@ export const cinnamonBun0501ChapterFourHundredAndEightySevenThisSounds = {
   story: "story-read/cinnamon-bun",
   position: 501,
   ownLength: 1496,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-01",
   externalIdentity: [
     {

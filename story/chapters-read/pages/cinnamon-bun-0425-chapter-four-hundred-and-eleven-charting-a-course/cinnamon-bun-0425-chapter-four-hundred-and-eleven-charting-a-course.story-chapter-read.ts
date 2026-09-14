@@ -8,7 +8,7 @@ export const cinnamonBun0425ChapterFourHundredAndElevenChartingACourse = {
   story: "story-read/cinnamon-bun",
   position: 425,
   ownLength: 2205,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-06-07",
   externalIdentity: [
     {

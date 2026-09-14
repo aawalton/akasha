@@ -8,7 +8,7 @@ export const cinnamonBun0563ChapterFiveHundredAndFortyEightWaterInThe = {
   story: "story-read/cinnamon-bun",
   position: 563,
   ownLength: 1470,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-06",
   externalIdentity: [
     {

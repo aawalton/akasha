@@ -8,7 +8,7 @@ export const bewareOfChicken0319V7c66InterludeBlackAndYellowNightmare = {
   story: "story-read/beware-of-chicken",
   position: 319,
   ownLength: 3762,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-06",
   externalIdentity: [
     {

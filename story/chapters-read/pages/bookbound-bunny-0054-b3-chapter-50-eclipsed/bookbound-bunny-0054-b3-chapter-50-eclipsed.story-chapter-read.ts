@@ -8,7 +8,7 @@ export const bookboundBunny0054B3Chapter50Eclipsed = {
   story: "bookbound-bunny",
   position: 54,
   ownLength: 2674,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-06",
   externalIdentity: [
     {

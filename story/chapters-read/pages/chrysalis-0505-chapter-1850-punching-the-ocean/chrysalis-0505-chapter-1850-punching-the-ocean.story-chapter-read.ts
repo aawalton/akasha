@@ -8,7 +8,7 @@ export const chrysalis0505Chapter1850PunchingTheOcean = {
   story: "story-read/chrysalis",
   position: 505,
   ownLength: 917,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-24",
   externalIdentity: [
     {

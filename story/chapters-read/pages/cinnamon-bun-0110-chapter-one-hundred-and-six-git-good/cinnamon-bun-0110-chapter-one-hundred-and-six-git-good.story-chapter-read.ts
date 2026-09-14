@@ -8,7 +8,7 @@ export const cinnamonBun0110ChapterOneHundredAndSixGitGood = {
   story: "story-read/cinnamon-bun",
   position: 110,
   ownLength: 1979,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-08",
   externalIdentity: [
     {

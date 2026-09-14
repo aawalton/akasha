@@ -8,7 +8,7 @@ export const chrysalis0492Chapter1837UnfathomableWealth = {
   story: "story-read/chrysalis",
   position: 492,
   ownLength: 1355,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-05",
   externalIdentity: [
     {

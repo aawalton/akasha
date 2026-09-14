@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0004InterludeTheMagicElementsExplained = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 4,
   ownLength: 1392,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-11",
   externalIdentity: [
     {

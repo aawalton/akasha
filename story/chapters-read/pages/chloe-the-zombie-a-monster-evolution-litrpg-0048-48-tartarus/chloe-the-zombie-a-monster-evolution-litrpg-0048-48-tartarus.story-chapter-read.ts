@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004848Tartarus = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 48,
   ownLength: 2180,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0460Chapter1806OnceMoreIntoTheBreach = {
   story: "story-read/chrysalis",
   position: 460,
   ownLength: 1044,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-02",
   externalIdentity: [
     {

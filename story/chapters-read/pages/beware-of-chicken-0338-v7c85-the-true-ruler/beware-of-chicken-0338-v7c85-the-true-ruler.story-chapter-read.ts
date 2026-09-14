@@ -8,7 +8,7 @@ export const bewareOfChicken0338V7c85TheTrueRuler = {
   story: "story-read/beware-of-chicken",
   position: 338,
   ownLength: 3226,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

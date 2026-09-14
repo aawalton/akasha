@@ -8,7 +8,7 @@ export const breakerOfHorizons004343AShadowOfLife = {
   story: "story-read/breaker-of-horizons",
   position: 43,
   ownLength: 2508,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-28",
   externalIdentity: [
     {

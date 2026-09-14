@@ -8,7 +8,7 @@ export const breakerOfHorizons004141LapsesInJudgement = {
   story: "story-read/breaker-of-horizons",
   position: 41,
   ownLength: 2214,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-21",
   externalIdentity: [
     {

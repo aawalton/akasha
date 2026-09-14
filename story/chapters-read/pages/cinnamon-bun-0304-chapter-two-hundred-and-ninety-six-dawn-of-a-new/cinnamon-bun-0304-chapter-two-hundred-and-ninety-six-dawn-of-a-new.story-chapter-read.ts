@@ -8,7 +8,7 @@ export const cinnamonBun0304ChapterTwoHundredAndNinetySixDawnOfANew = {
   story: "story-read/cinnamon-bun",
   position: 304,
   ownLength: 1980,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-29",
   externalIdentity: [
     {

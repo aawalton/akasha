@@ -7,7 +7,7 @@ export const bewareOfChicken0102V4c81LastDaysOfFall1542165 = {
   story: "story-read/beware-of-chicken",
   position: 102,
   publishedAt: "2024-03-05",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

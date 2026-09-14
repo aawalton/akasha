@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0060192FriendsHelpEachOther = {
   story: "story-read/bunny-girl-evolution",
   position: 60,
   ownLength: 3192,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-25",
   externalIdentity: [
     {

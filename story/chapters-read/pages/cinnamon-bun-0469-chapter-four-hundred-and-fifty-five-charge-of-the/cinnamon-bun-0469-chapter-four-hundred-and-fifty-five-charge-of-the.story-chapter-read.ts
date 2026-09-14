@@ -8,7 +8,7 @@ export const cinnamonBun0469ChapterFourHundredAndFiftyFiveChargeOfThe = {
   story: "story-read/cinnamon-bun",
   position: 469,
   ownLength: 1457,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-19",
   externalIdentity: [
     {

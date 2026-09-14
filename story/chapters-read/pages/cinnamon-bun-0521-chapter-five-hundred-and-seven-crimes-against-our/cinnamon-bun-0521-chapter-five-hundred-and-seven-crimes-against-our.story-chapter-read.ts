@@ -8,7 +8,7 @@ export const cinnamonBun0521ChapterFiveHundredAndSevenCrimesAgainstOur = {
   story: "story-read/cinnamon-bun",
   position: 521,
   ownLength: 1622,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-25",
   externalIdentity: [
     {

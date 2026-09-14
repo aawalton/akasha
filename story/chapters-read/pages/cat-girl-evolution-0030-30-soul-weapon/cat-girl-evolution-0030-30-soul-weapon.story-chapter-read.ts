@@ -8,7 +8,7 @@ export const catGirlEvolution003030SoulWeapon = {
   story: "cat-girl-evolution",
   position: 30,
   ownLength: 3427,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-01",
   externalIdentity: [
     {

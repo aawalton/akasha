@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0013CatchupArtwork = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 13,
   ownLength: 48,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-12-27",
   externalIdentity: [
     {

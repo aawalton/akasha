@@ -8,7 +8,7 @@ export const catGirlEvolution001010AStrangeButFortuitousEncounter = {
   story: "cat-girl-evolution",
   position: 10,
   ownLength: 2524,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-17",
   externalIdentity: [
     {

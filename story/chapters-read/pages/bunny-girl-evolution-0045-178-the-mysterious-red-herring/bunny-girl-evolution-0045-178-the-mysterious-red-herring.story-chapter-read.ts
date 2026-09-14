@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0045178TheMysteriousRedHerring = {
   story: "story-read/bunny-girl-evolution",
   position: 45,
   ownLength: 3538,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-08",
   externalIdentity: [
     {

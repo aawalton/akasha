@@ -8,7 +8,7 @@ export const catGirlEvolution008383TheSevenDelicacies = {
   story: "cat-girl-evolution",
   position: 83,
   ownLength: 2331,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-01",
   externalIdentity: [
     {

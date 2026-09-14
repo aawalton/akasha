@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0069NotAChapterScheduleUpdateB4CoverRevealOtherNe
   story: "story-read/bunny-girl-evolution",
   position: 69,
   ownLength: 778,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-13",
   externalIdentity: [
     {

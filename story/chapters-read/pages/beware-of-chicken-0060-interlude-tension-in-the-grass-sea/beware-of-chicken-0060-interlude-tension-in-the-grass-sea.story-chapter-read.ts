@@ -9,7 +9,7 @@ export const bewareOfChicken0060InterludeTensionInTheGrassSea = {
   position: 60,
   ownLength: 2927,
   ownProgress: 2927,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:53:26.372Z",
   publishedAt: "2023-10-03",
   externalIdentity: [

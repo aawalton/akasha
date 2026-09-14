@@ -7,7 +7,7 @@ export const bewareOfChicken0025V4c17TheVerdantBladeSect1254955 = {
   story: "story-read/beware-of-chicken",
   position: 25,
   publishedAt: "2023-06-23",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

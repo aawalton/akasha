@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003434Evergale = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 34,
   ownLength: 2077,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-18",
   externalIdentity: [
     {

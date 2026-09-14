@@ -8,7 +8,7 @@ export const cinnamonBun0341ChapterThreeHundredAndThirtyThreeCatchingUp = {
   story: "story-read/cinnamon-bun",
   position: 341,
   ownLength: 1900,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-11",
   externalIdentity: [
     {

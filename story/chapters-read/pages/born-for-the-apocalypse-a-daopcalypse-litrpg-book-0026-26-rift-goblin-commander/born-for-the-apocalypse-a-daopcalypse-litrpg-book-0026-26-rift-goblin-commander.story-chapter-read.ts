@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002626RiftGoblinCommander
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 26,
   ownLength: 1197,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-13",
   externalIdentity: [
     {

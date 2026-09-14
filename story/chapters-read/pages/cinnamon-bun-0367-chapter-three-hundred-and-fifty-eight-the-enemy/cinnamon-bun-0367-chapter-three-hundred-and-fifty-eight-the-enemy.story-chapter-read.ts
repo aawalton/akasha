@@ -8,7 +8,7 @@ export const cinnamonBun0367ChapterThreeHundredAndFiftyEightTheEnemy = {
   story: "story-read/cinnamon-bun",
   position: 367,
   ownLength: 1960,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-08",
   externalIdentity: [
     {

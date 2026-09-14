@@ -8,7 +8,7 @@ export const breakerOfHorizons0166166ABiggerWorld = {
   story: "story-read/breaker-of-horizons",
   position: 166,
   ownLength: 2471,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-03",
   externalIdentity: [
     {

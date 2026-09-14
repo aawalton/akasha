@@ -8,7 +8,7 @@ export const cinnamonBun0372ChapterThreeHundredAndSixtyThreeBookedFor = {
   story: "story-read/cinnamon-bun",
   position: 372,
   ownLength: 2138,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-24",
   externalIdentity: [
     {

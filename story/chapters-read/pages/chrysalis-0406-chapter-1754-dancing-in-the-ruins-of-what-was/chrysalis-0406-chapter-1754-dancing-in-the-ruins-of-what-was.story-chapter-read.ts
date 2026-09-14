@@ -8,7 +8,7 @@ export const chrysalis0406Chapter1754DancingInTheRuinsOfWhatWas = {
   story: "story-read/chrysalis",
   position: 406,
   ownLength: 976,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-13",
   externalIdentity: [
     {

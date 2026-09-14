@@ -8,7 +8,7 @@ export const bookboundBunny0011B3Chapter7Perimeter = {
   story: "bookbound-bunny",
   position: 11,
   ownLength: 2274,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-17",
   externalIdentity: [
     {

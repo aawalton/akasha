@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0014Book6Chapter7RetinueMeeting = {
   position: 14,
   ownLength: 1097,
   ownProgress: 1097,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons0175175Improvisation = {
   story: "story-read/breaker-of-horizons",
   position: 175,
   ownLength: 2395,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-03",
   externalIdentity: [
     {

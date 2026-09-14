@@ -8,7 +8,7 @@ export const breakerOfHorizons001717ABreathOfRelief = {
   story: "story-read/breaker-of-horizons",
   position: 17,
   ownLength: 2329,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-29",
   externalIdentity: [
     {

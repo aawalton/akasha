@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0033MerryChristmasAndHappyH
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 33,
   ownLength: 284,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-26",
   externalIdentity: [
     {

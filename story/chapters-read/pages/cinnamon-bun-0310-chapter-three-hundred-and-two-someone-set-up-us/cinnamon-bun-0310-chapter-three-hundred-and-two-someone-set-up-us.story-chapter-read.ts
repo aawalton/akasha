@@ -8,7 +8,7 @@ export const cinnamonBun0310ChapterThreeHundredAndTwoSomeoneSetUpUs = {
   story: "story-read/cinnamon-bun",
   position: 310,
   ownLength: 1935,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-14",
   externalIdentity: [
     {

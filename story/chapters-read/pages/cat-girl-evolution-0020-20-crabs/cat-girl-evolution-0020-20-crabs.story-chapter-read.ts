@@ -8,7 +8,7 @@ export const catGirlEvolution002020Crabs = {
   story: "cat-girl-evolution",
   position: 20,
   ownLength: 2198,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-07",
   externalIdentity: [
     {

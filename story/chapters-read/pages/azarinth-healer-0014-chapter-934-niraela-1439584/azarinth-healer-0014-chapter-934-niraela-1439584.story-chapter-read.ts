@@ -7,7 +7,7 @@ export const azarinthHealer0014Chapter934Niraela1439584 = {
   story: "story-read/azarinth-healer",
   position: 14,
   publishedAt: "2023-12-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

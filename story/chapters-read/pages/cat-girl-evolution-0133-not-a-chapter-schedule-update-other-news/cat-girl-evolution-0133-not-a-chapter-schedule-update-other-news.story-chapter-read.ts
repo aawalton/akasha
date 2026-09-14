@@ -8,7 +8,7 @@ export const catGirlEvolution0133NotAChapterScheduleUpdateOtherNews = {
   story: "cat-girl-evolution",
   position: 133,
   ownLength: 783,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-13",
   externalIdentity: [
     {

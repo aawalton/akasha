@@ -8,7 +8,7 @@ export const cinnamonBun0306ChapterTwoHundredAndNinetyEightFreeAction = {
   story: "story-read/cinnamon-bun",
   position: 306,
   ownLength: 1943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-05",
   externalIdentity: [
     {

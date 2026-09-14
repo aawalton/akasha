@@ -8,7 +8,7 @@ export const breakerOfHorizons008787Reawakening = {
   story: "story-read/breaker-of-horizons",
   position: 87,
   ownLength: 2107,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-01",
   externalIdentity: [
     {

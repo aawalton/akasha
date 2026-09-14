@@ -8,7 +8,7 @@ export const cinnamonBun0007ChapterFiveAnInsightfulAfternoon = {
   story: "story-read/cinnamon-bun",
   position: 7,
   ownLength: 2044,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-10",
   externalIdentity: [
     {

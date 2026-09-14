@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0091Book5Chapter33ASweetScre
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 91,
   ownLength: 4795,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-19",
   externalIdentity: [
     {

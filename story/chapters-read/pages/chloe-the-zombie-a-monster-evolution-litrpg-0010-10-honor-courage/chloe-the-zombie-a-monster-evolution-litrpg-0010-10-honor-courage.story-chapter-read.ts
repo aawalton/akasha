@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001010HonorCourage = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 10,
   ownLength: 1806,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-18",
   externalIdentity: [
     {

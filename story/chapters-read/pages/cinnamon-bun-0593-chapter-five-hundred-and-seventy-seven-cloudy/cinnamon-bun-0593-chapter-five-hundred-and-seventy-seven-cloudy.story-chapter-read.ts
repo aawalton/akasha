@@ -8,7 +8,7 @@ export const cinnamonBun0593ChapterFiveHundredAndSeventySevenCloudy = {
   story: "story-read/cinnamon-bun",
   position: 593,
   ownLength: 1555,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-18",
   externalIdentity: [
     {

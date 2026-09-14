@@ -8,7 +8,7 @@ export const chrysalis0474Chapter1820ItLlDo = {
   story: "story-read/chrysalis",
   position: 474,
   ownLength: 1084,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-22",
   externalIdentity: [
     {

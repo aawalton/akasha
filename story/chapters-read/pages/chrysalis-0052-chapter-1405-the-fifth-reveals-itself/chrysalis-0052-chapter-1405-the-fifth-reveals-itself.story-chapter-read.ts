@@ -9,7 +9,7 @@ export const chrysalis0052Chapter1405TheFifthRevealsItself = {
   position: 52,
   ownLength: 1042,
   ownProgress: 1042,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:45:17.771Z",
   publishedAt: "2024-09-10",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const catGirlEvolution009090BreakingTheSystemAgain = {
   story: "cat-girl-evolution",
   position: 90,
   ownLength: 2638,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-18",
   externalIdentity: [
     {

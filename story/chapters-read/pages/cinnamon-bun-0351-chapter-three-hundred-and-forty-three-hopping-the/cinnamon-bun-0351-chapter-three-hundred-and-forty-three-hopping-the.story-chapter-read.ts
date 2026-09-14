@@ -8,7 +8,7 @@ export const cinnamonBun0351ChapterThreeHundredAndFortyThreeHoppingThe = {
   story: "story-read/cinnamon-bun",
   position: 351,
   ownLength: 1994,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-15",
   externalIdentity: [
     {

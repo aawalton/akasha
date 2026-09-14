@@ -8,7 +8,7 @@ export const chrysalis0468Chapter1814GatheringOfCultists = {
   story: "story-read/chrysalis",
   position: 468,
   ownLength: 1338,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-12",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0261ChapterTwoHundredAndFiftyThreeGranite = {
   story: "story-read/cinnamon-bun",
   position: 261,
   ownLength: 1982,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-07",
   externalIdentity: [
     {

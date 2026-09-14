@@ -8,7 +8,7 @@ export const cinnamonBun0418ChapterFourHundredAndFiveSocialNetworking = {
   story: "story-read/cinnamon-bun",
   position: 418,
   ownLength: 1956,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-17",
   externalIdentity: [
     {

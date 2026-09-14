@@ -8,7 +8,7 @@ export const cinnamonBun0148ChapterOneHundredAndFortyThreeWearYour = {
   story: "story-read/cinnamon-bun",
   position: 148,
   ownLength: 1973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-21",
   externalIdentity: [
     {

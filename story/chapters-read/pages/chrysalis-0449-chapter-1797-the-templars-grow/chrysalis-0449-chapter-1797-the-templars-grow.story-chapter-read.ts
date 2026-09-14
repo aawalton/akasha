@@ -8,7 +8,7 @@ export const chrysalis0449Chapter1797TheTemplarsGrow = {
   story: "story-read/chrysalis",
   position: 449,
   ownLength: 1077,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

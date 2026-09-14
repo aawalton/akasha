@@ -9,7 +9,7 @@ export const chrysalis0359Chapter1707AHarderKindOfSale = {
   position: 359,
   ownLength: 1111,
   ownProgress: 1111,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:55:17.675Z",
   publishedAt: "2025-12-17",
   externalIdentity: [

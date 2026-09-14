@@ -8,7 +8,7 @@ export const breakerOfHorizons001414Spillage = {
   story: "story-read/breaker-of-horizons",
   position: 14,
   ownLength: 2371,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-18",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const cinnamonBun0257ChapterTwoHundredAndFortyNineAnythingYou = {
   story: "story-read/cinnamon-bun",
   position: 257,
   ownLength: 1940,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-23",
   externalIdentity: [
     {

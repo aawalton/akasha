@@ -9,7 +9,7 @@ export const chrysalis0200Chapter1552TheSlugSensation = {
   position: 200,
   ownLength: 951,
   ownProgress: 951,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:50:13.302Z",
   publishedAt: "2025-04-16",
   externalIdentity: [

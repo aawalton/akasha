@@ -8,7 +8,7 @@ export const cinnamonBun0218ChapterTwoHundredAndTenReadTheMood = {
   story: "story-read/cinnamon-bun",
   position: 218,
   ownLength: 1988,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-21",
   externalIdentity: [
     {

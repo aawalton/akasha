@@ -8,7 +8,7 @@ export const cinnamonBun0131ChapterOneHundredAndTwentySixWarTalk = {
   story: "story-read/cinnamon-bun",
   position: 131,
   ownLength: 1948,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003030Moonsword = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 30,
   ownLength: 1271,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-09",
   externalIdentity: [
     {

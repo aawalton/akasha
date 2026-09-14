@@ -8,7 +8,7 @@ export const cinnamonBun0410ChapterThreeHundredAndNinetySevenLiveFree = {
   story: "story-read/cinnamon-bun",
   position: 410,
   ownLength: 1952,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-12",
   externalIdentity: [
     {

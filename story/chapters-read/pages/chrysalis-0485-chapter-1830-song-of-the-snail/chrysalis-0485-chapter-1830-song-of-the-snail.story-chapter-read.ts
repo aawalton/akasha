@@ -8,7 +8,7 @@ export const chrysalis0485Chapter1830SongOfTheSnail = {
   story: "story-read/chrysalis",
   position: 485,
   ownLength: 851,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-28",
   externalIdentity: [
     {

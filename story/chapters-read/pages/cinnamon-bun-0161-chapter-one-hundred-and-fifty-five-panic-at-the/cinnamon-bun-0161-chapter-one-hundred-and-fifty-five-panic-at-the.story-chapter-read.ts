@@ -8,7 +8,7 @@ export const cinnamonBun0161ChapterOneHundredAndFiftyFivePanicAtThe = {
   story: "story-read/cinnamon-bun",
   position: 161,
   ownLength: 1937,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-28",
   externalIdentity: [
     {

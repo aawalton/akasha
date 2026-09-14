@@ -8,7 +8,7 @@ export const cinnamonBun0103ChapterOneHundredNoStringsAttached = {
   story: "story-read/cinnamon-bun",
   position: 103,
   ownLength: 3597,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-30",
   externalIdentity: [
     {

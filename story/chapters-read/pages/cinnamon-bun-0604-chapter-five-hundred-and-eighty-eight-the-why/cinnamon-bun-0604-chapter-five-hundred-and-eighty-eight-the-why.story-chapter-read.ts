@@ -8,7 +8,7 @@ export const cinnamonBun0604ChapterFiveHundredAndEightyEightTheWhy = {
   story: "story-read/cinnamon-bun",
   position: 604,
   ownLength: 1532,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-03",
   externalIdentity: [
     {

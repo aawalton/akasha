@@ -9,7 +9,7 @@ export const chrysalis0240Chapter1592TheSingingWonTStop = {
   position: 240,
   ownLength: 975,
   ownProgress: 975,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:51:29.251Z",
   publishedAt: "2025-06-25",
   externalIdentity: [

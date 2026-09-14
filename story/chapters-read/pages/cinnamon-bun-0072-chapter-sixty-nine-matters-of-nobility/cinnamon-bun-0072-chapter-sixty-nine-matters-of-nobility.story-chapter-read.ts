@@ -8,7 +8,7 @@ export const cinnamonBun0072ChapterSixtyNineMattersOfNobility = {
   story: "story-read/cinnamon-bun",
   position: 72,
   ownLength: 2068,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-05",
   externalIdentity: [
     {

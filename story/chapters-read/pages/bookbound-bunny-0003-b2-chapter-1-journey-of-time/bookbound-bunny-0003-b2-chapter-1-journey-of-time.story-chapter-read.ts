@@ -8,7 +8,7 @@ export const bookboundBunny0003B2Chapter1JourneyOfTime = {
   story: "bookbound-bunny",
   position: 3,
   ownLength: 2492,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-19",
   externalIdentity: [
     {

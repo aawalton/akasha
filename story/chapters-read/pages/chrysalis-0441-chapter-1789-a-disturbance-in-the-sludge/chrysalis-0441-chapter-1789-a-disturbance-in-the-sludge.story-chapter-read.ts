@@ -8,7 +8,7 @@ export const chrysalis0441Chapter1789ADisturbanceInTheSludge = {
   story: "story-read/chrysalis",
   position: 441,
   ownLength: 1327,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

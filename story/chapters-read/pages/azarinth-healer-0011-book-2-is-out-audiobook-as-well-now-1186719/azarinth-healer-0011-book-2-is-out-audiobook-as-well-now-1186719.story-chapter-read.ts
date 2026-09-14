@@ -7,7 +7,7 @@ export const azarinthHealer0011Book2IsOutAudiobookAsWellNow1186719 = {
   story: "story-read/azarinth-healer",
   position: 11,
   publishedAt: "2023-04-20",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

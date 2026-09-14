@@ -8,7 +8,7 @@ export const cinnamonBun0210ChapterTwoHundredAndTwoHeartOfDarkness = {
   story: "story-read/cinnamon-bun",
   position: 210,
   ownLength: 1980,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-02",
   externalIdentity: [
     {

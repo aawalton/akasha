@@ -8,7 +8,7 @@ export const cinnamonBun0465ChapterFourHundredAndFiftyOnePersonality = {
   story: "story-read/cinnamon-bun",
   position: 465,
   ownLength: 1547,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-05",
   externalIdentity: [
     {

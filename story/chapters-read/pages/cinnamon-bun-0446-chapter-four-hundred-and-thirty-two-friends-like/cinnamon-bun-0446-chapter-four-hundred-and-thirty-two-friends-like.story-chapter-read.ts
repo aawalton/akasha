@@ -8,7 +8,7 @@ export const cinnamonBun0446ChapterFourHundredAndThirtyTwoFriendsLike = {
   story: "story-read/cinnamon-bun",
   position: 446,
   ownLength: 1975,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-12",
   externalIdentity: [
     {

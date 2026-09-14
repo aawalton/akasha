@@ -8,7 +8,7 @@ export const chrysalis0400Chapter1748TimeForVengeance = {
   story: "story-read/chrysalis",
   position: 400,
   ownLength: 1032,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-05",
   externalIdentity: [
     {

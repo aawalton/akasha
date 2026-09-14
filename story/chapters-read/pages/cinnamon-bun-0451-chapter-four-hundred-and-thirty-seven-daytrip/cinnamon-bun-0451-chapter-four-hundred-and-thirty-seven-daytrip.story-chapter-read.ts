@@ -8,7 +8,7 @@ export const cinnamonBun0451ChapterFourHundredAndThirtySevenDaytrip = {
   story: "story-read/cinnamon-bun",
   position: 451,
   ownLength: 1973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0293ChapterTwoHundredAndEightyFiveIntoThinAir = {
   story: "story-read/cinnamon-bun",
   position: 293,
   ownLength: 2058,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-17",
   externalIdentity: [
     {

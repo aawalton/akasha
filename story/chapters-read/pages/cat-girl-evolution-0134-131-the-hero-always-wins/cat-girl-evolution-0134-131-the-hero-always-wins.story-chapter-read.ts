@@ -8,7 +8,7 @@ export const catGirlEvolution0134131TheHeroAlwaysWins = {
   story: "cat-girl-evolution",
   position: 134,
   ownLength: 2284,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

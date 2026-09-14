@@ -8,7 +8,7 @@ export const cinnamonBun0381BroccoliClaus = {
   story: "story-read/cinnamon-bun",
   position: 381,
   ownLength: 461,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-25",
   externalIdentity: [
     {

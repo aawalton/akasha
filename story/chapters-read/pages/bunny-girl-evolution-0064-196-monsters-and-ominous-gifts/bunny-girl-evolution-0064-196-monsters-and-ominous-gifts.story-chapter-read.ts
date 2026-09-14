@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0064196MonstersAndOminousGifts = {
   story: "story-read/bunny-girl-evolution",
   position: 64,
   ownLength: 2880,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

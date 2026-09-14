@@ -8,7 +8,7 @@ export const cinnamonBun0482ChapterFourHundredAndSixtyEightGetOnThe = {
   story: "story-read/cinnamon-bun",
   position: 482,
   ownLength: 1509,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-06",
   externalIdentity: [
     {

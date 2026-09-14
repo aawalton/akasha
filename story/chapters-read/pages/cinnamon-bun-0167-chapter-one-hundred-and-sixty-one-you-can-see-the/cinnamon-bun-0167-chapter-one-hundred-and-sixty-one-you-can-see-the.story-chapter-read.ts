@@ -9,7 +9,7 @@ export const cinnamonBun0167ChapterOneHundredAndSixtyOneYouCanSeeThe = {
   story: "story-read/cinnamon-bun",
   position: 167,
   ownLength: 1959,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-18",
   externalIdentity: [
     {

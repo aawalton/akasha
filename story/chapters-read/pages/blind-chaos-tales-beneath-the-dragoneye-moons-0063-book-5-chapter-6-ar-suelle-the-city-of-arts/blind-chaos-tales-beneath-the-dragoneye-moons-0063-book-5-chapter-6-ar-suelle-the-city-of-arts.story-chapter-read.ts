@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0063Book5Chapter6ArSuelleThe
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 63,
   ownLength: 4604,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-27",
   externalIdentity: [
     {

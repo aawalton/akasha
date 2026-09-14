@@ -8,7 +8,7 @@ export const breakerOfHorizons0190PlaceholderAnnouncement = {
   story: "story-read/breaker-of-horizons",
   position: 190,
   ownLength: 85,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-01",
   externalIdentity: [
     {

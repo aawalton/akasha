@@ -8,7 +8,7 @@ export const cinnamonBun0494ChapterFourHundredAndEightyPublicComment = {
   story: "story-read/cinnamon-bun",
   position: 494,
   ownLength: 1490,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-03-21",
   externalIdentity: [
     {

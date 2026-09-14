@@ -8,7 +8,7 @@ export const chrysalis0408Chapter1756Invasion = {
   story: "story-read/chrysalis",
   position: 408,
   ownLength: 986,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-24",
   externalIdentity: [
     {

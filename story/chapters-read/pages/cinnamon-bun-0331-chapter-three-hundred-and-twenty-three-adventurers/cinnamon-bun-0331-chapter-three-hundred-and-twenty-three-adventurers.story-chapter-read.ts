@@ -8,7 +8,7 @@ export const cinnamonBun0331ChapterThreeHundredAndTwentyThreeAdventurers = {
   story: "story-read/cinnamon-bun",
   position: 331,
   ownLength: 1990,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-06",
   externalIdentity: [
     {

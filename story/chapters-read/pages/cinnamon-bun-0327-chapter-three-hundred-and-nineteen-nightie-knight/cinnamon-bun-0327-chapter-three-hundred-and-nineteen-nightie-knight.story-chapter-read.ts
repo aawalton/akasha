@@ -8,7 +8,7 @@ export const cinnamonBun0327ChapterThreeHundredAndNineteenNightieKnight = {
   story: "story-read/cinnamon-bun",
   position: 327,
   ownLength: 2029,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-16",
   externalIdentity: [
     {

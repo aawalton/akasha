@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0072203MeditationWithSoulFog = {
   story: "story-read/bunny-girl-evolution",
   position: 72,
   ownLength: 3163,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-30",
   externalIdentity: [
     {

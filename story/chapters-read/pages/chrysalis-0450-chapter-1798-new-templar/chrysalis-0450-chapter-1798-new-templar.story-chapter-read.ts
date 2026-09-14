@@ -8,7 +8,7 @@ export const chrysalis0450Chapter1798NewTemplar = {
   story: "story-read/chrysalis",
   position: 450,
   ownLength: 1000,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-21",
   externalIdentity: [
     {

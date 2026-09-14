@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0151151TooFastTooFurious = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 151,
   ownLength: 1920,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-13",
   externalIdentity: [
     {

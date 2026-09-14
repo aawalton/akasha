@@ -8,7 +8,7 @@ export const breakerOfHorizons009696TenuousTrust = {
   story: "story-read/breaker-of-horizons",
   position: 96,
   ownLength: 1804,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-01",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0045ChapterFortyTwoSorryForHarpyRocking = {
   story: "story-read/cinnamon-bun",
   position: 45,
   ownLength: 2037,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-16",
   externalIdentity: [
     {

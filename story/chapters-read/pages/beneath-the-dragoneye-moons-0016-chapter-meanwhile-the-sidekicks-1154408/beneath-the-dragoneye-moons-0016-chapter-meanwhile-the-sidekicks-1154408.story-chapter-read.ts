@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0016ChapterMeanwhileTheSidekicks1154408 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 16,
   publishedAt: "2023-04-01",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

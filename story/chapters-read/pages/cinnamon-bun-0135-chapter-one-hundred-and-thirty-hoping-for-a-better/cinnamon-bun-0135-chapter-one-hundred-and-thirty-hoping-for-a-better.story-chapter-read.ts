@@ -8,7 +8,7 @@ export const cinnamonBun0135ChapterOneHundredAndThirtyHopingForABetter = {
   story: "story-read/cinnamon-bun",
   position: 135,
   ownLength: 1934,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-13",
   externalIdentity: [
     {

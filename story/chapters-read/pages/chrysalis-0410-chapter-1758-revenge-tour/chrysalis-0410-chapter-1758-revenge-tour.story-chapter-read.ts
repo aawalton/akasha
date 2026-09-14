@@ -8,7 +8,7 @@ export const chrysalis0410Chapter1758RevengeTour = {
   story: "story-read/chrysalis",
   position: 410,
   ownLength: 862,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-26",
   externalIdentity: [
     {

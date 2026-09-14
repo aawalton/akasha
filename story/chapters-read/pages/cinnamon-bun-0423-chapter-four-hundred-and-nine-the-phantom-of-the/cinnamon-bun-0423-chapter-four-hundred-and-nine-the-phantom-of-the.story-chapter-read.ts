@@ -8,7 +8,7 @@ export const cinnamonBun0423ChapterFourHundredAndNineThePhantomOfThe = {
   story: "story-read/cinnamon-bun",
   position: 423,
   ownLength: 1996,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-30",
   externalIdentity: [
     {

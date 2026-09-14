@@ -9,7 +9,7 @@ export const bewareOfChicken0141V5c35NoHoldingBack = {
   position: 141,
   ownLength: 2557,
   ownProgress: 2557,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:56:07.679Z",
   publishedAt: "2024-08-20",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const breakerOfHorizons0158158SecondBreakfast = {
   story: "story-read/breaker-of-horizons",
   position: 158,
   ownLength: 1963,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-12-06",
   externalIdentity: [
     {

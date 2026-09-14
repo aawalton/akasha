@@ -7,7 +7,7 @@ export const bewareOfChicken0035V4c26TheMountaineerAndTheCraftsman1287232 = {
   story: "story-read/beware-of-chicken",
   position: 35,
   publishedAt: "2023-07-24",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

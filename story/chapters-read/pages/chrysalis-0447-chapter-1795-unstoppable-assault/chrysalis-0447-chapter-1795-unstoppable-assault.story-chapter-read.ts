@@ -8,7 +8,7 @@ export const chrysalis0447Chapter1795UnstoppableAssault = {
   story: "story-read/chrysalis",
   position: 447,
   ownLength: 952,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-18",
   externalIdentity: [
     {

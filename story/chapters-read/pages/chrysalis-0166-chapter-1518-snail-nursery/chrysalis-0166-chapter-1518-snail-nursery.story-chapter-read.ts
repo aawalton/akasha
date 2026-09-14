@@ -9,7 +9,7 @@ export const chrysalis0166Chapter1518SnailNursery = {
   position: 166,
   ownLength: 1016,
   ownProgress: 1016,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:49:09.342Z",
   publishedAt: "2025-02-27",
   externalIdentity: [

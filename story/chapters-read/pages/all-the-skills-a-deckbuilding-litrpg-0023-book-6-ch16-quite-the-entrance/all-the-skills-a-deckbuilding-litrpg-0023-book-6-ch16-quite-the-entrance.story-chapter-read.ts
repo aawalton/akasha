@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0023Book6Ch16QuiteTheEntrance = {
   position: 23,
   ownLength: 3135,
   ownProgress: 3135,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-24",
   externalIdentity: [
     {

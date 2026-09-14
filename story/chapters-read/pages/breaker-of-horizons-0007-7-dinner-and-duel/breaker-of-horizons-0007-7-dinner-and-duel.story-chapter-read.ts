@@ -8,7 +8,7 @@ export const breakerOfHorizons00077DinnerAndDuel = {
   story: "story-read/breaker-of-horizons",
   position: 7,
   ownLength: 2099,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-25",
   externalIdentity: [
     {

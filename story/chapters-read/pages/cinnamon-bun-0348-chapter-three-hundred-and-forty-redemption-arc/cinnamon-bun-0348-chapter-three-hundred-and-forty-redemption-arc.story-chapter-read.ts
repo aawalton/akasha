@@ -8,7 +8,7 @@ export const cinnamonBun0348ChapterThreeHundredAndFortyRedemptionArc = {
   story: "story-read/cinnamon-bun",
   position: 348,
   ownLength: 2001,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const catGirlEvolution001111Octopoids = {
   story: "cat-girl-evolution",
   position: 11,
   ownLength: 2407,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-19",
   externalIdentity: [
     {

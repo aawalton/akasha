@@ -8,7 +8,7 @@ export const cinnamonBun0184ChapterOneHundredAndSeventyEightUntoxication = {
   story: "story-read/cinnamon-bun",
   position: 184,
   ownLength: 1946,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-31",
   externalIdentity: [
     {

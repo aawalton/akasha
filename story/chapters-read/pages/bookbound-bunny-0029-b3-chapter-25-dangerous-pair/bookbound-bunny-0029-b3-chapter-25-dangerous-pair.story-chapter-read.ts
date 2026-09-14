@@ -8,7 +8,7 @@ export const bookboundBunny0029B3Chapter25DangerousPair = {
   story: "bookbound-bunny",
   position: 29,
   ownLength: 2232,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-04",
   externalIdentity: [
     {

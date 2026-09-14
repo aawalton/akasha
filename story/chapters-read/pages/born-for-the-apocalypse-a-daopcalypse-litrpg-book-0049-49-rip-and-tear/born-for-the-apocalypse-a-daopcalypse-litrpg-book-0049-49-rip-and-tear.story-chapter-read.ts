@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004949RipAndTear = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 49,
   ownLength: 1993,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-24",
   externalIdentity: [
     {

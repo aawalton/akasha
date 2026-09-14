@@ -8,7 +8,7 @@ export const bewareOfChicken0336V7c83HeavenBeforeHell = {
   story: "story-read/beware-of-chicken",
   position: 336,
   ownLength: 3723,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-22",
   externalIdentity: [
     {

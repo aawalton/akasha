@@ -8,7 +8,7 @@ export const catGirlEvolution0149146WelcomeToDryadil = {
   story: "cat-girl-evolution",
   position: 149,
   ownLength: 2264,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-03",
   externalIdentity: [
     {

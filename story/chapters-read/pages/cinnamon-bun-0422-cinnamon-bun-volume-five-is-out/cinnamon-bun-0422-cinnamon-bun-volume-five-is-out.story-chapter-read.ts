@@ -8,7 +8,7 @@ export const cinnamonBun0422CinnamonBunVolumeFiveIsOut = {
   story: "story-read/cinnamon-bun",
   position: 422,
   ownLength: 279,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-30",
   externalIdentity: [
     {

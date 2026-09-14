@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001818CarpeDiem = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 18,
   ownLength: 1947,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-19",
   externalIdentity: [
     {

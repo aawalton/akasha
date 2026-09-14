@@ -8,7 +8,7 @@ export const breakerOfHorizons006969Delirium = {
   story: "story-read/breaker-of-horizons",
   position: 69,
   ownLength: 1990,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-28",
   externalIdentity: [
     {

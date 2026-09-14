@@ -7,7 +7,7 @@ export const bewareOfChicken0066V4c51ThoseWhoCanBeReforged1383826 = {
   story: "story-read/beware-of-chicken",
   position: 66,
   publishedAt: "2023-10-24",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

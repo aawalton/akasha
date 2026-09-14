@@ -8,7 +8,7 @@ export const cinnamonBun0083ChapterEightyPathOfBrokenReflections = {
   story: "story-read/cinnamon-bun",
   position: 83,
   ownLength: 2082,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-20",
   externalIdentity: [
     {

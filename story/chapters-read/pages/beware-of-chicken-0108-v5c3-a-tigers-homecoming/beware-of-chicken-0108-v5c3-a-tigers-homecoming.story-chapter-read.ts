@@ -7,7 +7,7 @@ export const bewareOfChicken0108V5c3ATigersHomecoming = {
   story: "story-read/beware-of-chicken",
   position: 108,
   publishedAt: "2024-05-18",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

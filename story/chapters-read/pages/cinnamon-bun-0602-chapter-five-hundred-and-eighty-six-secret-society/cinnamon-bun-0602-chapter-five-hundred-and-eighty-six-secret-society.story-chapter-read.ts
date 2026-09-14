@@ -8,7 +8,7 @@ export const cinnamonBun0602ChapterFiveHundredAndEightySixSecretSociety = {
   story: "story-read/cinnamon-bun",
   position: 602,
   ownLength: 1448,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

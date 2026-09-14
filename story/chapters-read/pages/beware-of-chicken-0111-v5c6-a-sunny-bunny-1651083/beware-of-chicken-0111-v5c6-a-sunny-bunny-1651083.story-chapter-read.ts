@@ -7,7 +7,7 @@ export const bewareOfChicken0111V5c6ASunnyBunny1651083 = {
   story: "story-read/beware-of-chicken",
   position: 111,
   publishedAt: "2024-05-26",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

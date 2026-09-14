@@ -8,7 +8,7 @@ export const cinnamonBun0319ChapterThreeHundredAndElevenAFullBedspread = {
   story: "story-read/cinnamon-bun",
   position: 319,
   ownLength: 1984,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-18",
   externalIdentity: [
     {

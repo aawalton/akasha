@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook006161RunForYourLife = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 61,
   ownLength: 1603,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-27",
   externalIdentity: [
     {

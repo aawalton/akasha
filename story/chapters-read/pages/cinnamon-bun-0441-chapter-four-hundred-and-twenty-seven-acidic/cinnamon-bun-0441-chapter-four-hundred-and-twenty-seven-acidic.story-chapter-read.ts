@@ -8,7 +8,7 @@ export const cinnamonBun0441ChapterFourHundredAndTwentySevenAcidic = {
   story: "story-read/cinnamon-bun",
   position: 441,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-17",
   externalIdentity: [
     {

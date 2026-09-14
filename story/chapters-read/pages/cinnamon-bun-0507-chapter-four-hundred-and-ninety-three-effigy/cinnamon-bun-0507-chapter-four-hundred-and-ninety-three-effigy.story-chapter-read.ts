@@ -8,7 +8,7 @@ export const cinnamonBun0507ChapterFourHundredAndNinetyThreeEffigy = {
   story: "story-read/cinnamon-bun",
   position: 507,
   ownLength: 1552,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-11",
   externalIdentity: [
     {

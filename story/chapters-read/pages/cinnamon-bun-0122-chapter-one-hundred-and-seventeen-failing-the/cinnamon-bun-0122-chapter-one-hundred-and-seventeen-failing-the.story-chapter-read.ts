@@ -8,7 +8,7 @@ export const cinnamonBun0122ChapterOneHundredAndSeventeenFailingThe = {
   story: "story-read/cinnamon-bun",
   position: 122,
   ownLength: 2084,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-21",
   externalIdentity: [
     {

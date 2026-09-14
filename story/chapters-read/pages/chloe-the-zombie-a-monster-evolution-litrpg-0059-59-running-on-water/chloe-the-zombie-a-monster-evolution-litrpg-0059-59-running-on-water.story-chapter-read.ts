@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005959RunningOnWater = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 59,
   ownLength: 2040,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-27",
   externalIdentity: [
     {

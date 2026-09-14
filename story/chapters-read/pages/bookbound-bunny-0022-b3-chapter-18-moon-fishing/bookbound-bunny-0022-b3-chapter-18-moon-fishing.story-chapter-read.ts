@@ -8,7 +8,7 @@ export const bookboundBunny0022B3Chapter18MoonFishing = {
   story: "bookbound-bunny",
   position: 22,
   ownLength: 1855,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-17",
   externalIdentity: [
     {

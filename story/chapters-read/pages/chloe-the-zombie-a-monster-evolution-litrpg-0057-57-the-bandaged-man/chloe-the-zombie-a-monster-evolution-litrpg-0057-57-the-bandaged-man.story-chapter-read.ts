@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005757TheBandagedMan = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 57,
   ownLength: 2458,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-24",
   externalIdentity: [
     {

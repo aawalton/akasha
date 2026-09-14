@@ -8,7 +8,7 @@ export const breakerOfHorizons0127127TheShapeOfThought = {
   story: "story-read/breaker-of-horizons",
   position: 127,
   ownLength: 1918,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-19",
   externalIdentity: [
     {

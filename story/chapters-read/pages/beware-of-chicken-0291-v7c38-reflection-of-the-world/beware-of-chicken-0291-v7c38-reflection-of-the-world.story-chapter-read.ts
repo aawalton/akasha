@@ -8,7 +8,7 @@ export const bewareOfChicken0291V7c38ReflectionOfTheWorld = {
   story: "story-read/beware-of-chicken",
   position: 291,
   ownLength: 2285,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-20",
   externalIdentity: [
     {

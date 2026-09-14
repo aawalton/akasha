@@ -8,7 +8,7 @@ export const cinnamonBun0069ChapterSixtySixAPlaceToParkAirships = {
   story: "story-read/cinnamon-bun",
   position: 69,
   ownLength: 1943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-31",
   externalIdentity: [
     {

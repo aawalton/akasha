@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004343PrimordialClaw = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 43,
   ownLength: 1696,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-15",
   externalIdentity: [
     {

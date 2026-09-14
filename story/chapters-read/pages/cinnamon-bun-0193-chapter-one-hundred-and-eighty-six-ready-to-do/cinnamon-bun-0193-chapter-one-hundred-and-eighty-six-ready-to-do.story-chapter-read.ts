@@ -8,7 +8,7 @@ export const cinnamonBun0193ChapterOneHundredAndEightySixReadyToDo = {
   story: "story-read/cinnamon-bun",
   position: 193,
   ownLength: 2009,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-10",
   externalIdentity: [
     {

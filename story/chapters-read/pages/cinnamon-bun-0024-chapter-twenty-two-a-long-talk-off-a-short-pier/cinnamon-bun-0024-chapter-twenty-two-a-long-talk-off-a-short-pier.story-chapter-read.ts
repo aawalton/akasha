@@ -8,7 +8,7 @@ export const cinnamonBun0024ChapterTwentyTwoALongTalkOffAShortPier = {
   story: "story-read/cinnamon-bun",
   position: 24,
   ownLength: 1949,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-13",
   externalIdentity: [
     {

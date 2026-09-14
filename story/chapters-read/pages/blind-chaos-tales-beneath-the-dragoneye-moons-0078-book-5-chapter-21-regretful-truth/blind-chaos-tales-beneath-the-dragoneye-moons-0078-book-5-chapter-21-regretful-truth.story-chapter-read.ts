@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0078Book5Chapter21RegretfulT
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 78,
   ownLength: 4674,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-03",
   externalIdentity: [
     {

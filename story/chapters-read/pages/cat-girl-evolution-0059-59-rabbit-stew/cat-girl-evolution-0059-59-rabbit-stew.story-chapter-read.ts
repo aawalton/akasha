@@ -8,7 +8,7 @@ export const catGirlEvolution005959RabbitStew = {
   story: "cat-girl-evolution",
   position: 59,
   ownLength: 2104,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-07",
   externalIdentity: [
     {

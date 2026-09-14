@@ -8,7 +8,7 @@ export const cinnamonBun0504ChapterFourHundredAndNinetySanitySplash = {
   story: "story-read/cinnamon-bun",
   position: 504,
   ownLength: 1449,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-22",
   externalIdentity: [
     {

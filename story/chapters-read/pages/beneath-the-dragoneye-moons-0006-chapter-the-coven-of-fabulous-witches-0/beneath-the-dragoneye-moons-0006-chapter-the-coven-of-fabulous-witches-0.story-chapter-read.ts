@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0006ChapterTheCovenOfFabulousWitches0 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 6,
   ownLength: 254,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-01",
   externalIdentity: [
     {

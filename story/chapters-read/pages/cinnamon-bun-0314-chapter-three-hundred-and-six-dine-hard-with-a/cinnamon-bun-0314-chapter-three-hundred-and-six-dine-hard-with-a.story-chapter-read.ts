@@ -8,7 +8,7 @@ export const cinnamonBun0314ChapterThreeHundredAndSixDineHardWithA = {
   story: "story-read/cinnamon-bun",
   position: 314,
   ownLength: 1984,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0178ChapterOneHundredAndSeventyTwoFetchingHelp = {
   story: "story-read/cinnamon-bun",
   position: 178,
   ownLength: 1980,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-20",
   externalIdentity: [
     {

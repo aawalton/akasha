@@ -8,7 +8,7 @@ export const breakerOfHorizons005656UnexplainedIntervention = {
   story: "story-read/breaker-of-horizons",
   position: 56,
   ownLength: 2143,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-12",
   externalIdentity: [
     {

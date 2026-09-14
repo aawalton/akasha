@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0050182CompensationForYourTrouble = {
   story: "story-read/bunny-girl-evolution",
   position: 50,
   ownLength: 3183,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-25",
   externalIdentity: [
     {

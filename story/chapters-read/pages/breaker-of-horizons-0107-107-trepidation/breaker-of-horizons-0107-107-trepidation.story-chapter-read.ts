@@ -8,7 +8,7 @@ export const breakerOfHorizons0107107Trepidation = {
   story: "story-read/breaker-of-horizons",
   position: 107,
   ownLength: 2121,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-10",
   externalIdentity: [
     {

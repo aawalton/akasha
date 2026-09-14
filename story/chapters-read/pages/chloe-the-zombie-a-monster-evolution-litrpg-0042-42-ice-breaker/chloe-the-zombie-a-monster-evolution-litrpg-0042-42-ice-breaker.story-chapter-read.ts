@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004242IceBreaker = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 42,
   ownLength: 2478,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-30",
   externalIdentity: [
     {

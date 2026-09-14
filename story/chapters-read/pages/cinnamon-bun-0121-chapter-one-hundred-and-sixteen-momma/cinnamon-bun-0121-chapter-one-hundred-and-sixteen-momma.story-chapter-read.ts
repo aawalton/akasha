@@ -8,7 +8,7 @@ export const cinnamonBun0121ChapterOneHundredAndSixteenMomma = {
   story: "story-read/cinnamon-bun",
   position: 121,
   ownLength: 1961,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-20",
   externalIdentity: [
     {

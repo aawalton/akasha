@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0133133HandToHand = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 133,
   ownLength: 1902,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-01",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0046179InTheDungeonSDepths = {
   story: "story-read/bunny-girl-evolution",
   position: 46,
   ownLength: 3754,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-10",
   externalIdentity: [
     {

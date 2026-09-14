@@ -8,7 +8,7 @@ export const chrysalis0461Chapter1807SneakingSnails = {
   story: "story-read/chrysalis",
   position: 461,
   ownLength: 1063,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-03",
   externalIdentity: [
     {

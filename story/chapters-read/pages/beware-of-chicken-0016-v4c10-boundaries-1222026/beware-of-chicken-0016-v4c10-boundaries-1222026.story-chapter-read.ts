@@ -7,7 +7,7 @@ export const bewareOfChicken0016V4c10Boundaries1222026 = {
   story: "story-read/beware-of-chicken",
   position: 16,
   publishedAt: "2023-05-23",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

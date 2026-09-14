@@ -8,7 +8,7 @@ export const cinnamonBun0343ChapterThreeHundredAndThirtyFiveRaindrops = {
   story: "story-read/cinnamon-bun",
   position: 343,
   ownLength: 1994,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-18",
   externalIdentity: [
     {

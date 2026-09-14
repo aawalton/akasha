@@ -8,7 +8,7 @@ export const catGirlEvolution00055Scratch = {
   story: "cat-girl-evolution",
   position: 5,
   ownLength: 1793,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-17",
   externalIdentity: [
     {

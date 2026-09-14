@@ -8,7 +8,7 @@ export const cinnamonBun0254ChapterTwoHundredAndFortySixPaladinBusiness = {
   story: "story-read/cinnamon-bun",
   position: 254,
   ownLength: 1948,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-15",
   externalIdentity: [
     {

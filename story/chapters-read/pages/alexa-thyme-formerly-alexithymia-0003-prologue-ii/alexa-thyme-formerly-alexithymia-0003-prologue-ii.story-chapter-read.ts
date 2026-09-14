@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0003PrologueIi = {
   story: "alexa-thyme-formerly-alexithymia",
   position: 3,
   ownLength: 1589,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-24",
   externalIdentity: [
     {

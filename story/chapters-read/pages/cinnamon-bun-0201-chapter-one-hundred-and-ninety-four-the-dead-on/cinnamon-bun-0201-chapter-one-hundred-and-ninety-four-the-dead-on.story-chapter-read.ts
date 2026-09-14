@@ -8,7 +8,7 @@ export const cinnamonBun0201ChapterOneHundredAndNinetyFourTheDeadOn = {
   story: "story-read/cinnamon-bun",
   position: 201,
   ownLength: 2001,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-24",
   externalIdentity: [
     {

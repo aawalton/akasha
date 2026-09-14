@@ -8,7 +8,7 @@ export const cinnamonBun0275ChapterTwoHundredAndSixtySevenLostAndFound = {
   story: "story-read/cinnamon-bun",
   position: 275,
   ownLength: 1954,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-18",
   externalIdentity: [
     {

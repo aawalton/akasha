@@ -8,7 +8,7 @@ export const breakerOfHorizons007676MemoriesOfTheAncients = {
   story: "story-read/breaker-of-horizons",
   position: 76,
   ownLength: 1793,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-21",
   externalIdentity: [
     {

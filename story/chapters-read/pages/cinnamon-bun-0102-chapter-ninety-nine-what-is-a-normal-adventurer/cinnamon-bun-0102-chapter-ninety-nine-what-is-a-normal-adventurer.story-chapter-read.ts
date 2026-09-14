@@ -8,7 +8,7 @@ export const cinnamonBun0102ChapterNinetyNineWhatIsANormalAdventurer = {
   story: "story-read/cinnamon-bun",
   position: 102,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-28",
   externalIdentity: [
     {

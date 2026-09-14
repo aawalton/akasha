@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0060Book5Chapter3ATagalong =
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 60,
   ownLength: 5739,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-11",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const catGirlEvolution009393Winter3 = {
   story: "cat-girl-evolution",
   position: 93,
   ownLength: 3907,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-25",
   externalIdentity: [
     {

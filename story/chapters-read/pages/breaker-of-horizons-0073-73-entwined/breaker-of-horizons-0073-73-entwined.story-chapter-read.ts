@@ -8,7 +8,7 @@ export const breakerOfHorizons007373Entwined = {
   story: "story-read/breaker-of-horizons",
   position: 73,
   ownLength: 1945,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-11",
   externalIdentity: [
     {

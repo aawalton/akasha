@@ -8,7 +8,7 @@ export const chrysalis0445Chapter1793RebornImmortal = {
   story: "story-read/chrysalis",
   position: 445,
   ownLength: 1101,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-14",
   externalIdentity: [
     {

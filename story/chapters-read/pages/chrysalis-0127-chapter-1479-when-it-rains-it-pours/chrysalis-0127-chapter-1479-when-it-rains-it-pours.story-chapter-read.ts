@@ -9,7 +9,7 @@ export const chrysalis0127Chapter1479WhenItRainsItPours = {
   position: 127,
   ownLength: 898,
   ownProgress: 898,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:48:07.917Z",
   publishedAt: "2024-12-20",
   externalIdentity: [

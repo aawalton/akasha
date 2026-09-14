@@ -7,7 +7,7 @@ export const bewareOfChicken0082V4c67TheTrial1436168 = {
   story: "story-read/beware-of-chicken",
   position: 82,
   publishedAt: "2023-12-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

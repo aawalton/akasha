@@ -7,7 +7,7 @@ export const bewareOfChicken0049V4c36TheLaboursEnd = {
   story: "story-read/beware-of-chicken",
   position: 49,
   publishedAt: "2023-09-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0080Book5Chapter23FriendsAnd
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 80,
   ownLength: 5514,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-17",
   externalIdentity: [
     {

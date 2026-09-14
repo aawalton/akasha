@@ -8,7 +8,7 @@ export const catGirlEvolution0148145WheelOfTraits = {
   story: "cat-girl-evolution",
   position: 148,
   ownLength: 2296,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

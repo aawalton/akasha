@@ -8,7 +8,7 @@ export const allTheSkillsADeckbuildingLitrpg0042B6Ch35WellMet = {
   story: "all-the-skills-a-deckbuilding-litrpg",
   position: 42,
   ownLength: 2144,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0097ChapterNinetyFourDanceDanceBeevolution = {
   story: "story-read/cinnamon-bun",
   position: 97,
   ownLength: 2015,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-16",
   externalIdentity: [
     {

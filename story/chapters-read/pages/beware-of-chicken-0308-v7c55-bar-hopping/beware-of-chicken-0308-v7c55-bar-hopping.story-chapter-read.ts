@@ -8,7 +8,7 @@ export const bewareOfChicken0308V7c55BarHopping = {
   story: "story-read/beware-of-chicken",
   position: 308,
   ownLength: 2166,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-05",
   externalIdentity: [
     {

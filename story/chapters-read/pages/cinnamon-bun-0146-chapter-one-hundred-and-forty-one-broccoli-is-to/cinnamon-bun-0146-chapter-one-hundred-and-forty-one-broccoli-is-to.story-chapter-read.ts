@@ -8,7 +8,7 @@ export const cinnamonBun0146ChapterOneHundredAndFortyOneBroccoliIsTo = {
   story: "story-read/cinnamon-bun",
   position: 146,
   ownLength: 1999,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-07",
   externalIdentity: [
     {

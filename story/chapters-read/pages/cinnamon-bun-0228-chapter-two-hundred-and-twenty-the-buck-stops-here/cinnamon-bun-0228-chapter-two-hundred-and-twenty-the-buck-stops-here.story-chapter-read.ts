@@ -8,7 +8,7 @@ export const cinnamonBun0228ChapterTwoHundredAndTwentyTheBuckStopsHere = {
   story: "story-read/cinnamon-bun",
   position: 228,
   ownLength: 1921,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-13",
   externalIdentity: [
     {

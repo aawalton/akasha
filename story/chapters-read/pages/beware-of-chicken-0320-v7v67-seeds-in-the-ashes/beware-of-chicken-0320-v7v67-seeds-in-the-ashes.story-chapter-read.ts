@@ -8,7 +8,7 @@ export const bewareOfChicken0320V7v67SeedsInTheAshes = {
   story: "story-read/beware-of-chicken",
   position: 320,
   ownLength: 2113,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-17",
   externalIdentity: [
     {

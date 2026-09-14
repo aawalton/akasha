@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00011DoomsdayPrepperMeetR
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 1,
   ownLength: 5654,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-03",
   externalIdentity: [
     {

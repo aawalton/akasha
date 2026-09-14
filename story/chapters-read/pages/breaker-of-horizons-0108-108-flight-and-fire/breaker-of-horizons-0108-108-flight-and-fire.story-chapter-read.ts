@@ -8,7 +8,7 @@ export const breakerOfHorizons0108108FlightAndFire = {
   story: "story-read/breaker-of-horizons",
   position: 108,
   ownLength: 2026,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-13",
   externalIdentity: [
     {

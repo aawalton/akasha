@@ -8,7 +8,7 @@ export const cinnamonBun0067ChapterSixtyFourPhysicalManakinesis = {
   story: "story-read/cinnamon-bun",
   position: 67,
   ownLength: 1978,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-27",
   externalIdentity: [
     {

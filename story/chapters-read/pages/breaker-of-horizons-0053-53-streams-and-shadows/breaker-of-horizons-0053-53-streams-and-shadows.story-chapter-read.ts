@@ -8,7 +8,7 @@ export const breakerOfHorizons005353StreamsAndShadows = {
   story: "story-read/breaker-of-horizons",
   position: 53,
   ownLength: 2522,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-02",
   externalIdentity: [
     {

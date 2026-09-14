@@ -8,7 +8,7 @@ export const cinnamonBun0290ChapterTwoHundredAndEightyTwoFinallyPlaying = {
   story: "story-read/cinnamon-bun",
   position: 290,
   ownLength: 1551,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-08",
   externalIdentity: [
     {

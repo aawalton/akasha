@@ -8,7 +8,7 @@ export const catGirlEvolution001414ExternalManaManipulation = {
   story: "cat-girl-evolution",
   position: 14,
   ownLength: 2407,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-23",
   externalIdentity: [
     {

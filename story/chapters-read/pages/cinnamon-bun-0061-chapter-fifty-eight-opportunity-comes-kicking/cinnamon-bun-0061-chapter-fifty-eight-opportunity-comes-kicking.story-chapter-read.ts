@@ -8,7 +8,7 @@ export const cinnamonBun0061ChapterFiftyEightOpportunityComesKicking = {
   story: "story-read/cinnamon-bun",
   position: 61,
   ownLength: 2017,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const catGirlEvolution0105103TheGoddessOfFemaleDogsB2End = {
   story: "cat-girl-evolution",
   position: 105,
   ownLength: 2520,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-24",
   externalIdentity: [
     {

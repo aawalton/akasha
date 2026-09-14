@@ -8,7 +8,7 @@ export const breakerOfHorizons002121ArcanaReframed = {
   story: "story-read/breaker-of-horizons",
   position: 21,
   ownLength: 2152,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-13",
   externalIdentity: [
     {

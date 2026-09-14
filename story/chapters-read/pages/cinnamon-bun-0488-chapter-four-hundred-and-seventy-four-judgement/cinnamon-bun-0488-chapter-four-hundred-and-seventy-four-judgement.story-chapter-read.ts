@@ -8,7 +8,7 @@ export const cinnamonBun0488ChapterFourHundredAndSeventyFourJudgement = {
   story: "story-read/cinnamon-bun",
   position: 488,
   ownLength: 1511,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-27",
   externalIdentity: [
     {

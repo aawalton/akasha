@@ -8,7 +8,7 @@ export const cinnamonBun0472ChapterFourHundredAndFiftyEightTailsFromA = {
   story: "story-read/cinnamon-bun",
   position: 472,
   ownLength: 1489,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-02",
   externalIdentity: [
     {

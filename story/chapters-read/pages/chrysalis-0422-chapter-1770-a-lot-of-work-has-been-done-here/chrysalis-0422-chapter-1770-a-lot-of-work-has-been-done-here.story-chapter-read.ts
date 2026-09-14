@@ -8,7 +8,7 @@ export const chrysalis0422Chapter1770ALotOfWorkHasBeenDoneHere = {
   story: "story-read/chrysalis",
   position: 422,
   ownLength: 1147,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-13",
   externalIdentity: [
     {

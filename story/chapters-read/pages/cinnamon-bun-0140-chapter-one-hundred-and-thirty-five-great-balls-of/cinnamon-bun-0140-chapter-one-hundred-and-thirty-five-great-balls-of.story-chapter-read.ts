@@ -8,7 +8,7 @@ export const cinnamonBun0140ChapterOneHundredAndThirtyFiveGreatBallsOf = {
   story: "story-read/cinnamon-bun",
   position: 140,
   ownLength: 2159,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-25",
   externalIdentity: [
     {

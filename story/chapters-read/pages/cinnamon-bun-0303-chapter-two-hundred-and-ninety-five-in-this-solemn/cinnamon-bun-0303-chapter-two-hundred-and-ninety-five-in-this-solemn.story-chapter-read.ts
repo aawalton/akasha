@@ -8,7 +8,7 @@ export const cinnamonBun0303ChapterTwoHundredAndNinetyFiveInThisSolemn = {
   story: "story-read/cinnamon-bun",
   position: 303,
   ownLength: 2092,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-25",
   externalIdentity: [
     {

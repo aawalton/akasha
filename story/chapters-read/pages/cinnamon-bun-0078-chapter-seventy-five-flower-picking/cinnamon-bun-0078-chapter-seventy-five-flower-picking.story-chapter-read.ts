@@ -8,7 +8,7 @@ export const cinnamonBun0078ChapterSeventyFiveFlowerPicking = {
   story: "story-read/cinnamon-bun",
   position: 78,
   ownLength: 1948,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-13",
   externalIdentity: [
     {

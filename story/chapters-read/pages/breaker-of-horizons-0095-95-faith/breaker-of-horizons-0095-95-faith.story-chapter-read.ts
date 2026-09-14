@@ -8,7 +8,7 @@ export const breakerOfHorizons009595Faith = {
   story: "story-read/breaker-of-horizons",
   position: 95,
   ownLength: 2133,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0147147TheSunScorpion = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 147,
   ownLength: 2010,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-04",
   externalIdentity: [
     {

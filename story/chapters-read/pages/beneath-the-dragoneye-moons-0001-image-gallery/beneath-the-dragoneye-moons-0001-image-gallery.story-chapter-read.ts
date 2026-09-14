@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0001ImageGallery = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 1,
   ownLength: 96,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-12",
   externalIdentity: [
     {

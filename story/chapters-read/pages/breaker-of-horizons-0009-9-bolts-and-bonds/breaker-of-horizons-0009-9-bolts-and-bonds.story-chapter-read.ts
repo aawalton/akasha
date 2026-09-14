@@ -8,7 +8,7 @@ export const breakerOfHorizons00099BoltsAndBonds = {
   story: "story-read/breaker-of-horizons",
   position: 9,
   ownLength: 2631,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-31",
   externalIdentity: [
     {

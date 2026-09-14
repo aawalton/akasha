@@ -8,7 +8,7 @@ export const cinnamonBun0309ChapterThreeHundredAndOneTrueColours = {
   story: "story-read/cinnamon-bun",
   position: 309,
   ownLength: 2034,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-13",
   externalIdentity: [
     {

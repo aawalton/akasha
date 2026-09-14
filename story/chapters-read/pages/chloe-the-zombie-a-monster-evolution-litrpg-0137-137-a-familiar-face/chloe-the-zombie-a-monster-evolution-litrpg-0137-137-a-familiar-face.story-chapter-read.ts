@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0137137AFamiliarFace = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 137,
   ownLength: 1817,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-10",
   externalIdentity: [
     {

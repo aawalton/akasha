@@ -8,7 +8,7 @@ export const catGirlEvolution0147144PaparazziPressConference = {
   story: "cat-girl-evolution",
   position: 147,
   ownLength: 2537,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-29",
   externalIdentity: [
     {

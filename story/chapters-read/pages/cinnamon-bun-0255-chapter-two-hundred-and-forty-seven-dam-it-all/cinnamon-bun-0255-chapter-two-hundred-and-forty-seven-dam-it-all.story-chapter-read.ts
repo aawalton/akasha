@@ -8,7 +8,7 @@ export const cinnamonBun0255ChapterTwoHundredAndFortySevenDamItAll = {
   story: "story-read/cinnamon-bun",
   position: 255,
   ownLength: 1937,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-16",
   externalIdentity: [
     {

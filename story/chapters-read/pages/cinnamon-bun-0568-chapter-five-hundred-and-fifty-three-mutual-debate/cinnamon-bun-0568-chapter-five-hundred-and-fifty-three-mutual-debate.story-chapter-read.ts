@@ -8,7 +8,7 @@ export const cinnamonBun0568ChapterFiveHundredAndFiftyThreeMutualDebate = {
   story: "story-read/cinnamon-bun",
   position: 568,
   ownLength: 2018,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-11",
   externalIdentity: [
     {

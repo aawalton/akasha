@@ -8,7 +8,7 @@ export const cinnamonBun0022ChapterTwentyARibbitingMeeting = {
   story: "story-read/cinnamon-bun",
   position: 22,
   ownLength: 2383,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-11",
   externalIdentity: [
     {

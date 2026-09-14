@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0066198SuperSecretSecretParty = {
   story: "story-read/bunny-girl-evolution",
   position: 66,
   ownLength: 3286,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-16",
   externalIdentity: [
     {

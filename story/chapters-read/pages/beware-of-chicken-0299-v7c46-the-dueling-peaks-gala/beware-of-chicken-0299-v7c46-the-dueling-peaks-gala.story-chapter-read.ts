@@ -8,7 +8,7 @@ export const bewareOfChicken0299V7c46TheDuelingPeaksGala = {
   story: "story-read/beware-of-chicken",
   position: 299,
   ownLength: 2364,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001616TimeOfPeace = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 16,
   ownLength: 2191,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-25",
   externalIdentity: [
     {

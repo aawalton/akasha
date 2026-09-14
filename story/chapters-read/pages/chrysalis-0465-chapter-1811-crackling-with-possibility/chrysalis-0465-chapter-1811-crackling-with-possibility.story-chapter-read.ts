@@ -8,7 +8,7 @@ export const chrysalis0465Chapter1811CracklingWithPossibility = {
   story: "story-read/chrysalis",
   position: 465,
   ownLength: 1255,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-09",
   externalIdentity: [
     {

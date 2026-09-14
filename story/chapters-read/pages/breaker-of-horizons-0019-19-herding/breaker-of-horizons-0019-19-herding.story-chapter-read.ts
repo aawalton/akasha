@@ -8,7 +8,7 @@ export const breakerOfHorizons001919Herding = {
   story: "story-read/breaker-of-horizons",
   position: 19,
   ownLength: 2346,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-06",
   externalIdentity: [
     {

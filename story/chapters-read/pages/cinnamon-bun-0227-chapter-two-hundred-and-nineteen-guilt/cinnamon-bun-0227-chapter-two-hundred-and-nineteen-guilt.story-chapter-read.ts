@@ -8,7 +8,7 @@ export const cinnamonBun0227ChapterTwoHundredAndNineteenGuilt = {
   story: "story-read/cinnamon-bun",
   position: 227,
   ownLength: 2162,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-12",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0191ChapterOneHundredAndEightyFourTheVillage = {
   story: "story-read/cinnamon-bun",
   position: 191,
   ownLength: 2056,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-05",
   externalIdentity: [
     {

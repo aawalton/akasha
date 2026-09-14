@@ -8,7 +8,7 @@ export const breakerOfHorizons0173173UnexpectedExercise = {
   story: "story-read/breaker-of-horizons",
   position: 173,
   ownLength: 2193,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-27",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0196ChapterOneHundredAndEightyNineSuperSmash = {
   story: "story-read/cinnamon-bun",
   position: 196,
   ownLength: 2070,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-13",
   externalIdentity: [
     {

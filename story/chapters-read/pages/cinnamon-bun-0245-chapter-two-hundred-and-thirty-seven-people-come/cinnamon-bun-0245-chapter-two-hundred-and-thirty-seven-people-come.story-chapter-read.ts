@@ -8,7 +8,7 @@ export const cinnamonBun0245ChapterTwoHundredAndThirtySevenPeopleCome = {
   story: "story-read/cinnamon-bun",
   position: 245,
   ownLength: 1945,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-17",
   externalIdentity: [
     {

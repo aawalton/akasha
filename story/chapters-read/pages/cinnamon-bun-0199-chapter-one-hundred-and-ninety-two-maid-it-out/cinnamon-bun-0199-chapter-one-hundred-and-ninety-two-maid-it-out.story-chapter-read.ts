@@ -8,7 +8,7 @@ export const cinnamonBun0199ChapterOneHundredAndNinetyTwoMaidItOut = {
   story: "story-read/cinnamon-bun",
   position: 199,
   ownLength: 1820,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-19",
   externalIdentity: [
     {

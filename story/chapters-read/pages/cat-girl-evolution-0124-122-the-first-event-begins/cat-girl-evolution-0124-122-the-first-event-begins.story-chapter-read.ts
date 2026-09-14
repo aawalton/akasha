@@ -8,7 +8,7 @@ export const catGirlEvolution0124122TheFirstEventBegins = {
   story: "cat-girl-evolution",
   position: 124,
   ownLength: 2386,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-04",
   externalIdentity: [
     {

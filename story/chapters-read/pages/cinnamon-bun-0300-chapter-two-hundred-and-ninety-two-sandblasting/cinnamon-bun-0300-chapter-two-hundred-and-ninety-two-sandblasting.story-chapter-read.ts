@@ -8,7 +8,7 @@ export const cinnamonBun0300ChapterTwoHundredAndNinetyTwoSandblasting = {
   story: "story-read/cinnamon-bun",
   position: 300,
   ownLength: 1985,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-16",
   externalIdentity: [
     {

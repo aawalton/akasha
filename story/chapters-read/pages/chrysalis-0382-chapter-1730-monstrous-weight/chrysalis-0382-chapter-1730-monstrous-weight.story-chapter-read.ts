@@ -9,7 +9,7 @@ export const chrysalis0382Chapter1730MonstrousWeight = {
   position: 382,
   ownLength: 1208,
   ownProgress: 1208,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:56:01.480Z",
   publishedAt: "2026-02-09",
   externalIdentity: [

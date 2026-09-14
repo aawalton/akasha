@@ -8,7 +8,7 @@ export const bewareOfChicken0327V7c74DustAndRebirth = {
   story: "story-read/beware-of-chicken",
   position: 327,
   ownLength: 2733,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

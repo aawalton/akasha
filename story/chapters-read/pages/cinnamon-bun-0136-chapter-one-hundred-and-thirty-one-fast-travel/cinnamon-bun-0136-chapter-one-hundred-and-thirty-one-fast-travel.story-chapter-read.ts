@@ -8,7 +8,7 @@ export const cinnamonBun0136ChapterOneHundredAndThirtyOneFastTravel = {
   story: "story-read/cinnamon-bun",
   position: 136,
   ownLength: 2089,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-16",
   externalIdentity: [
     {

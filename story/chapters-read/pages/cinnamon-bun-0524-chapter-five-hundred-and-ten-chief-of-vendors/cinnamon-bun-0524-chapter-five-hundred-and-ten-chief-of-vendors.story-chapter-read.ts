@@ -8,7 +8,7 @@ export const cinnamonBun0524ChapterFiveHundredAndTenChiefOfVendors = {
   story: "story-read/cinnamon-bun",
   position: 524,
   ownLength: 1457,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-23",
   externalIdentity: [
     {

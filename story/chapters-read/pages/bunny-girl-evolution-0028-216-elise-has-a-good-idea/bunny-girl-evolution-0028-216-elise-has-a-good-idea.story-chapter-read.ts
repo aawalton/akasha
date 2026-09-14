@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0028216EliseHasAGoodIdea = {
   story: "story-read/bunny-girl-evolution",
   position: 28,
   ownLength: 2284,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-18",
   externalIdentity: [
     {

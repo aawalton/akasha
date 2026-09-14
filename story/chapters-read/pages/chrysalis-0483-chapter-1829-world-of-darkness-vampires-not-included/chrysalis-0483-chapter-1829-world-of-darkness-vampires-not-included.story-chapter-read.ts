@@ -8,7 +8,7 @@ export const chrysalis0483Chapter1829WorldOfDarknessVampiresNotIncluded = {
   story: "story-read/chrysalis",
   position: 483,
   ownLength: 910,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

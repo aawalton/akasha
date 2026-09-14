@@ -8,7 +8,7 @@ export const cinnamonBun0202ChapterOneHundredAndNinetyFiveBuddySystem = {
   story: "story-read/cinnamon-bun",
   position: 202,
   ownLength: 1959,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-25",
   externalIdentity: [
     {

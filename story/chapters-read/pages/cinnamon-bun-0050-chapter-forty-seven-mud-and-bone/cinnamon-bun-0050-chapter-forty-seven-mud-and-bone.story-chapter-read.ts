@@ -8,7 +8,7 @@ export const cinnamonBun0050ChapterFortySevenMudAndBone = {
   story: "story-read/cinnamon-bun",
   position: 50,
   ownLength: 1959,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons002727MakingPeace = {
   story: "story-read/breaker-of-horizons",
   position: 27,
   ownLength: 2585,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-03",
   externalIdentity: [
     {

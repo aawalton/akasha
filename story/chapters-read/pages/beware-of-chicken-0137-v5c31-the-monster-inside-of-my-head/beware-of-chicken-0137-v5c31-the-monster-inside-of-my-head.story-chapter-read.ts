@@ -9,7 +9,7 @@ export const bewareOfChicken0137V5c31TheMonsterInsideOfMyHead = {
   position: 137,
   ownLength: 2769,
   ownProgress: 2769,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:55:58.767Z",
   publishedAt: "2024-08-10",
   externalIdentity: [

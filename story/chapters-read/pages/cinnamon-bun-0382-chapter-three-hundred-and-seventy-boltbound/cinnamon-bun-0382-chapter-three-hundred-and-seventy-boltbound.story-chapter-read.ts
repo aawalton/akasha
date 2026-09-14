@@ -8,7 +8,7 @@ export const cinnamonBun0382ChapterThreeHundredAndSeventyBoltbound = {
   story: "story-read/cinnamon-bun",
   position: 382,
   ownLength: 1957,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-28",
   externalIdentity: [
     {

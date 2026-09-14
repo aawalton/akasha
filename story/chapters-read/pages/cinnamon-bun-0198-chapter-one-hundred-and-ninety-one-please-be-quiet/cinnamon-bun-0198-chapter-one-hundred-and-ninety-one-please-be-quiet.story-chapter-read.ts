@@ -8,7 +8,7 @@ export const cinnamonBun0198ChapterOneHundredAndNinetyOnePleaseBeQuiet = {
   story: "story-read/cinnamon-bun",
   position: 198,
   ownLength: 1991,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-17",
   externalIdentity: [
     {

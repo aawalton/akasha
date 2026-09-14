@@ -7,7 +7,7 @@ export const bewareOfChicken0079V4c64UpendingHeavenAndEarth1429433 = {
   story: "story-read/beware-of-chicken",
   position: 79,
   publishedAt: "2023-12-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

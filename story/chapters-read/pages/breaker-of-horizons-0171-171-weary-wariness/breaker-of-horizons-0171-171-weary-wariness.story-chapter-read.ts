@@ -8,7 +8,7 @@ export const breakerOfHorizons0171171WearyWariness = {
   story: "story-read/breaker-of-horizons",
   position: 171,
   ownLength: 2244,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-20",
   externalIdentity: [
     {

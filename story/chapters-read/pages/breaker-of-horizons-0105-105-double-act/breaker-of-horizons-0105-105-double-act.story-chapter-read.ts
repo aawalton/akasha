@@ -8,7 +8,7 @@ export const breakerOfHorizons0105105DoubleAct = {
   story: "story-read/breaker-of-horizons",
   position: 105,
   ownLength: 2358,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-03",
   externalIdentity: [
     {

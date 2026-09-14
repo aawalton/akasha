@@ -8,7 +8,7 @@ export const chrysalis0424Chapter1772BellyOfTheBeast = {
   story: "story-read/chrysalis",
   position: 424,
   ownLength: 962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-15",
   externalIdentity: [
     {

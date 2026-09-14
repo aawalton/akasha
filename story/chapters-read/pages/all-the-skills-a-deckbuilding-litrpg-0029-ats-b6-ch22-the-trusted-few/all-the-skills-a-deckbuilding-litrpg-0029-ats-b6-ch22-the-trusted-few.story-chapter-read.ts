@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0029AtsB6Ch22TheTrustedFew = {
   position: 29,
   ownLength: 3031,
   ownProgress: 3031,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-26",
   externalIdentity: [
     {

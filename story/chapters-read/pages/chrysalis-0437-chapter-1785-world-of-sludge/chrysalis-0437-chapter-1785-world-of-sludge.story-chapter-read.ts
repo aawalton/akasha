@@ -8,7 +8,7 @@ export const chrysalis0437Chapter1785WorldOfSludge = {
   story: "story-read/chrysalis",
   position: 437,
   ownLength: 874,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-04",
   externalIdentity: [
     {

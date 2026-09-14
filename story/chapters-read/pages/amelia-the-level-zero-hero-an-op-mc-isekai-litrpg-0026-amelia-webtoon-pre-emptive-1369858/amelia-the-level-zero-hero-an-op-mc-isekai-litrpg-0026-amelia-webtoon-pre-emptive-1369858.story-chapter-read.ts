@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0026AmeliaWebtoonPreEmptive
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 26,
   publishedAt: "2023-10-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

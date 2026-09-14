@@ -8,7 +8,7 @@ export const cinnamonBun0137ChapterOneHundredAndThirtyTwoHarpingOn = {
   story: "story-read/cinnamon-bun",
   position: 137,
   ownLength: 2017,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-18",
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const azarinthHealer0015AzarinthHealerBook3OutTodayOnAmazonAnd = {
   story: "story-read/azarinth-healer",
   position: 15,
   publishedAt: "2023-12-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

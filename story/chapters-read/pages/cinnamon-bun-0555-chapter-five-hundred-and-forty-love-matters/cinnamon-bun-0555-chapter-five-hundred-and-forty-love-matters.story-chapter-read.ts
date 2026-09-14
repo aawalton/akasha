@@ -8,7 +8,7 @@ export const cinnamonBun0555ChapterFiveHundredAndFortyLoveMatters = {
   story: "story-read/cinnamon-bun",
   position: 555,
   ownLength: 1606,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-11",
   externalIdentity: [
     {

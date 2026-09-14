@@ -8,7 +8,7 @@ export const breakerOfHorizons004747NewGround = {
   story: "story-read/breaker-of-horizons",
   position: 47,
   ownLength: 2892,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-12",
   externalIdentity: [
     {

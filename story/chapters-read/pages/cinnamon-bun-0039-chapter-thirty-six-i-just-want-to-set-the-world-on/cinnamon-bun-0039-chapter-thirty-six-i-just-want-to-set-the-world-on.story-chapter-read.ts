@@ -8,7 +8,7 @@ export const cinnamonBun0039ChapterThirtySixIJustWantToSetTheWorldOn = {
   story: "story-read/cinnamon-bun",
   position: 39,
   ownLength: 2052,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-08",
   externalIdentity: [
     {

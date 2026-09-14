@@ -8,7 +8,7 @@ export const cinnamonBun0395ChapterThreeHundredAndEightyThreeSiVis = {
   story: "story-read/cinnamon-bun",
   position: 395,
   ownLength: 1810,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-17",
   externalIdentity: [
     {

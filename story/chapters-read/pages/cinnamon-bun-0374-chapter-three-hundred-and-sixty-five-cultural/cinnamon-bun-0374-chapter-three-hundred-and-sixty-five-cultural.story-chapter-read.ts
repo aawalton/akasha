@@ -8,7 +8,7 @@ export const cinnamonBun0374ChapterThreeHundredAndSixtyFiveCultural = {
   story: "story-read/cinnamon-bun",
   position: 374,
   ownLength: 1961,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-01",
   externalIdentity: [
     {

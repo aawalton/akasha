@@ -8,7 +8,7 @@ export const cinnamonBun0195ChapterOneHundredAndEightyEightWalkingSongs = {
   story: "story-read/cinnamon-bun",
   position: 195,
   ownLength: 1908,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-12",
   externalIdentity: [
     {

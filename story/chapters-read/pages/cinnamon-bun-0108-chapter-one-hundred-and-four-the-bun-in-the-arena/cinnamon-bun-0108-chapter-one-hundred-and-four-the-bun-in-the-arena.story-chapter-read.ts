@@ -8,7 +8,7 @@ export const cinnamonBun0108ChapterOneHundredAndFourTheBunInTheArena = {
   story: "story-read/cinnamon-bun",
   position: 108,
   ownLength: 2045,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-06",
   externalIdentity: [
     {

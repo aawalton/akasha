@@ -8,7 +8,7 @@ export const chrysalis0401Chapter1749UnwantedDevelopments = {
   story: "story-read/chrysalis",
   position: 401,
   ownLength: 950,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-06",
   externalIdentity: [
     {

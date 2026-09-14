@@ -7,7 +7,7 @@ export const bewareOfChicken0081V4c66ExcecutionersBlade = {
   story: "story-read/beware-of-chicken",
   position: 81,
   publishedAt: "2023-12-06",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

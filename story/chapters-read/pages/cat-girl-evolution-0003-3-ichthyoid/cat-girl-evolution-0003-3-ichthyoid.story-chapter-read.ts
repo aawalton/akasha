@@ -8,7 +8,7 @@ export const catGirlEvolution00033Ichthyoid = {
   story: "cat-girl-evolution",
   position: 3,
   ownLength: 1842,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-17",
   externalIdentity: [
     {

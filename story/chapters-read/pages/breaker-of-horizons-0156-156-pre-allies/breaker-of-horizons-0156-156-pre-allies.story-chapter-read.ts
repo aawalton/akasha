@@ -8,7 +8,7 @@ export const breakerOfHorizons0156156PreAllies = {
   story: "story-read/breaker-of-horizons",
   position: 156,
   ownLength: 1956,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-29",
   externalIdentity: [
     {

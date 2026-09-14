@@ -8,7 +8,7 @@ export const cinnamonBun0091ChapterEightyEightWyvern = {
   story: "story-read/cinnamon-bun",
   position: 91,
   ownLength: 1973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-02",
   externalIdentity: [
     {

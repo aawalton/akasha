@@ -8,7 +8,7 @@ export const cinnamonBun0249ChapterTwoHundredAndFortyOneIslanding = {
   story: "story-read/cinnamon-bun",
   position: 249,
   ownLength: 1965,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-31",
   externalIdentity: [
     {

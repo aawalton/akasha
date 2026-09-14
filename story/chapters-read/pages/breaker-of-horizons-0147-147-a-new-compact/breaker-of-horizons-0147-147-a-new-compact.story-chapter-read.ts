@@ -8,7 +8,7 @@ export const breakerOfHorizons0147147ANewCompact = {
   story: "story-read/breaker-of-horizons",
   position: 147,
   ownLength: 2077,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-27",
   externalIdentity: [
     {

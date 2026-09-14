@@ -8,7 +8,7 @@ export const chrysalis0472Chapter1818TungstantSBadDay = {
   story: "story-read/chrysalis",
   position: 472,
   ownLength: 1100,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-18",
   externalIdentity: [
     {

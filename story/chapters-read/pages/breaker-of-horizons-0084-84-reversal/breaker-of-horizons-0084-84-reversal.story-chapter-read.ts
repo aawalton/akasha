@@ -8,7 +8,7 @@ export const breakerOfHorizons008484Reversal = {
   story: "story-read/breaker-of-horizons",
   position: 84,
   ownLength: 1948,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-18",
   externalIdentity: [
     {

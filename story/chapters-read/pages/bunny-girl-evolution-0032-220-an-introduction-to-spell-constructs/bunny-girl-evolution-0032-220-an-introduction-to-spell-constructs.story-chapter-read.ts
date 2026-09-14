@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0032220AnIntroductionToSpellConstructs = {
   story: "story-read/bunny-girl-evolution",
   position: 32,
   ownLength: 2777,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-01",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0096ChapterNinetyThreeBuzzyBeeBoogie = {
   story: "story-read/cinnamon-bun",
   position: 96,
   ownLength: 1958,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-14",
   externalIdentity: [
     {

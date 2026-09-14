@@ -8,7 +8,7 @@ export const cinnamonBun0248ChapterTwoHundredAndFortyCryHavocAndLet = {
   story: "story-read/cinnamon-bun",
   position: 248,
   ownLength: 1961,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-26",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0034168SkillsAndSoulMeditation = {
   position: 34,
   ownLength: 2592,
   ownProgress: 2592,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:03:45.486Z",
   publishedAt: "2026-01-31",
   externalIdentity: [

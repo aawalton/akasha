@@ -8,7 +8,7 @@ export const cinnamonBun0145ChapterOneHundredAndFortyRepetitionIsThe = {
   story: "story-read/cinnamon-bun",
   position: 145,
   ownLength: 1906,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-05",
   externalIdentity: [
     {

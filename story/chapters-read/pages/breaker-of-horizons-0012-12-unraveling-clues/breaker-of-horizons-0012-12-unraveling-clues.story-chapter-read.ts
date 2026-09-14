@@ -8,7 +8,7 @@ export const breakerOfHorizons001212UnravelingClues = {
   story: "story-read/breaker-of-horizons",
   position: 12,
   ownLength: 1955,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-11",
   externalIdentity: [
     {

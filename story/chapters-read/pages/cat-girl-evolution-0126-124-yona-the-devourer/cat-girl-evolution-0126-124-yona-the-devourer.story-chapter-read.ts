@@ -8,7 +8,7 @@ export const catGirlEvolution0126124YonaTheDevourer = {
   story: "cat-girl-evolution",
   position: 126,
   ownLength: 2656,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

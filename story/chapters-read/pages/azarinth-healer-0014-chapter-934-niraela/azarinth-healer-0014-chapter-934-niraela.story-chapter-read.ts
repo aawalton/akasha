@@ -8,7 +8,7 @@ export const azarinthHealer0014Chapter934Niraela = {
   story: "story-read/azarinth-healer",
   position: 14,
   ownLength: 3009,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-11",
   externalIdentity: [
     {

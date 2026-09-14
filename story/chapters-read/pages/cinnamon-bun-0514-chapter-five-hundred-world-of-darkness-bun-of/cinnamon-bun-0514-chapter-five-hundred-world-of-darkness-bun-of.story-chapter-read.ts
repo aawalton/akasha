@@ -8,7 +8,7 @@ export const cinnamonBun0514ChapterFiveHundredWorldOfDarknessBunOf = {
   story: "story-read/cinnamon-bun",
   position: 514,
   ownLength: 3273,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0349ChapterThreeHundredAndFortyOneALittleBird = {
   story: "story-read/cinnamon-bun",
   position: 349,
   ownLength: 2083,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-08",
   externalIdentity: [
     {

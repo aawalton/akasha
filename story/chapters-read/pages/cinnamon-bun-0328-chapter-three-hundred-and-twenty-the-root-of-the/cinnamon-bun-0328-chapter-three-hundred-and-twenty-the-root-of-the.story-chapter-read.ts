@@ -8,7 +8,7 @@ export const cinnamonBun0328ChapterThreeHundredAndTwentyTheRootOfThe = {
   story: "story-read/cinnamon-bun",
   position: 328,
   ownLength: 2071,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-21",
   externalIdentity: [
     {

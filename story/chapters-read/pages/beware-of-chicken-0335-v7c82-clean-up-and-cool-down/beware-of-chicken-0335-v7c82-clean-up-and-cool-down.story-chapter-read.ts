@@ -8,7 +8,7 @@ export const bewareOfChicken0335V7c82CleanUpAndCoolDown = {
   story: "story-read/beware-of-chicken",
   position: 335,
   ownLength: 1855,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-20",
   externalIdentity: [
     {

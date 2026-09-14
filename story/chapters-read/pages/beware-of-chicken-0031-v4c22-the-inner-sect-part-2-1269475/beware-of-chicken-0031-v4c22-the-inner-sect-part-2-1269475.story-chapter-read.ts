@@ -7,7 +7,7 @@ export const bewareOfChicken0031V4c22TheInnerSectPart21269475 = {
   story: "story-read/beware-of-chicken",
   position: 31,
   publishedAt: "2023-07-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

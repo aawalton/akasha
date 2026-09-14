@@ -8,7 +8,7 @@ export const cinnamonBun0190ChapterOneHundredAndEightyThreeHopAlongTo = {
   story: "story-read/cinnamon-bun",
   position: 190,
   ownLength: 1971,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-03",
   externalIdentity: [
     {

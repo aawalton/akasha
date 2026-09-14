@@ -8,7 +8,7 @@ export const cinnamonBun0431ChapterFourHundredAndSeventeenRaceAgainst = {
   story: "story-read/cinnamon-bun",
   position: 431,
   ownLength: 2063,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-13",
   externalIdentity: [
     {

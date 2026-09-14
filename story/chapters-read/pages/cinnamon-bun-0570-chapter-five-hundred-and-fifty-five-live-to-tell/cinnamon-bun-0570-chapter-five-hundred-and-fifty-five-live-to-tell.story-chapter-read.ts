@@ -8,7 +8,7 @@ export const cinnamonBun0570ChapterFiveHundredAndFiftyFiveLiveToTell = {
   story: "story-read/cinnamon-bun",
   position: 570,
   ownLength: 1585,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-25",
   externalIdentity: [
     {

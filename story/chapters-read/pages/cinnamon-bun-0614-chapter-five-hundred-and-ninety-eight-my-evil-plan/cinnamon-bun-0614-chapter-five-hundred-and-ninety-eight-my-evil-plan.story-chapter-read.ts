@@ -8,7 +8,7 @@ export const cinnamonBun0614ChapterFiveHundredAndNinetyEightMyEvilPlan = {
   story: "story-read/cinnamon-bun",
   position: 614,
   ownLength: 2038,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-12",
   externalIdentity: [
     {

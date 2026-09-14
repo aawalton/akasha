@@ -8,7 +8,7 @@ export const chrysalis0512Chapter1857GunsAkimbo = {
   story: "story-read/chrysalis",
   position: 512,
   ownLength: 881,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-02",
   externalIdentity: [
     {

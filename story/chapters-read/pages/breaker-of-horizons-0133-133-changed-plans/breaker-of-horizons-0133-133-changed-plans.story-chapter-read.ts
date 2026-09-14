@@ -8,7 +8,7 @@ export const breakerOfHorizons0133133ChangedPlans = {
   story: "story-read/breaker-of-horizons",
   position: 133,
   ownLength: 2096,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-10",
   externalIdentity: [
     {

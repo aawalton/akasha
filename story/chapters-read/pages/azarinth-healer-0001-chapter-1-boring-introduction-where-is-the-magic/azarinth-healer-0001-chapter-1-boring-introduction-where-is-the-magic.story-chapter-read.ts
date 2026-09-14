@@ -8,7 +8,7 @@ export const azarinthHealer0001Chapter1BoringIntroductionWhereIsTheMagic = {
   story: "story-read/azarinth-healer",
   position: 1,
   ownLength: 2487,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-02",
   externalIdentity: [
     {

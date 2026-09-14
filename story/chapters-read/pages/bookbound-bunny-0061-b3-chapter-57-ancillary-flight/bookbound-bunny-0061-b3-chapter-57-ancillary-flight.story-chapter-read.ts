@@ -8,7 +8,7 @@ export const bookboundBunny0061B3Chapter57AncillaryFlight = {
   story: "bookbound-bunny",
   position: 61,
   ownLength: 2148,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-23",
   externalIdentity: [
     {

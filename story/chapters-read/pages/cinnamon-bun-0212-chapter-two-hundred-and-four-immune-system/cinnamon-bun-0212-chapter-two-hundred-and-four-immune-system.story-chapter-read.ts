@@ -8,7 +8,7 @@ export const cinnamonBun0212ChapterTwoHundredAndFourImmuneSystem = {
   story: "story-read/cinnamon-bun",
   position: 212,
   ownLength: 1956,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-07",
   externalIdentity: [
     {

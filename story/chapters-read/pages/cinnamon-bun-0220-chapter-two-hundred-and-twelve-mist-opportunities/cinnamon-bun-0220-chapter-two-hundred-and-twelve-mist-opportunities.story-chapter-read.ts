@@ -8,7 +8,7 @@ export const cinnamonBun0220ChapterTwoHundredAndTwelveMistOpportunities = {
   story: "story-read/cinnamon-bun",
   position: 220,
   ownLength: 1960,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-25",
   externalIdentity: [
     {

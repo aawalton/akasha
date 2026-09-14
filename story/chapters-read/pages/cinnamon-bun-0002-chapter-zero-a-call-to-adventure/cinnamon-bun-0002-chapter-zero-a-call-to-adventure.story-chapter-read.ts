@@ -8,7 +8,7 @@ export const cinnamonBun0002ChapterZeroACallToAdventure = {
   story: "story-read/cinnamon-bun",
   position: 2,
   ownLength: 2179,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-05",
   externalIdentity: [
     {

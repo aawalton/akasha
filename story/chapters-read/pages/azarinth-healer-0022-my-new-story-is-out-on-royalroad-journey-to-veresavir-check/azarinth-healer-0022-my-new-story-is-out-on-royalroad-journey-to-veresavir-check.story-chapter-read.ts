@@ -8,7 +8,7 @@ export const azarinthHealer0022MyNewStoryIsOutOnRoyalroadJourneyToVeresavirCheck
   story: "story-read/azarinth-healer",
   position: 22,
   ownLength: 131,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-25",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0206ChapterOneHundredAndNinetyNineAshesAshes = {
   story: "story-read/cinnamon-bun",
   position: 206,
   ownLength: 1838,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-28",
   externalIdentity: [
     {

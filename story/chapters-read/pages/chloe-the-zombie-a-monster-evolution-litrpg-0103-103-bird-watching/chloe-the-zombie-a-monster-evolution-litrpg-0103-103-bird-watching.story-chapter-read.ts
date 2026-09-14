@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0103103BirdWatching = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 103,
   ownLength: 1998,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-21",
   externalIdentity: [
     {

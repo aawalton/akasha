@@ -8,7 +8,7 @@ export const cinnamonBun0363ChapterThreeHundredAndFiftyFivePrisonerSwap = {
   story: "story-read/cinnamon-bun",
   position: 363,
   ownLength: 2013,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-27",
   externalIdentity: [
     {

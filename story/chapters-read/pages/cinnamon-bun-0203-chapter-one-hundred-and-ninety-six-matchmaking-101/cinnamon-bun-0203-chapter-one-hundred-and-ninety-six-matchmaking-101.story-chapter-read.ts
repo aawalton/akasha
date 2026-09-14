@@ -8,7 +8,7 @@ export const cinnamonBun0203ChapterOneHundredAndNinetySixMatchmaking101 = {
   story: "story-read/cinnamon-bun",
   position: 203,
   ownLength: 1931,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-26",
   externalIdentity: [
     {

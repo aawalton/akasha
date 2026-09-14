@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0079Book5Chapter22FacingALeg
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 79,
   ownLength: 3825,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-05",
   externalIdentity: [
     {

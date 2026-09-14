@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0086Book5Chapter29TheProgres
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 86,
   ownLength: 4651,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-10",
   externalIdentity: [
     {

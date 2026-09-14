@@ -8,7 +8,7 @@ export const cinnamonBun0207ChapterTwoHundredStrongholdStranglehold = {
   story: "story-read/cinnamon-bun",
   position: 207,
   ownLength: 1980,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-29",
   externalIdentity: [
     {

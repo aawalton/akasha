@@ -8,7 +8,7 @@ export const catGirlEvolution0127125AbbysDungeon = {
   story: "cat-girl-evolution",
   position: 127,
   ownLength: 2193,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-11",
   externalIdentity: [
     {

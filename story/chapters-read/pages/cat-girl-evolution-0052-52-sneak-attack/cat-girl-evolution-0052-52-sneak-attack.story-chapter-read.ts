@@ -8,7 +8,7 @@ export const catGirlEvolution005252SneakAttack = {
   story: "cat-girl-evolution",
   position: 52,
   ownLength: 2575,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0205ChapterOneHundredAndNinetyEightEverybunyWas = {
   story: "story-read/cinnamon-bun",
   position: 205,
   ownLength: 1943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-27",
   externalIdentity: [
     {

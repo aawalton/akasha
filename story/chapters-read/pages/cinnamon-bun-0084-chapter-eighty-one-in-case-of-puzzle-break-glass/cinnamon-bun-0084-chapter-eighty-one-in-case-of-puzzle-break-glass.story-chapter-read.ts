@@ -8,7 +8,7 @@ export const cinnamonBun0084ChapterEightyOneInCaseOfPuzzleBreakGlass = {
   story: "story-read/cinnamon-bun",
   position: 84,
   ownLength: 1886,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-21",
   externalIdentity: [
     {

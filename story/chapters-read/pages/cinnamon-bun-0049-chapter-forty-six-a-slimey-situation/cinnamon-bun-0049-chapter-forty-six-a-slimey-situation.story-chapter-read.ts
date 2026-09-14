@@ -8,7 +8,7 @@ export const cinnamonBun0049ChapterFortySixASlimeySituation = {
   story: "story-read/cinnamon-bun",
   position: 49,
   ownLength: 2044,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-22",
   externalIdentity: [
     {

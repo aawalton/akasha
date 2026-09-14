@@ -8,7 +8,7 @@ export const cinnamonBun0596ChapterFiveHundredAndEightyBelowTheHorizon = {
   story: "story-read/cinnamon-bun",
   position: 596,
   ownLength: 1665,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-08",
   externalIdentity: [
     {

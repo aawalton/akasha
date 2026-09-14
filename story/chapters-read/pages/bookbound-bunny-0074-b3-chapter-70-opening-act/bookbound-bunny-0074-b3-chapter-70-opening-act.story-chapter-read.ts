@@ -8,7 +8,7 @@ export const bookboundBunny0074B3Chapter70OpeningAct = {
   story: "bookbound-bunny",
   position: 74,
   ownLength: 2344,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-25",
   externalIdentity: [
     {

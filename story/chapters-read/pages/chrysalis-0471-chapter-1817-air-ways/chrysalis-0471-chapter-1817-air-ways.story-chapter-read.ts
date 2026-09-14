@@ -8,7 +8,7 @@ export const chrysalis0471Chapter1817AirWays = {
   story: "story-read/chrysalis",
   position: 471,
   ownLength: 1172,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0414Chapter1762BeAtPeace = {
   story: "story-read/chrysalis",
   position: 414,
   ownLength: 969,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-01",
   externalIdentity: [
     {

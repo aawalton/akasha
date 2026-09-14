@@ -8,7 +8,7 @@ export const chrysalis0498Chapter1843OpenEyes = {
   story: "story-read/chrysalis",
   position: 498,
   ownLength: 944,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-13",
   externalIdentity: [
     {

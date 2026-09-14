@@ -9,7 +9,7 @@ export const azarinthHealer0024AnnouncingNewHardcoverForBook1AvailableForPreOrde
   story: "story-read/azarinth-healer",
   position: 24,
   ownLength: 84,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-13",
   externalIdentity: [
     {

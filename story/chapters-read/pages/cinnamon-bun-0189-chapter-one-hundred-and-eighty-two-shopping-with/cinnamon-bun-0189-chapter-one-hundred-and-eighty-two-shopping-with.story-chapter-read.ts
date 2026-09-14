@@ -8,7 +8,7 @@ export const cinnamonBun0189ChapterOneHundredAndEightyTwoShoppingWith = {
   story: "story-read/cinnamon-bun",
   position: 189,
   ownLength: 2032,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0388ChapterThreeHundredAndSeventySixDoorbuster = {
   story: "story-read/cinnamon-bun",
   position: 388,
   ownLength: 2056,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-17",
   externalIdentity: [
     {

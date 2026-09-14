@@ -8,7 +8,7 @@ export const cinnamonBun0034SidestoryAnnouncementOakATreesQuest = {
   story: "story-read/cinnamon-bun",
   position: 34,
   ownLength: 168,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-01",
   externalIdentity: [
     {

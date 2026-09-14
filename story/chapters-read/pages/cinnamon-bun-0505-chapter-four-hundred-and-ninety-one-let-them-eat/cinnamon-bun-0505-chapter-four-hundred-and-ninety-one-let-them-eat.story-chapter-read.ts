@@ -8,7 +8,7 @@ export const cinnamonBun0505ChapterFourHundredAndNinetyOneLetThemEat = {
   story: "story-read/cinnamon-bun",
   position: 505,
   ownLength: 1507,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-29",
   externalIdentity: [
     {

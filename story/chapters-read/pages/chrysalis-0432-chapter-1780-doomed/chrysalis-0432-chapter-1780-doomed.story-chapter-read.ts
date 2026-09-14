@@ -8,7 +8,7 @@ export const chrysalis0432Chapter1780Doomed = {
   story: "story-read/chrysalis",
   position: 432,
   ownLength: 874,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-27",
   externalIdentity: [
     {

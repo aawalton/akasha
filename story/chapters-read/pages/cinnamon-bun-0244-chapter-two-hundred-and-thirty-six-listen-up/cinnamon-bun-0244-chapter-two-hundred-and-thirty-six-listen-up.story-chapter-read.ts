@@ -8,7 +8,7 @@ export const cinnamonBun0244ChapterTwoHundredAndThirtySixListenUp = {
   story: "story-read/cinnamon-bun",
   position: 244,
   ownLength: 2023,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-12",
   externalIdentity: [
     {

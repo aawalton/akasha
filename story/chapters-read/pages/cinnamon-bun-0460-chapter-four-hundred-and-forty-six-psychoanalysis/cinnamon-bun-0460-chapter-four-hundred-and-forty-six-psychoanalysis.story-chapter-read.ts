@@ -8,7 +8,7 @@ export const cinnamonBun0460ChapterFourHundredAndFortySixPsychoanalysis = {
   story: "story-read/cinnamon-bun",
   position: 460,
   ownLength: 1654,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-11-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0115ChapterOneHundredAndTenLosingIsFun = {
   story: "story-read/cinnamon-bun",
   position: 115,
   ownLength: 2017,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-13",
   externalIdentity: [
     {

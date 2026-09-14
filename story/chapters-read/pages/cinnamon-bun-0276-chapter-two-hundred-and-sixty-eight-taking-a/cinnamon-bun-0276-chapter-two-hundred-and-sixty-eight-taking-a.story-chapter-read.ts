@@ -8,7 +8,7 @@ export const cinnamonBun0276ChapterTwoHundredAndSixtyEightTakingA = {
   story: "story-read/cinnamon-bun",
   position: 276,
   ownLength: 2007,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-23",
   externalIdentity: [
     {

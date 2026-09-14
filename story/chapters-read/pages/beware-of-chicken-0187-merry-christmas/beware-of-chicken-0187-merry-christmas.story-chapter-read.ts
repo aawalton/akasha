@@ -9,7 +9,7 @@ export const bewareOfChicken0187MerryChristmas = {
   position: 187,
   ownLength: 88,
   ownProgress: 88,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:57:43.638Z",
   publishedAt: "2024-12-24",
   externalIdentity: [

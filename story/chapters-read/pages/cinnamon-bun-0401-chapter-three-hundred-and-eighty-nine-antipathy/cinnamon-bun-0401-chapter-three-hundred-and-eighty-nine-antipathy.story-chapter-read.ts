@@ -8,7 +8,7 @@ export const cinnamonBun0401ChapterThreeHundredAndEightyNineAntipathy = {
   story: "story-read/cinnamon-bun",
   position: 401,
   ownLength: 2051,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-10",
   externalIdentity: [
     {

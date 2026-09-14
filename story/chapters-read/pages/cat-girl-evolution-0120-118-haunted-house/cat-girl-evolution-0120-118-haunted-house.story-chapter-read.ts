@@ -8,7 +8,7 @@ export const catGirlEvolution0120118HauntedHouse = {
   story: "cat-girl-evolution",
   position: 120,
   ownLength: 2250,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-24",
   externalIdentity: [
     {

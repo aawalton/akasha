@@ -8,7 +8,7 @@ export const cinnamonBun0548ChapterFiveHundredAndThirtyThreeTheScenic = {
   story: "story-read/cinnamon-bun",
   position: 548,
   ownLength: 1531,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-16",
   externalIdentity: [
     {

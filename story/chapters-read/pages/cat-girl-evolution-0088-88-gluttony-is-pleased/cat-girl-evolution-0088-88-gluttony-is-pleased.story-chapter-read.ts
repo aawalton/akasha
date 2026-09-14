@@ -8,7 +8,7 @@ export const catGirlEvolution008888GluttonyIsPleased = {
   story: "cat-girl-evolution",
   position: 88,
   ownLength: 2785,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-13",
   externalIdentity: [
     {

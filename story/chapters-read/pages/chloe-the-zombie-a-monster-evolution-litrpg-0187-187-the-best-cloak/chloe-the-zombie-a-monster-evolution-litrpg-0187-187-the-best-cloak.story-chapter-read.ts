@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0187187TheBestCloak = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 187,
   ownLength: 2157,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-10",
   externalIdentity: [
     {

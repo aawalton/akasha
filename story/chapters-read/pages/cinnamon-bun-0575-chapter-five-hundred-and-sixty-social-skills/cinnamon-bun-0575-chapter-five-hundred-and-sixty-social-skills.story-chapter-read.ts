@@ -8,7 +8,7 @@ export const cinnamonBun0575ChapterFiveHundredAndSixtySocialSkills = {
   story: "story-read/cinnamon-bun",
   position: 575,
   ownLength: 1325,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0407Chapter1755RememberMe = {
   story: "story-read/chrysalis",
   position: 407,
   ownLength: 1027,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0433Chapter1781BadToWorse = {
   story: "story-read/chrysalis",
   position: 433,
   ownLength: 1032,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-28",
   externalIdentity: [
     {

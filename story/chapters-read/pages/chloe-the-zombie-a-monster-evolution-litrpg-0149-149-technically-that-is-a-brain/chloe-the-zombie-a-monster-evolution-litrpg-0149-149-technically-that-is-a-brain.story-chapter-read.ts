@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0149149TechnicallyThatIsABrain
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 149,
   ownLength: 2019,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0476Chapter1822RallyTheTroops = {
   story: "story-read/chrysalis",
   position: 476,
   ownLength: 958,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

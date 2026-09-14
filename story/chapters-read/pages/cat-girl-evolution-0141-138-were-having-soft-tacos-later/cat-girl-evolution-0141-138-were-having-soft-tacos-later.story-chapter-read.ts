@@ -8,7 +8,7 @@ export const catGirlEvolution0141138WereHavingSoftTacosLater = {
   story: "cat-girl-evolution",
   position: 141,
   ownLength: 2873,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-15",
   externalIdentity: [
     {

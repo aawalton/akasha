@@ -8,7 +8,7 @@ export const catGirlEvolution0111109TheSecondFloor = {
   story: "cat-girl-evolution",
   position: 111,
   ownLength: 2700,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-03",
   externalIdentity: [
     {

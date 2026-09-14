@@ -8,7 +8,7 @@ export const breakerOfHorizons0161161Greenhorn = {
   story: "story-read/breaker-of-horizons",
   position: 161,
   ownLength: 2154,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-12-16",
   externalIdentity: [
     {

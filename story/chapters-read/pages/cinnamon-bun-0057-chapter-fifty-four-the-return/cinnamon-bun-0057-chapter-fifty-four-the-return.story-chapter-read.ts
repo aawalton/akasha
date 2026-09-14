@@ -8,7 +8,7 @@ export const cinnamonBun0057ChapterFiftyFourTheReturn = {
   story: "story-read/cinnamon-bun",
   position: 57,
   ownLength: 2003,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0443Chapter1791ChangeOfEnvironment = {
   story: "story-read/chrysalis",
   position: 443,
   ownLength: 878,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-12",
   externalIdentity: [
     {

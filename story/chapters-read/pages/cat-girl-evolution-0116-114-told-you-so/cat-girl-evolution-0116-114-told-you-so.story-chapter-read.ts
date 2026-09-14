@@ -8,7 +8,7 @@ export const catGirlEvolution0116114ToldYouSo = {
   story: "cat-girl-evolution",
   position: 116,
   ownLength: 2378,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-15",
   externalIdentity: [
     {

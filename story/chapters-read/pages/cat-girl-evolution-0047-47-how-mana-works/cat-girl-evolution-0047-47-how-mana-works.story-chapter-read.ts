@@ -8,7 +8,7 @@ export const catGirlEvolution004747HowManaWorks = {
   story: "cat-girl-evolution",
   position: 47,
   ownLength: 2878,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-09",
   externalIdentity: [
     {

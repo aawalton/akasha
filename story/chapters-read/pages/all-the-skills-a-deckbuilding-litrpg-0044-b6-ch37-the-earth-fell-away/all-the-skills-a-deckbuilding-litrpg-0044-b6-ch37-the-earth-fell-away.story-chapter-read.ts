@@ -8,7 +8,7 @@ export const allTheSkillsADeckbuildingLitrpg0044B6Ch37TheEarthFellAway = {
   story: "all-the-skills-a-deckbuilding-litrpg",
   position: 44,
   ownLength: 2080,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-24",
   externalIdentity: [
     {

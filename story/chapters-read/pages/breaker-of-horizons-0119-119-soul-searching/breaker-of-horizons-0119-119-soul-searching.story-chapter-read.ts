@@ -8,7 +8,7 @@ export const breakerOfHorizons0119119SoulSearching = {
   story: "story-read/breaker-of-horizons",
   position: 119,
   ownLength: 2140,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-21",
   externalIdentity: [
     {

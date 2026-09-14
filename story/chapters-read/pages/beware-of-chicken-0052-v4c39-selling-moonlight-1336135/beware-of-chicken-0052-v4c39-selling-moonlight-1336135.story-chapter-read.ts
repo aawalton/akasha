@@ -7,7 +7,7 @@ export const bewareOfChicken0052V4c39SellingMoonlight1336135 = {
   story: "story-read/beware-of-chicken",
   position: 52,
   publishedAt: "2023-09-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

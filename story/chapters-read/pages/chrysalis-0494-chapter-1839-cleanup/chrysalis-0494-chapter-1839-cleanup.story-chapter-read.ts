@@ -8,7 +8,7 @@ export const chrysalis0494Chapter1839Cleanup = {
   story: "story-read/chrysalis",
   position: 494,
   ownLength: 935,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-07",
   externalIdentity: [
     {

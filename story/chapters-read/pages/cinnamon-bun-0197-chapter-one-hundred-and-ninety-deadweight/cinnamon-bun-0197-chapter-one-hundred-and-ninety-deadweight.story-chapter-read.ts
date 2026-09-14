@@ -8,7 +8,7 @@ export const cinnamonBun0197ChapterOneHundredAndNinetyDeadweight = {
   story: "story-read/cinnamon-bun",
   position: 197,
   ownLength: 2047,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-14",
   externalIdentity: [
     {

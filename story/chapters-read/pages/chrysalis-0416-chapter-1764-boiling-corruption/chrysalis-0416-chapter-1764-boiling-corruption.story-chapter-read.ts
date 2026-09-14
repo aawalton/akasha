@@ -8,7 +8,7 @@ export const chrysalis0416Chapter1764BoilingCorruption = {
   story: "story-read/chrysalis",
   position: 416,
   ownLength: 961,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-03",
   externalIdentity: [
     {

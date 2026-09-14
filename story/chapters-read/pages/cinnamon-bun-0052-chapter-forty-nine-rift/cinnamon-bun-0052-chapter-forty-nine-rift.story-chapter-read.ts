@@ -8,7 +8,7 @@ export const cinnamonBun0052ChapterFortyNineRift = {
   story: "story-read/cinnamon-bun",
   position: 52,
   ownLength: 2023,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-25",
   externalIdentity: [
     {

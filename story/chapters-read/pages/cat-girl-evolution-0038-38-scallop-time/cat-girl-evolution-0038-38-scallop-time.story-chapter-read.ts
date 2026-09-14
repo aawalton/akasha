@@ -8,7 +8,7 @@ export const catGirlEvolution003838ScallopTime = {
   story: "cat-girl-evolution",
   position: 38,
   ownLength: 2355,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-19",
   externalIdentity: [
     {

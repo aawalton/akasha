@@ -8,7 +8,7 @@ export const cinnamonBun0408ChapterThreeHundredAndNinetyFiveCuttingEdge = {
   story: "story-read/cinnamon-bun",
   position: 408,
   ownLength: 1996,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0362ChapterThreeHundredAndFiftyFourPiracysA = {
   story: "story-read/cinnamon-bun",
   position: 362,
   ownLength: 2121,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-25",
   externalIdentity: [
     {

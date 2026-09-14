@@ -8,7 +8,7 @@ export const catGirlEvolution001717Lsml = {
   story: "cat-girl-evolution",
   position: 17,
   ownLength: 2259,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-30",
   externalIdentity: [
     {

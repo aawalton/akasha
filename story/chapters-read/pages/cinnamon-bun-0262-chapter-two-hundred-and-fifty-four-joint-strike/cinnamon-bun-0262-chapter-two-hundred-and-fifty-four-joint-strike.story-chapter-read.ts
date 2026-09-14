@@ -8,7 +8,7 @@ export const cinnamonBun0262ChapterTwoHundredAndFiftyFourJointStrike = {
   story: "story-read/cinnamon-bun",
   position: 262,
   ownLength: 1899,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-12",
   externalIdentity: [
     {

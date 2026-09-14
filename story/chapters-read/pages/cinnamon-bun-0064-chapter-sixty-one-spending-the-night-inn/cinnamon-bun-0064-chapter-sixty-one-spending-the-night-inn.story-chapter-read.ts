@@ -8,7 +8,7 @@ export const cinnamonBun0064ChapterSixtyOneSpendingTheNightInn = {
   story: "story-read/cinnamon-bun",
   position: 64,
   ownLength: 2168,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-20",
   externalIdentity: [
     {

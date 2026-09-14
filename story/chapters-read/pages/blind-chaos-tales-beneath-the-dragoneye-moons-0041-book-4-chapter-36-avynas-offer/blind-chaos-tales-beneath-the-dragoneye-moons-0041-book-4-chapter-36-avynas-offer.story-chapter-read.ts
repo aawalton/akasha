@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0041Book4Chapter36AvynasOffe
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 41,
   ownLength: 3693,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-19",
   externalIdentity: [
     {

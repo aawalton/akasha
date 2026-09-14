@@ -8,7 +8,7 @@ export const chrysalis0503Chapter1848Seawall = {
   story: "story-read/chrysalis",
   position: 503,
   ownLength: 1021,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-21",
   externalIdentity: [
     {

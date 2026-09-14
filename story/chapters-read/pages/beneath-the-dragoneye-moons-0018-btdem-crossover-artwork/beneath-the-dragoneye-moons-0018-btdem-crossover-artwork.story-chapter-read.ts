@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0018BtdemCrossoverArtwork = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 18,
   ownLength: 258,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-15",
   externalIdentity: [
     {

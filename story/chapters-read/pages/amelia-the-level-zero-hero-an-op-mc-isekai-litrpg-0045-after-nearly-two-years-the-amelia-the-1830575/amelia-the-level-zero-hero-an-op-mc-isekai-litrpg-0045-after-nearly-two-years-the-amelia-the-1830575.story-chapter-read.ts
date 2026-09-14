@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0045AfterNearlyTwoYearsTheA
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 45,
   publishedAt: "2024-10-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

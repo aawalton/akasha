@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0049181TheDwarvesAreFine = {
   story: "story-read/bunny-girl-evolution",
   position: 49,
   ownLength: 4170,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-22",
   externalIdentity: [
     {

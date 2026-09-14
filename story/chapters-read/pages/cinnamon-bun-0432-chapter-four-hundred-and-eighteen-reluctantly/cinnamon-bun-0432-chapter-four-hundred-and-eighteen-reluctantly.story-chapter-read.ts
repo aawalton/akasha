@@ -8,7 +8,7 @@ export const cinnamonBun0432ChapterFourHundredAndEighteenReluctantly = {
   story: "story-read/cinnamon-bun",
   position: 432,
   ownLength: 2020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-18",
   externalIdentity: [
     {

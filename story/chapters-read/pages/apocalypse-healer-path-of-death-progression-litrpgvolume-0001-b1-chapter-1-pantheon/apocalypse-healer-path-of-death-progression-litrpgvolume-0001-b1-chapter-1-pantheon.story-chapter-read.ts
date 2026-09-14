@@ -8,7 +8,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0001B1Chapter1Pan
   story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 1,
   ownLength: 2301,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-23",
   externalIdentity: [
     {

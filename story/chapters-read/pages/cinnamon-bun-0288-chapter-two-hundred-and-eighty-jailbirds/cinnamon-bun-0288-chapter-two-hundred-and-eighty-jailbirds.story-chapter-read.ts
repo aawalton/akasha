@@ -8,7 +8,7 @@ export const cinnamonBun0288ChapterTwoHundredAndEightyJailbirds = {
   story: "story-read/cinnamon-bun",
   position: 288,
   ownLength: 1923,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-01",
   externalIdentity: [
     {

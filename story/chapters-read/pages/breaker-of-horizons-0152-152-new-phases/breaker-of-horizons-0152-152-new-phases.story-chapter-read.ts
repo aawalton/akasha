@@ -8,7 +8,7 @@ export const breakerOfHorizons0152152NewPhases = {
   story: "story-read/breaker-of-horizons",
   position: 152,
   ownLength: 2002,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons00044AdvancedGlyphs = {
   story: "story-read/breaker-of-horizons",
   position: 4,
   ownLength: 3202,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-14",
   externalIdentity: [
     {

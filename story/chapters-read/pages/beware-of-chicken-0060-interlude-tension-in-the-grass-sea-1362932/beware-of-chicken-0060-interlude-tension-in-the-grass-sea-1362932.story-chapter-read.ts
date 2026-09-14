@@ -7,7 +7,7 @@ export const bewareOfChicken0060InterludeTensionInTheGrassSea1362932 = {
   story: "story-read/beware-of-chicken",
   position: 60,
   publishedAt: "2023-10-03",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

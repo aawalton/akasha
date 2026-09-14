@@ -8,7 +8,7 @@ export const cinnamonBun0296ChapterTwoHundredAndEightyEightYouveGotta = {
   story: "story-read/cinnamon-bun",
   position: 296,
   ownLength: 1823,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-01",
   externalIdentity: [
     {

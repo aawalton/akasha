@@ -8,7 +8,7 @@ export const chrysalis0484Whoops = {
   story: "story-read/chrysalis",
   position: 484,
   ownLength: 65,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-16",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0001MapsAndArt = {
   story: "story-read/cinnamon-bun",
   position: 1,
   ownLength: 88,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-28",
   externalIdentity: [
     {

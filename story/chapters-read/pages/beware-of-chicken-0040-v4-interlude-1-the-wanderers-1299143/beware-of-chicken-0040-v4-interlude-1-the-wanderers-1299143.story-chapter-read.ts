@@ -7,7 +7,7 @@ export const bewareOfChicken0040V4Interlude1TheWanderers1299143 = {
   story: "story-read/beware-of-chicken",
   position: 40,
   publishedAt: "2023-08-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

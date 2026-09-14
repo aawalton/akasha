@@ -8,7 +8,7 @@ export const cinnamonBun0185TheFriendshipCircleOfVeryNiceGirlsPartV = {
   story: "story-read/cinnamon-bun",
   position: 185,
   ownLength: 1697,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-01",
   externalIdentity: [
     {

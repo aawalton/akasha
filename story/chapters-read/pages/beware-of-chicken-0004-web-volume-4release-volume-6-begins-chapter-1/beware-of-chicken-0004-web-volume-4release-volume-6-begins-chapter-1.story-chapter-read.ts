@@ -7,7 +7,7 @@ export const bewareOfChicken0004WebVolume4releaseVolume6BeginsChapter1 = {
   story: "story-read/beware-of-chicken",
   position: 4,
   publishedAt: "2023-04-17",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

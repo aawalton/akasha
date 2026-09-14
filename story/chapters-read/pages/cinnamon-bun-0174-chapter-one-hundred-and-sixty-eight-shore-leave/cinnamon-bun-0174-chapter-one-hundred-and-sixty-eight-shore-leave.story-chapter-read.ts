@@ -8,7 +8,7 @@ export const cinnamonBun0174ChapterOneHundredAndSixtyEightShoreLeave = {
   story: "story-read/cinnamon-bun",
   position: 174,
   ownLength: 1967,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-10",
   externalIdentity: [
     {

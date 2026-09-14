@@ -8,7 +8,7 @@ export const cinnamonBun0215ChapterTwoHundredAndSevenReciprocation = {
   story: "story-read/cinnamon-bun",
   position: 215,
   ownLength: 2099,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-14",
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const bewareOfChicken0042V4c32TheScribesReturnP1 = {
   story: "story-read/beware-of-chicken",
   position: 42,
   publishedAt: "2023-08-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

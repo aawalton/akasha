@@ -8,7 +8,7 @@ export const cinnamonBun0533ChapterFiveHundredAndEighteenPostIDos = {
   story: "story-read/cinnamon-bun",
   position: 533,
   ownLength: 1499,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-18",
   externalIdentity: [
     {

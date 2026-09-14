@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002121Ambushed = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 21,
   ownLength: 1090,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-31",
   externalIdentity: [
     {

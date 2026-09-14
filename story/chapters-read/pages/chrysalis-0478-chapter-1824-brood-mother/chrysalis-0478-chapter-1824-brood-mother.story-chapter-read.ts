@@ -8,7 +8,7 @@ export const chrysalis0478Chapter1824BroodMother = {
   story: "story-read/chrysalis",
   position: 478,
   ownLength: 991,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-26",
   externalIdentity: [
     {

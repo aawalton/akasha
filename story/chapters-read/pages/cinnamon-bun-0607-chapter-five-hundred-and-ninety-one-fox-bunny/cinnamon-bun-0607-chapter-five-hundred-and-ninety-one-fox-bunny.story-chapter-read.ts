@@ -8,7 +8,7 @@ export const cinnamonBun0607ChapterFiveHundredAndNinetyOneFoxBunny = {
   story: "story-read/cinnamon-bun",
   position: 607,
   ownLength: 1524,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

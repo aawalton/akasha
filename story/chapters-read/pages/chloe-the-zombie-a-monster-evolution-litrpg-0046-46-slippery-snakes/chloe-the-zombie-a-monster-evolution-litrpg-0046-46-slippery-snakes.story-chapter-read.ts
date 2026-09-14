@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004646SlipperySnakes = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 46,
   ownLength: 3117,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-06",
   externalIdentity: [
     {

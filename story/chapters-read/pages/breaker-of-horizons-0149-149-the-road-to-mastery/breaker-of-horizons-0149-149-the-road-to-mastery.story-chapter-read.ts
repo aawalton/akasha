@@ -8,7 +8,7 @@ export const breakerOfHorizons0149149TheRoadToMastery = {
   story: "story-read/breaker-of-horizons",
   position: 149,
   ownLength: 2241,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-04",
   externalIdentity: [
     {

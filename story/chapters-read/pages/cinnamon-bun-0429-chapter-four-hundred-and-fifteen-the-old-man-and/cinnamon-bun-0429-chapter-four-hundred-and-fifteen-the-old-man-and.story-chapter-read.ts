@@ -8,7 +8,7 @@ export const cinnamonBun0429ChapterFourHundredAndFifteenTheOldManAnd = {
   story: "story-read/cinnamon-bun",
   position: 429,
   ownLength: 1953,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-07",
   externalIdentity: [
     {

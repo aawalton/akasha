@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0027B6Ch20RowantreeEstate = {
   position: 27,
   ownLength: 2116,
   ownProgress: 2116,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-19",
   externalIdentity: [
     {

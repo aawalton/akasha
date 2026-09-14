@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009191WisdomOfASage = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 91,
   ownLength: 2077,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-24",
   externalIdentity: [
     {

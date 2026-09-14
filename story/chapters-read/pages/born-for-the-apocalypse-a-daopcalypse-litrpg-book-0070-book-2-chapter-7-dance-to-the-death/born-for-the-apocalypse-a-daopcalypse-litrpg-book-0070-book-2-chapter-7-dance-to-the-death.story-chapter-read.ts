@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0070Book2Chapter7DanceToT
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 70,
   ownLength: 1298,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-16",
   externalIdentity: [
     {

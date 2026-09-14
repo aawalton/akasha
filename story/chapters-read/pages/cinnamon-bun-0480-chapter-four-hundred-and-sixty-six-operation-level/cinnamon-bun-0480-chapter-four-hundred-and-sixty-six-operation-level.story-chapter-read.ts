@@ -8,7 +8,7 @@ export const cinnamonBun0480ChapterFourHundredAndSixtySixOperationLevel = {
   story: "story-read/cinnamon-bun",
   position: 480,
   ownLength: 1529,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-30",
   externalIdentity: [
     {

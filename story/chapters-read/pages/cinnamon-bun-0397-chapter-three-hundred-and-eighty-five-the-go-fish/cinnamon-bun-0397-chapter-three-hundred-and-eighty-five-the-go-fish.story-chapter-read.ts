@@ -8,7 +8,7 @@ export const cinnamonBun0397ChapterThreeHundredAndEightyFiveTheGoFish = {
   story: "story-read/cinnamon-bun",
   position: 397,
   ownLength: 1960,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-23",
   externalIdentity: [
     {

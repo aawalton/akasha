@@ -8,7 +8,7 @@ export const breakerOfHorizons006060Beacons = {
   story: "story-read/breaker-of-horizons",
   position: 60,
   ownLength: 2411,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-26",
   externalIdentity: [
     {

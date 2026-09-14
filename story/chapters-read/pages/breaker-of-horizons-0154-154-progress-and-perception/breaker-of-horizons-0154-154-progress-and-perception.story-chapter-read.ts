@@ -8,7 +8,7 @@ export const breakerOfHorizons0154154ProgressAndPerception = {
   story: "story-read/breaker-of-horizons",
   position: 154,
   ownLength: 2119,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0379CinnamonBunBonusStoryInWhichBroccoliScares = {
   story: "story-read/cinnamon-bun",
   position: 379,
   ownLength: 2157,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-21",
   externalIdentity: [
     {

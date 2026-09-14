@@ -8,7 +8,7 @@ export const breakerOfHorizons002525FoodForThought = {
   story: "story-read/breaker-of-horizons",
   position: 25,
   ownLength: 2369,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-27",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0070201LateNightSisterlyBonding = {
   story: "story-read/bunny-girl-evolution",
   position: 70,
   ownLength: 3886,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-23",
   externalIdentity: [
     {

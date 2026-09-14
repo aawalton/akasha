@@ -8,7 +8,7 @@ export const cinnamonBun0474ChapterFourHundredAndSixtySpeedrunners = {
   story: "story-read/cinnamon-bun",
   position: 474,
   ownLength: 1549,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-09",
   externalIdentity: [
     {

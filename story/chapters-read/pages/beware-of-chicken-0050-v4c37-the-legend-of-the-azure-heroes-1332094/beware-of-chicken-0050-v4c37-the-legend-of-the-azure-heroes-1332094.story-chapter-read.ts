@@ -7,7 +7,7 @@ export const bewareOfChicken0050V4c37TheLegendOfTheAzureHeroes1332094 = {
   story: "story-read/beware-of-chicken",
   position: 50,
   publishedAt: "2023-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

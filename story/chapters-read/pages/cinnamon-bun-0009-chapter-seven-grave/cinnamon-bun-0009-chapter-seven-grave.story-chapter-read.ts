@@ -8,7 +8,7 @@ export const cinnamonBun0009ChapterSevenGrave = {
   story: "story-read/cinnamon-bun",
   position: 9,
   ownLength: 2015,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-15",
   externalIdentity: [
     {

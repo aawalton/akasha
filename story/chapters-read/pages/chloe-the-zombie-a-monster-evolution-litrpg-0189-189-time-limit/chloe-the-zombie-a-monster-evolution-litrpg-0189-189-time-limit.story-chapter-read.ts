@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0189189TimeLimit = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 189,
   ownLength: 1947,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-17",
   externalIdentity: [
     {

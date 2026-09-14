@@ -8,7 +8,7 @@ export const cinnamonBun0208StrayBunArtContest = {
   story: "story-read/cinnamon-bun",
   position: 208,
   ownLength: 154,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-10",
   externalIdentity: [
     {

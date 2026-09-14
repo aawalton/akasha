@@ -8,7 +8,7 @@ export const cinnamonBun0315ChapterThreeHundredAndSevenHiringA = {
   story: "story-read/cinnamon-bun",
   position: 315,
   ownLength: 1952,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-04",
   externalIdentity: [
     {

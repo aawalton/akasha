@@ -8,7 +8,7 @@ export const chrysalis0456Chapter1803NewReality = {
   story: "story-read/chrysalis",
   position: 456,
   ownLength: 1105,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-31",
   externalIdentity: [
     {

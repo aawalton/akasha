@@ -8,7 +8,7 @@ export const cinnamonBun0302ChapterTwoHundredAndNinetyFourToTheVictor = {
   story: "story-read/cinnamon-bun",
   position: 302,
   ownLength: 1983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-23",
   externalIdentity: [
     {

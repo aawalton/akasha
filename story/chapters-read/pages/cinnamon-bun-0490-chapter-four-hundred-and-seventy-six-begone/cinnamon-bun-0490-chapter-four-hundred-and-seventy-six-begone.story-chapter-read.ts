@@ -8,7 +8,7 @@ export const cinnamonBun0490ChapterFourHundredAndSeventySixBegone = {
   story: "story-read/cinnamon-bun",
   position: 490,
   ownLength: 1504,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-03-06",
   externalIdentity: [
     {

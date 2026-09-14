@@ -8,7 +8,7 @@ export const cinnamonBun0492ChapterFourHundredAndSeventyEightThereWere = {
   story: "story-read/cinnamon-bun",
   position: 492,
   ownLength: 1514,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-03-12",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0232ChapterTwoHundredAndTwentyFourCelebrating = {
   story: "story-read/cinnamon-bun",
   position: 232,
   ownLength: 1983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-17",
   externalIdentity: [
     {

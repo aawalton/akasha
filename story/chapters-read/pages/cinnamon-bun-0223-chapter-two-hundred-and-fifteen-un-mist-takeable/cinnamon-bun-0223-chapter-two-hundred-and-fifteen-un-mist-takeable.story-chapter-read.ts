@@ -8,7 +8,7 @@ export const cinnamonBun0223ChapterTwoHundredAndFifteenUnMistTakeable = {
   story: "story-read/cinnamon-bun",
   position: 223,
   ownLength: 1998,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-02",
   externalIdentity: [
     {

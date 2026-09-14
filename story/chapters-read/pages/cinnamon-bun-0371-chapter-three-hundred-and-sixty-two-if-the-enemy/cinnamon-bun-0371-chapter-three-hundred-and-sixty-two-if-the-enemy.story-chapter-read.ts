@@ -8,7 +8,7 @@ export const cinnamonBun0371ChapterThreeHundredAndSixtyTwoIfTheEnemy = {
   story: "story-read/cinnamon-bun",
   position: 371,
   ownLength: 1838,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-22",
   externalIdentity: [
     {

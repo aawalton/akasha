@@ -8,7 +8,7 @@ export const breakerOfHorizons001010ThaumaturgyTrial = {
   story: "story-read/breaker-of-horizons",
   position: 10,
   ownLength: 2365,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-04",
   externalIdentity: [
     {

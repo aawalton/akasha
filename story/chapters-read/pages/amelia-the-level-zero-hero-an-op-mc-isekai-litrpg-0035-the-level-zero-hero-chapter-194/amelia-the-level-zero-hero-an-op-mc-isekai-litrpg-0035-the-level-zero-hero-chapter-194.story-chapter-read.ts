@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0035TheLevelZeroHeroChapter
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 35,
   ownLength: 1501,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-13",
   externalIdentity: [
     {

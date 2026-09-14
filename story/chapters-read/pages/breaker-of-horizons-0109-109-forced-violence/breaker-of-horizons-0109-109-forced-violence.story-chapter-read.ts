@@ -8,7 +8,7 @@ export const breakerOfHorizons0109109ForcedViolence = {
   story: "story-read/breaker-of-horizons",
   position: 109,
   ownLength: 1905,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0071ChapterSixtyEightACureForHysteriaAnd = {
   story: "story-read/cinnamon-bun",
   position: 71,
   ownLength: 2145,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-04",
   externalIdentity: [
     {

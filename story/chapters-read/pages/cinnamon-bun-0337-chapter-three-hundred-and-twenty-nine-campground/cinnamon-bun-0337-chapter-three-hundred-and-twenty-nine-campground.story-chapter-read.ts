@@ -8,7 +8,7 @@ export const cinnamonBun0337ChapterThreeHundredAndTwentyNineCampground = {
   story: "story-read/cinnamon-bun",
   position: 337,
   ownLength: 1994,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-28",
   externalIdentity: [
     {

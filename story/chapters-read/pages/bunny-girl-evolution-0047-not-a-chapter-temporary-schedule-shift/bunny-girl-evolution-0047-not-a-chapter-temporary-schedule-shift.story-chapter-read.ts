@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0047NotAChapterTemporaryScheduleShift = {
   story: "story-read/bunny-girl-evolution",
   position: 47,
   ownLength: 462,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-14",
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0023Book2ChaptersWillBeRemo
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 23,
   publishedAt: "2023-07-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

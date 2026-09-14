@@ -8,7 +8,7 @@ export const cinnamonBun0325ChapterThreeHundredAndSeventeenCountingSheep = {
   story: "story-read/cinnamon-bun",
   position: 325,
   ownLength: 2012,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-10",
   externalIdentity: [
     {

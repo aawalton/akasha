@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0003Book4Chapter2HerWorldvie
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 3,
   ownLength: 7376,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-28",
   externalIdentity: [
     {

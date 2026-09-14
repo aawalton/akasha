@@ -8,7 +8,7 @@ export const breakerOfHorizons0178178ThreesACrowd = {
   story: "story-read/breaker-of-horizons",
   position: 178,
   ownLength: 2401,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-14",
   externalIdentity: [
     {

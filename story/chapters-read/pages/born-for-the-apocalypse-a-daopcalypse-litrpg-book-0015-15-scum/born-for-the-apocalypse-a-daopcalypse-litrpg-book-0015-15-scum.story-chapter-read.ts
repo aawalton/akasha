@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001515Scum = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 15,
   ownLength: 1664,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-28",
   externalIdentity: [
     {

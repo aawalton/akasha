@@ -8,7 +8,7 @@ export const breakerOfHorizons00011OnTheSidelines = {
   story: "story-read/breaker-of-horizons",
   position: 1,
   ownLength: 2062,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0054ChapterFiftyOneFetchingHelp = {
   story: "story-read/cinnamon-bun",
   position: 54,
   ownLength: 1971,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-29",
   externalIdentity: [
     {

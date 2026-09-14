@@ -9,7 +9,7 @@ export const chrysalis0208Chapter1560RockType = {
   position: 208,
   ownLength: 948,
   ownProgress: 948,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:50:28.448Z",
   publishedAt: "2025-04-28",
   externalIdentity: [

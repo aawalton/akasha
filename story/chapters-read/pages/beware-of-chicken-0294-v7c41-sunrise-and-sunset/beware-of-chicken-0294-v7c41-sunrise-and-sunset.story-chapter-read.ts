@@ -8,7 +8,7 @@ export const bewareOfChicken0294V7c41SunriseAndSunset = {
   story: "story-read/beware-of-chicken",
   position: 294,
   ownLength: 2266,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-27",
   externalIdentity: [
     {

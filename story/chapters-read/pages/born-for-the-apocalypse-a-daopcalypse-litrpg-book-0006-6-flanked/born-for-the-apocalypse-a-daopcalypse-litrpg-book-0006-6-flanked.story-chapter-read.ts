@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00066Flanked = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 6,
   ownLength: 1209,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-10",
   externalIdentity: [
     {

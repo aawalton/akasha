@@ -8,7 +8,7 @@ export const breakerOfHorizons0142142CosmicConfrontation = {
   story: "story-read/breaker-of-horizons",
   position: 142,
   ownLength: 2112,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-09",
   externalIdentity: [
     {

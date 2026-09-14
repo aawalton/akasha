@@ -8,7 +8,7 @@ export const cinnamonBun0053ChapterFiftyAmbush = {
   story: "story-read/cinnamon-bun",
   position: 53,
   ownLength: 2007,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-26",
   externalIdentity: [
     {

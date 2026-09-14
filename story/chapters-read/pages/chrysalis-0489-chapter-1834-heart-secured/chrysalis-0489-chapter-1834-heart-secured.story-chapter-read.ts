@@ -8,7 +8,7 @@ export const chrysalis0489Chapter1834HeartSecured = {
   story: "story-read/chrysalis",
   position: 489,
   ownLength: 922,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0277ChapterTwoHundredAndSixtyNineRoyaltea = {
   story: "story-read/cinnamon-bun",
   position: 277,
   ownLength: 2012,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-25",
   externalIdentity: [
     {

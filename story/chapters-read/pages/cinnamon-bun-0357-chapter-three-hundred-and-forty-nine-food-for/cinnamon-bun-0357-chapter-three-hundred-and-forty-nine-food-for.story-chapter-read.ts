@@ -8,7 +8,7 @@ export const cinnamonBun0357ChapterThreeHundredAndFortyNineFoodFor = {
   story: "story-read/cinnamon-bun",
   position: 357,
   ownLength: 1998,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-10",
   externalIdentity: [
     {

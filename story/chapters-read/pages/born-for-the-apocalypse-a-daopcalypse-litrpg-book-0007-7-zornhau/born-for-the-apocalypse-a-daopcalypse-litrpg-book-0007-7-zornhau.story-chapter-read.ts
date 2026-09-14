@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00077Zornhau = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 7,
   ownLength: 1014,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-11",
   externalIdentity: [
     {

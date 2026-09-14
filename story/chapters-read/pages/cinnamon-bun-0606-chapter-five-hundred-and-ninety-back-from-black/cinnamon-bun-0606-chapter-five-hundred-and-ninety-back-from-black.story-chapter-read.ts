@@ -8,7 +8,7 @@ export const cinnamonBun0606ChapterFiveHundredAndNinetyBackFromBlack = {
   story: "story-read/cinnamon-bun",
   position: 606,
   ownLength: 1537,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-17",
   externalIdentity: [
     {

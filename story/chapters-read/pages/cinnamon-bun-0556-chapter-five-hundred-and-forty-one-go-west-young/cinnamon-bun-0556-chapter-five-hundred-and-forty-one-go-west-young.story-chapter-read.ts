@@ -8,7 +8,7 @@ export const cinnamonBun0556ChapterFiveHundredAndFortyOneGoWestYoung = {
   story: "story-read/cinnamon-bun",
   position: 556,
   ownLength: 1461,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-22",
   externalIdentity: [
     {

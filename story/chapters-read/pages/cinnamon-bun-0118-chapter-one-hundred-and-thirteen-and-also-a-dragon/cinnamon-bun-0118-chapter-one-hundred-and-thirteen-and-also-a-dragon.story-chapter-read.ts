@@ -8,7 +8,7 @@ export const cinnamonBun0118ChapterOneHundredAndThirteenAndAlsoADragon = {
   story: "story-read/cinnamon-bun",
   position: 118,
   ownLength: 1947,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-16",
   externalIdentity: [
     {

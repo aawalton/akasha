@@ -8,7 +8,7 @@ export const chrysalis0452ChrysalisMerchAndGiveaway = {
   story: "story-read/chrysalis",
   position: 452,
   ownLength: 58,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-24",
   externalIdentity: [
     {

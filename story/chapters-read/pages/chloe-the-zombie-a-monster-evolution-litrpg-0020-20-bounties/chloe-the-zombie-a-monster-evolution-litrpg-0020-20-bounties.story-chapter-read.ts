@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002020Bounties = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 20,
   ownLength: 2650,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-29",
   externalIdentity: [
     {

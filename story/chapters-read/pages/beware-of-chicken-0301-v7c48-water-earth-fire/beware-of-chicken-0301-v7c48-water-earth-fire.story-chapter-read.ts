@@ -8,7 +8,7 @@ export const bewareOfChicken0301V7c48WaterEarthFire = {
   story: "story-read/beware-of-chicken",
   position: 301,
   ownLength: 3499,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-12",
   externalIdentity: [
     {

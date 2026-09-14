@@ -8,7 +8,7 @@ export const chrysalis0487Chapter1832LegionMeetTemplar = {
   story: "story-read/chrysalis",
   position: 487,
   ownLength: 1124,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-29",
   externalIdentity: [
     {

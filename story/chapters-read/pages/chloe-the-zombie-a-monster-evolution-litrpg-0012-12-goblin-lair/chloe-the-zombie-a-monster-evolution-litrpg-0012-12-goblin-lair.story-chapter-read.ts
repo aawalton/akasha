@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001212GoblinLair = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 12,
   ownLength: 2535,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-20",
   externalIdentity: [
     {

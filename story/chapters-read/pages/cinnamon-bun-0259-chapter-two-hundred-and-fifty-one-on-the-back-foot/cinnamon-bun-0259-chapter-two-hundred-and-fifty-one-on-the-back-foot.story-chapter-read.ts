@@ -8,7 +8,7 @@ export const cinnamonBun0259ChapterTwoHundredAndFiftyOneOnTheBackFoot = {
   story: "story-read/cinnamon-bun",
   position: 259,
   ownLength: 1933,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bookboundBunny0072B3Chapter68Flashy = {
   story: "bookbound-bunny",
   position: 72,
   ownLength: 2302,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-21",
   externalIdentity: [
     {

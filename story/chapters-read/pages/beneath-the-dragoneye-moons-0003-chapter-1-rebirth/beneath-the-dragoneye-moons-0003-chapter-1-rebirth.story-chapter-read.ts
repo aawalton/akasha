@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0003Chapter1Rebirth = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 3,
   ownLength: 2698,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-28",
   externalIdentity: [
     {

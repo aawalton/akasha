@@ -6,7 +6,7 @@ export const chrysalis0515Chapter1860TimeIsPassing = {
   slug: "chrysalis-0515-chapter-1860-time-is-passing",
   position: 515,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -7,7 +7,7 @@ export const alexaThymeFormerlyAlexithymia0004Chapter42SundayIntoMondayReunion10
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 4,
   publishedAt: "2022-11-25",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

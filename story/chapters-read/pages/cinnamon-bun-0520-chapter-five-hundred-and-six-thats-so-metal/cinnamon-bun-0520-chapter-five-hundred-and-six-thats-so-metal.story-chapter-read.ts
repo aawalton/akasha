@@ -8,7 +8,7 @@ export const cinnamonBun0520ChapterFiveHundredAndSixThatsSoMetal = {
   story: "story-read/cinnamon-bun",
   position: 520,
   ownLength: 1594,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-18",
   externalIdentity: [
     {

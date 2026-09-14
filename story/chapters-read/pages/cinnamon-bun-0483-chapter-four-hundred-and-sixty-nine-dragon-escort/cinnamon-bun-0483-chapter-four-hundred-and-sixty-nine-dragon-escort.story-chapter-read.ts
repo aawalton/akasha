@@ -8,7 +8,7 @@ export const cinnamonBun0483ChapterFourHundredAndSixtyNineDragonEscort = {
   story: "story-read/cinnamon-bun",
   position: 483,
   ownLength: 1506,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-08",
   externalIdentity: [
     {

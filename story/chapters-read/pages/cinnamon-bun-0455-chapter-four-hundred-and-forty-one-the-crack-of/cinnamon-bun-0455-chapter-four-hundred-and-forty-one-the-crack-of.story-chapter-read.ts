@@ -8,7 +8,7 @@ export const cinnamonBun0455ChapterFourHundredAndFortyOneTheCrackOf = {
   story: "story-read/cinnamon-bun",
   position: 455,
   ownLength: 1982,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-24",
   externalIdentity: [
     {

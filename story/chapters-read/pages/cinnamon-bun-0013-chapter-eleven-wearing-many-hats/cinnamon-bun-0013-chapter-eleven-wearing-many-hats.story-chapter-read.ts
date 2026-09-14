@@ -8,7 +8,7 @@ export const cinnamonBun0013ChapterElevenWearingManyHats = {
   story: "story-read/cinnamon-bun",
   position: 13,
   ownLength: 2088,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-24",
   externalIdentity: [
     {

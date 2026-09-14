@@ -8,7 +8,7 @@ export const catGirlEvolution0113111OperationGetAdopted = {
   story: "cat-girl-evolution",
   position: 113,
   ownLength: 2674,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-08",
   externalIdentity: [
     {

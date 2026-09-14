@@ -8,7 +8,7 @@ export const cinnamonBun0414ChapterFourHundredAndOneAbsenceMakesThe = {
   story: "story-read/cinnamon-bun",
   position: 414,
   ownLength: 2014,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-27",
   externalIdentity: [
     {

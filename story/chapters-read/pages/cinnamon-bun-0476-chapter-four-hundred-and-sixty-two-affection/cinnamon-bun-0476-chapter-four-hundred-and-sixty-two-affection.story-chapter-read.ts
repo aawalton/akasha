@@ -8,7 +8,7 @@ export const cinnamonBun0476ChapterFourHundredAndSixtyTwoAffection = {
   story: "story-read/cinnamon-bun",
   position: 476,
   ownLength: 1461,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-16",
   externalIdentity: [
     {

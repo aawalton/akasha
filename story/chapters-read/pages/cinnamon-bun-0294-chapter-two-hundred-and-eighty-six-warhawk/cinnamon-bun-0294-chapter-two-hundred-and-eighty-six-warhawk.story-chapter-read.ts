@@ -8,7 +8,7 @@ export const cinnamonBun0294ChapterTwoHundredAndEightySixWarhawk = {
   story: "story-read/cinnamon-bun",
   position: 294,
   ownLength: 2126,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-22",
   externalIdentity: [
     {

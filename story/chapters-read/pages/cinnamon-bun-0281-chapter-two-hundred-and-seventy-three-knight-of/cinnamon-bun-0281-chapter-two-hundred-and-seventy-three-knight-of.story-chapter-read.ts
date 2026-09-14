@@ -8,7 +8,7 @@ export const cinnamonBun0281ChapterTwoHundredAndSeventyThreeKnightOf = {
   story: "story-read/cinnamon-bun",
   position: 281,
   ownLength: 1995,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-06",
   externalIdentity: [
     {

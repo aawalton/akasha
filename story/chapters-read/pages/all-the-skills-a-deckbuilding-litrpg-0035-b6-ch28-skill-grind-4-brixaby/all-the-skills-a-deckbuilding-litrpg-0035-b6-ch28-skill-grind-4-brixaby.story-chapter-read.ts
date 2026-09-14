@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0035B6Ch28SkillGrind4Brixaby = {
   position: 35,
   ownLength: 2561,
   ownProgress: 2561,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-19",
   externalIdentity: [
     {

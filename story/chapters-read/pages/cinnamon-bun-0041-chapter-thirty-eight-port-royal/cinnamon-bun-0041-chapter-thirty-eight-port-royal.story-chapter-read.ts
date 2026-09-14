@@ -8,7 +8,7 @@ export const cinnamonBun0041ChapterThirtyEightPortRoyal = {
   story: "story-read/cinnamon-bun",
   position: 41,
   ownLength: 2105,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0539ChapterFiveHundredAndTwentyFourMasterOfHer = {
   story: "story-read/cinnamon-bun",
   position: 539,
   ownLength: 1510,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-12",
   externalIdentity: [
     {

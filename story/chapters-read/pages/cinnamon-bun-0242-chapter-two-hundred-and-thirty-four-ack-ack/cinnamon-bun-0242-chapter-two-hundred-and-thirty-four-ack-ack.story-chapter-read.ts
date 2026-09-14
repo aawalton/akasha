@@ -8,7 +8,7 @@ export const cinnamonBun0242ChapterTwoHundredAndThirtyFourAckAck = {
   story: "story-read/cinnamon-bun",
   position: 242,
   ownLength: 1956,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-05",
   externalIdentity: [
     {

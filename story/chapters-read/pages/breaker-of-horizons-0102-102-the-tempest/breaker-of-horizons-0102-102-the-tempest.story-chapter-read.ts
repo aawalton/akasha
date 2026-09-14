@@ -8,7 +8,7 @@ export const breakerOfHorizons0102102TheTempest = {
   story: "story-read/breaker-of-horizons",
   position: 102,
   ownLength: 1948,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0243ChapterTwoHundredAndThirtyFiveCrossCultural = {
   story: "story-read/cinnamon-bun",
   position: 243,
   ownLength: 2041,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-10",
   externalIdentity: [
     {

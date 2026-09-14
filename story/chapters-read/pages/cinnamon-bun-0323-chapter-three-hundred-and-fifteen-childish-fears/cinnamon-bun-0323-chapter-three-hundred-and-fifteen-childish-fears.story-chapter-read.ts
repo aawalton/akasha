@@ -8,7 +8,7 @@ export const cinnamonBun0323ChapterThreeHundredAndFifteenChildishFears = {
   story: "story-read/cinnamon-bun",
   position: 323,
   ownLength: 2075,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-02",
   externalIdentity: [
     {

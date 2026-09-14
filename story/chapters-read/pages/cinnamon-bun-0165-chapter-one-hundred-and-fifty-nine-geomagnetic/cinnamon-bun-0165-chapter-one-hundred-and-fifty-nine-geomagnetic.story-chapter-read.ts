@@ -8,7 +8,7 @@ export const cinnamonBun0165ChapterOneHundredAndFiftyNineGeomagnetic = {
   story: "story-read/cinnamon-bun",
   position: 165,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-11",
   externalIdentity: [
     {

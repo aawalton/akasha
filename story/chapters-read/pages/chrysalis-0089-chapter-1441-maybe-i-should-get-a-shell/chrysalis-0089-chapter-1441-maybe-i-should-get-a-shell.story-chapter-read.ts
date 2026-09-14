@@ -9,7 +9,7 @@ export const chrysalis0089Chapter1441MaybeIShouldGetAShell = {
   position: 89,
   ownLength: 1187,
   ownProgress: 1187,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:46:49.043Z",
   publishedAt: "2024-10-29",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const cinnamonBun0269ChapterTwoHundredAndSixtyOneAirtimeNaptime = {
   story: "story-read/cinnamon-bun",
   position: 269,
   ownLength: 2083,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-02",
   externalIdentity: [
     {

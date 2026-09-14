@@ -8,7 +8,7 @@ export const cinnamonBun0171ChapterOneHundredAndSixtyFiveNegotreeations = {
   story: "story-read/cinnamon-bun",
   position: 171,
   ownLength: 2021,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons004545TheFulcrum = {
   story: "story-read/breaker-of-horizons",
   position: 45,
   ownLength: 2553,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-05",
   externalIdentity: [
     {

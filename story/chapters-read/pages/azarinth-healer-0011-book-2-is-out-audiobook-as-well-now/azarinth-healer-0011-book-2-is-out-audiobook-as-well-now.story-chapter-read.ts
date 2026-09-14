@@ -8,7 +8,7 @@ export const azarinthHealer0011Book2IsOutAudiobookAsWellNow = {
   story: "story-read/azarinth-healer",
   position: 11,
   ownLength: 352,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-20",
   externalIdentity: [
     {

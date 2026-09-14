@@ -8,7 +8,7 @@ export const cinnamonBun0087ChapterEightyFourPsychohazard = {
   story: "story-read/cinnamon-bun",
   position: 87,
   ownLength: 1975,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bookboundBunny0016B3Chapter12DungeonDefiler = {
   story: "bookbound-bunny",
   position: 16,
   ownLength: 2340,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-03",
   externalIdentity: [
     {

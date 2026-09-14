@@ -8,7 +8,7 @@ export const cinnamonBun0444ChapterFourHundredAndThirtyBalancingThe = {
   story: "story-read/cinnamon-bun",
   position: 444,
   ownLength: 1950,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-31",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001919Respite = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 19,
   ownLength: 1155,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons0106106SupportAndSubjugation = {
   story: "story-read/breaker-of-horizons",
   position: 106,
   ownLength: 1961,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-06",
   externalIdentity: [
     {

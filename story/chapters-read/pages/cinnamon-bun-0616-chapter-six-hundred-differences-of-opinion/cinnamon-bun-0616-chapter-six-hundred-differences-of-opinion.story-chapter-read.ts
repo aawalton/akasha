@@ -8,7 +8,7 @@ export const cinnamonBun0616ChapterSixHundredDifferencesOfOpinion = {
   story: "story-read/cinnamon-bun",
   position: 616,
   ownLength: 2121,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-26",
   externalIdentity: [
     {

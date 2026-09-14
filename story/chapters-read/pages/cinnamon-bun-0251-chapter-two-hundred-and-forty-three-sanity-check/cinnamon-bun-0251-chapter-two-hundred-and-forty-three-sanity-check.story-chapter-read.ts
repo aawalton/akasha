@@ -8,7 +8,7 @@ export const cinnamonBun0251ChapterTwoHundredAndFortyThreeSanityCheck = {
   story: "story-read/cinnamon-bun",
   position: 251,
   ownLength: 1987,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-07",
   externalIdentity: [
     {

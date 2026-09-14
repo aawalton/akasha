@@ -8,7 +8,7 @@ export const catGirlEvolution001313SilverLevelThreat = {
   story: "cat-girl-evolution",
   position: 13,
   ownLength: 2672,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-23",
   externalIdentity: [
     {

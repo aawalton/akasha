@@ -8,7 +8,7 @@ export const cinnamonBun0297ChapterTwoHundredAndEightyNineSayHelloTo = {
   story: "story-read/cinnamon-bun",
   position: 297,
   ownLength: 2067,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-03",
   externalIdentity: [
     {

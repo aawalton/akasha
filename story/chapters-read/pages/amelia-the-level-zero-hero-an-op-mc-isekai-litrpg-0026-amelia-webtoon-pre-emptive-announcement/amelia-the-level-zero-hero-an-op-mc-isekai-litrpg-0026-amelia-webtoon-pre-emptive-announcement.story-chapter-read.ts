@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0026AmeliaWebtoonPreEmptive
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 26,
   ownLength: 489,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-10",
   externalIdentity: [
     {

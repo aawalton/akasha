@@ -8,7 +8,7 @@ export const cinnamonBun0098ChapterNinetyFiveDungeonKnownAs = {
   story: "story-read/cinnamon-bun",
   position: 98,
   ownLength: 1988,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-18",
   externalIdentity: [
     {

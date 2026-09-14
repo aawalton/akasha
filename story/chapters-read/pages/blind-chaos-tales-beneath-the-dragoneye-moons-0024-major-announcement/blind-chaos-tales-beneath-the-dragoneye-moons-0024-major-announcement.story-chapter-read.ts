@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0024MajorAnnouncement = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 24,
   ownLength: 1937,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-16",
   externalIdentity: [
     {

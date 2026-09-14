@@ -8,7 +8,7 @@ export const chrysalis0409Chapter1757Unstoppable = {
   story: "story-read/chrysalis",
   position: 409,
   ownLength: 960,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-25",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0010Book6Ch3AReckoning = {
   position: 10,
   ownLength: 2119,
   ownProgress: 2119,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-04",
   externalIdentity: [
     {

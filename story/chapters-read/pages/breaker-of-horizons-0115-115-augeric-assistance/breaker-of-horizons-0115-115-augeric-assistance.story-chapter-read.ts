@@ -8,7 +8,7 @@ export const breakerOfHorizons0115115AugericAssistance = {
   story: "story-read/breaker-of-horizons",
   position: 115,
   ownLength: 2000,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-07",
   externalIdentity: [
     {

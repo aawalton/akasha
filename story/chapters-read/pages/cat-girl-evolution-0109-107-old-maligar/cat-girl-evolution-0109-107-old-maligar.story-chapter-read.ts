@@ -8,7 +8,7 @@ export const catGirlEvolution0109107OldMaligar = {
   story: "cat-girl-evolution",
   position: 109,
   ownLength: 2649,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-31",
   externalIdentity: [
     {

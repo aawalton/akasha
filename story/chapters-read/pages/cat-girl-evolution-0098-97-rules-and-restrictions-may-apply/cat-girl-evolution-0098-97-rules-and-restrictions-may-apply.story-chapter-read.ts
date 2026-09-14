@@ -8,7 +8,7 @@ export const catGirlEvolution009897RulesAndRestrictionsMayApply = {
   story: "cat-girl-evolution",
   position: 98,
   ownLength: 2914,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-07",
   externalIdentity: [
     {

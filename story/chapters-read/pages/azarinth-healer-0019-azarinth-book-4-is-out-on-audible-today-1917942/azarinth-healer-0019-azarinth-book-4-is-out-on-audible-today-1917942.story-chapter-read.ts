@@ -7,7 +7,7 @@ export const azarinthHealer0019AzarinthBook4IsOutOnAudibleToday1917942 = {
   story: "story-read/azarinth-healer",
   position: 19,
   publishedAt: "2024-11-22",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

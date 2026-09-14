@@ -8,7 +8,7 @@ export const cinnamonBun0285ChapterTwoHundredAndSeventySevenHaystack = {
   story: "story-read/cinnamon-bun",
   position: 285,
   ownLength: 1926,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0053Book4Chapter48AGraceless
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 53,
   ownLength: 5839,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-30",
   externalIdentity: [
     {

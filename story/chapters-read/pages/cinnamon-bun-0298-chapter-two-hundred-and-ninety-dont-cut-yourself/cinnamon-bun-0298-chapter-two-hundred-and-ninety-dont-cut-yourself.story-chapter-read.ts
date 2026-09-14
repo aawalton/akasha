@@ -8,7 +8,7 @@ export const cinnamonBun0298ChapterTwoHundredAndNinetyDontCutYourself = {
   story: "story-read/cinnamon-bun",
   position: 298,
   ownLength: 2273,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-08",
   externalIdentity: [
     {

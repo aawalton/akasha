@@ -8,7 +8,7 @@ export const chrysalis0458Chapter1805QuickBoutOfMutatin = {
   story: "story-read/chrysalis",
   position: 458,
   ownLength: 975,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-01",
   externalIdentity: [
     {

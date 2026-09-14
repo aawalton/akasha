@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002525RunJackRun = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 25,
   ownLength: 1099,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-10",
   externalIdentity: [
     {

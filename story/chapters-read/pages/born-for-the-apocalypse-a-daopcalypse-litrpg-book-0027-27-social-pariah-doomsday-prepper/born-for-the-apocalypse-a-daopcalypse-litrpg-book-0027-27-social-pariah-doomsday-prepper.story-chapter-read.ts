@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002727SocialPariahDoomsda
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 27,
   ownLength: 1242,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-15",
   externalIdentity: [
     {

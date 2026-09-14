@@ -8,7 +8,7 @@ export const breakerOfHorizons0113113Fragility = {
   story: "story-read/breaker-of-horizons",
   position: 113,
   ownLength: 1874,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-31",
   externalIdentity: [
     {

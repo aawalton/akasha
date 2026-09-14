@@ -8,7 +8,7 @@ export const cinnamonBun0457ChapterFourHundredAndFortyThreeNeverSteal = {
   story: "story-read/cinnamon-bun",
   position: 457,
   ownLength: 1517,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-11-07",
   externalIdentity: [
     {

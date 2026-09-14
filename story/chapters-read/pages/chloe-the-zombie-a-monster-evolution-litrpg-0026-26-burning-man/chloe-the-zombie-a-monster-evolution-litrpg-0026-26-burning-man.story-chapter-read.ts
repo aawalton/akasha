@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002626BurningMan = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 26,
   ownLength: 2159,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-08",
   externalIdentity: [
     {

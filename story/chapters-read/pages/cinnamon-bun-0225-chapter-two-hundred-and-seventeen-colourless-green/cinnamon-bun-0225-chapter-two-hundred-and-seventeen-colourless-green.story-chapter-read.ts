@@ -8,7 +8,7 @@ export const cinnamonBun0225ChapterTwoHundredAndSeventeenColourlessGreen = {
   story: "story-read/cinnamon-bun",
   position: 225,
   ownLength: 1952,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-07",
   externalIdentity: [
     {

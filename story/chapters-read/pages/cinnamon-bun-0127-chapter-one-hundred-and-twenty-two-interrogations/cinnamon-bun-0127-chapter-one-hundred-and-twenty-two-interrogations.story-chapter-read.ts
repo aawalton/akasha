@@ -8,7 +8,7 @@ export const cinnamonBun0127ChapterOneHundredAndTwentyTwoInterrogations = {
   story: "story-read/cinnamon-bun",
   position: 127,
   ownLength: 2038,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-28",
   externalIdentity: [
     {

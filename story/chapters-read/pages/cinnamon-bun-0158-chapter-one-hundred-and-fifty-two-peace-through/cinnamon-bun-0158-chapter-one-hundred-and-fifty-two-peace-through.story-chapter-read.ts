@@ -8,7 +8,7 @@ export const cinnamonBun0158ChapterOneHundredAndFiftyTwoPeaceThrough = {
   story: "story-read/cinnamon-bun",
   position: 158,
   ownLength: 1933,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-19",
   externalIdentity: [
     {

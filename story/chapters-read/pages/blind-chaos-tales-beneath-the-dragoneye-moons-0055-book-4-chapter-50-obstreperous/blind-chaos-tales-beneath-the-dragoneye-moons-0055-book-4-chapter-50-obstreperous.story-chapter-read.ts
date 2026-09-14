@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0055Book4Chapter50Obstrepero
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 55,
   ownLength: 6143,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-06",
   externalIdentity: [
     {

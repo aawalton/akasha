@@ -9,7 +9,7 @@ export const chrysalis0098Chapter1450TheOldWay = {
   position: 98,
   ownLength: 1000,
   ownProgress: 1000,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:47:12.932Z",
   publishedAt: "2024-11-11",
   externalIdentity: [

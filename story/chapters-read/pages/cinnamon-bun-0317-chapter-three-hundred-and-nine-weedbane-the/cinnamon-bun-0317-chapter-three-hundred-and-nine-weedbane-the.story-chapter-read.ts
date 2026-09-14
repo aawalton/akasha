@@ -8,7 +8,7 @@ export const cinnamonBun0317ChapterThreeHundredAndNineWeedbaneThe = {
   story: "story-read/cinnamon-bun",
   position: 317,
   ownLength: 1982,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-10",
   externalIdentity: [
     {

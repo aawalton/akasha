@@ -8,7 +8,7 @@ export const cinnamonBun0063ChapterSixtyPrettyDresses = {
   story: "story-read/cinnamon-bun",
   position: 63,
   ownLength: 2210,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-17",
   externalIdentity: [
     {

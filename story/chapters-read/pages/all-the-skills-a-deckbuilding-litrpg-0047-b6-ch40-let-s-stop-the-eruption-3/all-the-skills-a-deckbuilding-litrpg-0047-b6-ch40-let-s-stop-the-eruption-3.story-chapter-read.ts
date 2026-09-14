@@ -8,7 +8,7 @@ export const allTheSkillsADeckbuildingLitrpg0047B6Ch40LetSStopTheEruption3 = {
   story: "all-the-skills-a-deckbuilding-litrpg",
   position: 47,
   ownLength: 2911,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-02",
   externalIdentity: [
     {

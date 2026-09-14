@@ -8,7 +8,7 @@ export const cinnamonBun0365ChapterThreeHundredAndFiftySixEmployee = {
   story: "story-read/cinnamon-bun",
   position: 365,
   ownLength: 2124,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-01",
   externalIdentity: [
     {

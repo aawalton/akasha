@@ -8,7 +8,7 @@ export const cinnamonBun0169ChapterOneHundredAndSixtyThreeHello = {
   story: "story-read/cinnamon-bun",
   position: 169,
   ownLength: 1985,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-25",
   externalIdentity: [
     {

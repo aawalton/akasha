@@ -8,7 +8,7 @@ export const chrysalis0457Chapter1804ADeterminedColonyCanAchieveWhateverItWan = 
   story: "story-read/chrysalis",
   position: 457,
   ownLength: 935,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-31",
   externalIdentity: [
     {

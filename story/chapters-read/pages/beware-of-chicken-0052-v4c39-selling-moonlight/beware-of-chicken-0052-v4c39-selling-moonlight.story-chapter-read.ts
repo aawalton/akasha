@@ -9,7 +9,7 @@ export const bewareOfChicken0052V4c39SellingMoonlight = {
   position: 52,
   ownLength: 3424,
   ownProgress: 3424,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:53:09.873Z",
   publishedAt: "2023-09-08",
   externalIdentity: [

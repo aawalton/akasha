@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0038B6Ch31HomeAgain = {
   position: 38,
   ownLength: 1728,
   ownProgress: 209,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0230ChapterTwoHundredAndTwentyTwoDownWithThe = {
   story: "story-read/cinnamon-bun",
   position: 230,
   ownLength: 1953,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-15",
   externalIdentity: [
     {

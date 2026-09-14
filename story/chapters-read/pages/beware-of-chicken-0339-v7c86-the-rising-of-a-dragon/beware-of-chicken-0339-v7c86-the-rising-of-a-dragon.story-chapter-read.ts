@@ -8,7 +8,7 @@ export const bewareOfChicken0339V7c86TheRisingOfADragon = {
   story: "story-read/beware-of-chicken",
   position: 339,
   ownLength: 2667,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-29",
   externalIdentity: [
     {

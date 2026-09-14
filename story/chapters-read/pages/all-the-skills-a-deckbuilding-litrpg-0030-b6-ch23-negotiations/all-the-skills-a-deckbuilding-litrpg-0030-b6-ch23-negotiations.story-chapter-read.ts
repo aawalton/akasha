@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0030B6Ch23Negotiations = {
   position: 30,
   ownLength: 1832,
   ownProgress: 1832,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-03",
   externalIdentity: [
     {

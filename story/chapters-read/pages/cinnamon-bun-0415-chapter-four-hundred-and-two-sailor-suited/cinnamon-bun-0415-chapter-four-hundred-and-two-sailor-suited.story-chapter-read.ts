@@ -8,7 +8,7 @@ export const cinnamonBun0415ChapterFourHundredAndTwoSailorSuited = {
   story: "story-read/cinnamon-bun",
   position: 415,
   ownLength: 1946,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0094ChapterNinetyOneCoreValues = {
   story: "story-read/cinnamon-bun",
   position: 94,
   ownLength: 1973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-09",
   externalIdentity: [
     {

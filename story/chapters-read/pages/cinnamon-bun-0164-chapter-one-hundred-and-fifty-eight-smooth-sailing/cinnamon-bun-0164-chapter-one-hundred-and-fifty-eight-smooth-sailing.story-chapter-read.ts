@@ -8,7 +8,7 @@ export const cinnamonBun0164ChapterOneHundredAndFiftyEightSmoothSailing = {
   story: "story-read/cinnamon-bun",
   position: 164,
   ownLength: 1877,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-09",
   externalIdentity: [
     {

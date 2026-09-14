@@ -7,7 +7,7 @@ export const bewareOfChicken0024V4c16AcrossTheGrassSea1251898 = {
   story: "story-read/beware-of-chicken",
   position: 24,
   publishedAt: "2023-06-20",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

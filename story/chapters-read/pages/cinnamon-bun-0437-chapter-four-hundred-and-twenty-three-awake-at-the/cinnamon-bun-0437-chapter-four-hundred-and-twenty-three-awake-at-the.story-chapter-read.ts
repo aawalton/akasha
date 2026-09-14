@@ -8,7 +8,7 @@ export const cinnamonBun0437ChapterFourHundredAndTwentyThreeAwakeAtThe = {
   story: "story-read/cinnamon-bun",
   position: 437,
   ownLength: 2027,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-03",
   externalIdentity: [
     {

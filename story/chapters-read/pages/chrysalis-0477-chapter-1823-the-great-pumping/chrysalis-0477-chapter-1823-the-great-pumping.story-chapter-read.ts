@@ -8,7 +8,7 @@ export const chrysalis0477Chapter1823TheGreatPumping = {
   story: "story-read/chrysalis",
   position: 477,
   ownLength: 1038,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-25",
   externalIdentity: [
     {

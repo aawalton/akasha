@@ -8,7 +8,7 @@ export const breakerOfHorizons0169169TestingLimits = {
   story: "story-read/breaker-of-horizons",
   position: 169,
   ownLength: 2213,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-14",
   externalIdentity: [
     {

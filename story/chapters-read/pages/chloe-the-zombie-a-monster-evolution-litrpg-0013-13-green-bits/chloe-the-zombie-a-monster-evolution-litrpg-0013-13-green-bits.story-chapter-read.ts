@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001313GreenBits = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 13,
   ownLength: 1949,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-21",
   externalIdentity: [
     {

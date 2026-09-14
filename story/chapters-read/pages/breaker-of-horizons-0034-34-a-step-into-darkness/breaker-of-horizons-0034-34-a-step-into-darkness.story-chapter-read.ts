@@ -8,7 +8,7 @@ export const breakerOfHorizons003434AStepIntoDarkness = {
   story: "story-read/breaker-of-horizons",
   position: 34,
   ownLength: 2642,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-27",
   externalIdentity: [
     {

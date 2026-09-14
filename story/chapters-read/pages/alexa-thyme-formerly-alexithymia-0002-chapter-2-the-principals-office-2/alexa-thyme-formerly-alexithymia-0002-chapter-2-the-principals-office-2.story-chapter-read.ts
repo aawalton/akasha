@@ -7,7 +7,7 @@ export const alexaThymeFormerlyAlexithymia0002Chapter2ThePrincipalsOffice2 = {
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 2,
   publishedAt: "2022-11-03",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

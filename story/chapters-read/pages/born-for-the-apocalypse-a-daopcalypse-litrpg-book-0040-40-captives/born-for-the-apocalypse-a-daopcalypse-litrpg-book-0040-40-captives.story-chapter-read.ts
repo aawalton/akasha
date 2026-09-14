@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004040Captives = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 40,
   ownLength: 2437,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-11",
   externalIdentity: [
     {

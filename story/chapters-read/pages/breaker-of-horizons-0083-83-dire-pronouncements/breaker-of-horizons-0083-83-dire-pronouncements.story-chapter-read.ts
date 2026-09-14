@@ -8,7 +8,7 @@ export const breakerOfHorizons008383DirePronouncements = {
   story: "story-read/breaker-of-horizons",
   position: 83,
   ownLength: 2076,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-15",
   externalIdentity: [
     {

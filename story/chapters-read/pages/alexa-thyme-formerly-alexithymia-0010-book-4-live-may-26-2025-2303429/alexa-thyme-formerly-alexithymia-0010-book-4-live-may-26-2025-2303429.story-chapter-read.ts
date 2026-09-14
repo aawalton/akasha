@@ -7,7 +7,7 @@ export const alexaThymeFormerlyAlexithymia0010Book4LiveMay2620252303429 = {
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 10,
   publishedAt: "2025-05-24",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

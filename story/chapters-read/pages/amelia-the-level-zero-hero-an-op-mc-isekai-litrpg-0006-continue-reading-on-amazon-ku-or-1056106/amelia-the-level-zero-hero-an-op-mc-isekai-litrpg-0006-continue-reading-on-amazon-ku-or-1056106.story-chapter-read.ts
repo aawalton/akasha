@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0006ContinueReadingOnAmazon
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 6,
   publishedAt: "2022-12-05",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

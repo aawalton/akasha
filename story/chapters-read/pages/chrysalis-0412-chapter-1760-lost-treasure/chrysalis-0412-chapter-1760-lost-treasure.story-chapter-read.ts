@@ -8,7 +8,7 @@ export const chrysalis0412Chapter1760LostTreasure = {
   story: "story-read/chrysalis",
   position: 412,
   ownLength: 1012,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

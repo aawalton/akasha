@@ -8,7 +8,7 @@ export const chrysalis0431Chapter1779IVeFoundSomething = {
   story: "story-read/chrysalis",
   position: 431,
   ownLength: 937,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-24",
   externalIdentity: [
     {

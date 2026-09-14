@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007272HelloAndGoodbyeStartOfBo
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 72,
   ownLength: 2075,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-19",
   externalIdentity: [
     {

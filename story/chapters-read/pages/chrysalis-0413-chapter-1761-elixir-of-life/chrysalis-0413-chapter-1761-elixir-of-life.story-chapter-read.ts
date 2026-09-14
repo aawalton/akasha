@@ -8,7 +8,7 @@ export const chrysalis0413Chapter1761ElixirOfLife = {
   story: "story-read/chrysalis",
   position: 413,
   ownLength: 901,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

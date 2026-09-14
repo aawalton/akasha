@@ -8,7 +8,7 @@ export const cinnamonBun0360ChapterThreeHundredAndFiftyTwoWithCatlike = {
   story: "story-read/cinnamon-bun",
   position: 360,
   ownLength: 1933,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-18",
   externalIdentity: [
     {

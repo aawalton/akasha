@@ -8,7 +8,7 @@ export const cinnamonBun0120ChapterOneHundredAndFifteenDragonRiderOf = {
   story: "story-read/cinnamon-bun",
   position: 120,
   ownLength: 2036,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-19",
   externalIdentity: [
     {

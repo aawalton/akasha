@@ -7,7 +7,7 @@ export const arkendrithyst0062060Part3Of4433724 = {
   story: "story-read/arkendrithyst",
   position: 62,
   publishedAt: "2019-12-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

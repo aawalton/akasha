@@ -8,7 +8,7 @@ export const cinnamonBun0352ChapterThreeHundredAndFortyFourTheGolden = {
   story: "story-read/cinnamon-bun",
   position: 352,
   ownLength: 1963,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-20",
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const bewareOfChicken0033V4c24TheFoxTrap1280864 = {
   story: "story-read/beware-of-chicken",
   position: 33,
   publishedAt: "2023-07-18",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

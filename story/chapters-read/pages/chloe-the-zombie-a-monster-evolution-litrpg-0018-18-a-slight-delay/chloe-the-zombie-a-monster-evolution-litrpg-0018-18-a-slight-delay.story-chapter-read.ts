@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001818ASlightDelay = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 18,
   ownLength: 2356,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-27",
   externalIdentity: [
     {

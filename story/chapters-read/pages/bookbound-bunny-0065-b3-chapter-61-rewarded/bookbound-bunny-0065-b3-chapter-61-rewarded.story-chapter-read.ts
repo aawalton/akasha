@@ -8,7 +8,7 @@ export const bookboundBunny0065B3Chapter61Rewarded = {
   story: "bookbound-bunny",
   position: 65,
   ownLength: 2447,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-04",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const chrysalis0014Chapter1367CleanUpInIsleFive = {
   position: 14,
   ownLength: 1110,
   ownProgress: 1110,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:44:06.013Z",
   publishedAt: "2024-07-03",
   externalIdentity: [

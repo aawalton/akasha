@@ -8,7 +8,7 @@ export const catGirlEvolution008585GuildInvestigator = {
   story: "cat-girl-evolution",
   position: 85,
   ownLength: 3142,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-06",
   externalIdentity: [
     {

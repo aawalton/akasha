@@ -8,7 +8,7 @@ export const chrysalis0420Chapter1768TitansFightBriefly = {
   story: "story-read/chrysalis",
   position: 420,
   ownLength: 1138,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-09",
   externalIdentity: [
     {

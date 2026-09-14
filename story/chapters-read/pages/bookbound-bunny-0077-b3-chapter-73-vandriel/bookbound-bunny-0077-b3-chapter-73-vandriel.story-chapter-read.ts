@@ -8,7 +8,7 @@ export const bookboundBunny0077B3Chapter73Vandriel = {
   story: "bookbound-bunny",
   position: 77,
   ownLength: 2282,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-04",
   externalIdentity: [
     {

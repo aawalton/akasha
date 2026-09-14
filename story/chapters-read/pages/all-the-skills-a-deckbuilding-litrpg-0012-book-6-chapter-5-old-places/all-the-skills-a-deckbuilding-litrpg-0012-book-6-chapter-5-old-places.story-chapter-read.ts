@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0012Book6Chapter5OldPlaces = {
   position: 12,
   ownLength: 2060,
   ownProgress: 2060,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-15",
   externalIdentity: [
     {

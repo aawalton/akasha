@@ -8,7 +8,7 @@ export const cinnamonBun0477ChapterFourHundredAndSixtyThreeBroccoli = {
   story: "story-read/cinnamon-bun",
   position: 477,
   ownLength: 1485,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-18",
   externalIdentity: [
     {

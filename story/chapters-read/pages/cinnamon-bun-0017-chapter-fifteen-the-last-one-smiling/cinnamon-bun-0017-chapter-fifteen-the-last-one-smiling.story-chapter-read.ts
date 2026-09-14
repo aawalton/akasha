@@ -8,7 +8,7 @@ export const cinnamonBun0017ChapterFifteenTheLastOneSmiling = {
   story: "story-read/cinnamon-bun",
   position: 17,
   ownLength: 2098,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-04",
   externalIdentity: [
     {

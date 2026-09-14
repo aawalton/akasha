@@ -8,7 +8,7 @@ export const cinnamonBun0151ChapterOneHundredAndFortyFiveThePatricians = {
   story: "story-read/cinnamon-bun",
   position: 151,
   ownLength: 1942,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons006666AbruptDeparture = {
   story: "story-read/breaker-of-horizons",
   position: 66,
   ownLength: 2099,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-17",
   externalIdentity: [
     {

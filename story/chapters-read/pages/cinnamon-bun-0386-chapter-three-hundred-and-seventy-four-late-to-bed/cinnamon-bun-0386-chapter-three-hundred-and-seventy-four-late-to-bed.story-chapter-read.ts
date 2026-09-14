@@ -8,7 +8,7 @@ export const cinnamonBun0386ChapterThreeHundredAndSeventyFourLateToBed = {
   story: "story-read/cinnamon-bun",
   position: 386,
   ownLength: 1944,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-10",
   externalIdentity: [
     {

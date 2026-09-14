@@ -8,7 +8,7 @@ export const cinnamonBun0391ChapterThreeHundredAndSeventyNinePolite = {
   story: "story-read/cinnamon-bun",
   position: 391,
   ownLength: 1967,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-26",
   externalIdentity: [
     {

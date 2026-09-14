@@ -8,7 +8,7 @@ export const breakerOfHorizons002020Ensnared = {
   story: "story-read/breaker-of-horizons",
   position: 20,
   ownLength: 2134,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bewareOfChicken0324V7c71Pressure = {
   story: "story-read/beware-of-chicken",
   position: 324,
   ownLength: 1856,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-26",
   externalIdentity: [
     {

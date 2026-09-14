@@ -8,7 +8,7 @@ export const breakerOfHorizons0122122PropheticDoom = {
   story: "story-read/breaker-of-horizons",
   position: 122,
   ownLength: 2034,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-01",
   externalIdentity: [
     {

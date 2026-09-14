@@ -7,7 +7,7 @@ export const allTheSkillsADeckbuildingLitrpg0001Book1NowAvailableOnAmazonKu93210
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 1,
   publishedAt: "2022-06-21",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

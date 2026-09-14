@@ -8,7 +8,7 @@ export const cinnamonBun0517ChapterFiveHundredAndThreeCoreWeakness = {
   story: "story-read/cinnamon-bun",
   position: 517,
   ownLength: 1469,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-28",
   externalIdentity: [
     {

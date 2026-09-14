@@ -8,7 +8,7 @@ export const cinnamonBun0047ChapterFortyFourAStepAroundTheBoot = {
   story: "story-read/cinnamon-bun",
   position: 47,
   ownLength: 1982,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-18",
   externalIdentity: [
     {

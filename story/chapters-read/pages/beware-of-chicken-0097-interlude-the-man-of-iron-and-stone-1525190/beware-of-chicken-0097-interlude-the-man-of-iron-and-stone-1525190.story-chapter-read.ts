@@ -7,7 +7,7 @@ export const bewareOfChicken0097InterludeTheManOfIronAndStone1525190 = {
   story: "story-read/beware-of-chicken",
   position: 97,
   publishedAt: "2024-02-20",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

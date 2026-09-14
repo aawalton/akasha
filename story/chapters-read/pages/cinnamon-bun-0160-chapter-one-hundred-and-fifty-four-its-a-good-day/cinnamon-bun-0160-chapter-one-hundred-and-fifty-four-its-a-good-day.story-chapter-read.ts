@@ -8,7 +8,7 @@ export const cinnamonBun0160ChapterOneHundredAndFiftyFourItsAGoodDay = {
   story: "story-read/cinnamon-bun",
   position: 160,
   ownLength: 1945,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-26",
   externalIdentity: [
     {

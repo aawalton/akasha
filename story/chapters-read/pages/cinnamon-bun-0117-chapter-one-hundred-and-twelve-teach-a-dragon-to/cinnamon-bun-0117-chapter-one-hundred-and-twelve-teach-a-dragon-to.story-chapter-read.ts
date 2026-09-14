@@ -8,7 +8,7 @@ export const cinnamonBun0117ChapterOneHundredAndTwelveTeachADragonTo = {
   story: "story-read/cinnamon-bun",
   position: 117,
   ownLength: 2049,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0152ChapterOneHundredAndFortySixForewarnedIs = {
   story: "story-read/cinnamon-bun",
   position: 152,
   ownLength: 2026,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-30",
   externalIdentity: [
     {

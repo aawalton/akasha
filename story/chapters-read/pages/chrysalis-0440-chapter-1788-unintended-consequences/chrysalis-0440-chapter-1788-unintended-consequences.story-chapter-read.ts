@@ -8,7 +8,7 @@ export const chrysalis0440Chapter1788UnintendedConsequences = {
   story: "story-read/chrysalis",
   position: 440,
   ownLength: 985,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

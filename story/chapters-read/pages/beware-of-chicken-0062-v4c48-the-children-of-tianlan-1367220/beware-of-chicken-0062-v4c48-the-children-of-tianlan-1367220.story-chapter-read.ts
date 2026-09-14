@@ -7,7 +7,7 @@ export const bewareOfChicken0062V4c48TheChildrenOfTianlan1367220 = {
   story: "story-read/beware-of-chicken",
   position: 62,
   publishedAt: "2023-10-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

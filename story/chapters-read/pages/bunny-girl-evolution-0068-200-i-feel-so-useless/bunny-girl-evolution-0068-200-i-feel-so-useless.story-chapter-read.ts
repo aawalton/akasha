@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0068200IFeelSoUseless = {
   story: "story-read/bunny-girl-evolution",
   position: 68,
   ownLength: 3920,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-23",
   externalIdentity: [
     {

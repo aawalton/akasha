@@ -7,7 +7,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0194194Higher = {
   story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 194,
   publishedAt: "2026-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const cinnamonBun0450ChapterFourHundredAndThirtySixDrawTheParty = {
   story: "story-read/cinnamon-bun",
   position: 450,
   ownLength: 2037,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0434Chapter1782ThatSJustNasty = {
   story: "story-read/chrysalis",
   position: 434,
   ownLength: 988,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-29",
   externalIdentity: [
     {

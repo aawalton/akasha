@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0011AlexaThymeBook4BlackMassAudibleDro
   story: "alexa-thyme-formerly-alexithymia",
   position: 11,
   ownLength: 91,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const catGirlEvolution005858DangerousRevelationsB1End = {
   story: "cat-girl-evolution",
   position: 58,
   ownLength: 2593,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-05",
   externalIdentity: [
     {

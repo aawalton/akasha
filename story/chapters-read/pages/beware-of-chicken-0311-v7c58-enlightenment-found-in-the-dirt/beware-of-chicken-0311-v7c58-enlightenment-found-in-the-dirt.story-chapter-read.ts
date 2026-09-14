@@ -8,7 +8,7 @@ export const bewareOfChicken0311V7c58EnlightenmentFoundInTheDirt = {
   story: "story-read/beware-of-chicken",
   position: 311,
   ownLength: 1958,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

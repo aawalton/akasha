@@ -8,7 +8,7 @@ export const cinnamonBun0567ChapterFiveHundredAndFiftyTwoIHaveTheHigh = {
   story: "story-read/cinnamon-bun",
   position: 567,
   ownLength: 1574,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-04",
   externalIdentity: [
     {

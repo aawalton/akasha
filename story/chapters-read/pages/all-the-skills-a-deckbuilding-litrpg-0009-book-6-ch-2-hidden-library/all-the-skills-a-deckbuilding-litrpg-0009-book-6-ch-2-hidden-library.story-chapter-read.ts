@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0009Book6Ch2HiddenLibrary = {
   position: 9,
   ownLength: 1836,
   ownProgress: 1836,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-26",
   externalIdentity: [
     {

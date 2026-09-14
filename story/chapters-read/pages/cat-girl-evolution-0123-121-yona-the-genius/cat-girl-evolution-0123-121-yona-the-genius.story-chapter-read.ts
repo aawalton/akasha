@@ -8,7 +8,7 @@ export const catGirlEvolution0123121YonaTheGenius = {
   story: "cat-girl-evolution",
   position: 123,
   ownLength: 2289,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-01",
   externalIdentity: [
     {

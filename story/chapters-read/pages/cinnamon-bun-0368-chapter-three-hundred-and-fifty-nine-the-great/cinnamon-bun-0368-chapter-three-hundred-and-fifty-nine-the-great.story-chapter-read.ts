@@ -8,7 +8,7 @@ export const cinnamonBun0368ChapterThreeHundredAndFiftyNineTheGreat = {
   story: "story-read/cinnamon-bun",
   position: 368,
   ownLength: 2124,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-10",
   externalIdentity: [
     {

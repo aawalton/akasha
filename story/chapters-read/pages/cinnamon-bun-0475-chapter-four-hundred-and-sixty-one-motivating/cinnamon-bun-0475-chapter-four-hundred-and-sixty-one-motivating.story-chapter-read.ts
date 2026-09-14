@@ -8,7 +8,7 @@ export const cinnamonBun0475ChapterFourHundredAndSixtyOneMotivating = {
   story: "story-read/cinnamon-bun",
   position: 475,
   ownLength: 1459,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-11",
   externalIdentity: [
     {

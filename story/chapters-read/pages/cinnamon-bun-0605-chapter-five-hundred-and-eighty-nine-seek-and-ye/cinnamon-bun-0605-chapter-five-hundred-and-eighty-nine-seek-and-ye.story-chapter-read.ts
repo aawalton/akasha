@@ -8,7 +8,7 @@ export const cinnamonBun0605ChapterFiveHundredAndEightyNineSeekAndYe = {
   story: "story-read/cinnamon-bun",
   position: 605,
   ownLength: 1453,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

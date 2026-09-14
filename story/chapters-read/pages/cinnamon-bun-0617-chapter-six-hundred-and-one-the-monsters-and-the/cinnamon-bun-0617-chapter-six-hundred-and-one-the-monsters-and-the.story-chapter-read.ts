@@ -8,7 +8,7 @@ export const cinnamonBun0617ChapterSixHundredAndOneTheMonstersAndThe = {
   story: "story-read/cinnamon-bun",
   position: 617,
   ownLength: 2050,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-02",
   externalIdentity: [
     {

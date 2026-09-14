@@ -7,7 +7,7 @@ export const bewareOfChicken0067V4c52TheGrandMarshal1385977 = {
   story: "story-read/beware-of-chicken",
   position: 67,
   publishedAt: "2023-10-26",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

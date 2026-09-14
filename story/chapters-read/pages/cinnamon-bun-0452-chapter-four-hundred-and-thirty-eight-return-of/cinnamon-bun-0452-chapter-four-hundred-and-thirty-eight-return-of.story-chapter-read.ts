@@ -8,7 +8,7 @@ export const cinnamonBun0452ChapterFourHundredAndThirtyEightReturnOf = {
   story: "story-read/cinnamon-bun",
   position: 452,
   ownLength: 2500,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-03",
   externalIdentity: [
     {

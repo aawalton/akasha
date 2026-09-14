@@ -8,7 +8,7 @@ export const cinnamonBun0467ChapterFourHundredAndFiftyThreeSocialFu = {
   story: "story-read/cinnamon-bun",
   position: 467,
   ownLength: 1600,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-12",
   externalIdentity: [
     {

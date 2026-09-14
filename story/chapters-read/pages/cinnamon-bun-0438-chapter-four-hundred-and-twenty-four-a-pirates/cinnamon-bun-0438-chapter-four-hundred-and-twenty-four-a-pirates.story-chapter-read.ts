@@ -8,7 +8,7 @@ export const cinnamonBun0438ChapterFourHundredAndTwentyFourAPirates = {
   story: "story-read/cinnamon-bun",
   position: 438,
   ownLength: 2018,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-09",
   externalIdentity: [
     {

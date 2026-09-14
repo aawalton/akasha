@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004242Potential = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 42,
   ownLength: 1401,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-14",
   externalIdentity: [
     {

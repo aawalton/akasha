@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003535HappyPlace = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 35,
   ownLength: 2014,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-19",
   externalIdentity: [
     {

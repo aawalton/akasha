@@ -8,7 +8,7 @@ export const breakerOfHorizons008686ViolentResolutions = {
   story: "story-read/breaker-of-horizons",
   position: 86,
   ownLength: 1687,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-25",
   externalIdentity: [
     {

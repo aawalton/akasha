@@ -8,7 +8,7 @@ export const cinnamonBun0107ChapterOneHundredAndThreeTheLowestLow = {
   story: "story-read/cinnamon-bun",
   position: 107,
   ownLength: 2029,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-05",
   externalIdentity: [
     {

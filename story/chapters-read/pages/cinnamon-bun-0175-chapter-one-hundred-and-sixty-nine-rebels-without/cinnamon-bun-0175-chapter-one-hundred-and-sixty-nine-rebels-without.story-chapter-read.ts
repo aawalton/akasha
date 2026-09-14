@@ -8,7 +8,7 @@ export const cinnamonBun0175ChapterOneHundredAndSixtyNineRebelsWithout = {
   story: "story-read/cinnamon-bun",
   position: 175,
   ownLength: 1996,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-12",
   externalIdentity: [
     {

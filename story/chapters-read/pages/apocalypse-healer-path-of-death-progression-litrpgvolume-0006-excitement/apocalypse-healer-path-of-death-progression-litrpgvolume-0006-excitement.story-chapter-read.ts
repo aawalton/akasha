@@ -8,7 +8,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0006Excitement = 
   story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 6,
   ownLength: 60,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-16",
   externalIdentity: [
     {

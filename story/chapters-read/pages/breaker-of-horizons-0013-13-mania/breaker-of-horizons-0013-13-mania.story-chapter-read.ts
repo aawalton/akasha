@@ -8,7 +8,7 @@ export const breakerOfHorizons001313Mania = {
   story: "story-read/breaker-of-horizons",
   position: 13,
   ownLength: 2352,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-15",
   externalIdentity: [
     {

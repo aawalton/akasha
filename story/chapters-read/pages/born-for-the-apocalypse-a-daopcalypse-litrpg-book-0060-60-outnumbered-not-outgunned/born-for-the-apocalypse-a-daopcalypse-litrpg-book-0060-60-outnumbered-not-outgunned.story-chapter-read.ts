@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook006060OutnumberedNotOutgu
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 60,
   ownLength: 1907,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-26",
   externalIdentity: [
     {

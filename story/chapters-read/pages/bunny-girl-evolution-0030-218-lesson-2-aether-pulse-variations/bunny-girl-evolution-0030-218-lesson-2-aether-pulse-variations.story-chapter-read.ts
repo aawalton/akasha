@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0030218Lesson2AetherPulseVariations = {
   story: "story-read/bunny-girl-evolution",
   position: 30,
   ownLength: 3154,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-25",
   externalIdentity: [
     {

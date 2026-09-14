@@ -8,7 +8,7 @@ export const allTheSkillsADeckbuildingLitrpg0040B6Ch33HammerComesDown = {
   story: "all-the-skills-a-deckbuilding-litrpg",
   position: 40,
   ownLength: 1883,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-10",
   externalIdentity: [
     {

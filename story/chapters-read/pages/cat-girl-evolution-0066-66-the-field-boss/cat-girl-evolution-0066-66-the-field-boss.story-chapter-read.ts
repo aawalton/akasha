@@ -8,7 +8,7 @@ export const catGirlEvolution006666TheFieldBoss = {
   story: "cat-girl-evolution",
   position: 66,
   ownLength: 3060,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-24",
   externalIdentity: [
     {

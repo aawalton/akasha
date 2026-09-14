@@ -8,7 +8,7 @@ export const chrysalis0446Chapter1794FuriousFungi = {
   story: "story-read/chrysalis",
   position: 446,
   ownLength: 1001,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-15",
   externalIdentity: [
     {

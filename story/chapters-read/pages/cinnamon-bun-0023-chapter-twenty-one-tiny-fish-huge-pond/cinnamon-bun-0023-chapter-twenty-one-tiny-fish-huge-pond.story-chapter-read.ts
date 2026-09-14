@@ -8,7 +8,7 @@ export const cinnamonBun0023ChapterTwentyOneTinyFishHugePond = {
   story: "story-read/cinnamon-bun",
   position: 23,
   ownLength: 2019,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-12",
   externalIdentity: [
     {

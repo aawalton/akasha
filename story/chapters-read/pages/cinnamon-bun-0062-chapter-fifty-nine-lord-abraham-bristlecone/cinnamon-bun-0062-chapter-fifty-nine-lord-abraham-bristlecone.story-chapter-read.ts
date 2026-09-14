@@ -8,7 +8,7 @@ export const cinnamonBun0062ChapterFiftyNineLordAbrahamBristlecone = {
   story: "story-read/cinnamon-bun",
   position: 62,
   ownLength: 2064,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-15",
   externalIdentity: [
     {

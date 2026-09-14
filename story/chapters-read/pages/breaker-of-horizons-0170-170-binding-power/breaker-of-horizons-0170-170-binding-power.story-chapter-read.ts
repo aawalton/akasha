@@ -8,7 +8,7 @@ export const breakerOfHorizons0170170BindingPower = {
   story: "story-read/breaker-of-horizons",
   position: 170,
   ownLength: 2213,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-17",
   externalIdentity: [
     {

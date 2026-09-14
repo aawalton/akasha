@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0047Book4Chapter42FaithAndSt
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 47,
   ownLength: 5628,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-09",
   externalIdentity: [
     {

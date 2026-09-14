@@ -8,7 +8,7 @@ export const cinnamonBun0005ChapterThreeCrimeSpree = {
   story: "story-read/cinnamon-bun",
   position: 5,
   ownLength: 2004,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-08",
   externalIdentity: [
     {

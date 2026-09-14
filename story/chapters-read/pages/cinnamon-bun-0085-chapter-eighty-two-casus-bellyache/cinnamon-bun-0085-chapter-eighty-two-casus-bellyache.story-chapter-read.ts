@@ -8,7 +8,7 @@ export const cinnamonBun0085ChapterEightyTwoCasusBellyache = {
   story: "story-read/cinnamon-bun",
   position: 85,
   ownLength: 1934,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-24",
   externalIdentity: [
     {

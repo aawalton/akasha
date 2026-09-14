@@ -8,7 +8,7 @@ export const breakerOfHorizons008989Manipulated = {
   story: "story-read/breaker-of-horizons",
   position: 89,
   ownLength: 2396,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-08",
   externalIdentity: [
     {

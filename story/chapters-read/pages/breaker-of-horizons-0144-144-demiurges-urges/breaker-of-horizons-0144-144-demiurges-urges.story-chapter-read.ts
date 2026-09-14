@@ -8,7 +8,7 @@ export const breakerOfHorizons0144144DemiurgesUrges = {
   story: "story-read/breaker-of-horizons",
   position: 144,
   ownLength: 2125,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-16",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0014TemporaryScheduleChange 
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 14,
   ownLength: 187,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-15",
   externalIdentity: [
     {

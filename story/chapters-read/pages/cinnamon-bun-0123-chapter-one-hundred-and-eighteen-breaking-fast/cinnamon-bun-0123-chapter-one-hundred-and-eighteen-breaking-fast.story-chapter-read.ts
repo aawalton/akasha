@@ -8,7 +8,7 @@ export const cinnamonBun0123ChapterOneHundredAndEighteenBreakingFast = {
   story: "story-read/cinnamon-bun",
   position: 123,
   ownLength: 2011,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-22",
   externalIdentity: [
     {

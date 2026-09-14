@@ -7,7 +7,7 @@ export const bewareOfChicken0039V4c30TheHeartAndSoul1296870 = {
   story: "story-read/beware-of-chicken",
   position: 39,
   publishedAt: "2023-08-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

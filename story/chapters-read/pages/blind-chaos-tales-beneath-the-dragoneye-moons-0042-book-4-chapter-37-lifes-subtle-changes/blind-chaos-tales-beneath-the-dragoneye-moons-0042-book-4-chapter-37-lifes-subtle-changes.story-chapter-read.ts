@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0042Book4Chapter37LifesSubtl
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 42,
   ownLength: 5515,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-24",
   externalIdentity: [
     {

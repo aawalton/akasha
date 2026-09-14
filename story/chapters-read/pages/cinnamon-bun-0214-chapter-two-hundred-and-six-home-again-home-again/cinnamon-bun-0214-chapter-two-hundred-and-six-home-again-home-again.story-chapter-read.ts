@@ -8,7 +8,7 @@ export const cinnamonBun0214ChapterTwoHundredAndSixHomeAgainHomeAgain = {
   story: "story-read/cinnamon-bun",
   position: 214,
   ownLength: 2026,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-11",
   externalIdentity: [
     {

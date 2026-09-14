@@ -8,7 +8,7 @@ export const cinnamonBun0274ChapterTwoHundredAndSixtySixTheGuildhouse = {
   story: "story-read/cinnamon-bun",
   position: 274,
   ownLength: 1936,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-16",
   externalIdentity: [
     {

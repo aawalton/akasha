@@ -8,7 +8,7 @@ export const catGirlEvolution007676FoundTheCow = {
   story: "cat-girl-evolution",
   position: 76,
   ownLength: 2370,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-16",
   externalIdentity: [
     {

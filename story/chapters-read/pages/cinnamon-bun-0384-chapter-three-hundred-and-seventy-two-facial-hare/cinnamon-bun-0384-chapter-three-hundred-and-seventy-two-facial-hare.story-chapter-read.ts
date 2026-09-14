@@ -8,7 +8,7 @@ export const cinnamonBun0384ChapterThreeHundredAndSeventyTwoFacialHare = {
   story: "story-read/cinnamon-bun",
   position: 384,
   ownLength: 1972,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0430ChapterFourHundredAndSixteenTalkingShop = {
   story: "story-read/cinnamon-bun",
   position: 430,
   ownLength: 2172,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-11",
   externalIdentity: [
     {

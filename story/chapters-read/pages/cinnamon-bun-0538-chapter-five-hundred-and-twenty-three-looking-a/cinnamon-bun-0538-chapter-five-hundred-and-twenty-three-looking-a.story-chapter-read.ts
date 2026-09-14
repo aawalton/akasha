@@ -8,7 +8,7 @@ export const cinnamonBun0538ChapterFiveHundredAndTwentyThreeLookingA = {
   story: "story-read/cinnamon-bun",
   position: 538,
   ownLength: 1461,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-29",
   externalIdentity: [
     {

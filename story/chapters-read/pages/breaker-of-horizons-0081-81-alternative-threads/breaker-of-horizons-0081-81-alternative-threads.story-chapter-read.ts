@@ -8,7 +8,7 @@ export const breakerOfHorizons008181AlternativeThreads = {
   story: "story-read/breaker-of-horizons",
   position: 81,
   ownLength: 2088,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-08",
   externalIdentity: [
     {

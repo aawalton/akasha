@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004545StrongerThanCrystal
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 45,
   ownLength: 1580,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-19",
   externalIdentity: [
     {

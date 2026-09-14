@@ -8,7 +8,7 @@ export const catGirlEvolution003939SuddenQuest = {
   story: "cat-girl-evolution",
   position: 39,
   ownLength: 1925,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-22",
   externalIdentity: [
     {

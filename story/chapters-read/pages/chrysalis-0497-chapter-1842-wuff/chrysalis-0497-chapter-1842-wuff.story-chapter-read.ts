@@ -8,7 +8,7 @@ export const chrysalis0497Chapter1842Wuff = {
   story: "story-read/chrysalis",
   position: 497,
   ownLength: 946,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-12",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0421Chapter1769DonTBeScaredHeSUnarmed = {
   story: "story-read/chrysalis",
   position: 421,
   ownLength: 1084,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-10",
   externalIdentity: [
     {

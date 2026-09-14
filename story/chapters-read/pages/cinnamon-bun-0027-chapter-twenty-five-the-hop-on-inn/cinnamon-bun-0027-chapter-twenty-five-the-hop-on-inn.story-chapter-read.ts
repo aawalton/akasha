@@ -8,7 +8,7 @@ export const cinnamonBun0027ChapterTwentyFiveTheHopOnInn = {
   story: "story-read/cinnamon-bun",
   position: 27,
   ownLength: 2111,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-18",
   externalIdentity: [
     {

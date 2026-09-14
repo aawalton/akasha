@@ -8,7 +8,7 @@ export const catGirlEvolution004444ANewWayToUseMagic = {
   story: "cat-girl-evolution",
   position: 44,
   ownLength: 2442,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-02",
   externalIdentity: [
     {

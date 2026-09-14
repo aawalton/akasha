@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0173173MissingMan = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 173,
   ownLength: 2125,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0321ChapterThreeHundredAndThirteenKnightlight = {
   story: "story-read/cinnamon-bun",
   position: 321,
   ownLength: 1979,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-27",
   externalIdentity: [
     {

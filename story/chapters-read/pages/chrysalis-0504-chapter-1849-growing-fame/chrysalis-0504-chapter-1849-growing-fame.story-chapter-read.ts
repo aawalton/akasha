@@ -8,7 +8,7 @@ export const chrysalis0504Chapter1849GrowingFame = {
   story: "story-read/chrysalis",
   position: 504,
   ownLength: 1103,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-21",
   externalIdentity: [
     {

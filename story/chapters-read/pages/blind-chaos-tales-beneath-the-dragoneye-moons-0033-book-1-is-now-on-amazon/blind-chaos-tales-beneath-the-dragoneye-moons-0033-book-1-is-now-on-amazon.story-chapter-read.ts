@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0033Book1IsNowOnAmazon = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 33,
   ownLength: 234,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-16",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0536ChapterFiveHundredAndTwentyOneTimeAndBride = {
   story: "story-read/cinnamon-bun",
   position: 536,
   ownLength: 1549,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-01-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0057189AdviceFromADragon = {
   story: "story-read/bunny-girl-evolution",
   position: 57,
   ownLength: 3654,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-14",
   externalIdentity: [
     {

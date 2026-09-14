@@ -8,7 +8,7 @@ export const cinnamonBun0192ChapterOneHundredAndEightyFiveGrandmommas = {
   story: "story-read/cinnamon-bun",
   position: 192,
   ownLength: 1985,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-07",
   externalIdentity: [
     {

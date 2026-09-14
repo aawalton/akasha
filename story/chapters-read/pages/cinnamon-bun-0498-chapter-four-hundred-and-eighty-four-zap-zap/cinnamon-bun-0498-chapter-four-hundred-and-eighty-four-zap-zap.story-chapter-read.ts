@@ -8,7 +8,7 @@ export const cinnamonBun0498ChapterFourHundredAndEightyFourZapZap = {
   story: "story-read/cinnamon-bun",
   position: 498,
   ownLength: 1493,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-10",
   externalIdentity: [
     {

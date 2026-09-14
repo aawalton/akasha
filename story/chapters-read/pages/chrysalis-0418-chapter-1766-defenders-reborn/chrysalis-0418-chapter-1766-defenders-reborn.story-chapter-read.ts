@@ -8,7 +8,7 @@ export const chrysalis0418Chapter1766DefendersReborn = {
   story: "story-read/chrysalis",
   position: 418,
   ownLength: 970,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-07",
   externalIdentity: [
     {

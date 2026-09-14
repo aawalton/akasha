@@ -8,7 +8,7 @@ export const cinnamonBun0417ChapterFourHundredAndFourMushy = {
   story: "story-read/cinnamon-bun",
   position: 417,
   ownLength: 1950,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-11",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0491Chapter1836BreatheEasy = {
   story: "story-read/chrysalis",
   position: 491,
   ownLength: 864,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005858SandStalker = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 58,
   ownLength: 2207,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-21",
   externalIdentity: [
     {

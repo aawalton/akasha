@@ -8,7 +8,7 @@ export const cinnamonBun0100ChapterNinetySevenEnterTheDragon = {
   story: "story-read/cinnamon-bun",
   position: 100,
   ownLength: 1933,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-23",
   externalIdentity: [
     {

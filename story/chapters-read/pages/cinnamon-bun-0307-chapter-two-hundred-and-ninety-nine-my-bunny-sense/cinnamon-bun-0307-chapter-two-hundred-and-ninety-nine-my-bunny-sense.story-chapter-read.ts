@@ -8,7 +8,7 @@ export const cinnamonBun0307ChapterTwoHundredAndNinetyNineMyBunnySense = {
   story: "story-read/cinnamon-bun",
   position: 307,
   ownLength: 2057,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-07",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0019Book6Chapter12SnowMoon = {
   position: 19,
   ownLength: 2258,
   ownProgress: 2258,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-10",
   externalIdentity: [
     {

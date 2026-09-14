@@ -7,7 +7,7 @@ export const arkendrithyst042824722Debbyjane = {
   story: "story-read/arkendrithyst",
   position: 428,
   publishedAt: "2023-08-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

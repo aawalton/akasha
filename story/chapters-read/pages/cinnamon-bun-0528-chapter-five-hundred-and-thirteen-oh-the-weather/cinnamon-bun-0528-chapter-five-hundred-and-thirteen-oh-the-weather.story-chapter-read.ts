@@ -8,7 +8,7 @@ export const cinnamonBun0528ChapterFiveHundredAndThirteenOhTheWeather = {
   story: "story-read/cinnamon-bun",
   position: 528,
   ownLength: 1639,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-13",
   externalIdentity: [
     {

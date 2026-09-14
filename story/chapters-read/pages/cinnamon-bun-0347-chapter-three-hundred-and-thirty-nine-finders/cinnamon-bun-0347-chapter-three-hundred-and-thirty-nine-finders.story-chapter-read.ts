@@ -8,7 +8,7 @@ export const cinnamonBun0347ChapterThreeHundredAndThirtyNineFinders = {
   story: "story-read/cinnamon-bun",
   position: 347,
   ownLength: 2014,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-02",
   externalIdentity: [
     {

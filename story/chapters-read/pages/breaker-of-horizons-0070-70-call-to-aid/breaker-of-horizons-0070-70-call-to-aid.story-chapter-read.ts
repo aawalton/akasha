@@ -8,7 +8,7 @@ export const breakerOfHorizons007070CallToAid = {
   story: "story-read/breaker-of-horizons",
   position: 70,
   ownLength: 2251,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-31",
   externalIdentity: [
     {

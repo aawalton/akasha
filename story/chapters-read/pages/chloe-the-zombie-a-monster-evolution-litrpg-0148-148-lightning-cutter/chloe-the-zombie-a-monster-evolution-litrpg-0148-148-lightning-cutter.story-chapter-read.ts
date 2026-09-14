@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0148148LightningCutter = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 148,
   ownLength: 2160,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0031AmeliaBook3DownloadAvai
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 31,
   ownLength: 73,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-11-09",
   externalIdentity: [
     {

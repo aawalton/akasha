@@ -8,7 +8,7 @@ export const catGirlEvolution002727PrincessYonaTheSmartestCatToEverLive = {
   story: "cat-girl-evolution",
   position: 27,
   ownLength: 2403,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons004242AWalkInTheDark = {
   story: "story-read/breaker-of-horizons",
   position: 42,
   ownLength: 2637,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-24",
   externalIdentity: [
     {

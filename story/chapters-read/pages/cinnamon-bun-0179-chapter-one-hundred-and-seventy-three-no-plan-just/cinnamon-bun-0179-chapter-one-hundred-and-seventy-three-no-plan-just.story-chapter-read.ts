@@ -8,7 +8,7 @@ export const cinnamonBun0179ChapterOneHundredAndSeventyThreeNoPlanJust = {
   story: "story-read/cinnamon-bun",
   position: 179,
   ownLength: 1977,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-22",
   externalIdentity: [
     {

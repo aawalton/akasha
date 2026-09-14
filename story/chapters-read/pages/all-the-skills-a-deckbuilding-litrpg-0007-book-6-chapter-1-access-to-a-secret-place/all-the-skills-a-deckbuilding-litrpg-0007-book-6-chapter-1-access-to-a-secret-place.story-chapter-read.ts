@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0007Book6Chapter1AccessToASecretPlac
   position: 7,
   ownLength: 2096,
   ownProgress: 2096,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bewareOfChicken0288V7c35TheLadyOfTheLake = {
   story: "story-read/beware-of-chicken",
   position: 288,
   ownLength: 2282,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-06",
   externalIdentity: [
     {

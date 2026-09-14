@@ -8,7 +8,7 @@ export const chrysalis0473Chapter1819Migration = {
   story: "story-read/chrysalis",
   position: 473,
   ownLength: 798,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007575RestaurantBrawl = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 75,
   ownLength: 1916,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-24",
   externalIdentity: [
     {

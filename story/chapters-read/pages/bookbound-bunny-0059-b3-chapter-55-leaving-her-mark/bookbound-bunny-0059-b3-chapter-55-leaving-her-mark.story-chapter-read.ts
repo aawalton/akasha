@@ -8,7 +8,7 @@ export const bookboundBunny0059B3Chapter55LeavingHerMark = {
   story: "bookbound-bunny",
   position: 59,
   ownLength: 2190,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-18",
   externalIdentity: [
     {

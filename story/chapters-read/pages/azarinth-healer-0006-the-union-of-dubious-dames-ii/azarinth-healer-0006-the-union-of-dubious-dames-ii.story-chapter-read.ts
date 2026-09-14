@@ -8,7 +8,7 @@ export const azarinthHealer0006TheUnionOfDubiousDamesIi = {
   story: "story-read/azarinth-healer",
   position: 6,
   ownLength: 2289,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-01",
   externalIdentity: [
     {

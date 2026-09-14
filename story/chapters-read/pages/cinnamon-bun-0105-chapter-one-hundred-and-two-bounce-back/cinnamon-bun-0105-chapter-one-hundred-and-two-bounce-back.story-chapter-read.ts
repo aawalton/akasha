@@ -8,7 +8,7 @@ export const cinnamonBun0105ChapterOneHundredAndTwoBounceBack = {
   story: "story-read/cinnamon-bun",
   position: 105,
   ownLength: 2015,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0139ChapterOneHundredAndThirtyFourFamilyMatters = {
   story: "story-read/cinnamon-bun",
   position: 139,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-23",
   externalIdentity: [
     {

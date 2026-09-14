@@ -8,7 +8,7 @@ export const cinnamonBun0579ChapterFiveHundredAndSixtyFourDoesntLook = {
   story: "story-read/cinnamon-bun",
   position: 579,
   ownLength: 1471,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0023Book4Chapter21WarTimeCel
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 23,
   ownLength: 5191,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-15",
   externalIdentity: [
     {

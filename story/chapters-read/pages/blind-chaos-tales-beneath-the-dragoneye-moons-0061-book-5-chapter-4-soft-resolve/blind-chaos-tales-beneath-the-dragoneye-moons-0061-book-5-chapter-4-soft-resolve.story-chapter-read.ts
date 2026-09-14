@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0061Book5Chapter4SoftResolve
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 61,
   ownLength: 6372,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-13",
   externalIdentity: [
     {

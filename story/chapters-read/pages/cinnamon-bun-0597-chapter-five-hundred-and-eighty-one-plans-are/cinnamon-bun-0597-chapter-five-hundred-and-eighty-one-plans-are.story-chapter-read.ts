@@ -8,7 +8,7 @@ export const cinnamonBun0597ChapterFiveHundredAndEightyOnePlansAre = {
   story: "story-read/cinnamon-bun",
   position: 597,
   ownLength: 1700,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-15",
   externalIdentity: [
     {

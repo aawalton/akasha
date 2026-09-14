@@ -8,7 +8,7 @@ export const chrysalis0417Chapter1765WhereTheHeckAreTheyGettingItFrom = {
   story: "story-read/chrysalis",
   position: 417,
   ownLength: 1056,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0615ChapterFiveHundredAndNinetyNineCardsOnThe = {
   story: "story-read/cinnamon-bun",
   position: 615,
   ownLength: 2299,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-19",
   externalIdentity: [
     {

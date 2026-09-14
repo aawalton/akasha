@@ -7,7 +7,7 @@ export const bewareOfChicken0106V5c1AWinterTaleBegins1635547 = {
   story: "story-read/beware-of-chicken",
   position: 106,
   publishedAt: "2024-05-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

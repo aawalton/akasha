@@ -8,7 +8,7 @@ export const chrysalis0429Chapter1777ShockedSlugs = {
   story: "story-read/chrysalis",
   position: 429,
   ownLength: 1117,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0217ChapterTwoHundredAndNineNotTheHeroWeNeed = {
   story: "story-read/cinnamon-bun",
   position: 217,
   ownLength: 1883,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-18",
   externalIdentity: [
     {

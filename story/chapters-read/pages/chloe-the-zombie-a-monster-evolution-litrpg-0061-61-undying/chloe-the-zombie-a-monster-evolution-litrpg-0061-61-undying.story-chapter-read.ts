@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006161Undying = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 61,
   ownLength: 2018,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-31",
   externalIdentity: [
     {

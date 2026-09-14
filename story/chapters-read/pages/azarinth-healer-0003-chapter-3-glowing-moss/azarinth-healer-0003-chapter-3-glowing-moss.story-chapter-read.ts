@@ -8,7 +8,7 @@ export const azarinthHealer0003Chapter3GlowingMoss = {
   story: "story-read/azarinth-healer",
   position: 3,
   ownLength: 3544,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-03-02",
   externalIdentity: [
     {

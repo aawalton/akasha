@@ -8,7 +8,7 @@ export const cinnamonBun0396ChapterThreeHundredAndEightyFourSmallTown = {
   story: "story-read/cinnamon-bun",
   position: 396,
   ownLength: 2011,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-21",
   externalIdentity: [
     {

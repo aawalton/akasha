@@ -8,7 +8,7 @@ export const cinnamonBun0095ChapterNinetyTwoMakingFriendsAtTheNext = {
   story: "story-read/cinnamon-bun",
   position: 95,
   ownLength: 1919,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-11",
   externalIdentity: [
     {

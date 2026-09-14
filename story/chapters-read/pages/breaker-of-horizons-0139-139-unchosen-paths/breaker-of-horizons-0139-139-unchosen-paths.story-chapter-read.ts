@@ -8,7 +8,7 @@ export const breakerOfHorizons0139139UnchosenPaths = {
   story: "story-read/breaker-of-horizons",
   position: 139,
   ownLength: 2105,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-30",
   externalIdentity: [
     {

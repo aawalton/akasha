@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0074Book5Chapter17HerFirstWe
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 74,
   ownLength: 4086,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

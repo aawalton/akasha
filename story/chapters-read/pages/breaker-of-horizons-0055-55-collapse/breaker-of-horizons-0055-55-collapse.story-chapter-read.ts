@@ -8,7 +8,7 @@ export const breakerOfHorizons005555Collapse = {
   story: "story-read/breaker-of-horizons",
   position: 55,
   ownLength: 1834,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-09",
   externalIdentity: [
     {

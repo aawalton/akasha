@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0028B6Ch21AwakeWithVenom = {
   position: 28,
   ownLength: 1538,
   ownProgress: 1538,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-21",
   externalIdentity: [
     {

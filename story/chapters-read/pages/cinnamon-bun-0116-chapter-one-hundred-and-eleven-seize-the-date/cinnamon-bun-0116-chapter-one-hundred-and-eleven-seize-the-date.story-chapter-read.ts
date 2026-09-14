@@ -8,7 +8,7 @@ export const cinnamonBun0116ChapterOneHundredAndElevenSeizeTheDate = {
   story: "story-read/cinnamon-bun",
   position: 116,
   ownLength: 1971,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-14",
   externalIdentity: [
     {

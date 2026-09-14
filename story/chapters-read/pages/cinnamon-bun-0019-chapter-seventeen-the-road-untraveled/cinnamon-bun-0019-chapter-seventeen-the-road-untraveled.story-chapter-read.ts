@@ -8,7 +8,7 @@ export const cinnamonBun0019ChapterSeventeenTheRoadUntraveled = {
   story: "story-read/cinnamon-bun",
   position: 19,
   ownLength: 1993,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-06",
   externalIdentity: [
     {

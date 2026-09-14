@@ -7,7 +7,7 @@ export const bewareOfChicken0021V4c13SiblingsInFailure1237592 = {
   story: "story-read/beware-of-chicken",
   position: 21,
   publishedAt: "2023-06-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

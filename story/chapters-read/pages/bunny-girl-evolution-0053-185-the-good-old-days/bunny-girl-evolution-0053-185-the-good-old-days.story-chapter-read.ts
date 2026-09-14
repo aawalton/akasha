@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0053185TheGoodOldDays = {
   story: "story-read/bunny-girl-evolution",
   position: 53,
   ownLength: 3095,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-01",
   externalIdentity: [
     {

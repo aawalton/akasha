@@ -8,7 +8,7 @@ export const cinnamonBun0132ChapterOneHundredAndTwentySevenAPoetAnd = {
   story: "story-read/cinnamon-bun",
   position: 132,
   ownLength: 2006,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-06",
   externalIdentity: [
     {

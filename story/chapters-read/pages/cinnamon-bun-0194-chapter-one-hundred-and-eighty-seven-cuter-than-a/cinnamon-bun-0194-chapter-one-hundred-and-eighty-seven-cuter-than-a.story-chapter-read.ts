@@ -8,7 +8,7 @@ export const cinnamonBun0194ChapterOneHundredAndEightySevenCuterThanA = {
   story: "story-read/cinnamon-bun",
   position: 194,
   ownLength: 1964,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-11",
   externalIdentity: [
     {

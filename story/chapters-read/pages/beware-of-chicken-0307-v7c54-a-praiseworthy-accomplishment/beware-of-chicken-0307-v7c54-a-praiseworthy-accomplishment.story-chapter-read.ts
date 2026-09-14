@@ -8,7 +8,7 @@ export const bewareOfChicken0307V7c54APraiseworthyAccomplishment = {
   story: "story-read/beware-of-chicken",
   position: 307,
   ownLength: 2178,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-03",
   externalIdentity: [
     {

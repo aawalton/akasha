@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0013Book6Chapter6WildDragons = {
   position: 13,
   ownLength: 1997,
   ownProgress: 1997,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-17",
   externalIdentity: [
     {

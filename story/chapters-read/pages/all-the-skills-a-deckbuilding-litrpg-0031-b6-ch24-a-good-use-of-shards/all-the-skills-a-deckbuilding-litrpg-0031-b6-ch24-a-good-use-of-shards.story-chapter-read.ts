@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0031B6Ch24AGoodUseOfShards = {
   position: 31,
   ownLength: 1858,
   ownProgress: 1858,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-05",
   externalIdentity: [
     {

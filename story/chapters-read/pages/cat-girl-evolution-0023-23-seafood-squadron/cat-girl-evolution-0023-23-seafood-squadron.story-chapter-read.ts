@@ -8,7 +8,7 @@ export const catGirlEvolution002323SeafoodSquadron = {
   story: "cat-girl-evolution",
   position: 23,
   ownLength: 2302,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-14",
   externalIdentity: [
     {

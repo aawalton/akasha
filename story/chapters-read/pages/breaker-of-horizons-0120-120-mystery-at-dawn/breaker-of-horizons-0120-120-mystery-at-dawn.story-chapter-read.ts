@@ -8,7 +8,7 @@ export const breakerOfHorizons0120120MysteryAtDawn = {
   story: "story-read/breaker-of-horizons",
   position: 120,
   ownLength: 2298,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0072Book2Chapter9TheThrea
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 72,
   ownLength: 1071,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-19",
   externalIdentity: [
     {

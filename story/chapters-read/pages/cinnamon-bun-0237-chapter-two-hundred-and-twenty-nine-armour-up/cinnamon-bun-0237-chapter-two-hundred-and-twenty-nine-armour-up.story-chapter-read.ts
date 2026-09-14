@@ -8,7 +8,7 @@ export const cinnamonBun0237ChapterTwoHundredAndTwentyNineArmourUp = {
   story: "story-read/cinnamon-bun",
   position: 237,
   ownLength: 1919,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-23",
   externalIdentity: [
     {

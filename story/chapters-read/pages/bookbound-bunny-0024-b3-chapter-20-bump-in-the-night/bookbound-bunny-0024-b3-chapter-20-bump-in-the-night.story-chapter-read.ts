@@ -8,7 +8,7 @@ export const bookboundBunny0024B3Chapter20BumpInTheNight = {
   story: "bookbound-bunny",
   position: 24,
   ownLength: 2035,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001414Kesagiri = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 14,
   ownLength: 1065,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-26",
   externalIdentity: [
     {

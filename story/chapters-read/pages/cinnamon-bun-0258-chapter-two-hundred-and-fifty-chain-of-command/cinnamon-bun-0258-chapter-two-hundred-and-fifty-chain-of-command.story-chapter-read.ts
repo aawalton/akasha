@@ -8,7 +8,7 @@ export const cinnamonBun0258ChapterTwoHundredAndFiftyChainOfCommand = {
   story: "story-read/cinnamon-bun",
   position: 258,
   ownLength: 1960,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-28",
   externalIdentity: [
     {

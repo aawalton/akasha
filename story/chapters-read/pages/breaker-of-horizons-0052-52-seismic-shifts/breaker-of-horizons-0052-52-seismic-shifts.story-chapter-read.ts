@@ -8,7 +8,7 @@ export const breakerOfHorizons005252SeismicShifts = {
   story: "story-read/breaker-of-horizons",
   position: 52,
   ownLength: 2539,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-29",
   externalIdentity: [
     {

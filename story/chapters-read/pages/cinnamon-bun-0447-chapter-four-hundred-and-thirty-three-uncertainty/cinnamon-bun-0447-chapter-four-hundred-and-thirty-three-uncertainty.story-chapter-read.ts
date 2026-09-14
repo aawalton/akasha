@@ -8,7 +8,7 @@ export const cinnamonBun0447ChapterFourHundredAndThirtyThreeUncertainty = {
   story: "story-read/cinnamon-bun",
   position: 447,
   ownLength: 2021,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-14",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0561ChapterFiveHundredAndFortySixComeHereAnd = {
   story: "story-read/cinnamon-bun",
   position: 561,
   ownLength: 1457,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-23",
   externalIdentity: [
     {

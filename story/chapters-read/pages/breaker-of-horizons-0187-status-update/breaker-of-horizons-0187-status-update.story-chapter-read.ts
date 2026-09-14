@@ -8,7 +8,7 @@ export const breakerOfHorizons0187StatusUpdate = {
   story: "story-read/breaker-of-horizons",
   position: 187,
   ownLength: 336,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-20",
   externalIdentity: [
     {

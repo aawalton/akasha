@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0081Book5Chapter24ASeriesOfH
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 81,
   ownLength: 4128,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

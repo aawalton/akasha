@@ -8,7 +8,7 @@ export const cinnamonBun0485ChapterFourHundredAndSeventyOneHaveYourDay = {
   story: "story-read/cinnamon-bun",
   position: 485,
   ownLength: 1536,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-16",
   externalIdentity: [
     {

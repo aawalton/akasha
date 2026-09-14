@@ -8,7 +8,7 @@ export const breakerOfHorizons001111KantTouchThis = {
   story: "story-read/breaker-of-horizons",
   position: 11,
   ownLength: 2226,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-08",
   externalIdentity: [
     {

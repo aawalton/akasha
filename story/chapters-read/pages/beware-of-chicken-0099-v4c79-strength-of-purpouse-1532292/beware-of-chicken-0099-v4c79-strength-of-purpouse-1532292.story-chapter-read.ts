@@ -7,7 +7,7 @@ export const bewareOfChicken0099V4c79StrengthOfPurpouse1532292 = {
   story: "story-read/beware-of-chicken",
   position: 99,
   publishedAt: "2024-02-26",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

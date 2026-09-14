@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0004Chapter42SundayIntoMondayReunion =
   story: "alexa-thyme-formerly-alexithymia",
   position: 4,
   ownLength: 2557,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-25",
   externalIdentity: [
     {

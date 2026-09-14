@@ -8,7 +8,7 @@ export const cinnamonBun0463ChapterFourHundredAndFortyNineSuperego = {
   story: "story-read/cinnamon-bun",
   position: 463,
   ownLength: 1529,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-11-28",
   externalIdentity: [
     {

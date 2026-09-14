@@ -8,7 +8,7 @@ export const breakerOfHorizons004040SnippingStrings = {
   story: "story-read/breaker-of-horizons",
   position: 40,
   ownLength: 2554,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-17",
   externalIdentity: [
     {

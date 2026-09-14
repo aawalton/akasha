@@ -8,7 +8,7 @@ export const catGirlEvolution00011QuiteTheMystery = {
   story: "cat-girl-evolution",
   position: 1,
   ownLength: 2036,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-17",
   externalIdentity: [
     {

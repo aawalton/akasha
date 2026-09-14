@@ -7,7 +7,7 @@ export const arkendrithyst0059059EndOfBook2429215 = {
   story: "story-read/arkendrithyst",
   position: 59,
   publishedAt: "2019-11-29",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

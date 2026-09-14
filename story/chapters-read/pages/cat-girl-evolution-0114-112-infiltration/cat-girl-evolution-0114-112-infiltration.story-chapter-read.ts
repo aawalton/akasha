@@ -8,7 +8,7 @@ export const catGirlEvolution0114112Infiltration = {
   story: "cat-girl-evolution",
   position: 114,
   ownLength: 3459,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-10",
   externalIdentity: [
     {

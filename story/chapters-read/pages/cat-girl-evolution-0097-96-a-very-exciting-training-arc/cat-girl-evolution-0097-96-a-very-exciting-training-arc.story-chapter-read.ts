@@ -8,7 +8,7 @@ export const catGirlEvolution009796AVeryExcitingTrainingArc = {
   story: "cat-girl-evolution",
   position: 97,
   ownLength: 2514,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0320ChapterThreeHundredAndTwelveLayThemToRest = {
   story: "story-read/cinnamon-bun",
   position: 320,
   ownLength: 1957,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-20",
   externalIdentity: [
     {

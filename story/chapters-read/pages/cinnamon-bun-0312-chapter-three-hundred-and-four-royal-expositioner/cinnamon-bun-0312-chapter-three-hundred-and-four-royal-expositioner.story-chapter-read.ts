@@ -8,7 +8,7 @@ export const cinnamonBun0312ChapterThreeHundredAndFourRoyalExpositioner = {
   story: "story-read/cinnamon-bun",
   position: 312,
   ownLength: 1998,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-04-21",
   externalIdentity: [
     {

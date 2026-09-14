@@ -8,7 +8,7 @@ export const breakerOfHorizons004646ForgottenThings = {
   story: "story-read/breaker-of-horizons",
   position: 46,
   ownLength: 2409,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-08",
   externalIdentity: [
     {

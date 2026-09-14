@@ -8,7 +8,7 @@ export const catGirlEvolution003131PrincessYonaTheChosenOne = {
   story: "cat-girl-evolution",
   position: 31,
   ownLength: 2414,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-03",
   externalIdentity: [
     {

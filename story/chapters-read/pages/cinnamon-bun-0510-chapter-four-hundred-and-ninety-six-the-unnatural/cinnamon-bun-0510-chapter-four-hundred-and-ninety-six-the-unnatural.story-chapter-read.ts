@@ -8,7 +8,7 @@ export const cinnamonBun0510ChapterFourHundredAndNinetySixTheUnnatural = {
   story: "story-read/cinnamon-bun",
   position: 510,
   ownLength: 1559,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-10",
   externalIdentity: [
     {

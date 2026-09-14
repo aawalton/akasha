@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0071202IMImmuneToHandcuffs = {
   story: "story-read/bunny-girl-evolution",
   position: 71,
   ownLength: 3253,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-27",
   externalIdentity: [
     {

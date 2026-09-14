@@ -8,7 +8,7 @@ export const cinnamonBun0544ChapterFiveHundredAndTwentyNineIScreamYou = {
   story: "story-read/cinnamon-bun",
   position: 544,
   ownLength: 1610,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-19",
   externalIdentity: [
     {

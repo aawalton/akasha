@@ -8,7 +8,7 @@ export const cinnamonBun0042ChapterThirtyNineGuildMeUpButtercup = {
   story: "story-read/cinnamon-bun",
   position: 42,
   ownLength: 2011,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-11",
   externalIdentity: [
     {

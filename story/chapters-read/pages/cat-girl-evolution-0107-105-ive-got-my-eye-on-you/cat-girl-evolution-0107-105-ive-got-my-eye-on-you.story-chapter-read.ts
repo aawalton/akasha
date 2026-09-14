@@ -8,7 +8,7 @@ export const catGirlEvolution0107105IveGotMyEyeOnYou = {
   story: "cat-girl-evolution",
   position: 107,
   ownLength: 2192,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-28",
   externalIdentity: [
     {

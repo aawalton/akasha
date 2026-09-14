@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0002Dedication765885 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 2,
   publishedAt: "2021-10-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

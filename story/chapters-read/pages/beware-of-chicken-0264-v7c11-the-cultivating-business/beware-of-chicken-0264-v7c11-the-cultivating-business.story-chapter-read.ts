@@ -9,7 +9,7 @@ export const bewareOfChicken0264V7c11TheCultivatingBusiness = {
   position: 264,
   ownLength: 2078,
   ownProgress: 2078,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:00:28.330Z",
   publishedAt: "2025-12-12",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const cinnamonBun0392ChapterThreeHundredAndEightyTheWedding = {
   story: "story-read/cinnamon-bun",
   position: 392,
   ownLength: 1761,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-31",
   externalIdentity: [
     {

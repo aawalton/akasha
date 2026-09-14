@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0045Book4Chapter40TheHourgla
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 45,
   ownLength: 6375,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-02",
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const bewareOfChicken0017V4c11TheSeniorDisciple1224170 = {
   story: "story-read/beware-of-chicken",
   position: 17,
   publishedAt: "2023-05-25",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

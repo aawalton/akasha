@@ -8,7 +8,7 @@ export const cinnamonBun0149ChapterOneHundredAndFortyFourLaVogueDeLa = {
   story: "story-read/cinnamon-bun",
   position: 149,
   ownLength: 1972,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-23",
   externalIdentity: [
     {

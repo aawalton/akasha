@@ -8,7 +8,7 @@ export const chrysalis0438Chapter1786ItJustDoesnTStop = {
   story: "story-read/chrysalis",
   position: 438,
   ownLength: 1085,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-05",
   externalIdentity: [
     {

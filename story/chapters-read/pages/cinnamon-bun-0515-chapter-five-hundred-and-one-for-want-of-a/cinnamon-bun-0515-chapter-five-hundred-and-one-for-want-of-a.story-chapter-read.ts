@@ -8,7 +8,7 @@ export const cinnamonBun0515ChapterFiveHundredAndOneForWantOfA = {
   story: "story-read/cinnamon-bun",
   position: 515,
   ownLength: 1726,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-14",
   externalIdentity: [
     {

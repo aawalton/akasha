@@ -8,7 +8,7 @@ export const cinnamonBun0278ChapterTwoHundredAndSeventyOkayAuthoritarian = {
   story: "story-read/cinnamon-bun",
   position: 278,
   ownLength: 1949,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-30",
   externalIdentity: [
     {

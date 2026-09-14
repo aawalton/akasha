@@ -8,7 +8,7 @@ export const breakerOfHorizons0110110TheCostOfThaumaturgy = {
   story: "story-read/breaker-of-horizons",
   position: 110,
   ownLength: 2170,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-20",
   externalIdentity: [
     {

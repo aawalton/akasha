@@ -9,7 +9,7 @@ export const bewareOfChicken0278V7c25Homecoming = {
   position: 278,
   ownLength: 1747,
   ownProgress: 1747,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:00:58.033Z",
   publishedAt: "2026-02-03",
   externalIdentity: [

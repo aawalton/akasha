@@ -9,7 +9,7 @@ export const chrysalis0243Chapter1595TheSizzlingSpectacle = {
   position: 243,
   ownLength: 986,
   ownProgress: 986,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:51:35.349Z",
   publishedAt: "2025-06-30",
   externalIdentity: [

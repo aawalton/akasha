@@ -8,7 +8,7 @@ export const cinnamonBun0598ChapterFiveHundredAndEightyTwoAddADashOf = {
   story: "story-read/cinnamon-bun",
   position: 598,
   ownLength: 1591,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-22",
   externalIdentity: [
     {

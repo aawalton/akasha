@@ -8,7 +8,7 @@ export const breakerOfHorizons0150150ScalingHeights = {
   story: "story-read/breaker-of-horizons",
   position: 150,
   ownLength: 1985,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-08",
   externalIdentity: [
     {

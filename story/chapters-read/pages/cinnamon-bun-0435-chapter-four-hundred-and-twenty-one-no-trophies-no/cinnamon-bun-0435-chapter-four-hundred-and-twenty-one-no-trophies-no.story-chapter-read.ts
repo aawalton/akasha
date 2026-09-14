@@ -9,7 +9,7 @@ export const cinnamonBun0435ChapterFourHundredAndTwentyOneNoTrophiesNo = {
   story: "story-read/cinnamon-bun",
   position: 435,
   ownLength: 1970,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-28",
   externalIdentity: [
     {

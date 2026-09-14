@@ -8,7 +8,7 @@ export const azarinthHealer0009Chapter930Shelter = {
   story: "story-read/azarinth-healer",
   position: 9,
   ownLength: 3232,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-27",
   externalIdentity: [
     {

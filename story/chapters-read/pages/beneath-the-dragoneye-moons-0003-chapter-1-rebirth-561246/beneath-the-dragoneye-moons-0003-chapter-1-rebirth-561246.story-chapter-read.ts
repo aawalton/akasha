@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0003Chapter1Rebirth561246 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 3,
   publishedAt: "2020-09-28",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

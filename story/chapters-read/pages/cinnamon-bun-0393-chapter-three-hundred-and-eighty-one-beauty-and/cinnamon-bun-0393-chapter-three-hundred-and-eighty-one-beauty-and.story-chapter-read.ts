@@ -8,7 +8,7 @@ export const cinnamonBun0393ChapterThreeHundredAndEightyOneBeautyAnd = {
   story: "story-read/cinnamon-bun",
   position: 393,
   ownLength: 1966,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-02",
   externalIdentity: [
     {

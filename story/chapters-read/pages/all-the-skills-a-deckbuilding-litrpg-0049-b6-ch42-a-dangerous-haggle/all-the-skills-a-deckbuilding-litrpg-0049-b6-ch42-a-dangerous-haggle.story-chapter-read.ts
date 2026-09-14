@@ -8,7 +8,7 @@ export const allTheSkillsADeckbuildingLitrpg0049B6Ch42ADangerousHaggle = {
   story: "all-the-skills-a-deckbuilding-litrpg",
   position: 49,
   ownLength: 4432,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-09",
   externalIdentity: [
     {

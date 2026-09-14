@@ -8,7 +8,7 @@ export const cinnamonBun0058ChapterFiftyFiveRevelations = {
   story: "story-read/cinnamon-bun",
   position: 58,
   ownLength: 2004,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-06",
   externalIdentity: [
     {

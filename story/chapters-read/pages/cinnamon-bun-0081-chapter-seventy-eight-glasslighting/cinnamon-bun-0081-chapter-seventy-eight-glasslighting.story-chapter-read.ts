@@ -8,7 +8,7 @@ export const cinnamonBun0081ChapterSeventyEightGlasslighting = {
   story: "story-read/cinnamon-bun",
   position: 81,
   ownLength: 2341,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-18",
   externalIdentity: [
     {

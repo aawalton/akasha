@@ -8,7 +8,7 @@ export const cinnamonBun0211ChapterTwoHundredAndThreeDoScienceToIt = {
   story: "story-read/cinnamon-bun",
   position: 211,
   ownLength: 2059,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-04",
   externalIdentity: [
     {

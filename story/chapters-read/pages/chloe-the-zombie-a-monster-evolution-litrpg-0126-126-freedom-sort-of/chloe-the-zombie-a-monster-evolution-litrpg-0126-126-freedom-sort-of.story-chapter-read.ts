@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0126126FreedomSortOf = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 126,
   ownLength: 1795,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-16",
   externalIdentity: [
     {

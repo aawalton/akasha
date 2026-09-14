@@ -8,7 +8,7 @@ export const cinnamonBun0213ChapterTwoHundredAndFiveVictorySleep = {
   story: "story-read/cinnamon-bun",
   position: 213,
   ownLength: 1356,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-09",
   externalIdentity: [
     {

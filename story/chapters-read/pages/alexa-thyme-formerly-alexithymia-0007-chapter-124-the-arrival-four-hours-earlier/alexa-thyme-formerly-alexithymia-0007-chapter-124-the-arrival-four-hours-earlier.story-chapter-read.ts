@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0007Chapter124TheArrivalFourHoursEarli
   story: "alexa-thyme-formerly-alexithymia",
   position: 7,
   ownLength: 3037,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-23",
   externalIdentity: [
     {

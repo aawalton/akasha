@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0007Book4Chapter6TimeWon = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 7,
   ownLength: 5910,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-13",
   externalIdentity: [
     {

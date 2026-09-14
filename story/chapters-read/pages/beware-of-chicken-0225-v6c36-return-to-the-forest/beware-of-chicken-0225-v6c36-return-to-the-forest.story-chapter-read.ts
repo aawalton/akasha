@@ -9,7 +9,7 @@ export const bewareOfChicken0225V6c36ReturnToTheForest = {
   position: 225,
   ownLength: 2347,
   ownProgress: 2347,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:59:05.405Z",
   publishedAt: "2025-06-21",
   externalIdentity: [

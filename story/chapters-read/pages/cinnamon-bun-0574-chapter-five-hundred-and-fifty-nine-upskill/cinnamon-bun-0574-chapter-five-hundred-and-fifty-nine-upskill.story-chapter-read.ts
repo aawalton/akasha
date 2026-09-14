@@ -8,7 +8,7 @@ export const cinnamonBun0574ChapterFiveHundredAndFiftyNineUpskill = {
   story: "story-read/cinnamon-bun",
   position: 574,
   ownLength: 1506,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-31",
   externalIdentity: [
     {

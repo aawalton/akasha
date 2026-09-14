@@ -8,7 +8,7 @@ export const chrysalis0482Chapter1828CloggingUpTheWorks = {
   story: "story-read/chrysalis",
   position: 482,
   ownLength: 1053,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-02",
   externalIdentity: [
     {

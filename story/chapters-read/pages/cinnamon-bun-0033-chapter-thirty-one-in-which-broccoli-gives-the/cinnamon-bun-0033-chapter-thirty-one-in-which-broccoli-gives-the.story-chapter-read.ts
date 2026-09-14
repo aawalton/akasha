@@ -8,7 +8,7 @@ export const cinnamonBun0033ChapterThirtyOneInWhichBroccoliGivesThe = {
   story: "story-read/cinnamon-bun",
   position: 33,
   ownLength: 1959,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-01",
   externalIdentity: [
     {

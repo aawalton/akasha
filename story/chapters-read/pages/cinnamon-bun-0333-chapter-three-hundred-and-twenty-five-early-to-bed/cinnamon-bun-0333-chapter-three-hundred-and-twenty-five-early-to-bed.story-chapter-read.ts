@@ -8,7 +8,7 @@ export const cinnamonBun0333ChapterThreeHundredAndTwentyFiveEarlyToBed = {
   story: "story-read/cinnamon-bun",
   position: 333,
   ownLength: 1960,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-15",
   externalIdentity: [
     {

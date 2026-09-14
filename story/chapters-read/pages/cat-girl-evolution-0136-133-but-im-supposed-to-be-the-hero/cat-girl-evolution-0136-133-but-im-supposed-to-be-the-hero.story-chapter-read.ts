@@ -8,7 +8,7 @@ export const catGirlEvolution0136133ButImSupposedToBeTheHero = {
   story: "cat-girl-evolution",
   position: 136,
   ownLength: 2708,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-29",
   externalIdentity: [
     {

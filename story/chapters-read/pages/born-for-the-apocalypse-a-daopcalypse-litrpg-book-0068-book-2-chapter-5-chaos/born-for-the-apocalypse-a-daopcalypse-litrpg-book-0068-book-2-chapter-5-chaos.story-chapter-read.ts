@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0068Book2Chapter5Chaos = 
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 68,
   ownLength: 1087,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-11",
   externalIdentity: [
     {

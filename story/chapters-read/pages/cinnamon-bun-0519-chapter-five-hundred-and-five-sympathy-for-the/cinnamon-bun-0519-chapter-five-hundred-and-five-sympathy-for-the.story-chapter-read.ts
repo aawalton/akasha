@@ -8,7 +8,7 @@ export const cinnamonBun0519ChapterFiveHundredAndFiveSympathyForThe = {
   story: "story-read/cinnamon-bun",
   position: 519,
   ownLength: 1664,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-11",
   externalIdentity: [
     {

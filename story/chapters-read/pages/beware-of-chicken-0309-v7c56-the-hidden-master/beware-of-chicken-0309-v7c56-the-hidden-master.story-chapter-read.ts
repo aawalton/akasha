@@ -8,7 +8,7 @@ export const bewareOfChicken0309V7c56TheHiddenMaster = {
   story: "story-read/beware-of-chicken",
   position: 309,
   ownLength: 2486,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-08",
   externalIdentity: [
     {

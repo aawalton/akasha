@@ -8,7 +8,7 @@ export const chrysalis0488Chapter1833PressureMakesDiamonds = {
   story: "story-read/chrysalis",
   position: 488,
   ownLength: 893,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-30",
   externalIdentity: [
     {

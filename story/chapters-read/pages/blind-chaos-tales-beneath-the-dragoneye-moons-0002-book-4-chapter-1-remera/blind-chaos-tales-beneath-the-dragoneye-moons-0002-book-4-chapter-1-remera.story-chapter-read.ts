@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0002Book4Chapter1Remera = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 2,
   ownLength: 4610,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-25",
   externalIdentity: [
     {

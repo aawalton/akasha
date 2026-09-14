@@ -8,7 +8,7 @@ export const breakerOfHorizons00033PrecisionMatters = {
   story: "story-read/breaker-of-horizons",
   position: 3,
   ownLength: 3167,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-11",
   externalIdentity: [
     {

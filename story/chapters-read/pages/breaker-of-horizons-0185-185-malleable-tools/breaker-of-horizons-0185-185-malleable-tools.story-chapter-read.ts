@@ -8,7 +8,7 @@ export const breakerOfHorizons0185185MalleableTools = {
   story: "story-read/breaker-of-horizons",
   position: 185,
   ownLength: 2066,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-14",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0585ChapterFiveHundredAndSixtyNineSiegePerilous = {
   story: "story-read/cinnamon-bun",
   position: 585,
   ownLength: 1453,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-14",
   externalIdentity: [
     {

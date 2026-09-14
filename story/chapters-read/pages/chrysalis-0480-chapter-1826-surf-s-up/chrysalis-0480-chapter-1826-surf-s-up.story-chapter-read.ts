@@ -8,7 +8,7 @@ export const chrysalis0480Chapter1826SurfSUp = {
   story: "story-read/chrysalis",
   position: 480,
   ownLength: 890,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-30",
   externalIdentity: [
     {

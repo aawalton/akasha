@@ -7,7 +7,7 @@ export const bewareOfChicken0027V4c19ThePlansOfMen1260111 = {
   story: "story-read/beware-of-chicken",
   position: 27,
   publishedAt: "2023-06-28",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

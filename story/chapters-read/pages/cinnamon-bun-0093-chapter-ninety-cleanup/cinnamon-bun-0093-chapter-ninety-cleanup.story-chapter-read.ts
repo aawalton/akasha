@@ -8,7 +8,7 @@ export const cinnamonBun0093ChapterNinetyCleanup = {
   story: "story-read/cinnamon-bun",
   position: 93,
   ownLength: 2152,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const catGirlEvolution001515SkillUpgrades = {
   story: "cat-girl-evolution",
   position: 15,
   ownLength: 3004,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-26",
   externalIdentity: [
     {

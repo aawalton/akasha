@@ -9,7 +9,7 @@ export const chrysalis0350Chapter1698Greed = {
   position: 350,
   ownLength: 1323,
   ownProgress: 1323,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:55:00.570Z",
   publishedAt: "2025-12-04",
   externalIdentity: [

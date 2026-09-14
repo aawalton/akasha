@@ -8,7 +8,7 @@ export const cinnamonBun0427ChapterFourHundredAndThirteenCaptainsDuty = {
   story: "story-read/cinnamon-bun",
   position: 427,
   ownLength: 2152,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-06-20",
   externalIdentity: [
     {

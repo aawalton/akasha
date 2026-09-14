@@ -8,7 +8,7 @@ export const chrysalis0511Chapter1856IntoTheLight = {
   story: "story-read/chrysalis",
   position: 511,
   ownLength: 1128,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-01",
   externalIdentity: [
     {

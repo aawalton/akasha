@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0032Sick = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 32,
   ownLength: 237,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-14",
   externalIdentity: [
     {

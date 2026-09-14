@@ -8,7 +8,7 @@ export const cinnamonBun0020ChapterEighteenPickAPixie = {
   story: "story-read/cinnamon-bun",
   position: 20,
   ownLength: 1935,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-07",
   externalIdentity: [
     {

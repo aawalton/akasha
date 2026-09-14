@@ -8,7 +8,7 @@ export const cinnamonBun0370ChapterThreeHundredAndSixtyOneBiteTheGust = {
   story: "story-read/cinnamon-bun",
   position: 370,
   ownLength: 2102,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-17",
   externalIdentity: [
     {

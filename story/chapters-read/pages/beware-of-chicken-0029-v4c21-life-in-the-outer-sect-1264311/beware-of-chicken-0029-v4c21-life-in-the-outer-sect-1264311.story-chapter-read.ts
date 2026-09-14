@@ -7,7 +7,7 @@ export const bewareOfChicken0029V4c21LifeInTheOuterSect1264311 = {
   story: "story-read/beware-of-chicken",
   position: 29,
   publishedAt: "2023-07-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

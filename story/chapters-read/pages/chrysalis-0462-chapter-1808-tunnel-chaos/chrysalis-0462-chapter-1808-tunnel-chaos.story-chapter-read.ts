@@ -8,7 +8,7 @@ export const chrysalis0462Chapter1808TunnelChaos = {
   story: "story-read/chrysalis",
   position: 462,
   ownLength: 793,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons0146146ParsingHistory = {
   story: "story-read/breaker-of-horizons",
   position: 146,
   ownLength: 2108,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-23",
   externalIdentity: [
     {

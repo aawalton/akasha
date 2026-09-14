@@ -8,7 +8,7 @@ export const cinnamonBun0234ChapterTwoHundredAndTwentySixSkillsAnd = {
   story: "story-read/cinnamon-bun",
   position: 234,
   ownLength: 1944,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-20",
   externalIdentity: [
     {

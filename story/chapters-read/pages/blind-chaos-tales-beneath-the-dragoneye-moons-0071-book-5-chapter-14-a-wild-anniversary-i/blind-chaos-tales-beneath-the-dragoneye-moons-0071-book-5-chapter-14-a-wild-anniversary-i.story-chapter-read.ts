@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0071Book5Chapter14AWildAnniv
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 71,
   ownLength: 4782,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-01",
   externalIdentity: [
     {

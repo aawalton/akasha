@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0071Book2Chapter8OneDown 
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 71,
   ownLength: 1056,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-18",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const catGirlEvolution004646NewMinionsAcquired = {
   story: "cat-girl-evolution",
   position: 46,
   ownLength: 2394,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-07",
   externalIdentity: [
     {

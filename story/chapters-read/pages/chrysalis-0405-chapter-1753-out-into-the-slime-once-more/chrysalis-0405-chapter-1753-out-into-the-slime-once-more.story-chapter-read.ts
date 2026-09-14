@@ -8,7 +8,7 @@ export const chrysalis0405Chapter1753OutIntoTheSlimeOnceMore = {
   story: "story-read/chrysalis",
   position: 405,
   ownLength: 1091,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-13",
   externalIdentity: [
     {

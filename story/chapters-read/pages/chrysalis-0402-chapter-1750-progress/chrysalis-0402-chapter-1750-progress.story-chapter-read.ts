@@ -8,7 +8,7 @@ export const chrysalis0402Chapter1750Progress = {
   story: "story-read/chrysalis",
   position: 402,
   ownLength: 946,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-13",
   externalIdentity: [
     {

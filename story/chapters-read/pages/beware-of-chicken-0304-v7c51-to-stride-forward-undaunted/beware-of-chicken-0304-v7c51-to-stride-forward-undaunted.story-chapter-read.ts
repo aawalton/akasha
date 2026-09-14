@@ -8,7 +8,7 @@ export const bewareOfChicken0304V7c51ToStrideForwardUndaunted = {
   story: "story-read/beware-of-chicken",
   position: 304,
   ownLength: 2389,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-27",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const catGirlEvolution005757AuraFarming = {
   story: "cat-girl-evolution",
   position: 57,
   ownLength: 2019,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-03",
   externalIdentity: [
     {

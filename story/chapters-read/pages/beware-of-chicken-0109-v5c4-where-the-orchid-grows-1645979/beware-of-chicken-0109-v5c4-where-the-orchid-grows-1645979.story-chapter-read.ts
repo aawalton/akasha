@@ -7,7 +7,7 @@ export const bewareOfChicken0109V5c4WhereTheOrchidGrows1645979 = {
   story: "story-read/beware-of-chicken",
   position: 109,
   publishedAt: "2024-05-22",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

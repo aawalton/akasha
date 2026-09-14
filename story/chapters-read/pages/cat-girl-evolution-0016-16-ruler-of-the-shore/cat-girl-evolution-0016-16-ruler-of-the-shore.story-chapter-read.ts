@@ -8,7 +8,7 @@ export const catGirlEvolution001616RulerOfTheShore = {
   story: "cat-girl-evolution",
   position: 16,
   ownLength: 2211,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-28",
   externalIdentity: [
     {

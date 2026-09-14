@@ -8,7 +8,7 @@ export const breakerOfHorizons00088PowerLadder = {
   story: "story-read/breaker-of-horizons",
   position: 8,
   ownLength: 1896,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0338ChapterThreeHundredAndThirtySmother = {
   story: "story-read/cinnamon-bun",
   position: 338,
   ownLength: 1951,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-02",
   externalIdentity: [
     {

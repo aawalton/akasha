@@ -7,7 +7,7 @@ export const azarinthHealer0007AzarinthHealerBookOneEditedByPortalBooks = {
   story: "story-read/azarinth-healer",
   position: 7,
   publishedAt: "2022-11-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

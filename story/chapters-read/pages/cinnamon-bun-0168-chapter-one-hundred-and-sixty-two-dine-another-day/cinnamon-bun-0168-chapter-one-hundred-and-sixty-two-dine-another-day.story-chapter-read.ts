@@ -8,7 +8,7 @@ export const cinnamonBun0168ChapterOneHundredAndSixtyTwoDineAnotherDay = {
   story: "story-read/cinnamon-bun",
   position: 168,
   ownLength: 2016,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-23",
   externalIdentity: [
     {

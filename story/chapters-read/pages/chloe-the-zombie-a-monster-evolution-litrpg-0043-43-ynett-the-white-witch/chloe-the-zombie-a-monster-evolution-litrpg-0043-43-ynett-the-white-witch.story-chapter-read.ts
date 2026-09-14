@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004343YnettTheWhiteWitch = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 43,
   ownLength: 2242,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-01",
   externalIdentity: [
     {

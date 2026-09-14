@@ -8,7 +8,7 @@ export const cinnamonBun0442ChapterFourHundredAndTwentyEightAdrenaline = {
   story: "story-read/cinnamon-bun",
   position: 442,
   ownLength: 1829,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-24",
   externalIdentity: [
     {

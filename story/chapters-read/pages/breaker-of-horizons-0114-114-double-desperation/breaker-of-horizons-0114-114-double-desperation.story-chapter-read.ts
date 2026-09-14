@@ -8,7 +8,7 @@ export const breakerOfHorizons0114114DoubleDesperation = {
   story: "story-read/breaker-of-horizons",
   position: 114,
   ownLength: 2248,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-03",
   externalIdentity: [
     {

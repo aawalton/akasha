@@ -8,7 +8,7 @@ export const bewareOfChicken0341V7EpilogueAndThePathsLeadingBackHome = {
   story: "story-read/beware-of-chicken",
   position: 341,
   ownLength: 3122,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-03",
   externalIdentity: [
     {

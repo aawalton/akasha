@@ -8,7 +8,7 @@ export const bewareOfChicken0330V7c77ImperialMandate = {
   story: "story-read/beware-of-chicken",
   position: 330,
   ownLength: 2225,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-10",
   externalIdentity: [
     {

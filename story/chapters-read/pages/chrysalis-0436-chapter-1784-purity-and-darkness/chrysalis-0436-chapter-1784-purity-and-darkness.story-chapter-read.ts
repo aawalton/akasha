@@ -8,7 +8,7 @@ export const chrysalis0436Chapter1784PurityAndDarkness = {
   story: "story-read/chrysalis",
   position: 436,
   ownLength: 1156,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-01",
   externalIdentity: [
     {

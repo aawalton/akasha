@@ -8,7 +8,7 @@ export const cinnamonBun0147ChapterOneHundredAndFortyTwoHesARealFixer = {
   story: "story-read/cinnamon-bun",
   position: 147,
   ownLength: 1981,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-09",
   externalIdentity: [
     {

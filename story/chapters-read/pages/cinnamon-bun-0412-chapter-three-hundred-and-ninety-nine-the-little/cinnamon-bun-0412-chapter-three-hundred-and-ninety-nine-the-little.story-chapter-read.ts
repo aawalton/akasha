@@ -8,7 +8,7 @@ export const cinnamonBun0412ChapterThreeHundredAndNinetyNineTheLittle = {
   story: "story-read/cinnamon-bun",
   position: 412,
   ownLength: 1982,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-20",
   externalIdentity: [
     {

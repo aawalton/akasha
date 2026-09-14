@@ -8,7 +8,7 @@ export const cinnamonBun0346ChapterThreeHundredAndThirtyEightAbandoned = {
   story: "story-read/cinnamon-bun",
   position: 346,
   ownLength: 2162,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-30",
   externalIdentity: [
     {

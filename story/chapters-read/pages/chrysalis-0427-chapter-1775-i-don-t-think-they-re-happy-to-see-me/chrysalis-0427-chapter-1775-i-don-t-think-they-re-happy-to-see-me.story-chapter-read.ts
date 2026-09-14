@@ -8,7 +8,7 @@ export const chrysalis0427Chapter1775IDonTThinkTheyReHappyToSeeMe = {
   story: "story-read/chrysalis",
   position: 427,
   ownLength: 942,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-20",
   externalIdentity: [
     {

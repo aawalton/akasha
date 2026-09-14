@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone73147
   story: "story-read/beneath-the-dragoneye-moons",
   position: 8,
   publishedAt: "2021-08-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

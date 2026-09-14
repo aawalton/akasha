@@ -8,7 +8,7 @@ export const cinnamonBun0130ChapterOneHundredAndTwentyFiveBad = {
   story: "story-read/cinnamon-bun",
   position: 130,
   ownLength: 1978,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-02",
   externalIdentity: [
     {

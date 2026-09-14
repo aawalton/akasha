@@ -8,7 +8,7 @@ export const bookboundBunny0047B3Chapter43Seeding = {
   story: "bookbound-bunny",
   position: 47,
   ownLength: 2113,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0187ChapterOneHundredAndEightyTheParableOfThe = {
   story: "story-read/cinnamon-bun",
   position: 187,
   ownLength: 1992,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-14",
   externalIdentity: [
     {

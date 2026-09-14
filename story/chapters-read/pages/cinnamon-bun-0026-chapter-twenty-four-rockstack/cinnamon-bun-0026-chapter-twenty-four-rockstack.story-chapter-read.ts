@@ -8,7 +8,7 @@ export const cinnamonBun0026ChapterTwentyFourRockstack = {
   story: "story-read/cinnamon-bun",
   position: 26,
   ownLength: 1983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-15",
   externalIdentity: [
     {

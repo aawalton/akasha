@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0036Book4Chapter31AnElfsVaca
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 36,
   ownLength: 3358,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-26",
   externalIdentity: [
     {

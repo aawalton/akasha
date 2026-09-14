@@ -8,7 +8,7 @@ export const chrysalis0403Chapter1751UpdatedMaps = {
   story: "story-read/chrysalis",
   position: 403,
   ownLength: 1147,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-13",
   externalIdentity: [
     {

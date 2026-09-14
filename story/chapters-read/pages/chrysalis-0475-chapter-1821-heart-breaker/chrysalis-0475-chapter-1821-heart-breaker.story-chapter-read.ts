@@ -8,7 +8,7 @@ export const chrysalis0475Chapter1821HeartBreaker = {
   story: "story-read/chrysalis",
   position: 475,
   ownLength: 969,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-23",
   externalIdentity: [
     {

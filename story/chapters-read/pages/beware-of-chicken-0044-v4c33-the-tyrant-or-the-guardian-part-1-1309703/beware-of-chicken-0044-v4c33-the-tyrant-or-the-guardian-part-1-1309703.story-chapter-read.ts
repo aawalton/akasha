@@ -7,7 +7,7 @@ export const bewareOfChicken0044V4c33TheTyrantOrTheGuardianPart11309703 = {
   story: "story-read/beware-of-chicken",
   position: 44,
   publishedAt: "2023-08-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

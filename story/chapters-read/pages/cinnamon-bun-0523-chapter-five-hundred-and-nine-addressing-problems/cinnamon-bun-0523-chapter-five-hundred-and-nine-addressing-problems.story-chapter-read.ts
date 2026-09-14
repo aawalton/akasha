@@ -8,7 +8,7 @@ export const cinnamonBun0523ChapterFiveHundredAndNineAddressingProblems = {
   story: "story-read/cinnamon-bun",
   position: 523,
   ownLength: 1722,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-09",
   externalIdentity: [
     {

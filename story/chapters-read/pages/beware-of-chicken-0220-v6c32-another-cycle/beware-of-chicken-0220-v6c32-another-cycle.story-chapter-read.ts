@@ -9,7 +9,7 @@ export const bewareOfChicken0220V6c32AnotherCycle = {
   position: 220,
   ownLength: 2939,
   ownProgress: 2939,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T18:58:54.670Z",
   publishedAt: "2025-06-06",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003131BodyRefinementStone
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 31,
   ownLength: 1279,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-10",
   externalIdentity: [
     {

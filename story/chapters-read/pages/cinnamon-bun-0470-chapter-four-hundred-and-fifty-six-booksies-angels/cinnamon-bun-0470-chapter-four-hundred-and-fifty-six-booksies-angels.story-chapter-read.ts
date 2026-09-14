@@ -8,7 +8,7 @@ export const cinnamonBun0470ChapterFourHundredAndFiftySixBooksiesAngels = {
   story: "story-read/cinnamon-bun",
   position: 470,
   ownLength: 1488,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0510Chapter1855GrubOutOfMind = {
   story: "story-read/chrysalis",
   position: 510,
   ownLength: 1128,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

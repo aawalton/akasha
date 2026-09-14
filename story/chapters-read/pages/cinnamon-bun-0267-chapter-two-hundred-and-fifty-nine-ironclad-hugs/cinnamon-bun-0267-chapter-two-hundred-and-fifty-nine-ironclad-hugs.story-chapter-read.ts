@@ -8,7 +8,7 @@ export const cinnamonBun0267ChapterTwoHundredAndFiftyNineIroncladHugs = {
   story: "story-read/cinnamon-bun",
   position: 267,
   ownLength: 1932,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-28",
   externalIdentity: [
     {

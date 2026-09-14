@@ -8,7 +8,7 @@ export const cinnamonBun0246ChapterTwoHundredAndThirtyEightTowerhidden = {
   story: "story-read/cinnamon-bun",
   position: 246,
   ownLength: 1939,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-19",
   externalIdentity: [
     {

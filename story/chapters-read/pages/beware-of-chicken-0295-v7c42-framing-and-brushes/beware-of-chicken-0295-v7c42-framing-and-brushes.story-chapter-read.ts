@@ -8,7 +8,7 @@ export const bewareOfChicken0295V7c42FramingAndBrushes = {
   story: "story-read/beware-of-chicken",
   position: 295,
   ownLength: 2371,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00022DaoMarked = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 2,
   ownLength: 1722,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-04",
   externalIdentity: [
     {

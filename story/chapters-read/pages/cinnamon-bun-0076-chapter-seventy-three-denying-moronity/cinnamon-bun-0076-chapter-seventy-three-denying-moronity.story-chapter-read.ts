@@ -8,7 +8,7 @@ export const cinnamonBun0076ChapterSeventyThreeDenyingMoronity = {
   story: "story-read/cinnamon-bun",
   position: 76,
   ownLength: 1937,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-11",
   externalIdentity: [
     {

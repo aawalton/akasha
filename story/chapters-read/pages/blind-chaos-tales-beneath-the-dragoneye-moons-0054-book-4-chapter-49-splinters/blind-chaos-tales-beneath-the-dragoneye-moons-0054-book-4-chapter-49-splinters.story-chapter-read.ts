@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0054Book4Chapter49Splinters 
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 54,
   ownLength: 4912,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-04",
   externalIdentity: [
     {

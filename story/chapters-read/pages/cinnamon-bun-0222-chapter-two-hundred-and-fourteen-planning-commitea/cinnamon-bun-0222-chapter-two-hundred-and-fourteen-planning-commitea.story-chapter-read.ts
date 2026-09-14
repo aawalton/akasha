@@ -8,7 +8,7 @@ export const cinnamonBun0222ChapterTwoHundredAndFourteenPlanningCommitea = {
   story: "story-read/cinnamon-bun",
   position: 222,
   ownLength: 1921,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-30",
   externalIdentity: [
     {

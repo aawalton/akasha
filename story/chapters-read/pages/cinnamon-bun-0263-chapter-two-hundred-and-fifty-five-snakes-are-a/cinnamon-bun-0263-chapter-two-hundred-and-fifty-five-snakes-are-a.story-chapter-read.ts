@@ -8,7 +8,7 @@ export const cinnamonBun0263ChapterTwoHundredAndFiftyFiveSnakesAreA = {
   story: "story-read/cinnamon-bun",
   position: 263,
   ownLength: 1905,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-14",
   externalIdentity: [
     {

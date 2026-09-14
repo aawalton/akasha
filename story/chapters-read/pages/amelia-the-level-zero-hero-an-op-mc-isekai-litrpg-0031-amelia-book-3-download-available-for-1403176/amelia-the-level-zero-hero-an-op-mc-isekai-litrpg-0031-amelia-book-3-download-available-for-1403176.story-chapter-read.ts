@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0031AmeliaBook3DownloadAvai
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 31,
   publishedAt: "2023-11-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

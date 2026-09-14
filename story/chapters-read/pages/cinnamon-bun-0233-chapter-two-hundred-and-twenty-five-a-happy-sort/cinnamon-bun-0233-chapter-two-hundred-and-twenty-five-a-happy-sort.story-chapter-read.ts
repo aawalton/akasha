@@ -8,7 +8,7 @@ export const cinnamonBun0233ChapterTwoHundredAndTwentyFiveAHappySort = {
   story: "story-read/cinnamon-bun",
   position: 233,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-19",
   externalIdentity: [
     {

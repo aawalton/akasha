@@ -8,7 +8,7 @@ export const catGirlEvolution003737SensitiveMatters = {
   story: "cat-girl-evolution",
   position: 37,
   ownLength: 2345,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-17",
   externalIdentity: [
     {

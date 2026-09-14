@@ -8,7 +8,7 @@ export const cinnamonBun0176ChapterOneHundredAndSeventyThePiratesLair = {
   story: "story-read/cinnamon-bun",
   position: 176,
   ownLength: 1983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0394ChapterThreeHundredAndEightyTwoSouthbound = {
   story: "story-read/cinnamon-bun",
   position: 394,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-14",
   externalIdentity: [
     {

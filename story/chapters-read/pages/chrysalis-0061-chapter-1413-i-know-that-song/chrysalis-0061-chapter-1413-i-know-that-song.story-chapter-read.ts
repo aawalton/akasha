@@ -9,7 +9,7 @@ export const chrysalis0061Chapter1413IKnowThatSong = {
   position: 61,
   ownLength: 1042,
   ownProgress: 1042,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:45:35.047Z",
   publishedAt: "2024-09-19",
   externalIdentity: [

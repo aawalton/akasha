@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0002Book2NowAvailableOnAmazonKu = {
   position: 2,
   ownLength: 70,
   ownProgress: 70,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:09:46.110Z",
   publishedAt: "2022-11-10",
   externalIdentity: [

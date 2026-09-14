@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0110110PathOfPetals = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 110,
   ownLength: 2000,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-06",
   externalIdentity: [
     {

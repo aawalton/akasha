@@ -7,7 +7,7 @@ export const arkendrithyst0152107TimeForChocolate577934 = {
   story: "story-read/arkendrithyst",
   position: 152,
   publishedAt: "2020-11-02",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

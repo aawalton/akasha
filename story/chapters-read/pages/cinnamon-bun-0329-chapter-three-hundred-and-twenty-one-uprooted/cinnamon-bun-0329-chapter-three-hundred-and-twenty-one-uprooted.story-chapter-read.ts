@@ -8,7 +8,7 @@ export const cinnamonBun0329ChapterThreeHundredAndTwentyOneUprooted = {
   story: "story-read/cinnamon-bun",
   position: 329,
   ownLength: 1982,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-22",
   externalIdentity: [
     {

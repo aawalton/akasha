@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0067Book2Chapter4Shadow =
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 67,
   ownLength: 1301,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-09",
   externalIdentity: [
     {

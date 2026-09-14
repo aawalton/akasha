@@ -8,7 +8,7 @@ export const cinnamonBun0344ChapterThreeHundredAndThirtySixCrashScene = {
   story: "story-read/cinnamon-bun",
   position: 344,
   ownLength: 2124,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-23",
   externalIdentity: [
     {

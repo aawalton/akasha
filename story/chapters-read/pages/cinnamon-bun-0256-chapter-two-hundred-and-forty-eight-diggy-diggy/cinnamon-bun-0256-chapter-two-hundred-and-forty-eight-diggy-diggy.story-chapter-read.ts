@@ -8,7 +8,7 @@ export const cinnamonBun0256ChapterTwoHundredAndFortyEightDiggyDiggy = {
   story: "story-read/cinnamon-bun",
   position: 256,
   ownLength: 1878,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-21",
   externalIdentity: [
     {

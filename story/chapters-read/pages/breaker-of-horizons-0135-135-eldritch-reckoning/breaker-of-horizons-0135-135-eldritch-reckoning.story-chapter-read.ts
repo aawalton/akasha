@@ -8,7 +8,7 @@ export const breakerOfHorizons0135135EldritchReckoning = {
   story: "story-read/breaker-of-horizons",
   position: 135,
   ownLength: 1666,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-16",
   externalIdentity: [
     {

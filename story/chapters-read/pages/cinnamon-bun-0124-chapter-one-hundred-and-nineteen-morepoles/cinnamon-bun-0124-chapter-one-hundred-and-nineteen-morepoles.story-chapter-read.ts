@@ -8,7 +8,7 @@ export const cinnamonBun0124ChapterOneHundredAndNineteenMorepoles = {
   story: "story-read/cinnamon-bun",
   position: 124,
   ownLength: 1956,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-23",
   externalIdentity: [
     {

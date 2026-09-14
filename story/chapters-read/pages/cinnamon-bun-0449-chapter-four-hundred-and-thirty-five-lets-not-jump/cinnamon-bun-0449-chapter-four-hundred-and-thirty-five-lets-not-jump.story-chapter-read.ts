@@ -8,7 +8,7 @@ export const cinnamonBun0449ChapterFourHundredAndThirtyFiveLetsNotJump = {
   story: "story-read/cinnamon-bun",
   position: 449,
   ownLength: 2015,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-21",
   externalIdentity: [
     {

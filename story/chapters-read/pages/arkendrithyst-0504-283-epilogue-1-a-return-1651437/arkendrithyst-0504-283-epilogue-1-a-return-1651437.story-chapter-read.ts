@@ -7,7 +7,7 @@ export const arkendrithyst0504283Epilogue1AReturn1651437 = {
   story: "story-read/arkendrithyst",
   position: 504,
   publishedAt: "2024-05-26",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

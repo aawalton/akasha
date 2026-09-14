@@ -8,7 +8,7 @@ export const chrysalis0411Chapter1759CrestTheWave = {
   story: "story-read/chrysalis",
   position: 411,
   ownLength: 1032,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-27",
   externalIdentity: [
     {

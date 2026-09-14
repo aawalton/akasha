@@ -8,7 +8,7 @@ export const cinnamonBun0240ChapterTwoHundredAndThirtyTwoBefriendThem = {
   story: "story-read/cinnamon-bun",
   position: 240,
   ownLength: 2080,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-30",
   externalIdentity: [
     {

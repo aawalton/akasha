@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0123B2StoryArtWithALinkInCas
   position: 123,
   ownLength: 122,
   ownProgress: 122,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T19:10:08.452Z",
   publishedAt: "2024-03-09",
   externalIdentity: [

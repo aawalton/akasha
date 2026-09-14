@@ -8,7 +8,7 @@ export const cinnamonBun0419ChapterFourHundredAndSixBookmouse = {
   story: "story-read/cinnamon-bun",
   position: 419,
   ownLength: 1949,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-18",
   externalIdentity: [
     {

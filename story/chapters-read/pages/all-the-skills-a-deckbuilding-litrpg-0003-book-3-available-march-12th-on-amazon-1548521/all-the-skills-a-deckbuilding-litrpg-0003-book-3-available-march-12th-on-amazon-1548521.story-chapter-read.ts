@@ -7,7 +7,7 @@ export const allTheSkillsADeckbuildingLitrpg0003Book3AvailableMarch12thOnAmazon1
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 3,
   publishedAt: "2024-03-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

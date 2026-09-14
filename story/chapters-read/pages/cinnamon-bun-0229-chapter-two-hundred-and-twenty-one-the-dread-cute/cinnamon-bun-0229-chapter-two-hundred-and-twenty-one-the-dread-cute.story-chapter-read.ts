@@ -8,7 +8,7 @@ export const cinnamonBun0229ChapterTwoHundredAndTwentyOneTheDreadCute = {
   story: "story-read/cinnamon-bun",
   position: 229,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-14",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0499Chapter1844Conclave = {
   story: "story-read/chrysalis",
   position: 499,
   ownLength: 902,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-14",
   externalIdentity: [
     {

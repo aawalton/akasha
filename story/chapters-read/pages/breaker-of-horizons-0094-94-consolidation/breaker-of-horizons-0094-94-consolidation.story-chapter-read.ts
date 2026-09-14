@@ -8,7 +8,7 @@ export const breakerOfHorizons009494Consolidation = {
   story: "story-read/breaker-of-horizons",
   position: 94,
   ownLength: 2013,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-25",
   externalIdentity: [
     {

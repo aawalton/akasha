@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007171SurpriseReunionEndOfBook
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 71,
   ownLength: 2011,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-17",
   externalIdentity: [
     {

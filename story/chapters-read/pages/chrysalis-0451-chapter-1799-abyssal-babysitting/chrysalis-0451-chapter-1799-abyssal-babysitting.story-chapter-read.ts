@@ -8,7 +8,7 @@ export const chrysalis0451Chapter1799AbyssalBabysitting = {
   story: "story-read/chrysalis",
   position: 451,
   ownLength: 1099,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-22",
   externalIdentity: [
     {

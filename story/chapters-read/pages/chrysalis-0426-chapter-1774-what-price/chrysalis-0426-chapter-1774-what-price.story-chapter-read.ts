@@ -8,7 +8,7 @@ export const chrysalis0426Chapter1774WhatPrice = {
   story: "story-read/chrysalis",
   position: 426,
   ownLength: 1017,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-17",
   externalIdentity: [
     {

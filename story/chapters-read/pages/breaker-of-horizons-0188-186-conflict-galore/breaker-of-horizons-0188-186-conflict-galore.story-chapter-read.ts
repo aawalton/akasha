@@ -8,7 +8,7 @@ export const breakerOfHorizons0188186ConflictGalore = {
   story: "story-read/breaker-of-horizons",
   position: 188,
   ownLength: 7506,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-31",
   externalIdentity: [
     {

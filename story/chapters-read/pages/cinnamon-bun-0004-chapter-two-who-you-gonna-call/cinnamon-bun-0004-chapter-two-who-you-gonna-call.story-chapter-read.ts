@@ -8,7 +8,7 @@ export const cinnamonBun0004ChapterTwoWhoYouGonnaCall = {
   story: "story-read/cinnamon-bun",
   position: 4,
   ownLength: 1984,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-07",
   externalIdentity: [
     {

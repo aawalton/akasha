@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0049Book4Chapter44JustASkirm
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 49,
   ownLength: 5422,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-16",
   externalIdentity: [
     {

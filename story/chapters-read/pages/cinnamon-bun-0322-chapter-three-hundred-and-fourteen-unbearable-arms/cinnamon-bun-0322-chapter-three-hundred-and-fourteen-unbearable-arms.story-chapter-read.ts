@@ -8,7 +8,7 @@ export const cinnamonBun0322ChapterThreeHundredAndFourteenUnbearableArms = {
   story: "story-read/cinnamon-bun",
   position: 322,
   ownLength: 2025,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-31",
   externalIdentity: [
     {

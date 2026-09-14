@@ -8,7 +8,7 @@ export const cinnamonBun0209ChapterTwoHundredAndOneGrassrootsCampaign = {
   story: "story-read/cinnamon-bun",
   position: 209,
   ownLength: 1977,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-31",
   externalIdentity: [
     {

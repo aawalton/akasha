@@ -8,7 +8,7 @@ export const cinnamonBun0426ChapterFourHundredAndTwelveSunsetOver = {
   story: "story-read/cinnamon-bun",
   position: 426,
   ownLength: 2026,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-06-15",
   externalIdentity: [
     {

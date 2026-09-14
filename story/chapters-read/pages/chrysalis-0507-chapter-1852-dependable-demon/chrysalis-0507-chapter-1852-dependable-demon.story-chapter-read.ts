@@ -8,7 +8,7 @@ export const chrysalis0507Chapter1852DependableDemon = {
   story: "story-read/chrysalis",
   position: 507,
   ownLength: 1270,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-26",
   externalIdentity: [
     {

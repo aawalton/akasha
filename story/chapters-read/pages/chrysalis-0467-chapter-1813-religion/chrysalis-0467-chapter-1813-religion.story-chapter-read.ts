@@ -8,7 +8,7 @@ export const chrysalis0467Chapter1813Religion = {
   story: "story-read/chrysalis",
   position: 467,
   ownLength: 854,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-11",
   externalIdentity: [
     {

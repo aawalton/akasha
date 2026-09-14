@@ -8,7 +8,7 @@ export const cinnamonBun0361ChapterThreeHundredAndFiftyThreeOctagon = {
   story: "story-read/cinnamon-bun",
   position: 361,
   ownLength: 1965,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-20",
   externalIdentity: [
     {

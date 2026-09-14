@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0026NotAChapterB4EpubAvailableOnPatreonFor8MoreHo
   story: "story-read/bunny-girl-evolution",
   position: 26,
   ownLength: 117,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-09",
   externalIdentity: [
     {

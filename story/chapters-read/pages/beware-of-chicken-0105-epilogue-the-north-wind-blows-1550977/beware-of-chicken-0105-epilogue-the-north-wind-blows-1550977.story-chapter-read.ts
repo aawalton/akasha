@@ -7,7 +7,7 @@ export const bewareOfChicken0105EpilogueTheNorthWindBlows1550977 = {
   story: "story-read/beware-of-chicken",
   position: 105,
   publishedAt: "2024-03-12",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const cinnamonBun0576ChapterFiveHundredAndSixtyOneSomeWingsFor = {
   story: "story-read/cinnamon-bun",
   position: 576,
   ownLength: 1519,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001010TheLull = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 10,
   ownLength: 1258,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-15",
   externalIdentity: [
     {

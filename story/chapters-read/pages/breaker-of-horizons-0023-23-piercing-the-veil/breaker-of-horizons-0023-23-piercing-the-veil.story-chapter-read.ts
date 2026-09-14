@@ -8,7 +8,7 @@ export const breakerOfHorizons002323PiercingTheVeil = {
   story: "story-read/breaker-of-horizons",
   position: 23,
   ownLength: 2585,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-20",
   externalIdentity: [
     {

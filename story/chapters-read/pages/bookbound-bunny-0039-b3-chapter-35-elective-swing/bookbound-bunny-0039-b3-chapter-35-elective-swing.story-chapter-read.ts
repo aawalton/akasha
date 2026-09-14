@@ -8,7 +8,7 @@ export const bookboundBunny0039B3Chapter35ElectiveSwing = {
   story: "bookbound-bunny",
   position: 39,
   ownLength: 2477,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-30",
   externalIdentity: [
     {

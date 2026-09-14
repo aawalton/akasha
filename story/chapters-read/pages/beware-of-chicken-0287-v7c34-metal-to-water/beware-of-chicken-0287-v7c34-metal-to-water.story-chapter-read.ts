@@ -9,7 +9,7 @@ export const bewareOfChicken0287V7c34MetalToWater = {
   position: 287,
   ownLength: 2456,
   ownProgress: 619,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-04",
   externalIdentity: [
     {

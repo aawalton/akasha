@@ -8,7 +8,7 @@ export const breakerOfHorizons001616FreedomOfChoice = {
   story: "story-read/breaker-of-horizons",
   position: 16,
   ownLength: 2345,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-25",
   externalIdentity: [
     {

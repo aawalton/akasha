@@ -8,7 +8,7 @@ export const breakerOfHorizons003232Captained = {
   story: "story-read/breaker-of-horizons",
   position: 32,
   ownLength: 2485,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-20",
   externalIdentity: [
     {

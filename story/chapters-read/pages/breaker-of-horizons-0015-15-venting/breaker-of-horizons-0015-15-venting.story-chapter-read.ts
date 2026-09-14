@@ -8,7 +8,7 @@ export const breakerOfHorizons001515Venting = {
   story: "story-read/breaker-of-horizons",
   position: 15,
   ownLength: 2456,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0113113ThroughTheFog = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 113,
   ownLength: 1994,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bewareOfChicken0340V7c87EndOfVolumeRoadsStretchingToTheHorizon = {
   story: "story-read/beware-of-chicken",
   position: 340,
   ownLength: 3406,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

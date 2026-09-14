@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0067199GatheringOfOldFriends = {
   story: "story-read/bunny-girl-evolution",
   position: 67,
   ownLength: 3003,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-19",
   externalIdentity: [
     {

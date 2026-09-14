@@ -8,7 +8,7 @@ export const cinnamonBun0499ChapterFourHundredAndEightyFiveMoneyTalks = {
   story: "story-read/cinnamon-bun",
   position: 499,
   ownLength: 1461,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-18",
   externalIdentity: [
     {

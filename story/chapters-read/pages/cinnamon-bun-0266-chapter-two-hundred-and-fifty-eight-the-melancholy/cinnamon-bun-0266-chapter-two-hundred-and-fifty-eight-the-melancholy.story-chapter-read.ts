@@ -8,7 +8,7 @@ export const cinnamonBun0266ChapterTwoHundredAndFiftyEightTheMelancholy = {
   story: "story-read/cinnamon-bun",
   position: 266,
   ownLength: 1984,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-26",
   externalIdentity: [
     {

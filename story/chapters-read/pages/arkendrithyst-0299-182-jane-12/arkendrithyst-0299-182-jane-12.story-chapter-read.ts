@@ -7,7 +7,7 @@ export const arkendrithyst0299182Jane12 = {
   story: "story-read/arkendrithyst",
   position: 299,
   publishedAt: "2022-04-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

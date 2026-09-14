@@ -8,7 +8,7 @@ export const catGirlEvolution006868ThePigPalace = {
   story: "cat-girl-evolution",
   position: 68,
   ownLength: 2840,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-28",
   externalIdentity: [
     {

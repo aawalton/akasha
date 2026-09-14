@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005656JackAnderson = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 56,
   ownLength: 2596,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0433ChapterFourHundredAndNineteenRecklessAnd = {
   story: "story-read/cinnamon-bun",
   position: 433,
   ownLength: 2029,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0421ChapterFourHundredAndEightGhostStories = {
   story: "story-read/cinnamon-bun",
   position: 421,
   ownLength: 1971,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-25",
   externalIdentity: [
     {

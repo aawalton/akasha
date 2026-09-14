@@ -8,7 +8,7 @@ export const cinnamonBun0389ChapterThreeHundredAndSeventySevenMoral = {
   story: "story-read/cinnamon-bun",
   position: 389,
   ownLength: 1895,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-19",
   externalIdentity: [
     {

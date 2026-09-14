@@ -8,7 +8,7 @@ export const cinnamonBun0144ChapterOneHundredAndThirtyNineThePartyBoat = {
   story: "story-read/cinnamon-bun",
   position: 144,
   ownLength: 1866,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-03",
   externalIdentity: [
     {

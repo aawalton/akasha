@@ -7,7 +7,7 @@ export const arkendrithyst0181FanartAndMaps635597 = {
   story: "story-read/arkendrithyst",
   position: 181,
   publishedAt: "2021-02-22",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

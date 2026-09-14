@@ -8,7 +8,7 @@ export const catGirlEvolution006464MinionMorning = {
   story: "cat-girl-evolution",
   position: 64,
   ownLength: 3462,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-19",
   externalIdentity: [
     {

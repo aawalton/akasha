@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0006Book4Chapter5ConflictRek
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 6,
   ownLength: 5261,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-11",
   externalIdentity: [
     {

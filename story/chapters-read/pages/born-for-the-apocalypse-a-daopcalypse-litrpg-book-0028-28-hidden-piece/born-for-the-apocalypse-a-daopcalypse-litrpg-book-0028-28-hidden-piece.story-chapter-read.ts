@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002828HiddenPiece = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 28,
   ownLength: 1136,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-20",
   externalIdentity: [
     {

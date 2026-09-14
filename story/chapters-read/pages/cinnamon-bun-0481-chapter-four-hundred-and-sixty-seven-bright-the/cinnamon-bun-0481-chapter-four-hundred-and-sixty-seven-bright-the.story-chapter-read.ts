@@ -8,7 +8,7 @@ export const cinnamonBun0481ChapterFourHundredAndSixtySevenBrightThe = {
   story: "story-read/cinnamon-bun",
   position: 481,
   ownLength: 1468,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-01",
   externalIdentity: [
     {

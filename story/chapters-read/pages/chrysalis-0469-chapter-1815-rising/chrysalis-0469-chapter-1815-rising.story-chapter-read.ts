@@ -8,7 +8,7 @@ export const chrysalis0469Chapter1815Rising = {
   story: "story-read/chrysalis",
   position: 469,
   ownLength: 1031,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-15",
   externalIdentity: [
     {

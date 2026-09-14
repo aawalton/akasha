@@ -7,7 +7,7 @@ export const bewareOfChicken0100V4c80TheWheelKeepsTurning1534743 = {
   story: "story-read/beware-of-chicken",
   position: 100,
   publishedAt: "2024-02-28",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

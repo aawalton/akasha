@@ -8,7 +8,7 @@ export const breakerOfHorizons008080InvasionOfPrivacy = {
   story: "story-read/breaker-of-horizons",
   position: 80,
   ownLength: 2020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-04",
   externalIdentity: [
     {

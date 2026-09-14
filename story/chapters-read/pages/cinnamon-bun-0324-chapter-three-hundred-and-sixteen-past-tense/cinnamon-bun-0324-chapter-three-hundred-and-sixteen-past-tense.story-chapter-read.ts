@@ -8,7 +8,7 @@ export const cinnamonBun0324ChapterThreeHundredAndSixteenPastTense = {
   story: "story-read/cinnamon-bun",
   position: 324,
   ownLength: 2047,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const breakerOfHorizons005151RevivingVolition = {
   story: "story-read/breaker-of-horizons",
   position: 51,
   ownLength: 2981,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-26",
   externalIdentity: [
     {

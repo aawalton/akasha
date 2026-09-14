@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0020Book6Chapter13LotsAndLotsAndLots
   position: 20,
   ownLength: 2696,
   ownProgress: 2696,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-12",
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const bewareOfChicken0007V4c41TheOldMonstersPlanP1 = {
   story: "story-read/beware-of-chicken",
   position: 7,
   publishedAt: "2023-04-25",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const cinnamonBun0334ChapterThreeHundredAndTwentySixIntroductions = {
   story: "story-read/cinnamon-bun",
   position: 334,
   ownLength: 1974,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-19",
   externalIdentity: [
     {

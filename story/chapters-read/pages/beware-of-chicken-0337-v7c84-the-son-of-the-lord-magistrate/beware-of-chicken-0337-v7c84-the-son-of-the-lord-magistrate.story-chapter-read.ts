@@ -8,7 +8,7 @@ export const bewareOfChicken0337V7c84TheSonOfTheLordMagistrate = {
   story: "story-read/beware-of-chicken",
   position: 337,
   ownLength: 2355,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-24",
   externalIdentity: [
     {

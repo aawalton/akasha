@@ -8,7 +8,7 @@ export const breakerOfHorizons0132132LayersAndLayers = {
   story: "story-read/breaker-of-horizons",
   position: 132,
   ownLength: 1894,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-05",
   externalIdentity: [
     {

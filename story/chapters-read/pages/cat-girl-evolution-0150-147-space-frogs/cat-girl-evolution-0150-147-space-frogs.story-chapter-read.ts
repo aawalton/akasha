@@ -8,7 +8,7 @@ export const catGirlEvolution0150147SpaceFrogs = {
   story: "cat-girl-evolution",
   position: 150,
   ownLength: 2437,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-10",
   externalIdentity: [
     {

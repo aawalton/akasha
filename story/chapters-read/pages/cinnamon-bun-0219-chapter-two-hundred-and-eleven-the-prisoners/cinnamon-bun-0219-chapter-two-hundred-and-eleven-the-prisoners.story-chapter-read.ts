@@ -8,7 +8,7 @@ export const cinnamonBun0219ChapterTwoHundredAndElevenThePrisoners = {
   story: "story-read/cinnamon-bun",
   position: 219,
   ownLength: 1980,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-23",
   externalIdentity: [
     {

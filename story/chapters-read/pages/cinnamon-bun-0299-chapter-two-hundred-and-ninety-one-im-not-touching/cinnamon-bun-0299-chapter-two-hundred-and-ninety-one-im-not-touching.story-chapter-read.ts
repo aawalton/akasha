@@ -8,7 +8,7 @@ export const cinnamonBun0299ChapterTwoHundredAndNinetyOneImNotTouching = {
   story: "story-read/cinnamon-bun",
   position: 299,
   ownLength: 2301,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-10",
   externalIdentity: [
     {

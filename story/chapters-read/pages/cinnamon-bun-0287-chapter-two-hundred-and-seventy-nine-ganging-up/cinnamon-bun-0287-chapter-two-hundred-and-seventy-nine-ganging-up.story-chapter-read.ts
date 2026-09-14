@@ -8,7 +8,7 @@ export const cinnamonBun0287ChapterTwoHundredAndSeventyNineGangingUp = {
   story: "story-read/cinnamon-bun",
   position: 287,
   ownLength: 2084,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-27",
   externalIdentity: [
     {

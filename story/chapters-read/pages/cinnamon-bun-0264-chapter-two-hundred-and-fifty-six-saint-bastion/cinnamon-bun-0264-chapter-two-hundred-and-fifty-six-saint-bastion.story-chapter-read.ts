@@ -8,7 +8,7 @@ export const cinnamonBun0264ChapterTwoHundredAndFiftySixSaintBastion = {
   story: "story-read/cinnamon-bun",
   position: 264,
   ownLength: 1914,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-19",
   externalIdentity: [
     {

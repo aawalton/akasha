@@ -8,7 +8,7 @@ export const cinnamonBun0134ChapterOneHundredAndTwentyNineOblivious = {
   story: "story-read/cinnamon-bun",
   position: 134,
   ownLength: 2085,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-11",
   externalIdentity: [
     {

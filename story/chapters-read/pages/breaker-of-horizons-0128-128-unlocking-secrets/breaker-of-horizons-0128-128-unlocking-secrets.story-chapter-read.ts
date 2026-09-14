@@ -8,7 +8,7 @@ export const breakerOfHorizons0128128UnlockingSecrets = {
   story: "story-read/breaker-of-horizons",
   position: 128,
   ownLength: 2156,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-22",
   externalIdentity: [
     {

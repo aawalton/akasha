@@ -8,7 +8,7 @@ export const breakerOfHorizons003535APlea = {
   story: "story-read/breaker-of-horizons",
   position: 35,
   ownLength: 2144,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-31",
   externalIdentity: [
     {

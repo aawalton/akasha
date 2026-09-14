@@ -8,7 +8,7 @@ export const azarinthHealer0018AzarinthHealerBook4OutOnKindleEbook = {
   story: "story-read/azarinth-healer",
   position: 18,
   ownLength: 3,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-29",
   externalIdentity: [
     {

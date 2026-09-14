@@ -8,7 +8,7 @@ export const cinnamonBun0608ChapterFiveHundredAndNinetyTwoTheWorldIsnt = {
   story: "story-read/cinnamon-bun",
   position: 608,
   ownLength: 1553,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-01",
   externalIdentity: [
     {

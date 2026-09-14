@@ -8,7 +8,7 @@ export const catGirlEvolution003636TearfulReunion = {
   story: "cat-girl-evolution",
   position: 36,
   ownLength: 2904,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-15",
   externalIdentity: [
     {

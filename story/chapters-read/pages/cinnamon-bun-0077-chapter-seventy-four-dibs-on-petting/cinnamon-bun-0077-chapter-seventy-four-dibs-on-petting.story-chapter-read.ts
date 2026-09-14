@@ -8,7 +8,7 @@ export const cinnamonBun0077ChapterSeventyFourDibsOnPetting = {
   story: "story-read/cinnamon-bun",
   position: 77,
   ownLength: 2001,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-12",
   externalIdentity: [
     {

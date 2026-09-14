@@ -8,7 +8,7 @@ export const chrysalis0464Chapter1810EndOfTheFifth = {
   story: "story-read/chrysalis",
   position: 464,
   ownLength: 1051,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-09",
   externalIdentity: [
     {

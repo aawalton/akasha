@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0013FanfictionAndFanartCont
     story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
     position: 13,
     publishedAt: "2023-04-10",
-    unit: "words",
+    unit: "unit/words",
     externalIdentity: [
       {
         source: "royal-road",

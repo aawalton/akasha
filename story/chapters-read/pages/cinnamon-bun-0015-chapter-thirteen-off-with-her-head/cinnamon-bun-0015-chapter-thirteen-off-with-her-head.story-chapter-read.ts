@@ -8,7 +8,7 @@ export const cinnamonBun0015ChapterThirteenOffWithHerHead = {
   story: "story-read/cinnamon-bun",
   position: 15,
   ownLength: 1969,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-29",
   externalIdentity: [
     {

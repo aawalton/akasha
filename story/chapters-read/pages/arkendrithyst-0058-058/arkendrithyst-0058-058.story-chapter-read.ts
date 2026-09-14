@@ -9,7 +9,7 @@ export const arkendrithyst0058058 = {
   position: 58,
   ownLength: 8774,
   ownProgress: 8774,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:08:31.293Z",
   publishedAt: "2019-11-25",
   externalIdentity: [

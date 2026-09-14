@@ -8,7 +8,7 @@ export const cinnamonBun0318ChapterThreeHundredAndTenTheKnightsOfThe = {
   story: "story-read/cinnamon-bun",
   position: 318,
   ownLength: 1978,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-12",
   externalIdentity: [
     {

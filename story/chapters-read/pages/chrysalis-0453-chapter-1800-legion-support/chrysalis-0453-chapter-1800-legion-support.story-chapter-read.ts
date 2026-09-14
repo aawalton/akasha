@@ -8,7 +8,7 @@ export const chrysalis0453Chapter1800LegionSupport = {
   story: "story-read/chrysalis",
   position: 453,
   ownLength: 1119,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-31",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const cinnamonBun0037ChapterThirtyFourTheEmbersOfMagic = {
   story: "story-read/cinnamon-bun",
   position: 37,
   ownLength: 2734,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-04",
   externalIdentity: [
     {

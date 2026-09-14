@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0024Book6Ch17AChoiceOfVenom = {
   position: 24,
   ownLength: 2591,
   ownProgress: 2591,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0048180EliseFindsASpider = {
   story: "story-read/bunny-girl-evolution",
   position: 48,
   ownLength: 4401,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-20",
   externalIdentity: [
     {

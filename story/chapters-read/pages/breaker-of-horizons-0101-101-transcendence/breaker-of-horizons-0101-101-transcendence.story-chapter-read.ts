@@ -8,7 +8,7 @@ export const breakerOfHorizons0101101Transcendence = {
   story: "story-read/breaker-of-horizons",
   position: 101,
   ownLength: 2238,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-19",
   externalIdentity: [
     {

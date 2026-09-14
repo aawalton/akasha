@@ -8,7 +8,7 @@ export const chrysalis0444Chapter1792UnexpectedEscortQuest = {
   story: "story-read/chrysalis",
   position: 444,
   ownLength: 932,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-13",
   externalIdentity: [
     {

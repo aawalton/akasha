@@ -8,7 +8,7 @@ export const cinnamonBun0407MeanwhileTheSidekicks = {
   story: "story-read/cinnamon-bun",
   position: 407,
   ownLength: 1266,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-01",
   externalIdentity: [
     {

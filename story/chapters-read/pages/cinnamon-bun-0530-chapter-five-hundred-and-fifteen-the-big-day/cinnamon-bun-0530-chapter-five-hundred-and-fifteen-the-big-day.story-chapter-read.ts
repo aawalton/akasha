@@ -8,7 +8,7 @@ export const cinnamonBun0530ChapterFiveHundredAndFifteenTheBigDay = {
   story: "story-read/cinnamon-bun",
   position: 530,
   ownLength: 1514,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-27",
   externalIdentity: [
     {

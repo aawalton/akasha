@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0002Dedication = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 2,
   ownLength: 117,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-13",
   externalIdentity: [
     {

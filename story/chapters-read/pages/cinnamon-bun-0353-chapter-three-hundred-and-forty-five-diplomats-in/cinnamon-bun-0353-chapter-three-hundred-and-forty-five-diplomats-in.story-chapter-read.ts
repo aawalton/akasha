@@ -8,7 +8,7 @@ export const cinnamonBun0353ChapterThreeHundredAndFortyFiveDiplomatsIn = {
   story: "story-read/cinnamon-bun",
   position: 353,
   ownLength: 2037,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-23",
   externalIdentity: [
     {

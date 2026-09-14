@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0051Book4Chapter46SeeingI = 
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 51,
   ownLength: 5624,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-23",
   externalIdentity: [
     {

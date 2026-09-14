@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0008PublicationAndStubbing = {
   story: "alexa-thyme-formerly-alexithymia",
   position: 8,
   ownLength: 124,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const chrysalis0500Chapter1845WildAndWavy = {
   story: "story-read/chrysalis",
   position: 500,
   ownLength: 928,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-17",
   externalIdentity: [
     {

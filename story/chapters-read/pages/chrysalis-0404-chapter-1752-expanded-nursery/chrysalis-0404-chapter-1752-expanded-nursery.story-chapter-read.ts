@@ -8,7 +8,7 @@ export const chrysalis0404Chapter1752ExpandedNursery = {
   story: "story-read/chrysalis",
   position: 404,
   ownLength: 1301,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-13",
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const bewareOfChicken0069V4c54CrabsInABucket1391011 = {
   story: "story-read/beware-of-chicken",
   position: 69,
   publishedAt: "2023-10-31",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

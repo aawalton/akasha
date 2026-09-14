@@ -8,7 +8,7 @@ export const cinnamonBun0526AwensHalloweenSpecial = {
   story: "story-read/cinnamon-bun",
   position: 526,
   ownLength: 1334,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-31",
   externalIdentity: [
     {

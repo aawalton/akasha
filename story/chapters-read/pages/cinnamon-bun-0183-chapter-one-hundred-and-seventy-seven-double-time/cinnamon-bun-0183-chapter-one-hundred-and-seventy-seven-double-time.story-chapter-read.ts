@@ -8,7 +8,7 @@ export const cinnamonBun0183ChapterOneHundredAndSeventySevenDoubleTime = {
   story: "story-read/cinnamon-bun",
   position: 183,
   ownLength: 1923,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-29",
   externalIdentity: [
     {

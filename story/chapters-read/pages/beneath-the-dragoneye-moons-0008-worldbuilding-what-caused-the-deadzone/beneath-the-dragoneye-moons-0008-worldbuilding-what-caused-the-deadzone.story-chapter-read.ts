@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 8,
   ownLength: 411,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-10",
   externalIdentity: [
     {
