@@ -17,14 +17,6 @@ export const watcherUnit = {
     },
     {
       invariantKind: "departure",
-      statement: "A restart that succeeds is answered with nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A restart that fails is answered with what systemctl said.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A unit that is not running has no main process id.",
     },
     {

@@ -4,7 +4,7 @@ export const watcherInventorySnapshotName = {
   id: "01a0633f-8d1e-72bf-94b4-33c274b877c8",
   type: "module",
   slug: "watcher-inventory-snapshot-name",
-  definition: "the name an inventory snapshot and each of its chunks is kept under",
+  definition: "the name an inventory snapshot is kept under",
   code: "ts",
   test: "ts",
   invariants: [
@@ -27,10 +27,6 @@ export const watcherInventorySnapshotName = {
     {
       invariantKind: "departure",
       statement: "The letter parting the date from the time becomes a hyphen.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A chunk is named for its snapshot and the number of the chunk.",
     },
     {
       invariantKind: "absence",
