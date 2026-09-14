@@ -12,6 +12,7 @@ export const model = {
     "module/model-asking",
     "module/model-vocab",
     "page-type/model-family",
+    "page-type/model-provider",
     "page-type/model-test",
   ],
   invariants: [
