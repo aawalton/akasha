@@ -8,7 +8,12 @@ export const storyPlayed = {
   pluralSlug: "stories-played",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
-  parts: ["file-property/prose", "module/played-rows", "relation-property/world"],
+  parts: [
+    "file-property/prose",
+    "module/game-beside",
+    "module/played-rows",
+    "relation-property/world",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
