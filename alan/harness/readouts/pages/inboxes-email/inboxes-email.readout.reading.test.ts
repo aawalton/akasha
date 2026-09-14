@@ -1,10 +1,5 @@
 import { expect, test } from "bun:test"
 import {
-  answering,
-  refusing,
-} from "akasha/alan/harness/readouts/modules/asking/readout-asking.module.test-fixtures.ts"
-import {
-  fetchLowestInbox,
   lowestIn,
   mailOn,
 } from "akasha/alan/harness/readouts/pages/inboxes-email/inboxes-email.readout.reading.code.ts"
@@ -43,19 +38,4 @@ test("a day carrying no count is no reading rather than a count of zero", () => 
 
 test("the count is read under the key the page states rather than the slug it is filed by", () => {
   expect(lowestIn({ "lowest-email-inbox-count": 9 })).toBeNull()
-})
-
-test("no day written down is no reading rather than a count of zero", async () => {
-  expect(await fetchLowestInbox(answering([]), DAY)).toBeNull()
-})
-
-test("a day carrying a count answers with that count", async () => {
-  const answered = answering([{ values: { lowestEmailInboxCount: 9 } }])
-  expect(await fetchLowestInbox(answered, DAY)).toBe(9)
-})
-
-test("a store that refuses is a fault rather than a reading of nothing", async () => {
-  await expect(fetchLowestInbox(refusing("the store is down"), DAY)).rejects.toThrow(
-    "unknown rather than none"
-  )
 })

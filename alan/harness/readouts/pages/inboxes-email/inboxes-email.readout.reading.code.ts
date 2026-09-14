@@ -1,7 +1,3 @@
-import {
-  type Asking,
-  rowFor,
-} from "akasha/alan/harness/readouts/modules/asking/readout-asking.module.code.ts"
 import { statedAt } from "akasha/alan/harness/readouts/modules/tier/readout-tier.module.code.ts"
 
 const DAY = "day"
@@ -9,9 +5,6 @@ const DAY = "day"
 const LOWEST = "lowestEmailInboxCount"
 
 const DATE = "date"
-
-const DAY_UNKNOWN =
-  "the day could not be read, so how near the inbox came to empty is unknown rather than none"
 
 export type MailAsked = {
   readonly pageTypeSlug: string
@@ -31,9 +24,4 @@ export function mailOn(day: string): MailAsked {
 
 export function lowestIn(values: Readonly<Record<string, unknown>>): number | null {
   return statedAt(values[LOWEST])
-}
-
-export async function fetchLowestInbox(ask: Asking, day: string): Promise<number | null> {
-  const row = await rowFor(ask, mailOn(day), DAY_UNKNOWN)
-  return row === null ? null : lowestIn(row.values)
 }
