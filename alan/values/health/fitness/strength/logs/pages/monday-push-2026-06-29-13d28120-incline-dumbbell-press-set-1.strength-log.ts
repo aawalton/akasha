@@ -5,7 +5,7 @@ export const mondayPush2026062913d28120InclineDumbbellPressSet1 = {
   type: "strength-log",
   slug: "monday-push-2026-06-29-13d28120-incline-dumbbell-press-set-1",
   title: "Incline Dumbbell Press set 1",
-  exercise: "incline-dumbbell-press",
+  exercise: "strength-exercise/incline-dumbbell-press",
   isWarmup: false,
   reps: 10,
   rpe: 8,

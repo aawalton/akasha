@@ -5,7 +5,7 @@ export const thursdayPush20260625C82b391fDumbbellBenchPressSet1 = {
   type: "strength-log",
   slug: "thursday-push-2026-06-25-c82b391f-dumbbell-bench-press-set-1",
   title: "Dumbbell Bench Press set 1",
-  exercise: "dumbbell-bench-press",
+  exercise: "strength-exercise/dumbbell-bench-press",
   isWarmup: false,
   note: "Max clean reps — NEW REP PR at 30lb (prev best 16 this AM). Spontaneous bonus set.",
   reps: 20,

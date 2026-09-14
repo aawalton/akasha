@@ -5,7 +5,7 @@ export const mondayPush20260810D0622a4dDumbbellShoulderPressSet2 = {
   type: "strength-log",
   slug: "monday-push-2026-08-10-d0622a4d-dumbbell-shoulder-press-set-2",
   title: "Dumbbell Shoulder Press set 2",
-  exercise: "dumbbell-shoulder-press",
+  exercise: "strength-exercise/dumbbell-shoulder-press",
   isWarmup: false,
   reps: 10,
   rpe: 9,

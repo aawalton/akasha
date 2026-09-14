@@ -5,7 +5,7 @@ export const wednesdayLegs20260624789253e9GobletSquatSet2 = {
   type: "strength-log",
   slug: "wednesday-legs-2026-06-24-789253e9-goblet-squat-set-2",
   title: "Goblet Squat set 2",
-  exercise: "goblet-squat",
+  exercise: "strength-exercise/goblet-squat",
   isWarmup: false,
   reps: 25,
   sessionSlug: "wednesday-legs-2026-06-24-789253e9",

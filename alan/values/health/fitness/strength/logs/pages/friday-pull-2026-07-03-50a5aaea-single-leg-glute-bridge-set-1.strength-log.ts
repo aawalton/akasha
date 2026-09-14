@@ -5,7 +5,7 @@ export const fridayPull2026070350a5aaeaSingleLegGluteBridgeSet1 = {
   type: "strength-log",
   slug: "friday-pull-2026-07-03-50a5aaea-single-leg-glute-bridge-set-1",
   title: "Single Leg Glute Bridge set 1",
-  exercise: "single-leg-glute-bridge",
+  exercise: "strength-exercise/single-leg-glute-bridge",
   isWarmup: false,
   note: "20 total (10/side). ZERO low-back grumbles. Limiting factor = supporting-knee stability, especially RIGHT — matches right-side stability pattern from Bulgarians.",
   reps: 20,

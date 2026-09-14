@@ -4,8 +4,6 @@ import type { Work } from "akasha/pages/computed-properties/computed-property.pa
 
 const LIFTER = "person/alan"
 
-const MOVEMENT = "exercise/"
-
 type Loaded = { readonly loadFactor?: number; readonly implementCount?: number }
 
 type Weighed = { readonly bodyweight?: number }
@@ -13,8 +11,8 @@ type Weighed = { readonly bodyweight?: number }
 export const work: Work<StrengthLog, SetVolume> = (page, reach) => {
   if (page.isWarmup === true) return 0
   if (page.activityType !== undefined) return 0
-  const slug = page.exercise
-  const movement = slug === undefined ? null : reach.target<Loaded>(`${MOVEMENT}${slug}`)
+  const named = page.exercise
+  const movement = named === undefined ? null : reach.target<Loaded>(named)
   const lifter = reach.target<Weighed>(LIFTER)
   const own = lifter === null ? 0 : (lifter.bodyweight ?? 0)
   const share = movement === null ? 0 : (movement.loadFactor ?? 0)

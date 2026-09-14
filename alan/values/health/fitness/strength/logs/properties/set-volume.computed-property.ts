@@ -32,6 +32,10 @@ export const setVolume = {
     },
     {
       invariantKind: "departure",
+      statement: "The movement is reached by the address the set names rather than by a slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A warmup set is worth nothing.",
     },
     {

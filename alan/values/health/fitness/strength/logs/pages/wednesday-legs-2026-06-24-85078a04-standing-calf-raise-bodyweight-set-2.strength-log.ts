@@ -5,7 +5,7 @@ export const wednesdayLegs2026062485078a04StandingCalfRaiseBodyweightSet2 = {
   type: "strength-log",
   slug: "wednesday-legs-2026-06-24-85078a04-standing-calf-raise-bodyweight-set-2",
   title: "Standing Calf Raise (Bodyweight) set 2",
-  exercise: "standing-calf-raise-bodyweight",
+  exercise: "strength-exercise/standing-calf-raise-bodyweight",
   isWarmup: false,
   note: "movement snack 6",
   reps: 25,

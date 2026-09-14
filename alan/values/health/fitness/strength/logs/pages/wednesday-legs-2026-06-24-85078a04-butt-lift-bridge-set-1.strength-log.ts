@@ -5,7 +5,7 @@ export const wednesdayLegs2026062485078a04ButtLiftBridgeSet1 = {
   type: "strength-log",
   slug: "wednesday-legs-2026-06-24-85078a04-butt-lift-bridge-set-1",
   title: "Butt Lift (Bridge) set 1",
-  exercise: "butt-lift-bridge",
+  exercise: "strength-exercise/butt-lift-bridge",
   isWarmup: false,
   note: "movement snack 8, glute bridge",
   reps: 20,

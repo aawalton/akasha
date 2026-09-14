@@ -5,7 +5,7 @@ export const wednesdayLegs20260624789253e9SingleLegGluteBridgeSet1 = {
   type: "strength-log",
   slug: "wednesday-legs-2026-06-24-789253e9-single-leg-glute-bridge-set-1",
   title: "Single Leg Glute Bridge set 1",
-  exercise: "single-leg-glute-bridge",
+  exercise: "strength-exercise/single-leg-glute-bridge",
   isWarmup: false,
   reps: 20,
   rpe: 6,

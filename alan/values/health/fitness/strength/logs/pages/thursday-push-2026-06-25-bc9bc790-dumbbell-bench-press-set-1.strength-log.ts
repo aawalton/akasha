@@ -5,7 +5,7 @@ export const thursdayPush20260625Bc9bc790DumbbellBenchPressSet1 = {
   type: "strength-log",
   slug: "thursday-push-2026-06-25-bc9bc790-dumbbell-bench-press-set-1",
   title: "Dumbbell Bench Press set 1",
-  exercise: "dumbbell-bench-press",
+  exercise: "strength-exercise/dumbbell-bench-press",
   isWarmup: true,
   reps: 10,
   sessionSlug: "thursday-push-2026-06-25-bc9bc790",

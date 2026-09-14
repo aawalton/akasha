@@ -5,7 +5,7 @@ export const saturdayLegs2026062014b3a37bGobletReverseLungeSet1 = {
   type: "strength-log",
   slug: "saturday-legs-2026-06-20-14b3a37b-goblet-reverse-lunge-set-1",
   title: "Goblet Reverse Lunge set 1",
-  exercise: "goblet-reverse-lunge",
+  exercise: "strength-exercise/goblet-reverse-lunge",
   isWarmup: false,
   note: "alternating, 20 total (10/leg); breathing now — conditioning cost as expected",
   reps: 20,

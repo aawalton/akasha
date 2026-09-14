@@ -5,7 +5,7 @@ export const fridayPull20260626105c11ffHammerCurlsSet1 = {
   type: "strength-log",
   slug: "friday-pull-2026-06-26-105c11ff-hammer-curls-set-1",
   title: "Hammer Curls set 1",
-  exercise: "hammer-curls",
+  exercise: "strength-exercise/hammer-curls",
   isWarmup: false,
   note: "muscle fatigue, NO joint pain — right elbow fully clean. Curl volume can resume normally",
   reps: 12,

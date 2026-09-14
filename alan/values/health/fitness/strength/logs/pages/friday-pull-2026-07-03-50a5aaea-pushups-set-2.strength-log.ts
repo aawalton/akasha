@@ -5,7 +5,7 @@ export const fridayPull2026070350a5aaeaPushupsSet2 = {
   type: "strength-log",
   slug: "friday-pull-2026-07-03-50a5aaea-pushups-set-2",
   title: "Pushups set 2",
-  exercise: "pushups",
+  exercise: "strength-exercise/pushups",
   isWarmup: false,
   note: "Fast tempo, hands slightly forward of standard. Limiting factor = wrists, not chest. Flat palms held both sets.",
   reps: 8,

@@ -5,7 +5,7 @@ export const mondayPush20260622C565f96cCloseGripDumbbellPressSet1 = {
   type: "strength-log",
   slug: "monday-push-2026-06-22-c565f96c-close-grip-dumbbell-press-set-1",
   title: "Close-Grip Dumbbell Press set 1",
-  exercise: "close-grip-dumbbell-press",
+  exercise: "strength-exercise/close-grip-dumbbell-press",
   isWarmup: false,
   note: "triceps finisher; elbows tucked, lying flat (low-back safe); clean",
   reps: 12,

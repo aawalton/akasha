@@ -5,7 +5,7 @@ export const mondayPush2026062913d28120SideLateralRaiseSet1 = {
   type: "strength-log",
   slug: "monday-push-2026-06-29-13d28120-side-lateral-raise-set-1",
   title: "Side Lateral Raise set 1",
-  exercise: "side-lateral-raise",
+  exercise: "strength-exercise/side-lateral-raise",
   isWarmup: false,
   reps: 10,
   rpe: 7,
