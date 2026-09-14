@@ -1,5 +1,5 @@
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
@@ -42,9 +42,9 @@ function alsoLanded(done: readonly string[]): string {
 async function landing(act: GatedAct, asked: readonly Asking[]): Promise<Landed> {
   if (asked.length === 0) return { ok: true, sha: null, unpushed: null }
   const done: string[] = []
-  let said: Awaited<ReturnType<typeof landedMechanically>>
+  let said: Awaited<ReturnType<typeof runMechanicalChange>>
   try {
-    said = await landedMechanically(done, rootOf(act), asked, act.message)
+    said = await runMechanicalChange(rootOf(act), asked, act.message, null, { done })
   } catch (thrown) {
     return { ok: false, why: `${whyOf(thrown)}${alsoLanded(done)}` }
   }
