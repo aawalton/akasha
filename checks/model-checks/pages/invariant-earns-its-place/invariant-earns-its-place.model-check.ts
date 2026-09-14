@@ -10,12 +10,12 @@ export const invariantEarnsItsPlace = {
   auditRuns: 0,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A statement a change writes or alters is judged rather than every statement the page has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A page whose definition a change alters has every departure on that page judged again.",
     },
