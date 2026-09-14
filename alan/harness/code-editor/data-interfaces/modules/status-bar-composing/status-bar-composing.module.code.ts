@@ -30,6 +30,10 @@ import {
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import {
+  slugOf,
+  slugsIn,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"
@@ -70,8 +74,7 @@ function heldOfType(root: string, pageType: string): readonly Held[] {
 }
 
 function namesGroup(values: Values, groupSlug: string): boolean {
-  const named = values.groups
-  return Array.isArray(named) && named.includes(groupSlug)
+  return slugsIn(values.groups).includes(groupSlug)
 }
 
 export function watchedFoldersIn(root: string): readonly string[] {
@@ -106,7 +109,8 @@ function stoplightsByGroup(
     const found: Stoplight[] = []
     for (const row of inPlaceOrder(rows.filter((one) => namesGroup(one, groupSlug)))) {
       if (stilled(row)) continue
-      const scaleSlug = textAt(row, "scale")
+      const named = textAt(row, "scale")
+      const scaleSlug = named === null ? null : slugOf(named)
       const rungs = scaleSlug === null ? [] : (rungsBy.get(scaleSlug) ?? [])
       const one = stoplightWith(row, rungs, HABIT, readingHeldOn)
       if (one !== null) found.push(figureOffScale ? { ...one, figureOffScale } : one)
