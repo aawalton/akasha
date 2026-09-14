@@ -5,7 +5,7 @@ export const echoL0120260705t174419z = {
   type: "persona-wallpaper",
   slug: "echo-l01-20260705t174419z",
   title: "Echo — wallpaper L01 (Initiating)",
-  persona: "echo",
+  persona: "persona/echo",
   imagePath: "Echo/echo-L01-20260705T174419Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

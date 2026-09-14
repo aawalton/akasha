@@ -5,7 +5,7 @@ export const aineL0120260705t164933z = {
   type: "persona-wallpaper",
   slug: "aine-l01-20260705t164933z",
   title: "Aine — wallpaper L01 (Bonding)",
-  persona: "aine",
+  persona: "persona/aine",
   imagePath: "Aine/aine-L01-20260705T164933Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

@@ -5,7 +5,7 @@ export const ioneL0120260705t174941z = {
   type: "persona-wallpaper",
   slug: "ione-l01-20260705t174941z",
   title: "Ione — wallpaper L01 (Experimenting)",
-  persona: "ione",
+  persona: "persona/ione",
   imagePath: "Ione/ione-L01-20260705T174941Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

@@ -5,7 +5,7 @@ export const zadiL0120260705t182038z = {
   type: "persona-wallpaper",
   slug: "zadi-l01-20260705t182038z",
   title: "Zadi — wallpaper L01 (Initiating)",
-  persona: "zadi",
+  persona: "persona/zadi",
   imagePath: "Zadi/zadi-L01-20260705T182038Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

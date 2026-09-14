@@ -5,7 +5,7 @@ export const natalieL0120260705t175701z = {
   type: "persona-wallpaper",
   slug: "natalie-l01-20260705t175701z",
   title: "Natalie — wallpaper L01 (Experimenting)",
-  persona: "natalie",
+  persona: "persona/natalie",
   imagePath: "Natalie/natalie-L01-20260705T175701Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

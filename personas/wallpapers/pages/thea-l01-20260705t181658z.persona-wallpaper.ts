@@ -5,7 +5,7 @@ export const theaL0120260705t181658z = {
   type: "persona-wallpaper",
   slug: "thea-l01-20260705t181658z",
   title: "Thea — wallpaper L01 (Initiating)",
-  persona: "thea",
+  persona: "persona/thea",
   imagePath: "Thea/thea-L01-20260705T181658Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

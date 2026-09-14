@@ -5,7 +5,7 @@ export const shaestrelL0120260725t105549z = {
   type: "persona-wallpaper",
   slug: "shaestrel-l01-20260725t105549z",
   title: "Shaestrel — wallpaper L01 (Initiating)",
-  persona: "shaestrel",
+  persona: "persona/shaestrel",
   imagePath: "Shaestrel/shaestrel-L01-20260725T105549Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

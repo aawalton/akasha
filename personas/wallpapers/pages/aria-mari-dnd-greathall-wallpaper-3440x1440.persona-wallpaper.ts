@@ -5,7 +5,7 @@ export const ariaMariDndGreathallWallpaper3440x1440 = {
   type: "persona-wallpaper",
   slug: "aria-mari-dnd-greathall-wallpaper-3440x1440",
   title: "Aria & Mari — Caer Arianrhod",
-  persona: "aria",
+  persona: "persona/aria",
   imagePath: "Aria/images/aria-mari-dnd-greathall-wallpaper-3440x1440.png",
   imageRoot: "personas",
   description:

@@ -5,7 +5,7 @@ export const aelwynL0120260705t165824z = {
   type: "persona-wallpaper",
   slug: "aelwyn-l01-20260705t165824z",
   title: "Aelwyn — wallpaper L01 (Experimenting)",
-  persona: "aelwyn",
+  persona: "persona/aelwyn",
   imagePath: "Aelwyn/aelwyn-L01-20260705T165824Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

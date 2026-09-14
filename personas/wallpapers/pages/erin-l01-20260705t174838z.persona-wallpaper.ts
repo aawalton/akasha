@@ -5,7 +5,7 @@ export const erinL0120260705t174838z = {
   type: "persona-wallpaper",
   slug: "erin-l01-20260705t174838z",
   title: "Erin — wallpaper L01 (Initiating)",
-  persona: "erin",
+  persona: "persona/erin",
   imagePath: "Erin/erin-L01-20260705T174838Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,
