@@ -102,5 +102,14 @@ export const changeShadowTree = {
       invariantKind: "departure",
       statement: "The root folder answers those files rather than answering nothing.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file the tree holds that git ignores is among those files where its name says uncommitted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file git tracks that the tree no longer holds is left out of those files.",
+    },
   ],
 } as const satisfies Module

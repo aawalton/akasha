@@ -16,8 +16,20 @@ export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet
   )
 }
 
-export function trackedUnder(root: string, folder: string): readonly string[] | null {
-  const got = git(root, ["ls-files", "--cached", "-z", "--", folder === "" ? ROOT : folder])
+function listedUnder(
+  root: string,
+  folder: string,
+  asked: readonly string[]
+): readonly string[] | null {
+  const got = git(root, ["ls-files", "-z", ...asked, "--", folder === "" ? ROOT : folder])
   if (got.code !== 0) return null
   return got.stdout.split("\0").filter((one) => one !== "")
+}
+
+export function trackedUnder(root: string, folder: string): readonly string[] | null {
+  return listedUnder(root, folder, ["--cached"])
+}
+
+export function ignoredUnder(root: string, folder: string): readonly string[] | null {
+  return listedUnder(root, folder, ["--others", "--ignored", "--exclude-standard"])
 }

@@ -20,5 +20,10 @@ export const gitPathspec = {
       statement:
         "The repository root is asked for as the folder `.` rather than as the empty string git refuses.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The paths git ignores under a folder that the tree holds are asked for by that folder alone.",
+    },
   ],
 } as const satisfies Module

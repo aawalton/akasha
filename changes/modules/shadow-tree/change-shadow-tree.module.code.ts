@@ -4,7 +4,7 @@ import type {
   Answer,
   FileChange,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { trackedUnder } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
+import { ignoredUnder, trackedUnder } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,
@@ -15,6 +15,8 @@ import {
   foldersIn,
   walkedUnder,
 } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
+import { VENDOR_ROOT } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const OUTSIDE = ".."
 
@@ -116,11 +118,17 @@ export function treeUnentered(
   return [...found].sort()
 }
 
+function heldThough(path: string): boolean {
+  return uncommittedHeld(path) && !path.split(UNDER).includes(VENDOR_ROOT)
+}
+
 export function treeTracked(root: string, folder: string, over: Answer): readonly string[] | null {
   const held = trackedUnder(root, folder)
   if (held === null) return null
+  const ignored = ignoredUnder(root, folder)
+  if (ignored === null) return null
   return underOver(
-    held.filter((one) => existsSync(join(root, one))),
+    [...held, ...ignored.filter(heldThough)].filter((one) => existsSync(join(root, one))),
     over,
     folder
   )

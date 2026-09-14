@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { rmSync } from "node:fs"
+import { join } from "node:path"
 import { stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   addedTo,
@@ -34,6 +36,10 @@ const ALPHA_CODE = `${FROM}/alpha.module.code.ts`
 const FRESH = `${FROM}/fresh.txt`
 
 const MOVED = `${FROM}/deep/alpha.module.code.ts`
+
+const SIDECAR = `${FROM}/alpha.module.entries.uncommitted.jsonl`
+
+const IGNORING = ".gitignore"
 
 const MODULE = "module"
 
@@ -155,6 +161,24 @@ test("the root folder answers the files tracked under it rather than answering n
 
   expect(found).toContain(ALPHA_PAGE)
   expect(found).toEqual(treeTracked(root, ".", NOTHING))
+})
+
+test("a file the tree holds that git ignores is among the files tracked under that folder", () => {
+  const root = indexedRepo(HELD)
+  put(root, IGNORING, "*.uncommitted.jsonl\n")
+  put(root, SIDECAR, "one\n")
+
+  expect(treeTracked(root, FROM, NOTHING)).toContain(SIDECAR)
+})
+
+test("a file git tracks that the tree no longer holds is left out of the files tracked", () => {
+  const root = indexedRepo(HELD)
+  rmSync(join(root, ALPHA_CODE))
+
+  const found = treeTracked(root, FROM, NOTHING)
+
+  expect(found).not.toContain(ALPHA_CODE)
+  expect(found).toContain(ALPHA_PAGE)
 })
 
 const ONE_AT = "akasha/one"
