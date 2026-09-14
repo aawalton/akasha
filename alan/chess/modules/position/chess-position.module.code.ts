@@ -75,7 +75,7 @@ export interface ApplyMoveResult {
   readonly legalMoveCount: number
 }
 
-async function applyMove(fen: string, move: string): Promise<ApplyMoveResult> {
+export async function applyMove(fen: string, move: string): Promise<ApplyMoveResult> {
   const legal = await legalMoves(fen)
   if (!legal.includes(move)) {
     throw new InputError(`illegal move "${move}" in position "${fen}"`)

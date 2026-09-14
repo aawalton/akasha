@@ -1,7 +1,7 @@
 import type { PositionStatus } from "akasha/alan/chess/modules/position/chess-position.module.code.ts"
 import { fenSideToMove } from "akasha/alan/chess/modules/uci/chess-uci.module.code.ts"
 
-const STANDARD_START_FEN = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+export const STANDARD_START_FEN = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
 
 export type PlayerColor = "white" | "black"
 export type Winner = PlayerColor | "draw"

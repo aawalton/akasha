@@ -1,0 +1,59 @@
+import type { Command } from "akasha/commands/command.page-type.types.ts"
+
+export const chessPlay = {
+  id: "01a0a03d-5a6a-7d7d-981a-14813c990218",
+  type: "command",
+  slug: "chess-play",
+  definition: "the command playing one game out against the Maia model and writing it down",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A band no Maia weights are held for refuses the call before a move is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The side Alan takes is named on the call, and white is taken where none is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no position opens from the first rank.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A side naming neither white nor black refuses the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A side that answers no move resigns, and the other side wins.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A finished game lands as a page, and the moves land in a file beside that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is written through the change working out what kind of path it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The writing a game goes through is handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that played before it threw says in its refusal what that run had done.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No test here runs an engine.",
+    },
+  ],
+  name: "play",
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/band" },
+    { argument: "argument/color" },
+    { argument: "argument/fen" },
+  ],
+} as const satisfies Command
