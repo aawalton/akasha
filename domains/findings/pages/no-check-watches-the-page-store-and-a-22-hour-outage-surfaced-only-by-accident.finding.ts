@@ -4,7 +4,7 @@ export const noCheckWatchesThePageStoreAndA22HourOutageSurfacedOnlyByAccident = 
   id: "01a09622-3d9e-7e51-8a87-6713f2f99b65",
   type: "finding",
   slug: "no-check-watches-the-page-store-and-a-22-hour-outage-surfaced-only-by-accident",
-  domain: "domain/pages-service",
+  domain: "service-workstation/pages-service",
   claim:
     "Every `akasha inference` command and every `akasha temper inventory` command reaches the page-store before it reaches its own script, and nothing measures whether that store is serving. The readiness probe on the socat forwarder gave the pages service two seconds to answer a whole query while the kubelet allowed five, and the workstation takes six to seven seconds to answer that same query while it is loaded, so a service that was listening and answering correctly read as unready and the cluster service lost its only endpoint. Probe failures ran for 22.6 hours and reached nobody. Two agents found it the same night from opposite directions, each because a real command stopped, and neither was looking for it. Nothing between the two of them was a check. A check would have had to measure the readiness of the service over time rather than the health of any one part, because socat, the tailnet and the pages service each read as healthy on their own throughout.",
   evidence:

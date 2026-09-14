@@ -17,7 +17,7 @@ mock.module("akasha/pages/service/modules/page-listening/page-listening.module.c
 }))
 
 const running = await import(
-  "akasha/pages/service/service-workstations/pages-service.service-workstation.running.code.ts"
+  "akasha/pages/service/pages-service.service-workstation.running.code.ts"
 )
 
 function outcomeOf(run: Promise<never>, ms: number): Promise<string> {

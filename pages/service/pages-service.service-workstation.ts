@@ -1,25 +1,17 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
 
 export const pagesService = {
-  id: "01a059f5-b807-7dee-b0fc-4f45379fca1c",
-  type: "domain",
+  id: "01a05a43-5afa-7d0d-8d60-dbd3c3498f99",
+  type: "service-workstation",
   slug: "pages-service",
-  definition: "the pages reached over HTTP",
-
-  parts: [
-    "manifest/page-store",
-    "module/file-answering",
-    "module/kinds-gathering",
-    "module/page-asking",
-    "module/page-calling",
-    "module/page-composing",
-    "module/page-listening",
-    "module/page-reading",
-    "module/page-serving",
-    "module/page-writing",
-    "module/where-testing",
-    "service-workstation/pages-service",
-  ],
+  definition: "the service answering page queries and landing page writes",
+  enabled: true,
+  port: 8787,
+  binds: ["127.0.0.1", "::1", "workstation.alanwalton.ts.net"],
+  systemd: {
+    restartDelaySeconds: 1,
+    startLimitIntervalSeconds: 0,
+  },
   invariants: [
     {
       invariantKind: "constraint",
@@ -94,11 +86,11 @@ export const pagesService = {
     },
     {
       invariantKind: "departure",
-      statement: "The port the pages system service listens on is read from a page.",
+      statement: "The port the pages system service listens on is read from this page.",
     },
     {
       invariantKind: "departure",
-      statement: "The host names the pages system service answers on are read from a page.",
+      statement: "The host names the pages system service answers on are read from this page.",
     },
     {
       invariantKind: "absence",
@@ -127,4 +119,17 @@ export const pagesService = {
         "The pages system service is started again for as long as that service is failing.",
     },
   ],
-} as const satisfies Domain
+  parts: [
+    "manifest/page-store",
+    "module/file-answering",
+    "module/kinds-gathering",
+    "module/page-asking",
+    "module/page-calling",
+    "module/page-composing",
+    "module/page-listening",
+    "module/page-reading",
+    "module/page-serving",
+    "module/page-writing",
+    "module/where-testing",
+  ],
+} as const satisfies ServiceWorkstation

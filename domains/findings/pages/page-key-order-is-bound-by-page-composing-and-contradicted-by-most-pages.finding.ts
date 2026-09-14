@@ -4,7 +4,7 @@ export const pageKeyOrderIsBoundByPageComposingAndContradictedByMostPages = {
   id: "01a08cca-127c-7d7d-9bb3-1dd29c8d3502",
   type: "finding",
   slug: "page-key-order-is-bound-by-page-composing-and-contradicted-by-most-pages",
-  domain: "domain/pages-service",
+  domain: "service-workstation/pages-service",
   claim:
     "akasha holds two orders for the keys in a page body. One is bound by `page-composing`: `orderedIn` groups the properties a page type declares by the type declaring them, reverses the groups so the furthest ancestor comes first, and `bodyOf` writes the keys in that order. The pages service uses it whenever it composes a page. Hand-written pages keep a different order, near-unanimous within each page type, that no document states. Of 70,121 page files, 26,235 agree with the bound order and 43,894 do not. No check compares a page's key order against its type, which is why the two orders drifted apart unnoticed. A mechanical act placing a new key by the bound order would put that key where the page's siblings do not put it.",
   evidence:
