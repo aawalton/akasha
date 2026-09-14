@@ -8,7 +8,7 @@ export const freeStuffGetoutGamesFreeAdmitForOnePerson = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:getout-games:free-admit-for-one-person",
   finePrint: "M-Th only!",
-  locations: ["getout-games-utah-county"],
+  locations: ["location/getout-games-utah-county"],
   offerText: "FREE! Admit for ONE Person!",
   offerType: "free",
   section: "Free Stuff",

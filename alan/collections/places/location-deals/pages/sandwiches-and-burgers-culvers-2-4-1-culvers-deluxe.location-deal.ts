@@ -8,7 +8,7 @@ export const sandwichesAndBurgersCulvers241CulversDeluxe = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:culvers:2-4-1-culvers-deluxe",
   finePrint: "All Northern Utah Locations",
-  locations: ["culvers-utah-county"],
+  locations: ["location/culvers-utah-county"],
   offerText: "2-4-1! Culver's Deluxe!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

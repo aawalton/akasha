@@ -7,7 +7,7 @@ export const freeStuffTheGreatGreekMediterraneanGrillFreeFetaFry = {
   title: "The Great Greek Mediterranean Grill — FREE! Feta Fry!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:the-great-greek-mediterranean-grill:free-feta-fry",
-  locations: ["the-great-greek-mediterranean-grill-utah-county"],
+  locations: ["location/the-great-greek-mediterranean-grill-utah-county"],
   offerText: "FREE! Feta Fry!",
   offerType: "free",
   section: "Free Stuff",

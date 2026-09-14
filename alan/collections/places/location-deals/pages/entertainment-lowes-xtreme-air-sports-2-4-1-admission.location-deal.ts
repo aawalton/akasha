@@ -7,7 +7,7 @@ export const entertainmentLowesXtremeAirSports241Admission = {
   title: "Lowes Xtreme Air Sports — 2-4-1! Admission!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:lowes-xtreme-air-sports:2-4-1-admission",
-  locations: ["lowes-xtreme-air-sports-utah-county"],
+  locations: ["location/lowes-xtreme-air-sports-utah-county"],
   offerText: "2-4-1! Admission!",
   offerType: "2-4-1",
   section: "Entertainment",

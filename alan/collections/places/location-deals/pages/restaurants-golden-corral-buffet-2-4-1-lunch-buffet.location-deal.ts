@@ -8,7 +8,7 @@ export const restaurantsGoldenCorralBuffet241LunchBuffet = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:golden-corral-buffet:2-4-1-lunch-buffet",
   finePrint: "Mon-Fri. Before 4 PM Orem",
-  locations: ["golden-corral-buffet-orem"],
+  locations: ["location/golden-corral-buffet-orem"],
   offerText: "2-4-1! Lunch Buffet!",
   offerType: "2-4-1",
   section: "Restaurants",

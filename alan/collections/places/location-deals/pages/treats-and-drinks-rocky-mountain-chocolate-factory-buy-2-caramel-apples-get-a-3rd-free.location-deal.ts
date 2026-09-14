@@ -10,8 +10,8 @@ export const treatsAndDrinksRockyMountainChocolateFactoryBuy2CaramelApplesGetA3r
     "ssc:treats-and-drinks:rocky-mountain-chocolate-factory:buy-2-caramel-apples-get-a-3rd-free",
   finePrint: "Orem & SF",
   locations: [
-    "rocky-mountain-chocolate-factory-orem",
-    "rocky-mountain-chocolate-factory-spanish-fork",
+    "location/rocky-mountain-chocolate-factory-orem",
+    "location/rocky-mountain-chocolate-factory-spanish-fork",
   ],
   offerText: "Buy 2 Caramel Apples, Get a 3rd FREE!",
   offerType: "free",

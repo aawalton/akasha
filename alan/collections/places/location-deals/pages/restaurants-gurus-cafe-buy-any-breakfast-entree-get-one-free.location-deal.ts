@@ -8,7 +8,7 @@ export const restaurantsGurusCafeBuyAnyBreakfastEntreeGetOneFree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:gurus-cafe:buy-any-breakfast-entree-get-one-free",
   finePrint: "Provo Center St & UVU",
-  locations: ["gurus-cafe-provo"],
+  locations: ["location/gurus-cafe-provo"],
   offerText: "Buy Any Breakfast Entree, Get One FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

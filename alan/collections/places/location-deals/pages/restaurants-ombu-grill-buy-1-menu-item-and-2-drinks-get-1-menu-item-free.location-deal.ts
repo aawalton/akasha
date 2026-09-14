@@ -8,7 +8,7 @@ export const restaurantsOmbuGrillBuy1MenuItemAnd2DrinksGet1MenuItemFree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:ombu-grill:buy-1-menu-item-and-2-drinks-get-1-menu-item-free",
   finePrint: "Excl. Buffet",
-  locations: ["ombu-grill-utah-county"],
+  locations: ["location/ombu-grill-utah-county"],
   offerText: "Buy 1 Menu Item and 2 Drinks, Get 1 Menu Item FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

@@ -8,7 +8,7 @@ export const entertainmentGameGrid25OffAnyPurchaseOf50OrMore = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:game-grid:25-off-any-purchase-of-50-or-more",
   finePrint: "Lehi",
-  locations: ["game-grid-lehi"],
+  locations: ["location/game-grid-lehi"],
   offerText: "$25 OFF! Any Purchase of $50 or More!",
   offerType: "dollar-off",
   section: "Entertainment",

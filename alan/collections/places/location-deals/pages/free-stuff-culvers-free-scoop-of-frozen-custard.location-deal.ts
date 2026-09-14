@@ -8,7 +8,7 @@ export const freeStuffCulversFreeScoopOfFrozenCustard = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:culvers:free-scoop-of-frozen-custard",
   finePrint: "Northern UT Locations",
-  locations: ["culvers-utah-county"],
+  locations: ["location/culvers-utah-county"],
   offerText: "FREE! Scoop of Frozen Custard!",
   offerType: "free",
   section: "Free Stuff",

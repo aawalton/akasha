@@ -8,7 +8,7 @@ export const retailAutoAndMoreDurfeyDryCleaners241DryCleanedOrLaunderedItem = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:durfey-dry-cleaners:2-4-1-dry-cleaned-or-laundered-item",
   finePrint: "Up to $20 All Ut Cnty Locs",
-  locations: ["durfey-dry-cleaners-utah-county"],
+  locations: ["location/durfey-dry-cleaners-utah-county"],
   offerText: "2-4-1! Dry Cleaned or Laundered Item!",
   offerType: "2-4-1",
   section: "Retail Auto & More",

@@ -8,7 +8,7 @@ export const freeStuffTropicalSmoothieCafFree12ozJettyJrSmoothie = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:tropical-smoothie-caf:free-12oz-jetty-jr-smoothie",
   finePrint: "All UT County",
-  locations: ["tropical-smoothie-cafe-utah-county"],
+  locations: ["location/tropical-smoothie-cafe-utah-county"],
   offerText: "FREE! 12oz. Jetty Jr. Smoothie!",
   offerType: "free",
   section: "Free Stuff",

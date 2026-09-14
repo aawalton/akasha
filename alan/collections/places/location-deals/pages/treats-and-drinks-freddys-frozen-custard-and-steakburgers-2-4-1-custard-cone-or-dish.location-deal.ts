@@ -9,7 +9,7 @@ export const treatsAndDrinksFreddysFrozenCustardAndSteakburgers241CustardConeOrD
   dealKey:
     "ssc:treats-and-drinks:freddys-frozen-custard-and-steakburgers:2-4-1-custard-cone-or-dish",
   finePrint: "All UT Locs",
-  locations: ["freddys-frozen-custard-steakburgers-utah-county"],
+  locations: ["location/freddys-frozen-custard-steakburgers-utah-county"],
   offerText: "2-4-1! Custard, Cone or Dish!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

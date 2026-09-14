@@ -10,7 +10,7 @@ export const bumblebeesKbbqAndGrillKPopFriesKPhillyKNoodlesOrDupBop = {
   dealKey:
     "ssc:restaurants:bumblebees-kbbq-and-grill:buy-1-k-pop-fries-k-philly-k-noodles-or-dup-bop-and-2-drinks-get-1-free",
   finePrint: "All Locations",
-  locations: ["bumblebees-kbbq-grill-utah-county"],
+  locations: ["location/bumblebees-kbbq-grill-utah-county"],
   offerText: "Buy 1 K-pop Fries, K-Philly, K-Noodles, Or Dup Bop, & 2 Drinks, Get 1 FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

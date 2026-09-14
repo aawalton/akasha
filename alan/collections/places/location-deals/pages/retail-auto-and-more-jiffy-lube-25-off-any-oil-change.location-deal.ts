@@ -8,7 +8,7 @@ export const retailAutoAndMoreJiffyLube25OffAnyOilChange = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:jiffy-lube:25-off-any-oil-change",
   finePrint: "All Utah Locations",
-  locations: ["jiffy-lube-utah-county"],
+  locations: ["location/jiffy-lube-utah-county"],
   offerText: "$25 OFF! Any Oil Change!",
   offerType: "dollar-off",
   redemptionCode: "D9EUP2",

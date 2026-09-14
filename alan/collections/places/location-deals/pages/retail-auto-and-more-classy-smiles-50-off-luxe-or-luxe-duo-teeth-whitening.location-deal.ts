@@ -7,7 +7,7 @@ export const retailAutoAndMoreClassySmiles50OffLuxeOrLuxeDuoTeethWhitening = {
   title: "Classy Smiles — 50% OFF! Luxe or Luxe Duo Teeth Whitening!",
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:classy-smiles:50-off-luxe-or-luxe-duo-teeth-whitening",
-  locations: ["classy-smiles-utah-county"],
+  locations: ["location/classy-smiles-utah-county"],
   offerText: "50% OFF! Luxe or Luxe Duo Teeth Whitening!",
   offerType: "percent-off",
   section: "Retail Auto & More",

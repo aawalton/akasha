@@ -8,7 +8,7 @@ export const freeStuffTheSmokedTacoFreeOrderOfChurroFries = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:the-smoked-taco:free-order-of-churro-fries",
   finePrint: "All Locations",
-  locations: ["the-smoked-taco-utah-county"],
+  locations: ["location/the-smoked-taco-utah-county"],
   offerText: "FREE! Order of Churro Fries!",
   offerType: "free",
   section: "Free Stuff",

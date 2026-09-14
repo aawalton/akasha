@@ -10,7 +10,7 @@ export const chiropracticAxcessAdjustmentOrAcupuncture = {
   dealKey:
     "ssc:retail-auto-and-more:chiropractic-axcess-accident-center:buy-1-chiropractic-adjustment-or-acupuncture-treatment-for-only-15",
   finePrint: "All Locations",
-  locations: ["chiropractic-axcess-accident-center-utah-county"],
+  locations: ["location/chiropractic-axcess-accident-center-utah-county"],
   offerText: "Buy 1 Chiropractic Adjustment or Acupuncture Treatment For Only $15!",
   offerType: "fixed-price",
   section: "Retail Auto & More",

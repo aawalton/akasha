@@ -8,7 +8,7 @@ export const entertainmentTheRiftAugmentedReality241AnyExperienceMax8People = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:the-rift-augmented-reality:2-4-1-any-experience-max-8-people",
   finePrint: "Provo",
-  locations: ["the-rift-augmented-reality-provo"],
+  locations: ["location/the-rift-augmented-reality-provo"],
   offerText: "2-4-1! Any Experience! Max 8 People",
   offerType: "2-4-1",
   section: "Entertainment",

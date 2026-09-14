@@ -8,7 +8,7 @@ export const retailAutoAndMoreGreaseMonkey10OffFullServiceOilChange = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:grease-monkey:10-off-full-service-oil-change",
   finePrint: "Same Locations",
-  locations: ["grease-monkey-utah-county"],
+  locations: ["location/grease-monkey-utah-county"],
   offerText: "$10 OFF! Full Service Oil Change!",
   offerType: "dollar-off",
   section: "Retail Auto & More",

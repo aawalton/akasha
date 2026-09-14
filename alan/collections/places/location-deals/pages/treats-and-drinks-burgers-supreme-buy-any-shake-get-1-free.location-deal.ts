@@ -7,7 +7,7 @@ export const treatsAndDrinksBurgersSupremeBuyAnyShakeGet1Free = {
   title: "Burgers Supreme — Buy Any Shake, Get 1 FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:burgers-supreme:buy-any-shake-get-1-free",
-  locations: ["burgers-supreme-utah-county"],
+  locations: ["location/burgers-supreme-utah-county"],
   offerText: "Buy Any Shake, Get 1 FREE!",
   offerType: "free",
   section: "Treats & Drinks",

@@ -8,7 +8,7 @@ export const restaurantsGaneshIndianCuisineBuy1DinnerEntrEGet150Off = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:ganesh-indian-cuisine:buy-1-dinner-entr-e-get-1-50-off",
   finePrint: "All Locs.",
-  locations: ["ganesh-indian-cuisine-utah-county"],
+  locations: ["location/ganesh-indian-cuisine-utah-county"],
   offerText: "Buy 1 Dinner Entrée, Get 1 50% OFF!",
   offerType: "percent-off",
   section: "Restaurants",

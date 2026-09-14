@@ -8,7 +8,7 @@ export const pizzaPizzaPieCafBuy1BuffetAnd2DrinksGet1BuffetFree = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:pizza-pie-caf:buy-1-buffet-and-2-drinks-get-1-buffet-free",
   finePrint: "All UT…",
-  locations: ["pizza-pie-cafe-utah-county"],
+  locations: ["location/pizza-pie-cafe-utah-county"],
   offerText: "Buy 1 Buffet and 2 Drinks, Get 1 Buffet FREE!",
   offerType: "2-4-1",
   section: "Pizza",

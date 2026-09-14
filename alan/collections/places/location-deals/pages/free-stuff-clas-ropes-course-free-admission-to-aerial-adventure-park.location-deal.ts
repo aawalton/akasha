@@ -8,7 +8,7 @@ export const freeStuffClasRopesCourseFreeAdmissionToAerialAdventurePark = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:clas-ropes-course:free-admission-to-aerial-adventure-park",
   finePrint: "Reservation Req.",
-  locations: ["clas-ropes-course-utah-county"],
+  locations: ["location/clas-ropes-course-utah-county"],
   offerText: "FREE! Admission to Aerial Adventure Park!",
   offerType: "free",
   section: "Free Stuff",

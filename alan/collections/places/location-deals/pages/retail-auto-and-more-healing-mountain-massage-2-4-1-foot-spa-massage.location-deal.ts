@@ -8,7 +8,7 @@ export const retailAutoAndMoreHealingMountainMassage241FootSpaMassage = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:healing-mountain-massage:2-4-1-foot-spa-massage",
   finePrint: "Orem",
-  locations: ["healing-mountain-massage-orem"],
+  locations: ["location/healing-mountain-massage-orem"],
   offerText: "2-4-1! Foot Spa Massage!",
   offerType: "2-4-1",
   section: "Retail Auto & More",

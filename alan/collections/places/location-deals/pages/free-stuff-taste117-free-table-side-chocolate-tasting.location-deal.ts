@@ -7,7 +7,7 @@ export const freeStuffTaste117FreeTableSideChocolateTasting = {
   title: "Taste117 — FREE! Table Side Chocolate Tasting!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:taste117:free-table-side-chocolate-tasting",
-  locations: ["taste117-utah-county"],
+  locations: ["location/taste117-utah-county"],
   offerText: "FREE! Table Side Chocolate Tasting!",
   offerType: "free",
   section: "Free Stuff",

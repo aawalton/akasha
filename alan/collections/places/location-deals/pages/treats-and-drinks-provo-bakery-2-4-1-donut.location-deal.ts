@@ -7,7 +7,7 @@ export const treatsAndDrinksProvoBakery241Donut = {
   title: "Provo Bakery — 2-4-1! Donut!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:provo-bakery:2-4-1-donut",
-  locations: ["provo-bakery-utah-county"],
+  locations: ["location/provo-bakery-utah-county"],
   offerText: "2-4-1! Donut!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

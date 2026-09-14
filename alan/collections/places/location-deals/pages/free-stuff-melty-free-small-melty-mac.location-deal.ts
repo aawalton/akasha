@@ -8,7 +8,7 @@ export const freeStuffMeltyFreeSmallMeltyMac = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:melty:free-small-melty-mac",
   finePrint: "All Utah Locations",
-  locations: ["melty-utah-county"],
+  locations: ["location/melty-utah-county"],
   offerText: "FREE! Small Melty Mac!",
   offerType: "free",
   section: "Free Stuff",

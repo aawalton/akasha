@@ -8,7 +8,7 @@ export const restaurantsWingNutz241EntreeMaxDiscount15 = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:wing-nutz:2-4-1-entree-max-discount-15",
   finePrint: "Orem & SF",
-  locations: ["wing-nutz-orem", "wing-nutz-spanish-fork"],
+  locations: ["location/wing-nutz-orem", "location/wing-nutz-spanish-fork"],
   offerText: "2-4-1! Entree! Max Discount $15!",
   offerType: "2-4-1",
   section: "Restaurants",

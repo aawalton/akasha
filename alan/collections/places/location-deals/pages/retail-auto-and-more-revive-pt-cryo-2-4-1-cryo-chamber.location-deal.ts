@@ -8,7 +8,7 @@ export const retailAutoAndMoreRevivePtCryo241CryoChamber = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:revive-pt-cryo:2-4-1-cryo-chamber",
   finePrint: "Appointment Required",
-  locations: ["revive-pt-cryo-utah-county"],
+  locations: ["location/revive-pt-cryo-utah-county"],
   offerText: "2-4-1! Cryo Chamber!",
   offerType: "2-4-1",
   section: "Retail Auto & More",

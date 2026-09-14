@@ -9,7 +9,7 @@ export const restaurantsRodizioGrillBuyAnyEntreeGetAnySpecialtyBeverageAndAnyDes
   dealKey:
     "ssc:restaurants:rodizio-grill:buy-any-entree-get-any-specialty-beverage-and-any-dessert-free",
   finePrint: "(Up to 2 People) Excludes Holidays. Provo",
-  locations: ["rodizio-grill-provo"],
+  locations: ["location/rodizio-grill-provo"],
   offerText: "Buy Any Entree, Get Any Specialty Beverage & Any Dessert FREE!",
   offerType: "free",
   section: "Restaurants",

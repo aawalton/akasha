@@ -8,7 +8,7 @@ export const entertainmentBackNineGolfBuy1HourGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:back-nine-golf:buy-1-hour-get-1-free",
   finePrint: "Bring Clubs All UT Locs",
-  locations: ["back-nine-golf-utah-county"],
+  locations: ["location/back-nine-golf-utah-county"],
   offerText: "Buy 1 Hour, Get 1 FREE!",
   offerType: "2-4-1",
   redemptionCode: "SSCARD",

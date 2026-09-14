@@ -8,7 +8,7 @@ export const treatsAndDrinksCinnabonBuy1ClassicCinnamonRollGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:cinnabon:buy-1-classic-cinnamon-roll-get-1-free",
   finePrint: "Orem",
-  locations: ["cinnabon-orem"],
+  locations: ["location/cinnabon-orem"],
   offerText: "Buy 1 Classic Cinnamon Roll, Get 1 FREE!",
   offerType: "free",
   section: "Treats & Drinks",

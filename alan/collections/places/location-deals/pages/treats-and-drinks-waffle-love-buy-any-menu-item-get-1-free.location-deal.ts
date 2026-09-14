@@ -8,7 +8,7 @@ export const treatsAndDrinksWaffleLoveBuyAnyMenuItemGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:waffle-love:buy-any-menu-item-get-1-free",
   finePrint: "All Locations",
-  locations: ["waffle-love-utah-county"],
+  locations: ["location/waffle-love-utah-county"],
   offerText: "Buy Any Menu Item, Get 1 FREE!",
   offerType: "free",
   section: "Treats & Drinks",

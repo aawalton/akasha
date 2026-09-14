@@ -7,7 +7,7 @@ export const freeStuffUtahCountryDanceFreeSaturdayAdmission = {
   title: "Utah Country Dance — FREE! Saturday Admission!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:utah-country-dance:free-saturday-admission",
-  locations: ["utah-country-dance-utah-county"],
+  locations: ["location/utah-country-dance-utah-county"],
   offerText: "FREE! Saturday Admission!",
   offerType: "free",
   section: "Free Stuff",

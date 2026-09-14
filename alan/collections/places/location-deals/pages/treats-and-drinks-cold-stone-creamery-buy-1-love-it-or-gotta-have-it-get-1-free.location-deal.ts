@@ -8,7 +8,7 @@ export const treatsAndDrinksColdStoneCreameryBuy1LoveItOrGottaHaveItGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:cold-stone-creamery:buy-1-love-it-or-gotta-have-it-get-1-free",
   finePrint: "Provo & SF",
-  locations: ["cold-stone-creamery-provo", "cold-stone-creamery-spanish-fork"],
+  locations: ["location/cold-stone-creamery-provo", "location/cold-stone-creamery-spanish-fork"],
   offerText: "Buy 1 Love it or Gotta Have it, Get 1 FREE!",
   offerType: "free",
   section: "Treats & Drinks",

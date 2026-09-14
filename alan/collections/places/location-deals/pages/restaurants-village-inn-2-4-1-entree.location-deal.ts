@@ -8,7 +8,7 @@ export const restaurantsVillageInn241Entree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:village-inn:2-4-1-entree",
   finePrint: "Provo",
-  locations: ["village-inn-provo"],
+  locations: ["location/village-inn-provo"],
   offerText: "2-4-1! Entree!",
   offerType: "2-4-1",
   section: "Restaurants",

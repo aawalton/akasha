@@ -8,7 +8,7 @@ export const freeStuffSipNFree20ozSipNFav = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:sip-n:free-20oz-sip-n-fav",
   finePrint: "All Locations",
-  locations: ["sip-n-utah-county"],
+  locations: ["location/sip-n-utah-county"],
   offerText: "FREE! 20oz Sip-N Fav!",
   offerType: "free",
   section: "Free Stuff",

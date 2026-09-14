@@ -8,7 +8,7 @@ export const entertainmentEscapesInTime50OffAnyGroupAdmissionForOneRoom = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:escapes-in-time:50-off-any-group-admission-for-one-room",
   finePrint: "Provo",
-  locations: ["escapes-in-time-provo"],
+  locations: ["location/escapes-in-time-provo"],
   offerText: "50% OFF! Any Group Admission for One Room!",
   offerType: "percent-off",
   redemptionCode: "SSC",

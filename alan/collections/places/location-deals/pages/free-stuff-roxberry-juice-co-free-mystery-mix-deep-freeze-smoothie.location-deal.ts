@@ -8,7 +8,7 @@ export const freeStuffRoxberryJuiceCoFreeMysteryMixDeepFreezeSmoothie = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:roxberry-juice-co:free-mystery-mix-deep-freeze-smoothie",
   finePrint: "SF & partic. locs.",
-  locations: ["roxberry-juice-co-spanish-fork"],
+  locations: ["location/roxberry-juice-co-spanish-fork"],
   offerText: "FREE! Mystery Mix Deep-freeze Smoothie!",
   offerType: "free",
   section: "Free Stuff",

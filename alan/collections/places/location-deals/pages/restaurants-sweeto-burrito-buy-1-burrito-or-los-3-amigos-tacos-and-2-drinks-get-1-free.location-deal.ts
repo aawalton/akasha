@@ -8,7 +8,7 @@ export const restaurantsSweetoBurritoBuy1BurritoOrLos3AmigosTacosAnd2DrinksGet1F
   collection: "starving-student-card",
   dealKey:
     "ssc:restaurants:sweeto-burrito:buy-1-burrito-or-los-3-amigos-tacos-and-2-drinks-get-1-free",
-  locations: ["sweeto-burrito-utah-county"],
+  locations: ["location/sweeto-burrito-utah-county"],
   offerText: "Buy 1 Burrito or Los 3 Amigos Tacos & 2 Drinks, Get 1 FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

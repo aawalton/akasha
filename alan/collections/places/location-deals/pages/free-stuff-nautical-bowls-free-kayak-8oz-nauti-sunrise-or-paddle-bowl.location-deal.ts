@@ -7,7 +7,7 @@ export const freeStuffNauticalBowlsFreeKayak8ozNautiSunriseOrPaddleBowl = {
   title: "Nautical Bowls — FREE! Kayak (8oz) Nauti, Sunrise or Paddle Bowl!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:nautical-bowls:free-kayak-8oz-nauti-sunrise-or-paddle-bowl",
-  locations: ["nautical-bowls-utah-county"],
+  locations: ["location/nautical-bowls-utah-county"],
   offerText: "FREE! Kayak (8oz) Nauti, Sunrise or Paddle Bowl!",
   offerType: "free",
   section: "Free Stuff",

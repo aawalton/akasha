@@ -8,7 +8,7 @@ export const sandwichesAndBurgersMarcosPizza241ToastedSub = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:marcos-pizza:2-4-1-toasted-sub",
   finePrint: "Santaquin Only",
-  locations: ["marcos-pizza-santaquin"],
+  locations: ["location/marcos-pizza-santaquin"],
   offerText: "2-4-1! Toasted Sub!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

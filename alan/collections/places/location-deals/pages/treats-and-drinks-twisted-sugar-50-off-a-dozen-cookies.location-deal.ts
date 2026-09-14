@@ -8,7 +8,7 @@ export const treatsAndDrinksTwistedSugar50OffADozenCookies = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:twisted-sugar:50-off-a-dozen-cookies",
   finePrint: "PG & Saratoga Only",
-  locations: ["twisted-sugar-pleasant-grove", "twisted-sugar-saratoga-springs"],
+  locations: ["location/twisted-sugar-pleasant-grove", "location/twisted-sugar-saratoga-springs"],
   offerText: "50% OFF! a Dozen Cookies!",
   offerType: "percent-off",
   section: "Treats & Drinks",

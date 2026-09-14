@@ -8,7 +8,7 @@ export const freeStuffFranzBakeryOutletFreeLoafOfBread = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:franz-bakery-outlet:free-loaf-of-bread",
   finePrint: "All Utah Locations",
-  locations: ["franz-bakery-outlet-utah-county"],
+  locations: ["location/franz-bakery-outlet-utah-county"],
   offerText: "FREE! Loaf of Bread!",
   offerType: "free",
   section: "Free Stuff",

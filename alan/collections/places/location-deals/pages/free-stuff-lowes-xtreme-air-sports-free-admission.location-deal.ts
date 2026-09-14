@@ -8,7 +8,7 @@ export const freeStuffLowesXtremeAirSportsFreeAdmission = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:lowes-xtreme-air-sports:free-admission",
   finePrint: "Up to 2 Hrs",
-  locations: ["lowes-xtreme-air-sports-utah-county"],
+  locations: ["location/lowes-xtreme-air-sports-utah-county"],
   offerText: "FREE! Admission!",
   offerType: "free",
   section: "Free Stuff",

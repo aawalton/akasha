@@ -8,7 +8,7 @@ export const restaurantsElPolloLocoBuy1ComboMealGet2ndFree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:el-pollo-loco:buy-1-combo-meal-get-2nd-free",
   finePrint: "Up to $8! Orem, Lehi & Partic Locs",
-  locations: ["el-pollo-loco-lehi", "el-pollo-loco-orem"],
+  locations: ["location/el-pollo-loco-lehi", "location/el-pollo-loco-orem"],
   offerText: "Buy 1 Combo Meal, Get 2nd FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

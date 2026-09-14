@@ -8,7 +8,7 @@ export const treatsAndDrinksWaybackBurgers241AnyRegularMilkshake = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:wayback-burgers:2-4-1-any-regular-milkshake",
   finePrint: "PG & WJ",
-  locations: ["wayback-burgers-pleasant-grove", "wayback-burgers-west-jordan"],
+  locations: ["location/wayback-burgers-pleasant-grove", "location/wayback-burgers-west-jordan"],
   offerText: "2-4-1! Any Regular Milkshake!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

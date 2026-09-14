@@ -9,7 +9,7 @@ export const freeStuffSplashDrinksAndTreatsFreeConeBagOfCheddarJalapenoOrButterP
   dealKey:
     "ssc:free-stuff:splash-drinks-and-treats:free-cone-bag-of-cheddar-jalapeno-or-butter-popcorn",
   finePrint: "Lehi",
-  locations: ["splash-drinks-and-treats-lehi"],
+  locations: ["location/splash-drinks-and-treats-lehi"],
   offerText: "FREE! Cone Bag of Cheddar, Jalapeno, or Butter Popcorn!",
   offerType: "free",
   section: "Free Stuff",

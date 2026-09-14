@@ -8,7 +8,7 @@ export const restaurantsBuffaloWildWingsFreeKidsMealWAdultEntree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:buffalo-wild-wings:free-kids-meal-w-adult-entree",
   finePrint: "Orem & Lehi",
-  locations: ["buffalo-wild-wings-lehi", "buffalo-wild-wings-orem"],
+  locations: ["location/buffalo-wild-wings-lehi", "location/buffalo-wild-wings-orem"],
   offerText: "FREE! Kids Meal w/ Adult Entree!",
   offerType: "free",
   section: "Restaurants",

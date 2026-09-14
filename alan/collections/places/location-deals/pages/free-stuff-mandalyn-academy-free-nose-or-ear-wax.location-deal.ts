@@ -7,7 +7,7 @@ export const freeStuffMandalynAcademyFreeNoseOrEarWax = {
   title: "Mandalyn Academy — FREE! Nose OR Ear Wax!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:mandalyn-academy:free-nose-or-ear-wax",
-  locations: ["mandalyn-academy-utah-county"],
+  locations: ["location/mandalyn-academy-utah-county"],
   offerText: "FREE! Nose OR Ear Wax!",
   offerType: "free",
   section: "Free Stuff",

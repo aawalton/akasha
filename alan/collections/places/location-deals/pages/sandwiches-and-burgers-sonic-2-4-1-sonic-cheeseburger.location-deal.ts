@@ -8,7 +8,7 @@ export const sandwichesAndBurgersSonic241SonicCheeseburger = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:sonic:2-4-1-sonic-cheeseburger",
   finePrint: "Valid at All Utah County Locations",
-  locations: ["sonic-utah-county"],
+  locations: ["location/sonic-utah-county"],
   offerText: "2-4-1! Sonic Cheeseburger!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

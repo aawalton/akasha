@@ -8,7 +8,7 @@ export const freeStuffBuffaloWildWingsFreeOrderOfFriedPicklesOrChipsAndSalsa = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:buffalo-wild-wings:free-order-of-fried-pickles-or-chips-and-salsa",
   finePrint: "Orem & Lehi",
-  locations: ["buffalo-wild-wings-lehi", "buffalo-wild-wings-orem"],
+  locations: ["location/buffalo-wild-wings-lehi", "location/buffalo-wild-wings-orem"],
   offerText: "FREE! Order of Fried Pickles or Chips & Salsa!",
   offerType: "free",
   section: "Free Stuff",

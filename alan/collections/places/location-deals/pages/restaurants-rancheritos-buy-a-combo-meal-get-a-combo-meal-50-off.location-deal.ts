@@ -8,7 +8,7 @@ export const restaurantsRancheritosBuyAComboMealGetAComboMeal50Off = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:rancheritos:buy-a-combo-meal-get-a-combo-meal-50-off",
   finePrint: "PG Only",
-  locations: ["rancheritos-pleasant-grove"],
+  locations: ["location/rancheritos-pleasant-grove"],
   offerText: "Buy a Combo Meal, Get a Combo Meal 50% OFF!",
   offerType: "percent-off",
   section: "Restaurants",

@@ -8,7 +8,7 @@ export const entertainmentByuBowlingAndGamesCenter241GameOfBowling = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:byu-bowling-and-games-center:2-4-1-game-of-bowling",
   finePrint: "M-Fri Before 6pm. Excludes Holidays! Shoe Rental Not Included!",
-  locations: ["byu-bowling-games-center-utah-county"],
+  locations: ["location/byu-bowling-games-center-utah-county"],
   offerText: "2-4-1! Game of Bowling!",
   offerType: "2-4-1",
   section: "Entertainment",

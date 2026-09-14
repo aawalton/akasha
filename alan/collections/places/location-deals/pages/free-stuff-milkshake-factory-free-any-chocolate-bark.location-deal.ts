@@ -8,7 +8,7 @@ export const freeStuffMilkshakeFactoryFreeAnyChocolateBark = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:milkshake-factory:free-any-chocolate-bark",
   finePrint: "All UT Locations",
-  locations: ["milkshake-factory-utah-county"],
+  locations: ["location/milkshake-factory-utah-county"],
   offerText: "FREE! Any Chocolate Bark!",
   offerType: "free",
   section: "Free Stuff",

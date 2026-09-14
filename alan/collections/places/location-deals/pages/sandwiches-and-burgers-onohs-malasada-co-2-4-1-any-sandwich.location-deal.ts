@@ -7,7 +7,7 @@ export const sandwichesAndBurgersOnohsMalasadaCo241AnySandwich = {
   title: "Onoh's Malasada Co — 2-4-1! Any Sandwich!",
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:onohs-malasada-co:2-4-1-any-sandwich",
-  locations: ["onohs-malasada-co-utah-county"],
+  locations: ["location/onohs-malasada-co-utah-county"],
   offerText: "2-4-1! Any Sandwich!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

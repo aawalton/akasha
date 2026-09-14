@@ -8,7 +8,7 @@ export const entertainmentCoinCrazy50Off1HrOfBowling = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:coin-crazy:50-off-1-hr-of-bowling",
   finePrint: "M-Th Before 6 PM",
-  locations: ["coin-crazy-utah-county"],
+  locations: ["location/coin-crazy-utah-county"],
   offerText: "50% OFF! 1 Hr of Bowling!",
   offerType: "percent-off",
   section: "Entertainment",

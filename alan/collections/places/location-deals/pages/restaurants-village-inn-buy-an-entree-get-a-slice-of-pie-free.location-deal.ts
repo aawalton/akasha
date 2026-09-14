@@ -8,7 +8,7 @@ export const restaurantsVillageInnBuyAnEntreeGetASliceOfPieFree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:village-inn:buy-an-entree-get-a-slice-of-pie-free",
   finePrint: "Provo",
-  locations: ["village-inn-provo"],
+  locations: ["location/village-inn-provo"],
   offerText: "Buy an Entree, Get a Slice of Pie FREE!",
   offerType: "free",
   section: "Restaurants",

@@ -8,7 +8,7 @@ export const pizzaRosatisAuthenticChicagoPizza241AnyPizza = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:rosatis-authentic-chicago-pizza:2-4-1-any-pizza",
   finePrint: "Dine-in & Cam…",
-  locations: ["rosatis-authentic-chicago-pizza-utah-county"],
+  locations: ["location/rosatis-authentic-chicago-pizza-utah-county"],
   offerText: "2-4-1! Any Pizza!",
   offerType: "2-4-1",
   section: "Pizza",

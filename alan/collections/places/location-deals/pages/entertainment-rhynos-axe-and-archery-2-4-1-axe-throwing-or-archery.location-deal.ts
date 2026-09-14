@@ -8,7 +8,7 @@ export const entertainmentRhynosAxeAndArchery241AxeThrowingOrArchery = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:rhynos-axe-and-archery:2-4-1-axe-throwing-or-archery",
   finePrint: "Valid M-Th",
-  locations: ["rhynos-axe-archery-utah-county"],
+  locations: ["location/rhynos-axe-archery-utah-county"],
   offerText: "2-4-1! Axe Throwing or Archery!",
   offerType: "2-4-1",
   section: "Entertainment",

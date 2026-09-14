@@ -8,7 +8,7 @@ export const sandwichesAndBurgersIkes241Sandwich = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:ikes:2-4-1-sandwich",
   finePrint: "Lehi",
-  locations: ["ikes-lehi"],
+  locations: ["location/ikes-lehi"],
   offerText: "2-4-1! Sandwich!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

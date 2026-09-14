@@ -8,7 +8,7 @@ export const sandwichesAndBurgersGandolfos241BreakfastSandwich = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:gandolfos:2-4-1-breakfast-sandwich",
   finePrint: "All Utah County",
-  locations: ["gandolfos-utah-county"],
+  locations: ["location/gandolfos-utah-county"],
   offerText: "2-4-1! Breakfast Sandwich!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

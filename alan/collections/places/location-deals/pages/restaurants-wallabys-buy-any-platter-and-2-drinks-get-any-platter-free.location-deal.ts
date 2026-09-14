@@ -8,7 +8,7 @@ export const restaurantsWallabysBuyAnyPlatterAnd2DrinksGetAnyPlatterFree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:wallabys:buy-any-platter-and-2-drinks-get-any-platter-free",
   finePrint: "Up to $14",
-  locations: ["wallabys-utah-county"],
+  locations: ["location/wallabys-utah-county"],
   offerText: "Buy Any Platter & 2 Drinks, Get Any Platter FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

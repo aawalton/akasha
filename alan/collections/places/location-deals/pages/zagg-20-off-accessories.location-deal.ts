@@ -10,7 +10,7 @@ export const zagg20OffAccessories = {
   dealKey:
     "ssc:retail-auto-and-more:zagg:20-off-any-glass-screen-protection-phone-case-headphones-power-bank-or-bluetooth-keyboard",
   finePrint: "UT County Stores",
-  locations: ["zagg-utah-county"],
+  locations: ["location/zagg-utah-county"],
   offerText:
     "20% OFF! Any Glass Screen Protection, Phone Case, Headphones, Power Bank or Bluetooth Keyboard!",
   offerType: "percent-off",

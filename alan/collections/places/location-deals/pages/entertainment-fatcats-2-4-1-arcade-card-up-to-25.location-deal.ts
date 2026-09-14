@@ -8,7 +8,7 @@ export const entertainmentFatcats241ArcadeCardUpTo25 = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:fatcats:2-4-1-arcade-card-up-to-25",
   finePrint: "Provo",
-  locations: ["fatcats-provo"],
+  locations: ["location/fatcats-provo"],
   offerText: "2-4-1! Arcade Card! Up to $25",
   offerType: "2-4-1",
   section: "Entertainment",

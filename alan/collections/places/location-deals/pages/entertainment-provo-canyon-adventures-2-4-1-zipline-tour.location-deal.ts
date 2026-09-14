@@ -8,7 +8,7 @@ export const entertainmentProvoCanyonAdventures241ZiplineTour = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:provo-canyon-adventures:2-4-1-zipline-tour",
   finePrint: "Appt. Req. Please Tip",
-  locations: ["provo-canyon-adventures-utah-county"],
+  locations: ["location/provo-canyon-adventures-utah-county"],
   offerText: "2-4-1! Zipline Tour!",
   offerType: "2-4-1",
   section: "Entertainment",

@@ -8,7 +8,7 @@ export const treatsAndDrinksGreatHarvestBreadCo241LoafOfBread = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:great-harvest-bread-co:2-4-1-loaf-of-bread",
   finePrint: "Provo",
-  locations: ["great-harvest-bread-co-provo"],
+  locations: ["location/great-harvest-bread-co-provo"],
   offerText: "2-4-1! Loaf of Bread!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

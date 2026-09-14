@@ -8,7 +8,7 @@ export const freeStuffThePicklrFree3HrOpenPlaySession = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:the-picklr:free-3-hr-open-play-session",
   finePrint: "Lehi & Bluffdale",
-  locations: ["the-picklr-bluffdale", "the-picklr-lehi"],
+  locations: ["location/the-picklr-bluffdale", "location/the-picklr-lehi"],
   offerText: "FREE! 3 Hr Open Play Session!",
   offerType: "free",
   section: "Free Stuff",

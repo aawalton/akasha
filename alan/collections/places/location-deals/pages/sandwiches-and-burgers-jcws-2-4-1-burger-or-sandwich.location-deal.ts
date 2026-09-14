@@ -8,7 +8,7 @@ export const sandwichesAndBurgersJcws241BurgerOrSandwich = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:jcws:2-4-1-burger-or-sandwich",
   finePrint: "All Locations",
-  locations: ["jcws-utah-county"],
+  locations: ["location/jcws-utah-county"],
   offerText: "2-4-1! Burger or Sandwich!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

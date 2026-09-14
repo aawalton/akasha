@@ -7,7 +7,7 @@ export const freeStuffPitaPitFreePitaPitTShirt = {
   title: "Pita Pit — FREE! Pita Pit T-Shirt!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:pita-pit:free-pita-pit-t-shirt",
-  locations: ["pita-pit-utah-county"],
+  locations: ["location/pita-pit-utah-county"],
   offerText: "FREE! Pita Pit T-Shirt!",
   offerType: "free",
   section: "Free Stuff",

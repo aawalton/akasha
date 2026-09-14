@@ -8,7 +8,7 @@ export const pizzaRitzEatsAndSweets241Pizza = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:ritz-eats-and-sweets:2-4-1-pizza",
   finePrint: "Inside Classic Fun Center Orem",
-  locations: ["ritz-eats-and-sweets-orem"],
+  locations: ["location/ritz-eats-and-sweets-orem"],
   offerText: "2-4-1! Pizza!",
   offerType: "2-4-1",
   section: "Pizza",

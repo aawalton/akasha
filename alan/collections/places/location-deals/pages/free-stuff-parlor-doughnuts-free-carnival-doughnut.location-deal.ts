@@ -7,7 +7,7 @@ export const freeStuffParlorDoughnutsFreeCarnivalDoughnut = {
   title: "Parlor Doughnuts — FREE! Carnival Doughnut!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:parlor-doughnuts:free-carnival-doughnut",
-  locations: ["parlor-doughnuts-utah-county"],
+  locations: ["location/parlor-doughnuts-utah-county"],
   offerText: "FREE! Carnival Doughnut!",
   offerType: "free",
   section: "Free Stuff",

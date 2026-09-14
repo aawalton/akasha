@@ -8,7 +8,7 @@ export const sandwichesAndBurgersWendysBuyADavesSingleOrSpicyChickenGetOneFree =
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:wendys:buy-a-daves-single-or-spicy-chicken-get-one-free",
   finePrint: "Same Locations",
-  locations: ["wendys-utah-county"],
+  locations: ["location/wendys-utah-county"],
   offerText: "Buy a Dave's Single or Spicy Chicken, Get One FREE!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

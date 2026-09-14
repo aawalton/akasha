@@ -7,7 +7,7 @@ export const pizzaFirebirdPizzaAndPastaBuyAnySpecialtyPizzaGetOneFree = {
   title: "Firebird Pizza & Pasta — Buy Any Specialty Pizza, Get One FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:pizza:firebird-pizza-and-pasta:buy-any-specialty-pizza-get-one-free",
-  locations: ["firebird-pizza-pasta-utah-county"],
+  locations: ["location/firebird-pizza-pasta-utah-county"],
   offerText: "Buy Any Specialty Pizza, Get One FREE!",
   offerType: "2-4-1",
   section: "Pizza",

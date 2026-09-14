@@ -8,7 +8,7 @@ export const restaurantsBuffaloWildWingsFree6WingsWPurchase15OrMore = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:buffalo-wild-wings:free-6-wings-w-purchase-15-or-more",
   finePrint: "Excl. Alcohol Orem & Lehi",
-  locations: ["buffalo-wild-wings-lehi", "buffalo-wild-wings-orem"],
+  locations: ["location/buffalo-wild-wings-lehi", "location/buffalo-wild-wings-orem"],
   offerText: "FREE! 6 Wings w/ Purchase $15 or More!",
   offerType: "free",
   section: "Restaurants",

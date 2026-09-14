@@ -8,7 +8,11 @@ export const freeStuffJambaJuiceFreeBelgianWafflePretzelOrCheddarTomatoTwist = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:jamba-juice:free-belgian-waffle-pretzel-or-cheddar-tomato-twist",
   finePrint: "Provo (University PKWY), UVU Campus, Draper, WJ",
-  locations: ["jamba-juice-draper", "jamba-juice-provo", "jamba-juice-west-jordan"],
+  locations: [
+    "location/jamba-juice-draper",
+    "location/jamba-juice-provo",
+    "location/jamba-juice-west-jordan",
+  ],
   offerText: "FREE! Belgian Waffle, Pretzel or Cheddar Tomato Twist!",
   offerType: "free",
   section: "Free Stuff",

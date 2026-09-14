@@ -7,7 +7,7 @@ export const entertainmentThisIsThePlaceHeritagePark241Admission = {
   title: "This Is The Place Heritage Park — 2-4-1! Admission!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:this-is-the-place-heritage-park:2-4-1-admission",
-  locations: ["this-is-the-place-heritage-park-utah-county"],
+  locations: ["location/this-is-the-place-heritage-park-utah-county"],
   offerText: "2-4-1! Admission!",
   offerType: "2-4-1",
   section: "Entertainment",

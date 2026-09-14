@@ -8,7 +8,7 @@ export const freeStuffFabulousFreddysFreeBestExteriorCarWash = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:fabulous-freddys:free-best-exterior-car-wash",
   finePrint: "Lehi",
-  locations: ["fabulous-freddys-lehi"],
+  locations: ["location/fabulous-freddys-lehi"],
   offerText: "FREE! Best Exterior Car Wash!",
   offerType: "free",
   section: "Free Stuff",

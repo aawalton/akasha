@@ -8,7 +8,7 @@ export const retailAutoAndMoreMtechCosmetology4HaircutAndStyle = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:mtech-cosmetology:4-haircut-and-style",
   finePrint: "Lehi & SF",
-  locations: ["mtech-cosmetology-lehi", "mtech-cosmetology-spanish-fork"],
+  locations: ["location/mtech-cosmetology-lehi", "location/mtech-cosmetology-spanish-fork"],
   offerText: "$4 Haircut & Style!",
   offerType: "fixed-price",
   section: "Retail Auto & More",

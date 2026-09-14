@@ -7,7 +7,7 @@ export const freeStuffBurgersSupremeFreeFlavorBurstIceCreamCone = {
   title: "Burgers Supreme — FREE! Flavor Burst Ice Cream Cone!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:burgers-supreme:free-flavor-burst-ice-cream-cone",
-  locations: ["burgers-supreme-utah-county"],
+  locations: ["location/burgers-supreme-utah-county"],
   offerText: "FREE! Flavor Burst Ice Cream Cone!",
   offerType: "free",
   section: "Free Stuff",

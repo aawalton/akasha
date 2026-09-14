@@ -8,7 +8,7 @@ export const sandwichesAndBurgersMooyah50OffEntirePurchase = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:mooyah:50-off-entire-purchase",
   finePrint: "Entire Purchase! Max $30 Discount",
-  locations: ["mooyah-utah-county"],
+  locations: ["location/mooyah-utah-county"],
   offerText: "50% OFF! Entire Purchase!",
   offerType: "percent-off",
   section: "Sandwiches & Burgers",

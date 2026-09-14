@@ -8,7 +8,7 @@ export const entertainmentRedlineRacing241Race = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:redline-racing:2-4-1-race",
   finePrint: "Includes free helmet & headsock.",
-  locations: ["redline-racing-utah-county"],
+  locations: ["location/redline-racing-utah-county"],
   offerText: "2-4-1! Race!",
   offerType: "2-4-1",
   section: "Entertainment",

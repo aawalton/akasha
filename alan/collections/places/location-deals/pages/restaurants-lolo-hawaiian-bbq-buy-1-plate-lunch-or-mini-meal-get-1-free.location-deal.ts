@@ -8,7 +8,7 @@ export const restaurantsLoloHawaiianBbqBuy1PlateLunchOrMiniMealGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:lolo-hawaiian-bbq:buy-1-plate-lunch-or-mini-meal-get-1-free",
   finePrint: "All Locations",
-  locations: ["lolo-hawaiian-bbq-utah-county"],
+  locations: ["location/lolo-hawaiian-bbq-utah-county"],
   offerText: "Buy 1 Plate Lunch or Mini Meal, Get 1 FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

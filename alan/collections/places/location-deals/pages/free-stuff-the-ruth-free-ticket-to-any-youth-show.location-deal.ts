@@ -8,7 +8,7 @@ export const freeStuffTheRuthFreeTicketToAnyYouthShow = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:the-ruth:free-ticket-to-any-youth-show",
   finePrint: "Select Seats",
-  locations: ["the-ruth-utah-county"],
+  locations: ["location/the-ruth-utah-county"],
   offerText: "FREE! Ticket to Any Youth Show!",
   offerType: "free",
   redemptionCode: "SSC",

@@ -8,7 +8,7 @@ export const treatsAndDrinksRoxberryJuiceCo241Smoothie = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:roxberry-juice-co:2-4-1-smoothie",
   finePrint: "Spanish Fork & Participating Locations",
-  locations: ["roxberry-juice-co-spanish-fork"],
+  locations: ["location/roxberry-juice-co-spanish-fork"],
   offerText: "2-4-1! Smoothie!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

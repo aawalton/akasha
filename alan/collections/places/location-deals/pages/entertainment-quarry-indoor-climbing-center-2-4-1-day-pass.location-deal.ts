@@ -8,7 +8,7 @@ export const entertainmentQuarryIndoorClimbingCenter241DayPass = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:quarry-indoor-climbing-center:2-4-1-day-pass",
   finePrint: "Shoes and Harness Not Included! Not Valid Monday or Saturday After 6pm!",
-  locations: ["quarry-indoor-climbing-center-utah-county"],
+  locations: ["location/quarry-indoor-climbing-center-utah-county"],
   offerText: "2-4-1! Day Pass!",
   offerType: "2-4-1",
   section: "Entertainment",

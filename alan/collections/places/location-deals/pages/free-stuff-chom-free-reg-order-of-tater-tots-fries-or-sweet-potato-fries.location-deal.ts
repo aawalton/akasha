@@ -7,7 +7,7 @@ export const freeStuffChomFreeRegOrderOfTaterTotsFriesOrSweetPotatoFries = {
   title: "CHOM — FREE! Reg Order of Tater Tots, Fries or Sweet Potato Fries!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:chom:free-reg-order-of-tater-tots-fries-or-sweet-potato-fries",
-  locations: ["chom-utah-county"],
+  locations: ["location/chom-utah-county"],
   offerText: "FREE! Reg Order of Tater Tots, Fries or Sweet Potato Fries!",
   offerType: "free",
   section: "Free Stuff",

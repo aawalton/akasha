@@ -8,7 +8,7 @@ export const freeStuffCurryPizzaFreeSamosa = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:curry-pizza:free-samosa",
   finePrint: "Lehi",
-  locations: ["curry-pizza-lehi"],
+  locations: ["location/curry-pizza-lehi"],
   offerText: "FREE! Samosa!",
   offerType: "free",
   section: "Free Stuff",

@@ -8,7 +8,7 @@ export const pizzaPier49Pizza241AnyPizza = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:pier-49-pizza:2-4-1-any-pizza",
   finePrint: "AF and Provo",
-  locations: ["pier-49-pizza-american-fork", "pier-49-pizza-provo"],
+  locations: ["location/pier-49-pizza-american-fork", "location/pier-49-pizza-provo"],
   offerText: "2-4-1! Any Pizza!",
   offerType: "2-4-1",
   section: "Pizza",

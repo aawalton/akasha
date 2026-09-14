@@ -8,7 +8,7 @@ export const freeStuffAuntieAnnesFreeSmallLemonadeMixer = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:auntie-annes:free-small-lemonade-mixer",
   finePrint: "Lehi & Draper",
-  locations: ["auntie-annes-draper", "auntie-annes-lehi"],
+  locations: ["location/auntie-annes-draper", "location/auntie-annes-lehi"],
   offerText: "FREE! Small Lemonade Mixer!",
   offerType: "free",
   section: "Free Stuff",

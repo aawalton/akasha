@@ -7,7 +7,7 @@ export const freeStuffImprovBroadwayOneFreeAdmission = {
   title: "Improv Broadway — One FREE! Admission!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:improv-broadway:one-free-admission",
-  locations: ["improv-broadway-utah-county"],
+  locations: ["location/improv-broadway-utah-county"],
   offerText: "One FREE! Admission!",
   offerType: "free",
   section: "Free Stuff",

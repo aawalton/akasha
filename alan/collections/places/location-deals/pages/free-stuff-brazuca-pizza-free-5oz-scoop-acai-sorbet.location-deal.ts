@@ -7,7 +7,7 @@ export const freeStuffBrazucaPizzaFree5ozScoopAcaiSorbet = {
   title: "Brazuca Pizza — FREE! 5oz Scoop Acai Sorbet!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:brazuca-pizza:free-5oz-scoop-acai-sorbet",
-  locations: ["brazuca-pizza-utah-county"],
+  locations: ["location/brazuca-pizza-utah-county"],
   offerText: "FREE! 5oz Scoop Acai Sorbet!",
   offerType: "free",
   section: "Free Stuff",

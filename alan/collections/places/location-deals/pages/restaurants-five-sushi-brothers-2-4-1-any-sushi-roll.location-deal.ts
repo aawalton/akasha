@@ -7,7 +7,7 @@ export const restaurantsFiveSushiBrothers241AnySushiRoll = {
   title: "Five Sushi Brothers — 2-4-1! Any Sushi Roll!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:five-sushi-brothers:2-4-1-any-sushi-roll",
-  locations: ["five-sushi-brothers-utah-county"],
+  locations: ["location/five-sushi-brothers-utah-county"],
   offerText: "2-4-1! Any Sushi Roll!",
   offerType: "2-4-1",
   section: "Restaurants",

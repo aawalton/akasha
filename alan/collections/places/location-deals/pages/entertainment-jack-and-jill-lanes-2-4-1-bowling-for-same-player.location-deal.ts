@@ -8,7 +8,7 @@ export const entertainmentJackAndJillLanes241BowlingForSamePlayer = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:jack-and-jill-lanes:2-4-1-bowling-for-same-player",
   finePrint: "Shoes Not Included! M-Thurs Before 6pm! Not Valid Holidays! Lehi & AF",
-  locations: ["jack-jill-lanes-american-fork", "jack-jill-lanes-lehi"],
+  locations: ["location/jack-jill-lanes-american-fork", "location/jack-jill-lanes-lehi"],
   offerText: "2-4-1! Bowling for Same Player!",
   offerType: "2-4-1",
   section: "Entertainment",

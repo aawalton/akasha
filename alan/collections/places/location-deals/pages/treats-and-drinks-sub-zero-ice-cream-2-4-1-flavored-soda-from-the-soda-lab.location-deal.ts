@@ -8,7 +8,7 @@ export const treatsAndDrinksSubZeroIceCream241FlavoredSodaFromTheSodaLab = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:sub-zero-ice-cream:2-4-1-flavored-soda-from-the-soda-lab",
   finePrint: "All Ut County",
-  locations: ["sub-zero-ice-cream-utah-county"],
+  locations: ["location/sub-zero-ice-cream-utah-county"],
   offerText: "2-4-1! Flavored Soda from the Soda Lab!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

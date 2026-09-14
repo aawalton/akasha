@@ -7,7 +7,7 @@ export const restaurantsSlurpBuy8PcChickenWingGetABobaDrinkFree = {
   title: "Slurp — Buy 8 pc Chicken Wing, Get a Boba Drink FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:slurp:buy-8-pc-chicken-wing-get-a-boba-drink-free",
-  locations: ["slurp-utah-county"],
+  locations: ["location/slurp-utah-county"],
   offerText: "Buy 8 pc Chicken Wing, Get a Boba Drink FREE!",
   offerType: "free",
   section: "Restaurants",

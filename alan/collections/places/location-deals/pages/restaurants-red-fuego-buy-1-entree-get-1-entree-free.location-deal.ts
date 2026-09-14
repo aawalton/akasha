@@ -8,7 +8,7 @@ export const restaurantsRedFuegoBuy1EntreeGet1EntreeFree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:red-fuego:buy-1-entree-get-1-entree-free",
   finePrint: "All Locations",
-  locations: ["red-fuego-utah-county"],
+  locations: ["location/red-fuego-utah-county"],
   offerText: "Buy 1 Entree, Get 1 Entree FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

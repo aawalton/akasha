@@ -8,7 +8,7 @@ export const restaurantsWingersBuy1EntreeAnd2DrinksGet1EntreeFree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:wingers:buy-1-entree-and-2-drinks-get-1-entree-free",
   finePrint: "Up to $10 Provo",
-  locations: ["wingers-provo"],
+  locations: ["location/wingers-provo"],
   offerText: "Buy 1 Entree & 2 Drinks, Get 1 Entree FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

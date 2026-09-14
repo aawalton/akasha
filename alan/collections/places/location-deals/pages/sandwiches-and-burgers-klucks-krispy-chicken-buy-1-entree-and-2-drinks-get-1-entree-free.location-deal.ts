@@ -9,7 +9,7 @@ export const sandwichesAndBurgersKlucksKrispyChickenBuy1EntreeAnd2DrinksGet1Entr
   dealKey:
     "ssc:sandwiches-and-burgers:klucks-krispy-chicken:buy-1-entree-and-2-drinks-get-1-entree-free",
   finePrint: "Saratoga",
-  locations: ["klucks-krispy-chicken-saratoga-springs"],
+  locations: ["location/klucks-krispy-chicken-saratoga-springs"],
   offerText: "Buy 1 Entree & 2 Drinks, Get 1 Entree FREE!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

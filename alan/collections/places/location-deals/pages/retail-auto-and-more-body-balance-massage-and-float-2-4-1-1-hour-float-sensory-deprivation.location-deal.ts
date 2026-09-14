@@ -9,7 +9,7 @@ export const retailAutoAndMoreBodyBalanceMassageAndFloat2411HourFloatSensoryDepr
   dealKey:
     "ssc:retail-auto-and-more:body-balance-massage-and-float:2-4-1-1-hour-float-sensory-deprivation",
   finePrint: "AF",
-  locations: ["body-balance-massage-and-float-american-fork"],
+  locations: ["location/body-balance-massage-and-float-american-fork"],
   offerText: "2-4-1! 1 Hour Float (Sensory Deprivation)",
   offerType: "2-4-1",
   section: "Retail Auto & More",

@@ -8,7 +8,7 @@ export const sandwichesAndBurgersJackInTheBoxBuy1ComboGet1ComboFree = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:jack-in-the-box:buy-1-combo-get-1-combo-free",
   finePrint: "All Utah County",
-  locations: ["jack-in-the-box-utah-county"],
+  locations: ["location/jack-in-the-box-utah-county"],
   offerText: "Buy 1 Combo, Get 1 Combo FREE!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

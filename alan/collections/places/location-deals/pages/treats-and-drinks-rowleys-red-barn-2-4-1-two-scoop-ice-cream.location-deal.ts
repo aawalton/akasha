@@ -7,7 +7,7 @@ export const treatsAndDrinksRowleysRedBarn241TwoScoopIceCream = {
   title: "Rowley's Red Barn — 2-4-1! Two-Scoop Ice Cream!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:rowleys-red-barn:2-4-1-two-scoop-ice-cream",
-  locations: ["rowleys-red-barn-utah-county"],
+  locations: ["location/rowleys-red-barn-utah-county"],
   offerText: "2-4-1! Two-Scoop Ice Cream!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

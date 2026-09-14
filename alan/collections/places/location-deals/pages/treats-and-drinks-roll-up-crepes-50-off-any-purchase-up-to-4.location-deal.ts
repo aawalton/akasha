@@ -8,7 +8,7 @@ export const treatsAndDrinksRollUpCrepes50OffAnyPurchaseUpTo4 = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:roll-up-crepes:50-off-any-purchase-up-to-4",
   finePrint: "Orem & SF",
-  locations: ["roll-up-crepes-orem", "roll-up-crepes-spanish-fork"],
+  locations: ["location/roll-up-crepes-orem", "location/roll-up-crepes-spanish-fork"],
   offerText: "50% OFF! Any Purchase! Up to $4!",
   offerType: "percent-off",
   section: "Treats & Drinks",

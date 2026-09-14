@@ -8,7 +8,7 @@ export const treatsAndDrinksSplashDrinksAndTreats241Cookie = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:splash-drinks-and-treats:2-4-1-cookie",
   finePrint: "Lehi",
-  locations: ["splash-drinks-and-treats-lehi"],
+  locations: ["location/splash-drinks-and-treats-lehi"],
   offerText: "2-4-1! Cookie!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

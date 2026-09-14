@@ -7,7 +7,7 @@ export const freeStuffBubbakoosBurritosFreeChickenPorkOrBeefTacoWChoiceOfSauce =
   title: "Bubbakoo's Burritos — FREE! Chicken, Pork or Beef Taco w/ Choice of Sauce!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:bubbakoos-burritos:free-chicken-pork-or-beef-taco-w-choice-of-sauce",
-  locations: ["bubbakoos-burritos-utah-county"],
+  locations: ["location/bubbakoos-burritos-utah-county"],
   offerText: "FREE! Chicken, Pork or Beef Taco w/ Choice of Sauce!",
   offerType: "free",
   section: "Free Stuff",

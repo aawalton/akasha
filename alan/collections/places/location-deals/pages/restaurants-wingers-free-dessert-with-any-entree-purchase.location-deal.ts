@@ -8,7 +8,7 @@ export const restaurantsWingersFreeDessertWithAnyEntreePurchase = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:wingers:free-dessert-with-any-entree-purchase",
   finePrint: "Provo",
-  locations: ["wingers-provo"],
+  locations: ["location/wingers-provo"],
   offerText: "FREE! Dessert With Any Entree Purchase!",
   offerType: "free",
   section: "Restaurants",

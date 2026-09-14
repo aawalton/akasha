@@ -7,7 +7,7 @@ export const restaurantsHungryHawaiian241Entree = {
   title: "Hungry Hawaiian — 2-4-1! Entree!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:hungry-hawaiian:2-4-1-entree",
-  locations: ["hungry-hawaiian-utah-county"],
+  locations: ["location/hungry-hawaiian-utah-county"],
   offerText: "2-4-1! Entree!",
   offerType: "2-4-1",
   section: "Restaurants",

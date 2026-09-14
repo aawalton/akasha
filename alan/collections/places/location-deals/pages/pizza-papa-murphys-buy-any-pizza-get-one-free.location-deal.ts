@@ -8,7 +8,7 @@ export const pizzaPapaMurphysBuyAnyPizzaGetOneFree = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:papa-murphys:buy-any-pizza-get-one-free",
   finePrint: "Provo & Park City",
-  locations: ["papa-murphys-park-city", "papa-murphys-provo"],
+  locations: ["location/papa-murphys-park-city", "location/papa-murphys-provo"],
   offerText: "Buy Any Pizza, Get One FREE!",
   offerType: "2-4-1",
   section: "Pizza",

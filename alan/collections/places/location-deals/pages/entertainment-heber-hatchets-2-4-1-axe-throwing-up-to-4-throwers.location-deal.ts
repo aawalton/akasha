@@ -8,7 +8,7 @@ export const entertainmentHeberHatchets241AxeThrowingUpTo4Throwers = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:heber-hatchets:2-4-1-axe-throwing-up-to-4-throwers",
   finePrint: "M-Th",
-  locations: ["heber-hatchets-utah-county"],
+  locations: ["location/heber-hatchets-utah-county"],
   offerText: "2-4-1! Axe Throwing! Up to 4 Throwers.",
   offerType: "2-4-1",
   section: "Entertainment",

@@ -8,7 +8,7 @@ export const freeStuffTheRiftAugmentedRealityFreeAdmit2ToAnyExperience = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:the-rift-augmented-reality:free-admit-2-to-any-experience",
   finePrint: "Mon Only Provo",
-  locations: ["the-rift-augmented-reality-provo"],
+  locations: ["location/the-rift-augmented-reality-provo"],
   offerText: "FREE! Admit 2 to Any Experience!",
   offerType: "free",
   section: "Free Stuff",

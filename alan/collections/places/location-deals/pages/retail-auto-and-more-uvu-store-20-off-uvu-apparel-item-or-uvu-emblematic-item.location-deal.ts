@@ -8,7 +8,7 @@ export const retailAutoAndMoreUvuStore20OffUvuApparelItemOrUvuEmblematicItem = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:uvu-store:20-off-uvu-apparel-item-or-uvu-emblematic-item",
   finePrint: "Restrictions Apply",
-  locations: ["uvu-store-utah-county"],
+  locations: ["location/uvu-store-utah-county"],
   offerText: "20% OFF! UVU Apparel item or UVU Emblematic Item.",
   offerType: "percent-off",
   section: "Retail Auto & More",

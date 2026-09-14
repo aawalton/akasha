@@ -8,7 +8,7 @@ export const entertainmentGetoutGames50OffGroupAdmissionForOneRoom = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:getout-games:50-off-group-admission-for-one-room",
   finePrint: "M-Th",
-  locations: ["getout-games-utah-county"],
+  locations: ["location/getout-games-utah-county"],
   offerText: "50% OFF! Group Admission for One Room!",
   offerType: "percent-off",
   section: "Entertainment",

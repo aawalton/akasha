@@ -8,7 +8,7 @@ export const restaurantsLosHermanosBuy1EntrEAnd2DrinksGetOneEntrEFree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:los-hermanos:buy-1-entr-e-and-2-drinks-get-one-entr-e-free",
   finePrint: "Up to $15",
-  locations: ["los-hermanos-utah-county"],
+  locations: ["location/los-hermanos-utah-county"],
   offerText: "Buy 1 Entrée & 2 Drinks, Get One Entrée FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

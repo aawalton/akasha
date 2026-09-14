@@ -8,7 +8,7 @@ export const treatsAndDrinksRollUpCrepes241EntreeUpTo7 = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:roll-up-crepes:2-4-1-entree-up-to-7",
   finePrint: "Orem & SF",
-  locations: ["roll-up-crepes-orem", "roll-up-crepes-spanish-fork"],
+  locations: ["location/roll-up-crepes-orem", "location/roll-up-crepes-spanish-fork"],
   offerText: "2-4-1! Entree! Up to $7!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

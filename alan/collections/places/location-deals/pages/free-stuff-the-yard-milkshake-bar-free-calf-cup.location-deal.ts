@@ -8,7 +8,7 @@ export const freeStuffTheYardMilkshakeBarFreeCalfCup = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:the-yard-milkshake-bar:free-calf-cup",
   finePrint: "(1 Scoop Ice Cream)",
-  locations: ["the-yard-milkshake-bar-utah-county"],
+  locations: ["location/the-yard-milkshake-bar-utah-county"],
   offerText: "FREE! Calf Cup!",
   offerType: "free",
   section: "Free Stuff",

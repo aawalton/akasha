@@ -8,7 +8,7 @@ export const entertainmentDragonsKeepBuy1GraphicNovelGet150Off = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:dragons-keep:buy-1-graphic-novel-get-1-50-off",
   finePrint: "All Locations",
-  locations: ["dragons-keep-utah-county"],
+  locations: ["location/dragons-keep-utah-county"],
   offerText: "Buy 1 Graphic Novel, Get 1 50% OFF!",
   offerType: "percent-off",
   section: "Entertainment",

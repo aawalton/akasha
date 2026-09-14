@@ -7,7 +7,7 @@ export const restaurantsNauticalBowls241AnyAcaiBowlOrAnyOtherBowl = {
   title: "Nautical Bowls — 2-4-1! Any Acai Bowl or Any Other Bowl!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:nautical-bowls:2-4-1-any-acai-bowl-or-any-other-bowl",
-  locations: ["nautical-bowls-utah-county"],
+  locations: ["location/nautical-bowls-utah-county"],
   offerText: "2-4-1! Any Acai Bowl or Any Other Bowl!",
   offerType: "2-4-1",
   section: "Restaurants",

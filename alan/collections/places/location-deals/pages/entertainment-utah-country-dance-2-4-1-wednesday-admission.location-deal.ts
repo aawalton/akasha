@@ -7,7 +7,7 @@ export const entertainmentUtahCountryDance241WednesdayAdmission = {
   title: "Utah Country Dance — 2-4-1! Wednesday Admission!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:utah-country-dance:2-4-1-wednesday-admission",
-  locations: ["utah-country-dance-utah-county"],
+  locations: ["location/utah-country-dance-utah-county"],
   offerText: "2-4-1! Wednesday Admission!",
   offerType: "2-4-1",
   section: "Entertainment",

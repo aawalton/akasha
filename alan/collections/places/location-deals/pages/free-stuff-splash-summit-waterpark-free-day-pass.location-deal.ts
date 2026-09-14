@@ -8,7 +8,7 @@ export const freeStuffSplashSummitWaterparkFreeDayPass = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:splash-summit-waterpark:free-day-pass",
   finePrint: "Valid May & June",
-  locations: ["splash-summit-waterpark-utah-county"],
+  locations: ["location/splash-summit-waterpark-utah-county"],
   offerText: "FREE! Day Pass!",
   offerType: "free",
   section: "Free Stuff",

@@ -8,7 +8,7 @@ export const entertainmentScera241SameDayMusicalTickets = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:scera:2-4-1-same-day-musical-tickets",
   finePrint: "Present Card in Person",
-  locations: ["scera-utah-county"],
+  locations: ["location/scera-utah-county"],
   offerText: "2-4-1! Same Day Musical Tickets!",
   offerType: "2-4-1",
   section: "Entertainment",

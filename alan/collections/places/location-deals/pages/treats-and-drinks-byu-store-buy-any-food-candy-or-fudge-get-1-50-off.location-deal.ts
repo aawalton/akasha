@@ -7,7 +7,7 @@ export const treatsAndDrinksByuStoreBuyAnyFoodCandyOrFudgeGet150Off = {
   title: "BYU Store — Buy Any Food, Candy, or Fudge, Get 1 50% OFF!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:byu-store:buy-any-food-candy-or-fudge-get-1-50-off",
-  locations: ["byu-store-utah-county"],
+  locations: ["location/byu-store-utah-county"],
   offerText: "Buy Any Food, Candy, or Fudge, Get 1 50% OFF!",
   offerType: "percent-off",
   redemptionCode: "CODE 11685",

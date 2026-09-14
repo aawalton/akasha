@@ -7,7 +7,7 @@ export const entertainmentByuOutdoorsUnlimited241OneHourTandemBikeRental = {
   title: "BYU Outdoors Unlimited — 2-4-1! One Hour Tandem Bike Rental!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:byu-outdoors-unlimited:2-4-1-one-hour-tandem-bike-rental",
-  locations: ["byu-outdoors-unlimited-utah-county"],
+  locations: ["location/byu-outdoors-unlimited-utah-county"],
   offerText: "2-4-1! One Hour Tandem Bike Rental!",
   offerType: "2-4-1",
   section: "Entertainment",

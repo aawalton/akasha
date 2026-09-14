@@ -8,7 +8,7 @@ export const freeStuffBadAppleAndFixitFreeExternalDeviceCleaning = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:bad-apple-and-fixit:free-external-device-cleaning",
   finePrint: "Valid All Locations",
-  locations: ["bad-apple-fixit-utah-county"],
+  locations: ["location/bad-apple-fixit-utah-county"],
   offerText: "FREE! External Device Cleaning!",
   offerType: "free",
   section: "Free Stuff",

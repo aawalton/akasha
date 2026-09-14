@@ -8,7 +8,7 @@ export const freeStuffTacoTimeFreePlainOrBavarianCremeChurro = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:taco-time:free-plain-or-bavarian-creme-churro",
   finePrint: "Orem",
-  locations: ["taco-time-orem"],
+  locations: ["location/taco-time-orem"],
   offerText: "FREE! Plain or Bavarian Creme Churro!",
   offerType: "free",
   section: "Free Stuff",

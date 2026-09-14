@@ -8,7 +8,7 @@ export const restaurantsGoldenCorralBuffet241WeekendBreakfastBuffet = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:golden-corral-buffet:2-4-1-weekend-breakfast-buffet",
   finePrint: "Orem",
-  locations: ["golden-corral-buffet-orem"],
+  locations: ["location/golden-corral-buffet-orem"],
   offerText: "2-4-1! Weekend Breakfast Buffet!",
   offerType: "2-4-1",
   section: "Restaurants",

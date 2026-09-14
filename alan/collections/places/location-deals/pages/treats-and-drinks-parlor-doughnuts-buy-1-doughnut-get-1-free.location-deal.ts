@@ -7,7 +7,7 @@ export const treatsAndDrinksParlorDoughnutsBuy1DoughnutGet1Free = {
   title: "Parlor Doughnuts — Buy 1 Doughnut, Get 1 FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:parlor-doughnuts:buy-1-doughnut-get-1-free",
-  locations: ["parlor-doughnuts-utah-county"],
+  locations: ["location/parlor-doughnuts-utah-county"],
   offerText: "Buy 1 Doughnut, Get 1 FREE!",
   offerType: "free",
   section: "Treats & Drinks",

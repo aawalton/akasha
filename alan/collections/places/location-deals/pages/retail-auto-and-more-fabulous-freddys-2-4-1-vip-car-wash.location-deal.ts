@@ -8,7 +8,7 @@ export const retailAutoAndMoreFabulousFreddys241VipCarWash = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:fabulous-freddys:2-4-1-vip-car-wash",
   finePrint: "Lehi",
-  locations: ["fabulous-freddys-lehi"],
+  locations: ["location/fabulous-freddys-lehi"],
   offerText: "2-4-1! VIP Car Wash!",
   offerType: "2-4-1",
   section: "Retail Auto & More",

@@ -8,7 +8,7 @@ export const restaurantsWingstop2416PieceComboMeal = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:wingstop:2-4-1-6-piece-combo-meal",
   finePrint: "All Northern UT locations",
-  locations: ["wingstop-utah-county"],
+  locations: ["location/wingstop-utah-county"],
   offerText: "2-4-1! 6 Piece Combo Meal!",
   offerType: "2-4-1",
   section: "Restaurants",

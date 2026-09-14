@@ -7,7 +7,7 @@ export const treatsAndDrinksCarlsJr2For4IceCreamShake = {
   title: "Carl's Jr — 2 for $4 Ice Cream Shake!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:carls-jr:2-for-4-ice-cream-shake",
-  locations: ["carls-jr-utah-county"],
+  locations: ["location/carls-jr-utah-county"],
   offerText: "2 for $4 Ice Cream Shake!",
   offerType: "fixed-price",
   section: "Treats & Drinks",

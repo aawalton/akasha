@@ -8,7 +8,7 @@ export const restaurantsCostaVidaBuy1EntreeAnd2DrinksGet1EntreeFree = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:costa-vida:buy-1-entree-and-2-drinks-get-1-entree-free",
   finePrint: "All Ut Cnty",
-  locations: ["costa-vida-utah-county"],
+  locations: ["location/costa-vida-utah-county"],
   offerText: "Buy 1 Entree and 2 Drinks, Get 1 Entree FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

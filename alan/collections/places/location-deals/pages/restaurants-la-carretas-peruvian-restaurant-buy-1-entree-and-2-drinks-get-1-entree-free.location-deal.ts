@@ -9,7 +9,7 @@ export const restaurantsLaCarretasPeruvianRestaurantBuy1EntreeAnd2DrinksGet1Entr
   dealKey:
     "ssc:restaurants:la-carretas-peruvian-restaurant:buy-1-entree-and-2-drinks-get-1-entree-free",
   finePrint: "M-Th",
-  locations: ["la-carretas-peruvian-restaurant-utah-county"],
+  locations: ["location/la-carretas-peruvian-restaurant-utah-county"],
   offerText: "Buy 1 Entree & 2 Drinks, Get 1 Entree FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

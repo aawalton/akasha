@@ -7,7 +7,7 @@ export const treatsAndDrinksYogurtlandBuyOneYogurtGetOneFree = {
   title: "Yogurtland — Buy One Yogurt, Get One FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:yogurtland:buy-one-yogurt-get-one-free",
-  locations: ["yogurtland-utah-county"],
+  locations: ["location/yogurtland-utah-county"],
   offerText: "Buy One Yogurt, Get One FREE!",
   offerType: "free",
   section: "Treats & Drinks",

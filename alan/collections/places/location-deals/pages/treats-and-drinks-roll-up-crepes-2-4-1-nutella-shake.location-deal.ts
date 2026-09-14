@@ -8,7 +8,7 @@ export const treatsAndDrinksRollUpCrepes241NutellaShake = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:roll-up-crepes:2-4-1-nutella-shake",
   finePrint: "Orem & SF",
-  locations: ["roll-up-crepes-orem", "roll-up-crepes-spanish-fork"],
+  locations: ["location/roll-up-crepes-orem", "location/roll-up-crepes-spanish-fork"],
   offerText: "2-4-1! Nutella Shake!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

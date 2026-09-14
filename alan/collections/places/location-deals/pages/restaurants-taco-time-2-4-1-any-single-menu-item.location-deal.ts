@@ -8,7 +8,7 @@ export const restaurantsTacoTime241AnySingleMenuItem = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:taco-time:2-4-1-any-single-menu-item",
   finePrint: "Orem",
-  locations: ["taco-time-orem"],
+  locations: ["location/taco-time-orem"],
   offerText: "2-4-1! Any Single Menu Item!",
   offerType: "2-4-1",
   section: "Restaurants",

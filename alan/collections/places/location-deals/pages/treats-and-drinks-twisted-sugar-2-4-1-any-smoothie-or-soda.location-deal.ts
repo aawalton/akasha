@@ -8,7 +8,7 @@ export const treatsAndDrinksTwistedSugar241AnySmoothieOrSoda = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:twisted-sugar:2-4-1-any-smoothie-or-soda",
   finePrint: "PG & Saratoga Only",
-  locations: ["twisted-sugar-pleasant-grove", "twisted-sugar-saratoga-springs"],
+  locations: ["location/twisted-sugar-pleasant-grove", "location/twisted-sugar-saratoga-springs"],
   offerText: "2-4-1! Any Smoothie or Soda!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

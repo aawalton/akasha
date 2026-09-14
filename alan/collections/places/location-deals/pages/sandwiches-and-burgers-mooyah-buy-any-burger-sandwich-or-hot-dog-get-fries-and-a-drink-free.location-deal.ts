@@ -8,7 +8,7 @@ export const sandwichesAndBurgersMooyahBuyAnyBurgerSandwichOrHotDogGetFriesAndAD
   collection: "starving-student-card",
   dealKey:
     "ssc:sandwiches-and-burgers:mooyah:buy-any-burger-sandwich-or-hot-dog-get-fries-and-a-drink-free",
-  locations: ["mooyah-utah-county"],
+  locations: ["location/mooyah-utah-county"],
   offerText: "Buy Any Burger, Sandwich or Hot Dog, Get Fries and a Drink FREE!",
   offerType: "free",
   section: "Sandwiches & Burgers",

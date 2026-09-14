@@ -8,7 +8,7 @@ export const retailAutoAndMoreForgeJewelryWorks30OffAnyJewelryItem = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:forge-jewelry-works:30-off-any-jewelry-item",
   finePrint: "Excl. Loose Diamonds/Gemstones",
-  locations: ["forge-jewelry-works-utah-county"],
+  locations: ["location/forge-jewelry-works-utah-county"],
   offerText: "30% OFF! Any Jewelry Item!",
   offerType: "percent-off",
   section: "Retail Auto & More",

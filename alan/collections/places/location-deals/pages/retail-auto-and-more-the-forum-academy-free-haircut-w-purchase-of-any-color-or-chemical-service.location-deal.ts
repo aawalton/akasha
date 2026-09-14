@@ -8,7 +8,7 @@ export const retailAutoAndMoreTheForumAcademyFreeHaircutWPurchaseOfAnyColorOrChe
   collection: "starving-student-card",
   dealKey:
     "ssc:retail-auto-and-more:the-forum-academy:free-haircut-w-purchase-of-any-color-or-chemical-service",
-  locations: ["the-forum-academy-utah-county"],
+  locations: ["location/the-forum-academy-utah-county"],
   offerText: "FREE! Haircut w/ Purchase of Any Color or Chemical Service!",
   offerType: "free",
   section: "Retail Auto & More",

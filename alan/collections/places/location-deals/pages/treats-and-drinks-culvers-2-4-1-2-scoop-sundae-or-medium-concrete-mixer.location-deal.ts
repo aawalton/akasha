@@ -8,7 +8,7 @@ export const treatsAndDrinksCulvers2412ScoopSundaeOrMediumConcreteMixer = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:culvers:2-4-1-2-scoop-sundae-or-medium-concrete-mixer",
   finePrint: "Northern UT Locs",
-  locations: ["culvers-utah-county"],
+  locations: ["location/culvers-utah-county"],
   offerText: "2-4-1! 2 Scoop Sundae or Medium Concrete Mixer!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

@@ -8,7 +8,7 @@ export const pizzaMarcosPizza241Salad = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:marcos-pizza:2-4-1-salad",
   finePrint: "Santaquin Only",
-  locations: ["marcos-pizza-santaquin"],
+  locations: ["location/marcos-pizza-santaquin"],
   offerText: "2-4-1 Salad!",
   offerType: "2-4-1",
   section: "Pizza",

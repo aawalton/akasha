@@ -8,7 +8,7 @@ export const freeStuffElPolloLocoFreeLocoValueMenuItem = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:el-pollo-loco:free-loco-value-menu-item",
   finePrint: "Orem, Lehi & Particip. Locations",
-  locations: ["el-pollo-loco-lehi", "el-pollo-loco-orem"],
+  locations: ["location/el-pollo-loco-lehi", "location/el-pollo-loco-orem"],
   offerText: "FREE! Loco Value Menu Item!",
   offerType: "free",
   section: "Free Stuff",

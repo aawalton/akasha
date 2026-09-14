@@ -8,7 +8,7 @@ export const pizzaPizzaHut241OrderOfCheeseSticks = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:pizza-hut:2-4-1-order-of-cheese-sticks",
   finePrint: "Carryout Only! All Wasatch Fr…",
-  locations: ["pizza-hut-utah-county"],
+  locations: ["location/pizza-hut-utah-county"],
   offerText: "2-4-1! Order of Cheese Sticks!",
   offerType: "2-4-1",
   section: "Pizza",

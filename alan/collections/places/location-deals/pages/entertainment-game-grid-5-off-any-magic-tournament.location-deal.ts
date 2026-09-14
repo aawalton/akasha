@@ -8,7 +8,7 @@ export const entertainmentGameGrid5OffAnyMagicTournament = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:game-grid:5-off-any-magic-tournament",
   finePrint: "Lehi",
-  locations: ["game-grid-lehi"],
+  locations: ["location/game-grid-lehi"],
   offerText: "$5 OFF! Any Magic Tournament!",
   offerType: "dollar-off",
   section: "Entertainment",

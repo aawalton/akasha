@@ -8,7 +8,7 @@ export const treatsAndDrinksTropicalSmoothieCaf241AnySingleMenuItem = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:tropical-smoothie-caf:2-4-1-any-single-menu-item",
   finePrint: "All UT County",
-  locations: ["tropical-smoothie-cafe-utah-county"],
+  locations: ["location/tropical-smoothie-cafe-utah-county"],
   offerText: "2-4-1! Any Single Menu Item!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

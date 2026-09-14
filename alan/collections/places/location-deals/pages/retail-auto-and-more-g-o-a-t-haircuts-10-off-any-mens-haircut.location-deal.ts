@@ -8,7 +8,7 @@ export const retailAutoAndMoreGOATHaircuts10OffAnyMensHaircut = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:g-o-a-t-haircuts:10-off-any-mens-haircut",
   finePrint: "Please Tip! Call for Appt",
-  locations: ["g-o-a-t-haircuts-utah-county"],
+  locations: ["location/g-o-a-t-haircuts-utah-county"],
   offerText: "$10 OFF! Any Men's Haircut!",
   offerType: "dollar-off",
   section: "Retail Auto & More",

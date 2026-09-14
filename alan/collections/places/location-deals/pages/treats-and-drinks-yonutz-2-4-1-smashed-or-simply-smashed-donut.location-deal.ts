@@ -8,7 +8,7 @@ export const treatsAndDrinksYonutz241SmashedOrSimplySmashedDonut = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:yonutz:2-4-1-smashed-or-simply-smashed-donut",
   finePrint: "Saratoga Springs",
-  locations: ["yonutz-saratoga-springs"],
+  locations: ["location/yonutz-saratoga-springs"],
   offerText: "2-4-1! Smashed or Simply Smashed Donut!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

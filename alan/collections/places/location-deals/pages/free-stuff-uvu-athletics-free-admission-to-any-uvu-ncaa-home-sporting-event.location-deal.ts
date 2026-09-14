@@ -8,7 +8,7 @@ export const freeStuffUvuAthleticsFreeAdmissionToAnyUvuNcaaHomeSportingEvent = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:uvu-athletics:free-admission-to-any-uvu-ncaa-home-sporting-event",
   finePrint: "One Use per Card, per Person, per Event. Excludes Postseason",
-  locations: ["uvu-athletics-utah-county"],
+  locations: ["location/uvu-athletics-utah-county"],
   offerText: "FREE! Admission to Any UVU NCAA Home Sporting Event!",
   offerType: "free",
   section: "Free Stuff",

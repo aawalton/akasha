@@ -7,7 +7,7 @@ export const sandwichesAndBurgersCarlsJrBuyASausageEggAndCheeseBiscuitGet1Free =
   title: "Carl's Jr — Buy a Sausage Egg and Cheese Biscuit, Get 1 FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:carls-jr:buy-a-sausage-egg-and-cheese-biscuit-get-1-free",
-  locations: ["carls-jr-utah-county"],
+  locations: ["location/carls-jr-utah-county"],
   offerText: "Buy a Sausage Egg and Cheese Biscuit, Get 1 FREE!",
   offerType: "2-4-1",
   redemptionCode: "7617",

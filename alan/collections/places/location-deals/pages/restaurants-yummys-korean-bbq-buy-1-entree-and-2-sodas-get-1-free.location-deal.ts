@@ -8,7 +8,7 @@ export const restaurantsYummysKoreanBbqBuy1EntreeAnd2SodasGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:yummys-korean-bbq:buy-1-entree-and-2-sodas-get-1-free",
   finePrint: "Up to $11",
-  locations: ["yummys-korean-bbq-utah-county"],
+  locations: ["location/yummys-korean-bbq-utah-county"],
   offerText: "Buy 1 Entree and 2 Sodas, Get 1 FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

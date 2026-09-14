@@ -7,7 +7,7 @@ export const restaurantsTheGreatGreekMediterraneanGrillBuy1RegGyroGet1Free = {
   title: "The Great Greek Mediterranean Grill — Buy 1 Reg Gyro, Get 1 FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:the-great-greek-mediterranean-grill:buy-1-reg-gyro-get-1-free",
-  locations: ["the-great-greek-mediterranean-grill-utah-county"],
+  locations: ["location/the-great-greek-mediterranean-grill-utah-county"],
   offerText: "Buy 1 Reg Gyro, Get 1 FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

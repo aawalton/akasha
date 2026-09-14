@@ -8,7 +8,7 @@ export const sandwichesAndBurgersKlucksKrispyChickenBuy1EntreeOrMealGet150Off = 
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:klucks-krispy-chicken:buy-1-entree-or-meal-get-1-50-off",
   finePrint: "Saratoga",
-  locations: ["klucks-krispy-chicken-saratoga-springs"],
+  locations: ["location/klucks-krispy-chicken-saratoga-springs"],
   offerText: "Buy 1 Entree or Meal, Get 1 50% OFF!",
   offerType: "percent-off",
   section: "Sandwiches & Burgers",

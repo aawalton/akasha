@@ -8,7 +8,7 @@ export const sandwichesAndBurgersGandolfos241AnySandwichOrHotDog = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:gandolfos:2-4-1-any-sandwich-or-hot-dog",
   finePrint: "All Utah County",
-  locations: ["gandolfos-utah-county"],
+  locations: ["location/gandolfos-utah-county"],
   offerText: "2-4-1! ANY Sandwich or Hot Dog!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

@@ -7,7 +7,7 @@ export const entertainmentLanKing50OffPrivatePartyForUpTo10Players = {
   title: "LAN King — 50% OFF! Private Party for Up to 10 Players!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:lan-king:50-off-private-party-for-up-to-10-players",
-  locations: ["lan-king-utah-county"],
+  locations: ["location/lan-king-utah-county"],
   offerText: "50% OFF! Private Party for Up to 10 Players!",
   offerType: "percent-off",
   section: "Entertainment",

@@ -7,7 +7,7 @@ export const pizzaFirebirdPizzaAndPasta50OffAnySpecialtyPizza = {
   title: "Firebird Pizza & Pasta — 50% OFF! Any Specialty Pizza!",
   collection: "starving-student-card",
   dealKey: "ssc:pizza:firebird-pizza-and-pasta:50-off-any-specialty-pizza",
-  locations: ["firebird-pizza-pasta-utah-county"],
+  locations: ["location/firebird-pizza-pasta-utah-county"],
   offerText: "50% OFF! Any Specialty Pizza!",
   offerType: "percent-off",
   section: "Pizza",

@@ -7,7 +7,7 @@ export const restaurantsTamashiRamen241RamenOrSushiEntree = {
   title: "Tamashi Ramen — 2-4-1! Ramen or Sushi Entree!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:tamashi-ramen:2-4-1-ramen-or-sushi-entree",
-  locations: ["tamashi-ramen-utah-county"],
+  locations: ["location/tamashi-ramen-utah-county"],
   offerText: "2-4-1! Ramen or Sushi Entree!",
   offerType: "2-4-1",
   section: "Restaurants",

@@ -8,7 +8,7 @@ export const retailAutoAndMoreByuStore50OffAnyBrighamSupplyCompanyItem = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:byu-store:50-off-any-brigham-supply-company-item",
   finePrint: "Restrictions Apply",
-  locations: ["byu-store-utah-county"],
+  locations: ["location/byu-store-utah-county"],
   offerText: "50% OFF! Any Brigham Supply Company item!",
   offerType: "percent-off",
   section: "Retail Auto & More",

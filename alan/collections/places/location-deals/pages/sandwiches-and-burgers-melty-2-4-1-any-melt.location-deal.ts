@@ -8,7 +8,7 @@ export const sandwichesAndBurgersMelty241AnyMelt = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:melty:2-4-1-any-melt",
   finePrint: "All Utah Locations",
-  locations: ["melty-utah-county"],
+  locations: ["location/melty-utah-county"],
   offerText: "2-4-1! Any Melt!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

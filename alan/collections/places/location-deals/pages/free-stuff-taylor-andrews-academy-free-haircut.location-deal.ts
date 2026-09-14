@@ -8,7 +8,10 @@ export const freeStuffTaylorAndrewsAcademyFreeHaircut = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:taylor-andrews-academy:free-haircut",
   finePrint: "M-Th Provo and WJ",
-  locations: ["taylor-andrews-academy-provo", "taylor-andrews-academy-west-jordan"],
+  locations: [
+    "location/taylor-andrews-academy-provo",
+    "location/taylor-andrews-academy-west-jordan",
+  ],
   offerText: "FREE! Haircut!",
   offerType: "free",
   section: "Free Stuff",

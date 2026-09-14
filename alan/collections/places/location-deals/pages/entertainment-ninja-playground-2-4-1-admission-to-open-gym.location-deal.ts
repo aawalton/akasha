@@ -7,7 +7,7 @@ export const entertainmentNinjaPlayground241AdmissionToOpenGym = {
   title: "Ninja Playground — 2-4-1! Admission to Open Gym!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:ninja-playground:2-4-1-admission-to-open-gym",
-  locations: ["ninja-playground-utah-county"],
+  locations: ["location/ninja-playground-utah-county"],
   offerText: "2-4-1! Admission to Open Gym!",
   offerType: "2-4-1",
   section: "Entertainment",

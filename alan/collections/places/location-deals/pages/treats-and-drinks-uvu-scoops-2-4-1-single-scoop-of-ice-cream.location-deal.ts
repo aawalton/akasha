@@ -7,7 +7,7 @@ export const treatsAndDrinksUvuScoops241SingleScoopOfIceCream = {
   title: "UVU Scoops — 2-4-1! Single Scoop of Ice Cream!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:uvu-scoops:2-4-1-single-scoop-of-ice-cream",
-  locations: ["uvu-scoops-utah-county"],
+  locations: ["location/uvu-scoops-utah-county"],
   offerText: "2-4-1! Single Scoop of Ice Cream!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

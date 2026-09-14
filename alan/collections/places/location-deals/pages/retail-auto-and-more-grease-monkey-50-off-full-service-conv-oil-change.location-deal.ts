@@ -8,7 +8,7 @@ export const retailAutoAndMoreGreaseMonkey50OffFullServiceConvOilChange = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:grease-monkey:50-off-full-service-conv-oil-change",
   finePrint: "Lehi (Pioneer Crs), Herriman…",
-  locations: ["grease-monkey-herriman", "grease-monkey-lehi"],
+  locations: ["location/grease-monkey-herriman", "location/grease-monkey-lehi"],
   offerText: "50% OFF! Full Service Conv. Oil Change!",
   offerType: "percent-off",
   section: "Retail Auto & More",

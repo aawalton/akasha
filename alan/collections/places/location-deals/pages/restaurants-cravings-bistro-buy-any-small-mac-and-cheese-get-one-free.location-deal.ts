@@ -7,7 +7,7 @@ export const restaurantsCravingsBistroBuyAnySmallMacAndCheeseGetOneFree = {
   title: "Craving's Bistro — Buy Any Small Mac & Cheese, Get One FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:cravings-bistro:buy-any-small-mac-and-cheese-get-one-free",
-  locations: ["cravings-bistro-utah-county"],
+  locations: ["location/cravings-bistro-utah-county"],
   offerText: "Buy Any Small Mac & Cheese, Get One FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

@@ -8,7 +8,7 @@ export const treatsAndDrinksDippinDotsFabFreddys241RegularDippinDots = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:dippin-dots-fab-freddys:2-4-1-regular-dippin-dots",
   finePrint: "Lehi",
-  locations: ["dippin-dots-fab-freddys-lehi"],
+  locations: ["location/dippin-dots-fab-freddys-lehi"],
   offerText: "2-4-1! Regular Dippin' Dots!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

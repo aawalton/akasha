@@ -8,7 +8,7 @@ export const pizzaGurusCafeBuy1PizzaGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:gurus-cafe:buy-1-pizza-get-1-free",
   finePrint: "Provo Center St & UVU",
-  locations: ["gurus-cafe-provo"],
+  locations: ["location/gurus-cafe-provo"],
   offerText: "Buy 1 Pizza, Get 1 FREE!",
   offerType: "2-4-1",
   section: "Pizza",

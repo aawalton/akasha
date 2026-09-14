@@ -8,7 +8,7 @@ export const entertainmentFatcats50OffBowlingBefore8Pm = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:fatcats:50-off-bowling-before-8-pm",
   finePrint: "Provo",
-  locations: ["fatcats-provo"],
+  locations: ["location/fatcats-provo"],
   offerText: "50% OFF! Bowling! Before 8 PM",
   offerType: "percent-off",
   section: "Entertainment",

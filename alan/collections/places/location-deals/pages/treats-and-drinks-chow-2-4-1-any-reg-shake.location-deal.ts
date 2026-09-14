@@ -7,7 +7,7 @@ export const treatsAndDrinksChow241AnyRegShake = {
   title: "Chow — 2-4-1! Any Reg Shake!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:chow:2-4-1-any-reg-shake",
-  locations: ["chow-utah-county"],
+  locations: ["location/chow-utah-county"],
   offerText: "2-4-1! Any Reg Shake!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

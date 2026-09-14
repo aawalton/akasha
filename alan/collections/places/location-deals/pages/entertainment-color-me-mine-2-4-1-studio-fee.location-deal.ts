@@ -8,7 +8,7 @@ export const entertainmentColorMeMine241StudioFee = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:color-me-mine:2-4-1-studio-fee",
   finePrint: "M-Th",
-  locations: ["color-me-mine-utah-county"],
+  locations: ["location/color-me-mine-utah-county"],
   offerText: "2-4-1! Studio Fee!",
   offerType: "2-4-1",
   section: "Entertainment",

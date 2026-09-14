@@ -8,7 +8,7 @@ export const treatsAndDrinksMcdonalds241SmoothieShakeOrMccafeDrink = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:mcdonalds:2-4-1-smoothie-shake-or-mccafe-drink",
   finePrint: "All Utah Locations",
-  locations: ["mcdonalds-utah-county"],
+  locations: ["location/mcdonalds-utah-county"],
   offerText: "2-4-1! Smoothie, Shake or McCafe Drink!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

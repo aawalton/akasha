@@ -8,7 +8,7 @@ export const pizzaFirebirdPizzaAndPasta241Pizza = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:firebird-pizza-and-pasta:2-4-1-pizza",
   finePrint: "Up to 2 Toppings",
-  locations: ["firebird-pizza-pasta-utah-county"],
+  locations: ["location/firebird-pizza-pasta-utah-county"],
   offerText: "2-4-1! Pizza!",
   offerType: "2-4-1",
   section: "Pizza",

@@ -8,7 +8,7 @@ export const retailAutoAndMoreHavoline40OffBrakes = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:havoline:40-off-brakes",
   finePrint: "per axle",
-  locations: ["havoline-utah-county"],
+  locations: ["location/havoline-utah-county"],
   offerText: "$40 OFF! Brakes!",
   offerType: "dollar-off",
   section: "Retail Auto & More",

@@ -7,7 +7,7 @@ export const retailAutoAndMoreByuStudio10305OffAnyNailService = {
   title: "BYU Studio 1030 — $5 OFF! Any Nail Service!",
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:byu-studio-1030:5-off-any-nail-service",
-  locations: ["byu-studio-1030-utah-county"],
+  locations: ["location/byu-studio-1030-utah-county"],
   offerText: "$5 OFF! Any Nail Service!",
   offerType: "dollar-off",
   section: "Retail Auto & More",

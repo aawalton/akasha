@@ -8,7 +8,7 @@ export const restaurantsRumbiIslandGrill241AnyRiceBowl = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:rumbi-island-grill:2-4-1-any-rice-bowl",
   finePrint: "All UT Locations",
-  locations: ["rumbi-island-grill-utah-county"],
+  locations: ["location/rumbi-island-grill-utah-county"],
   offerText: "2-4-1! Any Rice Bowl!",
   offerType: "2-4-1",
   section: "Restaurants",

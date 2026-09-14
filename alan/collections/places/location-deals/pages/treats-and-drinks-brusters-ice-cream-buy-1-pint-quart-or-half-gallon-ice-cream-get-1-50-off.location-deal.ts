@@ -8,7 +8,7 @@ export const treatsAndDrinksBrustersIceCreamBuy1PintQuartOrHalfGallonIceCreamGet
   collection: "starving-student-card",
   dealKey:
     "ssc:treats-and-drinks:brusters-ice-cream:buy-1-pint-quart-or-half-gallon-ice-cream-get-1-50-off",
-  locations: ["brusters-ice-cream-utah-county"],
+  locations: ["location/brusters-ice-cream-utah-county"],
   offerText: "Buy 1 Pint, Quart or Half Gallon Ice Cream, Get 1 50% OFF!",
   offerType: "percent-off",
   section: "Treats & Drinks",

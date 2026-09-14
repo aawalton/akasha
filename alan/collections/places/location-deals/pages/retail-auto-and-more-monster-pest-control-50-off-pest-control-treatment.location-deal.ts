@@ -8,7 +8,7 @@ export const retailAutoAndMoreMonsterPestControl50OffPestControlTreatment = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:monster-pest-control:50-off-pest-control-treatment",
   finePrint: "New Customers! Up to $40!",
-  locations: ["monster-pest-control-utah-county"],
+  locations: ["location/monster-pest-control-utah-county"],
   offerText: "50% OFF! Pest Control Treatment!",
   offerType: "percent-off",
   section: "Retail Auto & More",

@@ -8,7 +8,7 @@ export const treatsAndDrinksSonic241Shake = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:sonic:2-4-1-shake",
   finePrint: "Valid at All Utah County Locations",
-  locations: ["sonic-utah-county"],
+  locations: ["location/sonic-utah-county"],
   offerText: "2-4-1! Shake!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

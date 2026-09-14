@@ -8,7 +8,7 @@ export const freeStuffDaylightDonutsFreeRegularDonut = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:daylight-donuts:free-regular-donut",
   finePrint: "Saratoga Springs",
-  locations: ["daylight-donuts-saratoga-springs"],
+  locations: ["location/daylight-donuts-saratoga-springs"],
   offerText: "FREE! Regular Donut!",
   offerType: "free",
   section: "Free Stuff",

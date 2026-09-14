@@ -8,7 +8,7 @@ export const entertainmentVoltageEbikeRent1EbikeFor1HrGet2ndEbikeFree = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:voltage-ebike:rent-1-ebike-for-1-hr-get-2nd-ebike-free",
   finePrint: "M-Th",
-  locations: ["voltage-ebike-utah-county"],
+  locations: ["location/voltage-ebike-utah-county"],
   offerText: "Rent 1 eBike for 1 Hr, Get 2nd eBike FREE!",
   offerType: "2-4-1",
   section: "Entertainment",

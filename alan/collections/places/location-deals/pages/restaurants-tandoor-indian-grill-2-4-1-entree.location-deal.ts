@@ -7,7 +7,7 @@ export const restaurantsTandoorIndianGrill241Entree = {
   title: "Tandoor Indian Grill — 2-4-1! Entree!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:tandoor-indian-grill:2-4-1-entree",
-  locations: ["tandoor-indian-grill-utah-county"],
+  locations: ["location/tandoor-indian-grill-utah-county"],
   offerText: "2-4-1! Entree!",
   offerType: "2-4-1",
   section: "Restaurants",

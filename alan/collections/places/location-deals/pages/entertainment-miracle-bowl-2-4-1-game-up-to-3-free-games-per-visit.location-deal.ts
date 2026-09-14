@@ -8,7 +8,7 @@ export const entertainmentMiracleBowl241GameUpTo3FreeGamesPerVisit = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:miracle-bowl:2-4-1-game-up-to-3-free-games-per-visit",
   finePrint: "Not Valid after 5 PM, Saturdays, Holidays or School Holidays! Orem",
-  locations: ["miracle-bowl-orem"],
+  locations: ["location/miracle-bowl-orem"],
   offerText: "2-4-1! Game! Up to 3 free games per visit!",
   offerType: "2-4-1",
   section: "Entertainment",

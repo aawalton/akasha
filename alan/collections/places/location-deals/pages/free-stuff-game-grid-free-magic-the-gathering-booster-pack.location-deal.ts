@@ -8,7 +8,7 @@ export const freeStuffGameGridFreeMagicTheGatheringBoosterPack = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:game-grid:free-magic-the-gathering-booster-pack",
   finePrint: "Lehi",
-  locations: ["game-grid-lehi"],
+  locations: ["location/game-grid-lehi"],
   offerText: "FREE! Magic the Gathering Booster Pack!",
   offerType: "free",
   section: "Free Stuff",

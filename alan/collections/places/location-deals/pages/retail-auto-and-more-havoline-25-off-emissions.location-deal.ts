@@ -7,7 +7,7 @@ export const retailAutoAndMoreHavoline25OffEmissions = {
   title: "Havoline — 25% OFF! Emissions!",
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:havoline:25-off-emissions",
-  locations: ["havoline-utah-county"],
+  locations: ["location/havoline-utah-county"],
   offerText: "25% OFF! Emissions!",
   offerType: "percent-off",
   section: "Retail Auto & More",

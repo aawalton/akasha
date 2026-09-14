@@ -8,7 +8,7 @@ export const treatsAndDrinksJambaJuiceBuyAnySmoothieGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:jamba-juice:buy-any-smoothie-get-1-free",
   finePrint: "Same Locations",
-  locations: ["jamba-juice-utah-county"],
+  locations: ["location/jamba-juice-utah-county"],
   offerText: "Buy Any Smoothie, Get 1 FREE!",
   offerType: "free",
   section: "Treats & Drinks",

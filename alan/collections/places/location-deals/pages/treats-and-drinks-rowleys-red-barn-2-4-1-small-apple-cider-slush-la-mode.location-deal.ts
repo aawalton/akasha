@@ -7,7 +7,7 @@ export const treatsAndDrinksRowleysRedBarn241SmallAppleCiderSlushLaMode = {
   title: "Rowley's Red Barn — 2-4-1! Small Apple Cider Slush à la Mode!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:rowleys-red-barn:2-4-1-small-apple-cider-slush-la-mode",
-  locations: ["rowleys-red-barn-utah-county"],
+  locations: ["location/rowleys-red-barn-utah-county"],
   offerText: "2-4-1! Small Apple Cider Slush à la Mode!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

@@ -8,7 +8,7 @@ export const restaurantsChilisFreeChipsAndSalsaWAnyEntreePurchase = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:chilis:free-chips-and-salsa-w-any-entree-purchase",
   finePrint: "All Utah Locations",
-  locations: ["chilis-utah-county"],
+  locations: ["location/chilis-utah-county"],
   offerText: "FREE! Chips & Salsa w/ Any Entree Purchase!",
   offerType: "free",
   section: "Restaurants",

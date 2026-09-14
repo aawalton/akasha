@@ -8,7 +8,7 @@ export const retailAutoAndMoreBadAppleAndFixit20OffAnyServiceOrRepair = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:bad-apple-and-fixit:20-off-any-service-or-repair",
   finePrint: "Valid All Locations",
-  locations: ["bad-apple-fixit-utah-county"],
+  locations: ["location/bad-apple-fixit-utah-county"],
   offerText: "$20 OFF! Any Service or Repair!",
   offerType: "dollar-off",
   section: "Retail Auto & More",

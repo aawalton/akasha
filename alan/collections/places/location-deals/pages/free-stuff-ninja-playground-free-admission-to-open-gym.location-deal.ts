@@ -7,7 +7,7 @@ export const freeStuffNinjaPlaygroundFreeAdmissionToOpenGym = {
   title: "Ninja Playground — FREE! Admission to Open Gym!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:ninja-playground:free-admission-to-open-gym",
-  locations: ["ninja-playground-utah-county"],
+  locations: ["location/ninja-playground-utah-county"],
   offerText: "FREE! Admission to Open Gym!",
   offerType: "free",
   section: "Free Stuff",

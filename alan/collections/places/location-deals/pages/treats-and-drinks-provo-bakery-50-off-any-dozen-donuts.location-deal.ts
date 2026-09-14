@@ -7,7 +7,7 @@ export const treatsAndDrinksProvoBakery50OffAnyDozenDonuts = {
   title: "Provo Bakery — 50% OFF! Any Dozen Donuts!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:provo-bakery:50-off-any-dozen-donuts",
-  locations: ["provo-bakery-utah-county"],
+  locations: ["location/provo-bakery-utah-county"],
   offerText: "50% OFF! Any Dozen Donuts!",
   offerType: "percent-off",
   section: "Treats & Drinks",

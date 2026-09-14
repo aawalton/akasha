@@ -8,7 +8,7 @@ export const retailAutoAndMoreByuStudio10305Haircut = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:byu-studio-1030:5-haircut",
   finePrint: "Wash and Blow Dry Not Included",
-  locations: ["byu-studio-1030-utah-county"],
+  locations: ["location/byu-studio-1030-utah-county"],
   offerText: "$5 Haircut!",
   offerType: "fixed-price",
   section: "Retail Auto & More",

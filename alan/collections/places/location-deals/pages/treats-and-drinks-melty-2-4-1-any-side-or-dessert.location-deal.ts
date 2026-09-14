@@ -8,7 +8,7 @@ export const treatsAndDrinksMelty241AnySideOrDessert = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:melty:2-4-1-any-side-or-dessert",
   finePrint: "All Utah Locations",
-  locations: ["melty-utah-county"],
+  locations: ["location/melty-utah-county"],
   offerText: "2-4-1! Any Side or Dessert!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

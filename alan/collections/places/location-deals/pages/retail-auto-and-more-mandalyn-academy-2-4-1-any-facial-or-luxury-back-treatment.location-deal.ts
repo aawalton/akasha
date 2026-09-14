@@ -7,7 +7,7 @@ export const retailAutoAndMoreMandalynAcademy241AnyFacialOrLuxuryBackTreatment =
   title: "Mandalyn Academy — 2-4-1! Any Facial or Luxury Back Treatment!",
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:mandalyn-academy:2-4-1-any-facial-or-luxury-back-treatment",
-  locations: ["mandalyn-academy-utah-county"],
+  locations: ["location/mandalyn-academy-utah-county"],
   offerText: "2-4-1! Any Facial or Luxury Back Treatment!",
   offerType: "2-4-1",
   section: "Retail Auto & More",

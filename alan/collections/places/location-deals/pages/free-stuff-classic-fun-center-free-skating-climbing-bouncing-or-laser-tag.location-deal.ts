@@ -8,7 +8,7 @@ export const freeStuffClassicFunCenterFreeSkatingClimbingBouncingOrLaserTag = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:classic-fun-center:free-skating-climbing-bouncing-or-laser-tag",
   finePrint: "Orem",
-  locations: ["classic-fun-center-orem"],
+  locations: ["location/classic-fun-center-orem"],
   offerText: "FREE! Skating, Climbing, Bouncing or Laser Tag!",
   offerType: "free",
   section: "Free Stuff",

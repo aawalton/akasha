@@ -8,7 +8,7 @@ export const freeStuffElBetoFreeMediumHorchata = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:el-beto:free-medium-horchata",
   finePrint: "Provo",
-  locations: ["el-beto-provo"],
+  locations: ["location/el-beto-provo"],
   offerText: "FREE! Medium Horchata!",
   offerType: "free",
   section: "Free Stuff",

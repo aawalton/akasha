@@ -7,7 +7,7 @@ export const entertainmentCoinCrazyBuyA2HrPlayPassGetA2HrPlayPassFree = {
   title: "Coin Crazy — Buy a 2 hr Play Pass, Get a 2 hr Play Pass FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:coin-crazy:buy-a-2-hr-play-pass-get-a-2-hr-play-pass-free",
-  locations: ["coin-crazy-utah-county"],
+  locations: ["location/coin-crazy-utah-county"],
   offerText: "Buy a 2 hr Play Pass, Get a 2 hr Play Pass FREE!",
   offerType: "2-4-1",
   section: "Entertainment",

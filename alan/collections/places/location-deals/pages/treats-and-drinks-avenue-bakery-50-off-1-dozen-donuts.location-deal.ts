@@ -7,7 +7,7 @@ export const treatsAndDrinksAvenueBakery50Off1DozenDonuts = {
   title: "Avenue Bakery — 50% OFF! 1 Dozen Donuts!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:avenue-bakery:50-off-1-dozen-donuts",
-  locations: ["avenue-bakery-utah-county"],
+  locations: ["location/avenue-bakery-utah-county"],
   offerText: "50% OFF! 1 Dozen Donuts!",
   offerType: "percent-off",
   section: "Treats & Drinks",

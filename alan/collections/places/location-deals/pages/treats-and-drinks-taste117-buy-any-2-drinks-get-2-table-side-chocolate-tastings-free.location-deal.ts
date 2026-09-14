@@ -8,7 +8,7 @@ export const treatsAndDrinksTaste117BuyAny2DrinksGet2TableSideChocolateTastingsF
   collection: "starving-student-card",
   dealKey:
     "ssc:treats-and-drinks:taste117:buy-any-2-drinks-get-2-table-side-chocolate-tastings-free",
-  locations: ["taste117-utah-county"],
+  locations: ["location/taste117-utah-county"],
   offerText: "Buy Any 2 Drinks, Get 2 Table Side Chocolate Tastings FREE!",
   offerType: "free",
   section: "Treats & Drinks",

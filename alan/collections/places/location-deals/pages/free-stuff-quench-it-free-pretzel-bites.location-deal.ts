@@ -8,7 +8,7 @@ export const freeStuffQuenchItFreePretzelBites = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:quench-it:free-pretzel-bites",
   finePrint: "All Ut County & Bluffdale",
-  locations: ["quench-it-bluffdale"],
+  locations: ["location/quench-it-bluffdale"],
   offerText: "FREE! Pretzel Bites!",
   offerType: "free",
   section: "Free Stuff",

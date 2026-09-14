@@ -8,7 +8,7 @@ export const treatsAndDrinksPapaMurphys241AnyDessertOrSide = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:papa-murphys:2-4-1-any-dessert-or-side",
   finePrint: "Provo & Park City",
-  locations: ["papa-murphys-park-city", "papa-murphys-provo"],
+  locations: ["location/papa-murphys-park-city", "location/papa-murphys-provo"],
   offerText: "2-4-1! Any Dessert or Side!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

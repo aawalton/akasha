@@ -8,7 +8,7 @@ export const freeStuffPaulMitchellTheSchoolProvoFreeStraightRazorFaceAndNeckShav
   collection: "starving-student-card",
   dealKey:
     "ssc:free-stuff:paul-mitchell-the-school-provo:free-straight-razor-face-and-neck-shave-or-beard-trim",
-  locations: ["paul-mitchell-the-school-provo-utah-county"],
+  locations: ["location/paul-mitchell-the-school-provo-utah-county"],
   offerText: "FREE! Straight Razor Face & Neck Shave or Beard Trim!",
   offerType: "free",
   section: "Free Stuff",

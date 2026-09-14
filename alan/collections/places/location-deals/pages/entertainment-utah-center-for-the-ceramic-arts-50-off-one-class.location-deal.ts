@@ -7,7 +7,7 @@ export const entertainmentUtahCenterForTheCeramicArts50OffOneClass = {
   title: "Utah Center for the Ceramic Arts — 50% OFF! One Class!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:utah-center-for-the-ceramic-arts:50-off-one-class",
-  locations: ["utah-center-for-the-ceramic-arts-utah-county"],
+  locations: ["location/utah-center-for-the-ceramic-arts-utah-county"],
   offerText: "50% OFF! One Class!",
   offerType: "percent-off",
   redemptionCode: "SSC",

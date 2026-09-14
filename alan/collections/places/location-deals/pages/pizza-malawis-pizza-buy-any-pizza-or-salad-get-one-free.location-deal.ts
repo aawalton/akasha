@@ -7,7 +7,7 @@ export const pizzaMalawisPizzaBuyAnyPizzaOrSaladGetOneFree = {
   title: "Malawi's Pizza — Buy Any Pizza or Salad, Get One FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:pizza:malawis-pizza:buy-any-pizza-or-salad-get-one-free",
-  locations: ["malawis-pizza-utah-county"],
+  locations: ["location/malawis-pizza-utah-county"],
   offerText: "Buy Any Pizza or Salad, Get One FREE!",
   offerType: "2-4-1",
   section: "Pizza",

@@ -8,7 +8,7 @@ export const entertainmentClassicFunCenter241SkatingClimbingBouncingOrLaserTag =
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:classic-fun-center:2-4-1-skating-climbing-bouncing-or-laser-tag",
   finePrint: "Orem",
-  locations: ["classic-fun-center-orem"],
+  locations: ["location/classic-fun-center-orem"],
   offerText: "2-4-1! Skating, Climbing, Bouncing or Laser Tag!",
   offerType: "2-4-1",
   section: "Entertainment",

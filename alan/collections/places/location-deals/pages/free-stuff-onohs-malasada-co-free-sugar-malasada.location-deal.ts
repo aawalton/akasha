@@ -7,7 +7,7 @@ export const freeStuffOnohsMalasadaCoFreeSugarMalasada = {
   title: "Onoh's Malasada Co — FREE! Sugar Malasada!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:onohs-malasada-co:free-sugar-malasada",
-  locations: ["onohs-malasada-co-utah-county"],
+  locations: ["location/onohs-malasada-co-utah-county"],
   offerText: "FREE! Sugar Malasada!",
   offerType: "free",
   section: "Free Stuff",

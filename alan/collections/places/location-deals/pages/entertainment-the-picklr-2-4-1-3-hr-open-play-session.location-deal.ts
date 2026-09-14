@@ -8,7 +8,7 @@ export const entertainmentThePicklr2413HrOpenPlaySession = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:the-picklr:2-4-1-3-hr-open-play-session",
   finePrint: "Lehi & Bluffdale",
-  locations: ["the-picklr-bluffdale", "the-picklr-lehi"],
+  locations: ["location/the-picklr-bluffdale", "location/the-picklr-lehi"],
   offerText: "2-4-1! 3 Hr Open Play Session!",
   offerType: "2-4-1",
   section: "Entertainment",

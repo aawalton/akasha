@@ -8,7 +8,7 @@ export const treatsAndDrinksBubbakoosBurritos50OffBoardwalkCookies5DeepFriedOreo
   collection: "starving-student-card",
   dealKey:
     "ssc:treats-and-drinks:bubbakoos-burritos:50-off-boardwalk-cookies-5-deep-fried-oreos-or-other-dessert",
-  locations: ["bubbakoos-burritos-utah-county"],
+  locations: ["location/bubbakoos-burritos-utah-county"],
   offerText: "50% OFF! Boardwalk Cookies (5 Deep Fried Oreos) or Other Dessert!",
   offerType: "percent-off",
   section: "Treats & Drinks",

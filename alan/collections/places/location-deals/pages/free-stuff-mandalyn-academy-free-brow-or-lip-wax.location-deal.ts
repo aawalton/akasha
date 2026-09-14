@@ -7,7 +7,7 @@ export const freeStuffMandalynAcademyFreeBrowOrLipWax = {
   title: "Mandalyn Academy — FREE! Brow or Lip Wax!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:mandalyn-academy:free-brow-or-lip-wax",
-  locations: ["mandalyn-academy-utah-county"],
+  locations: ["location/mandalyn-academy-utah-county"],
   offerText: "FREE! Brow or Lip Wax!",
   offerType: "free",
   section: "Free Stuff",

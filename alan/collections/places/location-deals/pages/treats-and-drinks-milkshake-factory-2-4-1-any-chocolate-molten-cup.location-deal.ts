@@ -8,7 +8,7 @@ export const treatsAndDrinksMilkshakeFactory241AnyChocolateMoltenCup = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:milkshake-factory:2-4-1-any-chocolate-molten-cup",
   finePrint: "All UT Locations",
-  locations: ["milkshake-factory-utah-county"],
+  locations: ["location/milkshake-factory-utah-county"],
   offerText: "2-4-1! Any Chocolate Molten Cup!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

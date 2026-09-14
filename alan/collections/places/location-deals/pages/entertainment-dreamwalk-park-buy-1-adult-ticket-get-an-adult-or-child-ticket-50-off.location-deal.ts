@@ -8,7 +8,7 @@ export const entertainmentDreamwalkParkBuy1AdultTicketGetAnAdultOrChildTicket50O
   collection: "starving-student-card",
   dealKey:
     "ssc:entertainment:dreamwalk-park:buy-1-adult-ticket-get-an-adult-or-child-ticket-50-off",
-  locations: ["dreamwalk-park-utah-county"],
+  locations: ["location/dreamwalk-park-utah-county"],
   offerText: "Buy 1 Adult Ticket, Get an Adult or Child Ticket 50% OFF!",
   offerType: "percent-off",
   section: "Entertainment",

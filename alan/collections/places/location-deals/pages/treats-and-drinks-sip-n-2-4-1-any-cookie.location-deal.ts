@@ -8,7 +8,7 @@ export const treatsAndDrinksSipN241AnyCookie = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:sip-n:2-4-1-any-cookie",
   finePrint: "All Locations",
-  locations: ["sip-n-utah-county"],
+  locations: ["location/sip-n-utah-county"],
   offerText: "2-4-1! Any Cookie!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

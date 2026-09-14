@@ -8,7 +8,7 @@ export const entertainmentHighCountryAdventure241RiverTubing = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:high-country-adventure:2-4-1-river-tubing",
   finePrint: "Valid M-F Provo Canyon",
-  locations: ["high-country-adventure-provo"],
+  locations: ["location/high-country-adventure-provo"],
   offerText: "2-4-1! River Tubing!",
   offerType: "2-4-1",
   redemptionCode: "SSC",

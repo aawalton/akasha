@@ -7,7 +7,7 @@ export const freeStuffQuickWitsComedyFreeAdmission = {
   title: "Quick Wits Comedy — FREE! Admission!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:quick-wits-comedy:free-admission",
-  locations: ["quick-wits-comedy-utah-county"],
+  locations: ["location/quick-wits-comedy-utah-county"],
   offerText: "FREE! Admission!",
   offerType: "free",
   section: "Free Stuff",

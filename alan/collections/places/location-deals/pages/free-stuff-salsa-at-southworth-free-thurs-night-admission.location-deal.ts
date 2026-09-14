@@ -7,7 +7,7 @@ export const freeStuffSalsaAtSouthworthFreeThursNightAdmission = {
   title: "Salsa at Southworth — FREE! Thurs Night Admission!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:salsa-at-southworth:free-thurs-night-admission",
-  locations: ["salsa-at-southworth-utah-county"],
+  locations: ["location/salsa-at-southworth-utah-county"],
   offerText: "FREE! Thurs Night Admission!",
   offerType: "free",
   section: "Free Stuff",

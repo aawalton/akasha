@@ -7,7 +7,7 @@ export const retailAutoAndMoreMandalynAcademy50OffExpressFacial = {
   title: "Mandalyn Academy — 50% OFF! Express Facial!",
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:mandalyn-academy:50-off-express-facial",
-  locations: ["mandalyn-academy-utah-county"],
+  locations: ["location/mandalyn-academy-utah-county"],
   offerText: "50% OFF! Express Facial!",
   offerType: "percent-off",
   section: "Retail Auto & More",

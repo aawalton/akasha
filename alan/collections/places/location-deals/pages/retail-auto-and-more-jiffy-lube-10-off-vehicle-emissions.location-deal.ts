@@ -8,7 +8,7 @@ export const retailAutoAndMoreJiffyLube10OffVehicleEmissions = {
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:jiffy-lube:10-off-vehicle-emissions",
   finePrint: "All Utah Locations",
-  locations: ["jiffy-lube-utah-county"],
+  locations: ["location/jiffy-lube-utah-county"],
   offerText: "$10 OFF! Vehicle Emissions!",
   offerType: "dollar-off",
   redemptionCode: "MSKCU2",

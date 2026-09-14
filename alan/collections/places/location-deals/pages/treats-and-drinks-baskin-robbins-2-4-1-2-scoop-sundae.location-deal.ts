@@ -8,7 +8,7 @@ export const treatsAndDrinksBaskinRobbins2412ScoopSundae = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:baskin-robbins:2-4-1-2-scoop-sundae",
   finePrint: "Orem",
-  locations: ["baskin-robbins-orem"],
+  locations: ["location/baskin-robbins-orem"],
   offerText: "2-4-1! 2-Scoop Sundae!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

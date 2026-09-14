@@ -8,7 +8,11 @@ export const treatsAndDrinksJambaJuice50OffAnyMenuItem = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:jamba-juice:50-off-any-menu-item",
   finePrint: "Provo (Univ PKWY), UVU Campus, Draper & WJ",
-  locations: ["jamba-juice-draper", "jamba-juice-provo", "jamba-juice-west-jordan"],
+  locations: [
+    "location/jamba-juice-draper",
+    "location/jamba-juice-provo",
+    "location/jamba-juice-west-jordan",
+  ],
   offerText: "50% OFF! Any Menu Item!",
   offerType: "percent-off",
   section: "Treats & Drinks",

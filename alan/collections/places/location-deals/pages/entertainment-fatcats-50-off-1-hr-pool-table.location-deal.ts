@@ -8,7 +8,7 @@ export const entertainmentFatcats50Off1HrPoolTable = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:fatcats:50-off-1-hr-pool-table",
   finePrint: "Provo",
-  locations: ["fatcats-provo"],
+  locations: ["location/fatcats-provo"],
   offerText: "50% OFF! 1 Hr Pool Table!",
   offerType: "percent-off",
   section: "Entertainment",

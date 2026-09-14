@@ -8,7 +8,7 @@ export const treatsAndDrinksBahamaBucksBuy1ShavedIceOrSmoothieGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:bahama-bucks:buy-1-shaved-ice-or-smoothie-get-1-free",
   finePrint: "Provo",
-  locations: ["bahama-bucks-provo-ab5c"],
+  locations: ["location/bahama-bucks-provo-ab5c"],
   offerText: "Buy 1 Shaved Ice or Smoothie, Get 1 FREE!",
   offerType: "free",
   section: "Treats & Drinks",

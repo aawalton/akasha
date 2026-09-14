@@ -8,7 +8,7 @@ export const sandwichesAndBurgersCarlsJr399KidsMealValidForAllKidsInFamily = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:carls-jr:3-99-kids-meal-valid-for-all-kids-in-family",
   finePrint: "Valid for All Kids in Family!",
-  locations: ["carls-jr-utah-county"],
+  locations: ["location/carls-jr-utah-county"],
   offerText: "$3.99 Kids meal! Valid for All Kids in Family!",
   offerType: "fixed-price",
   redemptionCode: "10717",

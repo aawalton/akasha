@@ -7,7 +7,7 @@ export const treatsAndDrinksAvenueBakery241SavoryCrepeAndDrink = {
   title: "Avenue Bakery — 2-4-1! Savory Crepe and Drink!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:avenue-bakery:2-4-1-savory-crepe-and-drink",
-  locations: ["avenue-bakery-utah-county"],
+  locations: ["location/avenue-bakery-utah-county"],
   offerText: "2-4-1! Savory Crepe and Drink!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

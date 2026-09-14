@@ -7,7 +7,7 @@ export const pizzaMidiciTheNeapolitanPizzaCompany241Pizza = {
   title: "MidiCi The Neapolitan Pizza Company — 2-4-1! Pizza!",
   collection: "starving-student-card",
   dealKey: "ssc:pizza:midici-the-neapolitan-pizza-company:2-4-1-pizza",
-  locations: ["midici-the-neapolitan-pizza-company-utah-county"],
+  locations: ["location/midici-the-neapolitan-pizza-company-utah-county"],
   offerText: "2-4-1! Pizza!",
   offerType: "2-4-1",
   section: "Pizza",

@@ -7,7 +7,7 @@ export const restaurantsElBetoBuyACombinationPlateGet1Free = {
   title: "El Beto — Buy a Combination Plate, Get 1 FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:el-beto:buy-a-combination-plate-get-1-free",
-  locations: ["el-beto-utah-county"],
+  locations: ["location/el-beto-utah-county"],
   offerText: "Buy a Combination Plate, Get 1 FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

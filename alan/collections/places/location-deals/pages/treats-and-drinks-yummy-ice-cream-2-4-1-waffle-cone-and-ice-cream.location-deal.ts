@@ -7,7 +7,7 @@ export const treatsAndDrinksYummyIceCream241WaffleConeAndIceCream = {
   title: "Yummy Ice Cream — 2-4-1! Waffle Cone & Ice Cream!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:yummy-ice-cream:2-4-1-waffle-cone-and-ice-cream",
-  locations: ["yummy-ice-cream-utah-county"],
+  locations: ["location/yummy-ice-cream-utah-county"],
   offerText: "2-4-1! Waffle Cone & Ice Cream!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

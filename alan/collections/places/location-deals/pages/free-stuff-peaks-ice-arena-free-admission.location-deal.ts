@@ -8,7 +8,7 @@ export const freeStuffPeaksIceArenaFreeAdmission = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:peaks-ice-arena:free-admission",
   finePrint: "Skate Rental Not Included!",
-  locations: ["peaks-ice-arena-utah-county"],
+  locations: ["location/peaks-ice-arena-utah-county"],
   offerText: "FREE! Admission!",
   offerType: "free",
   section: "Free Stuff",

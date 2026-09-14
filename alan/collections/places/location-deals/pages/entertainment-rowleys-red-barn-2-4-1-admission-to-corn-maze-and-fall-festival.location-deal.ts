@@ -8,7 +8,7 @@ export const entertainmentRowleysRedBarn241AdmissionToCornMazeAndFallFestival = 
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:rowleys-red-barn:2-4-1-admission-to-corn-maze-and-fall-festival",
   finePrint: "M-Th",
-  locations: ["rowleys-red-barn-utah-county"],
+  locations: ["location/rowleys-red-barn-utah-county"],
   offerText: "2-4-1! Admission to Corn Maze and Fall Festival!",
   offerType: "2-4-1",
   section: "Entertainment",

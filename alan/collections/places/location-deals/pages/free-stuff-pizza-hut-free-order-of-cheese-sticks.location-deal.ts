@@ -8,7 +8,7 @@ export const freeStuffPizzaHutFreeOrderOfCheeseSticks = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:pizza-hut:free-order-of-cheese-sticks",
   finePrint: "Carryout Only! All Wasatch Front Locs",
-  locations: ["pizza-hut-utah-county"],
+  locations: ["location/pizza-hut-utah-county"],
   offerText: "FREE! Order of Cheese Sticks!",
   offerType: "free",
   section: "Free Stuff",

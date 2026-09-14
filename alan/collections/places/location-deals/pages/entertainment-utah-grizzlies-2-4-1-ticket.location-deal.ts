@@ -8,7 +8,7 @@ export const entertainmentUtahGrizzlies241Ticket = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:utah-grizzlies:2-4-1-ticket",
   finePrint: "Regular Season Only",
-  locations: ["utah-grizzlies-utah-county"],
+  locations: ["location/utah-grizzlies-utah-county"],
   offerText: "2-4-1! Ticket!",
   offerType: "2-4-1",
   section: "Entertainment",

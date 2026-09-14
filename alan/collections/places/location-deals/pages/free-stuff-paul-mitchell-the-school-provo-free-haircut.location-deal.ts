@@ -7,7 +7,7 @@ export const freeStuffPaulMitchellTheSchoolProvoFreeHaircut = {
   title: "Paul Mitchell the School Provo — FREE! Haircut!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:paul-mitchell-the-school-provo:free-haircut",
-  locations: ["paul-mitchell-the-school-provo-utah-county"],
+  locations: ["location/paul-mitchell-the-school-provo-utah-county"],
   offerText: "FREE! Haircut!",
   offerType: "free",
   section: "Free Stuff",

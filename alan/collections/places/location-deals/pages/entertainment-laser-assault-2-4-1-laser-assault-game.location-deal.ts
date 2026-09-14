@@ -7,7 +7,7 @@ export const entertainmentLaserAssault241LaserAssaultGame = {
   title: "Laser Assault — 2-4-1! Laser Assault Game!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:laser-assault:2-4-1-laser-assault-game",
-  locations: ["laser-assault-utah-county"],
+  locations: ["location/laser-assault-utah-county"],
   offerText: "2-4-1! Laser Assault Game!",
   offerType: "2-4-1",
   section: "Entertainment",

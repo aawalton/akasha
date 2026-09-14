@@ -8,7 +8,7 @@ export const sandwichesAndBurgersHoneyBakedHam241ComboMeal = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:honey-baked-ham:2-4-1-combo-meal",
   finePrint: "All Utah Locations",
-  locations: ["honey-baked-ham-utah-county"],
+  locations: ["location/honey-baked-ham-utah-county"],
   offerText: "2-4-1! Combo Meal!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

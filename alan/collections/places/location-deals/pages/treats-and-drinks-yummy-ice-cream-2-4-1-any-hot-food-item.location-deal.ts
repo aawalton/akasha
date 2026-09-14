@@ -7,7 +7,7 @@ export const treatsAndDrinksYummyIceCream241AnyHotFoodItem = {
   title: "Yummy Ice Cream — 2-4-1! Any Hot Food Item!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:yummy-ice-cream:2-4-1-any-hot-food-item",
-  locations: ["yummy-ice-cream-utah-county"],
+  locations: ["location/yummy-ice-cream-utah-county"],
   offerText: "2-4-1! Any Hot Food Item!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

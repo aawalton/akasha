@@ -8,7 +8,7 @@ export const pizzaPizzaPieCaf241Buffet = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:pizza-pie-caf:2-4-1-buffet",
   finePrint: "Highland Only",
-  locations: ["pizza-pie-cafe-highland"],
+  locations: ["location/pizza-pie-cafe-highland"],
   offerText: "2-4-1! Buffet!",
   offerType: "2-4-1",
   section: "Pizza",

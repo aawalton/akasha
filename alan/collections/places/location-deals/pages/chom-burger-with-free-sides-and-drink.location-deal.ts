@@ -8,7 +8,7 @@ export const chomBurgerWithFreeSidesAndDrink = {
   collection: "starving-student-card",
   dealKey:
     "ssc:sandwiches-and-burgers:chom:buy-1-burger-get-reg-tater-tots-fries-or-sweet-potato-fries-and-reg-drink-free",
-  locations: ["chom-utah-county"],
+  locations: ["location/chom-utah-county"],
   offerText: "Buy 1 Burger, Get Reg Tater Tots, Fries or Sweet Potato Fries & Reg Drink FREE!",
   offerType: "free",
   section: "Sandwiches & Burgers",

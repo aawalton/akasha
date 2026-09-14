@@ -8,7 +8,7 @@ export const entertainmentDrybarcomedyCom241ComedyShowAdmission = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:drybarcomedy-com:2-4-1-comedy-show-admission",
   finePrint: "Provo",
-  locations: ["drybarcomedy-com-provo"],
+  locations: ["location/drybarcomedy-com-provo"],
   offerText: "2-4-1! Comedy Show Admission!",
   offerType: "2-4-1",
   redemptionCode: "DBSSC",

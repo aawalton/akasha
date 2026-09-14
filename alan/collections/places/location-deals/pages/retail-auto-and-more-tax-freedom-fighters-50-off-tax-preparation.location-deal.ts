@@ -7,7 +7,7 @@ export const retailAutoAndMoreTaxFreedomFighters50OffTaxPreparation = {
   title: "Tax Freedom Fighters — 50% OFF! Tax Preparation!",
   collection: "starving-student-card",
   dealKey: "ssc:retail-auto-and-more:tax-freedom-fighters:50-off-tax-preparation",
-  locations: ["tax-freedom-fighters-utah-county"],
+  locations: ["location/tax-freedom-fighters-utah-county"],
   offerText: "50% OFF! Tax Preparation!",
   offerType: "percent-off",
   section: "Retail Auto & More",

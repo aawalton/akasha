@@ -7,7 +7,7 @@ export const treatsAndDrinksCravingsAlishasCupcakesBuyTwoCupcakesGet1Free = {
   title: "Cravings Alisha's Cupcakes — Buy Two Cupcakes, Get 1 FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:cravings-alishas-cupcakes:buy-two-cupcakes-get-1-free",
-  locations: ["cravings-alishas-cupcakes-utah-county"],
+  locations: ["location/cravings-alishas-cupcakes-utah-county"],
   offerText: "Buy Two Cupcakes, Get 1 FREE!",
   offerType: "free",
   section: "Treats & Drinks",

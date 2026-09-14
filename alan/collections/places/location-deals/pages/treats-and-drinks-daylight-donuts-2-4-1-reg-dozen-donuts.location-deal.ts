@@ -8,7 +8,7 @@ export const treatsAndDrinksDaylightDonuts241RegDozenDonuts = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:daylight-donuts:2-4-1-reg-dozen-donuts",
   finePrint: "Saratoga Springs",
-  locations: ["daylight-donuts-saratoga-springs"],
+  locations: ["location/daylight-donuts-saratoga-springs"],
   offerText: "2-4-1! Reg Dozen Donuts!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

@@ -7,7 +7,7 @@ export const treatsAndDrinksCravingsAlishasCupcakes241UnicornFloat = {
   title: "Cravings Alisha's Cupcakes — 2-4-1! Unicorn Float!",
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:cravings-alishas-cupcakes:2-4-1-unicorn-float",
-  locations: ["cravings-alishas-cupcakes-utah-county"],
+  locations: ["location/cravings-alishas-cupcakes-utah-county"],
   offerText: "2-4-1! Unicorn Float!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

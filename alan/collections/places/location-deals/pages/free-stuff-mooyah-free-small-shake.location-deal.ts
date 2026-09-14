@@ -7,7 +7,7 @@ export const freeStuffMooyahFreeSmallShake = {
   title: "Mooyah — FREE! Small Shake!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:mooyah:free-small-shake",
-  locations: ["mooyah-utah-county"],
+  locations: ["location/mooyah-utah-county"],
   offerText: "FREE! Small Shake!",
   offerType: "free",
   section: "Free Stuff",

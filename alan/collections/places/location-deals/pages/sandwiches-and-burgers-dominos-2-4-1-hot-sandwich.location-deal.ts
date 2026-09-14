@@ -8,7 +8,7 @@ export const sandwichesAndBurgersDominos241HotSandwich = {
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:dominos:2-4-1-hot-sandwich",
   finePrint: "Carryout Only. Saratoga & Eagle Mtn",
-  locations: ["dominos-eagle-mountain", "dominos-saratoga-springs"],
+  locations: ["location/dominos-eagle-mountain", "location/dominos-saratoga-springs"],
   offerText: "2-4-1! Hot Sandwich!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

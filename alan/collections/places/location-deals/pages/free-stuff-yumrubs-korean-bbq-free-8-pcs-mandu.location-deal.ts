@@ -7,7 +7,7 @@ export const freeStuffYumrubsKoreanBbqFree8PcsMandu = {
   title: "Yumrub's Korean BBQ — FREE! 8 Pcs Mandu…",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:yumrubs-korean-bbq:free-8-pcs-mandu",
-  locations: ["yumrubs-korean-bbq-utah-county"],
+  locations: ["location/yumrubs-korean-bbq-utah-county"],
   offerText: "FREE! 8 Pcs Mandu…",
   offerType: "free",
   section: "Free Stuff",

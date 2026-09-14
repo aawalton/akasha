@@ -8,7 +8,7 @@ export const treatsAndDrinksYummyIceCream241HotChocolate = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:yummy-ice-cream:2-4-1-hot-chocolate",
   finePrint: "FREE Arcades for Customers",
-  locations: ["yummy-ice-cream-utah-county"],
+  locations: ["location/yummy-ice-cream-utah-county"],
   offerText: "2-4-1! Hot Chocolate!",
   offerType: "2-4-1",
   section: "Treats & Drinks",

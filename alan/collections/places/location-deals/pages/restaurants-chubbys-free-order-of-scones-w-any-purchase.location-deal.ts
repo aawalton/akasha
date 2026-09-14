@@ -8,7 +8,7 @@ export const restaurantsChubbysFreeOrderOfSconesWAnyPurchase = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:chubbys:free-order-of-scones-w-any-purchase",
   finePrint: "All Locations",
-  locations: ["chubbys-utah-county"],
+  locations: ["location/chubbys-utah-county"],
   offerText: "FREE! Order of Scones w/Any Purchase!",
   offerType: "free",
   section: "Restaurants",

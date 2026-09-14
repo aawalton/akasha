@@ -8,7 +8,7 @@ export const pizzaDominos241Pizza = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:dominos:2-4-1-pizza",
   finePrint: "Carryout Only. Saratoga & Eagle Mtn",
-  locations: ["dominos-eagle-mountain", "dominos-saratoga-springs"],
+  locations: ["location/dominos-eagle-mountain", "location/dominos-saratoga-springs"],
   offerText: "2-4-1! Pizza!",
   offerType: "2-4-1",
   section: "Pizza",

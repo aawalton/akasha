@@ -8,7 +8,7 @@ export const retailAutoAndMoreChiropracticAxcessAccidentCenterOzoneInjectionForO
   collection: "starving-student-card",
   dealKey:
     "ssc:retail-auto-and-more:chiropractic-axcess-accident-center:ozone-injection-for-only-30",
-  locations: ["chiropractic-axcess-accident-center-utah-county"],
+  locations: ["location/chiropractic-axcess-accident-center-utah-county"],
   offerText: "Ozone Injection for Only $30!",
   offerType: "fixed-price",
   section: "Retail Auto & More",

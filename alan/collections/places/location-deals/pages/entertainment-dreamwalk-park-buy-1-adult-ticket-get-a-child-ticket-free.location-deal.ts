@@ -7,7 +7,7 @@ export const entertainmentDreamwalkParkBuy1AdultTicketGetAChildTicketFree = {
   title: "Dreamwalk Park — Buy 1 Adult Ticket, Get a Child Ticket FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:dreamwalk-park:buy-1-adult-ticket-get-a-child-ticket-free",
-  locations: ["dreamwalk-park-utah-county"],
+  locations: ["location/dreamwalk-park-utah-county"],
   offerText: "Buy 1 Adult Ticket, Get a Child Ticket FREE!",
   offerType: "2-4-1",
   section: "Entertainment",

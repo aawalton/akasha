@@ -7,7 +7,7 @@ export const sandwichesAndBurgersPitaPit241Entree = {
   title: "Pita Pit — 2-4-1! Entree!",
   collection: "starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:pita-pit:2-4-1-entree",
-  locations: ["pita-pit-utah-county"],
+  locations: ["location/pita-pit-utah-county"],
   offerText: "2-4-1! Entree!",
   offerType: "2-4-1",
   section: "Sandwiches & Burgers",

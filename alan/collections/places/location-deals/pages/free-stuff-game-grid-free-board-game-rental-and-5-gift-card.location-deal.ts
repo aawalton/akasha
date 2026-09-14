@@ -8,7 +8,7 @@ export const freeStuffGameGridFreeBoardGameRentalAnd5GiftCard = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:game-grid:free-board-game-rental-and-5-gift-card",
   finePrint: "Lehi",
-  locations: ["game-grid-lehi"],
+  locations: ["location/game-grid-lehi"],
   offerText: "FREE! Board Game Rental and $5! Gift Card!",
   offerType: "free",
   section: "Free Stuff",

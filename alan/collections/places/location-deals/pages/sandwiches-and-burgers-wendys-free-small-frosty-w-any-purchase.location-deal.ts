@@ -10,12 +10,12 @@ export const sandwichesAndBurgersWendysFreeSmallFrostyWAnyPurchase = {
   finePrint:
     "Provo 122 E 1200 N, Orem Center St, N. Orem, AF, Highland, Saratoga, Traverse Mtn & Participating Locations",
   locations: [
-    "wendys-american-fork",
-    "wendys-highland",
-    "wendys-lehi",
-    "wendys-orem",
-    "wendys-provo",
-    "wendys-saratoga-springs",
+    "location/wendys-american-fork",
+    "location/wendys-highland",
+    "location/wendys-lehi",
+    "location/wendys-orem",
+    "location/wendys-provo",
+    "location/wendys-saratoga-springs",
   ],
   offerText: "FREE! Small Frosty w/ Any Purchase!",
   offerType: "free",

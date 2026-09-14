@@ -8,7 +8,7 @@ export const freeStuffEscapesInTimeFreeAdmission = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:escapes-in-time:free-admission",
   finePrint: "M-Th Not Valid December",
-  locations: ["escapes-in-time-utah-county"],
+  locations: ["location/escapes-in-time-utah-county"],
   offerText: "FREE! Admission!",
   offerType: "free",
   section: "Free Stuff",

@@ -7,7 +7,7 @@ export const restaurants5StarBbqBuyAnyMeatPlateGetAOneMeatPlateFree = {
   title: "5 Star BBQ — Buy Any Meat Plate, Get a One-Meat Plate FREE!",
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:5-star-bbq:buy-any-meat-plate-get-a-one-meat-plate-free",
-  locations: ["location-5-star-bbq-utah-county"],
+  locations: ["location/location-5-star-bbq-utah-county"],
   offerText: "Buy Any Meat Plate, Get a One-Meat Plate FREE!",
   offerType: "free",
   section: "Restaurants",

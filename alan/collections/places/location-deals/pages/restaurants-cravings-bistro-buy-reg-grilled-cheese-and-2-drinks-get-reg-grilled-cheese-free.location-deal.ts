@@ -8,7 +8,7 @@ export const restaurantsCravingsBistroBuyRegGrilledCheeseAnd2DrinksGetRegGrilled
   collection: "starving-student-card",
   dealKey:
     "ssc:restaurants:cravings-bistro:buy-reg-grilled-cheese-and-2-drinks-get-reg-grilled-cheese-free",
-  locations: ["cravings-bistro-utah-county"],
+  locations: ["location/cravings-bistro-utah-county"],
   offerText: "Buy Reg. Grilled Cheese and 2 Drinks, Get Reg. Grilled Cheese FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

@@ -7,7 +7,7 @@ export const freeStuffThisIsThePlaceHeritageParkOneFreeAdmission = {
   title: "This Is The Place Heritage Park — One FREE! Admission!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:this-is-the-place-heritage-park:one-free-admission",
-  locations: ["this-is-the-place-heritage-park-utah-county"],
+  locations: ["location/this-is-the-place-heritage-park-utah-county"],
   offerText: "One FREE! Admission!",
   offerType: "free",
   section: "Free Stuff",

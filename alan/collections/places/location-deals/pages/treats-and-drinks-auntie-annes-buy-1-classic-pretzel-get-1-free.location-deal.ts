@@ -8,7 +8,7 @@ export const treatsAndDrinksAuntieAnnesBuy1ClassicPretzelGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:auntie-annes:buy-1-classic-pretzel-get-1-free",
   finePrint: "Lehi & Draper",
-  locations: ["auntie-annes-draper", "auntie-annes-lehi"],
+  locations: ["location/auntie-annes-draper", "location/auntie-annes-lehi"],
   offerText: "Buy 1 Classic Pretzel, Get 1 FREE!",
   offerType: "free",
   section: "Treats & Drinks",

@@ -7,7 +7,7 @@ export const freeStuff5StarBbqFreeSide = {
   title: "5 Star BBQ — FREE! Side!",
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:5-star-bbq:free-side",
-  locations: ["location-5-star-bbq-utah-county"],
+  locations: ["location/location-5-star-bbq-utah-county"],
   offerText: "FREE! Side!",
   offerType: "free",
   section: "Free Stuff",

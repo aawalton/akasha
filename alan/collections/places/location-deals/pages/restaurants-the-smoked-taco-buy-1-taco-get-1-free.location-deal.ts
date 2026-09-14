@@ -8,7 +8,7 @@ export const restaurantsTheSmokedTacoBuy1TacoGet1Free = {
   collection: "starving-student-card",
   dealKey: "ssc:restaurants:the-smoked-taco:buy-1-taco-get-1-free",
   finePrint: "All Locations",
-  locations: ["the-smoked-taco-utah-county"],
+  locations: ["location/the-smoked-taco-utah-county"],
   offerText: "Buy 1 Taco, Get 1 FREE!",
   offerType: "2-4-1",
   section: "Restaurants",

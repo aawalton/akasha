@@ -8,7 +8,7 @@ export const entertainmentTheRuth50OffSameDayTicket = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:the-ruth:50-off-same-day-ticket",
   finePrint: "Present Card in Person",
-  locations: ["the-ruth-utah-county"],
+  locations: ["location/the-ruth-utah-county"],
   offerText: "50% OFF! Same Day Ticket!",
   offerType: "percent-off",
   section: "Entertainment",

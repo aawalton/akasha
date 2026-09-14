@@ -8,7 +8,7 @@ export const treatsAndDrinksGurusCafeBuyPastryOrCakeByTheSliceGetOneFree = {
   collection: "starving-student-card",
   dealKey: "ssc:treats-and-drinks:gurus-cafe:buy-pastry-or-cake-by-the-slice-get-one-free",
   finePrint: "Provo Cntr & UVU",
-  locations: ["gurus-cafe-provo"],
+  locations: ["location/gurus-cafe-provo"],
   offerText: "Buy Pastry or Cake by the Slice, Get One FREE!",
   offerType: "free",
   section: "Treats & Drinks",

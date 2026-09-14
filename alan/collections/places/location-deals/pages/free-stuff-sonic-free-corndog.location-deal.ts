@@ -8,7 +8,7 @@ export const freeStuffSonicFreeCorndog = {
   collection: "starving-student-card",
   dealKey: "ssc:free-stuff:sonic:free-corndog",
   finePrint: "Valid at All Utah County Locations",
-  locations: ["sonic-utah-county"],
+  locations: ["location/sonic-utah-county"],
   offerText: "FREE! Corndog!",
   offerType: "free",
   section: "Free Stuff",

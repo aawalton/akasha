@@ -8,7 +8,7 @@ export const entertainmentProvoBeach241Attraction = {
   collection: "starving-student-card",
   dealKey: "ssc:entertainment:provo-beach:2-4-1-attraction",
   finePrint: "Excludes Flowrider",
-  locations: ["provo-beach-utah-county"],
+  locations: ["location/provo-beach-utah-county"],
   offerText: "2-4-1! Attraction!",
   offerType: "2-4-1",
   section: "Entertainment",

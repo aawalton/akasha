@@ -8,7 +8,7 @@ export const pizzaPizzaHut241MedOrLrgPizza = {
   collection: "starving-student-card",
   dealKey: "ssc:pizza:pizza-hut:2-4-1-med-or-lrg-pizza",
   finePrint: "Carryout Only! All Wasatch Front Lo…",
-  locations: ["pizza-hut-utah-county"],
+  locations: ["location/pizza-hut-utah-county"],
   offerText: "2-4-1! Med or Lrg Pizza!",
   offerType: "2-4-1",
   section: "Pizza",
