@@ -11,5 +11,13 @@ export const spawnGuard = {
       invariantKind: "departure",
       statement: "A refusal names this module by its slug rather than by its path.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page naming no process and a page naming one nobody can read are one answer.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "That answer cannot say which of the two it met, so it names neither.",
+    },
   ],
 } as const satisfies Module

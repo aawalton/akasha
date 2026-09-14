@@ -28,9 +28,9 @@ export function decideSpawnGuard(input: SpawnGuardInput): SpawnGuardDecision {
       kind: "reject",
       basis: "holder-uncertain",
       reason:
-        "a seat holds this name and the process its page names cannot be read, so whether it " +
-        "is running is unknown — refusing rather than risk clobbering a live agent. Resolve it " +
-        "with `akasha seat supervisor stop <name>` (safe either way), or pick a different name",
+        "a seat holds this name and its page names no process that can be read, so whether an " +
+        "agent is in it is unknown — refusing rather than risk clobbering a live agent. Resolve " +
+        "it with `akasha seat supervisor stop <name>` (safe either way), or pick a different name",
     }
   }
 
