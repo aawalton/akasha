@@ -17,7 +17,6 @@ import type { MechanicsWeight } from "akasha/story/games/properties/mechanics-we
 import type { NarrativeContinuity } from "akasha/story/games/properties/narrative-continuity.file-property.types.ts"
 import type { Premise } from "akasha/story/games/properties/premise.text-property.types.ts"
 import type { ReaderFraming } from "akasha/story/games/properties/reader-framing.text-property.types.ts"
-import type { RequiresPerTurnGate } from "akasha/story/games/properties/requires-per-turn-gate.boolean-property.types.ts"
 import type { Resolution } from "akasha/story/games/properties/resolution.select-property.types.ts"
 import type { ResolutionMechanism } from "akasha/story/games/properties/resolution-mechanism.file-property.types.ts"
 import type { Rolls } from "akasha/story/games/properties/rolls.file-property.types.ts"
@@ -58,5 +57,4 @@ export type Game = Collection & {
   designEntries?: DesignEntries
   towerFloors?: TowerFloors
   towerSessions?: TowerSessions
-  requiresPerTurnGate?: RequiresPerTurnGate
 }
