@@ -19,5 +19,13 @@ export const domainParent = {
       invariantKind: "departure",
       statement: "A page type extending `domain` is not a reason for `domain` to be a parent.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A domain's folder sits directly in its parent domain's folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every domain but `akasha` is named a part by one page, and `akasha` by none.",
+    },
   ],
 } as const satisfies Domain
