@@ -10,7 +10,7 @@ export const aids = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An aid runs to the length an act or a warrant runs to.",
     },
   ],

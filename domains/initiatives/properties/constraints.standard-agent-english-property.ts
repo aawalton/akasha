@@ -10,11 +10,11 @@ export const constraints = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A constraint is never worked and never met.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A constraint that no longer bounds the work is deleted.",
     },
   ],

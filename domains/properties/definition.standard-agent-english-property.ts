@@ -10,32 +10,32 @@ export const definition = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A definition has no clause saying the thing's purpose.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A definition has no clause saying why the thing is worth having.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A definition has no clause saying where the thing sits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A definition names one concern.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A second concern needed to cover an area makes that area more than one domain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A fact true of every sibling belongs on the parent's line rather than on each sibling's own line.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A domain's concern stays on its own line even where every sibling is about the same thing.",
     },
