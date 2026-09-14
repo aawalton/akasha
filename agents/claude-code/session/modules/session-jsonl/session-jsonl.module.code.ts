@@ -1,4 +1,3 @@
-import type { AssistantMessage } from "akasha/agents/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts"
 import {
   MODELED_CONTENT_BLOCK_TYPES,
   MODELED_TYPES,
@@ -22,25 +21,6 @@ export function parseSessionLine(line: string): SessionMessage | null {
   if (typeof type !== "string" || !MODELED_TYPES.has(type)) return null
   if (type === "result" && !ResultSubtypePresence.safeParse(json).success) return null
   return SessionMessage.parse(json)
-}
-
-function parseSessionLines(text: string): readonly SessionMessage[] {
-  const out: SessionMessage[] = []
-  for (const raw of text.split("\n")) {
-    if (raw.trim() === "") continue
-    const msg = parseSessionLine(raw)
-    if (msg !== null) out.push(msg)
-  }
-  return out
-}
-
-export function classifyRateLimitDeath(text: string): boolean {
-  let lastAssistant: AssistantMessage | null = null
-  for (const msg of parseSessionLines(text)) {
-    if (msg.type === "assistant") lastAssistant = msg
-  }
-  if (lastAssistant === null) return false
-  return lastAssistant.isApiErrorMessage === true && lastAssistant.apiErrorStatus === 429
 }
 
 const SessionIdLine = shape.looseObject({ sessionId: shape.string().min(1) })
