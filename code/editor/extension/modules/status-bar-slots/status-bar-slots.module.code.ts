@@ -3,7 +3,6 @@ import {
   BLUE_HEX,
   CHALK_HEX,
   PURPLE_HEX,
-  SILVER_HEX,
 } from "akasha/code/editor/extension/modules/status-bar-theme/status-bar-theme.module.code.ts"
 
 function formatPct(v: number | null): string {
@@ -16,7 +15,7 @@ const RAW_SLOTS: readonly SlotDef[] = [
     id: "opsStatusBar.workstation.processor",
     priority: 0,
     label: "processor use",
-    hex: SILVER_HEX,
+    hex: CHALK_HEX,
     read: (w) => formatPct(w.processorPct),
   },
   {

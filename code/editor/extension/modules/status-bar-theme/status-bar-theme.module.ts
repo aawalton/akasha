@@ -38,8 +38,7 @@ export const statusBarTheme = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The processor and the memory figures take the two neutrals above the separator's grey.",
+      statement: "The processor and the memory figures take one and the same neutral.",
     },
     {
       invariantKind: "departure",
