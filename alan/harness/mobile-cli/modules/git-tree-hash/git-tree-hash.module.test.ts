@@ -22,8 +22,6 @@ const APP: MobileApp = {
   nativeShellRepoPath: "akasha:native-shell/example",
   simBuildScript: null,
   syncScript: null,
-  wwwStageScript: null,
-  spaSourceRepoPath: null,
   webEnvSegments: null,
   ascCapabilities: [],
   toolReached: [],

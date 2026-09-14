@@ -34,7 +34,7 @@ describe("buildTestflightDeployScript www injection", () => {
 
   test("a cut of an app with nothing staged replaces no www, even with sync on", () => {
     for (const app of ALL) {
-      if (app.wwwStageScript !== null) continue
+      if (macWwwStagingDir(app) !== null) continue
       const script = scriptFor(app.slug, true)
       expect(script).not.toContain("rm -rf www")
       expect(script).not.toContain("cp -R")

@@ -79,19 +79,9 @@ describe("records agree with the shells they name", () => {
     }
   })
 
-  test("an app with a www stage script also names its shell, env and SPA source", () => {
-    for (const app of ALL) {
-      if (app.wwwStageScript === null) continue
-      expect(app.nativeShellRepoPath).not.toBeNull()
-      expect(app.webEnvSegments).not.toBeNull()
-      expect(app.spaSourceRepoPath).not.toBeNull()
-    }
-  })
-
   test("no app stages a site on the mac, now every shell boots its live origin", () => {
     for (const app of ALL) {
       expect(app.macWwwStagingRel).toBeNull()
-      expect(app.wwwStageScript).toBeNull()
     }
   })
 

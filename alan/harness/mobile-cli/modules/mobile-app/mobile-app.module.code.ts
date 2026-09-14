@@ -28,8 +28,6 @@ export interface MobileApp {
   readonly nativeShellRepoPath: string | null
   readonly simBuildScript: string | null
   readonly syncScript: string | null
-  readonly wwwStageScript: string | null
-  readonly spaSourceRepoPath: string | null
   readonly webEnvSegments: readonly string[] | null
   readonly ascCapabilities: readonly string[]
   readonly toolReached: readonly string[]
@@ -110,8 +108,6 @@ function mobileAppOf(value: Value, path: string): MobileApp {
     nativeShellRepoPath: stated(value, "nativeShellRepoPath"),
     simBuildScript: scriptAt(value, "buildScript", path),
     syncScript: scriptAt(value, "syncScript", path),
-    wwwStageScript: scriptAt(value, "stageScript", path),
-    spaSourceRepoPath: stated(value, "spaSourcePath"),
     webEnvSegments: webEnvPath === null ? null : webEnvPath.split("/"),
     ascCapabilities: textsAt(value, "ascCapabilities") ?? [],
     toolReached: textsAt(value, "toolReached") ?? [],
