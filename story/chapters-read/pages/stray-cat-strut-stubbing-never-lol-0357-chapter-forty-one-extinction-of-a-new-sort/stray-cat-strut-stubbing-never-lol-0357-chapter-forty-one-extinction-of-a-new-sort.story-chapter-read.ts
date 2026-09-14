@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0357ChapterFortyOneExtinctionOfANewSor
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0357-chapter-forty-one-extinction-of-a-new-sort",
   title: "Chapter Forty-One - Extinction of a New Sort",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 357,
   ownLength: 1490,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0012Chapter93WhatGoesAround = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0012-chapter-93-what-goes-around",
   title: "Chapter 93 What goes around.",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 12,
   ownLength: 6713,
   unit: "unit/words",

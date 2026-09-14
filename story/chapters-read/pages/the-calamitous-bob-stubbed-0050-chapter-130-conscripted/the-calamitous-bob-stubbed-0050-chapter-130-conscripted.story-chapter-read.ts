@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0050Chapter130Conscripted = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0050-chapter-130-conscripted",
   title: "Chapter 130: Conscripted",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 50,
   ownLength: 4787,
   unit: "unit/words",

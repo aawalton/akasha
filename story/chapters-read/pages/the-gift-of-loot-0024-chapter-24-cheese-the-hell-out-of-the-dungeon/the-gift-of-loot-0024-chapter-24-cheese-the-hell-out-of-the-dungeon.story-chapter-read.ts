@@ -5,7 +5,7 @@ export const theGiftOfLoot0024Chapter24CheeseTheHellOutOfTheDungeon = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0024-chapter-24-cheese-the-hell-out-of-the-dungeon",
   title: "Chapter 24: Cheese The Hell Out of the Dungeon",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 24,
   ownLength: 2176,
   unit: "unit/words",

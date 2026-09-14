@@ -5,7 +5,7 @@ export const superSupportive0047FortySevenThunderLettuce = {
   type: "story-chapter-read",
   slug: "super-supportive-0047-forty-seven-thunder-lettuce",
   title: "FORTY-SEVEN: Thunder Lettuce",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 47,
   ownLength: 2866,
   unit: "unit/words",

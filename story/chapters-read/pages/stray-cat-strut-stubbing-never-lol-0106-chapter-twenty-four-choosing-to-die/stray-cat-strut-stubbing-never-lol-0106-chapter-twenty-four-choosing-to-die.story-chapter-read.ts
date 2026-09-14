@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0106ChapterTwentyFourChoosingToDie = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0106-chapter-twenty-four-choosing-to-die",
   title: "Chapter Twenty-Four - Choosing to Die",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 106,
   ownLength: 1734,
   unit: "unit/words",

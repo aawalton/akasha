@@ -5,7 +5,7 @@ export const superSupportive0181OneHundredSeventyNineByAppointment = {
   type: "story-chapter-read",
   slug: "super-supportive-0181-one-hundred-seventy-nine-by-appointment",
   title: "ONE HUNDRED SEVENTY-NINE: By Appointment",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 181,
   ownLength: 4343,
   unit: "unit/words",

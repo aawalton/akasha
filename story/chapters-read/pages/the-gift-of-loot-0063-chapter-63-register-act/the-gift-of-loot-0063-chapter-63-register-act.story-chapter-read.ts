@@ -5,7 +5,7 @@ export const theGiftOfLoot0063Chapter63RegisterAct = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0063-chapter-63-register-act",
   title: "Chapter 63: REGISTER Act",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 63,
   ownLength: 2799,
   unit: "unit/words",

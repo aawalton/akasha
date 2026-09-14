@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0026Chapter107MeetInterestingPeopleKillThem 
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0026-chapter-107-meet-interesting-people-kill-them",
   title: "Chapter 107: Meet interesting people. Kill them",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 26,
   ownLength: 6293,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0011Chapter11CatAndMagpie = 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0011-chapter-11-cat-and-magpie",
   title: "Chapter 11 – Cat and Magpie",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 11,
   ownLength: 2209,
   unit: "unit/words",

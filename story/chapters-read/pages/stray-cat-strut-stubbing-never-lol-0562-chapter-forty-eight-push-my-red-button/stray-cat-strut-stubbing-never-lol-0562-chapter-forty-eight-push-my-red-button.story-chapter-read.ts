@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0562ChapterFortyEightPushMyRedButton =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0562-chapter-forty-eight-push-my-red-button",
   title: "Chapter Forty-Eight - Push My Red Button",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 562,
   ownLength: 1465,
   unit: "unit/words",

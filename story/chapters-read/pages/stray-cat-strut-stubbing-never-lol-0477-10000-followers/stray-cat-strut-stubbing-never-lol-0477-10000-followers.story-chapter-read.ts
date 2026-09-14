@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol047710000Followers = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0477-10000-followers",
   title: "10,000 Followers!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 477,
   ownLength: 360,
   unit: "unit/words",

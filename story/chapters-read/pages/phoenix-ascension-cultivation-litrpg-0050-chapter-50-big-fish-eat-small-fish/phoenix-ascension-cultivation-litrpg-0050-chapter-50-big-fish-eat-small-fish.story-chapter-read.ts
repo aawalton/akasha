@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0050Chapter50BigFishEatSmallFish =
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0050-chapter-50-big-fish-eat-small-fish",
   title: "Chapter 50: Big Fish eat Small Fish",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 50,
   ownLength: 2782,
   unit: "unit/words",

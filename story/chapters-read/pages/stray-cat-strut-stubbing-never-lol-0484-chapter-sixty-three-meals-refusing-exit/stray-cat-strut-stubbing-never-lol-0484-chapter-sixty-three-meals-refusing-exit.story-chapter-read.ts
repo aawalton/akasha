@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0484ChapterSixtyThreeMealsRefusingExit
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0484-chapter-sixty-three-meals-refusing-exit",
   title: "Chapter Sixty-Three - Meals Refusing Exit",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 484,
   ownLength: 1467,
   unit: "unit/words",

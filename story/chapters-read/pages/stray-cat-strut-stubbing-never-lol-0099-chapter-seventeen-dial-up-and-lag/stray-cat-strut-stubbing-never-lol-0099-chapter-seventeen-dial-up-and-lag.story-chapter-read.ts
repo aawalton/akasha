@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0099ChapterSeventeenDialUpAndLag = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0099-chapter-seventeen-dial-up-and-lag",
   title: "Chapter Seventeen - Dial-Up and Lag",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 99,
   ownLength: 1483,
   unit: "unit/words",

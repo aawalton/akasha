@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0056Chapter55TheAscensionOfTheS
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0056-chapter-55-the-ascension-of-the-supply-lord",
   title: "Chapter 55: The Ascension of the Supply Lord",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 56,
   ownLength: 2281,
   unit: "unit/words",

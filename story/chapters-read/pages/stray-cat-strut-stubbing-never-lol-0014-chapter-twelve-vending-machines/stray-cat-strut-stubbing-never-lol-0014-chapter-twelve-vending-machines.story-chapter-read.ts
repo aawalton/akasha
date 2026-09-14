@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0014ChapterTwelveVendingMachines = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0014-chapter-twelve-vending-machines",
   title: "Chapter Twelve - Vending Machines",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 14,
   ownLength: 1237,
   unit: "unit/words",

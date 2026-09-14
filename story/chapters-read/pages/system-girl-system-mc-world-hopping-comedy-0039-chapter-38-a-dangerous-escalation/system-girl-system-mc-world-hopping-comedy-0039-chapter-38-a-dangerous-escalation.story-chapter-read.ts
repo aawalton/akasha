@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0039Chapter38ADangerousEscalati
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0039-chapter-38-a-dangerous-escalation",
   title: "Chapter 38: A Dangerous Escalation",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 39,
   ownLength: 2568,
   unit: "unit/words",

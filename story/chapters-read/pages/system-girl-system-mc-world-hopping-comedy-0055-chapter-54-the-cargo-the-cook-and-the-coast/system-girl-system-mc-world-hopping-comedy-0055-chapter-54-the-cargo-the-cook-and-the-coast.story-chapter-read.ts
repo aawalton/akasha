@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0055Chapter54TheCargoTheCookAnd
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0055-chapter-54-the-cargo-the-cook-and-the-coast",
   title: "Chapter 54: The Cargo, The Cook, and The Coast",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 55,
   ownLength: 2819,
   unit: "unit/words",

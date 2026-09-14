@@ -5,7 +5,7 @@ export const superSupportive0301TwoHundredNinetyNineBonusPointsForTheStraightfor
   type: "story-chapter-read",
   slug: "super-supportive-0301-two-hundred-ninety-nine-bonus-points-for-the-straightforward",
   title: "TWO HUNDRED NINETY-NINE: Bonus Points for the Straightforward",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 301,
   ownLength: 4367,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0081Chapter379ChasingShadows = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0081-chapter-379-chasing-shadows",
   title: "Chapter 379 : Chasing Shadows",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 81,
   ownLength: 2478,
   unit: "unit/words",

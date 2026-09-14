@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00044InTooDeep = {
   type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0004-4-in-too-deep",
   title: "4: In Too Deep",
-  story: "rat-girl-evolution-lab-rat-to-unrivaled",
+  story: "story-read/rat-girl-evolution-lab-rat-to-unrivaled",
   position: 4,
   ownLength: 2625,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0004Chapter4CowOnFire = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0004-chapter-4-cow-on-fire",
   title: "Chapter 4 - Cow on Fire",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 4,
   ownLength: 2059,
   unit: "unit/words",

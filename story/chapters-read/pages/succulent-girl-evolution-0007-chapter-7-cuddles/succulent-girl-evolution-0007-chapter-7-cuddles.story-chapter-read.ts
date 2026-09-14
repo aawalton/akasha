@@ -5,7 +5,7 @@ export const succulentGirlEvolution0007Chapter7Cuddles = {
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0007-chapter-7-cuddles",
   title: "Chapter 7: Cuddles",
-  story: "succulent-girl-evolution",
+  story: "story-read/succulent-girl-evolution",
   position: 7,
   ownLength: 2042,
   unit: "unit/words",

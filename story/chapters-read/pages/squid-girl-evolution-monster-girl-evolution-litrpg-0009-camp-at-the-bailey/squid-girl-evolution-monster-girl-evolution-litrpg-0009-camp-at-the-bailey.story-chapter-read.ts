@@ -5,7 +5,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0009CampAtTheBailey = {
   type: "story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0009-camp-at-the-bailey",
   title: "Camp at the Bailey",
-  story: "squid-girl-evolution-monster-girl-evolution-litrpg",
+  story: "story-read/squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 9,
   ownLength: 1492,
   unit: "unit/words",

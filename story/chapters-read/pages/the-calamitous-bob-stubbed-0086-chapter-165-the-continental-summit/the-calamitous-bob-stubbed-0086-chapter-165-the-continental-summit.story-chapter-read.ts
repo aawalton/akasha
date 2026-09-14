@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0086Chapter165TheContinentalSummit = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0086-chapter-165-the-continental-summit",
   title: "Chapter 165: The Continental Summit",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 86,
   ownLength: 6056,
   unit: "unit/words",

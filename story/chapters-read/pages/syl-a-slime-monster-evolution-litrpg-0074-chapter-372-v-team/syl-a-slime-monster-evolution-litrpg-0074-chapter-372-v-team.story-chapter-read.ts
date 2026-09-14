@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0074Chapter372VTeam = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0074-chapter-372-v-team",
   title: "Chapter 372 : V-Team",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 74,
   ownLength: 2373,
   unit: "unit/words",

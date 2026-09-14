@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0100ChapterEighteenGotcha = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0100-chapter-eighteen-gotcha",
   title: "Chapter Eighteen - Gotcha",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 100,
   ownLength: 1446,
   unit: "unit/words",

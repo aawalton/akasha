@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0031Chapter27LyingInWait = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0031-chapter-27-lying-in-wait",
   title: "Chapter 27: Lying in Wait",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 31,
   ownLength: 1780,
   unit: "unit/words",

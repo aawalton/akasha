@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0022Chapter103AcademyApprovedBattleMagic = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0022-chapter-103-academy-approved-battle-magic",
   title: "Chapter 103: Academy-approved Battle Magic",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 22,
   ownLength: 5947,
   unit: "unit/words",

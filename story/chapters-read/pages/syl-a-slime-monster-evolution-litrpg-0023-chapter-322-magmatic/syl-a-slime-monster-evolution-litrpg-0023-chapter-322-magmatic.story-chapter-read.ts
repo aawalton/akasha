@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0023Chapter322Magmatic = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0023-chapter-322-magmatic",
   title: "Chapter 322 : Magmatic",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 23,
   ownLength: 2120,
   unit: "unit/words",

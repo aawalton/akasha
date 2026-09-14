@@ -5,7 +5,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0007BackToAlpheratz = {
   type: "story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0007-back-to-alpheratz",
   title: "Back to Alpheratz",
-  story: "squid-girl-evolution-monster-girl-evolution-litrpg",
+  story: "story-read/squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 7,
   ownLength: 1724,
   unit: "unit/words",

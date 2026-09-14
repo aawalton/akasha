@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0280240IiVengeanceI2877649 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0280-240-ii-vengeance-i-2877649",
   title: "240 (II) Vengeance [I]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 280,
   ownLength: 2558,
   unit: "unit/words",

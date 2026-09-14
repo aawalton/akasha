@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0560ChapterFortySixEwwWhatEvenIsThat =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0560-chapter-forty-six-eww-what-even-is-that",
   title: "Chapter Forty-Six - Eww, What Even Is That?",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 560,
   ownLength: 1545,
   unit: "unit/words",

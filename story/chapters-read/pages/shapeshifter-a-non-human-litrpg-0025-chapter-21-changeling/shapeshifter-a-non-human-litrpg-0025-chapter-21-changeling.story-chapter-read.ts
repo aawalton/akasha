@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0025Chapter21Changeling = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0025-chapter-21-changeling",
   title: "Chapter 21: Changeling",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 25,
   ownLength: 2345,
   unit: "unit/words",

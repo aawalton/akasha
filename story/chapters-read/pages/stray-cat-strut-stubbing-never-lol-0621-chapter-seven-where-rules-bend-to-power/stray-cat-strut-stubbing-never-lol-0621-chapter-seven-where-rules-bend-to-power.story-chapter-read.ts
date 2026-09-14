@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0621ChapterSevenWhereRulesBendToPower 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0621-chapter-seven-where-rules-bend-to-power",
   title: "Chapter Seven - Where Rules Bend to Power",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 621,
   ownLength: 1512,
   unit: "unit/words",

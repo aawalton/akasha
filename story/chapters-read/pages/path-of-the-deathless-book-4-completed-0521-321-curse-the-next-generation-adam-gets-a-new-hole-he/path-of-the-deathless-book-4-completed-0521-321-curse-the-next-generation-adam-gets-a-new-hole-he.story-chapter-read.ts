@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0521321CurseTheNextGenerationAdamGe
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0521-321-curse-the-next-generation-adam-gets-a-new-hole-he",
   title: "321 Curse: The Next Generation (Adam gets a new hole he doesn’t want)",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 521,
   ownLength: 0,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0033Chapter612Dorian = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0033-chapter-612-dorian",
   title: "Chapter 612: Dorian",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 33,
   ownLength: 2340,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0108Chapter406HuntingTheHunter = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0108-chapter-406-hunting-the-hunter",
   title: "Chapter 406 : Hunting the Hunter",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 108,
   ownLength: 2466,
   unit: "unit/words",

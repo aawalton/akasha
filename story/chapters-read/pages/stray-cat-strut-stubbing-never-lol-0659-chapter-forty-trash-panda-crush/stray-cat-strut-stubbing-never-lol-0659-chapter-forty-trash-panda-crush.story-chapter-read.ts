@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0659ChapterFortyTrashPandaCrush = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0659-chapter-forty-trash-panda-crush",
   title: "Chapter Forty - Trash Panda Crush",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 659,
   ownLength: 1546,
   unit: "unit/words",

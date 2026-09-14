@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0015Chapter314Sylvain = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0015-chapter-314-sylvain",
   title: "Chapter 314 : Sylvain",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 15,
   ownLength: 2257,
   unit: "unit/words",

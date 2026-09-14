@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0058ChapterFiftySixLeavingAGiftBehind 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0058-chapter-fifty-six-leaving-a-gift-behind",
   title: "Chapter Fifty-Six - Leaving a Gift Behind",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 58,
   ownLength: 1491,
   unit: "unit/words",

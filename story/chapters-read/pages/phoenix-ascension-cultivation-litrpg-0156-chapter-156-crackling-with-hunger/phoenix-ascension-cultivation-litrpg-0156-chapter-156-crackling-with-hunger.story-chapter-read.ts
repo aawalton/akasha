@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0156Chapter156CracklingWithHunger 
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0156-chapter-156-crackling-with-hunger",
   title: "Chapter 156: Crackling with Hunger",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 156,
   ownLength: 2143,
   unit: "unit/words",

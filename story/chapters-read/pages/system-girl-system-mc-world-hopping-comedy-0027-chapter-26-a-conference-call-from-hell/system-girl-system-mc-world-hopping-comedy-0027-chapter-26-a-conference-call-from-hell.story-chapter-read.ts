@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0027Chapter26AConferenceCallFro
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0027-chapter-26-a-conference-call-from-hell",
   title: "Chapter 26: A Conference Call from Hell",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 27,
   ownLength: 2037,
   unit: "unit/words",

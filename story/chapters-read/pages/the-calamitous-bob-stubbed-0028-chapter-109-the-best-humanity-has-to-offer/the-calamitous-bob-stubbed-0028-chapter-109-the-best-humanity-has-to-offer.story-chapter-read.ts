@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0028Chapter109TheBestHumanityHasToOffer = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0028-chapter-109-the-best-humanity-has-to-offer",
   title: "Chapter: 109 The best humanity has to offer.",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 28,
   ownLength: 4560,
   unit: "unit/words",

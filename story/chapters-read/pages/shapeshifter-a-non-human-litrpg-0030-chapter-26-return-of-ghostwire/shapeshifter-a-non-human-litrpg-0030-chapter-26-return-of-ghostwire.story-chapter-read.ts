@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0030Chapter26ReturnOfGhostwire = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0030-chapter-26-return-of-ghostwire",
   title: "Chapter 26: Return of Ghostwire",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 30,
   ownLength: 1825,
   unit: "unit/words",

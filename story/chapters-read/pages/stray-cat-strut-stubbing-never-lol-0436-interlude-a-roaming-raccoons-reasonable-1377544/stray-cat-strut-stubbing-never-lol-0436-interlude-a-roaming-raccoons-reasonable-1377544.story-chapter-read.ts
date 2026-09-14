@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0436InterludeARoamingRaccoonsReasonabl
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0436-interlude-a-roaming-raccoons-reasonable-1377544",
   title: "Interlude - A Roaming Raccoon's Reasonable Relationships [Part Three]",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 436,
   ownLength: 1450,
   unit: "unit/words",

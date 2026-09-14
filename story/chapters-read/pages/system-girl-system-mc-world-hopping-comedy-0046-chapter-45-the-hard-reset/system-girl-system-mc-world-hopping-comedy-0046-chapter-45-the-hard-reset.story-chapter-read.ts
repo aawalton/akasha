@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0046Chapter45TheHardReset = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0046-chapter-45-the-hard-reset",
   title: "Chapter 45: The Hard Reset",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 46,
   ownLength: 1904,
   unit: "unit/words",

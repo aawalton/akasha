@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0034Book2CoverRevealPoll = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0034-book-2-cover-reveal-poll",
   title: "Book 2 cover reveal + poll",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 34,
   ownLength: 1449,
   unit: "unit/words",

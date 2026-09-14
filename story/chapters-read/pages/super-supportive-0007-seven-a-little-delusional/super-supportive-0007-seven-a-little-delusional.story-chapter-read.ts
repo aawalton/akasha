@@ -5,7 +5,7 @@ export const superSupportive0007SevenALittleDelusional = {
   type: "story-chapter-read",
   slug: "super-supportive-0007-seven-a-little-delusional",
   title: "SEVEN: A Little Delusional",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 7,
   ownLength: 2984,
   unit: "unit/words",

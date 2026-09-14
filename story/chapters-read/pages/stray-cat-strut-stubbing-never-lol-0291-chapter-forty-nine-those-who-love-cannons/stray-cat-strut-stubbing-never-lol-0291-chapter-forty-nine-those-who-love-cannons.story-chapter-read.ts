@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0291ChapterFortyNineThoseWhoLoveCannon
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0291-chapter-forty-nine-those-who-love-cannons",
   title: "Chapter Forty-Nine - Those Who Love Cannons",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 291,
   ownLength: 1497,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0023Chapter23EvolutionsAndBreakthr
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0023-chapter-23-evolutions-and-breakthroughs",
   title: "Chapter 23: Evolutions and Breakthroughs",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 23,
   ownLength: 3218,
   unit: "unit/words",

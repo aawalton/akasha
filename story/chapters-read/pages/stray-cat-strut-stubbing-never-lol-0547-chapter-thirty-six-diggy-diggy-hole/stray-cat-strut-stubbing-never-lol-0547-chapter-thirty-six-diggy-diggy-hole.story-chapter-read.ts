@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0547ChapterThirtySixDiggyDiggyHole = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0547-chapter-thirty-six-diggy-diggy-hole",
   title: "Chapter Thirty-Six - Diggy Diggy Hole",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 547,
   ownLength: 1486,
   unit: "unit/words",

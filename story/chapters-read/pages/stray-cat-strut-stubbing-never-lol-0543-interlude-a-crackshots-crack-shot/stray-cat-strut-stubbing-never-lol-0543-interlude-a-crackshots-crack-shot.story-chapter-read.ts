@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0543InterludeACrackshotsCrackShot = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0543-interlude-a-crackshots-crack-shot",
   title: "Interlude - A Crackshot's Crack Shot",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 543,
   ownLength: 1354,
   unit: "unit/words",

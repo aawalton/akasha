@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0109Chapter187KingsAndBeasts = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0109-chapter-187-kings-and-beasts",
   title: "Chapter 187: Kings and Beasts",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 109,
   ownLength: 5254,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const superSupportive0013ThirteenTheBRanks = {
   type: "story-chapter-read",
   slug: "super-supportive-0013-thirteen-the-b-ranks",
   title: "THIRTEEN: The B-Ranks",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 13,
   ownLength: 3490,
   unit: "unit/words",

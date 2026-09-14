@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0596ChapterSeventyFiveTheWorthOfAHuman
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0596-chapter-seventy-five-the-worth-of-a-human",
   title: "Chapter Seventy-Five - The Worth of a Human",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 596,
   ownLength: 1582,
   unit: "unit/words",

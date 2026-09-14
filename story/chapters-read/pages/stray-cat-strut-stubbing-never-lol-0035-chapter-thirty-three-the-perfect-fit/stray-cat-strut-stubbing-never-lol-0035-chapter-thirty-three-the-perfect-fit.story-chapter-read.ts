@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0035ChapterThirtyThreeThePerfectFit = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0035-chapter-thirty-three-the-perfect-fit",
   title: "Chapter Thirty-Three - The Perfect Fit",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 35,
   ownLength: 1102,
   unit: "unit/words",

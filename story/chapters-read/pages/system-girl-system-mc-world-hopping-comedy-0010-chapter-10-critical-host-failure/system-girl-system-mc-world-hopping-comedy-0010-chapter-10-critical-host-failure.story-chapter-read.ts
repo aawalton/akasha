@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0010Chapter10CriticalHostFailur
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0010-chapter-10-critical-host-failure",
   title: "Chapter 10: Critical Host Failure",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 10,
   ownLength: 1376,
   unit: "unit/words",

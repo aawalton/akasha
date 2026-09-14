@@ -5,7 +5,7 @@ export const superSupportive0021TwentyOneGlossed = {
   type: "story-chapter-read",
   slug: "super-supportive-0021-twenty-one-glossed",
   title: "TWENTY-ONE: Glossed",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 21,
   ownLength: 2519,
   unit: "unit/words",

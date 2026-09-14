@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0035Chapter34TheEchoChamber = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0035-chapter-34-the-echo-chamber",
   title: "Chapter 34: The Echo Chamber",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 35,
   ownLength: 2157,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0106Chapter106ALookInThePast33 = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0106-chapter-106-a-look-in-the-past-33",
   title: "Chapter 106: A look in the past (3/3)",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 106,
   ownLength: 2014,
   unit: "unit/words",

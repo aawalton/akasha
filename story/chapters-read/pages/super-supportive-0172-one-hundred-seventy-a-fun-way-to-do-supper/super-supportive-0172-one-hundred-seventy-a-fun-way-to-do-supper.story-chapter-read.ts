@@ -5,7 +5,7 @@ export const superSupportive0172OneHundredSeventyAFunWayToDoSupper = {
   type: "story-chapter-read",
   slug: "super-supportive-0172-one-hundred-seventy-a-fun-way-to-do-supper",
   title: "ONE HUNDRED SEVENTY: A Fun Way to do Supper",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 172,
   ownLength: 3746,
   unit: "unit/words",

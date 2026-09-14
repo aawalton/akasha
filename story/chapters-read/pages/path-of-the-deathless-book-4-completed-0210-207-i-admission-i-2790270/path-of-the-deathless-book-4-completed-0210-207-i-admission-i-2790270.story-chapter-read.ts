@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0210207IAdmissionI2790270 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0210-207-i-admission-i-2790270",
   title: "207 (I) Admission [I]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 210,
   ownLength: 2751,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0475ChapterFiftyEightBurnSilentIntoTha
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0475-chapter-fifty-eight-burn-silent-into-that-good",
   title: "Chapter Fifty-Eight - Burn Silent Into That Good Night",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 475,
   ownLength: 1438,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0565357IiGlimpse = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0565-357-ii-glimpse",
   title: "357 (II) Glimpse",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 565,
   ownLength: 0,
   unit: "unit/words",

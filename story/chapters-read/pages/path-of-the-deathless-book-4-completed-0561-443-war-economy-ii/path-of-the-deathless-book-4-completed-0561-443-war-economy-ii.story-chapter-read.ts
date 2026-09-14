@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0561443WarEconomyIi = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0561-443-war-economy-ii",
   title: "443 War Economy [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 561,
   ownLength: 5622,
   unit: "unit/words",

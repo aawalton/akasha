@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled001010CleanBreaks = {
   type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0010-10-clean-breaks",
   title: "10: Clean Breaks",
-  story: "rat-girl-evolution-lab-rat-to-unrivaled",
+  story: "story-read/rat-girl-evolution-lab-rat-to-unrivaled",
   position: 10,
   ownLength: 2254,
   unit: "unit/words",

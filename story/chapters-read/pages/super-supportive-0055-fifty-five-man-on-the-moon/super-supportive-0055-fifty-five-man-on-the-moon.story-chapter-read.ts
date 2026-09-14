@@ -5,7 +5,7 @@ export const superSupportive0055FiftyFiveManOnTheMoon = {
   type: "story-chapter-read",
   slug: "super-supportive-0055-fifty-five-man-on-the-moon",
   title: "FIFTY-FIVE: Man on the Moon",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 55,
   ownLength: 3508,
   unit: "unit/words",

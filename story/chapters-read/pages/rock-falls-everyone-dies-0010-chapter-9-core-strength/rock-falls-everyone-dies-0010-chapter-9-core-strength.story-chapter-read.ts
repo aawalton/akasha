@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0010Chapter9CoreStrength = {
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0010-chapter-9-core-strength",
   title: "Chapter 9 – Core Strength",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 10,
   ownLength: 1909,
   unit: "unit/words",

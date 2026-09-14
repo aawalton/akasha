@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0040Chapter619NotGoingAlone = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0040-chapter-619-not-going-alone",
   title: "Chapter 619: Not Going Alone",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 40,
   ownLength: 2308,
   unit: "unit/words",

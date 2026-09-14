@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0354ChapterThirtyEightFireAndHammer = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0354-chapter-thirty-eight-fire-and-hammer",
   title: "Chapter Thirty-Eight - Fire and Hammer",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 354,
   ownLength: 1543,
   unit: "unit/words",

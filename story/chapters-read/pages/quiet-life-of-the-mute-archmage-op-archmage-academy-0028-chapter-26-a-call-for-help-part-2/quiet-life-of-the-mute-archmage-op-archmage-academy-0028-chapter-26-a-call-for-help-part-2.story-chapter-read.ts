@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0028Chapter26ACallForHel
   type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0028-chapter-26-a-call-for-help-part-2",
   title: "Chapter 26: A Call For Help (Part 2)",
-  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 28,
   ownLength: 2842,
   unit: "unit/words",

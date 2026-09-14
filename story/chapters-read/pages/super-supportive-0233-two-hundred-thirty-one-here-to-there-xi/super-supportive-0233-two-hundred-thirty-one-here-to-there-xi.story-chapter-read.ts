@@ -5,7 +5,7 @@ export const superSupportive0233TwoHundredThirtyOneHereToThereXi = {
   type: "story-chapter-read",
   slug: "super-supportive-0233-two-hundred-thirty-one-here-to-there-xi",
   title: "TWO HUNDRED THIRTY-ONE: Here-to-There XI",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 233,
   ownLength: 5375,
   unit: "unit/words",

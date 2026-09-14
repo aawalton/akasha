@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0159Chapter159BadSword = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0159-chapter-159-bad-sword",
   title: "Chapter 159: BAD SWORD",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 159,
   ownLength: 2141,
   unit: "unit/words",

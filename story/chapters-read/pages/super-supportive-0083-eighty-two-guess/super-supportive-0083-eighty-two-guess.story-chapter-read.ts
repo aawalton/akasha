@@ -5,7 +5,7 @@ export const superSupportive0083EightyTwoGuess = {
   type: "story-chapter-read",
   slug: "super-supportive-0083-eighty-two-guess",
   title: "EIGHTY-TWO: Guess",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 83,
   ownLength: 5764,
   unit: "unit/words",

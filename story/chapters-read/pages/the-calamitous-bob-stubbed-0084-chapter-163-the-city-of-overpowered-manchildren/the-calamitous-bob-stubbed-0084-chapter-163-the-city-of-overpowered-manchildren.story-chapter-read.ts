@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0084Chapter163TheCityOfOverpoweredManchildre
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0084-chapter-163-the-city-of-overpowered-manchildren",
   title: "Chapter 163: The City of Overpowered Manchildren",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 84,
   ownLength: 5037,
   unit: "unit/words",

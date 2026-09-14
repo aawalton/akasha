@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0010Chapter484EchoingWillow = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0010-chapter-484-echoing-willow",
   title: "Chapter 484: Echoing Willow",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 10,
   ownLength: 1993,
   unit: "unit/words",

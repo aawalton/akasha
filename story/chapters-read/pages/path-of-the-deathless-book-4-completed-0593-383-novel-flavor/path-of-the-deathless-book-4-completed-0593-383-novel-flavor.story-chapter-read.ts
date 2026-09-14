@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0593383NovelFlavor = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0593-383-novel-flavor",
   title: "383 Novel Flavor",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 593,
   ownLength: 0,
   unit: "unit/words",

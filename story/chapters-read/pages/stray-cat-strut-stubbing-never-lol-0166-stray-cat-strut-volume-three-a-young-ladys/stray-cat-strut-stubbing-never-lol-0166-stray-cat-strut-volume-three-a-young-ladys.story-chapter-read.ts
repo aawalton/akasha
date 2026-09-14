@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0166StrayCatStrutVolumeThreeAYoungLady
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0166-stray-cat-strut-volume-three-a-young-ladys",
   title: "Stray Cat Strut ⁠- Volume Three - A Young Lady's Hopepunk Safari",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 166,
   ownLength: 91,
   unit: "unit/words",

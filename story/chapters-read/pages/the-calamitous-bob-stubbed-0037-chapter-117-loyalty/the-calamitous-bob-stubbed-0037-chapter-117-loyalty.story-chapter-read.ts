@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0037Chapter117Loyalty = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0037-chapter-117-loyalty",
   title: "Chapter 117: Loyalty",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 37,
   ownLength: 5782,
   unit: "unit/words",

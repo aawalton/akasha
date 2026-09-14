@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0003248TheAftermath = {
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0003-248-the-aftermath",
   title: "248. The Aftermath ",
-  story: "speedrunning-the-multiverse-complete",
+  story: "story-read/speedrunning-the-multiverse-complete",
   position: 3,
   ownLength: 1817,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0005Chapter5SigsugMarket
   type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0005-chapter-5-sigsug-market",
   title: "Chapter 5: Sigsug Market",
-  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 5,
   ownLength: 2271,
   unit: "unit/words",

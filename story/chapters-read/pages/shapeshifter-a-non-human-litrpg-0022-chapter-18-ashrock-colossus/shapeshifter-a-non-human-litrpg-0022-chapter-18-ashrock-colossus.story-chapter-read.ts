@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0022Chapter18AshrockColossus = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0022-chapter-18-ashrock-colossus",
   title: "Chapter 18: Ashrock Colossus",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 22,
   ownLength: 2098,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0052296FinaleIi = {
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0052-296-finale-ii",
   title: "296. Finale (II) ",
-  story: "speedrunning-the-multiverse-complete",
+  story: "story-read/speedrunning-the-multiverse-complete",
   position: 52,
   ownLength: 1640,
   unit: "unit/words",

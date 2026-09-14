@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0067Chapter67LightningDragon = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0067-chapter-67-lightning-dragon",
   title: "Chapter 67: Lightning Dragon",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 67,
   ownLength: 2011,
   unit: "unit/words",

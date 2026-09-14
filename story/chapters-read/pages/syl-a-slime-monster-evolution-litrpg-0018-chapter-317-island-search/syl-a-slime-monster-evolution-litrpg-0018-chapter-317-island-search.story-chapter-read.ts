@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0018Chapter317IslandSearch = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0018-chapter-317-island-search",
   title: "Chapter 317 : Island Search",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 18,
   ownLength: 2085,
   unit: "unit/words",

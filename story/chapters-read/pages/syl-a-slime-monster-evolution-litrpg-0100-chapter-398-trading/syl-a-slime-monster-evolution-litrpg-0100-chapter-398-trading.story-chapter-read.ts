@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0100Chapter398Trading = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0100-chapter-398-trading",
   title: "Chapter 398 : Trading",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 100,
   ownLength: 2167,
   unit: "unit/words",

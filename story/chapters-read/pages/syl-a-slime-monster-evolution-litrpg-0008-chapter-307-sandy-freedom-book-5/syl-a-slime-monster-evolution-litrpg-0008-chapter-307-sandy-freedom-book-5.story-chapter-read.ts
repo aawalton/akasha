@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0008Chapter307SandyFreedomBook5 = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0008-chapter-307-sandy-freedom-book-5",
   title: "Chapter 307 : Sandy Freedom [Book 5]",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 8,
   ownLength: 2441,
   unit: "unit/words",

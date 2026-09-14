@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0142Chapter142BossXiaolan = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0142-chapter-142-boss-xiaolan",
   title: "Chapter 142: Boss Xiaolan",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 142,
   ownLength: 2206,
   unit: "unit/words",

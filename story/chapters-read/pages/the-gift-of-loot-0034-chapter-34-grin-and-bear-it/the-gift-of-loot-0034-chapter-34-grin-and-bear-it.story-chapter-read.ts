@@ -5,7 +5,7 @@ export const theGiftOfLoot0034Chapter34GrinAndBearIt = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0034-chapter-34-grin-and-bear-it",
   title: "Chapter 34: Grin and Bear It",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 34,
   ownLength: 2497,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0544426Elevation = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0544-426-elevation",
   title: "426 Elevation",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 544,
   ownLength: 5605,
   unit: "unit/words",

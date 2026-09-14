@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0034Chapter32Weak = {
   type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0034-chapter-32-weak",
   title: "Chapter 32: Weak",
-  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 34,
   ownLength: 2643,
   unit: "unit/words",

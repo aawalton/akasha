@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0065Chapter64TheSpiceEmpire = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0065-chapter-64-the-spice-empire",
   title: "Chapter 64: The Spice Empire",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 65,
   ownLength: 1917,
   unit: "unit/words",

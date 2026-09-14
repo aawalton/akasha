@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0035Chapter614OriginCity = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0035-chapter-614-origin-city",
   title: "Chapter 614: Origin City",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 35,
   ownLength: 2191,
   unit: "unit/words",

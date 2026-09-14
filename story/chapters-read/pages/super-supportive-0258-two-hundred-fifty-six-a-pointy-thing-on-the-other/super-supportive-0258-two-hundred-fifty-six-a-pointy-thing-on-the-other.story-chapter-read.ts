@@ -5,7 +5,7 @@ export const superSupportive0258TwoHundredFiftySixAPointyThingOnTheOther = {
   type: "story-chapter-read",
   slug: "super-supportive-0258-two-hundred-fifty-six-a-pointy-thing-on-the-other",
   title: "TWO HUNDRED FIFTY-SIX:  A Pointy Thing on the Other",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 258,
   ownLength: 4683,
   unit: "unit/words",

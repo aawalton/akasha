@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0093Chapter171SardanalSCradle = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0093-chapter-171-sardanal-s-cradle",
   title: "Chapter 171: Sardanal’s Cradle",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 93,
   ownLength: 4464,
   unit: "unit/words",

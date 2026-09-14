@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0017Chapter16TheWorldEndsWithRock = {
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0017-chapter-16-the-world-ends-with-rock",
   title: "Chapter 16 - The World Ends With Rock",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 17,
   ownLength: 2683,
   unit: "unit/words",

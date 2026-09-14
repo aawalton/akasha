@@ -5,7 +5,7 @@ export const superSupportive0202TwoHundredYouVeGotTime = {
   type: "story-chapter-read",
   slug: "super-supportive-0202-two-hundred-you-ve-got-time",
   title: "TWO HUNDRED: You've Got Time",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 202,
   ownLength: 2664,
   unit: "unit/words",

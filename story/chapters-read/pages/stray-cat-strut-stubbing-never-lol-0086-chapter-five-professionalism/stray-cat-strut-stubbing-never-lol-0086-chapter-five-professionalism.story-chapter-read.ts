@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0086ChapterFiveProfessionalism = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0086-chapter-five-professionalism",
   title: "Chapter Five - Professionalism",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 86,
   ownLength: 1449,
   unit: "unit/words",

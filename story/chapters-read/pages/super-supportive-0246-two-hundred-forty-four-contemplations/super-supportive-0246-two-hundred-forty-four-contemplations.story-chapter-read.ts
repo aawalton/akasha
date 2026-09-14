@@ -5,7 +5,7 @@ export const superSupportive0246TwoHundredFortyFourContemplations = {
   type: "story-chapter-read",
   slug: "super-supportive-0246-two-hundred-forty-four-contemplations",
   title: "TWO HUNDRED FORTY-FOUR: Contemplations",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 246,
   ownLength: 2313,
   unit: "unit/words",

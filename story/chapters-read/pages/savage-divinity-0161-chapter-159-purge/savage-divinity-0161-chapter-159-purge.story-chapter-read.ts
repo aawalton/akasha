@@ -5,7 +5,7 @@ export const savageDivinity0161Chapter159Purge = {
   type: "story-chapter-read",
   slug: "savage-divinity-0161-chapter-159-purge",
   title: "Chapter 159 - Purge",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 161,
   ownLength: 3253,
   unit: "unit/words",

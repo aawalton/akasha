@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0094Chapter93TheFivePledges = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0094-chapter-93-the-five-pledges",
   title: "Chapter 93: The Five Pledges",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 94,
   ownLength: 1966,
   unit: "unit/words",

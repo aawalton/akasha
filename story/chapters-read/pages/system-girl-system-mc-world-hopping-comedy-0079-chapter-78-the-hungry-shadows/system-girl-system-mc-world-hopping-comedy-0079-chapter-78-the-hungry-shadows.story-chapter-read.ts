@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0079Chapter78TheHungryShadows =
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0079-chapter-78-the-hungry-shadows",
   title: "Chapter 78: The Hungry Shadows",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 79,
   ownLength: 2695,
   unit: "unit/words",

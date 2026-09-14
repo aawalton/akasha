@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0071Chapter151SovereignMeeting = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0071-chapter-151-sovereign-meeting",
   title: "Chapter 151: Sovereign meeting",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 71,
   ownLength: 6547,
   unit: "unit/words",

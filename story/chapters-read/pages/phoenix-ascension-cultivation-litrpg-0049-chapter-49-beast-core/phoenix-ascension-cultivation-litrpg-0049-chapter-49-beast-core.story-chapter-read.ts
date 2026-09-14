@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0049Chapter49BeastCore = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0049-chapter-49-beast-core",
   title: "Chapter 49: Beast Core",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 49,
   ownLength: 2526,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0132Chapter207PickingBones = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0132-chapter-207-picking-bones",
   title: "Chapter 207: Picking Bones",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 132,
   ownLength: 7471,
   unit: "unit/words",

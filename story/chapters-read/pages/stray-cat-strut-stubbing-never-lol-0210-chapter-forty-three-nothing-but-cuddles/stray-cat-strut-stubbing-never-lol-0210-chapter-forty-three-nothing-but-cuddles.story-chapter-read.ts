@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0210ChapterFortyThreeNothingButCuddles
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0210-chapter-forty-three-nothing-but-cuddles",
   title: "Chapter Forty-Three - Nothing But Cuddles",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 210,
   ownLength: 1411,
   unit: "unit/words",

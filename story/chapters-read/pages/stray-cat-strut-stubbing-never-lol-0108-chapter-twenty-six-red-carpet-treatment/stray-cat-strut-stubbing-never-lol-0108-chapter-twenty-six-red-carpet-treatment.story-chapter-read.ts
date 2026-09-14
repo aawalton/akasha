@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0108ChapterTwentySixRedCarpetTreatment
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0108-chapter-twenty-six-red-carpet-treatment",
   title: "Chapter Twenty-Six - Red Carpet Treatment",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 108,
   ownLength: 1472,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0010Chapter10CowMisunderstandings = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0010-chapter-10-cow-misunderstandings",
   title: "Chapter 10 - Cow Misunderstandings",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 10,
   ownLength: 2079,
   unit: "unit/words",

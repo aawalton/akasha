@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0662ChapterFortyThreeRightInFrontOfMyO
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0662-chapter-forty-three-right-in-front-of-my-osha",
   title: "Chapter Forty-Three - Right in Front of my OSHA Handbook?",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 662,
   ownLength: 1441,
   unit: "unit/words",

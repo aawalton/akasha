@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0004Chapter4Thomas = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0004-chapter-4-thomas",
   title: "Chapter 4: Thomas",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 4,
   ownLength: 2029,
   unit: "unit/words",

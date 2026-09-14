@@ -5,7 +5,7 @@ export const superSupportive0079SeventyEightFactsAreFacts = {
   type: "story-chapter-read",
   slug: "super-supportive-0079-seventy-eight-facts-are-facts",
   title: "SEVENTY-EIGHT: Facts are Facts",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 79,
   ownLength: 7018,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0675ChapterFiftyThreeWarCrimeWaifu = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0675-chapter-fifty-three-war-crime-waifu",
   title: "Chapter Fifty-Three - War Crime Waifu",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 675,
   ownLength: 1442,
   unit: "unit/words",

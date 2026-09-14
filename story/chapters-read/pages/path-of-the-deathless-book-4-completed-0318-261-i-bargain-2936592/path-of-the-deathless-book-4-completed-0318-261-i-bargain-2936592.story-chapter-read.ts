@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0318261IBargain2936592 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0318-261-i-bargain-2936592",
   title: "261 (I) Bargain",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 318,
   ownLength: 3168,
   unit: "unit/words",

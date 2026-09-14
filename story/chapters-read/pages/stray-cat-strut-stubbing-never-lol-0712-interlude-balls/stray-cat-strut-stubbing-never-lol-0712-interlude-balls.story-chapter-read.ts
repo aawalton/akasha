@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0712InterludeBalls = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0712-interlude-balls",
   title: "Interlude - Balls",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 712,
   ownLength: 1724,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0573ChapterFiftyFiveCuttingToTheHeartO
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0573-chapter-fifty-five-cutting-to-the-heart-of-the",
   title: "Chapter Fifty-Five - Cutting To The Heart of The Moon",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 573,
   ownLength: 1471,
   unit: "unit/words",

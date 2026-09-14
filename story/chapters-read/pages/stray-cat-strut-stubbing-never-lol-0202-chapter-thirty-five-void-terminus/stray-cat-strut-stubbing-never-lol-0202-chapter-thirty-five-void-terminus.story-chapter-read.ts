@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0202ChapterThirtyFiveVoidTerminus = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0202-chapter-thirty-five-void-terminus",
   title: "Chapter Thirty-Five - Void Terminus",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 202,
   ownLength: 1431,
   unit: "unit/words",

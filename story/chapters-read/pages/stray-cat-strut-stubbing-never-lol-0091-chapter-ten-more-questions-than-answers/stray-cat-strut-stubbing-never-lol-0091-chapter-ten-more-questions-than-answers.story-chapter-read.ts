@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0091ChapterTenMoreQuestionsThanAnswers
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0091-chapter-ten-more-questions-than-answers",
   title: "Chapter Ten - More Questions than Answers",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 91,
   ownLength: 1733,
   unit: "unit/words",

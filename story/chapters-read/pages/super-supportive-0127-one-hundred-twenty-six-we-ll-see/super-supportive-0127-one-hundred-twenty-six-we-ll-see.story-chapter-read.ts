@@ -5,7 +5,7 @@ export const superSupportive0127OneHundredTwentySixWeLlSee = {
   type: "story-chapter-read",
   slug: "super-supportive-0127-one-hundred-twenty-six-we-ll-see",
   title: "ONE HUNDRED TWENTY-SIX: We'll See",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 127,
   ownLength: 6021,
   unit: "unit/words",

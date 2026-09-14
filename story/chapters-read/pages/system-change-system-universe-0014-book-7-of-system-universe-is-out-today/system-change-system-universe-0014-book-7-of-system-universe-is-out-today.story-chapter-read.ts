@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0014Book7OfSystemUniverseIsOutToday = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0014-book-7-of-system-universe-is-out-today",
   title: "Book 7 of System Universe is out today!",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 14,
   ownLength: 475,
   unit: "unit/words",

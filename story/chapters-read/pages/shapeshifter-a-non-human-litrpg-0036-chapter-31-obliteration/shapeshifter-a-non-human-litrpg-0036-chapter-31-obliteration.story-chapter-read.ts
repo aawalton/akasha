@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0036Chapter31Obliteration = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0036-chapter-31-obliteration",
   title: "Chapter 31: Obliteration",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 36,
   ownLength: 1417,
   unit: "unit/words",

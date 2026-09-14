@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0035Chapter33FuryOfTheWo
   type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0035-chapter-33-fury-of-the-world",
   title: "Chapter 33: Fury Of The World!",
-  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 35,
   ownLength: 2809,
   unit: "unit/words",

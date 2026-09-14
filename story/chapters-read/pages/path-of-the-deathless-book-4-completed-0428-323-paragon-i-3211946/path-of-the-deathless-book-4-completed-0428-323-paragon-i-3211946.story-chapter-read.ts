@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0428323ParagonI3211946 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0428-323-paragon-i-3211946",
   title: "323 Paragon [I]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 428,
   ownLength: 5441,
   unit: "unit/words",

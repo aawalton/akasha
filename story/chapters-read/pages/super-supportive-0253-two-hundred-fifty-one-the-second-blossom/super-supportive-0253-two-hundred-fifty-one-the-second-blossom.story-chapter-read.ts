@@ -5,7 +5,7 @@ export const superSupportive0253TwoHundredFiftyOneTheSecondBlossom = {
   type: "story-chapter-read",
   slug: "super-supportive-0253-two-hundred-fifty-one-the-second-blossom",
   title: "TWO HUNDRED FIFTY-ONE: The Second Blossom",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 253,
   ownLength: 4196,
   unit: "unit/words",

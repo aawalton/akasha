@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0510ATaleOfNiceTails = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0510-a-tale-of-nice-tails",
   title: "A Tale of Nice Tails",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 510,
   ownLength: 8422,
   unit: "unit/words",

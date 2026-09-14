@@ -5,7 +5,7 @@ export const theGiftOfLoot0017Chapter17TheRenoAuction = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0017-chapter-17-the-reno-auction",
   title: "Chapter 17: The Reno Auction",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 17,
   ownLength: 3984,
   unit: "unit/words",

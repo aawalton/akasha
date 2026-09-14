@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0002Chapter2JackVsGoblin = {
   type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0002-chapter-2-jack-vs-goblin",
   title: "Chapter 2: Jack vs. Goblin",
-  story: "road-to-mastery-a-litrpg-apocalypse",
+  story: "story-read/road-to-mastery-a-litrpg-apocalypse",
   position: 2,
   ownLength: 2433,
   unit: "unit/words",

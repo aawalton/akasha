@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0002Chapter2VoicelessCha
   type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0002-chapter-2-voiceless-chanting",
   title: "Chapter 2: Voiceless Chanting ",
-  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 2,
   ownLength: 2405,
   unit: "unit/words",

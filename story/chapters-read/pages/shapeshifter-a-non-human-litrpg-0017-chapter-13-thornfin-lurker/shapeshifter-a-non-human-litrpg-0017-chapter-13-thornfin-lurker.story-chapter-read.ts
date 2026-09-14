@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0017Chapter13ThornfinLurker = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0017-chapter-13-thornfin-lurker",
   title: "Chapter 13: Thornfin Lurker",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 17,
   ownLength: 2094,
   unit: "unit/words",

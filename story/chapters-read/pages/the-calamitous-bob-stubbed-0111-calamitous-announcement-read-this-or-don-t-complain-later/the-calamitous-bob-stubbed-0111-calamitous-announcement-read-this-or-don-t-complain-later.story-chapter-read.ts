@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0111CalamitousAnnouncementReadThisOrDonTComp
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0111-calamitous-announcement-read-this-or-don-t-complain-later",
   title: "Calamitous announcement READ THIS OR DON'T COMPLAIN LATER",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 111,
   ownLength: 260,
   unit: "unit/words",

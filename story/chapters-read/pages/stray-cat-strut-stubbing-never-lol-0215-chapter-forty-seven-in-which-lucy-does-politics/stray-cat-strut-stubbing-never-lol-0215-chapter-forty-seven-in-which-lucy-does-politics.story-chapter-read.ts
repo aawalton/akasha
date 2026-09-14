@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0215ChapterFortySevenInWhichLucyDoesPo
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0215-chapter-forty-seven-in-which-lucy-does-politics",
   title: "Chapter Forty-Seven - In Which Lucy Does Politics",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 215,
   ownLength: 1518,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0591ChapterSeventyIJustWantTheSkyOnFir
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0591-chapter-seventy-i-just-want-the-sky-on-fire",
   title: "Chapter Seventy - I Just Want The Sky On Fire",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 591,
   ownLength: 1508,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const succulentGirlEvolution0024Chapter24TalkNoJutsu = {
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0024-chapter-24-talk-no-jutsu",
   title: "Chapter 24: Talk no jutsu",
-  story: "succulent-girl-evolution",
+  story: "story-read/succulent-girl-evolution",
   position: 24,
   ownLength: 2102,
   unit: "unit/words",

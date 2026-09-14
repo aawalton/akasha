@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0628ChapterTwelveSurvival101DontBeWeak
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0628-chapter-twelve-survival-101-dont-be-weak",
   title: "Chapter Twelve - Survival 101: Don't Be Weak",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 628,
   ownLength: 1442,
   unit: "unit/words",

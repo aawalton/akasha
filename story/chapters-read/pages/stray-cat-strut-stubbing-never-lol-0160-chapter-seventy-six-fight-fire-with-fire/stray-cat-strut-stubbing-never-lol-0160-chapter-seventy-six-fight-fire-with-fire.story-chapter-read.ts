@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0160ChapterSeventySixFightFireWithFire
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0160-chapter-seventy-six-fight-fire-with-fire",
   title: "Chapter Seventy-Six - Fight Fire with Fire",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 160,
   ownLength: 1477,
   unit: "unit/words",

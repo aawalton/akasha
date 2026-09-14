@@ -5,7 +5,7 @@ export const superSupportive0287TwoHundredEightyFiveWhatNext = {
   type: "story-chapter-read",
   slug: "super-supportive-0287-two-hundred-eighty-five-what-next",
   title: "TWO HUNDRED EIGHTY-FIVE: What next?",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 287,
   ownLength: 5345,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const superSupportive0072SeventyOneWhereSTheReallySharpKnife = {
   type: "story-chapter-read",
   slug: "super-supportive-0072-seventy-one-where-s-the-really-sharp-knife",
   title: "SEVENTY-ONE: Where's the Really Sharp Knife?",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 72,
   ownLength: 4444,
   unit: "unit/words",

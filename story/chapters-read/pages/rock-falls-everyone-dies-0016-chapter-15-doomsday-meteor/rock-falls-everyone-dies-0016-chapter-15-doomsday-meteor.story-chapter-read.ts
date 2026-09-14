@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0016Chapter15DoomsdayMeteor = {
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0016-chapter-15-doomsday-meteor",
   title: "Chapter 15 – [Doomsday Meteor]",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 16,
   ownLength: 1566,
   unit: "unit/words",

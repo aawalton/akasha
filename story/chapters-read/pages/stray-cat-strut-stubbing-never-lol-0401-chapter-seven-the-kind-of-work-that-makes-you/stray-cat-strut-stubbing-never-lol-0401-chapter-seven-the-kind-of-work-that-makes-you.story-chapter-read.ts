@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0401ChapterSevenTheKindOfWorkThatMakes
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0401-chapter-seven-the-kind-of-work-that-makes-you",
   title: "Chapter Seven - The Kind of Work That Makes You Happy",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 401,
   ownLength: 1466,
   unit: "unit/words",

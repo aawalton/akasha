@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0008CosmicTower = {
   type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0008-cosmic-tower",
   title: "Cosmic Tower!?",
-  story: "road-to-mastery-a-litrpg-apocalypse",
+  story: "story-read/road-to-mastery-a-litrpg-apocalypse",
   position: 8,
   ownLength: 252,
   unit: "unit/words",

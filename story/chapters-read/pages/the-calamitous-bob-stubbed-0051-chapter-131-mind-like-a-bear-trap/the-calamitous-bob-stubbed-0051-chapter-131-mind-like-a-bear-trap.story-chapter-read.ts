@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0051Chapter131MindLikeABearTrap = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0051-chapter-131-mind-like-a-bear-trap",
   title: "Chapter 131: Mind like a bear trap",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 51,
   ownLength: 5754,
   unit: "unit/words",

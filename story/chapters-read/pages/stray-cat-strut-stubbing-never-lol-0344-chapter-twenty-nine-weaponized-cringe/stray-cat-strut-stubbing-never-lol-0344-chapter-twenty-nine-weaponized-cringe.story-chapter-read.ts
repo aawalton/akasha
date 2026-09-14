@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0344ChapterTwentyNineWeaponizedCringe 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0344-chapter-twenty-nine-weaponized-cringe",
   title: "Chapter Twenty-Nine - Weaponized Cringe",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 344,
   ownLength: 1431,
   unit: "unit/words",

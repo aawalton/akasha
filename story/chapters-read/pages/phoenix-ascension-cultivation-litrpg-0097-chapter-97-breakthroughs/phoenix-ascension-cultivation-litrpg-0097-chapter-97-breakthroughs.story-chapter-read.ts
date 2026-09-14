@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0097Chapter97Breakthroughs = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0097-chapter-97-breakthroughs",
   title: "Chapter 97: Breakthroughs",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 97,
   ownLength: 2039,
   unit: "unit/words",

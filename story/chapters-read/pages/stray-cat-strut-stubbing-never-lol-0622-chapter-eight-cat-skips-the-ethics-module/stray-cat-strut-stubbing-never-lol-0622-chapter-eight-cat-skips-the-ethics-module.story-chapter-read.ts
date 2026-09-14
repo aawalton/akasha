@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0622ChapterEightCatSkipsTheEthicsModul
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0622-chapter-eight-cat-skips-the-ethics-module",
   title: "Chapter Eight - Cat Skips the Ethics Module",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 622,
   ownLength: 1532,
   unit: "unit/words",

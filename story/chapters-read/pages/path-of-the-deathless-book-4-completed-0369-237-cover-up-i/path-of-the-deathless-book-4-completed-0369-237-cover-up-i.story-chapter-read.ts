@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0369237CoverUpI = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0369-237-cover-up-i",
   title: "237 Cover-Up (I)",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 369,
   ownLength: 0,
   unit: "unit/words",

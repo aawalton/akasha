@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0727ChapterEightPreemptiveBitching = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0727-chapter-eight-preemptive-bitching",
   title: "Chapter Eight - Preemptive Bitching",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 727,
   ownLength: 1487,
   unit: "unit/words",

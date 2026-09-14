@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0074Chapter73TheTemporaryProble
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0074-chapter-73-the-temporary-problem",
   title: "Chapter 73: The Temporary Problem",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 74,
   ownLength: 2558,
   unit: "unit/words",

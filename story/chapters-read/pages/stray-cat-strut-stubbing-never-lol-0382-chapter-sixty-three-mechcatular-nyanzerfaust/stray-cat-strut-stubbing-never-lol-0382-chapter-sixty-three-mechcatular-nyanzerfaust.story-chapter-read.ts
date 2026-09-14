@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0382ChapterSixtyThreeMechcatularNyanze
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0382-chapter-sixty-three-mechcatular-nyanzerfaust",
   title: "Chapter Sixty-Three - Mechcatular Nyanzerfaust Activate",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 382,
   ownLength: 1615,
   unit: "unit/words",

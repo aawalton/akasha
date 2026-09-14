@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0061Chapter60TheGoldenCoin = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0061-chapter-60-the-golden-coin",
   title: "Chapter 60: The Golden Coin",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 61,
   ownLength: 3063,
   unit: "unit/words",

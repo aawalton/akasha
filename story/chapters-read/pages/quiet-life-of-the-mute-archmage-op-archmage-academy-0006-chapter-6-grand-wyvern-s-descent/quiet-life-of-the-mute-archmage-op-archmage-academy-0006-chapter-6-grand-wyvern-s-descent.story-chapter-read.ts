@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0006Chapter6GrandWyvernS
   type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0006-chapter-6-grand-wyvern-s-descent",
   title: "Chapter 6: Grand Wyvern's Descent",
-  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 6,
   ownLength: 1781,
   unit: "unit/words",

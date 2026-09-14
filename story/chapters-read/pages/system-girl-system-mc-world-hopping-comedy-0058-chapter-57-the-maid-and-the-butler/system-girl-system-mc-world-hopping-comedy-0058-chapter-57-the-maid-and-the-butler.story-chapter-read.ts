@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0058Chapter57TheMaidAndTheButle
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0058-chapter-57-the-maid-and-the-butler",
   title: "Chapter 57: The Maid and The Butler",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 58,
   ownLength: 3408,
   unit: "unit/words",

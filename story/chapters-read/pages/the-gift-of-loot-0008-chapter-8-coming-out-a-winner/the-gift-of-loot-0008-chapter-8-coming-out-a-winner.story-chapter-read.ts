@@ -5,7 +5,7 @@ export const theGiftOfLoot0008Chapter8ComingOutAWinner = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0008-chapter-8-coming-out-a-winner",
   title: "Chapter 8: Coming Out a Winner",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 8,
   ownLength: 1517,
   unit: "unit/words",

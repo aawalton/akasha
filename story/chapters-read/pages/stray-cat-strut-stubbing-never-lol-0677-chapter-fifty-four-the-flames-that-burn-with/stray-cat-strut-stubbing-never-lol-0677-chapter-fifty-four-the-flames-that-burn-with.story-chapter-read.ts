@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0677ChapterFiftyFourTheFlamesThatBurnW
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0677-chapter-fifty-four-the-flames-that-burn-with",
   title: "Chapter Fifty-Four - The Flames That Burn With Purpose Light The Way to Heaven",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 677,
   ownLength: 1506,
   unit: "unit/words",

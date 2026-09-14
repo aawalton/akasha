@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0578368FriendAndFoe = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0578-368-friend-and-foe",
   title: "368 Friend and Foe",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 578,
   ownLength: 0,
   unit: "unit/words",

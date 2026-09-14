@@ -5,7 +5,7 @@ export const theGiftOfLoot0069Chapter69Nice = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0069-chapter-69-nice",
   title: "Chapter 69: Nice",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 69,
   ownLength: 3814,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const superSupportive0087EightySixOneWord = {
   type: "story-chapter-read",
   slug: "super-supportive-0087-eighty-six-one-word",
   title: "EIGHTY-SIX: One Word",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 87,
   ownLength: 3965,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0006Chapter6TheHighGoblins = {
   type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0006-chapter-6-the-high-goblins",
   title: "Chapter 6: The High Goblins",
-  story: "road-to-mastery-a-litrpg-apocalypse",
+  story: "story-read/road-to-mastery-a-litrpg-apocalypse",
   position: 6,
   ownLength: 2119,
   unit: "unit/words",

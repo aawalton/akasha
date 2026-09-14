@@ -5,7 +5,7 @@ export const succulentGirlEvolution0031Chapter31HugsNotStrugs = {
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0031-chapter-31-hugs-not-strugs",
   title: "Chapter 31: Hugs, Not Strugs",
-  story: "succulent-girl-evolution",
+  story: "story-read/succulent-girl-evolution",
   position: 31,
   ownLength: 1980,
   unit: "unit/words",

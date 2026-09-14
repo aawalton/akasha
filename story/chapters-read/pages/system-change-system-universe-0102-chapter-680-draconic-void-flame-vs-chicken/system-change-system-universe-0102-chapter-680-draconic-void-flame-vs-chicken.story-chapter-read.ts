@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0102Chapter680DraconicVoidFlameVsChicken 
   type: "story-chapter-read",
   slug: "system-change-system-universe-0102-chapter-680-draconic-void-flame-vs-chicken",
   title: "Chapter 680: Draconic Void Flame VS. Chicken",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 102,
   ownLength: 2039,
   unit: "unit/words",

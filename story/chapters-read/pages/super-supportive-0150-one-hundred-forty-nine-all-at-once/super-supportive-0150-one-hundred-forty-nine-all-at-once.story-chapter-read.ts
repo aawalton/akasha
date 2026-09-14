@@ -5,7 +5,7 @@ export const superSupportive0150OneHundredFortyNineAllAtOnce = {
   type: "story-chapter-read",
   slug: "super-supportive-0150-one-hundred-forty-nine-all-at-once",
   title: "ONE HUNDRED FORTY-NINE: All at Once",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 150,
   ownLength: 3977,
   unit: "unit/words",

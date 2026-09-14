@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0152Chapter152PhoenixBloodline = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0152-chapter-152-phoenix-bloodline",
   title: "Chapter 152: Phoenix Bloodline",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 152,
   ownLength: 2425,
   unit: "unit/words",

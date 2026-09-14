@@ -5,7 +5,7 @@ export const pathToProsperityLitrpgVol12Stubbed0001B1Chapter1WorstMorningEver = 
   type: "story-chapter-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed-0001-b1-chapter-1-worst-morning-ever",
   title: "B1 Chapter 1 - Worst Morning Ever",
-  story: "path-to-prosperity-litrpg-vol-12-stubbed",
+  story: "story-read/path-to-prosperity-litrpg-vol-12-stubbed",
   position: 1,
   ownLength: 762,
   unit: "unit/words",

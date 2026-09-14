@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0081Chapter81ShortFight = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0081-chapter-81-short-fight",
   title: "Chapter 81: Short fight",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 81,
   ownLength: 2086,
   unit: "unit/words",

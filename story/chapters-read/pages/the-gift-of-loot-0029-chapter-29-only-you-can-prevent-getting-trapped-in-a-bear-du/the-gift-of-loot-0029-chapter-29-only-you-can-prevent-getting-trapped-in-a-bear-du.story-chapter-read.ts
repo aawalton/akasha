@@ -5,7 +5,7 @@ export const theGiftOfLoot0029Chapter29OnlyYouCanPreventGettingTrappedInABearDu 
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0029-chapter-29-only-you-can-prevent-getting-trapped-in-a-bear-du",
   title: "Chapter 29: Only YOU Can Prevent Getting Trapped In a Bear Dungeon",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 29,
   ownLength: 2784,
   unit: "unit/words",

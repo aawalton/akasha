@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0526326ILoopI = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0526-326-i-loop-i",
   title: "326 (I) Loop [I]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 526,
   ownLength: 0,
   unit: "unit/words",

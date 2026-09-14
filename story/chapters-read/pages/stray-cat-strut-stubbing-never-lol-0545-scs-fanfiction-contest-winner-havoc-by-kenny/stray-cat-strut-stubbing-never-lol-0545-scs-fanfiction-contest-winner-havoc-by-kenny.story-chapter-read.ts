@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0545ScsFanfictionContestWinnerHavocByK
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0545-scs-fanfiction-contest-winner-havoc-by-kenny",
   title: "SCS Fanfiction Contest Winner: Havoc, by Kenny Celican",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 545,
   ownLength: 4266,
   unit: "unit/words",

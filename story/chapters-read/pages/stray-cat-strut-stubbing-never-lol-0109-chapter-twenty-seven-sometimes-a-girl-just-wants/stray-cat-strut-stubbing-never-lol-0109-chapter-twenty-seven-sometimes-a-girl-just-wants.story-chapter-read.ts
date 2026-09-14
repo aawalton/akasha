@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0109ChapterTwentySevenSometimesAGirlJu
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0109-chapter-twenty-seven-sometimes-a-girl-just-wants",
   title: "Chapter Twenty-Seven - Sometimes a Girl Just Wants to Blow Shit Up",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 109,
   ownLength: 1492,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0193199ICapital2773049 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0193-199-i-capital-2773049",
   title: "199 (I) Capital",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 193,
   ownLength: 2879,
   unit: "unit/words",

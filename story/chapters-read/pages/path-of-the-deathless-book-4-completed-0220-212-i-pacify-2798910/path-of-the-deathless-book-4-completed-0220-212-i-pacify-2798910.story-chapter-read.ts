@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0220212IPacify2798910 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0220-212-i-pacify-2798910",
   title: "212 (I) Pacify",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 220,
   ownLength: 3392,
   unit: "unit/words",

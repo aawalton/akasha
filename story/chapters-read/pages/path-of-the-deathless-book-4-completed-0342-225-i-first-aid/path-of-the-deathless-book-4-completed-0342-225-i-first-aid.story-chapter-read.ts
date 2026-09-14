@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0342225IFirstAid = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0342-225-i-first-aid",
   title: "225 (I) First-Aid",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 342,
   ownLength: 0,
   unit: "unit/words",

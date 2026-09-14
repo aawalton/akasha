@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0067Chapter66TheLeftoverLord = 
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0067-chapter-66-the-leftover-lord",
   title: "Chapter 66: The Leftover Lord",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 67,
   ownLength: 2290,
   unit: "unit/words",

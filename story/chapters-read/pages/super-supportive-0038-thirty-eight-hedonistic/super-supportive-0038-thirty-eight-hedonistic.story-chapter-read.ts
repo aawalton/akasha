@@ -5,7 +5,7 @@ export const superSupportive0038ThirtyEightHedonistic = {
   type: "story-chapter-read",
   slug: "super-supportive-0038-thirty-eight-hedonistic",
   title: "THIRTY-EIGHT: Hedonistic",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 38,
   ownLength: 7760,
   unit: "unit/words",

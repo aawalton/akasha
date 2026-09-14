@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0700ChapterSeventyThreeIHaveBeenArtifi
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0700-chapter-seventy-three-i-have-been-artificial",
   title: "Chapter Seventy-Three - I Have Been Artificial Before You Were Intelligent!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 700,
   ownLength: 1530,
   unit: "unit/words",

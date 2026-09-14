@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0036Chapter35CrunchTimeInTheLab
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0036-chapter-35-crunch-time-in-the-labyrinth",
   title: "Chapter 35: Crunch Time in the Labyrinth",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 36,
   ownLength: 1993,
   unit: "unit/words",

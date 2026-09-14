@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0054Chapter54DivineLightningConstr
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0054-chapter-54-divine-lightning-construction",
   title: "Chapter 54: Divine Lightning Construction",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 54,
   ownLength: 2443,
   unit: "unit/words",

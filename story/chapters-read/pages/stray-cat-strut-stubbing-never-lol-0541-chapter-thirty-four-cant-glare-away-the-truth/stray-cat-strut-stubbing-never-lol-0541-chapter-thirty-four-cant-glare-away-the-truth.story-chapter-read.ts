@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0541ChapterThirtyFourCantGlareAwayTheT
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0541-chapter-thirty-four-cant-glare-away-the-truth",
   title: "Chapter Thirty-Four - Can't Glare Away the Truth",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 541,
   ownLength: 1522,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0008Chapter8LiterallyNothingHappensFor500Years
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0008-chapter-8-literally-nothing-happens-for-500-years",
   title: "Chapter 8 – Literally Nothing Happens for 500 Years",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 8,
   ownLength: 67,
   unit: "unit/words",

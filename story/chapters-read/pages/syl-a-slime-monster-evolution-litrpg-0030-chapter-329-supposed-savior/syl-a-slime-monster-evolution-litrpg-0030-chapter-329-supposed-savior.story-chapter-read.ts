@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0030Chapter329SupposedSavior = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0030-chapter-329-supposed-savior",
   title: "Chapter 329 : Supposed Savior",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 30,
   ownLength: 2355,
   unit: "unit/words",

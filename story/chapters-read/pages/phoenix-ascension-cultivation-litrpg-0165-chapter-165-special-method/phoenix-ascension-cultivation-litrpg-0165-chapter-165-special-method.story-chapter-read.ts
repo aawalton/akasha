@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0165Chapter165SpecialMethod = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0165-chapter-165-special-method",
   title: "Chapter 165: Special Method",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 165,
   ownLength: 2278,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0537ChapterThirtyOneCasanovaHowitzer =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0537-chapter-thirty-one-casanova-howitzer",
   title: "Chapter Thirty-One - Casanova Howitzer",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 537,
   ownLength: 1500,
   unit: "unit/words",

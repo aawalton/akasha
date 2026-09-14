@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0144Chapter144AllHailThePhoenix = 
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0144-chapter-144-all-hail-the-phoenix",
   title: "Chapter 144 : All Hail the Phoenix",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 144,
   ownLength: 2066,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0061ChapterFiftyNineLookingLikeABigDam
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0061-chapter-fifty-nine-looking-like-a-big-damn-hero",
   title: "Chapter Fifty-Nine - Looking Like a Big Damn Hero",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 61,
   ownLength: 1376,
   unit: "unit/words",

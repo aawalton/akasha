@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0077ChapterSeventyFiveAFlockOfTrouble 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0077-chapter-seventy-five-a-flock-of-trouble",
   title: "Chapter Seventy-Five - A Flock of Trouble",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 77,
   ownLength: 1534,
   unit: "unit/words",

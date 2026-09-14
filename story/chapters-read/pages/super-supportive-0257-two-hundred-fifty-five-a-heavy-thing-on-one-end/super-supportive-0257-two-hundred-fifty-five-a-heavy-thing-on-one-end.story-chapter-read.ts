@@ -5,7 +5,7 @@ export const superSupportive0257TwoHundredFiftyFiveAHeavyThingOnOneEnd = {
   type: "story-chapter-read",
   slug: "super-supportive-0257-two-hundred-fifty-five-a-heavy-thing-on-one-end",
   title: "TWO HUNDRED FIFTY-FIVE: A Heavy Thing on One End",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 257,
   ownLength: 4052,
   unit: "unit/words",

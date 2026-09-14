@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0010Chapter6GuildRegistration = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0010-chapter-6-guild-registration",
   title: "Chapter 6: Guild Registration",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 10,
   ownLength: 2006,
   unit: "unit/words",

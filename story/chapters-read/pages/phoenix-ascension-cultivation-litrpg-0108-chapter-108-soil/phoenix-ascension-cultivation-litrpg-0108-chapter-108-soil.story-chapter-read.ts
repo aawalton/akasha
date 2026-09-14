@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0108Chapter108Soil = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0108-chapter-108-soil",
   title: "Chapter 108: Soil",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 108,
   ownLength: 2110,
   unit: "unit/words",

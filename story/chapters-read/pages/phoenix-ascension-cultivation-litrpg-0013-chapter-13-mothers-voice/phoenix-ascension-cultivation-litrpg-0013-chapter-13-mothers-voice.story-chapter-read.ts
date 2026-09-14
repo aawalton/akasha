@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0013Chapter13MothersVoice = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0013-chapter-13-mothers-voice",
   title: "Chapter 13: Mother's Voice",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 13,
   ownLength: 2653,
   unit: "unit/words",

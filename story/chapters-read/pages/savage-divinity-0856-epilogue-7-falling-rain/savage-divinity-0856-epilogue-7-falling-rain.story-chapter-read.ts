@@ -5,7 +5,7 @@ export const savageDivinity0856Epilogue7FallingRain = {
   type: "story-chapter-read",
   slug: "savage-divinity-0856-epilogue-7-falling-rain",
   title: "Epilogue 7: Falling Rain",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 856,
   ownLength: 14789,
   unit: "unit/words",

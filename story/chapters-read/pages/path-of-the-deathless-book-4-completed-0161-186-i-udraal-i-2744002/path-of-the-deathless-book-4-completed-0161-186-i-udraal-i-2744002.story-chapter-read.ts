@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0161186IUdraalI2744002 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0161-186-i-udraal-i-2744002",
   title: "186 (I) Udraal [I]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 161,
   ownLength: 3239,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0468ChapterFiftyFourItsFunToPlayWithTh
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0468-chapter-fifty-four-its-fun-to-play-with-the-pmc",
   title: "Chapter Fifty-Four - It's fun to play with the P.M.C.",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 468,
   ownLength: 1489,
   unit: "unit/words",

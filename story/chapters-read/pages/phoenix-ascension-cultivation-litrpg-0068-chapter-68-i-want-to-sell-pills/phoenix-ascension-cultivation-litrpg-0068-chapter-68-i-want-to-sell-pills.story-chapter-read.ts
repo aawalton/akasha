@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0068Chapter68IWantToSellPills = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0068-chapter-68-i-want-to-sell-pills",
   title: "Chapter 68: I want to sell pills",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 68,
   ownLength: 2719,
   unit: "unit/words",

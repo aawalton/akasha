@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0131Chapter206WhatNow = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0131-chapter-206-what-now",
   title: "Chapter 206: What Now?",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 131,
   ownLength: 5241,
   unit: "unit/words",

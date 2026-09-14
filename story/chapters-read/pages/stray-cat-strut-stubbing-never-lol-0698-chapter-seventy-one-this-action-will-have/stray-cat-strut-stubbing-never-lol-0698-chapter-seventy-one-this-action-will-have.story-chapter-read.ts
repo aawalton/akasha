@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0698ChapterSeventyOneThisActionWillHav
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0698-chapter-seventy-one-this-action-will-have",
   title: "Chapter Seventy-One - This Action Will Have Consequences",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 698,
   ownLength: 1483,
   unit: "unit/words",

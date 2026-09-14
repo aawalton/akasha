@@ -5,7 +5,7 @@ export const superSupportive0274TwoHundredSeventyTwoAvowed = {
   type: "story-chapter-read",
   slug: "super-supportive-0274-two-hundred-seventy-two-avowed",
   title: "TWO HUNDRED SEVENTY-TWO: Avowed",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 274,
   ownLength: 4035,
   unit: "unit/words",

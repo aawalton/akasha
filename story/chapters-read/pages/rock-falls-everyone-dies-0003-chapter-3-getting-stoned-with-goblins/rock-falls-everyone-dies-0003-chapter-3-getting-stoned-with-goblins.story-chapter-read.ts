@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0003Chapter3GettingStonedWithGoblins = {
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0003-chapter-3-getting-stoned-with-goblins",
   title: "Chapter 3 – Getting Stoned with Goblins",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 3,
   ownLength: 1762,
   unit: "unit/words",

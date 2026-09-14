@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0412260LoyaltyIi = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0412-260-loyalty-ii",
   title: "260 Loyalty [II] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 412,
   ownLength: 0,
   unit: "unit/words",

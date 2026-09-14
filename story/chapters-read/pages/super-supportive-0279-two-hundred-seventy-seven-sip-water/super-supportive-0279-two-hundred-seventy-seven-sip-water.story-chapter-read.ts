@@ -5,7 +5,7 @@ export const superSupportive0279TwoHundredSeventySevenSipWater = {
   type: "story-chapter-read",
   slug: "super-supportive-0279-two-hundred-seventy-seven-sip-water",
   title: "TWO HUNDRED SEVENTY-SEVEN: Sip Water",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 279,
   ownLength: 3802,
   unit: "unit/words",

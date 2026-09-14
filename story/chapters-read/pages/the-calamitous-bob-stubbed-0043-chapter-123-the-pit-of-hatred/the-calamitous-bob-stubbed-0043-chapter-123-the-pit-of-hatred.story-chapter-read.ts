@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0043Chapter123ThePitOfHatred = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0043-chapter-123-the-pit-of-hatred",
   title: "Chapter 123: The Pit of Hatred",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 43,
   ownLength: 6114,
   unit: "unit/words",

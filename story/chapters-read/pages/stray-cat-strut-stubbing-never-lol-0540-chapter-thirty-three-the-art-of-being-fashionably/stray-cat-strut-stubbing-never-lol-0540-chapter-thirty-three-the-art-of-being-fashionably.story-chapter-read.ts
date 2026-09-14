@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0540ChapterThirtyThreeTheArtOfBeingFas
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0540-chapter-thirty-three-the-art-of-being-fashionably",
   title: "Chapter Thirty-Three - The Art of Being Fashionably Late",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 540,
   ownLength: 1524,
   unit: "unit/words",

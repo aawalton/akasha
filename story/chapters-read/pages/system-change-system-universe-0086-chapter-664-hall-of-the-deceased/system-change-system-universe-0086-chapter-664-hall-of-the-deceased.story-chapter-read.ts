@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0086Chapter664HallOfTheDeceased = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0086-chapter-664-hall-of-the-deceased",
   title: "Chapter 664: Hall of the Deceased",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 86,
   ownLength: 2015,
   unit: "unit/words",

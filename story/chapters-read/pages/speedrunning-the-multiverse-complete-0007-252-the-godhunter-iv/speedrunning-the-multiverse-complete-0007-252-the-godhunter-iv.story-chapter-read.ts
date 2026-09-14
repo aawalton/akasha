@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0007252TheGodhunterIv = {
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0007-252-the-godhunter-iv",
   title: "252. The Godhunter (IV)",
-  story: "speedrunning-the-multiverse-complete",
+  story: "story-read/speedrunning-the-multiverse-complete",
   position: 7,
   ownLength: 1981,
   unit: "unit/words",

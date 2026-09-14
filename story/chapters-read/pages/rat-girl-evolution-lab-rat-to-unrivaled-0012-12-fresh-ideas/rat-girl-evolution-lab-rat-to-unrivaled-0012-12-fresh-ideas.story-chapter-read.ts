@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled001212FreshIdeas = {
   type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0012-12-fresh-ideas",
   title: "12: Fresh Ideas",
-  story: "rat-girl-evolution-lab-rat-to-unrivaled",
+  story: "story-read/rat-girl-evolution-lab-rat-to-unrivaled",
   position: 12,
   ownLength: 2276,
   unit: "unit/words",

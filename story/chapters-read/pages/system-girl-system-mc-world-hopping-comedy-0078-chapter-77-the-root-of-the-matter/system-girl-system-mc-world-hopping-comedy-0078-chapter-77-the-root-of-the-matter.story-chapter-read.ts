@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0078Chapter77TheRootOfTheMatter
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0078-chapter-77-the-root-of-the-matter",
   title: "Chapter 77: The Root of the Matter",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 78,
   ownLength: 2759,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0021Book1KindleAudibleLaunch = {
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0021-book-1-kindle-audible-launch",
   title: "Book 1 Kindle + Audible Launch!",
-  story: "speedrunning-the-multiverse-complete",
+  story: "story-read/speedrunning-the-multiverse-complete",
   position: 21,
   ownLength: 150,
   unit: "unit/words",

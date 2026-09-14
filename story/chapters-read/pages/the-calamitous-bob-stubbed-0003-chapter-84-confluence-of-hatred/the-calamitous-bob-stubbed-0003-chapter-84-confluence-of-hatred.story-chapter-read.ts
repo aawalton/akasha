@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0003Chapter84ConfluenceOfHatred = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0003-chapter-84-confluence-of-hatred",
   title: "Chapter 84: Confluence of Hatred.",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 3,
   ownLength: 6221,
   unit: "unit/words",

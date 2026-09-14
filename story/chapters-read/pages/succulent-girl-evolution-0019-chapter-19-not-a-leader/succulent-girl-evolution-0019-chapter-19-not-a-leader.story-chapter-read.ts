@@ -5,7 +5,7 @@ export const succulentGirlEvolution0019Chapter19NotALeader = {
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0019-chapter-19-not-a-leader",
   title: "Chapter 19: Not a Leader",
-  story: "succulent-girl-evolution",
+  story: "story-read/succulent-girl-evolution",
   position: 19,
   ownLength: 2118,
   unit: "unit/words",

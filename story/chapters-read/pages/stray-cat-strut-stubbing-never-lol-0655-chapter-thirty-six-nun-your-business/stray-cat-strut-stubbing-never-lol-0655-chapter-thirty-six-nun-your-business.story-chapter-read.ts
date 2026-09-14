@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0655ChapterThirtySixNunYourBusiness = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0655-chapter-thirty-six-nun-your-business",
   title: "Chapter Thirty-Six - Nun Your Business",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 655,
   ownLength: 1457,
   unit: "unit/words",

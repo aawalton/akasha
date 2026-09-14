@@ -5,7 +5,7 @@ export const theGiftOfLoot0075Chapter75OfficiallyTheTeamPartyBus = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0075-chapter-75-officially-the-team-party-bus",
   title: "Chapter 75: Officially The Team Party Bus",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 75,
   ownLength: 2970,
   unit: "unit/words",

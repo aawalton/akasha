@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0126Chapter126GoldenArchCity = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0126-chapter-126-golden-arch-city",
   title: "Chapter 126: Golden Arch City",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 126,
   ownLength: 2195,
   unit: "unit/words",

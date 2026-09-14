@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001717MoonJuice = {
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0017-17-moon-juice",
   title: "17 - Moon Juice",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 17,
   ownLength: 2116,
   unit: "unit/words",

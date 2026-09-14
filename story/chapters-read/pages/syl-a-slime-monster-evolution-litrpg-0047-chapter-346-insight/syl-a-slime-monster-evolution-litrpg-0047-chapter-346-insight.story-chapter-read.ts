@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0047Chapter346Insight = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0047-chapter-346-insight",
   title: "Chapter 346 : Insight",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 47,
   ownLength: 2218,
   unit: "unit/words",

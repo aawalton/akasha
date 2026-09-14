@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0067Chapter147OhNeriadICanTChange = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0067-chapter-147-oh-neriad-i-can-t-change",
   title: "Chapter 147: Oh Neriad, I can't change.",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 67,
   ownLength: 7749,
   unit: "unit/words",

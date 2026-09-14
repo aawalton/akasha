@@ -5,7 +5,7 @@ export const superSupportive0020TwentyAnOrdinaryMailbox = {
   type: "story-chapter-read",
   slug: "super-supportive-0020-twenty-an-ordinary-mailbox",
   title: "TWENTY: An Ordinary Mailbox",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 20,
   ownLength: 1520,
   unit: "unit/words",

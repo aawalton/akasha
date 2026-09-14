@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0579ChapterSixtyOneLightsCameraBullshi
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0579-chapter-sixty-one-lights-camera-bullshit",
   title: "Chapter Sixty-One - Lights! Camera! Bullshit!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 579,
   ownLength: 1523,
   unit: "unit/words",

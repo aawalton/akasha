@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0218ChapterFiftySansButLucratif = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0218-chapter-fifty-sans-but-lucratif",
   title: "Chapter Fifty - Sans But Lucratif",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 218,
   ownLength: 1529,
   unit: "unit/words",

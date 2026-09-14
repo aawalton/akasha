@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0561ChapterFortySevenKamiCant = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0561-chapter-forty-seven-kami-cant",
   title: "Chapter Forty-Seven - Kami-Can't",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 561,
   ownLength: 1492,
   unit: "unit/words",

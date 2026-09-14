@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0287ChapterFortySixNewPlanKillEverythi
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0287-chapter-forty-six-new-plan-kill-everything",
   title: "Chapter Forty-Six - New Plan: Kill Everything",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 287,
   ownLength: 1471,
   unit: "unit/words",

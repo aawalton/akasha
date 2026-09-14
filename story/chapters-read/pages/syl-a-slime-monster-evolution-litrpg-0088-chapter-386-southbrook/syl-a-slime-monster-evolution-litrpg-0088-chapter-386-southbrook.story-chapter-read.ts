@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0088Chapter386Southbrook = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0088-chapter-386-southbrook",
   title: "Chapter 386 : Southbrook",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 88,
   ownLength: 2042,
   unit: "unit/words",

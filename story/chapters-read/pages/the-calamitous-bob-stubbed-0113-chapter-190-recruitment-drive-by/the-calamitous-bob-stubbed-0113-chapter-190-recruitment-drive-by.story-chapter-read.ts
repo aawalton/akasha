@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0113Chapter190RecruitmentDriveBy = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0113-chapter-190-recruitment-drive-by",
   title: "Chapter 190:  Recruitment Drive By",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 113,
   ownLength: 6055,
   unit: "unit/words",

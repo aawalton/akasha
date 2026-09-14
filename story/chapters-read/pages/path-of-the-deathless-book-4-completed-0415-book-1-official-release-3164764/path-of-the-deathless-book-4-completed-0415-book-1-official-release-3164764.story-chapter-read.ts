@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0415Book1OfficialRelease3164764 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0415-book-1-official-release-3164764",
   title: "BOOK 1 OFFICIAL RELEASE",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 415,
   ownLength: 110,
   unit: "unit/words",

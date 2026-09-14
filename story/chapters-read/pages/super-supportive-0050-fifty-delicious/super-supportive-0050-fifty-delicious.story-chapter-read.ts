@@ -5,7 +5,7 @@ export const superSupportive0050FiftyDelicious = {
   type: "story-chapter-read",
   slug: "super-supportive-0050-fifty-delicious",
   title: "FIFTY: Delicious",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 50,
   ownLength: 1764,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0101Chapter679PrimalFoundations = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0101-chapter-679-primal-foundations",
   title: "Chapter 679: Primal Foundations",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 101,
   ownLength: 2162,
   unit: "unit/words",

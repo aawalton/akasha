@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0026270MtTaiV = {
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0026-270-mt-tai-v",
   title: "270. Mt. Tai (V) ",
-  story: "speedrunning-the-multiverse-complete",
+  story: "story-read/speedrunning-the-multiverse-complete",
   position: 26,
   ownLength: 1964,
   unit: "unit/words",

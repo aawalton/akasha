@@ -5,7 +5,7 @@ export const superSupportive0094NinetyThreeTheOnlySign = {
   type: "story-chapter-read",
   slug: "super-supportive-0094-ninety-three-the-only-sign",
   title: "NINETY-THREE: The Only Sign",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 94,
   ownLength: 5237,
   unit: "unit/words",

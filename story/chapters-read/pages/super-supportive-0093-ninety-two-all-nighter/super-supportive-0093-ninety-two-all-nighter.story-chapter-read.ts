@@ -5,7 +5,7 @@ export const superSupportive0093NinetyTwoAllNighter = {
   type: "story-chapter-read",
   slug: "super-supportive-0093-ninety-two-all-nighter",
   title: "NINETY-TWO: All Nighter",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 93,
   ownLength: 5323,
   unit: "unit/words",

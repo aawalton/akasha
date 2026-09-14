@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0005Chapter86LooseEnds = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0005-chapter-86-loose-ends",
   title: "Chapter 86: Loose Ends",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 5,
   ownLength: 5102,
   unit: "unit/words",

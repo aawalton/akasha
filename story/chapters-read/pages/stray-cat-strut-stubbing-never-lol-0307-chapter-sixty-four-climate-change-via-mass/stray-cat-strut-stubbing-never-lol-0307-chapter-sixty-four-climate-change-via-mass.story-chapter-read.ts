@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0307ChapterSixtyFourClimateChangeViaMa
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0307-chapter-sixty-four-climate-change-via-mass",
   title: "Chapter Sixty-Four - Climate Change Via Mass Destruction",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 307,
   ownLength: 1532,
   unit: "unit/words",

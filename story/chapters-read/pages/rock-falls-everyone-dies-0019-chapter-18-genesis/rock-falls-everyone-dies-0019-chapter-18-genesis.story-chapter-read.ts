@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0019Chapter18Genesis = {
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0019-chapter-18-genesis",
   title: "Chapter 18 – Genesis",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 19,
   ownLength: 2083,
   unit: "unit/words",

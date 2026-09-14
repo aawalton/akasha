@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0472290IiDowntimeIi = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0472-290-ii-downtime-ii",
   title: "290 (II) Downtime [II] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 472,
   ownLength: 0,
   unit: "unit/words",

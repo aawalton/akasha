@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol05212024StrayCatStrutFanfictionContest
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0521-2024-stray-cat-strut-fanfiction-contest",
   title: "2024 Stray Cat Strut Fanfiction Contest!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 521,
   ownLength: 442,
   unit: "unit/words",

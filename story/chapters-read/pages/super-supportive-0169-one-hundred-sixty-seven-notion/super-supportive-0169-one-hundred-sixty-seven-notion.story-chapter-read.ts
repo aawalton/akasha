@@ -5,7 +5,7 @@ export const superSupportive0169OneHundredSixtySevenNotion = {
   type: "story-chapter-read",
   slug: "super-supportive-0169-one-hundred-sixty-seven-notion",
   title: "ONE HUNDRED SIXTY-SEVEN: Notion",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 169,
   ownLength: 5633,
   unit: "unit/words",

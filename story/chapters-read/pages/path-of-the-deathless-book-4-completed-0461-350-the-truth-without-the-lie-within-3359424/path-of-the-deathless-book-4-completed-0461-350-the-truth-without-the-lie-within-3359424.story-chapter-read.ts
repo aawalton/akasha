@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0461350TheTruthWithoutTheLieWithin3
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0461-350-the-truth-without-the-lie-within-3359424",
   title: "350 The Truth Without, The Lie Within",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 461,
   ownLength: 5424,
   unit: "unit/words",

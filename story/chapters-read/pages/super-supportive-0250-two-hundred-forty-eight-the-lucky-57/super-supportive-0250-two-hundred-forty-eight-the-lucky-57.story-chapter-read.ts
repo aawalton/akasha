@@ -5,7 +5,7 @@ export const superSupportive0250TwoHundredFortyEightTheLucky57 = {
   type: "story-chapter-read",
   slug: "super-supportive-0250-two-hundred-forty-eight-the-lucky-57",
   title: "TWO HUNDRED FORTY-EIGHT: The Lucky 57",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 250,
   ownLength: 5273,
   unit: "unit/words",

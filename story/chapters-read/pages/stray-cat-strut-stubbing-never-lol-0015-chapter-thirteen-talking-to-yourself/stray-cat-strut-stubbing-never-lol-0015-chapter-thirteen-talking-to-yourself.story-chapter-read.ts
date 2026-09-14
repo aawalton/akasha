@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0015ChapterThirteenTalkingToYourself =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0015-chapter-thirteen-talking-to-yourself",
   title: "Chapter Thirteen - Talking To Yourself",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 15,
   ownLength: 1115,
   unit: "unit/words",

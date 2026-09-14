@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0775ChapterFiftyOneOneDamThingAfterAno
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0775-chapter-fifty-one-one-dam-thing-after-another",
   title: "Chapter Fifty-One - One Dam Thing After Another",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 775,
   ownLength: 1537,
   unit: "unit/words",

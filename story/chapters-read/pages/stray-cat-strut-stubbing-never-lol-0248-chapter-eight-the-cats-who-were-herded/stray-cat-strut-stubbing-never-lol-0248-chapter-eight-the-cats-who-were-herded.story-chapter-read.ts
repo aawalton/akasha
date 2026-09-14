@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0248ChapterEightTheCatsWhoWereHerded =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0248-chapter-eight-the-cats-who-were-herded",
   title: "Chapter Eight - The Cats Who Were Herded",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 248,
   ownLength: 1483,
   unit: "unit/words",

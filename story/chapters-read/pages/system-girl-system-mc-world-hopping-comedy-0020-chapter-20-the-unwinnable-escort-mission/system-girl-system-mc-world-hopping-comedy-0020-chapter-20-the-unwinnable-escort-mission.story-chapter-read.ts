@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0020Chapter20TheUnwinnableEscor
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0020-chapter-20-the-unwinnable-escort-mission",
   title: "Chapter 20: The Unwinnable Escort Mission",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 20,
   ownLength: 2251,
   unit: "unit/words",

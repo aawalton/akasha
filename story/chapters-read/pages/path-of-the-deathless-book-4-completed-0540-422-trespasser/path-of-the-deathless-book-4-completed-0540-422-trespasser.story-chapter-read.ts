@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0540422Trespasser = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0540-422-trespasser",
   title: "422 Trespasser",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 540,
   ownLength: 4945,
   unit: "unit/words",

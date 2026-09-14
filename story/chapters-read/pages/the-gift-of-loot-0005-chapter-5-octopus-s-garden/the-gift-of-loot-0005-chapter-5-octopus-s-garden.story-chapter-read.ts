@@ -5,7 +5,7 @@ export const theGiftOfLoot0005Chapter5OctopusSGarden = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0005-chapter-5-octopus-s-garden",
   title: "Chapter 5: Octopus's Garden",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 5,
   ownLength: 3179,
   unit: "unit/words",

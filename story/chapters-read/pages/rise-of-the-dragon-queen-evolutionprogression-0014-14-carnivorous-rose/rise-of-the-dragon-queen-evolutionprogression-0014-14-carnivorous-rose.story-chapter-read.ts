@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001414CarnivorousRose = {
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0014-14-carnivorous-rose",
   title: "14 - Carnivorous Rose",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 14,
   ownLength: 1996,
   unit: "unit/words",

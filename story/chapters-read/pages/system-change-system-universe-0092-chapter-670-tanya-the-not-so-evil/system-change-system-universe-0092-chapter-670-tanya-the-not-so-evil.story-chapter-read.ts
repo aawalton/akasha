@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0092Chapter670TanyaTheNotSoEvil = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0092-chapter-670-tanya-the-not-so-evil",
   title: "Chapter 670: Tanya the Not-So-Evil",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 92,
   ownLength: 2066,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0119Chapter195ChangingTheWays = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0119-chapter-195-changing-the-ways",
   title: "Chapter 195: Changing the Ways",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 119,
   ownLength: 5069,
   unit: "unit/words",

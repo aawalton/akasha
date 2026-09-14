@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0466ChapterFiftyThreeWhoLetTheWormsOut
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0466-chapter-fifty-three-who-let-the-worms-out",
   title: "Chapter Fifty-Three - Who Let the Worms Out?",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 466,
   ownLength: 1507,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0532414Atonement = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0532-414-atonement",
   title: "414 “Atonement”",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 532,
   ownLength: 5518,
   unit: "unit/words",

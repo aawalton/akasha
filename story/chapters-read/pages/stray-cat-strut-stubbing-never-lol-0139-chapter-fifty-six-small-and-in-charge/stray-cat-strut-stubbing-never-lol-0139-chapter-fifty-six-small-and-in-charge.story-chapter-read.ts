@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0139ChapterFiftySixSmallAndInCharge = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0139-chapter-fifty-six-small-and-in-charge",
   title: "Chapter Fifty-Six - Small and in Charge",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 139,
   ownLength: 1501,
   unit: "unit/words",

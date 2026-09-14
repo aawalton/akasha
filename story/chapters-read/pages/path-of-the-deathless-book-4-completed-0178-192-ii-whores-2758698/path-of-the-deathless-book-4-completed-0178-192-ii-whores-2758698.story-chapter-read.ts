@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0178192IiWhores2758698 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0178-192-ii-whores-2758698",
   title: "192 (II) Whores",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 178,
   ownLength: 4190,
   unit: "unit/words",

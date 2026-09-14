@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0026Chapter26CollectingSpoils = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0026-chapter-26-collecting-spoils",
   title: "Chapter 26: Collecting Spoils",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 26,
   ownLength: 1945,
   unit: "unit/words",

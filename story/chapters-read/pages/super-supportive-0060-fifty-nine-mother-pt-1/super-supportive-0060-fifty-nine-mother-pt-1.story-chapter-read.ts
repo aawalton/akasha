@@ -5,7 +5,7 @@ export const superSupportive0060FiftyNineMotherPt1 = {
   type: "story-chapter-read",
   slug: "super-supportive-0060-fifty-nine-mother-pt-1",
   title: "FIFTY-NINE: Mother, pt. 1",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 60,
   ownLength: 5868,
   unit: "unit/words",

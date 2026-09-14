@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0170154IiiWeapon = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0170-154-iii-weapon",
   title: "154 (III) Weapon",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 170,
   ownLength: 0,
   unit: "unit/words",

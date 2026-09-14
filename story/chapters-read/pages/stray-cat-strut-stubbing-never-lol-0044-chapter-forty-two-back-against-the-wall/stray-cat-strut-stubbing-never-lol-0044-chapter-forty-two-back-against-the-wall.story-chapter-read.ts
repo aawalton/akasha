@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0044ChapterFortyTwoBackAgainstTheWall 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0044-chapter-forty-two-back-against-the-wall",
   title: "Chapter Forty-Two - Back Against the Wall",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 44,
   ownLength: 1547,
   unit: "unit/words",

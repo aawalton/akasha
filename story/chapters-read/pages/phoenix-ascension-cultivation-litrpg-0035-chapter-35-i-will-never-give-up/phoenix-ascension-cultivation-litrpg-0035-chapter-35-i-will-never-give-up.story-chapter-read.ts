@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0035Chapter35IWillNeverGiveUp = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0035-chapter-35-i-will-never-give-up",
   title: "Chapter 35: I will never give up!",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 35,
   ownLength: 2200,
   unit: "unit/words",

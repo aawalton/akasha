@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0025Chapter25MenDieForTreasureBird
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0025-chapter-25-men-die-for-treasure-birds-die-for-food",
   title: "Chapter 25: Men die for treasure, birds die for food",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 25,
   ownLength: 2323,
   unit: "unit/words",

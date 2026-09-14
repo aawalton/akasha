@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0052Chapter630FirstKill = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0052-chapter-630-first-kill",
   title: "Chapter 630: First Kill",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 52,
   ownLength: 2089,
   unit: "unit/words",

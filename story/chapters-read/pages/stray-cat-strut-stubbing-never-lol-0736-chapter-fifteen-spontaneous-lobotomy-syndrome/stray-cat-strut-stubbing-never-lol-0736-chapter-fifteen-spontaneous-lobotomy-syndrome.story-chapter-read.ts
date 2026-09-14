@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0736ChapterFifteenSpontaneousLobotomyS
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0736-chapter-fifteen-spontaneous-lobotomy-syndrome",
   title: "Chapter Fifteen - Spontaneous Lobotomy Syndrome",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 736,
   ownLength: 1441,
   unit: "unit/words",

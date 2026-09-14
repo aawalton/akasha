@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0265ChapterTwentyFiveDinnerIsServedAnd
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0265-chapter-twenty-five-dinner-is-served-and-its-you",
   title: "Chapter Twenty-Five - Dinner is Served, and it’s You",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 265,
   ownLength: 1501,
   unit: "unit/words",

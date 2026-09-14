@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0070Chapter69TheFirstStepsOfAQu
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0070-chapter-69-the-first-steps-of-a-queen",
   title: "Chapter 69: The First Steps of a Queen",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 70,
   ownLength: 2654,
   unit: "unit/words",

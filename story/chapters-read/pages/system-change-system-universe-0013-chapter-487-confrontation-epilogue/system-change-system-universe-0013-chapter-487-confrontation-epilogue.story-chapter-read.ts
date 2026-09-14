@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0013Chapter487ConfrontationEpilogue = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0013-chapter-487-confrontation-epilogue",
   title: "Chapter 487: Confrontation/Epilogue",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 13,
   ownLength: 4209,
   unit: "unit/words",

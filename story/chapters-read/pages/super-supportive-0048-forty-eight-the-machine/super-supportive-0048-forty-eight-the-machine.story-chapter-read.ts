@@ -5,7 +5,7 @@ export const superSupportive0048FortyEightTheMachine = {
   type: "story-chapter-read",
   slug: "super-supportive-0048-forty-eight-the-machine",
   title: "FORTY-EIGHT: The Machine",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 48,
   ownLength: 3191,
   unit: "unit/words",

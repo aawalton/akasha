@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0620ChapterSixInvisibleCougarsInYourAr
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0620-chapter-six-invisible-cougars-in-your-area",
   title: "Chapter Six - Invisible Cougars in Your Area",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 620,
   ownLength: 1511,
   unit: "unit/words",

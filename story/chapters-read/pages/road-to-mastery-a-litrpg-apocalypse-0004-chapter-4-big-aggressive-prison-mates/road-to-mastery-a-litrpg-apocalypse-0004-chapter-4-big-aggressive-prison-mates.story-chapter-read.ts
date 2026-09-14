@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0004Chapter4BigAggressivePrisonMates 
   type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0004-chapter-4-big-aggressive-prison-mates",
   title: "Chapter 4: Big, Aggressive Prison Mates",
-  story: "road-to-mastery-a-litrpg-apocalypse",
+  story: "story-read/road-to-mastery-a-litrpg-apocalypse",
   position: 4,
   ownLength: 1931,
   unit: "unit/words",

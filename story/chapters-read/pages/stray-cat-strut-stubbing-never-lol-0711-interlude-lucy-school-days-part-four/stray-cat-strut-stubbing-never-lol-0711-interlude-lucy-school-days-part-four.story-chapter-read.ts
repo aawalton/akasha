@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0711InterludeLucySchoolDaysPartFour = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0711-interlude-lucy-school-days-part-four",
   title: "Interlude Lucy - School Days Part Four",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 711,
   ownLength: 1465,
   unit: "unit/words",

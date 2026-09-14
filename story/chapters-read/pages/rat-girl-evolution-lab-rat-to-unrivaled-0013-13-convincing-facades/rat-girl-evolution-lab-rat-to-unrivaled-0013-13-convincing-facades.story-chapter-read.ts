@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled001313ConvincingFacades = {
   type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0013-13-convincing-facades",
   title: "13: Convincing Facades",
-  story: "rat-girl-evolution-lab-rat-to-unrivaled",
+  story: "story-read/rat-girl-evolution-lab-rat-to-unrivaled",
   position: 13,
   ownLength: 2266,
   unit: "unit/words",

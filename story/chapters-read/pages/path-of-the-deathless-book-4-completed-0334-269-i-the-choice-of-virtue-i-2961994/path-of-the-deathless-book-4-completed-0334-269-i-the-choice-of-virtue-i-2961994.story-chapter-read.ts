@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0334269ITheChoiceOfVirtueI2961994 =
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0334-269-i-the-choice-of-virtue-i-2961994",
   title: "269 (I) “The Choice of Virtue” [I]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 334,
   ownLength: 2979,
   unit: "unit/words",

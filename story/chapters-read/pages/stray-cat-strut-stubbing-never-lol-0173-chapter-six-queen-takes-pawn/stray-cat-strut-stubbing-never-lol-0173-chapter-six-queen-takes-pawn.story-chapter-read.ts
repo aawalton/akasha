@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0173ChapterSixQueenTakesPawn = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0173-chapter-six-queen-takes-pawn",
   title: "Chapter Six - Queen Takes Pawn",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 173,
   ownLength: 1479,
   unit: "unit/words",

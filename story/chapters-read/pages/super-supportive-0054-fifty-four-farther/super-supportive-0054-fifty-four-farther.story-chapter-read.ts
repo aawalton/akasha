@@ -5,7 +5,7 @@ export const superSupportive0054FiftyFourFarther = {
   type: "story-chapter-read",
   slug: "super-supportive-0054-fifty-four-farther",
   title: "FIFTY-FOUR: Farther",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 54,
   ownLength: 4158,
   unit: "unit/words",

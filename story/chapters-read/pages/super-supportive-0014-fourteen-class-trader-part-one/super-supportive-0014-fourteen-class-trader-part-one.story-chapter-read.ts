@@ -5,7 +5,7 @@ export const superSupportive0014FourteenClassTraderPartOne = {
   type: "story-chapter-read",
   slug: "super-supportive-0014-fourteen-class-trader-part-one",
   title: "FOURTEEN: Class Trader, Part One",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 14,
   ownLength: 2532,
   unit: "unit/words",

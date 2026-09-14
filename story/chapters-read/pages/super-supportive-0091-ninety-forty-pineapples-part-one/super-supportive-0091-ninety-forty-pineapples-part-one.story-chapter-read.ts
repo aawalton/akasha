@@ -5,7 +5,7 @@ export const superSupportive0091NinetyFortyPineapplesPartOne = {
   type: "story-chapter-read",
   slug: "super-supportive-0091-ninety-forty-pineapples-part-one",
   title: "NINETY: Forty Pineapples, part one",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 91,
   ownLength: 8136,
   unit: "unit/words",

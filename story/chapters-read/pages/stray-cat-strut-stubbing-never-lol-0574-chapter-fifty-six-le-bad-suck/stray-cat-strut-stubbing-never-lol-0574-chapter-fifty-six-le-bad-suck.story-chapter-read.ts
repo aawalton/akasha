@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0574ChapterFiftySixLeBadSuck = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0574-chapter-fifty-six-le-bad-suck",
   title: "Chapter Fifty-Six - Le Bad Suck",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 574,
   ownLength: 1504,
   unit: "unit/words",

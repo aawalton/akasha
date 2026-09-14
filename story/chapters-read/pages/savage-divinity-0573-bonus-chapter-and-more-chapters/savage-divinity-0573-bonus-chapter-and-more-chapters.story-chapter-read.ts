@@ -5,7 +5,7 @@ export const savageDivinity0573BonusChapterAndMoreChapters = {
   type: "story-chapter-read",
   slug: "savage-divinity-0573-bonus-chapter-and-more-chapters",
   title: "BONUS CHAPTER AND MORE CHAPTERS!",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 573,
   ownLength: 685,
   unit: "unit/words",

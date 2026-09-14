@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0558ChapterFortyFiveIfYoureUnhappyAndY
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0558-chapter-forty-five-if-youre-unhappy-and-you-know",
   title: "Chapter Forty-Five - If You're Unhappy and You Know It, Flap Your Wings!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 558,
   ownLength: 1525,
   unit: "unit/words",

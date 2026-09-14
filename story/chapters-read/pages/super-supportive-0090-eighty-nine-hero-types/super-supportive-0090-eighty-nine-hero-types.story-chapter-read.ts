@@ -5,7 +5,7 @@ export const superSupportive0090EightyNineHeroTypes = {
   type: "story-chapter-read",
   slug: "super-supportive-0090-eighty-nine-hero-types",
   title: "EIGHTY-NINE: Hero Types",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 90,
   ownLength: 5086,
   unit: "unit/words",

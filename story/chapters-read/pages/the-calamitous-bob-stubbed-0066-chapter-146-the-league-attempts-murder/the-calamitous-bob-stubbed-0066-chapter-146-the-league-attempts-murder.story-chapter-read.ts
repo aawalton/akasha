@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0066Chapter146TheLeagueAttemptsMurder = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0066-chapter-146-the-league-attempts-murder",
   title: "Chapter 146: The League attempts murder.",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 66,
   ownLength: 6383,
   unit: "unit/words",

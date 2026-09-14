@@ -5,7 +5,7 @@ export const savageDivinity0001Chapter1NewBeginnings = {
   type: "story-chapter-read",
   slug: "savage-divinity-0001-chapter-1-new-beginnings",
   title: "Chapter 1: New beginnings",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 1,
   ownLength: 1478,
   unit: "unit/words",

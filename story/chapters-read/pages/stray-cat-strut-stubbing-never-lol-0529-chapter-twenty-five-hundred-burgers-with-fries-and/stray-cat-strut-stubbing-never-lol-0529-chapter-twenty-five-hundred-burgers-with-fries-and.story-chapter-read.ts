@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0529ChapterTwentyFiveHundredBurgersWit
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0529-chapter-twenty-five-hundred-burgers-with-fries-and",
   title: "Chapter Twenty-Five - Hundred Burgers With Fries And Drink",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 529,
   ownLength: 1501,
   unit: "unit/words",

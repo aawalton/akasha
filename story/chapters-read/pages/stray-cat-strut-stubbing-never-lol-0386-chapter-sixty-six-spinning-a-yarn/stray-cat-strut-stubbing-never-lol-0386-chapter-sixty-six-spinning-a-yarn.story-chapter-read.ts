@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0386ChapterSixtySixSpinningAYarn = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0386-chapter-sixty-six-spinning-a-yarn",
   title: "Chapter Sixty-Six - Spinning a Yarn",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 386,
   ownLength: 1543,
   unit: "unit/words",

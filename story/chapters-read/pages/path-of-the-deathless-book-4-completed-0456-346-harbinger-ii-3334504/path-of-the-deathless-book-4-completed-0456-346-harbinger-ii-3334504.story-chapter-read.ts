@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0456346HarbingerIi3334504 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0456-346-harbinger-ii-3334504",
   title: "346 Harbinger [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 456,
   ownLength: 5033,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0027Chapter23Infiltrator = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0027-chapter-23-infiltrator",
   title: "Chapter 23: Infiltrator",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 27,
   ownLength: 1370,
   unit: "unit/words",

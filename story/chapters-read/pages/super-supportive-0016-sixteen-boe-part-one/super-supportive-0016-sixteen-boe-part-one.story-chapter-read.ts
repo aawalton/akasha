@@ -5,7 +5,7 @@ export const superSupportive0016SixteenBoePartOne = {
   type: "story-chapter-read",
   slug: "super-supportive-0016-sixteen-boe-part-one",
   title: "SIXTEEN: Boe, Part One",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 16,
   ownLength: 2057,
   unit: "unit/words",

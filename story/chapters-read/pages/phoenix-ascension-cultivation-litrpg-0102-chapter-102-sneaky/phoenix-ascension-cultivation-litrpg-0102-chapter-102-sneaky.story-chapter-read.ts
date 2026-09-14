@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0102Chapter102Sneaky = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0102-chapter-102-sneaky",
   title: "Chapter 102: Sneaky",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 102,
   ownLength: 2697,
   unit: "unit/words",

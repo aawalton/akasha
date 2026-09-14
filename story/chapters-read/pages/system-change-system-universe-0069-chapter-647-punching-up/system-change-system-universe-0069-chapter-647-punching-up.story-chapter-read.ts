@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0069Chapter647PunchingUp = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0069-chapter-647-punching-up",
   title: "Chapter 647: Punching Up!",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 69,
   ownLength: 2161,
   unit: "unit/words",

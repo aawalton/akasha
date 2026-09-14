@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0684ScsCrossoverFanficContestWinners =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0684-scs-crossover-fanfic-contest-winners",
   title: "SCS Crossover Fanfic Contest! Winners!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 684,
   ownLength: 42,
   unit: "unit/words",

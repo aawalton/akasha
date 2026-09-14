@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0578ChapterSixtyReligiousExemption = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0578-chapter-sixty-religious-exemption",
   title: "Chapter Sixty - Religious Exemption",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 578,
   ownLength: 1509,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0007Chapter4PoliceAtTheDoor = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0007-chapter-4-police-at-the-door",
   title: "Chapter 4: Police At The Door",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 7,
   ownLength: 2005,
   unit: "unit/words",

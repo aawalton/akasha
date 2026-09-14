@@ -5,7 +5,7 @@ export const superSupportive0121OneHundredTwentyPartyAnimals = {
   type: "story-chapter-read",
   slug: "super-supportive-0121-one-hundred-twenty-party-animals",
   title: "ONE HUNDRED TWENTY: Party Animals",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 121,
   ownLength: 2,
   unit: "unit/words",

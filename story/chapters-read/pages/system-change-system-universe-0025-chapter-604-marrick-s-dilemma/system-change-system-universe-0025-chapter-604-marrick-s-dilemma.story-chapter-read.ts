@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0025Chapter604MarrickSDilemma = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0025-chapter-604-marrick-s-dilemma",
   title: "Chapter 604: Marrick’s Dilemma",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 25,
   ownLength: 2099,
   unit: "unit/words",

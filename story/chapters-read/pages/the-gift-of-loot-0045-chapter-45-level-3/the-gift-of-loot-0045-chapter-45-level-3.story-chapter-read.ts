@@ -5,7 +5,7 @@ export const theGiftOfLoot0045Chapter45Level3 = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0045-chapter-45-level-3",
   title: "Chapter 45: Level 3",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 45,
   ownLength: 2947,
   unit: "unit/words",

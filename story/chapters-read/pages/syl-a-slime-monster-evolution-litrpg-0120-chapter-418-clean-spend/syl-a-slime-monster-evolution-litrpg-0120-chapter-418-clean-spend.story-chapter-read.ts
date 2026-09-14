@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0120Chapter418CleanSpend = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0120-chapter-418-clean-spend",
   title: "Chapter 418 : Clean Spend",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 120,
   ownLength: 2878,
   unit: "unit/words",

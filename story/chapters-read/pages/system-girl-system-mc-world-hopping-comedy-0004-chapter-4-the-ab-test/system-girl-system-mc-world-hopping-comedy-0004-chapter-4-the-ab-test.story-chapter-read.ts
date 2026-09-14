@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0004Chapter4TheAbTest = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0004-chapter-4-the-ab-test",
   title: "Chapter 4: The A/B Test",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 4,
   ownLength: 1948,
   unit: "unit/words",

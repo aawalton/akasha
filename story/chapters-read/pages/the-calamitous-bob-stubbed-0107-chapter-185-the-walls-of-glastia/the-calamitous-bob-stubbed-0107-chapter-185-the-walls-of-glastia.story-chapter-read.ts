@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0107Chapter185TheWallsOfGlastia = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0107-chapter-185-the-walls-of-glastia",
   title: "Chapter 185: The Walls of Glastia",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 107,
   ownLength: 5674,
   unit: "unit/words",

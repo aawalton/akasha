@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0001Chapter1Devour = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0001-chapter-1-devour",
   title: "Chapter 1: Devour",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 1,
   ownLength: 2571,
   unit: "unit/words",

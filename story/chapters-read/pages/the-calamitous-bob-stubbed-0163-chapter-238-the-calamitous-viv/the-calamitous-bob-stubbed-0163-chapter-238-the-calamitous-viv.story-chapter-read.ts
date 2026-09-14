@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0163Chapter238TheCalamitousViv = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0163-chapter-238-the-calamitous-viv",
   title: "Chapter 238: The Calamitous Viv",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 163,
   ownLength: 6666,
   unit: "unit/words",

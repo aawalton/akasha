@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0129Chapter129Ginseng = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0129-chapter-129-ginseng",
   title: "Chapter 129: Ginseng",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 129,
   ownLength: 2354,
   unit: "unit/words",

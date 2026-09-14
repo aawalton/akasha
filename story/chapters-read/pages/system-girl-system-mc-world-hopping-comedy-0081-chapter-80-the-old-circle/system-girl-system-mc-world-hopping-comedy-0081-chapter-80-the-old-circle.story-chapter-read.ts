@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0081Chapter80TheOldCircle = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0081-chapter-80-the-old-circle",
   title: "Chapter 80: The Old Circle",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 81,
   ownLength: 2946,
   unit: "unit/words",

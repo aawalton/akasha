@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0089ChapterEightHover = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0089-chapter-eight-hover",
   title: "Chapter Eight - Hover",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 89,
   ownLength: 1544,
   unit: "unit/words",

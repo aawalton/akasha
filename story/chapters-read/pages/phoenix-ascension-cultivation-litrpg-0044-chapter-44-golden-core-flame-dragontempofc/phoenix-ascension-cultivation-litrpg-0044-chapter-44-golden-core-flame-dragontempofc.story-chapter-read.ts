@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0044Chapter44GoldenCoreFlameDragon
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0044-chapter-44-golden-core-flame-dragontempofc",
   title: "Chapter 44: Golden Core Flame Dragon(Temp(Ofc))",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 44,
   ownLength: 1733,
   unit: "unit/words",

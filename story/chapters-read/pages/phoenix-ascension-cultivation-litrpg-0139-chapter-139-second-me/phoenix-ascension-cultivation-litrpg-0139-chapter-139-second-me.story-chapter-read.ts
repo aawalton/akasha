@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0139Chapter139SecondMe = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0139-chapter-139-second-me",
   title: "Chapter 139: Second Me",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 139,
   ownLength: 2118,
   unit: "unit/words",

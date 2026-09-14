@@ -5,7 +5,7 @@ export const superSupportive0162OneHundredSixtyShinyWaterBugs = {
   type: "story-chapter-read",
   slug: "super-supportive-0162-one-hundred-sixty-shiny-water-bugs",
   title: "ONE HUNDRED SIXTY: Shiny Water Bugs",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 162,
   ownLength: 6253,
   unit: "unit/words",

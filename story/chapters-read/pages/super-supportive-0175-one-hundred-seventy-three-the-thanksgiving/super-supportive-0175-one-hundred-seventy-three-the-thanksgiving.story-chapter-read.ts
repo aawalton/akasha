@@ -5,7 +5,7 @@ export const superSupportive0175OneHundredSeventyThreeTheThanksgiving = {
   type: "story-chapter-read",
   slug: "super-supportive-0175-one-hundred-seventy-three-the-thanksgiving",
   title: "ONE HUNDRED SEVENTY-THREE: The Thanksgiving",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 175,
   ownLength: 5297,
   unit: "unit/words",

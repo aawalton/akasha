@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0119Chapter119TimeToSnatch = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0119-chapter-119-time-to-snatch",
   title: "Chapter 119: Time to snatch",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 119,
   ownLength: 1712,
   unit: "unit/words",

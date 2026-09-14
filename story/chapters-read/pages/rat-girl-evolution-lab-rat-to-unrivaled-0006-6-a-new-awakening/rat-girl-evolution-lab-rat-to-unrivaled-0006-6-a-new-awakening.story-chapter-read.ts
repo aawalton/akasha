@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00066ANewAwakening = {
   type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0006-6-a-new-awakening",
   title: "6: A New Awakening",
-  story: "rat-girl-evolution-lab-rat-to-unrivaled",
+  story: "story-read/rat-girl-evolution-lab-rat-to-unrivaled",
   position: 6,
   ownLength: 2412,
   unit: "unit/words",

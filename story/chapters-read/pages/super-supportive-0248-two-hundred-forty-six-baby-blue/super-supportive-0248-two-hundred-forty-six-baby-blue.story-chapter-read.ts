@@ -5,7 +5,7 @@ export const superSupportive0248TwoHundredFortySixBabyBlue = {
   type: "story-chapter-read",
   slug: "super-supportive-0248-two-hundred-forty-six-baby-blue",
   title: "TWO HUNDRED FORTY-SIX: Baby Blue",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 248,
   ownLength: 3414,
   unit: "unit/words",

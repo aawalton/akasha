@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0141141IPredatorsIi = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0141-141-i-predators-ii",
   title: "141 (I)  Predators [II] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 141,
   ownLength: 0,
   unit: "unit/words",

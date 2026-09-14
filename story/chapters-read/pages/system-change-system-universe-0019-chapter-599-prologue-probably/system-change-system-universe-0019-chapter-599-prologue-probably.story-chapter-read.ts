@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0019Chapter599PrologueProbably = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0019-chapter-599-prologue-probably",
   title: "Chapter 599: Prologue... Probably",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 19,
   ownLength: 2752,
   unit: "unit/words",

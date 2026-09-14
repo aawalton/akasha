@@ -5,7 +5,7 @@ export const superSupportive0219TwoHundredSeventeenTheSnakeShapedLetterIi = {
   type: "story-chapter-read",
   slug: "super-supportive-0219-two-hundred-seventeen-the-snake-shaped-letter-ii",
   title: "TWO HUNDRED SEVENTEEN: The Snake-shaped Letter II",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 219,
   ownLength: 3466,
   unit: "unit/words",

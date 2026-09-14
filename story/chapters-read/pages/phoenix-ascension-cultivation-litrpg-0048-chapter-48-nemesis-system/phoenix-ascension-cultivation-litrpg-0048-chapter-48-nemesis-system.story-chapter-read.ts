@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0048Chapter48NemesisSystem = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0048-chapter-48-nemesis-system",
   title: "Chapter 48: Nemesis System",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 48,
   ownLength: 1982,
   unit: "unit/words",

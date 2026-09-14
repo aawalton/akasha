@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0031Chapter610NotInMyCity = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0031-chapter-610-not-in-my-city",
   title: "Chapter 610: Not in My City!",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 31,
   ownLength: 2258,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0064Chapter64Failure = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0064-chapter-64-failure",
   title: "Chapter 64: Failure",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 64,
   ownLength: 2169,
   unit: "unit/words",

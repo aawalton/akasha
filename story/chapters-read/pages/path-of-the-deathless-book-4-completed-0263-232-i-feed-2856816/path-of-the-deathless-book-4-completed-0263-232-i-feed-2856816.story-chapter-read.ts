@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0263232IFeed2856816 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0263-232-i-feed-2856816",
   title: "232 (I) Feed",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 263,
   ownLength: 3826,
   unit: "unit/words",

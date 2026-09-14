@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0073Chapter371Scratch = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0073-chapter-371-scratch",
   title: "Chapter 371 : Scratch",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 73,
   ownLength: 2354,
   unit: "unit/words",

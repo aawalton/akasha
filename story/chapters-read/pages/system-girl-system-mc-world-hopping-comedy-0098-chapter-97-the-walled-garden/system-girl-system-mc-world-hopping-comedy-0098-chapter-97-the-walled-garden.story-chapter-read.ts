@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0098Chapter97TheWalledGarden = 
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0098-chapter-97-the-walled-garden",
   title: "Chapter 97: The Walled Garden",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 98,
   ownLength: 2076,
   unit: "unit/words",

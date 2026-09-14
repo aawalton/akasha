@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0055Chapter354BranchOut = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0055-chapter-354-branch-out",
   title: "Chapter 354 : Branch Out",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 55,
   ownLength: 2257,
   unit: "unit/words",

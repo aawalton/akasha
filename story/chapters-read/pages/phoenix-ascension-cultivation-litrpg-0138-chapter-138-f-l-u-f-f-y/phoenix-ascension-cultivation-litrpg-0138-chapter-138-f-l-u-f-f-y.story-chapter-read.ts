@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0138Chapter138FLUFFY = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0138-chapter-138-f-l-u-f-f-y",
   title: "Chapter 138: F L U F F Y",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 138,
   ownLength: 2023,
   unit: "unit/words",

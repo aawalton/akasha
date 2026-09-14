@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0062Chapter361Separation = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0062-chapter-361-separation",
   title: "Chapter 361 : Separation",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 62,
   ownLength: 2362,
   unit: "unit/words",

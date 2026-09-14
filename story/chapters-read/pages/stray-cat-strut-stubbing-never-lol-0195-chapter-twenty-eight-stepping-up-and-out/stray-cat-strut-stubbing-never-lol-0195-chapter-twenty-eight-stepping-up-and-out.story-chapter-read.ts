@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0195ChapterTwentyEightSteppingUpAndOut
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0195-chapter-twenty-eight-stepping-up-and-out",
   title: "Chapter Twenty-Eight - Stepping Up and Out",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 195,
   ownLength: 1524,
   unit: "unit/words",

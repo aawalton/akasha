@@ -5,7 +5,7 @@ export const superSupportive0130OneHundredTwentyNineTheyFeasted = {
   type: "story-chapter-read",
   slug: "super-supportive-0130-one-hundred-twenty-nine-they-feasted",
   title: "ONE HUNDRED TWENTY-NINE: They Feasted",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 130,
   ownLength: 5484,
   unit: "unit/words",

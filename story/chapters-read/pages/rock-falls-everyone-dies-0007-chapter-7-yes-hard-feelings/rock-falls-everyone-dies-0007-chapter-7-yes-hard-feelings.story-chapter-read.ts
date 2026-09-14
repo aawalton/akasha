@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0007Chapter7YesHardFeelings = {
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0007-chapter-7-yes-hard-feelings",
   title: "Chapter 7 – Yes Hard Feelings",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 7,
   ownLength: 1714,
   unit: "unit/words",

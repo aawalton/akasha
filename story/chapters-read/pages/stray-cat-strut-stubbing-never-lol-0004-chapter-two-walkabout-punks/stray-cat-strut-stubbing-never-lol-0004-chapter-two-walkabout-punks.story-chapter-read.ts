@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0004ChapterTwoWalkaboutPunks = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0004-chapter-two-walkabout-punks",
   title: "Chapter Two - Walkabout Punks",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 4,
   ownLength: 1965,
   unit: "unit/words",

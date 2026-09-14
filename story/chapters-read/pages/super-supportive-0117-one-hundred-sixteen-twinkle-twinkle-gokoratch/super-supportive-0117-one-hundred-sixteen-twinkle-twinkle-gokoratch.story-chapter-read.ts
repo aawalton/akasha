@@ -5,7 +5,7 @@ export const superSupportive0117OneHundredSixteenTwinkleTwinkleGokoratch = {
   type: "story-chapter-read",
   slug: "super-supportive-0117-one-hundred-sixteen-twinkle-twinkle-gokoratch",
   title: "ONE HUNDRED SIXTEEN: Twinkle, Twinkle, Gokoratch",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 117,
   ownLength: 4827,
   unit: "unit/words",

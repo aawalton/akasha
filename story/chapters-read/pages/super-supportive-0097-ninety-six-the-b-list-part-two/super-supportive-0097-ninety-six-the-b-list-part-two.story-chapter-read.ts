@@ -5,7 +5,7 @@ export const superSupportive0097NinetySixTheBListPartTwo = {
   type: "story-chapter-read",
   slug: "super-supportive-0097-ninety-six-the-b-list-part-two",
   title: "NINETY-SIX: The B List, part two",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 97,
   ownLength: 4507,
   unit: "unit/words",

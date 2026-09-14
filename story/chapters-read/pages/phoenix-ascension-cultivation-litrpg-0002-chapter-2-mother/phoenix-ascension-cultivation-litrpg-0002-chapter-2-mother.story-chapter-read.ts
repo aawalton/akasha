@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0002Chapter2Mother = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0002-chapter-2-mother",
   title: "Chapter 2: Mother",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 2,
   ownLength: 2508,
   unit: "unit/words",

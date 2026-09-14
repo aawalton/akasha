@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0095Chapter95TunicOfTheLonePhoenix
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0095-chapter-95-tunic-of-the-lone-phoenix",
   title: "Chapter 95: Tunic of the Lone Phoenix",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 95,
   ownLength: 2184,
   unit: "unit/words",

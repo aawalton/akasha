@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0082Chapter161Fraudzilla = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0082-chapter-161-fraudzilla",
   title: "Chapter 161: Fraudzilla",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 82,
   ownLength: 5487,
   unit: "unit/words",

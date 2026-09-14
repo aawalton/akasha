@@ -5,7 +5,7 @@ export const superSupportive0291TwoHundredEightyNineTheEntertainment = {
   type: "story-chapter-read",
   slug: "super-supportive-0291-two-hundred-eighty-nine-the-entertainment",
   title: "TWO HUNDRED EIGHTY-NINE: The Entertainment",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 291,
   ownLength: 4501,
   unit: "unit/words",

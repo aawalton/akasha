@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0025Chapter25CowTraining = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0025-chapter-25-cow-training",
   title: "Chapter 25 - Cow Training",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 25,
   ownLength: 2044,
   unit: "unit/words",

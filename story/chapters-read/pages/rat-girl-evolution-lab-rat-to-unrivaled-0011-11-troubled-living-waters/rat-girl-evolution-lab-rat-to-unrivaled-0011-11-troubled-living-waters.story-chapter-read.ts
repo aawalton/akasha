@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled001111TroubledLivingWaters = {
   type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0011-11-troubled-living-waters",
   title: "11: Troubled Living Waters",
-  story: "rat-girl-evolution-lab-rat-to-unrivaled",
+  story: "story-read/rat-girl-evolution-lab-rat-to-unrivaled",
   position: 11,
   ownLength: 2390,
   unit: "unit/words",

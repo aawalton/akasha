@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0241180ITrustI = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0241-180-i-trust-i",
   title: "180 (I) Trust [I] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 241,
   ownLength: 0,
   unit: "unit/words",

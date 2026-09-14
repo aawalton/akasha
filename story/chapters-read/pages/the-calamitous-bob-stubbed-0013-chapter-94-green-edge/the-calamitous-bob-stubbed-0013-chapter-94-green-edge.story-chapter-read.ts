@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0013Chapter94GreenEdge = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0013-chapter-94-green-edge",
   title: "Chapter 94: Green Edge",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 13,
   ownLength: 6322,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0029Chapter110InSession = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0029-chapter-110-in-session",
   title: "Chapter 110: In session",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 29,
   ownLength: 5142,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0015Chapter96IsekaiDayZero = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0015-chapter-96-isekai-day-zero",
   title: "Chapter 96: Isekai, day zero",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 15,
   ownLength: 5177,
   unit: "unit/words",

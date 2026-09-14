@@ -5,7 +5,7 @@ export const superSupportive0168OneHundredSixtySixDreamsAndDoors = {
   type: "story-chapter-read",
   slug: "super-supportive-0168-one-hundred-sixty-six-dreams-and-doors",
   title: "ONE HUNDRED SIXTY-SIX: Dreams and Doors",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 168,
   ownLength: 4513,
   unit: "unit/words",

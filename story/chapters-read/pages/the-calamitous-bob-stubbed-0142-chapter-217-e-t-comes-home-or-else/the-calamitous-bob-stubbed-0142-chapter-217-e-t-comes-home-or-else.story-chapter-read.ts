@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0142Chapter217ETComesHomeOrElse = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0142-chapter-217-e-t-comes-home-or-else",
   title: "Chapter 217: E.T. comes home, or else",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 142,
   ownLength: 6903,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0103Chapter401Incubating = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0103-chapter-401-incubating",
   title: "Chapter 401 : Incubating",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 103,
   ownLength: 2200,
   unit: "unit/words",

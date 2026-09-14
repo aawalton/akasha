@@ -5,7 +5,7 @@ export const succulentGirlEvolution0028Chapter28FriendshipIsExclusive = {
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0028-chapter-28-friendship-is-exclusive",
   title: "Chapter 28: Friendship is Exclusive",
-  story: "succulent-girl-evolution",
+  story: "story-read/succulent-girl-evolution",
   position: 28,
   ownLength: 1923,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0717StrayCatStrutAYoungLadysVacationNe
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0717-stray-cat-strut-a-young-ladys-vacation-next-door",
   title: "Stray Cat Strut - A Young Lady's Vacation Next Door - Prologue",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 717,
   ownLength: 971,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0003Chapter3Conversation = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0003-chapter-3-conversation",
   title: "Chapter 3: Conversation",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 3,
   ownLength: 1487,
   unit: "unit/words",

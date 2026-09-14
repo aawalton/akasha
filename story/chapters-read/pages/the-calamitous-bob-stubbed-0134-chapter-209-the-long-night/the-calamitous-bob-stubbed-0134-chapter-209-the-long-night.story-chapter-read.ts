@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0134Chapter209TheLongNight = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0134-chapter-209-the-long-night",
   title: "Chapter 209: The Long Night",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 134,
   ownLength: 6683,
   unit: "unit/words",

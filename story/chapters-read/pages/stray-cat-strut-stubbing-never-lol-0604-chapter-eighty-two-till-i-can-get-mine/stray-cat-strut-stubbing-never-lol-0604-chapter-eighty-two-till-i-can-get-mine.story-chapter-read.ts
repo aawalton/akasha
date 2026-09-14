@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0604ChapterEightyTwoTillICanGetMine = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0604-chapter-eighty-two-till-i-can-get-mine",
   title: "Chapter Eighty-Two - Till I Can Get Mine",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 604,
   ownLength: 1538,
   unit: "unit/words",

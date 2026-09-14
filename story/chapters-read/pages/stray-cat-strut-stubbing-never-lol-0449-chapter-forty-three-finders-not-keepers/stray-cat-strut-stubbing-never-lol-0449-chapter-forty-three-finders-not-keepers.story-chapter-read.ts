@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0449ChapterFortyThreeFindersNotKeepers
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0449-chapter-forty-three-finders-not-keepers",
   title: "Chapter Forty-Three - Finders, Not Keepers",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 449,
   ownLength: 1463,
   unit: "unit/words",

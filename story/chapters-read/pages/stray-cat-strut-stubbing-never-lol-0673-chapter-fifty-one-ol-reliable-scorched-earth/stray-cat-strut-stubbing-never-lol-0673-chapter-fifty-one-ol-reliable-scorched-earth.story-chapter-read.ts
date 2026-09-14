@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0673ChapterFiftyOneOlReliableScorchedE
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0673-chapter-fifty-one-ol-reliable-scorched-earth",
   title: "Chapter Fifty-One - 'Ol Reliable: Scorched Earth",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 673,
   ownLength: 1431,
   unit: "unit/words",

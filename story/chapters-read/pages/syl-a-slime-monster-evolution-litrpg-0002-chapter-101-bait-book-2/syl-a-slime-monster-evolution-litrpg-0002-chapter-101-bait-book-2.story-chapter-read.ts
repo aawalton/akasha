@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0002Chapter101BaitBook2 = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0002-chapter-101-bait-book-2",
   title: "Chapter 101 : Bait [Book 2]",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 2,
   ownLength: 2006,
   unit: "unit/words",

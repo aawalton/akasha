@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0293AiPocryphaTwoAiWrittenChapterSegme
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0293-ai-pocrypha-two-ai-written-chapter-segments",
   title: "Ai-pocrypha Two - AI Written Chapter Segments",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 293,
   ownLength: 1500,
   unit: "unit/words",

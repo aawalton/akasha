@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0091Chapter169EmericSGirl = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0091-chapter-169-emeric-s-girl",
   title: "Chapter 169: Emeric’s Girl",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 91,
   ownLength: 5260,
   unit: "unit/words",

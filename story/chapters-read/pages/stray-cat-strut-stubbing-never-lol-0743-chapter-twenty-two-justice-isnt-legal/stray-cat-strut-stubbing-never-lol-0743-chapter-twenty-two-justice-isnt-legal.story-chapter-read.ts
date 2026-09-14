@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0743ChapterTwentyTwoJusticeIsntLegal =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0743-chapter-twenty-two-justice-isnt-legal",
   title: "Chapter Twenty-Two - Justice Isn't Legal",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 743,
   ownLength: 1525,
   unit: "unit/words",

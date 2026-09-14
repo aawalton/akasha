@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0204ChapterThirtySevenHeadingForGreene
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0204-chapter-thirty-seven-heading-for-greener-pastures",
   title: "Chapter Thirty-Seven - Heading For Greener Pastures",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 204,
   ownLength: 1572,
   unit: "unit/words",

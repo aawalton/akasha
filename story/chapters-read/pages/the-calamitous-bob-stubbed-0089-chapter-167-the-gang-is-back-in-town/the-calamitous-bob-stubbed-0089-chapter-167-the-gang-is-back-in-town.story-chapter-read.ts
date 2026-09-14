@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0089Chapter167TheGangIsBackInTown = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0089-chapter-167-the-gang-is-back-in-town",
   title: "Chapter 167: The Gang is Back in Town",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 89,
   ownLength: 7248,
   unit: "unit/words",

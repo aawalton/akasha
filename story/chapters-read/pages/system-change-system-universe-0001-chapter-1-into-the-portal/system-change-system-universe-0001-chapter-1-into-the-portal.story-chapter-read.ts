@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0001Chapter1IntoThePortal = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0001-chapter-1-into-the-portal",
   title: "Chapter 1: Into the Portal",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 1,
   ownLength: 1911,
   unit: "unit/words",

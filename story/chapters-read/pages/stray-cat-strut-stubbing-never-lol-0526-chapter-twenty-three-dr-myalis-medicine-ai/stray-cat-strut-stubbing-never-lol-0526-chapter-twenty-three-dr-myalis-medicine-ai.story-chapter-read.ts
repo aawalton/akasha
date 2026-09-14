@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0526ChapterTwentyThreeDrMyalisMedicine
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0526-chapter-twenty-three-dr-myalis-medicine-ai",
   title: "Chapter Twenty-Three - Dr. Myalis, Medicine AI",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 526,
   ownLength: 1499,
   unit: "unit/words",

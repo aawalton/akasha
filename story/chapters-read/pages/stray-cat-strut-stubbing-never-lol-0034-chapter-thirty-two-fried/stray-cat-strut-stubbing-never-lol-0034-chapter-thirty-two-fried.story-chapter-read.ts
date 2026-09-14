@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0034ChapterThirtyTwoFried = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0034-chapter-thirty-two-fried",
   title: "Chapter Thirty-Two - Fried",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 34,
   ownLength: 975,
   unit: "unit/words",

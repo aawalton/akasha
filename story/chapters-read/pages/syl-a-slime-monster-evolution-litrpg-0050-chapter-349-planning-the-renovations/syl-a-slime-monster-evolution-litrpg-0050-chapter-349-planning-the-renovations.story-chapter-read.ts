@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0050Chapter349PlanningTheRenovations
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0050-chapter-349-planning-the-renovations",
   title: "Chapter 349 : Planning the Renovations",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 50,
   ownLength: 2541,
   unit: "unit/words",

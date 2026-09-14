@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0058Chapter636OriginSystemOath = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0058-chapter-636-origin-system-oath",
   title: "Chapter 636: Origin System Oath",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 58,
   ownLength: 2122,
   unit: "unit/words",

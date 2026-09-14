@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0108Chapter186BeyondTheDisasterWall = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0108-chapter-186-beyond-the-disaster-wall",
   title: "Chapter 186: Beyond the disaster wall.",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 108,
   ownLength: 5440,
   unit: "unit/words",

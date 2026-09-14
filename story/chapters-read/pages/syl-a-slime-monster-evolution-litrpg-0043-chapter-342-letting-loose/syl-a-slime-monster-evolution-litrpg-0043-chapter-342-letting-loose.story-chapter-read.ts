@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0043Chapter342LettingLoose = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0043-chapter-342-letting-loose",
   title: "Chapter 342 : Letting Loose",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 43,
   ownLength: 2309,
   unit: "unit/words",

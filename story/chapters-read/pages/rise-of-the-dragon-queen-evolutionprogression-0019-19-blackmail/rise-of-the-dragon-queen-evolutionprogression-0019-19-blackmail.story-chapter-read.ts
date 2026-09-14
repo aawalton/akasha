@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001919Blackmail = {
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0019-19-blackmail",
   title: "19 - Blackmail",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 19,
   ownLength: 2242,
   unit: "unit/words",

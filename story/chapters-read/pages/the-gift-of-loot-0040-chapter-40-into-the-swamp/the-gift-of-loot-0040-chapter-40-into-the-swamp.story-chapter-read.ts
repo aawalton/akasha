@@ -5,7 +5,7 @@ export const theGiftOfLoot0040Chapter40IntoTheSwamp = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0040-chapter-40-into-the-swamp",
   title: "Chapter 40: Into The Swamp",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 40,
   ownLength: 3095,
   unit: "unit/words",

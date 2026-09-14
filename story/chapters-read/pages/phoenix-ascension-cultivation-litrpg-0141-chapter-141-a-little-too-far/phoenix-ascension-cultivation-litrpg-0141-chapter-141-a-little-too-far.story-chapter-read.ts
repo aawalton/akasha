@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0141Chapter141ALittleTooFar = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0141-chapter-141-a-little-too-far",
   title: "Chapter 141: A little too far.",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 141,
   ownLength: 2410,
   unit: "unit/words",

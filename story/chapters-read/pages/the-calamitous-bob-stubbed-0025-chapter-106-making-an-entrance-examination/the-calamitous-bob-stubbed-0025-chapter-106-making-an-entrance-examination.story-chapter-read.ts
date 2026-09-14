@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0025Chapter106MakingAnEntranceExamination = 
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0025-chapter-106-making-an-entrance-examination",
   title: "Chapter 106: Making an entrance (examination)",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 25,
   ownLength: 5829,
   unit: "unit/words",

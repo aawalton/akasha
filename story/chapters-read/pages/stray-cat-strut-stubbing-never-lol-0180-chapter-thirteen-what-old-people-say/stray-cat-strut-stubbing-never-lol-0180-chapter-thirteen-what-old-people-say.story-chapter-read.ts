@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0180ChapterThirteenWhatOldPeopleSay = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0180-chapter-thirteen-what-old-people-say",
   title: "Chapter Thirteen - What Old People Say",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 180,
   ownLength: 1503,
   unit: "unit/words",

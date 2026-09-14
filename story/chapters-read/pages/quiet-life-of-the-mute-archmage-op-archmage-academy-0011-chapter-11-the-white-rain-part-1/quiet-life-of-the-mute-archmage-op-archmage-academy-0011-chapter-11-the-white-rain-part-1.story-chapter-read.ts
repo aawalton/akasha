@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0011Chapter11TheWhiteRai
   type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0011-chapter-11-the-white-rain-part-1",
   title: "Chapter 11: The White Rain (Part 1)",
-  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "story-read/quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 11,
   ownLength: 2127,
   unit: "unit/words",

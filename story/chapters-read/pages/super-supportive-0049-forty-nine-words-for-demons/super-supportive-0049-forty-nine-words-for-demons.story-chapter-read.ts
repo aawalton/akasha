@@ -5,7 +5,7 @@ export const superSupportive0049FortyNineWordsForDemons = {
   type: "story-chapter-read",
   slug: "super-supportive-0049-forty-nine-words-for-demons",
   title: "FORTY-NINE: Words for Demons",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 49,
   ownLength: 3431,
   unit: "unit/words",

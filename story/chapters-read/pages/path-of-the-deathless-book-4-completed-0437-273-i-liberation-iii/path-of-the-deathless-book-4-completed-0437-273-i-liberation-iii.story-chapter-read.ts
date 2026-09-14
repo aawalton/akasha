@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0437273ILiberationIii = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0437-273-i-liberation-iii",
   title: "273 (I) Liberation [III] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 437,
   ownLength: 0,
   unit: "unit/words",

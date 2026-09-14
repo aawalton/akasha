@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0052Chapter52ChakramTiger = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0052-chapter-52-chakram-tiger",
   title: "Chapter 52: Chakram Tiger",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 52,
   ownLength: 2198,
   unit: "unit/words",

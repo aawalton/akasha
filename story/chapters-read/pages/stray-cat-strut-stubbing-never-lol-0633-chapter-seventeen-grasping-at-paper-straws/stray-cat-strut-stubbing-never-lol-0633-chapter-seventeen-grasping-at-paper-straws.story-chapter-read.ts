@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0633ChapterSeventeenGraspingAtPaperStr
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0633-chapter-seventeen-grasping-at-paper-straws",
   title: "Chapter Seventeen - Grasping at Paper Straws",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 633,
   ownLength: 1507,
   unit: "unit/words",

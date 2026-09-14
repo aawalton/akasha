@@ -5,7 +5,7 @@ export const superSupportive0100NinetyNineGymClassI = {
   type: "story-chapter-read",
   slug: "super-supportive-0100-ninety-nine-gym-class-i",
   title: "NINETY-NINE:  Gym Class, I",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 100,
   ownLength: 8547,
   unit: "unit/words",

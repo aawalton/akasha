@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0580370ACoalitionAgainstTheEndIi = 
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0580-370-a-coalition-against-the-end-ii",
   title: "370 A Coalition Against the End [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 580,
   ownLength: 0,
   unit: "unit/words",

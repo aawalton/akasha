@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0539337TheBoilingToad = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0539-337-the-boiling-toad",
   title: "337 The Boiling Toad",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 539,
   ownLength: 0,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0047Chapter127TheGatesOfHell = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0047-chapter-127-the-gates-of-hell",
   title: "Chapter 127: The Gates of Hell",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 47,
   ownLength: 5030,
   unit: "unit/words",

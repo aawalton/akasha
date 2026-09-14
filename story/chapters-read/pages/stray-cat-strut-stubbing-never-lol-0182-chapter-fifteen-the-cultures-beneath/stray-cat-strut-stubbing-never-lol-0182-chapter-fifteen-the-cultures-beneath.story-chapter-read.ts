@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0182ChapterFifteenTheCulturesBeneath =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0182-chapter-fifteen-the-cultures-beneath",
   title: "Chapter Fifteen - The Cultures Beneath",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 182,
   ownLength: 1369,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const superSupportive0104OneHundredThreeArtonanConversations = {
   type: "story-chapter-read",
   slug: "super-supportive-0104-one-hundred-three-artonan-conversations",
   title: "ONE HUNDRED THREE: Artonan Conversations",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 104,
   ownLength: 9571,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000989IBelieveIHaveACl
   type: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0009-89-i-believe-i-have-a-class-to-get-to",
   title: "89: I believe I have a class to get to",
-  story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  story: "story-read/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 9,
   ownLength: 1673,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0026Chapter25TheArenaOfTheTitan
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0026-chapter-25-the-arena-of-the-titans",
   title: "Chapter 25: The Arena of the Titans",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 26,
   ownLength: 2478,
   unit: "unit/words",

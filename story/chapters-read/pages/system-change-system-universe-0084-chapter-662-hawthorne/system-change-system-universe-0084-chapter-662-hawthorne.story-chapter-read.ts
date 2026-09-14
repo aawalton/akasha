@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0084Chapter662Hawthorne = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0084-chapter-662-hawthorne",
   title: "Chapter 662: Hawthorne",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 84,
   ownLength: 2032,
   unit: "unit/words",

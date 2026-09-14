@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0272ChapterThirtyOneGoldStar = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0272-chapter-thirty-one-gold-star",
   title: "Chapter Thirty-One - Gold Star",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 272,
   ownLength: 1452,
   unit: "unit/words",

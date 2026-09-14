@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0611ScsArtContest = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0611-scs-art-contest",
   title: "SCS Art Contest!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 611,
   ownLength: 206,
   unit: "unit/words",

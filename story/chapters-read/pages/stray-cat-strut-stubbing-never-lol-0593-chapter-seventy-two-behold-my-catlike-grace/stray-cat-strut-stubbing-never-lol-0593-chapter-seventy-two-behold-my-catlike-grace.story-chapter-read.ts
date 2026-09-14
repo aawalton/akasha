@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0593ChapterSeventyTwoBeholdMyCatlikeGr
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0593-chapter-seventy-two-behold-my-catlike-grace",
   title: "Chapter Seventy-Two - Behold My Catlike Grace",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 593,
   ownLength: 1509,
   unit: "unit/words",

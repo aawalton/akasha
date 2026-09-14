@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0175191IiBurden2756047 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0175-191-ii-burden-2756047",
   title: "191 (II) Burden",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 175,
   ownLength: 3813,
   unit: "unit/words",

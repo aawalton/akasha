@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0718ChapterOneYourDailyAllowanceOfUnsa
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0718-chapter-one-your-daily-allowance-of-unsaid-things",
   title: "Chapter One - Your Daily Allowance of Unsaid Things",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 718,
   ownLength: 1498,
   unit: "unit/words",

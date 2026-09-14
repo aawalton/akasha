@@ -5,7 +5,7 @@ export const superSupportive0034ThirtyFourFishing = {
   type: "story-chapter-read",
   slug: "super-supportive-0034-thirty-four-fishing",
   title: "THIRTY-FOUR: Fishing",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 34,
   ownLength: 4296,
   unit: "unit/words",

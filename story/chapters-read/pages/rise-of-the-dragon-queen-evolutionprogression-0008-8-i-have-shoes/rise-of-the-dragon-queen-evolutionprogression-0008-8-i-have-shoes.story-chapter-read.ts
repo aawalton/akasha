@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression00088IHaveShoes = {
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0008-8-i-have-shoes",
   title: "8 - I have shoes!",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 8,
   ownLength: 2318,
   unit: "unit/words",

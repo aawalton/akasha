@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0036Chapter36TheresTrouble = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0036-chapter-36-theres-trouble",
   title: "Chapter 36: There's trouble!",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 36,
   ownLength: 3332,
   unit: "unit/words",

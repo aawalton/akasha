@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0013Chapter9FuturePlans = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0013-chapter-9-future-plans",
   title: "Chapter 9: Future Plans",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 13,
   ownLength: 1901,
   unit: "unit/words",

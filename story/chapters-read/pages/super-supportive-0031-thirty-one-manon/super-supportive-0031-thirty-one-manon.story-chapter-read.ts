@@ -5,7 +5,7 @@ export const superSupportive0031ThirtyOneManon = {
   type: "story-chapter-read",
   slug: "super-supportive-0031-thirty-one-manon",
   title: "THIRTY-ONE: Manon",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 31,
   ownLength: 4135,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const pathToProsperityLitrpgVol12Stubbed0002B1Chapter2Ego = {
   type: "story-chapter-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed-0002-b1-chapter-2-ego",
   title: "B1 Chapter 2 - Ego",
-  story: "path-to-prosperity-litrpg-vol-12-stubbed",
+  story: "story-read/path-to-prosperity-litrpg-vol-12-stubbed",
   position: 2,
   ownLength: 1381,
   unit: "unit/words",

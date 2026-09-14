@@ -5,7 +5,7 @@ export const superSupportive0036ThirtySixBone = {
   type: "story-chapter-read",
   slug: "super-supportive-0036-thirty-six-bone",
   title: "THIRTY-SIX: Bone",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 36,
   ownLength: 6118,
   unit: "unit/words",

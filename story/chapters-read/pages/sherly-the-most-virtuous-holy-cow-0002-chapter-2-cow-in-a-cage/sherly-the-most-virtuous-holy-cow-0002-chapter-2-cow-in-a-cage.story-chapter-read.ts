@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0002Chapter2CowInACage = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0002-chapter-2-cow-in-a-cage",
   title: "Chapter 2 - Cow in a Cage",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 2,
   ownLength: 2794,
   unit: "unit/words",

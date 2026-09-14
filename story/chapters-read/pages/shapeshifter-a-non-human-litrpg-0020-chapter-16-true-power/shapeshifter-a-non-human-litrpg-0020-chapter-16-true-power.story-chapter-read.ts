@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0020Chapter16TruePower = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0020-chapter-16-true-power",
   title: "Chapter 16: True Power",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 20,
   ownLength: 1672,
   unit: "unit/words",

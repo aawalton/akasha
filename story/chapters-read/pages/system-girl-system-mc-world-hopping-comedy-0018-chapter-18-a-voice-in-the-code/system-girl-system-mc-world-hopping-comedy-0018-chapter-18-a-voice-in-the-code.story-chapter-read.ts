@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0018Chapter18AVoiceInTheCode = 
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0018-chapter-18-a-voice-in-the-code",
   title: "Chapter 18: A Voice in the Code",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 18,
   ownLength: 2567,
   unit: "unit/words",

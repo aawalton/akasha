@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0155ChapterSeventyOneChlorineTrifluori
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0155-chapter-seventy-one-chlorine-trifluoride",
   title: "Chapter Seventy-One - Chlorine Trifluoride",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 155,
   ownLength: 1409,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0634ChapterEighteenHowWillYouWipeTomor
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0634-chapter-eighteen-how-will-you-wipe-tomorrow",
   title: "Chapter Eighteen - How Will You Wipe Tomorrow?",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 634,
   ownLength: 1508,
   unit: "unit/words",

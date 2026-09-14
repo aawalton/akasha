@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression00011ImNotStupid = {
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0001-1-im-not-stupid",
   title: "1 - I'm not stupid!",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 1,
   ownLength: 2169,
   unit: "unit/words",

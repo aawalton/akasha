@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0554TheOngoingContestHasComeToAClose =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0554-the-ongoing-contest-has-come-to-a-close",
   title: "The Ongoing Contest has come to a close!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 554,
   ownLength: 362,
   unit: "unit/words",

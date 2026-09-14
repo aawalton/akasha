@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0357280IiChrysalisIi3000121 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0357-280-ii-chrysalis-ii-3000121",
   title: "280 (II) Chrysalis [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 357,
   ownLength: 3297,
   unit: "unit/words",

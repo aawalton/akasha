@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0069ChapterIvIRAprilFools = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0069-chapter-iv-i-r-april-fools",
   title: "Chapter IV - I - R [April Fools]",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 69,
   ownLength: 12018,
   unit: "unit/words",

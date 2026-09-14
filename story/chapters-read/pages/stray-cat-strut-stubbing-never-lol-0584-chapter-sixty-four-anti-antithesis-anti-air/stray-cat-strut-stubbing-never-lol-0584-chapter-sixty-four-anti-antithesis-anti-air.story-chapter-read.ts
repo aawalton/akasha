@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0584ChapterSixtyFourAntiAntithesisAnti
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0584-chapter-sixty-four-anti-antithesis-anti-air",
   title: "Chapter Sixty-Four - Anti-Antithesis-Anti-Air",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 584,
   ownLength: 1482,
   unit: "unit/words",

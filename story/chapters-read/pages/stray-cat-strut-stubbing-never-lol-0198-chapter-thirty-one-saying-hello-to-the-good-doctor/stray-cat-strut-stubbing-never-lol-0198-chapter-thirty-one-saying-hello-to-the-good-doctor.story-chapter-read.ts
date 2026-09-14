@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0198ChapterThirtyOneSayingHelloToTheGo
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0198-chapter-thirty-one-saying-hello-to-the-good-doctor",
   title: "Chapter Thirty-One - Saying Hello to the Good Doctor",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 198,
   ownLength: 1524,
   unit: "unit/words",

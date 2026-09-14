@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0140Chapter140Beastkin = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0140-chapter-140-beastkin",
   title: "Chapter 140: Beastkin",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 140,
   ownLength: 2694,
   unit: "unit/words",

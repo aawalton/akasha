@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0070Chapter150ImportantBusiness = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0070-chapter-150-important-business",
   title: "Chapter 150: Important Business",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 70,
   ownLength: 6949,
   unit: "unit/words",

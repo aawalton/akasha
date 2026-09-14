@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0058302Epilogue = {
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0058-302-epilogue",
   title: "302. Epilogue",
-  story: "speedrunning-the-multiverse-complete",
+  story: "story-read/speedrunning-the-multiverse-complete",
   position: 58,
   ownLength: 867,
   unit: "unit/words",

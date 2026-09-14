@@ -5,7 +5,7 @@ export const superSupportive0275TwoHundredSeventyThreeTheOtherSide = {
   type: "story-chapter-read",
   slug: "super-supportive-0275-two-hundred-seventy-three-the-other-side",
   title: "TWO HUNDRED SEVENTY-THREE: The Other Side",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 275,
   ownLength: 3704,
   unit: "unit/words",

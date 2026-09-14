@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0609ChapterEightyFiveMeowThatsRight = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0609-chapter-eighty-five-meow-thats-right",
   title: "Chapter Eighty-Five - M.E.O.W, That's Right!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 609,
   ownLength: 1512,
   unit: "unit/words",

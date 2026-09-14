@@ -5,7 +5,7 @@ export const theGiftOfLoot0074Chapter74ProblemChildOnTheLoose = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0074-chapter-74-problem-child-on-the-loose",
   title: "Chapter 74: Problem Child On The Loose",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 74,
   ownLength: 3162,
   unit: "unit/words",

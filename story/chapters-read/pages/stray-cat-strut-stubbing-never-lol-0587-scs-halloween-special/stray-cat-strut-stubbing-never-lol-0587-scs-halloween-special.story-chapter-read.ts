@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0587ScsHalloweenSpecial = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0587-scs-halloween-special",
   title: "SCS Halloween Special",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 587,
   ownLength: 1476,
   unit: "unit/words",

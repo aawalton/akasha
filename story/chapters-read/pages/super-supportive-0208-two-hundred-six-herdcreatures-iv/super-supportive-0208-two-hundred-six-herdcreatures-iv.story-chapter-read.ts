@@ -5,7 +5,7 @@ export const superSupportive0208TwoHundredSixHerdcreaturesIv = {
   type: "story-chapter-read",
   slug: "super-supportive-0208-two-hundred-six-herdcreatures-iv",
   title: "TWO HUNDRED SIX: Herdcreatures IV",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 208,
   ownLength: 5797,
   unit: "unit/words",

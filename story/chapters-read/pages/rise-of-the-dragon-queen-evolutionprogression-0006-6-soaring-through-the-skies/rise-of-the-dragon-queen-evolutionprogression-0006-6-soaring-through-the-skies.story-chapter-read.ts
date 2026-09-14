@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression00066SoaringThroughTheSkies
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0006-6-soaring-through-the-skies",
   title: "6 - Soaring Through The Skies",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 6,
   ownLength: 2358,
   unit: "unit/words",

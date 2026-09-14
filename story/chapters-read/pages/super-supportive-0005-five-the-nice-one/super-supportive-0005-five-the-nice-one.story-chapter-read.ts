@@ -5,7 +5,7 @@ export const superSupportive0005FiveTheNiceOne = {
   type: "story-chapter-read",
   slug: "super-supportive-0005-five-the-nice-one",
   title: "FIVE: The Nice One",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 5,
   ownLength: 2525,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0491ChapterSixtyEightDoNotThePrincess 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0491-chapter-sixty-eight-do-not-the-princess",
   title: "Chapter Sixty-Eight - Do Not The Princess",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 491,
   ownLength: 1555,
   unit: "unit/words",

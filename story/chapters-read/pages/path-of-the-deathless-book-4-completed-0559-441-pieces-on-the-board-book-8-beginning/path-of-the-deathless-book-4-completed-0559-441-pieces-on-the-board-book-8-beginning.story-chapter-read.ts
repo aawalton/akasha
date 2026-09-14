@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0559441PiecesOnTheBoardBook8Beginni
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0559-441-pieces-on-the-board-book-8-beginning",
   title: "441 Pieces on the Board [Book 8 BEGINNING]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 559,
   ownLength: 6973,
   unit: "unit/words",

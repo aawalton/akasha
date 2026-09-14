@@ -5,7 +5,7 @@ export const succulentGirlEvolution0032Chapter32NewSkill = {
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0032-chapter-32-new-skill",
   title: "Chapter 32: New Skill",
-  story: "succulent-girl-evolution",
+  story: "story-read/succulent-girl-evolution",
   position: 32,
   ownLength: 2196,
   unit: "unit/words",

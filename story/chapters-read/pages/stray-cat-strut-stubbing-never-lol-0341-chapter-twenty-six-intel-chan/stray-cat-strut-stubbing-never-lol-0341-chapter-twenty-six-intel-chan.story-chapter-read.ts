@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0341ChapterTwentySixIntelChan = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0341-chapter-twenty-six-intel-chan",
   title: "Chapter Twenty-Six - Intel-chan",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 341,
   ownLength: 1479,
   unit: "unit/words",

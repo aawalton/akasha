@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0024Chapter24MultiColoredBeacon = 
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0024-chapter-24-multi-colored-beacon",
   title: "Chapter 24: Multi-Colored Beacon",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 24,
   ownLength: 4251,
   unit: "unit/words",

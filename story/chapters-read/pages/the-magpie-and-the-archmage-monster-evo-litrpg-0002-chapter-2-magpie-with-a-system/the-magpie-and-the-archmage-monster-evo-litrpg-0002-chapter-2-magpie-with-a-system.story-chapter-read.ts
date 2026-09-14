@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0002Chapter2MagpieWithASyste
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0002-chapter-2-magpie-with-a-system",
   title: "Chapter 2 – Magpie with a System",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 2,
   ownLength: 2195,
   unit: "unit/words",

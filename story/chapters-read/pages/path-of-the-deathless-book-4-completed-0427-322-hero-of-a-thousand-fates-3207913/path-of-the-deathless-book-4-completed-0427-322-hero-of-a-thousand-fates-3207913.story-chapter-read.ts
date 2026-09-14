@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0427322HeroOfAThousandFates3207913 
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0427-322-hero-of-a-thousand-fates-3207913",
   title: "322 Hero of a Thousand Fates",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 427,
   ownLength: 5144,
   unit: "unit/words",

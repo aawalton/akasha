@@ -5,7 +5,7 @@ export const theGiftOfLoot0048Chapter48TheBurden = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0048-chapter-48-the-burden",
   title: "Chapter 48: The Burden",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 48,
   ownLength: 3101,
   unit: "unit/words",

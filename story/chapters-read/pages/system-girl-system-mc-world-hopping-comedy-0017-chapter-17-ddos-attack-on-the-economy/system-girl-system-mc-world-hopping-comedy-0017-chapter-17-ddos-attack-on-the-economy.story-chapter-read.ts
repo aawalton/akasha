@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0017Chapter17DdosAttackOnTheEco
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0017-chapter-17-ddos-attack-on-the-economy",
   title: "Chapter 17: DDoS Attack on the Economy",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 17,
   ownLength: 2171,
   unit: "unit/words",

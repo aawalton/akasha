@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0444SideStoryPoll = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0444-side-story-poll",
   title: "Side Story Poll!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 444,
   ownLength: 346,
   unit: "unit/words",

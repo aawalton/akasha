@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0054Chapter632IWouldnTDare = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0054-chapter-632-i-wouldn-t-dare",
   title: "Chapter 632: I Wouldn’t Dare!",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 54,
   ownLength: 2217,
   unit: "unit/words",

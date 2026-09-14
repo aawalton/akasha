@@ -5,7 +5,7 @@ export const superSupportive0095NinetyFourRoommates = {
   type: "story-chapter-read",
   slug: "super-supportive-0095-ninety-four-roommates",
   title: "NINETY-FOUR: Roommates",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 95,
   ownLength: 8983,
   unit: "unit/words",

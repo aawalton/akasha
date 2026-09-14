@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0101Chapter399EnchantingOffer = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0101-chapter-399-enchanting-offer",
   title: "Chapter 399 : Enchanting Offer",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 101,
   ownLength: 2391,
   unit: "unit/words",

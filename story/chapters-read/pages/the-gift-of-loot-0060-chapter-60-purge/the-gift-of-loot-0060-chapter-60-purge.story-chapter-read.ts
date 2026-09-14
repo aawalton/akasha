@@ -5,7 +5,7 @@ export const theGiftOfLoot0060Chapter60Purge = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0060-chapter-60-purge",
   title: "Chapter 60: Purge",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 60,
   ownLength: 3309,
   unit: "unit/words",

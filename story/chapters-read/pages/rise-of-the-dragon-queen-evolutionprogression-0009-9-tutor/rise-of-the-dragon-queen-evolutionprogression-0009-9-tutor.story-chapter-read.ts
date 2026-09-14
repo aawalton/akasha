@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression00099Tutor = {
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0009-9-tutor",
   title: "9 - Tutor",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 9,
   ownLength: 2726,
   unit: "unit/words",

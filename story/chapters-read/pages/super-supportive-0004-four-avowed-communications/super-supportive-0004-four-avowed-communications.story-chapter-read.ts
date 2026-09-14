@@ -5,7 +5,7 @@ export const superSupportive0004FourAvowedCommunications = {
   type: "story-chapter-read",
   slug: "super-supportive-0004-four-avowed-communications",
   title: "FOUR: Avowed Communications",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 4,
   ownLength: 3023,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0074Chapter652TyrantLarva = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0074-chapter-652-tyrant-larva",
   title: "Chapter 652: Tyrant Larva",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 74,
   ownLength: 2075,
   unit: "unit/words",

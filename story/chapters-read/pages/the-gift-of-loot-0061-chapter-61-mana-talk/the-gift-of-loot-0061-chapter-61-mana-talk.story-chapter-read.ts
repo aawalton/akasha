@@ -5,7 +5,7 @@ export const theGiftOfLoot0061Chapter61ManaTalk = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0061-chapter-61-mana-talk",
   title: "Chapter 61: Mana Talk",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 61,
   ownLength: 3820,
   unit: "unit/words",

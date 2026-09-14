@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0150Chapter225TheTricksterRun = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0150-chapter-225-the-trickster-run",
   title: "Chapter 225: The Trickster Run",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 150,
   ownLength: 5849,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0049Chapter49TheHardSell = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0049-chapter-49-the-hard-sell",
   title: "Chapter 49: The Hard Sell",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 49,
   ownLength: 4121,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0128Chapter203SecondChances = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0128-chapter-203-second-chances",
   title: "Chapter 203: Second Chances",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 128,
   ownLength: 6503,
   unit: "unit/words",

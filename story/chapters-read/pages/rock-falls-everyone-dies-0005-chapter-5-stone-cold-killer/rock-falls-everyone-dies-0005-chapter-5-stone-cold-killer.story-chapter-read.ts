@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0005Chapter5StoneColdKiller = {
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0005-chapter-5-stone-cold-killer",
   title: "Chapter 5 – Stone Cold Killer",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 5,
   ownLength: 1320,
   unit: "unit/words",

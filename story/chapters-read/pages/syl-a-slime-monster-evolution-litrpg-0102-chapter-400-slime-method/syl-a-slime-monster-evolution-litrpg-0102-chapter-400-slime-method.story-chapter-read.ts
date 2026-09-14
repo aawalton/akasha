@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0102Chapter400SlimeMethod = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0102-chapter-400-slime-method",
   title: "Chapter 400 : Slime Method",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 102,
   ownLength: 2492,
   unit: "unit/words",

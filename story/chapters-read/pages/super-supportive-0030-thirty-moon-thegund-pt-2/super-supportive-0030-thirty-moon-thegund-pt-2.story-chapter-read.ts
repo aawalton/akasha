@@ -5,7 +5,7 @@ export const superSupportive0030ThirtyMoonThegundPt2 = {
   type: "story-chapter-read",
   slug: "super-supportive-0030-thirty-moon-thegund-pt-2",
   title: "THIRTY: Moon Thegund, Pt. 2",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 30,
   ownLength: 4111,
   unit: "unit/words",

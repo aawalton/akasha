@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0303ChapterSixtyTheEnemyWontDoAsYouWis
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0303-chapter-sixty-the-enemy-wont-do-as-you-wish",
   title: "Chapter Sixty - The Enemy Won't Do As You Wish",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 303,
   ownLength: 1420,
   unit: "unit/words",

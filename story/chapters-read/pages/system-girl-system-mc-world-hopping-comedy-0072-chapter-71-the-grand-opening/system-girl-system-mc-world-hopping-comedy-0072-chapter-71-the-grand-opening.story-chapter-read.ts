@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0072Chapter71TheGrandOpening = 
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0072-chapter-71-the-grand-opening",
   title: "Chapter 71: The Grand Opening",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 72,
   ownLength: 3247,
   unit: "unit/words",

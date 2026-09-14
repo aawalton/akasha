@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0267ChapterTwentySixBreachLoadCharge =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0267-chapter-twenty-six-breach-load-charge",
   title: "Chapter Twenty-Six - Breach, Load, Charge",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 267,
   ownLength: 1500,
   unit: "unit/words",

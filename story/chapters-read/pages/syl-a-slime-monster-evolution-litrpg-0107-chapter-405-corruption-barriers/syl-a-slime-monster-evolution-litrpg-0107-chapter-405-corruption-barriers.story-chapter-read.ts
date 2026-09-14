@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0107Chapter405CorruptionBarriers = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0107-chapter-405-corruption-barriers",
   title: "Chapter 405 : Corruption Barriers",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 107,
   ownLength: 2690,
   unit: "unit/words",

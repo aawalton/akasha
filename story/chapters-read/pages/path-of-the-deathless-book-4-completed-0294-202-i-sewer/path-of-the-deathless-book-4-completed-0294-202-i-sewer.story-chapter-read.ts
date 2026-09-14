@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0294202ISewer = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0294-202-i-sewer",
   title: "202 (I) Sewer",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 294,
   ownLength: 0,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0334ChapterNineteenVitalDefensivePrepa
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0334-chapter-nineteen-vital-defensive-preparation",
   title: "Chapter Nineteen - Vital Defensive Preparation",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 334,
   ownLength: 1458,
   unit: "unit/words",

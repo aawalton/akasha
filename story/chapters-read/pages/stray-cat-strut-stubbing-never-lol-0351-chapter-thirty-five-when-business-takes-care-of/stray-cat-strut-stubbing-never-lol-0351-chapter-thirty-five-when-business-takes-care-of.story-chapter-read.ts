@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0351ChapterThirtyFiveWhenBusinessTakes
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0351-chapter-thirty-five-when-business-takes-care-of",
   title: "Chapter Thirty-Five - When Business Takes Care of Itself",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 351,
   ownLength: 1532,
   unit: "unit/words",

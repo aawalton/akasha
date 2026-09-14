@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0022Chapter22CowAndHerSkills = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0022-chapter-22-cow-and-her-skills",
   title: "Chapter 22 - Cow and Her Skills",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 22,
   ownLength: 1748,
   unit: "unit/words",

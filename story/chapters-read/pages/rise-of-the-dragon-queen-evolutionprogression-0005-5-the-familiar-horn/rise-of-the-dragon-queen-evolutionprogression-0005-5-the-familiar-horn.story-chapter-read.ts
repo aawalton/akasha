@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression00055TheFamiliarHorn = {
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0005-5-the-familiar-horn",
   title: "5 - The Familiar Horn",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 5,
   ownLength: 2096,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0022Chapter22DaveDial = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0022-chapter-22-dave-dial",
   title: "Chapter 22: DAVE Dial",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 22,
   ownLength: 2356,
   unit: "unit/words",

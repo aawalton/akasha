@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0667ChapterFortySevenFreeRealEstate = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0667-chapter-forty-seven-free-real-estate",
   title: "Chapter Forty-Seven - Free Real Estate",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 667,
   ownLength: 1544,
   unit: "unit/words",

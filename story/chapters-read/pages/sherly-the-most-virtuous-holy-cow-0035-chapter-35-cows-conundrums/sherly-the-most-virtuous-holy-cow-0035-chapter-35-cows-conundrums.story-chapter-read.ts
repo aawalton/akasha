@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0035Chapter35CowsConundrums = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0035-chapter-35-cows-conundrums",
   title: "Chapter 35 - Cow’s Conundrums",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 35,
   ownLength: 1752,
   unit: "unit/words",

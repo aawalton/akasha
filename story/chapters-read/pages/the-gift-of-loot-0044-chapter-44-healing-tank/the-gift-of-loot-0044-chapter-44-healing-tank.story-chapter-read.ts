@@ -5,7 +5,7 @@ export const theGiftOfLoot0044Chapter44HealingTank = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0044-chapter-44-healing-tank",
   title: "Chapter 44: Healing Tank",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 44,
   ownLength: 3665,
   unit: "unit/words",

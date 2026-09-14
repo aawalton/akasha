@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0152Chapter227Scrambling = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0152-chapter-227-scrambling",
   title: "Chapter 227: Scrambling",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 152,
   ownLength: 5086,
   unit: "unit/words",

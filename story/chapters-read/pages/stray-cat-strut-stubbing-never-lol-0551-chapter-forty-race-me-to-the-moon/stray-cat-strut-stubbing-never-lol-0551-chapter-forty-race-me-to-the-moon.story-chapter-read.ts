@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0551ChapterFortyRaceMeToTheMoon = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0551-chapter-forty-race-me-to-the-moon",
   title: "Chapter Forty - Race Me to the Moon",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 551,
   ownLength: 1498,
   unit: "unit/words",

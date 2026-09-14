@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0065Chapter364Negotiation = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0065-chapter-364-negotiation",
   title: "Chapter 364 : Negotiation",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 65,
   ownLength: 2084,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const superSupportive0023TwentyThreeFuneral = {
   type: "story-chapter-read",
   slug: "super-supportive-0023-twenty-three-funeral",
   title: "TWENTY-THREE: Funeral",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 23,
   ownLength: 5020,
   unit: "unit/words",

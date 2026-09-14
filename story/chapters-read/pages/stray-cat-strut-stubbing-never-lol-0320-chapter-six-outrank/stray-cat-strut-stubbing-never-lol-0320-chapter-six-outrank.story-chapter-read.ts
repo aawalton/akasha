@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0320ChapterSixOutrank = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0320-chapter-six-outrank",
   title: "Chapter Six - Outrank",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 320,
   ownLength: 1464,
   unit: "unit/words",

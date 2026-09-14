@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0720ChapterThreeCanJunoComePlay = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0720-chapter-three-can-juno-come-play",
   title: "Chapter Three - Can Juno Come Play?",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 720,
   ownLength: 1526,
   unit: "unit/words",

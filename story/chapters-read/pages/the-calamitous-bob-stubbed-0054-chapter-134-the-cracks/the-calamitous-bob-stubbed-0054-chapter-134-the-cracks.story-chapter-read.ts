@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0054Chapter134TheCracks = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0054-chapter-134-the-cracks",
   title: "Chapter 134: The Cracks.",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 54,
   ownLength: 4948,
   unit: "unit/words",

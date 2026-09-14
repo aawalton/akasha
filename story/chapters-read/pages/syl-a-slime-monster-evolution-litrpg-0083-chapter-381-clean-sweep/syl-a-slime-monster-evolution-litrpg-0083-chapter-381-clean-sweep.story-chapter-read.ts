@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0083Chapter381CleanSweep = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0083-chapter-381-clean-sweep",
   title: "Chapter 381 : Clean Sweep",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 83,
   ownLength: 3509,
   unit: "unit/words",

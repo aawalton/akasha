@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0445ChapterFortyCreativeKleptomania = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0445-chapter-forty-creative-kleptomania",
   title: "Chapter Forty - Creative Kleptomania",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 445,
   ownLength: 1468,
   unit: "unit/words",

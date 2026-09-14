@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001616Training = {
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0016-16-training",
   title: "16 - Training",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 16,
   ownLength: 2164,
   unit: "unit/words",

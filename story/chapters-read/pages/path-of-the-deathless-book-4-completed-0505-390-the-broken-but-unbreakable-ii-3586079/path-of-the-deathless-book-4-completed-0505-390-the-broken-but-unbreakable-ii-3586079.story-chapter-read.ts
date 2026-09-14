@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0505390TheBrokenButUnbreakableIi358
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0505-390-the-broken-but-unbreakable-ii-3586079",
   title: "390  The Broken But Unbreakable [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 505,
   ownLength: 5418,
   unit: "unit/words",

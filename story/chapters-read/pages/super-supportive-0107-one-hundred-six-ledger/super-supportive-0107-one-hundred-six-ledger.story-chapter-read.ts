@@ -5,7 +5,7 @@ export const superSupportive0107OneHundredSixLedger = {
   type: "story-chapter-read",
   slug: "super-supportive-0107-one-hundred-six-ledger",
   title: "ONE HUNDRED SIX: Ledger",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 107,
   ownLength: 6721,
   unit: "unit/words",

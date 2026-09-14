@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0632ChapterSixteenDieWeltIstImWandel =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0632-chapter-sixteen-die-welt-ist-im-wandel",
   title: "Chapter Sixteen - Die Welt ist im Wandel",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 632,
   ownLength: 1475,
   unit: "unit/words",

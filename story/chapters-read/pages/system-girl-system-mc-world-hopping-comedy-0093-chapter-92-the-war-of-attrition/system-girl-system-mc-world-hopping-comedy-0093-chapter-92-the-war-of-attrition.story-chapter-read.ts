@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0093Chapter92TheWarOfAttrition 
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0093-chapter-92-the-war-of-attrition",
   title: "Chapter 92: The War of Attrition",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 93,
   ownLength: 2075,
   unit: "unit/words",

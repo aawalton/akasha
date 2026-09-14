@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0027Chapter27CowOnAnotherRoad = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0027-chapter-27-cow-on-another-road",
   title: "Chapter 27 - Cow on Another Road",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 27,
   ownLength: 2226,
   unit: "unit/words",

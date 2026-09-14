@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0124Chapter422FrozenDreams = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0124-chapter-422-frozen-dreams",
   title: "Chapter 422 : Frozen Dreams",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 124,
   ownLength: 2299,
   unit: "unit/words",

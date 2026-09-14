@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0230ChapterSixtyTwoAttemptingCommonSen
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0230-chapter-sixty-two-attempting-common-sense",
   title: "Chapter Sixty-Two - Attempting Common Sense",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 230,
   ownLength: 1540,
   unit: "unit/words",

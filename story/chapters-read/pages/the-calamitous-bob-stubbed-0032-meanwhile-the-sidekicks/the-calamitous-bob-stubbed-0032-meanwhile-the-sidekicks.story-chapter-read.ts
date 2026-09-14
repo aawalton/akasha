@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0032MeanwhileTheSidekicks = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0032-meanwhile-the-sidekicks",
   title: "Meanwhile, the sidekicks.",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 32,
   ownLength: 1087,
   unit: "unit/words",

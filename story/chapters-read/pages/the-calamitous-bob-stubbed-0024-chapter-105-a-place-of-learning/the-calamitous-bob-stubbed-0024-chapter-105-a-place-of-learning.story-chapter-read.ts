@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0024Chapter105APlaceOfLearning = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0024-chapter-105-a-place-of-learning",
   title: "Chapter 105: A Place of Learning",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 24,
   ownLength: 5111,
   unit: "unit/words",

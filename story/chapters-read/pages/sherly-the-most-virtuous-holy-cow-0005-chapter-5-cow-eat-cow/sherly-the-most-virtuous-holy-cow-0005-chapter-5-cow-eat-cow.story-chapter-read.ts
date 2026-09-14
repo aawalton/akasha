@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0005Chapter5CowEatCow = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0005-chapter-5-cow-eat-cow",
   title: "Chapter 5 - Cow Eat Cow",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 5,
   ownLength: 2027,
   unit: "unit/words",

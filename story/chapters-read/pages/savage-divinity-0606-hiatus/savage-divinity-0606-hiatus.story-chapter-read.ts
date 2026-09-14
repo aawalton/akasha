@@ -5,7 +5,7 @@ export const savageDivinity0606Hiatus = {
   type: "story-chapter-read",
   slug: "savage-divinity-0606-hiatus",
   title: "Hiatus",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 606,
   ownLength: 220,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0009Chapter9TheUpgradePath = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0009-chapter-9-the-upgrade-path",
   title: "Chapter 9: The Upgrade Path",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 9,
   ownLength: 1811,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0635ChapterNineteenWantToSeeMyFanartCo
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0635-chapter-nineteen-want-to-see-my-fanart-collection",
   title: "Chapter Nineteen - Want To See My Fanart Collection?",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 635,
   ownLength: 1514,
   unit: "unit/words",

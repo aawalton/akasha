@@ -5,7 +5,7 @@ export const savageDivinity0851Epilogue2Yan = {
   type: "story-chapter-read",
   slug: "savage-divinity-0851-epilogue-2-yan",
   title: "Epilogue 2: Yan",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 851,
   ownLength: 7254,
   unit: "unit/words",

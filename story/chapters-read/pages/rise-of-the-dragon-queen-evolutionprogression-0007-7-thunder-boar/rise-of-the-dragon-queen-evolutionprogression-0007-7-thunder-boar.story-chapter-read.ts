@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression00077ThunderBoar = {
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0007-7-thunder-boar",
   title: "7 - Thunder Boar",
-  story: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "story-read/rise-of-the-dragon-queen-evolutionprogression",
   position: 7,
   ownLength: 2597,
   unit: "unit/words",

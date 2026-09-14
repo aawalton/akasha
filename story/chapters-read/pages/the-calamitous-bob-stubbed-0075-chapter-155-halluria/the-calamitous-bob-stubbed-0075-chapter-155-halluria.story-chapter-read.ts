@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0075Chapter155Halluria = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0075-chapter-155-halluria",
   title: "Chapter 155: Halluria ",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 75,
   ownLength: 6038,
   unit: "unit/words",

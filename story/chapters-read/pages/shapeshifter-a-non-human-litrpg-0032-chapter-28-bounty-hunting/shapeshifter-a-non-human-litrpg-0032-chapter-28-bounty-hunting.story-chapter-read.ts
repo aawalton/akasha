@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0032Chapter28BountyHunting = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0032-chapter-28-bounty-hunting",
   title: "Chapter 28: Bounty Hunting",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 32,
   ownLength: 1937,
   unit: "unit/words",

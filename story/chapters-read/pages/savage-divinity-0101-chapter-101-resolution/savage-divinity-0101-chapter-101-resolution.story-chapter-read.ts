@@ -5,7 +5,7 @@ export const savageDivinity0101Chapter101Resolution = {
   type: "story-chapter-read",
   slug: "savage-divinity-0101-chapter-101-resolution",
   title: "Chapter 101 - Resolution",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 101,
   ownLength: 3430,
   unit: "unit/words",

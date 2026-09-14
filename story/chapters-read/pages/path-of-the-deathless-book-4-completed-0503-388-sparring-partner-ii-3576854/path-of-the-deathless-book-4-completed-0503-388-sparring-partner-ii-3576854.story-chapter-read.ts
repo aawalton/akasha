@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0503388SparringPartnerIi3576854 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0503-388-sparring-partner-ii-3576854",
   title: "388 Sparring Partner [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 503,
   ownLength: 7154,
   unit: "unit/words",

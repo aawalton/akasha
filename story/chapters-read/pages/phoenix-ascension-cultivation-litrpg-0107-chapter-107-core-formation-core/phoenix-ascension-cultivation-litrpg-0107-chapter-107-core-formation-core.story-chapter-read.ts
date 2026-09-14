@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0107Chapter107CoreFormationCore = 
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0107-chapter-107-core-formation-core",
   title: "Chapter 107: Core Formation Core",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 107,
   ownLength: 1983,
   unit: "unit/words",

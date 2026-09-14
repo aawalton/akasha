@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0329ChapterFourteenOppositesDistract =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0329-chapter-fourteen-opposites-distract",
   title: "Chapter Fourteen - Opposites Distract",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 329,
   ownLength: 1505,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0488ChapterSixtySixPeanutButterAndLesb
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0488-chapter-sixty-six-peanut-butter-and-lesbian-time",
   title: "Chapter Sixty-Six - Peanut Butter and Lesbian Time",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 488,
   ownLength: 1417,
   unit: "unit/words",

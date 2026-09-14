@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0101Chapter100TheBrokenCage = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0101-chapter-100-the-broken-cage",
   title: "Chapter 100: The Broken Cage",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 101,
   ownLength: 2515,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0375InterludeChefLucy = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0375-interlude-chef-lucy",
   title: "Interlude - Chef Lucy",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 375,
   ownLength: 1693,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0384ScsFanfictionContestWinnerAboveThe
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0384-scs-fanfiction-contest-winner-above-the-clouds-by",
   title: "SCS Fanfiction Contest Winner - Above the Clouds - By Luke W. Logan",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 384,
   ownLength: 5496,
   unit: "unit/words",

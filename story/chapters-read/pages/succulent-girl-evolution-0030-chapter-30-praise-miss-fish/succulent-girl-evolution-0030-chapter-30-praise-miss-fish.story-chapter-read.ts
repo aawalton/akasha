@@ -5,7 +5,7 @@ export const succulentGirlEvolution0030Chapter30PraiseMissFish = {
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0030-chapter-30-praise-miss-fish",
   title: "Chapter 30: Praise Miss Fish",
-  story: "succulent-girl-evolution",
+  story: "story-read/succulent-girl-evolution",
   position: 30,
   ownLength: 1944,
   unit: "unit/words",

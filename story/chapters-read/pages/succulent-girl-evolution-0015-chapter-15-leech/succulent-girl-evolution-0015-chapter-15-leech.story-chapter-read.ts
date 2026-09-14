@@ -5,7 +5,7 @@ export const succulentGirlEvolution0015Chapter15Leech = {
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0015-chapter-15-leech",
   title: "Chapter 15: Leech",
-  story: "succulent-girl-evolution",
+  story: "story-read/succulent-girl-evolution",
   position: 15,
   ownLength: 1884,
   unit: "unit/words",

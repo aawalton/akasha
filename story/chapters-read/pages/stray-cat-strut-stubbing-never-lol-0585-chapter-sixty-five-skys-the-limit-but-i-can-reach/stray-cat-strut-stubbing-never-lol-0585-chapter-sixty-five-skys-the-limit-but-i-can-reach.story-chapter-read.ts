@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0585ChapterSixtyFiveSkysTheLimitButICa
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0585-chapter-sixty-five-skys-the-limit-but-i-can-reach",
   title: "Chapter Sixty-Five - Sky's the Limit, But I Can Reach",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 585,
   ownLength: 1455,
   unit: "unit/words",

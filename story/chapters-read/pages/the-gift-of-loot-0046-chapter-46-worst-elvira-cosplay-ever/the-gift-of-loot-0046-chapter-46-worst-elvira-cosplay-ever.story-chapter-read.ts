@@ -5,7 +5,7 @@ export const theGiftOfLoot0046Chapter46WorstElviraCosplayEver = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0046-chapter-46-worst-elvira-cosplay-ever",
   title: "Chapter 46: Worst Elvira Cosplay Ever",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 46,
   ownLength: 3039,
   unit: "unit/words",

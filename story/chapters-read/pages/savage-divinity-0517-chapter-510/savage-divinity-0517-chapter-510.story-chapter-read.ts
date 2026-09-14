@@ -5,7 +5,7 @@ export const savageDivinity0517Chapter510 = {
   type: "story-chapter-read",
   slug: "savage-divinity-0517-chapter-510",
   title: "Chapter 510",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 517,
   ownLength: 3732,
   unit: "unit/words",

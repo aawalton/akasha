@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0072Chapter650DonTDie = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0072-chapter-650-don-t-die",
   title: "Chapter 650: Don't Die",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 72,
   ownLength: 2086,
   unit: "unit/words",

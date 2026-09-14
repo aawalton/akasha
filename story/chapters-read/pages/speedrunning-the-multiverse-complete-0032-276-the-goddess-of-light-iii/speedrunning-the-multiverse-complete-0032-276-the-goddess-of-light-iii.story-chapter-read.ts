@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0032276TheGoddessOfLightIii = {
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0032-276-the-goddess-of-light-iii",
   title: "276. The Goddess of Light (III) ",
-  story: "speedrunning-the-multiverse-complete",
+  story: "story-read/speedrunning-the-multiverse-complete",
   position: 32,
   ownLength: 1793,
   unit: "unit/words",

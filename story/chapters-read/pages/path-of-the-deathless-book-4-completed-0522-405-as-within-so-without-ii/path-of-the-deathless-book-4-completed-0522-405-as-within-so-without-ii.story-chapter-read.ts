@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0522405AsWithinSoWithoutIi = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0522-405-as-within-so-without-ii",
   title: "405 As Within, So Without [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 522,
   ownLength: 6055,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0566ChapterFortyNineImCatAndYouAreWatc
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0566-chapter-forty-nine-im-cat-and-you-are-watching",
   title: "Chapter Forty-Nine - I'm Cat and You Are Watching Deep Space Ballistics!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 566,
   ownLength: 1506,
   unit: "unit/words",

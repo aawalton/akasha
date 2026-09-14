@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0037Chapter32TheFacelessHunters = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0037-chapter-32-the-faceless-hunters",
   title: "Chapter 32: The Faceless Hunters",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 37,
   ownLength: 1985,
   unit: "unit/words",

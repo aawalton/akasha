@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0085Chapter164Councils = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0085-chapter-164-councils",
   title: "Chapter 164:  Councils",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 85,
   ownLength: 6305,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const superSupportive0214TwoHundredTwelveHighFlyers = {
   type: "story-chapter-read",
   slug: "super-supportive-0214-two-hundred-twelve-high-flyers",
   title: "TWO HUNDRED TWELVE: High Flyers",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 214,
   ownLength: 4540,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0085Chapter84TheGreatEscape = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0085-chapter-84-the-great-escape",
   title: "Chapter 84: The Great Escape",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 85,
   ownLength: 2210,
   unit: "unit/words",

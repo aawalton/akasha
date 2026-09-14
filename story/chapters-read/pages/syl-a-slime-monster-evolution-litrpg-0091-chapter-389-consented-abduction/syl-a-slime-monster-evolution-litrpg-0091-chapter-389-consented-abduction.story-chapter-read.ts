@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0091Chapter389ConsentedAbduction = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0091-chapter-389-consented-abduction",
   title: "Chapter 389 : Consented Abduction",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 91,
   ownLength: 2216,
   unit: "unit/words",

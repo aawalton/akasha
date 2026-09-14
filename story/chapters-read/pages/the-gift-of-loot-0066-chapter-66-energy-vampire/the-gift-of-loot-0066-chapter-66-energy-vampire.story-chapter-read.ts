@@ -5,7 +5,7 @@ export const theGiftOfLoot0066Chapter66EnergyVampire = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0066-chapter-66-energy-vampire",
   title: "Chapter 66: Energy Vampire",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 66,
   ownLength: 3046,
   unit: "unit/words",

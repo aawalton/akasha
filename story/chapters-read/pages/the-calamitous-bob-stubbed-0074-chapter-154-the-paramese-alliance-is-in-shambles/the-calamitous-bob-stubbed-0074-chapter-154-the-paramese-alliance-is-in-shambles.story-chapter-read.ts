@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0074Chapter154TheParameseAllianceIsInShamble
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0074-chapter-154-the-paramese-alliance-is-in-shambles",
   title: "Chapter 154: The Paramese Alliance is in shambles",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 74,
   ownLength: 5777,
   unit: "unit/words",

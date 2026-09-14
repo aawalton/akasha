@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0018Chapter14HealersInstinct = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0018-chapter-14-healers-instinct",
   title: "Chapter 14: Healer's Instinct",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 18,
   ownLength: 2161,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0012Chapter11Avalanche = {
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0012-chapter-11-avalanche",
   title: "Chapter 11 – [Avalanche]",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 12,
   ownLength: 2236,
   unit: "unit/words",

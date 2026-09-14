@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0038Chapter337EightOrTen = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0038-chapter-337-eight-or-ten",
   title: "Chapter 337 : Eight or Ten",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 38,
   ownLength: 2233,
   unit: "unit/words",

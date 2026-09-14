@@ -5,7 +5,7 @@ export const superSupportive0102OneHundredOneAnesidoraTime0715Pm = {
   type: "story-chapter-read",
   slug: "super-supportive-0102-one-hundred-one-anesidora-time-07-15-pm",
   title: "ONE HUNDRED ONE: Anesidora Time, 07:15 PM",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 102,
   ownLength: 5289,
   unit: "unit/words",

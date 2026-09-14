@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0627ChapterElevenADuelAtDawn = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0627-chapter-eleven-a-duel-at-dawn",
   title: "Chapter Eleven - A Duel at Dawn",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 627,
   ownLength: 1548,
   unit: "unit/words",

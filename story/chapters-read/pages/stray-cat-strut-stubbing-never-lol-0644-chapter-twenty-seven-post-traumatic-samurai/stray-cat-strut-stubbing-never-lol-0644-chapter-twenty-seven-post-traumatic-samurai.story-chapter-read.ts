@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0644ChapterTwentySevenPostTraumaticSam
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0644-chapter-twenty-seven-post-traumatic-samurai",
   title: "Chapter Twenty-Seven - Post-Traumatic Samurai Disorder",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 644,
   ownLength: 1532,
   unit: "unit/words",

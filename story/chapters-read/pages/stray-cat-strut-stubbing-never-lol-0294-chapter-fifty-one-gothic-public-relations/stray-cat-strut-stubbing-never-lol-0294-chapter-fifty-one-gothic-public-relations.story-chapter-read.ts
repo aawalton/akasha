@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0294ChapterFiftyOneGothicPublicRelatio
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0294-chapter-fifty-one-gothic-public-relations",
   title: "Chapter Fifty-One - Gothic Public Relations",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 294,
   ownLength: 1539,
   unit: "unit/words",

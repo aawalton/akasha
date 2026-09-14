@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0154Chapter229TotalWar = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0154-chapter-229-total-war",
   title: "Chapter 229: Total War",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 154,
   ownLength: 6299,
   unit: "unit/words",

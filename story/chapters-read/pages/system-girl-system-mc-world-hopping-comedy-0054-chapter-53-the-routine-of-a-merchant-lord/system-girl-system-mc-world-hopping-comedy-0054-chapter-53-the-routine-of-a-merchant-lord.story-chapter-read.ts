@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0054Chapter53TheRoutineOfAMerch
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0054-chapter-53-the-routine-of-a-merchant-lord",
   title: "Chapter 53: The Routine of a Merchant Lord",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 54,
   ownLength: 2296,
   unit: "unit/words",

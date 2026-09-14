@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0443336TheRipple3278390 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0443-336-the-ripple-3278390",
   title: "336 The Ripple",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 443,
   ownLength: 5537,
   unit: "unit/words",

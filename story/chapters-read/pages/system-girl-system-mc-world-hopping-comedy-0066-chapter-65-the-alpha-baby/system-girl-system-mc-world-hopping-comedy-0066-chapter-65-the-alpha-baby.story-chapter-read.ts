@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0066Chapter65TheAlphaBaby = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0066-chapter-65-the-alpha-baby",
   title: "Chapter 65: The Alpha Baby",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 66,
   ownLength: 2319,
   unit: "unit/words",

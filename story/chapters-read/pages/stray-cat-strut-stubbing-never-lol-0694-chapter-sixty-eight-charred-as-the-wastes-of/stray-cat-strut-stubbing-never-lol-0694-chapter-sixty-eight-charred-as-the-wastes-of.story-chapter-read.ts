@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0694ChapterSixtyEightCharredAsTheWaste
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0694-chapter-sixty-eight-charred-as-the-wastes-of",
   title: "Chapter Sixty-Eight - Charred as the Wastes of Ozymandias",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 694,
   ownLength: 1464,
   unit: "unit/words",

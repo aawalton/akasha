@@ -5,7 +5,7 @@ export const superSupportive0056FiftySixAPoliteRequest = {
   type: "story-chapter-read",
   slug: "super-supportive-0056-fifty-six-a-polite-request",
   title: "FIFTY-SIX: A Polite Request",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 56,
   ownLength: 3422,
   unit: "unit/words",

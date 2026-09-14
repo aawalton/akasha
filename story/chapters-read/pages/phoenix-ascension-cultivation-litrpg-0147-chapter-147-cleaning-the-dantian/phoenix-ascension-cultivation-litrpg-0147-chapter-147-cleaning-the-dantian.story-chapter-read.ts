@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0147Chapter147CleaningTheDantian =
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0147-chapter-147-cleaning-the-dantian",
   title: "Chapter 147: Cleaning the Dantian",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 147,
   ownLength: 2554,
   unit: "unit/words",

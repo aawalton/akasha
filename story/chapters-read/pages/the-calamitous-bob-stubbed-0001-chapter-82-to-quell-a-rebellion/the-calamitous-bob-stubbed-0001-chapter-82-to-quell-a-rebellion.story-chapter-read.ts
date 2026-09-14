@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0001Chapter82ToQuellARebellion = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0001-chapter-82-to-quell-a-rebellion",
   title: "Chapter 82: To Quell a Rebellion",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 1,
   ownLength: 5610,
   unit: "unit/words",

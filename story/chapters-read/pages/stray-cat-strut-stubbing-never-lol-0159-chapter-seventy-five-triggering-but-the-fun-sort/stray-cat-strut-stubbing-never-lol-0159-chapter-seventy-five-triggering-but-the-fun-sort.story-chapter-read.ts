@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0159ChapterSeventyFiveTriggeringButThe
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0159-chapter-seventy-five-triggering-but-the-fun-sort",
   title: "Chapter Seventy-Five - Triggering, But the Fun Sort Where Things Explode",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 159,
   ownLength: 1439,
   unit: "unit/words",

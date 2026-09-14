@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0116Chapter414Threads = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0116-chapter-414-threads",
   title: "Chapter 414 : Threads",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 116,
   ownLength: 2176,
   unit: "unit/words",

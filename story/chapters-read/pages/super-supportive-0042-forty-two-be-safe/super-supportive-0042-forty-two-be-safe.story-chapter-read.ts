@@ -5,7 +5,7 @@ export const superSupportive0042FortyTwoBeSafe = {
   type: "story-chapter-read",
   slug: "super-supportive-0042-forty-two-be-safe",
   title: "FORTY-TWO: Be Safe",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 42,
   ownLength: 2586,
   unit: "unit/words",

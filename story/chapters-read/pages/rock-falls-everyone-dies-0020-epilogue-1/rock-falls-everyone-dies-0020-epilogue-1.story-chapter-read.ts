@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0020Epilogue1 = {
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0020-epilogue-1",
   title: "Epilogue 1 – 🗿 ",
-  story: "rock-falls-everyone-dies",
+  story: "story-read/rock-falls-everyone-dies",
   position: 20,
   ownLength: 1344,
   unit: "unit/words",

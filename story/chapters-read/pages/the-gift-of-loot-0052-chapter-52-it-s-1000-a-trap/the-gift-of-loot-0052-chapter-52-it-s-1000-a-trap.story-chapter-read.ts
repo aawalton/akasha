@@ -5,7 +5,7 @@ export const theGiftOfLoot0052Chapter52ItS1000ATrap = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0052-chapter-52-it-s-1000-a-trap",
   title: "Chapter 52: It's 1000% a Trap",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 52,
   ownLength: 3749,
   unit: "unit/words",

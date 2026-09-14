@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0101Chapter101AngerTheHeavens = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0101-chapter-101-anger-the-heavens",
   title: "Chapter 101: Anger the Heavens",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 101,
   ownLength: 2370,
   unit: "unit/words",

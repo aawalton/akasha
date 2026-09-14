@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0618ChapterFiveIReallyWannaVisitYourHo
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0618-chapter-five-i-really-wanna-visit-your-home",
   title: "Chapter Five - I Really Wanna Visit Your Home",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 618,
   ownLength: 1498,
   unit: "unit/words",

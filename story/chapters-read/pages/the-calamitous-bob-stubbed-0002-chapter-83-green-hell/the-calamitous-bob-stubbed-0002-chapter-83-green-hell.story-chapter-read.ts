@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0002Chapter83GreenHell = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0002-chapter-83-green-hell",
   title: "Chapter 83: Green Hell",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 2,
   ownLength: 5394,
   unit: "unit/words",

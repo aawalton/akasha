@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0544NewsTheContestsGeneralCategoryWinn
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0544-news-the-contests-general-category-winners-have",
   title: "News: The Contest's General Category Winners have been announced!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 544,
   ownLength: 538,
   unit: "unit/words",

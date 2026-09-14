@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0443ChapterThirtyNineShotsSpotsStretch
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0443-chapter-thirty-nine-shots-spots-stretchers",
   title: "Chapter Thirty-Nine - Shots, Spots, Stretchers",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 443,
   ownLength: 1457,
   unit: "unit/words",

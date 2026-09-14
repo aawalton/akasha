@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0080Chapter378SlimeInTheDark = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0080-chapter-378-slime-in-the-dark",
   title: "Chapter 378 : Slime in the Dark",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 80,
   ownLength: 2389,
   unit: "unit/words",

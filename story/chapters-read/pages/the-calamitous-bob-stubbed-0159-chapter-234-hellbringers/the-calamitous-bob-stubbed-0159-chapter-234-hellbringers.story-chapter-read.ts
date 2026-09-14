@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0159Chapter234Hellbringers = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0159-chapter-234-hellbringers",
   title: "Chapter 234: Hellbringers",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 159,
   ownLength: 5426,
   unit: "unit/words",

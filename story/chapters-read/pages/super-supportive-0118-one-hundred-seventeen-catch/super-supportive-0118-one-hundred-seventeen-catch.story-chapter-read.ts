@@ -5,7 +5,7 @@ export const superSupportive0118OneHundredSeventeenCatch = {
   type: "story-chapter-read",
   slug: "super-supportive-0118-one-hundred-seventeen-catch",
   title: "ONE HUNDRED SEVENTEEN: Catch",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 118,
   ownLength: 7098,
   unit: "unit/words",

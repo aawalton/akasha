@@ -5,7 +5,7 @@ export const theGiftOfLoot0007Chapter7ItSAShark = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0007-chapter-7-it-s-a-shark",
   title: "Chapter 7: It's a Shark",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 7,
   ownLength: 2058,
   unit: "unit/words",

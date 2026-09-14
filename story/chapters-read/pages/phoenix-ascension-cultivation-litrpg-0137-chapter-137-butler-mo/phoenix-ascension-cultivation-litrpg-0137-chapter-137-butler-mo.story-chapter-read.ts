@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0137Chapter137ButlerMo = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0137-chapter-137-butler-mo",
   title: "Chapter 137: Butler Mo",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 137,
   ownLength: 2277,
   unit: "unit/words",

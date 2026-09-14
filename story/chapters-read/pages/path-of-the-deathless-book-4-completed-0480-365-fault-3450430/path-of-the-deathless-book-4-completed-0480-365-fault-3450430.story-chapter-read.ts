@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0480365Fault3450430 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0480-365-fault-3450430",
   title: "365 Fault",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 480,
   ownLength: 4919,
   unit: "unit/words",

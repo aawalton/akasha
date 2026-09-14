@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0481366ReconcileI3455047 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0481-366-reconcile-i-3455047",
   title: "366 Reconcile [I]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 481,
   ownLength: 5170,
   unit: "unit/words",

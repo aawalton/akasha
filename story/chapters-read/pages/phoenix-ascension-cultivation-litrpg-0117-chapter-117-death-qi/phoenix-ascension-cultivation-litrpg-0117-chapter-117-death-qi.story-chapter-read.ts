@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0117Chapter117DeathQi = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0117-chapter-117-death-qi",
   title: "Chapter 117: Death Qi",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 117,
   ownLength: 2154,
   unit: "unit/words",

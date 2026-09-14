@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0079ChapterATaleOfNiceTailsFeaturingACertain
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0079-chapter-a-tale-of-nice-tails-featuring-a-certain-vampire",
   title: "Chapter ??? A tale of Nice Tails (featuring a certain vampire)",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 79,
   ownLength: 8723,
   unit: "unit/words",

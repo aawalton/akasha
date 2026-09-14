@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0278194IiEuthanasiaIi = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0278-194-ii-euthanasia-ii",
   title: "194 (II) Euthanasia [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 278,
   ownLength: 0,
   unit: "unit/words",

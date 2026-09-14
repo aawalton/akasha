@@ -5,7 +5,7 @@ export const superSupportive0052FiftyTwoTheNecessaryFunctions = {
   type: "story-chapter-read",
   slug: "super-supportive-0052-fifty-two-the-necessary-functions",
   title: "FIFTY-TWO: The Necessary Functions",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 52,
   ownLength: 2829,
   unit: "unit/words",

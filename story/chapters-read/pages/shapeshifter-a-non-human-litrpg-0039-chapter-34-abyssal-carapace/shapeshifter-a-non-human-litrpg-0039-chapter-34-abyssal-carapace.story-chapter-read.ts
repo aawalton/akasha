@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0039Chapter34AbyssalCarapace = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0039-chapter-34-abyssal-carapace",
   title: "Chapter 34: Abyssal Carapace",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 39,
   ownLength: 2150,
   unit: "unit/words",

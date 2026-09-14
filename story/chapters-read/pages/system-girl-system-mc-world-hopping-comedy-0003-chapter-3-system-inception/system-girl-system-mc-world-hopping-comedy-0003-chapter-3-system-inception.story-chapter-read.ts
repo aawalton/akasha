@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0003Chapter3SystemInception = {
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0003-chapter-3-system-inception",
   title: "Chapter 3: System Inception",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 3,
   ownLength: 1501,
   unit: "unit/words",

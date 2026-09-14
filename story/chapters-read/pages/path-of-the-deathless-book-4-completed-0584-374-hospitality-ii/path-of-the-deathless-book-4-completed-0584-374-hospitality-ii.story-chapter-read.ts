@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0584374HospitalityIi = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0584-374-hospitality-ii",
   title: "374 Hospitality [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 584,
   ownLength: 0,
   unit: "unit/words",

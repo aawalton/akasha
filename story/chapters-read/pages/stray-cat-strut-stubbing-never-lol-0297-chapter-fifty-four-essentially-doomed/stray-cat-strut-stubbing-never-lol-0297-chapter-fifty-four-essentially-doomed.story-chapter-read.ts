@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0297ChapterFiftyFourEssentiallyDoomed 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0297-chapter-fifty-four-essentially-doomed",
   title: "Chapter Fifty-Four - Essentially Doomed",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 297,
   ownLength: 1632,
   unit: "unit/words",

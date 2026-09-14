@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0545427PromiseOfUtopia = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0545-427-promise-of-utopia",
   title: "427 Promise of Utopia",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 545,
   ownLength: 4650,
   unit: "unit/words",

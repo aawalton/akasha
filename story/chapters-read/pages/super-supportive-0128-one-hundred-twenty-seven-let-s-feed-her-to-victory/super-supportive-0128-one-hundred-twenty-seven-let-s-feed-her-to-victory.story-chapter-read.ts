@@ -5,7 +5,7 @@ export const superSupportive0128OneHundredTwentySevenLetSFeedHerToVictory = {
   type: "story-chapter-read",
   slug: "super-supportive-0128-one-hundred-twenty-seven-let-s-feed-her-to-victory",
   title: "ONE HUNDRED TWENTY-SEVEN:  Let's Feed Her to Victory",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 128,
   ownLength: 4554,
   unit: "unit/words",

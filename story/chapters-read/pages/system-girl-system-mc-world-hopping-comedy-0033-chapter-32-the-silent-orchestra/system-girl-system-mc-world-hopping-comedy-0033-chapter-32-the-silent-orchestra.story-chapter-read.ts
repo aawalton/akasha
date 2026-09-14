@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0033Chapter32TheSilentOrchestra
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0033-chapter-32-the-silent-orchestra",
   title: "Chapter 32: The Silent Orchestra",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 33,
   ownLength: 1996,
   unit: "unit/words",

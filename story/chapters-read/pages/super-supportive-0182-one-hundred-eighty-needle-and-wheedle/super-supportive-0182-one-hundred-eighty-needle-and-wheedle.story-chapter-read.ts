@@ -5,7 +5,7 @@ export const superSupportive0182OneHundredEightyNeedleAndWheedle = {
   type: "story-chapter-read",
   slug: "super-supportive-0182-one-hundred-eighty-needle-and-wheedle",
   title: "ONE HUNDRED EIGHTY: Needle & Wheedle",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 182,
   ownLength: 7878,
   unit: "unit/words",

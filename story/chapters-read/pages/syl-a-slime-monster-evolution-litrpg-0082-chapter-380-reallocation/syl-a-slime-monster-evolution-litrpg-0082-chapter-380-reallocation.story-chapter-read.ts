@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0082Chapter380Reallocation = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0082-chapter-380-reallocation",
   title: "Chapter 380 : Reallocation",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 82,
   ownLength: 2172,
   unit: "unit/words",

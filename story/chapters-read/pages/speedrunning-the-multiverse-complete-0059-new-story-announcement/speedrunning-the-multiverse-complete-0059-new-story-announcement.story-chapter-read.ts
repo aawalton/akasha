@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0059NewStoryAnnouncement = {
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0059-new-story-announcement",
   title: "New Story Announcement!",
-  story: "speedrunning-the-multiverse-complete",
+  story: "story-read/speedrunning-the-multiverse-complete",
   position: 59,
   ownLength: 224,
   unit: "unit/words",

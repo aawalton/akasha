@@ -5,7 +5,7 @@ export const theGiftOfLoot0027Chapter27SchwarzeneggerCouldNever = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0027-chapter-27-schwarzenegger-could-never",
   title: "Chapter 27:  Schwarzenegger Could Never ",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 27,
   ownLength: 2887,
   unit: "unit/words",

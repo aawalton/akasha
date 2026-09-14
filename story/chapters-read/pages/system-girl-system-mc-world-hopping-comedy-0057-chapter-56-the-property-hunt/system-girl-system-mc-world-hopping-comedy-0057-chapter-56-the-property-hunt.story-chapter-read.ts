@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0057Chapter56ThePropertyHunt = 
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0057-chapter-56-the-property-hunt",
   title: "Chapter 56: The Property Hunt",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 57,
   ownLength: 2073,
   unit: "unit/words",

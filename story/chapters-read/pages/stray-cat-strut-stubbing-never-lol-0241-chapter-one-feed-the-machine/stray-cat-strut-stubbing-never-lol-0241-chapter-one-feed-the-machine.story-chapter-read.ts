@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0241ChapterOneFeedTheMachine = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0241-chapter-one-feed-the-machine",
   title: "Chapter One - Feed the Machine",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 241,
   ownLength: 1424,
   unit: "unit/words",

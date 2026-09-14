@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0755ChapterThirtyTwoTheConfusionBefore
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0755-chapter-thirty-two-the-confusion-before-the-storm",
   title: "Chapter Thirty-Two - The Confusion Before the Storm",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 755,
   ownLength: 1558,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0041Chapter41AllTheSmallThings = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0041-chapter-41-all-the-small-things",
   title: "Chapter 41: All The Small Things",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 41,
   ownLength: 2042,
   unit: "unit/words",

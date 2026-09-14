@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0102Chapter180AllThatIsYours = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0102-chapter-180-all-that-is-yours",
   title: "Chapter 180: All that is yours",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 102,
   ownLength: 6037,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0424319Curse2Bear3IfYouCurseMeAgain
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0424-319-curse-2-bear-3-if-you-curse-me-again-3197243",
   title: "319 Curse 2 Bear 3: If You Curse Me Again",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 424,
   ownLength: 6077,
   unit: "unit/words",

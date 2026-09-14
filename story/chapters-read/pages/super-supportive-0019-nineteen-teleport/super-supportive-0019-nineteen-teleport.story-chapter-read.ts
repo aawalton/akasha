@@ -5,7 +5,7 @@ export const superSupportive0019NineteenTeleport = {
   type: "story-chapter-read",
   slug: "super-supportive-0019-nineteen-teleport",
   title: "NINETEEN: Teleport",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 19,
   ownLength: 3965,
   unit: "unit/words",

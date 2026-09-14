@@ -5,7 +5,7 @@ export const superSupportive0278TwoHundredSeventySixWhatAreYouLike = {
   type: "story-chapter-read",
   slug: "super-supportive-0278-two-hundred-seventy-six-what-are-you-like",
   title: "TWO HUNDRED SEVENTY-SIX: What are you like?",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 278,
   ownLength: 3492,
   unit: "unit/words",

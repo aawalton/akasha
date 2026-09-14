@@ -5,7 +5,7 @@ export const superSupportive0058FiftyEightIfThisOneMakesItToYou = {
   type: "story-chapter-read",
   slug: "super-supportive-0058-fifty-eight-if-this-one-makes-it-to-you",
   title: "FIFTY-EIGHT: If this one makes it to you...",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 58,
   ownLength: 1605,
   unit: "unit/words",

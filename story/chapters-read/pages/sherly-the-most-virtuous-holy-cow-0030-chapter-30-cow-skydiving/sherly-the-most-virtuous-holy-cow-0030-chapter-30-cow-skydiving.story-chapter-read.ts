@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0030Chapter30CowSkydiving = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0030-chapter-30-cow-skydiving",
   title: "Chapter 30 - Cow Skydiving",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 30,
   ownLength: 2050,
   unit: "unit/words",

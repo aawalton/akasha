@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0021Chapter21Splurging = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0021-chapter-21-splurging",
   title: "Chapter 21: Splurging",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 21,
   ownLength: 2455,
   unit: "unit/words",

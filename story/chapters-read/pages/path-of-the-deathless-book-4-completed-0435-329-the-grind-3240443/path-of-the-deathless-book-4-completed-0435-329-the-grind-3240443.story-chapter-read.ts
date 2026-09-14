@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0435329TheGrind3240443 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0435-329-the-grind-3240443",
   title: "329 The Grind",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 435,
   ownLength: 5362,
   unit: "unit/words",

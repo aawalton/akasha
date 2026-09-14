@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0193161IiiOverwhelmed = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0193-161-iii-overwhelmed",
   title: "161 (III) Overwhelmed ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 193,
   ownLength: 0,
   unit: "unit/words",

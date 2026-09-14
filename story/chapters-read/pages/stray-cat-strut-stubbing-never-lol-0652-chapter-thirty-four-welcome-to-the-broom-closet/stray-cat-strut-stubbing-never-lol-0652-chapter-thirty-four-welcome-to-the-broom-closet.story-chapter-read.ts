@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0652ChapterThirtyFourWelcomeToTheBroom
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0652-chapter-thirty-four-welcome-to-the-broom-closet",
   title: "Chapter Thirty-Four - Welcome to the Broom Closet",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 652,
   ownLength: 1488,
   unit: "unit/words",

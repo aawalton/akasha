@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0011Chapter11FortuneFavorsTheBold 
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0011-chapter-11-fortune-favors-the-bold",
   title: "Chapter 11: Fortune Favors the Bold",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 11,
   ownLength: 2438,
   unit: "unit/words",

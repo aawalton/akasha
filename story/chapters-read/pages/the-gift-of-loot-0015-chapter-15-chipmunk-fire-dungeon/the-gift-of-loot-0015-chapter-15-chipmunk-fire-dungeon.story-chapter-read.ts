@@ -5,7 +5,7 @@ export const theGiftOfLoot0015Chapter15ChipmunkFireDungeon = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0015-chapter-15-chipmunk-fire-dungeon",
   title: "Chapter 15: Chipmunk Fire Dungeon",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 15,
   ownLength: 3487,
   unit: "unit/words",

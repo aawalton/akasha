@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0752ChapterTwentyNineTheCatAssTrophy =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0752-chapter-twenty-nine-the-cat-ass-trophy",
   title: "Chapter Twenty-Nine - The Cat Ass Trophy",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 752,
   ownLength: 1590,
   unit: "unit/words",

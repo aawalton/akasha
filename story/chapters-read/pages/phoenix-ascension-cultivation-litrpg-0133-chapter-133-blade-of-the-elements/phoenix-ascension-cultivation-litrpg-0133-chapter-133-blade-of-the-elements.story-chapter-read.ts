@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0133Chapter133BladeOfTheElements =
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0133-chapter-133-blade-of-the-elements",
   title: "Chapter 133: Blade of the Elements",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 133,
   ownLength: 3279,
   unit: "unit/words",

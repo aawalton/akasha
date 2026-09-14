@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0391StrayCatStrutVolumeSixAYoungLadysG
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0391-stray-cat-strut-volume-six-a-young-ladys-guide-to",
   title: "Stray Cat Strut - Volume Six - A Young Lady's Guide to Taking Uncivil Liberties",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 391,
   ownLength: 155,
   unit: "unit/words",

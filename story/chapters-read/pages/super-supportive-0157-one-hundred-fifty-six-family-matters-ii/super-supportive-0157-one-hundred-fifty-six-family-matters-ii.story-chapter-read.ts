@@ -5,7 +5,7 @@ export const superSupportive0157OneHundredFiftySixFamilyMattersIi = {
   type: "story-chapter-read",
   slug: "super-supportive-0157-one-hundred-fifty-six-family-matters-ii",
   title: "ONE HUNDRED FIFTY-SIX: Family Matters, II",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 157,
   ownLength: 5939,
   unit: "unit/words",

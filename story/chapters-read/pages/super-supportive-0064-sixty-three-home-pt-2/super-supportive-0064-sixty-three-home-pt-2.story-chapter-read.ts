@@ -5,7 +5,7 @@ export const superSupportive0064SixtyThreeHomePt2 = {
   type: "story-chapter-read",
   slug: "super-supportive-0064-sixty-three-home-pt-2",
   title: "SIXTY-THREE: Home, pt. 2",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 64,
   ownLength: 5179,
   unit: "unit/words",

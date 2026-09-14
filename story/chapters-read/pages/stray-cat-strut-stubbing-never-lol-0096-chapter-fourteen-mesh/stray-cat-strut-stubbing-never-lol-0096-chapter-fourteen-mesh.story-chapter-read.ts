@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0096ChapterFourteenMesh = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0096-chapter-fourteen-mesh",
   title: "Chapter Fourteen - Mesh",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 96,
   ownLength: 1275,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const savageDivinity0696Chapter688Volume38Tba = {
   type: "story-chapter-read",
   slug: "savage-divinity-0696-chapter-688-volume-38-tba",
   title: "Chapter 688 : Volume 38 TBA",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 696,
   ownLength: 6954,
   unit: "unit/words",

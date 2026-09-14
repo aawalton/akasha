@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0092Chapter170QueenOfTheSea = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0092-chapter-170-queen-of-the-sea",
   title: "Chapter 170: Queen of the Sea.",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 92,
   ownLength: 5679,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0448ChapterFortyTwoTrashPandaFeelings 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0448-chapter-forty-two-trash-panda-feelings",
   title: "Chapter Forty-Two - Trash Panda Feelings",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 448,
   ownLength: 1568,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0042Chapter42AThirstySword = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0042-chapter-42-a-thirsty-sword",
   title: "Chapter 42: A Thirsty Sword",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 42,
   ownLength: 2471,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const superSupportive0215TwoHundredThirteenChillexing = {
   type: "story-chapter-read",
   slug: "super-supportive-0215-two-hundred-thirteen-chillexing",
   title: "TWO HUNDRED THIRTEEN: Chillexing",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 215,
   ownLength: 3825,
   unit: "unit/words",

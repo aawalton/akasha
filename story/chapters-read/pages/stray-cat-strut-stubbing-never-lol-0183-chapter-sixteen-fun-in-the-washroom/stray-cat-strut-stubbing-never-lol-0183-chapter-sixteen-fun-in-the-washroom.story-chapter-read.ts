@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0183ChapterSixteenFunInTheWashroom = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0183-chapter-sixteen-fun-in-the-washroom",
   title: "Chapter Sixteen - Fun in the Washroom",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 183,
   ownLength: 1560,
   unit: "unit/words",

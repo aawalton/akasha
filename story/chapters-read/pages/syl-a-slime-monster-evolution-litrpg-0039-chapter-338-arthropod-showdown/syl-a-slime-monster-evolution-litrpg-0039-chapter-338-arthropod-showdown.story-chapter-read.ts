@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0039Chapter338ArthropodShowdown = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0039-chapter-338-arthropod-showdown",
   title: "Chapter 338 : Arthropod Showdown",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 39,
   ownLength: 2498,
   unit: "unit/words",

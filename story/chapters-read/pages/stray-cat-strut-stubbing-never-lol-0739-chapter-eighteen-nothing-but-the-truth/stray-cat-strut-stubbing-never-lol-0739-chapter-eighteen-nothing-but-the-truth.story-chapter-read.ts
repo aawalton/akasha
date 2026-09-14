@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0739ChapterEighteenNothingButTheTruth 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0739-chapter-eighteen-nothing-but-the-truth",
   title: "Chapter Eighteen - Nothing but the Truth",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 739,
   ownLength: 1497,
   unit: "unit/words",

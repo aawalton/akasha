@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0235219IHeartbreak2816016 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0235-219-i-heartbreak-2816016",
   title: "219 (I) Heartbreak",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 235,
   ownLength: 2586,
   unit: "unit/words",

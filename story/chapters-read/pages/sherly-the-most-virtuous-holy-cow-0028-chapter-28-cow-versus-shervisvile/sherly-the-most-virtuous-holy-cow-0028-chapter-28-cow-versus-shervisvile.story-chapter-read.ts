@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0028Chapter28CowVersusShervisvile = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0028-chapter-28-cow-versus-shervisvile",
   title: "Chapter 28 - Cow Versus Shervisvile",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 28,
   ownLength: 2007,
   unit: "unit/words",

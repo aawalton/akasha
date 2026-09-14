@@ -5,7 +5,7 @@ export const theGiftOfLoot0032Chapter32AnUnBearAbleDecision = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0032-chapter-32-an-un-bear-able-decision",
   title: "Chapter 32: An Un-bear-able Decision",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 32,
   ownLength: 3413,
   unit: "unit/words",

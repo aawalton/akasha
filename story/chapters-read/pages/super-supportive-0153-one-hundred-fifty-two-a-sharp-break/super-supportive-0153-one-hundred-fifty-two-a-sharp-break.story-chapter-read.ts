@@ -5,7 +5,7 @@ export const superSupportive0153OneHundredFiftyTwoASharpBreak = {
   type: "story-chapter-read",
   slug: "super-supportive-0153-one-hundred-fifty-two-a-sharp-break",
   title: "ONE HUNDRED FIFTY-TWO: A Sharp Break",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 153,
   ownLength: 3857,
   unit: "unit/words",

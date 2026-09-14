@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0088Chapter88LetsDance = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0088-chapter-88-lets-dance",
   title: "Chapter 88: Let's dance",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 88,
   ownLength: 2089,
   unit: "unit/words",

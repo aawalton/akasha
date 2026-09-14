@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0697TheStrayCatStrutRoleplayingGameKic
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0697-the-stray-cat-strut-roleplaying-game-kickstarter",
   title: "The Stray Cat Strut Roleplaying Game Kickstarter is Liiiive!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 697,
   ownLength: 185,
   unit: "unit/words",

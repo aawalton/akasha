@@ -5,7 +5,7 @@ export const savageDivinity0311Chapter304Dichotomy = {
   type: "story-chapter-read",
   slug: "savage-divinity-0311-chapter-304-dichotomy",
   title: "Chapter 304 - Dichotomy",
-  story: "savage-divinity",
+  story: "story-read/savage-divinity",
   position: 311,
   ownLength: 3106,
   unit: "unit/words",

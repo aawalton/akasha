@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0005Chapter2CharlieTheCat = {
   type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0005-chapter-2-charlie-the-cat",
   title: "Chapter 2: Charlie the Cat",
-  story: "shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 5,
   ownLength: 2041,
   unit: "unit/words",

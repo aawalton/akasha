@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0003BigAnnouncement = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0003-big-announcement",
   title: "Big Announcement!",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 3,
   ownLength: 500,
   unit: "unit/words",

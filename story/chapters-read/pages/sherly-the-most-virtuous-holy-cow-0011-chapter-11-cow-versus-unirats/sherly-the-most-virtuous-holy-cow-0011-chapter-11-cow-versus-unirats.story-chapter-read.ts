@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0011Chapter11CowVersusUnirats = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0011-chapter-11-cow-versus-unirats",
   title: "Chapter 11 - Cow Versus Unirats",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 11,
   ownLength: 2412,
   unit: "unit/words",

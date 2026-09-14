@@ -5,7 +5,7 @@ export const superSupportive0196OneHundredNinetyFourFlashesVi = {
   type: "story-chapter-read",
   slug: "super-supportive-0196-one-hundred-ninety-four-flashes-vi",
   title: "ONE HUNDRED NINETY-FOUR: Flashes VI",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 196,
   ownLength: 4292,
   unit: "unit/words",

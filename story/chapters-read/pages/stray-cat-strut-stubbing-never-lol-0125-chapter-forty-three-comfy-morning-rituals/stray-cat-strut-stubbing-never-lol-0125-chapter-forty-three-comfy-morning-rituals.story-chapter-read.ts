@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0125ChapterFortyThreeComfyMorningRitua
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0125-chapter-forty-three-comfy-morning-rituals",
   title: "Chapter Forty-Three - Comfy Morning Rituals",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 125,
   ownLength: 1461,
   unit: "unit/words",

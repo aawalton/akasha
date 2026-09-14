@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0117Chapter415OfficialDiplomacy = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0117-chapter-415-official-diplomacy",
   title: 'Chapter 415 : "Official" Diplomacy',
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 117,
   ownLength: 2282,
   unit: "unit/words",

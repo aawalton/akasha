@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0015Chapter15CowGirlChanges = {
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0015-chapter-15-cow-girl-changes",
   title: "Chapter 15 - Cow Girl Changes",
-  story: "sherly-the-most-virtuous-holy-cow",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
   position: 15,
   ownLength: 2060,
   unit: "unit/words",

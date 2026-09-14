@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0044288TheChimera = {
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0044-288-the-chimera",
   title: "288. The Chimera",
-  story: "speedrunning-the-multiverse-complete",
+  story: "story-read/speedrunning-the-multiverse-complete",
   position: 44,
   ownLength: 1552,
   unit: "unit/words",

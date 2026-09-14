@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0017Chapter316Peggy = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0017-chapter-316-peggy",
   title: "Chapter 316 : Peggy",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 17,
   ownLength: 1881,
   unit: "unit/words",

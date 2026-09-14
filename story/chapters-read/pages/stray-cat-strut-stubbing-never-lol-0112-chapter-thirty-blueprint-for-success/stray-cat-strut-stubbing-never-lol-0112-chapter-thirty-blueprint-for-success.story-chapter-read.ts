@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0112ChapterThirtyBlueprintForSuccess =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0112-chapter-thirty-blueprint-for-success",
   title: "Chapter Thirty - Blueprint for Success",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 112,
   ownLength: 1567,
   unit: "unit/words",

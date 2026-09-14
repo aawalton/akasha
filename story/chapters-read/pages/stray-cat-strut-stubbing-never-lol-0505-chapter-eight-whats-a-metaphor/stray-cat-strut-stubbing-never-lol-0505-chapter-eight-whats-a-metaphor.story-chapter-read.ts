@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0505ChapterEightWhatsAMetaphor = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0505-chapter-eight-whats-a-metaphor",
   title: "Chapter Eight - What's a Metaphor?",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 505,
   ownLength: 1445,
   unit: "unit/words",

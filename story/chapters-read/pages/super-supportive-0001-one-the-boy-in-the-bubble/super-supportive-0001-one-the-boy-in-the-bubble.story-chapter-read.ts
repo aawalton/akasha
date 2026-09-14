@@ -5,7 +5,7 @@ export const superSupportive0001OneTheBoyInTheBubble = {
   type: "story-chapter-read",
   slug: "super-supportive-0001-one-the-boy-in-the-bubble",
   title: "ONE: The Boy in the Bubble",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 1,
   ownLength: 1573,
   unit: "unit/words",

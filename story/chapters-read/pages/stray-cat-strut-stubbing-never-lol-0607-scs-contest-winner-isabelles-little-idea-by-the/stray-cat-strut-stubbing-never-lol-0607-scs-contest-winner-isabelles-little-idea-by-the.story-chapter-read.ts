@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0607ScsContestWinnerIsabellesLittleIde
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0607-scs-contest-winner-isabelles-little-idea-by-the",
   title: "SCS Contest Winner: Isabelle's Little Idea - By the WackyWombat!",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 607,
   ownLength: 1317,
   unit: "unit/words",

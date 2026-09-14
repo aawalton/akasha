@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0707ChapterSeventyNineGoshGollyGraciou
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0707-chapter-seventy-nine-gosh-golly-gracious",
   title: "Chapter Seventy-Nine - Gosh Golly Gracious",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 707,
   ownLength: 1470,
   unit: "unit/words",

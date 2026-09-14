@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0472ChapterFiftySixCountryCatCityCat =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0472-chapter-fifty-six-country-cat-city-cat",
   title: "Chapter Fifty-Six - Country Cat, City Cat",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 472,
   ownLength: 1495,
   unit: "unit/words",

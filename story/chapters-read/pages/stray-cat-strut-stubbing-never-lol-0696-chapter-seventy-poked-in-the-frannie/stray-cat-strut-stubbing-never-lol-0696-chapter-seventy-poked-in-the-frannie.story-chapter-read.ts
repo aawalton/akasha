@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0696ChapterSeventyPokedInTheFrannie = 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0696-chapter-seventy-poked-in-the-frannie",
   title: "Chapter Seventy - Poked in the Frannie",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 696,
   ownLength: 1458,
   unit: "unit/words",

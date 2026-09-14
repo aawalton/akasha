@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00011TheLegendBegins =
   type: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0001-1-the-legend-begins",
   title: "1: The Legend Begins",
-  story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  story: "story-read/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 1,
   ownLength: 3922,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0517ChapterSeventeenLocalSortsOfProble
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0517-chapter-seventeen-local-sorts-of-problems",
   title: "Chapter Seventeen - Local Sorts of Problems",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 517,
   ownLength: 1459,
   unit: "unit/words",

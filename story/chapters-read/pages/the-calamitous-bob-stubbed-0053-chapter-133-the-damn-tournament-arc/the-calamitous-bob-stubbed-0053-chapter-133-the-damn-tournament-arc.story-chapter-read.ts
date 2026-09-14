@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0053Chapter133TheDamnTournamentArc = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0053-chapter-133-the-damn-tournament-arc",
   title: "Chapter 133: The Damn Tournament Arc",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 53,
   ownLength: 6310,
   unit: "unit/words",

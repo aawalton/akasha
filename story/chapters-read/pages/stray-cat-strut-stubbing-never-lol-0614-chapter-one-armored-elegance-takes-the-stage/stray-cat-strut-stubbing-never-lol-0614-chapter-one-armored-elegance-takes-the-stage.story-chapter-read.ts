@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0614ChapterOneArmoredEleganceTakesTheS
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0614-chapter-one-armored-elegance-takes-the-stage",
   title: "Chapter One - Armored Elegance Takes the Stage",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 614,
   ownLength: 1472,
   unit: "unit/words",

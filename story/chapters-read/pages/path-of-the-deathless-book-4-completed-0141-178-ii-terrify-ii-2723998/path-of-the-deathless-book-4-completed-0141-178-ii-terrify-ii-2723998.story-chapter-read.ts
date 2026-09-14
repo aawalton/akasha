@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0141178IiTerrifyIi2723998 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0141-178-ii-terrify-ii-2723998",
   title: "178 (II) Terrify [II]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 141,
   ownLength: 2848,
   unit: "unit/words",

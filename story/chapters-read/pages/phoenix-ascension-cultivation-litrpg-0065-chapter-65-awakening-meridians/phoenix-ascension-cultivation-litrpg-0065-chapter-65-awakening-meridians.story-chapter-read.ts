@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0065Chapter65AwakeningMeridians = 
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0065-chapter-65-awakening-meridians",
   title: "Chapter 65: Awakening Meridians",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 65,
   ownLength: 2249,
   unit: "unit/words",

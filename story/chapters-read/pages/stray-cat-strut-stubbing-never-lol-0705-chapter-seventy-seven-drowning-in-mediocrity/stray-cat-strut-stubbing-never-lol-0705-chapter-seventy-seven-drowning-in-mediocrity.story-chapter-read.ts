@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0705ChapterSeventySevenDrowningInMedio
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0705-chapter-seventy-seven-drowning-in-mediocrity",
   title: "Chapter Seventy-Seven - Drowning in Mediocrity",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 705,
   ownLength: 1497,
   unit: "unit/words",

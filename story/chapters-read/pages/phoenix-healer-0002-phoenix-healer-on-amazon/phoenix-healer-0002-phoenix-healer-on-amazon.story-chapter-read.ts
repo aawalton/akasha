@@ -5,7 +5,7 @@ export const phoenixHealer0002PhoenixHealerOnAmazon = {
   type: "story-chapter-read",
   slug: "phoenix-healer-0002-phoenix-healer-on-amazon",
   title: "Phoenix Healer on Amazon!",
-  story: "phoenix-healer",
+  story: "story-read/phoenix-healer",
   position: 2,
   ownLength: 90,
   unit: "unit/words",

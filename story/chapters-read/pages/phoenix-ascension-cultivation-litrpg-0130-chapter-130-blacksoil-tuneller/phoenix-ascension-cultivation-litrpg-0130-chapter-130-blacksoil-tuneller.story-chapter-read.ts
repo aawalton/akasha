@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0130Chapter130BlacksoilTuneller = 
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0130-chapter-130-blacksoil-tuneller",
   title: "Chapter 130: Blacksoil Tuneller",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 130,
   ownLength: 2971,
   unit: "unit/words",

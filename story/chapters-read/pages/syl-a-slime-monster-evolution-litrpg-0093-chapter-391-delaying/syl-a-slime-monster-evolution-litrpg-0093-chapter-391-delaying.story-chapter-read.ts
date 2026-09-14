@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0093Chapter391Delaying = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0093-chapter-391-delaying",
   title: "Chapter 391 : Delaying",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 93,
   ownLength: 2340,
   unit: "unit/words",

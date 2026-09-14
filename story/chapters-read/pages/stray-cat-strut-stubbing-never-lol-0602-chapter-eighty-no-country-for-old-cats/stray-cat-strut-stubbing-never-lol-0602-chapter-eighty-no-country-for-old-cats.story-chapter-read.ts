@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0602ChapterEightyNoCountryForOldCats =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0602-chapter-eighty-no-country-for-old-cats",
   title: "Chapter Eighty - No Country For Old Cats",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 602,
   ownLength: 1480,
   unit: "unit/words",

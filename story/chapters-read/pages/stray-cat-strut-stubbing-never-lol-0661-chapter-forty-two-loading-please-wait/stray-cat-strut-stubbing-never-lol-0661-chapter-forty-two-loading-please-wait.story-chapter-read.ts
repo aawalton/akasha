@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0661ChapterFortyTwoLoadingPleaseWait =
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0661-chapter-forty-two-loading-please-wait",
   title: "Chapter Forty-Two - Loading, Please Wait",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 661,
   ownLength: 1494,
   unit: "unit/words",

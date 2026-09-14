@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0091Chapter669BranchHeir = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0091-chapter-669-branch-heir",
   title: "Chapter 669: Branch Heir",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 91,
   ownLength: 2038,
   unit: "unit/words",

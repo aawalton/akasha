@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0612ForewordByTheAuthor = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0612-foreword-by-the-author",
   title: "Foreword by the Author",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 612,
   ownLength: 545,
   unit: "unit/words",

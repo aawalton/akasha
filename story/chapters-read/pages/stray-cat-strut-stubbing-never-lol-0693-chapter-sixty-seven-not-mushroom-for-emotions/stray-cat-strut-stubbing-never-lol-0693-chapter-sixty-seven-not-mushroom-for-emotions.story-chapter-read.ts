@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0693ChapterSixtySevenNotMushroomForEmo
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0693-chapter-sixty-seven-not-mushroom-for-emotions",
   title: "Chapter Sixty-Seven - Not Mushroom for Emotions",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 693,
   ownLength: 1442,
   unit: "unit/words",

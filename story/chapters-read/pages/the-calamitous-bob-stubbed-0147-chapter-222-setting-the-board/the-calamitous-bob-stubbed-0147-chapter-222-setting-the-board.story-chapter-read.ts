@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0147Chapter222SettingTheBoard = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0147-chapter-222-setting-the-board",
   title: "Chapter 222: Setting the Board",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 147,
   ownLength: 5574,
   unit: "unit/words",

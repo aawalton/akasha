@@ -5,7 +5,7 @@ export const superSupportive0011ElevenLastAndLeast = {
   type: "story-chapter-read",
   slug: "super-supportive-0011-eleven-last-and-least",
   title: "ELEVEN: Last and Least",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 11,
   ownLength: 2380,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const succulentGirlEvolution0011Chapter11ItBegins = {
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0011-chapter-11-it-begins",
   title: "Chapter 11: It Begins",
-  story: "succulent-girl-evolution",
+  story: "story-read/succulent-girl-evolution",
   position: 11,
   ownLength: 2047,
   unit: "unit/words",

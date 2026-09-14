@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0133Chapter208DiveBombingWithFriends = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0133-chapter-208-dive-bombing-with-friends",
   title: "Chapter 208: Dive bombing with friends",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 133,
   ownLength: 4570,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0141Chapter216VivGetsHerJustDesert = {
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0141-chapter-216-viv-gets-her-just-desert",
   title: "Chapter 216: Viv gets her just desert",
-  story: "the-calamitous-bob-stubbed",
+  story: "story-read/the-calamitous-bob-stubbed",
   position: 141,
   ownLength: 5977,
   unit: "unit/words",

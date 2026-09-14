@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0075Chapter74ThePlushieBuddies 
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0075-chapter-74-the-plushie-buddies",
   title: "Chapter 74: The Plushie Buddies",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 75,
   ownLength: 2174,
   unit: "unit/words",

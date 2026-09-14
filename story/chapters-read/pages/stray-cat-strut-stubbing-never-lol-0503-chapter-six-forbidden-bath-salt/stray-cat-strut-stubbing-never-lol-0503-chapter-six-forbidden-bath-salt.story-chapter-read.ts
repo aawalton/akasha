@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0503ChapterSixForbiddenBathSalt = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0503-chapter-six-forbidden-bath-salt",
   title: "Chapter Six - Forbidden Bath Salt",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 503,
   ownLength: 1492,
   unit: "unit/words",

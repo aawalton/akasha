@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0530412Uncontrollable = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0530-412-uncontrollable",
   title: "412 Uncontrollable",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 530,
   ownLength: 6826,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0373ChapterFiftyFiveHungerOfTheMasses 
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0373-chapter-fifty-five-hunger-of-the-masses",
   title: "Chapter Fifty-Five - Hunger of the Masses",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 373,
   ownLength: 1479,
   unit: "unit/words",

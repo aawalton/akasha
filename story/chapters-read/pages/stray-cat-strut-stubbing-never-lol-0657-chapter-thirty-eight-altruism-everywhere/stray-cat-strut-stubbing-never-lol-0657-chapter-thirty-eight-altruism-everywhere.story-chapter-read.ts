@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0657ChapterThirtyEightAltruismEverywhe
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0657-chapter-thirty-eight-altruism-everywhere",
   title: "Chapter Thirty-Eight - Altruism Everywhere",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 657,
   ownLength: 1446,
   unit: "unit/words",

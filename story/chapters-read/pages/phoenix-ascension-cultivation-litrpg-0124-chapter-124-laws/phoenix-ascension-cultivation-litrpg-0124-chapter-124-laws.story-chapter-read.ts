@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0124Chapter124Laws = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0124-chapter-124-laws",
   title: "Chapter 124: Laws",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 124,
   ownLength: 3268,
   unit: "unit/words",

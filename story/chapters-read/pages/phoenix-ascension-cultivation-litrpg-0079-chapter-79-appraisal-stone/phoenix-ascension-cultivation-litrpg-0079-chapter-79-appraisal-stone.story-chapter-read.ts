@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0079Chapter79AppraisalStone = {
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0079-chapter-79-appraisal-stone",
   title: "Chapter 79: Appraisal Stone",
-  story: "phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 79,
   ownLength: 2221,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0030Chapter30LoadingForBear = {
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0030-chapter-30-loading-for-bear",
   title: "Chapter 30: Loading For Bear",
-  story: "the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 30,
   ownLength: 2611,
   unit: "unit/words",

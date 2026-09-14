@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0592ChapterSeventyOneSheWithoutSinDrop
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0592-chapter-seventy-one-she-without-sin-drops-the",
   title: "Chapter Seventy-One - She Without Sin Drops The First Shoe",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 592,
   ownLength: 1615,
   unit: "unit/words",

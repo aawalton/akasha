@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0059Chapter358Riftmancer = {
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0059-chapter-358-riftmancer",
   title: "Chapter 358 : Riftmancer",
-  story: "syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 59,
   ownLength: 2445,
   unit: "unit/words",

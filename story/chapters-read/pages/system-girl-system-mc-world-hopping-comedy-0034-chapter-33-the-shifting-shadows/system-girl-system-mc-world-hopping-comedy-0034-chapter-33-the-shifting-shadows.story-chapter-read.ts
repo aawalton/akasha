@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0034Chapter33TheShiftingShadows
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0034-chapter-33-the-shifting-shadows",
   title: "Chapter 33: The Shifting Shadows",
-  story: "system-girl-system-mc-world-hopping-comedy",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 34,
   ownLength: 2173,
   unit: "unit/words",

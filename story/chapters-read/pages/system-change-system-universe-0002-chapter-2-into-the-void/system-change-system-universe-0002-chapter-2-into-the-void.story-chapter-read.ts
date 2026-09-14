@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0002Chapter2IntoTheVoid = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0002-chapter-2-into-the-void",
   title: "Chapter 2: Into the Void",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 2,
   ownLength: 2121,
   unit: "unit/words",

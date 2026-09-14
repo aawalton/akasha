@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0077Chapter655SkillRequirements = {
   type: "story-chapter-read",
   slug: "system-change-system-universe-0077-chapter-655-skill-requirements",
   title: "Chapter 655: Skill Requirements",
-  story: "system-change-system-universe",
+  story: "story-read/system-change-system-universe",
   position: 77,
   ownLength: 2114,
   unit: "unit/words",

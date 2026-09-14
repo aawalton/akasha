@@ -5,7 +5,7 @@ export const superSupportive0059RitualOfReturn = {
   type: "story-chapter-read",
   slug: "super-supportive-0059-ritual-of-return",
   title: "Ritual of Return",
-  story: "super-supportive",
+  story: "story-read/super-supportive",
   position: 59,
   ownLength: 120,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0458283IiReturnI = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0458-283-ii-return-i",
   title: "283 (II) Return [I] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 458,
   ownLength: 0,
   unit: "unit/words",

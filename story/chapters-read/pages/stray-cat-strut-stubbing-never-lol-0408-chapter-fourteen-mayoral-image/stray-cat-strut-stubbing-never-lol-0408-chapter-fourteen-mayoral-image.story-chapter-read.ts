@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0408ChapterFourteenMayoralImage = {
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0408-chapter-fourteen-mayoral-image",
   title: "Chapter Fourteen - Mayoral Image",
-  story: "stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   position: 408,
   ownLength: 1940,
   unit: "unit/words",
