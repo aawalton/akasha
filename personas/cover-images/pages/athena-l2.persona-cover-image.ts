@@ -5,6 +5,6 @@ export const athenaL2 = {
   type: "persona-cover-image",
   slug: "athena-l2",
   title: "Athena cover L2",
-  persona: "athena",
+  persona: "persona/athena",
   relationshipLevel: 2,
 } as const satisfies PersonaCoverImage
