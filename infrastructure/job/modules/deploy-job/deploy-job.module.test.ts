@@ -81,3 +81,7 @@ test("the memory a landing starts on is read from the pod", () => {
 test("a job states that the run it carries is the one in the cluster", () => {
   expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain(IN_CLUSTER)
 })
+
+test("a job holds every privilege the node gives a container", () => {
+  expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain("privileged: true")
+})

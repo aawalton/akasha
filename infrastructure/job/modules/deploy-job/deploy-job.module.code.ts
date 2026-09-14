@@ -121,6 +121,7 @@ export function jobFor(
               name: deploy.name,
               image: refFor(`${TOOLS}/${ci.slug}`, LATEST),
               command: ["sh", "-c", scriptFor(given, subject, commit, was)],
+              securityContext: { privileged: true },
               env: [
                 { name: "HOME", value: ORCHESTRATOR_CACHE_MOUNT_PATH },
                 { name: ROOM, value: ROOM_GB },

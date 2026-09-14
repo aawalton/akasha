@@ -92,5 +92,13 @@ export const deployJob = {
       statement:
         "A last deployed commit origin no longer carries leaves the rest of the job running.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A job holds every privilege the node gives a container.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A job makes control groups of its own under the one it runs in.",
+    },
   ],
 } as const satisfies Module
