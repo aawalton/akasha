@@ -24,7 +24,7 @@ export const olwenPagesSystemDisplay = {
       statement:
         "A screen finds a page type's component by walking the types that page type extends.",
       workingMemory:
-        "Done for the badge. `page-asking`'s `drawnFor` climbs `extends` and hands each declaration its chain as `drawnBy`, which reaches the browser on the property definition. `property-badge` takes the first page type in that chain holding a drawing, stopping short of `page-property` so the registry still wins while the kinds have no drawing of their own. The drawings come from one `import.meta.glob` in `pages/ui/components/modules/property-badge-drawings/`. `alan/web` builds.",
+        "Done for the page, the property badge, the property row and the page chip. `page-asking`'s `drawnFor` climbs `extends` and hands each declaration its chain as `drawnBy`, which reaches the browser on the property definition; `pageTypeChain` climbs it in the browser for a page or a chip. Each kind has one `import.meta.glob` module resting on `drawings-found`, keyed by the page type slug a drawing sits beside. What is left is the page row and the page card.",
     },
   ],
   constraints: [
