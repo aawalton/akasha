@@ -148,6 +148,11 @@ export const check = {
       invariantKind: "upkeep",
       statement: "A check that only repeats the compiler does not land.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run is held to the ceiling stated for the code that ran rather than for the phase.",
+    },
   ],
   directives: [
     {
