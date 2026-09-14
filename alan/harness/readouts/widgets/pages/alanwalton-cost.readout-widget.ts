@@ -14,6 +14,6 @@ export const alanwaltonCost = {
   galleryName: "Cost",
   galleryDescription: "What an hour of the block you are in costs you.",
   opens: "capacitor://localhost/nav/tracking-690c624f#widget=alanwalton-cost",
-  groups: ["cost"],
+  groups: ["readout-group/cost"],
   place: 12,
 } as const satisfies ReadoutWidget

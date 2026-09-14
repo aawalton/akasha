@@ -14,6 +14,6 @@ export const alanwaltonCategorize = {
   galleryDescription:
     "How many of the past year's transactions Monarch is waiting to have reviewed.",
   opens: "capacitor://monarch-relay#widget=alanwalton-categorize",
-  groups: ["categorization"],
+  groups: ["readout-group/categorization"],
   place: 7,
 } as const satisfies ReadoutWidget

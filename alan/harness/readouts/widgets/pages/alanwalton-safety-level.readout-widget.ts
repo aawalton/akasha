@@ -15,6 +15,6 @@ export const alanwaltonSafetyLevel = {
   galleryDescription: "Where your safety level is today.",
   opens:
     "capacitor://localhost/nav/tracking-690c624f?tab=019edbf5-d4ea-7380-a6be-bc7496dbb24c#widget=alanwalton-safety-level",
-  groups: ["safety"],
+  groups: ["readout-group/safety"],
   place: 9,
 } as const satisfies ReadoutWidget

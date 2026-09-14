@@ -12,6 +12,6 @@ export const smilingjennyUpkeepStoplights = {
   feed: "https://smilingjenny.me/api/upkeep",
   galleryName: "Upkeep",
   galleryDescription: "Alan's four upkeep stoplights, at a glance.",
-  groups: ["upkeep"],
+  groups: ["readout-group/upkeep"],
   place: 5,
 } as const satisfies ReadoutWidget

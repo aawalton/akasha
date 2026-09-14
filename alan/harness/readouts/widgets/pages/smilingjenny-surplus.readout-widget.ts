@@ -13,6 +13,6 @@ export const smilingjennySurplus = {
   caption: "Alan's Surplus",
   galleryName: "Surplus",
   galleryDescription: "Hours of sleep left after what Alan's day cost.",
-  groups: ["surplus"],
+  groups: ["readout-group/surplus"],
   place: 3,
 } as const satisfies ReadoutWidget

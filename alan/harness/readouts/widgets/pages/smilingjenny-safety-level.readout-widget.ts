@@ -13,6 +13,6 @@ export const smilingjennySafetyLevel = {
   caption: "Alan's Safety",
   galleryName: "Safety",
   galleryDescription: "Where Alan's safety level is today.",
-  groups: ["safety"],
+  groups: ["readout-group/safety"],
   place: 2,
 } as const satisfies ReadoutWidget

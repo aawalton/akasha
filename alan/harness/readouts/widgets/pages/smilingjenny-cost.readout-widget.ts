@@ -13,6 +13,6 @@ export const smilingjennyCost = {
   caption: "Alan's Cost",
   galleryName: "Cost",
   galleryDescription: "What an hour of the block Alan is in costs him.",
-  groups: ["cost"],
+  groups: ["readout-group/cost"],
   place: 4,
 } as const satisfies ReadoutWidget
