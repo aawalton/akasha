@@ -254,7 +254,7 @@ const A_RULE: HeldRule = {
     slug: "rule-gold-stock",
     categoryId: "currency-gold",
     displayOrder: 0,
-    action: "stock",
+    action: "temper-item-action/stock",
     active: true,
     updatedAt: "2026-05-04T16:04:31.132Z",
   },
