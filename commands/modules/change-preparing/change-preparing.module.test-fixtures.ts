@@ -25,9 +25,6 @@ export const TIDY =
 
 export const BROKEN = 'import {a} from "./a.ts"\nexport const held = (\n'
 
-export const REFORMATTED =
-  "formatted akasha/two.ts as it landed — what is there is not what was handed in"
-
 export const REFUSES_LOOSE =
   "export function refusesLoose(change) {\n" +
   "  return change.changed\n" +
