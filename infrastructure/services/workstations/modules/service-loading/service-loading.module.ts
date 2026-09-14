@@ -102,5 +102,10 @@ export const serviceLoading = {
       invariantKind: "departure",
       statement: "A loader the pages service never answers names that address and refuses the run.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The window for asking again outlasts one try, so a try that timed out is asked again.",
+    },
   ],
 } as const satisfies Module

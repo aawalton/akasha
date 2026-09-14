@@ -67,8 +67,14 @@ test("the loader asks the pages service itself rather than spawning a program to
 
 test("a pages service that does not answer is asked again, each wait longer than the last", () => {
   const text = loaderText(ROOT, PORT, RUNNER)
-  expect(text).toContain("const ASK_AGAIN_FOR = 10000")
   expect(text).toContain("wait = Math.min(wait * 2, LONGEST_WAIT)")
+})
+
+test("the window for asking again outlasts one try, so a try that timed out is asked again", () => {
+  const text = loaderText(ROOT, PORT, RUNNER)
+  const answerIn = Number(/const ANSWER_IN = (\d+)/.exec(text)?.[1])
+  const askAgainFor = Number(/const ASK_AGAIN_FOR = (\d+)/.exec(text)?.[1])
+  expect(askAgainFor).toBeGreaterThan(answerIn)
 })
 
 test("a pages service that never answers is said plainly and the run is refused", () => {

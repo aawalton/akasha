@@ -61,7 +61,7 @@ const WIRE = "wire"
 const SAID = "service-loader:"
 const REFUSED_EXIT = 2
 const ANSWER_IN = 20000
-const ASK_AGAIN_FOR = 10000
+const ASK_AGAIN_FOR = 60000
 const FIRST_WAIT = 250
 const LONGEST_WAIT = 2000
 
