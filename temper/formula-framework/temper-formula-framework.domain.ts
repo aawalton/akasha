@@ -21,7 +21,6 @@ export const temperFormulaFramework = {
     "module/display-formula-convert",
     "module/display-formula-latex",
     "module/display-formula-node",
-    "module/display-formula-text",
     "module/effect",
     "module/effect-source",
     "module/effect-value-update",
