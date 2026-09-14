@@ -6,7 +6,6 @@ import {
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   listedAlsoFiled,
-  pathListed,
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -122,7 +121,6 @@ export function filing(
   const held = [{ path, id }]
   idFiled(root, id, held)
   listedAlsoFiled(root, pageTypeSlug, slug, held)
-  pathListed(root, path)
   valueAlsoFiled(root, pageTypeSlug, [{ path, value: valued(id, slug, pageTypeSlug, more) }])
 }
 
