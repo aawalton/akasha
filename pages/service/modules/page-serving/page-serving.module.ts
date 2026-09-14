@@ -189,5 +189,18 @@ export const pageServing = {
       invariantKind: "gap",
       statement: "A refusal says whose fault that refusal was.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A write may keep values outside the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value a write keeps outside the commit names the path it is kept beside.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page a write composes keeps its values beside the values that write already kept.",
+    },
   ],
 } as const satisfies Module

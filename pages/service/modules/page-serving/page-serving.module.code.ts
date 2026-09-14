@@ -283,6 +283,7 @@ export function writeIn(given: unknown): Written {
     message: string
     puts?: readonly Put[]
     removes?: readonly string[]
+    kept?: readonly Kept[]
     read?: string
   } = { writer, message }
   if (held.puts !== undefined) {
@@ -303,6 +304,25 @@ export function writeIn(given: unknown): Written {
     const removes = stringsIn(held.removes)
     if (removes === null) return { refused: "`removes` is a list of strings" }
     asked.removes = removes
+  }
+  if (held.kept !== undefined) {
+    if (!Array.isArray(held.kept)) return { refused: "`kept` is a list" }
+    const kept: Kept[] = []
+    for (const one of held.kept) {
+      const keeping = objectIn(one)
+      if (keeping === null) return { refused: "`kept` holds JSON objects" }
+      if (typeof keeping.path !== "string") {
+        return { refused: "a value kept outside the commit states its `path` as a string" }
+      }
+      const values = objectIn(keeping.values)
+      if (values === null) {
+        return {
+          refused: "a value kept outside the commit hands over its `values` as a JSON object",
+        }
+      }
+      kept.push({ path: keeping.path, values })
+    }
+    asked.kept = kept
   }
   if (held.read !== undefined) {
     if (typeof held.read !== "string") {
@@ -326,7 +346,7 @@ export function foldedInto(
   const put: Asked = { ...asked, puts: [...(asked.puts ?? []), ...puts] }
   const held: Asked =
     removes.length === 0 ? put : { ...put, removes: [...(asked.removes ?? []), ...removes] }
-  return kept.length === 0 ? held : { ...held, kept }
+  return kept.length === 0 ? held : { ...held, kept: [...(asked.kept ?? []), ...kept] }
 }
 
 async function bodyIn(request: Request): Promise<unknown> {
