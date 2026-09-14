@@ -8,32 +8,6 @@ import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.mod
 
 const SEQUENCE_PAGE_SIZE = 500
 
-export type GetOrderedChildrenArgs = {
-  pageTypeSlug: string
-  parentId: string
-  select?: PageSelect
-  limit?: number
-}
-
-export async function getOrderedChildren(args: GetOrderedChildrenArgs): Promise<readonly Page[]> {
-  const config = await getSequenceConfig({ pageTypeSlug: args.pageTypeSlug })
-  if (config == null) {
-    throw new Error(
-      `getOrderedChildren(${args.pageTypeSlug}): page-type declares no sequence config`
-    )
-  }
-  const dir = config.direction ?? "asc"
-  const walk = streamPages({
-    pageTypeSlug: args.pageTypeSlug,
-    where: [{ key: config.groupBy, eq: args.parentId }],
-    order: [{ by: config.orderBy, dir }],
-    select: args.select,
-    pageSize: SEQUENCE_PAGE_SIZE,
-    max: args.limit,
-  })
-  return await Array.fromAsync(walk)
-}
-
 export type OrderedNeighbors = { prev: Page | null; next: Page | null }
 
 export type GetOrderedNeighborsArgs = {

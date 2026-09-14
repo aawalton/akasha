@@ -46,12 +46,6 @@ export function acquireShape(reg: AcquireRegistry, descriptor: ShapeDescriptor):
   if (stop === null) entry.detached = true
 }
 
-export function markShapeDetached(reg: AcquireRegistry, shapeKey: string): undefined {
-  const entry = reg.shapes.get(shapeKey)
-  if (entry === undefined) return
-  entry.detached = true
-}
-
 export function attachDetachedShapes(reg: AcquireRegistry): undefined {
   for (const entry of reg.shapes.values()) {
     if (!entry.detached) continue
