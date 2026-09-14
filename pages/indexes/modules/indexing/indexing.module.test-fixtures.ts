@@ -10,9 +10,14 @@ import {
 import { under } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import { settlingOver } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { readingBuilding } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
-import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import {
+  pathsRead,
+  readerAt,
+  ruleTrusted,
+} from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import {
   aProperty,
   aType,
@@ -201,6 +206,12 @@ export function unreadAfterRebuild(): readonly string[] {
   const { rebuilt, tree } = worldsApart()
   const read = pathsRead(readingBuilding(rebuilt))
   return walkedIn(tree).filter((one) => !read.has(one))
+}
+
+export function ruleWhole(reading: Reading, named: readonly string[]): boolean {
+  if (!ruleTrusted(reading)) return false
+  const read = pathsRead(reading)
+  return named.every((one) => !typedCode(one) || read.has(one))
 }
 
 export function wholeAfterRebuild(): boolean {

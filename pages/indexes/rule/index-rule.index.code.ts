@@ -85,12 +85,6 @@ export function ruleTrusted(reading: Reading): boolean {
   return readerFiled(reading) === readerNow()
 }
 
-export function ruleWhole(reading: Reading, named: readonly string[]): boolean {
-  if (!ruleTrusted(reading)) return false
-  const read = pathsRead(reading)
-  return named.every((one) => !typed(one) || read.has(one))
-}
-
 export function saidOf(reading: Reading, rule: string): readonly Said[] {
   const found = reading.lines(saidAt(rule)).map((line) => JSON.parse(line) as Said)
   return found.sort((one, two) => {

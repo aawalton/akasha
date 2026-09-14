@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  ruleWhole,
   unreadAfterRebuild,
   wholeAfterRebuild,
 } from "akasha/pages/indexes/modules/indexing/indexing.module.test-fixtures.ts"
@@ -12,7 +13,6 @@ import {
   readerNow,
   ruleIn,
   ruleTrusted,
-  ruleWhole,
   saidAt,
   saidOf,
 } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
