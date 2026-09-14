@@ -9,15 +9,15 @@ export const upperUuid = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The one shape a uuid is written in is 8-4-4-4-12 hex digits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here is written in upper uuid.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A uuid is written in lower uuid.",
     },
   ],

@@ -10,11 +10,11 @@ export const lowerCamelCase = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A capital opens a word and a word may be one letter.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Whether an acronym is one word or many words cannot be read off the name.",
     },
   ],

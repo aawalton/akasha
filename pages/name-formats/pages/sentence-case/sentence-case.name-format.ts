@@ -9,11 +9,11 @@ export const sentenceCase = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Only the opening capital and the single spaces parting the words are judged.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A proper noun cannot be told from the name.",
     },
   ],
