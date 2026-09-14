@@ -1,10 +1,10 @@
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import {
-  landedMechanically,
-  runMechanicalChange,
+import type {
+  Asking,
+  Landing,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   answeredWith,
   keeping,
@@ -65,13 +65,6 @@ export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
   return asked
 }
 
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof runMechanicalChange>
-
 function wroteIn(landed: Applied): readonly string[] {
   return [
     ...landed.landed.map((one) => `landed ${one}`),
@@ -109,7 +102,7 @@ export type TrackingLanded =
 export async function landTracking(
   asked: TrackingAsked,
   done: string[] = [],
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<TrackingLanded> {
   if (asked.changes.length === 0) return { refused: NOTHING }
   const stray = strayAmong(asked.changes.map((one) => one.path))
@@ -117,7 +110,7 @@ export async function landTracking(
   const named = asked.changes.map((one) => changeAt(one.path, one.body))
   let landed: Applied | Refused
   try {
-    landed = await landing(done, asked.root, named, asked.message)
+    landed = await landing(asked.root, named, asked.message, null, { done })
   } catch (thrown) {
     return { refused: [whyOf(thrown), ...partWay(done)].join("\n") }
   }
