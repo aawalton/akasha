@@ -4,6 +4,7 @@ import {
   brokenIn,
   healthFor,
   healthIn,
+  stampIn,
   statesIn,
   type Watched,
   watchedIn,
@@ -44,9 +45,15 @@ const TIMED: Watched = { ...RUNNING, scheduled: true }
 
 const REFUSED: Watched = { ...RUNNING, unbound: [OFF] }
 
-const UP = { activeState: "active", result: "success" } as const
+const CHANGED = "2026-09-10T18:00:00.000Z"
 
-const COMING_UP = { activeState: "activating", result: "auto-restart" } as const
+const UP = { activeState: "active", result: "success", changedAt: CHANGED } as const
+
+const COMING_UP = {
+  activeState: "activating",
+  result: "auto-restart",
+  changedAt: CHANGED,
+} as const
 
 const NOW = new Date("2026-09-10T18:10:00.000Z")
 
@@ -57,12 +64,29 @@ const OLD_BEAT = "2026-09-10T17:30:00.000Z"
 const BEATS: Watched = { ...RUNNING, worksWithinMs: 900_000, workedAt: BEAT }
 
 const SHOWN =
-  "Id=a.service\nActiveState=active\nResult=success\n\nId=b.service\nActiveState=failed\nResult=exit-code"
+  "Id=a.service\nActiveState=active\nResult=success\nStateChangeTimestamp=@1789339922\n\n" +
+  "Id=b.service\nActiveState=failed\nResult=exit-code\nStateChangeTimestamp="
 
 test("the state of each unit is read off the block naming that unit", () => {
   const states = statesIn(SHOWN)
-  expect(states.get("a.service")).toEqual({ activeState: "active", result: "success" })
-  expect(states.get("b.service")).toEqual({ activeState: "failed", result: "exit-code" })
+  expect(states.get("a.service")).toEqual({
+    activeState: "active",
+    result: "success",
+    changedAt: "2026-09-13T22:52:02.000Z",
+  })
+  expect(states.get("b.service")).toEqual({
+    activeState: "failed",
+    result: "exit-code",
+    changedAt: null,
+  })
+})
+
+test("a moment systemd said nothing of is carried as none rather than as an instant", () => {
+  expect(stampIn(undefined)).toBe(null)
+  expect(stampIn("")).toBe(null)
+  expect(stampIn("Sun 2026-09-13 16:52:02 MDT")).toBe(null)
+  expect(stampIn("@nonsense")).toBe(null)
+  expect(stampIn("@1789339922")).toBe("2026-09-13T22:52:02.000Z")
 })
 
 test("text stating nothing carries the state of no unit", () => {
@@ -71,23 +95,45 @@ test("text stating nothing carries the state of no unit", () => {
 })
 
 test("a unit that failed is broken, and the reason names what systemd said", () => {
-  const said = brokenIn(RUNNING, { activeState: "failed", result: "exit-code" })
+  const said = brokenIn(RUNNING, { activeState: "failed", result: "exit-code", changedAt: null })
   expect(said).toContain("held-service.service failed")
   expect(said).toContain("exit-code")
 })
 
-test("a scheduled service between its runs is well", () => {
-  expect(brokenIn(TIMED, { activeState: "inactive", result: "success" })).toBe(null)
+test("a unit that failed is broken at the moment systemd says it failed", () => {
+  const said = brokenIn(RUNNING, {
+    activeState: "failed",
+    result: "exit-code",
+    changedAt: CHANGED,
+  })
+  expect(said).toContain(`failed at ${CHANGED}`)
 })
 
-test("a service that is to be running and is not is broken", () => {
-  expect(brokenIn(RUNNING, { activeState: "inactive", result: "success" })).toContain(
-    "rather than running"
+test("a scheduled service between its runs is well", () => {
+  expect(brokenIn(TIMED, { activeState: "inactive", result: "success", changedAt: null })).toBe(
+    null
   )
 })
 
+test("a service that is to be running and is not is broken", () => {
+  expect(
+    brokenIn(RUNNING, { activeState: "inactive", result: "success", changedAt: null })
+  ).toContain("rather than running")
+})
+
+test("a service that is not running says since when systemd says it stopped", () => {
+  const said = brokenIn(RUNNING, {
+    activeState: "inactive",
+    result: "success",
+    changedAt: CHANGED,
+  })
+  expect(said).toContain(`rather than running, and has been since ${CHANGED}`)
+})
+
 test("a service still coming up is well", () => {
-  expect(brokenIn(RUNNING, { activeState: "activating", result: "success" })).toBe(null)
+  expect(brokenIn(RUNNING, { activeState: "activating", result: "success", changedAt: null })).toBe(
+    null
+  )
 })
 
 test("a unit systemd does not know is broken rather than well", () => {
@@ -117,18 +163,23 @@ test("the health of every unit watched is answered together", () => {
 })
 
 test("a service saying it could not bind a host name its page states is broken", () => {
-  const said = brokenIn(REFUSED, { activeState: "active", result: "success" })
+  const said = brokenIn(REFUSED, { activeState: "active", result: "success", changedAt: null })
   expect(said).toContain("not listening")
   expect(said).toContain(OFF)
 })
 
 test("a host name unbound is broken though that service is scheduled", () => {
-  const said = brokenIn({ ...REFUSED, scheduled: true }, { activeState: "inactive", result: "" })
+  const said = brokenIn(
+    { ...REFUSED, scheduled: true },
+    { activeState: "inactive", result: "", changedAt: null }
+  )
   expect(said).toContain(OFF)
 })
 
 test("a service listening on every host name its page states is well", () => {
-  expect(brokenIn(RUNNING, { activeState: "active", result: "success" })).toBe(null)
+  expect(brokenIn(RUNNING, { activeState: "active", result: "success", changedAt: null })).toBe(
+    null
+  )
 })
 
 test("what a service published as unbound is carried into what is watched", () => {
@@ -183,9 +234,9 @@ test("a round landing while the unit keeps coming up is well", () => {
 
 test("a round that has not landed is broken though that service is scheduled", () => {
   const timed = { ...BEATS, scheduled: true, workedAt: OLD_BEAT }
-  expect(brokenIn(timed, { activeState: "inactive", result: "success" }, NOW)).toContain(
-    "last said its work landed"
-  )
+  expect(
+    brokenIn(timed, { activeState: "inactive", result: "success", changedAt: null }, NOW)
+  ).toContain("last said its work landed")
 })
 
 test("the seconds a service states are read as the window it may go", () => {

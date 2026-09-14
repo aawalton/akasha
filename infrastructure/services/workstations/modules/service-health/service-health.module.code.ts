@@ -15,6 +15,8 @@ const SERVICE_SUFFIX = ".service"
 const ID = "Id"
 const ACTIVE_STATE = "ActiveState"
 const RESULT = "Result"
+const STATE_CHANGE = "StateChangeTimestamp"
+const UNIX_STAMP = "--timestamp=unix"
 const A_SECOND = 1000
 const WELL = new Set(["active", "activating", "reloading"])
 const UNBOUND = "unbound"
@@ -22,6 +24,7 @@ const UNBOUND = "unbound"
 export type UnitState = {
   readonly activeState: string
   readonly result: string
+  readonly changedAt: string | null
 }
 
 export type Watched = {
@@ -68,6 +71,12 @@ export function watchedIn(root: string, services: readonly Service[]): readonly 
   return found
 }
 
+export function stampIn(said: string | undefined): string | null {
+  if (said === undefined || !said.startsWith("@")) return null
+  const seconds = Number(said.slice(1))
+  return Number.isFinite(seconds) ? new Date(seconds * A_SECOND).toISOString() : null
+}
+
 export function statesIn(text: string): ReadonlyMap<string, UnitState> {
   const held = new Map<string, UnitState>()
   for (const block of text.trim().split("\n\n")) {
@@ -78,7 +87,11 @@ export function statesIn(text: string): ReadonlyMap<string, UnitState> {
     }
     const id = said.get(ID)
     if (id === undefined) continue
-    held.set(id, { activeState: said.get(ACTIVE_STATE) ?? "", result: said.get(RESULT) ?? "" })
+    held.set(id, {
+      activeState: said.get(ACTIVE_STATE) ?? "",
+      result: said.get(RESULT) ?? "",
+      changedAt: stampIn(said.get(STATE_CHANGE)),
+    })
   }
   return held
 }
@@ -105,7 +118,8 @@ export function brokenIn(
 ): string | null {
   if (state === undefined) return `${one.unit} is no unit systemd knows`
   if (state.activeState === "failed") {
-    return `${one.unit} failed, and systemd says \`${state.result}\``
+    const at = state.changedAt === null ? "" : ` at ${state.changedAt}`
+    return `${one.unit} failed${at}, and systemd says \`${state.result}\``
   }
   if (one.unbound.length > 0) {
     return `${one.unit} is not listening at ${one.unbound.join(", ")}, which its page states`
@@ -114,7 +128,8 @@ export function brokenIn(
   if (unbeaten !== null) return unbeaten
   if (one.scheduled) return null
   if (WELL.has(state.activeState)) return null
-  return `${one.unit} is \`${state.activeState}\` rather than running`
+  const since = state.changedAt === null ? "" : `, and has been since ${state.changedAt}`
+  return `${one.unit} is \`${state.activeState}\` rather than running${since}`
 }
 
 export function healthIn(
@@ -132,7 +147,8 @@ export function healthIn(
 
 function showing(units: readonly string[]): string {
   if (units.length === 0) return ""
-  return ran(["systemctl", "--user", "show", ...units, "-p", `${ID},${ACTIVE_STATE},${RESULT}`]).out
+  const asked = [ID, ACTIVE_STATE, RESULT, STATE_CHANGE].join(",")
+  return ran(["systemctl", "--user", UNIX_STAMP, "show", ...units, "-p", asked]).out
 }
 
 export function healthFor(

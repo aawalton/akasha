@@ -76,6 +76,15 @@ export const serviceHealth = {
     {
       invariantKind: "departure",
       statement:
+        "A unit that failed or is not running names the moment systemd measured it entering that state.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A moment systemd states as no instant is left out rather than guessed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "systemd is asked about every unit at once rather than about a single unit at a time.",
     },
     {
