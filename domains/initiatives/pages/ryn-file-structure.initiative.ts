@@ -20,9 +20,9 @@ export const rynFileStructure = {
       statement: "No slug is plural.",
     },
     {
-      statement: "A domain wrapping one page type and that page type are one page.",
+      statement: "A domain wrapping one page and that page are one page.",
       workingMemory:
-        "Eighteen slugs were held by both a domain page and a page type. Thirteen shared a folder with the domain naming its own page type a part. Landed: tracking-capture, change, supervisor-action, inference-run, term. In flight: agent, domain, persona, page, readout, seat, service, index. Of the five not sharing a folder, secret and temper-skill merge with a move, image dissolves into comfy, day renames to day-boundary, and cluster merges into infrastructure/cluster.",
+        "Eighteen slugs were held by both a domain page and a page type; all are landed or in flight. The same shape reaches pages that are no page type. Of 54 service-workstations, 14 already sit alone in their own folder under the a-service-workstation-with-its-parts shape, and 2 carry a wrapper domain: temper-watcher and pages-service, both in flight. Four more — git-transport, eso-rig, auth-proxy, postgres-annual-dump — wrap a service-cluster and wait on the registry intent below.\n",
     },
     {
       statement: "A property page sits under the page type declaring that property.",
