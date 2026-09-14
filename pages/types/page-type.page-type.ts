@@ -149,6 +149,18 @@ export const pageType = {
       statement:
         "The pages of a page type are reached by that page type rather than by the folder those pages sit in.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page type states the component drawing a page of that page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A component a page type states is held in files beside that page type.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page type states a display for a screen to resolve to a component.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType

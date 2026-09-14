@@ -7,7 +7,6 @@ export const olwenPagesSystemDisplay = {
   domain: "domain/design-interfaces-system",
   persona: "olwen",
   intentStack: [
-    { statement: "A page type states the component drawing a page of that page type." },
     { statement: "A page type states the component drawing a page property's value as a badge." },
     {
       statement:
@@ -15,13 +14,8 @@ export const olwenPagesSystemDisplay = {
     },
     {
       statement:
-        "A component a page type states is held in files beside that page type, as a module group is.",
-    },
-    {
-      statement:
         "A page type stating no component of a kind takes the component the page type it extends states.",
     },
-    { statement: "No page type states a display for a screen to resolve to a component." },
     { statement: "A page type states the component drawing a page of that page type as a chip." },
     { statement: "A page type states the component drawing a page of that page type as a row." },
     {
