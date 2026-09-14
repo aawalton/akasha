@@ -165,6 +165,11 @@ export const pageType = {
       invariantKind: "departure",
       statement: "A page type states the component drawing a page property's value as a badge.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type states the component drawing a page property's whole row, its label with its value.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType

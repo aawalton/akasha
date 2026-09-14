@@ -9,10 +9,6 @@ export const olwenPagesSystemDisplay = {
   intentStack: [
     {
       statement:
-        "A page type states the component drawing a page property's whole row, its label with its value.",
-    },
-    {
-      statement:
         "A page type stating no component of a kind takes the component the page type it extends states.",
     },
     { statement: "A page type states the component drawing a page of that page type as a chip." },
