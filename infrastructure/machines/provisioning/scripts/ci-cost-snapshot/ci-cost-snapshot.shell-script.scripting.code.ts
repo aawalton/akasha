@@ -21,12 +21,13 @@ function codeOf(given: string | Reading, slug: string): string {
   return fileOf(given, valuedAt(given, MODULE, slug), MODULE, CODE)
 }
 
-export function modulesIn(given: string | Reading): readonly string[] {
+export function modulesIn(given: string | Reading): readonly [string, string] {
   return [codeOf(given, READING), codeOf(given, SHOWING)]
 }
 
 export function bodyIn(given: string | Reading): string {
   const own = valuedAt(given, SCRIPT, OWN)
+  const [reading, showing] = modulesIn(given)
   const lines = [
     "#!/usr/bin/env bash",
     "set -euo pipefail",
@@ -44,7 +45,7 @@ export function bodyIn(given: string | Reading): string {
     `# A SESSION UUID IS ALL THIS IS GIVEN, and \`${READING}\` takes it as readily as an agent id. It`,
     "# sits in akasha and reads the seat page there, so the shell parser this used to source — the last",
     "# of the three that could not see a flat scalar — has no callers left.",
-    `AGENT_ID=$("$BUN_BIN" "${UNDER}${codeOf(given, READING)}" \\`,
+    `AGENT_ID=$("$BUN_BIN" "${UNDER}${reading}" \\`,
     '  "$SESSION_ID" id 2>/dev/null || true)',
     "",
     'if [ -z "$AGENT_ID" ]; then',
@@ -52,7 +53,7 @@ export function bodyIn(given: string | Reading): string {
     "  exit 0",
     "fi",
     "",
-    `"$BUN_BIN" "${UNDER}${codeOf(given, SHOWING)}" "$AGENT_ID"`,
+    `"$BUN_BIN" "${UNDER}${showing}" "$AGENT_ID"`,
   ]
   return `${lines.join("\n")}\n`
 }
