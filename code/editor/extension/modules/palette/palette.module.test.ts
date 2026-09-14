@@ -33,8 +33,8 @@ test("the palette answers every color a turn state names", () => {
 })
 
 test("a stopped seat is drawn in the text color", () => {
-  expect(colorByState().get("stopped")).toBe("text")
-  expect(colorNamed("text")).toBe(chalk.hex)
+  expect(colorByState().get("stopped")).toBe("color/text")
+  expect(colorNamed("color/text")).toBe(chalk.hex)
 })
 
 test("a name is lowercased before being matched", () => {
