@@ -31,9 +31,8 @@ export function everySpeltIn(change: Change, shadow: Shadow): Saying {
 }
 
 export function everyFiledIn(shadow: Shadow, short: ReadonlySet<string> = new Set()): Saying {
-  const named = new Set(everyFileOf(shadow.index))
   return (rule) =>
-    shadow.index.saidOf(rule).filter((one) => named.has(one.path) && !short.has(one.path))
+    shadow.index.saidOf(rule).filter((one) => shadow.holds(one.path) && !short.has(one.path))
 }
 
 function bothSaying(filed: Saying, spelt: Saying): Saying {
