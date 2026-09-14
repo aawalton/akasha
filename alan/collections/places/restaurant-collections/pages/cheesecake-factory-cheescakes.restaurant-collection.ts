@@ -5,7 +5,7 @@ export const cheesecakeFactoryCheescakes = {
   type: "restaurant-collection",
   slug: "cheesecake-factory-cheescakes",
   title: "Cheesecake Factory Cheescakes",
-  partOfCollections: ["the-cheesecake-factory"],
+  partOfCollections: ["restaurant/the-cheesecake-factory"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
