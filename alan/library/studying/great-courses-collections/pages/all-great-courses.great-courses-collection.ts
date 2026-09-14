@@ -8,5 +8,5 @@ export const allGreatCourses = {
   status: "in-progress",
   rank: "B",
   unit: "unit/minutes",
-  partOfCollections: ["the-great-courses"],
+  partOfCollections: ["great-courses-collection/the-great-courses"],
 } as const satisfies GreatCoursesCollection
