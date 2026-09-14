@@ -41,7 +41,6 @@ export const alanHarness = {
     "domain/sms-access",
     "domain/sms-core",
     "domain/ssh-access",
-    "domain/status-bar-access",
     "domain/supabase-auth",
     "domain/supabase-client",
     "domain/supabase-rr",
