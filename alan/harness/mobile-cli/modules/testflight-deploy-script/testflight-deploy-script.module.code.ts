@@ -27,7 +27,6 @@ import {
 import {
   iosAppDir,
   type MobileApp,
-  macWwwStagingDir,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 
 export function buildTestflightDeployScript(opts: {
@@ -90,7 +89,6 @@ export function buildTestflightDeployScript(opts: {
         nativeShellHealthkit: opts.nativeShellHealthkit,
         nativeShellRingCredential: opts.nativeShellRingCredential,
         nativeShellKokoroTts: opts.nativeShellKokoroTts,
-        stagedWwwDir: macWwwStagingDir(opts.app) ?? undefined,
       })
     )
   }

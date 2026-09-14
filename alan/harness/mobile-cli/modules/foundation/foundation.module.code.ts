@@ -156,7 +156,6 @@ export function buildNativeSync(opts: {
   readonly nativeShellHealthkit?: string
   readonly nativeShellRingCredential?: string
   readonly nativeShellKokoroTts?: string
-  readonly stagedWwwDir?: string
 }): string {
   const widget = opts?.nativeShellWidget
   const widgetExport =
@@ -179,10 +178,6 @@ export function buildNativeSync(opts: {
     kokoroTts !== undefined && kokoroTts !== ""
       ? [`export NATIVE_SHELL_KOKORO_TTS=${quoted(kokoroTts)}`]
       : []
-  const injectWww =
-    opts?.stagedWwwDir !== undefined && opts.stagedWwwDir !== ""
-      ? [`rm -rf www`, `mkdir -p www`, `cp -R ${opts.stagedWwwDir}/. www/`]
-      : []
   const syncing = opts.app.syncScript
   if (syncing === null) {
     throw new InputError(
@@ -196,7 +191,6 @@ export function buildNativeSync(opts: {
     `export NATIVE_SHELL_TREE_ROOT=${opts.root}`,
     `export NATIVE_SHELL_PLUGINS=${quoted(opts.app.toolReached.join(" "))}`,
     `cd ${nativeShellDir(opts.app, opts.root)}`,
-    ...injectWww,
     ...appValueExports(opts.app),
     ...widgetExport,
     ...apsExport,
