@@ -7,7 +7,12 @@ export const modelProvider = {
   definition: "an outside system that serves models",
   pluralSlug: "model-providers",
   extends: ["page-type/domain"],
-  parts: ["model-provider/anthropic", "model-provider/deepseek", "url-property/api-base"],
+  parts: [
+    "model-provider/anthropic",
+    "model-provider/deepseek",
+    "text-property/api-key",
+    "url-property/api-base",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -19,5 +24,8 @@ export const modelProvider = {
     },
   ],
   types: "ts",
-  properties: [{ pageProperty: "url-property/api-base", required: true, many: false }],
+  properties: [
+    { pageProperty: "url-property/api-base", required: true, many: false },
+    { pageProperty: "text-property/api-key", required: false, many: false, secret: true },
+  ],
 } as const satisfies PageType
