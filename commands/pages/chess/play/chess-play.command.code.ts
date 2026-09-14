@@ -80,7 +80,7 @@ const LIVE: Omit<Playing, "writing"> = {
   playedAt: (): string => new Date().toISOString(),
 }
 
-export function sideIn(said: string): PlayerColor | null {
+function sideIn(said: string): PlayerColor | null {
   if (said === WHITE || said === BLACK) return said
   return null
 }
@@ -96,7 +96,7 @@ function bandRefused(band: number): string {
   )
 }
 
-export function namedFor(game: CompletedGame): Naming {
+function namedFor(game: CompletedGame): Naming {
   const values = chessGameValues(game)
   const held = values[PGN]
   const slug = values[SLUG]

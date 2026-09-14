@@ -47,11 +47,11 @@ const LIVE: Omit<Importing, "writing"> = {
   mintId: uuidVersion7,
 }
 
-export function rowFor(puzzle: ParsedPuzzle, id: string): Value {
+function rowFor(puzzle: ParsedPuzzle, id: string): Value {
   return { id, ...puzzleToRow(puzzle) }
 }
 
-export function namedFor(rows: readonly Value[]): Naming {
+function namedFor(rows: readonly Value[]): Naming {
   return {
     pageTypeSlug: set.type,
     slug: set.slug,

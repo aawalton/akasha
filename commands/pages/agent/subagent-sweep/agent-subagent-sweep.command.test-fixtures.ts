@@ -95,7 +95,7 @@ export const ACTS: readonly ProcLivenessEntry[] = [
   entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 9 }),
 ]
 
-export function pathOf(seatName: string, own: string): string {
+function pathOf(seatName: string, own: string): string {
   return `${AT}/${seatName}-${own}.subagent.ts`
 }
 
