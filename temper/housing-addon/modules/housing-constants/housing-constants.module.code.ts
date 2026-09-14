@@ -1,5 +1,4 @@
 export const ADDON_NAME = "PortToFriendsHouse"
-export const MANIFEST_NAME = "TemperPortToFriendsHouse"
 export const SAVED_VARS_NAME = "TemperPortToFriendsHouse_SavedVariables"
 export const SAVED_VARS_VERSION = 1
 export const SLASH_CMD = "/ptf"
