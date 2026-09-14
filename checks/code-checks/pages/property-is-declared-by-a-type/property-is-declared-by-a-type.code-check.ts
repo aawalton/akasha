@@ -56,16 +56,15 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which page stands at a path is asked of the path index rather than of the slug its file name says.",
+      statement: "Which page sits at a path is read from the body at that path.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the index files nothing for is passed over rather than thrown on.",
+      statement: "An id the index files no page for is passed over rather than thrown on.",
     },
     {
       invariantKind: "absence",
-      statement: "Why nothing is filed for a path is not said here.",
+      statement: "Why nothing is filed for an id is not said here.",
     },
     {
       invariantKind: "absence",

@@ -46,15 +46,18 @@ export const fileProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "The index row at a file's own path is what claims that file for its page.",
+      statement:
+        "The page claiming a file is read from that file's own name against the page types' declarations.",
     },
     {
       invariantKind: "departure",
-      statement: "A file landing through a change is filed and unfiled by the index gate.",
+      statement:
+        "A file landing through a change is listed by the settle that works its page's claims out again.",
     },
     {
-      invariantKind: "departure",
-      statement: "A file written or taken away outside a change is filed by whatever does that.",
+      invariantKind: "gap",
+      statement:
+        "A file written or taken away outside a change reaches the listing at the next settle over its page.",
     },
   ],
   types: "ts",

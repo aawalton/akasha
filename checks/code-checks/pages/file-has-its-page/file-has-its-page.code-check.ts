@@ -27,7 +27,8 @@ export const fileHasItsPage = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a page claims a path is one index read.",
+      statement:
+        "Whether a page claims a path is read from that path's own name against what the types declare.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +49,7 @@ export const fileHasItsPage = {
     {
       invariantKind: "departure",
       statement:
-        "The page that claims any other path is asked of the index rather than worked out here.",
+        "The page that claims any other path is answered from that path rather than worked out here.",
     },
     {
       invariantKind: "absence",

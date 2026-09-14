@@ -34,16 +34,11 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "gap",
-      statement: "A file written here is filed in the path index at the next settle over its page.",
+      statement: "A file written here reaches the listing at the next settle over its page.",
     },
     {
       invariantKind: "gap",
-      statement: "A file taken away here is unfiled from the path index at that same settle.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "The listing index holds the same paths the path index holds, both here and everywhere.",
+      statement: "A file taken away here leaves the listing at that same settle.",
     },
     {
       invariantKind: "departure",

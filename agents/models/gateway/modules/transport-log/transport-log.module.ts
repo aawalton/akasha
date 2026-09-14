@@ -182,7 +182,8 @@ export const transportLog = {
     },
     {
       invariantKind: "gap",
-      statement: "A file this module opens beside a page is filed in the path index.",
+      statement:
+        "A file this module opens beside a page reaches the listing at the next settle over that page.",
     },
     {
       invariantKind: "departure",
