@@ -11,7 +11,7 @@ export const dallaWorktrees = {
       statement:
         "A deployed service gets every file it needs from the pages service at its deployed commit.",
       workingMemory:
-        "A plugin resolving `akasha/` through `/read` in its own namespace ran 170 modules of `send-due-reminders` with nothing on disk; `zod` still resolved from `node_modules`, on disk here and installed remotely from the lockfile. The deploy writes that loader beside each unit file. Pinning waits on the index: at `8a509d9e224` the served code spells `INDEX_AT` as `.git/indexes` while the disk holds `.indexes`. `path`, `listing` and `import` are reached only from changes and checks.",
+        "A plugin serving `akasha/` from `/read` in its own namespace runs a service with nothing of it on disk; `zod` still resolves from `node_modules`, kept on disk here and installed remotely from the lockfile. The deploy writes that loader beside each unit. A module finding the repository from its own file breaks there, since `import.meta.dir` reads `/wire:/…`; `akashaRoot()` already reads `AKASHA_ROOT`. Pinning waits on the index, which each commit spells its own way.",
     },
     {
       statement: "No deployed service runs out of a worktree.",
