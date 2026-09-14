@@ -33,7 +33,6 @@ export const mobileCli = {
     "module/testflight-cut",
     "module/testflight-deploy-script",
     "module/testflight-poll",
-    "module/www-build",
     "page-type/mobile-cut",
   ],
   invariants: [
