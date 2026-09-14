@@ -15,9 +15,11 @@ import {
 } from "akasha/infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
-const WAITED = "30m"
+const WAITED_ONCE = "10s"
 
 const AT_ONCE = "1s"
+
+const WAITED_ROUNDS = 180
 
 const COMPLETE = "condition=Complete"
 
@@ -48,13 +50,21 @@ export function logsArgv(name: string): readonly string[] {
 export const ranBy: Running = (argv, text) =>
   text === null ? runKubectl(argv) : runKubectlOn(argv, text)
 
-export function endedBy(waited: Ran, failed: Ran, lines: Ran, name: string): Ended {
+export type Fate = "complete" | "failed" | "running"
+
+export function endedBy(fate: Fate, lines: Ran, name: string): Ended {
   const said = lines.stdout.trim() === "" ? [] : lines.stdout.trim().split("\n")
-  if (waited.code === 0) return { said }
-  if (failed.code === 0) {
-    return { why: [`the job ${name} failed`, ...said].join("\n") }
+  if (fate === "complete") return { said }
+  if (fate === "failed") return { why: [`the job ${name} failed`, ...said].join("\n") }
+  return { why: `the job ${name} had not ended, so its lines are all that is known` }
+}
+
+export function fateOf(running: Running, name: string, rounds: number): Fate {
+  for (let round = 0; round < rounds; round += 1) {
+    if (running(waitArgv(name, COMPLETE, WAITED_ONCE), null).code === 0) return "complete"
+    if (running(waitArgv(name, FAILED, AT_ONCE), null).code === 0) return "failed"
   }
-  return { why: `the job ${name} had not ended after ${WAITED}: ${waited.stderr.trim()}` }
+  return "running"
 }
 
 export function ranInCluster(
@@ -84,7 +94,6 @@ export function ranInCluster(
   if (put.code !== 0) {
     return { why: `the job ${name} would not go up: ${put.stderr.trim()}` }
   }
-  const waited = running(waitArgv(name, COMPLETE, WAITED), null)
-  const failed = waited.code === 0 ? waited : running(waitArgv(name, FAILED, AT_ONCE), null)
-  return endedBy(waited, failed, running(logsArgv(name), null), name)
+  const fate = fateOf(running, name, WAITED_ROUNDS)
+  return endedBy(fate, running(logsArgv(name), null), name)
 }

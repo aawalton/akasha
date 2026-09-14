@@ -4,6 +4,7 @@ import { jobNameFor } from "akasha/infrastructure/job/modules/deploy-job/deploy-
 import {
   applyArgv,
   endedBy,
+  fateOf,
   logsArgv,
   type Running,
   ranInCluster,
@@ -31,23 +32,38 @@ test("the wait names the job and how long it is waited on", () => {
   expect(said).toContain("--timeout=30m")
 })
 
+test("a job that failed is seen on the round it failed rather than after the whole wait", () => {
+  let asked = 0
+  const running: Running = (argv) => {
+    asked += 1
+    return ranOf(argv.includes("--for=condition=Failed") ? 0 : 1)
+  }
+  expect(fateOf(running, NAME, 180)).toBe("failed")
+  expect(asked).toBe(2)
+})
+
+test("a job still running past every round is answered as running", () => {
+  const running: Running = () => ranOf(1)
+  expect(fateOf(running, NAME, 3)).toBe("running")
+})
+
 test("every line the job said is read rather than the last few", () => {
   expect(logsArgv(NAME)).toContain("--tail=-1")
 })
 
 test("a job that ended has its lines carried back", () => {
-  const held = endedBy(ranOf(0), ranOf(0), ranOf(0, "one\ntwo\n"), NAME)
+  const held = endedBy("complete", ranOf(0, "one\ntwo\n"), NAME)
   expect(held).toEqual({ said: ["one", "two"] })
 })
 
 test("a job that failed refuses the run, and the lines still come back", () => {
-  const held = endedBy(ranOf(1), ranOf(0), ranOf(0, "why\n"), NAME) as { why: string }
+  const held = endedBy("failed", ranOf(0, "why\n"), NAME) as { why: string }
   expect(held.why).toContain(NAME)
   expect(held.why).toContain("why")
 })
 
 test("a job left running past the wait refuses the run", () => {
-  const held = endedBy(ranOf(1, "", "timed out"), ranOf(1), ranOf(0), NAME) as { why: string }
+  const held = endedBy("running", ranOf(0), NAME) as { why: string }
   expect(held.why).toContain("had not ended")
 })
 
