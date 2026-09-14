@@ -12,25 +12,3 @@ export function extractPageTypeId(v: unknown): string | undefined {
   if (isRecord(v) && typeof v.id === "string") return v.id
   return undefined
 }
-
-export type DetailBodyKind = "skeleton" | "reader" | "collection" | "default"
-
-export function selectDetailBody({
-  hasPage,
-  pageIsLoading,
-  hasPageType,
-  displayKind,
-}: {
-  hasPage: boolean
-  pageIsLoading: boolean
-  hasPageType: boolean
-  displayKind: string | undefined
-}): DetailBodyKind {
-  if (hasPageType) {
-    if (displayKind === "reader") return "reader"
-    if (displayKind === "collection") return "collection"
-    return "default"
-  }
-  const pageNotFound = !hasPage && !pageIsLoading
-  return pageNotFound ? "default" : "skeleton"
-}
