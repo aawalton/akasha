@@ -6,7 +6,7 @@ import { CalendarTimePropertyBadge } from "akasha/pages/ui/components/modules/ca
 import { DatePropertyBadge } from "akasha/pages/ui/components/modules/date-property-badge/date-property-badge.module.code.tsx"
 import { FormulaPropertyBadge } from "akasha/pages/ui/components/modules/formula-property-badge/formula-property-badge.module.code.tsx"
 import { InstantPropertyBadge } from "akasha/pages/ui/components/modules/instant-property-badge/instant-property-badge.module.code.tsx"
-import { JsonPropertyBadge } from "akasha/pages/ui/components/modules/json-property-badge/json-property-badge.module.code.tsx"
+
 import { MarkdownPropertyBadge } from "akasha/pages/ui/components/modules/markdown-property-badge/markdown-property-badge.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"
 import { MultiSelectPropertyBadge } from "akasha/pages/ui/components/modules/multi-select-property-badge/multi-select-property-badge.module.code.tsx"
@@ -30,7 +30,7 @@ export const PROPERTY_BADGE_REGISTRY: Partial<
   markdown: MarkdownPropertyBadge,
   boolean: BooleanPropertyBadge,
   url: UrlPropertyBadge,
-  json: JsonPropertyBadge,
+
   "calendar-date": DatePropertyBadge,
   "calendar-time": CalendarTimePropertyBadge,
   instant: InstantPropertyBadge,
