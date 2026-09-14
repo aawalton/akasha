@@ -42,5 +42,25 @@ export const supervisorConsole = {
       invariantKind: "departure",
       statement: "A log at its ceiling is rotated rather than grown.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A console this installs never throws, whatever the sink beneath it does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line the sink throws over is written to standard error instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line standard error throws over is dropped rather than thrown on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A writer that cannot be made yet is a seat not found yet.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line the log file will not take is written to standard error.",
+    },
   ],
 } as const satisfies Module

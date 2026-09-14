@@ -138,6 +138,119 @@ test("the seat a sink found once is not looked for again", () => {
   expect(taken).toEqual(["one", "two"])
 })
 
+test("a sink whose writer cannot be made at all writes to the file and joins the page later", () => {
+  const fell: string[] = []
+  const taken: string[] = []
+  let throwing = true
+  const seams = {
+    seatFor: () => "thea",
+    writerFor: (): unknown => {
+      if (throwing) throw new Error("the index is part way through a refresh")
+      return writerTaking(taken)
+    },
+  }
+  const sink = seatPageSink(
+    SUPERVISOR_CONSOLE_SOURCE,
+    "a",
+    (level, text) => {
+      fell.push(`${level} ${text}`)
+    },
+    seams as never
+  )
+
+  expect(() => sink("LOG", "before")).not.toThrow()
+  expect(fell).toEqual(["LOG before"])
+  expect(taken).toEqual([])
+  throwing = false
+  sink("LOG", "after")
+  expect(taken).toEqual(["after"])
+})
+
+test("a writer that throws sends the line to the fallback rather than out of the sink", () => {
+  const fell: string[] = []
+  const writer = {
+    write: () => {
+      throw new Error("the index is part way through a refresh")
+    },
+    refused: () => null,
+  }
+  const sink = pageSink(SUPERVISOR_CONSOLE_SOURCE, writer as never, "a", (level, text) => {
+    fell.push(`${level} ${text}`)
+  })
+
+  expect(() => sink("LOG", "one")).not.toThrow()
+  expect(fell).toEqual(["LOG one"])
+})
+
+test("a fallback that throws sends the line to standard error rather than out of the sink", () => {
+  const written: string[] = []
+  const before = process.stderr.write
+  process.stderr.write = ((chunk: string) => {
+    written.push(chunk)
+    return true
+  }) as typeof process.stderr.write
+  const writer = { write: () => undefined, refused: () => "the page is full" }
+  const sink = pageSink(SUPERVISOR_CONSOLE_SOURCE, writer as never, "a", () => {
+    throw new Error("the file is gone")
+  })
+
+  expect(() => sink("LOG", "one")).not.toThrow()
+  process.stderr.write = before
+  expect(written).toHaveLength(2)
+  expect(written[1]).toContain("[LOG] one")
+})
+
+test("a file that will not take a line writes that line to standard error", () => {
+  const written: string[] = []
+  const before = process.stderr.write
+  process.stderr.write = ((chunk: string) => {
+    written.push(chunk)
+    return true
+  }) as typeof process.stderr.write
+  const sink = fileSink(join(scratch.rootFor("supervisor-console-"), "no-such-dir/supervisor.log"))
+
+  expect(() => sink("LOG", "a line")).not.toThrow()
+  process.stderr.write = before
+  expect(written).toHaveLength(1)
+  expect(written[0]).toContain("[LOG] a line")
+})
+
+test("a console this installs never throws, whatever the sink beneath it does", () => {
+  const written: string[] = []
+  const before = process.stderr.write
+  process.stderr.write = ((chunk: string) => {
+    written.push(chunk)
+    return true
+  }) as typeof process.stderr.write
+  const restore = redirectConsoleToSink(() => {
+    throw new Error("the index is part way through a refresh")
+  })
+
+  expect(() => console.log("said")).not.toThrow()
+  expect(() => console.warn("said")).not.toThrow()
+  expect(() => console.error("said")).not.toThrow()
+  restore()
+  process.stderr.write = before
+  expect(written).toHaveLength(3)
+  expect(written[0]).toContain("[LOG] said")
+  expect(written[1]).toContain("[WARN] said")
+  expect(written[2]).toContain("[ERROR] said")
+})
+
+test("a line standard error throws over is dropped rather than thrown on", () => {
+  const before = process.stderr.write
+  process.stderr.write = (() => {
+    throw new Error("standard error refuses this line")
+  }) as typeof process.stderr.write
+  const restore = redirectConsoleToSink(() => {
+    throw new Error("the index is part way through a refresh")
+  })
+
+  expect(() => console.log("said")).not.toThrow()
+  restore()
+  process.stderr.write = before
+})
+
 test("a redirected console is put back as it was", () => {
   const seen: string[] = []
   const before = console.log

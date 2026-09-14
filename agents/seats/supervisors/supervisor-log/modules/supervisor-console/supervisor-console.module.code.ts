@@ -44,17 +44,41 @@ function textOf(args: readonly unknown[]): string {
     .join(" ")
 }
 
+function lineOf(level: string, text: string): string {
+  return `${new Date().toISOString()} [${level}] ${text}\n`
+}
+
+function toStderr(line: string): undefined {
+  try {
+    process.stderr.write(line)
+  } catch {
+    return
+  }
+}
+
+export function saidAnyway(sink: LogSink, level: string, text: string): undefined {
+  try {
+    sink(level, text)
+  } catch {
+    toStderr(lineOf(level, text))
+  }
+}
+
 export function fileSink(logPath: string, rotate?: RotationOptions): LogSink {
   let currentBytes = rotate != null ? sizeOrZero(logPath) : 0
   return (level, text): undefined => {
-    const line = `${new Date().toISOString()} [${level}] ${text}\n`
+    const line = lineOf(level, text)
     if (rotate != null && shouldRotate(currentBytes, rotate.maxBytes)) {
       try {
         renameSync(logPath, `${logPath}.1`)
         currentBytes = 0
       } catch {}
     }
-    appendFileSync(logPath, line)
+    try {
+      appendFileSync(logPath, line)
+    } catch {
+      return toStderr(line)
+    }
     currentBytes += Buffer.byteLength(line)
   }
 }
@@ -67,17 +91,23 @@ export function pageSink(
 ): LogSink {
   let named: string | null = null
   return (level, text): undefined => {
-    writer.write({ "written-at": new Date().toISOString(), "agent-id": agentId, level, text })
-    const refused = writer.refused()
+    let refused: string | null
+    try {
+      writer.write({ "written-at": new Date().toISOString(), "agent-id": agentId, level, text })
+      refused = writer.refused()
+    } catch {
+      return saidAnyway(fallback, level, text)
+    }
     if (refused === null) return
     if (refused !== named) {
       named = refused
-      fallback(
+      saidAnyway(
+        fallback,
         "ERROR",
         `[${source}] the seat log page refuses these lines, so they land here instead: ${refused}`
       )
     }
-    fallback(level, text)
+    saidAnyway(fallback, level, text)
   }
 }
 
@@ -96,6 +126,14 @@ function seatNamedYet(seams: SeatSeams, agentId: string): string | null {
   }
 }
 
+function writerYet(seams: SeatSeams, source: string, seatName: string): LogWriter | null {
+  try {
+    return seams.writerFor(source, seatName)
+  } catch {
+    return null
+  }
+}
+
 export function seatPageSink(
   source: string,
   agentId: string,
@@ -106,10 +144,12 @@ export function seatPageSink(
   return (level, text): undefined => {
     if (onPage === null) {
       const seatName = seatNamedYet(seams, agentId)
-      if (seatName === null) return fallback(level, text)
-      onPage = pageSink(source, seams.writerFor(source, seatName), agentId, fallback)
+      if (seatName === null) return saidAnyway(fallback, level, text)
+      const writer = writerYet(seams, source, seatName)
+      if (writer === null) return saidAnyway(fallback, level, text)
+      onPage = pageSink(source, writer, agentId, fallback)
     }
-    onPage(level, text)
+    saidAnyway(onPage, level, text)
   }
 }
 
@@ -119,13 +159,13 @@ export function redirectConsoleToSink(sink: LogSink): () => void {
   const origError = console.error
 
   console.log = (...args: readonly unknown[]) => {
-    sink("LOG", textOf(args))
+    saidAnyway(sink, "LOG", textOf(args))
   }
   console.warn = (...args: readonly unknown[]) => {
-    sink("WARN", textOf(args))
+    saidAnyway(sink, "WARN", textOf(args))
   }
   console.error = (...args: readonly unknown[]) => {
-    sink("ERROR", textOf(args))
+    saidAnyway(sink, "ERROR", textOf(args))
   }
 
   return () => {
