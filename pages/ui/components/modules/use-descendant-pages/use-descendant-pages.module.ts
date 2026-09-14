@@ -9,11 +9,11 @@ export const useDescendantPages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A filter naming the pages that name one page is refused rather than gathered.",
+      statement: "A filter is put to each page type beneath this one and the answers are merged.",
     },
     {
       invariantKind: "departure",
-      statement: "That refusal carries the reason rather than an empty list of pages.",
+      statement: "A gather that goes wrong carries its reason rather than an empty list of pages.",
     },
   ],
 } as const satisfies Module

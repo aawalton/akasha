@@ -1,7 +1,6 @@
 "use client"
 
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { extractRelationContainment } from "akasha/pages/access/modules/get-by-relation/get-by-relation.module.code.ts"
 import { collectPages } from "akasha/pages/access/modules/iterate/iterate.module.code.ts"
 import type { PageOrder, PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type {
@@ -31,9 +30,6 @@ interface DescendantPagesResult {
 }
 
 const SCOPED_MAX_ROWS = 20000
-
-const NOT_NAMED =
-  "This listing spans the page types beneath this one and filters to the pages that name one page. Reaching those went through an index of what names what, and the page store holds no such index, so the question is never put."
 
 interface UseDescendantPagesOptions {
   select?: PageSelect
@@ -79,12 +75,6 @@ function useDescendantPages(
     }
     const { select, order, limit, where } = optionsRef.current
     const hasWhere = where != null && where.length > 0
-    if (hasWhere && extractRelationContainment(where) !== null) {
-      setRows([])
-      setIsLoading(false)
-      setUnasked(NOT_NAMED)
-      return
-    }
     let cancelled = false
     setIsLoading(true)
     setUnasked(null)
@@ -115,9 +105,10 @@ function useDescendantPages(
         setRows(merged)
         setIsLoading(false)
       })
-      .catch(() => {
+      .catch((thrown: unknown) => {
         if (cancelled) return
         setRows([])
+        setUnasked(thrown instanceof Error ? thrown.message : String(thrown))
         setIsLoading(false)
       })
     return () => {
