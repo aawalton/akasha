@@ -7,7 +7,7 @@ export const design = {
   definition: "an invariant that holds now",
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Move When False",
       act: "Move a design entry to intent, or delete it, as soon as you find it no longer true.",
       warrant:
