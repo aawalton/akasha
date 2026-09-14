@@ -4,7 +4,7 @@ export const mostMentionsOfPageTypeSlugAreNotThePageKey = {
   id: "01a08830-e34b-723b-8e6a-25f0afc6de8d",
   type: "finding",
   slug: "most-mentions-of-page-type-slug-are-not-the-page-key",
-  domain: "domain/page",
+  domain: "page-type/page",
   claim:
     "`pageTypeSlug` spells four different things, and only one of them is the key a page states. Whoever takes the last step of the two-key window will grep the name and get thousands of hits, most of which must not change. The three that are not the page key are an index record field, a query key on the wire into the pages service, and a value worked out from a file's name rather than read from a body. Telling them apart is the difference between a day and a week, and nothing in the tree says which is which.",
   evidence:

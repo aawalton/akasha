@@ -4,7 +4,7 @@ export const anEntryShapesRowTypeIsWrittenByHandWhileItsOwnTypeIsGenerated = {
   id: "01a090cd-8841-7519-9fdc-0e95d1d9dcfe",
   type: "finding",
   slug: "an-entry-shapes-row-type-is-written-by-hand-while-its-own-type-is-generated",
-  domain: "domain/page",
+  domain: "page-type/page",
   claim:
     "A `page-property-entry` declares the fields every row beside the page carries, and the generator writes only the type of the key on the page. The rows themselves are typed by hand where anything reads them. `sessions` is the one page left doing this, and the hand-written row disagrees with what the page declares: nine of its twelve fields are declared required or typed as text, and the row writes every field optional and two of them as text or a number.",
   evidence:

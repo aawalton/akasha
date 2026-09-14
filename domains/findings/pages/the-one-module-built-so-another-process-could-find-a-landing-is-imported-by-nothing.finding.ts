@@ -4,7 +4,7 @@ export const theOneModuleBuiltSoAnotherProcessCouldFindALandingIsImportedByNothi
   id: "01a09671-adba-7172-88bb-0f91057136f3",
   type: "finding",
   slug: "the-one-module-built-so-another-process-could-find-a-landing-is-imported-by-nothing",
-  domain: "domain/page",
+  domain: "page-type/page",
   claim:
     "`pages/modules/landing-journal/page-landing-journal.module.code.ts` is 129 lines and five exported functions, and its page defines it as what a writer has queued to land, kept outside the checkout so another process can find it. Nothing imports it. Both its ends went with the markdown-pages system on 2026-09-05: the writer was the markdown-page commit queue, the reader the ops command reporting unlanded pages. The journal outlived both, moved into `pages/`, is named on the page domain, and was mechanically edited again on 2026-09-12. Its state directory is there and is empty. What it publishes is a landing in flight, a writer's pid and the paths it has queued, rather than a landing that has happened, so it is not the mechanism the findings about readers meeting a tree mid-landing want, and reviving it would not give them one.",
   evidence:

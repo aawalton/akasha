@@ -4,7 +4,7 @@ export const akashaPageTreeAnswersPropertyRowsNoCallerDraws = {
   id: "01a08dd6-5274-72a5-ab0d-41eff4603f45",
   type: "finding",
   slug: "akasha-page-tree-answers-property-rows-no-caller-draws",
-  domain: "domain/page",
+  domain: "page-type/page",
   claim:
     "`akasha page tree` answers a `propertyTypes` group of 1,802 rows and, within `properties`, 535 rows owned by `page-property-type/*`, and no drawing reads either. `page-tree-assemble` is the answer's only assembler and takes it for the `types` group alone, leaving the command's own test as the only body in the tree that reads the other two. `pageTreeLine` composes all three groups afresh on every index event, because the page-tree picture is declared `movesWithIndex: true`.",
   evidence:

@@ -4,7 +4,7 @@ export const whetherAGrowingFileRollsDependsOnTheKindOfPropertyCarryingIt = {
   id: "01a087eb-5794-7ab8-9be0-9a82fb093616",
   type: "finding",
   slug: "whether-a-growing-file-rolls-depends-on-the-kind-of-property-carrying-it",
-  domain: "domain/page",
+  domain: "page-type/page",
   claim:
     "Whether a growing file divides into numbered parts at the ceiling depends on which kind of page property carries it, and no page says so. A `page-property-entry` is divided for its writer. A `file-property` divides only where someone wrote the loop for that one property, so a file property carrying a log is written with no sign that it must roll itself.",
   evidence:

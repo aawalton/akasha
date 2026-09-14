@@ -4,7 +4,7 @@ export const aRollingWriterAppendsIntoAPartNameAlreadyTakenRatherThanRefusing = 
   id: "01a0973e-0f8c-7c21-b88c-e75fc91a3b58",
   type: "finding",
   slug: "a-rolling-writer-appends-into-a-part-name-already-taken-rather-than-refusing",
-  domain: "domain/page",
+  domain: "page-type/page",
   claim:
     "Three rolling writers name the next part by incrementing, and none asks whether that name is free. Each finds its last part by walking contiguously from part 1 and stopping at the first gap, so a part past a gap is invisible to the writer that would name it next. Where the name is taken the file is opened for append rather than replaced, so live lines join the middle of what is already there. The log roller alone then zeroes its own byte count, so it would pour up to a full ceiling into a file it never measured, while the other two re-read the file's size before each append and would put at most one line in.",
   evidence:
