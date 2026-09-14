@@ -24,24 +24,6 @@ function isClaimable(itemKey: ItemKey): boolean {
   return itemKey.kind !== "consumable"
 }
 
-export function resolveUseDestination(
-  itemKey: ItemKey,
-  ctx: UseDestinationContext,
-  claimedItemsByChar: ReadonlyMap<CharacterId, ReadonlySet<string>>
-): CharacterId | undefined {
-  const claimable = isClaimable(itemKey)
-  const hash = claimable ? hashItemKey(itemKey) : undefined
-  for (const charId of ctx.characterPriority) {
-    if (ctx.knowsItem(charId, itemKey)) continue
-    if (claimable && hash !== undefined) {
-      const existing = claimedItemsByChar.get(charId)
-      if (existing?.has(hash)) continue
-    }
-    return charId
-  }
-  return undefined
-}
-
 export function claimItemForCharacter(
   claims: Map<CharacterId, Set<string>>,
   charId: CharacterId,
