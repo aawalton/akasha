@@ -11,8 +11,7 @@ export const noRuleInTwoFiles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A rule is read from every file the index names rather than from module code alone.",
+      statement: "A rule is read from a file of any name rather than from module code alone.",
     },
     {
       invariantKind: "departure",
@@ -97,7 +96,7 @@ export const noRuleInTwoFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A rule is looked for in every file the index names on each run whose change has a code file.",
+        "A rule a changed file spells is looked for in the files a search of the tree names as holding it.",
     },
     {
       invariantKind: "departure",
@@ -135,11 +134,13 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A run the filing reader did not file for parses every file named instead.",
+      statement:
+        "A run the filing reader did not file for parses the files that search names instead.",
     },
     {
       invariantKind: "departure",
-      statement: "An audit parses every file named rather than reading the filed rules.",
+      statement:
+        "An audit parses every file its change carries rather than reading the filed rules.",
     },
     {
       invariantKind: "departure",
@@ -202,6 +203,36 @@ export const noRuleInTwoFiles = {
       invariantKind: "absence",
       statement:
         "Two bound names joined by one operator pair as one rule wherever both bodies spell that operator.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The word looked for is the longest run of a rule between spaces.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run written for a bound name is no word to look for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run holding a line break is no word to look for either.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Any file whose function spells that rule holds that word, so the search leaves none out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The word is matched as written letters rather than as a pattern.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files the change carries are read beside the files the search names.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "How common a word is in the tree is weighed by nothing, so a common word narrows little.",
     },
   ],
   check: { maxCpuSeconds: 10 },

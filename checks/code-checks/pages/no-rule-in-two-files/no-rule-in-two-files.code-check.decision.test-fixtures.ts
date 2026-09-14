@@ -1,5 +1,6 @@
 import type { Saying } from "akasha/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"
 import {
+  arriving,
   carrying,
   claiming,
   declaring,
@@ -120,6 +121,12 @@ export function bothArriving(root: string): Change {
     after: (path: string): Uint8Array | null => bodies[path] ?? null,
     before: (): null => null,
   }
+}
+
+export function oneArriving(root: string): Change {
+  writing(root, TWO_CODE, EXPORTED_AS)
+  claiming(root, TWO_CODE, TWO_PAGE, `${ID}2`)
+  return arriving(root, { [ONE_PAGE]: pageText("one", "1"), [ONE_CODE]: CAMEL })
 }
 
 const ONE_MARKDOWN = "akasha/b/one.md"

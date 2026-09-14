@@ -12,6 +12,7 @@ import {
   CAMEL,
   EXPORTED_AS,
   ONE_CODE,
+  oneArriving,
   readerFiledIn,
   rooted,
   scratch,
@@ -201,6 +202,17 @@ test("a change with no code file is refused nothing though the index cannot be r
 
 test("the files a change brings are among those a rule is looked for in", () => {
   const change = bothArriving(rooted())
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const every = everySpeltIn(change, cast.shadow)
+  const [one] = speltIn(ONE_CODE, CAMEL)
+  if (one === undefined) throw new Error("that body spells no rule")
+  const said = every(one.rule).map((each) => each.path)
+  expect(said.sort()).toEqual([ONE_CODE, TWO_CODE])
+})
+
+test("a rule in a file the change leaves alone is found by searching the tree", () => {
+  const change = oneArriving(rooted())
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   const every = everySpeltIn(change, cast.shadow)

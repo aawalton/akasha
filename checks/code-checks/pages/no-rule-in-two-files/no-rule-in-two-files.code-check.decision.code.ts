@@ -1,24 +1,44 @@
 import {
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  pathsNaming,
+  TYPED_KINDS,
+} from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
+import {
   bodyOf,
-  everyFileOf,
   overEachFile,
   textIn,
   textNamed,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.code.ts"
+import { type Spelt, speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.code.ts"
 import type { Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export type Saying = (rule: string) => readonly Said[]
 
-function speltOver(change: Change, over: readonly string[]): Saying {
+type Spelling = Map<string, readonly Spelt[]>
+
+const ORDERED = /^\$\d+$/
+
+const BROKEN = /[\n\r]/
+
+function speltAt(change: Change, path: string, held: Spelling): readonly Spelt[] {
+  const found = held.get(path)
+  if (found !== undefined) return found
+  const text = textIn(change, path)
+  const made = text === null ? [] : speltIn(path, text)
+  held.set(path, made)
+  return made
+}
+
+function speltOver(change: Change, over: readonly string[], held: Spelling = new Map()): Saying {
   const spelt = over.flatMap((path) => {
     if (!textNamed(path)) return []
-    const text = textIn(change, path)
-    if (text === null) return []
-    return speltIn(path, text)
+    return speltAt(change, path, held)
       .filter((one) => !one.forwards)
       .map((one, place) => ({ rule: one.rule, path, place, name: one.name }))
   })
@@ -26,8 +46,51 @@ function speltOver(change: Change, over: readonly string[]): Saying {
   return (rule) => every.get(rule) ?? []
 }
 
+function wordOf(rule: string): string | null {
+  let best: string | null = null
+  for (const word of rule.split(" ")) {
+    if (word === "" || ORDERED.test(word) || BROKEN.test(word)) continue
+    if (best === null || word.length > best.length) best = word
+  }
+  return best
+}
+
+function wordsIn(change: Change, held: Spelling): readonly string[] {
+  const found = new Set<string>()
+  for (const path of change.changed) {
+    if (!textNamed(path)) continue
+    for (const one of speltAt(change, path, held)) {
+      if (one.forwards || one.literal) continue
+      const word = wordOf(one.rule)
+      if (word !== null) found.add(word)
+    }
+  }
+  return [...found]
+}
+
+function worldOf(change: Change, shadow: Shadow): World {
+  return {
+    root: change.root,
+    index: shadow.index,
+    textOf: (path) => textIn(change, path),
+    bodyOf: (path) => textIn(change, path),
+    under: () => [],
+    base: (path) => textIn(change, path),
+    over: NOTHING_OVER,
+  }
+}
+
+function pathsHolding(change: Change, shadow: Shadow, held: Spelling): readonly string[] {
+  const asked = wordsIn(change, held)
+  if (asked.length === 0) return []
+  const found = new Set(pathsNaming(worldOf(change, shadow), asked, TYPED_KINDS))
+  for (const path of change.changed) found.add(path)
+  return [...found].sort()
+}
+
 export function everySpeltIn(change: Change, shadow: Shadow): Saying {
-  return speltOver(change, everyFileOf(shadow.index))
+  const held: Spelling = new Map()
+  return speltOver(change, pathsHolding(change, shadow, held), held)
 }
 
 export function everyFiledIn(shadow: Shadow, short: ReadonlySet<string> = new Set()): Saying {
