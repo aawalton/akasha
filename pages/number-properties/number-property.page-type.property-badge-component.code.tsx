@@ -16,48 +16,43 @@ import {
 } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 
-function getConfig(definition: PropertyDefinition): NumberConfig {
+function configOf(definition: PropertyDefinition): NumberConfig {
   return parseConfig(numberConfigSchema, definition.config, { format: "number" })
 }
 
-function formatBadge(n: number, config: NumberConfig): string {
-  const body = formatPropertyNumber(n, config)
-  const withPrefix = config.prefix != null ? `${config.prefix}${body}` : body
-  return config.units != null ? `${withPrefix} ${config.units}` : withPrefix
+function shownAs(held: number, config: NumberConfig): string {
+  const body = formatPropertyNumber(held, config)
+  const ahead = config.prefix != null ? `${config.prefix}${body}` : body
+  return config.units != null ? `${ahead} ${config.units}` : ahead
 }
 
-export function NumberPropertyBadge({
-  property,
-  value,
-  editable,
-  onPropertyChange,
-}: PropertyBadgeProps) {
-  const config = getConfig(property)
-  const accentVariant: BadgeVariant = property.accent ? "accent" : "elevation-muted"
-  const n = toNumber(value)
-  const variant = resolveBadgeVariant(property, n) ?? config.badgeVariant ?? accentVariant
+export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
+  const config = configOf(property)
+  const accented: BadgeVariant = property.accent ? "accent" : "elevation-muted"
+  const held = toNumber(value)
+  const variant = resolveBadgeVariant(property, held) ?? config.badgeVariant ?? accented
 
   if (editable && onPropertyChange) {
     return (
       <NumberBadge
         editable
-        value={n ?? 0}
+        value={held ?? 0}
         min={config.min}
         max={config.max}
         prefix={config.prefix ?? ""}
-        format={(num) => formatBadge(num, config)}
+        format={(one) => shownAs(one, config)}
         variant={variant}
         onChange={(next) => onPropertyChange(property.id, next)}
       />
     )
   }
 
-  if (n === null) {
+  if (held === null) {
     return <Badge variant="elevation-muted">—</Badge>
   }
   return (
     <Badge variant={variant}>
-      <span className="tabular-nums">{formatBadge(n, config)}</span>
+      <span className="tabular-nums">{shownAs(held, config)}</span>
     </Badge>
   )
 }

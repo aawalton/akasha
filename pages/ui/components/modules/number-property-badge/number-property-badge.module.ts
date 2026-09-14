@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const numberPropertyBadge = {
-  id: "01a0620f-82c5-700c-89dd-2c8e70a5c0d8",
-  type: "module",
-  slug: "number-property-badge",
-  definition: "The badge for a number property.",
-  code: "tsx",
-} as const satisfies Module

@@ -46,7 +46,6 @@ export const components = {
     "module/nav-count-badge-decider",
     "module/nav-item-actions",
     "module/notes-options-picker",
-    "module/number-property-badge",
     "module/operator-filter-control",
     "module/page-actions-menu",
     "module/page-board",

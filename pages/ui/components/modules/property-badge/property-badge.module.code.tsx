@@ -89,7 +89,7 @@ export function PropertyBadge(props: PropertyBadgeProps) {
   const Component: ComponentType<PropertyBadgeProps> | undefined =
     drawn ?? PROPERTY_BADGE_REGISTRY[property.type] ?? PROPERTY_BADGE_DRAWINGS.get(FALLS_BACK_TO)
   if (Component === undefined) return null
-  const lookup = (type: PropertyType) => PROPERTY_BADGE_REGISTRY[type]
+  const lookup = (type: PropertyType) => PROPERTY_BADGE_REGISTRY[type] ?? Component
   return (
     <BadgeLayoutProvider
       truncate={layout.truncate}

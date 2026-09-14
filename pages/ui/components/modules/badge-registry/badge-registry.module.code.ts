@@ -10,7 +10,7 @@ import { JsonPropertyBadge } from "akasha/pages/ui/components/modules/json-prope
 import { MarkdownPropertyBadge } from "akasha/pages/ui/components/modules/markdown-property-badge/markdown-property-badge.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"
 import { MultiSelectPropertyBadge } from "akasha/pages/ui/components/modules/multi-select-property-badge/multi-select-property-badge.module.code.tsx"
-import { NumberPropertyBadge } from "akasha/pages/ui/components/modules/number-property-badge/number-property-badge.module.code.tsx"
+
 import { PathSelectPropertyBadge } from "akasha/pages/ui/components/modules/path-select-property-badge/path-select-property-badge.module.code.tsx"
 import { ProgressPropertyBadge } from "akasha/pages/ui/components/modules/progress-property-badge/progress-property-badge.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
@@ -23,10 +23,11 @@ import { TextPropertyBadge } from "akasha/pages/ui/components/modules/text-prope
 import { UrlPropertyBadge } from "akasha/pages/ui/components/modules/url-property-badge/url-property-badge.module.code.tsx"
 import type { ComponentType } from "react"
 
-export const PROPERTY_BADGE_REGISTRY: Record<PropertyType, ComponentType<PropertyBadgeProps>> = {
+export const PROPERTY_BADGE_REGISTRY: Partial<
+  Record<PropertyType, ComponentType<PropertyBadgeProps>>
+> = {
   text: TextPropertyBadge,
   markdown: MarkdownPropertyBadge,
-  number: NumberPropertyBadge,
   boolean: BooleanPropertyBadge,
   url: UrlPropertyBadge,
   json: JsonPropertyBadge,
