@@ -9,6 +9,6 @@ export const oneBowlHealthyOatmealChocolateChipCookies = {
   position: 0,
   ownLength: 6250,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
 } as const satisfies Recipe
