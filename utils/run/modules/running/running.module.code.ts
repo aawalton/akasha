@@ -102,15 +102,19 @@ function leftSwept(parent: string): undefined {
   }
 }
 
-function budgetAt(): string | null {
+export function ownAt(): string | null {
   let text = ""
   try {
     text = readFileSync(OWN, "utf8")
   } catch {
     return null
   }
-  const own = text.trim().split("\n")[0]?.split(":").at(-1)
-  if (own === undefined) return null
+  return text.trim().split("\n")[0]?.split(":").at(-1) ?? null
+}
+
+function budgetAt(): string | null {
+  const own = ownAt()
+  if (own === null) return null
   const parent = delegatedAt(own)
   if (parent === null) return null
   leftSwept(parent)
@@ -197,6 +201,45 @@ function swept(at: string): undefined {
     } catch {
       Bun.sleepSync(POLL)
     }
+  }
+}
+
+function movedTo(at: string): boolean {
+  try {
+    writeFileSync(join(at, PROCS), String(process.pid))
+    return true
+  } catch {
+    return false
+  }
+}
+
+function takesBack(at: string): boolean {
+  try {
+    accessSync(join(at, PROCS), constants.W_OK)
+    return true
+  } catch {
+    return false
+  }
+}
+
+const FREELY = (): undefined => undefined
+
+export function heldHere(megabytes: number): () => undefined {
+  const own = ownAt()
+  if (own === null) return FREELY
+  const home = join(MOUNT, own)
+  if (!takesBack(home)) return FREELY
+  const at = budgetAt()
+  if (at === null) return FREELY
+  const leaf = join(at, RUN)
+  throttled(leaf, megabytes)
+  if (!movedTo(leaf)) {
+    swept(at)
+    return FREELY
+  }
+  return () => {
+    movedTo(home)
+    swept(at)
   }
 }
 

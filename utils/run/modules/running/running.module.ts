@@ -284,5 +284,33 @@ export const running = {
       invariantKind: "absence",
       statement: "No process started here is meant to outlive its starter.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The process running here may be held to a memory ceiling of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process held here sits in a leaf of the group made for that hold.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The memory ceiling of a hold is stated on that leaf.",
+    },
+    { invariantKind: "departure", statement: "A hold answers a way to let the process go." },
+    {
+      invariantKind: "departure",
+      statement: "Letting go moves the process back to the group it was held out of.",
+    },
+    { invariantKind: "departure", statement: "Letting go takes away the group the hold made." },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A process is held only where the group it came from would take that process back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hold that could not be made answers a letting go that does nothing.",
+    },
+    { invariantKind: "absence", statement: "Nothing raises where a process cannot be held." },
   ],
 } as const satisfies Module
