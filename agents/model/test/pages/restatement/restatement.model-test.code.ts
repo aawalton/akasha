@@ -6,6 +6,7 @@ import {
   type PageReading,
 } from "akasha/agents/model/test/modules/running/model-test-running.module.code.ts"
 import { restatement as test } from "akasha/agents/model/test/pages/restatement/restatement.model-test.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export type Judging = {
   readonly slug: string
@@ -37,7 +38,7 @@ export function keeping(one: Case, got: readonly Got[]): boolean {
 
 export function restatement(page: Judging): readonly Putting[] {
   return (page.invariants ?? [])
-    .filter((invariant) => invariant.invariantKind === "departure")
+    .filter((invariant) => slugOf(invariant.invariantKind) === "departure")
     .map((invariant) => ({
       statement: invariant.statement,
       prompt: test.prompt

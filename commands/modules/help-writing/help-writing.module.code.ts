@@ -3,6 +3,7 @@ import {
   ruleOf,
 } from "akasha/agents/model/test/pages/directive-kept/directive-kept.model-test.code.ts"
 import { widest } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ARGUMENTS = "arguments"
 
@@ -49,7 +50,7 @@ export function statementsIn(page: Record<string, unknown>, notYet: ReadonlySet<
     const stated = said[STATEMENT]
     if (typeof stated !== "string") continue
     const kind = said[INVARIANT_KIND]
-    if (typeof kind === "string" && notYet.has(kind)) later.push(stated)
+    if (typeof kind === "string" && notYet.has(slugOf(kind))) later.push(stated)
     else holds.push(stated)
   }
   return { holds, notYet: later }
