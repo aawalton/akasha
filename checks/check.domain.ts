@@ -9,7 +9,6 @@ export const check = {
   parts: [
     "module/audit-asking",
     "module/audit-child",
-    "module/audit-reading",
     "module/audit-request",
     "module/audit-serving",
     "module/audit-verdict",
