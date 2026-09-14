@@ -6,10 +6,6 @@ import {
   relationshipLevelMatchCondition,
 } from "akasha/personas/modules/page-conditions/persona-page-conditions.module.code.ts"
 
-export const PERSONA_ANCHOR_IMAGE_PAGE_TYPE_SLUG = "persona-anchor-image"
-
-export const PERSONA_COVER_IMAGE_PAGE_TYPE_SLUG = "persona-cover-image"
-
 const PERSONA = "persona"
 
 function personaAddressOf(personaSlug: string): string {
