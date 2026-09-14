@@ -5,12 +5,7 @@ export const verdict = {
   type: "domain",
   slug: "verdict",
   definition: "a judgement on something measured, with what it covered and what it found",
-  parts: [
-    "module/reading-channel",
-    "module/verdict-exit",
-    "module/verdict-shape",
-    "module/verdict-text",
-  ],
+  parts: ["module/reading-channel", "module/verdict-shape", "module/verdict-text"],
   invariants: [
     {
       invariantKind: "departure",
