@@ -40,7 +40,10 @@ import { createCompanionEquipmentPanel } from "akasha/temper/companions-addon/mo
 import { refreshCompanionEquipmentPanel } from "akasha/temper/companions-addon/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"
 import { registerCompanionEvents } from "akasha/temper/companions-addon/modules/companions-events/companions-events.module.code.ts"
 import { installCompanionOverviewRapportOverlay } from "akasha/temper/companions-addon/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"
-import { refreshCompanionPanel } from "akasha/temper/companions-addon/modules/companions-panel/companions-panel.module.code.ts"
+import {
+  createCompanionPanel,
+  refreshCompanionPanel,
+} from "akasha/temper/companions-addon/modules/companions-panel/companions-panel.module.code.ts"
 import {
   getSavedVariables,
   initializeSavedVariables,
@@ -88,12 +91,14 @@ function initialize(): undefined {
       id: "companion",
       title: "Companion",
       subTabs: [
+        { id: "companion-companion", title: "Companion" },
         { id: "companion-summary", title: "Summary" },
         { id: "companion-equipment", title: "Equipment" },
         { id: "companion-skills", title: "Skills" },
       ],
     },
     {
+      "companion-companion": createCompanionPanel,
       "companion-summary": createCompanionSummaryPanel,
       "companion-equipment": createCompanionEquipmentPanel,
       "companion-skills": createCompanionSkillsPanel,

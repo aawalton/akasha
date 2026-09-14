@@ -12,5 +12,9 @@ export const companionsEntry = {
       statement:
         "The companion tab is registered with the characters add-on rather than drawn alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every sub-tab registered here names both the panel it makes and the refresh.",
+    },
   ],
 } as const satisfies Module
