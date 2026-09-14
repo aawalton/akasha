@@ -17,6 +17,7 @@ export const temperInventory = {
     "command/temper-inventory-outcome-parity",
     "command/temper-inventory-parity",
     "command/temper-inventory-plan",
+    "command/temper-inventory-record-parity",
     "command/temper-inventory-replay-explain",
     "command/temper-inventory-snapshot",
     "command/temper-inventory-venue-trace",

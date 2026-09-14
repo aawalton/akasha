@@ -18,6 +18,7 @@ import type {
   InventoryLocationData,
   PlacedFurnishingData,
   PriceSource,
+  ResolvedActionSource,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
@@ -65,6 +66,18 @@ function isItemLinkBound(itemLink: string): boolean {
 
 function asOptionalNumber(value: unknown): number | undefined {
   return parseNumber(value)
+}
+
+const RESOLVED_ACTION_SOURCES = [
+  "ordered-rule",
+  "item-rule",
+  "item-verdict-outbox",
+  "locked-unlock",
+  "no-match",
+] as const satisfies readonly ResolvedActionSource[]
+
+function parseResolvedActionSource(value: unknown): ResolvedActionSource | undefined {
+  return RESOLVED_ACTION_SOURCES.find((one) => one === value)
 }
 
 function parseItem(raw: unknown): InventoryItemData | undefined {
@@ -130,6 +143,18 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
   if (typeof item.isContainer === "boolean") parsed.isContainer = item.isContainer
   if (typeof item.junk === "boolean") parsed.junk = item.junk
   if (typeof item.junkable === "boolean") parsed.junkable = item.junkable
+
+  const resolvedAction = stringIn(item.resolvedAction)
+  if (resolvedAction !== null) parsed.resolvedAction = resolvedAction
+
+  const resolvedDestination = stringIn(item.resolvedDestination)
+  if (resolvedDestination !== null) parsed.resolvedDestination = resolvedDestination
+
+  const resolvedBy = parseResolvedActionSource(item.resolvedBy)
+  if (resolvedBy !== undefined) parsed.resolvedBy = resolvedBy
+
+  const resolvedRuleIndex = asOptionalNumber(item.resolvedRuleIndex)
+  if (resolvedRuleIndex !== undefined) parsed.resolvedRuleIndex = resolvedRuleIndex
 
   const merchantValue = asOptionalNumber(item.merchantValue)
   if (merchantValue !== undefined) parsed.merchantValue = merchantValue
