@@ -57,6 +57,15 @@ export function answeringTo(
   return found
 }
 
+export function namedUnder(
+  folder: string,
+  gives: string,
+  holds: Holds,
+  held: ReadonlySet<string>
+): string | null {
+  return strippedOf(gives, holds(namingFolderOf(folder, holds, held)).names)
+}
+
 export function namingOver(
   holds: Holds,
   held: ReadonlySet<string>
@@ -66,7 +75,7 @@ export function namingOver(
     const names = holds(folder).names
     const gives = names[1] ?? names[0]
     if (gives === undefined) return null
-    const name = strippedOf(gives, holds(namingFolderOf(folder, holds, held)).names)
+    const name = namedUnder(folder, gives, holds, held)
     return name === null ? { name: null, gives } : { name }
   }
 }

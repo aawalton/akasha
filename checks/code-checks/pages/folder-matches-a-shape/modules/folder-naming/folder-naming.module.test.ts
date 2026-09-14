@@ -6,6 +6,7 @@ import {
 import {
   answeringTo,
   heldFolder,
+  namedUnder,
   namingFolderOf,
   namingOver,
   openingWith,
@@ -37,6 +38,21 @@ test("a folder wanting a name that cannot be worked out still wants a name", () 
     HELD
   )
   expect(naming("akasha/temper-skills/skills")).toEqual({ name: null, gives: "temper-skills" })
+})
+
+test("a name the folder does not carry yet is asked against the page above the same way", () => {
+  const holds = holding({
+    "akasha/pages": ["page", "pages"],
+    "akasha/pages/service": ["pages-service"],
+  })
+  expect(namingOver(holds, HELD)("akasha/pages/service")).toEqual({ name: "service" })
+  expect(namedUnder("akasha/pages/service", "page-service", holds, HELD)).toBe("service")
+})
+
+test("a name a part sits under is asked against the page above that part", () => {
+  const holds = holding({ "akasha/foo": ["foo", "foos"] })
+  expect(namedUnder("akasha/foo/modules/one", "foo-two", holds, HELD)).toBe("two")
+  expect(namedUnder("akasha/foo/modules/one", "two", holds, HELD)).toBe("two")
 })
 
 test("the folder with nothing above it is asked for no name", () => {

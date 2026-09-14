@@ -43,6 +43,14 @@ export const folderNaming = {
       statement: "Which names are a part's are handed in rather than written here.",
     },
     {
+      invariantKind: "departure",
+      statement: "A name the folder does not carry yet is asked against that page the same way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rename asks that name here rather than working the name out again.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges a folder.",
     },
