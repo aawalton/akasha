@@ -35,13 +35,41 @@ const HERE = "."
 
 const EVERYWHERE = ""
 
-function laidOver(root: string, change: Change | null): readonly string[] {
-  const found = new Set(pathsListed(root))
-  for (const path of change?.changed ?? []) {
-    if (change?.after(path) === null) found.delete(path)
-    else found.add(path)
+function merged(held: readonly string[], put: readonly string[]): readonly string[] {
+  const found: string[] = []
+  let at = 0
+  for (const one of held) {
+    let next = put[at]
+    while (next !== undefined && next < one) {
+      found.push(next)
+      at += 1
+      next = put[at]
+    }
+    found.push(one)
   }
-  return [...found].sort()
+  for (let rest = at; rest < put.length; rest += 1) {
+    const one = put[rest]
+    if (one !== undefined) found.push(one)
+  }
+  return found
+}
+
+function laidOver(root: string, change: Change | null): readonly string[] {
+  const listed = pathsListed(root)
+  if (change === null || change.changed.length === 0) return listed
+  const gone = new Set<string>()
+  const put = new Set<string>()
+  for (const path of change.changed) {
+    if (change.after(path) === null) {
+      put.delete(path)
+      gone.add(path)
+    } else {
+      gone.delete(path)
+      put.add(path)
+    }
+  }
+  const held = listed.filter((one) => !gone.has(one) && !put.has(one))
+  return merged(held, [...put].sort())
 }
 
 function foldedInto(paths: readonly string[]): ReadonlyMap<string, readonly string[]> {
