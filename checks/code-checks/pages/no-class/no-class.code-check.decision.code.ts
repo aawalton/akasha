@@ -7,6 +7,8 @@ import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.c
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
+const CLASS = "class"
+
 const ERROR = "Error"
 
 const COMPONENT = "Component"
@@ -110,6 +112,7 @@ function heldByTheRuntimeLibrary(under: readonly string[], path: string): boolea
 export function found(under: readonly string[], path: string, text: string): readonly string[] {
   if (path.endsWith(DECLARED)) return []
   if (heldByTheRuntimeLibrary(under, path)) return []
+  if (!text.includes(CLASS)) return []
   return classesIn(path, text)
     .filter((one) => !permitted(one))
     .map(reasonFor)
