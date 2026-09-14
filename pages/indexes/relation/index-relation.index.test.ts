@@ -4,7 +4,7 @@ import {
   B,
   shaped,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
-import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
+import { relationIn } from "akasha/pages/indexes/edge/index-relation.index.code.ts"
 
 test("a property naming a page is filed under that page's id against the property's kebab slug", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }

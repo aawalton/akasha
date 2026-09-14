@@ -36,7 +36,7 @@ import {
   pagesUnder,
   walkedUnder,
 } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
-import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
+import { relationIn } from "akasha/pages/indexes/edge/index-relation.index.code.ts"
 import { readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import {
   pageTypeSlugsIn,

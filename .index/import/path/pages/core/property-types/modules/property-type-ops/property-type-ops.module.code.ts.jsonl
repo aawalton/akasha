@@ -17,7 +17,7 @@
 {"path":"pages/core/property-types/modules/path-select/path-select.module.code.ts"}
 {"path":"pages/core/property-types/modules/progress/progress.module.code.ts"}
 {"path":"pages/core/property-types/modules/registry/registry.module.code.ts"}
-{"path":"pages/core/property-types/modules/relation/relation.module.code.ts"}
+{"path":"pages/core/property-types/modules/edge/relation.module.code.ts"}
 {"path":"pages/core/property-types/modules/rich-document/rich-document.module.code.ts"}
 {"path":"pages/core/property-types/modules/rollup/rollup.module.code.ts"}
 {"path":"pages/core/property-types/modules/rrule/rrule.module.code.ts"}

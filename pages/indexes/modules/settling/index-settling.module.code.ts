@@ -39,7 +39,7 @@ import {
 import {
   NOTHING_FILED,
   relationIn,
-} from "akasha/pages/indexes/relation/index-relation.index.code.ts"
+} from "akasha/pages/indexes/edge/index-relation.index.code.ts"
 import { ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import {
   pageTypeSlugsIn,

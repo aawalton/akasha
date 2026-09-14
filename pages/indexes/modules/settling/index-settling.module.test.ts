@@ -12,7 +12,7 @@ import {
   settlingOver,
 } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
 import { overlaidOn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { indexRelation } from "akasha/pages/indexes/edge/index-relation.index.ts"
 import {
   aProperty,
   aType,

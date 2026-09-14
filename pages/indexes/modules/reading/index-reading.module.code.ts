@@ -10,7 +10,7 @@ import {
   readingAt,
   readingOf,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { indexRelation } from "akasha/pages/indexes/edge/index-relation.index.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import {
   filedFor,

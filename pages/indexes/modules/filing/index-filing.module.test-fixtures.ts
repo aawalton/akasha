@@ -2,7 +2,7 @@ import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { indexRelation } from "akasha/pages/indexes/edge/index-relation.index.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 
 const ENDING = ".jsonl"

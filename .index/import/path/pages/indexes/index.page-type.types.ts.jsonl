@@ -1,6 +1,6 @@
 {"path":"pages/indexes/identity/index-identity.index.ts"}
 {"path":"pages/indexes/import/index-import.index.ts"}
-{"path":"pages/indexes/relation/index-relation.index.ts"}
+{"path":"pages/indexes/edge/index-relation.index.ts"}
 {"path":"pages/indexes/rule/index-rule.index.ts"}
 {"path":"pages/indexes/shapes/index-shapes.index.ts"}
 {"path":"pages/indexes/value/index-value.index.ts"}

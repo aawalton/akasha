@@ -19,7 +19,7 @@ import {
   indexIn,
   overlaidOn,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { indexRelation } from "akasha/pages/indexes/edge/index-relation.index.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"

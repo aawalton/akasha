@@ -7,7 +7,7 @@
 {"path":"pages/indexes/modules/indexing/indexing.module.code.ts"}
 {"path":"pages/indexes/modules/reaching/reaching.module.code.ts"}
 {"path":"pages/indexes/modules/settling/index-settling.module.code.ts"}
-{"path":"pages/indexes/relation/index-relation.index.code.ts"}
+{"path":"pages/indexes/edge/index-relation.index.code.ts"}
 {"path":"pages/modules/entries/page-entries.module.test-fixtures.ts"}
 {"path":"pages/modules/entries/page-entries.module.test.ts"}
 {"path":"pages/modules/entry-writing/page-entry-writing.module.test.ts"}

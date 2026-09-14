@@ -31102,8 +31102,8 @@
 {"path":"pages/core/property-types/modules/property-type-ops/property-type-ops.module.ts"}
 {"path":"pages/core/property-types/modules/registry/registry.module.code.ts"}
 {"path":"pages/core/property-types/modules/registry/registry.module.ts"}
-{"path":"pages/core/property-types/modules/relation/relation.module.code.ts"}
-{"path":"pages/core/property-types/modules/relation/relation.module.ts"}
+{"path":"pages/core/property-types/modules/edge/relation.module.code.ts"}
+{"path":"pages/core/property-types/modules/edge/relation.module.ts"}
 {"path":"pages/core/property-types/modules/resolution-target-types/resolution-target-types.module.code.ts"}
 {"path":"pages/core/property-types/modules/resolution-target-types/resolution-target-types.module.ts"}
 {"path":"pages/core/property-types/modules/resolve-computed-type/resolve-computed-type.module.code.ts"}
@@ -31338,9 +31338,9 @@
 {"path":"pages/indexes/properties/index-name.text-property.types.ts"}
 {"path":"pages/indexes/properties/index-tracked.boolean-property.ts"}
 {"path":"pages/indexes/properties/index-tracked.boolean-property.types.ts"}
-{"path":"pages/indexes/relation/index-relation.index.code.ts"}
-{"path":"pages/indexes/relation/index-relation.index.test.ts"}
-{"path":"pages/indexes/relation/index-relation.index.ts"}
+{"path":"pages/indexes/edge/index-relation.index.code.ts"}
+{"path":"pages/indexes/edge/index-relation.index.test.ts"}
+{"path":"pages/indexes/edge/index-relation.index.ts"}
 {"path":"pages/indexes/rule/index-rule.index.code.ts"}
 {"path":"pages/indexes/rule/index-rule.index.test.ts"}
 {"path":"pages/indexes/rule/index-rule.index.ts"}

@@ -1968,7 +1968,7 @@
 {"path":"pages/core/property-types/modules/progress/progress.module.ts"}
 {"path":"pages/core/property-types/modules/property-type-ops/property-type-ops.module.ts"}
 {"path":"pages/core/property-types/modules/registry/registry.module.ts"}
-{"path":"pages/core/property-types/modules/relation/relation.module.ts"}
+{"path":"pages/core/property-types/modules/edge/relation.module.ts"}
 {"path":"pages/core/property-types/modules/resolution-target-types/resolution-target-types.module.ts"}
 {"path":"pages/core/property-types/modules/resolve-computed-type/resolve-computed-type.module.ts"}
 {"path":"pages/core/property-types/modules/rich-document-ops/rich-document-ops.module.ts"}

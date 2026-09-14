@@ -31,7 +31,7 @@
 {"path":"pages/indexes/modules/property-file/property-file.module.code.ts"}
 {"path":"pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"}
 {"path":"pages/indexes/modules/settling/index-settling.module.code.ts"}
-{"path":"pages/indexes/relation/index-relation.index.code.ts"}
+{"path":"pages/indexes/edge/index-relation.index.code.ts"}
 {"path":"pages/indexes/rule/index-rule.index.code.ts"}
 {"path":"pages/indexes/shapes/index-shapes.index.code.ts"}
 {"path":"pages/indexes/shapes/index-shapes.index.test.ts"}

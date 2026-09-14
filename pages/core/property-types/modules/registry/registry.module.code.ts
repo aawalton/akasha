@@ -14,7 +14,7 @@ import { NUMBER_OPS } from "akasha/pages/core/property-types/modules/number/numb
 import { PATH_SELECT_OPS } from "akasha/pages/core/property-types/modules/path-select/path-select.module.code.ts"
 import { PROGRESS_OPS } from "akasha/pages/core/property-types/modules/progress/progress.module.code.ts"
 import type { PropertyTypeOps } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
-import { RELATION_OPS } from "akasha/pages/core/property-types/modules/relation/relation.module.code.ts"
+import { RELATION_OPS } from "akasha/pages/core/property-types/modules/edge/relation.module.code.ts"
 import { RICH_DOCUMENT_OPS } from "akasha/pages/core/property-types/modules/rich-document/rich-document.module.code.ts"
 import { ROLLUP_OPS } from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 import { RRULE_OPS } from "akasha/pages/core/property-types/modules/rrule/rrule.module.code.ts"
