@@ -4,7 +4,8 @@ export const gitTransportJanitor = {
   id: "01a07c78-54fc-794e-becc-d1343a783c8d",
   type: "manifest",
   slug: "git-transport-janitor",
-  definition: "the cron job clearing push debris out of the repositories the transport serves",
+  definition:
+    "the cron job packing away what a push leaves in the repositories the transport serves",
   code: "ts",
   generatedDirectory: true,
   invariants: [
@@ -27,6 +28,46 @@ export const gitTransportJanitor = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "Every path taken away is named in the job's output.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every repository on the volume is repacked on the run that sweeps that volume.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repack rolls the packs and the loose objects a push leaves into one pack.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A pack holding more than twice what every smaller pack holds together is left as it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repack drops no object.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A repository is repacked only where the free space covers what that repack writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A repository left unrepacked is named in the job's output with the free space and what it needs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No run of the job overlaps another run.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A repack packs on one thread, under a capped delta window and a capped delta cache.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The free space on the volume is read before each repack.",
     },
   ],
 } as const satisfies Manifest
