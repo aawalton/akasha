@@ -5,7 +5,7 @@ import {
   refusalIn,
   SCOPE,
 } from "akasha/agents/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.code.ts"
-import { payloadOf } from "akasha/agents/hook/modules/payload/hook-payload.module.code.ts"
+import { payloadOf } from "akasha/agents/hook/test-fixtures/payload/hook-payload.test-fixture.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-destructive-git.agent-hook.code.ts")

@@ -13,7 +13,7 @@ export const hook = {
     "module/hook-dispatch",
     "test-fixture/hook-judging",
     "module/hook-links",
-    "module/hook-payload",
+    "test-fixture/hook-payload",
     "module/path-showing",
     "module/settling",
     "module/shell-calls",

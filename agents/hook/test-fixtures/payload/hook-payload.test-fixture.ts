@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const hookPayload = {
   id: "01a04f4d-f0ea-791d-8bb4-ce41b59e46b1",
-  type: "module",
+  type: "test-fixture",
   slug: "hook-payload",
   definition: "a hook payload as the agent sends one, made so a test can hand it to a hook",
   code: "ts",
@@ -21,4 +21,4 @@ export const hookPayload = {
       statement: "Nothing in the running system makes a payload.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture

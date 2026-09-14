@@ -8,7 +8,7 @@ import {
 } from "akasha/agents/hook/agent-hook/block-history-search/block-history-search.agent-hook.code.ts"
 import { parseRefusal } from "akasha/agents/hook/modules/answer/hook-answer.module.code.ts"
 import { gitCallIn } from "akasha/agents/hook/modules/git-calls/git-calls.module.code.ts"
-import { payloadOf } from "akasha/agents/hook/modules/payload/hook-payload.module.code.ts"
+import { payloadOf } from "akasha/agents/hook/test-fixtures/payload/hook-payload.test-fixture.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-history-search.agent-hook.code.ts")
