@@ -7,7 +7,6 @@ export const properties = {
   propertySlug: "properties",
   definition: "the properties a page type adds, and the inherited properties it narrows",
   members: ["record-property/many-declaration", "record-property/single-declaration"],
-  renderedAs: "json",
   invariants: [
     {
       invariantKind: "departure",
