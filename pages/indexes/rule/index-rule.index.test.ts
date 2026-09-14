@@ -59,7 +59,7 @@ test("a body that is not ts or tsx is filed nowhere", () => {
   expect(ruleIn(BODY, `${ROOT}/held.md`, ROOT)).toEqual([])
 })
 
-test("a path with no body is filed as read, and a path that is not ts or tsx is not", () => {
+test("a typed path is filed as read, and a path that is not ts or tsx is not", () => {
   expect(readAt(`${ROOT}/${ONE}`, ROOT)).toEqual([
     { at: "rule/read/at-path.jsonl", line: `{"path":"${ONE}"}` },
   ])
