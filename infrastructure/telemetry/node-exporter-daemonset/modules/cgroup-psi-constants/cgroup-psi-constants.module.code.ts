@@ -17,5 +17,3 @@ export const PSI_COLLECTOR_CONTAINER_NAME = "cgroup-psi-collector"
 export const PSI_MIN_CGROUP_AGE_SECONDS = 300
 
 export const PSI_COLLECT_INTERVAL_SECONDS = 30
-
-export const ALERT_PSI_COLLECTOR_STALE = "CgroupPsiCollectorStale"
