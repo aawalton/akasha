@@ -19,12 +19,20 @@ import {
 } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.code.ts"
 import {
   appliedOf,
+  type Between,
   planFor,
   putUp,
   unfilledOf,
   upAlready,
   writeManifests,
 } from "akasha/infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts"
+import {
+  type Demand,
+  DeployRefused,
+  type Placed,
+  type Placing,
+  placeSecrets,
+} from "akasha/infrastructure/services/secrets/modules/placing/secret-placing.module.code.ts"
 import { slugsOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -97,6 +105,26 @@ function appliedSaid(argv: readonly string[]): string {
   return `\`kubectl ${argv.join(" ")}\`, applied to the cluster`
 }
 
+function saidOfPlaced(one: Placed): string {
+  return `secret\t${one.name}\t${one.keys.join(", ")}`
+}
+
+function saidOfUnplaced(one: Demand): string {
+  return `secret\t${one.name}\t${one.key} is answered by no secret page`
+}
+
+export function saidOfPlacing(placing: Placing): readonly string[] {
+  return [...placing.placed.map(saidOfPlaced), ...placing.unplaced.map(saidOfUnplaced)]
+}
+
+export function placingBetween(root: string, report: string[]): Between {
+  return (plan) => {
+    const placing = placeSecrets(root, plan)
+    report.push(...saidOfPlacing(placing))
+    return placing.ran
+  }
+}
+
 export async function appliedWorkload(
   root: string,
   slug: string,
@@ -162,13 +190,18 @@ export async function appliedWorkload(
 
   for (const one of writeManifests(root, plan)) report.push(`wrote\t${one}`)
   const refusals: string[] = []
-  for (const one of putUp(plan)) {
-    report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
-    if (one.code !== 0) {
-      refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
-      continue
+  try {
+    for (const one of putUp(plan, placingBetween(root, report))) {
+      report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
+      if (one.code !== 0) {
+        refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
+        continue
+      }
+      up.push(appliedSaid(one.argv))
     }
-    up.push(appliedSaid(one.argv))
+  } catch (thrown) {
+    if (!(thrown instanceof DeployRefused)) throw thrown
+    return answeredWith(report, [thrown.message], OPERATIONAL)
   }
   if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
 
