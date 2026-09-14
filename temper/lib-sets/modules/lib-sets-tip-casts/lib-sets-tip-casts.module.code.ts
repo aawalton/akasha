@@ -14,9 +14,6 @@ export function asStrTab(value: unknown): StrTab {
 }
 
 export type NumIndexTable = { [idx: number]: number }
-export function asNumIndexTable(value: unknown): NumIndexTable {
-  return value as NumIndexTable
-}
 
 export type NumIndexTableOpt = NumIndexTable | undefined
 export function asNumIndexTableOpt(value: unknown): NumIndexTableOpt {

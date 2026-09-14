@@ -64,11 +64,6 @@ export function asLangRecord(value: unknown): LangRecord {
   return value as LangRecord
 }
 
-export type SetIdBoolMap = { [setId: number]: boolean }
-export function asSetIdBoolMap(value: unknown): SetIdBoolMap {
-  return value as SetIdBoolMap
-}
-
 export type UnknownArray = unknown[]
 export function asUnknownArray(value: unknown): UnknownArray {
   return value as UnknownArray

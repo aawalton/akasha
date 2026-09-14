@@ -110,9 +110,6 @@ export function asIdBoolMapOpt(value: unknown): IdBoolMapOpt {
 }
 
 export type IdNumBoolMap = { [id: number]: boolean }
-export function asIdNumBoolMap(value: unknown): IdNumBoolMap {
-  return value as IdNumBoolMap
-}
 
 export type IdNumBoolMapOpt = IdNumBoolMap | undefined
 export function asIdNumBoolMapOpt(value: unknown): IdNumBoolMapOpt {
@@ -120,9 +117,6 @@ export function asIdNumBoolMapOpt(value: unknown): IdNumBoolMapOpt {
 }
 
 export type CategoryBoolMap = { [category: string]: boolean }
-export function asCategoryBoolMap(value: unknown): CategoryBoolMap {
-  return value as CategoryBoolMap
-}
 
 export type CategoryBoolMapOpt = CategoryBoolMap | undefined
 export function asCategoryBoolMapOpt(value: unknown): CategoryBoolMapOpt {
@@ -130,9 +124,6 @@ export function asCategoryBoolMapOpt(value: unknown): CategoryBoolMapOpt {
 }
 
 export type IdNumRecord = { [id: number]: unknown }
-export function asIdNumRecord(value: unknown): IdNumRecord {
-  return value as IdNumRecord
-}
 
 export type IdNumRecordOpt = IdNumRecord | undefined
 export function asIdNumRecordOpt(value: unknown): IdNumRecordOpt {

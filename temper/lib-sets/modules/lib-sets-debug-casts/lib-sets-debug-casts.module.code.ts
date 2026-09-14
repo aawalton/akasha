@@ -9,9 +9,6 @@ export function asSetNamesTableOpt(value: unknown): SetNamesTableOpt {
 }
 
 export type SetItemIdsTable = { [setId: number]: { [itemId: number]: number } }
-export function asSetItemIdsTable(value: unknown): SetItemIdsTable {
-  return value as SetItemIdsTable
-}
 
 export type SetItemIdsTableOpt = SetItemIdsTable | undefined
 export function asSetItemIdsTableOpt(value: unknown): SetItemIdsTableOpt {

@@ -45,11 +45,6 @@ export function asToBooleanFn(value: unknown): ToBooleanFn {
   return value as ToBooleanFn
 }
 
-export type RemoveLanguagesFn = (this: void, langTable: { [lang: string]: unknown }) => unknown
-export function asRemoveLanguagesFn(value: unknown): RemoveLanguagesFn {
-  return value as RemoveLanguagesFn
-}
-
 export type IsPerfectedSetIdFn = (this: void, setId: number) => boolean
 export function asIsPerfectedSetIdFn(value: unknown): IsPerfectedSetIdFn {
   return value as IsPerfectedSetIdFn
@@ -159,11 +154,6 @@ export function asCategoryBoolMap(value: unknown): CategoryBoolMap {
   return value as CategoryBoolMap
 }
 
-export type CategoryNumberMap = { [category: number]: number }
-export function asCategoryNumberMap(value: unknown): CategoryNumberMap {
-  return value as CategoryNumberMap
-}
-
 export type ItemIdNumberMap = { [itemId: number]: number }
 export function asItemIdNumberMap(value: unknown): ItemIdNumberMap {
   return value as ItemIdNumberMap
@@ -182,11 +172,6 @@ export function asFactionNumberMap(value: unknown): FactionNumberMap {
 export type StrRecord = { [key: string]: unknown }
 export function asStrRecord(value: unknown): StrRecord {
   return value as StrRecord
-}
-
-export type StrRecordOpt = StrRecord | undefined
-export function asStrRecordOpt(value: unknown): StrRecordOpt {
-  return value as StrRecordOpt
 }
 
 export type LangRecord = { [lang: string]: unknown }
