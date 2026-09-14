@@ -30,10 +30,14 @@ export const musicUpcoming = {
       statement: "The reading is handed in, so no test of it reaches Spotify.",
     },
     {
+      invariantKind: "departure",
+      statement: "The queue is read from the account rather than from a device.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here changes what is playing.",
     },
   ],
   name: "upcoming",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/device-id" }],
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

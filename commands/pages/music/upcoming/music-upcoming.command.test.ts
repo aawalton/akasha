@@ -32,7 +32,7 @@ function fakeFor(queued: Queued): Upcoming {
 }
 
 test("the track playing now is named before the tracks queued behind it", () => {
-  expect(linesOf(envelopeOf(QUEUED, undefined))).toEqual([
+  expect(linesOf(envelopeOf(QUEUED))).toEqual([
     "▶ Now: Bulletproof",
     "  1. Motion Sickness",
     "  2. Holocene",
@@ -40,17 +40,16 @@ test("the track playing now is named before the tracks queued behind it", () => 
 })
 
 test("nothing playing and nothing queued are each said", () => {
-  expect(linesOf(envelopeOf(EMPTY, undefined))).toEqual(["▶ Now: (nothing)", "  (nothing queued)"])
+  expect(linesOf(envelopeOf(EMPTY))).toEqual(["▶ Now: (nothing)", "  (nothing queued)"])
 })
 
-test("the envelope carries the track, the queue and the device the call named", () => {
-  expect(envelopeOf(QUEUED, "abc123")).toEqual({
+test("the envelope carries the track playing now and the queue behind it", () => {
+  expect(envelopeOf(QUEUED)).toEqual({
     playing: { name: "Bulletproof", uri: "spotify:track:one", id: "one" },
     queue: [
       { name: "Motion Sickness", uri: "spotify:track:two", id: "two" },
       { name: "Holocene", uri: "spotify:track:three", id: "three" },
     ],
-    deviceId: "abc123",
   })
 })
 
@@ -64,7 +63,7 @@ test("the human report is the lines", async () => {
 test("--json answers the envelope on one line", async () => {
   const said = await upcoming(["--json"], fakeFor(EMPTY), CALLED)
   expect(said.code).toBe(OK)
-  expect(said.report).toEqual(['{"playing":null,"queue":[],"deviceId":null}'])
+  expect(said.report).toEqual(['{"playing":null,"queue":[]}'])
 })
 
 test("a flag the command does not carry refuses the call", async () => {

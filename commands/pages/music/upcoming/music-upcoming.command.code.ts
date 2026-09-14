@@ -1,6 +1,5 @@
 import { getQueue } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { deviceId as deviceIdArgument } from "akasha/commands/arguments/pages/device-id.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   answering,
@@ -11,7 +10,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicUpcoming as page } from "akasha/commands/pages/music/upcoming/music-upcoming.command.ts"
 
-const NAMED = [deviceIdArgument, json]
+const NAMED = [json]
 
 const NOTHING = "(nothing)"
 
@@ -37,19 +36,17 @@ const UPCOMING: Upcoming = { getQueue }
 type UpcomingEnvelope = {
   readonly playing: QueuedTrack | null
   readonly queue: readonly QueuedTrack[]
-  readonly deviceId: string | null
 }
 
 function trackOf(one: QueuedTrack): QueuedTrack {
   return { name: one.name, uri: one.uri, id: one.id }
 }
 
-export function envelopeOf(queued: Queued, named: string | undefined): UpcomingEnvelope {
+export function envelopeOf(queued: Queued): UpcomingEnvelope {
   const playing = queued.currently_playing
   return {
     playing: playing === null ? null : trackOf(playing),
     queue: queued.queue.map(trackOf),
-    deviceId: named ?? null,
   }
 }
 
@@ -68,7 +65,7 @@ export async function upcoming(
   if ("refused" in read) return refusedBy(read.refused, INPUT)
   const taken = read.taken
   return await answering(async () => {
-    const envelope = envelopeOf(await ports.getQueue(), taken.deviceId)
+    const envelope = envelopeOf(await ports.getQueue())
     return told(taken.json ? [JSON.stringify(envelope)] : [...linesOf(envelope)])
   })
 }
