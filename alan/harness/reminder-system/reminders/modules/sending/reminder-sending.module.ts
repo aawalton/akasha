@@ -13,6 +13,10 @@ export const reminderSending = {
     },
     {
       invariantKind: "departure",
+      statement: "The persona a reminder is sent to and from reads back as the slug alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Systemd answers when a schedule next falls due.",
     },
     {
