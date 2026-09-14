@@ -9,7 +9,7 @@ export const alanBook = {
   extends: ["page-type/domain"],
   parts: [
     "alan-book/all-about-alan",
-    "alan-book/book-of-everything",
+    "alan-book/learn-everything",
     "alan-book/my-faith",
     "alan-book/my-math",
     "alan-book/my-projects",
