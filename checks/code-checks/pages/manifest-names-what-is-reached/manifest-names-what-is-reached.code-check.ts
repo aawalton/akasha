@@ -98,8 +98,11 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The files a package has are the files the index names as the change leaves those files.",
+      statement: "The files a package has are the files there are as the change leaves them.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A change carrying no manifest is judged without the files being listed.",
     },
     {
       invariantKind: "departure",

@@ -6,7 +6,7 @@ import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const judged = change.changed.filter((path) => change.after(path) !== null)
-  return refusalsOver(change, shadow, judged)
+  return refusalsOver(change, shadow, judged, () => shadow.listed())
 }
 
 export const manifestNamesWhatIsReached = input(FILES, refusalsIn)

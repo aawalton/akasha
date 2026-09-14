@@ -5,5 +5,5 @@ import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export function manifestNamesWhatIsReached(root: string): readonly Judged[] {
   const change = everythingIn(root)
-  return refusalsOver(change, shadowAt(root), change.changed)
+  return refusalsOver(change, shadowAt(root), change.changed, () => change.changed)
 }

@@ -2,7 +2,6 @@ import { builtinModules } from "node:module"
 import { join } from "node:path"
 import {
   bodyNamed,
-  everyFileOf,
   styleNamed,
   textIn,
   textNamed,
@@ -335,7 +334,8 @@ function holdingBy(
 export function refusalsOver(
   change: Change,
   shadow: Shadow,
-  judged: readonly string[]
+  judged: readonly string[],
+  filesIn: () => readonly string[]
 ): readonly Judged[] {
   const packages = declaringOver(change, manifestsIn(shadow))
   if (packages.length === 0) return []
@@ -347,8 +347,14 @@ export function refusalsOver(
   const byFolder = new Map(packages.map((one) => [one.folder, one]))
   const carried = new Map(packages.map((one) => [one.at, one]))
   const byTool = byToolOver(shadow)
-  const holding = holdingBy(folders, everyFileOf(shadow.index))
   const reaches = new Map<string, Reach>()
+  let holding: ReadonlyMap<string, readonly string[]> | null = null
+
+  const heldBy = (folder: string): readonly string[] => {
+    const found = holding ?? holdingBy(folders, filesIn())
+    holding = found
+    return found.get(folder) ?? []
+  }
 
   const reachAt = (path: string): Reach => {
     const found = reaches.get(path)
@@ -362,7 +368,7 @@ export function refusalsOver(
   const wholeOf = (held: Named): Reach => {
     const reached = new Set<string>()
     const protocols = new Set<string>()
-    for (const path of holding.get(held.folder) ?? []) {
+    for (const path of heldBy(held.folder)) {
       const found = reachAt(path)
       for (const one of found.packages) reached.add(one)
       for (const one of found.protocols) protocols.add(one)
