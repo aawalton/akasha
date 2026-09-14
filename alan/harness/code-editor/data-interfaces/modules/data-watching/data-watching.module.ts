@@ -104,5 +104,9 @@ export const dataWatching = {
       invariantKind: "absence",
       statement: "No picture here is made from committed pages alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A picture landing on disk is where the service leaves for code that moved.",
+    },
   ],
 } as const satisfies Module

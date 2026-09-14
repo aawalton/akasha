@@ -30,6 +30,7 @@ import {
   seatByShellPid,
   seatMarksAt,
 } from "akasha/code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/modules/code-moving/code-moving.module.code.ts"
 import {
   dirsOf,
   type Following,
@@ -204,6 +205,12 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   ])
 }
 
+function landed(root: string, slug: string, line: string): undefined {
+  writeState(root, slug, line)
+  leftWhereCodeMoved()
+  return undefined
+}
+
 function keep(root: string, slug: string, picture: Picture): undefined {
   const line = picture.line()
   if (line === null) {
@@ -212,10 +219,7 @@ function keep(root: string, slug: string, picture: Picture): undefined {
   const now = Date.now()
   const decision = decide(picture.held, line, now, picture.cooldownMs)
   picture.held = heldAfter(picture.held, decision, line, now)
-  if (decision.act === "write") {
-    writeState(root, slug, decision.line)
-    return undefined
-  }
+  if (decision.act === "write") return landed(root, slug, decision.line)
   if (decision.act !== "hold" || picture.waking !== null) return undefined
   picture.waking = setTimeout(
     () => {
@@ -223,7 +227,7 @@ function keep(root: string, slug: string, picture: Picture): undefined {
       const at = Date.now()
       const owed = released(picture.held, at)
       picture.held = releasedHeld(picture.held, owed, at)
-      if (owed.act === "write") writeState(root, slug, owed.line)
+      if (owed.act === "write") landed(root, slug, owed.line)
     },
     Math.max(0, decision.untilMs - now)
   )
