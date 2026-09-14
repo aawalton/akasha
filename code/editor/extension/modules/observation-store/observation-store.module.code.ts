@@ -32,7 +32,7 @@ export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 
 const ORIGIN = "http://127.0.0.1:8787"
 
-export function slugFor(window: string): string {
+function slugFor(window: string): string {
   return `window-${window}`
 }
 

@@ -41,7 +41,7 @@ export function applyArgv(): readonly string[] {
   return ["apply", "-f", "-"]
 }
 
-export function planFor(name: string, yaml: string): Plan {
+function planFor(name: string, yaml: string): Plan {
   return {
     workload: { kind: "Job", name, namespace: JOB_NAMESPACE },
     synthPath: name,
@@ -66,8 +66,7 @@ export function logsArgv(name: string): readonly string[] {
   return ["logs", "-n", JOB_NAMESPACE, `job/${name}`, EVERY_LINE]
 }
 
-export const ranBy: Running = (argv, text) =>
-  text === null ? runKubectl(argv) : runKubectlOn(argv, text)
+const ranBy: Running = (argv, text) => (text === null ? runKubectl(argv) : runKubectlOn(argv, text))
 
 export type Fate = "complete" | "failed" | "running"
 
