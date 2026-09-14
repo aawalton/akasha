@@ -35,5 +35,14 @@ export const memoryReaperTick = {
       invariantKind: "departure",
       statement: "A kill that throws is said aloud and the rest of the plan still runs.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A tick first takes away every group a run left under the topmost group the reaper may write in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep that throws is said aloud and the tick still weighs the host.",
+    },
   ],
 } as const satisfies Module

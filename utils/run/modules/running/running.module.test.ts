@@ -16,6 +16,7 @@ import {
   said,
   shown,
   spawnedHere,
+  sweptFrom,
 } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const CODE = `${import.meta.dir}/running.module.code.ts`
@@ -169,6 +170,27 @@ test("a group left where the run that made it is gone is taken away before a gro
   expect(existsSync(left)).toBe(true)
   ran(["true"])
   expect(existsSync(left)).toBe(false)
+})
+
+test("a group left is emptied and taken away with every group inside it", async () => {
+  const left = join(String(sweptFrom(String(ownAt()))), `akasha-1-${String(process.pid)}`)
+  const inside = join(left, "akasha-1-3", "run")
+  mkdirSync(inside, { recursive: true })
+  const lingering = Bun.spawn(["sh", "-c", `echo $$ > ${inside}/cgroup.procs; exec sleep 30`])
+  for (let held = 0; held < 100; held += 1) {
+    if (readFileSync(`${inside}/cgroup.procs`, "utf8").trim() !== "") break
+    Bun.sleepSync(10)
+  }
+  ran(["true"])
+  await lingering.exited
+  expect(lingering.signalCode).toBe("SIGKILL")
+  expect(existsSync(left)).toBe(false)
+})
+
+test("a group that cannot be taken away once its run is over is said aloud", () => {
+  const inner = `import { spawnedHere } from ${JSON.stringify(CODE)}; `
+  const run = 'spawnedHere(["sh", "-c", "sleep 2 >/dev/null 2>&1 &"])'
+  expect(ran(["bun", "-e", inner + run]).err).toMatch(/a group was left at .* 1 processes/)
 })
 
 test("a run relayed is answered the peak a run made here is answered", () => {

@@ -1,6 +1,7 @@
 import {
   accessSync,
   constants,
+  existsSync,
   mkdirSync,
   readdirSync,
   readFileSync,
@@ -56,6 +57,14 @@ const APART = "-"
 
 const DIGITS = /^\d+$/
 
+const KILL = "cgroup.kill"
+
+const ONE = "1"
+
+const FOREIGN = "libpod-"
+
+const LEFT = "running: a group was left at"
+
 function holding(at: string): boolean {
   try {
     accessSync(at, constants.W_OK)
@@ -83,33 +92,112 @@ export function madePid(named: string): number | null {
   return DIGITS.test(digits) ? Number(digits) : null
 }
 
-function leftSwept(parent: string): undefined {
-  let held: readonly string[] = []
-  try {
-    held = readdirSync(parent)
-  } catch {
-    return
+export function sweptFrom(own: string): string | null {
+  let at = dirname(join(MOUNT, own))
+  let topmost: string | null = null
+  while (at.startsWith(MOUNT) && at !== MOUNT) {
+    if (holding(at)) topmost = at
+    at = dirname(at)
   }
-  for (const one of held) {
-    const pid = madePid(one)
-    if (pid === null || pidAliveOrAssumeAlive(pid)) continue
-    try {
-      rmdirSync(join(parent, one, RUN))
-    } catch {}
-    try {
-      rmdirSync(join(parent, one))
-    } catch {}
-  }
+  return holding(MOUNT) ? MOUNT : topmost
 }
 
-export function ownAt(): string | null {
+function groupIn(file: string): string | null {
   let text = ""
   try {
-    text = readFileSync(OWN, "utf8")
+    text = readFileSync(file, "utf8")
   } catch {
     return null
   }
   return text.trim().split("\n")[0]?.split(":").at(-1) ?? null
+}
+
+export function ownAt(): string | null {
+  return groupIn(OWN)
+}
+
+function under(own: string, at: string): boolean {
+  const rel = at.slice(MOUNT.length)
+  return own === rel || own.startsWith(`${rel}/`)
+}
+
+function groupsIn(at: string): readonly string[] {
+  try {
+    return readdirSync(at, { withFileTypes: true })
+      .filter((one) => one.isDirectory())
+      .map((one) => one.name)
+  } catch {
+    return []
+  }
+}
+
+function leftIn(at: string): string {
+  let procs = 0
+  let groups = 0
+  const counting = (here: string): undefined => {
+    try {
+      procs += readFileSync(join(here, PROCS), "utf8").split("\n").filter(Boolean).length
+    } catch {}
+    for (const one of groupsIn(here)) {
+      groups += 1
+      counting(join(here, one))
+    }
+  }
+  counting(at)
+  return `${String(procs)} processes and ${String(groups)} groups still in it`
+}
+
+function takenAway(at: string): boolean {
+  for (const one of groupsIn(at)) takenAway(join(at, one))
+  try {
+    rmdirSync(at)
+    return true
+  } catch {
+    return !existsSync(at)
+  }
+}
+
+function stillMaking(pid: number, parent: string): boolean {
+  if (!pidAliveOrAssumeAlive(pid)) return false
+  const at = groupIn(`/proc/${String(pid)}/cgroup`)
+  return at === null || under(at, parent)
+}
+
+function leftBy(named: string, parent: string, own: string): boolean {
+  const pid = madePid(named)
+  if (pid === null || under(own, join(parent, named))) return false
+  return !stillMaking(pid, parent)
+}
+
+function leftUnder(at: string, own: string, left: string[]): undefined {
+  for (const one of groupsIn(at)) {
+    if (one.includes(FOREIGN)) continue
+    if (leftBy(one, at, own)) left.push(join(at, one))
+    else leftUnder(join(at, one), own, left)
+  }
+}
+
+export function leftSwept(root: string): undefined {
+  const own = ownAt() ?? ""
+  let left: string[] = []
+  leftUnder(root, own, left)
+  for (const at of left) {
+    try {
+      writeFileSync(join(at, KILL), ONE)
+    } catch {}
+  }
+  for (let held = 0; held < SWEEPS && left.length > 0; held += 1) {
+    left = left.filter((at) => !takenAway(at))
+    if (left.length > 0) Bun.sleepSync(POLL)
+  }
+  for (const at of left) process.stderr.write(`${LEFT} ${at} — ${leftIn(at)}\n`)
+}
+
+export function leftSweptHere(): undefined {
+  const own = ownAt()
+  if (own === null) return
+  const root = sweptFrom(own)
+  if (root !== null) leftSwept(root)
 }
 
 function budgetAt(): string | null {
@@ -117,7 +205,7 @@ function budgetAt(): string | null {
   if (own === null) return null
   const parent = delegatedAt(own)
   if (parent === null) return null
-  leftSwept(parent)
+  leftSwept(sweptFrom(own) ?? parent)
   const at = join(parent, `${MADE}${String(process.pid)}${APART}${String(Bun.nanoseconds())}`)
   try {
     mkdirSync(at)
@@ -192,16 +280,10 @@ function peakAt(at: string): number | null {
 
 function swept(at: string): undefined {
   for (let held = 0; held < SWEEPS; held += 1) {
-    try {
-      rmdirSync(join(at, RUN))
-    } catch {}
-    try {
-      rmdirSync(at)
-      return
-    } catch {
-      Bun.sleepSync(POLL)
-    }
+    if (takenAway(at)) return
+    Bun.sleepSync(POLL)
   }
+  process.stderr.write(`${LEFT} ${at} — ${leftIn(at)}\n`)
 }
 
 function movedTo(at: string): boolean {

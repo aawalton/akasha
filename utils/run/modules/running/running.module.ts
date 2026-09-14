@@ -191,6 +191,41 @@ export const running = {
     },
     {
       invariantKind: "departure",
+      statement: "Groups left are looked for from the topmost group this process may write in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group left is taken away with every group inside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every process still in a group left is ended before that group is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A group whose name names a process now running outside the group's parent is a group left.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A group this process sits in is never taken away as left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group under a container's group is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A group that cannot be taken away once its run is over is said aloud on the error stream.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A group left goes at the next group made under the topmost group or at the reaper's next tick.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The program a process is named by is looked for on the path before the run.",
     },
     {

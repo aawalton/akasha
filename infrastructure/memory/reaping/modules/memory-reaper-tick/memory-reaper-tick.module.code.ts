@@ -26,6 +26,7 @@ import {
   readUserPidSnapshots,
 } from "akasha/infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.code.ts"
 import { withTickDeadline } from "akasha/infrastructure/services/workstations/modules/tick-deadline/tick-deadline.module.code.ts"
+import { leftSweptHere } from "akasha/utils/run/modules/running/running.module.code.ts"
 import { readMemInfoKb } from "akasha/utils/system/modules/memory-guard/memory-guard.module.code.ts"
 
 export type ReaperState = { lastGlobalKillAtMs: number | null }
@@ -34,6 +35,11 @@ async function runReaperTick(
   state: ReaperState,
   readSnapshots: (uid: number) => readonly PidSnapshot[] = readUserPidSnapshots
 ): Promise<void> {
+  try {
+    leftSweptHere()
+  } catch (err) {
+    console.error(`${LOG} taking away the groups runs left threw:`, err)
+  }
   const uid = process.getuid?.()
   if (uid === undefined) return
   const selfPid = process.pid
