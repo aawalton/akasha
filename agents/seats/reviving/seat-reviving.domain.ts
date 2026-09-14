@@ -20,4 +20,33 @@ export const seatReviving = {
     "module/seat-revive-placement-decide",
     "module/seat-revive-verify-signal",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A seat whose pane is dead and whose supervisor is gone is revived from here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A supervisor asked to re-exec and gone without a successor leaves a seat to revive.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat holding an untaken ask under no live supervisor is told from a seat that is idle.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The ask a seat holds keeps no time of its own.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Something reads which seats hold an untaken ask under no live supervisor.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A seat found that way is revived rather than left with a pane held open and no process.",
+    },
+  ],
 } as const satisfies Domain
