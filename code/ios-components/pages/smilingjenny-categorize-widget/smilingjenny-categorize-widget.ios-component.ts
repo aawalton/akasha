@@ -8,15 +8,15 @@ export const smilingjennyCategorizeWidget = {
   swift: "swift",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This file has the bundle Jenny's widget extension starts at.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Stating that start keeps this component out of the decode harness.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Jenny's categorize tile is compiled by a build to a device and by nothing else.",
     },
   ],

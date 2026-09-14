@@ -8,23 +8,23 @@ export const categorizeRing = {
   swift: "swift",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The ring is drawn whole in one color rather than swept to a fraction.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The color is the color the feed's scale gives the reading.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading the feed sends no scale for is ringed in the track's own gray.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The count is drawn in the label's color whatever the ring is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading of nothing is drawn as the words or the emoji sent for that reading.",
     },
   ],

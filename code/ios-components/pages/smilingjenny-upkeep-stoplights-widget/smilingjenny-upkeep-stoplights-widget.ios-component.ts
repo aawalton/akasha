@@ -8,35 +8,35 @@ export const smilingjennyUpkeepStoplightsWidget = {
   swift: "swift",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The ring drawn is the one Alan's upkeep tile draws rather than one of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The stoplight a ring is handed is decoded as the shape every ring is handed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The color of a reading that is not falling is read off the feed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The color of a falling reading is read off the figure this tile draws.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "However many stoplights the feed sends is however many rings are drawn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refused fetch tells Jenny to update the app rather than showing no signal.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tap on this tile opens nothing.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Jenny's app holds no page for the upkeep.",
     },
   ],

@@ -8,7 +8,7 @@ export const alanwaltonClaudeUsageWidget = {
   swift: "swift",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This file has the bundle Alan's widget extension starts at.",
     },
   ],

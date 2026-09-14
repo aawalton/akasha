@@ -8,11 +8,11 @@ export const alanwaltonDeviceSecretReader = {
   swift: "swift",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two keychain items for one device are refused rather than picked between.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Why a read answered nothing is named in words short enough for a tile to carry.",
     },
   ],

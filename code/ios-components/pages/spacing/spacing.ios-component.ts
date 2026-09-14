@@ -8,20 +8,20 @@ export const spacing = {
   swift: "swift",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every gap a tile leaves is one step among these steps.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This Swift is written by the landing from the spacing tokens the stylesheet states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No author writes this Swift by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A widget extension takes its scale from this one copy.",
     },
   ],

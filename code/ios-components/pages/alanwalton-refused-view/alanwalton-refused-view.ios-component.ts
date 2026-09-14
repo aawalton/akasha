@@ -8,7 +8,7 @@ export const alanwaltonRefusedView = {
   swift: "swift",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The tile names why the credential was refused rather than only that the credential was refused.",
     },
