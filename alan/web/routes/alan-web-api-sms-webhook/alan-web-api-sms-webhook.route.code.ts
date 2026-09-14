@@ -13,6 +13,8 @@ import {
   telnyxWebhookSchema,
 } from "akasha/alan/harness/sms-core/modules/telnyx-inbound/telnyx-inbound.module.code.ts"
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/modules/verify-signature/verify-signature.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askingFor,
   writingFor,
@@ -58,6 +60,11 @@ function saidIn(held: unknown): string | undefined {
   return typeof held === "string" && held !== "" ? held : undefined
 }
 
+function bareIn(held: unknown): string | null {
+  const said = saidIn(held)
+  return said === undefined ? null : slugOf(said)
+}
+
 function answeredByCarrier(rawBody: string): boolean {
   let parsed: ReturnType<typeof telnyxWebhookSchema.safeParse>
   try {
@@ -77,7 +84,7 @@ function identitiesIn(rows: readonly Row[]): readonly SmsExternalIdentity[] {
       phone: saidIn(row.relationshipPhone),
       accountUserId: saidIn(row.relationshipAccountUserId),
       smsAllowed: row.relationshipSmsAllowed === true,
-      smsHandlerTarget: saidIn(row.relationshipSmsHandlerTarget) ?? null,
+      smsHandlerTarget: bareIn(row.relationshipSmsHandlerTarget),
     }))
   )
 }
@@ -96,7 +103,7 @@ async function messageTo(to: string, body: string): Promise<string | null> {
           id,
           pageTypeSlug: MESSAGE_PAGE_TYPE_SLUG,
           slug: named,
-          to,
+          to: namedAs(SEAT_PAGE_TYPE_SLUG, to, null),
           from: SAID_FROM,
           warrant: "announce",
           body: body.slice(0, BODY_HOLDS),
