@@ -10,5 +10,7 @@ export const alanWalton = {
   relationshipConnection: 5,
   relationshipImpact: 5,
   relationshipInterest: 5,
+  relationshipPhone: "+16085122510",
+  relationshipSmsAllowed: true,
   relationshipSmsHandlerTarget: "alan",
 } as const satisfies Relationship
