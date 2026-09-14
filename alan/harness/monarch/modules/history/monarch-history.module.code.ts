@@ -5,12 +5,7 @@ import {
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { categoryTitles } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import type { Rule } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
-import {
-  bearsOn,
-  clausesMatch,
-  decide,
-  fires,
-} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
+import { bearsOn } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import type { Subject } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
 export interface HistoryRow {
@@ -88,23 +83,4 @@ export async function readNeighbourhood(
     await readTransactionsBetween(shifted(date, -span), shifted(date, span))
   )
   return rows.filter((row) => bearsOn(rule, subject, row))
-}
-
-export async function unsettled<T extends Subject>(
-  rules: readonly Rule[],
-  rows: readonly T[]
-): Promise<readonly T[]> {
-  const left: T[] = []
-  for (const row of rows) {
-    let settled = false
-    for (const rule of rules) {
-      if (!clausesMatch(rule, row)) continue
-      if (fires(decide(rule, row, await readNeighbourhood(rule, row)))) {
-        settled = true
-        break
-      }
-    }
-    if (!settled) left.push(row)
-  }
-  return left
 }

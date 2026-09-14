@@ -33,14 +33,6 @@ export const monarchHistory = {
     },
     {
       invariantKind: "departure",
-      statement: "A row a rule settles is not left unsettled.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row no rule settles is left unsettled.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A missing field reads as empty rather than as absent.",
     },
     {
