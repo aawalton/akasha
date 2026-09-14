@@ -9,7 +9,7 @@ export const getByRelation = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches the pages a filter like that asks for.",
+      statement: "Nothing here reaches pages; a filter like that is answered by reading the files.",
     },
   ],
 } as const satisfies Module
