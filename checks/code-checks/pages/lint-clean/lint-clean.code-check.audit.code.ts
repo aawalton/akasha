@@ -20,6 +20,8 @@ const MORTAL = "mortal"
 
 const PLURAL = "pluralSlug"
 
+const SLUG = "slug"
+
 export type Mortalling = (root: string) => readonly string[]
 
 export type Reading = {
@@ -31,8 +33,9 @@ export const mortalling: Mortalling = (root) => {
   for (const one of valuesOfType(root, PAGE_TYPE)) {
     const held = one.value as Record<string, unknown>
     const plural = held[PLURAL]
-    if (held[MORTAL] !== true || typeof plural !== "string" || plural === "") continue
-    found.add(pagesUnder(one.path, plural))
+    const named = typeof plural === "string" && plural !== "" ? plural : held[SLUG]
+    if (held[MORTAL] !== true || typeof named !== "string" || named === "") continue
+    found.add(pagesUnder(one.path, named))
   }
   return [...found].sort()
 }
