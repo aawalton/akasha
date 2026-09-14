@@ -231,10 +231,6 @@ export function settlingOver(
   const nowSource = sourceAmong(left, sourceIn(overValued, pageOf))
   const wasIdentifying = identifyingFrom(wasSource)
   const nowIdentifying = identifyingFrom(nowSource)
-  const carrying =
-    reshaping(before) || reshaping(left)
-      ? filingOf(shapesOver(reading), shapesOver(overValued))
-      : []
   const carriedAt = new Set(carried.keys())
   const elsewhere = pagesElsewhere(reading, turned, carriedAt)
   const stranded = pagesStranded(reading, before, left, carriedAt)
@@ -253,7 +249,13 @@ export function settlingOver(
       ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowIdentifying, turned)),
     ]
   )
-  const stepped = overlaidOn(reading, [...imported, ...identity, ...valued, ...shaping])
+  const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))
+  const had = new Map(moving.map((one) => [under(repo, one.path), one.before] as const))
+  const stepped = overlaidOn(reading, [...imported, ...identity, ...valued, ...shaping], wrote)
+  const carrying =
+    reshaping(before) || reshaping(left)
+      ? filingOf(shapesOver(overlaidOn(reading, [], had)), shapesOver(stepped))
+      : []
   const wasBody: Body = (at) => {
     const one = carried.get(under(repo, at))
     return one === undefined ? bodyAt(at) : one.before
@@ -321,7 +323,6 @@ export function settlingOver(
     ...shaping,
     ...carrying,
   ]
-  const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))
   return {
     reading: overlaidOn(given, filings, wrote),
     filings,
