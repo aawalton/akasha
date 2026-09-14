@@ -6,21 +6,7 @@ export const amyHarnessImprovements = {
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
   persona: "amy",
-  intents: [
-    {
-      statement: "Each editor panel opens by Ctrl+Alt and the first letter of that panel's name.",
-    },
-    {
-      statement: "A colored row takes that color on its name and nowhere else.",
-    },
-    {
-      statement:
-        "A row whose children carry colors counts those children by color, after the whole count.",
-    },
-    {
-      statement: "A count for a color carries that color rather than a label naming it.",
-    },
-  ],
+  intents: [],
 
   constraints: [
     "This initiative stays when its last intent goes, rather than dying as a finished initiative does.",
