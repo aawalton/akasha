@@ -255,6 +255,10 @@ export const auditServing = {
       invariantKind: "absence",
       statement: "Nothing here asks for an audit on another agent's behalf.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A round telling by refusal has been watched on the service that runs it.",
+    },
 
     {
       invariantKind: "departure",
