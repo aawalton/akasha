@@ -45,4 +45,5 @@ export const addFile = {
     },
   ],
   changeKind: "change-authored",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent

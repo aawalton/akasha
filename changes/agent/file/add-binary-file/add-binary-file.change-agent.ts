@@ -37,4 +37,5 @@ export const addBinaryFile = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent

@@ -41,4 +41,5 @@ export const changePagePageType = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent
