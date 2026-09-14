@@ -64,7 +64,7 @@ export const temperLibHistoire = {
     "module/histoire-types",
     "type-declaration/lib-histoire-controls",
   ],
-  interfaces: ["histoire-guild-history-cache-controls"],
+  interfaces: ["eso-interface/histoire-guild-history-cache-controls"],
   invariants: [
     {
       invariantKind: "departure",

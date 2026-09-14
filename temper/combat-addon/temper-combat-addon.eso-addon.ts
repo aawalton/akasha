@@ -174,7 +174,11 @@ export const temperCombatAddon = {
     "type-declaration/combat-ui-main-panel-declarations",
     "type-declaration/combat-ui-state-declarations",
   ],
-  interfaces: ["combat-templates-layout", "combat-report-layout", "combat-live-report-layout"],
+  interfaces: [
+    "eso-interface/combat-templates-layout",
+    "eso-interface/combat-report-layout",
+    "eso-interface/combat-live-report-layout",
+  ],
   invariants: [
     {
       invariantKind: "departure",

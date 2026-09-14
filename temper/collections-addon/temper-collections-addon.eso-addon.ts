@@ -21,7 +21,11 @@ export const temperCollectionsAddon = {
     "module/collections-addon-names",
     "type-declaration/collections-addon-declarations",
   ],
-  interfaces: ["lorebooks-report-layout", "lost-treasure-map-layout", "item-browser-layout"],
+  interfaces: [
+    "eso-interface/lorebooks-report-layout",
+    "eso-interface/lost-treasure-map-layout",
+    "eso-interface/item-browser-layout",
+  ],
   invariants: [
     {
       invariantKind: "departure",

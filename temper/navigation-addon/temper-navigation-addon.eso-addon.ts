@@ -333,7 +333,7 @@ export const temperNavigationAddon = {
     "type-declaration/minimap-string-ids",
     "type-declaration/navigation-declarations",
   ],
-  interfaces: ["minimap-animations"],
+  interfaces: ["eso-interface/minimap-animations"],
   invariants: [
     {
       invariantKind: "departure",

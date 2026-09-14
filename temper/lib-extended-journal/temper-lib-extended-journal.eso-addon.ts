@@ -29,7 +29,7 @@ export const temperLibExtendedJournal = {
     "type-declaration/journal-saved-variables",
     "type-declaration/journal-string-ids",
   ],
-  interfaces: ["journal-controls"],
+  interfaces: ["eso-interface/journal-controls"],
   invariants: [
     {
       invariantKind: "departure",

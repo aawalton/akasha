@@ -56,7 +56,7 @@ export const temperAntiquitiesAddon = {
     "type-declaration/leads-undaunted-declarations",
     "type-declaration/leads-window-declarations",
   ],
-  interfaces: ["leads-layout"],
+  interfaces: ["eso-interface/leads-layout"],
   invariants: [
     {
       invariantKind: "departure",

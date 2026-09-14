@@ -32,7 +32,7 @@ export const temperLibShifterBox = {
     "module/shifter-types",
     "module/shifter-validation",
   ],
-  interfaces: ["shifter-box-template"],
+  interfaces: ["eso-interface/shifter-box-template"],
   invariants: [
     {
       invariantKind: "departure",

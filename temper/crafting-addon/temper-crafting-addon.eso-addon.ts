@@ -198,14 +198,14 @@ export const temperCraftingAddon = {
     "type-declaration/writ-writworthy-global",
   ],
   interfaces: [
-    "craft-store-blueprint-layout",
-    "craft-store-cook-layout",
-    "craft-store-fonts",
-    "craft-store-layout",
-    "craft-store-recipe-layout",
-    "craft-store-rune-layout",
-    "craft-store-style-layout",
-    "potion-maker-layout",
+    "eso-interface/craft-store-blueprint-layout",
+    "eso-interface/craft-store-cook-layout",
+    "eso-interface/craft-store-fonts",
+    "eso-interface/craft-store-layout",
+    "eso-interface/craft-store-recipe-layout",
+    "eso-interface/craft-store-rune-layout",
+    "eso-interface/craft-store-style-layout",
+    "eso-interface/potion-maker-layout",
   ],
   invariants: [
     {

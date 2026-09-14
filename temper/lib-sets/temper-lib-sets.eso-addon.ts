@@ -249,9 +249,9 @@ export const temperLibSets = {
     "type-declaration/lib-sets-table-keys",
   ],
   interfaces: [
-    "lib-sets-copy-text-dialog",
-    "lib-sets-search-ui-shared-xml",
-    "lib-sets-search-ui-keyboard-xml",
+    "eso-interface/lib-sets-copy-text-dialog",
+    "eso-interface/lib-sets-search-ui-shared-xml",
+    "eso-interface/lib-sets-search-ui-keyboard-xml",
   ],
   invariants: [
     {
