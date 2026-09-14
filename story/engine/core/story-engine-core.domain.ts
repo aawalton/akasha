@@ -12,7 +12,6 @@ export const storyEngineCore = {
     "module/chapter-words",
     "module/choice-action",
     "module/entity-schema",
-    "module/fog-report-schema",
     "module/game-engine",
     "module/game-schema",
     "module/game-url",
