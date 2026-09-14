@@ -27,39 +27,36 @@ type Reaching = {
   readonly here: string
   readonly packageAt: string
   readonly sharedAt: string
-  readonly config: string
-  readonly capacitor: string
-  readonly staging: string
-  readonly entry: string
-  readonly seam: string
 }
+
+type Reached = readonly [string, string, string, string, string]
 
 function shellOf(given: string | Reading, slug: string): string {
   return fileOf(given, valuedAt(given, SCRIPT, slug), SCRIPT, SHELL)
 }
 
 function reachingIn(given: string | Reading): Reaching {
-  const app = valuedAt(given, APP, WHOSE)
-  const config = shellOf(given, CONFIG)
   return {
     here: dirname(valuedAt(given, SCRIPT, OWN).path),
-    packageAt: dirname(app.path),
-    sharedAt: dirname(dirname(config)),
-    config,
-    capacitor: fileOf(given, app, APP, CAPACITOR),
-    staging: shellOf(given, STAGING),
-    entry: fileOf(given, app, APP, ENTRY),
-    seam: shellOf(given, SEAM),
+    packageAt: dirname(valuedAt(given, APP, WHOSE).path),
+    sharedAt: dirname(dirname(shellOf(given, CONFIG))),
   }
 }
 
-export function scriptFilesIn(given: string | Reading): readonly string[] {
-  const reached = reachingIn(given)
-  return [reached.config, reached.capacitor, reached.staging, reached.entry, reached.seam]
+export function scriptFilesIn(given: string | Reading): Reached {
+  const app = valuedAt(given, APP, WHOSE)
+  return [
+    shellOf(given, CONFIG),
+    fileOf(given, app, APP, CAPACITOR),
+    shellOf(given, STAGING),
+    fileOf(given, app, APP, ENTRY),
+    shellOf(given, SEAM),
+  ]
 }
 
 export function bodyIn(given: string | Reading): string {
   const reached = reachingIn(given)
+  const [config, capacitor, staging, entry, seam] = scriptFilesIn(given)
   const lines = [
     "#!/usr/bin/env bash",
     "set -euo pipefail",
@@ -91,12 +88,12 @@ export function bodyIn(given: string | Reading): string {
     "  exit 1",
     "}",
     "",
-    `bash "$SHARED/${relative(reached.sharedAt, reached.config)}" \\`,
-    `  "$PACKAGE/${relative(reached.packageAt, reached.capacitor)}"`,
+    `bash "$SHARED/${relative(reached.sharedAt, config)}" \\`,
+    `  "$PACKAGE/${relative(reached.packageAt, capacitor)}"`,
     "# BEFORE the Capacitor call, which copies whatever sits in webDir into the native",
     "# project. Staged after, this run would ship the page the run before it left there.",
-    `bash "$SHARED/${relative(reached.sharedAt, reached.staging)}" \\`,
-    `  "$PACKAGE/${relative(reached.packageAt, reached.entry)}"`,
+    `bash "$SHARED/${relative(reached.sharedAt, staging)}" \\`,
+    `  "$PACKAGE/${relative(reached.packageAt, entry)}"`,
     "",
     "# Capacitor reads its config out of the folder it runs in and refuses a folder",
     "# holding no manifest, so it runs at the root above. The config written there names",
@@ -104,7 +101,7 @@ export function bodyIn(given: string | Reading): string {
     'cd "$TREE_ROOT"',
     '"$CAP" "$MODE" ios',
     'cd "$PACKAGE"',
-    `bash "$HERE/${relative(reached.here, reached.seam)}"`,
+    `bash "$HERE/${relative(reached.here, seam)}"`,
   ]
   return `${lines.join("\n")}\n`
 }
