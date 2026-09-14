@@ -5,7 +5,6 @@ export const modelFamily = {
   type: "page-type",
   slug: "model-family",
   definition: "a family of models",
-  pluralSlug: "model-families",
   parts: [
     "model-family/fable",
     "model-family/haiku",
