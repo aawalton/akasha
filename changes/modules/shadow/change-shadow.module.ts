@@ -350,6 +350,16 @@ export const changeShadow = {
 
     {
       invariantKind: "departure",
+      statement: "A world says whether a path names a file or a folder in the checkout.",
+    },
+
+    {
+      invariantKind: "departure",
+      statement: "That path is read from the tree with the answers gathered laid over.",
+    },
+
+    {
+      invariantKind: "departure",
       statement: "Carrying a world onto an answer is one act.",
     },
     {

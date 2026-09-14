@@ -111,5 +111,31 @@ export const changeShadowTree = {
       invariantKind: "departure",
       statement: "A file git tracks that the tree no longer holds is left out of those files.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller asking whether a path names a file or a folder is answered from the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the tree holds names something whether or not the index has that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path the answer writes names something though the tree holds that path nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the answer takes away names nothing though the tree holds that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder above a path the answer writes names something too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path spelled outside the checkout names nothing.",
+    },
   ],
 } as const satisfies Module

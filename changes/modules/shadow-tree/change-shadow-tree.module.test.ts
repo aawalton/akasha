@@ -6,8 +6,11 @@ import {
   addedTo,
   type Ledger,
   ledgerAt,
+  worldAt,
+  worldOver,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  namesOver,
   treeTracked,
   treeUnder,
   treeUnentered,
@@ -205,4 +208,73 @@ test("the files tracked under a folder are read with every edit added to the led
 
   expect(found).toContain(FRESH_ONE)
   expect(found).not.toContain(HELD_CODE)
+})
+
+const NOTES = `${FROM}/notes.txt`
+
+const NAMING: Readonly<Record<string, string>> = { ...HELD, [NOTES]: "one\n" }
+
+const WRITING = stating([{ kind: "add", path: ROUTES_CODE, content: ROUTES_BODY }])
+
+test("a path the tree holds names something whether or not the index has that path", () => {
+  const names = namesOver(indexedRepo(NAMING), NOTHING)
+
+  expect(names(NOTES)).toBe(true)
+  expect(names(ALPHA_CODE)).toBe(true)
+  expect(names(FROM)).toBe(true)
+  expect(names(`${FROM}/nowhere.txt`)).toBe(false)
+})
+
+test("a path the answer writes names something though the tree holds that path nowhere", () => {
+  const names = namesOver(indexedRepo(NAMING), WRITING)
+
+  expect(names(ROUTES_CODE)).toBe(true)
+})
+
+test("a folder above a path the answer writes names something too", () => {
+  const names = namesOver(indexedRepo(NAMING), WRITING)
+
+  expect(names(CLAIMED)).toBe(true)
+})
+
+test("a path the answer takes away names nothing though the tree holds that path", () => {
+  const names = namesOver(indexedRepo(NAMING), stating([{ kind: "remove", path: ALPHA_CODE }]))
+
+  expect(names(ALPHA_CODE)).toBe(false)
+  expect(names(ALPHA_PAGE)).toBe(true)
+})
+
+test("a path spelled outside the checkout names nothing", () => {
+  const names = namesOver(indexedRepo(NAMING), NOTHING)
+
+  expect(names("../akasha")).toBe(false)
+  expect(names(`/${ALPHA_CODE}`)).toBe(false)
+  expect(names("")).toBe(false)
+})
+
+test("a path is named with every edit added to the ledger laid over", () => {
+  const ledger = ledgerBoth()
+
+  expect(ledger.names?.(FRESH_ONE)).toBe(true)
+  expect(ledger.names?.(HELD_CODE)).toBe(false)
+})
+
+test("a world says whether a path names a file or a folder in the checkout", () => {
+  const root = indexedRepo()
+  const world = worldAt(root, textIn(root))
+
+  expect(world.names?.(HELD_CODE)).toBe(true)
+  expect(world.names?.(ONE_AT)).toBe(true)
+  expect(world.names?.(FRESH_ONE)).toBe(false)
+})
+
+test("a world over an answer names a path with that answer laid over", () => {
+  const root = indexedRepo()
+  const world = worldOver(
+    worldAt(root, textIn(root)),
+    stating([{ kind: "move", pathFrom: HELD_CODE, pathTo: FRESH_ONE }])
+  )
+
+  expect(world.names?.(FRESH_ONE)).toBe(true)
+  expect(world.names?.(HELD_CODE)).toBe(false)
 })

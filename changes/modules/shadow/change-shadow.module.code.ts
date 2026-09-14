@@ -15,6 +15,8 @@ import type {
   Replayed,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
+  type Naming,
+  namesOver,
   treeTracked,
   treeUnder,
   treeUnentered,
@@ -65,6 +67,7 @@ export type World = {
   readonly under: (folder: string) => readonly string[]
   readonly unentered?: (folder: string) => readonly string[]
   readonly tracked?: (folder: string) => readonly string[] | null
+  readonly names?: Naming
   readonly base: BodyOf
   readonly over: Answer
   readonly reaching?: Reaching
@@ -229,6 +232,7 @@ export function worldAt(
     under: (folder) => treeUnder(root, folder, index, NOTHING_OVER),
     unentered: (folder) => treeUnentered(root, folder, index, NOTHING_OVER),
     tracked: (folder) => treeTracked(root, folder, NOTHING_OVER),
+    names: namesOver(root, NOTHING_OVER),
     base: bodyOf,
     over: NOTHING_OVER,
     reaching,
@@ -251,6 +255,7 @@ export function worldOver(world: World, said: Answer): World {
     under: (folder) => treeUnder(world.root, folder, index, over),
     unentered: (folder) => treeUnentered(world.root, folder, index, over),
     tracked: (folder) => treeTracked(world.root, folder, over),
+    names: namesOver(world.root, over),
     base: world.base,
     over,
     reaching: world.reaching,
@@ -275,6 +280,7 @@ export type Kept = {
   reading: Reading | null
   over: Answer
   index: Answering | null
+  naming: Naming | null
   shadow: Shadow | null
   peeked: Peeked | null
 }
@@ -299,6 +305,7 @@ export function worldBefore(world: World): World {
     under: world.under,
     unentered: world.unentered,
     tracked: world.tracked,
+    names: world.names,
     base: kept.base,
     over: kept.over,
     reaching: world.reaching,
@@ -352,12 +359,17 @@ export function ledgerAt(
     reading: null,
     over: NOTHING_OVER,
     index: null,
+    naming: null,
     shadow: null,
     peeked: null,
   }
   const asked = (): Answering => {
     if (kept.index === null) kept.index = settledIn(kept)
     return kept.index
+  }
+  const naming = (): Naming => {
+    if (kept.naming === null) kept.naming = namesOver(root, kept.over)
+    return kept.naming
   }
   return {
     kept,
@@ -382,6 +394,7 @@ export function ledgerAt(
     under: (folder) => treeUnder(root, folder, asked(), kept.over),
     unentered: (folder) => treeUnentered(root, folder, asked(), kept.over),
     tracked: (folder) => treeTracked(root, folder, kept.over),
+    names: (path) => naming()(path),
   }
 }
 
@@ -413,6 +426,7 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
   for (const one of fresh) kept.held.add(one)
   kept.over = over
   kept.fresh = settling
+  kept.naming = null
   kept.shadow = null
   kept.index = landing === null ? null : landedIn(kept, settling, landing).index
   return ledger

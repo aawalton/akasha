@@ -200,3 +200,22 @@ export function holdingOver(root: string, edits: readonly FileChange[]): Holding
   }
   return asked
 }
+
+export type Naming = (path: string) => boolean
+
+export function namesOver(root: string, over: Answer): Naming {
+  const laid = laidOver(over.edits)
+  const above = aboveIn(laid)
+  const asked = new Map<string, boolean>()
+  return (path) => {
+    if (offRepo(path)) return false
+    const written = laid.get(path)
+    if (written !== undefined) return written
+    if (above.has(path)) return true
+    const done = asked.get(path)
+    if (done !== undefined) return done
+    const there = existsSync(join(root, path))
+    asked.set(path, there)
+    return there
+  }
+}
