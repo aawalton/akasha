@@ -8,8 +8,6 @@ export const smsCore = {
   parts: [
     "module/acting-account",
     "module/handle-inbound",
-    "module/jenny-handler-routing",
-    "module/ki-handler-routing",
     "module/normalize",
     "module/sms-identity",
     "module/telnyx-inbound",
