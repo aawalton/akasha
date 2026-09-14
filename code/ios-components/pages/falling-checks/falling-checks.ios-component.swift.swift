@@ -180,16 +180,39 @@ enum FallingChecks {
             ),
             (
                 "a cost drawn yellow follows the surplus down to red and then to black",
-                CostCountdown.shown(.yellow, .blue) == .yellow
-                    && CostCountdown.shown(.yellow, .green) == .red
-                    && CostCountdown.shown(.yellow, .yellow) == .black,
+                CostCountdown.shown(.yellow, 5) == .yellow
+                    && CostCountdown.shown(.yellow, -3.9) == .yellow
+                    && CostCountdown.shown(.yellow, -5) == .red
+                    && CostCountdown.shown(.yellow, -9) == .black,
                 "the band where the surplus decides"
             ),
             (
-                "a cost drawn green or black is left as the server drew it",
-                CostCountdown.shown(.green, .black) == .green
-                    && CostCountdown.shown(.black, .blue) == .black,
-                "a cost of nothing, and a cost above one"
+                "a cost drawn red holds red until the surplus is eight hours into the night",
+                CostCountdown.shown(.red, 5) == .red && CostCountdown.shown(.red, -7.9) == .red
+                    && CostCountdown.shown(.red, -9) == .black,
+                "red the whole way down to minus eight"
+            ),
+            (
+                "a band is left at the very hour that band opens at",
+                CostCountdown.shown(.yellow, -4) == .red
+                    && CostCountdown.shown(.yellow, -8) == .black
+                    && CostCountdown.shown(.red, -8) == .black,
+                "strictly over the hours the band names"
+            ),
+            (
+                "a cost drawn any color but yellow or red is left as the server drew it",
+                CostCountdown.shown(.green, -20) == .green
+                    && CostCountdown.shown(.blue, -20) == .blue
+                    && CostCountdown.shown(.black, 20) == .black,
+                "a cost of nothing, and a cost no band fits"
+            ),
+            (
+                "a surplus that is not falling answers no figure to color a cost again by",
+                carried("4.5", 0, SURPLUS).hours(asOf: anHourOn) == nil, "a rate of none"
+            ),
+            (
+                "a falling surplus answers the figure as of the moment drawn",
+                carried("4.5", 1, SURPLUS).hours(asOf: anHourOn) == 3.5, "an hour off the figure"
             ),
         ]
     }

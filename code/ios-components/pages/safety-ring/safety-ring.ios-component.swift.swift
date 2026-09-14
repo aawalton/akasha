@@ -33,10 +33,10 @@ struct ColoredWith: Decodable, Hashable {
 }
 
 extension ColoredWith {
-    func tier(asOf now: Date) -> Tier {
-        FallingReading.tiered(
-            reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, rungs: rungs, now: now
-        )?.tier ?? tier
+    // A READING THAT IS NOT FALLING ANSWERS NOTHING, THE FIGURE AS SENT BEING RIGHT ALREADY.
+    func hours(asOf now: Date) -> Double? {
+        FallingReading.falling(
+            reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, now: now)
     }
 
     // THE WAIT IS AIMED FROM THE FIGURE AS OF NOW, SO A RUNG ALREADY CROSSED IS NOT AIMED AT.

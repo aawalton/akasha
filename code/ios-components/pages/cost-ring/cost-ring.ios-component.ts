@@ -55,6 +55,31 @@ export const costRing = {
     {
       invariantKind: "departure",
       statement:
+        "The surplus the color is read again from is the figure in hours rather than a tier.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost drawn yellow is yellow while the surplus is over minus four hours.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost drawn yellow is red while the surplus is over minus eight hours.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost drawn red is red while the surplus is over minus eight hours.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost drawn yellow or red is black once the surplus is minus eight hours.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost sent red is priced in one of two bands that fall together.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "Which band a cost is priced in is read back off the color the server drew rather than the figure.",
     },
     {
@@ -67,7 +92,11 @@ export const costRing = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost drawn green or black is left as the server drew that cost.",
+      statement: "A cost drawn any color but yellow or red is left as the server drew that cost.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost carrying a surplus that is not falling is left as the server drew it.",
     },
     {
       invariantKind: "departure",

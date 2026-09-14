@@ -20,28 +20,37 @@ enum CostCountdown {
 
     // A COST DRAWN YELLOW OR RED IS PRICED WHERE THE SURPLUS DECIDES THE COLOR.
     //
-    // The server reads a cost's color from the cost and the surplus together: a cost of
-    // nothing is green whatever the surplus is, a cost above one is black whatever it is,
-    // and a cost between reads yellow under a blue surplus, red under a green one and black
-    // under anything worse. So a cost the server drew yellow or red is a cost between, and
-    // its color from here on is the surplus alone. A cost drawn green or black stays as it
-    // is: green means the cost is nothing, and black means either the cost is above one or
-    // the surplus is already worse than green, which a falling surplus never climbs out of.
+    // The server colors a cost by five bands of the surplus in hours and the cost multiplier,
+    // taking the first band both of them fit: over four hours at no cost is blue, over nothing
+    // at no cost is green, over minus four at a cost of one or less is yellow, over minus
+    // eight at a cost of two or less is red, and anything else is black. A cost of nothing
+    // carries no surplus at all, so a cost this re-colors is always above nothing and reaches
+    // neither of the first two bands.
+    //
+    // That leaves yellow and red to follow down. A cost sent yellow is priced at one or less,
+    // so it is yellow while the surplus is over minus four, red while it is over minus eight,
+    // and black under that. A cost sent red is either priced at one or less with the surplus
+    // already under minus four, or priced between one and two: both are red while the surplus
+    // is over minus eight and black under it, so the two need not be told apart. The surplus
+    // only falls, so black is never climbed back out of.
     //
     // Reading the band back off the color rather than off the figure keeps this exact. The
     // figure is floored to a decimal place before it is sent, so a cost of 1.04 reaches the
     // phone as "1" and would be read as the wrong band.
-    static func shown(_ sent: Tier, _ surplus: Tier) -> Tier {
+    static let YELLOW_OVER = -4.0
+
+    static let RED_OVER = -8.0
+
+    static func shown(_ sent: Tier, _ surplusHours: Double) -> Tier {
         guard sent == .yellow || sent == .red else { return sent }
-        if surplus == .blue { return .yellow }
-        if surplus == .green { return .red }
-        return .black
+        if sent == .yellow, surplusHours > YELLOW_OVER { return .yellow }
+        return surplusHours > RED_OVER ? .red : .black
     }
 
     static func tier(_ cost: HabitStoplight?, _ now: Date) -> Tier? {
         guard let cost else { return nil }
-        guard let coloredWith = cost.coloredWith else { return cost.tier }
-        return shown(cost.tier, coloredWith.tier(asOf: now))
+        guard let hours = cost.coloredWith?.hours(asOf: now) else { return cost.tier }
+        return shown(cost.tier, hours)
     }
 
     // THE MOMENT THIS TILE STOPS BEING RIGHT, WHICH IS THE MOMENT THE FEED ASKS TO BE SHOWN.
