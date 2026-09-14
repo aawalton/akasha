@@ -6,7 +6,7 @@ export const darkMatterAscension = {
   slug: "dark-matter-ascension",
   title: "Dark Matter Ascension",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

@@ -6,7 +6,7 @@ export const theElderEmpireSea = {
   slug: "the-elder-empire-sea",
   title: "The Elder Empire - Sea",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

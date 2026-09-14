@@ -6,7 +6,7 @@ export const chrysalis = {
   slug: "chrysalis",
   title: "Chrysalis",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

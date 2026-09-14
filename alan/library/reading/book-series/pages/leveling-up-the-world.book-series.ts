@@ -6,7 +6,7 @@ export const levelingUpTheWorld = {
   slug: "leveling-up-the-world",
   title: "Leveling Up The World",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

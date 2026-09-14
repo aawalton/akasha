@@ -6,7 +6,7 @@ export const warGod = {
   slug: "war-god",
   title: "War God",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

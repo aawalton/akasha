@@ -6,7 +6,7 @@ export const theStormlightArchive = {
   slug: "the-stormlight-archive",
   title: "The Stormlight Archive",
   status: "paused",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   externalIdentity: [
     {

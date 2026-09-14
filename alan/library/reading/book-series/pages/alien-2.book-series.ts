@@ -6,7 +6,7 @@ export const alien2 = {
   slug: "alien-2",
   title: "Alien",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

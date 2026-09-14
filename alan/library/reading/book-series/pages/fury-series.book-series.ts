@@ -6,7 +6,7 @@ export const furySeries = {
   slug: "fury-series",
   title: "Fury Series",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

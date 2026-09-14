@@ -6,7 +6,7 @@ export const dungeonCrawlerCarl = {
   slug: "dungeon-crawler-carl",
   title: "Dungeon Crawler Carl",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

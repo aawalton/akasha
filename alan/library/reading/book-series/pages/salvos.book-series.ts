@@ -6,7 +6,7 @@ export const salvos = {
   slug: "salvos",
   title: "Salvos",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

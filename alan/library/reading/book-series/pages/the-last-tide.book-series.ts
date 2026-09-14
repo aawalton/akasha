@@ -6,7 +6,7 @@ export const theLastTide = {
   slug: "the-last-tide",
   title: "The Last Tide",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   externalIdentity: [
     {

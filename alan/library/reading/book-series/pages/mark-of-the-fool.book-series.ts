@@ -6,7 +6,7 @@ export const markOfTheFool = {
   slug: "mark-of-the-fool",
   title: "Mark of the Fool",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

@@ -6,7 +6,7 @@ export const theLastHorizon = {
   slug: "the-last-horizon",
   title: "The Last Horizon",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

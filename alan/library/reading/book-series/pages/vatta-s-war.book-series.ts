@@ -6,7 +6,7 @@ export const vattaSWar = {
   slug: "vatta-s-war",
   title: "Vatta's War",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

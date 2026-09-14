@@ -6,7 +6,7 @@ export const theRobot = {
   slug: "the-robot",
   title: "The Robot",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

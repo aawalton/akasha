@@ -6,7 +6,7 @@ export const infiniteRealm = {
   slug: "infinite-realm",
   title: "Infinite Realm",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

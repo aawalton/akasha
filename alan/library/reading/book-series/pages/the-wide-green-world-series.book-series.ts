@@ -6,7 +6,7 @@ export const theWideGreenWorldSeries = {
   slug: "the-wide-green-world-series",
   title: "The Wide Green World Series",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

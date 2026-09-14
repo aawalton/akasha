@@ -6,7 +6,7 @@ export const cradle = {
   slug: "cradle",
   title: "Cradle",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

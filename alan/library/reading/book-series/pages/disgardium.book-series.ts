@@ -6,7 +6,7 @@ export const disgardium = {
   slug: "disgardium",
   title: "Disgardium",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

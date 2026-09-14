@@ -6,7 +6,7 @@ export const expeditionaryForce = {
   slug: "expeditionary-force",
   title: "Expeditionary Force",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

@@ -6,7 +6,7 @@ export const chalion = {
   slug: "chalion",
   title: "Chalion",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

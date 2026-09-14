@@ -6,7 +6,7 @@ export const theLegendOfRandidlyGhosthound = {
   slug: "the-legend-of-randidly-ghosthound",
   title: "The Legend of Randidly Ghosthound",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

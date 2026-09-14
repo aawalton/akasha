@@ -6,7 +6,7 @@ export const theGam3 = {
   slug: "the-gam3",
   title: "The Gam3",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

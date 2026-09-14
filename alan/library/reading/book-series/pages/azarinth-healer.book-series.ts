@@ -6,7 +6,7 @@ export const azarinthHealer = {
   slug: "azarinth-healer",
   title: "Azarinth Healer",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

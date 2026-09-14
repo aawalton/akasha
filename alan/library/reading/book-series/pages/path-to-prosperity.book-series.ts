@@ -6,7 +6,7 @@ export const pathToProsperity = {
   slug: "path-to-prosperity",
   title: "Path to Prosperity",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

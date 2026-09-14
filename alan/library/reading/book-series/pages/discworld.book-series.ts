@@ -6,7 +6,7 @@ export const discworld = {
   slug: "discworld",
   title: "Discworld",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

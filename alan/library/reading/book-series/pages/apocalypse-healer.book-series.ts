@@ -6,7 +6,7 @@ export const apocalypseHealer = {
   slug: "apocalypse-healer",
   title: "Apocalypse Healer",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

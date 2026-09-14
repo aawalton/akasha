@@ -6,7 +6,7 @@ export const alexaThyme = {
   slug: "alexa-thyme",
   title: "Alexa Thyme",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

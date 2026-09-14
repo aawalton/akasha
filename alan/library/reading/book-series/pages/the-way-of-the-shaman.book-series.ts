@@ -6,7 +6,7 @@ export const theWayOfTheShaman = {
   slug: "the-way-of-the-shaman",
   title: "The Way of the Shaman",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

@@ -6,7 +6,7 @@ export const arcaneAscension = {
   slug: "arcane-ascension",
   title: "Arcane Ascension",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

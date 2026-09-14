@@ -7,7 +7,7 @@ export const harryPotter2 = {
   title: "Harry Potter",
   status: "completed",
   rank: "B",
-  unit: "words",
+  unit: "unit/words",
   position: 1,
   maturityRating: "PG-13",
   externalIdentity: [

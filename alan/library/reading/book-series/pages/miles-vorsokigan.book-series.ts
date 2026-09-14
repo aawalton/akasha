@@ -6,7 +6,7 @@ export const milesVorsokigan = {
   slug: "miles-vorsokigan",
   title: "Miles Vorsokigan",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

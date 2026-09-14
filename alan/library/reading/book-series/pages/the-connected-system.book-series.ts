@@ -6,7 +6,7 @@ export const theConnectedSystem = {
   slug: "the-connected-system",
   title: "The Connected System",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

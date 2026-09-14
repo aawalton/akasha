@@ -6,7 +6,7 @@ export const allTheSkills = {
   slug: "all-the-skills",
   title: "All The Skills",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

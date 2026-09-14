@@ -7,7 +7,7 @@ export const unknownSeries14 = {
   title: "Unknown Series",
   status: "following",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

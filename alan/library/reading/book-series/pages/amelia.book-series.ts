@@ -6,7 +6,7 @@ export const amelia = {
   slug: "amelia",
   title: "Amelia",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

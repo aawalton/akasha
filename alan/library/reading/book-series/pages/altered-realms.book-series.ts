@@ -6,7 +6,7 @@ export const alteredRealms = {
   slug: "altered-realms",
   title: "Altered Realms",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

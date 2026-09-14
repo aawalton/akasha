@@ -6,7 +6,7 @@ export const legion = {
   slug: "legion",
   title: "Legion",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   externalIdentity: [
     {

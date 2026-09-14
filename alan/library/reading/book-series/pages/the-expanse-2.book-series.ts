@@ -6,7 +6,7 @@ export const theExpanse2 = {
   slug: "the-expanse-2",
   title: "The Expanse",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoons = {
   slug: "beneath-the-dragoneye-moons",
   title: "Beneath the Dragoneye Moons",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

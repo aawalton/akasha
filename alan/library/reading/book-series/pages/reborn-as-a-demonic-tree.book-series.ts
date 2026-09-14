@@ -6,7 +6,7 @@ export const rebornAsADemonicTree = {
   slug: "reborn-as-a-demonic-tree",
   title: "Reborn as a Demonic Tree",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

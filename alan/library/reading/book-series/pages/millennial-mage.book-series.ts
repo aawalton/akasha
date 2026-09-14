@@ -6,7 +6,7 @@ export const millennialMage = {
   slug: "millennial-mage",
   title: "Millennial Mage",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

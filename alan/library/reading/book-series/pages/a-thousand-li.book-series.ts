@@ -6,7 +6,7 @@ export const aThousandLi = {
   slug: "a-thousand-li",
   title: "A Thousand Li",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

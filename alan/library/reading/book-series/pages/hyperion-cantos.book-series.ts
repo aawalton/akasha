@@ -6,7 +6,7 @@ export const hyperionCantos = {
   slug: "hyperion-cantos",
   title: "Hyperion Cantos",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

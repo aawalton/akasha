@@ -6,7 +6,7 @@ export const stonehavenLeague = {
   slug: "stonehaven-league",
   title: "Stonehaven League",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

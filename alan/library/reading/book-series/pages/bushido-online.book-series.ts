@@ -6,7 +6,7 @@ export const bushidoOnline = {
   slug: "bushido-online",
   title: "Bushido Online",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

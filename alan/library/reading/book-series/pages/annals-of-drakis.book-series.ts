@@ -6,7 +6,7 @@ export const annalsOfDrakis = {
   slug: "annals-of-drakis",
   title: "Annals of Drakis",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

@@ -6,7 +6,7 @@ export const theSystemApocalypse = {
   slug: "the-system-apocalypse",
   title: "The System Apocalypse",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

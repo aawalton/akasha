@@ -6,7 +6,7 @@ export const swordArtOnline2 = {
   slug: "sword-art-online-2",
   title: "Sword Art Online",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

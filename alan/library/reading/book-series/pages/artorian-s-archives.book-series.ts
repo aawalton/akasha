@@ -6,7 +6,7 @@ export const artorianSArchives = {
   slug: "artorian-s-archives",
   title: "Artorian's Archives",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

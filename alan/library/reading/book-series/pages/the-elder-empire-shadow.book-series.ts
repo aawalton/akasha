@@ -6,7 +6,7 @@ export const theElderEmpireShadow = {
   slug: "the-elder-empire-shadow",
   title: "The Elder Empire - Shadow",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

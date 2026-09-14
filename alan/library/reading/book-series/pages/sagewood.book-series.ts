@@ -6,7 +6,7 @@ export const sagewood = {
   slug: "sagewood",
   title: "Sagewood",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

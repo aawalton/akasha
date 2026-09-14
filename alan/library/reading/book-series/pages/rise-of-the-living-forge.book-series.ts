@@ -6,7 +6,7 @@ export const riseOfTheLivingForge = {
   slug: "rise-of-the-living-forge",
   title: "Rise of the Living Forge",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

@@ -6,7 +6,7 @@ export const rwbyTheOfficialManga = {
   slug: "rwby-the-official-manga",
   title: "RWBY: The Official Manga",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

@@ -7,7 +7,7 @@ export const awakenOnlineTarot = {
   title: "Awaken Online: Tarot",
   status: "completed",
   rank: "B",
-  unit: "words",
+  unit: "unit/words",
   maturityRating: "R",
   externalIdentity: [
     {

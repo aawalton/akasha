@@ -6,7 +6,7 @@ export const bunnyGirlEvolution = {
   slug: "bunny-girl-evolution",
   title: "Bunny Girl Evolution",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

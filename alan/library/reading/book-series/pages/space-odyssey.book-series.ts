@@ -6,7 +6,7 @@ export const spaceOdyssey = {
   slug: "space-odyssey",
   title: "Space Odyssey",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

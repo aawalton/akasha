@@ -6,7 +6,7 @@ export const pern = {
   slug: "pern",
   title: "Pern",
   status: "paused",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

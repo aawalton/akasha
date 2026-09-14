@@ -6,7 +6,7 @@ export const endsOfMagic = {
   slug: "ends-of-magic",
   title: "Ends of Magic",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

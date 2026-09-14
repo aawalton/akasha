@@ -6,7 +6,7 @@ export const brandonSandersonSWhiteSand = {
   slug: "brandon-sanderson-s-white-sand",
   title: "Brandon Sanderson's White Sand",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 5,
   externalIdentity: [
     {

@@ -7,7 +7,7 @@ export const swordArtOnlineProgressive = {
   title: "Sword Art Online Progressive",
   status: "completed",
   rank: "A",
-  unit: "words",
+  unit: "unit/words",
   maturityRating: "PG-13",
   externalIdentity: [
     {

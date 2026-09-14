@@ -6,7 +6,7 @@ export const theReckoners = {
   slug: "the-reckoners",
   title: "The Reckoners",
   status: "paused",
-  unit: "words",
+  unit: "unit/words",
   position: 2,
   externalIdentity: [
     {

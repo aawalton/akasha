@@ -6,7 +6,7 @@ export const speedrunningTheMultiverse = {
   slug: "speedrunning-the-multiverse",
   title: "Speedrunning the Multiverse",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

@@ -6,7 +6,7 @@ export const honorHarrington = {
   slug: "honor-harrington",
   title: "Honor Harrington",
   status: "paused",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

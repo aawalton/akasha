@@ -6,7 +6,7 @@ export const weaponsAndWielders = {
   slug: "weapons-and-wielders",
   title: "Weapons and Wielders",
   status: "following",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

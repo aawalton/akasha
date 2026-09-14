@@ -6,7 +6,7 @@ export const elantris = {
   slug: "elantris",
   title: "Elantris",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   position: 6,
   externalIdentity: [
     {

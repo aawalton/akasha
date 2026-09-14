@@ -6,7 +6,7 @@ export const culture = {
   slug: "culture",
   title: "Culture",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

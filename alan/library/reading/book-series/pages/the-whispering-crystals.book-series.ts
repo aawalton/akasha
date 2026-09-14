@@ -6,7 +6,7 @@ export const theWhisperingCrystals = {
   slug: "the-whispering-crystals",
   title: "The Whispering Crystals",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",

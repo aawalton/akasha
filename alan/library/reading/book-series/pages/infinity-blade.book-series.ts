@@ -6,7 +6,7 @@ export const infinityBlade = {
   slug: "infinity-blade",
   title: "Infinity Blade",
   status: "completed",
-  unit: "words",
+  unit: "unit/words",
   position: 8,
   externalIdentity: [
     {

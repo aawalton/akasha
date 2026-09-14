@@ -6,7 +6,7 @@ export const anOutcastInAnotherWorld = {
   slug: "an-outcast-in-another-world",
   title: "An Outcast In Another World",
   status: "not-started",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "kindle",
