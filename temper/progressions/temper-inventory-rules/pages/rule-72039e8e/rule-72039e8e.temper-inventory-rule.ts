@@ -9,7 +9,7 @@ export const rule72039e8e = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "scrolls",
   displayOrder: 32,
-  action: "fence-launder",
+  action: "temper-item-action/fence-launder",
   active: true,
   updatedAt: "2026-06-01T22:02:01.494Z",
 } as const satisfies TemperInventoryRule

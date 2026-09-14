@@ -12,7 +12,7 @@ export const ruleGlyphsDeconstruct = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "glyphs",
   displayOrder: 56,
-  action: "deconstruct",
+  action: "temper-item-action/deconstruct",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,

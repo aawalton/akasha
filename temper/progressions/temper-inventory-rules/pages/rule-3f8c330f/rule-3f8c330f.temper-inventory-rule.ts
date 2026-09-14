@@ -12,7 +12,7 @@ export const rule3f8c330f = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "container-stackable",
   displayOrder: 7,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T21:31:48.189Z",
 } as const satisfies TemperInventoryRule

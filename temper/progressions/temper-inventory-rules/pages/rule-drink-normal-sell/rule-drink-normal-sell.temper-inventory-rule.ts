@@ -12,7 +12,7 @@ export const ruleDrinkNormalSell = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "drink",
   displayOrder: 74,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-07-05T12:17:47.953Z",
   locked: true,

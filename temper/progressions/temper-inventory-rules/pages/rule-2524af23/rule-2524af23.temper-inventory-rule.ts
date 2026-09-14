@@ -8,7 +8,7 @@ export const rule2524af23 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "survey-reports",
   displayOrder: 49,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T20:31:51.801Z",
 } as const satisfies TemperInventoryRule

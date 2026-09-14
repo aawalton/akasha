@@ -12,7 +12,7 @@ export const ruleAcb23368 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "recipe-fragments",
   displayOrder: 27,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-05-07T22:10:37.410Z",
 } as const satisfies TemperInventoryRule

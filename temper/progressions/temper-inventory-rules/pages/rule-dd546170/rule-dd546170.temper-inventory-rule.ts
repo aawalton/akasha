@@ -12,7 +12,7 @@ export const ruleDd546170 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "style-pages",
   displayOrder: 28,
-  action: "destroy",
+  action: "temper-item-action/destroy",
   active: true,
   updatedAt: "2026-06-02T20:49:28.795Z",
 } as const satisfies TemperInventoryRule

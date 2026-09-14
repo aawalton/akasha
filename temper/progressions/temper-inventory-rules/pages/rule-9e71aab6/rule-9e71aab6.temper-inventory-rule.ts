@@ -8,7 +8,7 @@ export const rule9e71aab6 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "group-repair-kits",
   displayOrder: 3,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T19:27:29.755Z",
 } as const satisfies TemperInventoryRule

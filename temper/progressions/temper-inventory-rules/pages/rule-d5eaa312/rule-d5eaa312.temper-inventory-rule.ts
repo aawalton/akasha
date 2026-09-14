@@ -11,7 +11,7 @@ export const ruleD5eaa312 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "drink",
   displayOrder: 81,
-  action: "destroy",
+  action: "temper-item-action/destroy",
   active: true,
   updatedAt: "2026-07-05T13:32:43.468Z",
 } as const satisfies TemperInventoryRule

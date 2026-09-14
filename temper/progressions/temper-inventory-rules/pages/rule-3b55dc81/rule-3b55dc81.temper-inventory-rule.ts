@@ -10,7 +10,7 @@ export const rule3b55dc81 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "containers",
   displayOrder: 10,
-  action: "destroy",
+  action: "temper-item-action/destroy",
   active: true,
   updatedAt: "2026-06-02T20:49:28.407Z",
   locked: true,

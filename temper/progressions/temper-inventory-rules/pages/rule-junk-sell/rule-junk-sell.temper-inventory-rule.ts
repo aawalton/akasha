@@ -11,7 +11,7 @@ export const ruleJunkSell = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "junk",
   displayOrder: 66,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,

@@ -8,7 +8,7 @@ export const rule118d98dd = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "container-stackable",
   displayOrder: 8,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T20:27:33.382Z",
 } as const satisfies TemperInventoryRule

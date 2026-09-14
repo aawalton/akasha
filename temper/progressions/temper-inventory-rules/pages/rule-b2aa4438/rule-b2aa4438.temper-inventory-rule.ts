@@ -12,7 +12,7 @@ export const ruleB2aa4438 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "potions",
   displayOrder: 21,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-01T12:18:15.323Z",
 } as const satisfies TemperInventoryRule

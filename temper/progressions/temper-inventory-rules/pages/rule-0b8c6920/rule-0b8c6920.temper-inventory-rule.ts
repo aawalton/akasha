@@ -10,7 +10,7 @@ export const rule0b8c6920 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "food",
   displayOrder: 82,
-  action: "destroy",
+  action: "temper-item-action/destroy",
   active: true,
   updatedAt: "2026-07-05T13:32:43.766Z",
 } as const satisfies TemperInventoryRule

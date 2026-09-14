@@ -10,7 +10,7 @@ export const rule52020b3f = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "scrolls",
   displayOrder: 0,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-09-12T12:02:38.463Z",
 } as const satisfies TemperInventoryRule

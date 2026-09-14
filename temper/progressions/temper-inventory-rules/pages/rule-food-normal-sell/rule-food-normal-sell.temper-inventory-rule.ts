@@ -12,7 +12,7 @@ export const ruleFoodNormalSell = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "food",
   displayOrder: 73,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-07-05T12:23:57.288Z",
   locked: true,

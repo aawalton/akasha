@@ -9,7 +9,7 @@ export const rule440d6e66 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "scrolls",
   displayOrder: 33,
-  action: "stock",
+  action: "temper-item-action/stock",
   active: true,
   updatedAt: "2026-06-03T03:46:58.890Z",
   destinationChain: "jsonl",

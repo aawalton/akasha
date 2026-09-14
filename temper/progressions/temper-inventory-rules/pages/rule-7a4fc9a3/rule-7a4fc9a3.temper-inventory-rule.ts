@@ -8,7 +8,7 @@ export const rule7a4fc9a3 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "crown-repair-kits",
   displayOrder: 2,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T19:27:29.381Z",
 } as const satisfies TemperInventoryRule

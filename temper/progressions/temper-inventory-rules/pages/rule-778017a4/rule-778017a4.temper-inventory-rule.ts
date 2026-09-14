@@ -12,7 +12,7 @@ export const rule778017a4 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "furnishings",
   displayOrder: 37,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-06-02T20:49:29.524Z",
 } as const satisfies TemperInventoryRule

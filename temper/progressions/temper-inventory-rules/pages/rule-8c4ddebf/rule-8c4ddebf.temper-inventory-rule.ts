@@ -10,7 +10,7 @@ export const rule8c4ddebf = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "potions",
   displayOrder: 20,
-  action: "stock",
+  action: "temper-item-action/stock",
   active: true,
   updatedAt: "2026-06-03T05:11:34.742Z",
   destinationChain: "jsonl",

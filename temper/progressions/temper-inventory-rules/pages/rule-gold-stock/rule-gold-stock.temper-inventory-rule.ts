@@ -13,7 +13,7 @@ export const ruleGoldStock = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "currency-gold",
   displayOrder: 5,
-  action: "stock",
+  action: "temper-item-action/stock",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,

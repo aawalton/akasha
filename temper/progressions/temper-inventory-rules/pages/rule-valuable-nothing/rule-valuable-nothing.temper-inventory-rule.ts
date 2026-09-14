@@ -13,7 +13,7 @@ export const ruleValuableNothing = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "all",
   displayOrder: 41,
-  action: "list",
+  action: "temper-item-action/list",
   active: true,
   updatedAt: "2026-06-02T20:49:37.762Z",
   locked: true,

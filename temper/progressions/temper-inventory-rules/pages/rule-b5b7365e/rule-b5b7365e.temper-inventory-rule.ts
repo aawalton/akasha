@@ -12,7 +12,7 @@ export const ruleB5b7365e = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "food",
   displayOrder: 15,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-01T12:11:50.044Z",
 } as const satisfies TemperInventoryRule

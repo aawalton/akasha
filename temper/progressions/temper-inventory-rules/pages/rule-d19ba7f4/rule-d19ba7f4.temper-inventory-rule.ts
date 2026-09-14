@@ -11,7 +11,7 @@ export const ruleD19ba7f4 = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "all",
   displayOrder: 4,
-  action: "nothing",
+  action: "temper-item-action/nothing",
   active: true,
   updatedAt: "2026-06-01T12:35:49.494Z",
 } as const satisfies TemperInventoryRule
