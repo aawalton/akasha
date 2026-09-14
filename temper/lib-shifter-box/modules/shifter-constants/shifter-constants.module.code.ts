@@ -31,9 +31,6 @@ export const MOUSECURSOR_DONOTCATRE = MOUSE_CURSOR_DO_NOT_CARE
 export const MOUSECURSOR_NEXTLEFT = MOUSE_CURSOR_NEXT_LEFT
 export const MOUSECURSOR_NEXTRIGHT = MOUSE_CURSOR_NEXT_RIGHT
 
-export const SEARCH_TEXTURE =
-  " |t40:40:/esoui/art/tutorial/gamepad/gp_inventory_trait_not_researched_icon.dds|t"
-
 export const SPECIAL_TYPE_TEXTS: Record<string, boolean> = {
   "number+": true,
   "number-": true,
