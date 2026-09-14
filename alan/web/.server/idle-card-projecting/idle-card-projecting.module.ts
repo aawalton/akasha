@@ -9,7 +9,8 @@ export const idleCardProjecting = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "`idle-persona-card` is no page type the pages system holds.",
+      statement:
+        "`idle-persona-card` is held as a page type, but writing a roster into it is unbuilt.",
     },
     {
       invariantKind: "departure",

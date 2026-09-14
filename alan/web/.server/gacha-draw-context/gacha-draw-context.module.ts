@@ -9,7 +9,8 @@ export const gachaDrawContext = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "`persona-cover-image` is no page type the pages system holds.",
+      statement:
+        "`persona-cover-image` is held as a page type, but reading a draw's images is unbuilt.",
     },
     {
       invariantKind: "constraint",
