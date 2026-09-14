@@ -17,6 +17,10 @@ export const seatAkashaRead = {
     },
     {
       invariantKind: "departure",
+      statement: "A value naming a page is answered as the slug alone, and an assignment whole.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value that is empty or missing is left out rather than answered as null.",
     },
     {

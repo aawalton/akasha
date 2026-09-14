@@ -34,6 +34,10 @@ export const seatReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A value naming a page is answered as the slug alone, and an assignment whole.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The root is the folder the file itself sits in.",
     },
     {

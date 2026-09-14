@@ -9,7 +9,10 @@ import {
 } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import type { SeatRecord } from "akasha/agents/seats/page/modules/seat-record/seat-record.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 function heldAt(values: Record<string, unknown>, at: readonly string[]): unknown {
   const [one, two] = at
@@ -42,6 +45,8 @@ const STATED: Readonly<Record<string, string>> = {
   "claude-code-session-uuid": "claudeCodeSessionUuid",
 }
 
+const BARED: readonly string[] = ["persona-slug", "role-slug", "person-slug", "principal-seat-name"]
+
 const TITLE = "title"
 
 const SLUG = "slug"
@@ -54,7 +59,8 @@ export function underOldKeys(held: Record<string, unknown>): Record<string, unkn
   const values: Record<string, unknown> = {}
   for (const [key, from] of Object.entries(STATED)) {
     const said = from === WAS_PAGE_TYPE ? (held[PAGE_TYPE] ?? held[from]) : held[from]
-    if (said !== undefined && said !== null && said !== "") values[key] = said
+    if (said === undefined || said === null || said === "") continue
+    values[key] = typeof said === "string" && BARED.includes(key) ? slugOf(said) : said
   }
   const slug = values[SLUG]
   if (typeof slug === "string" && values[TITLE] === undefined) values[TITLE] = slug

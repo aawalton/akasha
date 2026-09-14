@@ -6,7 +6,10 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
@@ -32,6 +35,8 @@ const STATED: Readonly<Record<string, string>> = {
   "transcript-path": "transcriptPath",
   "claude-code-session-uuid": "claudeCodeSessionUuid",
 }
+
+const BARED: readonly string[] = ["persona-slug", "role-slug", "person-slug", "principal-seat-name"]
 
 function seatRoot(): string {
   return rootOf(import.meta.dir)
@@ -101,7 +106,8 @@ function seatStating(handle: string, root: string = seatRoot()): Record<string, 
   const values: Record<string, unknown> = {}
   for (const [key, from] of Object.entries(STATED)) {
     const one = (held as Record<string, unknown>)[from]
-    if (one !== undefined && one !== null && one !== "") values[key] = one
+    if (one === undefined || one === null || one === "") continue
+    values[key] = typeof one === "string" && BARED.includes(key) ? slugOf(one) : one
   }
   return values
 }
