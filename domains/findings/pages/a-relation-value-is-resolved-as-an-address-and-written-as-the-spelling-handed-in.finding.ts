@@ -4,7 +4,7 @@ export const aRelationValueIsResolvedAsAnAddressAndWrittenAsTheSpellingHandedIn 
   id: "01a08898-7a11-78e6-8d14-68fc7f61fc6e",
   type: "finding",
   slug: "a-relation-value-is-resolved-as-an-address-and-written-as-the-spelling-handed-in",
-  domain: "change-agent-file-content",
+  domain: "domain/change-agent-file-content",
   claim:
     "`add-property-value` and `add-property-values` resolve a relation value to a page before working out any body, and then write the spelling the caller handed in rather than the page they resolved it to. Two spellings reaching one page — the bare `my-projects` and the qualified `alan-book/my-projects` — are written as two different strings, and a reader comparing strings sees only one of them. `sections-of-the-book-above` reads `partOfCollections` raw and tests `.includes(book)` against the bare slug, so the qualified spelling passes the act's resolution, passes the act's duplicate guard, and leaves the shape refusing anyway. The duplicate guard compares exact text, so a page already carrying one spelling takes the other as a new value and ends up naming one page twice under one key, with nothing refused.",
   evidence:

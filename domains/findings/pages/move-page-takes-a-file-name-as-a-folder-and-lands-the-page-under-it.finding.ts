@@ -4,7 +4,7 @@ export const movePageTakesAFileNameAsAFolderAndLandsThePageUnderIt = {
   id: "01a08889-bcad-77c1-9c09-0340b5d02bec",
   type: "finding",
   slug: "move-page-takes-a-file-name-as-a-folder-and-lands-the-page-under-it",
-  domain: "change-agent-file",
+  domain: "domain/change-agent-file",
   claim:
     "`change-agent/move-page` reads `to` as a folder and joins the page's own basename onto it, without checking that `to` names a folder rather than a file. A call handing `to` a page path — say `a/x.module.ts` — lands the page at `a/x.module.ts/x.module.ts`, a folder named for a file with the page inside it, and refuses nothing. The mechanical change beneath cannot catch it: `move-file-page` refuses when `basename(from) !== basename(to)`, and a landing composed by joining the basename always keeps the basename, so that guard is unreachable from here. The act is live today and nothing says so.",
   evidence:

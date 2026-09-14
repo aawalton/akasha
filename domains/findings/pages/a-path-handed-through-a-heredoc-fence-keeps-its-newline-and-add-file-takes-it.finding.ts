@@ -4,7 +4,7 @@ export const aPathHandedThroughAHeredocFenceKeepsItsNewlineAndAddFileTakesIt = {
   id: "01a0888a-0960-71c7-9ff5-8f849319875b",
   type: "finding",
   slug: "a-path-handed-through-a-heredoc-fence-keeps-its-newline-and-add-file-takes-it",
-  domain: "change-agent-file",
+  domain: "domain/change-agent-file",
   claim:
     "A scalar argument to `akasha change draft` can be written two ways, `at: <path>` on its own line or `at HEREDOC-AT` opening a fence. Through the fence the value keeps the newline that ends it, and `change-agent/add-file` takes that value as the path. Three drafts written that way were kept with the path spelled correctly followed by a newline, and the command's own output showed the path without one, so nothing on screen said what had been kept. `change-file` handed the same value refuses, because no file exists at a name ending in a newline, so the two acts disagree about a path they were handed alike.",
   evidence:

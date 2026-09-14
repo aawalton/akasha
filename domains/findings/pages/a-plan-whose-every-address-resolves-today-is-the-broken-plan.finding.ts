@@ -4,7 +4,7 @@ export const aPlanWhoseEveryAddressResolvesTodayIsTheBrokenPlan = {
   id: "01a088a7-84db-7129-958c-4b29a14b04fb",
   type: "finding",
   slug: "a-plan-whose-every-address-resolves-today-is-the-broken-plan",
-  domain: "change-agent-file-content",
+  domain: "domain/change-agent-file-content",
   claim:
     "A scoped address is `<page-type>/<scope>/<slug>`, where the scope segment is the target's own scoping value rather than part of the target's name. An act rewriting that value therefore rewrites every address naming the target. A plural act reads each line against the world the lines before it leave, so one line in a call can bring into existence the address a later line names. Together these mean a plan recording each target's address as it reads today is wrong for exactly those lines whose target an earlier line rescopes, and wrong in the direction of looking right, because every address in such a plan resolves at the moment the plan is written. Validating a plan by confirming every address in it resolves passes the broken plan and refuses the correct one.",
   evidence:
