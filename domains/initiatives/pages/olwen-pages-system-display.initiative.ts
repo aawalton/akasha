@@ -6,7 +6,7 @@ export const olwenPagesSystemDisplay = {
   slug: "olwen-pages-system-display",
   domain: "domain/design-interfaces-system",
   persona: "olwen",
-  intents: [
+  intentStack: [
     { statement: "A page type states the component drawing a page of that page type." },
     { statement: "A page type states the component drawing a page property's value as a badge." },
     {

@@ -6,7 +6,7 @@ export const astraIndexCleanup = {
   slug: "astra-index-cleanup",
   domain: "domain/index",
   persona: "astra",
-  intents: [
+  intentStack: [
     {
       statement: "A change lands the index entries its own file changes imply, and no others.",
       workingMemory:

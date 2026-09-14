@@ -6,7 +6,7 @@ export const emberRepairTemperTasks = {
   slug: "ember-repair-temper-tasks",
   domain: "domain/temper",
   persona: "ember",
-  intents: [
+  intentStack: [
     {
       statement: "Every key the watcher names on a page is one that page type declares.",
       workingMemory:

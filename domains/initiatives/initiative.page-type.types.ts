@@ -9,6 +9,6 @@ export type Initiative = Page & {
   domain: PageDomain
   persona: InitiativePersona
   parent?: InitiativeParent
-  intents?: Intents
+  intentStack?: Intents
   constraints?: Constraints
 }

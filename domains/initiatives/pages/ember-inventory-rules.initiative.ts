@@ -6,7 +6,7 @@ export const emberInventoryRules = {
   slug: "ember-inventory-rules",
   domain: "domain/temper",
   persona: "ember",
-  intents: [
+  intentStack: [
     {
       statement:
         "A reading of the inventory outside the game reaches the answer the addon reaches.",

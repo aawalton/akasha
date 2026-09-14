@@ -6,7 +6,7 @@ export const emberWerewolfParse = {
   slug: "ember-werewolf-parse",
   domain: "domain/temper",
   persona: "ember",
-  intents: [
+  intentStack: [
     {
       statement: "Three-Color Stalker wears the full Update 50 Savage Werewolf parse setup.",
       workingMemory:

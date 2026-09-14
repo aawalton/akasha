@@ -6,7 +6,7 @@ export const aineFindingsToZero = {
   slug: "aine-findings-to-zero",
   domain: "page-type/finding",
   persona: "aine",
-  intents: [
+  intentStack: [
     {
       statement: "No finding is left.",
       workingMemory:

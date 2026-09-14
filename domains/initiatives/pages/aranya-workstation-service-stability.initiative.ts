@@ -6,7 +6,7 @@ export const aranyaWorkstationServiceStability = {
   slug: "aranya-workstation-service-stability",
   domain: "domain/service",
   persona: "aranya",
-  intents: [
+  intentStack: [
     {
       statement: "Every way a change can still break a workstation service is found and closed.",
       workingMemory:

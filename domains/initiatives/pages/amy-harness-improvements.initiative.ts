@@ -6,7 +6,7 @@ export const amyHarnessImprovements = {
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
   persona: "amy",
-  intents: [
+  intentStack: [
     {
       statement:
         "A stopped subagent's page goes even when that subagent never asks the model again.",

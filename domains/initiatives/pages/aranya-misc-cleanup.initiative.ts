@@ -6,7 +6,7 @@ export const aranyaMiscCleanup = {
   slug: "aranya-misc-cleanup",
   domain: "domain/infrastructure",
   persona: "aranya",
-  intents: [
+  intentStack: [
     {
       statement: "The property an initiative states its intents in is named intentStack.",
       workingMemory:

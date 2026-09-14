@@ -6,7 +6,7 @@ export const rynStandardAgentEnglish = {
   slug: "ryn-standard-agent-english",
   domain: "domain/plain-language",
   persona: "ryn",
-  intents: [
+  intentStack: [
     {
       statement: "The load a construction puts on a reading agent is measured.",
     },

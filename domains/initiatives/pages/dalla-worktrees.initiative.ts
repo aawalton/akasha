@@ -6,7 +6,7 @@ export const dallaWorktrees = {
   slug: "dalla-worktrees",
   domain: "domain/git",
   persona: "dalla",
-  intents: [
+  intentStack: [
     {
       statement:
         "A deployed service gets every file it needs from the pages service at its deployed commit.",
