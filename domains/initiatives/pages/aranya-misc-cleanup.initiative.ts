@@ -12,5 +12,10 @@ export const aranyaMiscCleanup = {
       workingMemory:
         "The concept is spelled invariant today, across the property a page states, the kinds an invariant is one of, the sentence shape an invariant statement takes, the group page type, the code reading the key, the checks, and the prose. Alan wants the frame of a decision made rather than a truth found.",
     },
+    {
+      statement: "No code spells a page's address as a plain string.",
+      workingMemory:
+        "The check code-check/no-page-address-spelled landed experimental at 73671b2; its audit refuses 1036 spellings in 341 files in 6 seconds. A rename reaches a page through the relation index and code through the import index, so a literal address is the one reference nothing files, and why address-restating sweeps every file. The fix per case is to import the page and read its slug, or to declare a relation. Resolving these lets the sweep go and the check into service.",
+    },
   ],
 } as const satisfies Initiative
