@@ -345,7 +345,7 @@ export const changeShadow = {
 
     {
       invariantKind: "departure",
-      statement: "Those folders are read from the tree rather than from the answers gathered.",
+      statement: "Those folders are read from the tree with the answers gathered laid over.",
     },
 
     {

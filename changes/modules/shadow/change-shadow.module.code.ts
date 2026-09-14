@@ -18,7 +18,6 @@ import {
   treeTracked,
   treeUnder,
   treeUnentered,
-  underOver,
 } from "akasha/changes/modules/shadow-tree/change-shadow-tree.module.code.ts"
 import type { Changes as AgentChanges } from "akasha/changes/runners/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"
 import type { Changes as MechanicalChanges } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
@@ -241,9 +240,9 @@ export function worldAt(
     index,
     textOf,
     bodyOf,
-    under: (folder) => treeUnder(root, folder, index),
-    unentered: (folder) => treeUnentered(root, folder, index),
-    tracked: (folder) => treeTracked(root, folder),
+    under: (folder) => treeUnder(root, folder, index, NOTHING_OVER),
+    unentered: (folder) => treeUnentered(root, folder, index, NOTHING_OVER),
+    tracked: (folder) => treeTracked(root, folder, NOTHING_OVER),
     base: bodyOf,
     over: NOTHING_OVER,
     reaching,
@@ -263,9 +262,9 @@ export function worldOver(world: World, said: Answer): World {
       return notText(found) ? null : found
     },
     bodyOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.bodyOf(path)),
-    under: (folder) => underOver(world.under(folder), said, folder),
-    unentered: world.unentered,
-    tracked: world.tracked,
+    under: (folder) => treeUnder(world.root, folder, index, over),
+    unentered: (folder) => treeUnentered(world.root, folder, index, over),
+    tracked: (folder) => treeTracked(world.root, folder, over),
     base: world.base,
     over,
     reaching: world.reaching,
@@ -394,9 +393,9 @@ export function ledgerAt(
       const held = kept.bodies.get(path)
       return held === undefined ? kept.base(path) : held
     },
-    under: (folder) => underOver(treeUnder(root, folder, asked()), kept.over, folder),
-    unentered: (folder) => treeUnentered(root, folder, asked()),
-    tracked: (folder) => treeTracked(root, folder),
+    under: (folder) => treeUnder(root, folder, asked(), kept.over),
+    unentered: (folder) => treeUnentered(root, folder, asked(), kept.over),
+    tracked: (folder) => treeTracked(root, folder, kept.over),
   }
 }
 

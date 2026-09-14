@@ -6,6 +6,7 @@ export const changeShadowTree = {
   slug: "change-shadow-tree",
   definition: "the paths under a folder, read from the tree rather than from the index",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -34,7 +35,8 @@ export const changeShadowTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A world answers which files git tracks under a folder and holds on disk.",
+      statement:
+        "A world answers which files git tracks under a folder and holds on disk, with the answer laid over.",
     },
     {
       invariantKind: "departure",
@@ -64,6 +66,37 @@ export const changeShadowTree = {
     {
       invariantKind: "absence",
       statement: "No folder outside the checkout is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The files a folder holds are read with the answer laid over rather than from the tree alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the answer writes claims the files that page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the answer takes away claims no file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder the answer writes a file under is among the folders left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder the answer takes every file away from holds no file for that answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path the answer writes is among those files though git tracks that path nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path the answer takes away is left out of those files though git tracks that path.",
     },
   ],
 } as const satisfies Module

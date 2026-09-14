@@ -22,46 +22,108 @@ const UNDER = "/"
 
 const HERE = "."
 
-function claimingIn(root: string, index: Answering): (path: string) => boolean {
-  const listing: Listing = (folder) => filesIn(root, folder)
+function folderOf(path: string): string {
+  const at = dirname(path)
+  return at === HERE ? "" : at
+}
+
+function listingOver(root: string, laid: ReadonlyMap<string, boolean>): Listing {
+  const written = new Map<string, string[]>()
+  for (const [path, there] of laid) {
+    if (!there) continue
+    const at = folderOf(path)
+    const found = written.get(at)
+    if (found === undefined) written.set(at, [path])
+    else found.push(path)
+  }
+  const read = new Map<string, readonly string[]>()
+  return (folder) => {
+    const done = read.get(folder)
+    if (done !== undefined) return done
+    const found = new Set(filesIn(root, folder).filter((one) => laid.get(one) !== false))
+    for (const one of written.get(folder) ?? []) found.add(one)
+    const made = [...found].sort()
+    read.set(folder, made)
+    return made
+  }
+}
+
+type Claiming = (path: string) => boolean
+
+function claimingIn(root: string, index: Answering, laid: ReadonlyMap<string, boolean>): Claiming {
+  const listing = listingOver(root, laid)
   const pageTypes = index.pageTypesIn()
   const fileProperties = index.filePropertiesAt()
   const folders = index.folderPropertiesAt()
-  return (path) =>
-    claimantOf(listing, relative(root, path), pageTypes, fileProperties, folders) !== null
+  const asked = new Map<string, boolean>()
+  return (path) => {
+    const done = asked.get(path)
+    if (done !== undefined) return done
+    const said = claimantOf(listing, path, pageTypes, fileProperties, folders) !== null
+    asked.set(path, said)
+    return said
+  }
 }
 
-export function treeUnder(root: string, folder: string, index: Answering): readonly string[] {
+function filesThere(
+  root: string,
+  folder: string,
+  entering: (path: string) => boolean = () => true
+): readonly string[] {
   const at = join(root, folder)
   if (!existsSync(at)) return []
-  const claimed = claimingIn(root, index)
-  return walkedUnder(
-    at,
-    () => true,
-    (path) => !claimed(path)
-  )
-    .map((one) => relative(root, one))
-    .sort()
+  return walkedUnder(at, () => true, entering).map((one) => relative(root, one))
 }
 
-export function treeUnentered(root: string, folder: string, index: Answering): readonly string[] {
+export function treeUnder(
+  root: string,
+  folder: string,
+  index: Answering,
+  over: Answer
+): readonly string[] {
+  const claimed = claimingIn(root, index, laidOver(over.edits))
+  const had = filesThere(root, folder, (path) => !claimed(relative(root, path)))
+  return underOver(had, over, folder)
+}
+
+export function treeUnentered(
+  root: string,
+  folder: string,
+  index: Answering,
+  over: Answer
+): readonly string[] {
+  const laid = laidOver(over.edits)
+  const claimed = claimingIn(root, index, laid)
+  const holds = (one: string): boolean => underOver(filesThere(root, one), over, one).length > 0
+  const found = new Set<string>()
+  const entered = new Set<string>([folder])
   const at = join(root, folder)
-  if (!existsSync(at)) return []
-  const claimed = claimingIn(root, index)
-  const found: string[] = []
   const entering = (path: string): boolean => {
-    if (!claimed(path)) return true
-    if (walkedUnder(path, () => true).length > 0) found.push(relative(root, path))
+    const one = relative(root, path)
+    if (!claimed(one)) {
+      entered.add(one)
+      return true
+    }
+    if (holds(one)) found.add(one)
     return false
   }
-  walkedUnder(at, () => false, entering)
+  if (existsSync(at)) walkedUnder(at, () => false, entering)
+  for (const one of [...aboveIn(laid)].sort()) {
+    if (!beneath(folder, one) || !entered.has(folderOf(one))) continue
+    if (!claimed(one)) entered.add(one)
+    else if (holds(one)) found.add(one)
+  }
   return [...found].sort()
 }
 
-export function treeTracked(root: string, folder: string): readonly string[] | null {
+export function treeTracked(root: string, folder: string, over: Answer): readonly string[] | null {
   const held = trackedUnder(root, folder)
   if (held === null) return null
-  return held.filter((one) => existsSync(join(root, one)))
+  return underOver(
+    held.filter((one) => existsSync(join(root, one))),
+    over,
+    folder
+  )
 }
 
 function beneath(folder: string, path: string): boolean {
@@ -69,7 +131,7 @@ function beneath(folder: string, path: string): boolean {
   return held !== "" && !held.startsWith(OUTSIDE)
 }
 
-export function underOver(had: readonly string[], said: Answer, folder: string): readonly string[] {
+function underOver(had: readonly string[], said: Answer, folder: string): readonly string[] {
   const found = new Set(had)
   for (const one of said.edits) {
     if (one.kind === "remove") found.delete(one.path)

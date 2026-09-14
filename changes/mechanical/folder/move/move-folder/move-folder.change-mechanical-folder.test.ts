@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { runChange } from "akasha/changes/mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
-import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsIn, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type World,
@@ -151,7 +151,7 @@ test("a folder a page claims under the folder that moves is refused rather than 
     folderPropertiesAt: () => new Map([[MODULE, new Map([[ROUTES, ROUTES_AT]])]]),
   }
   const said = await runChange(
-    { ...world, unentered: (folder: string) => treeUnentered(root, folder, face) },
+    { ...world, unentered: (folder: string) => treeUnentered(root, folder, face, stating([])) },
     { from: FROM, to: INTO }
   )
 
