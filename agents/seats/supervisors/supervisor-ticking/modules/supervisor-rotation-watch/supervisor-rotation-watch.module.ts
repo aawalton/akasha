@@ -6,4 +6,28 @@ export const supervisorRotationWatch = {
   slug: "supervisor-rotation-watch",
   definition: "watching a seat's log day roll over",
   code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "An index part way through a refresh leaves the rotation unread rather than unwatched.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wait on such an index is said once as it opens rather than on every ask.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wait running past its ceiling gives that round up and says it gave up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The next ask is scheduled whether or not saying the last one worked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A throw that is no refresh is said each time it is thrown.",
+    },
+  ],
 } as const satisfies Module

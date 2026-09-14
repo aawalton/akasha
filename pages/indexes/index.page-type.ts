@@ -223,6 +223,11 @@ export const index = {
       statement: "A refresh part way through says nothing, so nobody reads it as an index.",
     },
     {
+      invariantKind: "gap",
+      statement:
+        "A long-running reader is delayed by an index part way through a refresh rather than ended by it.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A refresh takes away every path under the index that the pages do not imply, but for that mark.",
