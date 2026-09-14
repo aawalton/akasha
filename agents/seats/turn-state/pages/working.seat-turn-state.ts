@@ -5,5 +5,5 @@ export const working = {
   type: "seat-turn-state",
   slug: "working",
   definition: "an agent taking a turn",
-  color: "green",
+  color: "color/green",
 } as const satisfies SeatTurnState

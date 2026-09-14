@@ -5,5 +5,5 @@ export const stopped = {
   type: "seat-turn-state",
   slug: "stopped",
   definition: "an agent no longer present to take a turn",
-  color: "text",
+  color: "color/text",
 } as const satisfies SeatTurnState
