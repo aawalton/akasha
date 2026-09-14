@@ -67,22 +67,38 @@ const IDLE_ACTION_BUTTON_BASES = {
   },
 } as const
 
+const DRAWN_AS_URL = ["url-property"] as const
+
+const DRAWN_AS_NUMBER = ["number-property"] as const
+
+const DRAWN_AS_BOOLEAN = ["boolean-property"] as const
+
+const DRAWN_AS_SELECT = ["select-property"] as const
+
 export const IDLE_CARD_PROPERTY_DEFINITIONS: readonly PropertyDefinition[] = [
-  { id: "cover", title: "Cover", type: "url" },
-  { id: "stars", title: "Stars", type: "number", config: { icon: "star", badgeVariant: "red" } },
+  { id: "cover", title: "Cover", type: "url", drawnBy: DRAWN_AS_URL },
+  {
+    id: "stars",
+    title: "Stars",
+    type: "number",
+    drawnBy: DRAWN_AS_NUMBER,
+    config: { icon: "star", badgeVariant: "red" },
+  },
   { id: "starsDetail", title: "Stars", type: "text", config: { badgeVariant: "red" } },
   { id: "collected", title: "Collected", type: "text", config: {} },
-  { id: "seatIndex", title: "Seat Index", type: "number" },
+  { id: "seatIndex", title: "Seat Index", type: "number", drawnBy: DRAWN_AS_NUMBER },
   {
     id: "boostedRatePerSec",
     title: "Rate /s",
     type: "number",
+    drawnBy: DRAWN_AS_NUMBER,
     config: { format: "short", units: "/s", icon: "heart", badgeVariant: "yellow" },
   },
   {
     id: "ratePerSec",
     title: "Base rate /s",
     type: "number",
+    drawnBy: DRAWN_AS_NUMBER,
     config: {
       format: "short",
       units: "/s",
@@ -95,17 +111,24 @@ export const IDLE_CARD_PROPERTY_DEFINITIONS: readonly PropertyDefinition[] = [
     id: "rank",
     title: "Rank",
     type: "number",
+    drawnBy: DRAWN_AS_NUMBER,
     config: { prefix: "Rank ", badgeVariant: "yellow", format: "short" },
   },
-  { id: "trainCost", title: "Train Cost", type: "number" },
-  { id: "train10Cost", title: "Train +10 Cost", type: "number" },
-  { id: "train10Affordable", title: "Train +10 Affordable", type: "boolean" },
-  { id: "trainMaxCount", title: "Train Max Count", type: "number" },
-  { id: "trainMaxCost", title: "Train Max Cost", type: "number" },
+  { id: "trainCost", title: "Train Cost", type: "number", drawnBy: DRAWN_AS_NUMBER },
+  { id: "train10Cost", title: "Train +10 Cost", type: "number", drawnBy: DRAWN_AS_NUMBER },
+  {
+    id: "train10Affordable",
+    title: "Train +10 Affordable",
+    type: "boolean",
+    drawnBy: DRAWN_AS_BOOLEAN,
+  },
+  { id: "trainMaxCount", title: "Train Max Count", type: "number", drawnBy: DRAWN_AS_NUMBER },
+  { id: "trainMaxCost", title: "Train Max Cost", type: "number", drawnBy: DRAWN_AS_NUMBER },
   {
     id: "lockState",
     title: "Status",
     type: "select",
+    drawnBy: DRAWN_AS_SELECT,
     config: {
       options: [
         { id: IDLE_LOCK_STATE_UNLOCKED, label: "Unlocked" },
