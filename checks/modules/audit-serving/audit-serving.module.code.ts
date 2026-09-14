@@ -23,6 +23,7 @@ import {
   judgingBy,
   takesAny,
 } from "akasha/checks/modules/checking/checking.module.code.ts"
+import { costSpawned, recordCost } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   heldTo,
@@ -44,7 +45,11 @@ import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.modu
 import { textOnDisk } from "akasha/utils/fs/modules/text-on-disk/text-on-disk.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
-import { endingOf, spawnedHere } from "akasha/utils/run/modules/running/running.module.code.ts"
+import {
+  endingOf,
+  type Held,
+  spawnedHere,
+} from "akasha/utils/run/modules/running/running.module.code.ts"
 import { waitedForRoom } from "akasha/utils/system/modules/landing-admission/landing-admission.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
@@ -59,6 +64,10 @@ const FALLBACK = "alan"
 const FROM = "audit-running"
 
 const AUDIT = "audit"
+
+const LOGS = "logs"
+
+const AUDIT_LOGS = `${AUDIT}.${LOGS}`
 
 const SHOWN = 5
 
@@ -155,12 +164,32 @@ export function judgedIn(text: string): readonly Judged[] | null {
   return said.every(judgedRow) ? (said as readonly Judged[]) : null
 }
 
+function costKept(one: Gathered, done: Held, began: number, refusals: number): undefined {
+  recordCost(
+    one.root,
+    one.page,
+    costSpawned({
+      runId: Bun.randomUUIDv7(),
+      ranAt: new Date(began).toISOString(),
+      phase: AUDIT,
+      ran: one.slug,
+      wallMs: Date.now() - began,
+      cpuSeconds: done.cpuSeconds,
+      peakBytes: done.peakBytes,
+      peakMeasured: done.peakMeasured,
+      refusals,
+    }),
+    AUDIT_LOGS
+  )
+}
+
 export const spawning: Running = async (one) => {
   const scratch = scratchWorld()
   try {
     const at = join(scratch.rootFor(SCRATCH), ANSWERED)
     const cpu = one.auditCeiling ?? null
     const memory = one.auditMemoryMb ?? null
+    const began = Date.now()
     const done = spawnedHere([BUN, childAt(one.root), one.root, one.slug, at], {
       cwd: one.root,
       ...(cpu === null ? {} : { cpuCeiling: cpu }),
@@ -169,7 +198,9 @@ export const spawning: Running = async (one) => {
     const ending = endingOf(done.code, done.signal)
     if (done.code !== 0 || done.signal !== null) {
       const why = reasonSaid(done.err, STDERR_CEILING)
-      return unrun(one, `${ending} apart, so it judged nothing — ${why}`)
+      const said = unrun(one, `${ending} apart, so it judged nothing — ${why}`)
+      costKept(one, done, began, said.length)
+      return said
     }
     const text = textOnDisk(at)
     if (text === null) return unrun(one, `${ending} and ${UNANSWERED}`)

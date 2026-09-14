@@ -221,8 +221,16 @@ export const auditServing = {
       statement: "The file the verdict comes back through is swept whether the check ran or not.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here records what the run cost, the process that ran recording its own.",
+      invariantKind: "departure",
+      statement: "A process that answered records what its own run cost.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process that died records nothing, so what that run cost is recorded here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seconds recorded are the ones the ceiling was measured against.",
     },
     {
       invariantKind: "departure",
