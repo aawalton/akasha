@@ -6,17 +6,12 @@ import type {
   FoldersBy,
   UncommittedBy,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import { keepWhole } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import {
   claimsOf,
   type IsThere,
   type SidecarsBy,
   under,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
-import {
-  indexIn,
-  readingAt,
-} from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import {
   textAt,
@@ -104,16 +99,4 @@ export function claimingIn(
       thereIn(repo, carried, was),
       folders
     )
-}
-
-export function partFiled(repo: string, page: string, at: string): undefined {
-  const root = indexIn(repo)
-  const held = readingAt(root).lines(fileFor(under(repo, page)))
-  if (held.length === 0) return
-  keepWhole(join(root, fileFor(under(repo, at))), held, root)
-}
-
-export function partUnfiled(repo: string, at: string): undefined {
-  const root = indexIn(repo)
-  keepWhole(join(root, fileFor(under(repo, at))), [], root)
 }

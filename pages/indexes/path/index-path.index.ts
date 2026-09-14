@@ -92,22 +92,8 @@ export const indexPath = {
         "A file filed here for a page that does not state it is filed only where it is there.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A numbered file a writer opens beside a page is filed here as that writer opens it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That file is filed with the line the page's own file here carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A numbered file a writer takes away beside a page is withdrawn here as that writer takes it away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page with no file here yet has nothing filed for such a file.",
+      invariantKind: "absence",
+      statement: "A numbered file a writer opens beside a page is filed here by nothing.",
     },
     {
       invariantKind: "departure",
