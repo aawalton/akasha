@@ -1,18 +1,13 @@
 import { expect, test } from "bun:test"
 import type { LandingDeps } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
-  landTaskGone,
   landTaskValues,
   TASK_PAGE_TYPE_SLUG,
   taskBodyWith,
   taskPagePath,
-  taskProgressPath,
 } from "akasha/temper/watcher/modules/watcher-task-landing/watcher-task-landing.module.code.ts"
 
 const PAGE_PATH = "temper/progressions/temper-tasks/pages/held-task/held-task.temper-task.ts"
-
-const PROGRESS_PATH =
-  "temper/progressions/temper-tasks/pages/held-task/held-task.temper-task.progress.jsonl"
 
 const BODY =
   'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n} as const satisfies TemperTask\n'
@@ -22,9 +17,8 @@ type Body = { readonly path: string; readonly content: string | null }
 function store(
   bodies: readonly Body[],
   answers: readonly ({ ok: true; at: string } | { ok: false; why: string })[]
-): { deps: LandingDeps; wrote: unknown[]; took: unknown[] } {
+): { deps: LandingDeps; wrote: unknown[] } {
   const wrote: unknown[] = []
-  const took: unknown[] = []
   let at = 0
   const answer = (): { ok: true; at: string } | { ok: false; why: string } => {
     const one = answers[at] ?? { ok: false as const, why: "no answer was set up" }
@@ -53,24 +47,12 @@ function store(
       wrote.push({ given, writer, message, read })
       return answer()
     }) as LandingDeps["write"],
-    remove: (async (
-      paths: readonly string[],
-      writer: string,
-      message: string,
-      _fetcher: unknown,
-      _rest: unknown,
-      read: string | null
-    ) => {
-      took.push({ paths, writer, message, read })
-      return answer()
-    }) as LandingDeps["remove"],
   }
-  return { deps, wrote, took }
+  return { deps, wrote }
 }
 
-test("a task names its page and the progress lines beside it", () => {
+test("a task names its page", () => {
   expect(taskPagePath("held-task")).toBe(PAGE_PATH)
-  expect(taskProgressPath("held-task")).toBe(PROGRESS_PATH)
   expect(TASK_PAGE_TYPE_SLUG).toBe("temper-task")
 })
 
@@ -177,68 +159,5 @@ test("a task the store holds no body for is refused, naming the path", async () 
   expect(await landTaskValues("held-task", { dueDate: "2026-03-12" }, "any", deps)).toEqual({
     outcome: "refused",
     why: `the store holds no body at ${PAGE_PATH}`,
-  })
-})
-
-test("a task and the files beside it are taken away together", async () => {
-  const { deps, took } = store(
-    [
-      { path: PAGE_PATH, content: BODY },
-      { path: PROGRESS_PATH, content: '{"id":"a"}\n' },
-    ],
-    [{ ok: true, at: "c1" }]
-  )
-  const landed = await landTaskGone(
-    "held-task",
-    [PROGRESS_PATH],
-    "temper: the held task will not come round again",
-    deps
-  )
-  expect(landed).toEqual({ outcome: "landed", at: "c1" })
-  expect(took).toEqual([
-    {
-      paths: [PAGE_PATH, PROGRESS_PATH],
-      writer: "temper watcher <watcher@alanwalton.com>",
-      message: "temper: the held task will not come round again",
-      read: "read-commit",
-    },
-  ])
-})
-
-test("a file beside a task the store holds nothing for is left out of the taking", async () => {
-  const { deps, took } = store([{ path: PAGE_PATH, content: BODY }], [{ ok: true, at: "c1" }])
-  await landTaskGone("held-task", [PROGRESS_PATH], "gone", deps)
-  expect(took).toEqual([
-    {
-      paths: [PAGE_PATH],
-      writer: "temper watcher <watcher@alanwalton.com>",
-      message: "gone",
-      read: "read-commit",
-    },
-  ])
-})
-
-test("a task already gone counts as taken away", async () => {
-  const { deps, took } = store([], [])
-  expect(await landTaskGone("held-task", [PROGRESS_PATH], "gone", deps)).toEqual({
-    outcome: "already",
-    at: "read-commit",
-  })
-  expect(took).toEqual([])
-})
-
-test("four takings the store turned back are refused, naming the last reason", async () => {
-  const { deps } = store(
-    [{ path: PAGE_PATH, content: BODY }],
-    [
-      { ok: false, why: "one" },
-      { ok: false, why: "two" },
-      { ok: false, why: "three" },
-      { ok: false, why: "four" },
-    ]
-  )
-  expect(await landTaskGone("held-task", [], "gone", deps)).toEqual({
-    outcome: "refused",
-    why: "four — 4 attempts were spent",
   })
 })

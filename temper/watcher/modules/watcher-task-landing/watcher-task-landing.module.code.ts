@@ -10,15 +10,11 @@ import {
   PAGE_LANDING_WRITER,
   pagePathIn,
   readingFor,
-  removingFor,
-  rowsPathIn,
   triedFrom,
   writingFor,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const FOLDER = "temper/progressions/temper-tasks/pages"
-
-const ROWS_PROPERTY = "progress"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
 
@@ -26,10 +22,6 @@ export type TaskValues = Readonly<Record<string, string | number | boolean | nul
 
 export function taskPagePath(slug: string): string {
   return pagePathIn(FOLDER, slug, TASK_PAGE_TYPE_SLUG)
-}
-
-export function taskProgressPath(slug: string): string {
-  return rowsPathIn(FOLDER, slug, TASK_PAGE_TYPE_SLUG, ROWS_PROPERTY)
 }
 
 const BARE_KEY = /^[A-Za-z_$][A-Za-z0-9_$]*$/
@@ -94,26 +86,4 @@ export async function landTaskValues(
     )
   }
   return landOverAttempts(`no attempt to land ${path} was made`, tryOnce, deps)
-}
-
-export async function landTaskGone(
-  slug: string,
-  beside: readonly string[],
-  message: string,
-  deps: LandingDeps = {}
-): Promise<Landed> {
-  const read = readingFor(deps)
-  const remove = removingFor(deps)
-  const path = taskPagePath(slug)
-  const paths = [path, ...beside]
-  const tryOnce = async (): Promise<Tried> => {
-    const found = await read(paths)
-    if (!found.ok) return { outcome: "again", why: found.why }
-    const held = found.bodies.filter((one) => one.content !== null).map((one) => one.path)
-    if (held.length === 0) return { outcome: "already", at: found.at }
-    return triedFrom(
-      await remove(held, PAGE_LANDING_WRITER, message, undefined, undefined, found.at)
-    )
-  }
-  return landOverAttempts(`no attempt to take ${path} away was made`, tryOnce, deps)
 }

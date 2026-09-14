@@ -49,16 +49,8 @@ export const watcherTaskLanding = {
       statement: "A body the store has nothing for is refused rather than made.",
     },
     {
-      invariantKind: "departure",
-      statement: "A task that will not come round again is taken away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Files beside a task are taken away with the task.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path already gone counts as taken away.",
+      invariantKind: "absence",
+      statement: "No task is ever taken away.",
     },
     {
       invariantKind: "departure",
