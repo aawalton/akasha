@@ -5,7 +5,6 @@ import { checkReachesAPathThroughTheIndex } from "akasha/checks/code-checks/page
 import { scratch, staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { tracked } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
@@ -34,8 +33,6 @@ const ASKS = "export const held = 1\n"
 function rootWith(bodies: Readonly<Record<string, string>>): string {
   const root = tracked(staged({ [TYPE_AT]: ASKS, [HELD_AT]: ASKS, ...bodies }))
   listedFiled(root, PAGE_TYPE, THING, [{ path: TYPE_AT, id: ID }])
-  pathListed(root, HELD_AT)
-  for (const at of Object.keys(bodies)) pathListed(root, at)
   return root
 }
 

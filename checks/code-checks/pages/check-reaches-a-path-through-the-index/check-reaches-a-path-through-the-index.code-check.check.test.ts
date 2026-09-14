@@ -4,7 +4,6 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { change, scratch, staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { shadowed } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
@@ -53,7 +52,6 @@ function rooted(): string {
   })
   listedFiled(root, PAGE_TYPE, THING, [{ path: TYPE_AT, id: ID }])
   listedFiled(root, PAGE_TYPE, INDEX, [{ path: INDEX_TYPE_AT, id: INDEX_ID }])
-  pathListed(root, HELD_AT)
   return root
 }
 
