@@ -136,7 +136,3 @@ export async function googleOauthConsentSaying(
   }
   return consentViaLoopback(request, done)
 }
-
-export async function googleOauthConsent(request: ConsentRequest): Promise<void> {
-  for (const said of await googleOauthConsentSaying(request)) process.stdout.write(`${said}\n`)
-}
