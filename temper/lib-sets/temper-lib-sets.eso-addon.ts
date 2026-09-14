@@ -255,19 +255,19 @@ export const temperLibSets = {
   ],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A caller reaches this library through a game global rather than an import.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Set data is taken from the upstream library at a pinned commit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A set is looked up by its numeric set id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Japanese is not among the languages the library counts as supported.",
     },
   ],

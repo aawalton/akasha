@@ -33,19 +33,19 @@ export const temperLibAddonMenuOrderListBox = {
   interfaces: ["eso-interface/lam-order-list-box-markup"],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "LibAddonMenu-2.0 is loaded before this widget or the widget does nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The widget is offered to LibAddonMenu-2.0 rather than to an addon directly.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row is moved by dragging that row or by the four buttons beside the list.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
   ],

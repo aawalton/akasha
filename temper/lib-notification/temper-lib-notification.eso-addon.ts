@@ -20,27 +20,27 @@ export const temperLibNotification = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller gets one link table and puts every notification into that table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The keyboard panel gets a provider apart from the gamepad panel's provider.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refresh of the keyboard panel refreshes the gamepad panel too.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Loading twice is an error rather than a second library.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The game's own row setup is replaced so a row may have its own icon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game reaches the library through two global names for one library.",
     },
   ],

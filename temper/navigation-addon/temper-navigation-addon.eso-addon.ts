@@ -336,23 +336,23 @@ export const temperNavigationAddon = {
   interfaces: ["eso-interface/minimap-animations"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The four old add-ons are one add-on here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The compass pin library is published as CustomCompassPins.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A saved variable keeps the name the old add-on wrote under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A data table wider than one module is runs joined in order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The XML document loads before the Lua bundle.",
     },
   ],

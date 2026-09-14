@@ -27,27 +27,27 @@ export const temperLibCustomMenu = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game's own menu functions are wrapped rather than replaced.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A custom entry is drawn from a control pool this library owns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Context menu callbacks fire in category order from early to late.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sub-menu opens once the mouse has rested on its parent row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The player and social list menus are hooked only on the keyboard interface.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A caller reaches this library through a game global rather than an import.",
     },
   ],

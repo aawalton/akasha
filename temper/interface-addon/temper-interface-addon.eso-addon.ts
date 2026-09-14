@@ -113,11 +113,11 @@ export const temperInterfaceAddon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Three separate add-ons were folded into this add-on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A keybind is named after the assistant the player has unlocked.",
     },
   ],

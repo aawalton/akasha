@@ -51,27 +51,27 @@ export const temperLibCharacterKnowledge = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One character's knowledge is kept as a bitfield over the whole item table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The item table is scanned once per game update rather than once per session.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character on another account is read from the shared saved record alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character's knowledge travels between accounts as one line of text.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A console client cannot scan the item table and reads the shipped list.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This library depends on no other add-on.",
     },
   ],

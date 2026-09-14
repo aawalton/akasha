@@ -27,19 +27,19 @@ export const temperLibTreasure = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pin is placed by where the pin falls on its own map rather than on the world.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every lookup is built once as the library loads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon adds an icon to the shared list rather than keeping a separate list.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The pin rows are the rows upstream LibTreasure v24 states.",
     },
   ],

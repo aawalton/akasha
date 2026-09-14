@@ -32,27 +32,27 @@ export const temperLibExtendedJournal = {
   interfaces: ["eso-interface/journal-controls"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Another add-on names a tab and hands over the control the tab draws in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The window is built the first time the window is shown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tab is shown by its name from a keybind or a slash command.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tab shown last answers the settings keybind with its own panel.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The colors a tooltip is drawn in are kept between sessions.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This library depends on no other add-on.",
     },
   ],

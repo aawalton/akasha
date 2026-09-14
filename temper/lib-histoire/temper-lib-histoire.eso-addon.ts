@@ -67,35 +67,35 @@ export const temperLibHistoire = {
   interfaces: ["eso-interface/histoire-guild-history-cache-controls"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every event the game hands over is written to the saved variables.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category is linked only where its cached history reaches the present.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An add-on reads the cached events through a processor of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The older listener shape is kept reachable on top of the newer processor.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Cached events are worked through in the background rather than in one frame.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This library needs LibDebugLogger loaded first.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This library needs LibAsync loaded first.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This library needs LibAddonMenu-2.0 loaded first.",
     },
   ],

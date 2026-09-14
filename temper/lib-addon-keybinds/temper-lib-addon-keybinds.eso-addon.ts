@@ -22,28 +22,28 @@ export const temperLibAddonKeybinds = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A keybind whose string id is below the game's last string id is a standard keybind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every other keybind is an addon keybind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The standard menu entry and the addon menu entry keep separate scroll positions.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A header is shown only where a row beneath that header is shown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Another addon hooks a row by listening for the callbacks fired here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Loading twice leaves the first load alone.",
     },
   ],

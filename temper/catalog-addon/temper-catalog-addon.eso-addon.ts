@@ -25,28 +25,28 @@ export const temperCatalogAddon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The order the collectors are imported in is the order the catalogs are collected.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A catalog already saved is left alone rather than collected a second time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A game version different from the saved one empties every catalog first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Collection starts a delay after the player first becomes active.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Collection starts once for each time the game client loads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collector that fails is skipped with its reason kept beside the catalog.",
     },
   ],

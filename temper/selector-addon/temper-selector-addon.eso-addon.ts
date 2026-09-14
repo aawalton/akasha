@@ -29,19 +29,19 @@ export const temperSelectorAddon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pack has the add-ons that were on when the pack was saved.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An add-on outside the pack being loaded is switched off.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This add-on is never switched off by a pack.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game acts on a switched add-on only once the interface reloads.",
     },
   ],

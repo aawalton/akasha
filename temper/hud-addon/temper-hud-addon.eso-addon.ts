@@ -30,20 +30,20 @@ export const temperHudAddon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The parts of the HUD the heads-up add-on hides are read from `temper-hud-components`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parts the player has shown and hidden are kept across the whole account.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An add-on adding a field to the bar states the order that field sits at.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows the meaning of any other add-on's field.",
     },
   ],

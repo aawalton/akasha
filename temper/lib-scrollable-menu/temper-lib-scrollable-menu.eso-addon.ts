@@ -101,27 +101,27 @@ export const temperLibScrollableMenu = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller reaches this library through game globals rather than an import.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The menu is a scroll list rather than the game's own fixed dropdown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A menu entry may have a submenu nested to any depth.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One row template for each entry type is declared in this library's own XML.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One context menu object is reused for every context menu the game shows.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The game loads this library before every addon that names the library.",
     },
   ],

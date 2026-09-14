@@ -18,19 +18,19 @@ export const temperErrorsAddon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An error raised before the add-on loads is recorded once loading finishes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two errors sharing one callstack are kept as one entry under a count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An error is blamed on the add-on folder its callstack names.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads the recorded errors back.",
     },
   ],

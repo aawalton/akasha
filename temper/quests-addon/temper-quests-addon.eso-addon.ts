@@ -24,28 +24,28 @@ export const temperQuestsAddon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The options the dialogue offers are read afresh rather than remembered between reads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quest option is taken ahead of an option offering something else.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An option already taken at one menu is not taken again at that menu.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A menu offering a service the player did not ask for is left alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The addon steps away once nothing in the dialogue is left to do.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The game hands one dialogue option at a time rather than a whole menu.",
     },
   ],
