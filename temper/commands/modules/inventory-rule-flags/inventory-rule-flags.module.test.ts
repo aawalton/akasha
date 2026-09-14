@@ -2,12 +2,10 @@ import { expect, test } from "bun:test"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   BUY_SOURCE_VALUES,
-  itemActionValues,
   narrowCategoryId,
   narrowItemAction,
   narrowMoveToDestination,
   narrowStockScope,
-  parseBooleanFlag,
   parseConditionsJson,
   parseDestinationChainJson,
 } from "akasha/temper/commands/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
@@ -19,7 +17,6 @@ test("a buy source the rules package declares is taken", () => {
 
 test("an action the rules package declares is taken", () => {
   expect(narrowItemAction("sell", "--action")).toBe("sell")
-  expect(itemActionValues()).toContain("sell")
 })
 
 test("an action nobody declares is refused, naming the flag and what was said", () => {
@@ -63,13 +60,6 @@ test("a destination nobody declares is refused, naming the flag and what was sai
   expect(() => narrowMoveToDestination("bnak", "--destination")).toThrow(
     /--destination: invalid destination 'bnak'/
   )
-})
-
-test("a boolean flag takes true or false, unsaid reads as unsaid, and anything else is refused", () => {
-  expect(parseBooleanFlag("true", "--active")).toBe(true)
-  expect(parseBooleanFlag("false", "--active")).toBe(false)
-  expect(parseBooleanFlag(undefined, "--active")).toBeUndefined()
-  expect(() => parseBooleanFlag("yes", "--active")).toThrow(InputError)
 })
 
 test("conditions arrive as JSON and a key nobody declared is carried through", () => {

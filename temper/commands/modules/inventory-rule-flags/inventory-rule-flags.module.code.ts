@@ -36,10 +36,6 @@ const STOCK_SCOPE_VALUES = ["current-character", "any-character"] as const
 
 export const BUY_SOURCE_VALUES: readonly BuySource[] = ["merchant"]
 
-export function itemActionValues(): readonly ItemAction[] {
-  return ITEM_ACTION_VALUES
-}
-
 export function narrowItemAction(value: string, flagName: string): ItemAction {
   const found = ITEM_ACTION_VALUES.find((one) => one === value)
   if (found === undefined) {
@@ -68,13 +64,6 @@ export function narrowMoveToDestination(value: string, flagName: string): MoveTo
     )
   }
   return found
-}
-
-export function parseBooleanFlag(value: string | undefined, flagName: string): boolean | undefined {
-  if (value === undefined) return undefined
-  if (value === "true") return true
-  if (value === "false") return false
-  throw new InputError(`${flagName}: expected 'true' or 'false', got '${value}'`)
 }
 
 export function parseConditionsJson(
