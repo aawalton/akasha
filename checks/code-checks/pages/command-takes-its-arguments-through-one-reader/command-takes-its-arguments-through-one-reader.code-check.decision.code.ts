@@ -1,8 +1,4 @@
-import {
-  bodyOf,
-  onDisk,
-  textIn,
-} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   lineOf,
   parsedAs,
@@ -91,14 +87,6 @@ export function reaching(open: Opening): Reach {
 
 export function openingIn(change: Change): Opening {
   return (at) => textIn(change, at)
-}
-
-export function openingUnder(root: string): Opening {
-  const disk = onDisk(root)
-  return (at) => {
-    const bytes = disk(at)
-    return bytes === null ? null : bodyOf({ root, path: at, bytes })
-  }
 }
 
 function tailOf(path: string): string | null {

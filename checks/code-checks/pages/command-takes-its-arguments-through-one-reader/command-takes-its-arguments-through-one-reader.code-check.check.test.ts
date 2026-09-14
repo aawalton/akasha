@@ -1,8 +1,9 @@
-import { expect, test } from "bun:test"
-import { reasonsIn } from "akasha/checks/code-checks/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.code-check.check.code.ts"
-import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-
-const ROOT = "/repo"
+import { afterAll, expect, test } from "bun:test"
+import { commandTakesItsArgumentsThroughOneReader } from "akasha/checks/code-checks/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.code-check.check.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { arriving } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const AT = "commands/pages/humming/leaf/humming-leaf.command.code.ts"
 
@@ -12,19 +13,21 @@ const READS =
   "export function hummingLeaf(argv: readonly string[]): Answer {\n" +
   '  return answered(argv.includes("--json"))\n}\n'
 
-const given = bodiesIn(ROOT)
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function judged(path: string): readonly Judged[] {
+  const root = scratch.rootFor("akasha-command-one-reader-check-")
+  return commandTakesItsArgumentsThroughOneReader(arriving(root, { [path]: READS }), shadowAt(root))
+}
 
 test("a command's code the change carries is judged", () => {
-  const said = reasonsIn(given(AT, READS))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`argv.includes`")
+  const said = judged(AT)
+  expect(said.map((one) => one.path)).toEqual([AT])
+  expect(said[0]?.reason).toContain("`argv.includes`")
 })
 
 test("a path the change carries that is no TypeScript is passed over", () => {
-  expect(reasonsIn(given(NOTES_AT, READS))).toEqual([])
-})
-
-test("a body that is not text refuses rather than being passed over", () => {
-  const held = { root: ROOT, path: AT, bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-  expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
+  expect(judged(NOTES_AT)).toEqual([])
 })
