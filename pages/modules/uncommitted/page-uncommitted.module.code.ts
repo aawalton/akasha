@@ -16,9 +16,6 @@ import {
   markIn,
   startedAt,
 } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
-import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
-import { keepingIn } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
-import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import {
   partedIn,
@@ -26,7 +23,6 @@ import {
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 
 const HOLDS = "uncommitted"
 
@@ -43,12 +39,6 @@ const WAITED_AT_MOST = 20000
 const HELD_AT_MOST = 10000
 
 const MODE_BITS = 0o7777
-
-const FILED_UNDER = "path"
-
-const FILED_ENDING = ".jsonl"
-
-const FILED_WAITED = 10000
 
 function abandoned(lock: string, mark: string): boolean {
   const held = holderOf(markIn(mark))
@@ -172,71 +162,25 @@ function sweptBeside(full: string): undefined {
   }
 }
 
-function writtenAt(full: string, page: string, values: Value): string {
+function writtenAt(full: string, page: string, values: Value): undefined {
   const scratch = `${full}.${process.pid}.${PART}`
   sweptBeside(full)
   const found = statSync(full, { throwIfNoEntry: false })
-  const body = bodyFor(page, values)
-  writeFileSync(scratch, body, "utf8")
+  writeFileSync(scratch, bodyFor(page, values), "utf8")
   if (found !== undefined) chmodSync(scratch, found.mode & MODE_BITS)
   renameSync(scratch, full)
-  return body
-}
-
-const settled = new Set<string>()
-
-function filedAlready(root: string, at: string): boolean {
-  if (settled.has(join(root, at))) return true
-  return existsSync(join(indexIn(root), FILED_UNDER, `${at}${FILED_ENDING}`))
-}
-
-function settledBeside(
-  root: string,
-  at: string,
-  before: string | null,
-  after: string | null
-): undefined {
-  if (!existsSync(indexIn(root))) return
-  try {
-    holding(
-      root,
-      () => {
-        const keeping = keepingIn(root)
-        if (after === null) keeping.took(at, before)
-        else keeping.wrote(at, after, before)
-        keeping.settle()
-      },
-      FILED_WAITED
-    )
-  } catch {}
-}
-
-function besideFiled(root: string, at: string, after: string): undefined {
-  if (filedAlready(root, at)) return
-  settledBeside(root, at, null, after)
-  settled.add(join(root, at))
-}
-
-function besideUnfiled(root: string, at: string, before: string | null): undefined {
-  settled.delete(join(root, at))
-  if (before === null) return
-  settledBeside(root, at, before, null)
 }
 
 export function keepUncommitted(root: string, page: string, values: Value): undefined {
-  const at = besideOr(page)
-  const full = join(root, at)
-  exclusively(full, () => {
-    besideFiled(root, at, writtenAt(full, page, values))
-  })
+  const full = join(root, besideOr(page))
+  exclusively(full, () => writtenAt(full, page, values))
 }
 
 export function mergeUncommitted(root: string, page: string, values: Value): undefined {
   const at = besideOr(page)
   const full = join(root, at)
   exclusively(full, () => {
-    const held = valuesIn(full, at)
-    besideFiled(root, at, writtenAt(full, page, { ...(held ?? {}), ...values }))
+    writtenAt(full, page, { ...(valuesIn(full, at) ?? {}), ...values })
   })
 }
 
@@ -254,7 +198,7 @@ export function dropUncommitted(root: string, page: string, keys: readonly strin
       delete kept[key]
       dropped = true
     }
-    if (dropped) besideFiled(root, at, writtenAt(full, page, kept))
+    if (dropped) writtenAt(full, page, kept)
   })
 }
 
@@ -263,9 +207,7 @@ export function removeUncommitted(root: string, page: string): undefined {
   if (at === null) return
   const full = join(root, at)
   exclusively(full, () => {
-    const was = textThere(full)
     sweptBeside(full)
     rmSync(full, { force: true })
-    besideUnfiled(root, at, was)
   })
 }
