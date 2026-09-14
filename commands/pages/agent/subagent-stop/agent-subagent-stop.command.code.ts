@@ -1,8 +1,22 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
+import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
+import {
+  type Judged,
+  judgedOver,
+  pagesIn,
+  STALE,
+  seenIn,
+} from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
 import { pathIn } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
-import { stoppedBeside } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
+import {
+  type Landing,
+  stoppedBeside,
+  took,
+} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import { subagentStopped } from "akasha/agents/subagents/properties/subagent-stopped.boolean-property.ts"
+import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { subagent } from "akasha/commands/arguments/pages/subagent.argument.ts"
 import {
@@ -13,6 +27,12 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { agentSubagentStop as page } from "akasha/commands/pages/agent/subagent-stop/agent-subagent-stop.command.ts"
+import {
+  type OwnIds,
+  type RunningSaid,
+  stoppedAmong,
+  transcriptsSay,
+} from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const STOPPED = subagentStopped.propertySlug
@@ -20,7 +40,50 @@ const STOPPED = subagentStopped.propertySlug
 const REACHES =
   "the stop reaches it at its next model turn, and one inside a tool call finishes that call first"
 
-export function agentSubagentStop(argv: readonly string[], given: Given): Answer {
+const NONE: OwnIds = { running: new Set(), ended: new Set(), outlived: new Set() }
+
+async function judgedFor(
+  root: string,
+  at: string,
+  entries: readonly ProcLivenessEntry[],
+  baseDir: string | undefined,
+  said: RunningSaid
+): Promise<Judged | null> {
+  const pages = pagesIn(root)
+  if (!pages.some((one) => one.path === at)) return null
+  let own: OwnIds = NONE
+  try {
+    own = await said(pages)
+  } catch {
+    own = NONE
+  }
+  const stopped = stoppedAmong(root, pages)
+  const seen = seenIn(entries, baseDir, own.running, own.ended, own.outlived, stopped)
+  return judgedOver(pages, seen).find((one) => one.page.path === at) ?? null
+}
+
+async function takenAway(
+  root: string,
+  name: string,
+  judged: Judged,
+  landing: Landing
+): Promise<Answer> {
+  const done: string[] = []
+  const went = await took(root, judged.page.seatName, judged.page.own, done, landing)
+  if ("why" in went) {
+    return told([...done, `\`${name}\` is stopped, and its page stays — ${went.why}`])
+  }
+  return told([...done, `\`${name}\` is stopped and its page went: ${judged.why}`])
+}
+
+export async function agentSubagentStop(
+  argv: readonly string[],
+  given: Given,
+  entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,
+  baseDir?: string,
+  said: RunningSaid = transcriptsSay,
+  landing: Landing = landedMechanically
+): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [subagent])
   if ("refused" in read) return refusedBy(read.refused)
   const name = read.taken.subagent
@@ -34,6 +97,10 @@ export function agentSubagentStop(argv: readonly string[], given: Given): Answer
   if (stoppedBeside(given.root, at)) {
     return told([`\`${name}\` is stopped already, so nothing was written`])
   }
+  const judged = await judgedFor(given.root, at, entries, baseDir, said)
   mergeUncommitted(given.root, at, { [STOPPED]: true })
-  return told([`\`${name}\` is stopped: ${REACHES}`])
+  if (judged === null || judged.verdict !== STALE) {
+    return told([`\`${name}\` is stopped: ${REACHES}`])
+  }
+  return takenAway(given.root, name, judged, landing)
 }

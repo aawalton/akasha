@@ -45,12 +45,40 @@ export const agentSubagentStop = {
       statement: "Nothing here ends a process.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here takes the subagent's page away.",
+      invariantKind: "departure",
+      statement: "A run censuses the subagent's page before writing the stop.",
     },
     {
       invariantKind: "departure",
-      statement: "The page goes as the gateway refuses the turn that stop ends the subagent on.",
+      statement: "The census is taken before the stop, so the stop never decides that census.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the census judges stale is taken away by this run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the census judges working or undetermined is left where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The stop is written before any page is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the index files no subagent for is judged nothing and left where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A census that will not read leaves the judgement the processes alone reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page left here goes as the gateway refuses the turn that stop ends it on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page neither route takes goes at the next sweep, on the stop written here.",
     },
   ],
   name: "subagent-stop",

@@ -149,7 +149,7 @@ export async function runningOwnIn(
   return { running, ended, outlived }
 }
 
-async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
+export async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
   return runningOwnIn(
     pages,
     createSubagentReader(),
