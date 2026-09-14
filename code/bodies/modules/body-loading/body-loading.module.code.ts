@@ -70,8 +70,3 @@ export function heldOver(root: string, at: string, body: string | null): Held {
   const full = join(root, at)
   return body === null ? (loadFrom(full) as Held) : loadedOver(full, body)
 }
-
-export function leftHeldAt(root: string, at: string): boolean {
-  const full = join(root, at)
-  return bodyHeld.has(full) || loadFrom.cache[full] !== undefined
-}

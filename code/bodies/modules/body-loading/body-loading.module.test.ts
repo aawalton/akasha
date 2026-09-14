@@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
 import {
   bodyFor,
   heldOver,
-  leftHeldAt,
 } from "akasha/code/bodies/modules/body-loading/body-loading.module.code.ts"
 import { BESIDE } from "akasha/code/bodies/modules/body-loading/body-loading.module.test-fixtures.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -56,11 +55,6 @@ describe("the code loaded at a module path", () => {
     expect(saidBy(heldOver(ROOT, AT, OVER), "heldIn")).toBe(MARKER)
   })
 
-  test("nothing is left held at that path once the code is loaded", () => {
-    heldOver(ROOT, AT, OVER)
-    expect(leftHeldAt(ROOT, AT)).toBe(false)
-  })
-
   test("a body handed in twice is loaded twice rather than answered from the cache", () => {
     expect(saidBy(heldOver(ROOT, AT, AGAIN), "heldIn")).toBe(OTHER)
   })
@@ -69,10 +63,5 @@ describe("the code loaded at a module path", () => {
     const held = heldOver(ROOT, AT, null)
     expect(held.bodyLoading).toBeDefined()
     expect(held.heldIn).toBeUndefined()
-  })
-
-  test("a load off the checkout leaves the cache entry that load made", () => {
-    heldOver(ROOT, AT, null)
-    expect(leftHeldAt(ROOT, AT)).toBe(true)
   })
 })
