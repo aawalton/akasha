@@ -6,7 +6,7 @@ export const buffaloWildWingsLehi = {
   slug: "buffalo-wild-wings-lehi",
   title: "Buffalo Wild Wings (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3890297,
   longitude: -111.8255127,
   sourcePlaceId: "ssc:loc:buffalo-wild-wings:lehi",

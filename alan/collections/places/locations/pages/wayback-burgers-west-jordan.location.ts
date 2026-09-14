@@ -6,7 +6,7 @@ export const waybackBurgersWestJordan = {
   slug: "wayback-burgers-west-jordan",
   title: "Wayback Burgers (West Jordan)",
   address: "West Jordan, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.6061337,
   longitude: -111.9395211,
   sourcePlaceId: "ssc:loc:wayback-burgers:west-jordan",

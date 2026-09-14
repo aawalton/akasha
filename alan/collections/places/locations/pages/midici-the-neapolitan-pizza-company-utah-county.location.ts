@@ -6,7 +6,7 @@ export const midiciTheNeapolitanPizzaCompanyUtahCounty = {
   slug: "midici-the-neapolitan-pizza-company-utah-county",
   title: "MidiCi The Neapolitan Pizza Company (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:midici-the-neapolitan-pizza-company:utah-county",

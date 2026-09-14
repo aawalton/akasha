@@ -6,7 +6,7 @@ export const greatHarvestBreadCoProvo = {
   slug: "great-harvest-bread-co-provo",
   title: "Great Harvest Bread Co. (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.257858,
   longitude: -111.6608749,
   sourcePlaceId: "ssc:loc:great-harvest-bread-co:provo",

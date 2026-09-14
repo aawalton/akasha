@@ -6,7 +6,7 @@ export const jambaJuiceDraper = {
   slug: "jamba-juice-draper",
   title: "Jamba Juice (Draper)",
   address: "Draper, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.5264048,
   longitude: -111.886582,
   sourcePlaceId: "ssc:loc:jamba-juice:draper",

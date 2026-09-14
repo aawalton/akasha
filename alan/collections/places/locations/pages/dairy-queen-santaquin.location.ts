@@ -6,7 +6,7 @@ export const dairyQueenSantaquin = {
   slug: "dairy-queen-santaquin",
   title: "Dairy Queen (Santaquin)",
   address: "Santaquin, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 39.9765945,
   longitude: -111.7694046,
   sourcePlaceId: "ssc:loc:dairy-queen:santaquin",

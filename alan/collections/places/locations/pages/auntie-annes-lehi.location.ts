@@ -6,7 +6,7 @@ export const auntieAnnesLehi = {
   slug: "auntie-annes-lehi",
   title: "Auntie Anne's (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.4358245,
   longitude: -111.8854329,
   sourcePlaceId: "ssc:loc:auntie-annes:lehi",

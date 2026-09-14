@@ -6,7 +6,7 @@ export const coldStoneCreameryProvo = {
   slug: "cold-stone-creamery-provo",
   title: "Cold Stone Creamery (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2647753,
   longitude: -111.6689179,
   sourcePlaceId: "ssc:loc:cold-stone-creamery:provo",

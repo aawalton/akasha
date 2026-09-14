@@ -6,7 +6,7 @@ export const thePicklrLehi = {
   slug: "the-picklr-lehi",
   title: "The Picklr (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3881114,
   longitude: -111.8486019,
   sourcePlaceId: "ssc:loc:the-picklr:lehi",

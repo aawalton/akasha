@@ -6,7 +6,7 @@ export const chiropracticAxcessAccidentCenterUtahCounty = {
   slug: "chiropractic-axcess-accident-center-utah-county",
   title: "Chiropractic: Axcess Accident Center (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:chiropractic-axcess-accident-center:utah-county",

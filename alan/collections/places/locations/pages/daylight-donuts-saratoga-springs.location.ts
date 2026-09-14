@@ -6,7 +6,7 @@ export const daylightDonutsSaratogaSprings = {
   slug: "daylight-donuts-saratoga-springs",
   title: "Daylight Donuts (Saratoga Springs)",
   address: "Saratoga Springs, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3739044,
   longitude: -111.9190271,
   sourcePlaceId: "ssc:loc:daylight-donuts:saratoga-springs",

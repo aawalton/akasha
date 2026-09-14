@@ -6,7 +6,7 @@ export const pizzaPieCafeUtahCounty = {
   slug: "pizza-pie-cafe-utah-county",
   title: "Pizza Pie Café (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:pizza-pie-caf:utah-county",

@@ -6,7 +6,7 @@ export const ikesLehi = {
   slug: "ikes-lehi",
   title: "Ike's (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3888114,
   longitude: -111.8314048,
   sourcePlaceId: "ssc:loc:ikes:lehi",

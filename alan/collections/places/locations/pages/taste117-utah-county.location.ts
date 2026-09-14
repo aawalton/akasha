@@ -6,7 +6,7 @@ export const taste117UtahCounty = {
   slug: "taste117-utah-county",
   title: "Taste117 (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:taste117:utah-county",

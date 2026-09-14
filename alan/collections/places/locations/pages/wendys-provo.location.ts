@@ -6,7 +6,7 @@ export const wendysProvo = {
   slug: "wendys-provo",
   title: "Wendy's (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2503615,
   longitude: -111.6567889,
   sourcePlaceId: "ssc:loc:wendys:provo",

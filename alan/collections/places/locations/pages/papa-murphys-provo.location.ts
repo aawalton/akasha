@@ -6,7 +6,7 @@ export const papaMurphysProvo = {
   slug: "papa-murphys-provo",
   title: "Papa Murphy's (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2202848,
   longitude: -111.6583841,
   sourcePlaceId: "ssc:loc:papa-murphys:provo",

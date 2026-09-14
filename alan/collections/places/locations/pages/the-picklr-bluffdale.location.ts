@@ -6,7 +6,7 @@ export const thePicklrBluffdale = {
   slug: "the-picklr-bluffdale",
   title: "The Picklr (Bluffdale)",
   address: "Bluffdale, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.4898176,
   longitude: -111.939284,
   sourcePlaceId: "ssc:loc:the-picklr:bluffdale",

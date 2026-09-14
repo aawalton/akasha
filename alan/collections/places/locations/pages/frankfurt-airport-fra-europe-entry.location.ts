@@ -5,7 +5,7 @@ export const frankfurtAirportFraEuropeEntry = {
   type: "location",
   slug: "frankfurt-airport-fra-europe-entry",
   title: "Frankfurt Airport (FRA) — Europe entry",
-  collection: "europe-trip-2026",
+  collection: "location-collection/europe-trip-2026",
   latitude: 50.0379,
   longitude: 8.5622,
   scheduledEndAt: "2026-07-08T07:55:00.000Z",

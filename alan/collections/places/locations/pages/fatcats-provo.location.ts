@@ -6,7 +6,7 @@ export const fatcatsProvo = {
   slug: "fatcats-provo",
   title: "FatCats (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2337289,
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:fatcats:provo",

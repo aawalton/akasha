@@ -6,7 +6,7 @@ export const mtechCosmetologySpanishFork = {
   slug: "mtech-cosmetology-spanish-fork",
   title: "MTECH Cosmetology (Spanish Fork)",
   address: "Spanish Fork, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1150133,
   longitude: -111.6547774,
   sourcePlaceId: "ssc:loc:mtech-cosmetology:spanish-fork",

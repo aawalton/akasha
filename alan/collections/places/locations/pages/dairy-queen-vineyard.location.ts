@@ -6,7 +6,7 @@ export const dairyQueenVineyard = {
   slug: "dairy-queen-vineyard",
   title: "Dairy Queen (Vineyard)",
   address: "Vineyard, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2975929,
   longitude: -111.734518,
   sourcePlaceId: "ssc:loc:dairy-queen:vineyard",

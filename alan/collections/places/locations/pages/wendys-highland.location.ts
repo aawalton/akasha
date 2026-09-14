@@ -6,7 +6,7 @@ export const wendysHighland = {
   slug: "wendys-highland",
   title: "Wendy's (Highland)",
   address: "Highland, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.4315278,
   longitude: -111.7897911,
   sourcePlaceId: "ssc:loc:wendys:highland",

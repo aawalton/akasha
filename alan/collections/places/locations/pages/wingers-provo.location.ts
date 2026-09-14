@@ -6,7 +6,7 @@ export const wingersProvo = {
   slug: "wingers-provo",
   title: "Wingers (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.217963,
   longitude: -111.662923,
   sourcePlaceId: "ssc:loc:wingers:provo",

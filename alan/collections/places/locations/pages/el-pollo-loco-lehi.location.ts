@@ -6,7 +6,7 @@ export const elPolloLocoLehi = {
   slug: "el-pollo-loco-lehi",
   title: "El Pollo Loco (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3884879,
   longitude: -111.8249082,
   sourcePlaceId: "ssc:loc:el-pollo-loco:lehi",

@@ -6,7 +6,7 @@ export const pier49PizzaProvo = {
   slug: "pier-49-pizza-provo",
   title: "Pier 49 Pizza (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2337289,
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:pier-49-pizza:provo",

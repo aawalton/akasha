@@ -6,7 +6,7 @@ export const peaksIceArenaUtahCounty = {
   slug: "peaks-ice-arena-utah-county",
   title: "Peaks Ice Arena (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:peaks-ice-arena:utah-county",

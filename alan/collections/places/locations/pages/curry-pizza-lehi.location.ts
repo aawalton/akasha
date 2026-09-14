@@ -6,7 +6,7 @@ export const curryPizzaLehi = {
   slug: "curry-pizza-lehi",
   title: "Curry Pizza (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.4278842,
   longitude: -111.8887415,
   sourcePlaceId: "ssc:loc:curry-pizza:lehi",

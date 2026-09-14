@@ -6,7 +6,7 @@ export const jackJillLanesLehi = {
   slug: "jack-jill-lanes-lehi",
   title: "Jack & Jill Lanes (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3867407,
   longitude: -111.8390361,
   sourcePlaceId: "ssc:loc:jack-and-jill-lanes:lehi",

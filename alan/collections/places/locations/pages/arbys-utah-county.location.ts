@@ -6,7 +6,7 @@ export const arbysUtahCounty = {
   slug: "arbys-utah-county",
   title: "Arby's (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:arbys:utah-county",

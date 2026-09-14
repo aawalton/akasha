@@ -6,7 +6,7 @@ export const klucksKrispyChickenSaratogaSprings = {
   slug: "klucks-krispy-chicken-saratoga-springs",
   title: "Klucks Krispy Chicken (Saratoga Springs)",
   address: "Saratoga Springs, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3862792,
   longitude: -111.9130188,
   sourcePlaceId: "ssc:loc:klucks-krispy-chicken:saratoga-springs",

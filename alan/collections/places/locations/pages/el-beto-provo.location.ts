@@ -6,7 +6,7 @@ export const elBetoProvo = {
   slug: "el-beto-provo",
   title: "El Beto (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2337289,
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:el-beto:provo",

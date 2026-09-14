@@ -6,7 +6,7 @@ export const wendysSaratogaSprings = {
   slug: "wendys-saratoga-springs",
   title: "Wendy's (Saratoga Springs)",
   address: "Saratoga Springs, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3869382,
   longitude: -111.9167734,
   sourcePlaceId: "ssc:loc:wendys:saratoga-springs",

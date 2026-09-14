@@ -6,7 +6,7 @@ export const laserAssaultUtahCounty = {
   slug: "laser-assault-utah-county",
   title: "Laser Assault (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:laser-assault:utah-county",

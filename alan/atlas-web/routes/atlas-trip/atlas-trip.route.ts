@@ -14,7 +14,7 @@ export const atlasTrip = {
     },
     {
       invariantKind: "departure",
-      statement: "A trip's stops are the locations whose collection is this collection's slug.",
+      statement: "A trip's stops are the locations naming this collection by page type and slug.",
     },
     {
       invariantKind: "departure",

@@ -6,7 +6,7 @@ export const ritzEatsAndSweetsOrem = {
   slug: "ritz-eats-and-sweets-orem",
   title: "Ritz Eats and Sweets (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2981599,
   longitude: -111.6944313,
   sourcePlaceId: "ssc:loc:ritz-eats-and-sweets:orem",

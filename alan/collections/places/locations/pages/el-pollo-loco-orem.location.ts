@@ -6,7 +6,7 @@ export const elPolloLocoOrem = {
   slug: "el-pollo-loco-orem",
   title: "El Pollo Loco (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2729947,
   longitude: -111.693434,
   sourcePlaceId: "ssc:loc:el-pollo-loco:orem",

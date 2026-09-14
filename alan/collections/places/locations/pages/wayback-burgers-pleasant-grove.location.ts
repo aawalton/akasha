@@ -6,7 +6,7 @@ export const waybackBurgersPleasantGrove = {
   slug: "wayback-burgers-pleasant-grove",
   title: "Wayback Burgers (Pleasant Grove)",
   address: "Pleasant Grove, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3537745,
   longitude: -111.7629425,
   sourcePlaceId: "ssc:loc:wayback-burgers:pleasant-grove",

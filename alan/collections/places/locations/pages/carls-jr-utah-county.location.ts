@@ -6,7 +6,7 @@ export const carlsJrUtahCounty = {
   slug: "carls-jr-utah-county",
   title: "Carl's Jr (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:carls-jr:utah-county",

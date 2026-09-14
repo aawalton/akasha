@@ -6,7 +6,7 @@ export const wendysAmericanFork = {
   slug: "wendys-american-fork",
   title: "Wendy's (American Fork)",
   address: "American Fork, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3743254,
   longitude: -111.7889412,
   sourcePlaceId: "ssc:loc:wendys:american-fork",

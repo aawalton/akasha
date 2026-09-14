@@ -6,7 +6,7 @@ export const outbackSteakhouseOrem = {
   slug: "outback-steakhouse-orem",
   title: "Outback Steakhouse (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2729022,
   longitude: -111.6855561,
   sourcePlaceId: "ssc:loc:outback-steakhouse:orem",

@@ -6,7 +6,7 @@ export const utahCenterForTheCeramicArtsUtahCounty = {
   slug: "utah-center-for-the-ceramic-arts-utah-county",
   title: "Utah Center for the Ceramic Arts (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:utah-center-for-the-ceramic-arts:utah-county",

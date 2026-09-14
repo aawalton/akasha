@@ -6,7 +6,7 @@ export const greaseMonkeyHerriman = {
   slug: "grease-monkey-herriman",
   title: "Grease Monkey (Herriman)",
   address: "Herriman, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.5139784,
   longitude: -112.0329086,
   sourcePlaceId: "ssc:loc:grease-monkey:herriman",

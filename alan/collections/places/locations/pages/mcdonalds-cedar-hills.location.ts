@@ -6,7 +6,7 @@ export const mcdonaldsCedarHills = {
   slug: "mcdonalds-cedar-hills",
   title: "McDonald's (Cedar Hills)",
   address: "Cedar Hills, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.4168414,
   longitude: -111.7730754,
   sourcePlaceId: "ssc:loc:mcdonalds:cedar-hills",

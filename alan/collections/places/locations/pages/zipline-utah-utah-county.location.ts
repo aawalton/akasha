@@ -6,7 +6,7 @@ export const ziplineUtahUtahCounty = {
   slug: "zipline-utah-utah-county",
   title: "Zipline Utah (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:zipline-utah:utah-county",

@@ -6,7 +6,7 @@ export const theHiveTrampolineParkUtahCounty = {
   slug: "the-hive-trampoline-park-utah-county",
   title: "The Hive Trampoline Park (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:the-hive-trampoline-park:utah-county",

@@ -6,7 +6,7 @@ export const byuStoreUtahCounty = {
   slug: "byu-store-utah-county",
   title: "BYU Store (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:byu-store:utah-county",

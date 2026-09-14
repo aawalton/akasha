@@ -6,7 +6,7 @@ export const villageInnProvo = {
   slug: "village-inn-provo",
   title: "Village Inn (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.221489,
   longitude: -111.6584057,
   sourcePlaceId: "ssc:loc:village-inn:provo",

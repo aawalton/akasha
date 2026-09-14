@@ -6,7 +6,7 @@ export const karaoke38UtahCounty = {
   slug: "karaoke38-utah-county",
   title: "Karaoke38 (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:karaoke38:utah-county",

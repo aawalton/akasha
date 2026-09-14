@@ -6,7 +6,7 @@ export const jackJillLanesAmericanFork = {
   slug: "jack-jill-lanes-american-fork",
   title: "Jack & Jill Lanes (American Fork)",
   address: "American Fork, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3745715,
   longitude: -111.7787242,
   sourcePlaceId: "ssc:loc:jack-and-jill-lanes:american-fork",

@@ -6,7 +6,7 @@ export const drybarcomedyComProvo = {
   slug: "drybarcomedy-com-provo",
   title: "DryBarComedy.com (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2337289,
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:drybarcomedy-com:provo",

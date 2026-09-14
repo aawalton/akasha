@@ -6,7 +6,7 @@ export const brazucaPizzaUtahCounty = {
   slug: "brazuca-pizza-utah-county",
   title: "Brazuca Pizza (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:brazuca-pizza:utah-county",

@@ -6,7 +6,7 @@ export const auntieAnnesDraper = {
   slug: "auntie-annes-draper",
   title: "Auntie Anne's (Draper)",
   address: "Draper, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.5247777,
   longitude: -111.8627989,
   sourcePlaceId: "ssc:loc:auntie-annes:draper",

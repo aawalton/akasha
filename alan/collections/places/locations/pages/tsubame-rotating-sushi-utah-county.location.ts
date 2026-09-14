@@ -6,7 +6,7 @@ export const tsubameRotatingSushiUtahCounty = {
   slug: "tsubame-rotating-sushi-utah-county",
   title: "Tsubame Rotating Sushi (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:tsubame-rotating-sushi:utah-county",

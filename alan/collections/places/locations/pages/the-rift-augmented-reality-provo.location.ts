@@ -6,7 +6,7 @@ export const theRiftAugmentedRealityProvo = {
   slug: "the-rift-augmented-reality-provo",
   title: "The Rift Augmented Reality (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2337289,
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:the-rift-augmented-reality:provo",

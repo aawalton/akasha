@@ -6,7 +6,7 @@ export const mcdonaldsPleasantGrove = {
   slug: "mcdonalds-pleasant-grove",
   title: "McDonald's (Pleasant Grove)",
   address: "Pleasant Grove, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3548874,
   longitude: -111.7361532,
   sourcePlaceId: "ssc:loc:mcdonalds:pleasant-grove",

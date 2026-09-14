@@ -6,7 +6,7 @@ export const quenchItBluffdale = {
   slug: "quench-it-bluffdale",
   title: "Quench It (Bluffdale)",
   address: "Bluffdale, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.4850716,
   longitude: -111.9051748,
   sourcePlaceId: "ssc:loc:quench-it:bluffdale",

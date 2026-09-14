@@ -6,7 +6,7 @@ export const onohsMalasadaCoUtahCounty = {
   slug: "onohs-malasada-co-utah-county",
   title: "Onoh's Malasada Co (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:onohs-malasada-co:utah-county",

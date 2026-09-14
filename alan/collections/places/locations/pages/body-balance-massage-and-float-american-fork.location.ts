@@ -6,7 +6,7 @@ export const bodyBalanceMassageAndFloatAmericanFork = {
   slug: "body-balance-massage-and-float-american-fork",
   title: "Body Balance Massage and Float (American Fork)",
   address: "American Fork, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.369623,
   longitude: -111.7857619,
   sourcePlaceId: "ssc:loc:body-balance-massage-and-float:american-fork",

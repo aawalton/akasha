@@ -6,7 +6,7 @@ export const freddysFrozenCustardSteakburgersUtahCounty = {
   slug: "freddys-frozen-custard-steakburgers-utah-county",
   title: "Freddy's Frozen Custard & Steakburgers (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:freddys-frozen-custard-and-steakburgers:utah-county",

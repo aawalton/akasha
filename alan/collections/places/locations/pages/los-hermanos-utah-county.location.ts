@@ -6,7 +6,7 @@ export const losHermanosUtahCounty = {
   slug: "los-hermanos-utah-county",
   title: "Los Hermanos (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:los-hermanos:utah-county",

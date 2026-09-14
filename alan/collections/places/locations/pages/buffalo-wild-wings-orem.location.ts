@@ -6,7 +6,7 @@ export const buffaloWildWingsOrem = {
   slug: "buffalo-wild-wings-orem",
   title: "Buffalo Wild Wings (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2981599,
   longitude: -111.6944313,
   sourcePlaceId: "ssc:loc:buffalo-wild-wings:orem",

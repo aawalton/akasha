@@ -6,7 +6,7 @@ export const wingNutzOrem = {
   slug: "wing-nutz-orem",
   title: "Wing Nutz (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2776812,
   longitude: -111.6775826,
   sourcePlaceId: "ssc:loc:wing-nutz:orem",

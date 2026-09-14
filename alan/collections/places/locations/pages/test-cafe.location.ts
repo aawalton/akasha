@@ -7,7 +7,7 @@ export const testCafe = {
   title: "Test Cafe",
   address: "123 Test St",
   locationCategory: "Cafe",
-  collection: "my-places",
+  collection: "location-collection/my-places",
   cuisineOrType: "Coffee",
   visited: false,
 } as const satisfies Location

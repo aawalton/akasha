@@ -6,7 +6,7 @@ export const bahamaBucksProvoAb5c = {
   slug: "bahama-bucks-provo-ab5c",
   title: "Bahama Buck's (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2637848,
   longitude: -111.6694939,
   sourcePlaceId: "ssc:loc:bahama-bucks:provo",

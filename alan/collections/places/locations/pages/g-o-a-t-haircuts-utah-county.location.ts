@@ -6,7 +6,7 @@ export const gOATHaircutsUtahCounty = {
   slug: "g-o-a-t-haircuts-utah-county",
   title: "G.O.A.T Haircuts (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:g-o-a-t-haircuts:utah-county",

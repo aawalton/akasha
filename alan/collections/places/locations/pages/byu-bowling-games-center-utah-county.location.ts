@@ -6,7 +6,7 @@ export const byuBowlingGamesCenterUtahCounty = {
   slug: "byu-bowling-games-center-utah-county",
   title: "BYU Bowling & Games Center (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:byu-bowling-and-games-center:utah-county",

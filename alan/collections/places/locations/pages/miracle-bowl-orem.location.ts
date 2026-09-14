@@ -6,7 +6,7 @@ export const miracleBowlOrem = {
   slug: "miracle-bowl-orem",
   title: "Miracle Bowl (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2685023,
   longitude: -111.6812849,
   sourcePlaceId: "ssc:loc:miracle-bowl:orem",

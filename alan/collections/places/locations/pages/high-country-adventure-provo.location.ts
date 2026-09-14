@@ -6,7 +6,7 @@ export const highCountryAdventureProvo = {
   slug: "high-country-adventure-provo",
   title: "High Country Adventure (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2337289,
   longitude: -111.6587085,
   sourcePlaceId: "ssc:loc:high-country-adventure:provo",

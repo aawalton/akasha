@@ -6,7 +6,7 @@ export const paulMitchellTheSchoolProvoProvo = {
   slug: "paul-mitchell-the-school-provo-provo",
   title: "Paul Mitchell the School Provo (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.240971,
   longitude: -111.685758,
   sourcePlaceId: "ssc:loc:paul-mitchell-the-school-provo:provo",

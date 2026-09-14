@@ -6,7 +6,7 @@ export const jcwsUtahCounty = {
   slug: "jcws-utah-county",
   title: "JCW's (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:jcws:utah-county",

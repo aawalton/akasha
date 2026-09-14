@@ -6,7 +6,7 @@ export const mcdonaldsOrem = {
   slug: "mcdonalds-orem",
   title: "McDonald's (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2742733,
   longitude: -111.7127644,
   sourcePlaceId: "ssc:loc:mcdonalds:orem",

@@ -6,7 +6,7 @@ export const wendysOrem = {
   slug: "wendys-orem",
   title: "Wendy's (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3154043,
   longitude: -111.7035835,
   sourcePlaceId: "ssc:loc:wendys:orem",

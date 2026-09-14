@@ -6,7 +6,7 @@ export const twistedSugarSaratogaSprings = {
   slug: "twisted-sugar-saratoga-springs",
   title: "Twisted Sugar (Saratoga Springs)",
   address: "Saratoga Springs, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3881892,
   longitude: -111.9106887,
   sourcePlaceId: "ssc:loc:twisted-sugar:saratoga-springs",

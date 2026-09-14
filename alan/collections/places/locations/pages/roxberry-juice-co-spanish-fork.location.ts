@@ -6,7 +6,7 @@ export const roxberryJuiceCoSpanishFork = {
   slug: "roxberry-juice-co-spanish-fork",
   title: "Roxberry Juice Co. (Spanish Fork)",
   address: "Spanish Fork, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.123402,
   longitude: -111.644872,
   sourcePlaceId: "ssc:loc:roxberry-juice-co:spanish-fork",

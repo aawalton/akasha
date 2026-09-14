@@ -6,7 +6,7 @@ export const jambaJuiceProvo = {
   slug: "jamba-juice-provo",
   title: "Jamba Juice (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2481866,
   longitude: -111.654986,
   sourcePlaceId: "ssc:loc:jamba-juice:provo",

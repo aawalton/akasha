@@ -6,7 +6,7 @@ export const tacoTimeOrem = {
   slug: "taco-time-orem",
   title: "Taco Time (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3123487,
   longitude: -111.7209093,
   sourcePlaceId: "ssc:loc:taco-time:orem",

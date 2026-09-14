@@ -6,7 +6,7 @@ export const scratchMiniatureGolfUtahCounty = {
   slug: "scratch-miniature-golf-utah-county",
   title: "Scratch Miniature Golf (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:scratch-miniature-golf:utah-county",

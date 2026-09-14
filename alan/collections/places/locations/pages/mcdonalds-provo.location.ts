@@ -6,7 +6,7 @@ export const mcdonaldsProvo = {
   slug: "mcdonalds-provo",
   title: "McDonald's (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2172345,
   longitude: -111.6583911,
   sourcePlaceId: "ssc:loc:mcdonalds:provo",

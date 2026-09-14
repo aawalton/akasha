@@ -6,7 +6,7 @@ export const twistedSugarPleasantGrove = {
   slug: "twisted-sugar-pleasant-grove",
   title: "Twisted Sugar (Pleasant Grove)",
   address: "Pleasant Grove, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3536473,
   longitude: -111.7627319,
   sourcePlaceId: "ssc:loc:twisted-sugar:pleasant-grove",

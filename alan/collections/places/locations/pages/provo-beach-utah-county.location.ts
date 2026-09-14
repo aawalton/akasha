@@ -6,7 +6,7 @@ export const provoBeachUtahCounty = {
   slug: "provo-beach-utah-county",
   title: "Provo Beach (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:provo-beach:utah-county",

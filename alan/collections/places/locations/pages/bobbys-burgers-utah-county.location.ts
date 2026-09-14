@@ -6,7 +6,7 @@ export const bobbysBurgersUtahCounty = {
   slug: "bobbys-burgers-utah-county",
   title: "Bobbys Burgers (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:bobbys-burgers:utah-county",

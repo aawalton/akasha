@@ -6,7 +6,7 @@ export const badAppleFixitUtahCounty = {
   slug: "bad-apple-fixit-utah-county",
   title: "Bad Apple & FIXIT (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:bad-apple-and-fixit:utah-county",

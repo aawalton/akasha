@@ -5,7 +5,7 @@ export const esoTavern2026BurgLudwigstein = {
   type: "location",
   slug: "eso-tavern-2026-burg-ludwigstein",
   title: "ESO Tavern 2026 — Burg Ludwigstein",
-  collection: "europe-trip-2026",
+  collection: "location-collection/europe-trip-2026",
   latitude: 51.3217,
   longitude: 9.9092,
   scheduledEndAt: "2026-07-12T12:00:00.000Z",

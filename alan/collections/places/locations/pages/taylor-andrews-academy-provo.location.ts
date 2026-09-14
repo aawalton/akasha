@@ -6,7 +6,7 @@ export const taylorAndrewsAcademyProvo = {
   slug: "taylor-andrews-academy-provo",
   title: "Taylor Andrews Academy (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2615222,
   longitude: -111.6692658,
   sourcePlaceId: "ssc:loc:taylor-andrews-academy:provo",

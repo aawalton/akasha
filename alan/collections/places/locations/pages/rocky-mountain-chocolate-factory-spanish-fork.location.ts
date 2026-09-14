@@ -6,7 +6,7 @@ export const rockyMountainChocolateFactorySpanishFork = {
   slug: "rocky-mountain-chocolate-factory-spanish-fork",
   title: "Rocky Mountain Chocolate Factory (Spanish Fork)",
   address: "Spanish Fork, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1150133,
   longitude: -111.6547774,
   sourcePlaceId: "ssc:loc:rocky-mountain-chocolate-factory:spanish-fork",

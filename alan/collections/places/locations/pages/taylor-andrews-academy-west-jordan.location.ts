@@ -6,7 +6,7 @@ export const taylorAndrewsAcademyWestJordan = {
   slug: "taylor-andrews-academy-west-jordan",
   title: "Taylor Andrews Academy (West Jordan)",
   address: "West Jordan, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.5868005,
   longitude: -111.9343903,
   sourcePlaceId: "ssc:loc:taylor-andrews-academy:west-jordan",

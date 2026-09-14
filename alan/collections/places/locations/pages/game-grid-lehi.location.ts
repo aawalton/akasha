@@ -6,7 +6,7 @@ export const gameGridLehi = {
   slug: "game-grid-lehi",
   title: "Game Grid (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3834236,
   longitude: -111.8327824,
   sourcePlaceId: "ssc:loc:game-grid:lehi",

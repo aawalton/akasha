@@ -6,7 +6,7 @@ export const jambaJuiceWestJordan = {
   slug: "jamba-juice-west-jordan",
   title: "Jamba Juice (West Jordan)",
   address: "West Jordan, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.6114371,
   longitude: -111.9837847,
   sourcePlaceId: "ssc:loc:jamba-juice:west-jordan",

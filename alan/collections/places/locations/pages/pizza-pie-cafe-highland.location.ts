@@ -6,7 +6,7 @@ export const pizzaPieCafeHighland = {
   slug: "pizza-pie-cafe-highland",
   title: "Pizza Pie Café (Highland)",
   address: "Highland, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.4309056,
   longitude: -111.7879811,
   sourcePlaceId: "ssc:loc:pizza-pie-caf:highland",

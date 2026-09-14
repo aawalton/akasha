@@ -6,7 +6,7 @@ export const nothingBundtCakesUtahCounty = {
   slug: "nothing-bundt-cakes-utah-county",
   title: "Nothing Bundt Cakes (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:nothing-bundt-cakes:utah-county",

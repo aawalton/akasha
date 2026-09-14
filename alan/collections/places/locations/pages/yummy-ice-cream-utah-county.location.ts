@@ -6,7 +6,7 @@ export const yummyIceCreamUtahCounty = {
   slug: "yummy-ice-cream-utah-county",
   title: "Yummy Ice Cream (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:yummy-ice-cream:utah-county",

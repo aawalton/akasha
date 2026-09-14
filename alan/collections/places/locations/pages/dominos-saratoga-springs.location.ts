@@ -6,7 +6,7 @@ export const dominosSaratogaSprings = {
   slug: "dominos-saratoga-springs",
   title: "Domino's (Saratoga Springs)",
   address: "Saratoga Springs, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3915736,
   longitude: -111.9174495,
   sourcePlaceId: "ssc:loc:dominos:saratoga-springs",

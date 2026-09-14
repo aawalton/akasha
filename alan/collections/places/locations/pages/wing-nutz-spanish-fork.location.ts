@@ -6,7 +6,7 @@ export const wingNutzSpanishFork = {
   slug: "wing-nutz-spanish-fork",
   title: "Wing Nutz (Spanish Fork)",
   address: "Spanish Fork, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1254317,
   longitude: -111.6396926,
   sourcePlaceId: "ssc:loc:wing-nutz:spanish-fork",

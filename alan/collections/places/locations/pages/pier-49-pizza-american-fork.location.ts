@@ -6,7 +6,7 @@ export const pier49PizzaAmericanFork = {
   slug: "pier-49-pizza-american-fork",
   title: "Pier 49 Pizza (American Fork)",
   address: "American Fork, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3784742,
   longitude: -111.8187387,
   sourcePlaceId: "ssc:loc:pier-49-pizza:american-fork",

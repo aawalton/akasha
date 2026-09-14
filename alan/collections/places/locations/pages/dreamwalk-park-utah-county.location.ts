@@ -6,7 +6,7 @@ export const dreamwalkParkUtahCounty = {
   slug: "dreamwalk-park-utah-county",
   title: "Dreamwalk Park (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:dreamwalk-park:utah-county",

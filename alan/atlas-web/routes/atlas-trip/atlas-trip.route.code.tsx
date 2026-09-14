@@ -18,6 +18,7 @@ import {
 import { getPageByIdSuffix, getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import type { PageOrder, PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   buildPageHref,
   parsePageHrefParam,
@@ -112,7 +113,7 @@ export async function loader({
       ? { rows: [] as readonly Page[], count: 0 }
       : await getPages({
           pageTypeSlug: STOP_SLUG,
-          where: [{ key: "collection", eq: collectionSlug }],
+          where: [{ key: "collection", eq: namedAs(COLLECTION_SLUG, collectionSlug, null) }],
           select: STOP_SELECT,
           order: STOP_ORDER,
           limit: STOPS_LIMIT,

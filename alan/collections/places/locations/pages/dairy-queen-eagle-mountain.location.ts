@@ -6,7 +6,7 @@ export const dairyQueenEagleMountain = {
   slug: "dairy-queen-eagle-mountain",
   title: "Dairy Queen (Eagle Mountain)",
   address: "Eagle Mountain, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3085412,
   longitude: -112.0157056,
   sourcePlaceId: "ssc:loc:dairy-queen:eagle-mountain",

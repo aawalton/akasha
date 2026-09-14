@@ -6,7 +6,7 @@ export const goldenCorralBuffetOrem = {
   slug: "golden-corral-buffet-orem",
   title: "Golden Corral Buffet (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.2729987,
   longitude: -111.699554,
   sourcePlaceId: "ssc:loc:golden-corral-buffet:orem",

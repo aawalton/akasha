@@ -6,7 +6,7 @@ export const rollUpCrepesSpanishFork = {
   slug: "roll-up-crepes-spanish-fork",
   title: "Roll Up Crepes (Spanish Fork)",
   address: "Spanish Fork, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1150133,
   longitude: -111.6547774,
   sourcePlaceId: "ssc:loc:roll-up-crepes:spanish-fork",

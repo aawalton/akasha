@@ -6,7 +6,7 @@ export const uvuScoopsUtahCounty = {
   slug: "uvu-scoops-utah-county",
   title: "UVU Scoops (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:uvu-scoops:utah-county",

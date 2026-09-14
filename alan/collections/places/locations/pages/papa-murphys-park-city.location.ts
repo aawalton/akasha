@@ -6,7 +6,7 @@ export const papaMurphysParkCity = {
   slug: "papa-murphys-park-city",
   title: "Papa Murphy's (Park City)",
   address: "Park City, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.7843591,
   longitude: -111.938039,
   sourcePlaceId: "ssc:loc:papa-murphys:park-city",

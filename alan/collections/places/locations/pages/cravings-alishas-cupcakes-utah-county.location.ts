@@ -6,7 +6,7 @@ export const cravingsAlishasCupcakesUtahCounty = {
   slug: "cravings-alishas-cupcakes-utah-county",
   title: "Cravings Alisha's Cupcakes (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:cravings-alishas-cupcakes:utah-county",

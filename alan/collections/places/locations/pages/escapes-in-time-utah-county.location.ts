@@ -6,7 +6,7 @@ export const escapesInTimeUtahCounty = {
   slug: "escapes-in-time-utah-county",
   title: "Escapes In Time (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:escapes-in-time:utah-county",

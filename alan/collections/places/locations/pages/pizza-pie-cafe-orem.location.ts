@@ -6,7 +6,7 @@ export const pizzaPieCafeOrem = {
   slug: "pizza-pie-cafe-orem",
   title: "Pizza Pie Café (Orem)",
   address: "Orem, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3261962,
   longitude: -111.7097544,
   sourcePlaceId: "ssc:loc:pizza-pie-caf:orem",

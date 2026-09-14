@@ -6,7 +6,7 @@ export const gurusCafeProvo = {
   slug: "gurus-cafe-provo",
   title: "Gurus Cafe (Provo)",
   address: "Provo, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.213777,
   longitude: -111.712771,
   sourcePlaceId: "ssc:loc:gurus-cafe:provo",

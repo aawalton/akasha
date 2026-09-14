@@ -6,7 +6,7 @@ export const greaseMonkeyLehi = {
   slug: "grease-monkey-lehi",
   title: "Grease Monkey (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.4313389,
   longitude: -111.8280977,
   sourcePlaceId: "ssc:loc:grease-monkey:lehi",

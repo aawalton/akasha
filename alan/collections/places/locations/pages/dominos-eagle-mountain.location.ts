@@ -6,7 +6,7 @@ export const dominosEagleMountain = {
   slug: "dominos-eagle-mountain",
   title: "Domino's (Eagle Mountain)",
   address: "Eagle Mountain, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3073586,
   longitude: -112.0184476,
   sourcePlaceId: "ssc:loc:dominos:eagle-mountain",

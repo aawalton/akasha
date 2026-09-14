@@ -6,7 +6,7 @@ export const fabulousFreddysLehi = {
   slug: "fabulous-freddys-lehi",
   title: "Fabulous Freddy's (Lehi)",
   address: "Lehi, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.3889121,
   longitude: -111.8307768,
   sourcePlaceId: "ssc:loc:fabulous-freddys:lehi",

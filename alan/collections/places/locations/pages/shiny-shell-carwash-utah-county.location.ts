@@ -6,7 +6,7 @@ export const shinyShellCarwashUtahCounty = {
   slug: "shiny-shell-carwash-utah-county",
   title: "Shiny Shell Carwash (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:shiny-shell-carwash:utah-county",

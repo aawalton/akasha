@@ -6,7 +6,7 @@ export const theSmokedTacoUtahCounty = {
   slug: "the-smoked-taco-utah-county",
   title: "The Smoked Taco (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:the-smoked-taco:utah-county",

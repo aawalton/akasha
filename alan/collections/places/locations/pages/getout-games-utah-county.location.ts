@@ -6,7 +6,7 @@ export const getoutGamesUtahCounty = {
   slug: "getout-games-utah-county",
   title: "GetOut Games (Utah County)",
   address: "Utah County, UT",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   latitude: 40.1197,
   longitude: -111.658,
   sourcePlaceId: "ssc:loc:getout-games:utah-county",
