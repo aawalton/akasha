@@ -5,7 +5,7 @@ export const tossD = {
   type: "restaurant",
   slug: "toss-d",
   title: "Toss’d",
-  partOfCollections: ["provo-restaurants"],
+  partOfCollections: ["restaurant-collection/provo-restaurants"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

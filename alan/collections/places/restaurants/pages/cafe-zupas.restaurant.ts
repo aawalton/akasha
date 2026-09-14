@@ -5,7 +5,7 @@ export const cafeZupas = {
   type: "restaurant",
   slug: "cafe-zupas",
   title: "Cafe Zupas",
-  partOfCollections: ["provo-restaurants"],
+  partOfCollections: ["restaurant-collection/provo-restaurants"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

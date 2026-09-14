@@ -5,7 +5,7 @@ export const vessel = {
   type: "restaurant",
   slug: "vessel",
   title: "Vessel",
-  partOfCollections: ["provo-restaurants"],
+  partOfCollections: ["restaurant-collection/provo-restaurants"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

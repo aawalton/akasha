@@ -5,7 +5,7 @@ export const ambrosiaBakery = {
   type: "restaurant",
   slug: "ambrosia-bakery",
   title: "Ambrosia Bakery",
-  partOfCollections: ["provo-restaurants"],
+  partOfCollections: ["restaurant-collection/provo-restaurants"],
   position: 0,
   ownLength: 6250,
   ownProgress: 6250,
