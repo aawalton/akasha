@@ -111,7 +111,6 @@ export const temper = {
     "domain/temper-trading-pricing-client",
     "domain/temper-ui-reload",
     "domain/temper-upstream-data",
-    "domain/temper-watcher",
     "eso-addon/temper-antiquities-addon",
     "eso-addon/temper-capture-datamining-addon",
     "eso-addon/temper-capture-sales-addon",
@@ -163,6 +162,7 @@ export const temper = {
     "page-type/temper-thing",
     "router-app/temper-web",
     "rust-crate/watcher-tray",
+    "service-workstation/temper-watcher",
   ],
   invariants: [
     {
