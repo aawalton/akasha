@@ -103,5 +103,9 @@ export const pageEntryLanding = {
       invariantKind: "gap",
       statement: "Nothing here has a lock against another writer of the same file.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Nothing but this module's own test lands a property's values whole.",
+    },
   ],
 } as const satisfies Module
