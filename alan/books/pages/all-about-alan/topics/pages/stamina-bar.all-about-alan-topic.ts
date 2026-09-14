@@ -7,5 +7,5 @@ export const staminaBar = {
   title: "Stamina Bar",
   definition: "what my body has left to move with",
   parents: ["resource-bars"],
-  related: ["mana-bar"],
+  related: ["all-about-alan-topic/mana-bar"],
 } as const satisfies AllAboutAlanTopic

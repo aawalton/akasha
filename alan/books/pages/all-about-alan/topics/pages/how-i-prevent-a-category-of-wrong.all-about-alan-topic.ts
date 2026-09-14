@@ -8,10 +8,10 @@ export const howIPreventACategoryOfWrong = {
   definition: "what I do with a failure once I have seen it",
   parents: ["the-scaffolding-i-built"],
   related: [
-    "what-the-book-of-me-is-for",
-    "why-i-rebuilt-everything",
-    "how-many-checks-i-run",
-    "the-three-ways-an-agent-gets-it-wrong",
+    "all-about-alan-topic/what-the-book-of-me-is-for",
+    "all-about-alan-topic/why-i-rebuilt-everything",
+    "all-about-alan-topic/how-many-checks-i-run",
+    "all-about-alan-topic/the-three-ways-an-agent-gets-it-wrong",
   ],
   settled:
     "For every failure I ask what went wrong, and how that category of wrong can be prevented.\n\nSome things can be prevented programmatically, through checks or architecture. Some only through agent instructions.\n\nChecks always win. Instructions are only for things a check cannot catch.\n\nThat includes telling agents what the checks are catching, so agents do not corrupt the checks.\n\nThe failure neither a check nor an instruction can prevent is agents not knowing what is in my head.",

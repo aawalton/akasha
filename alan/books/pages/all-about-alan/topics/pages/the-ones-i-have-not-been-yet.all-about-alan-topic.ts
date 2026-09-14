@@ -9,9 +9,9 @@ export const theOnesIHaveNotBeenYet = {
     "about half a billion selves ahead of me, and the veto they put on anything I cannot undo",
   parents: ["the-crowd-that-has-been-me"],
   related: [
-    "how-i-make-a-decision-i-cannot-undo",
-    "the-ethics-i-worked-out",
-    "the-three-seconds-i-am",
+    "all-about-alan-topic/how-i-make-a-decision-i-cannot-undo",
+    "all-about-alan-topic/the-ethics-i-worked-out",
+    "all-about-alan-topic/the-three-seconds-i-am",
   ],
   settled:
     "Forward the count is the wall against acting: an irreversible act ends all of them.\n\nIt comes from a branching rate times the years I have left.\n\nThey stand equal with me rather than below me, so what I owe them is fairness rather than discipline.",

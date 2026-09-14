@@ -8,7 +8,10 @@ export const whatMyScaffoldingBuysMe = {
   definition:
     "the strengths my harness gets to a finish that my executive function could not have alone",
   parents: ["the-scaffolding-i-built"],
-  related: ["how-i-get-anything-done", "how-different-i-actually-am"],
+  related: [
+    "all-about-alan-topic/how-i-get-anything-done",
+    "all-about-alan-topic/how-different-i-actually-am",
+  ],
   settled:
     "It routes four things into work: hyperfocus, depth across several streams at once, systematic precision, and how far my pattern recognition reaches.\n\nWithout it those sit behind an executive function that cannot get them to a finish.",
 } as const satisfies AllAboutAlanTopic

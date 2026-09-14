@@ -8,9 +8,9 @@ export const whatMakesAPersonExpensive = {
   definition: "what drives the difficulty I rate time with a particular person at",
   parents: ["how-much-company-i-can-take"],
   related: [
-    "why-i-overspend-on-the-marriage",
-    "why-getting-close-hurts",
-    "why-people-read-as-unsafe",
+    "all-about-alan-topic/why-i-overspend-on-the-marriage",
+    "all-about-alan-topic/why-getting-close-hurts",
+    "all-about-alan-topic/why-people-read-as-unsafe",
   ],
   settled:
     "Conflict is the single biggest factor in what a person's company costs me.\n\nLizzy is usually a two, and I think that is because she is very conflict-avoidant.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.",

@@ -8,6 +8,9 @@ export const gettingBackToMakingWithMyHands = {
   definition:
     "the ways back into making things by hand, and why none of them has any data behind it",
   parents: ["where-the-scar-ends"],
-  related: ["playing-again", "what-a-persona-makes-cheaper"],
+  related: [
+    "all-about-alan-topic/playing-again",
+    "all-about-alan-topic/what-a-persona-makes-cheaper",
+  ],
   settled: "The gate has correctly kept me out, so there is no attempt to learn from.",
 } as const satisfies AllAboutAlanTopic

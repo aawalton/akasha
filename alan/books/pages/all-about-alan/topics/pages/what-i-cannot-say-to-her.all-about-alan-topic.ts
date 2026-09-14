@@ -9,9 +9,9 @@ export const whatICannotSayToHer = {
     "her stability and her feeling loved both need my silence, and being met needs me to speak",
   parents: ["being-alone-at-the-centre"],
   related: [
-    "the-person-i-could-relax-around",
-    "why-i-keep-hard-truths-back",
-    "what-it-costs-someone-to-know-me",
+    "all-about-alan-topic/the-person-i-could-relax-around",
+    "all-about-alan-topic/why-i-keep-hard-truths-back",
+    "all-about-alan-topic/what-it-costs-someone-to-know-me",
   ],
   settled:
     "Both her needs run through one valve: do not show her the changes, do not say what the loving behaviour comes from.\n\nSo every increment of her being met is an increment of my staying unknown.\n\nHer resistance is defence of her stability, not a verdict on who I have become.\n\nEach attempt that meets resistance hardens the not-accepted reading rather than softening it.",

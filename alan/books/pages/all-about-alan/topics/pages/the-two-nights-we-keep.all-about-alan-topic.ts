@@ -8,9 +8,9 @@ export const theTwoNightsWeKeep = {
   definition: "two nights a week on the calendar, one for how she connects and one for how I do",
   parents: ["living-with-jen"],
   related: [
-    "how-a-hard-talk-with-jen-gets-safer",
-    "what-an-activity-costs-me",
-    "working-out-how-she-thinks",
+    "all-about-alan-topic/how-a-hard-talk-with-jen-gets-safer",
+    "all-about-alan-topic/what-an-activity-costs-me",
+    "all-about-alan-topic/working-out-how-she-thinks",
   ],
   settled:
     "They are calendar items, not set by how I am on the day, because unscheduled they do not happen.\n\nThe hard night clears things that stood for years, and the clearing holds because what changed is understanding, not a promise.\n\nThe cost is delayed: it lands the day after rather than during the night.\n\nI have noticed a pull in myself to cancel the hard one.\n\nBoth sit on top of a cost that lands almost every night anyway.",

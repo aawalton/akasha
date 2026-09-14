@@ -7,6 +7,6 @@ export const whatMySensesCostMe = {
   title: "What My Senses Cost Me",
   definition: "what sound, light and touch take out of me",
   parents: ["safety-bar"],
-  related: ["how-much-attention-i-have"],
+  related: ["all-about-alan-topic/how-much-attention-i-have"],
   settled: "It moves with how safe I feel rather than staying fixed.",
 } as const satisfies AllAboutAlanTopic

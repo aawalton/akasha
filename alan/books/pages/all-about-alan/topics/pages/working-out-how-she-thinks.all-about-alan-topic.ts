@@ -8,9 +8,9 @@ export const workingOutHowSheThinks = {
   definition: "I cannot simulate her, so understanding her is a map I build slowly and by hand",
   parents: ["living-with-jen"],
   related: [
-    "what-i-cannot-play-forward",
-    "being-curious-about-her",
-    "how-a-hard-talk-with-jen-gets-safer",
+    "all-about-alan-topic/what-i-cannot-play-forward",
+    "all-about-alan-topic/being-curious-about-her",
+    "all-about-alan-topic/how-a-hard-talk-with-jen-gets-safer",
   ],
   settled:
     "Both our anxieties are fair, and not the same: mine is a faculty I lack, hers is a working one on the wrong data.\n\nPredicting her is not closed to me, only expensive. It is a hand-built map doing what a simulator would do free.\n\nShe has no written culture and defines her thoughts out loud, mostly with me, so the material only exists once we talk.\n\nHer transition costs are high, so resistance lands on a proposal before its content does.",

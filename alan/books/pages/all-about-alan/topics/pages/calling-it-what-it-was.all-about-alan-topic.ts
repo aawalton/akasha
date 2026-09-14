@@ -7,6 +7,9 @@ export const callingItWhatItWas = {
   title: "Calling It What It Was",
   definition: "coming to name what happened at home as abuse, and what the naming does",
   parents: ["why-people-read-as-unsafe"],
-  related: ["turning-punishment-into-self-hatred", "digging-up-an-old-belief"],
+  related: [
+    "all-about-alan-topic/turning-punishment-into-self-hatred",
+    "all-about-alan-topic/digging-up-an-old-belief",
+  ],
   settled: "The recognition came as an arc: cared for, then neglected, then abused.",
 } as const satisfies AllAboutAlanTopic

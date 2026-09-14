@@ -9,9 +9,9 @@ export const theYearsWithMyParents = {
     "my father's last years and my mother's, and the whole run of it that is nowhere written down",
   parents: ["the-chapters-of-my-life"],
   related: [
-    "what-the-book-of-me-is-for",
-    "why-getting-close-hurts",
-    "blank-check-mode-and-recovery-mode",
+    "all-about-alan-topic/what-the-book-of-me-is-for",
+    "all-about-alan-topic/why-getting-close-hurts",
+    "all-about-alan-topic/blank-check-mode-and-recovery-mode",
   ],
   settled:
     "My parents explicitly called their parenting philosophy benevolent neglect. It took me thirty-eight years to realize that is a kind of neglect.",

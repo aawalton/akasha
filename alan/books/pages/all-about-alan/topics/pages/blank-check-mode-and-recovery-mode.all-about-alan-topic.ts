@@ -8,10 +8,10 @@ export const blankCheckModeAndRecoveryMode = {
   definition: "the two extremes I have lived at, one paying any cost and one counting every cost",
   parents: ["the-marriage-lever-i-cannot-read", "the-two-decades-i-came-through"],
   related: [
-    "the-budget-i-run-my-days-on",
-    "when-i-lost-who-i-was",
-    "the-years-with-my-parents",
-    "digging-up-an-old-belief",
+    "all-about-alan-topic/the-budget-i-run-my-days-on",
+    "all-about-alan-topic/when-i-lost-who-i-was",
+    "all-about-alan-topic/the-years-with-my-parents",
+    "all-about-alan-topic/digging-up-an-old-belief",
   ],
   settled:
     "I have lived at both ends of this trade, which is how I know the middle beats either one.\n\nBlank check mode was paying whatever was needed without counting the cost. I ran it for at least eighteen years, and it reached my employer as much as it reached my marriage. I left it because it broke me.\n\nNo fear of counting held me there. I did not realize that not writing the blank check was an option.\n\nI have been out of it for about two years, starting about six months before the firing. What started me counting was realizing that blank check mode was a trauma response to being neglected as a child. The belief I put in its place is that my needs are just as important as the needs of others.\n\nEmployment only worked while I gave my employer a blank check too, so switching out of the mode is part of what caused the firing.\n\nRecovery mode was all surplus. I ran that for eighteen months and it almost broke the marriage. July 6, 2026 was my first day out of it.",

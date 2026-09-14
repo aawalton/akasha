@@ -8,9 +8,9 @@ export const whyIKeepMyDataInFiles = {
   definition: "why my context lives in files an agent can grep rather than in a database",
   parents: ["the-scaffolding-i-built"],
   related: [
-    "why-i-rebuilt-everything",
-    "what-i-gave-up-leaving-postgres",
-    "what-i-invented-and-what-i-read",
+    "all-about-alan-topic/why-i-rebuilt-everything",
+    "all-about-alan-topic/what-i-gave-up-leaving-postgres",
+    "all-about-alan-topic/what-i-invented-and-what-i-read",
   ],
   settled:
     "A database assumes you know exactly what you are looking for.\n\nA file system with grep assumes you do not know exactly what you are looking for, which is a much better fit for this case.\n\nI built a fully file-backed database from scratch and did a lift and shift of about three hundred tables out of Postgres into it.\n\nAll that context is now just a grep away.",

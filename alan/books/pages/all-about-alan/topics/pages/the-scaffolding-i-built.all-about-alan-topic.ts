@@ -8,10 +8,10 @@ export const theScaffoldingIBuilt = {
   definition: "the twenty years of structure I run on, holding what my head cannot",
   parents: ["alan"],
   related: [
-    "how-i-get-anything-done",
-    "how-i-remember-anything",
-    "how-i-watch-my-agents",
-    "playing-the-long-game",
+    "all-about-alan-topic/how-i-get-anything-done",
+    "all-about-alan-topic/how-i-remember-anything",
+    "all-about-alan-topic/how-i-watch-my-agents",
+    "all-about-alan-topic/playing-the-long-game",
   ],
   settled:
     "I am the agent and the system around me is the harness. Every tool in it is a part, not the thing.\n\nIt grows by adding rather than replacing, and a layer gets built when something buckles.\n\nTwenty years produced two permanent organs, one on what I can track and one on what I can carry.\n\nThe two are wired together: clearing the queues lifts my safety, and low safety piles them up and drags it lower.\n\nThe task half lives in software now, a set of streams I push things out of my head into.",

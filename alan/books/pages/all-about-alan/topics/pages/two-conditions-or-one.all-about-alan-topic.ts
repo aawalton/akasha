@@ -7,7 +7,10 @@ export const twoConditionsOrOne = {
   title: "Two Conditions Or One",
   definition: "whether autism and ADHD in me are two things or one thing showing up twice",
   parents: ["having-adhd"],
-  related: ["how-different-i-actually-am", "how-i-get-anything-done"],
+  related: [
+    "all-about-alan-topic/how-different-i-actually-am",
+    "all-about-alan-topic/how-i-get-anything-done",
+  ],
   settled:
     "My executive function takes a hit from each, and only the ADHD side has anything aimed at it.",
 } as const satisfies AllAboutAlanTopic

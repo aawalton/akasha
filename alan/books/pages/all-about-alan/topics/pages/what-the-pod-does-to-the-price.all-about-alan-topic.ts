@@ -7,7 +7,7 @@ export const whatThePodDoesToThePrice = {
   title: "What The Pod Does To The Price",
   definition: "what wearing the Nuropod does to what an activity costs me",
   parents: ["what-an-activity-costs-me"],
-  related: ["the-low-feeling-that-costs-me-a-level"],
+  related: ["all-about-alan-topic/the-low-feeling-that-costs-me-a-level"],
   settled:
     "The Nuropod acts as an artificial boost of one and a half levels for cost-multiplier purposes, recorded as a thing it does in social settings.",
 } as const satisfies AllAboutAlanTopic

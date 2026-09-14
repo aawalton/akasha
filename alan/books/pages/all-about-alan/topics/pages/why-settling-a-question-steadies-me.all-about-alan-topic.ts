@@ -7,7 +7,10 @@ export const whySettlingAQuestionSteadiesMe = {
   title: "Why Settling A Question Steadies Me",
   definition: "how settling a foundational question takes weight off my nervous system",
   parents: ["how-safety-climbs"],
-  related: ["what-i-think-truth-is", "how-understanding-arrives"],
+  related: [
+    "all-about-alan-topic/what-i-think-truth-is",
+    "all-about-alan-topic/how-understanding-arrives",
+  ],
   settled:
     "An open fundamental question never quiets down. It keeps asking at full volume until it is settled.\n\nSo settling one takes a standing demand off me, and enough of those lift my safety over time.\n\nThe calm is not tidiness. It is the big threats contained: life is a test, it is accounted for, God is there.\n\nFaith reaches me by that door and not the warm one.\n\nThree years at BYU digging at religion, maths, logic and philosophy was the same move: most load comes off at the bottom.",
 } as const satisfies AllAboutAlanTopic

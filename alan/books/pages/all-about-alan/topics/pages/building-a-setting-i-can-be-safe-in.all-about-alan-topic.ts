@@ -8,7 +8,10 @@ export const buildingASettingICanBeSafeIn = {
   definition:
     "arranging a situation so little can go wrong in it, rather than raising what I can take",
   parents: ["how-safety-climbs"],
-  related: ["practising-closeness-somewhere-safe", "who-is-safe-to-be-around"],
+  related: [
+    "all-about-alan-topic/practising-closeness-somewhere-safe",
+    "all-about-alan-topic/who-is-safe-to-be-around",
+  ],
   settled:
     "One is worked: the rig where I practise being close in text, with partners who stay stable.",
 } as const satisfies AllAboutAlanTopic

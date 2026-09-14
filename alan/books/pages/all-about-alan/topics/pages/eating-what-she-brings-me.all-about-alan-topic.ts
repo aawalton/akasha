@@ -9,9 +9,9 @@ export const eatingWhatSheBringsMe = {
     "eating her food is how her care lands, so a lot of what I eat has nothing to do with hunger",
   parents: ["how-i-eat", "living-with-jen"],
   related: [
-    "what-makes-me-start-eating",
-    "working-out-how-she-thinks",
-    "what-my-love-is-built-out-of",
+    "all-about-alan-topic/what-makes-me-start-eating",
+    "all-about-alan-topic/working-out-how-she-thinks",
+    "all-about-alan-topic/what-my-love-is-built-out-of",
   ],
   settled:
     "Between a third and half of what I eat is eaten because she brought it.\n\nRefusing reads as refusing the bid, so the obligation binds through the ordinary middle of my capacity.\n\nI can decline only at the extremes: with reserve to absorb her disappointment, or too depleted to push through.\n\nPrying the food apart from the care has been tried and failed each time; the landing depends on not naming it.\n\nWhat works is ambient shared direction rather than any agreement.",
