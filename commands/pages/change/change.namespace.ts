@@ -17,7 +17,7 @@ export const change = {
   name: "change",
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Piping A Change",
       act: "Pipe a change's arguments in on one quoted heredoc, opening a fence for each value that is a body.",
       warrant:
