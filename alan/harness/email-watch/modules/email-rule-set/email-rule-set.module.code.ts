@@ -11,10 +11,10 @@ export const EMAIL_RULE_KINDS = ["agent", "code"] as const
 export type EmailRuleKind = (typeof EMAIL_RULE_KINDS)[number]
 
 const FIELDS: readonly Field[] = [
-  { name: "from", type: "text", values: [], filler: "someone@unnamed." },
-  { name: "list", type: "text", values: [] },
-  { name: "subject", type: "text", values: [] },
-  { name: "to", type: "text", values: [], filler: "someone@unnamed." },
+  { name: "from", type: "text" },
+  { name: "list", type: "text" },
+  { name: "subject", type: "text" },
+  { name: "to", type: "text" },
 ]
 
 const EMAIL_RULE_PATH =
@@ -43,12 +43,6 @@ export function ruleFolderOf(person: string): string {
 export const EMAIL_RULE_SET: RuleSet = {
   name: EMAIL_RULE_SET_NAME,
   fields: FIELDS,
-  path: EMAIL_RULE_PATH,
-  normalizer: null,
-  kinds: {
-    agent: { glob: `${ruleFolderIn("*", "agent")}/*${ruleFileSuffix("agent")}` },
-    code: { glob: `${ruleFolderIn("*", "code")}/*${ruleFileSuffix("code")}` },
-  },
 }
 
 export interface RuleLocation {

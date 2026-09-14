@@ -20,15 +20,6 @@ describe("the fields an email rule tests", () => {
     expect(EMAIL_RULE_SET.fields.map((one) => one.name)).toEqual(["from", "list", "subject", "to"])
   })
 
-  test("states no value of its own for any field", () => {
-    for (const field of EMAIL_RULE_SET.fields) expect(field.values).toEqual([])
-  })
-
-  test("fills an absent address field rather than leaving it empty", () => {
-    const filled = EMAIL_RULE_SET.fields.filter((one) => one.filler !== undefined)
-    expect(filled.map((one) => one.name)).toEqual(["from", "to"])
-  })
-
   test("is named", () => {
     expect(EMAIL_RULE_SET.name).toBe(EMAIL_RULE_SET_NAME)
   })
@@ -53,14 +44,6 @@ describe("where a person's rules of each kind are", () => {
     expect(ruleFolderOf("alan")).toBe(
       `${ruleFolderIn("alan", "agent")} and ${ruleFolderIn("alan", "code")}`
     )
-  })
-
-  test("each kind's glob reaches the same folder for every person", () => {
-    for (const kind of ruleKinds()) {
-      expect(EMAIL_RULE_SET.kinds[kind]?.glob).toBe(
-        `${ruleFolderIn("*", kind)}/*${ruleFileSuffix(kind)}`
-      )
-    }
   })
 })
 

@@ -19,5 +19,10 @@ export const ruleVocabulary = {
       invariantKind: "departure",
       statement: "Two matching patterns of one length are settled by which sorts first.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Where two values claim one pattern, the value listed first wins and nothing reports it.",
+    },
   ],
 } as const satisfies Module

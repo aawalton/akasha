@@ -4,21 +4,21 @@ export const ruleConditions = {
   id: "01a0657b-9adc-7004-9d71-1576f12eb0cf",
   type: "module",
   slug: "rule-conditions",
-  definition: "the conditions a rule's match is made of, and whether one match covers another",
+  definition: "the fields a rule set declares, and the conditions a rule's match is made of",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A match with no `# Match` heading has no conditions.",
+      statement: "A field's type is read off the rule set that declares that field.",
     },
     {
       invariantKind: "departure",
-      statement: "A line under `# Match` that is neither a condition nor a value is counted stray.",
+      statement: "A condition naming a field the rule set did not declare has no type here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "absence",
       statement:
-        "A condition pairing a field with a comparison that field does not admit is mispaired.",
+        "Nothing here reads a rule, and nothing works out whether one match covers another.",
     },
   ],
 } as const satisfies Module
