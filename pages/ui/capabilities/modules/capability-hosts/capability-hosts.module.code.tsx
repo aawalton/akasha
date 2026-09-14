@@ -24,11 +24,6 @@ export function registerCapabilityHost(id: string, component: ComponentType): un
   notify()
 }
 
-export function unregisterCapabilityHost(id: string): undefined {
-  hosts.delete(id)
-  notify()
-}
-
 function capabilityHostEntries(): readonly HostEntry[] {
   return entrySnapshot
 }

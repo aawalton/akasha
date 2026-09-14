@@ -17,7 +17,3 @@ export function registerReorderVerb(verbId: string, handler: ReorderVerbHandler)
 export function getReorderVerb(verbId: string): ReorderVerbHandler | undefined {
   return handlersByVerbId.get(verbId)
 }
-
-export function unregisterReorderVerb(verbId: string): undefined {
-  handlersByVerbId.delete(verbId)
-}

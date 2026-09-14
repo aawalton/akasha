@@ -20,7 +20,3 @@ export function registerCoverClickHandler(
 export function getCoverClickHandler(pageTypeSlug: string): CoverClickHandler | undefined {
   return handlersByPageTypeSlug.get(pageTypeSlug)
 }
-
-export function unregisterCoverClickHandler(pageTypeSlug: string): undefined {
-  handlersByPageTypeSlug.delete(pageTypeSlug)
-}

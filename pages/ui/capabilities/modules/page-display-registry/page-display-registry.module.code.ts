@@ -11,11 +11,3 @@ export function registerPageDisplay(kind: string, meta: PageDisplayMeta): undefi
 export function getPageDisplay(kind: string): PageDisplayMeta | undefined {
   return displaysByKind.get(kind)
 }
-
-export function isRegisteredDisplay(kind: string): boolean {
-  return displaysByKind.has(kind)
-}
-
-export function unregisterPageDisplay(kind: string): undefined {
-  displaysByKind.delete(kind)
-}

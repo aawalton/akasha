@@ -41,7 +41,3 @@ export function getActionVerb(verbId: string): ActionVerbHandler | undefined {
 export function getActionVerbPresentation(verbId: string): ResolveActionPresentation | undefined {
   return entriesByVerbId.get(verbId)?.resolvePresentation
 }
-
-export function unregisterActionVerb(verbId: string): undefined {
-  entriesByVerbId.delete(verbId)
-}

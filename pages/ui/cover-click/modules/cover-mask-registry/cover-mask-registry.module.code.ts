@@ -11,7 +11,3 @@ export function registerCoverMask(pageTypeSlug: string, resolver: CoverMaskResol
 export function getCoverMask(pageTypeSlug: string): CoverMaskResolver | undefined {
   return registry.get(pageTypeSlug)
 }
-
-export function unregisterCoverMask(pageTypeSlug: string): undefined {
-  registry.delete(pageTypeSlug)
-}
