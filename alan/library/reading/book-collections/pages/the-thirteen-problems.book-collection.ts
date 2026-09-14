@@ -5,7 +5,7 @@ export const theThirteenProblems = {
   type: "book-collection",
   slug: "the-thirteen-problems",
   title: "The Thirteen Problems",
-  partOfCollections: ["miss-marple"],
+  partOfCollections: ["book-collection/miss-marple"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

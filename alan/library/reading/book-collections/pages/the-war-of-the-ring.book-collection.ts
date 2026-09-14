@@ -5,7 +5,7 @@ export const theWarOfTheRing = {
   type: "book-collection",
   slug: "the-war-of-the-ring",
   title: "The War of the Ring",
-  partOfCollections: ["the-history-of-middle-earth"],
+  partOfCollections: ["book-collection/the-history-of-middle-earth"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

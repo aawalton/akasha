@@ -5,7 +5,7 @@ export const cytoverse = {
   type: "book-collection",
   slug: "cytoverse",
   title: "Cytoverse",
-  partOfCollections: ["brandon-sanderson-s-non-cosmere-books"],
+  partOfCollections: ["book-collection/brandon-sanderson-s-non-cosmere-books"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

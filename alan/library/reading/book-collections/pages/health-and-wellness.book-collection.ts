@@ -5,7 +5,7 @@ export const healthAndWellness = {
   type: "book-collection",
   slug: "health-and-wellness",
   title: "Health & Wellness",
-  partOfCollections: ["audible"],
+  partOfCollections: ["book-collection/audible"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

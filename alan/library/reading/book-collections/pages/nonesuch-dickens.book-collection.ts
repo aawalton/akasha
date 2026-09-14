@@ -5,7 +5,7 @@ export const nonesuchDickens = {
   type: "book-collection",
   slug: "nonesuch-dickens",
   title: "Nonesuch Dickens",
-  partOfCollections: ["classics-collections"],
+  partOfCollections: ["book-collection/classics-collections"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

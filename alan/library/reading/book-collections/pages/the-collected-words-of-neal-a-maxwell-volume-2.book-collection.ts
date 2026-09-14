@@ -5,7 +5,7 @@ export const theCollectedWordsOfNealAMaxwellVolume2 = {
   type: "book-collection",
   slug: "the-collected-words-of-neal-a-maxwell-volume-2",
   title: "The Collected Words of Neal A. Maxwell Volume 2",
-  partOfCollections: ["the-collected-words-of-neal-a-maxwell"],
+  partOfCollections: ["book-collection/the-collected-words-of-neal-a-maxwell"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

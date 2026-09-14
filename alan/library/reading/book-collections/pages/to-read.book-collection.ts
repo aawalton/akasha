@@ -5,7 +5,7 @@ export const toRead = {
   type: "book-collection",
   slug: "to-read",
   title: "To Read",
-  partOfCollections: ["book-collections"],
+  partOfCollections: ["book-collection/book-collections"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

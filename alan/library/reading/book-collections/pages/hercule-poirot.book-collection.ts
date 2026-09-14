@@ -5,7 +5,7 @@ export const herculePoirot = {
   type: "book-collection",
   slug: "hercule-poirot",
   title: "Hercule Poirot",
-  partOfCollections: ["agatha-christie"],
+  partOfCollections: ["author/agatha-christie"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

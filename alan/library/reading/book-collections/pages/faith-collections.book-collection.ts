@@ -5,7 +5,7 @@ export const faithCollections = {
   type: "book-collection",
   slug: "faith-collections",
   title: "Faith Collections",
-  partOfCollections: ["book-collections"],
+  partOfCollections: ["book-collection/book-collections"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

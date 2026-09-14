@@ -5,7 +5,7 @@ export const planetPirates = {
   type: "book-collection",
   slug: "planet-pirates",
   title: "Planet Pirates",
-  partOfCollections: ["anne-mccaffrey"],
+  partOfCollections: ["author/anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

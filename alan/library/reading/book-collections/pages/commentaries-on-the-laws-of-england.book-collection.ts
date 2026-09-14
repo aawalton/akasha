@@ -5,7 +5,7 @@ export const commentariesOnTheLawsOfEngland = {
   type: "book-collection",
   slug: "commentaries-on-the-laws-of-england",
   title: "Commentaries on the Laws of England",
-  partOfCollections: ["commentaries"],
+  partOfCollections: ["book-collection/commentaries"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

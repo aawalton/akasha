@@ -5,7 +5,7 @@ export const superintendentBattle = {
   type: "book-collection",
   slug: "superintendent-battle",
   title: "Superintendent Battle",
-  partOfCollections: ["agatha-christie"],
+  partOfCollections: ["author/agatha-christie"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

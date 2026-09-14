@@ -5,7 +5,7 @@ export const skywardSeries = {
   type: "book-collection",
   slug: "skyward-series",
   title: "Skyward Series",
-  partOfCollections: ["cytoverse"],
+  partOfCollections: ["book-collection/cytoverse"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

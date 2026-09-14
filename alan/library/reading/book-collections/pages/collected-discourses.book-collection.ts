@@ -5,7 +5,7 @@ export const collectedDiscourses = {
   type: "book-collection",
   slug: "collected-discourses",
   title: "Collected Discourses",
-  partOfCollections: ["discourses"],
+  partOfCollections: ["book-collection/discourses"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

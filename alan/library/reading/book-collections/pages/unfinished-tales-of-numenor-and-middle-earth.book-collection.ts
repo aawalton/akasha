@@ -5,7 +5,7 @@ export const unfinishedTalesOfNumenorAndMiddleEarth = {
   type: "book-collection",
   slug: "unfinished-tales-of-numenor-and-middle-earth",
   title: "Unfinished Tales of Númenor and Middle-earth",
-  partOfCollections: ["the-lord-of-the-rings-books"],
+  partOfCollections: ["book-collection/the-lord-of-the-rings-books"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

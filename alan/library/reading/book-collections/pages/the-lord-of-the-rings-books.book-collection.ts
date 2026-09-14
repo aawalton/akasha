@@ -5,7 +5,7 @@ export const theLordOfTheRingsBooks = {
   type: "book-collection",
   slug: "the-lord-of-the-rings-books",
   title: "The Lord of the Rings Books",
-  partOfCollections: ["the-lord-of-the-rings-2"],
+  partOfCollections: ["fandom/the-lord-of-the-rings-2"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theSilmarillion = {
   type: "book-collection",
   slug: "the-silmarillion",
   title: "The Silmarillion",
-  partOfCollections: ["the-lord-of-the-rings-books"],
+  partOfCollections: ["book-collection/the-lord-of-the-rings-books"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const dinosaurPlanet = {
   type: "book-collection",
   slug: "dinosaur-planet",
   title: "Dinosaur Planet",
-  partOfCollections: ["anne-mccaffrey"],
+  partOfCollections: ["author/anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

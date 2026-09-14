@@ -5,7 +5,7 @@ export const humanxCommonwealth = {
   type: "book-collection",
   slug: "humanx-commonwealth",
   title: "Humanx Commonwealth",
-  partOfCollections: ["alan-dean-foster"],
+  partOfCollections: ["author/alan-dean-foster"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

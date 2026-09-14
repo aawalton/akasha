@@ -5,7 +5,7 @@ export const biographies2 = {
   type: "book-collection",
   slug: "biographies-2",
   title: "Biographies",
-  partOfCollections: ["history-collections"],
+  partOfCollections: ["book-collection/history-collections"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

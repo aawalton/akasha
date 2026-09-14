@@ -5,7 +5,7 @@ export const jamesETalmage = {
   type: "book-collection",
   slug: "james-e-talmage",
   title: "James E. Talmage",
-  partOfCollections: ["apostles"],
+  partOfCollections: ["author-collection/apostles"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

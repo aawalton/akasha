@@ -5,7 +5,7 @@ export const theSecondWorldWar = {
   type: "book-collection",
   slug: "the-second-world-war",
   title: "The Second World War",
-  partOfCollections: ["histories-2"],
+  partOfCollections: ["book-collection/histories-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

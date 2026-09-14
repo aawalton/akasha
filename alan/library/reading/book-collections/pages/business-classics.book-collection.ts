@@ -5,7 +5,7 @@ export const businessClassics = {
   type: "book-collection",
   slug: "business-classics",
   title: "Business Classics",
-  partOfCollections: ["classics-collections"],
+  partOfCollections: ["book-collection/classics-collections"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

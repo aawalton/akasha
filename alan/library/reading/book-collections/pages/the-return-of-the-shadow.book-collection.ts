@@ -5,7 +5,7 @@ export const theReturnOfTheShadow = {
   type: "book-collection",
   slug: "the-return-of-the-shadow",
   title: "The Return of the Shadow",
-  partOfCollections: ["the-history-of-middle-earth"],
+  partOfCollections: ["book-collection/the-history-of-middle-earth"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

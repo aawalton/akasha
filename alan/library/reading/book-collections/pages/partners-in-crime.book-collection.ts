@@ -5,7 +5,7 @@ export const partnersInCrime = {
   type: "book-collection",
   slug: "partners-in-crime",
   title: "Partners in Crime",
-  partOfCollections: ["tommy-and-tuppence"],
+  partOfCollections: ["book-collection/tommy-and-tuppence"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

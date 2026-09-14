@@ -5,7 +5,7 @@ export const theMessiahSeries = {
   type: "book-collection",
   slug: "the-messiah-series",
   title: "The Messiah Series",
-  partOfCollections: ["bruce-r-mcconkie"],
+  partOfCollections: ["book-collection/bruce-r-mcconkie"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

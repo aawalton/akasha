@@ -5,7 +5,7 @@ export const theFallOfGondolin = {
   type: "book-collection",
   slug: "the-fall-of-gondolin",
   title: "The Fall of Gondolin",
-  partOfCollections: ["the-lord-of-the-rings-books"],
+  partOfCollections: ["book-collection/the-lord-of-the-rings-books"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

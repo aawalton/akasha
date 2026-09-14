@@ -5,7 +5,7 @@ export const theGreatBooksOfTheWesternWorld = {
   type: "book-collection",
   slug: "the-great-books-of-the-western-world",
   title: "The Great Books of the Western World",
-  partOfCollections: ["classics-collections"],
+  partOfCollections: ["book-collection/classics-collections"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const teachingsOfTheLatterDayProphetsSeries = {
   type: "book-collection",
   slug: "teachings-of-the-latter-day-prophets-series",
   title: "Teachings of the Latter-day Prophets Series",
-  partOfCollections: ["faith-collections"],
+  partOfCollections: ["book-collection/faith-collections"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

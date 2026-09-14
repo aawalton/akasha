@@ -5,7 +5,7 @@ export const franklinClassics = {
   type: "book-collection",
   slug: "franklin-classics",
   title: "Franklin Classics",
-  partOfCollections: ["classics-collections"],
+  partOfCollections: ["book-collection/classics-collections"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

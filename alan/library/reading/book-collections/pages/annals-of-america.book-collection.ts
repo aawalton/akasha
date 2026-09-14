@@ -5,7 +5,7 @@ export const annalsOfAmerica = {
   type: "book-collection",
   slug: "annals-of-america",
   title: "Annals of America",
-  partOfCollections: ["history-collections"],
+  partOfCollections: ["book-collection/history-collections"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

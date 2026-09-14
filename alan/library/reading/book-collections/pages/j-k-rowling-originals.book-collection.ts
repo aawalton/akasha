@@ -5,7 +5,7 @@ export const jKRowlingOriginals = {
   type: "book-collection",
   slug: "j-k-rowling-originals",
   title: "J. K. Rowling Originals",
-  partOfCollections: ["harry-potter-books"],
+  partOfCollections: ["book-collection/harry-potter-books"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const bruceRMcconkie = {
   type: "book-collection",
   slug: "bruce-r-mcconkie",
   title: "Bruce R. McConkie",
-  partOfCollections: ["apostles"],
+  partOfCollections: ["author-collection/apostles"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

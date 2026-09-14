@@ -5,7 +5,7 @@ export const harryPotterBooks = {
   type: "book-collection",
   slug: "harry-potter-books",
   title: "Harry Potter Books",
-  partOfCollections: ["harry-potter"],
+  partOfCollections: ["fandom/harry-potter"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

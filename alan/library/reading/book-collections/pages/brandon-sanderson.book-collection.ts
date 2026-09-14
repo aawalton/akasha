@@ -5,7 +5,7 @@ export const brandonSanderson = {
   type: "book-collection",
   slug: "brandon-sanderson",
   title: "Brandon Sanderson",
-  partOfCollections: ["fantasy-authors"],
+  partOfCollections: ["author-collection/fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
