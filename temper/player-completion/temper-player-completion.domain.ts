@@ -73,7 +73,7 @@ export const temperPlayerCompletion = {
     "module/completion-ui-types",
     "module/completion-zone-progress",
     "module/cyrodiil-wayshrine",
-    "module/lore-library-sparse-test-utils",
+    "test-fixture/lore-library-sparse-test-utils",
     "module/skill-point-general-sources",
     "module/skill-point-group-dungeons",
     "module/skill-point-public-dungeons",

@@ -7,7 +7,7 @@ import {
 import {
   sparseComplete,
   sparseMissingOne,
-} from "akasha/temper/player-completion/modules/lore-library-sparse-test-utils/lore-library-sparse-test-utils.module.code.ts"
+} from "akasha/temper/player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.code.ts"
 
 const CARD = "lore-library-character"
 const CATEGORY = 1
