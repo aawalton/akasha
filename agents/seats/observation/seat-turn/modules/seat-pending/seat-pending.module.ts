@@ -21,7 +21,7 @@ export const seatPending = {
       statement: "A seat that sent nothing is not awaiting a reply.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "Stopping alone is allowed for a seat that stopped itself or has a live child.",
     },
   ],
