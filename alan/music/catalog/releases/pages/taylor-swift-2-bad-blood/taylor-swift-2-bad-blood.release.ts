@@ -9,7 +9,7 @@ export const taylorSwift2BadBlood = {
   position: 0,
   ownLength: 3.3351,
   ownProgress: 3.3351,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-05-17",
   externalIdentity: [

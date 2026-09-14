@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareBrynTerfelHomewardBound = {
   position: 0,
   ownLength: 87.06365,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2013-01-01",
   externalIdentity: [

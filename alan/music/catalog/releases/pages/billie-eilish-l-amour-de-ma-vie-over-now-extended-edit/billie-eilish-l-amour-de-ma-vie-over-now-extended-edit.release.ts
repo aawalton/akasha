@@ -9,7 +9,7 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEdit = {
   position: 0,
   ownLength: 4.532817,
   ownProgress: 4.532817,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-21",

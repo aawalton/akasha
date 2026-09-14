@@ -9,7 +9,7 @@ export const nsync2TheWinterAlbum = {
   position: 0,
   ownLength: 46.955233,
   ownProgress: 46.955233,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1998-11-13",
   externalIdentity: [

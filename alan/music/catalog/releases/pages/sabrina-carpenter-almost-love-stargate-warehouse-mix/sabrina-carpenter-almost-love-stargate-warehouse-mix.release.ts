@@ -9,7 +9,7 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMix = {
   position: 0,
   ownLength: 3.339017,
   ownProgress: 3.339017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-09-28",
   externalIdentity: [

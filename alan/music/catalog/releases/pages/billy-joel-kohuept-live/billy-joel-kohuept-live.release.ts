@@ -9,7 +9,7 @@ export const billyJoelKohueptLive = {
   position: 0,
   ownLength: 72.973683,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1987-10-26",
   externalIdentity: [

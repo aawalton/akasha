@@ -9,7 +9,7 @@ export const jadaFacerHeaven = {
   position: 0,
   ownLength: 4.094217,
   ownProgress: 4.094217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-06-18",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const coldplayVivaLaVida = {
   position: 0,
   ownLength: 5.3371,
   ownProgress: 5.3371,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-06-12",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const theHoldernessFamilyQuarantineQueen = {
   position: 0,
   ownLength: 2.2291,
   ownProgress: 2.2291,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-04-28",
   externalIdentity: [

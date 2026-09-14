@@ -9,7 +9,7 @@ export const backstreetBoys2InAWorldLikeThis = {
   position: 0,
   ownLength: 45.8276,
   ownProgress: 45.8276,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-07-30",
   externalIdentity: [

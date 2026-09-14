@@ -9,7 +9,7 @@ export const coldplayMidnightKygoRemix = {
   position: 0,
   ownLength: 5.27245,
   ownProgress: 5.27245,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-06-09",
   externalIdentity: [

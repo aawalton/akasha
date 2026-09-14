@@ -9,7 +9,7 @@ export const billyJoel12GardensLive = {
   position: 0,
   ownLength: 157.525167,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2006-06-13",
   externalIdentity: [

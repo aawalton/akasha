@@ -9,7 +9,7 @@ export const katyPerrySwishSwishValentinoKhanRemix = {
   position: 0,
   ownLength: 3.34375,
   ownProgress: 3.34375,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-06-30",
   externalIdentity: [

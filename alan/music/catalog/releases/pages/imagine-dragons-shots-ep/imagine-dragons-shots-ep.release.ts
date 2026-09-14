@@ -9,7 +9,7 @@ export const imagineDragonsShotsEp = {
   position: 0,
   ownLength: 11.046417,
   ownProgress: 11.046417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-05-04",
   externalIdentity: [

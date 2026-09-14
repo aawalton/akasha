@@ -9,7 +9,7 @@ export const arianaGrandeRainOnMeRalphiRosarioRemix = {
   position: 0,
   ownLength: 11.488,
   ownProgress: 11.488,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-07-17",
   externalIdentity: [

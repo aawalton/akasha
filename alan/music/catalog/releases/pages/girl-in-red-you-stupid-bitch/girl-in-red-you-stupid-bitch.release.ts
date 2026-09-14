@@ -9,7 +9,7 @@ export const girlInRedYouStupidBitch = {
   position: 0,
   ownLength: 3.26585,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-04-14",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const coldplayChristmasLights = {
   position: 0,
   ownLength: 4.041583,
   ownProgress: 4.041583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2010-12-01",
   externalIdentity: [

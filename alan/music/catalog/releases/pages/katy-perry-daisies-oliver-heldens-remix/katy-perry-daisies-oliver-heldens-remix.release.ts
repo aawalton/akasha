@@ -9,7 +9,7 @@ export const katyPerryDaisiesOliverHeldensRemix = {
   position: 0,
   ownLength: 3.593317,
   ownProgress: 3.593317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-06-22",
   externalIdentity: [

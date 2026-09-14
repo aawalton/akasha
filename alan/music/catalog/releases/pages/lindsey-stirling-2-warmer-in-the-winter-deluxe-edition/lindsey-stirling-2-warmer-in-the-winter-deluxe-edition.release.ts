@@ -9,7 +9,7 @@ export const lindseyStirling2WarmerInTheWinterDeluxeEdition = {
   position: 0,
   ownLength: 60.75925,
   ownProgress: 60.75925,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-10-19",
   externalIdentity: [

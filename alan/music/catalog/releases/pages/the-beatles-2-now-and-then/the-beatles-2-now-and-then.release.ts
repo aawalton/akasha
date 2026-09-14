@@ -9,7 +9,7 @@ export const theBeatles2NowAndThen = {
   position: 0,
   ownLength: 6.52665,
   ownProgress: 6.52665,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-11-02",
   externalIdentity: [

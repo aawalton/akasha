@@ -9,7 +9,7 @@ export const ellaHendersonLighterFeatKsiEllaHendersonAcoustic = {
   position: 0,
   ownLength: 2.5329,
   ownProgress: 2.5329,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-08-28",
   externalIdentity: [

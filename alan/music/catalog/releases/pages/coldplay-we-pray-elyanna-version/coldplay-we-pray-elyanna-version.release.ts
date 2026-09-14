@@ -9,7 +9,7 @@ export const coldplayWePrayElyannaVersion = {
   position: 0,
   ownLength: 11.6703,
   ownProgress: 11.6703,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-09-20",
   externalIdentity: [

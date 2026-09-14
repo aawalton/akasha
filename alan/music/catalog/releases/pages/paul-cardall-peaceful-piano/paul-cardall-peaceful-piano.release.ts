@@ -9,7 +9,7 @@ export const paulCardallPeacefulPiano = {
   position: 0,
   ownLength: 63.917217,
   ownProgress: 63.917217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-08-23",
   externalIdentity: [

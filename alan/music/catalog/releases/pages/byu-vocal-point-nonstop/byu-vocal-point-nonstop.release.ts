@@ -9,7 +9,7 @@ export const byuVocalPointNonstop = {
   position: 0,
   ownLength: 54.2408,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2008-03-25",
   externalIdentity: [

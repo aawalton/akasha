@@ -9,7 +9,7 @@ export const clairoDrown = {
   position: 0,
   ownLength: 3.900917,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-08-01",
   externalIdentity: [

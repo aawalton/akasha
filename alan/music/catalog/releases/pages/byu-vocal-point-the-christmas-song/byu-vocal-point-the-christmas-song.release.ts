@@ -9,7 +9,7 @@ export const byuVocalPointTheChristmasSong = {
   position: 0,
   ownLength: 3.7511,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-12-05",
   externalIdentity: [

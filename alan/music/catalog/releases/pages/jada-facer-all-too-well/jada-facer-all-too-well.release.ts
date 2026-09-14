@@ -9,7 +9,7 @@ export const jadaFacerAllTooWell = {
   position: 0,
   ownLength: 4.93065,
   ownProgress: 4.93065,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-12-06",
   externalIdentity: [

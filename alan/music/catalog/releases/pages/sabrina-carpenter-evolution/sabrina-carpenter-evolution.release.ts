@@ -9,7 +9,7 @@ export const sabrinaCarpenterEvolution = {
   position: 0,
   ownLength: 33.42905,
   ownProgress: 33.42905,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-10-14",
   externalIdentity: [

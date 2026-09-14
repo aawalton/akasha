@@ -9,7 +9,7 @@ export const theHoldernessFamilyFantasyFootballAnthem = {
   position: 0,
   ownLength: 3.36935,
   ownProgress: 3.36935,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-09-09",
   externalIdentity: [

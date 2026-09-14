@@ -9,7 +9,7 @@ export const leonardCohenYouWantItDarkerSolomunRemix = {
   position: 0,
   ownLength: 9.378567,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-07-20",
   externalIdentity: [

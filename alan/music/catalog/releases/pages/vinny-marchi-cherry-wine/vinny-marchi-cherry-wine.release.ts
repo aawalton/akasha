@@ -9,7 +9,7 @@ export const vinnyMarchiCherryWine = {
   position: 0,
   ownLength: 3.4964,
   ownProgress: 3.4964,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2023-06-30",

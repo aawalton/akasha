@@ -9,7 +9,7 @@ export const jadaFacerNeverReallyOver = {
   position: 0,
   ownLength: 2.505433,
   ownProgress: 2.505433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-07-01",
   externalIdentity: [

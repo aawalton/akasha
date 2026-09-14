@@ -9,7 +9,7 @@ export const florenceTheMachineSympathyMagic = {
   position: 0,
   ownLength: 4.481433,
   ownProgress: 4.481433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-10-27",
   externalIdentity: [

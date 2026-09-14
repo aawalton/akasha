@@ -9,7 +9,7 @@ export const coldplayHigherPower = {
   position: 0,
   ownLength: 3.521567,
   ownProgress: 3.521567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-05-07",
   externalIdentity: [

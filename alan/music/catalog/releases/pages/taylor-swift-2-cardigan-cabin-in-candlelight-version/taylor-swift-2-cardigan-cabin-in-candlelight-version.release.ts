@@ -9,7 +9,7 @@ export const taylorSwift2CardiganCabinInCandlelightVersion = {
   position: 0,
   ownLength: 3.8,
   ownProgress: 3.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-07-30",
   externalIdentity: [

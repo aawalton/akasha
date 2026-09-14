@@ -9,7 +9,7 @@ export const adeleWhenWeWereYoung = {
   position: 0,
   ownLength: 4.848333,
   ownProgress: 4.848333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-02-05",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const pentatonixBestDays = {
   position: 0,
   ownLength: 3.576733,
   ownProgress: 3.576733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-01-21",
   externalIdentity: [

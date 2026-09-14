@@ -9,7 +9,7 @@ export const taylorSwift2OpaliteChrisLakeRemix = {
   position: 0,
   ownLength: 3.815783,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2026-02-20",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const girlInRedIfICouldMakeItGoQuiet = {
   position: 0,
   ownLength: 33.271533,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-04-30",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const sabrinaCarpenterEyesWideOpen = {
   position: 0,
   ownLength: 40.61795,
   ownProgress: 40.61795,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-04-10",
   externalIdentity: [

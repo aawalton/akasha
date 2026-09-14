@@ -9,7 +9,7 @@ export const florenceTheMachineYouVeGotTheLoveJamieXxRework = {
   position: 0,
   ownLength: 5.7165,
   ownProgress: 5.7165,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-09-28",
   externalIdentity: [

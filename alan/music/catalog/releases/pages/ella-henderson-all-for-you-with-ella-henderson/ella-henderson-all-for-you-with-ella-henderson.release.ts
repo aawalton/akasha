@@ -9,7 +9,7 @@ export const ellaHendersonAllForYouWithEllaHenderson = {
   position: 0,
   ownLength: 7.34255,
   ownProgress: 7.34255,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-08-12",
   externalIdentity: [

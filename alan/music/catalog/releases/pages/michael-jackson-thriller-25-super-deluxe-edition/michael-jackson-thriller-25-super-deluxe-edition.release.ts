@@ -9,7 +9,7 @@ export const michaelJacksonThriller25SuperDeluxeEdition = {
   position: 0,
   ownLength: 110.138517,
   ownProgress: 110.138517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2008-02-08",

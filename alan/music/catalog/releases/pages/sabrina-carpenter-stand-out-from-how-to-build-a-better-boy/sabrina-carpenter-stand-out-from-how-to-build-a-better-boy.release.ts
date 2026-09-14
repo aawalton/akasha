@@ -9,7 +9,7 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoy = {
   position: 0,
   ownLength: 3.480433,
   ownProgress: 3.480433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-08-12",
   externalIdentity: [

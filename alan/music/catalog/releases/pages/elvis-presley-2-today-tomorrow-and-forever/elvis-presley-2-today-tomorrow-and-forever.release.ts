@@ -9,7 +9,7 @@ export const elvisPresley2TodayTomorrowAndForever = {
   position: 0,
   ownLength: 268.904733,
   ownProgress: 268.904733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2002-06-25",
   externalIdentity: [

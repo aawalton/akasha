@@ -9,7 +9,7 @@ export const taylorSwift2BettyLiveFromThe2020AcademyOfCountryMusicAwards = {
   position: 0,
   ownLength: 5.2023,
   ownProgress: 5.2023,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-09-18",
   externalIdentity: [

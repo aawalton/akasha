@@ -9,7 +9,7 @@ export const jadaFacerDancingOnMyOwn = {
   position: 0,
   ownLength: 2.770067,
   ownProgress: 2.770067,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-01-28",
   externalIdentity: [

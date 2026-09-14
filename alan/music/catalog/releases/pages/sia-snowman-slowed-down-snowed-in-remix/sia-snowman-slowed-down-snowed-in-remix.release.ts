@@ -9,7 +9,7 @@ export const siaSnowmanSlowedDownSnowedInRemix = {
   position: 0,
   ownLength: 3.004583,
   ownProgress: 3.004583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-29",
   externalIdentity: [

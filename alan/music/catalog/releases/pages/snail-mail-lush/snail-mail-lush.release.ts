@@ -9,7 +9,7 @@ export const snailMailLush = {
   position: 0,
   ownLength: 38.330383,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-06-08",
   externalIdentity: [

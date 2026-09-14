@@ -9,7 +9,7 @@ export const jadaFacerIMSoTired = {
   position: 0,
   ownLength: 2.588433,
   ownProgress: 2.588433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-03-30",
   externalIdentity: [

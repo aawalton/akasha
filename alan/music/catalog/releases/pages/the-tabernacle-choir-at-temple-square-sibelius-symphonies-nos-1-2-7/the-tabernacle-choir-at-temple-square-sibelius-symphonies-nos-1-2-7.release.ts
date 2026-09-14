@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSibeliusSymphoniesNos127 = {
   position: 0,
   ownLength: 146.402867,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-12-12",
   externalIdentity: [

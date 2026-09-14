@@ -9,7 +9,7 @@ export const ellaHendersonGhostRemixes = {
   position: 0,
   ownLength: 12.34755,
   ownProgress: 12.34755,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-06-08",
   externalIdentity: [

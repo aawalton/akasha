@@ -9,7 +9,7 @@ export const justinTimberlakeIMLovinIt = {
   position: 0,
   ownLength: 12.054433,
   ownProgress: 12.054433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2003-11-20",
   externalIdentity: [

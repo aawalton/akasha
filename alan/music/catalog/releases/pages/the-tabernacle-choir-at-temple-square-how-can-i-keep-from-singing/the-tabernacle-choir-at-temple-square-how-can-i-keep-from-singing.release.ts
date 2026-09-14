@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHowCanIKeepFromSinging = {
   position: 0,
   ownLength: 4.305983,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-04-06",
   externalIdentity: [

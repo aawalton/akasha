@@ -9,7 +9,7 @@ export const jadaFacerYouReStillTheOneAcoustic = {
   position: 0,
   ownLength: 3.55615,
   ownProgress: 3.55615,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-12-15",
   externalIdentity: [

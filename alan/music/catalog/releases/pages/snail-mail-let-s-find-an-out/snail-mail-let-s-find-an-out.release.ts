@@ -9,7 +9,7 @@ export const snailMailLetSFindAnOut = {
   position: 0,
   ownLength: 2.220433,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-05-16",
   externalIdentity: [

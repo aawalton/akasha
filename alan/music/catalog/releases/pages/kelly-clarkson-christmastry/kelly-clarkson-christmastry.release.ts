@@ -9,7 +9,7 @@ export const kellyClarksonChristmastry = {
   position: 0,
   ownLength: 18.449,
   ownProgress: 18.449,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-11-22",
   externalIdentity: [

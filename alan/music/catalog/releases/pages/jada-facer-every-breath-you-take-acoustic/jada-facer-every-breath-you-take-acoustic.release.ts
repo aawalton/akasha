@@ -9,7 +9,7 @@ export const jadaFacerEveryBreathYouTakeAcoustic = {
   position: 0,
   ownLength: 3.652767,
   ownProgress: 3.652767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-07-21",
   externalIdentity: [

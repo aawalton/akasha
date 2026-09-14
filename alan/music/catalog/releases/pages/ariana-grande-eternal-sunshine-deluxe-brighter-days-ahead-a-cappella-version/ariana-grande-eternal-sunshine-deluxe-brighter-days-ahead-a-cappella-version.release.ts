@@ -9,7 +9,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersion 
   position: 0,
   ownLength: 107.446733,
   ownProgress: 107.446733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-03-27",
   externalIdentity: [

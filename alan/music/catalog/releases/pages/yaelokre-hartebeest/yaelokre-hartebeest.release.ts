@@ -9,7 +9,7 @@ export const yaelokreHartebeest = {
   position: 0,
   ownLength: 4.243467,
   ownProgress: 4.243467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-01-02",
   externalIdentity: [

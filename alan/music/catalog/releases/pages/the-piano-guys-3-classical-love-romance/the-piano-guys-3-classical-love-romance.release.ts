@@ -9,7 +9,7 @@ export const thePianoGuys3ClassicalLoveRomance = {
   position: 0,
   ownLength: 33.575767,
   ownProgress: 33.575767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-10-17",
   externalIdentity: [

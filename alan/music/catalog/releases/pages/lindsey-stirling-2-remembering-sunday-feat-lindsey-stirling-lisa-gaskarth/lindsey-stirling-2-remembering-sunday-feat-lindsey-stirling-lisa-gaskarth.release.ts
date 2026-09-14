@@ -9,7 +9,7 @@ export const lindseyStirling2RememberingSundayFeatLindseyStirlingLisaGaskarth = 
   position: 0,
   ownLength: 4.278833,
   ownProgress: 4.278833,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-08-22",
   externalIdentity: [

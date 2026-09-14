@@ -9,7 +9,7 @@ export const ellaHendersonReactExtendedMix = {
   position: 0,
   ownLength: 7.511133,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-02-17",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const emeiDonTKnowAboutTheWorld = {
   position: 0,
   ownLength: 2.394933,
   ownProgress: 2.394933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-09-15",

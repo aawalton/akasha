@@ -9,7 +9,7 @@ export const linkinParkTheEmptinessMachine = {
   position: 0,
   ownLength: 3.173783,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-09-05",
   externalIdentity: [

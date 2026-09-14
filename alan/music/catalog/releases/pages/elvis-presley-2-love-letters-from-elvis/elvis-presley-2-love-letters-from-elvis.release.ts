@@ -9,7 +9,7 @@ export const elvisPresley2LoveLettersFromElvis = {
   position: 0,
   ownLength: 40.41415,
   ownProgress: 40.41415,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1971-06-16",
   externalIdentity: [

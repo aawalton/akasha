@@ -9,7 +9,7 @@ export const backstreetBoys2ThisIsUs = {
   position: 0,
   ownLength: 40.2855,
   ownProgress: 40.2855,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-10-06",
   externalIdentity: [

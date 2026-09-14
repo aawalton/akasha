@@ -9,7 +9,7 @@ export const jamesTaylor2TheEssentialJamesTaylorDeluxeEdition = {
   position: 0,
   ownLength: 135.33935,
   ownProgress: 135.33935,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-09-29",
   externalIdentity: [

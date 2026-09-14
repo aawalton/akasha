@@ -9,7 +9,7 @@ export const backstreetBoys2TheHitsChapterOne = {
   position: 0,
   ownLength: 52.145667,
   ownProgress: 52.145667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2001-10-23",
   externalIdentity: [

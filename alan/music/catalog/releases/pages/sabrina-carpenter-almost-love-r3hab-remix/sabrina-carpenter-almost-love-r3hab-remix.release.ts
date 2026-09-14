@@ -9,7 +9,7 @@ export const sabrinaCarpenterAlmostLoveR3habRemix = {
   position: 0,
   ownLength: 2.916667,
   ownProgress: 2.916667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-07-13",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const lindseyStirling2SnowWaltzDeluxeEdition = {
   position: 0,
   ownLength: 58.780267,
   ownProgress: 58.780267,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-11-22",
   externalIdentity: [

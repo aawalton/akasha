@@ -9,7 +9,7 @@ export const auroraExistForLoveRemixes = {
   position: 0,
   ownLength: 12.4557,
   ownProgress: 12.4557,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-07-17",
   externalIdentity: [

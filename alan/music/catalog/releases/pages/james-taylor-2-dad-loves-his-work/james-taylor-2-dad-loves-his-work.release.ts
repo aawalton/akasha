@@ -9,7 +9,7 @@ export const jamesTaylor2DadLovesHisWork = {
   position: 0,
   ownLength: 38.673517,
   ownProgress: 38.673517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1981-01-01",
   externalIdentity: [

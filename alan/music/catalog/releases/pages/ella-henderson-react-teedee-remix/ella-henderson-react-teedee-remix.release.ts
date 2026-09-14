@@ -9,7 +9,7 @@ export const ellaHendersonReactTeedeeRemix = {
   position: 0,
   ownLength: 10.052267,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-02-24",
   externalIdentity: [

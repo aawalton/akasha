@@ -9,7 +9,7 @@ export const yaelokreHayfields = {
   position: 0,
   ownLength: 16.151383,
   ownProgress: 16.151383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-03-02",
   externalIdentity: [

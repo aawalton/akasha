@@ -9,7 +9,7 @@ export const elvisPresley250000000ElvisFansCanTBeWrongElvisGoldRecordsVol2 = {
   position: 0,
   ownLength: 22.7466,
   ownProgress: 22.7466,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1959-11-13",
   externalIdentity: [

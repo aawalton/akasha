@@ -9,7 +9,7 @@ export const metallica72Seasons2 = {
   position: 0,
   ownLength: 77.244367,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-04-14",
   externalIdentity: [

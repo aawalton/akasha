@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareRejoiceAndBeMerry = {
   position: 0,
   ownLength: 73.891667,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2008-09-23",
   externalIdentity: [

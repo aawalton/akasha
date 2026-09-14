@@ -9,7 +9,7 @@ export const pentatonixWhenYouBelieveJohnJCCarrRemix = {
   position: 0,
   ownLength: 3.6289,
   ownProgress: 3.6289,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-12-21",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const elvisPresley2ElvisNow = {
   position: 0,
   ownLength: 42.697933,
   ownProgress: 42.697933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1972-02-20",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const jadaFacerYouBrokeMeFirstAcoustic = {
   position: 0,
   ownLength: 2.77535,
   ownProgress: 2.77535,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-01-08",
   externalIdentity: [

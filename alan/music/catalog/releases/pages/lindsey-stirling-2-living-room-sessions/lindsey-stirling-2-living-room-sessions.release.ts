@@ -9,7 +9,7 @@ export const lindseyStirling2LivingRoomSessions = {
   position: 0,
   ownLength: 7.02255,
   ownProgress: 7.02255,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-01-18",
   externalIdentity: [

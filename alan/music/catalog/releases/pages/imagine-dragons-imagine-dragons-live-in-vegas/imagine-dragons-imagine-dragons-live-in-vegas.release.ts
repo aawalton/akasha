@@ -9,7 +9,7 @@ export const imagineDragonsImagineDragonsLiveInVegas = {
   position: 0,
   ownLength: 96.403617,
   ownProgress: 96.403617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-07-28",
   externalIdentity: [

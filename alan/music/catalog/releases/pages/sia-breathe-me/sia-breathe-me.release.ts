@@ -9,7 +9,7 @@ export const siaBreatheMe = {
   position: 0,
   ownLength: 11.049767,
   ownProgress: 11.049767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2004-01-01",
   externalIdentity: [

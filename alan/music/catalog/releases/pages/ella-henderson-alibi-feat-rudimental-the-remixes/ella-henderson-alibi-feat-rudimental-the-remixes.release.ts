@@ -9,7 +9,7 @@ export const ellaHendersonAlibiFeatRudimentalTheRemixes = {
   position: 0,
   ownLength: 16.92255,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-03-22",
   externalIdentity: [

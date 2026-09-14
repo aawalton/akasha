@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareGodBlessAmerica = {
   position: 0,
   ownLength: 69.678517,
   ownProgress: 69.678517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1963-01-01",
   externalIdentity: [

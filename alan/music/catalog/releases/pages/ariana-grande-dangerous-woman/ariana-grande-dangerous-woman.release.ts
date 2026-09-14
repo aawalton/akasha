@@ -9,7 +9,7 @@ export const arianaGrandeDangerousWoman = {
   position: 0,
   ownLength: 63.128367,
   ownProgress: 63.128367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-05-20",
   externalIdentity: [

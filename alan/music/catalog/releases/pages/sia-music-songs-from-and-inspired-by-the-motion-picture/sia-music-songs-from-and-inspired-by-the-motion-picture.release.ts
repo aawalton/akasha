@@ -9,7 +9,7 @@ export const siaMusicSongsFromAndInspiredByTheMotionPicture = {
   position: 0,
   ownLength: 49.492967,
   ownProgress: 49.492967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-02-12",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const celticWoman2HomecomingLiveFromIreland = {
   position: 0,
   ownLength: 62.9168,
   ownProgress: 62.9168,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-01-19",
   externalIdentity: [

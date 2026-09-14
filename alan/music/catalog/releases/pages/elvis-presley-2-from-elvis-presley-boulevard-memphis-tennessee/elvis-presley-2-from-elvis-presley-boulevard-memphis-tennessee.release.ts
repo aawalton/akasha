@@ -9,7 +9,7 @@ export const elvisPresley2FromElvisPresleyBoulevardMemphisTennessee = {
   position: 0,
   ownLength: 34.854633,
   ownProgress: 34.854633,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1976-05-01",
   externalIdentity: [

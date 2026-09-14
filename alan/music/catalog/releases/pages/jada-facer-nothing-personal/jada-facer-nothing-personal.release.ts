@@ -9,7 +9,7 @@ export const jadaFacerNothingPersonal = {
   position: 0,
   ownLength: 3.066667,
   ownProgress: 3.066667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-04-25",
   externalIdentity: [

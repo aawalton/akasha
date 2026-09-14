@@ -9,7 +9,7 @@ export const florenceTheMachineALotOfLoveALotOfBlood = {
   position: 0,
   ownLength: 18.241983,
   ownProgress: 18.241983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-01-01",
   externalIdentity: [

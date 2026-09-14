@@ -9,7 +9,7 @@ export const auroraToBeLoved = {
   position: 0,
   ownLength: 26.57055,
   ownProgress: 26.57055,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-09-24",
   externalIdentity: [

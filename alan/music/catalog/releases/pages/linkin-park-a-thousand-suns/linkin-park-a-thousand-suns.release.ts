@@ -9,7 +9,7 @@ export const linkinParkAThousandSuns = {
   position: 0,
   ownLength: 47.826817,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2010-09-08",
   externalIdentity: [

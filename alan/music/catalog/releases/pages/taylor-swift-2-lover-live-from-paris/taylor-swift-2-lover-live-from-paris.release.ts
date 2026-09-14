@@ -9,7 +9,7 @@ export const taylorSwift2LoverLiveFromParis = {
   position: 0,
   ownLength: 3.828883,
   ownProgress: 3.828883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-17",
   externalIdentity: [

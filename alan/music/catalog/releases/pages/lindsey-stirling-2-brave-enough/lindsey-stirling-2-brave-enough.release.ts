@@ -9,7 +9,7 @@ export const lindseyStirling2BraveEnough = {
   position: 0,
   ownLength: 55.463867,
   ownProgress: 55.463867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-08-19",
   externalIdentity: [

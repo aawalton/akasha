@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareODivineRedeemerLegacySeries = {
   position: 0,
   ownLength: 54.330367,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1992-01-01",
   externalIdentity: [

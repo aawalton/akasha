@@ -9,7 +9,7 @@ export const alexWarrenYardSale = {
   position: 0,
   ownLength: 12.159917,
   ownProgress: 12.159917,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-11-10",
   externalIdentity: [

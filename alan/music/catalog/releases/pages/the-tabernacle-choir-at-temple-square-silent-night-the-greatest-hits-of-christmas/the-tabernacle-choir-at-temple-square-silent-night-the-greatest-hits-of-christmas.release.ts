@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSilentNightTheGreatestHitsOfChristm
   position: 0,
   ownLength: 39.2539,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1984-09-03",
   externalIdentity: [

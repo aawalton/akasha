@@ -9,7 +9,7 @@ export const coldplaySomethingJustLikeThisTokyoRemix = {
   position: 0,
   ownLength: 4.549767,
   ownProgress: 4.549767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-06-23",
   externalIdentity: [

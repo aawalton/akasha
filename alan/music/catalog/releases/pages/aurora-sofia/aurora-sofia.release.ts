@@ -9,7 +9,7 @@ export const auroraSofia = {
   position: 0,
   ownLength: 11.233267,
   ownProgress: 11.233267,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-06-11",
   externalIdentity: [

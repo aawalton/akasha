@@ -9,7 +9,7 @@ export const pentatonixCreep = {
   position: 0,
   ownLength: 2.45,
   ownProgress: 2.45,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-05-11",
   externalIdentity: [

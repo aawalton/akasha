@@ -9,7 +9,7 @@ export const elvisPresley2PeaceInTheValleyTheCompleteGospelRecordings = {
   position: 0,
   ownLength: 219.44795,
   ownProgress: 219.44795,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1999-11-17",
   externalIdentity: [

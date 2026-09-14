@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHeavensongMusicOfContemplationAndLi
   position: 0,
   ownLength: 68.271017,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2010-01-05",
   externalIdentity: [

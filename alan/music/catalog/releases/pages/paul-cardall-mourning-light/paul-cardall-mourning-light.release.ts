@@ -9,7 +9,7 @@ export const paulCardallMourningLight = {
   position: 0,
   ownLength: 3.85,
   ownProgress: 3.85,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-07-12",
   externalIdentity: [

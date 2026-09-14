@@ -9,7 +9,7 @@ export const katyPerryTheOneThatGotAwayRemixBundle = {
   position: 0,
   ownLength: 32.0873,
   ownProgress: 32.0873,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-01-01",
   externalIdentity: [

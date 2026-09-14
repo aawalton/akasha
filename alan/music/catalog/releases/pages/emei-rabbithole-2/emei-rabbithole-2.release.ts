@@ -9,7 +9,7 @@ export const emeiRabbithole2 = {
   position: 0,
   ownLength: 12.593067,
   ownProgress: 12.593067,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-11-15",

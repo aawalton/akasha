@@ -9,7 +9,7 @@ export const leonardCohenNewSkinForTheOldCeremony = {
   position: 0,
   ownLength: 36.774833,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1974-08-11",
   externalIdentity: [

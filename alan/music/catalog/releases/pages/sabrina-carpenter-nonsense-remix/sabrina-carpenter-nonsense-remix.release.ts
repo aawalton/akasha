@@ -9,7 +9,7 @@ export const sabrinaCarpenterNonsenseRemix = {
   position: 0,
   ownLength: 2.927467,
   ownProgress: 2.927467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-03-23",
   externalIdentity: [

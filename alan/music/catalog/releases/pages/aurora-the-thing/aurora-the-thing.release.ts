@@ -9,7 +9,7 @@ export const auroraTheThing = {
   position: 0,
   ownLength: 5.635333,
   ownProgress: 5.635333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2026-01-15",
   externalIdentity: [

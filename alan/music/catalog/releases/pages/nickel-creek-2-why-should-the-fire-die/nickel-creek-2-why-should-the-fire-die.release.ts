@@ -9,7 +9,7 @@ export const nickelCreek2WhyShouldTheFireDie = {
   position: 0,
   ownLength: 47.34125,
   ownProgress: 47.34125,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-01-01",
   externalIdentity: [

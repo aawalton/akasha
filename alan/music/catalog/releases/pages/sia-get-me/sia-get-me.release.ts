@@ -9,7 +9,7 @@ export const siaGetMe = {
   position: 0,
   ownLength: 10.5907,
   ownProgress: 10.5907,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2000-01-01",
   externalIdentity: [

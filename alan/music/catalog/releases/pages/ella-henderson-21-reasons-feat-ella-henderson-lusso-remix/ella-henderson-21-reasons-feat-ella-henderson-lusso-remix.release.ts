@@ -9,7 +9,7 @@ export const ellaHenderson21ReasonsFeatEllaHendersonLussoRemix = {
   position: 0,
   ownLength: 5.293883,
   ownProgress: 5.293883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-07-08",
   externalIdentity: [

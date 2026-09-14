@@ -9,7 +9,7 @@ export const kpopDemonHuntersCastHowItSDoneFromTheNetflixFilmKpopDemonHunters = 
   position: 0,
   ownLength: 5.861583,
   ownProgress: 5.861583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-06-19",
   externalIdentity: [

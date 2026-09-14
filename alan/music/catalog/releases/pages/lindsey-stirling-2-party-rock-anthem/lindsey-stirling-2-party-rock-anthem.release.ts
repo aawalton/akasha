@@ -9,7 +9,7 @@ export const lindseyStirling2PartyRockAnthem = {
   position: 0,
   ownLength: 3.357683,
   ownProgress: 3.357683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-10-01",
   externalIdentity: [

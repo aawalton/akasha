@@ -9,7 +9,7 @@ export const florenceTheMachineBigGod = {
   position: 0,
   ownLength: 4.029333,
   ownProgress: 4.029333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-06-19",
   externalIdentity: [

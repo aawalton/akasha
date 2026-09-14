@@ -9,7 +9,7 @@ export const taylorSwift2LoveStoryDigitalDogRemix = {
   position: 0,
   ownLength: 5.976217,
   ownProgress: 5.976217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-02-07",
   externalIdentity: [

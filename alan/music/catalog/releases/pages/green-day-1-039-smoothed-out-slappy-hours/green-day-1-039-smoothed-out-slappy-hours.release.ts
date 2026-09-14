@@ -9,7 +9,7 @@ export const greenDay1039SmoothedOutSlappyHours = {
   position: 0,
   ownLength: 63.84495,
   ownProgress: 63.84495,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1991-07-01",

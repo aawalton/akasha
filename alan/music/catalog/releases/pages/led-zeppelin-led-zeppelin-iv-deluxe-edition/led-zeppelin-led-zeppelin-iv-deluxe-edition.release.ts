@@ -9,7 +9,7 @@ export const ledZeppelinLedZeppelinIvDeluxeEdition = {
   position: 0,
   ownLength: 83.169467,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1971-11-08",
   externalIdentity: [

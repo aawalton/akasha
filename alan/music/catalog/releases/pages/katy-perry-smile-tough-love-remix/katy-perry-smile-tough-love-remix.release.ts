@@ -9,7 +9,7 @@ export const katyPerrySmileToughLoveRemix = {
   position: 0,
   ownLength: 2.783717,
   ownProgress: 2.783717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-09-18",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const enyaPortraitShortVersion = {
   position: 0,
   ownLength: 11.928567,
   ownProgress: 11.928567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-22",
   externalIdentity: [

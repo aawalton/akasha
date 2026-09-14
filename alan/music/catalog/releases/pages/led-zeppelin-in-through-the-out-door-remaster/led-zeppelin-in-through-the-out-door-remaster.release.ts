@@ -9,7 +9,7 @@ export const ledZeppelinInThroughTheOutDoorRemaster = {
   position: 0,
   ownLength: 42.616633,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1979-08-15",
   externalIdentity: [

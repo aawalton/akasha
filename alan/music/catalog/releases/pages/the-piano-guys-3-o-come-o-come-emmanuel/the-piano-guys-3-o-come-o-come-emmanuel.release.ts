@@ -9,7 +9,7 @@ export const thePianoGuys3OComeOComeEmmanuel = {
   position: 0,
   ownLength: 5.2588,
   ownProgress: 5.2588,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-11-01",
   externalIdentity: [

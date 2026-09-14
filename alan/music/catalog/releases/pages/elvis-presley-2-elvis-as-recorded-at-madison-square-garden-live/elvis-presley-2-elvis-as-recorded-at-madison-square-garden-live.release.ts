@@ -9,7 +9,7 @@ export const elvisPresley2ElvisAsRecordedAtMadisonSquareGardenLive = {
   position: 0,
   ownLength: 52.739433,
   ownProgress: 52.739433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1972-06-01",
   externalIdentity: [

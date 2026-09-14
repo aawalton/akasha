@@ -9,7 +9,7 @@ export const paulCardallHymnsVol2 = {
   position: 0,
   ownLength: 45.534233,
   ownProgress: 45.534233,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2000-01-01",
   externalIdentity: [

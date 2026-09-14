@@ -9,7 +9,7 @@ export const rockapellaJamsVol2 = {
   position: 0,
   ownLength: 37.985917,
   ownProgress: 37.985917,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-12-05",
   externalIdentity: [

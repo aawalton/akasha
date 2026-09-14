@@ -9,7 +9,7 @@ export const theBeatles2TheBeatles = {
   position: 0,
   ownLength: 327.317133,
   ownProgress: 327.317133,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-09",
   externalIdentity: [

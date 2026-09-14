@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHallelujah = {
   position: 0,
   ownLength: 76.728367,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-10-01",
   externalIdentity: [

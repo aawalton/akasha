@@ -9,7 +9,7 @@ export const katyPerryPrismDeluxe = {
   position: 0,
   ownLength: 61.6892,
   ownProgress: 61.6892,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-10-18",
   externalIdentity: [

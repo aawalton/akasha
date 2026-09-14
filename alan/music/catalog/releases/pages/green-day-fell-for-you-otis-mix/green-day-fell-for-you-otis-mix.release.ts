@@ -9,7 +9,7 @@ export const greenDayFellForYouOtisMix = {
   position: 0,
   ownLength: 3.127467,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2017-08-04",

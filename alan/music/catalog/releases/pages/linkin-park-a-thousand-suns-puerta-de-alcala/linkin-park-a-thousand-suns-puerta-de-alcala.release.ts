@@ -9,7 +9,7 @@ export const linkinParkAThousandSunsPuertaDeAlcala = {
   position: 0,
   ownLength: 25.986633,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2010-09-08",
   externalIdentity: [

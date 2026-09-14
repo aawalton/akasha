@@ -9,7 +9,7 @@ export const florenceTheMachineUnderHeavenOverHell = {
   position: 0,
   ownLength: 164.376017,
   ownProgress: 164.376017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-08-10",
   externalIdentity: [

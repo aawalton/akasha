@@ -9,7 +9,7 @@ export const thePianoGuys3Landslide = {
   position: 0,
   ownLength: 6.181483,
   ownProgress: 6.181483,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-10-18",
   externalIdentity: [

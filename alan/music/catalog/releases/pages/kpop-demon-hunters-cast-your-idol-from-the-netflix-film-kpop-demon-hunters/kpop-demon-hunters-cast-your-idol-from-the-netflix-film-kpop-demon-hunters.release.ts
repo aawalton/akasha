@@ -9,7 +9,7 @@ export const kpopDemonHuntersCastYourIdolFromTheNetflixFilmKpopDemonHunters = {
   position: 0,
   ownLength: 6.381467,
   ownProgress: 6.381467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-06-19",
   externalIdentity: [

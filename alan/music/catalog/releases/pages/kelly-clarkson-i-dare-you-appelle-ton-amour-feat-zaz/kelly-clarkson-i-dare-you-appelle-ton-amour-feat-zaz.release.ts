@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouAppelleTonAmourFeatZaz = {
   position: 0,
   ownLength: 3.636767,
   ownProgress: 3.636767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-04-14",
   externalIdentity: [

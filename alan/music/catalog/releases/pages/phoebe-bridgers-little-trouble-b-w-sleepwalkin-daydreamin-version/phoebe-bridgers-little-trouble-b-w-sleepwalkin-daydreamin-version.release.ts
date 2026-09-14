@@ -9,7 +9,7 @@ export const phoebeBridgersLittleTroubleBWSleepwalkinDaydreaminVersion = {
   position: 0,
   ownLength: 6.615767,
   ownProgress: 6.615767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-04-24",
   externalIdentity: [

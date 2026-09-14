@@ -9,7 +9,7 @@ export const arianaGrandeKByeForNowSwtLive = {
   position: 0,
   ownLength: 93.526467,
   ownProgress: 93.526467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-12-23",
   externalIdentity: [

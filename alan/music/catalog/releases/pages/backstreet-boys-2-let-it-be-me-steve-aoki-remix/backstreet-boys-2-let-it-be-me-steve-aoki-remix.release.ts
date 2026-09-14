@@ -9,7 +9,7 @@ export const backstreetBoys2LetItBeMeSteveAokiRemix = {
   position: 0,
   ownLength: 3.677417,
   ownProgress: 3.677417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-10-18",
   externalIdentity: [

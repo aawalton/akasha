@@ -9,7 +9,7 @@ export const taylorSwift2EverythingHasChangedRemix = {
   position: 0,
   ownLength: 4.162667,
   ownProgress: 4.162667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-01-01",
   externalIdentity: [

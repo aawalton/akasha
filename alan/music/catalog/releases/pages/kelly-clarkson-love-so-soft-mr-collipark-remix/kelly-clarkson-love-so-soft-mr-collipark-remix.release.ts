@@ -9,7 +9,7 @@ export const kellyClarksonLoveSoSoftMrColliparkRemix = {
   position: 0,
   ownLength: 2.84,
   ownProgress: 2.84,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-10-25",
   externalIdentity: [

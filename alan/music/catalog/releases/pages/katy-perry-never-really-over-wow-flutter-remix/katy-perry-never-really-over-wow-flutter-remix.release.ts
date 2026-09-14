@@ -9,7 +9,7 @@ export const katyPerryNeverReallyOverWowFlutterRemix = {
   position: 0,
   ownLength: 6.199683,
   ownProgress: 6.199683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-07-26",
   externalIdentity: [

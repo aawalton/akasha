@@ -9,7 +9,7 @@ export const jadaFacerCoffeeQuietMorningVersion = {
   position: 0,
   ownLength: 2.04855,
   ownProgress: 2.04855,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-02-14",
   externalIdentity: [

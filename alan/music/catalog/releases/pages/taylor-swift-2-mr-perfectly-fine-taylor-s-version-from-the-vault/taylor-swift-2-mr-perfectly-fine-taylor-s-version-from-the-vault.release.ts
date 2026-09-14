@@ -9,7 +9,7 @@ export const taylorSwift2MrPerfectlyFineTaylorSVersionFromTheVault = {
   position: 0,
   ownLength: 4.626517,
   ownProgress: 4.626517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-04-07",
   externalIdentity: [

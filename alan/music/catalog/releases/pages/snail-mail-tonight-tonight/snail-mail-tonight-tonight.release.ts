@@ -9,7 +9,7 @@ export const snailMailTonightTonight = {
   position: 0,
   ownLength: 4.351467,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-07-31",
   externalIdentity: [

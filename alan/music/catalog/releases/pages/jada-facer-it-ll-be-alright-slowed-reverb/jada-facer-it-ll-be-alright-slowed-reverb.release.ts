@@ -9,7 +9,7 @@ export const jadaFacerItLlBeAlrightSlowedReverb = {
   position: 0,
   ownLength: 2.22645,
   ownProgress: 2.22645,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-07-03",
   externalIdentity: [

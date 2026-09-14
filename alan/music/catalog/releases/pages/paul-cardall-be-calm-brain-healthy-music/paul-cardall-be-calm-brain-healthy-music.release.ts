@@ -9,7 +9,7 @@ export const paulCardallBeCalmBrainHealthyMusic = {
   position: 0,
   ownLength: 18.420133,
   ownProgress: 18.420133,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-03-03",
   externalIdentity: [

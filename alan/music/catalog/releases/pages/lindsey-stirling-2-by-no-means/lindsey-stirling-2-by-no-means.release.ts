@@ -9,7 +9,7 @@ export const lindseyStirling2ByNoMeans = {
   position: 0,
   ownLength: 3.530167,
   ownProgress: 3.530167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-09-26",
   externalIdentity: [

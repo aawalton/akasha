@@ -9,7 +9,7 @@ export const alexWarrenBeforeYouLeaveMe = {
   position: 0,
   ownLength: 5.839567,
   ownProgress: 5.839567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-02-16",
   externalIdentity: [

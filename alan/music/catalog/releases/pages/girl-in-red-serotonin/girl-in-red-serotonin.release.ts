@@ -9,7 +9,7 @@ export const girlInRedSerotonin = {
   position: 0,
   ownLength: 3.040433,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-03-03",
   externalIdentity: [

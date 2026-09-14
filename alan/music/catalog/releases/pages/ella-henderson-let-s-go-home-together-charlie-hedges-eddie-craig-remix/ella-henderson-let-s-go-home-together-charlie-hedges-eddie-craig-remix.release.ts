@@ -9,7 +9,7 @@ export const ellaHendersonLetSGoHomeTogetherCharlieHedgesEddieCraigRemix = {
   position: 0,
   ownLength: 7.382033,
   ownProgress: 7.382033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-04-09",
   externalIdentity: [

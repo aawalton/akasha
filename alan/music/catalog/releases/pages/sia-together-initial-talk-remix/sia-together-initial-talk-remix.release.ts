@@ -9,7 +9,7 @@ export const siaTogetherInitialTalkRemix = {
   position: 0,
   ownLength: 6.722,
   ownProgress: 6.722,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-07-24",
   externalIdentity: [

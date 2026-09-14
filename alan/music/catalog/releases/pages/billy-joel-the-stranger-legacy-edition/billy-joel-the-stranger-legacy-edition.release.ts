@@ -9,7 +9,7 @@ export const billyJoelTheStrangerLegacyEdition = {
   position: 0,
   ownLength: 106.631233,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1977-01-01",
   externalIdentity: [

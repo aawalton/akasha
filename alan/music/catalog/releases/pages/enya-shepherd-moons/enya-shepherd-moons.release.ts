@@ -9,7 +9,7 @@ export const enyaShepherdMoons = {
   position: 0,
   ownLength: 53.054817,
   ownProgress: 53.054817,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1991-11-15",
   externalIdentity: [

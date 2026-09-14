@@ -9,7 +9,7 @@ export const justinTimberlakeItTakesTwoFeatEricAndreDaveedDiggsKidCudiTrolls = {
   position: 0,
   ownLength: 3.652217,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-10-11",
   externalIdentity: [

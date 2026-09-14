@@ -9,7 +9,7 @@ export const ellaHenderson0800HeavenJoelCorryVipMixExtended = {
   position: 0,
   ownLength: 3.9357,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-06-29",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const katyPerryHarleysInHawaiiWinAndWooRemix = {
   position: 0,
   ownLength: 3.4375,
   ownProgress: 3.4375,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-11-13",
   externalIdentity: [

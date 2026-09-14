@@ -9,7 +9,7 @@ export const byuVocalPointBeautyAndTheBeastMedleyFeatLexiWalker = {
   position: 0,
   ownLength: 4.693883,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-03-24",
   externalIdentity: [

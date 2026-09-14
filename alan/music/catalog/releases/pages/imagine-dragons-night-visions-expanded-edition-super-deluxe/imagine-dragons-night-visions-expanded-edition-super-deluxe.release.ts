@@ -9,7 +9,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxe = {
   position: 0,
   ownLength: 220.3356,
   ownProgress: 220.3356,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-09-09",
   externalIdentity: [

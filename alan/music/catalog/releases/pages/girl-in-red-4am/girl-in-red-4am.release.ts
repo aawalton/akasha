@@ -9,7 +9,7 @@ export const girlInRed4am = {
   position: 0,
   ownLength: 1.847683,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-08-10",
   externalIdentity: [

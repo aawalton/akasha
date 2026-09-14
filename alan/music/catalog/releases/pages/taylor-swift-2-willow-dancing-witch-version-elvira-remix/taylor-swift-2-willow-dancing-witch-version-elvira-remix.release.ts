@@ -9,7 +9,7 @@ export const taylorSwift2WillowDancingWitchVersionElviraRemix = {
   position: 0,
   ownLength: 3.080317,
   ownProgress: 3.080317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-12-13",
   externalIdentity: [

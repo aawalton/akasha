@@ -9,7 +9,7 @@ export const coldplayCharlieBrown = {
   position: 0,
   ownLength: 4.75265,
   ownProgress: 4.75265,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-04-03",
   externalIdentity: [

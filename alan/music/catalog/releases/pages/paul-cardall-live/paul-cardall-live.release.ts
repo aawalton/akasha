@@ -9,7 +9,7 @@ export const paulCardallLive = {
   position: 0,
   ownLength: 46.08545,
   ownProgress: 46.08545,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2004-05-04",
   externalIdentity: [

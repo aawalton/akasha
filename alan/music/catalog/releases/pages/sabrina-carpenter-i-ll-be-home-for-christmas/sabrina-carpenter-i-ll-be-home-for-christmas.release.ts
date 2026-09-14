@@ -9,7 +9,7 @@ export const sabrinaCarpenterILlBeHomeForChristmas = {
   position: 0,
   ownLength: 3.585533,
   ownProgress: 3.585533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "in-progress",
   publishedAt: "2012-12-19",
   externalIdentity: [

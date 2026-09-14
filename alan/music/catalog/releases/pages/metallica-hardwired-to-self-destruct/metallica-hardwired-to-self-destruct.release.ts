@@ -9,7 +9,7 @@ export const metallicaHardwiredToSelfDestruct = {
   position: 0,
   ownLength: 77.547883,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-11-18",
   externalIdentity: [

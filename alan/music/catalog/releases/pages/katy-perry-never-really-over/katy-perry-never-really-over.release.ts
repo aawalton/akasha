@@ -9,7 +9,7 @@ export const katyPerryNeverReallyOver = {
   position: 0,
   ownLength: 3.725383,
   ownProgress: 3.725383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-05-31",
   externalIdentity: [

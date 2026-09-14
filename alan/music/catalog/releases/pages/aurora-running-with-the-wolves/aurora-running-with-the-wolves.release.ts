@@ -9,7 +9,7 @@ export const auroraRunningWithTheWolves = {
   position: 0,
   ownLength: 15.0622,
   ownProgress: 15.0622,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-05-04",
   externalIdentity: [

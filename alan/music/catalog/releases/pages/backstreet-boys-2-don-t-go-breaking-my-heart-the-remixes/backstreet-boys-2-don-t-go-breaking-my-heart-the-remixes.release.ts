@@ -9,7 +9,7 @@ export const backstreetBoys2DonTGoBreakingMyHeartTheRemixes = {
   position: 0,
   ownLength: 13.727783,
   ownProgress: 13.727783,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-07-13",
   externalIdentity: [

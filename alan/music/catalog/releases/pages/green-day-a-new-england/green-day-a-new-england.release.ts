@@ -9,7 +9,7 @@ export const greenDayANewEngland = {
   position: 0,
   ownLength: 2.154433,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-11-13",

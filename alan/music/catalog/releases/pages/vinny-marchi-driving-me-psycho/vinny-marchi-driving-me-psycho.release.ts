@@ -9,7 +9,7 @@ export const vinnyMarchiDrivingMePsycho = {
   position: 0,
   ownLength: 3.472683,
   ownProgress: 3.472683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-15",
   externalIdentity: [

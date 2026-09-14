@@ -9,7 +9,7 @@ export const katyPerrySmallTalk = {
   position: 0,
   ownLength: 2.699367,
   ownProgress: 2.699367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-08-09",
   externalIdentity: [

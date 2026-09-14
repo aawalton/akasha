@@ -9,7 +9,7 @@ export const sabrinaCarpenterSilverNights = {
   position: 0,
   ownLength: 2.442,
   ownProgress: 2.442,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "in-progress",
   publishedAt: "2014-01-01",
   externalIdentity: [

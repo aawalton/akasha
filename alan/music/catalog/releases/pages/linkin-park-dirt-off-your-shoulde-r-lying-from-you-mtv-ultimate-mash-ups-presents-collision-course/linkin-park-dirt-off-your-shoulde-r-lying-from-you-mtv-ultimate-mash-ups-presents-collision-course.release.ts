@@ -9,7 +9,7 @@ export const linkinParkDirtOffYourShouldeRLyingFromYouMtvUltimateMashUpsPresents
   position: 0,
   ownLength: 8.156433,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2004-11-23",
   externalIdentity: [

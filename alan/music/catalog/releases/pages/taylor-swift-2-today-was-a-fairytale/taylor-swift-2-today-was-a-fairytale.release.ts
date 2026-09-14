@@ -9,7 +9,7 @@ export const taylorSwift2TodayWasAFairytale = {
   position: 0,
   ownLength: 4.030217,
   ownProgress: 4.030217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2010-01-01",
   externalIdentity: [

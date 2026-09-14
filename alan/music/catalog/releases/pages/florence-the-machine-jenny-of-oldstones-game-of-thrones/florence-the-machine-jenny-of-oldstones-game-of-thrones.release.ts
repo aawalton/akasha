@@ -9,7 +9,7 @@ export const florenceTheMachineJennyOfOldstonesGameOfThrones = {
   position: 0,
   ownLength: 3.143967,
   ownProgress: 3.143967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-04-22",
   externalIdentity: [

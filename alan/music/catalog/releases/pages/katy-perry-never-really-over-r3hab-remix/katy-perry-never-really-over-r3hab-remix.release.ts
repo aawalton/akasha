@@ -9,7 +9,7 @@ export const katyPerryNeverReallyOverR3habRemix = {
   position: 0,
   ownLength: 3.127917,
   ownProgress: 3.127917,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-07-26",
   externalIdentity: [

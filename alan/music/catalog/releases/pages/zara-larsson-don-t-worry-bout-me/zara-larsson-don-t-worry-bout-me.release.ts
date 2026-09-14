@@ -9,7 +9,7 @@ export const zaraLarssonDonTWorryBoutMe = {
   position: 0,
   ownLength: 3.480183,
   ownProgress: 3.480183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-03-28",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const theLordOfTheRingsMusicTheLordOfTheRingsTheTwoTowersTheCompleteRecor
   position: 2,
   ownLength: 188.617083,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2002-01-01",
   externalIdentity: [

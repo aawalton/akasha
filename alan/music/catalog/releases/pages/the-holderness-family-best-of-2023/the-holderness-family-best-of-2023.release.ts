@@ -9,7 +9,7 @@ export const theHoldernessFamilyBestOf2023 = {
   position: 0,
   ownLength: 35.989083,
   ownProgress: 35.989083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-12-21",
   externalIdentity: [

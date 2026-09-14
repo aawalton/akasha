@@ -9,7 +9,7 @@ export const enyaTheCelts2 = {
   position: 0,
   ownLength: 41.418767,
   ownProgress: 41.418767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1987-01-01",
   externalIdentity: [

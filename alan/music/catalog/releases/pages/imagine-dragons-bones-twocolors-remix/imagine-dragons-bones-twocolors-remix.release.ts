@@ -9,7 +9,7 @@ export const imagineDragonsBonesTwocolorsRemix = {
   position: 0,
   ownLength: 4.2682,
   ownProgress: 4.2682,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-25",
   externalIdentity: [

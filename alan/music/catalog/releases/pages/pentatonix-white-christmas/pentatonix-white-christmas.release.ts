@@ -9,7 +9,7 @@ export const pentatonixWhiteChristmas = {
   position: 0,
   ownLength: 3.060667,
   ownProgress: 3.060667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-11-15",
   externalIdentity: [

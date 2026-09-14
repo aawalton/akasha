@@ -9,7 +9,7 @@ export const leonardCohenPopularProblems = {
   position: 0,
   ownLength: 36.000617,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-09-16",
   externalIdentity: [

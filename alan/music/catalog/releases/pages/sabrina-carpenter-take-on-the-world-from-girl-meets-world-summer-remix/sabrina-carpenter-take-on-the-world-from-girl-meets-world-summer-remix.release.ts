@@ -9,7 +9,7 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemix = {
   position: 0,
   ownLength: 2.990883,
   ownProgress: 2.990883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-01-01",
   externalIdentity: [

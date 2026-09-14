@@ -9,7 +9,7 @@ export const backstreetBoys2WhatHurtsTheMost = {
   position: 0,
   ownLength: 3.516667,
   ownProgress: 3.516667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-05-02",
   externalIdentity: [

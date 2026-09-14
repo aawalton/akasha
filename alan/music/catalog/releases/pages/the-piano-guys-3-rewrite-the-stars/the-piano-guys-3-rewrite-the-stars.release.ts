@@ -9,7 +9,7 @@ export const thePianoGuys3RewriteTheStars = {
   position: 0,
   ownLength: 3.52555,
   ownProgress: 3.52555,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-02-12",
   externalIdentity: [

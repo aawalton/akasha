@@ -9,7 +9,7 @@ export const siaBeautifulPeopleMissMoniqueRemix = {
   position: 0,
   ownLength: 6.793633,
   ownProgress: 6.793633,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-06-06",
   externalIdentity: [

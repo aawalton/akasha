@@ -9,7 +9,7 @@ export const weirdAlYankovic2TheEssentialWeirdAlYankovic = {
   position: 0,
   ownLength: 153.164683,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2009-01-01",
   externalIdentity: [

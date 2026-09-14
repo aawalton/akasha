@@ -9,7 +9,7 @@ export const coldplayLifeInTechnicolorIi = {
   position: 0,
   ownLength: 10.22265,
   ownProgress: 10.22265,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-01-30",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const vinnyMarchiDannyBoy = {
   position: 0,
   ownLength: 2.997517,
   ownProgress: 2.997517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-06-09",
   externalIdentity: [

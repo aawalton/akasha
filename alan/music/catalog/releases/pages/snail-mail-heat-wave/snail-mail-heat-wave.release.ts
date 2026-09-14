@@ -9,7 +9,7 @@ export const snailMailHeatWave = {
   position: 0,
   ownLength: 5.1391,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-04-26",
   externalIdentity: [

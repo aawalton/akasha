@@ -9,7 +9,7 @@ export const jamesTaylor2FollowTheMoneyFeatJamesTaylor = {
   position: 0,
   ownLength: 3.7,
   ownProgress: 3.7,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-09-27",
   externalIdentity: [

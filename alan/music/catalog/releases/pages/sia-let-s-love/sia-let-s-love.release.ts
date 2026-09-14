@@ -9,7 +9,7 @@ export const siaLetSLove = {
   position: 0,
   ownLength: 3.344083,
   ownProgress: 3.344083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-09-11",
   externalIdentity: [

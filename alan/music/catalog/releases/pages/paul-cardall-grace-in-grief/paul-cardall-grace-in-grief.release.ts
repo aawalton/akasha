@@ -9,7 +9,7 @@ export const paulCardallGraceInGrief = {
   position: 0,
   ownLength: 37.589783,
   ownProgress: 37.589783,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-10-04",
   externalIdentity: [

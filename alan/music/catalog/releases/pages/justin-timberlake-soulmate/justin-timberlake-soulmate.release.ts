@@ -9,7 +9,7 @@ export const justinTimberlakeSoulmate = {
   position: 0,
   ownLength: 3.270517,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-07-03",
   externalIdentity: [

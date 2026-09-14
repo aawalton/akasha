@@ -9,7 +9,7 @@ export const nsync2HomeForChristmasDeluxeVersion = {
   position: 0,
   ownLength: 64.355567,
   ownProgress: 64.355567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1998-11-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const siaFameWonTLoveYouFeatParisHilton = {
   position: 0,
   ownLength: 3.328133,
   ownProgress: 3.328133,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-04-19",
   externalIdentity: [

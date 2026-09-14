@@ -9,7 +9,7 @@ export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1Session =
   position: 0,
   ownLength: 2.320133,
   ownProgress: 2.320133,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2001-11-30",
   externalIdentity: [

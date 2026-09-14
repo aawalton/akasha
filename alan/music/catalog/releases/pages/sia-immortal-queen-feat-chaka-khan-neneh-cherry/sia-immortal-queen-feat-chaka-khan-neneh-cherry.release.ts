@@ -9,7 +9,7 @@ export const siaImmortalQueenFeatChakaKhanNenehCherry = {
   position: 0,
   ownLength: 3.580467,
   ownProgress: 3.580467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-08-16",
   externalIdentity: [

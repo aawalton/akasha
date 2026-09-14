@@ -9,7 +9,7 @@ export const linkinParkFromZeroDeluxeEdition = {
   position: 0,
   ownLength: 41.77675,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-05-16",
   externalIdentity: [

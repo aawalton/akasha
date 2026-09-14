@@ -9,7 +9,7 @@ export const weirdAlYankovic2UhfWeirdAlYankovic = {
   position: 0,
   ownLength: 42.538817,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1989-07-18",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const justinTimberlakeTheBookOfLoveOriginalMotionPictureSoundtrack = {
   position: 0,
   ownLength: 60.089867,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-01-13",
   externalIdentity: [

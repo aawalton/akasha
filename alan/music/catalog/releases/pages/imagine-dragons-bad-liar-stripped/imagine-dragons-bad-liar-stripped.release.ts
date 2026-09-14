@@ -9,7 +9,7 @@ export const imagineDragonsBadLiarStripped = {
   position: 0,
   ownLength: 4.22045,
   ownProgress: 4.22045,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-05-31",
   externalIdentity: [

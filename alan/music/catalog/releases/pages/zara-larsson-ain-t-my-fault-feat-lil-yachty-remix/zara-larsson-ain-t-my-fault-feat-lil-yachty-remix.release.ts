@@ -9,7 +9,7 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemix = {
   position: 0,
   ownLength: 3.972667,
   ownProgress: 3.972667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-10-07",
   externalIdentity: [

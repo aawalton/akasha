@@ -9,7 +9,7 @@ export const siaWaterfall = {
   position: 0,
   ownLength: 3.333817,
   ownProgress: 3.333817,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-03-10",
   externalIdentity: [

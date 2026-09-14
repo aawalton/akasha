@@ -9,7 +9,7 @@ export const jadaFacerVanillaTwilightAcoustic = {
   position: 0,
   ownLength: 6.5247,
   ownProgress: 6.5247,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-03-01",
   externalIdentity: [

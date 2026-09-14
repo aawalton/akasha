@@ -9,7 +9,7 @@ export const elvisPresley2ThatSTheWayItIs = {
   position: 0,
   ownLength: 52.880133,
   ownProgress: 52.880133,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1970-11-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const ellaHendersonCrazyWhatLoveCanDo = {
   position: 0,
   ownLength: 2.829267,
   ownProgress: 2.829267,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-08",
   externalIdentity: [

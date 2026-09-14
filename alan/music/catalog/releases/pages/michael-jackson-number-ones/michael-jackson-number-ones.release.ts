@@ -9,7 +9,7 @@ export const michaelJacksonNumberOnes = {
   position: 0,
   ownLength: 78.86705,
   ownProgress: 78.86705,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1979-01-01",

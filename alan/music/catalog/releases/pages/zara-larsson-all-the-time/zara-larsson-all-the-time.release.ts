@@ -9,7 +9,7 @@ export const zaraLarssonAllTheTime = {
   position: 0,
   ownLength: 3.801867,
   ownProgress: 3.801867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-06-21",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const justinTimberlakeSexytracksTheSexybackRemixes = {
   position: 0,
   ownLength: 25.914633,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2006-11-07",
   externalIdentity: [

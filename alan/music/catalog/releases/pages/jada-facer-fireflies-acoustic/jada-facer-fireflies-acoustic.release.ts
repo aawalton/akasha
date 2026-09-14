@@ -9,7 +9,7 @@ export const jadaFacerFirefliesAcoustic = {
   position: 0,
   ownLength: 3.0247,
   ownProgress: 3.0247,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-12-28",
   externalIdentity: [

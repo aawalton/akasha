@@ -9,7 +9,7 @@ export const pentatonixTheLuckyOnes = {
   position: 0,
   ownLength: 3.182667,
   ownProgress: 3.182667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-01-22",
   externalIdentity: [

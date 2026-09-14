@@ -9,7 +9,7 @@ export const weirdAlYankovic2GreatestHits = {
   position: 0,
   ownLength: 33.885517,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1988-10-18",
   externalIdentity: [

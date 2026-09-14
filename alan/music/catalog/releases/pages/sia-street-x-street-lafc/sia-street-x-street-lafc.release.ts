@@ -9,7 +9,7 @@ export const siaStreetXStreetLafc = {
   position: 0,
   ownLength: 2.8857,
   ownProgress: 2.8857,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-07-25",
   externalIdentity: [

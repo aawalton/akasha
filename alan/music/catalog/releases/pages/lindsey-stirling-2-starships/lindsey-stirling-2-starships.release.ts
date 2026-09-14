@@ -9,7 +9,7 @@ export const lindseyStirling2Starships = {
   position: 0,
   ownLength: 3.502217,
   ownProgress: 3.502217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-06-04",
   externalIdentity: [

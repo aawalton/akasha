@@ -9,7 +9,7 @@ export const jadaFacerLathi = {
   position: 0,
   ownLength: 3.31,
   ownProgress: 3.31,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-07-15",
   externalIdentity: [

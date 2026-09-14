@@ -9,7 +9,7 @@ export const japaneseBreakfastPsychopomp = {
   position: 0,
   ownLength: 25.2367,
   ownProgress: 25.2367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-04-16",
   externalIdentity: [

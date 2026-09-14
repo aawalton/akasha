@@ -9,7 +9,7 @@ export const byuVocalPointEdmACappellaMashup = {
   position: 0,
   ownLength: 3.657767,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-08-29",
   externalIdentity: [

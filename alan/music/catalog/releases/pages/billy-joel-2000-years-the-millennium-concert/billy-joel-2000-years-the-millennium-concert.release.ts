@@ -9,7 +9,7 @@ export const billyJoel2000YearsTheMillenniumConcert = {
   position: 0,
   ownLength: 128.806533,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2000-05-02",
   externalIdentity: [

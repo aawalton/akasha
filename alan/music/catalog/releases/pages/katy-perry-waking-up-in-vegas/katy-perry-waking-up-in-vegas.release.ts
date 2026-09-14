@@ -9,7 +9,7 @@ export const katyPerryWakingUpInVegas = {
   position: 0,
   ownLength: 32.3133,
   ownProgress: 32.3133,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-01-01",
   externalIdentity: [

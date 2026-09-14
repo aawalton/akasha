@@ -9,7 +9,7 @@ export const siaSolsburyHillHumaneWorldForAnimalsCover = {
   position: 0,
   ownLength: 4.016217,
   ownProgress: 4.016217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-02-13",
   externalIdentity: [

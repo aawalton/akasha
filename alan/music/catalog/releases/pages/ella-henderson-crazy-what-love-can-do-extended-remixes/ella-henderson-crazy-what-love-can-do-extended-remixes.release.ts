@@ -9,7 +9,7 @@ export const ellaHendersonCrazyWhatLoveCanDoExtendedRemixes = {
   position: 0,
   ownLength: 27.761,
   ownProgress: 27.761,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-07-07",
   externalIdentity: [

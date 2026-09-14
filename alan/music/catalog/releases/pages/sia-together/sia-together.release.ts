@@ -9,7 +9,7 @@ export const siaTogether = {
   position: 0,
   ownLength: 3.420117,
   ownProgress: 3.420117,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-20",
   externalIdentity: [

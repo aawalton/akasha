@@ -9,7 +9,7 @@ export const phoebeBridgersWalkingOnAString = {
   position: 0,
   ownLength: 8.783983,
   ownProgress: 8.783983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-10-18",
   externalIdentity: [

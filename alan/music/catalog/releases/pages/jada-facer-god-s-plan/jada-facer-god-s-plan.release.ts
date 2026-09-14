@@ -9,7 +9,7 @@ export const jadaFacerGodSPlan = {
   position: 0,
   ownLength: 2.376667,
   ownProgress: 2.376667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-03-07",
   externalIdentity: [

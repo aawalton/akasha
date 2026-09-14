@@ -9,7 +9,7 @@ export const metallicaIfDarknessHadASon = {
   position: 0,
   ownLength: 15.540417,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-03-01",
   externalIdentity: [

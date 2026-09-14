@@ -9,7 +9,7 @@ export const arianaGrandeThankUNext = {
   position: 0,
   ownLength: 41.17015,
   ownProgress: 41.17015,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-02-08",
   externalIdentity: [

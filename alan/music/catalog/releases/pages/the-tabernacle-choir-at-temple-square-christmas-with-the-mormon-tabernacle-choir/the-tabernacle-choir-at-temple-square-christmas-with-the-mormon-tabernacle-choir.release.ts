@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareChristmasWithTheMormonTabernacleCho
   position: 0,
   ownLength: 41.696617,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2009-11-03",
   externalIdentity: [

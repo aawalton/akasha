@@ -9,7 +9,7 @@ export const clairoBlouse = {
   position: 0,
   ownLength: 3.256267,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-06-11",
   externalIdentity: [

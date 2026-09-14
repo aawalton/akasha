@@ -9,7 +9,7 @@ export const enyaTrainsAndWinterRains = {
   position: 0,
   ownLength: 3.721833,
   ownProgress: 3.721833,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-09-30",
   externalIdentity: [

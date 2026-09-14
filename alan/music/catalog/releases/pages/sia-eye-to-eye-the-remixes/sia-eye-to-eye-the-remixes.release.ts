@@ -9,7 +9,7 @@ export const siaEyeToEyeTheRemixes = {
   position: 0,
   ownLength: 48.7632,
   ownProgress: 48.7632,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-06-04",
   externalIdentity: [

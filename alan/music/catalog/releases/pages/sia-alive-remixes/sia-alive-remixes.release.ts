@@ -9,7 +9,7 @@ export const siaAliveRemixes = {
   position: 0,
   ownLength: 21.523317,
   ownProgress: 21.523317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-12-08",
   externalIdentity: [

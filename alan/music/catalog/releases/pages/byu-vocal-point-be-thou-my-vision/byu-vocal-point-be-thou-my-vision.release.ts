@@ -9,7 +9,7 @@ export const byuVocalPointBeThouMyVision = {
   position: 0,
   ownLength: 3.88,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2020-01-24",
   externalIdentity: [

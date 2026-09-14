@@ -9,7 +9,7 @@ export const coldplayHigherPowerTiestoRemix = {
   position: 0,
   ownLength: 3.826083,
   ownProgress: 3.826083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-06-04",
   externalIdentity: [

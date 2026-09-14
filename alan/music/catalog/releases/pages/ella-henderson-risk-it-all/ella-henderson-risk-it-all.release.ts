@@ -9,7 +9,7 @@ export const ellaHendersonRiskItAll = {
   position: 0,
   ownLength: 2.967733,
   ownProgress: 2.967733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-08-20",
   externalIdentity: [

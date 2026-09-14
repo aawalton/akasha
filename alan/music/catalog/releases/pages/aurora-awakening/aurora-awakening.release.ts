@@ -9,7 +9,7 @@ export const auroraAwakening = {
   position: 0,
   ownLength: 3.683017,
   ownProgress: 3.683017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-03-23",
   externalIdentity: [

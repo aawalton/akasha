@@ -9,7 +9,7 @@ export const imagineDragonsSmokeMirrors = {
   position: 0,
   ownLength: 50.851517,
   ownProgress: 50.851517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-09-18",
   externalIdentity: [

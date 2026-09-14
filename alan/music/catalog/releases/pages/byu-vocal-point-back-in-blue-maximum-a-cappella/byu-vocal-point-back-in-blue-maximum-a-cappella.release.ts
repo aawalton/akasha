@@ -9,7 +9,7 @@ export const byuVocalPointBackInBlueMaximumACappella = {
   position: 0,
   ownLength: 54.583333,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-03-08",
   externalIdentity: [

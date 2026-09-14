@@ -9,7 +9,7 @@ export const vinnyMarchiLifeline = {
   position: 0,
   ownLength: 3.404767,
   ownProgress: 3.404767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-02-17",
   externalIdentity: [

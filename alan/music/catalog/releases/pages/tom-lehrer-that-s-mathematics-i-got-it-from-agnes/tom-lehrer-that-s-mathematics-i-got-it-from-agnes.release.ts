@@ -9,7 +9,7 @@ export const tomLehrerThatSMathematicsIGotItFromAgnes = {
   position: 0,
   ownLength: 3.4966,
   ownProgress: 3.4966,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-04-20",
   externalIdentity: [

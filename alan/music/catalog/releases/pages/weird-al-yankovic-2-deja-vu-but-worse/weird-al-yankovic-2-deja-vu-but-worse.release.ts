@@ -9,7 +9,7 @@ export const weirdAlYankovic2DejaVuButWorse = {
   position: 0,
   ownLength: 4.850667,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-07-01",
   externalIdentity: [

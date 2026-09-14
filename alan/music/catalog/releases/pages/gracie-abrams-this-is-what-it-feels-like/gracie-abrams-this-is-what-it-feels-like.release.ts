@@ -9,7 +9,7 @@ export const gracieAbramsThisIsWhatItFeelsLike = {
   position: 0,
   ownLength: 37.85495,
   ownProgress: 37.85495,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-11-12",

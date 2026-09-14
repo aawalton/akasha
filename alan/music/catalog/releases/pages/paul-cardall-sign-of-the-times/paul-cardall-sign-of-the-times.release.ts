@@ -9,7 +9,7 @@ export const paulCardallSignOfTheTimes = {
   position: 0,
   ownLength: 4.18385,
   ownProgress: 4.18385,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-06-23",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const weirdAlYankovic2DareToBeStupid = {
   position: 0,
   ownLength: 36.9646,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1985-06-18",
   externalIdentity: [

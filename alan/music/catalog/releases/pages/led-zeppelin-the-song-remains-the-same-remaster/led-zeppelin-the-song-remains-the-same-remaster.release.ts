@@ -9,7 +9,7 @@ export const ledZeppelinTheSongRemainsTheSameRemaster = {
   position: 0,
   ownLength: 131.9777,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1976-10-22",
   externalIdentity: [

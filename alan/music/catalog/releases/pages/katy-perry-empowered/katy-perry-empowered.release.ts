@@ -9,7 +9,7 @@ export const katyPerryEmpowered = {
   position: 0,
   ownLength: 20.350617,
   ownProgress: 20.350617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-03",
   externalIdentity: [

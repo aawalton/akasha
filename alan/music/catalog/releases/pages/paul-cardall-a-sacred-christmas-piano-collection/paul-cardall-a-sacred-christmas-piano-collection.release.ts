@@ -9,7 +9,7 @@ export const paulCardallASacredChristmasPianoCollection = {
   position: 0,
   ownLength: 45.98845,
   ownProgress: 45.98845,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-12-01",
   externalIdentity: [

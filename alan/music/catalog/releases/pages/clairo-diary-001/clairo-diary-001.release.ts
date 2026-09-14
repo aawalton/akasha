@@ -9,7 +9,7 @@ export const clairoDiary001 = {
   position: 0,
   ownLength: 14.728083,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-05-25",
   externalIdentity: [

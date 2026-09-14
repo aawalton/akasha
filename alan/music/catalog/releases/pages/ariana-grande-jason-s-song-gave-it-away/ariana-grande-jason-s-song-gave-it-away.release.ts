@@ -9,7 +9,7 @@ export const arianaGrandeJasonSSongGaveItAway = {
   position: 0,
   ownLength: 4.410217,
   ownProgress: 4.410217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-09-16",
   externalIdentity: [

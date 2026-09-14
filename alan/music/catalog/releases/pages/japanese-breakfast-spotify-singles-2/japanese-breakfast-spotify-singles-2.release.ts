@@ -9,7 +9,7 @@ export const japaneseBreakfastSpotifySingles2 = {
   position: 0,
   ownLength: 7.021567,
   ownProgress: 7.021567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-03-30",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const taylorSwift2CorneliaStreetLiveFromParis = {
   position: 0,
   ownLength: 4.93355,
   ownProgress: 4.93355,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-18",
   externalIdentity: [

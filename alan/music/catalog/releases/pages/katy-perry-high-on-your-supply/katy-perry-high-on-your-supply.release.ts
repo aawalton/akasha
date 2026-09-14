@@ -9,7 +9,7 @@ export const katyPerryHighOnYourSupply = {
   position: 0,
   ownLength: 4,
   ownProgress: 4,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-08-10",
   externalIdentity: [

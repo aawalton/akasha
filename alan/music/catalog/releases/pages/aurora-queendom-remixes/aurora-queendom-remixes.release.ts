@@ -9,7 +9,7 @@ export const auroraQueendomRemixes = {
   position: 0,
   ownLength: 19.8102,
   ownProgress: 19.8102,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-06-29",
   externalIdentity: [

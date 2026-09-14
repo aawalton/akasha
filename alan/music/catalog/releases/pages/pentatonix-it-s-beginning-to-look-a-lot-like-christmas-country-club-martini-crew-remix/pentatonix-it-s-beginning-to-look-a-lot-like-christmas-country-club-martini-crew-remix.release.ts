@@ -9,7 +9,7 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCountryClubMartiniCrew
   position: 0,
   ownLength: 3.568183,
   ownProgress: 3.568183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-12-14",
   externalIdentity: [

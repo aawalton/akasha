@@ -9,7 +9,7 @@ export const coldplayMoonMusicFullMoonEdition = {
   position: 0,
   ownLength: 79.124383,
   ownProgress: 79.124383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-10-03",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenter = {
   position: 0,
   ownLength: 3.106283,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-03-22",
   externalIdentity: [

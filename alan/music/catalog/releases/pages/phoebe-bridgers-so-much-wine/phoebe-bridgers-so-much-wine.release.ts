@@ -9,7 +9,7 @@ export const phoebeBridgersSoMuchWine = {
   position: 0,
   ownLength: 21.82525,
   ownProgress: 21.82525,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2022-11-17",

@@ -9,7 +9,7 @@ export const weirdAlYankovic2PolkaParty = {
   position: 0,
   ownLength: 34.09615,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1986-10-21",
   externalIdentity: [

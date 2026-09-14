@@ -9,7 +9,7 @@ export const taylorSwift2EyesOpenTaylorSVersion = {
   position: 0,
   ownLength: 4.0544,
   ownProgress: 4.0544,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-11-12",
   externalIdentity: [

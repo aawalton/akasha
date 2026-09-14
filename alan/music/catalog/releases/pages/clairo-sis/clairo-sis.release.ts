@@ -9,7 +9,7 @@ export const clairoSis = {
   position: 0,
   ownLength: 2.271333,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-02-22",
   externalIdentity: [

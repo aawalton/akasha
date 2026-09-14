@@ -9,7 +9,7 @@ export const siaGimmeLoveReasonableWomanVersion = {
   position: 0,
   ownLength: 7.135667,
   ownProgress: 7.135667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-09-29",
   externalIdentity: [

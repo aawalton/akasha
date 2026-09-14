@@ -9,7 +9,7 @@ export const ellaHendersonCrazyWhatLoveCanDoAcoustic = {
   position: 0,
   ownLength: 5.973333,
   ownProgress: 5.973333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-06-03",
   externalIdentity: [

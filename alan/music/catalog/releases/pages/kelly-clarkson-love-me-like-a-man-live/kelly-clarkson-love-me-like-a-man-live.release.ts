@@ -9,7 +9,7 @@ export const kellyClarksonLoveMeLikeAManLive = {
   position: 0,
   ownLength: 3.2367,
   ownProgress: 3.2367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-03",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const siaImmortalQueenFeatChakaKhanEve = {
   position: 0,
   ownLength: 3.535,
   ownProgress: 3.535,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-08-02",
   externalIdentity: [

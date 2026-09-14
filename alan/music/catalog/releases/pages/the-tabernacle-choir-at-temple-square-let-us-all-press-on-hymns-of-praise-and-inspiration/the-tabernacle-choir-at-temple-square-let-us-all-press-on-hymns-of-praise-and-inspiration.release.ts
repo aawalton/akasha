@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareLetUsAllPressOnHymnsOfPraiseAndInsp
   position: 0,
   ownLength: 61.586933,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-03-08",
   externalIdentity: [

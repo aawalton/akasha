@@ -9,7 +9,7 @@ export const justinTimberlakeManOfTheWoods = {
   position: 0,
   ownLength: 66.045667,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-02-02",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const linkinParkHeavyFeatKiiara = {
   position: 0,
   ownLength: 9.803333,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-02-16",
   externalIdentity: [

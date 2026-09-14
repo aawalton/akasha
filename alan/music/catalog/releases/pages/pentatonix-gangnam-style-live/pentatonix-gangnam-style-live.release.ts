@@ -9,7 +9,7 @@ export const pentatonixGangnamStyleLive = {
   position: 0,
   ownLength: 2.717683,
   ownProgress: 2.717683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-07-15",
   externalIdentity: [

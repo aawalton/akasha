@@ -9,7 +9,7 @@ export const taylorSwift2TheManLiveFromParis = {
   position: 0,
   ownLength: 3.656417,
   ownProgress: 3.656417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-02-18",
   externalIdentity: [

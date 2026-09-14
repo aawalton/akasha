@@ -9,7 +9,7 @@ export const coldplayMusicOfTheSpheres = {
   position: 0,
   ownLength: 41.843433,
   ownProgress: 41.843433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-15",
   externalIdentity: [

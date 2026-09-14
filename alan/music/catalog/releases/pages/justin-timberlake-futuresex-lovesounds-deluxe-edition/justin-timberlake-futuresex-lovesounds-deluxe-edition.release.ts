@@ -9,7 +9,7 @@ export const justinTimberlakeFuturesexLovesoundsDeluxeEdition = {
   position: 0,
   ownLength: 79.7988,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2006-09-13",
   externalIdentity: [

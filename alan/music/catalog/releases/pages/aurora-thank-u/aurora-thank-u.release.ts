@@ -9,7 +9,7 @@ export const auroraThankU = {
   position: 0,
   ownLength: 4.046217,
   ownProgress: 4.046217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-10-23",
   externalIdentity: [

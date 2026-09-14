@@ -9,7 +9,7 @@ export const billyJoelGreatestHitsVolIii = {
   position: 0,
   ownLength: 75.8508,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1997-06-13",
   externalIdentity: [

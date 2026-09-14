@@ -9,7 +9,7 @@ export const greenDayDemolicious = {
   position: 0,
   ownLength: 62.799933,
   ownProgress: 62.799933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2014-04-19",

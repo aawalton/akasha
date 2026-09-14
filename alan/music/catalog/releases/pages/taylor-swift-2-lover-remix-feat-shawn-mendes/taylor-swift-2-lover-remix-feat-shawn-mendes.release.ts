@@ -9,7 +9,7 @@ export const taylorSwift2LoverRemixFeatShawnMendes = {
   position: 0,
   ownLength: 3.688433,
   ownProgress: 3.688433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-11-13",
   externalIdentity: [

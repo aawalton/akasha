@@ -9,7 +9,7 @@ export const alexWarrenHowCouldYouBeOk = {
   position: 0,
   ownLength: 11.990433,
   ownProgress: 11.990433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-09-08",
   externalIdentity: [

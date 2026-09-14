@@ -9,7 +9,7 @@ export const kellyClarksonRollingStoneOriginal = {
   position: 0,
   ownLength: 10.612217,
   ownProgress: 10.612217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-01-01",
   externalIdentity: [

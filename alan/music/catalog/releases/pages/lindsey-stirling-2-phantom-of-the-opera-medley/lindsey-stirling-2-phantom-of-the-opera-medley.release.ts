@@ -9,7 +9,7 @@ export const lindseyStirling2PhantomOfTheOperaMedley = {
   position: 0,
   ownLength: 6.46505,
   ownProgress: 6.46505,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-07-31",
   externalIdentity: [

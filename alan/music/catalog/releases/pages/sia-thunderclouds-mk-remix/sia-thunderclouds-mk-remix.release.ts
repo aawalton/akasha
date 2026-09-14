@@ -9,7 +9,7 @@ export const siaThundercloudsMkRemix = {
   position: 0,
   ownLength: 3.573767,
   ownProgress: 3.573767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-10-23",
   externalIdentity: [

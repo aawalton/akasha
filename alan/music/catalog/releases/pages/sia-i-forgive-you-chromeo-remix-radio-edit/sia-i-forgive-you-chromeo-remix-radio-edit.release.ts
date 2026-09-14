@@ -9,7 +9,7 @@ export const siaIForgiveYouChromeoRemixRadioEdit = {
   position: 0,
   ownLength: 3.35205,
   ownProgress: 3.35205,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-09-13",
   externalIdentity: [

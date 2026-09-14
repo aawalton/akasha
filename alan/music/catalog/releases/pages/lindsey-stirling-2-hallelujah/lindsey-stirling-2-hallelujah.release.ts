@@ -9,7 +9,7 @@ export const lindseyStirling2Hallelujah = {
   position: 0,
   ownLength: 3.333333,
   ownProgress: 3.333333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-11-18",
   externalIdentity: [

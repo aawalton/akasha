@@ -9,7 +9,7 @@ export const pentatonixPleaseSantaPlease = {
   position: 0,
   ownLength: 3.2891,
   ownProgress: 3.2891,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-09-25",
   externalIdentity: [

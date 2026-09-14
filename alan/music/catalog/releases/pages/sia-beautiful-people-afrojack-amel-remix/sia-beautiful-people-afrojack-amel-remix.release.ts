@@ -9,7 +9,7 @@ export const siaBeautifulPeopleAfrojackAmelRemix = {
   position: 0,
   ownLength: 15.36705,
   ownProgress: 15.36705,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-04-11",
   externalIdentity: [

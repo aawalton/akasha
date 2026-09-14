@@ -9,7 +9,7 @@ export const katyPerryCampKaty = {
   position: 0,
   ownLength: 21.976517,
   ownProgress: 21.976517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-10-16",
   externalIdentity: [

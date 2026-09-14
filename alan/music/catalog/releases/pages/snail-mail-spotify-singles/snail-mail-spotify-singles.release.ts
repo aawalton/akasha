@@ -9,7 +9,7 @@ export const snailMailSpotifySingles = {
   position: 0,
   ownLength: 7.413383,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-06-29",
   externalIdentity: [

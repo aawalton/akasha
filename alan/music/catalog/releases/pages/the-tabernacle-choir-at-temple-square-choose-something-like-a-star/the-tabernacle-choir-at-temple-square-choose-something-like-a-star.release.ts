@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareChooseSomethingLikeAStar = {
   position: 0,
   ownLength: 56.863767,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2005-01-01",
   externalIdentity: [

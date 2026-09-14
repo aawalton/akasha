@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy2006TheGreatestGift = {
   position: 2006,
   ownLength: 50.469933,
   ownProgress: 50.469933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2006-01-01",
   externalIdentity: [

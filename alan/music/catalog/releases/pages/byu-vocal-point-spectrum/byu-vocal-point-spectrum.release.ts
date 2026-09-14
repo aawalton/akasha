@@ -9,7 +9,7 @@ export const byuVocalPointSpectrum = {
   position: 0,
   ownLength: 51.979767,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-04-08",
   externalIdentity: [

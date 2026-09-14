@@ -9,7 +9,7 @@ export const siaUnstoppableTheRemixes = {
   position: 0,
   ownLength: 17.664533,
   ownProgress: 17.664533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-28",
   externalIdentity: [

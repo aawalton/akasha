@@ -9,7 +9,7 @@ export const byuVocalPointILivedSingle = {
   position: 0,
   ownLength: 4.038333,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2015-03-03",
   externalIdentity: [

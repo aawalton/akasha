@@ -9,7 +9,7 @@ export const siaCheapThrillsFeatSeanPaul = {
   position: 0,
   ownLength: 3.746883,
   ownProgress: 3.746883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-02-11",
   externalIdentity: [

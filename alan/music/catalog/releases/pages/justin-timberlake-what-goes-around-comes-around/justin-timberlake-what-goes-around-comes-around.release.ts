@@ -9,7 +9,7 @@ export const justinTimberlakeWhatGoesAroundComesAround = {
   position: 0,
   ownLength: 20.199983,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2006-12-19",
   externalIdentity: [

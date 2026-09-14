@@ -9,7 +9,7 @@ export const jadaFacerHeavenIsAPlaceOnEarth = {
   position: 0,
   ownLength: 2.952183,
   ownProgress: 2.952183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-07-24",
   externalIdentity: [

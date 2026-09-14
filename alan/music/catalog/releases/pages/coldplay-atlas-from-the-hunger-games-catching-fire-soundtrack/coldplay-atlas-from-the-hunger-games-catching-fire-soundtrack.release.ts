@@ -9,7 +9,7 @@ export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrack = {
   position: 0,
   ownLength: 3.934883,
   ownProgress: 3.934883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-01-01",
   externalIdentity: [

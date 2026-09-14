@@ -9,7 +9,7 @@ export const taylorSwift2TheCruelestSummer = {
   position: 0,
   ownLength: 14.240583,
   ownProgress: 14.240583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-10-19",
   externalIdentity: [

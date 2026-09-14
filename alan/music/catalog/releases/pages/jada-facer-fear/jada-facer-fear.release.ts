@@ -9,7 +9,7 @@ export const jadaFacerFear = {
   position: 0,
   ownLength: 2.5275,
   ownProgress: 2.5275,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-03-30",
   externalIdentity: [

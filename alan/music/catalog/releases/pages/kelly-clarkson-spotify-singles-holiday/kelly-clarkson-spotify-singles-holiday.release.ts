@@ -9,7 +9,7 @@ export const kellyClarksonSpotifySinglesHoliday = {
   position: 0,
   ownLength: 2.940417,
   ownProgress: 2.940417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-11-29",
   externalIdentity: [

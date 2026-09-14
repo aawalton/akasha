@@ -9,7 +9,7 @@ export const elvisPresley2ElvisAtTheMovies = {
   position: 0,
   ownLength: 95.774,
   ownProgress: 95.774,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2007-04-01",
   externalIdentity: [

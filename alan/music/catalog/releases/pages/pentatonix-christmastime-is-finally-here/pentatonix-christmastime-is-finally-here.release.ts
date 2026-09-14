@@ -9,7 +9,7 @@ export const pentatonixChristmastimeIsFinallyHere = {
   position: 0,
   ownLength: 3.924933,
   ownProgress: 3.924933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-12-06",
   externalIdentity: [

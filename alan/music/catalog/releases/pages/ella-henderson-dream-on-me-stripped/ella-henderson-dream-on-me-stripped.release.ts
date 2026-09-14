@@ -9,7 +9,7 @@ export const ellaHendersonDreamOnMeStripped = {
   position: 0,
   ownLength: 3.289717,
   ownProgress: 3.289717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-13",
   externalIdentity: [

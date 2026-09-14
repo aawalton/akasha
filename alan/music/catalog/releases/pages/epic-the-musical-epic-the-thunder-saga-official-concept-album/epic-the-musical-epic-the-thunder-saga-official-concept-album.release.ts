@@ -9,7 +9,7 @@ export const epicTheMusicalEpicTheThunderSagaOfficialConceptAlbum = {
   position: 0,
   ownLength: 17.979533,
   ownProgress: 17.979533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-07-04",
   externalIdentity: [

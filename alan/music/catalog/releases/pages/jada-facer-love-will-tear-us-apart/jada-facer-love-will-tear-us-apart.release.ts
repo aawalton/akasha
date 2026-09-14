@@ -9,7 +9,7 @@ export const jadaFacerLoveWillTearUsApart = {
   position: 0,
   ownLength: 2.502083,
   ownProgress: 2.502083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-03-02",
   externalIdentity: [

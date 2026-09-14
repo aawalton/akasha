@@ -9,7 +9,7 @@ export const jadaFacerKissAndMakeUp = {
   position: 0,
   ownLength: 2.976217,
   ownProgress: 2.976217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-15",
   externalIdentity: [

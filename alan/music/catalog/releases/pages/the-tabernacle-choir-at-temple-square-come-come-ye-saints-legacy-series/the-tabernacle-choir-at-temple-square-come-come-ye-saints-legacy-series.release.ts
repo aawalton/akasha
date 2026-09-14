@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareComeComeYeSaintsLegacySeries = {
   position: 0,
   ownLength: 58.5693,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1997-02-01",
   externalIdentity: [

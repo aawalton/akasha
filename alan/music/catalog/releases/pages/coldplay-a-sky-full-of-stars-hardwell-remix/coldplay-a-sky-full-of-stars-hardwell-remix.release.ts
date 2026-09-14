@@ -9,7 +9,7 @@ export const coldplayASkyFullOfStarsHardwellRemix = {
   position: 0,
   ownLength: 5.218733,
   ownProgress: 5.218733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-12-01",
   externalIdentity: [

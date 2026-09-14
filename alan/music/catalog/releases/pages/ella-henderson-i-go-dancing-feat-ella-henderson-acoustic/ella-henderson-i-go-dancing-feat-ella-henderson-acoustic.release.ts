@@ -9,7 +9,7 @@ export const ellaHendersonIGoDancingFeatEllaHendersonAcoustic = {
   position: 0,
   ownLength: 2.778033,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-06-09",
   externalIdentity: [

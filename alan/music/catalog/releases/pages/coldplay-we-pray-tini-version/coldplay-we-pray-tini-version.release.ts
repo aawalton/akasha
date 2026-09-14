@@ -9,7 +9,7 @@ export const coldplayWePrayTiniVersion = {
   position: 0,
   ownLength: 7.7802,
   ownProgress: 7.7802,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-09-06",
   externalIdentity: [

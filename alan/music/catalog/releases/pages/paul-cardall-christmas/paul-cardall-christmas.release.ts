@@ -9,7 +9,7 @@ export const paulCardallChristmas = {
   position: 0,
   ownLength: 56.990683,
   ownProgress: 56.990683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-02",
   externalIdentity: [

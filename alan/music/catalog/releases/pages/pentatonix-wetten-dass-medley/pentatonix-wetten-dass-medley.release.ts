@@ -9,7 +9,7 @@ export const pentatonixWettenDassMedley = {
   position: 0,
   ownLength: 3.888867,
   ownProgress: 3.888867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-12-18",
   externalIdentity: [

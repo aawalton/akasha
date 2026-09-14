@@ -9,7 +9,7 @@ export const ellaHendersonMirrorMan = {
   position: 0,
   ownLength: 3.708083,
   ownProgress: 3.708083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-12-30",
   externalIdentity: [

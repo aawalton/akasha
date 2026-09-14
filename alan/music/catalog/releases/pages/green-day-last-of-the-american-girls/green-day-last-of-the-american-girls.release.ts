@@ -9,7 +9,7 @@ export const greenDayLastOfTheAmericanGirls = {
   position: 0,
   ownLength: 13.752433,
   ownProgress: 13.752433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2010-03-22",

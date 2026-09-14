@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouFeatMayaBuskila = {
   position: 0,
   ownLength: 3.60205,
   ownProgress: 3.60205,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-04-10",
   externalIdentity: [

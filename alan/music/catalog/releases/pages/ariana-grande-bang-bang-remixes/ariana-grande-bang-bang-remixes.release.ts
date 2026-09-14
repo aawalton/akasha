@@ -9,7 +9,7 @@ export const arianaGrandeBangBangRemixes = {
   position: 0,
   ownLength: 17.945533,
   ownProgress: 17.945533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-09-26",
   externalIdentity: [

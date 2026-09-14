@@ -9,7 +9,7 @@ export const siaIForgiveYou = {
   position: 0,
   ownLength: 14.33215,
   ownProgress: 14.33215,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-04-12",
   externalIdentity: [

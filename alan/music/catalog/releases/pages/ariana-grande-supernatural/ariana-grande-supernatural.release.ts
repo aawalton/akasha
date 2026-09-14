@@ -9,7 +9,7 @@ export const arianaGrandeSupernatural = {
   position: 0,
   ownLength: 13.6183,
   ownProgress: 13.6183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-09-04",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const paulCardall40HymnsForFortyDays = {
   position: 0,
   ownLength: 109.282983,
   ownProgress: 109.282983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-04-14",
   externalIdentity: [

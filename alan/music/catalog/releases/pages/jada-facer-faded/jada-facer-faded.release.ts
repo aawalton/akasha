@@ -9,7 +9,7 @@ export const jadaFacerFaded = {
   position: 0,
   ownLength: 2.8483,
   ownProgress: 2.8483,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-04-22",
   externalIdentity: [

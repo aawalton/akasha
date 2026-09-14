@@ -9,7 +9,7 @@ export const alexWarrenOrdinaryFeatLukeCombsLiveFromLollapalooza = {
   position: 0,
   ownLength: 3.42445,
   ownProgress: 3.42445,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-08-07",
   externalIdentity: [

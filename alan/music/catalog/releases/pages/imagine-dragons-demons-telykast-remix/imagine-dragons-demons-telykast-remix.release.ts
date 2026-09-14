@@ -9,7 +9,7 @@ export const imagineDragonsDemonsTelykastRemix = {
   position: 0,
   ownLength: 2.935467,
   ownProgress: 2.935467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-22",
   externalIdentity: [

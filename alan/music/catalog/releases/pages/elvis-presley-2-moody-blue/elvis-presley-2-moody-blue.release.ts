@@ -9,7 +9,7 @@ export const elvisPresley2MoodyBlue = {
   position: 0,
   ownLength: 31.105933,
   ownProgress: 31.105933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1977-07-19",
   externalIdentity: [

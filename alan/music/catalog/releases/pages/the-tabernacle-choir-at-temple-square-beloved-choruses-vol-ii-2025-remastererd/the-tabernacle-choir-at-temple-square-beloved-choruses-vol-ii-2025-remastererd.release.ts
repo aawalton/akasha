@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareBelovedChorusesVolIi2025Remastererd
   position: 0,
   ownLength: 20.977517,
   ownProgress: 20.977517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1964-12-21",
   externalIdentity: [

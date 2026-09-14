@@ -9,7 +9,7 @@ export const metallicaLoadRemasteredDeluxeBoxSet = {
   position: 0,
   ownLength: 1244.7698,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1996-06-04",
   externalIdentity: [

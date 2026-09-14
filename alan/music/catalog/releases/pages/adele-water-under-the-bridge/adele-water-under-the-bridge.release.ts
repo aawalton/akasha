@@ -9,7 +9,7 @@ export const adeleWaterUnderTheBridge = {
   position: 0,
   ownLength: 4.007317,
   ownProgress: 4.007317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-04",
   externalIdentity: [

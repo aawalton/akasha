@@ -9,7 +9,7 @@ export const paulCardallScarboroughFair = {
   position: 0,
   ownLength: 16.967583,
   ownProgress: 16.967583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-02-19",
   externalIdentity: [

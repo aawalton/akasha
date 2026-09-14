@@ -9,7 +9,7 @@ export const phoebeBridgersSpotifySingles2 = {
   position: 0,
   ownLength: 7.4072,
   ownProgress: 7.4072,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-08",
   externalIdentity: [

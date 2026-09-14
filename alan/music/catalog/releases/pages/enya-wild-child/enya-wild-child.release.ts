@@ -9,7 +9,7 @@ export const enyaWildChild = {
   position: 0,
   ownLength: 9.351533,
   ownProgress: 9.351533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2001-01-01",
   externalIdentity: [

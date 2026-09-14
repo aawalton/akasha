@@ -9,7 +9,7 @@ export const jadaFacerYouth = {
   position: 0,
   ownLength: 2.379117,
   ownProgress: 2.379117,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-21",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const thePianoGuys3AFamilyChristmas = {
   position: 0,
   ownLength: 46.494183,
   ownProgress: 46.494183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-10-21",
   externalIdentity: [

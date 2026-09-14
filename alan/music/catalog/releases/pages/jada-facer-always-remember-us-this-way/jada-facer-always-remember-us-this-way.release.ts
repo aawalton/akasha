@@ -9,7 +9,7 @@ export const jadaFacerAlwaysRememberUsThisWay = {
   position: 0,
   ownLength: 2.7403,
   ownProgress: 2.7403,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-06-12",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const kellyClarksonGetUpACowboysAnthem = {
   position: 0,
   ownLength: 3.77555,
   ownProgress: 3.77555,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-10-02",
   externalIdentity: [

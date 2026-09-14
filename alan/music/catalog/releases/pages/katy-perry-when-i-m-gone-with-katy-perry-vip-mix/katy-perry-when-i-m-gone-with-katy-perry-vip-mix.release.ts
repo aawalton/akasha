@@ -9,7 +9,7 @@ export const katyPerryWhenIMGoneWithKatyPerryVipMix = {
   position: 0,
   ownLength: 5.551767,
   ownProgress: 5.551767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-02-18",
   externalIdentity: [

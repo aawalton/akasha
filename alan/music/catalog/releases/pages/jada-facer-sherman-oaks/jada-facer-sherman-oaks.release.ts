@@ -9,7 +9,7 @@ export const jadaFacerShermanOaks = {
   position: 0,
   ownLength: 2.733333,
   ownProgress: 2.733333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-09",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const florenceTheMachineDonkeyKoshDemo = {
   position: 0,
   ownLength: 2.943333,
   ownProgress: 2.943333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-07-02",
   externalIdentity: [

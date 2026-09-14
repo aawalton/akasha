@@ -9,7 +9,7 @@ export const ellaHendersonFilthyRichJayDixieRemix = {
   position: 0,
   ownLength: 5.296817,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-11-15",
   externalIdentity: [

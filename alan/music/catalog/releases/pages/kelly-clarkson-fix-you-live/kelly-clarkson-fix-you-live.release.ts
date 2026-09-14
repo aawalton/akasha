@@ -9,7 +9,7 @@ export const kellyClarksonFixYouLive = {
   position: 0,
   ownLength: 4.007867,
   ownProgress: 4.007867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-03",
   externalIdentity: [

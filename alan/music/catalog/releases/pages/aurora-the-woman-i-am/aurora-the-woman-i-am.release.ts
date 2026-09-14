@@ -9,7 +9,7 @@ export const auroraTheWomanIAm = {
   position: 0,
   ownLength: 3.220667,
   ownProgress: 3.220667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-04",
   externalIdentity: [

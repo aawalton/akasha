@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouEdenPrinceRemix = {
   position: 0,
   ownLength: 6.569683,
   ownProgress: 6.569683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-15",
   externalIdentity: [

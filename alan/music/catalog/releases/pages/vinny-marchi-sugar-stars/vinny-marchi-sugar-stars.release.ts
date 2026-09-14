@@ -9,7 +9,7 @@ export const vinnyMarchiSugarStars = {
   position: 0,
   ownLength: 34.035517,
   ownProgress: 34.035517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-02",
   externalIdentity: [

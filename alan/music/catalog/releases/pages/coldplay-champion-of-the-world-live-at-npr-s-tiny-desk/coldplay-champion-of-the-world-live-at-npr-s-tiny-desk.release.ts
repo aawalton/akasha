@@ -9,7 +9,7 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDesk = {
   position: 0,
   ownLength: 3.60555,
   ownProgress: 3.60555,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-03-16",
   externalIdentity: [

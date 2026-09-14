@@ -9,7 +9,7 @@ export const backstreetBoys2ThePerfectFanDemo = {
   position: 0,
   ownLength: 4.610667,
   ownProgress: 4.610667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-05-23",
   externalIdentity: [

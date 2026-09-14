@@ -9,7 +9,7 @@ export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCShar
   position: 0,
   ownLength: 3.41355,
   ownProgress: 3.41355,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-09-11",
   externalIdentity: [

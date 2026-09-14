@@ -9,7 +9,7 @@ export const rockapellaBetter2gether = {
   position: 0,
   ownLength: 2.859917,
   ownProgress: 2.859917,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-04",
   externalIdentity: [

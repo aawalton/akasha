@@ -9,7 +9,7 @@ export const nsync2TheMeaningOfChristmas = {
   position: 0,
   ownLength: 55.459467,
   ownProgress: 55.459467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2002-10-05",
   externalIdentity: [

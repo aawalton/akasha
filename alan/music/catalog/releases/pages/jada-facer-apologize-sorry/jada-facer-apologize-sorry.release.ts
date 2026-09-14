@@ -9,7 +9,7 @@ export const jadaFacerApologizeSorry = {
   position: 0,
   ownLength: 2.882483,
   ownProgress: 2.882483,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-08-06",
   externalIdentity: [

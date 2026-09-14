@@ -9,7 +9,7 @@ export const ellaHendersonTakeCareOfYouNathanDaweRemix = {
   position: 0,
   ownLength: 3.3097,
   ownProgress: 3.3097,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-07-10",
   externalIdentity: [

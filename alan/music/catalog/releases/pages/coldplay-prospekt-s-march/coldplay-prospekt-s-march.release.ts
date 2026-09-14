@@ -9,7 +9,7 @@ export const coldplayProspektSMarch = {
   position: 0,
   ownLength: 27.4339,
   ownProgress: 27.4339,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-06-06",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const arianaGrandeChristmasChill = {
   position: 0,
   ownLength: 16.57255,
   ownProgress: 16.57255,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-12-18",
   externalIdentity: [

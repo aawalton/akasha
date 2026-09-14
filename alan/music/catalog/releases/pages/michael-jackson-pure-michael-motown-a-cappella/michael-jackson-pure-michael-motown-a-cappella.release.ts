@@ -9,7 +9,7 @@ export const michaelJacksonPureMichaelMotownACappella = {
   position: 0,
   ownLength: 27.4286,
   ownProgress: 27.4286,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2009-01-01",

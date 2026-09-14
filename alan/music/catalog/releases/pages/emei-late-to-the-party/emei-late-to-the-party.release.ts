@@ -9,7 +9,7 @@ export const emeiLateToTheParty = {
   position: 0,
   ownLength: 2.952933,
   ownProgress: 2.952933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-01-19",

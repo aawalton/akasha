@@ -9,7 +9,7 @@ export const kellyClarksonLoveSoSoftDaveAudeRemix = {
   position: 0,
   ownLength: 3.946117,
   ownProgress: 3.946117,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-10-25",
   externalIdentity: [

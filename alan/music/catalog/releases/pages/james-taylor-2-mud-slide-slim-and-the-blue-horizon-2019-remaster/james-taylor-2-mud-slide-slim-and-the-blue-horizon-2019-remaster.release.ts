@@ -9,7 +9,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019Remaster = {
   position: 0,
   ownLength: 37.355033,
   ownProgress: 37.355033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1971-04-01",
   externalIdentity: [

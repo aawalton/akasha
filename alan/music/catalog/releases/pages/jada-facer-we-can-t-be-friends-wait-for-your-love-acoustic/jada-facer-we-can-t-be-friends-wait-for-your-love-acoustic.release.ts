@@ -9,7 +9,7 @@ export const jadaFacerWeCanTBeFriendsWaitForYourLoveAcoustic = {
   position: 0,
   ownLength: 2.705533,
   ownProgress: 2.705533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-04-04",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const kpopDemonHuntersCastWhatItSoundsLikeFromTheNetflixFilmKpopDemonHunt
   position: 0,
   ownLength: 8.33785,
   ownProgress: 8.33785,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-06-19",
   externalIdentity: [

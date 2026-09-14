@@ -9,7 +9,7 @@ export const byuVocalPointButter = {
   position: 0,
   ownLength: 2.686933,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-08-29",
   externalIdentity: [

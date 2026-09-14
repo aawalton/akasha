@@ -9,7 +9,7 @@ export const jadaFacerReckless = {
   position: 0,
   ownLength: 3.387333,
   ownProgress: 3.387333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-06-20",
   externalIdentity: [

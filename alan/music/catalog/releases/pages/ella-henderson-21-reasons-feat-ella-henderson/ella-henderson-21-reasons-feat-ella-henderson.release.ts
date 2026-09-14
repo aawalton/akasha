@@ -9,7 +9,7 @@ export const ellaHenderson21ReasonsFeatEllaHenderson = {
   position: 0,
   ownLength: 2.58755,
   ownProgress: 2.58755,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-29",
   externalIdentity: [

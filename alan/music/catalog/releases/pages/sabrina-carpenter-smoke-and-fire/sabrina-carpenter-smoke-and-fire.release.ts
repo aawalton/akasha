@@ -9,7 +9,7 @@ export const sabrinaCarpenterSmokeAndFire = {
   position: 0,
   ownLength: 3.750167,
   ownProgress: 3.750167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-02-19",
   externalIdentity: [

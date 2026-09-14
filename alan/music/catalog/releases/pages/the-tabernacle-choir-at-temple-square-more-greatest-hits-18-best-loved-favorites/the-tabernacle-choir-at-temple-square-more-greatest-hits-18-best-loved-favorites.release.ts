@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareMoreGreatestHits18BestLovedFavorite
   position: 0,
   ownLength: 74.021,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1995-12-05",
   externalIdentity: [

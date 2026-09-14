@@ -9,7 +9,7 @@ export const elvisPresley2HarumScarumOriginalSoundtrack = {
   position: 0,
   ownLength: 24.616717,
   ownProgress: 24.616717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-01-08",
   externalIdentity: [

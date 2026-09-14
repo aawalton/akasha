@@ -9,7 +9,7 @@ export const byuVocalPointYouRaiseMeUp = {
   position: 0,
   ownLength: 4.025683,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-08-14",
   externalIdentity: [

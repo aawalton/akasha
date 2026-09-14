@@ -9,7 +9,7 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSong = {
   position: 0,
   ownLength: 3.460183,
   ownProgress: 3.460183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-08-30",
   externalIdentity: [

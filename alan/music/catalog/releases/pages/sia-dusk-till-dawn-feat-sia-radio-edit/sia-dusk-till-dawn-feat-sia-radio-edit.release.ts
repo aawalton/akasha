@@ -9,7 +9,7 @@ export const siaDuskTillDawnFeatSiaRadioEdit = {
   position: 0,
   ownLength: 3.983333,
   ownProgress: 3.983333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-07",
   externalIdentity: [

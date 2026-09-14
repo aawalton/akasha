@@ -8,7 +8,7 @@ export const meYou = {
   position: 0,
   ownLength: 2.7918,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-05-16",
   externalIdentity: [

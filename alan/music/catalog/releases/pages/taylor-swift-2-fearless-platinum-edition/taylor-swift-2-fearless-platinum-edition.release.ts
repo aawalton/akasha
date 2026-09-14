@@ -9,7 +9,7 @@ export const taylorSwift2FearlessPlatinumEdition = {
   position: 0,
   ownLength: 79.443683,
   ownProgress: 79.443683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-11-11",
   externalIdentity: [

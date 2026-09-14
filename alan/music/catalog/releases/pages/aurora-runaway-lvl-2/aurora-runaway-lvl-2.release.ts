@@ -9,7 +9,7 @@ export const auroraRunawayLvl2 = {
   position: 0,
   ownLength: 7.711533,
   ownProgress: 7.711533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-05-07",
   externalIdentity: [

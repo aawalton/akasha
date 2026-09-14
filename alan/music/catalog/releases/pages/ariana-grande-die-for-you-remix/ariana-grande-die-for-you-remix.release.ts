@@ -9,7 +9,7 @@ export const arianaGrandeDieForYouRemix = {
   position: 0,
   ownLength: 3.88095,
   ownProgress: 3.88095,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-02-24",
   externalIdentity: [

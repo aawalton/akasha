@@ -9,7 +9,7 @@ export const arianaGrandeYesAndRemixes = {
   position: 0,
   ownLength: 12.504583,
   ownProgress: 12.504583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-01-12",
   externalIdentity: [

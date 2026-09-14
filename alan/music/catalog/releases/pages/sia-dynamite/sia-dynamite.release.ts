@@ -9,7 +9,7 @@ export const siaDynamite = {
   position: 0,
   ownLength: 3.544467,
   ownProgress: 3.544467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-22",
   externalIdentity: [

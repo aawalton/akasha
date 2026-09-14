@@ -9,7 +9,7 @@ export const backstreetBoys2LetItBeMeSondrRemix = {
   position: 0,
   ownLength: 3.089417,
   ownProgress: 3.089417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-10-18",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const auroraStjernestV = {
   position: 0,
   ownLength: 3.30075,
   ownProgress: 3.30075,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-23",
   externalIdentity: [

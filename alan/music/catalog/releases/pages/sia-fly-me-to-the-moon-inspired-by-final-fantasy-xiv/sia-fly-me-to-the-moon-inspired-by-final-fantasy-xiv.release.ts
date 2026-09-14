@@ -9,7 +9,7 @@ export const siaFlyMeToTheMoonInspiredByFinalFantasyXiv = {
   position: 0,
   ownLength: 2.842217,
   ownProgress: 2.842217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-12-02",
   externalIdentity: [

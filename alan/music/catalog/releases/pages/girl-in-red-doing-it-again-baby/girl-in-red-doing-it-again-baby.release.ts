@@ -9,7 +9,7 @@ export const girlInRedDoingItAgainBaby = {
   position: 0,
   ownLength: 5.479083,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-03-07",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const lindseyStirling2JoyToTheWorldSpedUp = {
   position: 0,
   ownLength: 2.466867,
   ownProgress: 2.466867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-12-16",
   externalIdentity: [

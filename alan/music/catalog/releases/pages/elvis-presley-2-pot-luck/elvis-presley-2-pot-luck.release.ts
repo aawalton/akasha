@@ -9,7 +9,7 @@ export const elvisPresley2PotLuck = {
   position: 0,
   ownLength: 28.4957,
   ownProgress: 28.4957,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1962-06-05",
   externalIdentity: [

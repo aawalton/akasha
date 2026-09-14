@@ -9,7 +9,7 @@ export const siaFloatingThroughSpace = {
   position: 0,
   ownLength: 2.963333,
   ownProgress: 2.963333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-02-04",
   externalIdentity: [

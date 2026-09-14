@@ -9,7 +9,7 @@ export const metallicaStAnger = {
   position: 0,
   ownLength: 75.04215,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2003-06-05",
   externalIdentity: [

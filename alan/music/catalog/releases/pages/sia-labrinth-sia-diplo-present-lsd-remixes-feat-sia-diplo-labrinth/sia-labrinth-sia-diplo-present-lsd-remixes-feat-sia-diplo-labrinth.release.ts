@@ -9,7 +9,7 @@ export const siaLabrinthSiaDiploPresentLsdRemixesFeatSiaDiploLabrinth = {
   position: 0,
   ownLength: 30.91665,
   ownProgress: 30.91665,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-11-30",
   externalIdentity: [

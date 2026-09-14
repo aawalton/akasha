@@ -9,7 +9,7 @@ export const zaraLarssonAinTMyFaultR3habRemix = {
   position: 0,
   ownLength: 2.6462,
   ownProgress: 2.6462,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-10-07",
   externalIdentity: [

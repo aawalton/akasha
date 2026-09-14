@@ -9,7 +9,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
   position: 0,
   ownLength: 106.3116,
   ownProgress: 106.3116,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-09-05",
   externalIdentity: [

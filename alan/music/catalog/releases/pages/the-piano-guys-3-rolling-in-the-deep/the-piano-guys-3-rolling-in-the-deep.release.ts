@@ -9,7 +9,7 @@ export const thePianoGuys3RollingInTheDeep = {
   position: 0,
   ownLength: 4.016217,
   ownProgress: 4.016217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-09-11",
   externalIdentity: [

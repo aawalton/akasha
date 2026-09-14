@@ -9,7 +9,7 @@ export const byuVocalPointInEveryThought = {
   position: 0,
   ownLength: 18.34825,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-09-27",
   externalIdentity: [

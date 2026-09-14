@@ -9,7 +9,7 @@ export const siaHeyBoyFeatBurnaBoy = {
   position: 0,
   ownLength: 17.740283,
   ownProgress: 17.740283,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-01-14",
   externalIdentity: [

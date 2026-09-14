@@ -9,7 +9,7 @@ export const jadaFacerRightHereWaitingAcoustic = {
   position: 0,
   ownLength: 4.057533,
   ownProgress: 4.057533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-02",
   externalIdentity: [

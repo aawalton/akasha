@@ -9,7 +9,7 @@ export const sabrinaCarpenterSignOfTheTimes = {
   position: 0,
   ownLength: 4.22115,
   ownProgress: 4.22115,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-06-02",
   externalIdentity: [

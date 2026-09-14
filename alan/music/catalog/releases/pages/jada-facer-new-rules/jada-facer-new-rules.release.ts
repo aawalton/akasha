@@ -9,7 +9,7 @@ export const jadaFacerNewRules = {
   position: 0,
   ownLength: 2.5619,
   ownProgress: 2.5619,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-25",
   externalIdentity: [

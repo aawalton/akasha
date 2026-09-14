@@ -9,7 +9,7 @@ export const paulCardallPrimaryWorship = {
   position: 0,
   ownLength: 52.410383,
   ownProgress: 52.410383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-09-14",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const thePianoGuys3MoreThanWords = {
   position: 0,
   ownLength: 3.931333,
   ownProgress: 3.931333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-09-11",
   externalIdentity: [

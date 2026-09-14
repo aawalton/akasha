@@ -9,7 +9,7 @@ export const leonardCohenTheEssentialLeonardCohen = {
   position: 0,
   ownLength: 155.89205,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2002-10-22",
   externalIdentity: [

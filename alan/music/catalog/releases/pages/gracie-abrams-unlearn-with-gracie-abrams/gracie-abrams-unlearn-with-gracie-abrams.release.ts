@@ -9,7 +9,7 @@ export const gracieAbramsUnlearnWithGracieAbrams = {
   position: 0,
   ownLength: 2.58935,
   ownProgress: 2.58935,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-24",
   externalIdentity: [

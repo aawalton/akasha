@@ -9,7 +9,7 @@ export const coldplay2000Miles = {
   position: 0,
   ownLength: 3.26195,
   ownProgress: 3.26195,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2003-12-02",
   externalIdentity: [

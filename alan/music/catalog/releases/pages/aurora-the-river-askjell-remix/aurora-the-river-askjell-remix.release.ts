@@ -9,7 +9,7 @@ export const auroraTheRiverAskjellRemix = {
   position: 0,
   ownLength: 7.097583,
   ownProgress: 7.097583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-05-28",
   externalIdentity: [

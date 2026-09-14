@@ -9,7 +9,7 @@ export const billyJoelPianoManLegacyEdition = {
   position: 0,
   ownLength: 101.814517,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1973-11-07",
   externalIdentity: [

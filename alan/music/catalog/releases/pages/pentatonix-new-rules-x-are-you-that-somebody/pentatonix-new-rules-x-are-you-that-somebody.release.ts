@@ -9,7 +9,7 @@ export const pentatonixNewRulesXAreYouThatSomebody = {
   position: 0,
   ownLength: 2.972667,
   ownProgress: 2.972667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-03-09",
   externalIdentity: [

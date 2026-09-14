@@ -9,7 +9,7 @@ export const epicTheMusicalEpicTheCirceSagaOfficialConceptAlbum = {
   position: 0,
   ownLength: 12.968367,
   ownProgress: 12.968367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-02-14",
   externalIdentity: [

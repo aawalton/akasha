@@ -9,7 +9,7 @@ export const greenDayAmericanIdiot20thAnniversaryJesusOfSuburbia = {
   position: 0,
   ownLength: 8.746967,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2024-10-04",

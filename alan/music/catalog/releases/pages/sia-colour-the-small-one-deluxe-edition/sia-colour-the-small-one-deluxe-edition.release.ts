@@ -9,7 +9,7 @@ export const siaColourTheSmallOneDeluxeEdition = {
   position: 0,
   ownLength: 84.575217,
   ownProgress: 84.575217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2004-01-01",
   externalIdentity: [

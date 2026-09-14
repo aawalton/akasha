@@ -9,7 +9,7 @@ export const tomLehrerMoreOfTomLehrer = {
   position: 0,
   ownLength: 28.717267,
   ownProgress: 28.717267,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1959-01-01",
   externalIdentity: [

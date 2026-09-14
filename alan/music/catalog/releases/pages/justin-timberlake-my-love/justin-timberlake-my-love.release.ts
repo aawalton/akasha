@@ -9,7 +9,7 @@ export const justinTimberlakeMyLove = {
   position: 0,
   ownLength: 9.33065,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2006-10-24",
   externalIdentity: [

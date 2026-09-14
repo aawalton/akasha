@@ -9,7 +9,7 @@ export const ledZeppelinLedZeppelinRemaster = {
   position: 0,
   ownLength: 44.89915,
   ownProgress: 44.89915,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "in-progress",
   publishedAt: "1969-01-12",
   externalIdentity: [

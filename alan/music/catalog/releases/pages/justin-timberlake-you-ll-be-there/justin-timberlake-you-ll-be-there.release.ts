@@ -9,7 +9,7 @@ export const justinTimberlakeYouLlBeThere = {
   position: 0,
   ownLength: 3.350883,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-10-31",
   externalIdentity: [

@@ -10,7 +10,7 @@ export const theLordOfTheRingsMusicTheHobbitTheBattleOfTheFiveArmies = {
   position: 6,
   ownLength: 108.639217,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-12-23",
   externalIdentity: [

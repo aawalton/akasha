@@ -9,7 +9,7 @@ export const taylorSwift2TheFateOfOpheliaTheChainsmokersRemix = {
   position: 0,
   ownLength: 10.46215,
   ownProgress: 10.46215,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-11-28",
   externalIdentity: [

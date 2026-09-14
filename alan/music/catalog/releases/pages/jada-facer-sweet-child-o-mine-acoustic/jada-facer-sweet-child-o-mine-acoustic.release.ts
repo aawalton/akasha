@@ -9,7 +9,7 @@ export const jadaFacerSweetChildOMineAcoustic = {
   position: 0,
   ownLength: 2.521367,
   ownProgress: 2.521367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-05-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const linkinParkTheCatalyst = {
   position: 0,
   ownLength: 5.664217,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2010-08-02",
   externalIdentity: [

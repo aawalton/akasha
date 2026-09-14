@@ -9,7 +9,7 @@ export const phoebeBridgersCopycatKiller = {
   position: 0,
   ownLength: 12.8813,
   ownProgress: 12.8813,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-20",
   externalIdentity: [

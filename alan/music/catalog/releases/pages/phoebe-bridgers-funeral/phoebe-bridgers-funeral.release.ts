@@ -9,7 +9,7 @@ export const phoebeBridgersFuneral = {
   position: 0,
   ownLength: 3.704267,
   ownProgress: 3.704267,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-13",
   externalIdentity: [

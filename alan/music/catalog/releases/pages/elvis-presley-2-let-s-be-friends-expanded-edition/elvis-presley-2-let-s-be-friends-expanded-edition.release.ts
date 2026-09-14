@@ -9,7 +9,7 @@ export const elvisPresley2LetSBeFriendsExpandedEdition = {
   position: 0,
   ownLength: 31.8275,
   ownProgress: 31.8275,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1970-04-01",
   externalIdentity: [

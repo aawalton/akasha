@@ -9,7 +9,7 @@ export const jadaFacerPrettySlowlyAcoustic = {
   position: 0,
   ownLength: 3.68965,
   ownProgress: 3.68965,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-08-29",
   externalIdentity: [

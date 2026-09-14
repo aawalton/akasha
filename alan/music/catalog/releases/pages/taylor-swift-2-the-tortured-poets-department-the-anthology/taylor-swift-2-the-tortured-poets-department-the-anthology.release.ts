@@ -9,7 +9,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthology = {
   position: 0,
   ownLength: 122.645733,
   ownProgress: 122.645733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-04-19",
   externalIdentity: [

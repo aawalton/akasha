@@ -9,7 +9,7 @@ export const jadaFacerWhenThePartySOver = {
   position: 0,
   ownLength: 2.5752,
   ownProgress: 2.5752,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-02",
   externalIdentity: [

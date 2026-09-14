@@ -9,7 +9,7 @@ export const thePianoGuys3WayfaringStranger = {
   position: 0,
   ownLength: 3.878083,
   ownProgress: 3.878083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-04-14",
   externalIdentity: [

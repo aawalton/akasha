@@ -9,7 +9,7 @@ export const backstreetBoys2LetItBeMeDenisFirstRemix = {
   position: 0,
   ownLength: 3.3739,
   ownProgress: 3.3739,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-10-18",
   externalIdentity: [

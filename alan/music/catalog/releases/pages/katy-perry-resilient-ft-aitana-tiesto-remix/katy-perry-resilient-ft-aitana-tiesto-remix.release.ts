@@ -9,7 +9,7 @@ export const katyPerryResilientFtAitanaTiestoRemix = {
   position: 0,
   ownLength: 3.315767,
   ownProgress: 3.315767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-13",
   externalIdentity: [

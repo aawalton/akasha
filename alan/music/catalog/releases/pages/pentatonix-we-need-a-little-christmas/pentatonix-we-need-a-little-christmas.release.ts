@@ -9,7 +9,7 @@ export const pentatonixWeNeedALittleChristmas = {
   position: 0,
   ownLength: 38.564817,
   ownProgress: 38.564817,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-13",
   externalIdentity: [

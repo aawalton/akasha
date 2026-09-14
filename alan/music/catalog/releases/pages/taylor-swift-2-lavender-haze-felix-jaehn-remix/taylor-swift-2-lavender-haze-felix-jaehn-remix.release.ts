@@ -9,7 +9,7 @@ export const taylorSwift2LavenderHazeFelixJaehnRemix = {
   position: 0,
   ownLength: 2.859367,
   ownProgress: 2.859367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-02-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const coldplayMyUniverse = {
   position: 0,
   ownLength: 12.146383,
   ownProgress: 12.146383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-27",
   externalIdentity: [

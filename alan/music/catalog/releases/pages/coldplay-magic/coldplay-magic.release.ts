@@ -9,7 +9,7 @@ export const coldplayMagic = {
   position: 0,
   ownLength: 4.750233,
   ownProgress: 4.750233,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-03-03",
   externalIdentity: [

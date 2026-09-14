@@ -9,7 +9,7 @@ export const jadaFacerTheOneThatGotAway = {
   position: 0,
   ownLength: 3.324583,
   ownProgress: 3.324583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-05-16",
   externalIdentity: [

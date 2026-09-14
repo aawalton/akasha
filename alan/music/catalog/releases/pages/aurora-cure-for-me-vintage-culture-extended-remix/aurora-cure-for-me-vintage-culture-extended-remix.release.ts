@@ -9,7 +9,7 @@ export const auroraCureForMeVintageCultureExtendedRemix = {
   position: 0,
   ownLength: 5.482667,
   ownProgress: 5.482667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-08-27",
   externalIdentity: [

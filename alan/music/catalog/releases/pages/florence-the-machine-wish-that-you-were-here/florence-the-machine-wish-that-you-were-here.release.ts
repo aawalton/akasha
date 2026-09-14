@@ -10,7 +10,7 @@ export const florenceTheMachineWishThatYouWereHere = {
   position: 0,
   ownLength: 6.713283,
   ownProgress: 6.713283,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-08-26",
   externalIdentity: [

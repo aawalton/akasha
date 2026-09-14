@@ -9,7 +9,7 @@ export const siaDanceAloneRemixes = {
   position: 0,
   ownLength: 28.103917,
   ownProgress: 28.103917,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-03-15",
   externalIdentity: [

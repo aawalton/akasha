@@ -9,7 +9,7 @@ export const celticWoman2TheDawningOfTheDay = {
   position: 0,
   ownLength: 3.904,
   ownProgress: 3.904,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const elvisPresley2PromisedLand = {
   position: 0,
   ownLength: 28.44415,
   ownProgress: 28.44415,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1975-01-08",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const jadaFacerHaloAcoustic = {
   position: 0,
   ownLength: 3.402917,
   ownProgress: 3.402917,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-02-09",
   externalIdentity: [

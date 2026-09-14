@@ -9,7 +9,7 @@ export const elvisPresley2ElvisCloseUp = {
   position: 0,
   ownLength: 224.90645,
   ownProgress: 224.90645,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2003-04-01",
   externalIdentity: [

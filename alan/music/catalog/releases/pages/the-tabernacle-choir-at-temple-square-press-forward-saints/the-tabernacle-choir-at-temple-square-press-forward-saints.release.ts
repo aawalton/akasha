@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquarePressForwardSaints = {
   position: 0,
   ownLength: 3.595983,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-02-15",
   externalIdentity: [

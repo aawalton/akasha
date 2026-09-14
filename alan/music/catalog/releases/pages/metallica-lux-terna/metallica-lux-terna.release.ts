@@ -9,7 +9,7 @@ export const metallicaLuxTerna = {
   position: 0,
   ownLength: 3.427983,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-11-28",
   externalIdentity: [

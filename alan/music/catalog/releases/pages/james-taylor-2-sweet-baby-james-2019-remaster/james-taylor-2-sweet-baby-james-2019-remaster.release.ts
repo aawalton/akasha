@@ -9,7 +9,7 @@ export const jamesTaylor2SweetBabyJames2019Remaster = {
   position: 0,
   ownLength: 31.910817,
   ownProgress: 31.910817,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1970-02-01",
   externalIdentity: [

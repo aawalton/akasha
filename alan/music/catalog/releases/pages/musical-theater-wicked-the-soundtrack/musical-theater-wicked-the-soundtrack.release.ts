@@ -9,7 +9,7 @@ export const musicalTheaterWickedTheSoundtrack = {
   position: 0,
   ownLength: 56.2776,
   ownProgress: 56.2776,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2024-11-22",

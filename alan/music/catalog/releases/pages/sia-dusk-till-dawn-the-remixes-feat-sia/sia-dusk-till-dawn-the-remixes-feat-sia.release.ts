@@ -9,7 +9,7 @@ export const siaDuskTillDawnTheRemixesFeatSia = {
   position: 0,
   ownLength: 10.232417,
   ownProgress: 10.232417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-29",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const taylorSwift2TheJokerAndTheQueenFeatTaylorSwift = {
   position: 0,
   ownLength: 3.090367,
   ownProgress: 3.090367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-02-11",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const backstreetBoys2LastChristmas = {
   position: 0,
   ownLength: 3.7764,
   ownProgress: 3.7764,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-09-06",
   externalIdentity: [

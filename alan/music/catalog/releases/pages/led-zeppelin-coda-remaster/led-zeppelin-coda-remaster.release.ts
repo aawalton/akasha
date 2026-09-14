@@ -9,7 +9,7 @@ export const ledZeppelinCodaRemaster = {
   position: 0,
   ownLength: 33.095517,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1982-11-19",
   externalIdentity: [

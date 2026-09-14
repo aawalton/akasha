@@ -9,7 +9,7 @@ export const siaBeautifulPeopleDODRemix = {
   position: 0,
   ownLength: 15.5275,
   ownProgress: 15.5275,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-04-18",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const justinTimberlakeDrown = {
   position: 0,
   ownLength: 4.335333,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-02-23",
   externalIdentity: [

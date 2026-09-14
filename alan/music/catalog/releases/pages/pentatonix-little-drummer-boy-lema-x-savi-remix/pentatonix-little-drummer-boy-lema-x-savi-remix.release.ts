@@ -9,7 +9,7 @@ export const pentatonixLittleDrummerBoyLemaXSaviRemix = {
   position: 0,
   ownLength: 3.776217,
   ownProgress: 3.776217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-12-01",
   externalIdentity: [

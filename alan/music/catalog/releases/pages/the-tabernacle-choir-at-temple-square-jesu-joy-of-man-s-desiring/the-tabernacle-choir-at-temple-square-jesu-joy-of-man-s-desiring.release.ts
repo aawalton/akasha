@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareJesuJoyOfManSDesiring = {
   position: 0,
   ownLength: 51.48925,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-04-04",
   externalIdentity: [

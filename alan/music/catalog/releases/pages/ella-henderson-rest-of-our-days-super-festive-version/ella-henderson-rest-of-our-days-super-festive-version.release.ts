@@ -9,7 +9,7 @@ export const ellaHendersonRestOfOurDaysSuperFestiveVersion = {
   position: 0,
   ownLength: 6.325783,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-12-15",
   externalIdentity: [

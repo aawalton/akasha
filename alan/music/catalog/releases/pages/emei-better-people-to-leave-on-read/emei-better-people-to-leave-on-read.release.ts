@@ -9,7 +9,7 @@ export const emeiBetterPeopleToLeaveOnRead = {
   position: 0,
   ownLength: 2.189067,
   ownProgress: 2.189067,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-01-26",

@@ -9,7 +9,7 @@ export const taylorSwift21989TaylorSVersion = {
   position: 0,
   ownLength: 77.972117,
   ownProgress: 77.972117,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-10-26",
   externalIdentity: [

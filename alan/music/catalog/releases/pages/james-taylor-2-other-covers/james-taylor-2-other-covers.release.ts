@@ -9,7 +9,7 @@ export const jamesTaylor2OtherCovers = {
   position: 0,
   ownLength: 26.185967,
   ownProgress: 26.185967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-01-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const coldplayVivaLaVidaProspektSMarchEdition = {
   position: 0,
   ownLength: 73.351617,
   ownProgress: 73.351617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-11-24",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const billyJoelPianoMan = {
   position: 0,
   ownLength: 43.299067,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1973-11-09",
   externalIdentity: [

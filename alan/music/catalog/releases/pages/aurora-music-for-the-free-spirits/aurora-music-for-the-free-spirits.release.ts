@@ -9,7 +9,7 @@ export const auroraMusicForTheFreeSpirits = {
   position: 0,
   ownLength: 22.6438,
   ownProgress: 22.6438,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-02-18",
   externalIdentity: [

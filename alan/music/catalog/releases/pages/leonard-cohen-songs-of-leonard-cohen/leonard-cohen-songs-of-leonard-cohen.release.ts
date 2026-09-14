@@ -9,7 +9,7 @@ export const leonardCohenSongsOfLeonardCohen = {
   position: 0,
   ownLength: 41.573733,
   ownProgress: 41.573733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1967-12-27",
   externalIdentity: [

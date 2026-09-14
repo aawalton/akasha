@@ -9,7 +9,7 @@ export const paulCardallYouWereMade = {
   position: 0,
   ownLength: 3.19375,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2026-02-27",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const arianaGrandeIntoYouAlexGheneaRemix = {
   position: 0,
   ownLength: 3.636,
   ownProgress: 3.636,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-08-19",
   externalIdentity: [

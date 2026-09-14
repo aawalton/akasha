@@ -9,7 +9,7 @@ export const billyJoelNewYorkStateOfMindEverybodyLovesYouNowLiveAtTheGreatAmeric
   position: 0,
   ownLength: 9.128767,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-10-28",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const siaGimmeLoveArminVanBuurenRemix = {
   position: 0,
   ownLength: 15.334433,
   ownProgress: 15.334433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-10-20",
   externalIdentity: [

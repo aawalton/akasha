@@ -9,7 +9,7 @@ export const kellyClarksonReadyForLoveLive = {
   position: 0,
   ownLength: 4.30805,
   ownProgress: 4.30805,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-03",
   externalIdentity: [

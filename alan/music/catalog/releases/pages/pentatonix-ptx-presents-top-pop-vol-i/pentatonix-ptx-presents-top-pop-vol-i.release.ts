@@ -9,7 +9,7 @@ export const pentatonixPtxPresentsTopPopVolI = {
   position: 0,
   ownLength: 35.366617,
   ownProgress: 35.366617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-04-13",
   externalIdentity: [

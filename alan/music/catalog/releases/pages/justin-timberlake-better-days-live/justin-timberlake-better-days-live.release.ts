@@ -9,7 +9,7 @@ export const justinTimberlakeBetterDaysLive = {
   position: 0,
   ownLength: 8.698883,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-01-21",
   externalIdentity: [

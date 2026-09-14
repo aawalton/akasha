@@ -9,7 +9,7 @@ export const izzyEscobarSunnyInLondonAcoustic = {
   position: 0,
   ownLength: 26.813233,
   ownProgress: 26.813233,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2026-02-06",
   externalIdentity: [

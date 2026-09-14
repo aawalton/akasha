@@ -9,7 +9,7 @@ export const jadaFacerWhenIWasYourManAcoustic = {
   position: 0,
   ownLength: 3.662217,
   ownProgress: 3.662217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-05-12",
   externalIdentity: [

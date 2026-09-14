@@ -9,7 +9,7 @@ export const thePianoGuys3PopOnPiano = {
   position: 0,
   ownLength: 49.705933,
   ownProgress: 49.705933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2026-01-09",
   externalIdentity: [

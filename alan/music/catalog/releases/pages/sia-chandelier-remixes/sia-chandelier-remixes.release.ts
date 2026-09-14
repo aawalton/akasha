@@ -9,7 +9,7 @@ export const siaChandelierRemixes = {
   position: 0,
   ownLength: 29.5388,
   ownProgress: 29.5388,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-07-22",
   externalIdentity: [

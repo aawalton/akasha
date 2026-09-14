@@ -9,7 +9,7 @@ export const siaFreeMe = {
   position: 0,
   ownLength: 4.767817,
   ownProgress: 4.767817,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-06-09",
   externalIdentity: [

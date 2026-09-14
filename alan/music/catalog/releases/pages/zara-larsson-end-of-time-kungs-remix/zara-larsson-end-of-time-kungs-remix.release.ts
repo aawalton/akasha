@@ -9,7 +9,7 @@ export const zaraLarssonEndOfTimeKungsRemix = {
   position: 0,
   ownLength: 2.5815,
   ownProgress: 2.5815,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-07-14",
   externalIdentity: [

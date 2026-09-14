@@ -9,7 +9,7 @@ export const nickelCreek2DestinationLive = {
   position: 0,
   ownLength: 9.34765,
   ownProgress: 9.34765,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-11-04",
   externalIdentity: [

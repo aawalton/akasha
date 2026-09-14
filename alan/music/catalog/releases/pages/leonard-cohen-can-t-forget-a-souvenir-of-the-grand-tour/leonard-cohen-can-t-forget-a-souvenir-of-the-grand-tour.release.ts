@@ -9,7 +9,7 @@ export const leonardCohenCanTForgetASouvenirOfTheGrandTour = {
   position: 0,
   ownLength: 48.65305,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2015-05-08",
   externalIdentity: [

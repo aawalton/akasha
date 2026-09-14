@@ -9,7 +9,7 @@ export const katyPerryIKissedAGirl = {
   position: 0,
   ownLength: 12.875317,
   ownProgress: 12.875317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalIdentity: [

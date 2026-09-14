@@ -9,7 +9,7 @@ export const taylorSwift2SpotifySingles = {
   position: 0,
   ownLength: 6.93805,
   ownProgress: 6.93805,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-04-13",
   externalIdentity: [

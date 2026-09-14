@@ -9,7 +9,7 @@ export const elvisPresley2GIBluesOriginalSoundtrack = {
   position: 0,
   ownLength: 26.46225,
   ownProgress: 26.46225,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-06-16",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const taylorSwift2Folklore = {
   position: 0,
   ownLength: 63.609783,
   ownProgress: 63.609783,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-07-24",
   externalIdentity: [

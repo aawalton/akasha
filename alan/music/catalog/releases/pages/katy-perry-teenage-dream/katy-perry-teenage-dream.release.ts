@@ -9,7 +9,7 @@ export const katyPerryTeenageDream = {
   position: 0,
   ownLength: 67.015617,
   ownProgress: 67.015617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2010-01-01",
   externalIdentity: [

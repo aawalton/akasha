@@ -9,7 +9,7 @@ export const thePianoGuys3SweetChildOMine = {
   position: 0,
   ownLength: 4.329167,
   ownProgress: 4.329167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-10",
   externalIdentity: [

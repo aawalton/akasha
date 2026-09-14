@@ -9,7 +9,7 @@ export const nsync2YoTeVoyAAmarThisIPromiseYou = {
   position: 0,
   ownLength: 13.414333,
   ownProgress: 13.414333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2000-09-19",
   externalIdentity: [

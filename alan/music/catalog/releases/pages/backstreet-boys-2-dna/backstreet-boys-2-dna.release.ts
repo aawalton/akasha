@@ -9,7 +9,7 @@ export const backstreetBoys2Dna = {
   position: 0,
   ownLength: 39.37645,
   ownProgress: 39.37645,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-01-25",
   externalIdentity: [

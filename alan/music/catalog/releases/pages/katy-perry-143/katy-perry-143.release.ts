@@ -9,7 +9,7 @@ export const katyPerry143 = {
   position: 0,
   ownLength: 33.6538,
   ownProgress: 33.6538,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-09-20",
   externalIdentity: [

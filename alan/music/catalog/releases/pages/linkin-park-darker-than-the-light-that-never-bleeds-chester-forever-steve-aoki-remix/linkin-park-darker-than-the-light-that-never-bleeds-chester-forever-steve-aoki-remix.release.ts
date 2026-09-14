@@ -9,7 +9,7 @@ export const linkinParkDarkerThanTheLightThatNeverBleedsChesterForeverSteveAokiR
   position: 0,
   ownLength: 4.064,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-09-08",
   externalIdentity: [

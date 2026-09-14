@@ -9,7 +9,7 @@ export const gracieAbramsGoodRiddanceDeluxe = {
   position: 0,
   ownLength: 68.0943,
   ownProgress: 68.0943,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-06-16",
   externalIdentity: [

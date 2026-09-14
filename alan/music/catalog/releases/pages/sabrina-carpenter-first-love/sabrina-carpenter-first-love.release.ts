@@ -9,7 +9,7 @@ export const sabrinaCarpenterFirstLove = {
   position: 0,
   ownLength: 3.457117,
   ownProgress: 3.457117,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-10-13",
   externalIdentity: [

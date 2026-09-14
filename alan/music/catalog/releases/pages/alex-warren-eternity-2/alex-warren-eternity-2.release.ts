@@ -9,7 +9,7 @@ export const alexWarrenEternity2 = {
   position: 0,
   ownLength: 3.159217,
   ownProgress: 3.159217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-07-17",
   externalIdentity: [

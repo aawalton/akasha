@@ -9,7 +9,7 @@ export const paulCardallPachelbelSCanonInD = {
   position: 0,
   ownLength: 3.23705,
   ownProgress: 3.23705,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-06-06",
   externalIdentity: [

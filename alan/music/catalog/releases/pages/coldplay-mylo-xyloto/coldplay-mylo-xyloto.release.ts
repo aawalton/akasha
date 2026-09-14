@@ -9,7 +9,7 @@ export const coldplayMyloXyloto = {
   position: 0,
   ownLength: 44.17705,
   ownProgress: 44.17705,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-10-24",
   externalIdentity: [

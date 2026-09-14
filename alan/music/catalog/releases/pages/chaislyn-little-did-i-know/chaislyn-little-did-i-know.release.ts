@@ -9,7 +9,7 @@ export const chaislynLittleDidIKnow = {
   position: 0,
   ownLength: 3.76075,
   ownProgress: 3.76075,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-06",
   externalIdentity: [

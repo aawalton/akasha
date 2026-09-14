@@ -9,7 +9,7 @@ export const kellyClarksonLighthouseMotiRemix = {
   position: 0,
   ownLength: 2.914283,
   ownProgress: 2.914283,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-03-15",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const pentatonixHolidaysAroundTheWorld = {
   position: 0,
   ownLength: 40.902617,
   ownProgress: 40.902617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-28",
   externalIdentity: [

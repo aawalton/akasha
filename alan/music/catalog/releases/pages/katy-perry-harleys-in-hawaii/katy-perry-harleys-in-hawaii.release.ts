@@ -9,7 +9,7 @@ export const katyPerryHarleysInHawaii = {
   position: 0,
   ownLength: 3.096917,
   ownProgress: 3.096917,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-10-16",
   externalIdentity: [

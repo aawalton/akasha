@@ -9,7 +9,7 @@ export const billyJoelAnInnocentMan = {
   position: 0,
   ownLength: 40.301717,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1983-08-08",
   externalIdentity: [

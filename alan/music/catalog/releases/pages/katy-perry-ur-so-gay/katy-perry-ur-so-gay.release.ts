@@ -9,7 +9,7 @@ export const katyPerryUrSoGay = {
   position: 0,
   ownLength: 16.96465,
   ownProgress: 16.96465,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2007-11-20",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const metallicaAllWithinMyHandsLiveNothingElseMattersLive = {
   position: 0,
   ownLength: 12.892883,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2020-07-15",
   externalIdentity: [

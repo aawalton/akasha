@@ -9,7 +9,7 @@ export const weirdAlYankovic2Alapalooza = {
   position: 0,
   ownLength: 44.889033,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1993-01-01",
   externalIdentity: [

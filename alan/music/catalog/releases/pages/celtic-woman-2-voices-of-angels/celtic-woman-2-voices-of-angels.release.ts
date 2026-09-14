@@ -9,7 +9,7 @@ export const celticWoman2VoicesOfAngels = {
   position: 0,
   ownLength: 64.94015,
   ownProgress: 64.94015,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-18",
   externalIdentity: [

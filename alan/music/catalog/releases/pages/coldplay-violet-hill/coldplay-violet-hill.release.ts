@@ -9,7 +9,7 @@ export const coldplayVioletHill = {
   position: 0,
   ownLength: 6.5151,
   ownProgress: 6.5151,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-05-06",
   externalIdentity: [

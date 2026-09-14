@@ -9,7 +9,7 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCutmoreRemix = {
   position: 0,
   ownLength: 3.774967,
   ownProgress: 3.774967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-12-14",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const billyJoelLiveAtSheaStadium = {
   position: 0,
   ownLength: 128.580967,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-03-08",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const imagineDragonsTakeMeToTheBeachFeatErnia = {
   position: 0,
   ownLength: 2.784433,
   ownProgress: 2.784433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-10-18",
   externalIdentity: [

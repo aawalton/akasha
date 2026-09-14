@@ -9,7 +9,7 @@ export const jessicaBaioPetals = {
   position: 0,
   ownLength: 20.654483,
   ownProgress: 20.654483,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2024-01-12",

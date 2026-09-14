@@ -9,7 +9,7 @@ export const yaelokreAndTheHound = {
   position: 0,
   ownLength: 3.38925,
   ownProgress: 3.38925,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-01-06",
   externalIdentity: [

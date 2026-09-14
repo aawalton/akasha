@@ -9,7 +9,7 @@ export const jadaFacerUseSomebodyAcoustic = {
   position: 0,
   ownLength: 2.988,
   ownProgress: 2.988,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-03-02",
   externalIdentity: [

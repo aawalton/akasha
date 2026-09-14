@@ -9,7 +9,7 @@ export const kellyClarksonSomeone = {
   position: 0,
   ownLength: 3.664533,
   ownProgress: 3.664533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-02-27",
   externalIdentity: [

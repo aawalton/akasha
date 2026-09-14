@@ -9,7 +9,7 @@ export const jadaFacerTimeAfterTimeAcoustic = {
   position: 0,
   ownLength: 3.08025,
   ownProgress: 3.08025,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-01-09",
   externalIdentity: [

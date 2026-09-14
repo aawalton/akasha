@@ -9,7 +9,7 @@ export const coldplayAHeadFullOfDreams = {
   position: 0,
   ownLength: 45.83925,
   ownProgress: 45.83925,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-12-04",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const florenceTheMachineQueenOfPeaceHotChipRemix = {
   position: 0,
   ownLength: 6.422583,
   ownProgress: 6.422583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-08-28",
   externalIdentity: [

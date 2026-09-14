@@ -9,7 +9,7 @@ export const thePianoGuys3TheMissionHowGreatThouArt = {
   position: 0,
   ownLength: 3.359283,
   ownProgress: 3.359283,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-06-30",
   externalIdentity: [

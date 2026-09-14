@@ -9,7 +9,7 @@ export const gracieAbramsTheBuccaneersSeason1AppleTvOriginalSeriesSoundtrack = {
   position: 0,
   ownLength: 72.79855,
   ownProgress: 72.79855,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-11-08",
   externalIdentity: [

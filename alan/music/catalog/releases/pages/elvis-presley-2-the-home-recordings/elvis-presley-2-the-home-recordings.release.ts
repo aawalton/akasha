@@ -9,7 +9,7 @@ export const elvisPresley2TheHomeRecordings = {
   position: 0,
   ownLength: 49.382333,
   ownProgress: 49.382333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1999-04-01",
   externalIdentity: [

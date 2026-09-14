@@ -9,7 +9,7 @@ export const metallicaRideTheLightningRemastered = {
   position: 0,
   ownLength: 47.430367,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1984-07-27",
   externalIdentity: [

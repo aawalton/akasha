@@ -9,7 +9,7 @@ export const jadaFacerSummertimeSadnessAcoustic = {
   position: 0,
   ownLength: 2.656883,
   ownProgress: 2.656883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-07-27",
   externalIdentity: [

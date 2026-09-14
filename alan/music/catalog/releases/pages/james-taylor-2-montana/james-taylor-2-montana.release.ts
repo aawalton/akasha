@@ -9,7 +9,7 @@ export const jamesTaylor2Montana = {
   position: 0,
   ownLength: 3.425333,
   ownProgress: 3.425333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-05-14",
   externalIdentity: [

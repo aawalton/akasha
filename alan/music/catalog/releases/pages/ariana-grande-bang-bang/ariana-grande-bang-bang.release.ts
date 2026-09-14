@@ -9,7 +9,7 @@ export const arianaGrandeBangBang = {
   position: 0,
   ownLength: 9.911767,
   ownProgress: 9.911767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-07-28",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const celticWoman2ChristmasCardsFromIreland = {
   position: 0,
   ownLength: 13.564417,
   ownProgress: 13.564417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-11-04",
   externalIdentity: [

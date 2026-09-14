@@ -9,7 +9,7 @@ export const pentatonixHappyBirthdayBeautiful = {
   position: 0,
   ownLength: 3.309517,
   ownProgress: 3.309517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-08-17",
   externalIdentity: [

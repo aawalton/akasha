@@ -9,7 +9,7 @@ export const siaSatisfiedFeatMiguelQueenLatifahFromTheHamiltonMixtape = {
   position: 0,
   ownLength: 5.3065,
   ownProgress: 5.3065,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-11",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const vinnyMarchiHoodieYouStole = {
   position: 0,
   ownLength: 2.833433,
   ownProgress: 2.833433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-11-11",
   externalIdentity: [

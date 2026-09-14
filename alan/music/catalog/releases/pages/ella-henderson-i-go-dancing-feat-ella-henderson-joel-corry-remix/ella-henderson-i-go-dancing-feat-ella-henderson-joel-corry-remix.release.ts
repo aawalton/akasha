@@ -9,7 +9,7 @@ export const ellaHendersonIGoDancingFeatEllaHendersonJoelCorryRemix = {
   position: 0,
   ownLength: 2.715667,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-03-03",
   externalIdentity: [

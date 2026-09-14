@@ -9,7 +9,7 @@ export const lindseyStirling2LindseyStirling = {
   position: 0,
   ownLength: 54.2998,
   ownProgress: 54.2998,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalIdentity: [

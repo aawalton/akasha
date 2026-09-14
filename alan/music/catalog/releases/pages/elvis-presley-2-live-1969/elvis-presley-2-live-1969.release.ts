@@ -9,7 +9,7 @@ export const elvisPresley2Live1969 = {
   position: 0,
   ownLength: 797.487,
   ownProgress: 797.487,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-08-09",
   externalIdentity: [

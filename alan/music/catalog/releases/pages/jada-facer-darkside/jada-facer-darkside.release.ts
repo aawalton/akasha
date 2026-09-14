@@ -9,7 +9,7 @@ export const jadaFacerDarkside = {
   position: 0,
   ownLength: 2.869117,
   ownProgress: 2.869117,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-12-20",
   externalIdentity: [

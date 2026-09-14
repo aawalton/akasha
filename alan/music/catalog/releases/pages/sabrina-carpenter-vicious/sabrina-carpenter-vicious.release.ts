@@ -9,7 +9,7 @@ export const sabrinaCarpenterVicious = {
   position: 0,
   ownLength: 2.498167,
   ownProgress: 2.498167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-07-01",
   externalIdentity: [

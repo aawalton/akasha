@@ -9,7 +9,7 @@ export const sabrinaCarpenterFeatherSpedUp = {
   position: 0,
   ownLength: 5.643983,
   ownProgress: 5.643983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-08-04",
   externalIdentity: [

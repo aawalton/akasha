@@ -9,7 +9,7 @@ export const arianaGrandeMetHimLastNight = {
   position: 0,
   ownLength: 3.410517,
   ownProgress: 3.410517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-04-01",
   externalIdentity: [

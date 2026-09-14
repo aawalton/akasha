@@ -9,7 +9,7 @@ export const billyJoelLullabyeGoodnightMyAngelArrForChoirByPhilipLawson = {
   position: 0,
   ownLength: 3.72885,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-06-20",
   externalIdentity: [

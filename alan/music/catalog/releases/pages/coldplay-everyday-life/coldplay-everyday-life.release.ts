@@ -9,7 +9,7 @@ export const coldplayEverydayLife = {
   position: 0,
   ownLength: 52.936583,
   ownProgress: 52.936583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-11-22",
   externalIdentity: [

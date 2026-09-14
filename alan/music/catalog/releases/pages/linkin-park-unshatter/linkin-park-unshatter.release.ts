@@ -9,7 +9,7 @@ export const linkinParkUnshatter = {
   position: 0,
   ownLength: 6.32225,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-04-25",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const florenceTheMachineKing = {
   position: 0,
   ownLength: 4.668833,
   ownProgress: 4.668833,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-02-23",
   externalIdentity: [

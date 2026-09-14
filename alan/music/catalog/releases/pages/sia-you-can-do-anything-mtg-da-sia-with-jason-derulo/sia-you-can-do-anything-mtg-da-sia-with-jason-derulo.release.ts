@@ -9,7 +9,7 @@ export const siaYouCanDoAnythingMtgDaSiaWithJasonDerulo = {
   position: 0,
   ownLength: 3.9472,
   ownProgress: 3.9472,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-01-10",
   externalIdentity: [

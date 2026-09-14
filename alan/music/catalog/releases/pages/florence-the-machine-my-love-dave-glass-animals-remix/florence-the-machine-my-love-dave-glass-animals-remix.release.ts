@@ -9,7 +9,7 @@ export const florenceTheMachineMyLoveDaveGlassAnimalsRemix = {
   position: 0,
   ownLength: 3.512617,
   ownProgress: 3.512617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const thePianoGuys3BlessTheBrokenRoad = {
   position: 0,
   ownLength: 3.924167,
   ownProgress: 3.924167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-04-24",
   externalIdentity: [

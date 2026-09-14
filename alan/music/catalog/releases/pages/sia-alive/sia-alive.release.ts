@@ -9,7 +9,7 @@ export const siaAlive = {
   position: 0,
   ownLength: 4.398217,
   ownProgress: 4.398217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-09-24",
   externalIdentity: [

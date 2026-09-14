@@ -9,7 +9,7 @@ export const pentatonixComeAlong = {
   position: 0,
   ownLength: 3.015833,
   ownProgress: 3.015833,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-03-22",
   externalIdentity: [

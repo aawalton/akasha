@@ -9,7 +9,7 @@ export const auroraRunawayPianoAcoustic = {
   position: 0,
   ownLength: 13.290183,
   ownProgress: 13.290183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-11",
   externalIdentity: [

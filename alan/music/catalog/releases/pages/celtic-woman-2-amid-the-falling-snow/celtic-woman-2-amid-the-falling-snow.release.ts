@@ -9,7 +9,7 @@ export const celticWoman2AmidTheFallingSnow = {
   position: 0,
   ownLength: 3.7171,
   ownProgress: 3.7171,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-10-04",
   externalIdentity: [

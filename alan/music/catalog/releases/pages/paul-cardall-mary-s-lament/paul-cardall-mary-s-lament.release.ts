@@ -9,7 +9,7 @@ export const paulCardallMarySLament = {
   position: 0,
   ownLength: 5.118233,
   ownProgress: 5.118233,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-08-09",
   externalIdentity: [

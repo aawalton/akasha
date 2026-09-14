@@ -9,7 +9,7 @@ export const arianaGrandeOneLastTime = {
   position: 0,
   ownLength: 9.9175,
   ownProgress: 9.9175,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-08-22",
   externalIdentity: [

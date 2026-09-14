@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareJoyToTheWorld = {
   position: 0,
   ownLength: 45.045917,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   externalIdentity: [
     {

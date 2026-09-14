@@ -9,7 +9,7 @@ export const enyaAmarantineChristmasEdition = {
   position: 0,
   ownLength: 60.59205,
   ownProgress: 60.59205,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-11-21",
   externalIdentity: [

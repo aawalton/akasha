@@ -9,7 +9,7 @@ export const girlInRedOctoberPassedMeBy = {
   position: 0,
   ownLength: 2.762433,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-10-14",
   externalIdentity: [

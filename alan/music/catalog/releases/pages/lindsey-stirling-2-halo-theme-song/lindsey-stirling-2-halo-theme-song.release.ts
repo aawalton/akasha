@@ -9,7 +9,7 @@ export const lindseyStirling2HaloThemeSong = {
   position: 0,
   ownLength: 3.938883,
   ownProgress: 3.938883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-05-17",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const greenDayAmericanIdiotDeluxe = {
   position: 0,
   ownLength: 65.22195,
   ownProgress: 65.22195,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2004-09-21",

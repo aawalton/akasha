@@ -9,7 +9,7 @@ export const paulCardallOLittleTownOfBethlehem = {
   position: 0,
   ownLength: 4.108517,
   ownProgress: 4.108517,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-11-24",
   externalIdentity: [

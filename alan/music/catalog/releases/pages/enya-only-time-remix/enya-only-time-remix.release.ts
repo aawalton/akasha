@@ -9,7 +9,7 @@ export const enyaOnlyTimeRemix = {
   position: 0,
   ownLength: 13.703967,
   ownProgress: 13.703967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2001-01-01",
   externalIdentity: [

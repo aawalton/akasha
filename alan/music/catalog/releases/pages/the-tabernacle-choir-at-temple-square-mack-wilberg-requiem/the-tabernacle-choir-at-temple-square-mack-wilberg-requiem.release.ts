@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareMackWilbergRequiem = {
   position: 0,
   ownLength: 63.321483,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2008-01-01",
   externalIdentity: [

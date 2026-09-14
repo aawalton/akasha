@@ -9,7 +9,7 @@ export const pentatonixStars = {
   position: 0,
   ownLength: 3.057767,
   ownProgress: 3.057767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-06-02",
   externalIdentity: [

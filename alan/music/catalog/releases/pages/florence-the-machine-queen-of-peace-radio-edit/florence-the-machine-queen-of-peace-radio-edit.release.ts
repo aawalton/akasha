@@ -9,7 +9,7 @@ export const florenceTheMachineQueenOfPeaceRadioEdit = {
   position: 0,
   ownLength: 3.820183,
   ownProgress: 3.820183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-08-01",
   externalIdentity: [

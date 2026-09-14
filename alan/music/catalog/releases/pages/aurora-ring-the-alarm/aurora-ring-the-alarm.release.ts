@@ -9,7 +9,7 @@ export const auroraRingTheAlarm = {
   position: 0,
   ownLength: 5.52355,
   ownProgress: 5.52355,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-12-04",
   externalIdentity: [

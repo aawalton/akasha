@@ -9,7 +9,7 @@ export const thePianoGuys3IAinTWorried = {
   position: 0,
   ownLength: 5.438033,
   ownProgress: 5.438033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-07-28",
   externalIdentity: [

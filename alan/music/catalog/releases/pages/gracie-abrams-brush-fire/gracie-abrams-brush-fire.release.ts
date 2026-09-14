@@ -9,7 +9,7 @@ export const gracieAbramsBrushFire = {
   position: 0,
   ownLength: 3.173767,
   ownProgress: 3.173767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-12-10",
   externalIdentity: [

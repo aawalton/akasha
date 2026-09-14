@@ -9,7 +9,7 @@ export const jadaFacerYouShouldBeSad = {
   position: 0,
   ownLength: 3.270167,
   ownProgress: 3.270167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-02-24",
   externalIdentity: [

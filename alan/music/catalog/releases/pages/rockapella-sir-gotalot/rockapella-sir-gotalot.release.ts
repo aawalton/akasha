@@ -9,7 +9,7 @@ export const rockapellaSirGotalot = {
   position: 0,
   ownLength: 3.20115,
   ownProgress: 3.20115,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-07-23",
   externalIdentity: [

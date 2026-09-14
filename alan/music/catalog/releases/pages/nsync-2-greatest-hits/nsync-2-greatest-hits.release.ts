@@ -9,7 +9,7 @@ export const nsync2GreatestHits = {
   position: 0,
   ownLength: 45.989067,
   ownProgress: 45.989067,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-10-25",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const imagineDragonsRadioactive = {
   position: 0,
   ownLength: 4.600667,
   ownProgress: 4.600667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-01-01",
   externalIdentity: [

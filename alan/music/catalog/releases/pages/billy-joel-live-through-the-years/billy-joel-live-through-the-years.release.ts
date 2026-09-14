@@ -9,7 +9,7 @@ export const billyJoelLiveThroughTheYears = {
   position: 0,
   ownLength: 93.373517,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-05-03",
   externalIdentity: [

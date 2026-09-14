@@ -9,7 +9,7 @@ export const jadaFacerTheMiddle = {
   position: 0,
   ownLength: 2.2978,
   ownProgress: 2.2978,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-09-05",
   externalIdentity: [

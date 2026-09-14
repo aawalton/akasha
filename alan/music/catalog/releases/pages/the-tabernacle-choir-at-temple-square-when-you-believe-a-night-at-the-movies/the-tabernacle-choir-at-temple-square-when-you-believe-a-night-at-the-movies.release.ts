@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareWhenYouBelieveANightAtTheMovies = {
   position: 0,
   ownLength: 22.3604,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2020-05-22",
   externalIdentity: [

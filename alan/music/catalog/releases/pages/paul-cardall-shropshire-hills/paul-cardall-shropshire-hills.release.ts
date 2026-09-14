@@ -9,7 +9,7 @@ export const paulCardallShropshireHills = {
   position: 0,
   ownLength: 3.237383,
   ownProgress: 3.237383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-07-14",
   externalIdentity: [

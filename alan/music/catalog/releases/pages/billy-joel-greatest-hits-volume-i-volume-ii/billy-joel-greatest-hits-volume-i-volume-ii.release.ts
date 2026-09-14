@@ -9,7 +9,7 @@ export const billyJoelGreatestHitsVolumeIVolumeIi = {
   position: 0,
   ownLength: 113.7434,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1985-06-29",
   externalIdentity: [

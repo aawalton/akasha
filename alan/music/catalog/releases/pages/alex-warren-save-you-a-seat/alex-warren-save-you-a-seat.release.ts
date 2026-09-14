@@ -9,7 +9,7 @@ export const alexWarrenSaveYouASeat = {
   position: 0,
   ownLength: 3.292883,
   ownProgress: 3.292883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-03-29",
   externalIdentity: [

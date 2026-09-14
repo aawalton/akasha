@@ -9,7 +9,7 @@ export const auroraWalkingInTheAir = {
   position: 0,
   ownLength: 3.484217,
   ownProgress: 3.484217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-11-28",
   externalIdentity: [

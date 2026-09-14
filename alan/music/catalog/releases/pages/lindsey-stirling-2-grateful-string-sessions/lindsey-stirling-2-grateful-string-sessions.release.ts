@@ -9,7 +9,7 @@ export const lindseyStirling2GratefulStringSessions = {
   position: 0,
   ownLength: 8.590033,
   ownProgress: 8.590033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-06-30",
   externalIdentity: [

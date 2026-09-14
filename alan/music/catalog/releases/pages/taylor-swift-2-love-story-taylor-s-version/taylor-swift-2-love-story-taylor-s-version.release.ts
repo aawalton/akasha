@@ -9,7 +9,7 @@ export const taylorSwift2LoveStoryTaylorSVersion = {
   position: 0,
   ownLength: 3.929433,
   ownProgress: 3.929433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-02-12",
   externalIdentity: [

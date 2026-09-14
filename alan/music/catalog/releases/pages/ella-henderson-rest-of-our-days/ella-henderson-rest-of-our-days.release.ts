@@ -9,7 +9,7 @@ export const ellaHendersonRestOfOurDays = {
   position: 0,
   ownLength: 2.51945,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-10-27",
   externalIdentity: [

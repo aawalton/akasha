@@ -9,7 +9,7 @@ export const metallicaGarageInc = {
   position: 0,
   ownLength: 136.61875,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1998-11-24",
   externalIdentity: [

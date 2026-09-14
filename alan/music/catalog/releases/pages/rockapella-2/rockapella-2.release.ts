@@ -9,7 +9,7 @@ export const rockapella2 = {
   position: 0,
   ownLength: 46.120917,
   ownProgress: 46.120917,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2000-03-04",
   externalIdentity: [

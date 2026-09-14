@@ -9,7 +9,7 @@ export const jadaFacerOceansWhereFeetMayFailAcoustic = {
   position: 0,
   ownLength: 3.917933,
   ownProgress: 3.917933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-07-26",
   externalIdentity: [

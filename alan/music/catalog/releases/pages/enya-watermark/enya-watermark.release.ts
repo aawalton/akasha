@@ -9,7 +9,7 @@ export const enyaWatermark = {
   position: 0,
   ownLength: 43.10395,
   ownProgress: 43.10395,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1988-01-01",
   externalIdentity: [

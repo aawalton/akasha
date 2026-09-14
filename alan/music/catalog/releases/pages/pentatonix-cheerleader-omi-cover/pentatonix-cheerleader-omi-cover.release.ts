@@ -9,7 +9,7 @@ export const pentatonixCheerleaderOmiCover = {
   position: 0,
   ownLength: 3.0511,
   ownProgress: 3.0511,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-08-21",
   externalIdentity: [

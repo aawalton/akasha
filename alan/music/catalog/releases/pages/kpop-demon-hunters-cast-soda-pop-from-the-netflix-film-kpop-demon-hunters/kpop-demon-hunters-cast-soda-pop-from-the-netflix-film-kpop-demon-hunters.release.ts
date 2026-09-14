@@ -9,7 +9,7 @@ export const kpopDemonHuntersCastSodaPopFromTheNetflixFilmKpopDemonHunters = {
   position: 0,
   ownLength: 7.498033,
   ownProgress: 7.498033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-06-19",
   externalIdentity: [

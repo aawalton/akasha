@@ -9,7 +9,7 @@ export const elvisPresley2WalkAMileInMyShoesTheEssential70sMasters = {
   position: 0,
   ownLength: 372.0482,
   ownProgress: 372.0482,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1995-01-01",
   externalIdentity: [

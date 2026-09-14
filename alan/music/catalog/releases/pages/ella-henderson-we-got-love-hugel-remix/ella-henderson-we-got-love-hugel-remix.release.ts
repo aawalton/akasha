@@ -9,7 +9,7 @@ export const ellaHendersonWeGotLoveHugelRemix = {
   position: 0,
   ownLength: 2.920633,
   ownProgress: 2.920633,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-01-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const siaFlames = {
   position: 0,
   ownLength: 3.25,
   ownProgress: 3.25,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-03-22",
   externalIdentity: [

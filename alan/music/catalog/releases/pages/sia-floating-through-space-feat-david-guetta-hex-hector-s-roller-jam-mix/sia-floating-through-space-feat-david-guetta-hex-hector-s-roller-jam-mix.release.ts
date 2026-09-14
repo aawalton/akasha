@@ -9,7 +9,7 @@ export const siaFloatingThroughSpaceFeatDavidGuettaHexHectorSRollerJamMix = {
   position: 0,
   ownLength: 6.2047,
   ownProgress: 6.2047,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-19",
   externalIdentity: [

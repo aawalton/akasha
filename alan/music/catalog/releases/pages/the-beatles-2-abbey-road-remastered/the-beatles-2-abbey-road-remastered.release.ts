@@ -9,7 +9,7 @@ export const theBeatles2AbbeyRoadRemastered = {
   position: 0,
   ownLength: 47.495017,
   ownProgress: 47.495017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1969-09-26",
   externalIdentity: [

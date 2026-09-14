@@ -9,7 +9,7 @@ export const taylorSwift2YouNeedToCalmDownCleanBanditRemix = {
   position: 0,
   ownLength: 2.546217,
   ownProgress: 2.546217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-08-20",
   externalIdentity: [

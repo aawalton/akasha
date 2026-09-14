@@ -9,7 +9,7 @@ export const jadaFacerIWouldnTMind = {
   position: 0,
   ownLength: 2.8409,
   ownProgress: 2.8409,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-12-01",
   externalIdentity: [

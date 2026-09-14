@@ -9,7 +9,7 @@ export const siaGimmeLoveSentinelRemix = {
   position: 0,
   ownLength: 16.451033,
   ownProgress: 16.451033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-12-01",
   externalIdentity: [

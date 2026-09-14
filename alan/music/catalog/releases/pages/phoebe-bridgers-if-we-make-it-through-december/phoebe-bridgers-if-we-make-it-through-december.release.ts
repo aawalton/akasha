@@ -9,7 +9,7 @@ export const phoebeBridgersIfWeMakeItThroughDecember = {
   position: 0,
   ownLength: 11.679567,
   ownProgress: 11.679567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-24",
   externalIdentity: [

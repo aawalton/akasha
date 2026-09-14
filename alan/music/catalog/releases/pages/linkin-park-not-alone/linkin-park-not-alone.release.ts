@@ -9,7 +9,7 @@ export const linkinParkNotAlone = {
   position: 0,
   ownLength: 4.214,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-10-21",
   externalIdentity: [

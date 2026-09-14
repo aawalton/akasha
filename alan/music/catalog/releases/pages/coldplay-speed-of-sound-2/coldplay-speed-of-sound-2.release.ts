@@ -9,7 +9,7 @@ export const coldplaySpeedOfSound2 = {
   position: 0,
   ownLength: 4.749967,
   ownProgress: 4.749967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-05-20",
   externalIdentity: [

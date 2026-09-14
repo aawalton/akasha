@@ -9,7 +9,7 @@ export const siaIncredibleFeatLabrinth = {
   position: 0,
   ownLength: 3.560533,
   ownProgress: 3.560533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-04-05",
   externalIdentity: [

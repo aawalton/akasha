@@ -9,7 +9,7 @@ export const theBeatles21Remastered = {
   position: 0,
   ownLength: 79.197017,
   ownProgress: 79.197017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2000-11-13",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const billyJoelTheEssentialBillyJoel = {
   position: 0,
   ownLength: 153.5356,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2001-10-02",
   externalIdentity: [

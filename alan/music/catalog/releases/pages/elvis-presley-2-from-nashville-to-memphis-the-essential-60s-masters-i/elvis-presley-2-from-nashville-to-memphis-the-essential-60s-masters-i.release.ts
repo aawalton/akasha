@@ -9,7 +9,7 @@ export const elvisPresley2FromNashvilleToMemphisTheEssential60sMastersI = {
   position: 0,
   ownLength: 347.708983,
   ownProgress: 347.708983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1993-09-28",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const paulCardallAllISeeIsSnow = {
   position: 0,
   ownLength: 4.571433,
   ownProgress: 4.571433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-12-04",
   externalIdentity: [

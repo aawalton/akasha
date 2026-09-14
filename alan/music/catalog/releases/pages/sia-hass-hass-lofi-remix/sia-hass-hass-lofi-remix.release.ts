@@ -9,7 +9,7 @@ export const siaHassHassLofiRemix = {
   position: 0,
   ownLength: 7.8637,
   ownProgress: 7.8637,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-04-25",
   externalIdentity: [

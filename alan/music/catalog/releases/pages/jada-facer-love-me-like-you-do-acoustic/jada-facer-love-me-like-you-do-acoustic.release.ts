@@ -9,7 +9,7 @@ export const jadaFacerLoveMeLikeYouDoAcoustic = {
   position: 0,
   ownLength: 2.60885,
   ownProgress: 2.60885,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-04-19",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const katyPerryBonAppetitMartinJensenRemix = {
   position: 0,
   ownLength: 2.946717,
   ownProgress: 2.946717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-05-17",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const paulCardallElizaSTheme = {
   position: 0,
   ownLength: 3.646933,
   ownProgress: 3.646933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-08-18",
   externalIdentity: [

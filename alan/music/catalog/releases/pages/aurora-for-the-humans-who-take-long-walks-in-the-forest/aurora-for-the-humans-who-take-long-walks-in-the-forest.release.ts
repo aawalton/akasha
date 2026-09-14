@@ -9,7 +9,7 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForest = {
   position: 0,
   ownLength: 23.732567,
   ownProgress: 23.732567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-02-04",
   externalIdentity: [

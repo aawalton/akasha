@@ -9,7 +9,7 @@ export const taylorSwift2DeathByAThousandCutsLiveFromParis = {
   position: 0,
   ownLength: 3.317767,
   ownProgress: 3.317767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-17",
   externalIdentity: [

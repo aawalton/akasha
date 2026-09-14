@@ -9,7 +9,7 @@ export const theBeatles2AbbeyRoadSuperDeluxeEdition = {
   position: 0,
   ownLength: 133.48335,
   ownProgress: 133.48335,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-09-27",
   externalIdentity: [

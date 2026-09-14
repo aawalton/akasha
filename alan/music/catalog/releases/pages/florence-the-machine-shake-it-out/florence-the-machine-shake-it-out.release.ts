@@ -9,7 +9,7 @@ export const florenceTheMachineShakeItOut = {
   position: 0,
   ownLength: 18.91665,
   ownProgress: 18.91665,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-01-01",
   externalIdentity: [

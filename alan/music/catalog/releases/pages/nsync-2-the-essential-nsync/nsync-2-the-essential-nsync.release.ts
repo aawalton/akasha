@@ -9,7 +9,7 @@ export const nsync2TheEssentialNsync = {
   position: 0,
   ownLength: 129.129783,
   ownProgress: 129.129783,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-07-29",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const aChristmasCarolOriginalSoundtrackFromTheHallmarkTvProduction = {
   position: 0,
   ownLength: 71.301417,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2004-01-01",
   externalIdentity: [

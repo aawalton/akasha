@@ -9,7 +9,7 @@ export const jadaFacerIris = {
   position: 0,
   ownLength: 2.81135,
   ownProgress: 2.81135,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-06-04",
   externalIdentity: [

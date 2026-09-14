@@ -9,7 +9,7 @@ export const imagineDragonsFollowYouCutthroat = {
   position: 0,
   ownLength: 5.7564,
   ownProgress: 5.7564,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-12",
   externalIdentity: [

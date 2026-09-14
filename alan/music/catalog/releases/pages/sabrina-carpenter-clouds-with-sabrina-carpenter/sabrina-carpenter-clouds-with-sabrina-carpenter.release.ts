@@ -9,7 +9,7 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenter = {
   position: 0,
   ownLength: 3.081717,
   ownProgress: 3.081717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-10-09",
   externalIdentity: [

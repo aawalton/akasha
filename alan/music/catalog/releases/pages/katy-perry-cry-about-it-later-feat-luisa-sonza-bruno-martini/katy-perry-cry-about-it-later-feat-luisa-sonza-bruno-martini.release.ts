@@ -9,7 +9,7 @@ export const katyPerryCryAboutItLaterFeatLuisaSonzaBrunoMartini = {
   position: 0,
   ownLength: 2.65475,
   ownProgress: 2.65475,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-04-23",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const clairoLoveSongs = {
   position: 0,
   ownLength: 2.972533,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-10-09",
   externalIdentity: [

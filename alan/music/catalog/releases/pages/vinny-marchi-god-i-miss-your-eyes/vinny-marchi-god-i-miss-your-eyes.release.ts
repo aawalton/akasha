@@ -9,7 +9,7 @@ export const vinnyMarchiGodIMissYourEyes = {
   position: 0,
   ownLength: 3.79145,
   ownProgress: 3.79145,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-03-13",
   externalIdentity: [

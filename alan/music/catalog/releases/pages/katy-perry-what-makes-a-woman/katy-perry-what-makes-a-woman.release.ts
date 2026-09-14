@@ -9,7 +9,7 @@ export const katyPerryWhatMakesAWoman = {
   position: 0,
   ownLength: 2.18785,
   ownProgress: 2.18785,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-08-20",
   externalIdentity: [

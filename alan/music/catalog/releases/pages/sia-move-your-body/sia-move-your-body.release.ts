@@ -9,7 +9,7 @@ export const siaMoveYourBody = {
   position: 0,
   ownLength: 4.201333,
   ownProgress: 4.201333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-01-06",
   externalIdentity: [

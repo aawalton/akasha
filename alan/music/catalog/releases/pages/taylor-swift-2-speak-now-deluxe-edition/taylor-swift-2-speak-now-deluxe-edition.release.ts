@@ -9,7 +9,7 @@ export const taylorSwift2SpeakNowDeluxeEdition = {
   position: 0,
   ownLength: 91.840117,
   ownProgress: 91.840117,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2010-10-25",
   externalIdentity: [

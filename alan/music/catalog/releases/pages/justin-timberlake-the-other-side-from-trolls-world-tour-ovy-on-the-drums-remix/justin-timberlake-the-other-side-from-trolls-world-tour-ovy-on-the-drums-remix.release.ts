@@ -9,7 +9,7 @@ export const justinTimberlakeTheOtherSideFromTrollsWorldTourOvyOnTheDrumsRemix =
   position: 0,
   ownLength: 3.2843,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2020-04-20",
   externalIdentity: [

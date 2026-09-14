@@ -9,7 +9,7 @@ export const coldplayAllMyLovePnauXColdplay = {
   position: 0,
   ownLength: 3.242667,
   ownProgress: 3.242667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-11-29",
   externalIdentity: [

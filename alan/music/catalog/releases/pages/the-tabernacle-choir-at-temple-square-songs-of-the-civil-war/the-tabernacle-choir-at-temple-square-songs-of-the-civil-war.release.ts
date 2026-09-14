@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSongsOfTheCivilWar = {
   position: 0,
   ownLength: 74.5301,
   ownProgress: 74.5301,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1961-01-01",
   externalIdentity: [

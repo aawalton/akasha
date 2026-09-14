@@ -9,7 +9,7 @@ export const siaEyeOfTheNeedle = {
   position: 0,
   ownLength: 4.15755,
   ownProgress: 4.15755,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-06-03",
   externalIdentity: [

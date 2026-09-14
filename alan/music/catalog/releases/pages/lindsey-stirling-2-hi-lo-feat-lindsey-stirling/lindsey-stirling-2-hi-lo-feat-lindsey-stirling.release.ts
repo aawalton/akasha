@@ -9,7 +9,7 @@ export const lindseyStirling2HiLoFeatLindseyStirling = {
   position: 0,
   ownLength: 4.27245,
   ownProgress: 4.27245,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-06-08",
   externalIdentity: [

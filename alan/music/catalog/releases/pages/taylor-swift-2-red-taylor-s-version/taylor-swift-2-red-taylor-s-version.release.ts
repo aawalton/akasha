@@ -9,7 +9,7 @@ export const taylorSwift2RedTaylorSVersion = {
   position: 0,
   ownLength: 130.663833,
   ownProgress: 130.663833,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-11-12",
   externalIdentity: [

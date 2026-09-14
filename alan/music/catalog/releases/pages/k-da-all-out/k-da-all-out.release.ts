@@ -9,7 +9,7 @@ export const kDaAllOut = {
   position: 0,
   ownLength: 16.305633,
   ownProgress: 16.305633,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-06",
   externalIdentity: [

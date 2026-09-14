@@ -9,7 +9,7 @@ export const enyaStars = {
   position: 0,
   ownLength: 59.469467,
   ownProgress: 59.469467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1997-01-01",
   externalIdentity: [

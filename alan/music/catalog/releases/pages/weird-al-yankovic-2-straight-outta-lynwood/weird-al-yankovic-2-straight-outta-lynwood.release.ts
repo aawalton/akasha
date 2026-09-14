@@ -9,7 +9,7 @@ export const weirdAlYankovic2StraightOuttaLynwood = {
   position: 0,
   ownLength: 47.8304,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2006-09-26",
   externalIdentity: [

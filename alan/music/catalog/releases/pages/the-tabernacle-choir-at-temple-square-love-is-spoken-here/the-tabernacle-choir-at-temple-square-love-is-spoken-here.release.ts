@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareLoveIsSpokenHere = {
   position: 0,
   ownLength: 79.60765,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2005-09-15",
   externalIdentity: [

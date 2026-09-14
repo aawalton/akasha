@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareBrahmsAGermanRequiem2023RemasteredV
   position: 0,
   ownLength: 64.584633,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-12-15",
   externalIdentity: [

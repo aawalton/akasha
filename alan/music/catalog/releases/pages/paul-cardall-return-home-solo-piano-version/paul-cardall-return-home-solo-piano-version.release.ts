@@ -9,7 +9,7 @@ export const paulCardallReturnHomeSoloPianoVersion = {
   position: 0,
   ownLength: 48.9287,
   ownProgress: 48.9287,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-09-06",
   externalIdentity: [

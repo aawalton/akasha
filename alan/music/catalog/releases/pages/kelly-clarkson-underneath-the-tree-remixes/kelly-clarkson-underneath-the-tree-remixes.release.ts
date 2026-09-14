@@ -9,7 +9,7 @@ export const kellyClarksonUnderneathTheTreeRemixes = {
   position: 0,
   ownLength: 30.112833,
   ownProgress: 30.112833,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-12-17",
   externalIdentity: [

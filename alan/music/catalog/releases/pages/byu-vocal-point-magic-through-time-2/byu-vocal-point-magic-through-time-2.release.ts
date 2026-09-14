@@ -9,7 +9,7 @@ export const byuVocalPointMagicThroughTime2 = {
   position: 0,
   ownLength: 20.7767,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-08-05",
   externalIdentity: [

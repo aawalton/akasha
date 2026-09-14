@@ -9,7 +9,7 @@ export const thePianoGuys3WeddingSeason = {
   position: 0,
   ownLength: 70.8394,
   ownProgress: 70.8394,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-05-09",
   externalIdentity: [

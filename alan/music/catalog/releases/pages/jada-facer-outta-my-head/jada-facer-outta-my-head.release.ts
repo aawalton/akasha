@@ -9,7 +9,7 @@ export const jadaFacerOuttaMyHead = {
   position: 0,
   ownLength: 2.88275,
   ownProgress: 2.88275,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-11-17",
   externalIdentity: [

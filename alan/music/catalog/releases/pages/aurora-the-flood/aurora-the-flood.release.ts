@@ -9,7 +9,7 @@ export const auroraTheFlood = {
   position: 0,
   ownLength: 4.495333,
   ownProgress: 4.495333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-04-04",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const jadaFacerSummerSolstice = {
   position: 0,
   ownLength: 3.467617,
   ownProgress: 3.467617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-03-21",
   externalIdentity: [

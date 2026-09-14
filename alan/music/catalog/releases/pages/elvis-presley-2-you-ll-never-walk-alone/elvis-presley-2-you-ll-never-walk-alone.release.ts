@@ -9,7 +9,7 @@ export const elvisPresley2YouLlNeverWalkAlone = {
   position: 0,
   ownLength: 26.378617,
   ownProgress: 26.378617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1971-03-22",
   externalIdentity: [

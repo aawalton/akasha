@@ -9,7 +9,7 @@ export const greenDayWalkingContradictionBbcLiveSession = {
   position: 0,
   ownLength: 2.587717,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2021-11-19",

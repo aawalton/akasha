@@ -9,7 +9,7 @@ export const phoebeBridgersStrangerInTheAlpsDeluxeEdition = {
   position: 0,
   ownLength: 51.4988,
   ownProgress: 51.4988,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-10-02",
   externalIdentity: [

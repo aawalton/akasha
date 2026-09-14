@@ -9,7 +9,7 @@ export const imagineDragonsEvolve = {
   position: 0,
   ownLength: 43.117533,
   ownProgress: 43.117533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-06-23",
   externalIdentity: [

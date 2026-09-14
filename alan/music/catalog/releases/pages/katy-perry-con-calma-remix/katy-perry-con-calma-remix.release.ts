@@ -9,7 +9,7 @@ export const katyPerryConCalmaRemix = {
   position: 0,
   ownLength: 3.021333,
   ownProgress: 3.021333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-04-19",
   externalIdentity: [

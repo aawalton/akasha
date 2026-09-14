@@ -9,7 +9,7 @@ export const katyPerryChainedToTheRhythmOliverHeldensRemix = {
   position: 0,
   ownLength: 4.616133,
   ownProgress: 4.616133,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-03-24",
   externalIdentity: [

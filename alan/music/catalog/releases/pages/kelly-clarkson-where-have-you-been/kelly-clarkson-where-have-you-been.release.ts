@@ -9,7 +9,7 @@ export const kellyClarksonWhereHaveYouBeen = {
   position: 0,
   ownLength: 3.9651,
   ownProgress: 3.9651,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-05-02",
   externalIdentity: [

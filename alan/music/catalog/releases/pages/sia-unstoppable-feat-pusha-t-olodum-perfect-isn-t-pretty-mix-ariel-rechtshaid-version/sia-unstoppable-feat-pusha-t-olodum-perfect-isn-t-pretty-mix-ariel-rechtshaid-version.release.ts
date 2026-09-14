@@ -10,7 +10,7 @@ export const siaUnstoppableFeatPushaTOlodumPerfectIsnTPrettyMixArielRechtshaidVe
   position: 0,
   ownLength: 3.760667,
   ownProgress: 3.760667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-07-13",
   externalIdentity: [

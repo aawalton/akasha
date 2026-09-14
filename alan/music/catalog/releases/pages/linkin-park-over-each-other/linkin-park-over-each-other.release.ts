@@ -9,7 +9,7 @@ export const linkinParkOverEachOther = {
   position: 0,
   ownLength: 8.798067,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-10-24",
   externalIdentity: [

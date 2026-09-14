@@ -9,7 +9,7 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemix = {
   position: 0,
   ownLength: 4.026883,
   ownProgress: 4.026883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-01-01",
   externalIdentity: [

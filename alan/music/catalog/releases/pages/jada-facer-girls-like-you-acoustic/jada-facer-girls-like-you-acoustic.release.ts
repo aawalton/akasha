@@ -9,7 +9,7 @@ export const jadaFacerGirlsLikeYouAcoustic = {
   position: 0,
   ownLength: 2.737583,
   ownProgress: 2.737583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-06-28",
   externalIdentity: [

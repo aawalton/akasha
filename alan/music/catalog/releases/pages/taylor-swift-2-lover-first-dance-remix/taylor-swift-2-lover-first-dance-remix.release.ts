@@ -9,7 +9,7 @@ export const taylorSwift2LoverFirstDanceRemix = {
   position: 0,
   ownLength: 3.8911,
   ownProgress: 3.8911,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-11-26",
   externalIdentity: [

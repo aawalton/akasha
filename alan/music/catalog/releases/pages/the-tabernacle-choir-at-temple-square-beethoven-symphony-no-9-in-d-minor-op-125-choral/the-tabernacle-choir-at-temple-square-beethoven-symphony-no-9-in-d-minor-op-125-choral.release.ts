@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareBeethovenSymphonyNo9InDMinorOp125Ch
   position: 0,
   ownLength: 64.744417,
   ownProgress: 64.744417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1966-01-01",
   externalIdentity: [

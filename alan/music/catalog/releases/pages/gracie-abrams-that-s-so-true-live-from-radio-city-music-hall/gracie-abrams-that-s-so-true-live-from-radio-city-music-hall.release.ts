@@ -9,7 +9,7 @@ export const gracieAbramsThatSSoTrueLiveFromRadioCityMusicHall = {
   position: 0,
   ownLength: 6.008317,
   ownProgress: 6.008317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-11-06",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const byuVocalPointChristmasUnderTheStarsLiveOnByutvEp = {
   position: 0,
   ownLength: 15.774083,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-02-17",
   externalIdentity: [

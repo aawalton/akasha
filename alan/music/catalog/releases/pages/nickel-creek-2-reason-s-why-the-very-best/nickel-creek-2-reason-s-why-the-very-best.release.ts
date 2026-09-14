@@ -9,7 +9,7 @@ export const nickelCreek2ReasonSWhyTheVeryBest = {
   position: 0,
   ownLength: 65.005717,
   ownProgress: 65.005717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2006-01-01",
   externalIdentity: [

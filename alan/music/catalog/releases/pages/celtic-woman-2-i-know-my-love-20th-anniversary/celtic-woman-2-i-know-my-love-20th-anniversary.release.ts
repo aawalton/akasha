@@ -9,7 +9,7 @@ export const celticWoman2IKnowMyLove20thAnniversary = {
   position: 0,
   ownLength: 3.500667,
   ownProgress: 3.500667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-11-24",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const phoebeBridgersISeeYou = {
   position: 0,
   ownLength: 9.904967,
   ownProgress: 9.904967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-19",
   externalIdentity: [

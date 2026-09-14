@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareMakeAJoyfulNoiseBelovedChoruses = {
   position: 0,
   ownLength: 75.301017,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1981-01-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const mitskiGlideCover = {
   position: 0,
   ownLength: 3.686533,
   ownProgress: 3.686533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2021-07-08",

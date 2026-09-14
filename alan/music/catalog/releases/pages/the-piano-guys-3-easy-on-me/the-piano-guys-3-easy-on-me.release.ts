@@ -9,7 +9,7 @@ export const thePianoGuys3EasyOnMe = {
   position: 0,
   ownLength: 2.9859,
   ownProgress: 2.9859,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-01-14",
   externalIdentity: [

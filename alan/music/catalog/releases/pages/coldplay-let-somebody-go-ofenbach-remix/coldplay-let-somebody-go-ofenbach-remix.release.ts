@@ -9,7 +9,7 @@ export const coldplayLetSomebodyGoOfenbachRemix = {
   position: 0,
   ownLength: 3.24145,
   ownProgress: 3.24145,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-15",
   externalIdentity: [

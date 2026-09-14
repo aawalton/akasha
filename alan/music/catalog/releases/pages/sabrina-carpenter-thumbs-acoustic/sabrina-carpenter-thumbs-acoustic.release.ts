@@ -9,7 +9,7 @@ export const sabrinaCarpenterThumbsAcoustic = {
   position: 0,
   ownLength: 3.404567,
   ownProgress: 3.404567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-04-21",
   externalIdentity: [

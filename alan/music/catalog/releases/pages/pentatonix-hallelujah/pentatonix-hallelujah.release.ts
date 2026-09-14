@@ -9,7 +9,7 @@ export const pentatonixHallelujah = {
   position: 0,
   ownLength: 4.482667,
   ownProgress: 4.482667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-01-06",
   externalIdentity: [

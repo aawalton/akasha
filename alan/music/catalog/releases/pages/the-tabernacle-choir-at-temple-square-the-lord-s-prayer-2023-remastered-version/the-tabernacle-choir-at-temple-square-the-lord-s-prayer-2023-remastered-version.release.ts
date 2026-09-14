@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareTheLordSPrayer2023RemasteredVersion
   position: 0,
   ownLength: 73.526333,
   ownProgress: 73.526333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1959-07-13",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const elvisPresley2PlatinumALifeInMusic = {
   position: 0,
   ownLength: 262.792533,
   ownProgress: 262.792533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1997-07-15",
   externalIdentity: [

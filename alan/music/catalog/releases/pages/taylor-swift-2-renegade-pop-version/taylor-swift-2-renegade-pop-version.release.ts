@@ -9,7 +9,7 @@ export const taylorSwift2RenegadePopVersion = {
   position: 0,
   ownLength: 3.858767,
   ownProgress: 3.858767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-08-17",
   externalIdentity: [

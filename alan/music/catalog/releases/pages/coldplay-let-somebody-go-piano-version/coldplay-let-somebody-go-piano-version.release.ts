@@ -9,7 +9,7 @@ export const coldplayLetSomebodyGoPianoVersion = {
   position: 0,
   ownLength: 15.014933,
   ownProgress: 15.014933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-03-18",
   externalIdentity: [

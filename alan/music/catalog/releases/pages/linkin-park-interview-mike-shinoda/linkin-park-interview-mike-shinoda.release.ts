@@ -9,7 +9,7 @@ export const linkinParkInterviewMikeShinoda = {
   position: 0,
   ownLength: 20.89955,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-06-03",
   externalIdentity: [

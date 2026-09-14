@@ -9,7 +9,7 @@ export const ellaHendersonUnderTheSunAcoustic = {
   position: 0,
   ownLength: 4.17635,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-07-12",
   externalIdentity: [

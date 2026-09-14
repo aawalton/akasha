@@ -9,7 +9,7 @@ export const snailMailSnailMailOnAudiotreeLive = {
   position: 0,
   ownLength: 23.950117,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-06-15",
   externalIdentity: [

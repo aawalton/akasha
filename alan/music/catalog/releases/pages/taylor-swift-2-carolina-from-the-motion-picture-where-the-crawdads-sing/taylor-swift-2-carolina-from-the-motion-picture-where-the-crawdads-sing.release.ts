@@ -9,7 +9,7 @@ export const taylorSwift2CarolinaFromTheMotionPictureWhereTheCrawdadsSing = {
   position: 0,
   ownLength: 7.1397,
   ownProgress: 7.1397,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-06-24",
   externalIdentity: [

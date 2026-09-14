@@ -9,7 +9,7 @@ export const backstreetBoys2Millennium20 = {
   position: 0,
   ownLength: 100.312317,
   ownProgress: 100.312317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-07-11",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const jessicaBaioNeverAQuestion = {
   position: 0,
   ownLength: 2.744933,
   ownProgress: 2.744933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-02-17",

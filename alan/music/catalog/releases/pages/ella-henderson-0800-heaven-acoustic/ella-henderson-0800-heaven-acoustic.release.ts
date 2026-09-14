@@ -9,7 +9,7 @@ export const ellaHenderson0800HeavenAcoustic = {
   position: 0,
   ownLength: 6.459767,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-07-07",
   externalIdentity: [

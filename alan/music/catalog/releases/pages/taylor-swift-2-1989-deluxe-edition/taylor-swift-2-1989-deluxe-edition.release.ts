@@ -9,7 +9,7 @@ export const taylorSwift21989DeluxeEdition = {
   position: 0,
   ownLength: 68.7608,
   ownProgress: 68.7608,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-10-27",
   externalIdentity: [

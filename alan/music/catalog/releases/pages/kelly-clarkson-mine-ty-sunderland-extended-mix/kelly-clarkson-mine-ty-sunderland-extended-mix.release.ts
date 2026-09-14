@@ -9,7 +9,7 @@ export const kellyClarksonMineTySunderlandExtendedMix = {
   position: 0,
   ownLength: 4.388433,
   ownProgress: 4.388433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-05-05",
   externalIdentity: [

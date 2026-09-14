@@ -9,7 +9,7 @@ export const taylorSwift2LoveStoryTaylorSVersionElviraRemix = {
   position: 0,
   ownLength: 3.53095,
   ownProgress: 3.53095,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-23",
   externalIdentity: [

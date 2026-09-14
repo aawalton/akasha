@@ -9,7 +9,7 @@ export const katyPerryUnpluggedLiveAtMtvUnpluggedNewYorkNy2009 = {
   position: 0,
   ownLength: 29.410183,
   ownProgress: 29.410183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-11-13",
   externalIdentity: [

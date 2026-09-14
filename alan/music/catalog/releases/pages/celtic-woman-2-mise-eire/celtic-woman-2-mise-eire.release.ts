@@ -9,7 +9,7 @@ export const celticWoman2MiseEire = {
   position: 0,
   ownLength: 3.879333,
   ownProgress: 3.879333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-08",
   externalIdentity: [

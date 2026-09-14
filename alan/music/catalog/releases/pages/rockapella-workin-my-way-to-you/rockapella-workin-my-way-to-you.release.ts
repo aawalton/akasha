@@ -9,7 +9,7 @@ export const rockapellaWorkinMyWayToYou = {
   position: 0,
   ownLength: 3.012067,
   ownProgress: 3.012067,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-06-01",
   externalIdentity: [

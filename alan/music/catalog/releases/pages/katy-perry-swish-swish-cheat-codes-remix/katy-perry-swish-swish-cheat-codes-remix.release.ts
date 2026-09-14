@@ -9,7 +9,7 @@ export const katyPerrySwishSwishCheatCodesRemix = {
   position: 0,
   ownLength: 3.018567,
   ownProgress: 3.018567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-06-23",
   externalIdentity: [

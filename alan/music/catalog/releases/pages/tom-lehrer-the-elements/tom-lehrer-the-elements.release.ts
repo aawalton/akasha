@@ -9,7 +9,7 @@ export const tomLehrerTheElements = {
   position: 0,
   ownLength: 1.49755,
   ownProgress: 1.49755,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-07-29",
   externalIdentity: [

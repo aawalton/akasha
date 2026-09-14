@@ -9,7 +9,7 @@ export const ellaHendersonHurricane = {
   position: 0,
   ownLength: 6.2962,
   ownProgress: 6.2962,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-17",
   externalIdentity: [

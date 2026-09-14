@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareTheEssentialMormonTabernacleChoir =
   position: 0,
   ownLength: 145.827067,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2006-05-23",
   externalIdentity: [

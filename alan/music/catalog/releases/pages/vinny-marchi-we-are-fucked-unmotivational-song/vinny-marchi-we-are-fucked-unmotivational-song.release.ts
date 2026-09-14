@@ -9,7 +9,7 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSong = {
   position: 0,
   ownLength: 2.8,
   ownProgress: 2.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-05-23",

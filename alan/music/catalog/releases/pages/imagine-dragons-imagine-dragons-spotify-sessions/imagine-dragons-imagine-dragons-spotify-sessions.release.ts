@@ -9,7 +9,7 @@ export const imagineDragonsImagineDragonsSpotifySessions = {
   position: 0,
   ownLength: 16.380367,
   ownProgress: 16.380367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-04-20",
   externalIdentity: [

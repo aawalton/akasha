@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareGladChristmasTidings = {
   position: 0,
   ownLength: 65.897033,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-09-06",
   externalIdentity: [

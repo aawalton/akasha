@@ -9,7 +9,7 @@ export const thePianoGuys3WaterfallFeatRichardElliott = {
   position: 0,
   ownLength: 3.1216,
   ownProgress: 3.1216,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-05-26",
   externalIdentity: [

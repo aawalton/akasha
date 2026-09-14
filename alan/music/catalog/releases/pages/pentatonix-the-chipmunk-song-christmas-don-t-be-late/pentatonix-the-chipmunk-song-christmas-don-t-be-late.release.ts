@@ -9,7 +9,7 @@ export const pentatonixTheChipmunkSongChristmasDonTBeLate = {
   position: 0,
   ownLength: 2.465417,
   ownProgress: 2.465417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-12-17",
   externalIdentity: [

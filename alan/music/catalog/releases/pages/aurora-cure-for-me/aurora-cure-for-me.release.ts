@@ -9,7 +9,7 @@ export const auroraCureForMe = {
   position: 0,
   ownLength: 15.900883,
   ownProgress: 15.900883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-31",
   externalIdentity: [

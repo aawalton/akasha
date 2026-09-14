@@ -9,7 +9,7 @@ export const siaLadyCroissantLive = {
   position: 0,
   ownLength: 40.326667,
   ownProgress: 40.326667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2007-01-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const pentatonixTheGreatestShowBonusTrack = {
   position: 0,
   ownLength: 3.41955,
   ownProgress: 3.41955,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-16",
   externalIdentity: [

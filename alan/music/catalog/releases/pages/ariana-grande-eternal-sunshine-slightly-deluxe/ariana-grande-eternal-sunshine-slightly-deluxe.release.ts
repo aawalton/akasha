@@ -9,7 +9,7 @@ export const arianaGrandeEternalSunshineSlightlyDeluxe = {
   position: 0,
   ownLength: 47.598733,
   ownProgress: 47.598733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-03-11",
   externalIdentity: [

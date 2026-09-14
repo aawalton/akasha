@@ -9,7 +9,7 @@ export const elvisPresley2TheEssentialElvisPresley = {
   position: 0,
   ownLength: 111.587317,
   ownProgress: 111.587317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2007-01-01",
   externalIdentity: [

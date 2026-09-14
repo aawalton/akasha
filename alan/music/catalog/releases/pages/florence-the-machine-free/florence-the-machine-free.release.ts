@@ -9,7 +9,7 @@ export const florenceTheMachineFree = {
   position: 0,
   ownLength: 3.914283,
   ownProgress: 3.914283,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-20",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const siaBeautifulPeopleJustusRemix = {
   position: 0,
   ownLength: 15.14145,
   ownProgress: 15.14145,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-03-28",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const linkinParkFromZeroACappellas = {
   position: 0,
   ownLength: 29.758217,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-11-14",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const byuVocalPointAngelsWeHaveHeardOnHigh = {
   position: 0,
   ownLength: 3.41,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-12-19",
   externalIdentity: [

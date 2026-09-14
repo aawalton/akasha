@@ -9,7 +9,7 @@ export const siaLiveFromSydney = {
   position: 0,
   ownLength: 29.907083,
   ownProgress: 29.907083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-01-01",
   externalIdentity: [

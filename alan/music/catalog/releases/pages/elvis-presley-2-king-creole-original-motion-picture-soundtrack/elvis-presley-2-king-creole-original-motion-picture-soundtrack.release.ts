@@ -9,7 +9,7 @@ export const elvisPresley2KingCreoleOriginalMotionPictureSoundtrack = {
   position: 0,
   ownLength: 21.883367,
   ownProgress: 21.883367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-06-20",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const celticWoman2NollaigNaMban = {
   position: 0,
   ownLength: 4.779383,
   ownProgress: 4.779383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-10-24",
   externalIdentity: [

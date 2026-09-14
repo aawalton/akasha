@@ -9,7 +9,7 @@ export const thePianoGuys3AvatarTheTheme = {
   position: 0,
   ownLength: 3.054167,
   ownProgress: 3.054167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-06-21",
   externalIdentity: [

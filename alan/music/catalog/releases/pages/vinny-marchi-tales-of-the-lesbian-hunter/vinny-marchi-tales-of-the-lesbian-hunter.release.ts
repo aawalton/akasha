@@ -9,7 +9,7 @@ export const vinnyMarchiTalesOfTheLesbianHunter = {
   position: 0,
   ownLength: 33.544567,
   ownProgress: 33.544567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-01-31",

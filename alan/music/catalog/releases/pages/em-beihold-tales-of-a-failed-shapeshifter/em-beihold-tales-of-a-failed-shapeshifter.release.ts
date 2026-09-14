@@ -9,7 +9,7 @@ export const emBeiholdTalesOfAFailedShapeshifter = {
   position: 0,
   ownLength: 29.040967,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2026-02-27",
   externalIdentity: [

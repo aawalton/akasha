@@ -9,7 +9,7 @@ export const jessicaBaioSacred = {
   position: 0,
   ownLength: 23.746033,
   ownProgress: 23.746033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2026-01-09",
   externalIdentity: [

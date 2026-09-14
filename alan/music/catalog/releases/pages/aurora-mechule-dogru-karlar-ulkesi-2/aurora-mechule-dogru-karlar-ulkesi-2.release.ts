@@ -9,7 +9,7 @@ export const auroraMechuleDogruKarlarUlkesi2 = {
   position: 0,
   ownLength: 3.247767,
   ownProgress: 3.247767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-02-21",
   externalIdentity: [

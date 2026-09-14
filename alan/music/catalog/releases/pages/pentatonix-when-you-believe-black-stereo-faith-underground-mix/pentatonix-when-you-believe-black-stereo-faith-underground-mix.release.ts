@@ -9,7 +9,7 @@ export const pentatonixWhenYouBelieveBlackStereoFaithUndergroundMix = {
   position: 0,
   ownLength: 5.238983,
   ownProgress: 5.238983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-12-21",
   externalIdentity: [

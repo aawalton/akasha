@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHomeForTheHolidays = {
   position: 0,
   ownLength: 56.36305,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2013-10-15",
   externalIdentity: [

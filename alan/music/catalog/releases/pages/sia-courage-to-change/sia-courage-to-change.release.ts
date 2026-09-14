@@ -9,7 +9,7 @@ export const siaCourageToChange = {
   position: 0,
   ownLength: 4.8776,
   ownProgress: 4.8776,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-09-24",
   externalIdentity: [

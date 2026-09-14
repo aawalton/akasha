@@ -9,7 +9,7 @@ export const enyaOnlyTime = {
   position: 0,
   ownLength: 3.628,
   ownProgress: 3.628,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2000-11-21",
   externalIdentity: [

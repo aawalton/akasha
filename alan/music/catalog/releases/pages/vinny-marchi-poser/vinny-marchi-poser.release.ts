@@ -9,7 +9,7 @@ export const vinnyMarchiPoser = {
   position: 0,
   ownLength: 2.730133,
   ownProgress: 2.730133,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-06-20",
   externalIdentity: [

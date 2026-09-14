@@ -9,7 +9,7 @@ export const justinTimberlakeIcuWithJustinTimberlakeRemix = {
   position: 0,
   ownLength: 3.642767,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-07-14",
   externalIdentity: [

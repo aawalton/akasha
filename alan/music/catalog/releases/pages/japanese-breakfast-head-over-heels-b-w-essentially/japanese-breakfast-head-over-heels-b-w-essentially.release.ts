@@ -9,7 +9,7 @@ export const japaneseBreakfastHeadOverHeelsBWEssentially = {
   position: 0,
   ownLength: 7.225783,
   ownProgress: 7.225783,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-06-05",
   externalIdentity: [

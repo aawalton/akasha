@@ -9,7 +9,7 @@ export const ledZeppelinAnIntroductionToLedZeppelin = {
   position: 0,
   ownLength: 49.042117,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-09-27",
   externalIdentity: [

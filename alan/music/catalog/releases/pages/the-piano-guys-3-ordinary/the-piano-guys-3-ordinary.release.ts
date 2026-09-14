@@ -9,7 +9,7 @@ export const thePianoGuys3Ordinary = {
   position: 0,
   ownLength: 14.317367,
   ownProgress: 14.317367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-07-18",
   externalIdentity: [

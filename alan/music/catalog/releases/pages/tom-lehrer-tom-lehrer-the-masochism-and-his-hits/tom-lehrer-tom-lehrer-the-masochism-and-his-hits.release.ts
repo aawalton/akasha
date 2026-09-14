@@ -9,7 +9,7 @@ export const tomLehrerTomLehrerTheMasochismAndHisHits = {
   position: 0,
   ownLength: 80.065733,
   ownProgress: 80.065733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-01-20",
   externalIdentity: [

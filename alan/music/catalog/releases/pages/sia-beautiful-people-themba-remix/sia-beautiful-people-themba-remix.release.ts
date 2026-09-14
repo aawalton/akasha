@@ -9,7 +9,7 @@ export const siaBeautifulPeopleThembaRemix = {
   position: 0,
   ownLength: 9.290983,
   ownProgress: 9.290983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-05-16",
   externalIdentity: [

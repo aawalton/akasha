@@ -9,7 +9,7 @@ export const thePianoGuys3Uncharted = {
   position: 0,
   ownLength: 45.456383,
   ownProgress: 45.456383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-10-28",
   externalIdentity: [

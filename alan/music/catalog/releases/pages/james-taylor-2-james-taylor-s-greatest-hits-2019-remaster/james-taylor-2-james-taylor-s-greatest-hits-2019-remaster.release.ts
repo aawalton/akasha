@@ -9,7 +9,7 @@ export const jamesTaylor2JamesTaylorSGreatestHits2019Remaster = {
   position: 0,
   ownLength: 43.695067,
   ownProgress: 43.695067,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1976-11-01",
   externalIdentity: [

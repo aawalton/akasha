@@ -9,7 +9,7 @@ export const linkinParkEvolutionOfMikeShinoda = {
   position: 0,
   ownLength: 18.486633,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-10-02",
   externalIdentity: [

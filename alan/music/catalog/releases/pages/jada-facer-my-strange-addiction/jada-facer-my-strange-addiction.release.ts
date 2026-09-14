@@ -9,7 +9,7 @@ export const jadaFacerMyStrangeAddiction = {
   position: 0,
   ownLength: 2.464183,
   ownProgress: 2.464183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-04-19",
   externalIdentity: [

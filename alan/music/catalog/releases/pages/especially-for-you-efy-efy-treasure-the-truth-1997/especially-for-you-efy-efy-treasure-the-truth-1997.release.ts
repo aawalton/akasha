@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfyTreasureTheTruth1997 = {
   position: 1997,
   ownLength: 47.885933,
   ownProgress: 47.885933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1997-01-01",
   externalIdentity: [

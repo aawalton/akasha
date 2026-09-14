@@ -9,7 +9,7 @@ export const theBeatles2LiveAtTheBbcRemastered = {
   position: 0,
   ownLength: 136.214217,
   ownProgress: 136.214217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1994-11-30",
   externalIdentity: [

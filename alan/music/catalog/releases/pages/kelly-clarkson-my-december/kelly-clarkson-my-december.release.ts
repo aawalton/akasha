@@ -9,7 +9,7 @@ export const kellyClarksonMyDecember = {
   position: 0,
   ownLength: 70.583017,
   ownProgress: 70.583017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2007-01-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const billyJoelBillyJoelRebels = {
   position: 0,
   ownLength: 21.015767,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-08-21",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const sabrinaCarpenterAlmostLove = {
   position: 0,
   ownLength: 10.278833,
   ownProgress: 10.278833,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-08-24",
   externalIdentity: [

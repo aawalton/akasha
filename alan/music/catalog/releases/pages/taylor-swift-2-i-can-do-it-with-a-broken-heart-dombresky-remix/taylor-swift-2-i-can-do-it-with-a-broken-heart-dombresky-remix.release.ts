@@ -9,7 +9,7 @@ export const taylorSwift2ICanDoItWithABrokenHeartDombreskyRemix = {
   position: 0,
   ownLength: 10.423317,
   ownProgress: 10.423317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-09-13",
   externalIdentity: [

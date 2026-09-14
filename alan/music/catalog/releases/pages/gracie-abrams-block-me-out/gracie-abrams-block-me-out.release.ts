@@ -9,7 +9,7 @@ export const gracieAbramsBlockMeOut = {
   position: 0,
   ownLength: 4.158233,
   ownProgress: 4.158233,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-08",
   externalIdentity: [

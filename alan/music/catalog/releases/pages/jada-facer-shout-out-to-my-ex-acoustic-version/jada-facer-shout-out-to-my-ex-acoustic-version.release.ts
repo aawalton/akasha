@@ -9,7 +9,7 @@ export const jadaFacerShoutOutToMyExAcousticVersion = {
   position: 0,
   ownLength: 2.76955,
   ownProgress: 2.76955,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-12-05",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const elvisPresley2GirlsGirlsGirlsOriginalSoundtrack = {
   position: 0,
   ownLength: 26.29525,
   ownProgress: 26.29525,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-06-13",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const sylviaDaleyRubikSCube = {
   position: 0,
   ownLength: 5.491683,
   ownProgress: 5.491683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-06-13",

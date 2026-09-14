@@ -9,7 +9,7 @@ export const jadaFacerLittleBitMore = {
   position: 0,
   ownLength: 3.034467,
   ownProgress: 3.034467,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-12-09",
   externalIdentity: [

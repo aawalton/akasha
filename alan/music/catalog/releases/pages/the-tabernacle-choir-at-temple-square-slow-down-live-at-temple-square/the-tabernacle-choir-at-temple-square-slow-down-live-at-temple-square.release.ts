@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSlowDownLiveAtTempleSquare = {
   position: 0,
   ownLength: 5.280783,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-08-23",
   externalIdentity: [

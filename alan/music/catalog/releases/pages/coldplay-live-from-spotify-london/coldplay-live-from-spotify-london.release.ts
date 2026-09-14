@@ -9,7 +9,7 @@ export const coldplayLiveFromSpotifyLondon = {
   position: 0,
   ownLength: 21.157983,
   ownProgress: 21.157983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-12-16",
   externalIdentity: [

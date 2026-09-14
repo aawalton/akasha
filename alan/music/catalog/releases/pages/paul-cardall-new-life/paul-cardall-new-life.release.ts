@@ -9,7 +9,7 @@ export const paulCardallNewLife = {
   position: 0,
   ownLength: 52.614367,
   ownProgress: 52.614367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-02-11",
   externalIdentity: [

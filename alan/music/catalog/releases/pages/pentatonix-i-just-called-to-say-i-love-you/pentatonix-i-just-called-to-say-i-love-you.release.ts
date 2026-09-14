@@ -9,7 +9,7 @@ export const pentatonixIJustCalledToSayILoveYou = {
   position: 0,
   ownLength: 3.448,
   ownProgress: 3.448,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-01",
   externalIdentity: [

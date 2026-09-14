@@ -9,7 +9,7 @@ export const ellaHendersonRestOfOurDaysLiveFromLondon = {
   position: 0,
   ownLength: 3.809467,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-12-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const coldplaySpotifySingles = {
   position: 0,
   ownLength: 8.366933,
   ownProgress: 8.366933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-02-23",
   externalIdentity: [

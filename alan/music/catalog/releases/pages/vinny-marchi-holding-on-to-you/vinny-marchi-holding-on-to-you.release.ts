@@ -9,7 +9,7 @@ export const vinnyMarchiHoldingOnToYou = {
   position: 0,
   ownLength: 2.881233,
   ownProgress: 2.881233,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-01-12",
   externalIdentity: [

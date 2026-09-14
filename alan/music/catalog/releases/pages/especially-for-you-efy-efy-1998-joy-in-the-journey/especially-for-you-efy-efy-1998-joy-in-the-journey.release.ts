@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy1998JoyInTheJourney = {
   position: 1998,
   ownLength: 47.253933,
   ownProgress: 47.253933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1998-08-01",
   externalIdentity: [

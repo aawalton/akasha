@@ -9,7 +9,7 @@ export const jadaFacerAllINeedIsYou = {
   position: 0,
   ownLength: 3.0176,
   ownProgress: 3.0176,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-10",
   externalIdentity: [

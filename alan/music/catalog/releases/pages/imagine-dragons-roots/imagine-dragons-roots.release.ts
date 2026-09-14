@@ -9,7 +9,7 @@ export const imagineDragonsRoots = {
   position: 0,
   ownLength: 2.908433,
   ownProgress: 2.908433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-08-27",
   externalIdentity: [

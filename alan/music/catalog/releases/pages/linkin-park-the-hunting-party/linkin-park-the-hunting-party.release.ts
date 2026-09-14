@@ -9,7 +9,7 @@ export const linkinParkTheHuntingParty = {
   position: 0,
   ownLength: 45.280617,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-06-09",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const harryStyles2SpotifySingles = {
   position: 0,
   ownLength: 7.800983,
   ownProgress: 7.800983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-27",
   externalIdentity: [

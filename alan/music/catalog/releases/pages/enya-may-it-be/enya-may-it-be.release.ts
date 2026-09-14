@@ -9,7 +9,7 @@ export const enyaMayItBe = {
   position: 0,
   ownLength: 11.123317,
   ownProgress: 11.123317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2002-01-01",
   externalIdentity: [

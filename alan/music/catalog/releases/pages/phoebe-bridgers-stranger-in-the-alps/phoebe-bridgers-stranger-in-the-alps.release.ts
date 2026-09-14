@@ -9,7 +9,7 @@ export const phoebeBridgersStrangerInTheAlps = {
   position: 0,
   ownLength: 44.322383,
   ownProgress: 44.322383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-22",
   externalIdentity: [

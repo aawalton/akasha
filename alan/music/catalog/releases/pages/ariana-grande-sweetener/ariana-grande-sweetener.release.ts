@@ -9,7 +9,7 @@ export const arianaGrandeSweetener = {
   position: 0,
   ownLength: 47.531017,
   ownProgress: 47.531017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-08-17",
   externalIdentity: [

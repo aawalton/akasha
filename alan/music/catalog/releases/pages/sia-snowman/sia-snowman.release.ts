@@ -9,7 +9,7 @@ export const siaSnowman = {
   position: 0,
   ownLength: 5.762,
   ownProgress: 5.762,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-11-14",
   externalIdentity: [

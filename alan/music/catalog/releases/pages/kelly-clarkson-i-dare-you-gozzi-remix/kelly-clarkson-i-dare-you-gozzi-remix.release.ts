@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouGozziRemix = {
   position: 0,
   ownLength: 6.785633,
   ownProgress: 6.785633,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-07-03",
   externalIdentity: [

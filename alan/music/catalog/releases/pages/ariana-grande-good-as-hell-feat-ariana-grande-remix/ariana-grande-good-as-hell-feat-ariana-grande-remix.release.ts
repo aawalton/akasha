@@ -9,7 +9,7 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemix = {
   position: 0,
   ownLength: 5.312433,
   ownProgress: 5.312433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-01-01",
   externalIdentity: [

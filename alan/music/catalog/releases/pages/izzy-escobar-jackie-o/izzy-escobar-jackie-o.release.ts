@@ -9,7 +9,7 @@ export const izzyEscobarJackieO = {
   position: 0,
   ownLength: 7.738033,
   ownProgress: 7.738033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-12-12",
   externalIdentity: [

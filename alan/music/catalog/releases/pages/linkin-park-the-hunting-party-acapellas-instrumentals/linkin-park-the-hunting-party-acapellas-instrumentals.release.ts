@@ -9,7 +9,7 @@ export const linkinParkTheHuntingPartyAcapellasInstrumentals = {
   position: 0,
   ownLength: 86.47025,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-06-09",
   externalIdentity: [

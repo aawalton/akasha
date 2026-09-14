@@ -9,7 +9,7 @@ export const elvisPresley2GirlHappy = {
   position: 0,
   ownLength: 23.790617,
   ownProgress: 23.790617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1965-03-01",
   externalIdentity: [

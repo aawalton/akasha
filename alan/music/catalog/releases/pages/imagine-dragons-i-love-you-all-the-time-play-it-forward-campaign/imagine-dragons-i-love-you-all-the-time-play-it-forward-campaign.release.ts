@@ -9,7 +9,7 @@ export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaign = {
   position: 0,
   ownLength: 3.120717,
   ownProgress: 3.120717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-12-18",
   externalIdentity: [

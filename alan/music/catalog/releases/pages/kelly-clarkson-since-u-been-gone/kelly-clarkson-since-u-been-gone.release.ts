@@ -9,7 +9,7 @@ export const kellyClarksonSinceUBeenGone = {
   position: 0,
   ownLength: 7.109767,
   ownProgress: 7.109767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2004-11-16",
   externalIdentity: [

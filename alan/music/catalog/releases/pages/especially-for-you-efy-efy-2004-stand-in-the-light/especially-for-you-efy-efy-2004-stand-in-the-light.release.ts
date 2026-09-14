@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy2004StandInTheLight = {
   position: 2004,
   ownLength: 53.27725,
   ownProgress: 53.27725,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2004-01-01",
   externalIdentity: [

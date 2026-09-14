@@ -9,7 +9,7 @@ export const billyJoelFantasiesDelusionsOpus110MusicForSoloPiano = {
   position: 0,
   ownLength: 76.294817,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2001-10-02",
   externalIdentity: [

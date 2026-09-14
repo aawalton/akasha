@@ -9,7 +9,7 @@ export const jamesTaylor2OverTheRainbowTheAmericanStandardEp = {
   position: 0,
   ownLength: 8.765967,
   ownProgress: 8.765967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-20",
   externalIdentity: [

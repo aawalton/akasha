@@ -9,7 +9,7 @@ export const michaelJacksonScream = {
   position: 0,
   ownLength: 69.417033,
   ownProgress: 69.417033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2017-09-27",

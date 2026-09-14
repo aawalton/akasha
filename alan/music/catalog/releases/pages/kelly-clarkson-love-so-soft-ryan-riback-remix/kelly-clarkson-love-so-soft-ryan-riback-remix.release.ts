@@ -9,7 +9,7 @@ export const kellyClarksonLoveSoSoftRyanRibackRemix = {
   position: 0,
   ownLength: 3.1328,
   ownProgress: 3.1328,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-10-06",
   externalIdentity: [

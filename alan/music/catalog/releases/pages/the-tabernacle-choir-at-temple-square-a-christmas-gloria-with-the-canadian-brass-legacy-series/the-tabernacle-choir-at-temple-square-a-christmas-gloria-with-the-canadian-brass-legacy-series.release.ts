@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareAChristmasGloriaWithTheCanadianBras
   position: 0,
   ownLength: 51.923717,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1998-01-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const tomLehrerTheConductedTomLehrer = {
   position: 0,
   ownLength: 33.097683,
   ownProgress: 33.097683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-04-20",
   externalIdentity: [

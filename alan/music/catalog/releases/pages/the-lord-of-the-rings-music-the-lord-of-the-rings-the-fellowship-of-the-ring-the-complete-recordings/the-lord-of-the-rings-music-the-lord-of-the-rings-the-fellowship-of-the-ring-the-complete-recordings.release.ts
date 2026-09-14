@@ -9,7 +9,7 @@ export const theLordOfTheRingsMusicTheLordOfTheRingsTheFellowshipOfTheRingTheCom
   position: 1,
   ownLength: 180.944017,
   ownProgress: 180.944017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2001-01-01",
   externalIdentity: [

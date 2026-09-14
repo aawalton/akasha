@@ -9,7 +9,7 @@ export const adeleRollingInTheDeep = {
   position: 0,
   ownLength: 3.80155,
   ownProgress: 3.80155,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-01-17",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const arianaGrande7RingsRemix = {
   position: 0,
   ownLength: 2.977333,
   ownProgress: 2.977333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-02-01",
   externalIdentity: [

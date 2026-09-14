@@ -9,7 +9,7 @@ export const kellyClarksonWrappedInRedRuffLoaderzRemix = {
   position: 0,
   ownLength: 10.1875,
   ownProgress: 10.1875,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-12-08",
   externalIdentity: [

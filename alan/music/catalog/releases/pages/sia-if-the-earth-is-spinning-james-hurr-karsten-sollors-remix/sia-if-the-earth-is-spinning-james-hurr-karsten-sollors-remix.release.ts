@@ -9,7 +9,7 @@ export const siaIfTheEarthIsSpinningJamesHurrKarstenSollorsRemix = {
   position: 0,
   ownLength: 3.168,
   ownProgress: 3.168,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-04-25",
   externalIdentity: [

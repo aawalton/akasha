@@ -9,7 +9,7 @@ export const arianaGrandeStuckWithU = {
   position: 0,
   ownLength: 3.808033,
   ownProgress: 3.808033,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-08",
   externalIdentity: [

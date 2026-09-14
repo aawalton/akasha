@@ -9,7 +9,7 @@ export const alexWarrenGiveYouLove = {
   position: 0,
   ownLength: 5.790433,
   ownProgress: 5.790433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-06-08",
   externalIdentity: [

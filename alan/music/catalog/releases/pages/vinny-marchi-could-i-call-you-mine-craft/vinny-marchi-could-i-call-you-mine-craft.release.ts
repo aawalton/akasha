@@ -9,7 +9,7 @@ export const vinnyMarchiCouldICallYouMineCraft = {
   position: 0,
   ownLength: 3.152967,
   ownProgress: 3.152967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-12-10",
   externalIdentity: [

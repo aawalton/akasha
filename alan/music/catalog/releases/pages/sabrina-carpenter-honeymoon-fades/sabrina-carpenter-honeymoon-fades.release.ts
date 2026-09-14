@@ -9,7 +9,7 @@ export const sabrinaCarpenterHoneymoonFades = {
   position: 0,
   ownLength: 3.252683,
   ownProgress: 3.252683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-02-14",
   externalIdentity: [

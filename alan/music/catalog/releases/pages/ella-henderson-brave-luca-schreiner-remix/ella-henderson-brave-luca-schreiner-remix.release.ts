@@ -9,7 +9,7 @@ export const ellaHendersonBraveLucaSchreinerRemix = {
   position: 0,
   ownLength: 10.054317,
   ownProgress: 10.054317,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-02-11",
   externalIdentity: [

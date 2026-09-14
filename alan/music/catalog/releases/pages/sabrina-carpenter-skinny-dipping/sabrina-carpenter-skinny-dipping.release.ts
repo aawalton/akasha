@@ -9,7 +9,7 @@ export const sabrinaCarpenterSkinnyDipping = {
   position: 0,
   ownLength: 2.9625,
   ownProgress: 2.9625,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-09",
   externalIdentity: [

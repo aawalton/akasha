@@ -9,7 +9,7 @@ export const coldplayOvertura = {
   position: 0,
   ownLength: 1.8802,
   ownProgress: 1.8802,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-07-20",
   externalIdentity: [

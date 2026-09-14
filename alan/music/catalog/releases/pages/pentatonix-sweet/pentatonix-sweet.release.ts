@@ -9,7 +9,7 @@ export const pentatonixSweet = {
   position: 0,
   ownLength: 2.6373,
   ownProgress: 2.6373,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-07-22",
   externalIdentity: [

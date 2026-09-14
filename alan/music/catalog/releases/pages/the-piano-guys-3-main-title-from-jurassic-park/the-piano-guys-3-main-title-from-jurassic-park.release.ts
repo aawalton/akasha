@@ -9,7 +9,7 @@ export const thePianoGuys3MainTitleFromJurassicPark = {
   position: 0,
   ownLength: 3.931133,
   ownProgress: 3.931133,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-06-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const snailMailValentine = {
   position: 0,
   ownLength: 31.608817,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-11-05",
   externalIdentity: [

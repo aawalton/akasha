@@ -9,7 +9,7 @@ export const greenDayAmico = {
   position: 0,
   ownLength: 2.4665,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-10-16",

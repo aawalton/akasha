@@ -9,7 +9,7 @@ export const clairoNomad = {
   position: 0,
   ownLength: 7.222783,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-06-28",
   externalIdentity: [

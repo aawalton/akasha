@@ -9,7 +9,7 @@ export const leonardCohenYouWantItDarkerPaulKalkbrennerRemix = {
   position: 0,
   ownLength: 7.201417,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-10-07",
   externalIdentity: [

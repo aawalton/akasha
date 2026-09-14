@@ -9,7 +9,7 @@ export const thePianoGuys3Lullaby = {
   position: 0,
   ownLength: 40.18955,
   ownProgress: 40.18955,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-29",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const siaClapYourHands = {
   position: 0,
   ownLength: 14.780867,
   ownProgress: 14.780867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2010-05-25",
   externalIdentity: [

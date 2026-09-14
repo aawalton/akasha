@@ -9,7 +9,7 @@ export const phoebeBridgersPunisher = {
   position: 0,
   ownLength: 40.709083,
   ownProgress: 40.709083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-06-18",
   externalIdentity: [

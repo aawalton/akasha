@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareCalledToServe = {
   position: 0,
   ownLength: 66.6268,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2008-01-01",
   externalIdentity: [

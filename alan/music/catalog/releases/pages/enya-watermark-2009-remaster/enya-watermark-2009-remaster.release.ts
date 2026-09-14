@@ -9,7 +9,7 @@ export const enyaWatermark2009Remaster = {
   position: 0,
   ownLength: 45.692367,
   ownProgress: 45.692367,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1988-09-05",
   externalIdentity: [

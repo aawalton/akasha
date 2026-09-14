@@ -9,7 +9,7 @@ export const musicalTheaterHamiltonOriginalBroadwayCastRecording = {
   position: 0,
   ownLength: 142.595117,
   ownProgress: 142.595117,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2015-09-25",

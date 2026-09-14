@@ -9,7 +9,7 @@ export const kellyClarksonHeatEasyStarAllStarsMichaelGoldwasserReggaeRemix = {
   position: 0,
   ownLength: 2.9451,
   ownProgress: 2.9451,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-01-04",
   externalIdentity: [

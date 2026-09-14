@@ -9,7 +9,7 @@ export const thePianoGuys3TheFirstNoel = {
   position: 0,
   ownLength: 2.816667,
   ownProgress: 2.816667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-12-13",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const coldplayTheBlueRoom = {
   position: 0,
   ownLength: 19.552183,
   ownProgress: 19.552183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1999-10-11",
   externalIdentity: [

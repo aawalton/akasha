@@ -9,7 +9,7 @@ export const byuVocalPointLoveWins = {
   position: 0,
   ownLength: 3.658217,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-08-23",
   externalIdentity: [

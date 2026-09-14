@@ -9,7 +9,7 @@ export const clairoLiveAtElectricLady = {
   position: 0,
   ownLength: 19.649967,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-05-12",
   externalIdentity: [

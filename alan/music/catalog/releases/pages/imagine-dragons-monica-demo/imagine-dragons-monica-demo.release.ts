@@ -9,7 +9,7 @@ export const imagineDragonsMonicaDemo = {
   position: 0,
   ownLength: 3.304867,
   ownProgress: 3.304867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-01-27",

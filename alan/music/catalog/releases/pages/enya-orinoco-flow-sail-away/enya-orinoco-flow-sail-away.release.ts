@@ -9,7 +9,7 @@ export const enyaOrinocoFlowSailAway = {
   position: 0,
   ownLength: 3.764,
   ownProgress: 3.764,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1988-10-15",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const jadaFacerComeAsYouAreAcoustic = {
   position: 0,
   ownLength: 2.542567,
   ownProgress: 2.542567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-08-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const ellaHendersonDreamOnMe = {
   position: 0,
   ownLength: 3.037933,
   ownProgress: 3.037933,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-10-02",
   externalIdentity: [

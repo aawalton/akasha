@@ -9,7 +9,7 @@ export const emBeiholdNobodyElse = {
   position: 0,
   ownLength: 3.22885,
   ownProgress: 3.22885,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2021-04-23",

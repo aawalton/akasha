@@ -9,7 +9,7 @@ export const weirdAlYankovic2Alpocalypse = {
   position: 0,
   ownLength: 46.0162,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-06-17",
   externalIdentity: [

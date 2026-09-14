@@ -9,7 +9,7 @@ export const imagineDragonsGoldJorgenOdegardRemix = {
   position: 0,
   ownLength: 4.114667,
   ownProgress: 4.114667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-09-16",
   externalIdentity: [

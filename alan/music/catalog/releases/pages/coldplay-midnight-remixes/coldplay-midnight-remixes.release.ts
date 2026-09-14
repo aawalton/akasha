@@ -9,7 +9,7 @@ export const coldplayMidnightRemixes = {
   position: 0,
   ownLength: 38.3547,
   ownProgress: 38.3547,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-05-12",
   externalIdentity: [

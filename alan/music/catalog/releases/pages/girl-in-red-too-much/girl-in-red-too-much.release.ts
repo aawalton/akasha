@@ -9,7 +9,7 @@ export const girlInRedTooMuch = {
   position: 0,
   ownLength: 3.057883,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-02-09",
   externalIdentity: [

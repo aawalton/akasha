@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareChristmasWithMarilynHorne = {
   position: 0,
   ownLength: 45.971467,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1983-01-01",
   externalIdentity: [

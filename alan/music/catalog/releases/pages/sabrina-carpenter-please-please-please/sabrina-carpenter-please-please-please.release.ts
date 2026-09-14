@@ -9,7 +9,7 @@ export const sabrinaCarpenterPleasePleasePlease = {
   position: 0,
   ownLength: 6.0304,
   ownProgress: 6.0304,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-06-06",
   externalIdentity: [

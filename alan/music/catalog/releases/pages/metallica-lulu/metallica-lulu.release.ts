@@ -9,7 +9,7 @@ export const metallicaLulu = {
   position: 0,
   ownLength: 87.129267,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-11-01",
   externalIdentity: [

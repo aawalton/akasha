@@ -9,7 +9,7 @@ export const kellyClarksonPieceByPieceIdolVersion = {
   position: 0,
   ownLength: 3.5279,
   ownProgress: 3.5279,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-02-29",
   externalIdentity: [

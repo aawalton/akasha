@@ -9,7 +9,7 @@ export const siaBigGirlsCryRemixes = {
   position: 0,
   ownLength: 27.960633,
   ownProgress: 27.960633,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-04-24",
   externalIdentity: [

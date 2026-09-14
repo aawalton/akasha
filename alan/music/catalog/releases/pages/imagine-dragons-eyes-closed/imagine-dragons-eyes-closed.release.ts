@@ -9,7 +9,7 @@ export const imagineDragonsEyesClosed = {
   position: 0,
   ownLength: 3.3335,
   ownProgress: 3.3335,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-04-03",
   externalIdentity: [

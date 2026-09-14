@@ -9,7 +9,7 @@ export const katyPerryDaisiesMkRemix = {
   position: 0,
   ownLength: 3.573667,
   ownProgress: 3.573667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-29",
   externalIdentity: [

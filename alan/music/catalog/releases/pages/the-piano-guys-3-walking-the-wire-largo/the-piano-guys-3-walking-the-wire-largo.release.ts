@@ -9,7 +9,7 @@ export const thePianoGuys3WalkingTheWireLargo = {
   position: 0,
   ownLength: 4.3011,
   ownProgress: 4.3011,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-10-24",
   externalIdentity: [

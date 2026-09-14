@@ -9,7 +9,7 @@ export const billyJoelBillyJoelMemories = {
   position: 0,
   ownLength: 22.6455,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-06-24",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const byuVocalPointOComeOComeEmmanuelSingle = {
   position: 0,
   ownLength: 3.096383,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2013-10-24",
   externalIdentity: [

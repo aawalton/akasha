@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy2017TheWayToBecomeEspeciallyForYouth = {
   position: 2017,
   ownLength: 43.8286,
   ownProgress: 43.8286,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-06-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const linkinParkOneStepCloser100GecsReanimation = {
   position: 0,
   ownLength: 2.351183,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-01-08",
   externalIdentity: [

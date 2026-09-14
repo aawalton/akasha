@@ -9,7 +9,7 @@ export const chaislynHim = {
   position: 0,
   ownLength: 3.33515,
   ownProgress: 3.33515,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-05-04",
   externalIdentity: [

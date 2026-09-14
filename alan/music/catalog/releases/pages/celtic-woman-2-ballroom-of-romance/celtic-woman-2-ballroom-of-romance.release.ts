@@ -9,7 +9,7 @@ export const celticWoman2BallroomOfRomance = {
   position: 0,
   ownLength: 3.268217,
   ownProgress: 3.268217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-08-27",
   externalIdentity: [

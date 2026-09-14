@@ -9,7 +9,7 @@ export const paulCardallLivingForEden = {
   position: 0,
   ownLength: 88.707,
   ownProgress: 88.707,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-08-07",
   externalIdentity: [

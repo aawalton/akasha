@@ -9,7 +9,7 @@ export const ellaHendersonRiskItAllJustKiddinVipMix = {
   position: 0,
   ownLength: 10.830617,
   ownProgress: 10.830617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-24",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const thePianoGuys3Flicker = {
   position: 0,
   ownLength: 3.27555,
   ownProgress: 3.27555,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-11-09",
   externalIdentity: [

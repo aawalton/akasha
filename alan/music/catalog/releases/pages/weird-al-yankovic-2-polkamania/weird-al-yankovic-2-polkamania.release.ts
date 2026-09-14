@@ -9,7 +9,7 @@ export const weirdAlYankovic2Polkamania = {
   position: 0,
   ownLength: 4.1008,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-07-19",
   externalIdentity: [

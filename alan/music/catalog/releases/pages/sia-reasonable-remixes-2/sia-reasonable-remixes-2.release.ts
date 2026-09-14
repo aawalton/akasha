@@ -9,7 +9,7 @@ export const siaReasonableRemixes2 = {
   position: 0,
   ownLength: 17.647767,
   ownProgress: 17.647767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-11-15",
   externalIdentity: [

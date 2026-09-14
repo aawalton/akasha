@@ -9,7 +9,7 @@ export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHall = {
   position: 0,
   ownLength: 5.249333,
   ownProgress: 5.249333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-10-31",
   externalIdentity: [

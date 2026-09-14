@@ -9,7 +9,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassics = {
   position: 0,
   ownLength: 230.894967,
   ownProgress: 230.894967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-01-29",
   externalIdentity: [

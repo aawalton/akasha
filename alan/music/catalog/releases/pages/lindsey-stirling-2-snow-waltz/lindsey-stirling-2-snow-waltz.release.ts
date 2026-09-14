@@ -9,7 +9,7 @@ export const lindseyStirling2SnowWaltz = {
   position: 0,
   ownLength: 45.095717,
   ownProgress: 45.095717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-07",
   externalIdentity: [

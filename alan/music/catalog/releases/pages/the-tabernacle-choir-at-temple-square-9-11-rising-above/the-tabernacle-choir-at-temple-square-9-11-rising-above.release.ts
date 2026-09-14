@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquare911RisingAbove = {
   position: 0,
   ownLength: 28.433967,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-09-13",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const kellyClarksonMineTySunderlandRemix = {
   position: 0,
   ownLength: 7.205883,
   ownProgress: 7.205883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-05-05",
   externalIdentity: [

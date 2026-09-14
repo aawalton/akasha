@@ -9,7 +9,7 @@ export const kellyClarksonLoveSoSoftCashCashRemix = {
   position: 0,
   ownLength: 4.279283,
   ownProgress: 4.279283,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-10-06",
   externalIdentity: [

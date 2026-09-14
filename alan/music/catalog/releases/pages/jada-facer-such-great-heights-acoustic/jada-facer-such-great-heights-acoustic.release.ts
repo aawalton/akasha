@@ -9,7 +9,7 @@ export const jadaFacerSuchGreatHeightsAcoustic = {
   position: 0,
   ownLength: 3.115383,
   ownProgress: 3.115383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-12-04",
   externalIdentity: [

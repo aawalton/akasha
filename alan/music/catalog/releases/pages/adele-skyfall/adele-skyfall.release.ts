@@ -9,7 +9,7 @@ export const adeleSkyfall = {
   position: 0,
   ownLength: 4.768017,
   ownProgress: 4.768017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-10-04",
   externalIdentity: [

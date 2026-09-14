@@ -9,7 +9,7 @@ export const celticWoman2AChristmasCelebration = {
   position: 0,
   ownLength: 48.61815,
   ownProgress: 48.61815,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2006-01-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareTheGreatThanksgiving = {
   position: 0,
   ownLength: 72.069867,
   ownProgress: 72.069867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1962-01-01",
   externalIdentity: [

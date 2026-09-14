@@ -9,7 +9,7 @@ export const celticWoman2Lullaby = {
   position: 0,
   ownLength: 29.583717,
   ownProgress: 29.583717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-01-01",
   externalIdentity: [

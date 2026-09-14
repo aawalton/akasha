@@ -9,7 +9,7 @@ export const elvisPresley2IGotLucky = {
   position: 0,
   ownLength: 27.134833,
   ownProgress: 27.134833,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1971-10-01",
   externalIdentity: [

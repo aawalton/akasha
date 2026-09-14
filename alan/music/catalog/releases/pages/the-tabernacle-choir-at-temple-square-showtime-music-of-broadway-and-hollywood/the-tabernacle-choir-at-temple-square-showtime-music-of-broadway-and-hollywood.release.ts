@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareShowtimeMusicOfBroadwayAndHollywood
   position: 0,
   ownLength: 61.18525,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2007-05-20",
   externalIdentity: [

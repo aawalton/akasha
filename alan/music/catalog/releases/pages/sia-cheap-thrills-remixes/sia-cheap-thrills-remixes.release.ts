@@ -9,7 +9,7 @@ export const siaCheapThrillsRemixes = {
   position: 0,
   ownLength: 31.460633,
   ownProgress: 31.460633,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-04-08",
   externalIdentity: [

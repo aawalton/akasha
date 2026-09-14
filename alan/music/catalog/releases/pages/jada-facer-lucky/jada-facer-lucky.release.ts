@@ -9,7 +9,7 @@ export const jadaFacerLucky = {
   position: 0,
   ownLength: 3.2378,
   ownProgress: 3.2378,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-08-22",
   externalIdentity: [

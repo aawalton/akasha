@@ -9,7 +9,7 @@ export const auroraRunawayGuitarAcoustic = {
   position: 0,
   ownLength: 8.477083,
   ownProgress: 8.477083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-05",
   externalIdentity: [

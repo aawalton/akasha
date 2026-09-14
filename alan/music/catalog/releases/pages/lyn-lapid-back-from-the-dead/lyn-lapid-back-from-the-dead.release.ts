@@ -9,7 +9,7 @@ export const lynLapidBackFromTheDead = {
   position: 0,
   ownLength: 2.634333,
   ownProgress: 2.634333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-17",

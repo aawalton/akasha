@@ -9,7 +9,7 @@ export const thePianoGuys3ThankGodIDoBeStillMySoul = {
   position: 0,
   ownLength: 4.119667,
   ownProgress: 4.119667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-09-29",
   externalIdentity: [

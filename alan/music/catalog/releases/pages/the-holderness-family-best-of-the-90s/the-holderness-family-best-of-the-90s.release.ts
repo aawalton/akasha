@@ -9,7 +9,7 @@ export const theHoldernessFamilyBestOfThe90s = {
   position: 0,
   ownLength: 34.094483,
   ownProgress: 34.094483,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-03-26",
   externalIdentity: [

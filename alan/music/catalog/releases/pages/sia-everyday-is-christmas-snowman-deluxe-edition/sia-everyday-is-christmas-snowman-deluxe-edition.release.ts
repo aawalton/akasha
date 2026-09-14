@@ -9,7 +9,7 @@ export const siaEverydayIsChristmasSnowmanDeluxeEdition = {
   position: 0,
   ownLength: 69.9475,
   ownProgress: 69.9475,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-12-30",
   externalIdentity: [

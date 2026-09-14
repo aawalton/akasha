@@ -9,7 +9,7 @@ export const taylorSwift2WildestDreamsTaylorSVersion = {
   position: 0,
   ownLength: 3.673883,
   ownProgress: 3.673883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-17",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const florenceTheMachineHarderThanHell = {
   position: 0,
   ownLength: 40.6074,
   ownProgress: 40.6074,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-02-11",
   externalIdentity: [

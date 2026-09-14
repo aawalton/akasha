@@ -9,7 +9,7 @@ export const florenceTheMachineHowBigHowBlueHowBeautiful = {
   position: 0,
   ownLength: 48.828733,
   ownProgress: 48.828733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-06-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const clairoSling = {
   position: 0,
   ownLength: 44.5501,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-07-16",
   externalIdentity: [

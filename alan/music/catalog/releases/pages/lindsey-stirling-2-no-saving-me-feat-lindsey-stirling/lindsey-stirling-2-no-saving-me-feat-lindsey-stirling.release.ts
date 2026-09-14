@@ -9,7 +9,7 @@ export const lindseyStirling2NoSavingMeFeatLindseyStirling = {
   position: 0,
   ownLength: 3.710433,
   ownProgress: 3.710433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-09-18",
   externalIdentity: [

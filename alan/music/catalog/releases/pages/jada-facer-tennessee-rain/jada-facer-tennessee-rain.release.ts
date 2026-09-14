@@ -9,7 +9,7 @@ export const jadaFacerTennesseeRain = {
   position: 0,
   ownLength: 3.1,
   ownProgress: 3.1,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-08-04",
   externalIdentity: [

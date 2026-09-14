@@ -9,7 +9,7 @@ export const elvisPresley2DoubleTrouble = {
   position: 0,
   ownLength: 23.528167,
   ownProgress: 23.528167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1967-06-01",
   externalIdentity: [

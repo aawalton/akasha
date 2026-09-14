@@ -9,7 +9,7 @@ export const nickelCreek2Celebrants = {
   position: 0,
   ownLength: 59.86645,
   ownProgress: 59.86645,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-03-24",
   externalIdentity: [

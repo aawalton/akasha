@@ -9,7 +9,7 @@ export const katyPerryIKissedAGirl3Track = {
   position: 0,
   ownLength: 13.344433,
   ownProgress: 13.344433,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const jadaFacerHopeless = {
   position: 0,
   ownLength: 2.798183,
   ownProgress: 2.798183,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-11-15",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const jadaFacerFixYou = {
   position: 0,
   ownLength: 4.2549,
   ownProgress: 4.2549,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-04-06",
   externalIdentity: [

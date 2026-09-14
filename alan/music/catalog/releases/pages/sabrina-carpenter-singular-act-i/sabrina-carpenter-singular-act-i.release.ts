@@ -9,7 +9,7 @@ export const sabrinaCarpenterSingularActI = {
   position: 0,
   ownLength: 25.064633,
   ownProgress: 25.064633,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-09",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const greenDayOhLove = {
   position: 0,
   ownLength: 5.054883,
   ownProgress: 5.054883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2012-07-16",

@@ -9,7 +9,7 @@ export const florenceTheMachineLungsDeluxeEdition = {
   position: 0,
   ownLength: 83.573867,
   ownProgress: 83.573867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-01-01",
   externalIdentity: [

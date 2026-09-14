@@ -9,7 +9,7 @@ export const backstreetBoys2InAWorldLikeThisDeluxeWorldTourEdition = {
   position: 0,
   ownLength: 69.467567,
   ownProgress: 69.467567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-04-15",
   externalIdentity: [

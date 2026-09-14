@@ -9,7 +9,7 @@ export const kellyClarksonShakeItOutLive = {
   position: 0,
   ownLength: 4.481167,
   ownProgress: 4.481167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-03",
   externalIdentity: [

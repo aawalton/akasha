@@ -9,7 +9,7 @@ export const taylorSwift2OnlyTheYoungFeaturedInMissAmericana = {
   position: 0,
   ownLength: 2.625117,
   ownProgress: 2.625117,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-01-31",
   externalIdentity: [

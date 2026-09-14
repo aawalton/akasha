@@ -9,7 +9,7 @@ export const pentatonixAuldLangSyne = {
   position: 0,
   ownLength: 3.29325,
   ownProgress: 3.29325,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-12-18",
   externalIdentity: [

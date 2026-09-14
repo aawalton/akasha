@@ -9,7 +9,7 @@ export const ellaHendersonAlibiLiveAcousticVersion = {
   position: 0,
   ownLength: 3.506667,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-02-09",
   externalIdentity: [

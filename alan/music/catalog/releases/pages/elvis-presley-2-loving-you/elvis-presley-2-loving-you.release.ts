@@ -9,7 +9,7 @@ export const elvisPresley2LovingYou = {
   position: 0,
   ownLength: 28.613233,
   ownProgress: 28.613233,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1957-06-20",
   externalIdentity: [

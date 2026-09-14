@@ -9,7 +9,7 @@ export const paulCardallDailyDevotions = {
   position: 0,
   ownLength: 39.7548,
   ownProgress: 39.7548,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2002-10-08",
   externalIdentity: [

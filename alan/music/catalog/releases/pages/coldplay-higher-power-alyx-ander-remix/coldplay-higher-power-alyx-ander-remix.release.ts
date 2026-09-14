@@ -9,7 +9,7 @@ export const coldplayHigherPowerAlyxAnderRemix = {
   position: 0,
   ownLength: 6.005167,
   ownProgress: 6.005167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-07-05",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const siaSaltedWoundFromTheFiftyShadesOfGreySoundtrack = {
   position: 0,
   ownLength: 4.522217,
   ownProgress: 4.522217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-01-27",
   externalIdentity: [

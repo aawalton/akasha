@@ -9,7 +9,7 @@ export const yaelokreToDouseAScaldedTongue = {
   position: 0,
   ownLength: 2.725233,
   ownProgress: 2.725233,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-08-01",
   externalIdentity: [

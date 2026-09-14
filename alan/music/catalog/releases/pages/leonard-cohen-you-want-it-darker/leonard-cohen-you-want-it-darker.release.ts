@@ -9,7 +9,7 @@ export const leonardCohenYouWantItDarker = {
   position: 0,
   ownLength: 36.211967,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-10-21",
   externalIdentity: [

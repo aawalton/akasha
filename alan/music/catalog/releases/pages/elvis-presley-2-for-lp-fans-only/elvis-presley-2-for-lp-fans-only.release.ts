@@ -9,7 +9,7 @@ export const elvisPresley2ForLpFansOnly = {
   position: 0,
   ownLength: 28.080817,
   ownProgress: 28.080817,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "1959-01-23",
   externalIdentity: [

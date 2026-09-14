@@ -9,7 +9,7 @@ export const siaThisIsActing10thAnniversaryEdition = {
   position: 0,
   ownLength: 94.603733,
   ownProgress: 94.603733,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2026-01-29",
   externalIdentity: [

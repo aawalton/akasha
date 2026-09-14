@@ -9,7 +9,7 @@ export const siaYouReNeverFullyDressedWithoutASmile2014FilmVersion = {
   position: 0,
   ownLength: 3.172883,
   ownProgress: 3.172883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-10-22",
   externalIdentity: [

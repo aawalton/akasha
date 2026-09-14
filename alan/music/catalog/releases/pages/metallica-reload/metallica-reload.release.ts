@@ -9,7 +9,7 @@ export const metallicaReload = {
   position: 0,
   ownLength: 76.07995,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1997-11-18",
   externalIdentity: [

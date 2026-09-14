@@ -9,7 +9,7 @@ export const ellaHendersonCrazyWhatLoveCanDoWithBeckyHillGrafixRemix = {
   position: 0,
   ownLength: 9.197417,
   ownProgress: 9.197417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-06-16",
   externalIdentity: [

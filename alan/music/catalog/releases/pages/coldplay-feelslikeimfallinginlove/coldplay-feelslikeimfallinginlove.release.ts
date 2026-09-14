@@ -9,7 +9,7 @@ export const coldplayFeelslikeimfallinginlove = {
   position: 0,
   ownLength: 3.963383,
   ownProgress: 3.963383,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-06-21",
   externalIdentity: [

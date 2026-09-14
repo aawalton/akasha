@@ -9,7 +9,7 @@ export const jamesTaylor2TodayTodayToday = {
   position: 0,
   ownLength: 3.152883,
   ownProgress: 3.152883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-01-01",
   externalIdentity: [

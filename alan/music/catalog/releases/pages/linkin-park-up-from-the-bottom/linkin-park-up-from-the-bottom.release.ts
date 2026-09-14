@@ -9,7 +9,7 @@ export const linkinParkUpFromTheBottom = {
   position: 0,
   ownLength: 3.053717,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-03-27",
   externalIdentity: [

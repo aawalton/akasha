@@ -9,7 +9,7 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLove = {
   position: 0,
   ownLength: 2.49955,
   ownProgress: 2.49955,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-08-26",
   externalIdentity: [

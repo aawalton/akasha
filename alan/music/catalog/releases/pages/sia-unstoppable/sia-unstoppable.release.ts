@@ -9,7 +9,7 @@ export const siaUnstoppable = {
   position: 0,
   ownLength: 3.6291,
   ownProgress: 3.6291,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-01-21",
   externalIdentity: [

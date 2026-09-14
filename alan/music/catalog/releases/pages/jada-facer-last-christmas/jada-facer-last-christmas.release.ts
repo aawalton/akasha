@@ -9,7 +9,7 @@ export const jadaFacerLastChristmas = {
   position: 0,
   ownLength: 3.146883,
   ownProgress: 3.146883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-27",
   externalIdentity: [

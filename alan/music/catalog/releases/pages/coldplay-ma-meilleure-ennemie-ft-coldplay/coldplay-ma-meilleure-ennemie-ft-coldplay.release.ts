@@ -9,7 +9,7 @@ export const coldplayMaMeilleureEnnemieFtColdplay = {
   position: 0,
   ownLength: 5.831767,
   ownProgress: 5.831767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-04-04",
   externalIdentity: [

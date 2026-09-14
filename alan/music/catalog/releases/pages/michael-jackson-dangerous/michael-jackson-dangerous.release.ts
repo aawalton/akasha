@@ -9,7 +9,7 @@ export const michaelJacksonDangerous = {
   position: 0,
   ownLength: 76.781683,
   ownProgress: 76.781683,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1991-11-13",

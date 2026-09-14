@@ -9,7 +9,7 @@ export const celticWoman2TheMagicOfChristmas = {
   position: 0,
   ownLength: 54.023017,
   ownProgress: 54.023017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-10-25",
   externalIdentity: [

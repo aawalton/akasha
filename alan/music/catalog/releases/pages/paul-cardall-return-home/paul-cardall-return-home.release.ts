@@ -9,7 +9,7 @@ export const paulCardallReturnHome = {
   position: 0,
   ownLength: 50.622783,
   ownProgress: 50.622783,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-09-08",
   externalIdentity: [

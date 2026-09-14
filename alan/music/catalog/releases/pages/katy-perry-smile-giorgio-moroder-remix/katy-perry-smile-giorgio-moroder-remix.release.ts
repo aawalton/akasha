@@ -9,7 +9,7 @@ export const katyPerrySmileGiorgioMoroderRemix = {
   position: 0,
   ownLength: 3.120017,
   ownProgress: 3.120017,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-08-25",
   externalIdentity: [

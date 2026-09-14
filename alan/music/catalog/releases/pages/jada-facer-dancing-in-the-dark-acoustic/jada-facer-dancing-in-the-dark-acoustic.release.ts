@@ -9,7 +9,7 @@ export const jadaFacerDancingInTheDarkAcoustic = {
   position: 0,
   ownLength: 3.220817,
   ownProgress: 3.220817,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-02-17",
   externalIdentity: [

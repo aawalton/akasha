@@ -9,7 +9,7 @@ export const theHoldernessFamilyTheGreatestHitsVolOne = {
   position: 0,
   ownLength: 30.518767,
   ownProgress: 30.518767,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-10-21",
   externalIdentity: [

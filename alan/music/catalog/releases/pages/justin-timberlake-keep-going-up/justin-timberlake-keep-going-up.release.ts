@@ -9,7 +9,7 @@ export const justinTimberlakeKeepGoingUp = {
   position: 0,
   ownLength: 2.9037,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-09-01",
   externalIdentity: [

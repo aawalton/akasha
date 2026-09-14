@@ -9,7 +9,7 @@ export const coldplayLeftrightleftrightleftLive = {
   position: 0,
   ownLength: 39.9124,
   ownProgress: 39.9124,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2009-05-15",
   externalIdentity: [

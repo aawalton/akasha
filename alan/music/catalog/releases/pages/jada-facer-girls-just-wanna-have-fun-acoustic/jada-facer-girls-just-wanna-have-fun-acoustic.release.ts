@@ -9,7 +9,7 @@ export const jadaFacerGirlsJustWannaHaveFunAcoustic = {
   position: 0,
   ownLength: 2.41255,
   ownProgress: 2.41255,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-11-12",
   externalIdentity: [

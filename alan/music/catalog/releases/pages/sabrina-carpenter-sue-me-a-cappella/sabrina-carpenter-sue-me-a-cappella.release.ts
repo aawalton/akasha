@@ -9,7 +9,7 @@ export const sabrinaCarpenterSueMeACappella = {
   position: 0,
   ownLength: 3.375633,
   ownProgress: 3.375633,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-03-22",
   externalIdentity: [

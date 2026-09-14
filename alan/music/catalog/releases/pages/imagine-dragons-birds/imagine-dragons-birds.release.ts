@@ -9,7 +9,7 @@ export const imagineDragonsBirds = {
   position: 0,
   ownLength: 7.314567,
   ownProgress: 7.314567,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-06-20",
   externalIdentity: [

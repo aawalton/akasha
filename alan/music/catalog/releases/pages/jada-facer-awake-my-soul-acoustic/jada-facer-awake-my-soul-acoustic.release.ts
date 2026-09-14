@@ -9,7 +9,7 @@ export const jadaFacerAwakeMySoulAcoustic = {
   position: 0,
   ownLength: 3.069883,
   ownProgress: 3.069883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-07-09",
   externalIdentity: [

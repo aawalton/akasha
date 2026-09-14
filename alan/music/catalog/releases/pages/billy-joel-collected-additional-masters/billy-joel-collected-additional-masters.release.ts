@@ -9,7 +9,7 @@ export const billyJoelCollectedAdditionalMasters = {
   position: 0,
   ownLength: 66.2692,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-11-08",
   externalIdentity: [

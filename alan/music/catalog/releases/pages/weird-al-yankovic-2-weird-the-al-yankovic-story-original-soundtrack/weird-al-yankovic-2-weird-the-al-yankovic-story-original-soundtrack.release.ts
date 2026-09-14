@@ -9,7 +9,7 @@ export const weirdAlYankovic2WeirdTheAlYankovicStoryOriginalSoundtrack = {
   position: 0,
   ownLength: 78.1555,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-11-04",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const vinnyMarchiAllIGaveToYou = {
   position: 0,
   ownLength: 3.426867,
   ownProgress: 3.426867,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-12-28",
   externalIdentity: [

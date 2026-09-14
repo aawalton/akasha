@@ -9,7 +9,7 @@ export const epicTheMusicalEpicTheCyclopsSagaOfficialConceptAlbum = {
   position: 0,
   ownLength: 14.286717,
   ownProgress: 14.286717,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-07-04",
   externalIdentity: [

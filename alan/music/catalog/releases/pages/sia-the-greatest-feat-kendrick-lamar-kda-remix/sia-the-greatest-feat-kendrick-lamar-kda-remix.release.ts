@@ -9,7 +9,7 @@ export const siaTheGreatestFeatKendrickLamarKdaRemix = {
   position: 0,
   ownLength: 3.684883,
   ownProgress: 3.684883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-12-23",
   externalIdentity: [

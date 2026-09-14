@@ -9,7 +9,7 @@ export const jessicaBaioBadTattoo = {
   position: 0,
   ownLength: 12.973583,
   ownProgress: 12.973583,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-12-08",

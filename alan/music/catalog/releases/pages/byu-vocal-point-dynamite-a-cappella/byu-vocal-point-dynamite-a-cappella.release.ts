@@ -9,7 +9,7 @@ export const byuVocalPointDynamiteACappella = {
   position: 0,
   ownLength: 3.36485,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-01-15",
   externalIdentity: [

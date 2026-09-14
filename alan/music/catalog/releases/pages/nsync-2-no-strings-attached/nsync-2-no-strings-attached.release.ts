@@ -9,7 +9,7 @@ export const nsync2NoStringsAttached = {
   position: 0,
   ownLength: 47.09995,
   ownProgress: 47.09995,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2000-03-21",
   externalIdentity: [

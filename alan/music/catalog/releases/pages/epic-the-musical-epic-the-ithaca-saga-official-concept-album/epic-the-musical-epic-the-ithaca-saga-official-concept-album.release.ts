@@ -9,7 +9,7 @@ export const epicTheMusicalEpicTheIthacaSagaOfficialConceptAlbum = {
   position: 0,
   ownLength: 22.588667,
   ownProgress: 22.588667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-12-25",
   externalIdentity: [

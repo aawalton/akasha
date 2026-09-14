@@ -9,7 +9,7 @@ export const justinTimberlakeSaySomethingFeatChrisStapletonLiveVersion = {
   position: 0,
   ownLength: 4.0438,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-03-30",
   externalIdentity: [

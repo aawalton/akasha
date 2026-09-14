@@ -9,7 +9,7 @@ export const zaraLarssonDonTWorryBoutMeRemixes = {
   position: 0,
   ownLength: 13.807533,
   ownProgress: 13.807533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-05-03",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const arianaGrande3435Remix = {
   position: 0,
   ownLength: 3.040617,
   ownProgress: 3.040617,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-01-15",
   externalIdentity: [

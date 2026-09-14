@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareMahlerSymphonyNo8InEFlatMajor = {
   position: 0,
   ownLength: 79.634367,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-11-17",
   externalIdentity: [

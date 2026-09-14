@@ -9,7 +9,7 @@ export const justinTimberlakeJustBeFeatJustinTimberlake = {
   position: 0,
   ownLength: 3.73795,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-04-28",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const jadaFacerSweetButPsycho = {
   position: 0,
   ownLength: 2.726533,
   ownProgress: 2.726533,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-12-08",
   externalIdentity: [

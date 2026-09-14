@@ -9,7 +9,7 @@ export const japaneseBreakfastJubilee = {
   position: 0,
   ownLength: 37.052217,
   ownProgress: 37.052217,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-06-04",
   externalIdentity: [

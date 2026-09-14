@@ -9,7 +9,7 @@ export const chaislynMakeBelieve = {
   position: 0,
   ownLength: 3.136667,
   ownProgress: 3.136667,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-06-21",
   externalIdentity: [

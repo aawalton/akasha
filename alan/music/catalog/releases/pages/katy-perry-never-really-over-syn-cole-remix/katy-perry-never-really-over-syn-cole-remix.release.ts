@@ -9,7 +9,7 @@ export const katyPerryNeverReallyOverSynColeRemix = {
   position: 0,
   ownLength: 3.14285,
   ownProgress: 3.14285,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-07-26",
   externalIdentity: [

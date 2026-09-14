@@ -9,7 +9,7 @@ export const kellyClarksonWalkAwayRemixes = {
   position: 0,
   ownLength: 32.479083,
   ownProgress: 32.479083,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2006-03-28",
   externalIdentity: [

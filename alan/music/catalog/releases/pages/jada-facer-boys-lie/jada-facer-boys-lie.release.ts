@@ -9,7 +9,7 @@ export const jadaFacerBoysLie = {
   position: 0,
   ownLength: 3.286883,
   ownProgress: 3.286883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-02-19",
   externalIdentity: [

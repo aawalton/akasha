@@ -9,7 +9,7 @@ export const ellaHendersonMeYouUnplugged = {
   position: 0,
   ownLength: 3.09185,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-08-29",
   externalIdentity: [

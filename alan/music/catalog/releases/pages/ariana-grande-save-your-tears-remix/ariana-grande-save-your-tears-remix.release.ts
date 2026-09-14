@@ -9,7 +9,7 @@ export const arianaGrandeSaveYourTearsRemix = {
   position: 0,
   ownLength: 3.18355,
   ownProgress: 3.18355,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-04-23",
   externalIdentity: [

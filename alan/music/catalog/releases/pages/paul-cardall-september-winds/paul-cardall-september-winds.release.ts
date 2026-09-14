@@ -9,7 +9,7 @@ export const paulCardallSeptemberWinds = {
   position: 0,
   ownLength: 3.804167,
   ownProgress: 3.804167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-09-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const jadaFacerStarboy = {
   position: 0,
   ownLength: 3.3172,
   ownProgress: 3.3172,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-10-01",
   externalIdentity: [

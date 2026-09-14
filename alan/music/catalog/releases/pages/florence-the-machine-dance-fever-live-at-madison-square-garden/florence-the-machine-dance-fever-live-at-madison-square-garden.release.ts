@@ -9,7 +9,7 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGarden = {
   position: 0,
   ownLength: 104.1745,
   ownProgress: 104.1745,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-14",
   externalIdentity: [

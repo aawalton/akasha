@@ -9,7 +9,7 @@ export const jadaFacerDemons = {
   position: 0,
   ownLength: 2.9685,
   ownProgress: 2.9685,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-08-27",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const vinnyMarchiTheLetGo = {
   position: 0,
   ownLength: 3.353967,
   ownProgress: 3.353967,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-08-15",
