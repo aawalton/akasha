@@ -4,7 +4,7 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 const PATH_ENV =
   "%h/.bun/bin:%h/.local/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/bin:/usr/bin:/bin"
 const CHECKOUT = "%h/repos/akasha"
-const PAGES_UNIT = "pages-service.service"
+export const PAGES_UNIT = "pages-service.service"
 const SLICE = "background.slice"
 const SIGTERM_EXIT = 143
 const DEFAULT_RESTART = "always"

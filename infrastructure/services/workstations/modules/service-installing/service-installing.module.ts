@@ -103,5 +103,9 @@ export const serviceInstalling = {
       statement: "A unit named to be restarted is restarted after every unit is enabled.",
     },
     { invariantKind: "departure", statement: "A plan naming no unit to restart restarts nothing." },
+    {
+      invariantKind: "departure",
+      statement: "The pages service is restarted before any other unit named to be restarted.",
+    },
   ],
 } as const satisfies Module

@@ -13,6 +13,7 @@ import { STAGING } from "akasha/infrastructure/services/workstations/modules/ser
 import {
   installedUnitName,
   isScheduled,
+  PAGES_UNIT,
   SERVICE_SUFFIX,
   type Service,
   serviceUnitName,
@@ -114,6 +115,13 @@ export function textFor(given: Service): ReadonlyMap<string, string> {
   return held
 }
 
+function pagesFirst(a: string, b: string): number {
+  if (a === b) return 0
+  if (a === PAGES_UNIT) return -1
+  if (b === PAGES_UNIT) return 1
+  return a < b ? -1 : 1
+}
+
 export function planFor(
   services: readonly Service[],
   owned: readonly string[],
@@ -141,7 +149,7 @@ export function planFor(
     enable: enable.sort(),
     stop: stop.sort(),
     remove,
-    restart: restart.sort(),
+    restart: restart.sort(pagesFirst),
   }
 }
 

@@ -63,6 +63,23 @@ test("only the timer of a scheduled service is enabled", () => {
   expect([...plan.write.keys()].length).toBe(2)
 })
 
+test("the pages service is restarted before any unit that takes its code from it", () => {
+  const plan = planFor(
+    [
+      pageOf({ slug: "apns-push-notifier" }),
+      pageOf({ slug: "pages-service" }),
+      pageOf({ slug: "sweep-stray-processes" }),
+    ],
+    [],
+    new Set(["apns-push-notifier", "pages-service", "sweep-stray-processes"])
+  )
+  expect(plan.restart).toEqual([
+    "pages-service.service",
+    "apns-push-notifier.service",
+    "sweep-stray-processes.service",
+  ])
+})
+
 test("a unit there that no service accounts for is removed", () => {
   const plan = planFor([pageOf({})], ["held-service.service", "gone-away.service"])
   expect(plan.remove).toEqual(["gone-away.service"])
