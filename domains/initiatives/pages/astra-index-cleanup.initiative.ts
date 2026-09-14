@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the listing index's structure correct.",
       workingMemory:
-        "`everyPath` is down from thirty-three callers to eight. `tree-searching` reads no index since `192316782978`: the search honours `.gitignore`, and the change's edits lay over it. Four of the eight want one file kind, two are the check policing how a check reaches a path, one is a membership set measured faster as a set, one is the rule index's own completeness. A check listing a folder must now do it through the overlay, and `Shadow` has no listing member yet.\n",
+        "`everyPath` is down from thirty-three callers to eight, and `tree-searching` reads no index since `192316782978`. `Shadow` gained a listing in `24888576c08`: one ripgrep run under the ignore policy with the change's edits laid over, costing 0.77s against the index read's 0.019s. Six of the eight repoint onto it where the cost allows. The last two are the check policing how a check reaches a path, which wants renaming to `check-reaches-a-path-outside-the-overlay` and its rule rewritten.\n",
     },
     {
       statement: "A file property declares one extension.",
