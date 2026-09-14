@@ -7,6 +7,7 @@ import {
   listedAt,
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
 import {
   AKASHA,
@@ -111,13 +112,14 @@ function dayBodyOf(
   date: string
 ): string {
   const typeSlug = typeSlugOf(root, SEAT_LOG_DAY_TYPE)
+  const sourceType = typeSlugOf(root, LOG_SOURCE_TYPE)
   return [
     `import type { ${typedAs(typeSlug)} } from "${typedFrom(root, typeSlug)}"`,
     "",
     `export const ${exportedAs(slug)} = {`,
     `  type: ${saidAs(typeSlug)},`,
     `  slug: ${saidAs(slug)},`,
-    `  source: ${saidAs(source)},`,
+    `  source: ${saidAs(namedAs(sourceType, source, null))},`,
     `  seatName: ${saidAs(seatName)},`,
     `  date: ${saidAs(date)},`,
     `} as const satisfies ${typedAs(typeSlug)}`,

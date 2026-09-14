@@ -43,6 +43,10 @@ export const logDayWriting = {
     },
     {
       invariantKind: "departure",
+      statement: "A day names its source as an address, and its slug names that source bare.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A log day page is written where no log day page names that day.",
     },
     {
