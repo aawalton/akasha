@@ -21,7 +21,6 @@ export const check = {
 
     "module/check-staging",
     "module/checking",
-    "module/judged-body",
     "module/judging",
     "module/model-running",
     "module/mortal-sparing",
