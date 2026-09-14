@@ -10,7 +10,6 @@ export const dayBoundary = {
     "module/eso-day",
     "module/mountain-day",
     "module/mountain-wall",
-    "module/new-york-wall",
     "module/us-zone-offset",
   ],
   invariants: [
