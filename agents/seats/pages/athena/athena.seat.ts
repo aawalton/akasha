@@ -4,7 +4,7 @@ export const athena = {
   id: "01a09c18-3f02-7000-a2a3-7547349566d0",
   type: "seat",
   slug: "athena",
-  persona: "athena",
+  persona: "persona/athena",
   assignmentSlug: "initiative/athena-agent-harness-improvements",
   role: "definer",
   person: "alan",

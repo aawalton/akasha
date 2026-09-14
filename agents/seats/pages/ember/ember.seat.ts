@@ -4,7 +4,7 @@ export const ember = {
   id: "01a09573-2604-7000-98dd-c04bec8e0696",
   type: "seat",
   slug: "ember",
-  persona: "ember",
+  persona: "persona/ember",
   assignmentSlug: "initiative/ember-inventory-rules",
   role: "definer",
   person: "alan",
