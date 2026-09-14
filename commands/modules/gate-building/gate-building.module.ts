@@ -4,27 +4,17 @@ export const gateBuilding = {
   id: "01a0531c-b3ec-7f09-a560-bb87dc11609d",
   type: "module",
   slug: "gate-building",
-  definition: "the checks and the index loaded by path when wanted, and the gate built from them",
+  definition: "the checks and the index loaded by name when wanted, and the gate built from them",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A module is loaded by path through a require made here and imported nowhere.",
+      statement: "A module is loaded by name through a require made here and imported nowhere.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The path a module loads from is worked out from the name that module is reached by.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name that resolves nowhere is kept as the path.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The path a resolved name has inside its own tree is taken under the root in play.",
+      statement: "The name a module is loaded by is the name that module is imported by.",
     },
     {
       invariantKind: "departure",
@@ -37,11 +27,7 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "This file's own path is asked of whichever runtime is running it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The root is read when a module is first loaded rather than at import.",
+      statement: "This file's own location is what the require made here resolves a name against.",
     },
     {
       invariantKind: "departure",
@@ -94,6 +80,10 @@ export const gateBuilding = {
     },
     {
       invariantKind: "absence",
+      statement: "No root is worked out here.",
+    },
+    {
+      invariantKind: "absence",
       statement: "The gate handed back is the gate that will judge.",
     },
     {
@@ -103,7 +93,7 @@ export const gateBuilding = {
     {
       invariantKind: "absence",
       statement:
-        "`loadedBy` names a page type, and this loads two modules by slug, so nothing declares it.",
+        "`loadedBy` names a page type, and this loads two modules by name, so nothing declares it.",
     },
     {
       invariantKind: "gap",

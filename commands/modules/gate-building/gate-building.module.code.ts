@@ -1,43 +1,15 @@
 import { createRequire } from "node:module"
-import { join, relative } from "node:path"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { dirOfModule } from "akasha/code/paths/modules/module-directory/module-directory.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Indexing } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
-
-const CHECKING_IN = "akasha/checks/modules/checking/checking.module.code.ts"
-
-const INDEXING_IN = "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
 
 const CHANGE = "change"
 
 const loadFrom = createRequire(import.meta.url)
 
-let heldHere: string | null = null
+export const CHECKING_IN = "akasha/checks/modules/checking/checking.module.code.ts"
 
-function here(): string {
-  if (heldHere !== null) return heldHere
-  const dir = dirOfModule(import.meta)
-  if (dir === undefined || dir === "") {
-    throw new Error(`nothing here says where this file is, so nothing says where ${CHECKING_IN} is`)
-  }
-  heldHere = rootOf(dir)
-  return heldHere
-}
-
-function pathOf(name: string): string {
-  try {
-    const at = loadFrom.resolve(name)
-    return relative(rootOf(at), at)
-  } catch {
-    return name
-  }
-}
-
-export const CHECKING_AT = pathOf(CHECKING_IN)
-
-export const INDEXING_AT = pathOf(INDEXING_IN)
+export const INDEXING_IN = "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
 
 export const NO_GATE: Judging = { named: [], checksFor: () => [], over: async () => [] }
 
@@ -50,7 +22,7 @@ type Checking = {
 }
 
 function checkingLoaded(): Checking {
-  const held = loadFrom(join(here(), CHECKING_AT)) as Partial<Checking>
+  const held = loadFrom(CHECKING_IN) as Partial<Checking>
   const named = [held.checksIn, held.checksAt, held.judgingBy]
   if (named.some((one) => typeof one !== "function")) {
     throw new Error("it answers to no `checksIn`, `checksAt` and `judgingBy` a gate is built from")
@@ -61,9 +33,9 @@ function checkingLoaded(): Checking {
 export type Keeping = (repo: string) => Indexing
 
 export function indexingLoaded(): Keeping {
-  const held = loadFrom(join(here(), INDEXING_AT)) as { readonly keepingIn?: unknown }
+  const held = loadFrom(INDEXING_IN) as { readonly keepingIn?: unknown }
   if (typeof held.keepingIn !== "function") {
-    throw new Error(`${INDEXING_AT} answers to no \`keepingIn\` the index is kept by`)
+    throw new Error(`${INDEXING_IN} answers to no \`keepingIn\` the index is kept by`)
   }
   return held.keepingIn as Keeping
 }

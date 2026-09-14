@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
-import { join } from "node:path"
+import { createRequire } from "node:module"
 import {
-  CHECKING_AT,
+  CHECKING_IN,
   gateBuilt,
-  INDEXING_AT,
+  INDEXING_IN,
   indexingLoaded,
   NO_GATE,
 } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
@@ -39,9 +39,10 @@ test("a gate that could not be built judges nothing rather than passing everythi
   ).toEqual([])
 })
 
-test("the two modules loaded late are named as paths under the root, and both are there", () => {
-  expect(existsSync(join(HERE, CHECKING_AT))).toBe(true)
-  expect(existsSync(join(HERE, INDEXING_AT))).toBe(true)
+test("the two modules loaded late are named as imports, and each reaches a file that is there", () => {
+  const loadFrom = createRequire(import.meta.url)
+  expect(existsSync(loadFrom.resolve(CHECKING_IN))).toBe(true)
+  expect(existsSync(loadFrom.resolve(INDEXING_IN))).toBe(true)
 })
 
 test("the index is kept by what that path answers, loaded rather than imported", () => {
