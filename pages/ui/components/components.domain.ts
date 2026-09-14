@@ -122,7 +122,6 @@ export const components = {
     "module/sortable-card-collection",
     "module/sortable-navs",
     "module/synthetic-config",
-    "module/text-property-badge",
     "module/timeline-picker",
     "module/use-app-nav-items",
     "module/use-board-view-wiring",

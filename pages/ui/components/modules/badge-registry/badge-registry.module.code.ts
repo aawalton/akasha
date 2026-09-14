@@ -18,14 +18,11 @@ import { RichDocumentPropertyBadge } from "akasha/pages/ui/components/modules/ri
 import { RollupPropertyBadge } from "akasha/pages/ui/components/modules/rollup-property-badge/rollup-property-badge.module.code.tsx"
 import { RrulePropertyBadge } from "akasha/pages/ui/components/modules/rrule-property-badge/rrule-property-badge.module.code.tsx"
 
-import { TextPropertyBadge } from "akasha/pages/ui/components/modules/text-property-badge/text-property-badge.module.code.tsx"
-
 import type { ComponentType } from "react"
 
 export const PROPERTY_BADGE_REGISTRY: Partial<
   Record<PropertyType, ComponentType<PropertyBadgeProps>>
 > = {
-  text: TextPropertyBadge,
   markdown: MarkdownPropertyBadge,
 
   json: JsonPropertyBadge,
