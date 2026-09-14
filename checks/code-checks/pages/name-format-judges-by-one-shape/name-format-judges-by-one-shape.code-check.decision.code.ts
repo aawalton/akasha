@@ -83,7 +83,7 @@ export function reasonsIn(slug: string, path: string, text: string, at: string):
         `${fault} — a format whose code does not parse hands over no judgement`,
     ]
   }
-  const handed = handedFrom(source, path, at)
+  const handed = handedIn(path, text, at)
   const only = handed[0]
   if (only === undefined || handed.length > 1) {
     return [
