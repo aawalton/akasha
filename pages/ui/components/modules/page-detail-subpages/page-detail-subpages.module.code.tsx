@@ -8,10 +8,8 @@ import {
   toPageDataRecord,
 } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
 import { ToggleSection } from "akasha/pages/ui/components/modules/page-detail-sections/page-detail-sections.module.code.tsx"
-import {
-  PageTable,
-  PageTableRowCells,
-} from "akasha/pages/ui/components/modules/page-table/page-table.module.code.tsx"
+import { PageRowCells } from "akasha/pages/ui/components/modules/page-row-cells/page-row-cells.module.code.tsx"
+import { PageTable } from "akasha/pages/ui/components/modules/page-table/page-table.module.code.tsx"
 import { TITLE_COLUMN_ID } from "akasha/pages/ui/components/modules/page-table-shared/page-table-shared.module.code.ts"
 import { withColumnWidths } from "akasha/pages/ui/components/modules/page-table-widths/page-table-widths.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
@@ -97,11 +95,12 @@ export function PageDetailSubpages({
           renderRow={(item) => {
             const { _id: id, ...rest } = item
             return (
-              <PageTableRowCells
+              <PageRowCells
                 data={pageRowToPageDataJSON(rest)}
                 definitions={universalDefs}
                 visibleProperties={SUBPAGE_VISIBLE_PROPERTIES}
                 rowHref={rowHrefFor(item)}
+                pageTypeSlug={subpageById.get(id)?.sourcePageTypeSlug}
               />
             )
           }}

@@ -67,6 +67,8 @@ export const components = {
     "module/page-gallery",
     "module/page-list-section",
     "module/page-reader-content",
+    "module/page-row-cells",
+    "module/page-row-drawings",
     "module/page-size-picker",
     "module/page-system-shell",
     "module/page-system-shell-helpers",

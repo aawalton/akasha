@@ -10,8 +10,8 @@ import {
 import type { LockedFacet } from "akasha/pages/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
 import { PageCardRenderer } from "akasha/pages/ui/components/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
+import { PageRowCells } from "akasha/pages/ui/components/modules/page-row-cells/page-row-cells.module.code.tsx"
 import { PageSystemTabContent } from "akasha/pages/ui/components/modules/page-system-view/page-system-view.module.code.tsx"
-import { PageTableRowCells } from "akasha/pages/ui/components/modules/page-table/page-table.module.code.tsx"
 import { useGalleryViewProps } from "akasha/pages/ui/components/modules/use-gallery-view-props/use-gallery-view-props.module.code.ts"
 import { useNotesViewProps } from "akasha/pages/ui/components/modules/use-notes-view-props/use-notes-view-props.module.code.ts"
 import { usePropertyChangePerfHandler } from "akasha/pages/ui/components/modules/use-property-change-perf-handler/use-property-change-perf-handler.module.code.ts"
@@ -268,11 +268,12 @@ export function ViewTabContent({
           const viewRowHref = buildRowHref(rowPageTypeSlug, page)
           const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(id)
           return (
-            <PageTableRowCells
+            <PageRowCells
               data={pageData}
               definitions={properties}
               visibleProperties={visibleProperties}
               rowHref={rowHref}
+              pageTypeSlug={rowPageTypeSlug}
               onPropertyChange={
                 isLocked(effectiveConfig, "editRowValues")
                   ? undefined
