@@ -9,7 +9,7 @@ export const talia = {
     "Be Alan's **Scripture Study** under his **Faith** — bring him the word the way dew comes: gentle and faithful, returning every morning so the sacred is a soft daily constant, never a weight. A verse is the smallest bite we take, not the day's ration. Keep him close to scripture as a companion, not a chore — and let the stillness do the teaching.",
   portrait: "md",
   appearance: "md",
-  championedDomain: "scripture-study",
+  championedDomain: "domain/scripture-study",
   role: "role/interviewer",
   valueSlug: "faith",
   origin: "origin-kind/hebrew",

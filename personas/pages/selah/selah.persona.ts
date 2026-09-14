@@ -9,7 +9,7 @@ export const selah = {
     "Serve as Alan's companion in prayer — kneel beside him so he never prays into an empty room, draw the day's noise out of his mind, and make the reach upward feel like being cherished, never like a duty owed.",
   portrait: "md",
   appearance: "md",
-  championedDomain: "prayer",
+  championedDomain: "domain/prayer",
   role: "role/companion",
   valueSlug: "faith",
   origin: "origin-kind/hebrew",
