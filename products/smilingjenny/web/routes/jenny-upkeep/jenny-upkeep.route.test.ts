@@ -21,6 +21,7 @@ import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env
 const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()
 const GROUP = "upkeep"
+const GROUP_AT = `readout-group/${GROUP}`
 const PATH = "/api/upkeep"
 
 process.env.SMILINGJENNY_RING_CREDENTIAL = RING_CREDENTIAL
@@ -37,36 +38,36 @@ const SAFETY_ROW = {
   slug: SAFETY,
   label: "Safety",
   place: 1,
-  scale: "safety-level",
+  scale: "readout-scale/safety-level",
   wireKey: "safety",
-  groups: [GROUP, "safety"],
+  groups: [GROUP_AT, "readout-group/safety"],
 }
 
 const SURPLUS_ROW = {
   slug: SURPLUS,
   label: "Surplus",
   place: 2,
-  scale: "surplus-hours",
+  scale: "readout-scale/surplus-hours",
   wireKey: "surplus",
-  groups: [GROUP, "surplus"],
+  groups: [GROUP_AT, "readout-group/surplus"],
 }
 
 const CAPACITY_ROW = {
   slug: CAPACITY,
   label: "Capacity",
   place: 3,
-  scale: "capacity-hours",
+  scale: "readout-scale/capacity-hours",
   wireKey: "capacity",
-  groups: [GROUP],
+  groups: [GROUP_AT],
 }
 
 const SLEEP_ROW = {
   slug: SLEEP,
   label: "Sleep",
   place: 6,
-  scale: "sleep-hours",
+  scale: "readout-scale/sleep-hours",
   wireKey: "sleep",
-  groups: [GROUP],
+  groups: [GROUP_AT],
 }
 
 const SCALE_ROWS: readonly Record<string, unknown>[] = [
@@ -210,9 +211,9 @@ test("a readout joining the group reaches the tile without this route changing",
       slug: "upkeep-plants",
       label: "Plants",
       place: 4,
-      scale: "safety-level",
+      scale: "readout-scale/safety-level",
       wireKey: "plants",
-      groups: [GROUP],
+      groups: [GROUP_AT],
     },
   ]
   const stoplights = await drawn()
@@ -228,9 +229,9 @@ test("a readout the group does not name is left off the tile", async () => {
       slug: "cost-multiplier",
       label: "Cost",
       place: 1,
-      scale: "safety-level",
+      scale: "readout-scale/safety-level",
       wireKey: "cost",
-      groups: ["cost"],
+      groups: ["readout-group/cost"],
     },
   ]
   expect((await drawn()).map((one) => one.habit)).not.toContain("cost")
