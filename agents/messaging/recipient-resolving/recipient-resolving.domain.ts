@@ -6,9 +6,6 @@ export const recipientResolving = {
   slug: "recipient-resolving",
   definition: "who a message reaches",
   parts: [
-    "module/alert-recipient-decide",
-    "module/blocked-principal-decide",
-    "module/domain-lead-decide",
     "module/keeper-unrevivable-push",
     "module/person-handlers",
     "module/recipient-resolver-config",
