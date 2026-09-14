@@ -9,12 +9,12 @@ export const catalogConfigFile = {
   loadedAs: "TemperCatalogConfig.lua",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The name starts out empty and the game fills the name from the saved variables file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The game loads the file before the compiled add-on rather than compiling the two together.",
     },

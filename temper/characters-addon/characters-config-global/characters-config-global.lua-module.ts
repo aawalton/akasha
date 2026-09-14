@@ -9,7 +9,7 @@ export const charactersConfigGlobal = {
   loadedAs: "TemperCharactersConfig.lua",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The name starts out empty and the game fills the name from the saved variables file.",
     },
