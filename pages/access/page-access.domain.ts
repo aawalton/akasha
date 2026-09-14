@@ -28,7 +28,6 @@ export const pageAccess = {
     "module/file-write-many",
     "module/file-write-narrow",
     "module/get",
-    "module/get-by-relation",
     "module/get-for-view",
     "module/guards",
     "module/iterate",
