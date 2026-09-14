@@ -28,6 +28,7 @@ import {
   type PageTypeSlug,
   toPageTypeSlug,
 } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import type { ReactNode } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"
 
@@ -35,12 +36,14 @@ interface PageCollectionContentProps {
   pageTypeSlug: PageTypeSlug
   id: string
   nextUnreadHref?: string | null
+  children?: ReactNode
 }
 
 export function PageCollectionContent({
   pageTypeSlug,
   id,
   nextUnreadHref,
+  children,
 }: PageCollectionContentProps) {
   const { page, isLoading } = usePage({ pageTypeSlug, id })
   const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
@@ -130,6 +133,7 @@ export function PageCollectionContent({
           </PagesUILink>
         </div>
       )}
+      {children}
       {childCollection != null && (
         <PagesFilteredContent
           embedded
