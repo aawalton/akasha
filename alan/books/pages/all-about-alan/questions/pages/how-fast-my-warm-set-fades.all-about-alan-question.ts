@@ -4,6 +4,6 @@ export const howFastMyWarmSetFades = {
   id: "01a077e8-bbe5-7726-b000-d9e987cd74da",
   type: "all-about-alan-question",
   slug: "how-fast-my-warm-set-fades",
-  topic: "what-stays-warm-for-a-while",
+  topic: "all-about-alan-topic/what-stays-warm-for-a-while",
   ask: "I hold the guess at about one in five: does the freshness fade over about a day to almost nothing?",
 } as const satisfies AllAboutAlanQuestion

@@ -4,6 +4,6 @@ export const whyTheCareSealedTheAbuseOver = {
   id: "01a077e9-9ab1-735e-99b9-bf91669b477d",
   type: "all-about-alan-question",
   slug: "why-the-care-sealed-the-abuse-over",
-  topic: "calling-it-what-it-was",
+  topic: "all-about-alan-topic/calling-it-what-it-was",
   ask: "Why did the care seal the abuse over more strongly than it sealed the neglect?",
 } as const satisfies AllAboutAlanQuestion

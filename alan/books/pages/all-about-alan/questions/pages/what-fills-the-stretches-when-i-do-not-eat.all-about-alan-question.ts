@@ -4,6 +4,6 @@ export const whatFillsTheStretchesWhenIDoNotEat = {
   id: "01a077ed-525c-7a1a-845c-284a4811d76e",
   type: "all-about-alan-question",
   slug: "what-fills-the-stretches-when-i-do-not-eat",
-  topic: "how-i-eat",
+  topic: "all-about-alan-topic/how-i-eat",
   ask: "What makes up the stretches when I do not eat?",
 } as const satisfies AllAboutAlanQuestion

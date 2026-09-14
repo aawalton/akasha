@@ -4,6 +4,6 @@ export const whatBridgeEachBlockedPieceNeeds = {
   id: "01a077ed-363e-7058-b175-0976bda8ba88",
   type: "all-about-alan-question",
   slug: "what-bridge-each-blocked-piece-needs",
-  topic: "noticing-what-she-needs",
+  topic: "all-about-alan-topic/noticing-what-she-needs",
   ask: "The shared diagnosis is agreed and the bridges are not built. What bridge does each blocked piece still need?",
 } as const satisfies AllAboutAlanQuestion

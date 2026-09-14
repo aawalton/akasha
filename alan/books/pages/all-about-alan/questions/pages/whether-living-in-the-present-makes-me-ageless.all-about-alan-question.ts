@@ -4,6 +4,6 @@ export const whetherLivingInThePresentMakesMeAgeless = {
   id: "01a077e4-3332-74f9-8769-1eff7749f17e",
   type: "all-about-alan-question",
   slug: "whether-living-in-the-present-makes-me-ageless",
-  topic: "how-time-passes-for-me",
+  topic: "all-about-alan-topic/how-time-passes-for-me",
   ask: "How do I square the present-only account with this account of how time passes, and does living in the present make me ageless?",
 } as const satisfies AllAboutAlanQuestion

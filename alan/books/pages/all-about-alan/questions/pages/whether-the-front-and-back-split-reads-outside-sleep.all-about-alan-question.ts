@@ -4,6 +4,6 @@ export const whetherTheFrontAndBackSplitReadsOutsideSleep = {
   id: "01a077e8-7170-791b-9493-cbf70f9ba310",
   type: "all-about-alan-question",
   slug: "whether-the-front-and-back-split-reads-outside-sleep",
-  topic: "what-shortens-my-nights",
+  topic: "all-about-alan-topic/what-shortens-my-nights",
   ask: "Does the front-against-back split read anything outside sleep, or does that split only work on my nights?",
 } as const satisfies AllAboutAlanQuestion

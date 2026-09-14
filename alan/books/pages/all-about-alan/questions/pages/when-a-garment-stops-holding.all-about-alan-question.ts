@@ -4,6 +4,6 @@ export const whenAGarmentStopsHolding = {
   id: "01a077e3-2056-7cf8-b937-b3550da4d882",
   type: "all-about-alan-question",
   slug: "when-a-garment-stops-holding",
-  topic: "tight-clothes",
+  topic: "all-about-alan-topic/tight-clothes",
   ask: "Fabric stretches with wear, so at what point has a garment stopped holding me?",
 } as const satisfies AllAboutAlanQuestion

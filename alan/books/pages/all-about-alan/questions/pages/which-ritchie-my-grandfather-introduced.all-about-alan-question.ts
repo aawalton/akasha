@@ -4,6 +4,6 @@ export const whichRitchieMyGrandfatherIntroduced = {
   id: "01a077f2-9a82-7091-9183-18b1d755167d",
   type: "all-about-alan-question",
   slug: "which-ritchie-my-grandfather-introduced",
-  topic: "the-code-in-my-family",
+  topic: "all-about-alan-topic/the-code-in-my-family",
   ask: "I said Daniel Ritchie for the person my grandfather introduced to the B team. Abby's reading is that the public record for B and C carries Dennis Ritchie. Which name did I mean?",
 } as const satisfies AllAboutAlanQuestion

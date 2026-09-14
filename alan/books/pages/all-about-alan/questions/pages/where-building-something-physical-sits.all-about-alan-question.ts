@@ -4,6 +4,6 @@ export const whereBuildingSomethingPhysicalSits = {
   id: "01a077eb-6c34-7437-ab2c-0eb6868860fd",
   type: "all-about-alan-question",
   slug: "where-building-something-physical-sits",
-  topic: "why-making-things-hurts",
+  topic: "all-about-alan-topic/why-making-things-hurts",
   ask: "Does building something physical sit in the inside-judge core or at the outside-judge edge?",
 } as const satisfies AllAboutAlanQuestion
