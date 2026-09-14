@@ -5,6 +5,7 @@ import type {
   CompanionSummaryData,
 } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
+  computeOverallCompletionScore,
   sumAccountScope,
   sumCharacterScope,
   sumCompanionScope,
@@ -57,6 +58,14 @@ export function OverallSummaryPanelCard({
       label: "Companions",
       count: companions.count,
       total: companions.total,
+    })
+  }
+
+  if (account.total + characters.total + companions.total > 0) {
+    items.push({
+      key: "summary",
+      label: "Items Completed",
+      value: computeOverallCompletionScore(accountSummary, characterSummary, companionSummary),
     })
   }
 
