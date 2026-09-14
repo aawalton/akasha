@@ -15,5 +15,9 @@ export const reducers = {
       invariantKind: "departure",
       statement: "Every key written for a new view is a key the view page type declares.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A view names its nav and its page type by page type and slug.",
+    },
   ],
 } as const satisfies Module

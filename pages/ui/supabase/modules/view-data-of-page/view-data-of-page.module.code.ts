@@ -7,6 +7,7 @@ import {
   type ViewSort,
 } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import { pageQueryTimeIn } from "akasha/pages/core/view/modules/page-query-times/page-query-times.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { asBoolean } from "akasha/utils/narrow/modules/as-boolean/as-boolean.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
@@ -226,7 +227,8 @@ function viewDataFromFile(
   properties: Readonly<Record<string, unknown>>,
   resolvePageTypeId?: PageTypeIdBySlug
 ): ViewDataJSON {
-  const pageTypeSlug = textOf(properties.pageType)
+  const named = textOf(properties.pageType)
+  const pageTypeSlug = named === undefined ? undefined : slugOf(named)
   const data: ViewDataJSON = {
     version: 1,
     layout: layoutOf(properties.layout),

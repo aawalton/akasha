@@ -14,8 +14,13 @@ import type {
   ViewEffect,
   ViewRow,
 } from "akasha/pages/core/view-state/modules/view-state-change/view-state-change.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+
+const NAV = "nav"
+
+const PAGE_TYPE = "page-type"
 
 function escapePointer(segment: string): string {
   return segment.replace(/~/g, "~0").replace(/\//g, "~1")
@@ -58,14 +63,17 @@ function buildViewProperties(args: {
   const written: { propertyId: string; value: unknown }[] = [
     { propertyId: "title", value: args.name },
     { propertyId: "slug", value: slugForView(args.name, args.ownerNavSlug, args.taken) },
-    { propertyId: "nav", value: args.ownerNavSlug },
+    { propertyId: "nav", value: namedAs(NAV, args.ownerNavSlug, null) },
     { propertyId: "viewPlace", value: args.viewPlace },
   ]
   if (args.data.layout !== undefined) {
     written.push({ propertyId: "layout", value: args.data.layout })
   }
   if (args.data.pageTypeSlug !== undefined) {
-    written.push({ propertyId: "pageType", value: args.data.pageTypeSlug })
+    written.push({
+      propertyId: "pageType",
+      value: namedAs(PAGE_TYPE, args.data.pageTypeSlug, null),
+    })
   }
   return written
 }

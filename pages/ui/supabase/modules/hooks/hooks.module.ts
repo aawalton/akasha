@@ -10,7 +10,7 @@ export const hooks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The views a nav item holds are asked for by that nav item's slug.",
+      statement: "The views a nav item holds are asked for by that nav item's address.",
     },
     {
       invariantKind: "departure",

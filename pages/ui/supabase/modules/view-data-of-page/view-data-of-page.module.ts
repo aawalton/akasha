@@ -18,5 +18,9 @@ export const viewDataOfPage = {
       statement:
         "A narrow key holding a dot is spelled one segment at a time, and its dots remain.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page type a view names reads back as the slug alone.",
+    },
   ],
 } as const satisfies Module

@@ -5,6 +5,7 @@ import { createPage } from "akasha/pages/access/modules/create/create.module.cod
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import { DEFAULT_ICON_NAME } from "akasha/pages/core/modules/icon/icon.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useCallback } from "react"
@@ -140,9 +141,10 @@ export function useNavMutations(appSlug: string) {
         throw new Error("createNav: createPage did not return an id")
       }
 
+      const navAt = namedAs(NAV_SLUG, navSlug, null)
       const { rows: itsViews } = await getPages({
         pageTypeSlug: VIEW_SLUG,
-        where: [{ key: "nav", eq: navSlug }],
+        where: [{ key: "nav", eq: navAt }],
         select: ["id"],
         limit: 50,
       })
@@ -152,7 +154,7 @@ export function useNavMutations(appSlug: string) {
           properties: {
             title: "List",
             slug: `${navSlug}-list`,
-            nav: navSlug,
+            nav: navAt,
             viewPlace: 0,
           },
           select: ["id"],

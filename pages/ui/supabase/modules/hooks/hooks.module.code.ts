@@ -4,6 +4,7 @@ import { flattenRow } from "akasha/pages/access/modules/routing-core/routing-cor
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/modules/sentinels/sentinels.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { readTargetPageTypeId } from "akasha/pages/core/property-types/modules/relation/relation.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   useAcquireSlug,
   usePipelineLive,
@@ -28,6 +29,8 @@ import {
 } from "akasha/pages/ui-store/query/modules/id-suffix-pipeline/id-suffix-pipeline.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
+
+const NAV = "nav"
 
 export function usePageByIdSuffix({
   pageTypeSlug,
@@ -155,7 +158,7 @@ export function useViewsForNavItem({ navItemSlug }: { navItemSlug?: string | und
     if (navItemSlug == null || navItemSlug === "") {
       return [{ key: "id", eq: NEVER_MATCH_VALUE }]
     }
-    return [{ key: "nav", eq: navItemSlug }]
+    return [{ key: "nav", eq: namedAs(NAV, navItemSlug, null) }]
   }, [navItemSlug])
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({
