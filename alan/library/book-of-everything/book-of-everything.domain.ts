@@ -42,5 +42,14 @@ export const bookOfEverything = {
       invariantKind: "departure",
       statement: "How far Alan has mastered each part of the map is kept with the part.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A topic's mastery level is written to that topic's page and never told to Alan in any form.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answers Alan got right and the answers Alan got wrong are told to Alan.",
+    },
   ],
 } as const satisfies Domain
