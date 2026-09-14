@@ -10,7 +10,7 @@ export const swordArtOnlineS04e12 = {
   position: 12,
   ownLength: 23,
   unit: "unit/minutes",
-  partOfCollections: ["sword-art-online-s04"],
+  partOfCollections: ["season/sword-art-online-s04"],
   publishedAt: "2019-12-29",
   episodeType: "mid-season",
   stillPath: "/Agyt1VH7zVHwklzlb9IwVMSynjf.jpg",
