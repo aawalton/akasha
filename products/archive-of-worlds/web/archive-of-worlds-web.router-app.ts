@@ -30,7 +30,7 @@ export const archiveOfWorldsWeb = {
   toolReached: ["react-dom"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The four answers a browser asks for about pages come from web-page-answers.",
     },
   ],
