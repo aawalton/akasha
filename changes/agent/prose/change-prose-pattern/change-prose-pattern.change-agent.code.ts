@@ -4,6 +4,7 @@ import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.m
 import type { Pattern } from "akasha/domains/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.code.ts"
 import {
   recordsIn,
+  slugOf,
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -34,7 +35,7 @@ export function patternsIn(value: Value): readonly Pattern[] {
     const fromPattern = textAt(one, "fromPattern")
     const toPattern = textAt(one, "toPattern")
     if (frame === null || fromPattern === null || toPattern === null) continue
-    found.push({ frame: frame as Pattern["frame"], fromPattern, toPattern })
+    found.push({ frame: slugOf(frame) as Pattern["frame"], fromPattern, toPattern })
   }
   return found
 }
