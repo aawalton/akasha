@@ -5,7 +5,6 @@ export const attributeConstitution = {
   type: "readout",
   slug: "attribute-constitution",
   definition: "the points Alan earned on a day for the whole plants he ate",
-  reading: {},
   label: "CON",
   unit: "points",
   place: 3,

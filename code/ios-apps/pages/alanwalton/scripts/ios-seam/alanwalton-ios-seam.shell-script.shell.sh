@@ -103,6 +103,9 @@ WALLPAPER_INTENT_ENABLED="${NATIVE_SHELL_WALLPAPER_INTENT:-1}"
 
 HEALTH_SAMPLES_INTENT_ENABLED="${NATIVE_SHELL_HEALTH_SAMPLES_INTENT:-1}"
 
+PICTURE_INTENT_ENABLED="${NATIVE_SHELL_PICTURE_INTENT:-1}"
+CAMERA_USAGE_DESC="alanwalton opens the camera when you run Take Picture, so the picture can be sent to your handler."
+
 KOKORO_TTS_ENABLED="${NATIVE_SHELL_KOKORO_TTS:-1}"
 KOKORO_FLUIDAUDIO_URL="https://github.com/FluidInference/FluidAudio.git"
 KOKORO_FLUIDAUDIO_REVISION="300165b240c45375add402265f62410b6df33cf1"
@@ -172,6 +175,12 @@ SEAM_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 . "$SEAM_DIR/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh"
 # shellcheck source=../health-samples-drain/alanwalton-health-samples-drain.shell-script.shell.sh
 . "$SEAM_DIR/health-samples-drain/alanwalton-health-samples-drain.shell-script.shell.sh"
+# shellcheck source=../picture-capture/alanwalton-picture-capture.shell-script.shell.sh
+. "$SEAM_DIR/picture-capture/alanwalton-picture-capture.shell-script.shell.sh"
+# shellcheck source=../picture-sending/alanwalton-picture-sending.shell-script.shell.sh
+. "$SEAM_DIR/picture-sending/alanwalton-picture-sending.shell-script.shell.sh"
+# shellcheck source=../picture-intent/alanwalton-picture-intent.shell-script.shell.sh
+. "$SEAM_DIR/picture-intent/alanwalton-picture-intent.shell-script.shell.sh"
 # shellcheck source=../app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh
 . "$SEAM_DIR/app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh"
 # shellcheck source=../device-secret/alanwalton-device-secret.shell-script.shell.sh

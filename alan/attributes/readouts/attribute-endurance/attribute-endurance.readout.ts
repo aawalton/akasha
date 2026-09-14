@@ -5,7 +5,6 @@ export const attributeEndurance = {
   type: "readout",
   slug: "attribute-endurance",
   definition: "the points Alan earned on a day for the calories he burned moving",
-  reading: {},
   label: "END",
   unit: "points",
   place: 2,

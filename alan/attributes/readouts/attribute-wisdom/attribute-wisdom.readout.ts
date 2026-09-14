@@ -5,7 +5,6 @@ export const attributeWisdom = {
   type: "readout",
   slug: "attribute-wisdom",
   definition: "the points Alan earned on a day for the words he added about himself",
-  reading: {},
   label: "WIS",
   unit: "points",
   place: 4,

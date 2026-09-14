@@ -5,7 +5,6 @@ export const attributeCharisma = {
   type: "readout",
   slug: "attribute-charisma",
   definition: "the points Alan earned on a day for the hours with someone that cost him nothing",
-  reading: {},
   label: "CHA",
   unit: "points",
   place: 6,

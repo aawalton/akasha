@@ -5,7 +5,6 @@ export const attributeStrength = {
   type: "readout",
   slug: "attribute-strength",
   definition: "the points Alan earned on a day for the weight he moved",
-  reading: {},
   label: "STR",
   unit: "points",
   place: 1,

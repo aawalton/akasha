@@ -5,7 +5,6 @@ export const attributeIntelligence = {
   type: "readout",
   slug: "attribute-intelligence",
   definition: "the points Alan earned on a day for the learn-everything topics he updated",
-  reading: {},
   label: "INT",
   unit: "points",
   place: 5,
