@@ -23,12 +23,6 @@ export interface SeatStopSaying {
   readonly took: string
 }
 
-export const A_STOP: SeatStopSaying = {
-  acting: "Stopping",
-  ended: "was stopped",
-  took: "a deliberate stop",
-}
-
 export const A_RESET: SeatStopSaying = {
   acting: "Resetting",
   ended: "was reset",
