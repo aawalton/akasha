@@ -6,7 +6,7 @@ export const alanwaltonFreshness = {
   slug: "alanwalton-freshness",
   definition: "the tile on Alan's phone saying how old the oldest reading his tiles hold is",
   app: "ios-app/alanwalton",
-  component: "freshness-widget",
+  component: "ios-component/freshness-widget",
   kind: "FreshnessWidget",
   families: ["small"],
   caption: "Freshness",

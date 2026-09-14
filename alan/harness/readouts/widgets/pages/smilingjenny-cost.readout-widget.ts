@@ -6,7 +6,7 @@ export const smilingjennyCost = {
   slug: "smilingjenny-cost",
   definition: "the tile on Jenny's phone showing what the block Alan is in costs him each hour",
   app: "ios-app/smilingjenny",
-  component: "smilingjenny-cost-widget",
+  component: "ios-component/smilingjenny-cost-widget",
   kind: "CostWidget",
   families: ["small"],
   feed: "https://smilingjenny.me/api/cost",

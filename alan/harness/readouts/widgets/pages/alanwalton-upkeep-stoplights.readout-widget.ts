@@ -6,7 +6,7 @@ export const alanwaltonUpkeepStoplights = {
   slug: "alanwalton-upkeep-stoplights",
   definition: "the tile on Alan's phone showing whether his upkeep is working",
   app: "ios-app/alanwalton",
-  component: "alanwalton-upkeep-stoplights-widget",
+  component: "ios-component/alanwalton-upkeep-stoplights-widget",
   kind: "HabitStoplightsWidget",
   families: ["small"],
   feed: "https://alanwalton.com/api/habit-stoplights",
