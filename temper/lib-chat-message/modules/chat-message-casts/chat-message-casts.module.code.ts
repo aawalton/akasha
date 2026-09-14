@@ -1,21 +1,12 @@
 import type {
-  ChatProxy,
   HistoryEntry,
   Settings,
 } from "akasha/temper/lib-chat-message/modules/chat-message-types/chat-message-types.module.code.ts"
 
 export type GlobalTable = Record<string, unknown>
 
-export function asChatRouter(value: unknown): ChatRouter {
-  return value as ChatRouter
-}
-
 export function asZoColorDef(value: string | ZoColorDef): ZoColorDef {
   return value as ZoColorDef
-}
-
-export function asChatProxy(value: object): ChatProxy {
-  return value as ChatProxy
 }
 
 export type ChatEventKey = string | number

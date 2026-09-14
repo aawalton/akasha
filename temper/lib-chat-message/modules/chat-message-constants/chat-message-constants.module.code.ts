@@ -29,7 +29,6 @@ export const TAG_PREFIX_OFF = 1
 export const TAG_PREFIX_LONG = 2
 export const TAG_PREFIX_SHORT = 3
 
-export const TIMESTAMP_INDEX = 1
 export const MAX_HISTORY_LENGTH = 10000
 export const TRIMMED_HISTORY_LENGTH = 9000
 
