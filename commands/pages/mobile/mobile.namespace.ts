@@ -9,11 +9,11 @@ export const mobile = {
   name: "mobile",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command under this namespace reports the work and mobile-cli does the work.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing under this namespace reaches the mac except through mobile-cli.",
     },
   ],

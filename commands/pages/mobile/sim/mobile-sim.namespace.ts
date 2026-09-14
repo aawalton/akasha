@@ -20,16 +20,16 @@ export const mobileSim = {
   name: "sim",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One simulator session is open at a time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A command driving the simulator attaches to the session already open rather than opening its own.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "The build a command here installs to a simulator is taken by `akasha deploy --simulator`.",
     },
