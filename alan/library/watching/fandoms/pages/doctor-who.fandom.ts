@@ -5,7 +5,10 @@ export const doctorWho = {
   type: "fandom",
   slug: "doctor-who",
   title: "Doctor Who",
-  partOfCollections: ["science-fiction-fandoms", "speculative-antholoagies"],
+  partOfCollections: [
+    "fandom-collection/science-fiction-fandoms",
+    "show-collection/speculative-antholoagies",
+  ],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

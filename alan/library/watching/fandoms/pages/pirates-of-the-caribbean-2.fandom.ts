@@ -5,7 +5,7 @@ export const piratesOfTheCaribbean2 = {
   type: "fandom",
   slug: "pirates-of-the-caribbean-2",
   title: "Pirates of the Caribbean",
-  partOfCollections: ["fantasy-fandoms"],
+  partOfCollections: ["fandom-collection/fantasy-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

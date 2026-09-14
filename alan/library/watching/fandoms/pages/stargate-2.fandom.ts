@@ -5,7 +5,7 @@ export const stargate2 = {
   type: "fandom",
   slug: "stargate-2",
   title: "Stargate",
-  partOfCollections: ["science-fiction-fandoms"],
+  partOfCollections: ["fandom-collection/science-fiction-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

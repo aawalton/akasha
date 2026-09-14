@@ -5,7 +5,7 @@ export const kpopDemonHunters = {
   type: "fandom",
   slug: "kpop-demon-hunters",
   title: "KPop Demon Hunters",
-  partOfCollections: ["anime-fandoms"],
+  partOfCollections: ["fandom-collection/anime-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

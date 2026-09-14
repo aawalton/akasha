@@ -5,7 +5,7 @@ export const marvelTelevision = {
   type: "fandom",
   slug: "marvel-television",
   title: "Marvel Television",
-  partOfCollections: ["superhero-fandoms"],
+  partOfCollections: ["fandom-collection/superhero-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

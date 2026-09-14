@@ -5,7 +5,7 @@ export const starWars2 = {
   type: "fandom",
   slug: "star-wars-2",
   title: "Star Wars",
-  partOfCollections: ["science-fiction-fandoms"],
+  partOfCollections: ["fandom-collection/science-fiction-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

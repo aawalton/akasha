@@ -5,7 +5,7 @@ export const rwby = {
   type: "fandom",
   slug: "rwby",
   title: "RWBY",
-  partOfCollections: ["anime-fandoms"],
+  partOfCollections: ["fandom-collection/anime-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
