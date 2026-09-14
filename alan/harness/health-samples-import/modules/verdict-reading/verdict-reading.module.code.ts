@@ -1,5 +1,3 @@
-import { renderCoverage } from "akasha/verdict/modules/text/verdict-text.module.code.ts"
-
 export interface VerdictCoverage {
   readonly observed: number
   readonly declared: number | null
@@ -24,8 +22,3 @@ export interface Reading<Subject extends string, State extends string, Evidence>
 }
 
 export type AnyReading = Reading<string, string, unknown>
-
-export function readingHeadline(reading: AnyReading): string {
-  const head = `${reading.state.toUpperCase()} — ${reading.subject}`
-  return `${head}: ${reading.reason} [over ${renderCoverage(reading.coverage)}]`
-}
