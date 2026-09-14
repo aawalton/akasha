@@ -9,11 +9,11 @@ export const inboxCountWatch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The counts are taken again whenever the index moves.",
+      statement: "The counts are taken again whenever a page of a counted type moves.",
     },
     {
       invariantKind: "departure",
-      statement: "The folder followed is asked of the index rather than spelled.",
+      statement: "Which folders hold the pages of a counted type is asked of the index.",
     },
     {
       invariantKind: "departure",
@@ -79,6 +79,10 @@ export const inboxCountWatch = {
     {
       invariantKind: "absence",
       statement: "Nothing here waits on a beat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page folder that came after the watch opened is followed once it is there.",
     },
   ],
 } as const satisfies Module

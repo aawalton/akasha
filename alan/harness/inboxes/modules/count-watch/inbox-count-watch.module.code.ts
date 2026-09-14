@@ -18,9 +18,12 @@ import {
   statedIn,
 } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
 import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/modules/code-moving/code-moving.module.code.ts"
-import { followFolders } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
-import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import {
+  dirsOf,
+  type Following,
+  followFolders,
+} from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
+import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -29,6 +32,16 @@ import {
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250
+
+const TO_DO_PAGE_TYPE_SLUG = "to-do"
+
+const TEMPER_TASK_PAGE_TYPE_SLUG = "temper-task"
+
+const COUNTED_TYPES: readonly string[] = [TO_DO_PAGE_TYPE_SLUG, TEMPER_TASK_PAGE_TYPE_SLUG]
+
+const TO_DOS_AT = "alan/track/to-dos/pages"
+
+const TEMPER_TASKS_AT = "temper/progressions/temper-tasks/pages"
 
 export const NO_SITE_NAMED =
   "no site was named, so a count taken here would be carried nowhere. Name the origin of the " +
@@ -40,8 +53,13 @@ export function countsSaid(day: string, counts: TaskCounts): string {
   return `day=${day} tasks=${counts.tasks} temperTasks=${counts.temperTasks}`
 }
 
-export function valuesFollowedIn(root: string): string {
-  return join(root, indexNamed(), indexValue.name)
+export function foldersFollowedIn(root: string): ReadonlySet<string> {
+  const folders = new Set<string>([join(root, TO_DOS_AT), join(root, TEMPER_TASKS_AT)])
+  for (const slug of COUNTED_TYPES) {
+    const pages = everyOfType(root, slug).map((one) => join(root, one.path))
+    for (const one of dirsOf(pages)) folders.add(one)
+  }
+  return folders
 }
 
 export async function carryCounts(
@@ -99,18 +117,36 @@ export function watchInboxCounts(to: string, log: WatchLogger): () => undefined 
     return undefined
   }
 
-  const following = followFolders(
-    new Set([valuesFollowedIn(root)]),
-    (): undefined => {
-      take().catch((thrown: unknown) => {
-        log("ERROR", saidBy(thrown))
-        process.exit(1)
-      })
-      return undefined
-    },
-    SETTLE_MS
-  )
-  return following.stop
+  let following: Following | null = null
+  let watched = ""
+
+  const refollow = (): undefined => {
+    const folders = foldersFollowedIn(root)
+    const key = [...folders].sort().join("\n")
+    if (key === watched) return undefined
+    following?.stop()
+    watched = key
+    following = followFolders(
+      folders,
+      (): undefined => {
+        take().catch((thrown: unknown) => {
+          log("ERROR", saidBy(thrown))
+          process.exit(1)
+        })
+        refollow()
+        return undefined
+      },
+      SETTLE_MS
+    )
+    return undefined
+  }
+
+  refollow()
+  return (): undefined => {
+    following?.stop()
+    following = null
+    return undefined
+  }
 }
 
 export function runInboxCountWatch(to: string): () => undefined {
