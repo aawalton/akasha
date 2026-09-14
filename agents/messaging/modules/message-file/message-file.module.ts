@@ -21,6 +21,10 @@ export const messageFile = {
     },
     {
       invariantKind: "departure",
+      statement: "A message page names its seat by page type and slug, and reads back as the name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A message addressed to no seat the seat index knows is refused.",
     },
     {

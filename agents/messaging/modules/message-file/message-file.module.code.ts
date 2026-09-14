@@ -8,6 +8,7 @@ import {
 import { whyRefused } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   akashaRoot,
@@ -17,13 +18,18 @@ import {
   removeUncommitted,
   uncommittedIn,
 } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugAt,
+  textAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   composedFor,
   pagesAtFor,
 } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 
 const PAGE_TYPE = "message"
+
+const SEAT = "seat"
 
 const WRITER = "message-file-writer"
 
@@ -115,7 +121,7 @@ export async function writeMessage(stated: {
       id,
       type: PAGE_TYPE,
       slug,
-      to: stated.to,
+      to: namedAs(SEAT, stated.to, null),
       from: stated.from,
       warrant: stated.warrant,
       body,
@@ -156,7 +162,7 @@ function pageMessages(): readonly Message[] {
     if (slug === null) continue
     held.push({
       id: slug,
-      to: textAt(one.value, "to") ?? "",
+      to: slugAt(one.value, "to") ?? "",
       from: textAt(one.value, "from") ?? "",
       warrant: one.value["warrant"] === "blocked" ? "blocked" : "announce",
       body: textAt(one.value, "body") ?? "",
