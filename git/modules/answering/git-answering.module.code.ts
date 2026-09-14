@@ -100,14 +100,6 @@ async function ranIn(
   }
 }
 
-export async function runGitRaw(
-  args: readonly string[],
-  cwd: string,
-  options?: RunOptions
-): Promise<RunResult> {
-  return ranIn([GIT_BIN, ...args], cwd, options)
-}
-
 export async function runGit(
   args: readonly string[],
   cwd: string,

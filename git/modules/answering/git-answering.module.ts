@@ -48,10 +48,6 @@ export const gitAnswering = {
       statement: "The streams git wrote are answered trimmed.",
     },
     {
-      invariantKind: "departure",
-      statement: "The raw door answers those streams untrimmed.",
-    },
-    {
       invariantKind: "gap",
       statement: "`git-running` runs git the other way.",
     },
