@@ -11,40 +11,40 @@ export const blockHistorySearch = {
   overTools: ["Bash"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A search of history for a change to some text is refused wherever this reads it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "`-S`, `-G` and `--pickaxe-regex` are the three flags read as such a search.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "`log` and `rev-list` are the two acts read as such a search.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A flag joined to its text is read as that flag.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The refusal names what answers the question that is not a history question.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Such a search reads every commit in the repository whatever flags narrow it.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Dropping `--all` from such a search costs the same.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Which files name a symbol now is answered by the index and by a working-tree search.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No search of commit messages is read here.",
     },
   ],

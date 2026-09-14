@@ -11,41 +11,41 @@ export const blockBunTest = {
   overTools: ["Bash"],
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A `bun test` made inside the checkout is refused whatever paths that call names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A `bun test` this reads as a command word is refused whatever paths it names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The refusal names the apply rather than the draft as where the tests run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A prefix that only runs the call behind that prefix does not hide a `bun test` from this hook.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No word after the act is read.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "`bun run test` is not read here.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "`bun test` runs a filter over every test file rather than a path `bun test` is handed.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The repository root is the akasha folder.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every test file the akasha folder has is an akasha test.",
     },
   ],

@@ -11,56 +11,56 @@ export const blockTypecheck = {
   overTools: ["Bash"],
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every `tsc` call is refused whether the call names a file or names no file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A `tsc` call in the command word is refused whether it names a file or none.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A `bun typecheck` and a `bun run typecheck` are refused with `tsc`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The refusal names `akasha audit --check typecheck`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Tsc reached by a path is the same call and is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Tsc reached through a runner is the same call and is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A prefix that only runs the call behind that prefix does not hide a `tsc` from this hook.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A flag before the script name does not hide a `bun run typecheck`.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The repository's own `tsconfig.json` names no file.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A `tsc` run at the repository root compiles no file and exits 0.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A check reporting success over no file reads exactly like a check that passed.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A package script reaching a compiler is not read here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A compiler under another name is refused as `tsc` under its own name is.",
     },
   ],
