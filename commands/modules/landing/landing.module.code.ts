@@ -60,10 +60,8 @@ import {
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import {
   asideOnto,
-  filedOnto,
   movedOnto,
   movesHeld,
-  unfiledOnto,
 } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import {
   outsideRoot,
@@ -79,7 +77,6 @@ import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { valueByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { underIndex } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
@@ -367,7 +364,6 @@ export async function landing(
       const put = wroteOnto(root, putting)
       const noted = indexed(root, edits, moving.committing, before, keeping)
       const back = movedOnto(root, moves)
-      filedOnto(root, moving.uncommitted)
       try {
         const onto = split.committing.filter((one) => lands.has(one.path))
         const then = wroteOnto(root, onto)
@@ -388,7 +384,6 @@ export async function landing(
           const ignoredGone = wroteOnto(root, rest)
           const untracked = [...new Set([...aside.took, ...ignoredGone.took])].sort()
           aside.done()
-          for (const one of untracked) partUnfiled(root, one)
           const gone = [...put.took, ...then.took, ...moves.map((one) => one.from), ...untracked]
           const finished = finishedOver(root, gone, moves, homedir())
           return { ...finished, base, commit, wrote, took, noted, untracked }
@@ -398,7 +393,6 @@ export async function landing(
         }
       } catch (thrown) {
         back()
-        unfiledOnto(root, moving.uncommitted)
         throw thrown
       }
     } catch (thrown) {

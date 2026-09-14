@@ -32,14 +32,6 @@ export const pathMoving = {
     },
     {
       invariantKind: "departure",
-      statement: "A path moved is filed in the index as taken away where that move started.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path moved is filed in the index as written where that move lands.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body judged where a move lands is the body that move started from.",
     },
     {

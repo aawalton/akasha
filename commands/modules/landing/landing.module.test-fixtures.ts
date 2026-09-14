@@ -20,7 +20,6 @@ import { refreshedFrom } from "akasha/pages/indexes/modules/indexing/indexing.mo
 import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import { everythingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import {
   bodyOf,
   butTheStamp,
@@ -157,31 +156,6 @@ export async function pageLanded(root: string): Promise<string> {
   await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
   await landing(root, rowsIn(root, [{ path: PAGE, body: bytesOf(A) }]), "held", ADMITS)
   return root
-}
-
-const BESIDE_HELD = "akasha/a.domain.entries.uncommitted.jsonl"
-
-export async function besideTook(): Promise<{
-  readonly before: readonly string[]
-  readonly after: readonly string[]
-}> {
-  const root = await pageLanded(repoWith({ ".gitignore": "*.uncommitted.*\n" }))
-  writeFileSync(join(root, BESIDE_HELD), "{}\n")
-  partFiled(root, PAGE, BESIDE_HELD)
-  const held = (): readonly string[] =>
-    everythingFiled(root).filter((one) => one.includes("a.domain.entries"))
-  const before = held()
-  const said = await landing(
-    root,
-    rowsIn(root, [
-      { path: PAGE, body: null },
-      { path: BESIDE_HELD, body: null },
-    ]),
-    "the page and what sits beside it come down",
-    ADMITS
-  )
-  if ("refusals" in said) throw new Error(said.refusals.join("; "))
-  return { before, after: held() }
 }
 
 const HELD_OUT = "deep/held.uncommitted.json"
