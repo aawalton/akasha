@@ -13,13 +13,13 @@ test("each page is named for the slug and the page type it states", () => {
 
 test("what is carried is the system's own declaration of what an identity is filed by", () => {
   const held = declaringUnder("held")
-  expect(held["held/id.text-property.ts"]).toContain('"unique":"page"')
-  expect(held["held/slug.text-property.ts"]).toContain('"unique":"page-type"')
+  expect(held["held/id.text-property.ts"]).toContain('"unique":"unique-kind/page"')
+  expect(held["held/slug.text-property.ts"]).toContain('"unique":"unique-kind/page-type"')
 })
 
 test("the kind a carried property names is carried, and says when it works its value out", () => {
   const held = declaringUnder("held")
-  expect(held["held/id.text-property.ts"]).toContain('"generator":"uuid-v7"')
+  expect(held["held/id.text-property.ts"]).toContain('"generator":"generator-kind/uuid-v7"')
   expect(held["held/uuid-v7.generator-kind.ts"]).toContain('"afterChecks":false')
 })
 
