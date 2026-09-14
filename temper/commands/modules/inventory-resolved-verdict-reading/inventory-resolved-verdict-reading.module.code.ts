@@ -19,7 +19,7 @@ const OUTBOX_KEY = "pendingSettingsMutations"
 
 const ABSENT = "-"
 
-export const ORDERED_RULE = "ordered-rule"
+const ORDERED_RULE = "ordered-rule"
 
 const ITEM_RULE = "item-rule"
 
@@ -41,11 +41,11 @@ const BY_PRIORITY = "character:by-priority"
 
 const STOCK_SURPLUS_SINK = "bank"
 
-export const ACTION = "action"
+const ACTION = "action"
 
-export const DESTINATION = "destination"
+const DESTINATION = "destination"
 
-export const RULE = "rule"
+const RULE = "rule"
 
 export interface Verdict {
   readonly action: string

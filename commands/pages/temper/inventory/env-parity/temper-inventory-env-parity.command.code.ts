@@ -174,7 +174,7 @@ export function rowsSaid(rows: readonly EnvParityRow[], items: number): readonly
   ]
 }
 
-export function foundSaid(out: EnvParityJson): readonly string[] {
+function foundSaid(out: EnvParityJson): readonly string[] {
   if (out.disagreed === 0) return []
   return [
     `${String(out.disagreed)} of ${String(out.items)} items are decided differently by the two ` +

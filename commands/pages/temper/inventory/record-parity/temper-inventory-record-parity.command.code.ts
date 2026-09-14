@@ -91,7 +91,7 @@ export interface Coverage {
   readonly itemsUncovered: number
 }
 
-export function shareSaid(part: number, whole: number): string {
+function shareSaid(part: number, whole: number): string {
   if (whole === 0) return "0.0%"
   return `${((part / whole) * 100).toFixed(1)}%`
 }
@@ -149,7 +149,7 @@ export interface RecordParityJson extends Coverage {
   readonly rows: readonly RecordParityRow[]
 }
 
-export function foundSaid(out: RecordParityJson): readonly string[] {
+function foundSaid(out: RecordParityJson): readonly string[] {
   if (out.disagreed === 0) return []
   return [
     `${String(out.disagreed)} of ${String(out.itemsCompared)} items carrying a record are ` +

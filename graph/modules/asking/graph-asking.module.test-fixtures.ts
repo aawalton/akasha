@@ -78,11 +78,11 @@ const TYPE_ID = "01a04ff4-0000-7000-8000-00000000000f"
 
 const LOADER_ID = "01a04ff4-0000-7000-8000-000000000010"
 
-export const MODULE_TYPE_ID = "01a04ff4-0000-7000-8000-000000000012"
+const MODULE_TYPE_ID = "01a04ff4-0000-7000-8000-000000000012"
 
 export const TYPE_AT = "akasha/held/held-type.page-type.ts"
 
-export const MODULE_TYPE_AT = "akasha/held/module.page-type.ts"
+const MODULE_TYPE_AT = "akasha/held/module.page-type.ts"
 
 export const LOADER_AT = "akasha/held/held-loader.module.ts"
 
