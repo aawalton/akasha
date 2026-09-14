@@ -5,5 +5,20 @@ export const comfy = {
   type: "domain",
   slug: "comfy",
   definition: "what ComfyUI is asked to run",
-  parts: ["module/comfy-graph"],
+  parts: ["domain/z-image-turbo", "module/comfy-graph"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A model that makes images is a domain whose subject is that one model.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The settings a model is loaded and sampled with are code rather than a page property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page has the lessons learned by generating with the model.",
+    },
+  ],
 } as const satisfies Domain
