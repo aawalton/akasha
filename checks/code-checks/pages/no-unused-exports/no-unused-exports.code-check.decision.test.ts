@@ -17,6 +17,8 @@ import {
   FIXTURES_AT,
   FIXTURES_CODE_AT,
   FIXTURES_PROVER,
+  FORMAT_AT,
+  FORMAT_TEXT,
   GENERATOR_AT,
   GENERATOR_TEXT,
   GUARD_AT,
@@ -284,6 +286,15 @@ test("the `mark` and the name made from a syntax rule's slug are spared in its c
 
 test("the `HOLDS` and the name made from a folder shape's slug are spared in its code", () => {
   const said = judging(landing(rooted(), { [SHAPE_AT]: bytesOf(SHAPE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the name made from a name format's slug is spared in that format's code", () => {
+  const said = judging(landing(rooted(), { [FORMAT_AT]: bytesOf(FORMAT_TEXT) })).map(
     (one) => one.reason
   )
 

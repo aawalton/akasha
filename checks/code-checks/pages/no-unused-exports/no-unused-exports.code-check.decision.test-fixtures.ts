@@ -73,6 +73,10 @@ export const SHAPE_TEXT =
   'export const HOLDS = ["held"]\n\n' +
   "export const spare = 2\n"
 
+export const FORMAT_AT = "akasha/held-thing.name-format.code.ts"
+
+export const FORMAT_TEXT = "export const heldThing = (): number => 1\n\nexport const spare = 2\n"
+
 export const WRITING_AT = "akasha/held.shell-script.scripting.code.ts"
 
 export const WRITING_TEXT = 'export const bodyIn = (): string => ""\n\nexport const spare = 2\n'
@@ -161,6 +165,7 @@ export function rooted(): string {
   typed(root, "code-check", "domain")
   typed(root, "syntax-rule", "domain")
   typed(root, "folder-shape", "domain")
+  typed(root, "name-format", "domain")
   typed(root, "shell-script", "domain")
   typed(root, "manifest", "domain")
   typed(root, "performance", "domain")

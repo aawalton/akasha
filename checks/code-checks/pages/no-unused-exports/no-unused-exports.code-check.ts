@@ -165,6 +165,10 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
+      statement: "The name made from a name format's slug is reached by the reader judging a name.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The `mark` and the name made from a syntax rule's slug are reached by its loader.",
     },

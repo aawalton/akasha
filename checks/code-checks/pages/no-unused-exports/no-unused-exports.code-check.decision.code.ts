@@ -89,6 +89,8 @@ const MARK = "mark"
 
 const SHAPE = "folder-shape"
 
+const FORMAT = "name-format"
+
 const HOLDS = "HOLDS"
 
 const CODE = "code"
@@ -258,7 +260,9 @@ function reachedBeside(said: Parted): ReadonlySet<string> | null {
   if (besideProperty(said, PAGE_TYPE, GENERATOR)) return GENERATED
   if (besideCode(said, RULE)) return new Set([MARK, exportedAs(said.slug)])
   if (besideCode(said, SHAPE)) return new Set([HOLDS, exportedAs(said.slug)])
-  if (besideCode(said, COMMAND) || besideCode(said, CHECK)) return new Set([exportedAs(said.slug)])
+  if (besideCode(said, COMMAND) || besideCode(said, CHECK) || besideCode(said, FORMAT)) {
+    return new Set([exportedAs(said.slug)])
+  }
   return null
 }
 
