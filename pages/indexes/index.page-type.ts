@@ -10,7 +10,6 @@ export const index = {
     "boolean-property/index-tracked",
     "index/index-identity",
     "index/index-import",
-    "index/index-listing",
     "index/index-relation",
     "index/index-rule",
     "index/index-shapes",

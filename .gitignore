@@ -16,7 +16,6 @@
 # the same commit. Which indexes those are is stated on their own pages, and a
 # line here is that statement's other half.
 .indexes/import/
-.indexes/listing/
 .indexes/rule/
 .indexes/shapes/
 .indexes/value/
