@@ -2,10 +2,6 @@ import type { FrameConfig } from "akasha/pages/core/schema/modules/detail-config
 
 export type FrameLoadScroll = NonNullable<NonNullable<FrameConfig["autoScroll"]>["loadScroll"]>
 
-export function frameIsEdgeToEdge(config: FrameConfig | undefined): boolean {
-  return config?.edgeToEdge === true
-}
-
 export function frameSupportsFocusMode(config: FrameConfig | undefined): boolean {
   return config?.focusMode === true
 }
@@ -21,8 +17,4 @@ export function frameFollowMode(config: FrameConfig | undefined): FrameFollowMod
   if (loadScroll === "end") return "bottom"
   if (loadScroll === "new-top") return "top"
   return null
-}
-
-export function frameEnablesFollow(config: FrameConfig | undefined): boolean {
-  return frameFollowMode(config) !== null
 }

@@ -46,32 +46,6 @@ export const PROPERTY_TYPE_OPS_REGISTRY = {
   "action-button": ACTION_BUTTON_OPS,
 } satisfies Partial<Record<PropertyType, PropertyTypeOps>>
 
-export const PROPERTY_TYPE_OPS_REGISTRY_KEYS: ReadonlyArray<
-  keyof typeof PROPERTY_TYPE_OPS_REGISTRY
-> = [
-  "text",
-  "calendar-date",
-  "calendar-time",
-  "instant",
-  "markdown",
-  "number",
-  "boolean",
-  "url",
-  "json",
-  "select",
-  "multi-select",
-  "path-select",
-  "relation",
-  "multi-relation",
-  "rollup",
-  "aggregate",
-  "formula",
-  "rrule",
-  "progress",
-  "rich-document",
-  "action-button",
-]
-
 export function propertyTypeRendersWhenEmpty(type: PropertyType): boolean {
   return PROPERTY_TYPE_OPS_REGISTRY[type]?.rendersWhenEmpty === true
 }
