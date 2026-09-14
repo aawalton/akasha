@@ -11,11 +11,20 @@ export const seatNameClaiming = {
     "module/seat-name-claim",
     "module/seat-name-held-refusal",
     "module/seat-parentless-refusal",
-    "module/seat-relaunch-name-decide",
     "module/seat-spawn-name-decide",
     "module/seat-stated-name-refusal",
     "module/seat-stated-parent-refusal",
     "module/skill-token-guard",
     "module/spawn-guard",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A name already on the seat's row is the name that seat comes back under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A revive is refused where the seat's row names that seat nothing.",
+    },
   ],
 } as const satisfies Domain
