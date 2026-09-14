@@ -125,6 +125,7 @@ export async function settleIterationExit(
   wiring.deferredRestart.cancel?.()
   wiring.deferredRestart.cancel = null
   wiring.preCliffMonitor?.stop()
+  wiring.stopSessionRotatedWatch()
 
   const { value: observedExit, notice: observedExitNotice } = await LIVE_CHILD_EXIT_RULE.classify({
     status: proc.exitStatus(),
