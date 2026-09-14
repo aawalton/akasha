@@ -20,7 +20,11 @@ export const codeEditorWindow = {
     },
   ],
   types: "ts",
-  parts: ["instant-property/observed-at", "text-property/window-features"],
+  parts: [
+    "instant-property/observed-at",
+    "module/window-page-sweeping",
+    "text-property/window-features",
+  ],
   properties: [
     {
       pageProperty: "instant-property/observed-at",
