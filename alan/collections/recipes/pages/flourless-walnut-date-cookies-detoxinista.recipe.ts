@@ -5,7 +5,7 @@ export const flourlessWalnutDateCookiesDetoxinista = {
   type: "recipe",
   slug: "flourless-walnut-date-cookies-detoxinista",
   title: "Flourless Walnut‑Date Cookies — Detoxinista",
-  partOfCollections: ["cookies"],
+  partOfCollections: ["recipe-collection/cookies"],
   position: 0,
   ownLength: 8750,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const easiestChocolateChipCookiesIHeartEating = {
   type: "recipe",
   slug: "easiest-chocolate-chip-cookies-i-heart-eating",
   title: "Easiest Chocolate Chip Cookies — I Heart Eating",
-  partOfCollections: ["cookies"],
+  partOfCollections: ["recipe-collection/cookies"],
   position: 0,
   ownLength: 6250,
   ownProgress: 0,

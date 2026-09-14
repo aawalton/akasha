@@ -5,7 +5,7 @@ export const healthyOatmealCookiesWellPlated = {
   type: "recipe",
   slug: "healthy-oatmeal-cookies-well-plated",
   title: "Healthy Oatmeal Cookies — Well Plated",
-  partOfCollections: ["cookies"],
+  partOfCollections: ["recipe-collection/cookies"],
   position: 0,
   ownLength: 7500,
   ownProgress: 0,
