@@ -1,5 +1,5 @@
 import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { dirname } from "node:path"
 import {
   readsFileAt,
   SUBAGENT_MARK,
@@ -9,12 +9,10 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   nothingFiled,
   pathFiled,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { mintedId } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -102,10 +100,6 @@ export function rootedAs(named: string): string {
 
 export function rooted(): string {
   return rootedAs("akasha-reading-")
-}
-
-export function claimedAt(root: string, at: string): readonly string[] {
-  return readingIn(root).lines(join(indexPath.name, `${at}.jsonl`))
 }
 
 export function rawAt(root: string, text: string): undefined {

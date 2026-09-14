@@ -22,7 +22,6 @@ import {
   A,
   AGENT,
   B,
-  claimedAt,
   DAY,
   HELD_SEAT,
   HELD_SUB,
@@ -62,16 +61,6 @@ test("an agent no page names holds no reading, and a read of one records nothing
   expect(readsFileAt(root, NOBODY)).toBeNull()
   recordRead(root, NOBODY, { path: A, oid: "one", seenAt: 1, carriedOid: null })
   expect(readingIn(root, NOBODY, A)).toBeNull()
-})
-
-test("a readings file is claimed for its page in the index as that file opens", () => {
-  const root = rooted()
-  const page = seatPageOf(HELD_SEAT)
-  const at = readsBeside(page)
-  expect(claimedAt(root, at)).toEqual([])
-  recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, carriedOid: null })
-  expect(claimedAt(root, at)).toEqual(claimedAt(root, page))
-  expect(claimedAt(root, at).length).toBe(1)
 })
 
 test("a reading recorded is the reading read back", () => {

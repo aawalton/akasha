@@ -64,14 +64,6 @@ export const readRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "That file is claimed for its page in the index as the file opens.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page the index claims nothing for claims this file by nothing either.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An agent no page names holds no reading, and a read of one records nothing.",
     },
     {
