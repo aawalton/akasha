@@ -7,11 +7,11 @@ export const testTsx = {
   definition: "a file of TypeScript source with markup, with tests",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file whose name ends `test.tsx` is of this purpose.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A test written with markup is of this purpose rather than of `test-ts`.",
     },
   ],

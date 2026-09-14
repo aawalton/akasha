@@ -7,11 +7,11 @@ export const testTs = {
   definition: "a file of TypeScript source holding tests",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file whose name ends `test.ts` is of this purpose.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The ending sits here as prose until a purpose can state an ending as a property.",
     },
   ],
