@@ -5,7 +5,7 @@ export const olwenPagesSystemDisplay = {
   type: "initiative",
   slug: "olwen-pages-system-display",
   domain: "domain/design-interfaces-system",
-  persona: "olwen",
+  persona: "persona/olwen",
   intentStack: [
     {
       statement:

@@ -5,7 +5,7 @@ export const nimueWorkstationUpgrade = {
   type: "initiative",
   slug: "nimue-workstation-upgrade",
   domain: "domain/infrastructure",
-  persona: "nimue",
+  persona: "persona/nimue",
   intentStack: [
     {
       statement: "The workstation's memory runs at the speed its modules are rated for.",

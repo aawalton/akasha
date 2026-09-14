@@ -5,7 +5,7 @@ export const aineResourceManagement = {
   type: "initiative",
   slug: "aine-resource-management",
   domain: "domain/memory",
-  persona: "aine",
+  persona: "persona/aine",
   intentStack: [
     {
       statement: "Every check an agent runs has a memory ceiling of its own.",

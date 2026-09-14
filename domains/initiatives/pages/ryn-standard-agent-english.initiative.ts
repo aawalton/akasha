@@ -5,7 +5,7 @@ export const rynStandardAgentEnglish = {
   type: "initiative",
   slug: "ryn-standard-agent-english",
   domain: "domain/plain-language",
-  persona: "ryn",
+  persona: "persona/ryn",
   intentStack: [
     {
       statement: "The load a construction puts on a reading agent is measured.",

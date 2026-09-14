@@ -5,7 +5,7 @@ export const amyTelnyxApproval = {
   type: "initiative",
   slug: "amy-telnyx-approval",
   domain: "domain/alan-harness",
-  persona: "amy",
+  persona: "persona/amy",
   intentStack: [
     {
       statement: "Telnyx has verified the toll-free number Alan's harness texts from.",

@@ -5,7 +5,7 @@ export const aranyaOffloadToCluster = {
   type: "initiative",
   slug: "aranya-offload-to-cluster",
   domain: "domain/infrastructure",
-  persona: "aranya",
+  persona: "persona/aranya",
   intentStack: [{ statement: "Builds and deploys run on the cluster." }],
   constraints: [
     "A build or a deploy is triggered on the workstation and runs nowhere on it.",

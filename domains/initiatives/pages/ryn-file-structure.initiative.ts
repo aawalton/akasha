@@ -5,7 +5,7 @@ export const rynFileStructure = {
   type: "initiative",
   slug: "ryn-file-structure",
   domain: "domain/file",
-  persona: "ryn",
+  persona: "persona/ryn",
   intentStack: [
     {
       statement: "No page states a plural slug.",

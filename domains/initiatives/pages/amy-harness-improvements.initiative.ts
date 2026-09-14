@@ -5,7 +5,7 @@ export const amyHarnessImprovements = {
   type: "initiative",
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
-  persona: "amy",
+  persona: "persona/amy",
   intentStack: [
     {
       statement:

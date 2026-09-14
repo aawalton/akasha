@@ -5,7 +5,7 @@ export const dallaWorktrees = {
   type: "initiative",
   slug: "dalla-worktrees",
   domain: "domain/git",
-  persona: "dalla",
+  persona: "persona/dalla",
   intentStack: [
     {
       statement:

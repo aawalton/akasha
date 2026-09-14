@@ -5,5 +5,5 @@ export const eppieMusicImprovements = {
   type: "initiative",
   slug: "eppie-music-improvements",
   domain: "domain/music",
-  persona: "eppie",
+  persona: "persona/eppie",
 } as const satisfies Initiative

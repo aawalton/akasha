@@ -5,7 +5,7 @@ export const sophiaAgentStopHook = {
   type: "initiative",
   slug: "sophia-agent-stop-hook",
   domain: "domain/hook",
-  persona: "sophia",
+  persona: "persona/sophia",
   intentStack: [
     {
       statement: "No clean turn Alan has labelled draws a refusal from the live judge.",

@@ -5,7 +5,7 @@ export const akashaFolderShape = {
   type: "initiative",
   slug: "akasha-folder-shape",
   domain: "domain/akasha",
-  persona: "akasha",
+  persona: "persona/akasha",
   intentStack: [
     {
       statement: "Every relation value in akasha is a page address of one of the three kinds.",

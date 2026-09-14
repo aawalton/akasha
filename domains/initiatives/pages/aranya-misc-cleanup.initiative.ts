@@ -5,7 +5,7 @@ export const aranyaMiscCleanup = {
   type: "initiative",
   slug: "aranya-misc-cleanup",
   domain: "domain/infrastructure",
-  persona: "aranya",
+  persona: "persona/aranya",
   intentStack: [
     {
       statement: "A mechanical landing is reached through one entry point.",

@@ -5,7 +5,7 @@ export const theaChecksSystem = {
   type: "initiative",
   slug: "thea-checks-system",
   domain: "domain/check",
-  persona: "thea",
+  persona: "persona/thea",
   intentStack: [
     {
       statement: "The check passes over a value a runner reaches by path rather than by import.",

@@ -5,7 +5,7 @@ export const aelwynStrengthTraining = {
   type: "initiative",
   slug: "aelwyn-strength-training",
   domain: "domain/fitness",
-  persona: "aelwyn",
+  persona: "persona/aelwyn",
   intentStack: [
     {
       statement: "The fitness domain carries no debris from earlier attempts.",

@@ -5,7 +5,7 @@ export const astraIndexCleanup = {
   type: "initiative",
   slug: "astra-index-cleanup",
   domain: "page-type/index",
-  persona: "astra",
+  persona: "persona/astra",
   intentStack: [
     {
       statement: "A change lands the index entries its own file changes imply, and no others.",

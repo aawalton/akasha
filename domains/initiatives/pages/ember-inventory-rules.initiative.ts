@@ -5,7 +5,7 @@ export const emberInventoryRules = {
   type: "initiative",
   slug: "ember-inventory-rules",
   domain: "domain/temper",
-  persona: "ember",
+  persona: "persona/ember",
   intentStack: [
     {
       statement:

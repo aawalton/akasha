@@ -5,7 +5,7 @@ export const aineFindingsToZero = {
   type: "initiative",
   slug: "aine-findings-to-zero",
   domain: "page-type/finding",
-  persona: "aine",
+  persona: "persona/aine",
   intentStack: [
     {
       statement: "No finding is left.",
