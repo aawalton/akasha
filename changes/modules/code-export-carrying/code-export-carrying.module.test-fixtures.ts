@@ -134,6 +134,34 @@ export type Wraps = {
 }
 `
 
+export const ALSO_LANDING = `import type { Kept } from "./one.held.ts"
+import { OTHER } from "./two.held.ts"
+
+export type Wraps = {
+  readonly kept: Kept
+  readonly other: typeof OTHER
+}
+`
+
+export const ALSO_LANDING_PART = `import type { Kept, Other } from "./one.held.ts"
+import { OTHER } from "./two.held.ts"
+
+export type Wraps = {
+  readonly kept: Kept
+  readonly held: Other
+  readonly other: typeof OTHER
+}
+`
+
+export const ALSO_LANDING_EVERY = `import type { Kept } from "./one.held.ts"
+import * as two from "./two.held.ts"
+
+export type Wraps = {
+  readonly kept: Kept
+  readonly other: typeof two
+}
+`
+
 export const FAR_USING = `import type { Kept } from "../one.held.ts"
 
 export type Holds = {

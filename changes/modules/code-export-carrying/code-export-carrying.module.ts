@@ -129,6 +129,16 @@ export const codeExportCarrying = {
     {
       invariantKind: "departure",
       statement:
+        "An export carried joins the line the body naming it already takes from that landing.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A line that body takes from the landing under a default or a namespace is joined by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A body naming such an export under another name goes on naming the export under that name.",
     },
     {

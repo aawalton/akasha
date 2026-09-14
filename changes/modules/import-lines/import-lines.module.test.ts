@@ -10,7 +10,10 @@ import {
   namingOf,
   namingsIn,
   openedIn,
+  pointedTo,
+  type Taken,
   withName,
+  withNames,
   withoutNames,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
@@ -186,4 +189,81 @@ test("a body taking nothing from that path, or already naming it, is left whole"
 
   expect(withName(text, source, "./other.module.code.ts", "three", false)).toBe(null)
   expect(withName(text, source, AT_HELD, "one", false)).toBe(null)
+})
+
+const AT_LANDING = "./landing.module.code.ts"
+
+function pointing(text: string, named: readonly string[], landing: string): readonly Taken[] {
+  const one = lineAt(text, 0)
+  const bound = one === null ? null : namedIn(one)
+  if (one === null || bound === null) return []
+  const going = bound.elements.filter((each) => named.includes(each.name.text))
+  return pointedTo(text, parsedAs(AT, text), one, bound, going, landing)
+}
+
+test("names repointed to a path the body already takes join that line and leave their own", () => {
+  const text = `${VALUES}\nimport { held } from "${AT_LANDING}"\n`
+
+  expect(pointing(text, ["one"], AT_LANDING)).toEqual([
+    { old: VALUES, new: `import { two } from "${AT_HELD}"` },
+    {
+      old: `import { held } from "${AT_LANDING}"`,
+      new: `import { held, one } from "${AT_LANDING}"`,
+    },
+  ])
+})
+
+test("a line every name leaves goes whole where those names join another line", () => {
+  const text = `${VALUES}\nimport { held } from "${AT_LANDING}"\n`
+
+  expect(pointing(text, ["one", "two"], AT_LANDING)).toEqual([
+    { old: `${VALUES}\n`, new: "" },
+    {
+      old: `import { held } from "${AT_LANDING}"`,
+      new: `import { held, one, two } from "${AT_LANDING}"`,
+    },
+  ])
+})
+
+test("names repointed where the body takes no such line are spelled on a line of their own", () => {
+  const text = `${VALUES}\n`
+
+  expect(pointing(text, ["one"], AT_LANDING)).toEqual([
+    { old: VALUES, new: `import { two } from "${AT_HELD}"\nimport { one } from "${AT_LANDING}"` },
+  ])
+})
+
+test("a line every name leaves is respelled where the body takes no such line", () => {
+  const text = `${VALUES}\n`
+
+  expect(pointing(text, ["one", "two"], AT_LANDING)).toEqual([
+    { old: VALUES, new: `import { one, two } from "${AT_LANDING}"` },
+  ])
+})
+
+test("a line bound under a default name is joined by no name", () => {
+  const text = `${VALUES}\nimport held, { kept } from "${AT_LANDING}"\n`
+
+  expect(withName(text, parsedAs(AT, text), AT_LANDING, "one", false)).toBe(null)
+  expect(pointing(text, ["one"], AT_LANDING)).toEqual([
+    { old: VALUES, new: `import { two } from "${AT_HELD}"\nimport { one } from "${AT_LANDING}"` },
+  ])
+})
+
+test("names joining one line together are each marked as that line and each name ask", () => {
+  const text = `${TYPES}\nimport { held } from "${AT_LANDING}"\n`
+  const joined = withNames(text, parsedAs(AT, text), AT_LANDING, [
+    taking("one", AT_LANDING),
+    taking("Kept", AT_LANDING, true),
+  ])
+
+  expect(joined?.new).toBe(`import { held, one, type Kept } from "${AT_LANDING}"`)
+})
+
+test("a name under another name keeps that name where it joins the line", () => {
+  const text = `import { one as held } from "${AT_HELD}"\nimport { kept } from "${AT_LANDING}"\n`
+
+  expect(pointing(text, ["held"], AT_LANDING)[1]?.new).toBe(
+    `import { kept, one as held } from "${AT_LANDING}"`
+  )
 })

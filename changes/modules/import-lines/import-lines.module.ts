@@ -101,6 +101,28 @@ export const importLines = {
     },
     {
       invariantKind: "departure",
+      statement: "A line bound under a default name is joined by no name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Names repointed to another path leave their line and join the line from that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line every name repointed leaves goes whole rather than staying empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Names repointed where the body takes no line from that path are written as a line of their own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line every name repointed leaves is respelled where there is no line to join.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Every name a body's import lines bind is answered together with the name at its source.",
     },

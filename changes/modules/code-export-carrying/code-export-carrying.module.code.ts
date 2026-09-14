@@ -14,11 +14,13 @@ import {
   everyIn,
   importsIn,
   linesOf,
+  namedAs,
   namedIn,
   namesIn,
   namingOf,
   namingsIn,
   openedIn,
+  pointedTo,
   type Taken,
   type Taking,
   withName,
@@ -97,10 +99,6 @@ function unionOf(going: readonly Going[]): ReadonlyMap<string, Carrying> {
     for (const [name, held] of one.carried) found.set(name, held)
   }
   return found
-}
-
-function namedAs(name: string, naming: string): string {
-  return naming === name ? name : `${naming} as ${name}`
 }
 
 function takingOf(name: string, spelled: string, one: Carrying): Taking {
@@ -200,35 +198,6 @@ function backIn(
   return { at: given.from, old: anchor, new: `${anchor}${LINE}${line}` }
 }
 
-function pointedAt(
-  text: string,
-  one: ts.ImportDeclaration,
-  bound: ts.NamedImports,
-  going: readonly ts.ImportSpecifier[],
-  landing: string
-): string {
-  const source = one.getSourceFile()
-  const named = one.moduleSpecifier
-  if (going.length === bound.elements.length) {
-    const head = text.slice(one.getStart(source), named.getStart(source))
-    return `${head}${JSON.stringify(landing)}${text.slice(named.getEnd(), one.getEnd())}`
-  }
-  const whole = one.importClause?.isTypeOnly === true
-  const taking = going.map((each) => ({
-    name: namedAs(each.name.text, namingOf(each)),
-    from: landing,
-    type: whole || each.isTypeOnly,
-    every: false,
-  }))
-  const kept = withoutNames(
-    text,
-    source,
-    going.map((each) => each.name.text)
-  )[0]
-  if (kept === undefined) return text.slice(one.getStart(source), one.getEnd())
-  return `${kept.new}${LINE}${linesOf(taking).join(LINE)}`
-}
-
 function landingFor(
   at: string,
   spelled: string,
@@ -251,7 +220,7 @@ function repointedAt(
   given: Asked,
   of: ReadonlySet<string>,
   naming: ReadonlyMap<string, string>
-): Passage | null {
+): readonly Passage[] {
   const source = parsedAs(at, text)
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
@@ -262,10 +231,9 @@ function repointedAt(
     if (going.length === 0) continue
     const landing = landingFor(at, named.text, given, naming)
     if (landing === null) continue
-    const old = text.slice(one.getStart(source), one.getEnd())
-    return { at, old, new: pointedAt(text, one, bound, going, landing) }
+    return pointedTo(text, source, one, bound, going, landing).map((each) => ({ at, ...each }))
   }
-  return null
+  return []
 }
 
 function repointedIn(
@@ -279,8 +247,7 @@ function repointedIn(
     if (at === given.to) continue
     const held = world.textOf(at)
     if (held === null) return { refused: `\`${at}\` names what moved and could not be read` }
-    const one = repointedAt(held, at, given, of, naming)
-    if (one !== null) found.push(one)
+    found.push(...repointedAt(held, at, given, of, naming))
   }
   return found
 }

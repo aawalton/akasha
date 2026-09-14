@@ -183,6 +183,41 @@ export function withoutNames(
   return found
 }
 
+export function namedAs(name: string, naming: string): string {
+  return naming === name ? name : `${naming} as ${name}`
+}
+
+export function withNames(
+  text: string,
+  source: ts.SourceFile,
+  spelled: string,
+  taking: readonly Taking[]
+): Taken | null {
+  for (const one of source.statements) {
+    if (!ts.isImportDeclaration(one)) continue
+    const bound = namedIn(one)
+    const from = one.moduleSpecifier
+    if (bound === null || !ts.isStringLiteral(from) || from.text !== spelled) continue
+    if (one.importClause?.name !== undefined) return null
+    const held = new Set(bound.elements.map((each) => each.name.text))
+    const adding = taking.filter((each) => !held.has(each.name))
+    if (adding.length === 0) return null
+    const whole = one.importClause?.isTypeOnly === true
+    const typed = whole && adding.every((each) => each.type)
+    const kept = bound.elements.map((each) => {
+      const said = text.slice(each.getStart(source), each.getEnd())
+      return whole && !typed ? `type ${said}` : said
+    })
+    const added = adding.map((each) => (!typed && each.type ? `type ${each.name}` : each.name))
+    const tail = text.slice(from.getStart(source), from.getEnd())
+    return {
+      old: text.slice(one.getStart(source), one.getEnd()),
+      new: `import ${typed ? "type " : ""}{ ${[...kept, ...added].join(", ")} } from ${tail}`,
+    }
+  }
+  return null
+}
+
 export function withName(
   text: string,
   source: ts.SourceFile,
@@ -190,27 +225,40 @@ export function withName(
   named: string,
   type: boolean
 ): Taken | null {
-  for (const one of source.statements) {
-    if (!ts.isImportDeclaration(one)) continue
-    const bound = namedIn(one)
-    const from = one.moduleSpecifier
-    if (bound === null || !ts.isStringLiteral(from) || from.text !== spelled) continue
-    if (bound.elements.some((each) => each.name.text === named)) return null
-    const whole = one.importClause?.isTypeOnly === true
-    const marked = whole && !type
-    const kept = bound.elements.map((each) => {
-      const held = text.slice(each.getStart(source), each.getEnd())
-      return marked ? `type ${held}` : held
-    })
-    const added = !whole && type ? `type ${named}` : named
-    const head = `import ${whole && type ? "type " : ""}`
-    const tail = text.slice(from.getStart(source), from.getEnd())
-    return {
-      old: text.slice(one.getStart(source), one.getEnd()),
-      new: `${head}{ ${[...kept, added].join(", ")} } from ${tail}`,
-    }
+  return withNames(text, source, spelled, [{ name: named, from: spelled, type, every: false }])
+}
+
+export function pointedTo(
+  text: string,
+  source: ts.SourceFile,
+  one: ts.ImportDeclaration,
+  bound: ts.NamedImports,
+  going: readonly ts.ImportSpecifier[],
+  landing: string
+): readonly Taken[] {
+  const whole = one.importClause?.isTypeOnly === true
+  const taking = going.map((each) => ({
+    name: namedAs(each.name.text, namingOf(each)),
+    from: landing,
+    type: whole || each.isTypeOnly,
+    every: false,
+  }))
+  const gone = withoutNames(
+    text,
+    source,
+    going.map((each) => each.name.text)
+  )[0]
+  const joined = withNames(text, source, landing, taking)
+  if (joined !== null && gone !== undefined) return [gone, joined]
+  const old = text.slice(one.getStart(source), one.getEnd())
+  if (going.length === bound.elements.length) {
+    const named = one.moduleSpecifier
+    const head = text.slice(one.getStart(source), named.getStart(source))
+    const tail = text.slice(named.getEnd(), one.getEnd())
+    return [{ old, new: `${head}${JSON.stringify(landing)}${tail}` }]
   }
-  return null
+  if (gone === undefined) return [{ old, new: old }]
+  return [{ old, new: `${gone.new}${LINE}${linesOf(taking).join(LINE)}` }]
 }
 
 export function anchorIn(text: string, source: ts.SourceFile): string | null {

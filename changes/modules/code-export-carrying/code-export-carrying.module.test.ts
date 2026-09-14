@@ -3,6 +3,9 @@ import {
   ALIASING,
   ALIASING_TWO,
   ALREADY,
+  ALSO_LANDING,
+  ALSO_LANDING_EVERY,
+  ALSO_LANDING_PART,
   BACK_ALREADY,
   BARE,
   BOTH,
@@ -352,4 +355,34 @@ test("that one rewrite keeps the name the importer takes from the body left behi
     `import type { Stays } from "./one.held.ts"\n` +
       `import type { Kept, Other } from "./two.held.ts"`,
   ])
+})
+
+test("an importer already taking a line from the landing joins what moved to that line", () => {
+  const made = planOf({ [FROM]: HELD, [TO]: BARE, [USES]: ALSO_LANDING }, KEPT, [USES])
+
+  expect(wroteAt(made, USES).join("")).toBe(`import { OTHER, type Kept } from "./two.held.ts"`)
+  expect(tookAt(made, USES)).toContain(`import type { Kept } from "./one.held.ts"\n`)
+})
+
+test("that joining keeps the name the importer still takes from the body left behind", () => {
+  const made = planOf({ [FROM]: HELD, [TO]: BARE, [USES]: ALSO_LANDING_PART }, KEPT, [USES])
+
+  expect(wroteAt(made, USES)).toEqual([
+    `import type { Other } from "./one.held.ts"`,
+    `import { OTHER, type Kept } from "./two.held.ts"`,
+  ])
+})
+
+test("every export carried joins that one line rather than opening a line each", () => {
+  const made = planOf({ [FROM]: HELD, [TO]: BARE, [USES]: ALSO_LANDING_PART }, TWO, [USES])
+
+  expect(wroteAt(made, USES).join("")).toBe(
+    `import { OTHER, type Kept, type Other } from "./two.held.ts"`
+  )
+})
+
+test("an importer whose line from the landing names no member takes a line of its own", () => {
+  const made = planOf({ [FROM]: HELD, [TO]: BARE, [USES]: ALSO_LANDING_EVERY }, KEPT, [USES])
+
+  expect(wroteAt(made, USES)).toEqual([`import type { Kept } from "./two.held.ts"`])
 })
