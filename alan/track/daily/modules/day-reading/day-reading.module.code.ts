@@ -39,10 +39,6 @@ export function askDayByDate(dayStr: string): Promise<Answered> {
   return Promise.resolve(dayAnswered({ date: { is: dayStr } }, undefined))
 }
 
-function askDayById(dailyId: string): Promise<Answered> {
-  return Promise.resolve(dayAnswered({ id: { is: dailyId } }, undefined))
-}
-
 async function only(asked: Promise<Answered>): Promise<Page | null> {
   const answer = await asked
   if (!answer.ok) throw dataError(`reading ${DAY_PAGE_TYPE} pages: ${answer.why}`)
@@ -52,10 +48,6 @@ async function only(asked: Promise<Answered>): Promise<Page | null> {
 
 export function dayByDate(dayStr: string): Promise<Page | null> {
   return only(askDayByDate(dayStr))
-}
-
-export function dayById(dailyId: string): Promise<Page | null> {
-  return only(askDayById(dailyId))
 }
 
 export async function dayValuesByDate(

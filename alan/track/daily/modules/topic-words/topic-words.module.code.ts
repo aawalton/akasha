@@ -194,14 +194,6 @@ export async function rollupIntelligenceTopicsForDay(
   return { intelligenceTopics: topics, shas, outcome }
 }
 
-export function countWisdomWordsForDay(roots: Roots, dayStr: string): Promise<DayWords> {
-  return countWordsForDay(roots, dayStr, WISDOM_PATHSPEC)
-}
-
-export function countIntelligenceTopicsForDay(roots: Roots, dayStr: string): Promise<DayTopics> {
-  return countTopicsForDay(roots, dayStr, INTELLIGENCE_PATHSPEC)
-}
-
 type Landing = readonly [string, () => Promise<{ outcome: WriteOutcome }>]
 
 export async function runTopicWords(): Promise<readonly string[]> {
