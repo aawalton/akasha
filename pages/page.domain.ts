@@ -9,7 +9,6 @@ export const page = {
   parts: [
     "domain/id",
     "domain/identity",
-    "domain/index",
     "domain/naming",
     "domain/page-commands",
     "domain/page-edge",
@@ -69,6 +68,7 @@ export const page = {
     "page-type/file-property",
     "page-type/file-property-group",
     "page-type/generator-kind",
+    "page-type/index",
     "page-type/instant-property",
     "page-type/name-format",
     "page-type/name-place",

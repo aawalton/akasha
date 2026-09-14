@@ -4,7 +4,7 @@ export const aRefreshOfTheCheckoutIndexIsAFleetOutageForAsLongAsItRuns = {
   id: "01a09c65-b55c-73e4-9aeb-1d3b00819192",
   type: "finding",
   slug: "a-refresh-of-the-checkout-index-is-a-fleet-outage-for-as-long-as-it-runs",
-  domain: "domain/index",
+  domain: "page-type/index",
   claim:
     "A refresh that writes takes `.indexes/.built` away as it opens (`indexing.module.code.ts:111-114`) and puts it back only as it closes (`:183`), and every reader decides whether an index is there at all by that one file (`index-surface.module.code.ts:71`). Every workstation unit reads the checkout's index through `AKASHA_ROOT`, so for the whole of a refresh every index read by every service throws `an index that is missing is not an index naming none`, the hook dispatch refuses every tool call of every seat, and a deploy whose test run overlaps the window is refused by `tests-pass` — after which `REFUSAL_SECONDS = 600` (`deploy-choosing.module.code.ts:3`) holds that kind for ten minutes. The refresh is the outage, and its length is the outage's length.",
   evidence:

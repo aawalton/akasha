@@ -4,7 +4,7 @@ export const aCheckFastenedToACommitStillReadsSixIndexesNoCommitHolds = {
   id: "01a09d18-7c52-7bfe-bed0-ce5ee72ac503",
   type: "finding",
   slug: "a-check-fastened-to-a-commit-still-reads-six-indexes-no-commit-holds",
-  domain: "domain/index",
+  domain: "page-type/index",
   claim:
     "A check judges outside the landing hold, so every store it reads may move under it. Two of the three stores are now fastened: `2d6f58fc98b` gave a change the commit it is judged against and reads the page bodies and the folder tree there, and `5d074c8c60f` reads the command tree from the index the change leaves. The third cannot be fastened the way those were. `.gitignore:18-23` keeps `import`, `listing`, `path`, `rule`, `shapes` and `value` out of every commit, so no commit holds those six to be read from, and one folder judgement read 38 such files beside 617 that are committed. Cost is not what stops it: 655 reads through the batched `git cat-file` reader cost 0ms once the tree is cached. Fastening only the committed 617 would make the remaining window rarer without closing it, and a rarer window is a harder one to catch.",
   evidence:

@@ -4,7 +4,7 @@ export const astraIndexCleanup = {
   id: "01a09108-ec5e-7c3f-9b3c-200822a1ef9b",
   type: "initiative",
   slug: "astra-index-cleanup",
-  domain: "domain/index",
+  domain: "page-type/index",
   persona: "astra",
   intentStack: [
     {
