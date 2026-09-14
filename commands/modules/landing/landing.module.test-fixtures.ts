@@ -124,7 +124,10 @@ const IMPORTED = "akasha/held.ts"
 const IMPORTING = "akasha/holding.ts"
 
 export async function edged(named: Readonly<Record<string, string | Uint8Array>>): Promise<string> {
-  const root = repoWith(named)
+  return await edgedOver(repoWith(named))
+}
+
+export async function edgedOver(root: string): Promise<string> {
   const said = await landing(
     root,
     rowsIn(root, [
@@ -151,8 +154,24 @@ export function pageRepo(): string {
   return repoWith({ [PAGE]: A })
 }
 
-export async function pageLanded(root: string): Promise<string> {
+let carriedAt: string | null = null
+
+async function carriedOnce(): Promise<string> {
+  if (carriedAt !== null) return carriedAt
+  const root = repoWith({ "seed.txt": "held" })
   await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
+  carriedAt = root
+  return root
+}
+
+export async function carriedRepo(): Promise<string> {
+  const from = await carriedOnce()
+  const root = scratch.rootFor("akasha-landing-")
+  saying(["cp", "-a", `${from}/.`, root])
+  return root
+}
+
+export async function pageLanded(root: string): Promise<string> {
   await landing(root, rowsIn(root, [{ path: PAGE, body: bytesOf(A) }]), "held", ADMITS)
   return root
 }
@@ -366,7 +385,7 @@ export async function rebuiltBeside(): Promise<{
   readonly landed: readonly string[]
   readonly again: readonly string[]
 }> {
-  const root = await pageLanded(repoWith({ "seed.txt": "held" }))
+  const root = await pageLanded(await carriedRepo())
   const rebuilt = scratch.rootFor("akasha-rebuilt-")
   refreshedFrom(join(root, "akasha"), rebuilt, root)
   return {
