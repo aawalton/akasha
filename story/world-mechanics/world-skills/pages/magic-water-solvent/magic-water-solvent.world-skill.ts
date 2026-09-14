@@ -5,6 +5,6 @@ export const magicWaterSolvent = {
   type: "world-skill",
   slug: "magic-water-solvent",
   title: "Magic-Water Solvent",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

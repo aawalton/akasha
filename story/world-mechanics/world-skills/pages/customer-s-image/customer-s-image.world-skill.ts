@@ -5,6 +5,6 @@ export const customerSImage = {
   type: "world-skill",
   slug: "customer-s-image",
   title: "Customer’s Image",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const writtenDecree = {
   type: "world-skill",
   slug: "written-decree",
   title: "Written Decree",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

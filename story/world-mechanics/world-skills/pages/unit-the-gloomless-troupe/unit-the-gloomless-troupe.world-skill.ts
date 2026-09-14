@@ -5,6 +5,6 @@ export const unitTheGloomlessTroupe = {
   type: "world-skill",
   slug: "unit-the-gloomless-troupe",
   title: "Unit: The Gloomless Troupe",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

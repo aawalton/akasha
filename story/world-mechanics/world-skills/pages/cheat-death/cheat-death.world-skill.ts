@@ -5,6 +5,6 @@ export const cheatDeath = {
   type: "world-skill",
   slug: "cheat-death",
   title: "Cheat Death",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

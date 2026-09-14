@@ -5,6 +5,6 @@ export const noMagicNoLuckNoSkillsOnlyStrategy = {
   type: "world-skill",
   slug: "no-magic-no-luck-no-skills-only-strategy",
   title: "No Magic, No Luck, No Skills, Only Strategy",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

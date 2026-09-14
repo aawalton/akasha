@@ -5,6 +5,6 @@ export const ablerBodiedAnimalsAnts = {
   type: "world-skill",
   slug: "abler-bodied-animals-ants",
   title: "Abler Bodied Animals (Ants)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

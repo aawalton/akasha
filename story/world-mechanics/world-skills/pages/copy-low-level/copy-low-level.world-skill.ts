@@ -5,5 +5,5 @@ export const copyLowLevel = {
   type: "world-skill",
   slug: "copy-low-level",
   title: "Copy Low-Level",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const unitAcidJarBlades = {
   type: "world-skill",
   slug: "unit-acid-jar-blades",
   title: "Unit: Acid Jar Blades",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

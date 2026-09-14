@@ -5,6 +5,6 @@ export const evasiveManeuver = {
   type: "world-skill",
   slug: "evasive-maneuver",
   title: "Evasive Maneuver",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

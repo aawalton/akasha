@@ -5,6 +5,6 @@ export const oreDetection = {
   type: "world-skill",
   slug: "ore-detection",
   title: "Ore Detection",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

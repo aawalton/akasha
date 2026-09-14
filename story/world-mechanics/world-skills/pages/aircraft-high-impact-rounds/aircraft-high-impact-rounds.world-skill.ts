@@ -5,6 +5,6 @@ export const aircraftHighImpactRounds = {
   type: "world-skill",
   slug: "aircraft-high-impact-rounds",
   title: "Aircraft: High Impact Rounds",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

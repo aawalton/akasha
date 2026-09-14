@@ -5,6 +5,6 @@ export const eachDeathAnotherBreath = {
   type: "world-skill",
   slug: "each-death-another-breath",
   title: "Each Death, Another Breath",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

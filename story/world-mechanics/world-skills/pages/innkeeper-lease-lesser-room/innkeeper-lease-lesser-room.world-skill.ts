@@ -5,5 +5,5 @@ export const innkeeperLeaseLesserRoom = {
   type: "world-skill",
   slug: "innkeeper-lease-lesser-room",
   title: "Innkeeper – Lease Lesser Room",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

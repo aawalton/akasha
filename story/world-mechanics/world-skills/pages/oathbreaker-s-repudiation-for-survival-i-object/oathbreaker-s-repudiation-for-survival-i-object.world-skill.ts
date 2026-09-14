@@ -5,6 +5,6 @@ export const oathbreakerSRepudiationForSurvivalIObject = {
   type: "world-skill",
   slug: "oathbreaker-s-repudiation-for-survival-i-object",
   title: "Oathbreaker’s Repudiation: “For survival, I object”",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

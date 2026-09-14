@@ -5,6 +5,6 @@ export const lootWeighsNothing = {
   type: "world-skill",
   slug: "loot-weighs-nothing",
   title: "Loot Weighs Nothing",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

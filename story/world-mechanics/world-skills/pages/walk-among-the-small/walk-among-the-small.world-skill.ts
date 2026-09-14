@@ -5,6 +5,6 @@ export const walkAmongTheSmall = {
   type: "world-skill",
   slug: "walk-among-the-small",
   title: "Walk Among the Small",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

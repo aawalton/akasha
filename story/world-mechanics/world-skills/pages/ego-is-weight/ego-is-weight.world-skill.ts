@@ -5,6 +5,6 @@ export const egoIsWeight = {
   type: "world-skill",
   slug: "ego-is-weight",
   title: "Ego is Weight",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const dragonscalePatch = {
   type: "world-skill",
   slug: "dragonscale-patch",
   title: "Dragonscale Patch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

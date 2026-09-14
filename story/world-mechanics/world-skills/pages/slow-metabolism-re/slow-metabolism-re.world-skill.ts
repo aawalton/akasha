@@ -5,5 +5,5 @@ export const slowMetabolismRe = {
   type: "world-skill",
   slug: "slow-metabolism-re",
   title: "Slow Metabolism Re",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

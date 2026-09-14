@@ -5,6 +5,6 @@ export const igniteCreation = {
   type: "world-skill",
   slug: "ignite-creation",
   title: "Ignite Creation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const soulSArmamentsMundane = {
   type: "world-skill",
   slug: "soul-s-armaments-mundane",
   title: "Soul’s Armaments: Mundane",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

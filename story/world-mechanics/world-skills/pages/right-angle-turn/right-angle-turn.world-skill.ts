@@ -5,6 +5,6 @@ export const rightAngleTurn = {
   type: "world-skill",
   slug: "right-angle-turn",
   title: "Right-Angle Turn",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

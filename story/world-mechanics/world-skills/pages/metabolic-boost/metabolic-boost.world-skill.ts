@@ -5,6 +5,6 @@ export const metabolicBoost = {
   type: "world-skill",
   slug: "metabolic-boost",
   title: "Metabolic Boost",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

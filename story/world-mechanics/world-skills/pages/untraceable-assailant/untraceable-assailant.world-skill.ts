@@ -5,6 +5,6 @@ export const untraceableAssailant = {
   type: "world-skill",
   slug: "untraceable-assailant",
   title: "Untraceable Assailant",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

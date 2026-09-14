@@ -5,6 +5,6 @@ export const ectoplasmHandler = {
   type: "world-skill",
   slug: "ectoplasm-handler",
   title: "Ectoplasm Handler",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const longclawGrip = {
   type: "world-skill",
   slug: "longclaw-grip",
   title: "Longclaw Grip",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

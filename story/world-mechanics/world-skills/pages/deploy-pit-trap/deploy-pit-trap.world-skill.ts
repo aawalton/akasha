@@ -5,6 +5,6 @@ export const deployPitTrap = {
   type: "world-skill",
   slug: "deploy-pit-trap",
   title: "Deploy Pit Trap",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

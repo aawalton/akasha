@@ -5,6 +5,6 @@ export const elementalSuppressionAir = {
   type: "world-skill",
   slug: "elemental-suppression-air",
   title: "Elemental Suppression: Air",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

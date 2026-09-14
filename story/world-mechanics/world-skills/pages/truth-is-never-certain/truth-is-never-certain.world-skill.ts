@@ -5,6 +5,6 @@ export const truthIsNeverCertain = {
   type: "world-skill",
   slug: "truth-is-never-certain",
   title: "Truth is Never Certain",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const prayerALeafInTheStorm = {
   type: "world-skill",
   slug: "prayer-a-leaf-in-the-storm",
   title: "Prayer: A Leaf in the Storm",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

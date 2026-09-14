@@ -5,6 +5,6 @@ export const fireSFuelMundane = {
   type: "world-skill",
   slug: "fire-s-fuel-mundane",
   title: "Fire’s Fuel (Mundane)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

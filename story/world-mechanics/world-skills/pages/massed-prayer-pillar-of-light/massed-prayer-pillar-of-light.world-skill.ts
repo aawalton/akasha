@@ -5,6 +5,6 @@ export const massedPrayerPillarOfLight = {
   type: "world-skill",
   slug: "massed-prayer-pillar-of-light",
   title: "Massed Prayer: Pillar of Light",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

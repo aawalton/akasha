@@ -5,6 +5,6 @@ export const sweepTheTables = {
   type: "world-skill",
   slug: "sweep-the-tables",
   title: "Sweep the Tables",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

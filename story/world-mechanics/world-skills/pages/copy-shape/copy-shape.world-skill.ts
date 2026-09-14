@@ -5,6 +5,6 @@ export const copyShape = {
   type: "world-skill",
   slug: "copy-shape",
   title: "Copy Shape",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

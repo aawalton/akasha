@@ -5,6 +5,6 @@ export const anchorLash = {
   type: "world-skill",
   slug: "anchor-lash",
   title: "Anchor Lash",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

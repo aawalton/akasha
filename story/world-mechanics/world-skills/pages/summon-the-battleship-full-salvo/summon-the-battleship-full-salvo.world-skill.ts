@@ -5,6 +5,6 @@ export const summonTheBattleshipFullSalvo = {
   type: "world-skill",
   slug: "summon-the-battleship-full-salvo",
   title: "Summon the Battleship: Full Salvo",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const memoryOfTheQuarass = {
   type: "world-skill",
   slug: "memory-of-the-quarass",
   title: "Memory of the Quarass",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

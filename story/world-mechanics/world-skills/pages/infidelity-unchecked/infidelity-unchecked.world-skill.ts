@@ -5,6 +5,6 @@ export const infidelityUnchecked = {
   type: "world-skill",
   slug: "infidelity-unchecked",
   title: "Infidelity Unchecked",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

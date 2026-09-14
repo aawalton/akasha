@@ -5,6 +5,6 @@ export const correctedSpelling = {
   type: "world-skill",
   slug: "corrected-spelling",
   title: "Corrected Spelling",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

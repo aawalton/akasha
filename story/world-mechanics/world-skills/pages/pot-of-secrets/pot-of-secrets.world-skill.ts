@@ -5,6 +5,6 @@ export const potOfSecrets = {
   type: "world-skill",
   slug: "pot-of-secrets",
   title: "Pot of Secrets",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["pot-of-conspiracies"],
 } as const satisfies WorldSkill

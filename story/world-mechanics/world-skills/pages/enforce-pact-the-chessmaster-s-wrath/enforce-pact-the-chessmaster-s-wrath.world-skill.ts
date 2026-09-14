@@ -5,6 +5,6 @@ export const enforcePactTheChessmasterSWrath = {
   type: "world-skill",
   slug: "enforce-pact-the-chessmaster-s-wrath",
   title: "Enforce Pact: The Chessmaster’s Wrath",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const webworkRiposte = {
   type: "world-skill",
   slug: "webwork-riposte",
   title: "Webwork Riposte",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

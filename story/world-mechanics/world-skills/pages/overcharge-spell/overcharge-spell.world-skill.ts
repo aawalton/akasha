@@ -5,6 +5,6 @@ export const overchargeSpell = {
   type: "world-skill",
   slug: "overcharge-spell",
   title: "Overcharge Spell",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

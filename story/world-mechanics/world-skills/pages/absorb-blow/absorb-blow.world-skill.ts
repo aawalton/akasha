@@ -5,5 +5,5 @@ export const absorbBlow = {
   type: "world-skill",
   slug: "absorb-blow",
   title: "Absorb Blow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

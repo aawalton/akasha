@@ -5,6 +5,6 @@ export const myOtherSelf = {
   type: "world-skill",
   slug: "my-other-self",
   title: "My Other Self",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

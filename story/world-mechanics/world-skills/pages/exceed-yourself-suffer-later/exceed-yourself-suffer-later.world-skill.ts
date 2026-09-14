@@ -5,6 +5,6 @@ export const exceedYourselfSufferLater = {
   type: "world-skill",
   slug: "exceed-yourself-suffer-later",
   title: "Exceed Yourself, Suffer Later",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

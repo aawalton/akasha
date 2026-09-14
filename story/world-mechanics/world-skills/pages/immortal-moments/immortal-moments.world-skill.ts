@@ -5,6 +5,6 @@ export const immortalMoments = {
   type: "world-skill",
   slug: "immortal-moments",
   title: "Immortal Moments",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

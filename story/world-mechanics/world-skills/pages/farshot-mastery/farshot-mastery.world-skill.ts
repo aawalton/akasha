@@ -5,6 +5,6 @@ export const farshotMastery = {
   type: "world-skill",
   slug: "farshot-mastery",
   title: "Farshot Mastery",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

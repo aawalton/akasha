@@ -5,6 +5,6 @@ export const emberashSpray = {
   type: "world-skill",
   slug: "emberash-spray",
   title: "Emberash Spray",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

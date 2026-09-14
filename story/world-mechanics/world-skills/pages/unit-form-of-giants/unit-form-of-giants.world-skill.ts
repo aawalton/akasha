@@ -5,6 +5,6 @@ export const unitFormOfGiants = {
   type: "world-skill",
   slug: "unit-form-of-giants",
   title: "Unit: Form of Giants",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

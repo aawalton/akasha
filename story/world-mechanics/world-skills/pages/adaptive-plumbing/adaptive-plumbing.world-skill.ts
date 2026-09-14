@@ -5,6 +5,6 @@ export const adaptivePlumbing = {
   type: "world-skill",
   slug: "adaptive-plumbing",
   title: "Adaptive Plumbing",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

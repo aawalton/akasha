@@ -5,6 +5,6 @@ export const aggregateVolley = {
   type: "world-skill",
   slug: "aggregate-volley",
   title: "Aggregate Volley",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

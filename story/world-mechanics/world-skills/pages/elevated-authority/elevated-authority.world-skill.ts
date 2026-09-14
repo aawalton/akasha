@@ -5,6 +5,6 @@ export const elevatedAuthority = {
   type: "world-skill",
   slug: "elevated-authority",
   title: "Elevated Authority",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

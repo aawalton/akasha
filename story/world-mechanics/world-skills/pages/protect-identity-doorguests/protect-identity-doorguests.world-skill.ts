@@ -5,6 +5,6 @@ export const protectIdentityDoorguests = {
   type: "world-skill",
   slug: "protect-identity-doorguests",
   title: "Protect Identity: Doorguests",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

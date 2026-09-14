@@ -5,6 +5,6 @@ export const pinpointShots = {
   type: "world-skill",
   slug: "pinpoint-shots",
   title: "Pinpoint Shots",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

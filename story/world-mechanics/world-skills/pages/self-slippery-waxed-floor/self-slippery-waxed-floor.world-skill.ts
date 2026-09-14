@@ -5,6 +5,6 @@ export const selfSlipperyWaxedFloor = {
   type: "world-skill",
   slug: "self-slippery-waxed-floor",
   title: "Self: Slippery Waxed Floor",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const aDropADay = {
   type: "world-skill",
   slug: "a-drop-a-day",
   title: "A Drop A Day",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

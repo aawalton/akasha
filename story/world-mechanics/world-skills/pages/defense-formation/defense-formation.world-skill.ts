@@ -5,6 +5,6 @@ export const defenseFormation = {
   type: "world-skill",
   slug: "defense-formation",
   title: "Defense Formation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

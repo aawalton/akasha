@@ -5,6 +5,6 @@ export const eachDoorADestiny = {
   type: "world-skill",
   slug: "each-door-a-destiny",
   title: "Each Door a Destiny",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

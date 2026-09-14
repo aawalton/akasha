@@ -5,6 +5,6 @@ export const enhancedCastingTier4 = {
   type: "world-skill",
   slug: "enhanced-casting-tier-4",
   title: "Enhanced Casting: Tier 4",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

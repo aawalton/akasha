@@ -5,6 +5,6 @@ export const combineSpellsTier12 = {
   type: "world-skill",
   slug: "combine-spells-tier-1-2",
   title: "Combine Spells (Tier 1-2)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

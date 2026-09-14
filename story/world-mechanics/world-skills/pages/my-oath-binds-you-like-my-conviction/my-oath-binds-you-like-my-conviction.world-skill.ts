@@ -5,6 +5,6 @@ export const myOathBindsYouLikeMyConviction = {
   type: "world-skill",
   slug: "my-oath-binds-you-like-my-conviction",
   title: "My Oath Binds You Like My Conviction",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

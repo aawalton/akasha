@@ -5,6 +5,6 @@ export const canTBeLateForWork = {
   type: "world-skill",
   slug: "can-t-be-late-for-work",
   title: "Can’t Be Late for Work",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

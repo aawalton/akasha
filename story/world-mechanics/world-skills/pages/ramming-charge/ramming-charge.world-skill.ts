@@ -5,6 +5,6 @@ export const rammingCharge = {
   type: "world-skill",
   slug: "ramming-charge",
   title: "Ramming Charge",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

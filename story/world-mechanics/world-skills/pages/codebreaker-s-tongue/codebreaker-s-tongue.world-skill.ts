@@ -5,6 +5,6 @@ export const codebreakerSTongue = {
   type: "world-skill",
   slug: "codebreaker-s-tongue",
   title: "Codebreaker’s Tongue",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

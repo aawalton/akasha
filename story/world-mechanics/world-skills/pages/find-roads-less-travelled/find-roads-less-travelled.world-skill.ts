@@ -5,6 +5,6 @@ export const findRoadsLessTravelled = {
   type: "world-skill",
   slug: "find-roads-less-travelled",
   title: "Find Roads Less Travelled",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

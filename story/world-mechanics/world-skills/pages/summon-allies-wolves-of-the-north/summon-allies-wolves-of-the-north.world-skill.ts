@@ -5,6 +5,6 @@ export const summonAlliesWolvesOfTheNorth = {
   type: "world-skill",
   slug: "summon-allies-wolves-of-the-north",
   title: "Summon Allies: Wolves of the North",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

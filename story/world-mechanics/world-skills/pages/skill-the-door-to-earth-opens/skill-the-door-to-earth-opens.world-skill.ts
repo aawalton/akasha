@@ -5,6 +5,6 @@ export const skillTheDoorToEarthOpens = {
   type: "world-skill",
   slug: "skill-the-door-to-earth-opens",
   title: "Skill – The Door to Earth opens.",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

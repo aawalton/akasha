@@ -5,6 +5,6 @@ export const innBugFree = {
   type: "world-skill",
   slug: "inn-bug-free",
   title: "Inn: Bug Free",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

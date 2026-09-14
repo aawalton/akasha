@@ -5,6 +5,6 @@ export const rememberMyName = {
   type: "world-skill",
   slug: "remember-my-name",
   title: "Remember My Name",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

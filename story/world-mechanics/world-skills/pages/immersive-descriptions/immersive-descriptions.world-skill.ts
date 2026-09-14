@@ -5,6 +5,6 @@ export const immersiveDescriptions = {
   type: "world-skill",
   slug: "immersive-descriptions",
   title: "Immersive Descriptions",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

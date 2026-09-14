@@ -5,6 +5,6 @@ export const bodyStoredEnergy = {
   type: "world-skill",
   slug: "body-stored-energy",
   title: "Body: Stored Energy",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

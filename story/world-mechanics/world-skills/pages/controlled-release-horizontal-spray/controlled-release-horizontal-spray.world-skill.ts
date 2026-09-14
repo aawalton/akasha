@@ -5,6 +5,6 @@ export const controlledReleaseHorizontalSpray = {
   type: "world-skill",
   slug: "controlled-release-horizontal-spray",
   title: "Controlled Release: Horizontal Spray",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const throwItBackCounterattackTwofoldVengeance = {
   type: "world-skill",
   slug: "throw-it-back-counterattack-twofold-vengeance",
   title: "Throw It Back: Counterattack, Twofold Vengeance",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

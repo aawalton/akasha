@@ -5,6 +5,6 @@ export const blindingInsightOfTheMadman = {
   type: "world-skill",
   slug: "blinding-insight-of-the-madman",
   title: "Blinding Insight of the Madman",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const recreateMyIconicLook = {
   type: "world-skill",
   slug: "recreate-my-iconic-look",
   title: "Recreate My Iconic Look",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const momentaryEloquence = {
   type: "world-skill",
   slug: "momentary-eloquence",
   title: "Momentary Eloquence",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

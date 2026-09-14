@@ -5,6 +5,6 @@ export const deathMagicProficiency = {
   type: "world-skill",
   slug: "death-magic-proficiency",
   title: "Death Magic Proficiency",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

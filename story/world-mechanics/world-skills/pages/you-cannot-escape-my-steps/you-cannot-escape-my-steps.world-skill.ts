@@ -5,6 +5,6 @@ export const youCannotEscapeMySteps = {
   type: "world-skill",
   slug: "you-cannot-escape-my-steps",
   title: "You Cannot Escape My Steps",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

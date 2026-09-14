@@ -5,6 +5,6 @@ export const leapOfDeath = {
   type: "world-skill",
   slug: "leap-of-death",
   title: "Leap of Death",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const boardToughAsSteel = {
   type: "world-skill",
   slug: "board-tough-as-steel",
   title: "Board: Tough as Steel",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

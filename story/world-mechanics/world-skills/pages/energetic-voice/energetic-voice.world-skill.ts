@@ -5,6 +5,6 @@ export const energeticVoice = {
   type: "world-skill",
   slug: "energetic-voice",
   title: "Energetic Voice",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

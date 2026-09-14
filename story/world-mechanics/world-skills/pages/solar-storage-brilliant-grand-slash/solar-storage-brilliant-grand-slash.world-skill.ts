@@ -5,6 +5,6 @@ export const solarStorageBrilliantGrandSlash = {
   type: "world-skill",
   slug: "solar-storage-brilliant-grand-slash",
   title: "Solar Storage – Brilliant Grand Slash",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

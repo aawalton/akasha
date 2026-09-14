@@ -5,6 +5,6 @@ export const orderInTheRanks = {
   type: "world-skill",
   slug: "order-in-the-ranks",
   title: "Order in the Ranks",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

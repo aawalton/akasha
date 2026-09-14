@@ -5,6 +5,6 @@ export const traceConnections = {
   type: "world-skill",
   slug: "trace-connections",
   title: "TRACE CONNECTIONS",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

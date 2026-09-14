@@ -5,6 +5,6 @@ export const ingredientsStabilization = {
   type: "world-skill",
   slug: "ingredients-stabilization",
   title: "Ingredients Stabilization",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

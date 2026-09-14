@@ -5,6 +5,6 @@ export const fleetwindRun = {
   type: "world-skill",
   slug: "fleetwind-run",
   title: "Fleetwind Run",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const projectileShield = {
   type: "world-skill",
   slug: "projectile-shield",
   title: "Projectile Shield",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const assignBasicQuests = {
   type: "world-skill",
   slug: "assign-basic-quests",
   title: "Assign Basic Quests",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

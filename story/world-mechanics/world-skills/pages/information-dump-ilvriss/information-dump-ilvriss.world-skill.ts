@@ -5,6 +5,6 @@ export const informationDumpIlvriss = {
   type: "world-skill",
   slug: "information-dump-ilvriss",
   title: "Information Dump: Ilvriss",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

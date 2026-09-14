@@ -5,6 +5,6 @@ export const noPeriodPain = {
   type: "world-skill",
   slug: "no-period-pain",
   title: "No Period Pain",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

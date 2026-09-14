@@ -5,6 +5,6 @@ export const enchantmentAcidCoating = {
   type: "world-skill",
   slug: "enchantment-acid-coating",
   title: "Enchantment: Acid Coating",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

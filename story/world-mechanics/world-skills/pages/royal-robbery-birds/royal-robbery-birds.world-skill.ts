@@ -5,6 +5,6 @@ export const royalRobberyBirds = {
   type: "world-skill",
   slug: "royal-robbery-birds",
   title: "Royal Robbery: Birds",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

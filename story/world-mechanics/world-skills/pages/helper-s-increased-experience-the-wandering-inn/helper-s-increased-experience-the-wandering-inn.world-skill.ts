@@ -5,5 +5,5 @@ export const helperSIncreasedExperienceTheWanderingInn = {
   type: "world-skill",
   slug: "helper-s-increased-experience-the-wandering-inn",
   title: "Helper’s Increased Experience (The Wandering Inn)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

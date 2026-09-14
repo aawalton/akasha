@@ -5,6 +5,6 @@ export const createListOfTheNeedy = {
   type: "world-skill",
   slug: "create-list-of-the-needy",
   title: "Create: List of the Needy",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const holyBladeSwordOfJudgment = {
   type: "world-skill",
   slug: "holy-blade-sword-of-judgment",
   title: "Holy Blade: Sword of Judgment",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

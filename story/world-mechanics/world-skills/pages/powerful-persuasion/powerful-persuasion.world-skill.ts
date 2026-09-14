@@ -5,6 +5,6 @@ export const powerfulPersuasion = {
   type: "world-skill",
   slug: "powerful-persuasion",
   title: "Powerful Persuasion",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const armyPatchUpThoseWoundsCleansing = {
   type: "world-skill",
   slug: "army-patch-up-those-wounds-cleansing",
   title: "Army: Patch Up Those Wounds (Cleansing)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

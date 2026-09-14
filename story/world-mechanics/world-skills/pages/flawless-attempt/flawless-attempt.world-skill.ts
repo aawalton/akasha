@@ -5,7 +5,7 @@ export const flawlessAttempt = {
   type: "world-skill",
   slug: "flawless-attempt",
   title: "Flawless Attempt",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["flawless-attempts"],
   references: "jsonl",
 } as const satisfies WorldSkill

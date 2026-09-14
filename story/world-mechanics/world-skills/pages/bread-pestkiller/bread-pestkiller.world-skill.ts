@@ -5,6 +5,6 @@ export const breadPestkiller = {
   type: "world-skill",
   slug: "bread-pestkiller",
   title: "Bread: Pestkiller",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const enticingOffer = {
   type: "world-skill",
   slug: "enticing-offer",
   title: "Enticing Offer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const graniteFormation = {
   type: "world-skill",
   slug: "granite-formation",
   title: "Granite Formation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

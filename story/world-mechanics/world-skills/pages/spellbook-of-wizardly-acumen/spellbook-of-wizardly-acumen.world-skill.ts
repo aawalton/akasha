@@ -5,6 +5,6 @@ export const spellbookOfWizardlyAcumen = {
   type: "world-skill",
   slug: "spellbook-of-wizardly-acumen",
   title: "Spellbook of Wizardly Acumen",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

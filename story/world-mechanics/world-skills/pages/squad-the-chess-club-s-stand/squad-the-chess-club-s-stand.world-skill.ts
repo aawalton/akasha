@@ -5,5 +5,5 @@ export const squadTheChessClubSStand = {
   type: "world-skill",
   slug: "squad-the-chess-club-s-stand",
   title: "Squad: The Chess Club’s Stand",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const bodyGreaterBludgeoningResistance = {
   type: "world-skill",
   slug: "body-greater-bludgeoning-resistance",
   title: "Body: Greater Bludgeoning Resistance",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

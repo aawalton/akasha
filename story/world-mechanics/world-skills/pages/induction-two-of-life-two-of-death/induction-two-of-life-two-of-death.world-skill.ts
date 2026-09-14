@@ -5,6 +5,6 @@ export const inductionTwoOfLifeTwoOfDeath = {
   type: "world-skill",
   slug: "induction-two-of-life-two-of-death",
   title: "Induction: Two of Life, Two of Death",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

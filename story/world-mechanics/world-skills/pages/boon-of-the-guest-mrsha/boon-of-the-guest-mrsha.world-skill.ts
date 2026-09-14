@@ -5,6 +5,6 @@ export const boonOfTheGuestMrsha = {
   type: "world-skill",
   slug: "boon-of-the-guest-mrsha",
   title: "Boon of the Guest: Mrsha",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

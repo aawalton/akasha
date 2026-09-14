@@ -5,6 +5,6 @@ export const manufactureStellarIvory = {
   type: "world-skill",
   slug: "manufacture-stellar-ivory",
   title: "Manufacture Stellar Ivory",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

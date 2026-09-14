@@ -5,6 +5,6 @@ export const shuttleRunFastAsYouCan = {
   type: "world-skill",
   slug: "shuttle-run-fast-as-you-can",
   title: "Shuttle Run: Fast As You Can",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

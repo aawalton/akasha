@@ -5,6 +5,6 @@ export const linkedSkillCombatVanish = {
   type: "world-skill",
   slug: "linked-skill-combat-vanish",
   title: "Linked Skill: Combat Vanish",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

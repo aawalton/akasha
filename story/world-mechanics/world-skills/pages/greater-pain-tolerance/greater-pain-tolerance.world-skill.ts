@@ -5,6 +5,6 @@ export const greaterPainTolerance = {
   type: "world-skill",
   slug: "greater-pain-tolerance",
   title: "Greater Pain Tolerance",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

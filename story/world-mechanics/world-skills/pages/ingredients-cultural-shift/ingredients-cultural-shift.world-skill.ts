@@ -5,7 +5,7 @@ export const ingredientsCulturalShift = {
   type: "world-skill",
   slug: "ingredients-cultural-shift",
   title: "Ingredients: Cultural Shift",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Ingredients: Cultural Shift!"],
   references: "jsonl",
 } as const satisfies WorldSkill

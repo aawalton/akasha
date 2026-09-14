@@ -5,6 +5,6 @@ export const goodAsToday = {
   type: "world-skill",
   slug: "good-as-today",
   title: "Good as Today",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

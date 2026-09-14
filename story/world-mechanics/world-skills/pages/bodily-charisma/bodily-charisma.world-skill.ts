@@ -5,6 +5,6 @@ export const bodilyCharisma = {
   type: "world-skill",
   slug: "bodily-charisma",
   title: "Bodily Charisma",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

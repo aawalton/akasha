@@ -5,6 +5,6 @@ export const thoughtBlank = {
   type: "world-skill",
   slug: "thought-blank",
   title: "Thought Blank",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

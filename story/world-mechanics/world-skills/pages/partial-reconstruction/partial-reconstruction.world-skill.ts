@@ -5,7 +5,7 @@ export const partialReconstruction = {
   type: "world-skill",
   slug: "partial-reconstruction",
   title: "Partial Reconstruction",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["—Partial Reconstruction"],
   references: "jsonl",
 } as const satisfies WorldSkill

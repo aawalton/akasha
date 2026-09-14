@@ -5,5 +5,5 @@ export const giftOfTheReclaimerWalledCities = {
   type: "world-skill",
   slug: "gift-of-the-reclaimer-walled-cities",
   title: "Gift of the Reclaimer (Walled Cities)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

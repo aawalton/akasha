@@ -5,6 +5,6 @@ export const echoingStrings = {
   type: "world-skill",
   slug: "echoing-strings",
   title: "Echoing Strings",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

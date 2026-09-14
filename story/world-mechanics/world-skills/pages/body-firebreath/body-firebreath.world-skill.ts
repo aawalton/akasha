@@ -5,6 +5,6 @@ export const bodyFirebreath = {
   type: "world-skill",
   slug: "body-firebreath",
   title: "Body: Firebreath",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

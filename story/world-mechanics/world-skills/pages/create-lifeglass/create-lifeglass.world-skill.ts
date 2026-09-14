@@ -5,6 +5,6 @@ export const createLifeglass = {
   type: "world-skill",
   slug: "create-lifeglass",
   title: "Create Lifeglass",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

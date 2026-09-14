@@ -5,6 +5,6 @@ export const shieldWallFormation = {
   type: "world-skill",
   slug: "shield-wall-formation",
   title: "Shield Wall Formation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

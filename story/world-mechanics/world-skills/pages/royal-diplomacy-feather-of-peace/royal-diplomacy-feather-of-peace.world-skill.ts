@@ -5,6 +5,6 @@ export const royalDiplomacyFeatherOfPeace = {
   type: "world-skill",
   slug: "royal-diplomacy-feather-of-peace",
   title: "Royal Diplomacy: Feather of Peace",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const trackQuarry = {
   type: "world-skill",
   slug: "track-quarry",
   title: "Track Quarry",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const motivationalSpeech = {
   type: "world-skill",
   slug: "motivational-speech",
   title: "Motivational Speech",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

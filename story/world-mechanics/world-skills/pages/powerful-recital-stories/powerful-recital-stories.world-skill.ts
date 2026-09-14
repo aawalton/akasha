@@ -5,6 +5,6 @@ export const powerfulRecitalStories = {
   type: "world-skill",
   slug: "powerful-recital-stories",
   title: "Powerful Recital (Stories)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

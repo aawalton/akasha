@@ -5,6 +5,6 @@ export const unitSpeedWing = {
   type: "world-skill",
   slug: "unit-speed-wing",
   title: "Unit: Speed Wing",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

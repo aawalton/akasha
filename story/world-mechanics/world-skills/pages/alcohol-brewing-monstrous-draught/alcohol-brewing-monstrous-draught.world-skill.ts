@@ -5,6 +5,6 @@ export const alcoholBrewingMonstrousDraught = {
   type: "world-skill",
   slug: "alcohol-brewing-monstrous-draught",
   title: "Alcohol Brewing: Monstrous Draught",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

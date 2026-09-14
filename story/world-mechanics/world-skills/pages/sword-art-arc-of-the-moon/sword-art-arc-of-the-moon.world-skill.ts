@@ -5,7 +5,7 @@ export const swordArtArcOfTheMoon = {
   type: "world-skill",
   slug: "sword-art-arc-of-the-moon",
   title: "Sword Art: Arc of the Moon",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Sword Art: Arc of the Moon!"],
   references: "jsonl",
 } as const satisfies WorldSkill

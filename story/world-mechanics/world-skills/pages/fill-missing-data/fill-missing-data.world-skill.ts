@@ -5,6 +5,6 @@ export const fillMissingData = {
   type: "world-skill",
   slug: "fill-missing-data",
   title: "Fill Missing Data",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

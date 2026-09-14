@@ -5,6 +5,6 @@ export const twofoldYield = {
   type: "world-skill",
   slug: "twofold-yield",
   title: "Twofold Yield",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

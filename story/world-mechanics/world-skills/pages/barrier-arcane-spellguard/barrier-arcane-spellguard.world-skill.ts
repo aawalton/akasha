@@ -5,6 +5,6 @@ export const barrierArcaneSpellguard = {
   type: "world-skill",
   slug: "barrier-arcane-spellguard",
   title: "Barrier: Arcane Spellguard",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const greatEnemyGoblin = {
   type: "world-skill",
   slug: "great-enemy-goblin",
   title: "Great Enemy: Goblin",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

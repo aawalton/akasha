@@ -5,6 +5,6 @@ export const coconutSplitstrike = {
   type: "world-skill",
   slug: "coconut-splitstrike",
   title: "Coconut Splitstrike",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

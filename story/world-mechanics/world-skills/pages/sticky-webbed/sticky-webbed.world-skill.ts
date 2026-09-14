@@ -5,6 +5,6 @@ export const stickyWebbed = {
   type: "world-skill",
   slug: "sticky-webbed",
   title: "Sticky Webbed",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

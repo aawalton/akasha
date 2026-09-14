@@ -5,6 +5,6 @@ export const withHisTwoHorsesUnnamedFreud = {
   type: "world-skill",
   slug: "with-his-two-horses-unnamed-freud",
   title: "…With His Two Horses (Unnamed, Freud)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

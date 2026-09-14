@@ -5,6 +5,6 @@ export const allPlansFallToDustAndRuin = {
   type: "world-skill",
   slug: "all-plans-fall-to-dust-and-ruin",
   title: "All Plans Fall to Dust and Ruin",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

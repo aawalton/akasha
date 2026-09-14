@@ -5,6 +5,6 @@ export const contestOfChampionsVigor = {
   type: "world-skill",
   slug: "contest-of-champions-vigor",
   title: "Contest of Champions (Vigor)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const dreamWalk = {
   type: "world-skill",
   slug: "dream-walk",
   title: "Dream Walk",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

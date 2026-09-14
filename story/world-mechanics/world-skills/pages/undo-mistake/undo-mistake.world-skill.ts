@@ -5,6 +5,6 @@ export const undoMistake = {
   type: "world-skill",
   slug: "undo-mistake",
   title: "Undo Mistake",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

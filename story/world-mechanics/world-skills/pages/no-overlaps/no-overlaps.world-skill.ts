@@ -5,6 +5,6 @@ export const noOverlaps = {
   type: "world-skill",
   slug: "no-overlaps",
   title: "No Overlaps",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const wildCall = {
   type: "world-skill",
   slug: "wild-call",
   title: "Wild Call",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

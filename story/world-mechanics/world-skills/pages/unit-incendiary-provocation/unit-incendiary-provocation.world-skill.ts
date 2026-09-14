@@ -5,6 +5,6 @@ export const unitIncendiaryProvocation = {
   type: "world-skill",
   slug: "unit-incendiary-provocation",
   title: "Unit: Incendiary Provocation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

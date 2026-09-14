@@ -5,6 +5,6 @@ export const spellAttractor = {
   type: "world-skill",
   slug: "spell-attractor",
   title: "Spell Attractor",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

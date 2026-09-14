@@ -5,6 +5,6 @@ export const summonJumpRamp = {
   type: "world-skill",
   slug: "summon-jump-ramp",
   title: "Summon Jump Ramp",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

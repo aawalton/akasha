@@ -5,6 +5,6 @@ export const flickerStep = {
   type: "world-skill",
   slug: "flicker-step",
   title: "Flicker Step",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

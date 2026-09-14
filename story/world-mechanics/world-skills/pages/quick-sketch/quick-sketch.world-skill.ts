@@ -5,6 +5,6 @@ export const quickSketch = {
   type: "world-skill",
   slug: "quick-sketch",
   title: "Quick Sketch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

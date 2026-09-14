@@ -5,6 +5,6 @@ export const forEverySoulIEntertainGoodwillRemains = {
   type: "world-skill",
   slug: "for-every-soul-i-entertain-goodwill-remains",
   title: "For Every Soul I Entertain, Goodwill Remains",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

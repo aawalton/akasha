@@ -5,6 +5,6 @@ export const memorizeElementaryHomework = {
   type: "world-skill",
   slug: "memorize-elementary-homework",
   title: "Memorize Elementary Homework",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

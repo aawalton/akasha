@@ -5,6 +5,6 @@ export const closeTheContractUnreasonableDemands = {
   type: "world-skill",
   slug: "close-the-contract-unreasonable-demands",
   title: "Close the Contract: Unreasonable Demands",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

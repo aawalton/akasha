@@ -5,6 +5,6 @@ export const translationAnimalspeech = {
   type: "world-skill",
   slug: "translation-animalspeech",
   title: "Translation: Animalspeech",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

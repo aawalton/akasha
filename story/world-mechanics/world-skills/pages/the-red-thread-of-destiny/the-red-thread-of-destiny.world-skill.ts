@@ -5,6 +5,6 @@ export const theRedThreadOfDestiny = {
   type: "world-skill",
   slug: "the-red-thread-of-destiny",
   title: "The Red Thread of Destiny",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

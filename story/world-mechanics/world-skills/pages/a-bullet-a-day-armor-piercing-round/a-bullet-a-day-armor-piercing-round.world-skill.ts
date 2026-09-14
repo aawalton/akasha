@@ -5,6 +5,6 @@ export const aBulletADayArmorPiercingRound = {
   type: "world-skill",
   slug: "a-bullet-a-day-armor-piercing-round",
   title: "A Bullet A Day: Armor Piercing Round",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const relaxedMuscles = {
   type: "world-skill",
   slug: "relaxed-muscles",
   title: "Relaxed Muscles",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const standToAttention = {
   type: "world-skill",
   slug: "stand-to-attention",
   title: "Stand to Attention",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

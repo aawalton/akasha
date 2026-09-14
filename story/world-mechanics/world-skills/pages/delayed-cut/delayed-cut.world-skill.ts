@@ -5,6 +5,6 @@ export const delayedCut = {
   type: "world-skill",
   slug: "delayed-cut",
   title: "Delayed Cut",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const greaterResistancePhysical = {
   type: "world-skill",
   slug: "greater-resistance-physical",
   title: "Greater Resistance: Physical",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

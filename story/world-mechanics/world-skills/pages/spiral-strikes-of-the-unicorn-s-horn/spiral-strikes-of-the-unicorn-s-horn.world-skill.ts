@@ -5,6 +5,6 @@ export const spiralStrikesOfTheUnicornSHorn = {
   type: "world-skill",
   slug: "spiral-strikes-of-the-unicorn-s-horn",
   title: "Spiral Strikes of the Unicorn’s Horn",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

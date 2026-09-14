@@ -5,6 +5,6 @@ export const skillAromaOfSpringLost = {
   type: "world-skill",
   slug: "skill-aroma-of-spring-lost",
   title: "Skill – Aroma of Spring Lost.",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const guildSpidergripMobility = {
   type: "world-skill",
   slug: "guild-spidergrip-mobility",
   title: "Guild: Spidergrip Mobility",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

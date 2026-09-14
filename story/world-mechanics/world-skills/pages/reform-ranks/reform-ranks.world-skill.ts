@@ -5,6 +5,6 @@ export const reformRanks = {
   type: "world-skill",
   slug: "reform-ranks",
   title: "Reform Ranks",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

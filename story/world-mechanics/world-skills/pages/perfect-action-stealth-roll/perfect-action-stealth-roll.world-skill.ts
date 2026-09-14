@@ -5,6 +5,6 @@ export const perfectActionStealthRoll = {
   type: "world-skill",
   slug: "perfect-action-stealth-roll",
   title: "Perfect Action: Stealth Roll",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

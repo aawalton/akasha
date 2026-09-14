@@ -5,6 +5,6 @@ export const battlefieldDeployTraps = {
   type: "world-skill",
   slug: "battlefield-deploy-traps",
   title: "Battlefield: Deploy Traps",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

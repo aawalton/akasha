@@ -5,6 +5,6 @@ export const unpredictableMove = {
   type: "world-skill",
   slug: "unpredictable-move",
   title: "Unpredictable Move",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

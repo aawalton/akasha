@@ -5,6 +5,6 @@ export const indirectBombardment = {
   type: "world-skill",
   slug: "indirect-bombardment",
   title: "Indirect Bombardment",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

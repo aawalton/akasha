@@ -5,6 +5,6 @@ export const posteriorDamage = {
   type: "world-skill",
   slug: "posterior-damage",
   title: "Posterior Damage",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

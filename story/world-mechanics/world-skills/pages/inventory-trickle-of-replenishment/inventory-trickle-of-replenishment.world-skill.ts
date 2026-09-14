@@ -5,6 +5,6 @@ export const inventoryTrickleOfReplenishment = {
   type: "world-skill",
   slug: "inventory-trickle-of-replenishment",
   title: "Inventory: Trickle of Replenishment",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

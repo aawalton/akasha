@@ -5,6 +5,6 @@ export const wearMyIntegrity = {
   type: "world-skill",
   slug: "wear-my-integrity",
   title: "Wear My Integrity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

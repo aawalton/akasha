@@ -5,6 +5,6 @@ export const tailAttack = {
   type: "world-skill",
   slug: "tail-attack",
   title: "Tail Attack",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

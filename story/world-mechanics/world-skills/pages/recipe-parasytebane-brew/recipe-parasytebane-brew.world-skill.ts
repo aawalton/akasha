@@ -5,5 +5,5 @@ export const recipeParasytebaneBrew = {
   type: "world-skill",
   slug: "recipe-parasytebane-brew",
   title: "Recipe: Parasytebane Brew",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

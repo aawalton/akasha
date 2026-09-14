@@ -5,6 +5,6 @@ export const bodyRapidRegeneration = {
   type: "world-skill",
   slug: "body-rapid-regeneration",
   title: "Body: Rapid Regeneration",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

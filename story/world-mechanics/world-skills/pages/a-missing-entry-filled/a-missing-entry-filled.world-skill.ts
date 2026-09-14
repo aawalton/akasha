@@ -5,6 +5,6 @@ export const aMissingEntryFilled = {
   type: "world-skill",
   slug: "a-missing-entry-filled",
   title: "A Missing Entry, Filled",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const direPeck = {
   type: "world-skill",
   slug: "dire-peck",
   title: "Dire Peck",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

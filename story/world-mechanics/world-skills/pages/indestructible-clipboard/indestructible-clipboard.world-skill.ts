@@ -5,6 +5,6 @@ export const indestructibleClipboard = {
   type: "world-skill",
   slug: "indestructible-clipboard",
   title: "Indestructible Clipboard",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

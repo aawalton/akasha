@@ -5,6 +5,6 @@ export const investigationFiveSensesMaximized = {
   type: "world-skill",
   slug: "investigation-five-senses-maximized",
   title: "Investigation: Five Senses Maximized",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

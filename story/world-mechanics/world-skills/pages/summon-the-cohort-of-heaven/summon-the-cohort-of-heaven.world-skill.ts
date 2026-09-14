@@ -5,6 +5,6 @@ export const summonTheCohortOfHeaven = {
   type: "world-skill",
   slug: "summon-the-cohort-of-heaven",
   title: "Summon the Cohort of Heaven",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

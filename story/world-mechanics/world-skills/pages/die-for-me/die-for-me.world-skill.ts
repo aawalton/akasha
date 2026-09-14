@@ -5,6 +5,6 @@ export const dieForMe = {
   type: "world-skill",
   slug: "die-for-me",
   title: "Die For Me",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

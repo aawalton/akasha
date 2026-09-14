@@ -5,6 +5,6 @@ export const massPrayer = {
   type: "world-skill",
   slug: "mass-prayer",
   title: "Mass Prayer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

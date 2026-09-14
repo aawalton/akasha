@@ -5,6 +5,6 @@ export const inflictCurseSelf = {
   type: "world-skill",
   slug: "inflict-curse-self",
   title: "Inflict Curse: Self",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

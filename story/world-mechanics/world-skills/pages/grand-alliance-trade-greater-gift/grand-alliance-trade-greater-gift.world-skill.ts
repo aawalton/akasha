@@ -5,6 +5,6 @@ export const grandAllianceTradeGreaterGift = {
   type: "world-skill",
   slug: "grand-alliance-trade-greater-gift",
   title: "Grand Alliance: Trade Greater Gift",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

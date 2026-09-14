@@ -5,6 +5,6 @@ export const voidShield = {
   type: "world-skill",
   slug: "void-shield",
   title: "Void Shield",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

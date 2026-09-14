@@ -5,6 +5,6 @@ export const leakCheck = {
   type: "world-skill",
   slug: "leak-check",
   title: "Leak Check",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

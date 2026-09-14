@@ -5,6 +5,6 @@ export const nullifyShortFall = {
   type: "world-skill",
   slug: "nullify-short-fall",
   title: "Nullify Short Fall",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

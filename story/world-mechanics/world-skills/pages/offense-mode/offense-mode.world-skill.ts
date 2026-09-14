@@ -5,6 +5,6 @@ export const offenseMode = {
   type: "world-skill",
   slug: "offense-mode",
   title: "Offense Mode",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

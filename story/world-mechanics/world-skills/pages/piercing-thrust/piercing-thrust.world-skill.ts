@@ -5,6 +5,6 @@ export const piercingThrust = {
   type: "world-skill",
   slug: "piercing-thrust",
   title: "Piercing Thrust",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const spellSchoolColorMagicProficiency = {
   type: "world-skill",
   slug: "spell-school-color-magic-proficiency",
   title: "Spell School: Color Magic Proficiency",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

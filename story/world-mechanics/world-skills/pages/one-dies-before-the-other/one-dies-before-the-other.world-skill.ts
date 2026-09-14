@@ -5,6 +5,6 @@ export const oneDiesBeforeTheOther = {
   type: "world-skill",
   slug: "one-dies-before-the-other",
   title: "One Dies Before The Other",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

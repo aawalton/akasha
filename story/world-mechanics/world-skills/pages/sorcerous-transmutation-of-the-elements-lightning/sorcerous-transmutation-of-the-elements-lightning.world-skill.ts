@@ -5,6 +5,6 @@ export const sorcerousTransmutationOfTheElementsLightning = {
   type: "world-skill",
   slug: "sorcerous-transmutation-of-the-elements-lightning",
   title: "Sorcerous Transmutation of the Elements: Lightning",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

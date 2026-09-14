@@ -5,6 +5,6 @@ export const divertRage = {
   type: "world-skill",
   slug: "divert-rage",
   title: "Divert Rage",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

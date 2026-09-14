@@ -5,6 +5,6 @@ export const tracerTeleport = {
   type: "world-skill",
   slug: "tracer-teleport",
   title: "Tracer Teleport",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

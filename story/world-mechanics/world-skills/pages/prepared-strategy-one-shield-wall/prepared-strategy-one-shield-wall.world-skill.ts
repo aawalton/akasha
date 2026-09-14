@@ -5,6 +5,6 @@ export const preparedStrategyOneShieldWall = {
   type: "world-skill",
   slug: "prepared-strategy-one-shield-wall",
   title: "Prepared Strategy One: Shield Wall",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const lesserBondUnnamedMossbear = {
   type: "world-skill",
   slug: "lesser-bond-unnamed-mossbear",
   title: "Lesser Bond: Unnamed Mossbear",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

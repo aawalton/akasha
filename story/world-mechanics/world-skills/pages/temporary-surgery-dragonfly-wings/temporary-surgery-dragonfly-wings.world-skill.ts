@@ -5,6 +5,6 @@ export const temporarySurgeryDragonflyWings = {
   type: "world-skill",
   slug: "temporary-surgery-dragonfly-wings",
   title: "Temporary Surgery: Dragonfly Wings",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

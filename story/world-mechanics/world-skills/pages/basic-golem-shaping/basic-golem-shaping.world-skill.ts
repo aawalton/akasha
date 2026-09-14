@@ -5,6 +5,6 @@ export const basicGolemShaping = {
   type: "world-skill",
   slug: "basic-golem-shaping",
   title: "Basic Golem Shaping",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

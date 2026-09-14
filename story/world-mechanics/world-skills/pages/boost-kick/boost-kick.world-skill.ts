@@ -5,6 +5,6 @@ export const boostKick = {
   type: "world-skill",
   slug: "boost-kick",
   title: "Boost Kick",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

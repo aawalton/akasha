@@ -5,6 +5,6 @@ export const enchancedFocus = {
   type: "world-skill",
   slug: "enchanced-focus",
   title: "Enchanced Focus",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

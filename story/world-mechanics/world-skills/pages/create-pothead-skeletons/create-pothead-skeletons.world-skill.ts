@@ -5,6 +5,6 @@ export const createPotheadSkeletons = {
   type: "world-skill",
   slug: "create-pothead-skeletons",
   title: "Create Pothead Skeletons",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const predictCulturalTrend = {
   type: "world-skill",
   slug: "predict-cultural-trend",
   title: "Predict Cultural Trend",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

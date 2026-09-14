@@ -5,6 +5,6 @@ export const readerSTemporaryCopyMundane = {
   type: "world-skill",
   slug: "reader-s-temporary-copy-mundane",
   title: "Reader’s Temporary Copy (Mundane)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

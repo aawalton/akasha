@@ -5,6 +5,6 @@ export const alterEnchantmentTemporary = {
   type: "world-skill",
   slug: "alter-enchantment-temporary",
   title: "Alter Enchantment (Temporary)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

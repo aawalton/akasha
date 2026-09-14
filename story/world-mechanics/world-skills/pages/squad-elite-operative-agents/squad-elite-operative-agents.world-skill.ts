@@ -5,5 +5,5 @@ export const squadEliteOperativeAgents = {
   type: "world-skill",
   slug: "squad-elite-operative-agents",
   title: "Squad: Elite Operative Agents",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

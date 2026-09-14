@@ -5,7 +5,7 @@ export const plotterSNetwork = {
   type: "world-skill",
   slug: "plotter-s-network",
   title: "Plotter’s Network",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["prepared-signal"],
   references: "jsonl",
 } as const satisfies WorldSkill

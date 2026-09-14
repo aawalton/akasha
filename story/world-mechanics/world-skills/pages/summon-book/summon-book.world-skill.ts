@@ -5,6 +5,6 @@ export const summonBook = {
   type: "world-skill",
   slug: "summon-book",
   title: "Summon Book",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

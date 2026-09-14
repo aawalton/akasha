@@ -5,6 +5,6 @@ export const sanctumDeathMagicLeyline = {
   type: "world-skill",
   slug: "sanctum-death-magic-leyline",
   title: "Sanctum: Death Magic Leyline",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

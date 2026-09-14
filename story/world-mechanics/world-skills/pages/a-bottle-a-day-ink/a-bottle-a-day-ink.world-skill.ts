@@ -5,6 +5,6 @@ export const aBottleADayInk = {
   type: "world-skill",
   slug: "a-bottle-a-day-ink",
   title: "A Bottle A Day: Ink",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

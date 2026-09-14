@@ -5,6 +5,6 @@ export const crossbowsOverwatch = {
   type: "world-skill",
   slug: "crossbows-overwatch",
   title: "Crossbows: Overwatch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

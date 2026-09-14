@@ -5,6 +5,6 @@ export const removeSpicing = {
   type: "world-skill",
   slug: "remove-spicing",
   title: "Remove Spicing",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

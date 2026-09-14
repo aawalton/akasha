@@ -5,6 +5,6 @@ export const emergencyExit = {
   type: "world-skill",
   slug: "emergency-exit",
   title: "Emergency Exit",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

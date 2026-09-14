@@ -5,5 +5,5 @@ export const resistanceDiseaseRe = {
   type: "world-skill",
   slug: "resistance-disease-re",
   title: "Resistance: Disease Re",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

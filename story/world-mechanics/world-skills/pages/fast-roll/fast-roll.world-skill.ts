@@ -5,6 +5,6 @@ export const fastRoll = {
   type: "world-skill",
   slug: "fast-roll",
   title: "Fast Roll",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

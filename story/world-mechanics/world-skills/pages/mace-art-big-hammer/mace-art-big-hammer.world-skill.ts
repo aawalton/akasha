@@ -5,6 +5,6 @@ export const maceArtBigHammer = {
   type: "world-skill",
   slug: "mace-art-big-hammer",
   title: "Mace Art: Big Hammer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

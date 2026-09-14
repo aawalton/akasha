@@ -5,6 +5,6 @@ export const skillFullHouseThrow = {
   type: "world-skill",
   slug: "skill-full-house-throw",
   title: "Skill – Full House Throw",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

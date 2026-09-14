@@ -5,6 +5,6 @@ export const cloudburstTheft = {
   type: "world-skill",
   slug: "cloudburst-theft",
   title: "Cloudburst Theft",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

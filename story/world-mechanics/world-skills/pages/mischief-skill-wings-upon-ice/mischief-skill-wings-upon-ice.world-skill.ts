@@ -5,6 +5,6 @@ export const mischiefSkillWingsUponIce = {
   type: "world-skill",
   slug: "mischief-skill-wings-upon-ice",
   title: "Mischief Skill: Wings Upon Ice",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

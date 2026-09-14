@@ -5,6 +5,6 @@ export const legacyFindTheDragonSGrave = {
   type: "world-skill",
   slug: "legacy-find-the-dragon-s-grave",
   title: "Legacy: Find the Dragon’s Grave",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

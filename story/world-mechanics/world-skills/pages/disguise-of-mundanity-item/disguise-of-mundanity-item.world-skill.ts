@@ -5,5 +5,5 @@ export const disguiseOfMundanityItem = {
   type: "world-skill",
   slug: "disguise-of-mundanity-item",
   title: "Disguise of Mundanity (Item)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,7 +5,7 @@ export const basicCooking = {
   type: "world-skill",
   slug: "basic-cooking",
   title: "Basic Cooking",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["seafood-cooking"],
   references: "jsonl",
 } as const satisfies WorldSkill

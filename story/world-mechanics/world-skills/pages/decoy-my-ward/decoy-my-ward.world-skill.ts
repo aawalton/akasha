@@ -5,6 +5,6 @@ export const decoyMyWard = {
   type: "world-skill",
   slug: "decoy-my-ward",
   title: "Decoy: My Ward",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

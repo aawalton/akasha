@@ -5,5 +5,5 @@ export const copyWeaponArt = {
   type: "world-skill",
   slug: "copy-weapon-art",
   title: "Copy Weapon Art",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

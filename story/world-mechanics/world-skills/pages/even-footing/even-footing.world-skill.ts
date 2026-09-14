@@ -5,6 +5,6 @@ export const evenFooting = {
   type: "world-skill",
   slug: "even-footing",
   title: "Even Footing",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

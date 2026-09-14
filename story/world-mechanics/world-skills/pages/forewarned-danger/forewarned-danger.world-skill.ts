@@ -5,6 +5,6 @@ export const forewarnedDanger = {
   type: "world-skill",
   slug: "forewarned-danger",
   title: "Forewarned Danger",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

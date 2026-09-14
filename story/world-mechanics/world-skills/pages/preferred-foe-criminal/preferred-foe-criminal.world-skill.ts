@@ -5,6 +5,6 @@ export const preferredFoeCriminal = {
   type: "world-skill",
   slug: "preferred-foe-criminal",
   title: "Preferred Foe: Criminal",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

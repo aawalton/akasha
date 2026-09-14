@@ -5,6 +5,6 @@ export const aGradualChangeOfDisposition = {
   type: "world-skill",
   slug: "a-gradual-change-of-disposition",
   title: "A Gradual Change of Disposition",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

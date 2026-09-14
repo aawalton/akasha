@@ -5,6 +5,6 @@ export const oathOfFlamesWeWillNotFallBack = {
   type: "world-skill",
   slug: "oath-of-flames-we-will-not-fall-back",
   title: "Oath of Flames: We Will Not Fall Back!",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

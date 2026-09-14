@@ -5,6 +5,6 @@ export const airstrikeEverburnFuel = {
   type: "world-skill",
   slug: "airstrike-everburn-fuel",
   title: "Airstrike: Everburn Fuel",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

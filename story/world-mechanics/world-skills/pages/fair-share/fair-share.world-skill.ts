@@ -5,6 +5,6 @@ export const fairShare = {
   type: "world-skill",
   slug: "fair-share",
   title: "Fair Share",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

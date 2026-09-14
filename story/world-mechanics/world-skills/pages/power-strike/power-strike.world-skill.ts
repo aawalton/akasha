@@ -5,7 +5,7 @@ export const powerStrike = {
   type: "world-skill",
   slug: "power-strike",
   title: "Power Strike",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["minotaur-punch", "mirage-cut"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const sleightOfHandWand = {
   type: "world-skill",
   slug: "sleight-of-hand-wand",
   title: "Sleight of Hand: Wand",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

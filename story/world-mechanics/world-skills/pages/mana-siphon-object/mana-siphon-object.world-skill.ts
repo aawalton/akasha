@@ -5,6 +5,6 @@ export const manaSiphonObject = {
   type: "world-skill",
   slug: "mana-siphon-object",
   title: "Mana Siphon (Object)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

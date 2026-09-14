@@ -5,6 +5,6 @@ export const battalionArcsOfTheSwallow = {
   type: "world-skill",
   slug: "battalion-arcs-of-the-swallow",
   title: "Battalion: Arcs of the Swallow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

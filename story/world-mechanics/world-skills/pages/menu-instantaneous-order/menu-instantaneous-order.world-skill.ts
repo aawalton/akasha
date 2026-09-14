@@ -5,6 +5,6 @@ export const menuInstantaneousOrder = {
   type: "world-skill",
   slug: "menu-instantaneous-order",
   title: "Menu: Instantaneous Order",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const voiceRemoveRecoil = {
   type: "world-skill",
   slug: "voice-remove-recoil",
   title: "Voice: Remove Recoil",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const provokedOpponent = {
   type: "world-skill",
   slug: "provoked-opponent",
   title: "Provoked Opponent",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

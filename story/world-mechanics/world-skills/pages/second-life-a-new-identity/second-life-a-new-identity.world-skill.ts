@@ -5,6 +5,6 @@ export const secondLifeANewIdentity = {
   type: "world-skill",
   slug: "second-life-a-new-identity",
   title: "Second Life: A New Identity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

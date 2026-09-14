@@ -5,6 +5,6 @@ export const footworkHalfCircleReposition = {
   type: "world-skill",
   slug: "footwork-half-circle-reposition",
   title: "Footwork: Half-circle Reposition",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

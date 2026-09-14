@@ -5,6 +5,6 @@ export const bagOfSlowRot = {
   type: "world-skill",
   slug: "bag-of-slow-rot",
   title: "Bag of Slow Rot",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

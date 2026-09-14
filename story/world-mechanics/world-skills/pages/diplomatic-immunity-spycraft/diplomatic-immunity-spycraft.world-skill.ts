@@ -5,6 +5,6 @@ export const diplomaticImmunitySpycraft = {
   type: "world-skill",
   slug: "diplomatic-immunity-spycraft",
   title: "Diplomatic Immunity: Spycraft",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

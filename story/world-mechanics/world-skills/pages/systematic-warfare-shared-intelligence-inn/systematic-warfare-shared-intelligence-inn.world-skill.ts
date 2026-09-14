@@ -5,6 +5,6 @@ export const systematicWarfareSharedIntelligenceInn = {
   type: "world-skill",
   slug: "systematic-warfare-shared-intelligence-inn",
   title: "Systematic Warfare: Shared Intelligence (Inn)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

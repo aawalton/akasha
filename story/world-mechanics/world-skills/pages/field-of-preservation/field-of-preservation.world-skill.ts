@@ -5,6 +5,6 @@ export const fieldOfPreservation = {
   type: "world-skill",
   slug: "field-of-preservation",
   title: "Field of Preservation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

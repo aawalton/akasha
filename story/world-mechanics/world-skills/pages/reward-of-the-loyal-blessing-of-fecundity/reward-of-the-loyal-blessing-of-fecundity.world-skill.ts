@@ -5,6 +5,6 @@ export const rewardOfTheLoyalBlessingOfFecundity = {
   type: "world-skill",
   slug: "reward-of-the-loyal-blessing-of-fecundity",
   title: "Reward of the Loyal: Blessing of Fecundity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

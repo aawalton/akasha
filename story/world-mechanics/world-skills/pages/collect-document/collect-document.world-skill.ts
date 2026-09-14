@@ -5,6 +5,6 @@ export const collectDocument = {
   type: "world-skill",
   slug: "collect-document",
   title: "Collect Document",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

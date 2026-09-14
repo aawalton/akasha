@@ -5,6 +5,6 @@ export const ferociousCommand = {
   type: "world-skill",
   slug: "ferocious-command",
   title: "Ferocious Command",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

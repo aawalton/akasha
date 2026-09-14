@@ -5,6 +5,6 @@ export const bodyOfChangeAlterResistances = {
   type: "world-skill",
   slug: "body-of-change-alter-resistances",
   title: "Body of Change: Alter Resistances",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

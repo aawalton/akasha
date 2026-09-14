@@ -5,6 +5,6 @@ export const resourceLocatorThePassphraseOfImlerith = {
   type: "world-skill",
   slug: "resource-locator-the-passphrase-of-imlerith",
   title: "Resource Locator: The Passphrase of Imlerith",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

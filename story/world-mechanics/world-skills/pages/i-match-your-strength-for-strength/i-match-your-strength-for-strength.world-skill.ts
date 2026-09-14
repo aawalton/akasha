@@ -5,6 +5,6 @@ export const iMatchYourStrengthForStrength = {
   type: "world-skill",
   slug: "i-match-your-strength-for-strength",
   title: "I Match Your Strength for Strength",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,5 +5,5 @@ export const sharperEdge = {
   type: "world-skill",
   slug: "sharper-edge",
   title: "Sharper Edge",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

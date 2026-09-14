@@ -5,6 +5,6 @@ export const byTheBookHangingCatOverwatch = {
   type: "world-skill",
   slug: "by-the-book-hanging-cat-overwatch",
   title: "By the Book: Hanging Cat Overwatch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

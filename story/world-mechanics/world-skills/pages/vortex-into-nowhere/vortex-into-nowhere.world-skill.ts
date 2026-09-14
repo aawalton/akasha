@@ -5,6 +5,6 @@ export const vortexIntoNowhere = {
   type: "world-skill",
   slug: "vortex-into-nowhere",
   title: "Vortex Into Nowhere",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

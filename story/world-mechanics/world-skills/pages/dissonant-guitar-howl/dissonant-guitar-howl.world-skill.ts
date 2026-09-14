@@ -5,6 +5,6 @@ export const dissonantGuitarHowl = {
   type: "world-skill",
   slug: "dissonant-guitar-howl",
   title: "Dissonant Guitar Howl",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

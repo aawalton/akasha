@@ -5,6 +5,6 @@ export const immunityFate = {
   type: "world-skill",
   slug: "immunity-fate",
   title: "Immunity: Fate",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

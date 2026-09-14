@@ -5,6 +5,6 @@ export const archLeap = {
   type: "world-skill",
   slug: "arch-leap",
   title: "Arch Leap",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

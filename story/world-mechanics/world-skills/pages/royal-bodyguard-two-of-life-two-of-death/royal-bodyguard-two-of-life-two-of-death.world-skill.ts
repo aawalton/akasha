@@ -5,6 +5,6 @@ export const royalBodyguardTwoOfLifeTwoOfDeath = {
   type: "world-skill",
   slug: "royal-bodyguard-two-of-life-two-of-death",
   title: "Royal Bodyguard: Two of Life, Two of Death",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

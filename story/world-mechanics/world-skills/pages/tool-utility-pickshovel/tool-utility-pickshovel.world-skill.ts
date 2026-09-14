@@ -5,6 +5,6 @@ export const toolUtilityPickshovel = {
   type: "world-skill",
   slug: "tool-utility-pickshovel",
   title: "Tool Utility: Pickshovel",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

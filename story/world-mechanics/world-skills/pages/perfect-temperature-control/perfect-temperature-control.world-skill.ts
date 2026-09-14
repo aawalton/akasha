@@ -5,6 +5,6 @@ export const perfectTemperatureControl = {
   type: "world-skill",
   slug: "perfect-temperature-control",
   title: "Perfect Temperature Control",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

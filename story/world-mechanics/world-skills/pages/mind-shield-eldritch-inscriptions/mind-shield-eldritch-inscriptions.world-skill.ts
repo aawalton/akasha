@@ -5,6 +5,6 @@ export const mindShieldEldritchInscriptions = {
   type: "world-skill",
   slug: "mind-shield-eldritch-inscriptions",
   title: "Mind Shield: Eldritch Inscriptions",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

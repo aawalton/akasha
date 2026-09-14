@@ -5,6 +5,6 @@ export const naturalSeasonings = {
   type: "world-skill",
   slug: "natural-seasonings",
   title: "Natural Seasonings",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

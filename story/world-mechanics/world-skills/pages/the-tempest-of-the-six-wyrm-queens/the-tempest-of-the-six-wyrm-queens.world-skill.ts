@@ -5,6 +5,6 @@ export const theTempestOfTheSixWyrmQueens = {
   type: "world-skill",
   slug: "the-tempest-of-the-six-wyrm-queens",
   title: "The Tempest of the Six Wyrm Queens",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

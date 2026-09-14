@@ -5,6 +5,6 @@ export const whenSheDrewHerBladeTimeFledHer = {
   type: "world-skill",
   slug: "when-she-drew-her-blade-time-fled-her",
   title: "When She Drew Her Blade: Time Fled Her",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

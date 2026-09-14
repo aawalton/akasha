@@ -5,6 +5,6 @@ export const fullWeightCounter = {
   type: "world-skill",
   slug: "full-weight-counter",
   title: "Full-Weight Counter",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

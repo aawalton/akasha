@@ -5,6 +5,6 @@ export const surpassLimits = {
   type: "world-skill",
   slug: "surpass-limits",
   title: "Surpass Limits",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

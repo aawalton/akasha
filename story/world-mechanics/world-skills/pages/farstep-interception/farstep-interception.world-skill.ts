@@ -5,6 +5,6 @@ export const farstepInterception = {
   type: "world-skill",
   slug: "farstep-interception",
   title: "Farstep Interception",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

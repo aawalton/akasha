@@ -5,6 +5,6 @@ export const gapingBite = {
   type: "world-skill",
   slug: "gaping-bite",
   title: "Gaping Bite",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

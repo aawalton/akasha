@@ -5,6 +5,6 @@ export const waterRetainingSoil = {
   type: "world-skill",
   slug: "water-retaining-soil",
   title: "Water-Retaining Soil",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

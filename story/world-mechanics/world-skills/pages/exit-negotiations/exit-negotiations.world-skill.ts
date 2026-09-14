@@ -5,6 +5,6 @@ export const exitNegotiations = {
   type: "world-skill",
   slug: "exit-negotiations",
   title: "Exit Negotiations",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

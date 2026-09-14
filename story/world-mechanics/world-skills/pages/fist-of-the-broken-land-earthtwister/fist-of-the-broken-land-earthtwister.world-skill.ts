@@ -5,6 +5,6 @@ export const fistOfTheBrokenLandEarthtwister = {
   type: "world-skill",
   slug: "fist-of-the-broken-land-earthtwister",
   title: "Fist of the Broken Land: Earthtwister",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

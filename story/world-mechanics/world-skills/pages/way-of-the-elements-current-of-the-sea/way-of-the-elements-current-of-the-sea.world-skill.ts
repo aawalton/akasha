@@ -5,6 +5,6 @@ export const wayOfTheElementsCurrentOfTheSea = {
   type: "world-skill",
   slug: "way-of-the-elements-current-of-the-sea",
   title: "Way of the Elements: Current of the Sea",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const automaticParry = {
   type: "world-skill",
   slug: "automatic-parry",
   title: "Automatic Parry",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

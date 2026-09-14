@@ -5,6 +5,6 @@ export const speedwindCharge = {
   type: "world-skill",
   slug: "speedwind-charge",
   title: "Speedwind Charge",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

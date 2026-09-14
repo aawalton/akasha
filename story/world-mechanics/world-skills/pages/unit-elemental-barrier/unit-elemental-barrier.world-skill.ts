@@ -5,6 +5,6 @@ export const unitElementalBarrier = {
   type: "world-skill",
   slug: "unit-elemental-barrier",
   title: "Unit: Elemental Barrier",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

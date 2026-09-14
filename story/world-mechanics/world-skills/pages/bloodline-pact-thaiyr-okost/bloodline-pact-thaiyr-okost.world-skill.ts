@@ -5,6 +5,6 @@ export const bloodlinePactThaiyrOkost = {
   type: "world-skill",
   slug: "bloodline-pact-thaiyr-okost",
   title: "Bloodline Pact: Thaiyr Okost",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

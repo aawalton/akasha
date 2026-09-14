@@ -5,6 +5,6 @@ export const armoredBlow = {
   type: "world-skill",
   slug: "armored-blow",
   title: "Armored Blow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["full-armor-onslaught"],
 } as const satisfies WorldSkill

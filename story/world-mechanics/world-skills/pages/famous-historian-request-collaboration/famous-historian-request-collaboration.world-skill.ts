@@ -5,6 +5,6 @@ export const famousHistorianRequestCollaboration = {
   type: "world-skill",
   slug: "famous-historian-request-collaboration",
   title: "Famous Historian: Request Collaboration",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

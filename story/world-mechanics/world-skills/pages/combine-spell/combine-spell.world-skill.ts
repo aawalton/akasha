@@ -5,6 +5,6 @@ export const combineSpell = {
   type: "world-skill",
   slug: "combine-spell",
   title: "Combine Spell",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

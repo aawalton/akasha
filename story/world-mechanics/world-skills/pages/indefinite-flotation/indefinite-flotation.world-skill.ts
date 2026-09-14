@@ -5,6 +5,6 @@ export const indefiniteFlotation = {
   type: "world-skill",
   slug: "indefinite-flotation",
   title: "Indefinite Flotation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

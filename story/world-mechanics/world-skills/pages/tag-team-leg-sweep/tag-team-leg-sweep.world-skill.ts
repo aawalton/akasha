@@ -5,6 +5,6 @@ export const tagTeamLegSweep = {
   type: "world-skill",
   slug: "tag-team-leg-sweep",
   title: "Tag Team: Leg Sweep",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

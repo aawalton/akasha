@@ -5,6 +5,6 @@ export const craftNutshellArrow = {
   type: "world-skill",
   slug: "craft-nutshell-arrow",
   title: "Craft: Nutshell Arrow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

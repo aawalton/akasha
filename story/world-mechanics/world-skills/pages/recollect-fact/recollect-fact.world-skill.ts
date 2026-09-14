@@ -5,6 +5,6 @@ export const recollectFact = {
   type: "world-skill",
   slug: "recollect-fact",
   title: "Recollect Fact",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

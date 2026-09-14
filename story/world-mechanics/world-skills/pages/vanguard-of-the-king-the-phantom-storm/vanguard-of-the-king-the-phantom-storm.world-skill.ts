@@ -5,6 +5,6 @@ export const vanguardOfTheKingThePhantomStorm = {
   type: "world-skill",
   slug: "vanguard-of-the-king-the-phantom-storm",
   title: "Vanguard of the King, the Phantom Storm",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

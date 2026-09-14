@@ -5,6 +5,6 @@ export const repairFabricMinor = {
   type: "world-skill",
   slug: "repair-fabric-minor",
   title: "Repair Fabric (Minor)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

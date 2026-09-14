@@ -5,7 +5,7 @@ export const minotaurPunch = {
   type: "world-skill",
   slug: "minotaur-punch",
   title: "Minotaur Punch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["power-strike"],
   references: "jsonl",
 } as const satisfies WorldSkill

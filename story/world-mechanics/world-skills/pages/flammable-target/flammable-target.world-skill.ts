@@ -5,6 +5,6 @@ export const flammableTarget = {
   type: "world-skill",
   slug: "flammable-target",
   title: "Flammable Target",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

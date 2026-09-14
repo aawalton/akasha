@@ -5,6 +5,6 @@ export const microwebCoating = {
   type: "world-skill",
   slug: "microweb-coating",
   title: "Microweb Coating",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

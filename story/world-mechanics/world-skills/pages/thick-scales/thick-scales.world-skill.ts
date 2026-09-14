@@ -5,6 +5,6 @@ export const thickScales = {
   type: "world-skill",
   slug: "thick-scales",
   title: "Thick Scales",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

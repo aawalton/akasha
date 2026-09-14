@@ -5,6 +5,6 @@ export const glitteringCut = {
   type: "world-skill",
   slug: "glittering-cut",
   title: "Glittering Cut",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

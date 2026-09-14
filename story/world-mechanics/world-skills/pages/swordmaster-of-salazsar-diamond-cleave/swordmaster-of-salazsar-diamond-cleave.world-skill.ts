@@ -5,6 +5,6 @@ export const swordmasterOfSalazsarDiamondCleave = {
   type: "world-skill",
   slug: "swordmaster-of-salazsar-diamond-cleave",
   title: "Swordmaster of Salazsar: Diamond Cleave",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

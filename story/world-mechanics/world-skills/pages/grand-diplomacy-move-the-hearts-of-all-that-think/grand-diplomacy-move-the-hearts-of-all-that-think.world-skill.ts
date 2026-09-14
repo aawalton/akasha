@@ -5,5 +5,5 @@ export const grandDiplomacyMoveTheHeartsOfAllThatThink = {
   type: "world-skill",
   slug: "grand-diplomacy-move-the-hearts-of-all-that-think",
   title: "Grand Diplomacy: Move the Hearts of All That Think",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

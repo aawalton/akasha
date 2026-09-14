@@ -5,6 +5,6 @@ export const magicalTutelageGrandMagus = {
   type: "world-skill",
   slug: "magical-tutelage-grand-magus",
   title: "Magical Tutelage (Grand Magus)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const wildUppercut = {
   type: "world-skill",
   slug: "wild-uppercut",
   title: "Wild Uppercut",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

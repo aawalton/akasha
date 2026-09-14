@@ -5,6 +5,6 @@ export const skillGreaterArtifactAnalysisRemoved = {
   type: "world-skill",
   slug: "skill-greater-artifact-analysis-removed",
   title: "Skill – Greater Artifact Analysis Removed.",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

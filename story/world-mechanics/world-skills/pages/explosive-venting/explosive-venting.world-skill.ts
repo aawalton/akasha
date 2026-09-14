@@ -5,5 +5,5 @@ export const explosiveVenting = {
   type: "world-skill",
   slug: "explosive-venting",
   title: "Explosive Venting",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

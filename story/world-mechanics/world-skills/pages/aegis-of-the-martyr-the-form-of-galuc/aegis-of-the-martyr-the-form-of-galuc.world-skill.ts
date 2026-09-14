@@ -5,6 +5,6 @@ export const aegisOfTheMartyrTheFormOfGaluc = {
   type: "world-skill",
   slug: "aegis-of-the-martyr-the-form-of-galuc",
   title: "Aegis of the Martyr: The Form of Galuc",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

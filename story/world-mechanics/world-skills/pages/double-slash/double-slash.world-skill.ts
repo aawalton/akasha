@@ -5,7 +5,7 @@ export const doubleSlash = {
   type: "world-skill",
   slug: "double-slash",
   title: "Double Slash—",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Double Slash"],
   references: "jsonl",
 } as const satisfies WorldSkill

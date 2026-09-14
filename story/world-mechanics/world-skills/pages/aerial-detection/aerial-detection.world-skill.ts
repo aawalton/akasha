@@ -5,6 +5,6 @@ export const aerialDetection = {
   type: "world-skill",
   slug: "aerial-detection",
   title: "Aerial Detection",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

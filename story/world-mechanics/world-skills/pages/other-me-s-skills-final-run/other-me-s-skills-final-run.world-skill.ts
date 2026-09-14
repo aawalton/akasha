@@ -5,6 +5,6 @@ export const otherMeSSkillsFinalRun = {
   type: "world-skill",
   slug: "other-me-s-skills-final-run",
   title: "Other Me’s Skills – Final Run",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

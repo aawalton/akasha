@@ -5,6 +5,6 @@ export const preserveMoraleCasualties = {
   type: "world-skill",
   slug: "preserve-morale-casualties",
   title: "Preserve Morale (Casualties)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

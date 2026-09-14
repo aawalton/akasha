@@ -5,6 +5,6 @@ export const corpseRememberedActivity = {
   type: "world-skill",
   slug: "corpse-remembered-activity",
   title: "Corpse: Remembered Activity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

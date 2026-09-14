@@ -5,6 +5,6 @@ export const wondrousDeedBeyondAnyLimit = {
   type: "world-skill",
   slug: "wondrous-deed-beyond-any-limit",
   title: "Wondrous Deed: Beyond Any Limit",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

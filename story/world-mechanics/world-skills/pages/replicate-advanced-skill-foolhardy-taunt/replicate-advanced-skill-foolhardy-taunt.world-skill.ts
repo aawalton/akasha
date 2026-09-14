@@ -5,6 +5,6 @@ export const replicateAdvancedSkillFoolhardyTaunt = {
   type: "world-skill",
   slug: "replicate-advanced-skill-foolhardy-taunt",
   title: "Replicate Advanced Skill: Foolhardy Taunt",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

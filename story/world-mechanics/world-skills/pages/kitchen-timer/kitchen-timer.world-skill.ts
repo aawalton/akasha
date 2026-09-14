@@ -5,6 +5,6 @@ export const kitchenTimer = {
   type: "world-skill",
   slug: "kitchen-timer",
   title: "Kitchen Timer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

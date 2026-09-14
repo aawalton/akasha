@@ -5,6 +5,6 @@ export const theBoxOfIncontinuity = {
   type: "world-skill",
   slug: "the-box-of-incontinuity",
   title: "The Box of Incontinuity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

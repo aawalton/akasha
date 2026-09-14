@@ -5,6 +5,6 @@ export const palaceOfFate = {
   type: "world-skill",
   slug: "palace-of-fate",
   title: "Palace of Fate",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

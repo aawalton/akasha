@@ -5,6 +5,6 @@ export const penaltyClauseNoOneNegotiatesWithMe = {
   type: "world-skill",
   slug: "penalty-clause-no-one-negotiates-with-me",
   title: "Penalty Clause: No One Negotiates With Me",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

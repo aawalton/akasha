@@ -5,6 +5,6 @@ export const spiritOfTheWildEnhancement = {
   type: "world-skill",
   slug: "spirit-of-the-wild-enhancement",
   title: "Spirit of the Wild (Enhancement)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

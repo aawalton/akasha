@@ -5,6 +5,6 @@ export const checkSum = {
   type: "world-skill",
   slug: "check-sum",
   title: "Check Sum",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

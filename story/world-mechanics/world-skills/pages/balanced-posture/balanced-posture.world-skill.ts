@@ -5,6 +5,6 @@ export const balancedPosture = {
   type: "world-skill",
   slug: "balanced-posture",
   title: "Balanced Posture",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

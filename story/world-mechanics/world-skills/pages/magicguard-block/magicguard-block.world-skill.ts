@@ -5,6 +5,6 @@ export const magicguardBlock = {
   type: "world-skill",
   slug: "magicguard-block",
   title: "Magicguard Block",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const imperialLevy = {
   type: "world-skill",
   slug: "imperial-levy",
   title: "Imperial Levy",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

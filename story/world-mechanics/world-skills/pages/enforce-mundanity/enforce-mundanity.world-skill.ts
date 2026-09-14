@@ -5,6 +5,6 @@ export const enforceMundanity = {
   type: "world-skill",
   slug: "enforce-mundanity",
   title: "Enforce Mundanity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const longStep = {
   type: "world-skill",
   slug: "long-step",
   title: "Long Step",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

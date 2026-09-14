@@ -5,6 +5,6 @@ export const evasiveFlip = {
   type: "world-skill",
   slug: "evasive-flip",
   title: "Evasive Flip",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

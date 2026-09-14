@@ -5,6 +5,6 @@ export const remotelyWriteLedger = {
   type: "world-skill",
   slug: "remotely-write-ledger",
   title: "Remotely Write Ledger",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

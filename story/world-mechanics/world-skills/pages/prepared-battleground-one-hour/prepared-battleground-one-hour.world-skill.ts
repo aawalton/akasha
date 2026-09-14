@@ -5,6 +5,6 @@ export const preparedBattlegroundOneHour = {
   type: "world-skill",
   slug: "prepared-battleground-one-hour",
   title: "Prepared Battleground: One Hour",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

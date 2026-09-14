@@ -5,6 +5,6 @@ export const lawOfTheLucifenHalt = {
   type: "world-skill",
   slug: "law-of-the-lucifen-halt",
   title: "Law of the Lucifen: Halt",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

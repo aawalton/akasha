@@ -5,6 +5,6 @@ export const glossaryOfSaliiGalam = {
   type: "world-skill",
   slug: "glossary-of-salii-galam",
   title: "Glossary of Salii: Galam",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

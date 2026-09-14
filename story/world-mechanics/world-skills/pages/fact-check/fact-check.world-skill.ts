@@ -5,6 +5,6 @@ export const factCheck = {
   type: "world-skill",
   slug: "fact-check",
   title: "Fact Check",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

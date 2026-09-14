@@ -5,6 +5,6 @@ export const summonSlavesTheSprigganConsortOfRoshal = {
   type: "world-skill",
   slug: "summon-slaves-the-spriggan-consort-of-roshal",
   title: "Summon Slaves: The Spriggan Consort of Roshal",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

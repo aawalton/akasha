@@ -5,6 +5,6 @@ export const arrowOfRegret = {
   type: "world-skill",
   slug: "arrow-of-regret",
   title: "Arrow of Regret",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

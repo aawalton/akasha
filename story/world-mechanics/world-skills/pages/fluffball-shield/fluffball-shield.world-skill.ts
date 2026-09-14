@@ -5,6 +5,6 @@ export const fluffballShield = {
   type: "world-skill",
   slug: "fluffball-shield",
   title: "Fluffball Shield",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

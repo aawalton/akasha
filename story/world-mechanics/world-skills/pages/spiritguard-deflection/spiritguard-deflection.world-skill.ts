@@ -5,6 +5,6 @@ export const spiritguardDeflection = {
   type: "world-skill",
   slug: "spiritguard-deflection",
   title: "Spiritguard Deflection",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const lightspeedReaction = {
   type: "world-skill",
   slug: "lightspeed-reaction",
   title: "Lightspeed Reaction",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

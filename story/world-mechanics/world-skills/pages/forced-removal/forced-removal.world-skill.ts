@@ -5,6 +5,6 @@ export const forcedRemoval = {
   type: "world-skill",
   slug: "forced-removal",
   title: "Forced Removal",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

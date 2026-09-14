@@ -5,7 +5,7 @@ export const weaponArtAggregateVolley = {
   type: "world-skill",
   slug: "weapon-art-aggregate-volley",
   title: "Weapon Art: Aggregate Volley",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Weapon Art – Aggregate Volley"],
   references: "jsonl",
 } as const satisfies WorldSkill

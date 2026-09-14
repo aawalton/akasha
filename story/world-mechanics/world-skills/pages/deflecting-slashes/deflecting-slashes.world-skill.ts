@@ -5,6 +5,6 @@ export const deflectingSlashes = {
   type: "world-skill",
   slug: "deflecting-slashes",
   title: "Deflecting Slashes",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

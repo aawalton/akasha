@@ -5,6 +5,6 @@ export const longRangeRepair = {
   type: "world-skill",
   slug: "long-range-repair",
   title: "Long-Range Repair",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

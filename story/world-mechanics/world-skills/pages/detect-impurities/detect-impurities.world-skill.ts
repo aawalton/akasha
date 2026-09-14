@@ -5,6 +5,6 @@ export const detectImpurities = {
   type: "world-skill",
   slug: "detect-impurities",
   title: "Detect Impurities",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

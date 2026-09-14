@@ -5,5 +5,5 @@ export const heavilyReinforcedPipes = {
   type: "world-skill",
   slug: "heavily-reinforced-pipes",
   title: "Heavily Reinforced Pipes",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const areaOfDiffusion = {
   type: "world-skill",
   slug: "area-of-diffusion",
   title: "Area of Diffusion",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

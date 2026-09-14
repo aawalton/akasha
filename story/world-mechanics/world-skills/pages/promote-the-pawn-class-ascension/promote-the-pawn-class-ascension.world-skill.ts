@@ -5,6 +5,6 @@ export const promoteThePawnClassAscension = {
   type: "world-skill",
   slug: "promote-the-pawn-class-ascension",
   title: "Promote the Pawn: Class Ascension",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

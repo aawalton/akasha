@@ -5,6 +5,6 @@ export const superiorityMadeManifest = {
   type: "world-skill",
   slug: "superiority-made-manifest",
   title: "Superiority Made Manifest",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

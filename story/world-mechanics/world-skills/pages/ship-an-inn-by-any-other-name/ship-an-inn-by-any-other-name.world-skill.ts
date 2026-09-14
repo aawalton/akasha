@@ -5,6 +5,6 @@ export const shipAnInnByAnyOtherName = {
   type: "world-skill",
   slug: "ship-an-inn-by-any-other-name",
   title: "Ship: An Inn by Any Other Name",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

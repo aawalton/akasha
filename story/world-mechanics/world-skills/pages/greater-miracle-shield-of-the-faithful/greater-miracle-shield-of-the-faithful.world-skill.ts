@@ -5,6 +5,6 @@ export const greaterMiracleShieldOfTheFaithful = {
   type: "world-skill",
   slug: "greater-miracle-shield-of-the-faithful",
   title: "Greater Miracle: Shield of the Faithful",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const perfectRiposte = {
   type: "world-skill",
   slug: "perfect-riposte",
   title: "Perfect Riposte",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

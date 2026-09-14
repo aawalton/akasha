@@ -5,6 +5,6 @@ export const instantNap = {
   type: "world-skill",
   slug: "instant-nap",
   title: "Instant Nap",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

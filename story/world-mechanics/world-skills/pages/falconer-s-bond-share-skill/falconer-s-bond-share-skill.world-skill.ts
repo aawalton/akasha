@@ -5,6 +5,6 @@ export const falconerSBondShareSkill = {
   type: "world-skill",
   slug: "falconer-s-bond-share-skill",
   title: "Falconer’s Bond: Share Skill",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

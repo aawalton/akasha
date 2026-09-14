@@ -5,6 +5,6 @@ export const empireFieldOfHarvests = {
   type: "world-skill",
   slug: "empire-field-of-harvests",
   title: "Empire: Field of Harvests",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

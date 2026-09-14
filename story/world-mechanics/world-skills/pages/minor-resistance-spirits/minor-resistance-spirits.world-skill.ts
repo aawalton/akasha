@@ -5,6 +5,6 @@ export const minorResistanceSpirits = {
   type: "world-skill",
   slug: "minor-resistance-spirits",
   title: "Minor Resistance: Spirits",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

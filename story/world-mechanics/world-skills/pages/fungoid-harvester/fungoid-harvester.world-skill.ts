@@ -5,6 +5,6 @@ export const fungoidHarvester = {
   type: "world-skill",
   slug: "fungoid-harvester",
   title: "Fungoid Harvester",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

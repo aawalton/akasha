@@ -5,6 +5,6 @@ export const royalWillUnstoppableImpact = {
   type: "world-skill",
   slug: "royal-will-unstoppable-impact",
   title: "Royal Will: Unstoppable Impact",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

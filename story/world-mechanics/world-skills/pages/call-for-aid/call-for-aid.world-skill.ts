@@ -5,6 +5,6 @@ export const callForAid = {
   type: "world-skill",
   slug: "call-for-aid",
   title: "Call for Aid",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

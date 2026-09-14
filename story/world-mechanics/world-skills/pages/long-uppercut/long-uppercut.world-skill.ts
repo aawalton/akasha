@@ -5,6 +5,6 @@ export const longUppercut = {
   type: "world-skill",
   slug: "long-uppercut",
   title: "Long Uppercut",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

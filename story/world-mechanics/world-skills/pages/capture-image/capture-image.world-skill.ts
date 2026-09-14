@@ -5,6 +5,6 @@ export const captureImage = {
   type: "world-skill",
   slug: "capture-image",
   title: "Capture Image",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

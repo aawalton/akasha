@@ -5,6 +5,6 @@ export const camouflagedPosition = {
   type: "world-skill",
   slug: "camouflaged-position",
   title: "Camouflaged Position",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

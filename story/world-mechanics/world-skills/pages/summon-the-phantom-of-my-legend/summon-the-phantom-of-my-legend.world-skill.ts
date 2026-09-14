@@ -5,6 +5,6 @@ export const summonThePhantomOfMyLegend = {
   type: "world-skill",
   slug: "summon-the-phantom-of-my-legend",
   title: "Summon: The Phantom of My Legend",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

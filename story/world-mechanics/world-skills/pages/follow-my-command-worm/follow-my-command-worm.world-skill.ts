@@ -5,6 +5,6 @@ export const followMyCommandWorm = {
   type: "world-skill",
   slug: "follow-my-command-worm",
   title: "Follow my Command, Worm",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

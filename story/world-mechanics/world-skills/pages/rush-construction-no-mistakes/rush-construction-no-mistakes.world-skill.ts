@@ -5,6 +5,6 @@ export const rushConstructionNoMistakes = {
   type: "world-skill",
   slug: "rush-construction-no-mistakes",
   title: "Rush Construction: No Mistakes",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const dDefianceAfterDeath = {
   type: "world-skill",
   slug: "d-defiance-after-death",
   title: "D-Defiance After Death",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

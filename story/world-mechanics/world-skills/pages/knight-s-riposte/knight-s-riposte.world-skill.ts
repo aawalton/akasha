@@ -5,7 +5,7 @@ export const knightSRiposte = {
   type: "world-skill",
   slug: "knight-s-riposte",
   title: "Knight’s Riposte",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["brute-s-swing"],
   references: "jsonl",
 } as const satisfies WorldSkill

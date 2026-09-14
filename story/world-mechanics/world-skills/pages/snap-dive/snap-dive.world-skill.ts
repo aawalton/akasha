@@ -5,6 +5,6 @@ export const snapDive = {
   type: "world-skill",
   slug: "snap-dive",
   title: "Snap Dive",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

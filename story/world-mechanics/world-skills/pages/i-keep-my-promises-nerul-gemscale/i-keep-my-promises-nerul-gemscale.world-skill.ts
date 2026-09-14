@@ -5,5 +5,5 @@ export const iKeepMyPromisesNerulGemscale = {
   type: "world-skill",
   slug: "i-keep-my-promises-nerul-gemscale",
   title: "I Keep My Promises (Nerul Gemscale)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

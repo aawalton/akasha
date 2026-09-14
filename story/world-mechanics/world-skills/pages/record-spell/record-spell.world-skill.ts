@@ -5,6 +5,6 @@ export const recordSpell = {
   type: "world-skill",
   slug: "record-spell",
   title: "Record Spell",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

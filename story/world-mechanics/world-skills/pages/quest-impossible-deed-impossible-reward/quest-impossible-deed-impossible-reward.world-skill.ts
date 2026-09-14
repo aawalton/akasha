@@ -5,6 +5,6 @@ export const questImpossibleDeedImpossibleReward = {
   type: "world-skill",
   slug: "quest-impossible-deed-impossible-reward",
   title: "Quest: Impossible Deed, Impossible Reward",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const immobilizingTouch = {
   type: "world-skill",
   slug: "immobilizing-touch",
   title: "Immobilizing Touch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

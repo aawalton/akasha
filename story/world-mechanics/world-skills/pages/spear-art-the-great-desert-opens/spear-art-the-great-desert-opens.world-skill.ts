@@ -5,6 +5,6 @@ export const spearArtTheGreatDesertOpens = {
   type: "world-skill",
   slug: "spear-art-the-great-desert-opens",
   title: "Spear Art: The Great Desert Opens",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const freeAscent50Feet = {
   type: "world-skill",
   slug: "free-ascent-50-feet",
   title: "Free Ascent: 50 Feet",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

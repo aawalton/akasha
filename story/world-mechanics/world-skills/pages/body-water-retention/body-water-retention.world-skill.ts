@@ -5,6 +5,6 @@ export const bodyWaterRetention = {
   type: "world-skill",
   slug: "body-water-retention",
   title: "Body: Water Retention",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

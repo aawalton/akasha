@@ -5,6 +5,6 @@ export const bridgeTheGap = {
   type: "world-skill",
   slug: "bridge-the-gap",
   title: "Bridge the Gap",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

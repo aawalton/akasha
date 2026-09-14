@@ -5,6 +5,6 @@ export const nudgeCustomers = {
   type: "world-skill",
   slug: "nudge-customers",
   title: "Nudge Customers",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

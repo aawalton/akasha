@@ -5,6 +5,6 @@ export const nobleDiction = {
   type: "world-skill",
   slug: "noble-diction",
   title: "Noble Diction",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

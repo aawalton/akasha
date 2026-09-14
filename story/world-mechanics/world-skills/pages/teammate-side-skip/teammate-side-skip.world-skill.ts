@@ -5,6 +5,6 @@ export const teammateSideSkip = {
   type: "world-skill",
   slug: "teammate-side-skip",
   title: "Teammate: Side Skip",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

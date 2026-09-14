@@ -5,6 +5,6 @@ export const wildApproach = {
   type: "world-skill",
   slug: "wild-approach",
   title: "Wild Approach",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

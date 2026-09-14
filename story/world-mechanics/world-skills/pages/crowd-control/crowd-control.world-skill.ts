@@ -5,6 +5,6 @@ export const crowdControl = {
   type: "world-skill",
   slug: "crowd-control",
   title: "Crowd Control",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

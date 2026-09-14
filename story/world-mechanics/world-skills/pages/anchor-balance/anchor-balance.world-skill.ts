@@ -5,6 +5,6 @@ export const anchorBalance = {
   type: "world-skill",
   slug: "anchor-balance",
   title: "Anchor Balance",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

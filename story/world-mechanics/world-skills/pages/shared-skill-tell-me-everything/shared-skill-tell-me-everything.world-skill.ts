@@ -5,6 +5,6 @@ export const sharedSkillTellMeEverything = {
   type: "world-skill",
   slug: "shared-skill-tell-me-everything",
   title: "Shared Skill: Tell Me Everything",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

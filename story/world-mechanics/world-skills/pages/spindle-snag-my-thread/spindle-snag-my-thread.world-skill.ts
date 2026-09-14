@@ -5,6 +5,6 @@ export const spindleSnagMyThread = {
   type: "world-skill",
   slug: "spindle-snag-my-thread",
   title: "Spindle, Snag My Thread",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

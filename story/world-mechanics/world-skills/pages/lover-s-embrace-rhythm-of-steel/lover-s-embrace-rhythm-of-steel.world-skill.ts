@@ -5,6 +5,6 @@ export const loverSEmbraceRhythmOfSteel = {
   type: "world-skill",
   slug: "lover-s-embrace-rhythm-of-steel",
   title: "Lover’s Embrace: Rhythm of Steel",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

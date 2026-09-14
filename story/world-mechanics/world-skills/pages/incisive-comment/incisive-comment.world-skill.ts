@@ -5,6 +5,6 @@ export const incisiveComment = {
   type: "world-skill",
   slug: "incisive-comment",
   title: "Incisive Comment",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

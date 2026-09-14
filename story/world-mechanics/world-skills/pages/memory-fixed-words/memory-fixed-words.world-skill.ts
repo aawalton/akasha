@@ -5,6 +5,6 @@ export const memoryFixedWords = {
   type: "world-skill",
   slug: "memory-fixed-words",
   title: "Memory-Fixed Words",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

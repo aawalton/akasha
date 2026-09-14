@@ -5,6 +5,6 @@ export const interceptMortalBlow = {
   type: "world-skill",
   slug: "intercept-mortal-blow",
   title: "Intercept Mortal Blow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

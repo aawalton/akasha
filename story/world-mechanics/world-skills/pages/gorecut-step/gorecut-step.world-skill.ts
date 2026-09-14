@@ -5,6 +5,6 @@ export const gorecutStep = {
   type: "world-skill",
   slug: "gorecut-step",
   title: "Gorecut Step",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

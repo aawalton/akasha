@@ -5,6 +5,6 @@ export const increasedCarryWeight = {
   type: "world-skill",
   slug: "increased-carry-weight",
   title: "Increased Carry Weight",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

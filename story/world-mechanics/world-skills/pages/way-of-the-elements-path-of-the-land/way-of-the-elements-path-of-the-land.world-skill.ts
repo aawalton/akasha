@@ -5,6 +5,6 @@ export const wayOfTheElementsPathOfTheLand = {
   type: "world-skill",
   slug: "way-of-the-elements-path-of-the-land",
   title: "Way of the Elements: Path of the Land",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

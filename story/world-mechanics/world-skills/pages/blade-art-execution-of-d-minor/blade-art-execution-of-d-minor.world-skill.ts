@@ -5,6 +5,6 @@ export const bladeArtExecutionOfDMinor = {
   type: "world-skill",
   slug: "blade-art-execution-of-d-minor",
   title: "Blade Art: Execution of D-Minor",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

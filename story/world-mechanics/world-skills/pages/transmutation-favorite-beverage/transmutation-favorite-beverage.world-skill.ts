@@ -5,6 +5,6 @@ export const transmutationFavoriteBeverage = {
   type: "world-skill",
   slug: "transmutation-favorite-beverage",
   title: "Transmutation: Favorite Beverage",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

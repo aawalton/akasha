@@ -5,6 +5,6 @@ export const tellMeWhatYouTrulyBelieve = {
   type: "world-skill",
   slug: "tell-me-what-you-truly-believe",
   title: "Tell Me What You Truly Believe",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

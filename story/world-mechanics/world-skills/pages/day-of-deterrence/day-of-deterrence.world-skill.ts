@@ -5,6 +5,6 @@ export const dayOfDeterrence = {
   type: "world-skill",
   slug: "day-of-deterrence",
   title: "Day of Deterrence",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

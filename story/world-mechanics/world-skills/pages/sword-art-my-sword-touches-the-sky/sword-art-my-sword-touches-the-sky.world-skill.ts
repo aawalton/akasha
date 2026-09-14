@@ -5,6 +5,6 @@ export const swordArtMySwordTouchesTheSky = {
   type: "world-skill",
   slug: "sword-art-my-sword-touches-the-sky",
   title: "Sword Art: My Sword Touches the Sky",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const fastBoiling = {
   type: "world-skill",
   slug: "fast-boiling",
   title: "Fast Boiling",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

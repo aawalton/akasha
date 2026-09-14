@@ -5,6 +5,6 @@ export const royalTax = {
   type: "world-skill",
   slug: "royal-tax",
   title: "Royal Tax",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const hiddenPotential = {
   type: "world-skill",
   slug: "hidden-potential",
   title: "Hidden Potential",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

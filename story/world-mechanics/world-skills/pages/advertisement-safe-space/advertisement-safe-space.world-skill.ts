@@ -5,6 +5,6 @@ export const advertisementSafeSpace = {
   type: "world-skill",
   slug: "advertisement-safe-space",
   title: "Advertisement: Safe Space",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

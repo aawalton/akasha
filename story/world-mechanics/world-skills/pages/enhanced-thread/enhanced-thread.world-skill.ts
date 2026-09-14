@@ -5,6 +5,6 @@ export const enhancedThread = {
   type: "world-skill",
   slug: "enhanced-thread",
   title: "Enhanced Thread",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

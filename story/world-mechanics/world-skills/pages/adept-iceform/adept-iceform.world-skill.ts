@@ -5,6 +5,6 @@ export const adeptIceform = {
   type: "world-skill",
   slug: "adept-iceform",
   title: "Adept Iceform",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

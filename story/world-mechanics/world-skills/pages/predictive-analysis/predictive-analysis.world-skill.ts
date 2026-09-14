@@ -5,6 +5,6 @@ export const predictiveAnalysis = {
   type: "world-skill",
   slug: "predictive-analysis",
   title: "Predictive Analysis",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

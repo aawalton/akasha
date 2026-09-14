@@ -5,6 +5,6 @@ export const wagerSet = {
   type: "world-skill",
   slug: "wager-set",
   title: "Wager Set",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

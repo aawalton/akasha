@@ -5,6 +5,6 @@ export const visionOfDespairBoneGiantSSwing = {
   type: "world-skill",
   slug: "vision-of-despair-bone-giant-s-swing",
   title: "Vision of Despair: Bone Giant’s Swing",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

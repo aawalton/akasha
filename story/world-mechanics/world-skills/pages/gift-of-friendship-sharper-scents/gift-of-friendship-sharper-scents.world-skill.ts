@@ -5,6 +5,6 @@ export const giftOfFriendshipSharperScents = {
   type: "world-skill",
   slug: "gift-of-friendship-sharper-scents",
   title: "Gift of Friendship: Sharper Scents",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

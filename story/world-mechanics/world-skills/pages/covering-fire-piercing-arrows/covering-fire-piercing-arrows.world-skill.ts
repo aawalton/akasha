@@ -5,7 +5,7 @@ export const coveringFirePiercingArrows = {
   type: "world-skill",
   slug: "covering-fire-piercing-arrows",
   title: "Covering Fire (Piercing Arrows)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["covering-fire"],
   references: "jsonl",
 } as const satisfies WorldSkill

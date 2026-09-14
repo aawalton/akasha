@@ -5,6 +5,6 @@ export const preySense = {
   type: "world-skill",
   slug: "prey-sense",
   title: "Prey Sense",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

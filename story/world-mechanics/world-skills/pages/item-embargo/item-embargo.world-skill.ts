@@ -5,6 +5,6 @@ export const itemEmbargo = {
   type: "world-skill",
   slug: "item-embargo",
   title: "Item Embargo",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

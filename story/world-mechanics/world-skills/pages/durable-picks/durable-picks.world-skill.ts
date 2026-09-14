@@ -5,6 +5,6 @@ export const durablePicks = {
   type: "world-skill",
   slug: "durable-picks",
   title: "Durable Picks",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

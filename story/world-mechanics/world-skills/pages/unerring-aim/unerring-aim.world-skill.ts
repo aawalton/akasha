@@ -5,6 +5,6 @@ export const unerringAim = {
   type: "world-skill",
   slug: "unerring-aim",
   title: "Unerring Aim",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

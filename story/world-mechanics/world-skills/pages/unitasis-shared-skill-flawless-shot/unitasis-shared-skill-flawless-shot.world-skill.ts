@@ -5,7 +5,7 @@ export const unitasisSharedSkillFlawlessShot = {
   type: "world-skill",
   slug: "unitasis-shared-skill-flawless-shot",
   title: "Unitasis Shared Skill: Flawless Shot",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["unitasis-network"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const hardenMetal = {
   type: "world-skill",
   slug: "harden-metal",
   title: "Harden Metal",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

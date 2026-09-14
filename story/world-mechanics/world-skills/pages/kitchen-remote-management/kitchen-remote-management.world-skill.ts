@@ -5,6 +5,6 @@ export const kitchenRemoteManagement = {
   type: "world-skill",
   slug: "kitchen-remote-management",
   title: "Kitchen: Remote Management",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

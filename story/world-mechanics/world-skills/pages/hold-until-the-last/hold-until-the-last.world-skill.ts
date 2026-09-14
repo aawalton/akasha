@@ -5,6 +5,6 @@ export const holdUntilTheLast = {
   type: "world-skill",
   slug: "hold-until-the-last",
   title: "Hold Until The Last",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

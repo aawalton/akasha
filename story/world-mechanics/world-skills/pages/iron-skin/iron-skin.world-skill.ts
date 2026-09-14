@@ -5,6 +5,6 @@ export const ironSkin = {
   type: "world-skill",
   slug: "iron-skin",
   title: "Iron Skin",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

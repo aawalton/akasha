@@ -5,6 +5,6 @@ export const untilDeathOrDishonorIChallengeYou = {
   type: "world-skill",
   slug: "until-death-or-dishonor-i-challenge-you",
   title: "Until Death or Dishonor, I Challenge You",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

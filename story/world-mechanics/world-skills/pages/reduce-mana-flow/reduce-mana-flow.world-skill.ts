@@ -5,6 +5,6 @@ export const reduceManaFlow = {
   type: "world-skill",
   slug: "reduce-mana-flow",
   title: "Reduce Mana Flow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

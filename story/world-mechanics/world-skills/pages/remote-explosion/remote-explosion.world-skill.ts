@@ -5,6 +5,6 @@ export const remoteExplosion = {
   type: "world-skill",
   slug: "remote-explosion",
   title: "Remote Explosion",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

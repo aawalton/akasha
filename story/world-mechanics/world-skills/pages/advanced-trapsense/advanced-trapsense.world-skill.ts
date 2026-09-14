@@ -5,6 +5,6 @@ export const advancedTrapsense = {
   type: "world-skill",
   slug: "advanced-trapsense",
   title: "Advanced Trapsense",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

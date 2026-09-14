@@ -5,6 +5,6 @@ export const crossworldsUtilityMedicalEquipment = {
   type: "world-skill",
   slug: "crossworlds-utility-medical-equipment",
   title: "Crossworlds Utility (Medical Equipment)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

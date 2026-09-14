@@ -5,6 +5,6 @@ export const enchantmentLeadenWeight = {
   type: "world-skill",
   slug: "enchantment-leaden-weight",
   title: "Enchantment: Leaden Weight",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

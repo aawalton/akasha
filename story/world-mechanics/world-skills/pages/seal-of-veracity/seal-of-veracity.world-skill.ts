@@ -5,6 +5,6 @@ export const sealOfVeracity = {
   type: "world-skill",
   slug: "seal-of-veracity",
   title: "Seal of Veracity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

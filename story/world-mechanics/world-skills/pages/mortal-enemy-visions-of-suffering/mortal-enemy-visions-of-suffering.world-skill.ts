@@ -5,6 +5,6 @@ export const mortalEnemyVisionsOfSuffering = {
   type: "world-skill",
   slug: "mortal-enemy-visions-of-suffering",
   title: "Mortal Enemy: Visions of Suffering",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

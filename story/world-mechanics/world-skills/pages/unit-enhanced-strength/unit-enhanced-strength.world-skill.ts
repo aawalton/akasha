@@ -5,6 +5,6 @@ export const unitEnhancedStrength = {
   type: "world-skill",
   slug: "unit-enhanced-strength",
   title: "Unit: Enhanced Strength",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const commitToMemory = {
   type: "world-skill",
   slug: "commit-to-memory",
   title: "Commit to Memory",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

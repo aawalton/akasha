@@ -5,6 +5,6 @@ export const extendedBattery = {
   type: "world-skill",
   slug: "extended-battery",
   title: "Extended Battery",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

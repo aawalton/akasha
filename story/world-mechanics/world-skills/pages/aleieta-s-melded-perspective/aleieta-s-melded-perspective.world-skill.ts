@@ -5,5 +5,5 @@ export const aleietaSMeldedPerspective = {
   type: "world-skill",
   slug: "aleieta-s-melded-perspective",
   title: "Aleieta’s Melded Perspective",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

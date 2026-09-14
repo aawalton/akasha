@@ -5,6 +5,6 @@ export const royalCommandHeal = {
   type: "world-skill",
   slug: "royal-command-heal",
   title: "Royal Command: Heal",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

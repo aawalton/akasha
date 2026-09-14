@@ -5,6 +5,6 @@ export const tTidalJab = {
   type: "world-skill",
   slug: "t-tidal-jab",
   title: "T-Tidal Jab",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

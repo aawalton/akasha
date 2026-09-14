@@ -5,6 +5,6 @@ export const detectGuilt = {
   type: "world-skill",
   slug: "detect-guilt",
   title: "Detect Guilt",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

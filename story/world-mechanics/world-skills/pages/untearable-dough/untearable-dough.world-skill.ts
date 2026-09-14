@@ -5,6 +5,6 @@ export const untearableDough = {
   type: "world-skill",
   slug: "untearable-dough",
   title: "Untearable Dough",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

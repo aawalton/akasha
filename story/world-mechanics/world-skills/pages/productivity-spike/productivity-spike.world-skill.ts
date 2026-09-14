@@ -5,6 +5,6 @@ export const productivitySpike = {
   type: "world-skill",
   slug: "productivity-spike",
   title: "Productivity Spike",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

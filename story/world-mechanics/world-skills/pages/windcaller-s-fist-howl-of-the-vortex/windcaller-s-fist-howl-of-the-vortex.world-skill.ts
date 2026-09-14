@@ -5,6 +5,6 @@ export const windcallerSFistHowlOfTheVortex = {
   type: "world-skill",
   slug: "windcaller-s-fist-howl-of-the-vortex",
   title: "Windcaller’s Fist: Howl of the Vortex",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

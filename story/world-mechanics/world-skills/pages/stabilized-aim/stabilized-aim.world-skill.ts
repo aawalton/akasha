@@ -5,6 +5,6 @@ export const stabilizedAim = {
   type: "world-skill",
   slug: "stabilized-aim",
   title: "Stabilized Aim",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

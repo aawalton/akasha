@@ -5,6 +5,6 @@ export const superiorPhysique = {
   type: "world-skill",
   slug: "superior-physique",
   title: "Superior Physique",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

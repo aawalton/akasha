@@ -5,6 +5,6 @@ export const advancedOrganTransplant = {
   type: "world-skill",
   slug: "advanced-organ-transplant",
   title: "Advanced Organ Transplant",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

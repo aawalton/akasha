@@ -5,6 +5,6 @@ export const staffManufactureDragonscaleEquipmentBrass = {
   type: "world-skill",
   slug: "staff-manufacture-dragonscale-equipment-brass",
   title: "Staff: Manufacture Dragonscale Equipment (Brass)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

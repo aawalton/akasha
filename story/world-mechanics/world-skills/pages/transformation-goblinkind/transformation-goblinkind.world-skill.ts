@@ -5,6 +5,6 @@ export const transformationGoblinkind = {
   type: "world-skill",
   slug: "transformation-goblinkind",
   title: "Transformation: Goblinkind",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,5 +5,5 @@ export const theSkyIsFallingAdvanceTier3Magic = {
   type: "world-skill",
   slug: "the-sky-is-falling-advance-tier-3-magic",
   title: "The Sky is Falling, Advance (Tier 3 Magic)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

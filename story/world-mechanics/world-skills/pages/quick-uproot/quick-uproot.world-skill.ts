@@ -5,6 +5,6 @@ export const quickUproot = {
   type: "world-skill",
   slug: "quick-uproot",
   title: "Quick Uproot",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

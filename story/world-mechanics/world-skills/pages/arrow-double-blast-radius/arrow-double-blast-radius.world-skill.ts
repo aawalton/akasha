@@ -5,6 +5,6 @@ export const arrowDoubleBlastRadius = {
   type: "world-skill",
   slug: "arrow-double-blast-radius",
   title: "Arrow: Double Blast Radius",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const transferManaWard = {
   type: "world-skill",
   slug: "transfer-mana-ward",
   title: "Transfer Mana (Ward)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

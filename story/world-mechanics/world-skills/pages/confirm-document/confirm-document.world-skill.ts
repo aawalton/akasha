@@ -5,6 +5,6 @@ export const confirmDocument = {
   type: "world-skill",
   slug: "confirm-document",
   title: "Confirm Document",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

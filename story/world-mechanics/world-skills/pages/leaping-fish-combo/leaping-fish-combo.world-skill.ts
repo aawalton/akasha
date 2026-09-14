@@ -5,6 +5,6 @@ export const leapingFishCombo = {
   type: "world-skill",
   slug: "leaping-fish-combo",
   title: "Leaping Fish Combo",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

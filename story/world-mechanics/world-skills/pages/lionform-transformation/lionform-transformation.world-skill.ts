@@ -5,6 +5,6 @@ export const lionformTransformation = {
   type: "world-skill",
   slug: "lionform-transformation",
   title: "Lionform Transformation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

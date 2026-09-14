@@ -5,7 +5,7 @@ export const fameIsMyMagic = {
   type: "world-skill",
   slug: "fame-is-my-magic",
   title: "Fame Is My Magic",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Fame is My Magic"],
   references: "jsonl",
 } as const satisfies WorldSkill

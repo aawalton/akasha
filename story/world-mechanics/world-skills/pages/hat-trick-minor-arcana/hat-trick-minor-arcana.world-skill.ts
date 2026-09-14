@@ -5,6 +5,6 @@ export const hatTrickMinorArcana = {
   type: "world-skill",
   slug: "hat-trick-minor-arcana",
   title: "Hat Trick (Minor Arcana)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

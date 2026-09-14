@@ -5,6 +5,6 @@ export const airPlatform = {
   type: "world-skill",
   slug: "air-platform",
   title: "Air Platform",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

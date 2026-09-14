@@ -5,5 +5,5 @@ export const singHeartsOfStonePetriaS = {
   type: "world-skill",
   slug: "sing-hearts-of-stone-petria-s",
   title: "Sing, Hearts of Stone (Petria’s)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

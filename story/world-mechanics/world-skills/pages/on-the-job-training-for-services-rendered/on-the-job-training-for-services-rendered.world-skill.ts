@@ -5,6 +5,6 @@ export const onTheJobTrainingForServicesRendered = {
   type: "world-skill",
   slug: "on-the-job-training-for-services-rendered",
   title: "On The Job Training For Services Rendered",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

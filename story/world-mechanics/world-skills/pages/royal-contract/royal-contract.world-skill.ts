@@ -5,6 +5,6 @@ export const royalContract = {
   type: "world-skill",
   slug: "royal-contract",
   title: "Royal Contract",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

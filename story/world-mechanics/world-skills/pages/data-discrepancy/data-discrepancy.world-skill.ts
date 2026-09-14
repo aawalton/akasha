@@ -5,6 +5,6 @@ export const dataDiscrepancy = {
   type: "world-skill",
   slug: "data-discrepancy",
   title: "Data Discrepancy",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

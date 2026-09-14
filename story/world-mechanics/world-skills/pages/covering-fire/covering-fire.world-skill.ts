@@ -5,7 +5,7 @@ export const coveringFire = {
   type: "world-skill",
   slug: "covering-fire",
   title: "Covering Fire",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["COVERING FIRE"],
   evolvesToSlugs: ["covering-fire-piercing-arrows"],
   references: "jsonl",

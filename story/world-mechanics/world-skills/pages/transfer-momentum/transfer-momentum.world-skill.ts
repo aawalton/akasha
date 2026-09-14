@@ -5,6 +5,6 @@ export const transferMomentum = {
   type: "world-skill",
   slug: "transfer-momentum",
   title: "Transfer Momentum",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

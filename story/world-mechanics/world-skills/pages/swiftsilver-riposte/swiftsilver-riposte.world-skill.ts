@@ -5,6 +5,6 @@ export const swiftsilverRiposte = {
   type: "world-skill",
   slug: "swiftsilver-riposte",
   title: "Swiftsilver Riposte",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

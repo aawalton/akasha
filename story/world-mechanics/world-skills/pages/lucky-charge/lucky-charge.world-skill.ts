@@ -5,5 +5,5 @@ export const luckyCharge = {
   type: "world-skill",
   slug: "lucky-charge",
   title: "Lucky Charge",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

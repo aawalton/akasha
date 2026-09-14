@@ -5,6 +5,6 @@ export const unpredictableInsight = {
   type: "world-skill",
   slug: "unpredictable-insight",
   title: "Unpredictable Insight",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

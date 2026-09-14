@@ -5,6 +5,6 @@ export const shareCurseMass = {
   type: "world-skill",
   slug: "share-curse-mass",
   title: "Share Curse (Mass)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const skillLightningHoovesRestored = {
   type: "world-skill",
   slug: "skill-lightning-hooves-restored",
   title: "Skill – Lightning Hooves restored!",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

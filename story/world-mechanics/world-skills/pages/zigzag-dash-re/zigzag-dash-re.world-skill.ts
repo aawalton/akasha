@@ -5,5 +5,5 @@ export const zigzagDashRe = {
   type: "world-skill",
   slug: "zigzag-dash-re",
   title: "Zigzag Dash Re",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const iMAsGoodAsYouAre = {
   type: "world-skill",
   slug: "i-m-as-good-as-you-are",
   title: "I’m As Good As You Are",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

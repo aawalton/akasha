@@ -5,6 +5,6 @@ export const noPullingOut = {
   type: "world-skill",
   slug: "no-pulling-out",
   title: "No Pulling Out",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

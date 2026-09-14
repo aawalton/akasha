@@ -5,6 +5,6 @@ export const rewindMemory = {
   type: "world-skill",
   slug: "rewind-memory",
   title: "Rewind Memory",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

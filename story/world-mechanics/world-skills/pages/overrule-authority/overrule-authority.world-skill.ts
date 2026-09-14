@@ -5,5 +5,5 @@ export const overruleAuthority = {
   type: "world-skill",
   slug: "overrule-authority",
   title: "Overrule Authority",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const fleshPatch = {
   type: "world-skill",
   slug: "flesh-patch",
   title: "Flesh Patch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

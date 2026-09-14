@@ -5,6 +5,6 @@ export const skillChangeRoyalSlapGhostSHand = {
   type: "world-skill",
   slug: "skill-change-royal-slap-ghost-s-hand",
   title: "Skill Change – Royal Slap → Ghost’s Hand!",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

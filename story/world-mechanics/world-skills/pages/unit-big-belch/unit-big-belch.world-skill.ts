@@ -5,6 +5,6 @@ export const unitBigBelch = {
   type: "world-skill",
   slug: "unit-big-belch",
   title: "Unit: Big Belch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

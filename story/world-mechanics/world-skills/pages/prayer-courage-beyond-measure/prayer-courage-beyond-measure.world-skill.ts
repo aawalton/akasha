@@ -5,6 +5,6 @@ export const prayerCourageBeyondMeasure = {
   type: "world-skill",
   slug: "prayer-courage-beyond-measure",
   title: "Prayer: Courage Beyond Measure",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

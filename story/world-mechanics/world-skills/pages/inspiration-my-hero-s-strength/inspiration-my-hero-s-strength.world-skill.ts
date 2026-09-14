@@ -5,6 +5,6 @@ export const inspirationMyHeroSStrength = {
   type: "world-skill",
   slug: "inspiration-my-hero-s-strength",
   title: "Inspiration: My Hero’s Strength",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

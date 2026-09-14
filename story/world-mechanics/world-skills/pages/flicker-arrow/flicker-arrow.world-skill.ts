@@ -5,6 +5,6 @@ export const flickerArrow = {
   type: "world-skill",
   slug: "flicker-arrow",
   title: "Flicker Arrow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

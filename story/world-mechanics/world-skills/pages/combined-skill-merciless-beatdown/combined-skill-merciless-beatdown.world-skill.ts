@@ -5,6 +5,6 @@ export const combinedSkillMercilessBeatdown = {
   type: "world-skill",
   slug: "combined-skill-merciless-beatdown",
   title: "Combined Skill: Merciless Beatdown",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,7 +5,7 @@ export const mirageCut = {
   type: "world-skill",
   slug: "mirage-cut",
   title: "Mirage Cut",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["power-strike"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const dimensionalNoteStorage = {
   type: "world-skill",
   slug: "dimensional-note-storage",
   title: "Dimensional Note Storage",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

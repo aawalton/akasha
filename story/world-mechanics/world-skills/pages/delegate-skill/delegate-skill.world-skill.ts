@@ -5,6 +5,6 @@ export const delegateSkill = {
   type: "world-skill",
   slug: "delegate-skill",
   title: "Delegate Skill",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

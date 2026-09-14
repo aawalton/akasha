@@ -5,7 +5,7 @@ export const heLeftPrideInHisWake = {
   type: "world-skill",
   slug: "he-left-pride-in-his-wake",
   title: "He Left Pride in His Wake",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["He Left Pride in his Wake"],
   references: "jsonl",
 } as const satisfies WorldSkill

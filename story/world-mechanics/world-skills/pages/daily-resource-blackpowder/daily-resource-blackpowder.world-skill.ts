@@ -5,6 +5,6 @@ export const dailyResourceBlackpowder = {
   type: "world-skill",
   slug: "daily-resource-blackpowder",
   title: "Daily Resource: Blackpowder",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

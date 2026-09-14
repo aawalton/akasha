@@ -5,6 +5,6 @@ export const skill120Draw = {
   type: "world-skill",
   slug: "skill-120-draw",
   title: "120% Draw",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

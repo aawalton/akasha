@@ -5,6 +5,6 @@ export const truesight = {
   type: "world-skill",
   slug: "truesight",
   title: "Truesight",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

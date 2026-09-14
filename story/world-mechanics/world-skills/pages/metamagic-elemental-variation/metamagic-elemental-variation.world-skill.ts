@@ -5,6 +5,6 @@ export const metamagicElementalVariation = {
   type: "world-skill",
   slug: "metamagic-elemental-variation",
   title: "Metamagic: Elemental Variation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

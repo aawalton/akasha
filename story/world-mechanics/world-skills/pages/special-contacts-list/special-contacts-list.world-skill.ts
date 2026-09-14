@@ -5,6 +5,6 @@ export const specialContactsList = {
   type: "world-skill",
   slug: "special-contacts-list",
   title: "Special Contacts List",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

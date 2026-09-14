@@ -5,6 +5,6 @@ export const ritualDesignateHeirloom = {
   type: "world-skill",
   slug: "ritual-designate-heirloom",
   title: "Ritual: Designate Heirloom",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

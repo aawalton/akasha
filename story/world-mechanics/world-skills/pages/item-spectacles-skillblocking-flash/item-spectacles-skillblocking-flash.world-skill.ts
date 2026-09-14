@@ -5,6 +5,6 @@ export const itemSpectaclesSkillblockingFlash = {
   type: "world-skill",
   slug: "item-spectacles-skillblocking-flash",
   title: "Item (Spectacles): Skillblocking Flash",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

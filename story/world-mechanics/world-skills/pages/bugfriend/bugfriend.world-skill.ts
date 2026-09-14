@@ -5,6 +5,6 @@ export const bugfriend = {
   type: "world-skill",
   slug: "bugfriend",
   title: "Bugfriend",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

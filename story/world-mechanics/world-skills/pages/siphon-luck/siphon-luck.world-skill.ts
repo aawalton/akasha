@@ -5,6 +5,6 @@ export const siphonLuck = {
   type: "world-skill",
   slug: "siphon-luck",
   title: "Siphon Luck",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

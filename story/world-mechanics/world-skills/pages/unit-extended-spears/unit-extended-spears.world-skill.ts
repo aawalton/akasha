@@ -5,6 +5,6 @@ export const unitExtendedSpears = {
   type: "world-skill",
   slug: "unit-extended-spears",
   title: "Unit: Extended Spears",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const shatterproof = {
   type: "world-skill",
   slug: "shatterproof",
   title: "Shatterproof",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

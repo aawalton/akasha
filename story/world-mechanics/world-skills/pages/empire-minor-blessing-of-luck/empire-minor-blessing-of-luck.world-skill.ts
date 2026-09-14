@@ -5,6 +5,6 @@ export const empireMinorBlessingOfLuck = {
   type: "world-skill",
   slug: "empire-minor-blessing-of-luck",
   title: "Empire: Minor Blessing of Luck",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

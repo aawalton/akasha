@@ -5,6 +5,6 @@ export const unstoppableHalfGiantSPush = {
   type: "world-skill",
   slug: "unstoppable-half-giant-s-push",
   title: "Unstoppable Half-Giant’s Push",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

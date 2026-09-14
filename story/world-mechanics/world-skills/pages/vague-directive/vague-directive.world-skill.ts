@@ -5,6 +5,6 @@ export const vagueDirective = {
   type: "world-skill",
   slug: "vague-directive",
   title: "Vague Directive",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

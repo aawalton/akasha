@@ -5,6 +5,6 @@ export const harmonizedMagecraft = {
   type: "world-skill",
   slug: "harmonized-magecraft",
   title: "Harmonized Magecraft",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

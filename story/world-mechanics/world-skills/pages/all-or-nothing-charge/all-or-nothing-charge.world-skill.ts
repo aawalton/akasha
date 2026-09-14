@@ -5,7 +5,7 @@ export const allOrNothingCharge = {
   type: "world-skill",
   slug: "all-or-nothing-charge",
   title: "All-or-Nothing Charge",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["All or Nothing Charge"],
   references: "jsonl",
 } as const satisfies WorldSkill

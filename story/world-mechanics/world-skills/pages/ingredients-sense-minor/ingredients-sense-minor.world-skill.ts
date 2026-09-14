@@ -5,6 +5,6 @@ export const ingredientsSenseMinor = {
   type: "world-skill",
   slug: "ingredients-sense-minor",
   title: "Ingredients Sense (Minor)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

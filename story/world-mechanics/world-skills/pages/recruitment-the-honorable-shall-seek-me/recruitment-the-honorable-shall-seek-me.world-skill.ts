@@ -5,6 +5,6 @@ export const recruitmentTheHonorableShallSeekMe = {
   type: "world-skill",
   slug: "recruitment-the-honorable-shall-seek-me",
   title: "Recruitment: The Honorable Shall Seek Me",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

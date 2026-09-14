@@ -5,6 +5,6 @@ export const massRevision = {
   type: "world-skill",
   slug: "mass-revision",
   title: "Mass Revision",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

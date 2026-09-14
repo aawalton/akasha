@@ -5,6 +5,6 @@ export const tradeSpikeSulfur = {
   type: "world-skill",
   slug: "trade-spike-sulfur",
   title: "Trade Spike: Sulfur",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

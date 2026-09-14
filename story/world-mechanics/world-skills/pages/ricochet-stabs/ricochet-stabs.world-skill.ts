@@ -5,6 +5,6 @@ export const ricochetStabs = {
   type: "world-skill",
   slug: "ricochet-stabs",
   title: "Ricochet Stabs",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

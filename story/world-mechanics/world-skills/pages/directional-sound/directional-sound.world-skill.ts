@@ -5,6 +5,6 @@ export const directionalSound = {
   type: "world-skill",
   slug: "directional-sound",
   title: "Directional Sound",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

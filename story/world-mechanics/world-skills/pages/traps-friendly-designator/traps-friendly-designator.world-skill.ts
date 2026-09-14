@@ -5,6 +5,6 @@ export const trapsFriendlyDesignator = {
   type: "world-skill",
   slug: "traps-friendly-designator",
   title: "Traps: Friendly Designator",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

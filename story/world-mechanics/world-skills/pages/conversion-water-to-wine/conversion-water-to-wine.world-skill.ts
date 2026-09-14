@@ -5,6 +5,6 @@ export const conversionWaterToWine = {
   type: "world-skill",
   slug: "conversion-water-to-wine",
   title: "Conversion: Water to Wine",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

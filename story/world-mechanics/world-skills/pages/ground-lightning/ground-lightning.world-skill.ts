@@ -5,6 +5,6 @@ export const groundLightning = {
   type: "world-skill",
   slug: "ground-lightning",
   title: "Ground Lightning",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

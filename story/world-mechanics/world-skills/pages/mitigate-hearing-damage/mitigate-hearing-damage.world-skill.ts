@@ -5,6 +5,6 @@ export const mitigateHearingDamage = {
   type: "world-skill",
   slug: "mitigate-hearing-damage",
   title: "Mitigate Hearing Damage",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

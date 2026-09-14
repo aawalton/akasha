@@ -5,6 +5,6 @@ export const earthshape = {
   type: "world-skill",
   slug: "earthshape",
   title: "Earthshape",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

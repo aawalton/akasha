@@ -5,6 +5,6 @@ export const shipMyShipShallNotSinkBeforeIDo = {
   type: "world-skill",
   slug: "ship-my-ship-shall-not-sink-before-i-do",
   title: "Ship: My Ship Shall Not Sink Before I Do",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

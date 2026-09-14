@@ -5,6 +5,6 @@ export const potions148Efficiency = {
   type: "world-skill",
   slug: "potions-148-efficiency",
   title: "Potions: 148% Efficiency",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

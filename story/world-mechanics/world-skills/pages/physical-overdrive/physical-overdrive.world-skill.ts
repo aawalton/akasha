@@ -5,6 +5,6 @@ export const physicalOverdrive = {
   type: "world-skill",
   slug: "physical-overdrive",
   title: "Physical Overdrive",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

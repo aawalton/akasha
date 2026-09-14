@@ -5,6 +5,6 @@ export const arrowOfGreaterDispel = {
   type: "world-skill",
   slug: "arrow-of-greater-dispel",
   title: "Arrow of Greater Dispel",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

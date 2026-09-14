@@ -5,6 +5,6 @@ export const dodgeSneakAttackDaily = {
   type: "world-skill",
   slug: "dodge-sneak-attack-daily",
   title: "Dodge Sneak Attack (Daily)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

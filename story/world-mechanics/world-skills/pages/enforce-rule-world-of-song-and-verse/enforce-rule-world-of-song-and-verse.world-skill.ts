@@ -5,6 +5,6 @@ export const enforceRuleWorldOfSongAndVerse = {
   type: "world-skill",
   slug: "enforce-rule-world-of-song-and-verse",
   title: "Enforce Rule: World of Song and Verse",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

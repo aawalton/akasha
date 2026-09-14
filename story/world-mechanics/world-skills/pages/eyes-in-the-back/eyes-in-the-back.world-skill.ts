@@ -5,7 +5,7 @@ export const eyesInTheBack = {
   type: "world-skill",
   slug: "eyes-in-the-back",
   title: "Eyes In The Back",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Eyes in the Back"],
   references: "jsonl",
 } as const satisfies WorldSkill

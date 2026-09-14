@@ -5,6 +5,6 @@ export const royalTransactionInstantaneousDeliveryInstantaneousReward = {
   type: "world-skill",
   slug: "royal-transaction-instantaneous-delivery-instantaneous-reward",
   title: "Royal Transaction: Instantaneous Delivery, Instantaneous Reward",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

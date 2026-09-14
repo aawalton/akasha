@@ -5,6 +5,6 @@ export const constructVesselHuman = {
   type: "world-skill",
   slug: "construct-vessel-human",
   title: "Construct Vessel: Human",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

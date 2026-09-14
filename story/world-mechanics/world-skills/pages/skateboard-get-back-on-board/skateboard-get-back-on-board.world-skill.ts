@@ -5,6 +5,6 @@ export const skateboardGetBackOnBoard = {
   type: "world-skill",
   slug: "skateboard-get-back-on-board",
   title: "Skateboard: Get Back On Board",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const upgradeMaterialAnglerSLine = {
   type: "world-skill",
   slug: "upgrade-material-angler-s-line",
   title: "Upgrade Material: Angler’s Line",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

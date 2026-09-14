@@ -5,6 +5,6 @@ export const refinementByAccolade = {
   type: "world-skill",
   slug: "refinement-by-accolade",
   title: "Refinement by Accolade",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

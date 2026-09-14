@@ -5,6 +5,6 @@ export const greaterFarCast = {
   type: "world-skill",
   slug: "greater-far-cast",
   title: "Greater Far Cast",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

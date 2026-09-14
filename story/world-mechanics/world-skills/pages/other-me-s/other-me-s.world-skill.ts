@@ -5,5 +5,5 @@ export const otherMeS = {
   type: "world-skill",
   slug: "other-me-s",
   title: "Other Me’s",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

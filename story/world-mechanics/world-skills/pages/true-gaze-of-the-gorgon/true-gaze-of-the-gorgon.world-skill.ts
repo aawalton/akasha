@@ -5,6 +5,6 @@ export const trueGazeOfTheGorgon = {
   type: "world-skill",
   slug: "true-gaze-of-the-gorgon",
   title: "True Gaze of the Gorgon",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

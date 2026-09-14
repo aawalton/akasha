@@ -5,6 +5,6 @@ export const iconOfFaithUnclaimed = {
   type: "world-skill",
   slug: "icon-of-faith-unclaimed",
   title: "Icon of Faith: Unclaimed",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

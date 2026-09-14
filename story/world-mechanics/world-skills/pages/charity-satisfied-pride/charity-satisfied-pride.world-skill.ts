@@ -5,6 +5,6 @@ export const charitySatisfiedPride = {
   type: "world-skill",
   slug: "charity-satisfied-pride",
   title: "Charity: Satisfied Pride",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

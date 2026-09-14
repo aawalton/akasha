@@ -5,6 +5,6 @@ export const personalUndead = {
   type: "world-skill",
   slug: "personal-undead",
   title: "Personal Undead",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

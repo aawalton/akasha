@@ -5,6 +5,6 @@ export const inertStirringRod = {
   type: "world-skill",
   slug: "inert-stirring-rod",
   title: "Inert Stirring Rod",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

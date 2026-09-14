@@ -5,6 +5,6 @@ export const itemReplenishCharges = {
   type: "world-skill",
   slug: "item-replenish-charges",
   title: "Item: Replenish Charges",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const razorCut = {
   type: "world-skill",
   slug: "razor-cut",
   title: "Razor Cut",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

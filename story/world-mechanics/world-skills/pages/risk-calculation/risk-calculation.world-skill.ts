@@ -5,6 +5,6 @@ export const riskCalculation = {
   type: "world-skill",
   slug: "risk-calculation",
   title: "Risk Calculation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

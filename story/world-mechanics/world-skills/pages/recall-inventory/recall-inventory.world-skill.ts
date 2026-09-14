@@ -5,6 +5,6 @@ export const recallInventory = {
   type: "world-skill",
   slug: "recall-inventory",
   title: "Recall Inventory",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const lanceTouchOfAgeTemporary = {
   type: "world-skill",
   slug: "lance-touch-of-age-temporary",
   title: "Lance: Touch of Age (temporary)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

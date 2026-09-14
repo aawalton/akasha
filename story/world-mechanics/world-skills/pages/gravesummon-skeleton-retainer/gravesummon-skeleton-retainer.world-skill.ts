@@ -5,6 +5,6 @@ export const gravesummonSkeletonRetainer = {
   type: "world-skill",
   slug: "gravesummon-skeleton-retainer",
   title: "Gravesummon Skeleton Retainer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const lesserForcewall = {
   type: "world-skill",
   slug: "lesser-forcewall",
   title: "Lesser Forcewall",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

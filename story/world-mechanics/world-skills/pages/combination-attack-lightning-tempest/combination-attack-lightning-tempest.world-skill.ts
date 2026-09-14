@@ -5,6 +5,6 @@ export const combinationAttackLightningTempest = {
   type: "world-skill",
   slug: "combination-attack-lightning-tempest",
   title: "Combination Attack: Lightning Tempest",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const mapProfitMotive = {
   type: "world-skill",
   slug: "map-profit-motive",
   title: "Map Profit Motive",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

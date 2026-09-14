@@ -5,6 +5,6 @@ export const declareFoeBaneFurniture = {
   type: "world-skill",
   slug: "declare-foe-bane-furniture",
   title: "Declare Foe: Bane (Furniture)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

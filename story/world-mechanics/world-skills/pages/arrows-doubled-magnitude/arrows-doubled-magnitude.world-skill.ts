@@ -5,6 +5,6 @@ export const arrowsDoubledMagnitude = {
   type: "world-skill",
   slug: "arrows-doubled-magnitude",
   title: "Arrows: Doubled Magnitude",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

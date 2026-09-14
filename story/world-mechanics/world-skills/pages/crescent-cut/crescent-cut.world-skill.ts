@@ -5,6 +5,6 @@ export const crescentCut = {
   type: "world-skill",
   slug: "crescent-cut",
   title: "Crescent Cut",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

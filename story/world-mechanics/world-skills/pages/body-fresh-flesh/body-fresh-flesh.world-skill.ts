@@ -5,6 +5,6 @@ export const bodyFreshFlesh = {
   type: "world-skill",
   slug: "body-fresh-flesh",
   title: "Body: Fresh Flesh",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

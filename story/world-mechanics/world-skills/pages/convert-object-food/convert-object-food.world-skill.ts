@@ -5,6 +5,6 @@ export const convertObjectFood = {
   type: "world-skill",
   slug: "convert-object-food",
   title: "Convert Object: Food",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

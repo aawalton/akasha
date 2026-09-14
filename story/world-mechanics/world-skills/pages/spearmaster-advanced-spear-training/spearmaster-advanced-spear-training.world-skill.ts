@@ -5,5 +5,5 @@ export const spearmasterAdvancedSpearTraining = {
   type: "world-skill",
   slug: "spearmaster-advanced-spear-training",
   title: "Spearmaster – Advanced Spear Training",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const myNobleVirtueSacrificeDeclared = {
   type: "world-skill",
   slug: "my-noble-virtue-sacrifice-declared",
   title: "My Noble Virtue: Sacrifice declared.",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const ignoreRestrictionsMagnoliaSFees = {
   type: "world-skill",
   slug: "ignore-restrictions-magnolia-s-fees",
   title: "Ignore Restrictions: Magnolia’s Fees",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const alterContractTemporary = {
   type: "world-skill",
   slug: "alter-contract-temporary",
   title: "Alter Contract (Temporary)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

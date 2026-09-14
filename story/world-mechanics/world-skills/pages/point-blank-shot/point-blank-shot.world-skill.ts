@@ -5,6 +5,6 @@ export const pointBlankShot = {
   type: "world-skill",
   slug: "point-blank-shot",
   title: "Point-Blank Shot",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

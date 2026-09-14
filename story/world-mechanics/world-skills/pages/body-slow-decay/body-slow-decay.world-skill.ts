@@ -5,6 +5,6 @@ export const bodySlowDecay = {
   type: "world-skill",
   slug: "body-slow-decay",
   title: "Body: Slow Decay",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

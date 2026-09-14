@@ -5,6 +5,6 @@ export const groundDanceTaurusOfTheDesert = {
   type: "world-skill",
   slug: "ground-dance-taurus-of-the-desert",
   title: "Ground Dance: Taurus of the Desert",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

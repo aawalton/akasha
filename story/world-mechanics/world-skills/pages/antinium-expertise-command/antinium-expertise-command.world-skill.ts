@@ -5,6 +5,6 @@ export const antiniumExpertiseCommand = {
   type: "world-skill",
   slug: "antinium-expertise-command",
   title: "Antinium-Expertise Command",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

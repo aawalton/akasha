@@ -5,6 +5,6 @@ export const undeadDuelistInstincts = {
   type: "world-skill",
   slug: "undead-duelist-instincts",
   title: "Undead: Duelist Instincts",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

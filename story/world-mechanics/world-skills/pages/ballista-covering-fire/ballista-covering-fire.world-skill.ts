@@ -5,5 +5,5 @@ export const ballistaCoveringFire = {
   type: "world-skill",
   slug: "ballista-covering-fire",
   title: "Ballista: Covering Fire",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

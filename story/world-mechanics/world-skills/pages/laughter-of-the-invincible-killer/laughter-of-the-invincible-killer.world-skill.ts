@@ -5,6 +5,6 @@ export const laughterOfTheInvincibleKiller = {
   type: "world-skill",
   slug: "laughter-of-the-invincible-killer",
   title: "Laughter of the Invincible Killer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

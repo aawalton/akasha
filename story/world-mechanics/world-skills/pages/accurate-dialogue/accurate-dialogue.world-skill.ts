@@ -5,6 +5,6 @@ export const accurateDialogue = {
   type: "world-skill",
   slug: "accurate-dialogue",
   title: "Accurate Dialogue",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

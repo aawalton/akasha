@@ -5,6 +5,6 @@ export const prideOfTheHighestKing = {
   type: "world-skill",
   slug: "pride-of-the-highest-king",
   title: "Pride of the Highest King",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

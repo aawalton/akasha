@@ -5,6 +5,6 @@ export const corporateSecrets = {
   type: "world-skill",
   slug: "corporate-secrets",
   title: "Corporate Secrets",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

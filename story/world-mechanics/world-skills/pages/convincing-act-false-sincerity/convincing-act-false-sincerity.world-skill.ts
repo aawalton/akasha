@@ -5,6 +5,6 @@ export const convincingActFalseSincerity = {
   type: "world-skill",
   slug: "convincing-act-false-sincerity",
   title: "Convincing Act: False Sincerity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

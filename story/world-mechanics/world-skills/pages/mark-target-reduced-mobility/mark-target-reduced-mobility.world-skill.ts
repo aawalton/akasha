@@ -5,6 +5,6 @@ export const markTargetReducedMobility = {
   type: "world-skill",
   slug: "mark-target-reduced-mobility",
   title: "Mark Target: Reduced Mobility",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

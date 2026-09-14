@@ -5,6 +5,6 @@ export const likeFireMemory = {
   type: "world-skill",
   slug: "like-fire-memory",
   title: "Like Fire, Memory",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

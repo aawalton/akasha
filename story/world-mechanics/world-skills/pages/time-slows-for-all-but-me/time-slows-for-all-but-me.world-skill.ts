@@ -5,6 +5,6 @@ export const timeSlowsForAllButMe = {
   type: "world-skill",
   slug: "time-slows-for-all-but-me",
   title: "Time Slows For All But Me",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

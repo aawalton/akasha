@@ -5,6 +5,6 @@ export const heroicToleranceAlcohol = {
   type: "world-skill",
   slug: "heroic-tolerance-alcohol",
   title: "Heroic Tolerance: Alcohol",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

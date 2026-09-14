@@ -5,6 +5,6 @@ export const designateCharitableWork = {
   type: "world-skill",
   slug: "designate-charitable-work",
   title: "Designate Charitable Work",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

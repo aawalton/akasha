@@ -5,6 +5,6 @@ export const gravityHook = {
   type: "world-skill",
   slug: "gravity-hook",
   title: "Gravity Hook",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

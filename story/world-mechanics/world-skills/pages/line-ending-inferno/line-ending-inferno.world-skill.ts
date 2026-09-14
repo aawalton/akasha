@@ -5,5 +5,5 @@ export const lineEndingInferno = {
   type: "world-skill",
   slug: "line-ending-inferno",
   title: "Line-Ending Inferno",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

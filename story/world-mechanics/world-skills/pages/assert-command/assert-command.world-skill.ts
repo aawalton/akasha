@@ -5,6 +5,6 @@ export const assertCommand = {
   type: "world-skill",
   slug: "assert-command",
   title: "Assert Command",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

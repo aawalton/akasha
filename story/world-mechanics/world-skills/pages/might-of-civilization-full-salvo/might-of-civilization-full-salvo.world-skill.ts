@@ -5,6 +5,6 @@ export const mightOfCivilizationFullSalvo = {
   type: "world-skill",
   slug: "might-of-civilization-full-salvo",
   title: "Might of Civilization: Full Salvo",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

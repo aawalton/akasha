@@ -5,7 +5,7 @@ export const flashStep = {
   type: "world-skill",
   slug: "flash-step",
   title: "Flash Step",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["flash-steps"],
   evolvesFromSlugs: ["quick-step"],
   references: "jsonl",

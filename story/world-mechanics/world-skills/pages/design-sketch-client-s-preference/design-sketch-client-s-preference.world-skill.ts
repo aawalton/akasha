@@ -5,6 +5,6 @@ export const designSketchClientSPreference = {
   type: "world-skill",
   slug: "design-sketch-client-s-preference",
   title: "Design Sketch: Client’s Preference",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

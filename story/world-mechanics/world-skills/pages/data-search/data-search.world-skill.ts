@@ -5,6 +5,6 @@ export const dataSearch = {
   type: "world-skill",
   slug: "data-search",
   title: "Data Search",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const omnidirectionalBlow = {
   type: "world-skill",
   slug: "omnidirectional-blow",
   title: "Omnidirectional Blow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const vesselOfOneself = {
   type: "world-skill",
   slug: "vessel-of-oneself",
   title: "Vessel of Oneself",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const doubleOrNothing = {
   type: "world-skill",
   slug: "double-or-nothing",
   title: "Double or Nothing",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

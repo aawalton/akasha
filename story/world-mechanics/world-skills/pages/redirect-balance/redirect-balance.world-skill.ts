@@ -5,6 +5,6 @@ export const redirectBalance = {
   type: "world-skill",
   slug: "redirect-balance",
   title: "Redirect Balance",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

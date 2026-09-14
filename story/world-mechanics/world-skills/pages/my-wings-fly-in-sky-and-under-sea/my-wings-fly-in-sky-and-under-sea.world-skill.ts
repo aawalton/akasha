@@ -5,6 +5,6 @@ export const myWingsFlyInSkyAndUnderSea = {
   type: "world-skill",
   slug: "my-wings-fly-in-sky-and-under-sea",
   title: "My Wings Fly In Sky, and Under Sea",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

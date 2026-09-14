@@ -5,6 +5,6 @@ export const combinedSkillBarrierOfEgo = {
   type: "world-skill",
   slug: "combined-skill-barrier-of-ego",
   title: "Combined Skill: Barrier of Ego",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

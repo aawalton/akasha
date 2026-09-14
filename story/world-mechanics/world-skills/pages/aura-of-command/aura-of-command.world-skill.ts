@@ -5,7 +5,7 @@ export const auraOfCommand = {
   type: "world-skill",
   slug: "aura-of-command",
   title: "Aura of Command",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["aura-of-the-emissary"],
   references: "jsonl",
 } as const satisfies WorldSkill

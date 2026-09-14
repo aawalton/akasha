@@ -5,6 +5,6 @@ export const skillChangeBruteSSwingKnightSRiposte = {
   type: "world-skill",
   slug: "skill-change-brute-s-swing-knight-s-riposte",
   title: "Skill Change – Brute’s Swing → Knight’s Riposte!",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

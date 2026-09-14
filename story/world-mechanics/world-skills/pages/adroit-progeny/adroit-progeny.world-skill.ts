@@ -5,6 +5,6 @@ export const adroitProgeny = {
   type: "world-skill",
   slug: "adroit-progeny",
   title: "Adroit Progeny",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

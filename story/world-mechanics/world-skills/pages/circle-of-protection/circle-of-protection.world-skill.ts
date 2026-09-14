@@ -5,6 +5,6 @@ export const circleOfProtection = {
   type: "world-skill",
   slug: "circle-of-protection",
   title: "Circle of Protection",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

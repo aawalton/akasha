@@ -5,6 +5,6 @@ export const stasisMetabolism = {
   type: "world-skill",
   slug: "stasis-metabolism",
   title: "Stasis Metabolism",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

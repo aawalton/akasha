@@ -5,6 +5,6 @@ export const blueprintSkyshadowFighterMk1 = {
   type: "world-skill",
   slug: "blueprint-skyshadow-fighter-mk-1",
   title: "Blueprint: Skyshadow-Fighter Mk. 1",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

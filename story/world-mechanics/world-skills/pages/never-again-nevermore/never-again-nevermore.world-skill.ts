@@ -5,6 +5,6 @@ export const neverAgainNevermore = {
   type: "world-skill",
   slug: "never-again-nevermore",
   title: "Never Again, Nevermore",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

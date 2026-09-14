@@ -5,5 +5,5 @@ export const deepBreath = {
   type: "world-skill",
   slug: "deep-breath",
   title: "Deep Breath",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

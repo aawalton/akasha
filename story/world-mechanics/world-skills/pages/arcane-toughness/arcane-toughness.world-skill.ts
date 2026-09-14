@@ -5,6 +5,6 @@ export const arcaneToughness = {
   type: "world-skill",
   slug: "arcane-toughness",
   title: "Arcane Toughness",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

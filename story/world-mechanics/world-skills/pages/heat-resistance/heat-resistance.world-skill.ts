@@ -5,6 +5,6 @@ export const heatResistance = {
   type: "world-skill",
   slug: "heat-resistance",
   title: "Heat Resist—",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

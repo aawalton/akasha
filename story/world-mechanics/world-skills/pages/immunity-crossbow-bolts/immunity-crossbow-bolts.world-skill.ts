@@ -5,6 +5,6 @@ export const immunityCrossbowBolts = {
   type: "world-skill",
   slug: "immunity-crossbow-bolts",
   title: "Immunity: Crossbow Bolts",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

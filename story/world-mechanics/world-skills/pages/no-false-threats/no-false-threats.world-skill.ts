@@ -5,6 +5,6 @@ export const noFalseThreats = {
   type: "world-skill",
   slug: "no-false-threats",
   title: "No False Threats",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

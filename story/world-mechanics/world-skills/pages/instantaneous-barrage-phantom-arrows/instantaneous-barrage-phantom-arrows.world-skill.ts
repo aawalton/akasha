@@ -5,6 +5,6 @@ export const instantaneousBarragePhantomArrows = {
   type: "world-skill",
   slug: "instantaneous-barrage-phantom-arrows",
   title: "Instantaneous Barrage (Phantom Arrows)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

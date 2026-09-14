@@ -5,6 +5,6 @@ export const ambientFocusGrass = {
   type: "world-skill",
   slug: "ambient-focus-grass",
   title: "Ambient Focus: Grass",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

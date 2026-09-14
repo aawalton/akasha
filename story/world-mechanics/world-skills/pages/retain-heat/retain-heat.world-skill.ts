@@ -5,6 +5,6 @@ export const retainHeat = {
   type: "world-skill",
   slug: "retain-heat",
   title: "Retain Heat",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

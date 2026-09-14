@@ -5,6 +5,6 @@ export const confidentialSources = {
   type: "world-skill",
   slug: "confidential-sources",
   title: "Confidential Sources",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

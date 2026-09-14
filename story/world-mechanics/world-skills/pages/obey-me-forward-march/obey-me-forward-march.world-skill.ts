@@ -5,6 +5,6 @@ export const obeyMeForwardMarch = {
   type: "world-skill",
   slug: "obey-me-forward-march",
   title: "Obey Me: Forward March",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

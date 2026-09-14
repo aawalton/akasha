@@ -5,6 +5,6 @@ export const enchantmentFlashfire = {
   type: "world-skill",
   slug: "enchantment-flashfire",
   title: "Enchantment: Flashfire",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

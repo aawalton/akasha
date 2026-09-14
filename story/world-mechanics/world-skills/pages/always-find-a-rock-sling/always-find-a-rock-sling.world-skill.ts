@@ -5,6 +5,6 @@ export const alwaysFindARockSling = {
   type: "world-skill",
   slug: "always-find-a-rock-sling",
   title: "Always Find A Rock (Sling)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

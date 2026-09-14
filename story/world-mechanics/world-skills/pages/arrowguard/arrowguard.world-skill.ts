@@ -5,6 +5,6 @@ export const arrowguard = {
   type: "world-skill",
   slug: "arrowguard",
   title: "Arrowguard",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

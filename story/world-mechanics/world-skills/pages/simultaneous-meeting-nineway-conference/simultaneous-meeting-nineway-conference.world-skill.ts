@@ -5,6 +5,6 @@ export const simultaneousMeetingNinewayConference = {
   type: "world-skill",
   slug: "simultaneous-meeting-nineway-conference",
   title: "Simultaneous Meeting: Nineway Conference",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

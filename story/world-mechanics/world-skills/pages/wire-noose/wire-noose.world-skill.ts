@@ -5,6 +5,6 @@ export const wireNoose = {
   type: "world-skill",
   slug: "wire-noose",
   title: "Wire Noose",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

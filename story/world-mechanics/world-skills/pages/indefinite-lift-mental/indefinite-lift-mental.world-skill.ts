@@ -5,6 +5,6 @@ export const indefiniteLiftMental = {
   type: "world-skill",
   slug: "indefinite-lift-mental",
   title: "Indefinite Lift (Mental)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const burstOfGreaterStrength = {
   type: "world-skill",
   slug: "burst-of-greater-strength",
   title: "Burst of Greater Strength",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

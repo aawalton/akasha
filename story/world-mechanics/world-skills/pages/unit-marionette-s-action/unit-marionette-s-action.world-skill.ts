@@ -5,6 +5,6 @@ export const unitMarionetteSAction = {
   type: "world-skill",
   slug: "unit-marionette-s-action",
   title: "Unit: Marionette’s Action",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

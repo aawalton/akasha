@@ -5,6 +5,6 @@ export const timeToChat = {
   type: "world-skill",
   slug: "time-to-chat",
   title: "Time to Chat",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

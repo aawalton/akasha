@@ -5,6 +5,6 @@ export const mightOfFour = {
   type: "world-skill",
   slug: "might-of-four",
   title: "Might of Four",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

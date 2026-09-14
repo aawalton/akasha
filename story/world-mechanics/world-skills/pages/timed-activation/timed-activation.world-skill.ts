@@ -5,6 +5,6 @@ export const timedActivation = {
   type: "world-skill",
   slug: "timed-activation",
   title: "Timed Activation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

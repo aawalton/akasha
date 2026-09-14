@@ -5,6 +5,6 @@ export const foefinderSScan = {
   type: "world-skill",
   slug: "foefinder-s-scan",
   title: "Foefinder’s Scan",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

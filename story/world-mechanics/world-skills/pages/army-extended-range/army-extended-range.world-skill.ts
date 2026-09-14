@@ -5,6 +5,6 @@ export const armyExtendedRange = {
   type: "world-skill",
   slug: "army-extended-range",
   title: "Army: Extended Range",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

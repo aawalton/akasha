@@ -5,6 +5,6 @@ export const arcsingerSDownfallWallbreakerHammer = {
   type: "world-skill",
   slug: "arcsinger-s-downfall-wallbreaker-hammer",
   title: "Arcsinger’s Downfall: Wallbreaker Hammer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

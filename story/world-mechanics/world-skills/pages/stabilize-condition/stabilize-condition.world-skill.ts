@@ -5,6 +5,6 @@ export const stabilizeCondition = {
   type: "world-skill",
   slug: "stabilize-condition",
   title: "Stabilize Condition",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

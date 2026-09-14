@@ -5,6 +5,6 @@ export const sharpsoundSlash = {
   type: "world-skill",
   slug: "sharpsound-slash",
   title: "Sharpsound Slash",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const feelNoCurrent = {
   type: "world-skill",
   slug: "feel-no-current",
   title: "Feel No Current",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

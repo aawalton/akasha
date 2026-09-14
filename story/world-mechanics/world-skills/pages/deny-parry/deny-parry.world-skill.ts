@@ -5,6 +5,6 @@ export const denyParry = {
   type: "world-skill",
   slug: "deny-parry",
   title: "Deny Parry",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const perfectionIsOverrated = {
   type: "world-skill",
   slug: "perfection-is-overrated",
   title: "Perfection is Overrated",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

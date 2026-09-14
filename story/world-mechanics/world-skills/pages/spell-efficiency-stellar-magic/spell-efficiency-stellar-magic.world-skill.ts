@@ -5,6 +5,6 @@ export const spellEfficiencyStellarMagic = {
   type: "world-skill",
   slug: "spell-efficiency-stellar-magic",
   title: "Spell Efficiency: Stellar Magic",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const locateNumber = {
   type: "world-skill",
   slug: "locate-number",
   title: "Locate Number",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

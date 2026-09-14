@@ -5,6 +5,6 @@ export const curvedArc = {
   type: "world-skill",
   slug: "curved-arc",
   title: "Curved Arc",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

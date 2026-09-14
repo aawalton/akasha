@@ -5,6 +5,6 @@ export const rapidReload = {
   type: "world-skill",
   slug: "rapid-reload",
   title: "Rapid Reload",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

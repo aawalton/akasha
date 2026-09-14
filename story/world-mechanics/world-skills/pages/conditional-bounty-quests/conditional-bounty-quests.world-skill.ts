@@ -5,6 +5,6 @@ export const conditionalBountyQuests = {
   type: "world-skill",
   slug: "conditional-bounty-quests",
   title: "Conditional Bounty (Quests)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

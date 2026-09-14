@@ -5,6 +5,6 @@ export const myCreationNeverDiesFullRecreation = {
   type: "world-skill",
   slug: "my-creation-never-dies-full-recreation",
   title: "My Creation Never Dies — Full Recreation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

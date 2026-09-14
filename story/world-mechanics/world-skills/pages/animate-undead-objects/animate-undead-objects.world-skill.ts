@@ -5,6 +5,6 @@ export const animateUndeadObjects = {
   type: "world-skill",
   slug: "animate-undead-objects",
   title: "Animate Undead (Objects)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

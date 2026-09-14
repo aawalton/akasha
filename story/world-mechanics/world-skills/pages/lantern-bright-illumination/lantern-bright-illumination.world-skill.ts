@@ -5,6 +5,6 @@ export const lanternBrightIllumination = {
   type: "world-skill",
   slug: "lantern-bright-illumination",
   title: "Lantern: Bright Illumination",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

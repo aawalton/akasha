@@ -5,6 +5,6 @@ export const preferredEnemyRogues = {
   type: "world-skill",
   slug: "preferred-enemy-rogues",
   title: "Preferred Enemy: Rogues",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

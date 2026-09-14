@@ -5,6 +5,6 @@ export const advancedMetalworking = {
   type: "world-skill",
   slug: "advanced-metalworking",
   title: "Advanced Metalworking",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

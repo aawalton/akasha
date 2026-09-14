@@ -5,6 +5,6 @@ export const synergySkill = {
   type: "world-skill",
   slug: "synergy-skill",
   title: "Synergy Skill",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

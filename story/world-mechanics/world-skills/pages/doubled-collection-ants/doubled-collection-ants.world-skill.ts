@@ -5,6 +5,6 @@ export const doubledCollectionAnts = {
   type: "world-skill",
   slug: "doubled-collection-ants",
   title: "Doubled Collection (Ants)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

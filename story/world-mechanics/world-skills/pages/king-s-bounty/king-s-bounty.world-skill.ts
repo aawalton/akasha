@@ -5,6 +5,6 @@ export const kingSBounty = {
   type: "world-skill",
   slug: "king-s-bounty",
   title: "King’s Bounty",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

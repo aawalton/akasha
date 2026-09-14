@@ -5,6 +5,6 @@ export const massGreaterReanimation = {
   type: "world-skill",
   slug: "mass-greater-reanimation",
   title: "Mass Greater Reanimation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,5 +5,5 @@ export const senseCorruption = {
   type: "world-skill",
   slug: "sense-corruption",
   title: "Sense Corruption",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

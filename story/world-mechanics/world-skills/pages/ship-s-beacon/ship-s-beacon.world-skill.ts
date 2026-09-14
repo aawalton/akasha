@@ -5,6 +5,6 @@ export const shipSBeacon = {
   type: "world-skill",
   slug: "ship-s-beacon",
   title: "Ship’s Beacon",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

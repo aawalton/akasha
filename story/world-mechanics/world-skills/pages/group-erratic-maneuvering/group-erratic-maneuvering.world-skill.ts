@@ -5,6 +5,6 @@ export const groupErraticManeuvering = {
   type: "world-skill",
   slug: "group-erratic-maneuvering",
   title: "Group: Erratic Maneuvering",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const seizeTheThroneClassByBlood = {
   type: "world-skill",
   slug: "seize-the-throne-class-by-blood",
   title: "Seize the Throne: Class by Blood",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

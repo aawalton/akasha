@@ -5,6 +5,6 @@ export const greaterResistanceFilth = {
   type: "world-skill",
   slug: "greater-resistance-filth",
   title: "Greater Resistance: Filth",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

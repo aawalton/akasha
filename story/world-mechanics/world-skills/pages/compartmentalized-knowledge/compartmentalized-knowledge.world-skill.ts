@@ -5,6 +5,6 @@ export const compartmentalizedKnowledge = {
   type: "world-skill",
   slug: "compartmentalized-knowledge",
   title: "Compartmentalized Knowledge",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const battlefieldTheColdIronMists = {
   type: "world-skill",
   slug: "battlefield-the-cold-iron-mists",
   title: "Battlefield – The Cold Iron Mists",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

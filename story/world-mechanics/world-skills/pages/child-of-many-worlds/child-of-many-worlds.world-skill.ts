@@ -5,6 +5,6 @@ export const childOfManyWorlds = {
   type: "world-skill",
   slug: "child-of-many-worlds",
   title: "Child of Many Worlds",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

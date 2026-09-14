@@ -5,6 +5,6 @@ export const callToSingleCombat = {
   type: "world-skill",
   slug: "call-to-single-combat",
   title: "Call to Single Combat",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

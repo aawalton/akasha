@@ -5,6 +5,6 @@ export const beastform = {
   type: "world-skill",
   slug: "beastform",
   title: "Beastform",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

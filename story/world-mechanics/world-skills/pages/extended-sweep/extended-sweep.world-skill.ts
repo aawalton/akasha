@@ -5,6 +5,6 @@ export const extendedSweep = {
   type: "world-skill",
   slug: "extended-sweep",
   title: "Extended Sweep",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

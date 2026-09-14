@@ -5,6 +5,6 @@ export const bondNoxiousFart = {
   type: "world-skill",
   slug: "bond-noxious-fart",
   title: "Bond: Noxious Fart",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

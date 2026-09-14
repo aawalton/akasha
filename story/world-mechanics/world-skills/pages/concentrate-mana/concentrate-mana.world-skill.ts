@@ -5,6 +5,6 @@ export const concentrateMana = {
   type: "world-skill",
   slug: "concentrate-mana",
   title: "Concentrate Mana",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

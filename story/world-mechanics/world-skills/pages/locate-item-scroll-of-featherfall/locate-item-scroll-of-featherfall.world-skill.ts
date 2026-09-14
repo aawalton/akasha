@@ -5,6 +5,6 @@ export const locateItemScrollOfFeatherfall = {
   type: "world-skill",
   slug: "locate-item-scroll-of-featherfall",
   title: "Locate Item: Scroll of Featherfall",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

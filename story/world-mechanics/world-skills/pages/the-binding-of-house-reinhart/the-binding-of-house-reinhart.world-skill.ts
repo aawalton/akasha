@@ -5,6 +5,6 @@ export const theBindingOfHouseReinhart = {
   type: "world-skill",
   slug: "the-binding-of-house-reinhart",
   title: "The Binding of House Reinhart",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const mutualConditionBarbarousLoyalty = {
   type: "world-skill",
   slug: "mutual-condition-barbarous-loyalty",
   title: "Mutual Condition: Barbarous Loyalty",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

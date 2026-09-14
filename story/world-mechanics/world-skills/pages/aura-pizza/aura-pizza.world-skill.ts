@@ -5,6 +5,6 @@ export const auraPizza = {
   type: "world-skill",
   slug: "aura-pizza",
   title: "Aura Pizza",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

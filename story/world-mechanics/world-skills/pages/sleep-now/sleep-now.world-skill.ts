@@ -5,6 +5,6 @@ export const sleepNow = {
   type: "world-skill",
   slug: "sleep-now",
   title: "Sleep, Now",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

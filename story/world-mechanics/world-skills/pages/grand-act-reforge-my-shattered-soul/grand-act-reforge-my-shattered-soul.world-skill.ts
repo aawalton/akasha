@@ -5,6 +5,6 @@ export const grandActReforgeMyShatteredSoul = {
   type: "world-skill",
   slug: "grand-act-reforge-my-shattered-soul",
   title: "Grand Act: Reforge My Shattered Soul",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

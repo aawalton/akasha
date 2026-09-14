@@ -5,6 +5,6 @@ export const conferenceOfTheAugust = {
   type: "world-skill",
   slug: "conference-of-the-august",
   title: "Conference of the August",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

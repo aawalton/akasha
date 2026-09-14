@@ -5,5 +5,5 @@ export const wildGrowth = {
   type: "world-skill",
   slug: "wild-growth",
   title: "Wild Growth",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

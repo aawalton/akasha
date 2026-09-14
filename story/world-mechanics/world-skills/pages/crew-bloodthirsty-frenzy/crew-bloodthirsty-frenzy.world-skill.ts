@@ -5,6 +5,6 @@ export const crewBloodthirstyFrenzy = {
   type: "world-skill",
   slug: "crew-bloodthirsty-frenzy",
   title: "Crew: Bloodthirsty Frenzy",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

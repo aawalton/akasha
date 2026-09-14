@@ -5,7 +5,7 @@ export const emergencyRegeneration = {
   type: "world-skill",
   slug: "emergency-regeneration",
   title: "Emergency Regeneration",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Emergency…Regeneration"],
   references: "jsonl",
 } as const satisfies WorldSkill

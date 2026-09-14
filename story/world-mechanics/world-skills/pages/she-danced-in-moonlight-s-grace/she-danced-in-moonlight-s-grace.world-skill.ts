@@ -5,6 +5,6 @@ export const sheDancedInMoonlightSGrace = {
   type: "world-skill",
   slug: "she-danced-in-moonlight-s-grace",
   title: "She Danced in Moonlight’s Grace",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

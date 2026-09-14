@@ -5,6 +5,6 @@ export const pinnedMessage = {
   type: "world-skill",
   slug: "pinned-message",
   title: "Pinned Message",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,7 +5,7 @@ export const advancedCooking = {
   type: "world-skill",
   slug: "advanced-cooking",
   title: "Advanced Cooking",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Advanced Cooking?"],
   references: "jsonl",
 } as const satisfies WorldSkill

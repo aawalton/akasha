@@ -5,6 +5,6 @@ export const tribeUnstoppableCharge = {
   type: "world-skill",
   slug: "tribe-unstoppable-charge",
   title: "Tribe: Unstoppable Charge",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

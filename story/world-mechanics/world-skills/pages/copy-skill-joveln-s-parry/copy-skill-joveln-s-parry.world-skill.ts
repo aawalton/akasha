@@ -5,6 +5,6 @@ export const copySkillJovelnSParry = {
   type: "world-skill",
   slug: "copy-skill-joveln-s-parry",
   title: "Copy Skill — Joveln’s Parry",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

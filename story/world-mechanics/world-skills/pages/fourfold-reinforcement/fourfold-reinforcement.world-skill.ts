@@ -5,6 +5,6 @@ export const fourfoldReinforcement = {
   type: "world-skill",
   slug: "fourfold-reinforcement",
   title: "Fourfold Reinforcement",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

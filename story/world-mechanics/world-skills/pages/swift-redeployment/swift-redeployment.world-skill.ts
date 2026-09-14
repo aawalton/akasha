@@ -5,6 +5,6 @@ export const swiftRedeployment = {
   type: "world-skill",
   slug: "swift-redeployment",
   title: "Swift Redeployment",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

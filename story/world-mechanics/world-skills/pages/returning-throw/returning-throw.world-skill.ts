@@ -5,6 +5,6 @@ export const returningThrow = {
   type: "world-skill",
   slug: "returning-throw",
   title: "Returning Throw",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const ignorePain = {
   type: "world-skill",
   slug: "ignore-pain",
   title: "Ignore Pain",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

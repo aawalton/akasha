@@ -5,6 +5,6 @@ export const chronomancerSConferenceOfTheAugust = {
   type: "world-skill",
   slug: "chronomancer-s-conference-of-the-august",
   title: "Chronomancer’s Conference of the August",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

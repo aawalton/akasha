@@ -5,6 +5,6 @@ export const filteredEntry = {
   type: "world-skill",
   slug: "filtered-entry",
   title: "Filtered Entry",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

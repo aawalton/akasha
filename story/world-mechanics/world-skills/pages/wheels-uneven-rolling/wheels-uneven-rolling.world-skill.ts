@@ -5,6 +5,6 @@ export const wheelsUnevenRolling = {
   type: "world-skill",
   slug: "wheels-uneven-rolling",
   title: "Wheels: Uneven Rolling",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

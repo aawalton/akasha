@@ -5,6 +5,6 @@ export const remoteSubmitAssignment = {
   type: "world-skill",
   slug: "remote-submit-assignment",
   title: "Remote Submit Assignment",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

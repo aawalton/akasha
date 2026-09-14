@@ -5,6 +5,6 @@ export const bodyRegulateTemperature = {
   type: "world-skill",
   slug: "body-regulate-temperature",
   title: "Body: Regulate Temperature",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

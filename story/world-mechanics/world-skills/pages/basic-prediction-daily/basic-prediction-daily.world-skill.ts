@@ -5,6 +5,6 @@ export const basicPredictionDaily = {
   type: "world-skill",
   slug: "basic-prediction-daily",
   title: "Basic Prediction (Daily)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

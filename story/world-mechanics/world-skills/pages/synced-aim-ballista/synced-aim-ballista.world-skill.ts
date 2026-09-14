@@ -5,5 +5,5 @@ export const syncedAimBallista = {
   type: "world-skill",
   slug: "synced-aim-ballista",
   title: "Synced Aim: Ballista",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

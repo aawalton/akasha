@@ -5,6 +5,6 @@ export const clearStatement = {
   type: "world-skill",
   slug: "clear-statement",
   title: "Clear Statement",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

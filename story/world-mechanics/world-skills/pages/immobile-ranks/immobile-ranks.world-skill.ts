@@ -5,6 +5,6 @@ export const immobileRanks = {
   type: "world-skill",
   slug: "immobile-ranks",
   title: "Immobile Ranks",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

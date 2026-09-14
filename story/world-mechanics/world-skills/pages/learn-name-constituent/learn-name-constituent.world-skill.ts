@@ -5,6 +5,6 @@ export const learnNameConstituent = {
   type: "world-skill",
   slug: "learn-name-constituent",
   title: "Learn Name: Constituent",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const suddenUpdraft = {
   type: "world-skill",
   slug: "sudden-updraft",
   title: "Sudden Updraft",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

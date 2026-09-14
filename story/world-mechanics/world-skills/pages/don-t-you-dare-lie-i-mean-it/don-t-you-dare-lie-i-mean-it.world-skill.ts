@@ -5,5 +5,5 @@ export const donTYouDareLieIMeanIt = {
   type: "world-skill",
   slug: "don-t-you-dare-lie-i-mean-it",
   title: "Don’t You Dare Lie, I Mean It",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

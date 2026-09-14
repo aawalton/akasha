@@ -5,6 +5,6 @@ export const imitationOfMightJaganismet = {
   type: "world-skill",
   slug: "imitation-of-might-jaganismet",
   title: "Imitation of Might: Jaganismet",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

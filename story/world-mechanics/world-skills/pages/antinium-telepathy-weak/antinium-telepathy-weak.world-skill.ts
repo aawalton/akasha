@@ -5,6 +5,6 @@ export const antiniumTelepathyWeak = {
   type: "world-skill",
   slug: "antinium-telepathy-weak",
   title: "Antinium Telepathy (Weak)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const checkVibes = {
   type: "world-skill",
   slug: "check-vibes",
   title: "Check Vibes",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

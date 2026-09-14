@@ -5,6 +5,6 @@ export const monumentalAnimation = {
   type: "world-skill",
   slug: "monumental-animation",
   title: "Monumental Animation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

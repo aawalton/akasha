@@ -5,6 +5,6 @@ export const rebukeTheFoeMightiestBlow = {
   type: "world-skill",
   slug: "rebuke-the-foe-mightiest-blow",
   title: "Rebuke the Foe: Mightiest Blow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

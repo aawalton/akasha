@@ -5,6 +5,6 @@ export const zigzagDash = {
   type: "world-skill",
   slug: "zigzag-dash",
   title: "Zigzag Dash",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

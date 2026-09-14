@@ -5,6 +5,6 @@ export const correctError = {
   type: "world-skill",
   slug: "correct-error",
   title: "Correct Error",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

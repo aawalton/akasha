@@ -5,6 +5,6 @@ export const reinforcedBlock = {
   type: "world-skill",
   slug: "reinforced-block",
   title: "Reinforced Block",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

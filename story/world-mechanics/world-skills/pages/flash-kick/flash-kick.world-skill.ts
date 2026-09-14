@@ -5,6 +5,6 @@ export const flashKick = {
   type: "world-skill",
   slug: "flash-kick",
   title: "Flash Kick",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

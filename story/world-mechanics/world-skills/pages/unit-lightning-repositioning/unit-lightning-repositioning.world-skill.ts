@@ -5,6 +5,6 @@ export const unitLightningRepositioning = {
   type: "world-skill",
   slug: "unit-lightning-repositioning",
   title: "Unit: Lightning Repositioning",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

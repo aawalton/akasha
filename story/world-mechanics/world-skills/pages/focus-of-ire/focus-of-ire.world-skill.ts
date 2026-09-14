@@ -5,6 +5,6 @@ export const focusOfIre = {
   type: "world-skill",
   slug: "focus-of-ire",
   title: "Focus of Ire",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

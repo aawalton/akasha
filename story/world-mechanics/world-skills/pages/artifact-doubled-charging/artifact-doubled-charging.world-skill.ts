@@ -5,6 +5,6 @@ export const artifactDoubledCharging = {
   type: "world-skill",
   slug: "artifact-doubled-charging",
   title: "Artifact: Doubled Charging",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

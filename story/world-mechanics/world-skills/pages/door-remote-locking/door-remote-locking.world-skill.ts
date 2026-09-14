@@ -5,6 +5,6 @@ export const doorRemoteLocking = {
   type: "world-skill",
   slug: "door-remote-locking",
   title: "Door: Remote Locking",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const burstSpeed = {
   type: "world-skill",
   slug: "burst-speed",
   title: "Burst Speed",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

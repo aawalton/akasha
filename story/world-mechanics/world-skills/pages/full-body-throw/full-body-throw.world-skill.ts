@@ -5,7 +5,7 @@ export const fullBodyThrow = {
   type: "world-skill",
   slug: "full-body-throw",
   title: "Full Body Throw",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Full-Body Throw"],
   references: "jsonl",
 } as const satisfies WorldSkill

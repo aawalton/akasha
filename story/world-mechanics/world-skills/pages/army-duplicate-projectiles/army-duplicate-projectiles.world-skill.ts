@@ -5,6 +5,6 @@ export const armyDuplicateProjectiles = {
   type: "world-skill",
   slug: "army-duplicate-projectiles",
   title: "Army: Duplicate Projectiles",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

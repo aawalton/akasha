@@ -5,6 +5,6 @@ export const consumptionIncreaseNutrition = {
   type: "world-skill",
   slug: "consumption-increase-nutrition",
   title: "Consumption: Increase Nutrition",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

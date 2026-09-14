@@ -5,6 +5,6 @@ export const greaterResistanceChronos = {
   type: "world-skill",
   slug: "greater-resistance-chronos",
   title: "Greater Resistance: Chronos",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

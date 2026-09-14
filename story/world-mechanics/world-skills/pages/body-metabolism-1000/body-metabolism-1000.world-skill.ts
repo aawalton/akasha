@@ -5,6 +5,6 @@ export const bodyMetabolism1000 = {
   type: "world-skill",
   slug: "body-metabolism-1000",
   title: "Body: Metabolism 1000%",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

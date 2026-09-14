@@ -5,5 +5,5 @@ export const overcharge = {
   type: "world-skill",
   slug: "overcharge",
   title: "Overcharge",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const spidercrawlWebFingers = {
   type: "world-skill",
   slug: "spidercrawl-web-fingers",
   title: "Spidercrawl (Web Fingers)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

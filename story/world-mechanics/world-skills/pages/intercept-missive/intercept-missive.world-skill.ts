@@ -5,6 +5,6 @@ export const interceptMissive = {
   type: "world-skill",
   slug: "intercept-missive",
   title: "Intercept Missive",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const manachargedReflexes = {
   type: "world-skill",
   slug: "manacharged-reflexes",
   title: "Manacharged Reflexes",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

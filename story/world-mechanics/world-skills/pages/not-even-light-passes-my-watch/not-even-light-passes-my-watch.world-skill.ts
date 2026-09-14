@@ -5,6 +5,6 @@ export const notEvenLightPassesMyWatch = {
   type: "world-skill",
   slug: "not-even-light-passes-my-watch",
   title: "Not Even Light Passes My Watch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

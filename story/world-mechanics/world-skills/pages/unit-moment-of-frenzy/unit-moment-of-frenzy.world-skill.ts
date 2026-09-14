@@ -5,6 +5,6 @@ export const unitMomentOfFrenzy = {
   type: "world-skill",
   slug: "unit-moment-of-frenzy",
   title: "Unit: Moment of Frenzy",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

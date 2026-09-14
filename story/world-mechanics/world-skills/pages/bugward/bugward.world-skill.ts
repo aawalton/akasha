@@ -5,6 +5,6 @@ export const bugward = {
   type: "world-skill",
   slug: "bugward",
   title: "Bugward",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

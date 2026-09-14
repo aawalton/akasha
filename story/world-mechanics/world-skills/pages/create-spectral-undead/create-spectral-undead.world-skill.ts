@@ -5,6 +5,6 @@ export const createSpectralUndead = {
   type: "world-skill",
   slug: "create-spectral-undead",
   title: "Create Spectral Undead",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

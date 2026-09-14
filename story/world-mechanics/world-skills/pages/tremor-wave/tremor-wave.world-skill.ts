@@ -5,6 +5,6 @@ export const tremorWave = {
   type: "world-skill",
   slug: "tremor-wave",
   title: "Tremor Wave",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

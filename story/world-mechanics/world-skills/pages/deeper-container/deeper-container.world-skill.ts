@@ -5,6 +5,6 @@ export const deeperContainer = {
   type: "world-skill",
   slug: "deeper-container",
   title: "Deeper Container",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

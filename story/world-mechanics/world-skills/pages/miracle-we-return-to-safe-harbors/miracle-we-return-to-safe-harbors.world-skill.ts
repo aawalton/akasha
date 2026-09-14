@@ -5,6 +5,6 @@ export const miracleWeReturnToSafeHarbors = {
   type: "world-skill",
   slug: "miracle-we-return-to-safe-harbors",
   title: "Miracle: We Return to Safe Harbors",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

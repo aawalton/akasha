@@ -5,6 +5,6 @@ export const magicalSpecializationSand = {
   type: "world-skill",
   slug: "magical-specialization-sand",
   title: "Magical Specialization: Sand",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const flutterStep = {
   type: "world-skill",
   slug: "flutter-step",
   title: "Flutter Step",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

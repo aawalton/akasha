@@ -5,5 +5,5 @@ export const theManWhoGrantsWishes = {
   type: "world-skill",
   slug: "the-man-who-grants-wishes",
   title: "The Man Who Grants Wishes",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSkill

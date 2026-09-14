@@ -5,6 +5,6 @@ export const getInLine = {
   type: "world-skill",
   slug: "get-in-line",
   title: "Get in Line",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

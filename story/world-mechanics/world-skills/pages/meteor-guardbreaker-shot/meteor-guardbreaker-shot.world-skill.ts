@@ -5,6 +5,6 @@ export const meteorGuardbreakerShot = {
   type: "world-skill",
   slug: "meteor-guardbreaker-shot",
   title: "Meteor Guardbreaker Shot",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

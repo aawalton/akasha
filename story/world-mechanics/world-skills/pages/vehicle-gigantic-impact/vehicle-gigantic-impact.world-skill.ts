@@ -5,6 +5,6 @@ export const vehicleGiganticImpact = {
   type: "world-skill",
   slug: "vehicle-gigantic-impact",
   title: "Vehicle: Gigantic Impact",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

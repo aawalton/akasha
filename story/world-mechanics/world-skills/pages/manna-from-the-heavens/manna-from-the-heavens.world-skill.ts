@@ -5,7 +5,7 @@ export const mannaFromTheHeavens = {
   type: "world-skill",
   slug: "manna-from-the-heavens",
   title: "Manna From the Heavens",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Manna from the Heavens"],
   references: "jsonl",
 } as const satisfies WorldSkill

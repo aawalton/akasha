@@ -5,6 +5,6 @@ export const crimsonEarthMana = {
   type: "world-skill",
   slug: "crimson-earth-mana",
   title: "Crimson Earth Mana",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const deflectAttentionClaudeil = {
   type: "world-skill",
   slug: "deflect-attention-claudeil",
   title: "Deflect Attention: Claudeil",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

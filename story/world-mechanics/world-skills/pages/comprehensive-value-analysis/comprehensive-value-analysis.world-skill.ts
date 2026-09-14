@@ -5,6 +5,6 @@ export const comprehensiveValueAnalysis = {
   type: "world-skill",
   slug: "comprehensive-value-analysis",
   title: "Comprehensive Value Analysis",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

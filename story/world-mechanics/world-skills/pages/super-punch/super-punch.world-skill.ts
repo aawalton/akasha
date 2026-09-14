@@ -5,6 +5,6 @@ export const superPunch = {
   type: "world-skill",
   slug: "super-punch",
   title: "Super Punch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

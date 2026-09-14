@@ -5,6 +5,6 @@ export const fasterToUntamedLands = {
   type: "world-skill",
   slug: "faster-to-untamed-lands",
   title: "Faster to Untamed Lands",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

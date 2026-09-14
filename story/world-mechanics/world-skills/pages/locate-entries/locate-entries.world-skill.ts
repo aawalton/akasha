@@ -5,6 +5,6 @@ export const locateEntries = {
   type: "world-skill",
   slug: "locate-entries",
   title: "Locate Entries",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

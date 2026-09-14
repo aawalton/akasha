@@ -5,6 +5,6 @@ export const myQuarryBleedsOut = {
   type: "world-skill",
   slug: "my-quarry-bleeds-out",
   title: "My Quarry Bleeds Out",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

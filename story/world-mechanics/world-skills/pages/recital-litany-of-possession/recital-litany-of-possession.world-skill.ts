@@ -5,6 +5,6 @@ export const recitalLitanyOfPossession = {
   type: "world-skill",
   slug: "recital-litany-of-possession",
   title: "Recital: Litany of Possession",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

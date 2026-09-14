@@ -5,6 +5,6 @@ export const aPactOfTrust = {
   type: "world-skill",
   slug: "a-pact-of-trust",
   title: "A Pact of Trust",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

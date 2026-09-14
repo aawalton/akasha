@@ -5,6 +5,6 @@ export const faithIsMyStrength = {
   type: "world-skill",
   slug: "faith-is-my-strength",
   title: "Faith is My Strength",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

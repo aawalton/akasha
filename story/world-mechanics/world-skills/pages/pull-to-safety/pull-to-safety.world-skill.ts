@@ -5,6 +5,6 @@ export const pullToSafety = {
   type: "world-skill",
   slug: "pull-to-safety",
   title: "Pull to Safety",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill
