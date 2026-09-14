@@ -1,7 +1,6 @@
 import * as parityRoutingModule from "akasha/temper/commands/modules/inventory-parity-routing/inventory-parity-routing.module.code.ts"
 import * as parityAddonTraceModule from "akasha/temper/commands/modules/inventory-parity-trace/inventory-parity-trace.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
-import * as utilsNarrow from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export interface ParityAddonTrace {
   readonly signals: {
@@ -51,18 +50,10 @@ interface Routing {
   readonly renderRoutingSection: (diff: RoutingDiff) => string
 }
 
-interface UtilsNarrow {
-  readonly assertNever: (value: never) => never
-}
-
 export function parityAddonTrace(): Promise<AddonTrace> {
   return Promise.resolve(parityAddonTraceModule)
 }
 
 export function parityRouting(): Promise<Routing> {
   return Promise.resolve(parityRoutingModule)
-}
-
-export function parityNarrow(): Promise<UtilsNarrow> {
-  return Promise.resolve(utilsNarrow)
 }

@@ -19,7 +19,6 @@ import {
   applyDestinationCapacityFilterWithAudit,
 } from "akasha/temper/items-rules-routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import { formatPlanChecklist } from "akasha/temper/items-rules-routing/modules/inventory-plan-checklist/inventory-plan-checklist.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface PlanInputsModule {
   readonly DEFAULT_INVENTORY_PATH: typeof DEFAULT_INVENTORY_PATH
@@ -64,10 +63,6 @@ interface ParseCharacters {
 interface ParseConfig {
   readonly parseTemperInventoryConfig: typeof parseTemperInventoryConfig
   readonly loadTemperInventoryConfigFromPath: typeof loadTemperInventoryConfigFromPath
-}
-
-interface UtilsNarrow {
-  readonly assertNever: typeof assertNever
 }
 
 export function planInputs(): Promise<PlanInputsModule> {
@@ -116,8 +111,4 @@ export function parseCharacters(): Promise<ParseCharacters> {
 
 export function parseConfig(): Promise<ParseConfig> {
   return Promise.resolve({ parseTemperInventoryConfig, loadTemperInventoryConfigFromPath })
-}
-
-export function utilsNarrow(): Promise<UtilsNarrow> {
-  return Promise.resolve({ assertNever })
 }

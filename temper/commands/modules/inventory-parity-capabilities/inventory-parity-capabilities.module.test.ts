@@ -1,7 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
   parityAddonTrace,
-  parityNarrow,
   parityRouting,
 } from "akasha/temper/commands/modules/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
 
@@ -18,12 +17,5 @@ describe("parityRouting", () => {
     expect(typeof held.matchedRouteFrom).toBe("function")
     expect(typeof held.computeRoutingDiff).toBe("function")
     expect(typeof held.renderRoutingSection).toBe("function")
-  })
-})
-
-describe("parityNarrow", () => {
-  test("hands over narrowing a value nothing is left of", async () => {
-    const held = await parityNarrow()
-    expect(typeof held.assertNever).toBe("function")
   })
 })

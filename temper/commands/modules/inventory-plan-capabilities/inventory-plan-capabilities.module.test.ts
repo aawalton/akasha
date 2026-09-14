@@ -9,7 +9,6 @@ import {
   planChecklist,
   planInputs,
   ruleMatcher,
-  utilsNarrow,
 } from "akasha/temper/commands/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 
 describe("planInputs", () => {
@@ -30,7 +29,6 @@ describe("the parts a plan run takes one at a time", () => {
     expect(Object.keys(await classifyItem())).toEqual(["classifyItemToNodeIds"])
     expect(Object.keys(await inventoryParser())).toEqual(["parseInventoryContent"])
     expect(Object.keys(await parseCharacters())).toEqual(["loadTemperCharactersFromPath"])
-    expect(Object.keys(await utilsNarrow())).toEqual(["assertNever"])
   })
 
   test("the capacity filter is handed over with and without its audit", async () => {
