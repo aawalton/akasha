@@ -29,6 +29,7 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { slugAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const BASIS: CutFingerprint = {
   buildNumber: 198,
@@ -102,7 +103,7 @@ describe("readCutPages", () => {
 
 describe("readLatestCutFingerprint", () => {
   test("the last cut is the page carrying the highest build number", async () => {
-    const filed = readCutPages().filter((page) => page.value["app"] === "alanwalton")
+    const filed = readCutPages().filter((page) => slugAt(page.value, "app") === "alanwalton")
     expect(filed.length).toBeGreaterThan(1)
     const highest = Math.max(...filed.map((page) => Number(page.value["buildNumber"])))
 

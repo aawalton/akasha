@@ -61,6 +61,10 @@ export const cutFingerprint = {
     },
     {
       invariantKind: "departure",
+      statement: "A filed page names its app by page type and slug, and is found by the slug.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The change adding a file files the fingerprint rather than an edit composed here.",
     },

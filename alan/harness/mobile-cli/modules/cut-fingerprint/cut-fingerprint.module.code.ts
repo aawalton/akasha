@@ -1,5 +1,6 @@
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -16,6 +17,8 @@ import {
 import { z } from "zod"
 
 export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
+
+const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
 
 const PUT = "change-mechanical-file/add-file"
 
@@ -154,7 +157,7 @@ export function cutPageBody(appSlug: string, fp: CutFingerprint): string {
     `  type: "${MOBILE_CUT_PAGE_TYPE_SLUG}",`,
     `  slug: "${slug}",`,
     `  title: ${JSON.stringify(`${appSlug} cut build ${fp.buildNumber}`)},`,
-    `  app: ${JSON.stringify(appSlug)},`,
+    `  app: ${JSON.stringify(namedAs(IOS_APP_PAGE_TYPE_SLUG, appSlug, null))},`,
     `  buildNumber: ${fp.buildNumber},`,
     `  mainSha: ${JSON.stringify(fp.mainSha)},`,
     ...(fp.shellSha === null ? [] : [`  shellSha: ${JSON.stringify(fp.shellSha)},`]),
