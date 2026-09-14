@@ -120,7 +120,7 @@ export type Declared = {
   readonly pageId: string
   readonly on: string
   readonly values: unknown
-  readonly renderedAs: string | null
+
   readonly targetSlug: string | null
   readonly slugProperty: string | null
   readonly mayBeGone: boolean
@@ -187,7 +187,7 @@ function declaredOf(
     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
     on,
     values: page === undefined ? null : (page["values"] ?? null),
-    renderedAs: page === undefined ? null : textAt(page, "renderedAs"),
+
     targetSlug: page === undefined ? null : slugAt(page, TARGET_PAGE_TYPE),
     slugProperty: one.propertySlug,
     mayBeGone: !one.required,

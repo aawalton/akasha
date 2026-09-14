@@ -19,7 +19,6 @@ export const pageProperty = {
     "relation-property/unique",
     "relation-property/unique-property",
     "text-property/property-slug",
-    "text-property/rendered-as",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -30,7 +29,6 @@ export const pageProperty = {
     { pageProperty: "file-property/types", required: false, many: false },
     { pageProperty: "boolean-property/nullable", required: false, many: false },
     { pageProperty: "boolean-property/sorted", required: false, many: false },
-    { pageProperty: "text-property/rendered-as", required: false, many: false },
   ],
   invariants: [
     {
