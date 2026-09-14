@@ -5,7 +5,7 @@ export const enos = {
   type: "scripture-collection",
   slug: "enos",
   title: "Enos",
-  partOfCollections: ["book-of-mormon"],
+  partOfCollections: ["scripture-collection/book-of-mormon"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

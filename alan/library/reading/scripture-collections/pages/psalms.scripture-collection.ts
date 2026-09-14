@@ -5,7 +5,7 @@ export const psalms = {
   type: "scripture-collection",
   slug: "psalms",
   title: "Psalms",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 19,
   ownLength: 0,
   ownProgress: 0,

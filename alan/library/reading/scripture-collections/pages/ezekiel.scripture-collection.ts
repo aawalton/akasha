@@ -5,7 +5,7 @@ export const ezekiel = {
   type: "scripture-collection",
   slug: "ezekiel",
   title: "Ezekiel",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 26,
   ownLength: 0,
   ownProgress: 0,

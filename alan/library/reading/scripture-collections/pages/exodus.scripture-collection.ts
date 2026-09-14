@@ -5,7 +5,7 @@ export const exodus = {
   type: "scripture-collection",
   slug: "exodus",
   title: "Exodus",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

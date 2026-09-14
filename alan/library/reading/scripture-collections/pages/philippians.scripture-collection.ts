@@ -5,7 +5,7 @@ export const philippians = {
   type: "scripture-collection",
   slug: "philippians",
   title: "Philippians",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

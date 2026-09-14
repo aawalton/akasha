@@ -5,7 +5,7 @@ export const esther = {
   type: "scripture-collection",
   slug: "esther",
   title: "Esther",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 17,
   ownLength: 0,
   ownProgress: 0,

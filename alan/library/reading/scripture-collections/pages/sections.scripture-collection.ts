@@ -5,7 +5,7 @@ export const sections = {
   type: "scripture-collection",
   slug: "sections",
   title: "Sections",
-  partOfCollections: ["doctrine-and-covenants"],
+  partOfCollections: ["scripture-collection/doctrine-and-covenants"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const ecclesiastes = {
   type: "scripture-collection",
   slug: "ecclesiastes",
   title: "Ecclesiastes",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 21,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const hebrews = {
   type: "scripture-collection",
   slug: "hebrews",
   title: "Hebrews",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 19,
   ownLength: 0,
   ownProgress: 0,

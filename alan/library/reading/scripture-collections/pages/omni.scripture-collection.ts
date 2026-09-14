@@ -5,7 +5,7 @@ export const omni = {
   type: "scripture-collection",
   slug: "omni",
   title: "Omni",
-  partOfCollections: ["book-of-mormon"],
+  partOfCollections: ["scripture-collection/book-of-mormon"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const genesis = {
   type: "scripture-collection",
   slug: "genesis",
   title: "Genesis",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

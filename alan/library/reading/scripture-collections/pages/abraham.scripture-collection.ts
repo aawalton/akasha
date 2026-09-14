@@ -5,7 +5,7 @@ export const abraham = {
   type: "scripture-collection",
   slug: "abraham",
   title: "Abraham",
-  partOfCollections: ["pearl-of-great-price"],
+  partOfCollections: ["scripture-collection/pearl-of-great-price"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

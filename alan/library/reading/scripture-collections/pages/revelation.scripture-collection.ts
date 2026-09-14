@@ -5,7 +5,7 @@ export const revelation = {
   type: "scripture-collection",
   slug: "revelation",
   title: "Revelation",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 27,
   ownLength: 0,
   ownProgress: 0,

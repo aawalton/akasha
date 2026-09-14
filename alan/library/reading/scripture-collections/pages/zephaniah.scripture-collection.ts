@@ -5,7 +5,7 @@ export const zephaniah = {
   type: "scripture-collection",
   slug: "zephaniah",
   title: "Zephaniah",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 36,
   ownLength: 0,
   ownProgress: 0,

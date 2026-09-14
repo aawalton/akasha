@@ -5,7 +5,7 @@ export const jacob = {
   type: "scripture-collection",
   slug: "jacob",
   title: "Jacob",
-  partOfCollections: ["book-of-mormon"],
+  partOfCollections: ["scripture-collection/book-of-mormon"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

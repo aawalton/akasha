@@ -5,7 +5,7 @@ export const moses = {
   type: "scripture-collection",
   slug: "moses",
   title: "Moses",
-  partOfCollections: ["pearl-of-great-price"],
+  partOfCollections: ["scripture-collection/pearl-of-great-price"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const scriptureCollection2Corinthians = {
   type: "scripture-collection",
   slug: "scripture-collection-2-corinthians",
   title: "2 Corinthians",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

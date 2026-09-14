@@ -5,7 +5,7 @@ export const pearlOfGreatPrice = {
   type: "scripture-collection",
   slug: "pearl-of-great-price",
   title: "Pearl of Great Price",
-  partOfCollections: ["scriptures"],
+  partOfCollections: ["scripture-collection/scriptures"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

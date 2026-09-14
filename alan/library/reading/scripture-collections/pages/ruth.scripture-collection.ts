@@ -5,7 +5,7 @@ export const ruth = {
   type: "scripture-collection",
   slug: "ruth",
   title: "Ruth",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

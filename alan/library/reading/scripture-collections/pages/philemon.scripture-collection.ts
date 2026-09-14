@@ -5,7 +5,7 @@ export const philemon = {
   type: "scripture-collection",
   slug: "philemon",
   title: "Philemon",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 18,
   ownLength: 0,
   ownProgress: 0,

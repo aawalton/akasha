@@ -5,7 +5,7 @@ export const matthew = {
   type: "scripture-collection",
   slug: "matthew",
   title: "Matthew",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

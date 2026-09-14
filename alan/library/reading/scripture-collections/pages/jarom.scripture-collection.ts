@@ -5,7 +5,7 @@ export const jarom = {
   type: "scripture-collection",
   slug: "jarom",
   title: "Jarom",
-  partOfCollections: ["book-of-mormon"],
+  partOfCollections: ["scripture-collection/book-of-mormon"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

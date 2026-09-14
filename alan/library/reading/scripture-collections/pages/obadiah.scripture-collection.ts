@@ -5,7 +5,7 @@ export const obadiah = {
   type: "scripture-collection",
   slug: "obadiah",
   title: "Obadiah",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 31,
   ownLength: 0,
   ownProgress: 0,

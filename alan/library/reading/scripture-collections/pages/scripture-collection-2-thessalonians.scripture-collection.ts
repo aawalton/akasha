@@ -5,7 +5,7 @@ export const scriptureCollection2Thessalonians = {
   type: "scripture-collection",
   slug: "scripture-collection-2-thessalonians",
   title: "2 Thessalonians",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 14,
   ownLength: 0,
   ownProgress: 0,

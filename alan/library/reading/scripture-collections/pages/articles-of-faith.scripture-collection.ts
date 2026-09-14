@@ -5,7 +5,7 @@ export const articlesOfFaith = {
   type: "scripture-collection",
   slug: "articles-of-faith",
   title: "Articles of Faith",
-  partOfCollections: ["pearl-of-great-price"],
+  partOfCollections: ["scripture-collection/pearl-of-great-price"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

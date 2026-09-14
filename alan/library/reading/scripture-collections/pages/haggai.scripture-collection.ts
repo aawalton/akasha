@@ -5,7 +5,7 @@ export const haggai = {
   type: "scripture-collection",
   slug: "haggai",
   title: "Haggai",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 37,
   ownLength: 0,
   ownProgress: 0,

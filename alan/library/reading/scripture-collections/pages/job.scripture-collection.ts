@@ -5,7 +5,7 @@ export const job = {
   type: "scripture-collection",
   slug: "job",
   title: "Job",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 18,
   ownLength: 0,
   ownProgress: 0,

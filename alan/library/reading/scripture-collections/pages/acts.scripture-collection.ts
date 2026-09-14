@@ -5,7 +5,7 @@ export const acts = {
   type: "scripture-collection",
   slug: "acts",
   title: "Acts",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

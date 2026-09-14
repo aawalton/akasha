@@ -5,7 +5,7 @@ export const scriptureCollection2John = {
   type: "scripture-collection",
   slug: "scripture-collection-2-john",
   title: "2 John",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 24,
   ownLength: 0,
   ownProgress: 0,

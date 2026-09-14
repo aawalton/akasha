@@ -5,7 +5,7 @@ export const nehemiah = {
   type: "scripture-collection",
   slug: "nehemiah",
   title: "Nehemiah",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 16,
   ownLength: 0,
   ownProgress: 0,

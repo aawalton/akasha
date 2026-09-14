@@ -5,7 +5,7 @@ export const ezra = {
   type: "scripture-collection",
   slug: "ezra",
   title: "Ezra",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

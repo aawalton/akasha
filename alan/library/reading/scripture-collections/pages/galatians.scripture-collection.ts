@@ -5,7 +5,7 @@ export const galatians = {
   type: "scripture-collection",
   slug: "galatians",
   title: "Galatians",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

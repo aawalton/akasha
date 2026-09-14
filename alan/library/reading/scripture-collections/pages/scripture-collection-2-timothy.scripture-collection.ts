@@ -5,7 +5,7 @@ export const scriptureCollection2Timothy = {
   type: "scripture-collection",
   slug: "scripture-collection-2-timothy",
   title: "2 Timothy",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 16,
   ownLength: 0,
   ownProgress: 0,

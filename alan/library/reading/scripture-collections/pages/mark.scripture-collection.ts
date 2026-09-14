@@ -5,7 +5,7 @@ export const mark = {
   type: "scripture-collection",
   slug: "mark",
   title: "Mark",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

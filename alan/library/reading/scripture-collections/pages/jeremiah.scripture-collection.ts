@@ -5,7 +5,7 @@ export const jeremiah = {
   type: "scripture-collection",
   slug: "jeremiah",
   title: "Jeremiah",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 24,
   ownLength: 0,
   ownProgress: 0,

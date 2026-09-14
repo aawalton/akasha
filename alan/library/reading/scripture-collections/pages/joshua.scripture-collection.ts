@@ -5,7 +5,7 @@ export const joshua = {
   type: "scripture-collection",
   slug: "joshua",
   title: "Joshua",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

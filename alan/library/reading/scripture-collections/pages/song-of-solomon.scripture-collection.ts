@@ -5,7 +5,7 @@ export const songOfSolomon = {
   type: "scripture-collection",
   slug: "song-of-solomon",
   title: "Song of Solomon",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 22,
   ownLength: 0,
   ownProgress: 0,

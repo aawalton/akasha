@@ -5,7 +5,7 @@ export const scriptureCollection1Samuel = {
   type: "scripture-collection",
   slug: "scripture-collection-1-samuel",
   title: "1 Samuel",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

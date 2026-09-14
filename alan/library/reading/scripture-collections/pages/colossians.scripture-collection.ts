@@ -5,7 +5,7 @@ export const colossians = {
   type: "scripture-collection",
   slug: "colossians",
   title: "Colossians",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

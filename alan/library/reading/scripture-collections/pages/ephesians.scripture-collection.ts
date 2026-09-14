@@ -5,7 +5,7 @@ export const ephesians = {
   type: "scripture-collection",
   slug: "ephesians",
   title: "Ephesians",
-  partOfCollections: ["new-testament"],
+  partOfCollections: ["scripture-collection/new-testament"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

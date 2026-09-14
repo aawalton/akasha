@@ -5,7 +5,7 @@ export const jonah = {
   type: "scripture-collection",
   slug: "jonah",
   title: "Jonah",
-  partOfCollections: ["old-testament"],
+  partOfCollections: ["scripture-collection/old-testament"],
   position: 32,
   ownLength: 0,
   ownProgress: 0,

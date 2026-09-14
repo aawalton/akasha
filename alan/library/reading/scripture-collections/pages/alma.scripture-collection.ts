@@ -5,7 +5,7 @@ export const alma = {
   type: "scripture-collection",
   slug: "alma",
   title: "Alma",
-  partOfCollections: ["book-of-mormon"],
+  partOfCollections: ["scripture-collection/book-of-mormon"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,
