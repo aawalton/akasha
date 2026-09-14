@@ -16,8 +16,6 @@ export const DEPLOYS = "deploys"
 
 export const LANDING_LOCK = "akasha-landing.lock"
 
-export const STORES: readonly string[] = [CACHE, DEPLOYS, TREES]
-
 export const LEFT: readonly string[] = [DATA, HANDOFF, INDEXES]
 
 export function keptAt(name: string): string {
@@ -26,10 +24,6 @@ export function keptAt(name: string): string {
 
 export function gitIn(root: string): string {
   return join(root, GIT_AT)
-}
-
-export function storeAt(store: string, ...parts: readonly string[]): string {
-  return join(GIT_AT, store, ...parts)
 }
 
 export function storeIn(root: string, store: string, ...parts: readonly string[]): string {

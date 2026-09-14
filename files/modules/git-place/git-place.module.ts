@@ -54,7 +54,7 @@ export const gitPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A store is answered both under a root and on its own.",
+      statement: "A store is answered under a root.",
     },
     {
       invariantKind: "departure",
