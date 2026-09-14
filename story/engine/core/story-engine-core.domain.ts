@@ -14,7 +14,6 @@ export const storyEngineCore = {
     "module/entity-schema",
     "module/game-engine",
     "module/game-schema",
-    "module/game-url",
     "module/gm-voice-lints",
     "module/narrative-continuity-schema",
     "module/prose-segments",
