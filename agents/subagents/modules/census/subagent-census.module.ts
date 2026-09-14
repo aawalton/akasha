@@ -35,7 +35,11 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent its seat's transcript saw start and finish reads that page as stale.",
+      statement: "A subagent seen to start and finish under its seat reads that page as stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent one subagent dispatched is seen that way as a seat's own is.",
     },
     {
       invariantKind: "departure",

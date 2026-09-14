@@ -169,7 +169,7 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
       page,
       verdict: STALE,
       pids,
-      why: "its seat's transcript names it as a subagent that started and returned",
+      why: "the transcript of whatever dispatched it records the result it returned",
     }
   }
   if (seen.stoppedPaths.has(page.path)) {
