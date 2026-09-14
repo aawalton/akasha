@@ -7,7 +7,7 @@ export const aliasIndex = {
   propertySlug: "alias-index",
   definition: "the number in the shell alias that opens Claude on this account",
   max: null,
-  unique: "page-type",
+  unique: "unique-kind/page-type",
   invariants: [
     {
       invariantKind: "departure",
