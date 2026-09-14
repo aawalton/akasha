@@ -16,7 +16,7 @@ const A_ROW = {
   slug: "rule-one",
   categoryId: "scripts",
   displayOrder: 3,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: true,
   updatedAt: "1970-01-01T00:00:00.000Z",
 }
