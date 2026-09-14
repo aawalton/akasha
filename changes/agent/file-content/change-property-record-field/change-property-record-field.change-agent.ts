@@ -33,4 +33,5 @@ export const changePropertyRecordField = {
     },
   ],
   changeKind: "change-restated",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent

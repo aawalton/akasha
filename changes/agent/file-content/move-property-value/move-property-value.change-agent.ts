@@ -58,4 +58,5 @@ export const movePropertyValue = {
     },
   ],
   changeKind: "change-authored",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent
