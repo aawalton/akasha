@@ -77,7 +77,7 @@ export const index = {
       statement: "Every index is written as a change lands.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "No index is ever built anew; every write lays a delta over what is there.",
     },
     {
