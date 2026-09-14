@@ -6,4 +6,5 @@ export const aranyaOffloadToCluster = {
   slug: "aranya-offload-to-cluster",
   domain: "domain/infrastructure",
   persona: "aranya",
+  intentStack: [{ statement: "Builds and deploys run on the cluster." }],
 } as const satisfies Initiative
