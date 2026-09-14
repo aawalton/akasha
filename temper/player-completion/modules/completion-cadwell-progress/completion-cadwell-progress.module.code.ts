@@ -1,5 +1,6 @@
 import {
   type CadwellLevelCatalogEntry,
+  cadwellCoordinates,
   cadwellTotalCount,
   isCadwellCoordinateComplete,
 } from "akasha/temper/player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
@@ -42,23 +43,17 @@ export function transformCadwellProgress(
       const gathered: GatheredCadwellZone[] = []
       const byZoneIndex = new Map<number, GatheredCadwellZone>()
 
-      for (const stop of levelData.cadwellStops) {
-        let zone = byZoneIndex.get(stop.zoneIndex)
+      for (const coordinate of cadwellCoordinates([levelData])) {
+        let zone = byZoneIndex.get(coordinate.zoneIndex)
         if (!zone) {
-          zone = { zoneIndex: stop.zoneIndex, name: stop.zoneName, pois: [] }
-          byZoneIndex.set(stop.zoneIndex, zone)
+          zone = { zoneIndex: coordinate.zoneIndex, name: coordinate.zoneName, pois: [] }
+          byZoneIndex.set(coordinate.zoneIndex, zone)
           gathered.push(zone)
         }
 
-        const completed = isCadwellCoordinateComplete(completion, {
-          level: levelData.displayOrder,
-          zoneIndex: stop.zoneIndex,
-          zoneName: stop.zoneName,
-          poiIndex: stop.stopIndex,
-          poiName: stop.poiName,
-        })
+        const completed = isCadwellCoordinateComplete(completion, coordinate)
         if (completed) completedCount++
-        zone.pois.push({ poiIndex: stop.stopIndex, name: stop.poiName, completed })
+        zone.pois.push({ poiIndex: coordinate.poiIndex, name: coordinate.poiName, completed })
       }
 
       const zones: CadwellZoneEntry[] = gathered
