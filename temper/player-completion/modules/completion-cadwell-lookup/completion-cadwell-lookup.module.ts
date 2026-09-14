@@ -20,13 +20,5 @@ export const completionCadwellLookup = {
       invariantKind: "departure",
       statement: "A level's tier number is the display order its page states.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "An empty item path answers every stop of the catalog.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "An item path with something other than a number answers nothing.",
-    },
   ],
 } as const satisfies Module

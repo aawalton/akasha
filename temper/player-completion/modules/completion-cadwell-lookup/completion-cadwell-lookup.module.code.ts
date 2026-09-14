@@ -48,29 +48,6 @@ export function cadwellTotalCount(levelCatalog: readonly CadwellLevelCatalogEntr
   return total
 }
 
-export function cadwellCoordinatesUnder(
-  itemPath: readonly (string | number)[] | null | undefined,
-  levelCatalog: readonly CadwellLevelCatalogEntry[]
-): readonly CadwellCoordinate[] {
-  const coordinates = cadwellCoordinates(levelCatalog)
-  const path = itemPath ?? []
-  if (path.length === 0) return coordinates
-
-  const level = Number(path[0])
-  if (!Number.isFinite(level)) return []
-  const byLevel = coordinates.filter((c) => c.level === level)
-  if (path.length === 1) return byLevel
-
-  const zoneIndex = Number(path[1])
-  if (!Number.isFinite(zoneIndex)) return []
-  const byZone = byLevel.filter((c) => c.zoneIndex === zoneIndex)
-  if (path.length === 2) return byZone
-
-  const poiIndex = Number(path[2])
-  if (!Number.isFinite(poiIndex)) return []
-  return byZone.filter((c) => c.poiIndex === poiIndex)
-}
-
 const completedNamesByCadwell = new WeakMap<CadwellProgress, ReadonlySet<string>>()
 
 function completedPoiNames(cadwell: CadwellProgress): ReadonlySet<string> {

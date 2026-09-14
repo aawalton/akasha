@@ -7,7 +7,6 @@ import type {
 import {
   type CadwellLevelCatalogEntry,
   cadwellCoordinates,
-  cadwellCoordinatesUnder,
   cadwellTotalCount,
   isCadwellCoordinateComplete,
 } from "akasha/temper/player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
@@ -112,44 +111,26 @@ if (SECOND_ZONE_STOP === undefined) throw new Error("fixture: second zone missin
 
 describe("cadwell coordinates", () => {
   test("covers every stop the catalog holds", () => {
-    expect(cadwellCoordinatesUnder([], LEVEL_CATALOG).length).toBe(TOTAL_COUNT)
     expect(cadwellCoordinates(LEVEL_CATALOG).length).toBe(TOTAL_COUNT)
-    expect(cadwellCoordinatesUnder(null, LEVEL_CATALOG).length).toBe(TOTAL_COUNT)
   })
 
-  test("narrows to a level, a zone and a single POI", () => {
-    const levelCount = FIRST_LEVEL.cadwellStops.length
-    const zoneCount = FIRST_LEVEL.cadwellStops.filter(
-      (s) => s.zoneIndex === FIRST_STOP.zoneIndex
-    ).length
+  test("takes a tier from the level's display order and an index from the stop", () => {
+    const [first] = cadwellCoordinates([FIRST_LEVEL])
+    if (first === undefined) throw new Error("fixture: coordinate missing")
 
-    expect(cadwellCoordinatesUnder([FIRST_LEVEL.displayOrder], LEVEL_CATALOG).length).toBe(
-      levelCount
-    )
-    expect(
-      cadwellCoordinatesUnder([FIRST_LEVEL.displayOrder, FIRST_STOP.zoneIndex], LEVEL_CATALOG)
-        .length
-    ).toBe(zoneCount)
-    expect(
-      cadwellCoordinatesUnder(
-        [FIRST_LEVEL.displayOrder, FIRST_STOP.zoneIndex, FIRST_STOP.stopIndex],
-        LEVEL_CATALOG
-      ).length
-    ).toBe(1)
-  })
-
-  test("yields nothing for a coordinate outside the catalog", () => {
-    expect(cadwellCoordinatesUnder([999], LEVEL_CATALOG).length).toBe(0)
-    expect(cadwellCoordinatesUnder([FIRST_LEVEL.displayOrder, 999], LEVEL_CATALOG).length).toBe(0)
+    expect(first.level).toBe(FIRST_LEVEL.displayOrder)
+    expect(first.zoneIndex).toBe(FIRST_STOP.zoneIndex)
+    expect(first.zoneName).toBe(FIRST_STOP.zoneName)
+    expect(first.poiIndex).toBe(FIRST_STOP.stopIndex)
+    expect(first.poiName).toBe(FIRST_STOP.poiName)
   })
 })
 
 describe("isCadwellCoordinateComplete", () => {
   test("resolves a catalog coordinate against a rotated almanac by name", () => {
-    const coordinate = cadwellCoordinatesUnder(
-      [FIRST_LEVEL.displayOrder, FIRST_STOP.zoneIndex, FIRST_STOP.stopIndex],
-      LEVEL_CATALOG
-    )[0]
+    const coordinate = cadwellCoordinates([FIRST_LEVEL]).find(
+      (c) => c.zoneIndex === FIRST_STOP.zoneIndex && c.poiIndex === FIRST_STOP.stopIndex
+    )
     if (coordinate === undefined) throw new Error("fixture: coordinate missing")
 
     for (let rotation = 0; rotation < LEVEL_CATALOG.length; rotation++) {
@@ -162,18 +143,15 @@ describe("isCadwellCoordinateComplete", () => {
   test("reports the undone POI incomplete and leaves its neighbours alone", () => {
     const undone = new Set([`${FIRST_STOP.zoneName} ${FIRST_STOP.poiName}`])
     const completion = completionOf(buildCadwell(1, undone))
+    const inFirstLevel = cadwellCoordinates([FIRST_LEVEL])
 
-    for (const coordinate of cadwellCoordinatesUnder(
-      [FIRST_LEVEL.displayOrder, FIRST_STOP.zoneIndex],
-      LEVEL_CATALOG
-    )) {
+    for (const coordinate of inFirstLevel.filter((c) => c.zoneIndex === FIRST_STOP.zoneIndex)) {
       expect(isCadwellCoordinateComplete(completion, coordinate)).toBe(
         coordinate.poiName !== FIRST_STOP.poiName
       )
     }
-    for (const coordinate of cadwellCoordinatesUnder(
-      [FIRST_LEVEL.displayOrder, SECOND_ZONE_STOP.zoneIndex],
-      LEVEL_CATALOG
+    for (const coordinate of inFirstLevel.filter(
+      (c) => c.zoneIndex === SECOND_ZONE_STOP.zoneIndex
     )) {
       expect(isCadwellCoordinateComplete(completion, coordinate)).toBe(true)
     }
