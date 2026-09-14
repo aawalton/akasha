@@ -10,7 +10,7 @@ export const trophiesBank = {
     "Deposits miscellaneous trophies (keys, key fragments, toys, dungeon buff ingredients, material upgraders) in the bank for safekeeping.",
   categoryId: "trophies",
   displayOrder: 33,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "hoard",
   destination: "bank",

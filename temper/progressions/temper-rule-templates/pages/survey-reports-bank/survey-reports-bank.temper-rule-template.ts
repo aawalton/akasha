@@ -10,7 +10,7 @@ export const surveyReportsBank = {
     "Stashes survey reports in the bank for later use. Survey reports lead to rich crafting material nodes.",
   categoryId: "survey-reports",
   displayOrder: 21,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "task",
   destination: "bank",

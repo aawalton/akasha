@@ -10,7 +10,7 @@ export const researchByPriority = {
     "Routes equipment with researchable traits to the character that needs them most. Characters are checked in priority order using TemperCharacters saved variable data for cross-character trait knowledge. The current character is checked first via the ESO API; others are checked via saved data.",
   categoryId: "equipment",
   displayOrder: 14,
-  action: "research",
+  action: "temper-item-action/research",
   active: false,
   goal: "unlock",
   destination: "character:by-priority",

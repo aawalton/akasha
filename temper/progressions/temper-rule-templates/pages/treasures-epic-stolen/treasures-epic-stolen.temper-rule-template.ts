@@ -10,7 +10,7 @@ export const treasuresEpicStolen = {
     "Launders stolen treasures of epic quality or higher. These are worth keeping — sell them legitimately or bank for later.",
   categoryId: "treasures",
   displayOrder: 30,
-  action: "fence-launder",
+  action: "temper-item-action/fence-launder",
   active: false,
   goal: "hoard",
   conditions: "jsonl",

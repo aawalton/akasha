@@ -10,7 +10,7 @@ export const companionEpicNothing = {
     "Prevents epic (purple) quality or higher companion equipment from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard your best companion gear.",
   categoryId: "companion",
   displayOrder: 4,
-  action: "nothing",
+  action: "temper-item-action/nothing",
   active: false,
   goal: "equip",
   conditions: "jsonl",

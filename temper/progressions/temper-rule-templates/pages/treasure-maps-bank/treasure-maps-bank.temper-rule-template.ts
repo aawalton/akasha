@@ -10,7 +10,7 @@ export const treasureMapsBank = {
     "Stashes treasure maps in the bank for later use. Treasure maps lead to chests with set gear.",
   categoryId: "treasure-maps",
   displayOrder: 22,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "task",
   destination: "bank",

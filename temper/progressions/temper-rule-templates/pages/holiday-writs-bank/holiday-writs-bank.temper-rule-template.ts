@@ -10,7 +10,7 @@ export const holidayWritsBank = {
     "Stashes holiday event writs in the bank. Complete them during events for bonus rewards.",
   categoryId: "holiday-writs",
   displayOrder: 19,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "task",
   destination: "bank",

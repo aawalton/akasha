@@ -10,7 +10,7 @@ export const craftedNothing = {
     "Prevents crafted equipment from being affected by lower-priority rules. Useful for keeping gear you've invested materials into.",
   categoryId: "equipment",
   displayOrder: 6,
-  action: "nothing",
+  action: "temper-item-action/nothing",
   active: false,
   goal: "equip",
   conditions: "jsonl",

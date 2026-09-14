@@ -10,7 +10,7 @@ export const allianceWarBank = {
     "Deposits Alliance War items (siege equipment, forward camps, repair kits, etc.) in the bank for safekeeping.",
   categoryId: "alliance-war",
   displayOrder: 34,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "hoard",
   destination: "bank",

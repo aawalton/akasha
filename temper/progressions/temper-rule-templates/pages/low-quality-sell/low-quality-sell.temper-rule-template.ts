@@ -10,7 +10,7 @@ export const lowQualitySell = {
     "Sells items of fine (green) quality or lower at a merchant. Higher-quality items are preserved for other rules. Place near the bottom — items caught by higher-priority rules are unaffected.",
   categoryId: "all",
   displayOrder: 46,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: false,
   goal: "sell",
   conditions: "jsonl",

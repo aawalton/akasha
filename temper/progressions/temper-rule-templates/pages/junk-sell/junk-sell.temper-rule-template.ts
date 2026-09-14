@@ -9,7 +9,7 @@ export const junkSell = {
   description: "Sells items in the junk category at a merchant.",
   categoryId: "junk",
   displayOrder: 37,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: false,
   goal: "sell",
 } as const satisfies TemperRuleTemplate

@@ -10,7 +10,7 @@ export const museumPiecesNothing = {
     "Prevents museum pieces from being affected by lower-priority rules. These are turn-in items for collections or achievements.",
   categoryId: "museum-pieces",
   displayOrder: 24,
-  action: "nothing",
+  action: "temper-item-action/nothing",
   active: false,
   goal: "task",
 } as const satisfies TemperRuleTemplate

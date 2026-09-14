@@ -10,7 +10,7 @@ export const goldStock = {
     "Keeps up to 1,000,000 gold on each character. Excess is deposited into the bank when visiting.",
   categoryId: "currency-gold",
   displayOrder: 0,
-  action: "stock",
+  action: "temper-item-action/stock",
   active: false,
   goal: "use",
   stockScope: "any-character",

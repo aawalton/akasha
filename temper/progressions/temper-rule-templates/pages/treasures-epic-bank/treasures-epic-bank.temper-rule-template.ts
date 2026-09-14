@@ -9,7 +9,7 @@ export const treasuresEpicBank = {
   description: "Banks epic quality or higher treasures for safekeeping or later sale.",
   categoryId: "treasures",
   displayOrder: 32,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "hoard",
   destination: "bank",

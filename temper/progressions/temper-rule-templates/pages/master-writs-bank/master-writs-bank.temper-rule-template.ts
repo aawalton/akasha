@@ -10,7 +10,7 @@ export const masterWritsBank = {
     "Stashes master writs in the bank. Master writs reward writ vouchers for high-end crafting station furnishings.",
   categoryId: "master-writs",
   displayOrder: 20,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "task",
   destination: "bank",

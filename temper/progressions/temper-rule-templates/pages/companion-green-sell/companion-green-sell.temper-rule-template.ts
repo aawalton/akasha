@@ -10,7 +10,7 @@ export const companionGreenSell = {
     "Sells companion equipment of superior (blue) quality or lower. Higher-quality companion gear is preserved.",
   categoryId: "companion",
   displayOrder: 38,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: false,
   goal: "sell",
   conditions: "jsonl",

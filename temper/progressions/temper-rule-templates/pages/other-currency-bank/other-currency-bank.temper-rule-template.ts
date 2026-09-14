@@ -10,7 +10,7 @@ export const otherCurrencyBank = {
     "Deposits alliance points, tel var stones, and writ vouchers into the bank when visiting.",
   categoryId: "currency",
   displayOrder: 1,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "hoard",
   destination: "bank",

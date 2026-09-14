@@ -10,7 +10,7 @@ export const tasksStolen = {
     "Launders stolen task-type items (writs, maps, etc.) so they can be completed or banked.",
   categoryId: "tasks",
   displayOrder: 18,
-  action: "fence-launder",
+  action: "temper-item-action/fence-launder",
   active: false,
   goal: "task",
   conditions: "jsonl",

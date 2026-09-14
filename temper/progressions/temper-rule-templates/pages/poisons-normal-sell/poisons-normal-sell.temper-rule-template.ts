@@ -10,7 +10,7 @@ export const poisonsNormalSell = {
     "Sells normal (white) quality non-crafted poisons. Crafted and higher-quality poisons are kept.",
   categoryId: "poisons",
   displayOrder: 43,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: false,
   goal: "sell",
   conditions: "jsonl",

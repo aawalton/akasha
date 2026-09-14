@@ -9,7 +9,7 @@ export const craftingStolen = {
   description: "Launders stolen crafting materials so they can be deposited or used.",
   categoryId: "crafting",
   displayOrder: 28,
-  action: "fence-launder",
+  action: "temper-item-action/fence-launder",
   active: false,
   goal: "hoard",
   conditions: "jsonl",

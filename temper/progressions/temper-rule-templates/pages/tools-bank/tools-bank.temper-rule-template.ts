@@ -9,7 +9,7 @@ export const toolsBank = {
   description: "Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping.",
   categoryId: "tools",
   displayOrder: 31,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "hoard",
   destination: "bank",

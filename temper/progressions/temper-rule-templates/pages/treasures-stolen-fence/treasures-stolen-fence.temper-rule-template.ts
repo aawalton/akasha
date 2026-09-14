@@ -10,7 +10,7 @@ export const treasuresStolenFence = {
     "Sells stolen treasures at a fence. Stolen treasures can't be sold to normal merchants.",
   categoryId: "treasures",
   displayOrder: 39,
-  action: "fence-sell",
+  action: "temper-item-action/fence-sell",
   active: false,
   goal: "sell",
   conditions: "jsonl",

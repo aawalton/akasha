@@ -10,7 +10,7 @@ export const reconstructedNothing = {
     "Prevents reconstructed equipment from being affected by lower-priority rules. Reconstructed gear costs transmute crystals and set collection knowledge.",
   categoryId: "equipment",
   displayOrder: 8,
-  action: "nothing",
+  action: "temper-item-action/nothing",
   active: false,
   goal: "equip",
   conditions: "jsonl",

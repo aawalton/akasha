@@ -10,7 +10,7 @@ export const researchStolen = {
     "Launders stolen equipment with a researchable trait so it can be submitted at a crafting station. Place before other research rules.",
   categoryId: "equipment",
   displayOrder: 13,
-  action: "fence-launder",
+  action: "temper-item-action/fence-launder",
   active: false,
   goal: "unlock",
   conditions: "jsonl",

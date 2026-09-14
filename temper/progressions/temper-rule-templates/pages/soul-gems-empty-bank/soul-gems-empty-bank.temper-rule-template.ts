@@ -10,7 +10,7 @@ export const soulGemsEmptyBank = {
     "Deposits empty (white quality) soul gems in the bank. Filled and crown soul gems are kept.",
   categoryId: "soul-gems",
   displayOrder: 23,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "task",
   destination: "bank",

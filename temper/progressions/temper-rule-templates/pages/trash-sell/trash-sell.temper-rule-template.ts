@@ -9,7 +9,7 @@ export const trashSell = {
   description: "Sells items categorized as trash. These have no crafting or collectible value.",
   categoryId: "trash",
   displayOrder: 36,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: false,
   goal: "sell",
 } as const satisfies TemperRuleTemplate

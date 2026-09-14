@@ -10,7 +10,7 @@ export const inspireCurrent = {
     "Routes equipment for deconstruction to the highest-priority character who hasn't fully leveled the corresponding crafting skill. If the current character benefits, the item is deconstructed locally; otherwise it's routed via the bank.",
   categoryId: "equipment",
   displayOrder: 17,
-  action: "deconstruct",
+  action: "temper-item-action/deconstruct",
   active: false,
   goal: "progress",
   destination: "character:by-priority",

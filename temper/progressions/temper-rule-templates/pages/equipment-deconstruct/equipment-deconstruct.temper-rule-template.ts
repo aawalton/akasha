@@ -10,7 +10,7 @@ export const equipmentDeconstruct = {
     "Deconstructs non-crafted equipment that wasn't caught by higher-priority rules. Place below equip, research, and inspire rules to only deconstruct what's left over.",
   categoryId: "equipment",
   displayOrder: 26,
-  action: "deconstruct",
+  action: "temper-item-action/deconstruct",
   active: false,
   goal: "hoard",
   conditions: "jsonl",

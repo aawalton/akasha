@@ -10,7 +10,7 @@ export const potionsNormalSell = {
     "Sells normal (white) quality non-crafted potions. Crafted and higher-quality potions are kept.",
   categoryId: "potions",
   displayOrder: 42,
-  action: "sell",
+  action: "temper-item-action/sell",
   active: false,
   goal: "sell",
   conditions: "jsonl",

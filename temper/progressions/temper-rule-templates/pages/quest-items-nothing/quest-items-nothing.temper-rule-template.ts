@@ -10,7 +10,7 @@ export const questItemsNothing = {
     "Prevents quest-related items from being affected by lower-priority rules. Keep them safe until the associated quest is completed.",
   categoryId: "quest-items",
   displayOrder: 25,
-  action: "nothing",
+  action: "temper-item-action/nothing",
   active: false,
   goal: "task",
 } as const satisfies TemperRuleTemplate

@@ -10,7 +10,7 @@ export const containersStackableBank = {
     "Deposits stackable containers (reward coffers, event boxes, etc.) in the bank. Open them later in bulk or save for events.",
   categoryId: "container-stackable",
   displayOrder: 2,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "hoard",
   destination: "bank",

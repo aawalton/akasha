@@ -10,7 +10,7 @@ export const furnishingsHouseStorage = {
     "Moves furnishings to the furniture vault (house storage) when visiting the bank. Keeps your backpack clear of bulky furniture items.",
   categoryId: "furnishings",
   displayOrder: 35,
-  action: "move-to",
+  action: "temper-item-action/move-to",
   active: false,
   goal: "hoard",
   destination: "furniture-vault",
