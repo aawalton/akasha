@@ -198,6 +198,22 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "A body going away is recorded as read by nobody.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing naming no agent records nothing as read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing is held to a reading the caller already has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the caller has no reading of is left out rather than made up.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An apply whose rows owe their readers no reading carries those readings onto the bodies applied.",
     },
