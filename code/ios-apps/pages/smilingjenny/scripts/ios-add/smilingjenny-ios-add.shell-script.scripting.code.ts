@@ -43,7 +43,9 @@ export function sharedIn(given: string | Reading): string {
   return dirname(dirname(shellOf(given, CONFIGURING)))
 }
 
-export function reachedIn(given: string | Reading): readonly string[] {
+type Reached = readonly [string, string, string, string, string]
+
+export function reachedIn(given: string | Reading): Reached {
   return [
     shellOf(given, CONFIGURING),
     appFileOf(given, CAPACITOR_CONFIG),
@@ -57,6 +59,7 @@ export function bodyIn(given: string | Reading): string {
   const here = hereIn(given)
   const held = packageIn(given)
   const shared = sharedIn(given)
+  const [config, capacitor, staging, entry, seam] = reachedIn(given)
   const lines = [
     "#!/usr/bin/env bash",
     "set -euo pipefail",
@@ -89,12 +92,12 @@ export function bodyIn(given: string | Reading): string {
     "  exit 1",
     "}",
     "",
-    `bash "$SHARED/${relative(shared, shellOf(given, CONFIGURING))}" \\`,
-    `  "$PACKAGE/${relative(held, appFileOf(given, CAPACITOR_CONFIG))}"`,
+    `bash "$SHARED/${relative(shared, config)}" \\`,
+    `  "$PACKAGE/${relative(held, capacitor)}"`,
     "# BEFORE the Capacitor call, which copies whatever stands in webDir into the native",
     "# project. Staged after, this run would ship the page the run before it left there.",
-    `bash "$SHARED/${relative(shared, shellOf(given, STAGING))}" \\`,
-    `  "$PACKAGE/${relative(held, appFileOf(given, WEB_ENTRY))}"`,
+    `bash "$SHARED/${relative(shared, staging)}" \\`,
+    `  "$PACKAGE/${relative(held, entry)}"`,
     "",
     "# Capacitor reads its config out of the folder it runs in and refuses a folder",
     "# holding no manifest, so it runs at the root above. The config written there names",
@@ -102,7 +105,7 @@ export function bodyIn(given: string | Reading): string {
     'cd "$TREE_ROOT"',
     '"$CAP" "$MODE" ios',
     'cd "$PACKAGE"',
-    `bash "$HERE/${relative(here, shellOf(given, SEAM))}"`,
+    `bash "$HERE/${relative(here, seam)}"`,
   ]
   return `${lines.join("\n")}\n`
 }
