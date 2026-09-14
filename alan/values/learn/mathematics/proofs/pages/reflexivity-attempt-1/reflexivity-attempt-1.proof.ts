@@ -5,7 +5,7 @@ export const reflexivityAttempt1 = {
   type: "proof",
   slug: "reflexivity-attempt-1",
   title: "⊢ A → A — Attempt 1",
-  proves: "reflexivity-of-implication",
+  proves: "proposition/reflexivity-of-implication",
   proofStatus: "draft",
   attempt: 1,
   derivation: "txt",
