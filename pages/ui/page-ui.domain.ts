@@ -21,7 +21,6 @@ export const pageUi = {
     "domain/page-ui-perf",
     "domain/page-ui-reorder-verbs",
     "domain/page-ui-supabase",
-    "domain/page-ui-tree",
     "module/navigation-context",
     "module/option-create-context",
     "module/use-user-id",
