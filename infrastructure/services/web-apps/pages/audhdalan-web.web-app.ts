@@ -9,6 +9,6 @@ export const audhdalanWeb = {
   buildCommand: "bun run build",
   basePort: 3100,
   secretResource: "audhdalan-secrets",
-  serviceClusters: ["audhdalan-web"],
+  serviceClusters: ["service-cluster/audhdalan-web"],
   hostnames: ["audhdalan.com"],
 } as const satisfies WebApp

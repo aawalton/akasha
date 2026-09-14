@@ -9,6 +9,6 @@ export const archiveOfWorldsWeb = {
   buildCommand: "bun run build",
   basePort: 3500,
   secretResource: "archive-of-worlds-secrets",
-  serviceClusters: ["archive-of-worlds-web"],
+  serviceClusters: ["service-cluster/archive-of-worlds-web"],
   hostnames: ["archiveofworlds.app"],
 } as const satisfies WebApp

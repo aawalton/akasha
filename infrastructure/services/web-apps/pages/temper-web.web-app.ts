@@ -9,6 +9,6 @@ export const temperWeb = {
   buildCommand: "bun run build",
   basePort: 3300,
   secretResource: "temper-secrets",
-  serviceClusters: ["temper-web"],
+  serviceClusters: ["service-cluster/temper-web"],
   hostnames: ["tempereso.com", "www.tempereso.com"],
 } as const satisfies WebApp
