@@ -12,6 +12,7 @@ export const storyPlayed = {
     "file-property/prose",
     "module/game-beside",
     "module/played-rows",
+    "module/prose-beside",
     "relation-property/world",
   ],
   properties: [
