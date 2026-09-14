@@ -9,23 +9,23 @@ export const assignmentSlug = {
   members: ["relation-property/page-domain", "relation-property/initiative"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An assignment naming no page type is looked for under both members.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A person and a persona each extend a domain.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No member of this property admits plain text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A misspelled assignment is refused rather than kept as text.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A subagent may name an assignment that is no page.",
     },
   ],

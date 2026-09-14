@@ -9,15 +9,15 @@ export const carriedEffect = {
   members: ["record-property/nested-effect", "relation-property/special-effect"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An effect that delays or repeats carries its inner effect here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An effect naming a special act names that act here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which of the two an effect carries follows from the kind that effect names.",
     },
   ],

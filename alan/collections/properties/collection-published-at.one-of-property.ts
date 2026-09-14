@@ -9,7 +9,7 @@ export const collectionPublishedAt = {
   members: ["calendar-date-property/published-day", "instant-property/published-at"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A release known only to the day is written as a day rather than as midnight.",
     },
   ],

@@ -9,52 +9,52 @@ export const properties = {
   members: ["record-property/many-declaration", "record-property/single-declaration"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type declares the properties the page type adds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type takes the rest from the type the page type extends.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Optional becomes required.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A length only falls.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A unique kind only narrows.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A declaration stating no unique kind takes the kind its property states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whether a property is carried once or many times never changes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The shape a property has belongs to the property.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How a property is carried belongs here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which member a declaration is read as is told by the one field parting them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A value is committed unless the declaration with that value says that value is not.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value is open unless the declaration with that value says that value is not.",
     },
   ],
