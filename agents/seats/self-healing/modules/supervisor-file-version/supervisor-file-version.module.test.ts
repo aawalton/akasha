@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   CEILING_MS,
@@ -104,18 +104,21 @@ test("a root that is not there names no package rather than throwing", () => {
   expect(workspaceNaming(root).size).toBe(0)
 })
 
-test("a package is named by the exports its manifest states", () => {
+test("the one package is named by the exports the root manifest states", () => {
   const root = scratch.rootFor("supervisor-file-version-")
-  writeFileSync(join(root, "package.json"), '{"name":"root","workspaces":["**"]}')
-  mkdirSync(join(root, "one", "deep"), { recursive: true })
   writeFileSync(
-    join(root, "one", "package.json"),
-    '{"name":"@akasha/one","exports":{".":"./one.ts","./deep":"./deep/deep.ts"}}'
+    join(root, "package.json"),
+    '{"name":"akasha","workspaces":["**"],"exports":{".":"./one.ts","./*":"./*"}}'
   )
   const naming = workspaceNaming(root)
-  expect(naming.get("@akasha/one")).toBe(join(root, "one", "one.ts"))
-  expect(naming.get("@akasha/one/deep")).toBe(join(root, "one", "deep", "deep.ts"))
-  expect(naming.get("@akasha/one/absent")).toBeUndefined()
+  expect(naming.get("akasha")).toBe(join(root, "one.ts"))
+  expect(naming.get("akasha/*")).toBe(join(root, "*"))
+  expect(naming.get("akasha/deep")).toBeUndefined()
+})
+
+test("a specifier the root package answers by a star lands under the root", () => {
+  const naming: ReadonlyMap<string, string> = new Map([["akasha/*", "/r/*"]])
+  expect(landsAt("/a/entry.ts", "akasha/deep/deep.ts", naming)).toBe("/r/deep/deep.ts")
 })
 
 test("a file that cannot be read still changes the hash", async () => {

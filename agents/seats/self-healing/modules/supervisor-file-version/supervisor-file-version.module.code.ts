@@ -1,11 +1,10 @@
 import { dirname, join, normalize } from "node:path"
 import { AGENT_SETTINGS_PATH } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
-import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/modules/workspace-dirs/workspace-dirs.module.code.ts"
-import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import {
-  reachesIn,
-  reachingOver,
-} from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
+  landingOf,
+  type Naming,
+} from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
+import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 
 const SPECIFIER = /from\s+"([^"]*)"/g
@@ -54,19 +53,8 @@ export function workspaceNaming(
   root: string,
   read: (path: string) => string | null = textThere
 ): Naming {
-  let dirs: readonly string[]
-  try {
-    dirs = listWorkspaceDirs(root)
-  } catch {
-    return NAMING_NONE
-  }
-  const found: ReadonlyMap<string, string>[] = []
-  for (const dir of dirs) {
-    const at = join(root, dir)
-    const text = read(join(at, MANIFEST))
-    if (text !== null) found.push(reachesIn(at, text))
-  }
-  return reachingOver(found)
+  const text = read(join(root, MANIFEST))
+  return text === null ? NAMING_NONE : reachesIn(root, text)
 }
 
 let heldNaming: { readonly root: string; readonly said: Naming } | null = null
@@ -82,8 +70,8 @@ function namingFrom(entry: string): Naming {
 
 export function landsAt(here: string, specifier: string, naming: Naming): string | null {
   if (specifier.startsWith(".")) return normalize(join(dirname(here), specifier))
-  const named = naming.get(specifier)
-  return named === undefined ? null : normalize(named)
+  const named = landingOf(here, specifier, naming)
+  return named === null ? null : normalize(named)
 }
 
 export function importGraph(
