@@ -1,4 +1,4 @@
-import { reasonsOver } from "akasha/checks/code-checks/pages/no-class/no-class.code-check.decision.code.ts"
+import { found } from "akasha/checks/code-checks/pages/no-class/no-class.code-check.decision.code.ts"
 import {
   founded,
   typed,
@@ -7,7 +7,6 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
@@ -15,8 +14,6 @@ import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 const KIND = "lua-runtime-library"
 
 const LIBRARY_ID = "01a08842-4c6b-7c0e-9d1a-6a2a1c5ee2d1"
-
-export const ROOT = "/repo"
 
 export const LIBRARY = "design/language/lua-compiler/lualib/"
 
@@ -27,9 +24,9 @@ export const AT = "akasha/held.ts"
 export const DERIVED =
   "  static getDerivedStateFromError(error: Error) {\n    return { error }\n  }\n"
 
-export const given = bodiesIn(ROOT)
-
-export const reasonsIn = reasonsOver([LIBRARY])
+export function reasonsIn(path: string, text: string): readonly string[] {
+  return found([LIBRARY], path, text)
+}
 
 export const scratch = scratchWorld()
 

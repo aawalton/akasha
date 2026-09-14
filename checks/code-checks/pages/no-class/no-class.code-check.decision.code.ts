@@ -1,9 +1,5 @@
 import { dirname } from "node:path"
 import {
-  type Body,
-  overEachText,
-} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import {
   lineOf,
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
@@ -117,10 +113,6 @@ export function found(under: readonly string[], path: string, text: string): rea
   return classesIn(path, text)
     .filter((one) => !permitted(one))
     .map(reasonFor)
-}
-
-export function reasonsOver(under: readonly string[]): (given: Body) => readonly string[] {
-  return overEachText((path, text) => found(under, path, text))
 }
 
 const LIBRARIES = new WeakMap<Shadow, readonly string[]>()
