@@ -36,7 +36,6 @@ export const iosApp = {
     "text-property/display-name",
     "text-property/mac-build-lock-dir",
     "text-property/mac-build-number-file",
-    "text-property/mac-www-staging-rel",
     "text-property/marketing-version",
     "text-property/native-shell-repo-path",
     "text-property/web-env-path",
@@ -63,7 +62,6 @@ export const iosApp = {
     { pageProperty: "file-property/icon-drawing", required: false, many: false },
     { pageProperty: "text-property/mac-build-lock-dir", required: false, many: false },
     { pageProperty: "text-property/mac-build-number-file", required: false, many: false },
-    { pageProperty: "text-property/mac-www-staging-rel", required: false, many: false },
     { pageProperty: "text-property/marketing-version", required: true, many: false },
     { pageProperty: "text-property/native-shell-repo-path", required: false, many: false },
     {

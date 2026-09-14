@@ -11,7 +11,6 @@ import type { GitIgnore } from "akasha/code/ios-apps/properties/git-ignore.file-
 import type { IconDrawing } from "akasha/code/ios-apps/properties/icon-drawing.file-property.types.ts"
 import type { MacBuildLockDir } from "akasha/code/ios-apps/properties/mac-build-lock-dir.text-property.types.ts"
 import type { MacBuildNumberFile } from "akasha/code/ios-apps/properties/mac-build-number-file.text-property.types.ts"
-import type { MacWwwStagingRel } from "akasha/code/ios-apps/properties/mac-www-staging-rel.text-property.types.ts"
 import type { MarketingVersion } from "akasha/code/ios-apps/properties/marketing-version.text-property.types.ts"
 import type { NativeShellRepoPath } from "akasha/code/ios-apps/properties/native-shell-repo-path.text-property.types.ts"
 import type { Programs } from "akasha/code/ios-apps/properties/programs.relation-property.types.ts"
@@ -40,7 +39,6 @@ export type IosApp = Domain &
     iconDrawing?: IconDrawing
     macBuildLockDir?: MacBuildLockDir
     macBuildNumberFile?: MacBuildNumberFile
-    macWwwStagingRel?: MacWwwStagingRel
     marketingVersion: MarketingVersion
     nativeShellRepoPath?: NativeShellRepoPath
     programs?: Programs
