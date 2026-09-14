@@ -1,4 +1,3 @@
-import { overEachText } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   lineOf,
   parsedAs,
@@ -87,5 +86,3 @@ function reasonFor(one: Found): string {
 export function refusalsIn(path: string, text: string): readonly string[] {
   return reExportsIn(path, text).map(reasonFor)
 }
-
-export const reasonsIn = overEachText(refusalsIn)

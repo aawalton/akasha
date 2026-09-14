@@ -1,21 +1,13 @@
-import type { Body } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { bodyFrom } from "akasha/checks/modules/judged-body/judged-body.module.code.ts"
 import { founded } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
-
-export const ROOT = "/repo"
 
 export const AT = "akasha/held.ts"
 
 export const SENT = 'export { a } from "./b.ts"\n'
 
 export const scratch = scratchWorld()
-
-export function given(at: string, body: string): Body {
-  return bodyFrom(ROOT, at, body)
-}
 
 export function rooted(
   files: Readonly<Record<string, string>>,
