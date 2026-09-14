@@ -26,7 +26,6 @@ export const persona = {
     "module/framework",
     "module/git-byte-pathspecs",
     "module/green-day-fraction",
-    "module/image-name",
     "module/last-messaged",
     "module/persona-page-conditions",
     "module/persona-reading",
