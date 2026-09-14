@@ -19,10 +19,6 @@ export const indexListing = {
     },
     {
       invariantKind: "departure",
-      statement: "Which paths a page claims is worked out here for whatever files them.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page is filed here only when the page has an id.",
     },
     {

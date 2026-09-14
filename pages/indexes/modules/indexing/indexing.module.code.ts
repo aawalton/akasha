@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
-import { claimingIn, listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
+import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   fileKeysIn,
   filePropertiesIn,
@@ -25,6 +25,7 @@ import {
   reachingBuilt,
 } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import {
+  claimingIn,
   sidecarsIn,
   under,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"

@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import type {
   FilePropertiesBy,
@@ -383,4 +384,59 @@ export function claimantOf(
     const up = dirname(folder)
     folder = up === "." ? "" : up
   }
+}
+
+export function pageClaimsOf(
+  value: Value,
+  path: string,
+  repo: string,
+  fileProperties: FilePropertiesBy,
+  sidecars: SidecarsBy,
+  withheld?: UncommittedBy,
+  there?: IsThere,
+  folders?: FoldersBy
+): readonly string[] {
+  const id = textAt(value, "id")
+  const slug = textAt(value, "slug")
+  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  if (id === null || slug === null || pageTypeSlug === null) return []
+  return claimsOf(value, path, repo, fileProperties, sidecars, withheld, there, folders)
+}
+
+export type Bodied = {
+  readonly before: string | null
+  readonly after: string | null
+}
+
+export type Claiming = (value: Value, path: string, was: boolean) => readonly string[]
+
+const NO_BODIES: ReadonlyMap<string, Bodied> = new Map()
+
+function thereIn(repo: string, carried: ReadonlyMap<string, Bodied>, was: boolean): IsThere {
+  return (at) => {
+    const held = carried.get(at)
+    if (held === undefined) return existsSync(join(repo, at))
+    return (was ? held.before : held.after) !== null
+  }
+}
+
+export function claimingIn(
+  repo: string,
+  fileProperties: FilePropertiesBy,
+  sidecars: SidecarsBy,
+  withheld?: UncommittedBy,
+  folders?: FoldersBy,
+  carried: ReadonlyMap<string, Bodied> = NO_BODIES
+): Claiming {
+  return (value, path, was) =>
+    pageClaimsOf(
+      value,
+      path,
+      repo,
+      fileProperties,
+      sidecars,
+      withheld,
+      thereIn(repo, carried, was),
+      folders
+    )
 }

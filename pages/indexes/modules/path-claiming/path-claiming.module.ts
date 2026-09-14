@@ -10,6 +10,10 @@ export const pathClaiming = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "Which paths a page claims is worked out here for whatever files them.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page states its own path and the file each file property of the page names.",
     },
     {
