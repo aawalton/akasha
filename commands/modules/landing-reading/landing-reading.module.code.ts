@@ -28,8 +28,6 @@ export function recordLanded(given: Given, changes: readonly FileChange[]): unde
   }
 }
 
-export const NO_OWING: ReadonlyMap<string, boolean> = new Map()
-
 export function carryLanded(
   root: string,
   base: string,

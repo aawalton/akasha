@@ -10,10 +10,7 @@ import type { FileChange } from "akasha/changes/modules/answer/change-answer.mod
 import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { runningOf } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import {
-  carryLanded,
-  NO_OWING,
-} from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
+import { carryLanded } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import {
   AGENT,
@@ -22,6 +19,8 @@ import {
 } from "akasha/testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
+
+const NO_OWING: ReadonlyMap<string, boolean> = new Map()
 
 const ONE_AT = "akasha/one.ts"
 
