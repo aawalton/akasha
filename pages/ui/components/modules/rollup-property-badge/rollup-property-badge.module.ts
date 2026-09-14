@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const rollupPropertyBadge = {
-  id: "01a0620f-82c5-7012-be62-d0c86350a75a",
-  type: "module",
-  slug: "rollup-property-badge",
-  definition: "The badge for a rollup property, showing what it gathered from related pages.",
-  code: "tsx",
-} as const satisfies Module
