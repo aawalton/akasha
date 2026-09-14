@@ -22,14 +22,8 @@ export const BACKOFF_CEILING_MS = 4_000
 
 const ORIGIN_NAMES = ["PAGE_STORE_ORIGIN", "PAGE_QUERY_ORIGIN"]
 
-let chosen: Fetcher | null = null
-
-export function fetchThrough(fetcher: Fetcher | null): undefined {
-  chosen = fetcher
-}
-
 export function pagesFetcher(): Fetcher {
-  return chosen ?? (fetch as Fetcher)
+  return fetch as Fetcher
 }
 
 export const sleep: Sleeper = (ms) =>

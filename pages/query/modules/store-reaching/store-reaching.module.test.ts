@@ -4,9 +4,7 @@ import {
   BACKOFF_CEILING_MS,
   backoffFor,
   type Fetcher,
-  fetchThrough,
   pageStoreOrigin,
-  pagesFetcher,
   postingTo,
   worthRetrying,
 } from "akasha/pages/query/modules/store-reaching/store-reaching.module.code.ts"
@@ -35,14 +33,6 @@ test("the origin is read from the environment before anything else", () => {
   expect(pageStoreOrigin()).toBe("http://127.0.0.1:8787")
   if (held === undefined) delete process.env.PAGE_STORE_ORIGIN
   else process.env.PAGE_STORE_ORIGIN = held
-})
-
-test("a caller may put its own fetcher in place of the global one", () => {
-  const mine: Fetcher = async () => new Response("{}")
-  fetchThrough(mine)
-  expect(pagesFetcher()).toBe(mine)
-  fetchThrough(null)
-  expect(pagesFetcher()).not.toBe(mine)
 })
 
 test("a body the store answers with is given back", async () => {
