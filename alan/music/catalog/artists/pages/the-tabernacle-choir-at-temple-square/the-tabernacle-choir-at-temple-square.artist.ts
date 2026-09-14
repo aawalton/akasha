@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquare = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "in-progress",
   rank: "B",
   externalIdentity: [

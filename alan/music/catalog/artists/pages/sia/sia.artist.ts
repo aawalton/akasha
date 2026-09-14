@@ -9,7 +9,7 @@ export const sia = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "following",
   genre: ["pop", "electropop", "dance-pop", "indie pop", "alternative pop", "art pop"],
   rank: "S-",

@@ -5,7 +5,7 @@ export const evynneHollens = {
   type: "artist",
   slug: "evynne-hollens",
   title: "Evynne Hollens",
-  unit: "minutes",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "musicbrainz",

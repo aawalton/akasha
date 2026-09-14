@@ -9,7 +9,7 @@ export const thePianoGuys = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "following",
   rank: "A",
   externalIdentity: [

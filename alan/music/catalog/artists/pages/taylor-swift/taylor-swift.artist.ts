@@ -9,7 +9,7 @@ export const taylorSwift = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "following",
   genre: [
     "pop",

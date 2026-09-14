@@ -9,7 +9,7 @@ export const braveSingle = {
   position: 0,
   ownLength: 847.475,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   publishedAt: "2013-10-24",
   externalIdentity: [

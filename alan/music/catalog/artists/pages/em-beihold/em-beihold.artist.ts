@@ -9,7 +9,7 @@ export const emBeihold = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "following",
   genre: ["pop", "singer-songwriter", "teen pop"],
   rank: "S-",
