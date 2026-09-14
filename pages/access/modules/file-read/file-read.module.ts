@@ -33,6 +33,14 @@ export const fileRead = {
     },
     {
       invariantKind: "departure",
+      statement: "A limit takes rows out of that ordering rather than asking the pages for fewer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A limit therefore bounds the rows a reader is handed and not the bytes read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A cursor marks where a listing left off in that order.",
     },
     {
