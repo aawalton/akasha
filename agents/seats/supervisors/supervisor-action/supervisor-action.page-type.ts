@@ -5,7 +5,7 @@ export const supervisorAction = {
   type: "page-type",
   slug: "supervisor-action",
   definition: "one thing a supervisor can be asked to do",
-  pluralSlug: "supervisor-actions",
+
   parts: [
     "module/seat-action",
     "module/seat-control",

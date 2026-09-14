@@ -1,10 +1,10 @@
 import { triggerProxySwap } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
-import { buildAgentActionSubsystem } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
+import { buildAgentActionSubsystem } from "akasha/agents/seats/supervisors/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
 import {
   clearRequestedAction,
   consumeThenProxySwap,
-} from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
-import type { PendingAgentAction } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+import type { PendingAgentAction } from "akasha/agents/seats/supervisors/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import type { InteractiveSessionBoot } from "akasha/agents/seats/supervisors/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LIVE_IDLE_RULE } from "akasha/agents/seats/supervisors/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"

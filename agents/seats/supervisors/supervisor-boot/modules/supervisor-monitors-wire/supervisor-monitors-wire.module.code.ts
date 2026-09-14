@@ -8,7 +8,7 @@ import {
   SELF_HEAL_STATE,
   SUPERVISOR_SCRIPT,
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { pollAgentAction } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
+import { pollAgentAction } from "akasha/agents/seats/supervisors/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getAgentActionHandler,

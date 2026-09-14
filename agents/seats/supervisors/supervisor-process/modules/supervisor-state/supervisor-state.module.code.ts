@@ -1,6 +1,6 @@
 import type { SupervisorOAuthProxyHandle } from "akasha/agents/seats/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import type { SupervisorHandoff } from "akasha/agents/seats/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import type { AgentActionSubsystem } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
+import type { AgentActionSubsystem } from "akasha/agents/seats/supervisors/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import type { ChildExitClassification } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { LogSink } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import type { AgentProcess } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
