@@ -76,7 +76,16 @@ function newestPerPath(root: string): readonly (readonly [string, Wrote])[] {
   return [...found].sort((one, two) => two[1].atMs - one[1].atMs)
 }
 
-const heldPerRoot = new Map<string, ReadonlyMap<string, SeatInHistory>>()
+interface HeldReading {
+  readonly onCommit: string
+  readonly found: ReadonlyMap<string, SeatInHistory>
+}
+
+const heldPerRoot = new Map<string, HeldReading>()
+
+function commitOn(root: string): string {
+  return gitAt(root, ["rev-parse", "HEAD"])?.trim() ?? ""
+}
 
 function walkForSeats(root: string): ReadonlyMap<string, SeatInHistory> {
   const byId = new Map<string, SeatInHistory>()
@@ -92,10 +101,11 @@ function walkForSeats(root: string): ReadonlyMap<string, SeatInHistory> {
 }
 
 function seatsInHistory(root: string): ReadonlyMap<string, SeatInHistory> {
+  const onCommit = commitOn(root)
   const held = heldPerRoot.get(root)
-  if (held !== undefined) return held
+  if (held !== undefined && held.onCommit === onCommit) return held.found
   const found = walkForSeats(root)
-  heldPerRoot.set(root, found)
+  heldPerRoot.set(root, { onCommit, found })
   return found
 }
 

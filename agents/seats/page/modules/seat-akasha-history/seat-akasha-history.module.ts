@@ -26,7 +26,7 @@ export const seatAkashaHistory = {
     },
     {
       invariantKind: "departure",
-      statement: "The history is read once for a root and held until that history is dropped.",
+      statement: "A reading of a root's history is held only while that history has not moved.",
     },
     {
       invariantKind: "constraint",
@@ -55,6 +55,10 @@ export const seatAkashaHistory = {
     {
       invariantKind: "departure",
       statement: "Where more than one path could answer a seat's name, the newest path answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root's history has moved where the commit that root is on has changed.",
     },
   ],
 } as const satisfies Module
