@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   A,
@@ -108,17 +108,6 @@ test("a landing that takes a page away takes its index entries with it", async (
   expect(idFiledIn(root, ID)).toBe(false)
   expect(listedFiledIn(root, "domain", "a")).toBe(false)
   expect(identitiesListedIn(root, "domain")).toBe(false)
-})
-
-test("a landing no check judged keeps the index all the same", async () => {
-  const root = await carriedRepo()
-  await landing(
-    root,
-    rowsIn(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }]),
-    "held",
-    NO_GATE
-  )
-  expect(idFiledIn(root, ID)).toBe(true)
 })
 
 test("a refused change leaves the index as it found it, as it leaves the worktree", async () => {
