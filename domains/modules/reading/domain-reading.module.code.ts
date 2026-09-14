@@ -1,6 +1,5 @@
 import {
   everyOfType,
-  everyPath,
   readingIn,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
@@ -43,7 +42,6 @@ const byRoot = new Map<string, readonly DomainRead[]>()
 export function domainsRead(root: string): readonly DomainRead[] {
   const done = byRoot.get(root)
   if (done !== undefined) return done
-  everyPath(root)
   const read = heldIn(root)
   byRoot.set(root, read)
   return read
