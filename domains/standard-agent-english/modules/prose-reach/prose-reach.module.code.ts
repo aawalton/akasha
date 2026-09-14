@@ -1,29 +1,8 @@
 import {
-  readingIn,
-  valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import {
-  textAt,
-  type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import {
   type Carried,
-  carriedFrom,
-  pageAt,
   propertiesIfNamed,
   type Source,
-  sourceIn,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
-
-const PROSE = "standard-agent-english-property"
-
-const RECORD = "record-property"
-
-const PAGE_TYPE = "page-type"
-
-type Read = ReturnType<typeof readingIn>
 
 export type ProseAt = {
   readonly key: string
@@ -35,19 +14,6 @@ export type Reach = {
   readonly record: ReadonlySet<string>
   readonly source: Source
   readonly fieldsOf: (one: Carried) => readonly Carried[]
-}
-
-function reachIn(given: string | Read, pageOf: (path: string) => Value | null): Reach {
-  const source = sourceIn(given, pageOf)
-  return {
-    prose: kindsUnder(PROSE, given),
-    record: kindsUnder(RECORD, given),
-    source,
-    fieldsOf: (one) => {
-      const value = pageAt(given, one.pageTypeSlug, one.pagePropertySlug, pageOf)
-      return value === null ? [] : carriedFrom(value, source, one.pagePropertySlug)
-    },
-  }
 }
 
 function atOf(route: readonly string[], key: string): ProseAt {
@@ -81,26 +47,4 @@ export function proseFrom(pageTypeSlug: string, reach: Reach): readonly ProseAt[
   const carried = propertiesIfNamed(pageTypeSlug, reach.source)
   if (carried === null) return []
   return proseAmong(carried, [], new Set(), reach)
-}
-
-export function proseUnder(root: string): ReadonlyMap<string, readonly ProseAt[]> {
-  const reading = readingIn(root)
-  const pageOf = (path: string): Value | null => {
-    try {
-      return valueAt(path, root)
-    } catch {
-      return null
-    }
-  }
-  const reach = reachIn(reading, pageOf)
-  const found = new Map<string, readonly ProseAt[]>()
-  for (const kind of kindsUnder(PAGE_TYPE, reading)) {
-    for (const one of valuesOfType(reading, kind)) {
-      const slug = textAt(one.value, "slug")
-      if (slug === null) continue
-      const at = proseFrom(slug, reach)
-      if (at.length > 0) found.set(slug, at)
-    }
-  }
-  return found
 }
