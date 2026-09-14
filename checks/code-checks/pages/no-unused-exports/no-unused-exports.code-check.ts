@@ -285,6 +285,11 @@ export const noUnusedExports = {
       statement:
         "The `generateTypes` and `couldTurn` a type generator exports are reached by landing.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The `CI_TOOLCHAIN_URLS` the toolchain manifest exports is reached by the provisioning script.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },

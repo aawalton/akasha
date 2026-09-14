@@ -142,6 +142,7 @@ const BY_SLUG: ReadonlyMap<string, ReadonlySet<string>> = new Map([
   ["nutrition-points", new Set(["rollupNutritionForDay"])],
   ["run-serving", new Set(["serving"])],
   ["state-writing", new Set(["statesLanded"])],
+  ["toolchain-manifest", new Set(["CI_TOOLCHAIN_URLS"])],
 ])
 
 const NOTHING: ReadonlySet<string> = new Set()
