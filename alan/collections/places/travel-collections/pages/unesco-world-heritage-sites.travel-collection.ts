@@ -5,7 +5,7 @@ export const unescoWorldHeritageSites = {
   type: "travel-collection",
   slug: "unesco-world-heritage-sites",
   title: "UNESCO World Heritage Sites",
-  partOfCollections: ["travel"],
+  partOfCollections: ["travel-collection/travel"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

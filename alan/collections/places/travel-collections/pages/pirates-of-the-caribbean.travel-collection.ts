@@ -5,7 +5,7 @@ export const piratesOfTheCaribbean = {
   type: "travel-collection",
   slug: "pirates-of-the-caribbean",
   title: "Pirates of the Caribbean",
-  partOfCollections: ["pirates-of-the-caribbean-2"],
+  partOfCollections: ["fandom/pirates-of-the-caribbean-2"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

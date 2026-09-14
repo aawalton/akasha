@@ -5,7 +5,7 @@ export const utahCities = {
   type: "travel-collection",
   slug: "utah-cities",
   title: "Utah Cities",
-  partOfCollections: ["travel"],
+  partOfCollections: ["travel-collection/travel"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

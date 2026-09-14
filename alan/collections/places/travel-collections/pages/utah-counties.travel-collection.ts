@@ -5,7 +5,7 @@ export const utahCounties = {
   type: "travel-collection",
   slug: "utah-counties",
   title: "Utah Counties",
-  partOfCollections: ["travel"],
+  partOfCollections: ["travel-collection/travel"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

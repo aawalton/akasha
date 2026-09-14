@@ -5,7 +5,7 @@ export const utahStateParks = {
   type: "travel-collection",
   slug: "utah-state-parks",
   title: "Utah State Parks",
-  partOfCollections: ["travel"],
+  partOfCollections: ["travel-collection/travel"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
