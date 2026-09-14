@@ -5,7 +5,7 @@ export const problems201300 = {
   type: "achievement",
   slug: "problems-201-300",
   title: "Problems 201-300",
-  partOfCollections: ["project-euler"],
+  partOfCollections: ["achievement/project-euler"],
   position: 3,
   ownLength: 1375000,
   ownProgress: 0,

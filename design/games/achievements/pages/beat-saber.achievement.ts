@@ -5,7 +5,7 @@ export const beatSaber = {
   type: "achievement",
   slug: "beat-saber",
   title: "Beat Saber",
-  partOfCollections: ["game-achievements"],
+  partOfCollections: ["achievement/game-achievements"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,
