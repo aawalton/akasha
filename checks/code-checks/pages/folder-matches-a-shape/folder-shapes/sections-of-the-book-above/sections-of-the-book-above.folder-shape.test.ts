@@ -26,7 +26,7 @@ function over(said: Over): (names: readonly string[]) => Standing {
     fileProperties: FILE_PROPERTIES,
     extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
     holds: said.holds ?? ((at) => (at === ABOVE ? [`alan-book/${BOOK}`] : [])),
-    partOf: said.partOf ?? ((): readonly string[] => [BOOK]),
+    partOf: said.partOf ?? ((): readonly string[] => [`alan-book/${BOOK}`]),
     deep: said.deep ?? [],
   })
 }
@@ -67,10 +67,12 @@ test("a page that is no book section is refused", () => {
 })
 
 test("a section naming another book is refused", () => {
-  const held = over({ partOf: (page) => (page.slug === "two" ? ["my-math"] : [BOOK]) })
+  const held = over({
+    partOf: (page) => (page.slug === "two" ? ["alan-book/my-math"] : [`alan-book/${BOOK}`]),
+  })
   const said = sectionsOfTheBookAbove(held(["one.book-section.ts", "two.book-section.ts"]))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain(`\`${BOOK}\``)
+  expect(said[0]).toContain(`\`alan-book/${BOOK}\``)
   expect(said[0]).toContain("two.book-section.ts")
 })
 

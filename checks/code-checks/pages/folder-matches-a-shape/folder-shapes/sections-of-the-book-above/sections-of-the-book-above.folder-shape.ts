@@ -28,6 +28,10 @@ export const sectionsOfTheBookAbove = {
     },
     {
       invariantKind: "departure",
+      statement: "A section names the book above by that book's page type and slug together.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A section has its prose in a file beside the section rather than in a folder.",
     },
     {
