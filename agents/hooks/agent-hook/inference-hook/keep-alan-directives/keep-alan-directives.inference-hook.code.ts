@@ -45,6 +45,7 @@ import {
   valuedAt,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const HOOK = "keep-alan-directives"
 
@@ -170,7 +171,7 @@ export function personIn(listed: readonly Valued[], agent: string): string | nul
   for (const one of listed) {
     if (one.value[ID] !== agent) continue
     const held = one.value[PERSON]
-    return typeof held === "string" && held !== "" ? held : null
+    return typeof held === "string" && held !== "" ? slugOf(held) : null
   }
   return null
 }

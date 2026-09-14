@@ -18,7 +18,7 @@ import type {
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 
 const SEATS: readonly Valued[] = [
-  { path: "one.seat.ts", value: { id: "a", person: "alan" } },
+  { path: "one.seat.ts", value: { id: "a", person: "person/alan" } },
   { path: "two.seat.ts", value: { id: "b" } },
   { path: "three.seat.ts", value: { id: "c", person: "" } },
 ]
