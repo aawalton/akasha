@@ -99,4 +99,5 @@ export const copyPropertyOnEveryPage = {
   ],
   changeKind: "change-checked",
   maxCpuSeconds: 120,
+  maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

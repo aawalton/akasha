@@ -70,4 +70,5 @@ export const sortPropertyValuesOnEveryPage = {
   ],
   changeKind: "change-checked",
   maxCpuSeconds: 120,
+  maxMemoryMb: 3072,
 } as const satisfies ChangeAgent
