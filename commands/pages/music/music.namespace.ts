@@ -20,6 +20,7 @@ export const music = {
     "command/music-search",
     "command/music-seek",
     "command/music-skip",
+    "command/music-volume",
     "module/device-option",
   ],
   name: "music",
