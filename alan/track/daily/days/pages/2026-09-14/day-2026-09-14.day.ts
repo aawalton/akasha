@@ -10,10 +10,10 @@ export const day20260914 = {
   activeCalories: 22.151000000000003,
   wisdomWords: 0,
   intelligenceTopics: 0,
-  inboxTasks: 12,
+  inboxTasks: 11,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 15,
   inboxTemperTasksClearedToday: false,
-  lowestEmailInboxCount: 0,
   sessions: "jsonl",
+  lowestEmailInboxCount: 0,
 } as const satisfies Day
