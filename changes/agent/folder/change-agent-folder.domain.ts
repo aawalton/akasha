@@ -5,11 +5,5 @@ export const changeAgentFolder = {
   type: "domain",
   slug: "change-agent-folder",
   definition: "a change an agent reaches acting on a folder and everything under it",
-  parts: [
-    "change-agent/move-folder",
-    "change-agent/move-folder-package",
-    "change-agent/nest-modules",
-    "change-agent/remove-folder",
-    "change-agent/remove-folder-package",
-  ],
+  parts: ["change-agent/move-folder", "change-agent/nest-modules", "change-agent/remove-folder"],
 } as const satisfies Domain

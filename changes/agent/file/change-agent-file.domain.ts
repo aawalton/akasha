@@ -14,7 +14,6 @@ export const changeAgentFile = {
     "change-agent/move-page",
     "change-agent/move-pages",
     "change-agent/remove-file",
-    "change-agent/remove-package-manifest",
     "change-agent/remove-page",
     "change-agent/remove-page-type",
     "change-agent/rename-page",

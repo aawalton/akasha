@@ -18,7 +18,6 @@ export const changeAgentFileContent = {
     "change-agent/change-property-record-field",
     "change-agent/move-code-export",
     "change-agent/move-property-value",
-    "change-agent/remove-package-alias",
     "change-agent/remove-property-record",
     "change-agent/remove-property-value",
     "change-agent/remove-unused-export-keywords",

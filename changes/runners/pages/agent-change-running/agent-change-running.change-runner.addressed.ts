@@ -80,9 +80,6 @@ export type Changes = {
   "change-agent/move-folder": Parameters<
     typeof import("akasha/changes/agent/folder/move-folder/move-folder.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/move-folder-package": Parameters<
-    typeof import("akasha/changes/agent/folder/move-folder-package/move-folder-package.change-agent.code.ts")["runChange"]
-  >[1]
   "change-agent/move-page": Parameters<
     typeof import("akasha/changes/agent/file/move-page/move-page.change-agent.code.ts")["runChange"]
   >[1]
@@ -106,15 +103,6 @@ export type Changes = {
   >[1]
   "change-agent/remove-folder": Parameters<
     typeof import("akasha/changes/agent/folder/remove-folder/remove-folder.change-agent.code.ts")["runChange"]
-  >[1]
-  "change-agent/remove-folder-package": Parameters<
-    typeof import("akasha/changes/agent/folder/remove-folder-package/remove-folder-package.change-agent.code.ts")["runChange"]
-  >[1]
-  "change-agent/remove-package-alias": Parameters<
-    typeof import("akasha/changes/agent/file-content/remove-package-alias/remove-package-alias.change-agent.code.ts")["runChange"]
-  >[1]
-  "change-agent/remove-package-manifest": Parameters<
-    typeof import("akasha/changes/agent/file/remove-package-manifest/remove-package-manifest.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/remove-page": Parameters<
     typeof import("akasha/changes/agent/file/remove-page/remove-page.change-agent.code.ts")["runChange"]
