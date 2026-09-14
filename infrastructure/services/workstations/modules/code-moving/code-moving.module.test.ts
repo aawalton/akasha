@@ -4,7 +4,6 @@ import { dirname, join } from "node:path"
 import { gitIn, storeIn, TREES } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import {
   codeMoved,
-  codeStartedAt,
   commitAt,
   headAt,
   kindOf,
@@ -86,6 +85,5 @@ test("what is said on the way out names both commits and the exit it leaves on",
 
 test("code running out of no tree never moves, so a test is never left", () => {
   expect(kindOf(import.meta.dir, codeRoot())).toBe(null)
-  expect(codeStartedAt()).toBe(null)
   expect(codeMoved()).toBe(null)
 })

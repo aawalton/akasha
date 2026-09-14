@@ -66,10 +66,6 @@ function commitNow(): string | null {
 
 const STARTED: string | null = commitNow()
 
-export function codeStartedAt(): string | null {
-  return STARTED
-}
-
 export function codeMoved(): Moved | null {
   return movedFrom(STARTED, commitNow())
 }
