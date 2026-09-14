@@ -10,7 +10,7 @@ export const attributeStrength = {
   place: 1,
   scale: "readout-scale/attribute-points",
   attribute: "strength",
-  groups: ["attributes"],
+  groups: ["readout-group/attributes"],
   wireKey: "strength",
   invariants: [
     {

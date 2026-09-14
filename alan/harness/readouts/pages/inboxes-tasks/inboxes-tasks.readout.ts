@@ -11,7 +11,7 @@ export const inboxesTasks = {
   place: 2,
   scale: "readout-scale/daily-inbox",
   earnedKey: "inbox-tasks-cleared-today",
-  groups: ["inboxes"],
+  groups: ["readout-group/inboxes"],
   wireKey: "tasks",
   invariants: [
     {

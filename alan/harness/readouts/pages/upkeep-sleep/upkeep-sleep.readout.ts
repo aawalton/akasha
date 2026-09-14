@@ -10,7 +10,7 @@ export const upkeepSleep = {
   unit: "hours",
   place: 6,
   scale: "readout-scale/sleep-hours",
-  groups: ["upkeep"],
+  groups: ["readout-group/upkeep"],
   wireKey: "sleep",
   invariants: [
     {

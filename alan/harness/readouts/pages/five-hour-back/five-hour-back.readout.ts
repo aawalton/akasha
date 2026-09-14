@@ -10,7 +10,7 @@ export const fiveHourBack = {
   place: 2,
   drawnAs: "number",
   colorSlug: "text",
-  groups: ["claude-usage"],
+  groups: ["readout-group/claude-usage"],
   wireKey: "five-hour-back",
   invariants: [
     {

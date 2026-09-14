@@ -10,7 +10,7 @@ export const attributeEndurance = {
   place: 2,
   scale: "readout-scale/attribute-points",
   attribute: "endurance",
-  groups: ["attributes"],
+  groups: ["readout-group/attributes"],
   wireKey: "endurance",
   invariants: [
     {

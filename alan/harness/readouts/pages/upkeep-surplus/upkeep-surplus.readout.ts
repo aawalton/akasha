@@ -10,7 +10,7 @@ export const upkeepSurplus = {
   unit: "hours",
   place: 2,
   scale: "readout-scale/surplus-hours",
-  groups: ["upkeep", "surplus"],
+  groups: ["readout-group/upkeep", "readout-group/surplus"],
   wireKey: "surplus",
   invariants: [
     {

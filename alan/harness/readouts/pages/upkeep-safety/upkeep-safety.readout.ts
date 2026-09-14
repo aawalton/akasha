@@ -10,7 +10,7 @@ export const upkeepSafety = {
   unit: "levels",
   place: 1,
   scale: "readout-scale/safety-level",
-  groups: ["upkeep", "safety"],
+  groups: ["readout-group/upkeep", "readout-group/safety"],
   wireKey: "safety",
   invariants: [
     {

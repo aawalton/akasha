@@ -10,7 +10,7 @@ export const attributeWisdom = {
   place: 4,
   scale: "readout-scale/attribute-points",
   attribute: "wisdom",
-  groups: ["attributes"],
+  groups: ["readout-group/attributes"],
   wireKey: "wisdom",
   invariants: [
     {

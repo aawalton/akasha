@@ -8,7 +8,7 @@ export const costMultiplier = {
   reading: {},
   label: "Cost",
   place: 1,
-  groups: ["cost"],
+  groups: ["readout-group/cost"],
   wireKey: "cost",
   invariants: [
     {

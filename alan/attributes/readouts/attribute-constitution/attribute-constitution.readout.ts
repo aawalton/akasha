@@ -10,7 +10,7 @@ export const attributeConstitution = {
   place: 3,
   scale: "readout-scale/attribute-points",
   attribute: "constitution",
-  groups: ["attributes"],
+  groups: ["readout-group/attributes"],
   wireKey: "constitution",
   invariants: [
     {

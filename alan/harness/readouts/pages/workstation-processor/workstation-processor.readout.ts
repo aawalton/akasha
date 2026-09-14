@@ -10,7 +10,7 @@ export const workstationProcessor = {
   unit: "percent",
   place: 1,
   drawnAs: "number",
-  groups: ["workstation"],
+  groups: ["readout-group/workstation"],
   wireKey: "processor",
   invariants: [
     {

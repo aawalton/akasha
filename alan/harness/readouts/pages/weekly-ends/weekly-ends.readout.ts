@@ -10,7 +10,7 @@ export const weeklyEnds = {
   place: 4,
   drawnAs: "number",
   scale: "readout-scale/allowance-hours",
-  groups: ["claude-usage"],
+  groups: ["readout-group/claude-usage"],
   wireKey: "weekly-ends",
   invariants: [
     {

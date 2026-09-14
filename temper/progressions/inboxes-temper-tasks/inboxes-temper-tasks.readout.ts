@@ -11,7 +11,7 @@ export const inboxesTemperTasks = {
   place: 3,
   scale: "readout-scale/daily-inbox",
   earnedKey: "inbox-temper-tasks-cleared-today",
-  groups: ["inboxes"],
+  groups: ["readout-group/inboxes"],
   wireKey: "temperTasks",
   invariants: [
     {

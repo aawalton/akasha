@@ -10,7 +10,7 @@ export const workstationMemory = {
   unit: "gigabytes",
   place: 2,
   drawnAs: "number",
-  groups: ["workstation"],
+  groups: ["readout-group/workstation"],
   wireKey: "memory",
   invariants: [
     {

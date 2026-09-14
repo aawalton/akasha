@@ -10,7 +10,7 @@ export const weeklyBack = {
   place: 3,
   drawnAs: "number",
   colorSlug: "text",
-  groups: ["claude-usage"],
+  groups: ["readout-group/claude-usage"],
   wireKey: "weekly-back",
   invariants: [
     {
