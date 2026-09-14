@@ -36,7 +36,7 @@ export const alanwaltonDecodeHarness = {
   ],
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every tile this program compiles has a decode assertion.",
     },
   ],
