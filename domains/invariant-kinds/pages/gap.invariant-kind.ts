@@ -8,20 +8,20 @@ export const gap = {
   invariantGroup: "invariant-group/intent",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Knowing a gap stops a reader relying on that gap.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A gap states what is meant, so a gap is honest before the domain can keep it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule sharpened past what the domain can do arrives here rather than as a departure.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A gap names a state the domain should be in rather than an act to take or a reason to act.",
     },

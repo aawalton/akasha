@@ -8,11 +8,11 @@ export const absence = {
   invariantGroup: "invariant-group/design",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Knowing an absence stops a reader adding the thing left out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An absence belongs where the thing left out sits near the thing kept and is reached in error.",
     },

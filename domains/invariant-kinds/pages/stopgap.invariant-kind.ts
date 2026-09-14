@@ -8,7 +8,7 @@ export const stopgap = {
   invariantGroup: "invariant-group/condition",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stopgap is paired with a gap to make the stopgap always true.",
     },
   ],

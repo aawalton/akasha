@@ -8,7 +8,7 @@ export const constraint = {
   invariantGroup: "invariant-group/design",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Knowing a constraint stops a reader asking for the impossible.",
     },
   ],
