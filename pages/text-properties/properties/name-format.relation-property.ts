@@ -10,7 +10,7 @@ export const nameFormat = {
   targetPageType: "page-type/name-format",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page held to no format states null rather than nothing.",
     },
   ],

@@ -9,7 +9,7 @@ export const partOfCollections = {
   targetPageType: "page-type/collection",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parts of a collection are the collections naming that collection here.",
     },
   ],

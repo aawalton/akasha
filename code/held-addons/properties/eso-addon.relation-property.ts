@@ -9,11 +9,11 @@ export const esoAddon = {
   targetPageType: "page-type/eso-addon",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The package an addon's source is under is the folder that addon page sits in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tree move has the package path without an edit here.",
     },
   ],

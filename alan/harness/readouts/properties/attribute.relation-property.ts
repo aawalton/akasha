@@ -9,11 +9,11 @@ export const attribute = {
   targetPageType: "page-type/attribute",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout counting an attribute's points names that attribute.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout counting anything else names no attribute.",
     },
   ],

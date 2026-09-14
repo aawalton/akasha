@@ -9,15 +9,15 @@ export const viewPageType = {
   targetPageType: "page-type/page-type",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A view names the page type by that page type's own slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A view naming a predicate instead names no page type here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A view naming neither lists nothing.",
     },
   ],

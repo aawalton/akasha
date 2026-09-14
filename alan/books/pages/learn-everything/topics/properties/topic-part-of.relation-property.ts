@@ -9,11 +9,11 @@ export const topicPartOf = {
   targetPageType: "page-type/learn-everything-topic",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The topics under a topic are the topics naming that topic here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The whole map sits under nothing.",
     },
   ],

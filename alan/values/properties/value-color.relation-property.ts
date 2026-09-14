@@ -9,7 +9,7 @@ export const valueColor = {
   targetPageType: "page-type/color",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value is drawn in this color whatever a reading against that value says.",
     },
   ],

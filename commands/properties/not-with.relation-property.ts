@@ -9,19 +9,19 @@ export const notWith = {
   targetPageType: "page-type/argument",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call saying both arguments is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One entry states a pair, and the other entry needs no matching statement.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pair one command may not say together is said together under another command.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Which arguments may not be said together belongs to the command rather than to the argument.",
     },

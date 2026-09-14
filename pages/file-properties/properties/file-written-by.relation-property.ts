@@ -9,15 +9,15 @@ export const fileWrittenBy = {
   targetPageType: "page-type/module-property-group",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property naming a group has that group's code write the property's file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two properties never name one group.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property naming no group says nothing about what writes the property's file.",
     },
   ],

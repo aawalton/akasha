@@ -9,11 +9,11 @@ export const buildScript = {
   targetPageType: "page-type/shell-script",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An app stating no build script is not built by any command.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which script builds an app is read from its page rather than walked to.",
     },
   ],

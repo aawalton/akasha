@@ -9,7 +9,7 @@ export const nav = {
   targetPageType: "page-type/nav",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A view belongs to the nav item that owns that view and is drawn nowhere else.",
     },
   ],

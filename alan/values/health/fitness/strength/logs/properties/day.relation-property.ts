@@ -9,11 +9,11 @@ export const day = {
   targetPageType: "page-type/day",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day counts a set by this edge rather than by matching two dates.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The day named is the day the set's own date spells.",
     },
   ],

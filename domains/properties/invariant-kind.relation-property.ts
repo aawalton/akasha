@@ -9,7 +9,7 @@ export const invariantKind = {
   targetPageType: "page-type/invariant-kind",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The plain word `kind` names the kind of value a property holds rather than the kind of invariant.",
     },

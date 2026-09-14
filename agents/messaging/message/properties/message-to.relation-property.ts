@@ -9,11 +9,11 @@ export const messageTo = {
   targetPageType: "page-type/seat",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message addressed to a name no seat has is refused rather than written.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recipient is one name rather than a path.",
     },
   ],

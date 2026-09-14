@@ -9,7 +9,7 @@ export const topicMasteryLevel = {
   targetPageType: "page-type/mastery-level",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic is scored at one rung.",
     },
   ],

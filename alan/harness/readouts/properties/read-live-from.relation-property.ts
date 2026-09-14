@@ -9,7 +9,7 @@ export const readLiveFrom = {
   targetPageType: "page-type/domain",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout naming a service to read live from is answered by no query.",
     },
   ],

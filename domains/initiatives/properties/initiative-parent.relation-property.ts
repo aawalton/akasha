@@ -9,11 +9,11 @@ export const initiativeParent = {
   targetPageType: "page-type/initiative",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An initiative lists nothing beneath that initiative.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This edge is read inverted.",
     },
   ],

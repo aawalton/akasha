@@ -9,15 +9,15 @@ export const provision = {
   targetPageType: "page-type/shell-script",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The folder that script sits in is the folder handed to the host.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two services provisioned the same way name one script.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The host runs that script with the service's name, its python and its folder.",
     },
   ],

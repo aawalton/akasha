@@ -9,37 +9,37 @@ export const oneOf = {
   targetPageType: "page-type/argument",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call saying none of the arguments in a group is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One entry states a group, and the others need no matching statement.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Entries naming each other are one group rather than several pairs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One refusal names every argument in a group, however many entries state it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Which arguments answer for each other belongs to the command rather than to the argument.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This narrows a call rather than a property's value, so it is no one-of property.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A group where exactly one is said is this beside `not-with`, and nothing joins the two.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "One group may hold a pair `not-with` forbids and a pair it does not, so no group-wide word fits.",
     },

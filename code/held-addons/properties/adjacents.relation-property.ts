@@ -9,11 +9,11 @@ export const adjacents = {
   targetPageType: "page-type/held-addon",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Adjacency is written as a bite meets an addon rather than mapped out up front.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon naming no adjacent here has had no bite reach past that addon.",
     },
   ],

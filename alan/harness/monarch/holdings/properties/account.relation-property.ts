@@ -9,7 +9,7 @@ export const account = {
   targetPageType: "page-type/monarch-account",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A holding sits under exactly one account.",
     },
   ],

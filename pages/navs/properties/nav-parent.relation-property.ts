@@ -9,11 +9,11 @@ export const navParent = {
   targetPageType: "page-type/nav",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Navigation is one level deep or two.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A nav item naming no parent is at the top.",
     },
   ],

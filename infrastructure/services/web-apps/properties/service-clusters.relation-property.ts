@@ -9,11 +9,11 @@ export const serviceClusters = {
   targetPageType: "page-type/service-cluster",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A web app naming more than one leaves which workload a deploy puts up unsettled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slug no cluster service page has is refused.",
     },
   ],

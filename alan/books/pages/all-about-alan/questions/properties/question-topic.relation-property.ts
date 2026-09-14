@@ -9,7 +9,7 @@ export const questionTopic = {
   targetPageType: "page-type/all-about-alan-topic",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This edge is read inverted.",
     },
   ],

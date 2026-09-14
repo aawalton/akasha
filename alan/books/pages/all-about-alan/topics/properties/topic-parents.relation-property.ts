@@ -9,11 +9,11 @@ export const topicParents = {
   targetPageType: "page-type/all-about-alan-topic",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic lists nothing standing beneath that topic.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This edge is read inverted.",
     },
   ],

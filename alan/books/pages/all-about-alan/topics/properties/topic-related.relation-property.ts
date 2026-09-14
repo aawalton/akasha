@@ -9,11 +9,11 @@ export const topicRelated = {
   targetPageType: "page-type/all-about-alan-topic",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic reached across to sits under no obligation to reach back.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic already reached through a parent is named here as well.",
     },
   ],

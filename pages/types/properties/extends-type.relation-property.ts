@@ -9,23 +9,23 @@ export const extendsType = {
   targetPageType: "page-type/page-type",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A type takes its properties from every type this names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The nearer type decides where two of the types named declare one property.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The last named type decides where two types are equally near.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reordering the types changes the type's properties.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A type naming no type states an empty list rather than nothing.",
     },
   ],

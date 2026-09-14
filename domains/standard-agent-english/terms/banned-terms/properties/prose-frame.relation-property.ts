@@ -9,12 +9,12 @@ export const proseFrame = {
   targetPageType: "page-type/prose-frame",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The plain word `frame` names what a screen draws in rather than what a word sits in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The frame a pair names is the frame a reader of the sentence's tree answers.",
     },
   ],

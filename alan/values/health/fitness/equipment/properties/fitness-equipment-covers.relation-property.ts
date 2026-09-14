@@ -9,7 +9,7 @@ export const fitnessEquipmentCovers = {
   targetPageType: "page-type/strength-exercise-implement",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece answering for no kit a movement names covers nothing.",
     },
   ],

@@ -9,15 +9,15 @@ export const serviceClusterManifest = {
   targetPageType: "page-type/manifest",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The manifest is named by its slug rather than by the path its code sits at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The manifest page claims the code file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The index answers for the code file.",
     },
   ],

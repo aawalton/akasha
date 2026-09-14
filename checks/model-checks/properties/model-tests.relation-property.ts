@@ -9,7 +9,7 @@ export const modelTests = {
   targetPageType: "page-type/model-test",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One check has the tests that judge one thing from different sides.",
     },
   ],

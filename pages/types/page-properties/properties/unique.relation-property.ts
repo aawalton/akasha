@@ -9,7 +9,7 @@ export const unique = {
   targetPageType: "page-type/unique-kind",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property stating no `unique` is not unique.",
     },
   ],

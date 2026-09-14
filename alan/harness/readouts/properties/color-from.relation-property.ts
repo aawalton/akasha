@@ -9,11 +9,11 @@ export const colorFrom = {
   targetPageType: "page-type/readout",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout taking another's color is read against that other's scale.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The figure stays the reading this readout took.",
     },
   ],

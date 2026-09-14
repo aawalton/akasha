@@ -9,11 +9,11 @@ export const person = {
   targetPageType: "page-type/person",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The person a seat is of and the work a seat answers for are two facts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat assigned to a person states that person in two places.",
     },
   ],

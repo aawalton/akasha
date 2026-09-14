@@ -9,11 +9,11 @@ export const sectionOf = {
   targetPageType: "page-type/collection",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A section names one collection here and the collections edge names the rest.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A section's slug is unique among the sections naming the same collection here.",
     },
   ],

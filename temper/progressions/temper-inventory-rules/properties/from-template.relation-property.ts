@@ -9,7 +9,7 @@ export const fromTemplate = {
   targetPageType: "page-type/temper-rule-template",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule a player wrote from nothing names no template.",
     },
   ],

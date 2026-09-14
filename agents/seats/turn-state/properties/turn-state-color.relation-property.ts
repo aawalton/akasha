@@ -9,7 +9,7 @@ export const turnStateColor = {
   targetPageType: "page-type/color",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This color draws the seat rather than the turn state's own page.",
     },
   ],

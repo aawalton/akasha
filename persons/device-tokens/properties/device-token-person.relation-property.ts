@@ -9,7 +9,7 @@ export const deviceTokenPerson = {
   targetPageType: "page-type/person",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The account a person signed in under is read from that person rather than kept here.",
     },

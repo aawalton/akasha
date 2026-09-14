@@ -9,11 +9,11 @@ export const guards = {
   targetPageType: "page-type/change-guard",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change naming no guard and reaching no change is judged by no guard.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change composed of other changes inherits the guards the changes reached name.",
     },
   ],

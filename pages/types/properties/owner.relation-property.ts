@@ -9,15 +9,15 @@ export const owner = {
   targetPageType: "page-type/page-property",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type naming no owner has pages the whole repository owns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type extending another page type takes that page type's owner.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A narrow on who owns a page is lowered onto the property a page type names.",
     },
   ],

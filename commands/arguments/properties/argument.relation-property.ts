@@ -9,7 +9,7 @@ export const argument = {
   targetPageType: "page-type/argument",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An argument no page names is refused rather than read.",
     },
   ],

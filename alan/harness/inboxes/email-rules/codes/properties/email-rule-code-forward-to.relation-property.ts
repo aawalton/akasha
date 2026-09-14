@@ -8,7 +8,10 @@ export const emailRuleCodeForwardTo = {
   definition: "who a piece of mail the rule matches is forwarded to",
   targetPageType: "page-type/person",
   invariants: [
-    { invariantKind: "departure", statement: "Forwarding names a person rather than an address." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Forwarding names a person rather than an address.",
+    },
   ],
   types: "ts",
 } as const satisfies RelationProperty

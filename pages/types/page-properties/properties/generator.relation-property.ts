@@ -9,19 +9,19 @@ export const generator = {
   targetPageType: "page-type/generator-kind",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property stating no `generator` is written by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page being created that states the property keeps the value the page states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body carried from another path is left as the body stands.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A move is one page arriving somewhere else rather than a second page.",
     },
   ],
