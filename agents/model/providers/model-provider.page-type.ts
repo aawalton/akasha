@@ -7,6 +7,7 @@ export const modelProvider = {
   definition: "an outside system that serves models",
   pluralSlug: "model-providers",
   extends: ["page-type/domain"],
+  parts: ["url-property/api-base"],
   invariants: [
     {
       invariantKind: "departure",
@@ -18,4 +19,5 @@ export const modelProvider = {
     },
   ],
   types: "ts",
+  properties: [{ pageProperty: "url-property/api-base", required: true, many: false }],
 } as const satisfies PageType
