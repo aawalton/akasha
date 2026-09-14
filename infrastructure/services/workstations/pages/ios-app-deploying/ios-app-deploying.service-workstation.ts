@@ -10,7 +10,7 @@ export const iosAppDeploying = {
   systemd: {
     schedule: "*:*:00",
     jitterSeconds: 10,
-    startTimeoutSeconds: 600,
+    startTimeoutSeconds: 3900,
   },
   invariants: [
     {
