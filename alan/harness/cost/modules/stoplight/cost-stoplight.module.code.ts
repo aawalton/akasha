@@ -19,11 +19,14 @@ import {
   BELOW_EVERY_RUNG,
   readingSaid,
 } from "akasha/alan/harness/readouts/modules/tier/readout-tier.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
 
-const COST_GROUP = "cost"
+const READOUT_GROUP = "readout-group"
+
+const COST_GROUP = namedAs(READOUT_GROUP, "cost", null)
 
 const SURPLUS_READOUT = "upkeep-surplus"
 
