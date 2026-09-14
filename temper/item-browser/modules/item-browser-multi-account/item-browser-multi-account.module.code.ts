@@ -23,10 +23,6 @@ export function getLmas(this: void): ValidatedLmas | undefined {
   return LMAS
 }
 
-export function hasUndauntedPledges(this: void): boolean {
-  return LUP !== undefined
-}
-
 let selectedServer: string | undefined
 let selectedAccount: string | undefined
 
