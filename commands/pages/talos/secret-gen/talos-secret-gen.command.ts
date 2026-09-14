@@ -22,7 +22,7 @@ export const talosSecretGen = {
     },
     {
       invariantKind: "departure",
-      statement: "The bundle sits beside the cluster's page rather than under the home.",
+      statement: "The bundle sits beside the secret page carrying it rather than under the home.",
     },
     {
       invariantKind: "departure",

@@ -110,7 +110,7 @@ async function applying(
     return mistaking([whyOf(thrown)])
   }
 
-  const secretsPath = clusterSecretsSopsPath(name)
+  const secretsPath = clusterSecretsSopsPath()
   if (!existsSync(secretsPath)) {
     return mistaking([
       `no cluster secrets are at ${secretsPath}`,

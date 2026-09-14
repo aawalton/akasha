@@ -15,7 +15,7 @@ export const secret = {
     "text-property/secret-value",
   ],
   properties: [
-    { pageProperty: "record-property/placements", required: true, many: true, maxCount: null },
+    { pageProperty: "record-property/placements", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/secret-value", required: false, many: false, secret: true },
   ],
   invariants: [
@@ -37,7 +37,8 @@ export const secret = {
     },
     {
       invariantKind: "departure",
-      statement: "The cluster is asked for the resource name and the key.",
+      statement:
+        "Where a secret states a placement, the cluster is asked for the resource name and the key.",
     },
     {
       invariantKind: "departure",

@@ -3,6 +3,6 @@ import type { SecretValue } from "akasha/infrastructure/services/secrets/propert
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 
 export type Secret = Page & {
-  placements: Placements
+  placements?: Placements
   value?: SecretValue
 }

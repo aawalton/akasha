@@ -23,7 +23,7 @@ export type Named = { readonly cluster: string; readonly force: boolean }
 export type Generating = (done: string[], read: Named) => Promise<Answer>
 
 async function generated(done: string[], read: Named): Promise<Answer> {
-  const destPath = clusterSecretsSopsPath(read.cluster)
+  const destPath = clusterSecretsSopsPath()
   if (existsSync(destPath) && !read.force) {
     return mistaking([
       `a secrets file is already at ${destPath}`,
