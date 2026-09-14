@@ -3,7 +3,6 @@ import type {
   CursorTLC,
   DragData,
   Lib,
-  MasterEntry,
   RowData,
   ShifterBox,
   ShifterBoxList,
@@ -123,10 +122,6 @@ export function asDragData(value: unknown): DragData {
   return value as DragData
 }
 
-export function asMasterEntry(value: unknown): MasterEntry {
-  return value as MasterEntry
-}
-
 export function asNumber(value: unknown): number {
   return value as number
 }
@@ -149,12 +144,6 @@ export type NumberPair = [number, number]
 
 export function asNumberPair(value: unknown): NumberPair {
   return value as NumberPair
-}
-
-export type EsoHandler = (this: void, ...args: unknown[]) => void
-
-export function asEsoHandler(value: unknown): EsoHandler {
-  return value as EsoHandler
 }
 
 export type ClickHandler = (this: void, ...args: unknown[]) => unknown
