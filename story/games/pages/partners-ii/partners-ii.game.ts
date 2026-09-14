@@ -27,4 +27,5 @@ export const partnersIi = {
   turns: "jsonl",
   entities: "jsonl",
   states: "jsonl",
+  requiresPerTurnGate: true,
 } as const satisfies Game

@@ -8,6 +8,7 @@ export const game = {
   pluralSlug: "games",
   extends: ["page-type/collection"],
   parts: [
+    "boolean-property/requires-per-turn-gate",
     "file-property/config",
     "file-property/design-entries",
     "file-property/display-config",
@@ -64,6 +65,7 @@ export const game = {
     { pageProperty: "file-property/design-entries", required: false, many: false },
     { pageProperty: "file-property/tower-floors", required: false, many: false },
     { pageProperty: "file-property/tower-sessions", required: false, many: false },
+    { pageProperty: "boolean-property/requires-per-turn-gate", required: false, many: false },
   ],
   invariants: [
     {
