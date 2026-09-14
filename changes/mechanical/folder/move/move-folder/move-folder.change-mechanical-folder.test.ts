@@ -65,11 +65,10 @@ function worldIn(root: string): World {
 
 function worldUnreadable(root: string): World {
   const read = textIn(root)
-  const world = worldOn(root, (path) => {
+  return worldOn(root, (path) => {
     if (path === NOT_TEXT) throw new Error(`\`${path}\` is not text`)
     return read(path)
   })
-  return { ...world, index: { ...world.index, everyPath: () => [NOT_TEXT] } }
 }
 
 test("every file under the folder lands beneath the folder it moved to", async () => {

@@ -67,6 +67,15 @@ export const importRepointing = {
     {
       invariantKind: "departure",
       statement:
+        "Whether a path is one this repository has is asked of the world one path at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world answering that nowhere reads every ending rather than stopping at one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A specifier naming a package other than the root is left as it is whatever moved.",
     },
     {

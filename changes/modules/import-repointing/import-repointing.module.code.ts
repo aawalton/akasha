@@ -40,21 +40,7 @@ export type Landing = (path: string) => string | null
 
 export type Known = (path: string) => boolean
 
-const NAMED = new WeakMap<World, ReadonlySet<string>>()
-
-function namesIn(world: World): ReadonlySet<string> {
-  const held = NAMED.get(world)
-  if (held !== undefined) return held
-  const made = new Set<string>()
-  for (const path of world.index.everyPath()) {
-    made.add(path)
-    for (let at = path.indexOf(UNDER); at >= 0; at = path.indexOf(UNDER, at + 1)) {
-      made.add(path.slice(0, at))
-    }
-  }
-  NAMED.set(world, made)
-  return made
-}
+const NAMES_NOTHING: Known = () => false
 
 function stemOf(path: string): string {
   const name = basename(path)
@@ -340,8 +326,7 @@ export function repointed(world: World, given: Given): Said {
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
   const landing = landingFor(given)
-  const names = namesIn(world)
-  const known: Known = (path) => names.has(path)
+  const known = world.names ?? NAMES_NOTHING
   if (CODE.has(extname(given.now))) {
     return changeImports(given.was, given.now, held, landing, known)
   }

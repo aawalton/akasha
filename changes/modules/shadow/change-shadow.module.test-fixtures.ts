@@ -221,6 +221,19 @@ const NOWHERE = "/nowhere"
 
 const NO_SHAPES: ReadonlySet<string> = new Set()
 
+const UNDER = "/"
+
+function namedIn(held: Readonly<Record<string, string>>): (path: string) => boolean {
+  const made = new Set<string>()
+  for (const path of Object.keys(held)) {
+    made.add(path)
+    for (let at = path.indexOf(UNDER); at >= 0; at = path.indexOf(UNDER, at + 1)) {
+      made.add(path.slice(0, at))
+    }
+  }
+  return (path) => made.has(path)
+}
+
 export function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: NOWHERE,
@@ -228,6 +241,7 @@ export function worldOf(held: Readonly<Record<string, string>>): World {
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
     under: () => [],
+    names: namedIn(held),
     base: (path) => held[path] ?? null,
     over: NOTHING_OVER,
   }
