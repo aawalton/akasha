@@ -11,7 +11,7 @@ import {
   shadowed,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ADDON_PAGE = "akasha/lib-async.eso-addon.ts"
@@ -30,7 +30,6 @@ afterAll(scratch.sweep)
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-held-addon-")
-  noPathsFiled(root)
   filing(root, ADDON, "lib-async", ADDON_ID)
   filing(root, "held-addon", "held", HELD_ID)
   valueAlsoFiled(root, ADDON, [
@@ -62,7 +61,7 @@ test("a manifest no change and no disk holds reads as nothing", () => {
 
 test("an index naming no held addon page judges clean whatever the change carries", () => {
   const root = scratch.rootFor("akasha-held-addon-bare-")
-  noPathsFiled(root)
+  nothingFiled(root)
   const change = arriving(root, { [MANIFEST_AT]: '{ "name": "LibAsync" }' })
   expect(heldAddonNamesARosterAddon(change, shadowed(change))).toEqual([])
 })
