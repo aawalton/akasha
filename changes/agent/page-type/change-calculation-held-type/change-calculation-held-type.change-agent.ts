@@ -53,4 +53,5 @@ export const changeCalculationHeldType = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 120,
 } as const satisfies ChangeAgent
