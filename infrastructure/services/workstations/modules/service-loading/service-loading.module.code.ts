@@ -17,6 +17,7 @@ const LOADED: ReadonlySet<string> = new Set([
   "sweep-cost-records",
   "sweep-log-days",
   "sweep-subagent-pages",
+  "temper-watcher",
   "ttc-client",
 ])
 
