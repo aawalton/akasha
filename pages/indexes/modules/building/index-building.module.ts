@@ -18,7 +18,11 @@ export const indexBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming no checkout builds the index for the repository root.",
+      statement: "A call naming no checkout builds the index for the checkout this file sits in.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No root named in the environment moves the build off that checkout.",
     },
     {
       invariantKind: "departure",
