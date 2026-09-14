@@ -4,10 +4,7 @@ import {
   listedAt,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import {
-  mergeUncommitted,
-  uncommittedIn,
-} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   numberAt,
@@ -123,11 +120,6 @@ export function displayNameOf(slug: string): string {
     throw new Error("an empty slug names nobody, so there is no name to display her under")
   }
   return `${first.toUpperCase()}${slug.slice(1)}`
-}
-
-export function lastMessagedAt(root: string, persona: Persona): string | null {
-  const held = uncommittedIn(root, persona.path)
-  return held === null ? null : textAt(held, LAST_MESSAGED_AT)
 }
 
 const LAST_MESSAGED_AT_MAX = 24

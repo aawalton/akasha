@@ -5,7 +5,7 @@ export const personaReading = {
   type: "module",
   slug: "persona-reading",
   definition:
-    "persona pages read back as who she is, with her portrait file and her last message time",
+    "persona pages read back as who she is, with her portrait file, and her last message time kept",
   code: "ts",
   invariants: [
     {
