@@ -83,12 +83,6 @@ export function browserServersUnder(claudePid: number): readonly number[] {
   return found
 }
 
-export function browsersUnder(claudePid: number): readonly number[] {
-  const found: number[] = []
-  for (const server of browserServersUnder(claudePid)) found.push(...childPidsOf(server))
-  return found
-}
-
 export function browserReapPoll(args: {
   getClaudePid: () => number | null
   log: (line: string) => void

@@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
 import {
   browserReapPoll,
   browserServersUnder,
-  browsersUnder,
   jiffiesIn,
   nextWatch,
   servesABrowser,
@@ -100,7 +99,6 @@ describe("untouchedFor", () => {
 describe("browserServersUnder", () => {
   test("finds nothing under a pid proc holds no folder for", () => {
     expect(browserServersUnder(0)).toEqual([])
-    expect(browsersUnder(0)).toEqual([])
   })
 })
 
