@@ -9,7 +9,6 @@ import {
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   importFiled,
-  pathListed,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { reading } from "akasha/pages/modules/value/page-value.module.test-fixtures.ts"
@@ -48,7 +47,6 @@ function worldAt(): string {
       fileName: "package.json",
     },
   ])
-  for (const one of PATHS) pathListed(root, one)
   wrote(root, "akasha/one/package.json", ONE)
   wrote(root, "akasha/two/package.json", TWO)
   return root
