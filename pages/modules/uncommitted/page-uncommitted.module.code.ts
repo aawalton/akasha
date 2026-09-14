@@ -187,14 +187,13 @@ function filedAlready(root: string, at: string): boolean {
   return existsSync(join(indexIn(root), FILED_UNDER, `${at}${FILED_ENDING}`))
 }
 
-function besideFiled(
+function settledBeside(
   root: string,
   at: string,
   before: string | null,
   after: string | null
 ): undefined {
   if (!existsSync(indexIn(root))) return
-  if (filedAlready(root, at) === (after !== null)) return
   try {
     holding(
       root,
@@ -209,11 +208,21 @@ function besideFiled(
   } catch {}
 }
 
+function besideFiled(root: string, at: string, after: string): undefined {
+  if (filedAlready(root, at)) return
+  settledBeside(root, at, null, after)
+}
+
+function besideUnfiled(root: string, at: string, before: string | null): undefined {
+  if (before === null) return
+  settledBeside(root, at, before, null)
+}
+
 export function keepUncommitted(root: string, page: string, values: Value): undefined {
   const at = besideOr(page)
   const full = join(root, at)
   exclusively(full, () => {
-    besideFiled(root, at, null, writtenAt(full, page, values))
+    besideFiled(root, at, writtenAt(full, page, values))
   })
 }
 
@@ -222,7 +231,7 @@ export function mergeUncommitted(root: string, page: string, values: Value): und
   const full = join(root, at)
   exclusively(full, () => {
     const held = valuesIn(full, at)
-    besideFiled(root, at, null, writtenAt(full, page, { ...(held ?? {}), ...values }))
+    besideFiled(root, at, writtenAt(full, page, { ...(held ?? {}), ...values }))
   })
 }
 
@@ -240,7 +249,7 @@ export function dropUncommitted(root: string, page: string, keys: readonly strin
       delete kept[key]
       dropped = true
     }
-    if (dropped) besideFiled(root, at, null, writtenAt(full, page, kept))
+    if (dropped) besideFiled(root, at, writtenAt(full, page, kept))
   })
 }
 
@@ -252,6 +261,6 @@ export function removeUncommitted(root: string, page: string): undefined {
     const was = textThere(full)
     sweptBeside(full)
     rmSync(full, { force: true })
-    besideFiled(root, at, was, null)
+    besideUnfiled(root, at, was)
   })
 }

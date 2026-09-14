@@ -55,6 +55,14 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
+      statement: "Taking away a file that was there unfiles it whatever the index already says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking away a file that was not there unfiles nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A file rewritten as the agents run costs one read of that entry rather than a filing.",
     },
