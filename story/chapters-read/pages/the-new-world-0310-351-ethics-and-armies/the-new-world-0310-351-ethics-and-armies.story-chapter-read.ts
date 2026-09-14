@@ -8,7 +8,7 @@ export const theNewWorld0310351EthicsAndArmies = {
   story: "the-new-world",
   position: 310,
   ownLength: 3004,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

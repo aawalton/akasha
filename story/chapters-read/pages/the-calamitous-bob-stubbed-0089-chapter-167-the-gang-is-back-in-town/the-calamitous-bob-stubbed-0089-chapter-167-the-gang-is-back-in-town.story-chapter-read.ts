@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0089Chapter167TheGangIsBackInTown = {
   story: "the-calamitous-bob-stubbed",
   position: 89,
   ownLength: 7248,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

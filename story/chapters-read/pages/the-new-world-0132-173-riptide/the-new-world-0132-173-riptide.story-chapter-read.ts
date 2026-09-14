@@ -8,7 +8,7 @@ export const theNewWorld0132173Riptide = {
   story: "the-new-world",
   position: 132,
   ownLength: 4560,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

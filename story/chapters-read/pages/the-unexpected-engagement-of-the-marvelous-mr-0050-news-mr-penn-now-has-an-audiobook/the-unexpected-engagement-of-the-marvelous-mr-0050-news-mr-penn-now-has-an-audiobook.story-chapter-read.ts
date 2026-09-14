@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0050NewsMrPennNowHasAnAudiob
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 50,
   ownLength: 151,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

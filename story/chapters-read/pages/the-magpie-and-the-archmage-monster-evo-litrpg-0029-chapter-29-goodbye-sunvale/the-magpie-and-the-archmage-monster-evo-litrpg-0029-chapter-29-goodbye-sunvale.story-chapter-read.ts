@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0029Chapter29GoodbyeSunvale 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 29,
   ownLength: 2126,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

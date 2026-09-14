@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0105Chapter104DailyStruggl
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 105,
   ownLength: 1928,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

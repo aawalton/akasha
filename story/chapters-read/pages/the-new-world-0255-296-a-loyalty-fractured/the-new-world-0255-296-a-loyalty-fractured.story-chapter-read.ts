@@ -8,7 +8,7 @@ export const theNewWorld0255296ALoyaltyFractured = {
   story: "the-new-world",
   position: 255,
   ownLength: 4213,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

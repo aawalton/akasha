@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0131Chapter131SaveYourGirl =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 131,
   ownLength: 2080,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

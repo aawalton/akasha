@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0022022SpeakMeALullaby =
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 22,
   ownLength: 1868,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

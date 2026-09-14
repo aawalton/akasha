@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0032Chapter32SecondEvolution
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 32,
   ownLength: 2158,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

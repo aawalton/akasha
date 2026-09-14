@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0108Chapter108ThatsForTheBir
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 108,
   ownLength: 2304,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0369409MemoriesOfBrokenGlass = {
   story: "the-new-world",
   position: 369,
   ownLength: 4245,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

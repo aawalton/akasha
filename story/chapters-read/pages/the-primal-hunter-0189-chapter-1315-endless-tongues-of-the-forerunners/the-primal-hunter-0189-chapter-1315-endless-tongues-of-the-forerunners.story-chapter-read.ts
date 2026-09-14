@@ -8,7 +8,7 @@ export const thePrimalHunter0189Chapter1315EndlessTonguesOfTheForerunners = {
   story: "story-read/the-primal-hunter",
   position: 189,
   ownLength: 2891,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

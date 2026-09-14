@@ -8,7 +8,7 @@ export const theNewWorld001861FinalFrontier = {
   story: "the-new-world",
   position: 18,
   ownLength: 5451,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

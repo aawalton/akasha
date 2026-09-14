@@ -8,7 +8,7 @@ export const thePrimalHunter0164Chapter1291Venus = {
   story: "story-read/the-primal-hunter",
   position: 164,
   ownLength: 2786,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

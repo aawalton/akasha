@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0126110HungryPython = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 126,
   ownLength: 2890,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

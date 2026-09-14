@@ -8,7 +8,7 @@ export const theNewWorld005395AtlasDroppedTheSky = {
   story: "the-new-world",
   position: 53,
   ownLength: 3800,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

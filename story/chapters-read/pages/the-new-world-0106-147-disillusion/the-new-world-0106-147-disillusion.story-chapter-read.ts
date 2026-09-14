@@ -8,7 +8,7 @@ export const theNewWorld0106147Disillusion = {
   story: "the-new-world",
   position: 106,
   ownLength: 2058,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

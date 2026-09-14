@@ -8,7 +8,7 @@ export const theNewWorld0153194AnotherRealm = {
   story: "the-new-world",
   position: 153,
   ownLength: 2596,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

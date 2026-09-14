@@ -8,7 +8,7 @@ export const theGiftOfLoot0020Chapter20Burn = {
   story: "the-gift-of-loot",
   position: 20,
   ownLength: 1510,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

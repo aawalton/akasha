@@ -8,7 +8,7 @@ export const theGiftOfLoot0058Chapter58TasteTheRainbow = {
   story: "the-gift-of-loot",
   position: 58,
   ownLength: 6266,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

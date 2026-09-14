@@ -8,7 +8,7 @@ export const theNewWorld0425465HellIsEverchanging = {
   story: "the-new-world",
   position: 425,
   ownLength: 5823,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

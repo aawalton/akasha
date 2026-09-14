@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0132Chapter132HisWorstMistak
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 132,
   ownLength: 1746,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

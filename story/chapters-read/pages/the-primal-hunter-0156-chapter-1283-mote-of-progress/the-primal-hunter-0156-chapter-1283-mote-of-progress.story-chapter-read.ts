@@ -8,7 +8,7 @@ export const thePrimalHunter0156Chapter1283MoteOfProgress = {
   story: "story-read/the-primal-hunter",
   position: 156,
   ownLength: 3199,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

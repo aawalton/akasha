@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0035Chapter35BaconBeetlesAnd
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 35,
   ownLength: 2146,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

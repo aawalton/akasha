@@ -8,7 +8,7 @@ export const theNewWorld0395435TheEthosOfTheUndead = {
   story: "the-new-world",
   position: 395,
   ownLength: 7509,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

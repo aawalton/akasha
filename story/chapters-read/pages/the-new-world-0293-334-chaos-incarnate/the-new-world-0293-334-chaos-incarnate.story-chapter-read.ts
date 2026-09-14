@@ -8,7 +8,7 @@ export const theNewWorld0293334ChaosIncarnate = {
   story: "the-new-world",
   position: 293,
   ownLength: 3724,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0121Chapter121FrozenWings = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 121,
   ownLength: 2096,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

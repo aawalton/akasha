@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0043Chapter42TheFavor = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 43,
   ownLength: 3637,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

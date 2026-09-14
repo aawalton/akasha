@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0049Epilogue = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 49,
   ownLength: 1309,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

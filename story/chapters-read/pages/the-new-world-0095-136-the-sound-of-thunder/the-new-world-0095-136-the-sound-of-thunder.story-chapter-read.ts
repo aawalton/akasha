@@ -8,7 +8,7 @@ export const theNewWorld0095136TheSoundOfThunder = {
   story: "the-new-world",
   position: 95,
   ownLength: 2911,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

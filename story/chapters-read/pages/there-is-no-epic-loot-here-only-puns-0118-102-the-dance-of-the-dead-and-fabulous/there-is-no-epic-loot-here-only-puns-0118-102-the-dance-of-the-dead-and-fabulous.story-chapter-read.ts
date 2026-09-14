@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0118102TheDanceOfTheDeadAndFabulous = 
   story: "there-is-no-epic-loot-here-only-puns",
   position: 118,
   ownLength: 4807,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0254295AConvincingArgument = {
   story: "the-new-world",
   position: 254,
   ownLength: 6676,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

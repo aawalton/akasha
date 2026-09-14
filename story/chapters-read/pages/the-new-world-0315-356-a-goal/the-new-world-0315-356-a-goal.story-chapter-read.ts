@@ -8,7 +8,7 @@ export const theNewWorld0315356AGoal = {
   story: "the-new-world",
   position: 315,
   ownLength: 5099,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

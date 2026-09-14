@@ -8,7 +8,7 @@ export const theNewWorld001457MountainsOfMadness = {
   story: "the-new-world",
   position: 14,
   ownLength: 5128,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

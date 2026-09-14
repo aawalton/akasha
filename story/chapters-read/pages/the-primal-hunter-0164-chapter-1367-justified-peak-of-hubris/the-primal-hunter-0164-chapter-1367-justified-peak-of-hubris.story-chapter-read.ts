@@ -8,7 +8,7 @@ export const thePrimalHunter0164Chapter1367JustifiedPeakOfHubris = {
   story: "story-read/the-primal-hunter",
   position: 164,
   ownLength: 2736,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

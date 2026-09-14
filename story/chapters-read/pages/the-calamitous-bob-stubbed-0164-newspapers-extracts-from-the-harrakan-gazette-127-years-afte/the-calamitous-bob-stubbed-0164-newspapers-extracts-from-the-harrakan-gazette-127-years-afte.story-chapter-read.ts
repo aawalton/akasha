@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0164NewspapersExtractsFromTheHarrakanGazette
   story: "the-calamitous-bob-stubbed",
   position: 164,
   ownLength: 908,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

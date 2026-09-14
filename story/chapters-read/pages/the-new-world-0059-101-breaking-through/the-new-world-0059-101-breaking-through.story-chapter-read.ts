@@ -8,7 +8,7 @@ export const theNewWorld0059101BreakingThrough = {
   story: "the-new-world",
   position: 59,
   ownLength: 3720,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

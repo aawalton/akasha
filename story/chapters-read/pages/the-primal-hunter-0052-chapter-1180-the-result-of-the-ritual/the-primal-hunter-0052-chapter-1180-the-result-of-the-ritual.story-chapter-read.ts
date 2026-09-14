@@ -8,7 +8,7 @@ export const thePrimalHunter0052Chapter1180TheResultOfTheRitual = {
   story: "story-read/the-primal-hunter",
   position: 52,
   ownLength: 2877,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

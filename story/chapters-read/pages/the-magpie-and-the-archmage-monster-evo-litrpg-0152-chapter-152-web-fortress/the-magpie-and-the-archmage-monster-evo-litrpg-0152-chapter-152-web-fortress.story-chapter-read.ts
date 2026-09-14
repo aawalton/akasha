@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0152Chapter152WebFortress = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 152,
   ownLength: 1994,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

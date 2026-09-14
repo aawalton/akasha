@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0098Chapter98BeneathSeabloom
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 98,
   ownLength: 2119,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

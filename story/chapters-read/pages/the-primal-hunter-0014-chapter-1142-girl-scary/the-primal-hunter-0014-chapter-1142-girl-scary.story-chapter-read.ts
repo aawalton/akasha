@@ -8,7 +8,7 @@ export const thePrimalHunter0014Chapter1142GirlScary = {
   story: "story-read/the-primal-hunter",
   position: 14,
   ownLength: 2695,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0170Chapter1373ChosenReputationImprovementPlan = {
   story: "story-read/the-primal-hunter",
   position: 170,
   ownLength: 2887,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

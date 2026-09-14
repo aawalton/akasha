@@ -8,7 +8,7 @@ export const thePrimalHunter0146Chapter1273AnEvenBEtterAndProfessionalEvolution 
   story: "story-read/the-primal-hunter",
   position: 146,
   ownLength: 3443,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0123Chapter123TheMostTerrify
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 123,
   ownLength: 2337,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

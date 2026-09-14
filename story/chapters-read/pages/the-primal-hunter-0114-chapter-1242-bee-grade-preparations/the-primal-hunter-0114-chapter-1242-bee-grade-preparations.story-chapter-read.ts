@@ -8,7 +8,7 @@ export const thePrimalHunter0114Chapter1242BeeGradePreparations = {
   story: "story-read/the-primal-hunter",
   position: 114,
   ownLength: 2913,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

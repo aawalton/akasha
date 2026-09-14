@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0017Chapter89PeaceQuietAndCon
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 17,
   ownLength: 13793,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

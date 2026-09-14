@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0056Chapter56PaladinWithoutA
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 56,
   ownLength: 2070,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

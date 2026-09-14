@@ -8,7 +8,7 @@ export const thePrimalHunter0122Chapter1250FirstPhaseGuards = {
   story: "story-read/the-primal-hunter",
   position: 122,
   ownLength: 2880,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

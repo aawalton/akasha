@@ -8,7 +8,7 @@ export const thePrimalHunter0100Chapter1228RushedByTheAccomplishmentsOfOthers = 
   story: "story-read/the-primal-hunter",
   position: 100,
   ownLength: 2871,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

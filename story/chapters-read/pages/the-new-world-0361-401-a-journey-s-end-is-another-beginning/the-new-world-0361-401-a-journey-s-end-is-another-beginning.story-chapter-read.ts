@@ -8,7 +8,7 @@ export const theNewWorld0361401AJourneySEndIsAnotherBeginning = {
   story: "the-new-world",
   position: 361,
   ownLength: 4664,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

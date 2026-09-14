@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0025Chapter24TheRescue = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 25,
   ownLength: 3658,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

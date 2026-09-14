@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0093Chapter171SardanalSCradle = {
   story: "the-calamitous-bob-stubbed",
   position: 93,
   ownLength: 4464,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

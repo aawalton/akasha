@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0123Chapter199SpeedDemon = {
   story: "the-calamitous-bob-stubbed",
   position: 123,
   ownLength: 6057,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

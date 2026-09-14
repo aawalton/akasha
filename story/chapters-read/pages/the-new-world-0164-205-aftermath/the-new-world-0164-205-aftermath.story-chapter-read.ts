@@ -8,7 +8,7 @@ export const theNewWorld0164205Aftermath = {
   story: "the-new-world",
   position: 164,
   ownLength: 2821,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

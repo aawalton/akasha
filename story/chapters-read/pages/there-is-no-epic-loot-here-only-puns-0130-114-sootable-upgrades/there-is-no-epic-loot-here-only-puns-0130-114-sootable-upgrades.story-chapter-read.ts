@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0130114SootableUpgrades = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 130,
   ownLength: 1699,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

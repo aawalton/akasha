@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0168Chapter168SmokeysEvoluti
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 168,
   ownLength: 2291,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

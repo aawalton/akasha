@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0009009TheWildHunt = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 9,
   ownLength: 1436,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0023Chapter23Captured = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 23,
   ownLength: 2071,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

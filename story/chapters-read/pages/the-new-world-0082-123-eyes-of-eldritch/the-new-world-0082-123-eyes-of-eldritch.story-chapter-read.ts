@@ -8,7 +8,7 @@ export const theNewWorld0082123EyesOfEldritch = {
   story: "the-new-world",
   position: 82,
   ownLength: 1551,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

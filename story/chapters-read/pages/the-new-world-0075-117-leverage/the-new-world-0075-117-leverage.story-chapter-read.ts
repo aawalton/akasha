@@ -8,7 +8,7 @@ export const theNewWorld0075117Leverage = {
   story: "the-new-world",
   position: 75,
   ownLength: 2300,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

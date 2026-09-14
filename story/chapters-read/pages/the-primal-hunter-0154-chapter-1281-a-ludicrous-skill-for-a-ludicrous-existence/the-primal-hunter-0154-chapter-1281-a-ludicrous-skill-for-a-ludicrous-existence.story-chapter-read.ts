@@ -8,7 +8,7 @@ export const thePrimalHunter0154Chapter1281ALudicrousSkillForALudicrousExistence
   story: "story-read/the-primal-hunter",
   position: 154,
   ownLength: 2912,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

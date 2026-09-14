@@ -9,7 +9,7 @@ export const theWanderingInn0381InterludeFoliana = {
   position: 381,
   ownLength: 14489,
   ownProgress: 14489,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-12-11",
   externalIdentity: [
     {

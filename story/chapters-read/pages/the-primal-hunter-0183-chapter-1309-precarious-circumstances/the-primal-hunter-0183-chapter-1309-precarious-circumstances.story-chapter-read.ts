@@ -8,7 +8,7 @@ export const thePrimalHunter0183Chapter1309PrecariousCircumstances = {
   story: "story-read/the-primal-hunter",
   position: 183,
   ownLength: 2898,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

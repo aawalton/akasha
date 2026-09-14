@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0119Chapter195ChangingTheWays = {
   story: "the-calamitous-bob-stubbed",
   position: 119,
   ownLength: 5069,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

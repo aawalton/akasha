@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0091Chapter169EmericSGirl = {
   story: "the-calamitous-bob-stubbed",
   position: 91,
   ownLength: 5260,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

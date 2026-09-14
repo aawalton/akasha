@@ -8,7 +8,7 @@ export const thePrimalHunter0050Chapter1178NotOneCalmDay = {
   story: "story-read/the-primal-hunter",
   position: 50,
   ownLength: 2799,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

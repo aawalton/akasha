@@ -8,7 +8,7 @@ export const theNewWorld0386426UnweavingAPuzzle = {
   story: "the-new-world",
   position: 386,
   ownLength: 5212,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

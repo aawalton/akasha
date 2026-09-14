@@ -8,7 +8,7 @@ export const theNewWorld0337378AHopefulDeath = {
   story: "the-new-world",
   position: 337,
   ownLength: 2800,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

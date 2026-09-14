@@ -9,7 +9,7 @@ export const theWanderingInn0733HeroesOfHraacePt1 = {
   position: 733,
   ownLength: 24682,
   ownProgress: 25011,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-29",
   externalIdentity: [
     {

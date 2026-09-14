@@ -8,7 +8,7 @@ export const theNewWorld0156197UnderDarkWaters = {
   story: "the-new-world",
   position: 156,
   ownLength: 3054,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

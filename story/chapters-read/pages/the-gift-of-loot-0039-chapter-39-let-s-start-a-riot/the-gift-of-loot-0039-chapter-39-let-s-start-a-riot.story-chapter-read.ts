@@ -8,7 +8,7 @@ export const theGiftOfLoot0039Chapter39LetSStartARiot = {
   story: "the-gift-of-loot",
   position: 39,
   ownLength: 3595,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

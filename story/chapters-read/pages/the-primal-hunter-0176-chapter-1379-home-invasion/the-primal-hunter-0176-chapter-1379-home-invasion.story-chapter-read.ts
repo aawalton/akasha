@@ -6,7 +6,7 @@ export const thePrimalHunter0176Chapter1379HomeInvasion = {
   slug: "the-primal-hunter-0176-chapter-1379-home-invasion",
   position: 176,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

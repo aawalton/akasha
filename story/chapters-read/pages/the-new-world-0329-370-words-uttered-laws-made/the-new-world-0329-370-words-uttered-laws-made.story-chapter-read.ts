@@ -8,7 +8,7 @@ export const theNewWorld0329370WordsUtteredLawsMade = {
   story: "the-new-world",
   position: 329,
   ownLength: 1018,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

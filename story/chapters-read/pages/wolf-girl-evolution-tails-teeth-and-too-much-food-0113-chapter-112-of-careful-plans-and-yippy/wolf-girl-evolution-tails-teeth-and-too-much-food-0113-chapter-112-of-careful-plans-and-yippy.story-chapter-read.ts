@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0113Chapter112OfCarefulPla
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 113,
   ownLength: 3029,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

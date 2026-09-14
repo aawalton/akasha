@@ -8,7 +8,7 @@ export const theNewWorld0362402WhatStartsAFlame = {
   story: "the-new-world",
   position: 362,
   ownLength: 4003,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

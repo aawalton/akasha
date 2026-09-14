@@ -8,7 +8,7 @@ export const thePrimalHunter0224Chapter1350TowardsTheEndOfAPhase = {
   story: "story-read/the-primal-hunter",
   position: 224,
   ownLength: 2896,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

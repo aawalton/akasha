@@ -8,7 +8,7 @@ export const theNewWorld0129170ANightmare = {
   story: "the-new-world",
   position: 129,
   ownLength: 3177,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

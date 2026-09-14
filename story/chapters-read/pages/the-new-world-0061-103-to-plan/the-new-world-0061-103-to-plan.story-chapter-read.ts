@@ -8,7 +8,7 @@ export const theNewWorld0061103ToPlan = {
   story: "the-new-world",
   position: 61,
   ownLength: 4994,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0018Chapter18CorruptedHunt =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 18,
   ownLength: 2025,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

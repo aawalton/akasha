@@ -8,7 +8,7 @@ export const theNewWorld0355395AShatteringMirror = {
   story: "the-new-world",
   position: 355,
   ownLength: 2831,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

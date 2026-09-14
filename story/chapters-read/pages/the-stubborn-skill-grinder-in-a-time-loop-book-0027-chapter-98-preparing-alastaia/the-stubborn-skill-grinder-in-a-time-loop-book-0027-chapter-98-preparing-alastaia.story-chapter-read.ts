@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0027Chapter98PreparingAlastai
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 27,
   ownLength: 13193,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

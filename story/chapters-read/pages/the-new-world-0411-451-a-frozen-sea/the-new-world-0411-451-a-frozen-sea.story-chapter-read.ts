@@ -8,7 +8,7 @@ export const theNewWorld0411451AFrozenSea = {
   story: "the-new-world",
   position: 411,
   ownLength: 3094,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

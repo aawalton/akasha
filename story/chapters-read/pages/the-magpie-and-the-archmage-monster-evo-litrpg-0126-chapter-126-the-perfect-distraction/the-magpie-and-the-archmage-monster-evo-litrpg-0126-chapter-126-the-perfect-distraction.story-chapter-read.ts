@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0126Chapter126ThePerfectDist
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 126,
   ownLength: 2127,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

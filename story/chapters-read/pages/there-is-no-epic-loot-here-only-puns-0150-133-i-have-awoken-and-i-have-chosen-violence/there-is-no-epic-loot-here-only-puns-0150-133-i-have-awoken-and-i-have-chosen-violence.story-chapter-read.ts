@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0150133IHaveAwokenAndIHaveChosenViolen
   story: "there-is-no-epic-loot-here-only-puns",
   position: 150,
   ownLength: 3766,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

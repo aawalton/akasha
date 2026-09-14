@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0029Chapter100TheDefenseOfAla
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 29,
   ownLength: 18240,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0110151Icosah = {
   story: "the-new-world",
   position: 110,
   ownLength: 3681,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

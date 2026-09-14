@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0025Chapter25PeckTherapy = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 25,
   ownLength: 2088,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

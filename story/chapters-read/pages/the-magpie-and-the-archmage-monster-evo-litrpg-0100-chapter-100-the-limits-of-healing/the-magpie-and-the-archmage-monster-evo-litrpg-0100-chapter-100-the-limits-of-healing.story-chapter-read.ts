@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0100Chapter100TheLimitsOfHea
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 100,
   ownLength: 2105,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

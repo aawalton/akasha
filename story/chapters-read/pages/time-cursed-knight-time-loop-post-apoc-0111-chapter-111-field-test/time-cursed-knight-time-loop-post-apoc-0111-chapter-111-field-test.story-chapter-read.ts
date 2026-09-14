@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0111Chapter111FieldTest = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 111,
   ownLength: 2098,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

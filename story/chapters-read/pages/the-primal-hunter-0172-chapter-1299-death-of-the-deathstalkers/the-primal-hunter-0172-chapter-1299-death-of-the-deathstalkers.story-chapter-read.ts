@@ -8,7 +8,7 @@ export const thePrimalHunter0172Chapter1299DeathOfTheDeathstalkers = {
   story: "story-read/the-primal-hunter",
   position: 172,
   ownLength: 3025,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const theWanderingInn0688Volume9Epilogue = {
   position: 688,
   ownLength: 33781,
   ownProgress: 34954,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-23",
   externalIdentity: [
     {

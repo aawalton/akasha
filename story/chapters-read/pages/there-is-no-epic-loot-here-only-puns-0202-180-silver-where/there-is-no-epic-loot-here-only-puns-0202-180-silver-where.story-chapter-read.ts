@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0202180SilverWhere = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 202,
   ownLength: 3129,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

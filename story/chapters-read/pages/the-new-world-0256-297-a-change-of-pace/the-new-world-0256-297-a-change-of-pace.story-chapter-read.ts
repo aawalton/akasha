@@ -8,7 +8,7 @@ export const theNewWorld0256297AChangeOfPace = {
   story: "the-new-world",
   position: 256,
   ownLength: 5423,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

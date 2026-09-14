@@ -8,7 +8,7 @@ export const theNewWorld0248289AmassingPotential = {
   story: "the-new-world",
   position: 248,
   ownLength: 4054,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

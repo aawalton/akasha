@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000888Unravelling = {
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 8,
   ownLength: 1528,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

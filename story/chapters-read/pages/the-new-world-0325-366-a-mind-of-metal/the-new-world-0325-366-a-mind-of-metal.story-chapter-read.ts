@@ -8,7 +8,7 @@ export const theNewWorld0325366AMindOfMetal = {
   story: "the-new-world",
   position: 325,
   ownLength: 3554,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

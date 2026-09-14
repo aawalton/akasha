@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0092Chapter170QueenOfTheSea = {
   story: "the-calamitous-bob-stubbed",
   position: 92,
   ownLength: 5679,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

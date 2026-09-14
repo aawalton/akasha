@@ -9,7 +9,7 @@ export const theWanderingInn0610InterludeTheGreatRace = {
   position: 610,
   ownLength: 19575,
   ownProgress: 19941,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-28",
   externalIdentity: [
     {

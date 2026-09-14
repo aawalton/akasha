@@ -8,7 +8,7 @@ export const thePrimalHunter0211Chapter1337Culling = {
   story: "story-read/the-primal-hunter",
   position: 211,
   ownLength: 2847,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

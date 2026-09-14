@@ -8,7 +8,7 @@ export const theNewWorld0221262TheLastDays = {
   story: "the-new-world",
   position: 221,
   ownLength: 6363,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

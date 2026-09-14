@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0165Epilogue = {
   story: "the-calamitous-bob-stubbed",
   position: 165,
   ownLength: 973,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

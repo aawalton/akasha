@@ -8,7 +8,7 @@ export const theGiftOfLoot0006Chapter6ForewarnedIsForearmed = {
   story: "the-gift-of-loot",
   position: 6,
   ownLength: 2253,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

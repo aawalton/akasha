@@ -8,7 +8,7 @@ export const thePrimalHunter0044Chapter1172ACompanionForLife = {
   story: "story-read/the-primal-hunter",
   position: 44,
   ownLength: 3064,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

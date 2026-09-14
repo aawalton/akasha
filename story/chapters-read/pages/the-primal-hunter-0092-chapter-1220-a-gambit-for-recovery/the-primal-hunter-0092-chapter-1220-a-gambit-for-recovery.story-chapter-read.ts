@@ -8,7 +8,7 @@ export const thePrimalHunter0092Chapter1220AGambitForRecovery = {
   story: "story-read/the-primal-hunter",
   position: 92,
   ownLength: 2678,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

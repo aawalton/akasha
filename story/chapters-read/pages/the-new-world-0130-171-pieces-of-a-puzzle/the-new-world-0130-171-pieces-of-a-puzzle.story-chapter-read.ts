@@ -8,7 +8,7 @@ export const theNewWorld0130171PiecesOfAPuzzle = {
   story: "the-new-world",
   position: 130,
   ownLength: 4120,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

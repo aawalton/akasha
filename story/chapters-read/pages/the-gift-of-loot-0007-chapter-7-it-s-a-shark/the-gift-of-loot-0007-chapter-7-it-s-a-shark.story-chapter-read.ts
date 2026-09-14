@@ -8,7 +8,7 @@ export const theGiftOfLoot0007Chapter7ItSAShark = {
   story: "the-gift-of-loot",
   position: 7,
   ownLength: 2058,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

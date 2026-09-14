@@ -8,7 +8,7 @@ export const theNewWorld0276317HeresyUnveiled = {
   story: "the-new-world",
   position: 276,
   ownLength: 3296,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

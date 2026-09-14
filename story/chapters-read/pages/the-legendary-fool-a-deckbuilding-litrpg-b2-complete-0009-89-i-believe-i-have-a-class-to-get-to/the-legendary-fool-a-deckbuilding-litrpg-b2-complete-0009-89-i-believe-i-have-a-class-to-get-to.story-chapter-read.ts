@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000989IBelieveIHaveACl
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 9,
   ownLength: 1673,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

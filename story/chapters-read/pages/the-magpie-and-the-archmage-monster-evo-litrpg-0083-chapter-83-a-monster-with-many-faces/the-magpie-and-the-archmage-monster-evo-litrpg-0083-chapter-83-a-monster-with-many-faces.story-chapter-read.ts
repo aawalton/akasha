@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0083Chapter83AMonsterWithMan
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 83,
   ownLength: 1909,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0342382AnEarnedIntermission = {
   story: "the-new-world",
   position: 342,
   ownLength: 5725,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

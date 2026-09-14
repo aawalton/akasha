@@ -8,7 +8,7 @@ export const theNewWorld0112153WhatOnceWas = {
   story: "the-new-world",
   position: 112,
   ownLength: 3289,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

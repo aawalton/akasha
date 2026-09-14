@@ -8,7 +8,7 @@ export const theGiftOfLoot0065Chapter65FreeGiftMarketplace = {
   story: "the-gift-of-loot",
   position: 65,
   ownLength: 3391,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

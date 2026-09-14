@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0110Chapter109OfGreatFortu
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 110,
   ownLength: 2342,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

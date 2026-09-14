@@ -8,7 +8,7 @@ export const theNewWorld0301342WhatBumpsInTheNight = {
   story: "the-new-world",
   position: 301,
   ownLength: 3688,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

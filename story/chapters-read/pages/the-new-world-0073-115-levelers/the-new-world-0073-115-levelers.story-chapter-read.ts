@@ -8,7 +8,7 @@ export const theNewWorld0073115Levelers = {
   story: "the-new-world",
   position: 73,
   ownLength: 4549,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

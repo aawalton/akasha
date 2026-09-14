@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0189169ThereBeDragonsAndWorseMushrooms
   story: "there-is-no-epic-loot-here-only-puns",
   position: 189,
   ownLength: 4110,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

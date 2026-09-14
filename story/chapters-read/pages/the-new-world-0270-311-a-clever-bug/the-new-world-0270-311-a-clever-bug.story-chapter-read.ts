@@ -8,7 +8,7 @@ export const theNewWorld0270311ACleverBug = {
   story: "the-new-world",
   position: 270,
   ownLength: 2891,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0198239RacingTowardsInfinity = {
   story: "the-new-world",
   position: 198,
   ownLength: 2555,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

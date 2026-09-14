@@ -8,7 +8,7 @@ export const theGiftOfLoot0024Chapter24CheeseTheHellOutOfTheDungeon = {
   story: "the-gift-of-loot",
   position: 24,
   ownLength: 2176,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

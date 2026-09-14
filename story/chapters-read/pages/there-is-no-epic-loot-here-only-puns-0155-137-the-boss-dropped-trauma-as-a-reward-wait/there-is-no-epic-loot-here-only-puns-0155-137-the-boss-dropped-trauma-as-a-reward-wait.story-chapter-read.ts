@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0155137TheBossDroppedTraumaAsARewardWa
   story: "there-is-no-epic-loot-here-only-puns",
   position: 155,
   ownLength: 2708,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

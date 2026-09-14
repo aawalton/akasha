@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0151Chapter151SafetySharksAn
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 151,
   ownLength: 2433,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -7,7 +7,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0037Chapter37Promises = {
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 37,
   publishedAt: "2026-09-05",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0064Chapter64Sponsorship = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 64,
   ownLength: 3405,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

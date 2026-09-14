@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0152Chapter227Scrambling = {
   story: "the-calamitous-bob-stubbed",
   position: 152,
   ownLength: 5086,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

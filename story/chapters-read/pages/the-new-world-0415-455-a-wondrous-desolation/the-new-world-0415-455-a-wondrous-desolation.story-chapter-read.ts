@@ -8,7 +8,7 @@ export const theNewWorld0415455AWondrousDesolation = {
   story: "the-new-world",
   position: 415,
   ownLength: 4695,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

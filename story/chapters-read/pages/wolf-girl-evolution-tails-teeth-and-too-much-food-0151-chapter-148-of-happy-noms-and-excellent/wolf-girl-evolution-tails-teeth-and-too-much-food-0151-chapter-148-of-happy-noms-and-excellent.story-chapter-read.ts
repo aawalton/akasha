@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0151Chapter148OfHappyNomsA
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 151,
   ownLength: 3013,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

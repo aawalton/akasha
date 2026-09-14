@@ -8,7 +8,7 @@ export const thePrimalHunter0179Chapter1305ABriefTutorialAndATunnelMound = {
   story: "story-read/the-primal-hunter",
   position: 179,
   ownLength: 3027,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0080Chapter1208BackInTheSaddle = {
   story: "story-read/the-primal-hunter",
   position: 80,
   ownLength: 2729,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

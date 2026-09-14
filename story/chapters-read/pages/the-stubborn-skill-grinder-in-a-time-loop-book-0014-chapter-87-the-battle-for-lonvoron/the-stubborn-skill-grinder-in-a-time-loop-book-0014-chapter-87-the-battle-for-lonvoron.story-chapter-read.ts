@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0014Chapter87TheBattleForLonv
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 14,
   ownLength: 24879,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

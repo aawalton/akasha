@@ -9,7 +9,7 @@ export const theWanderingInn0737InterludeArcsingerSMemories = {
   position: 737,
   ownLength: 38123,
   ownProgress: 38610,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const theNewWorld0133174ComingTogether = {
   story: "the-new-world",
   position: 133,
   ownLength: 3587,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

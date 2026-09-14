@@ -8,7 +8,7 @@ export const thePrimalHunter0162Chapter1365NineTenLeafedFlower = {
   story: "story-read/the-primal-hunter",
   position: 162,
   ownLength: 2839,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0345385AMonsterSMind = {
   story: "the-new-world",
   position: 345,
   ownLength: 2868,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

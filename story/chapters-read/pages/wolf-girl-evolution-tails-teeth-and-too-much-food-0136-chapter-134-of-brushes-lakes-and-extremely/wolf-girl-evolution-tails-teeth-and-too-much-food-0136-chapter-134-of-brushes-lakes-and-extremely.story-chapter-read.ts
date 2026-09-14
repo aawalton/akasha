@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0136Chapter134OfBrushesLak
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 136,
   ownLength: 2488,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

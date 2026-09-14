@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0152Chapter149OfDivineWisd
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 152,
   ownLength: 1860,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

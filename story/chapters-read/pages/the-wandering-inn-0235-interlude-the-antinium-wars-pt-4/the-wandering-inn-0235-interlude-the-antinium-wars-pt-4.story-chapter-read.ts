@@ -9,7 +9,7 @@ export const theWanderingInn0235InterludeTheAntiniumWarsPt4 = {
   position: 235,
   ownLength: 8291,
   ownProgress: 8291,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-06-26",
   externalIdentity: [
     {

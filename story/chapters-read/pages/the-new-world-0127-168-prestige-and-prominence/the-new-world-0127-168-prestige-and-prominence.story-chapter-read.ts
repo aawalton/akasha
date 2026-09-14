@@ -8,7 +8,7 @@ export const theNewWorld0127168PrestigeAndProminence = {
   story: "the-new-world",
   position: 127,
   ownLength: 3384,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

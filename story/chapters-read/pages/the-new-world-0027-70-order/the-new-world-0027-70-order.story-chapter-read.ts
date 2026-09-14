@@ -8,7 +8,7 @@ export const theNewWorld002770Order = {
   story: "the-new-world",
   position: 27,
   ownLength: 3821,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

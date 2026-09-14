@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0122Chapter122APearlWorthDyi
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 122,
   ownLength: 2223,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

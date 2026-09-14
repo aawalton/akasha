@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0010Chapter10Corruption = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 10,
   ownLength: 2104,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

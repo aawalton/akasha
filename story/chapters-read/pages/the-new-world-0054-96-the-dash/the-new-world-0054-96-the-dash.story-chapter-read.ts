@@ -8,7 +8,7 @@ export const theNewWorld005496TheDash = {
   story: "the-new-world",
   position: 54,
   ownLength: 2195,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

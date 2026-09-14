@@ -8,7 +8,7 @@ export const thePrimalHunter0227Chapter1353ExploringSystemMechanics = {
   story: "story-read/the-primal-hunter",
   position: 227,
   ownLength: 2736,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

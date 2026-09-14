@@ -9,7 +9,7 @@ export const theWanderingInn0639938TvPt1 = {
   position: 639,
   ownLength: 37831,
   ownProgress: 37966,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-01",
   externalIdentity: [
     {

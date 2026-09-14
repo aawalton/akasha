@@ -8,7 +8,7 @@ export const thePrimalHunter0061Chapter1189DivineAndDangerousOddballs = {
   story: "story-read/the-primal-hunter",
   position: 61,
   ownLength: 2733,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

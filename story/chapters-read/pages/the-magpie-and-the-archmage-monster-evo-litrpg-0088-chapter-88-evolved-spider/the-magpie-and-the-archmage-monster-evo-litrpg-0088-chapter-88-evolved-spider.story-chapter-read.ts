@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0088Chapter88EvolvedSpider =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 88,
   ownLength: 2199,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

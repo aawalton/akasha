@@ -8,7 +8,7 @@ export const thePrimalHunter0038Chapter1166Level320ProfessionSkillSelection = {
   story: "story-read/the-primal-hunter",
   position: 38,
   ownLength: 3068,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

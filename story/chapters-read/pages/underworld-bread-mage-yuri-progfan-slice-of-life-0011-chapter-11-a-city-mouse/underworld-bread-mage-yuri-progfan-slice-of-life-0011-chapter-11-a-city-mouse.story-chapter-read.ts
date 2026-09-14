@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0011Chapter11ACityMouse = 
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 11,
   ownLength: 1472,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0381421ADefier = {
   story: "the-new-world",
   position: 381,
   ownLength: 6173,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

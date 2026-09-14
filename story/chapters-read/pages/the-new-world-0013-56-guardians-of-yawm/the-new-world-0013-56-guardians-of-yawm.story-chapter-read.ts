@@ -8,7 +8,7 @@ export const theNewWorld001356GuardiansOfYawm = {
   story: "the-new-world",
   position: 13,
   ownLength: 3720,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

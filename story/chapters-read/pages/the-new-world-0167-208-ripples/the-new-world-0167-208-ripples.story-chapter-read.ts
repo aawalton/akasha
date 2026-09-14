@@ -8,7 +8,7 @@ export const theNewWorld0167208Ripples = {
   story: "the-new-world",
   position: 167,
   ownLength: 3105,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

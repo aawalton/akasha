@@ -8,7 +8,7 @@ export const theNewWorld0406446ToEvokeAwe = {
   story: "the-new-world",
   position: 406,
   ownLength: 4520,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

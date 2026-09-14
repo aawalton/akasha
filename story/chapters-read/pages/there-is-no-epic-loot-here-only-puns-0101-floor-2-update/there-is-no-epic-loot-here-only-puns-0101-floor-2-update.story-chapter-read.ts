@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0101Floor2Update = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 101,
   ownLength: 68,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

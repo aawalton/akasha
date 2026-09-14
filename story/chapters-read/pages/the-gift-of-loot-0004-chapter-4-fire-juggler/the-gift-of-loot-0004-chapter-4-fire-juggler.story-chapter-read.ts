@@ -8,7 +8,7 @@ export const theGiftOfLoot0004Chapter4FireJuggler = {
   story: "the-gift-of-loot",
   position: 4,
   ownLength: 2016,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

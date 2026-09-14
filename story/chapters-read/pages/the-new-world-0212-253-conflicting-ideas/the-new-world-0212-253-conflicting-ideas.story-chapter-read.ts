@@ -8,7 +8,7 @@ export const theNewWorld0212253ConflictingIdeas = {
   story: "the-new-world",
   position: 212,
   ownLength: 2889,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

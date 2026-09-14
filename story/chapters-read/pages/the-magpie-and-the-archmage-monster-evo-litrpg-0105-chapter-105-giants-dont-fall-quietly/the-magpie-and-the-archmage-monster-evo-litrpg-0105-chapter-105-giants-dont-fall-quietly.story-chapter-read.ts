@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0105Chapter105GiantsDontFall
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 105,
   ownLength: 2218,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

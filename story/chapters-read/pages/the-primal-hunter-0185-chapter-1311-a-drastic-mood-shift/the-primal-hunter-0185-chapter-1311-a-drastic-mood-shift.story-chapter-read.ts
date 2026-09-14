@@ -8,7 +8,7 @@ export const thePrimalHunter0185Chapter1311ADrasticMoodShift = {
   story: "story-read/the-primal-hunter",
   position: 185,
   ownLength: 2789,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

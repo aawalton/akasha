@@ -8,7 +8,7 @@ export const theNewWorld0111152ToClearAnInfestation = {
   story: "the-new-world",
   position: 111,
   ownLength: 2406,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

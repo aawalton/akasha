@@ -8,7 +8,7 @@ export const theGiftOfLoot0025Chapter25NotEvenAThankYou = {
   story: "the-gift-of-loot",
   position: 25,
   ownLength: 2465,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

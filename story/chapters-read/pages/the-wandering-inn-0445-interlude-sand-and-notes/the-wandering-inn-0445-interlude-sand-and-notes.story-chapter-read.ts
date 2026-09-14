@@ -9,7 +9,7 @@ export const theWanderingInn0445InterludeSandAndNotes = {
   position: 445,
   ownLength: 9062,
   ownProgress: 9217,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-10",
   externalIdentity: [
     {

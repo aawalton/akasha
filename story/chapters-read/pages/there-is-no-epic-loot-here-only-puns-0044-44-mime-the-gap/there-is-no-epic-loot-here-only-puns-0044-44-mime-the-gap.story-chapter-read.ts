@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns004444MimeTheGap = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 44,
   ownLength: 3322,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

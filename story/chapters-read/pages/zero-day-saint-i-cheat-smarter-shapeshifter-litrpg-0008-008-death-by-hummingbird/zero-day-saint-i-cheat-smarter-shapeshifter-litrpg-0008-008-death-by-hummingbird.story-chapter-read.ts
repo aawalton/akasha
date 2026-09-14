@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0008008DeathByHummingbir
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 8,
   ownLength: 2063,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

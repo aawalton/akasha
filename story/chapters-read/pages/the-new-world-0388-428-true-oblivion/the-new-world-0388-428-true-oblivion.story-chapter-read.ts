@@ -8,7 +8,7 @@ export const theNewWorld0388428TrueOblivion = {
   story: "the-new-world",
   position: 388,
   ownLength: 3230,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

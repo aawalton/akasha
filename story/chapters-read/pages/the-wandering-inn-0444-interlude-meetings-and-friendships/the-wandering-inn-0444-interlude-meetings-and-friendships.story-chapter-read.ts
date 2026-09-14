@@ -9,7 +9,7 @@ export const theWanderingInn0444InterludeMeetingsAndFriendships = {
   position: 444,
   ownLength: 12855,
   ownProgress: 12987,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-09",
   externalIdentity: [
     {

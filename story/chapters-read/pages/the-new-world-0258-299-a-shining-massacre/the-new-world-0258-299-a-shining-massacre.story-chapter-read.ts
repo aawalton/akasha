@@ -8,7 +8,7 @@ export const theNewWorld0258299AShiningMassacre = {
   story: "the-new-world",
   position: 258,
   ownLength: 4261,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

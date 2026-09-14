@@ -8,7 +8,7 @@ export const thePrimalHunter0022Chapter1150ReturnOfTheKing2GoldEdition = {
   story: "story-read/the-primal-hunter",
   position: 22,
   ownLength: 2709,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

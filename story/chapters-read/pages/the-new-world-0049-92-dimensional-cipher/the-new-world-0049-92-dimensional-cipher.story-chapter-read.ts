@@ -8,7 +8,7 @@ export const theNewWorld004992DimensionalCipher = {
   story: "the-new-world",
   position: 49,
   ownLength: 3620,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

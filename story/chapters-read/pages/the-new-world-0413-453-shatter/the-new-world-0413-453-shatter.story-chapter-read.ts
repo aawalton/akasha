@@ -8,7 +8,7 @@ export const theNewWorld0413453Shatter = {
   story: "the-new-world",
   position: 413,
   ownLength: 4348,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

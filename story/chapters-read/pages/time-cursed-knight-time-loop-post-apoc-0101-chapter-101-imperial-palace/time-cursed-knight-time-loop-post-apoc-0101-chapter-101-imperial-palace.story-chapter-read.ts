@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0101Chapter101ImperialPalace = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 101,
   ownLength: 2220,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

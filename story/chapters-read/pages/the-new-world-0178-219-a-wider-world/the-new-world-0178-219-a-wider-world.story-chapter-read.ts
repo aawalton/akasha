@@ -8,7 +8,7 @@ export const theNewWorld0178219AWiderWorld = {
   story: "the-new-world",
   position: 178,
   ownLength: 4182,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0081Chapter80TheMorningOfM
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 81,
   ownLength: 2104,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

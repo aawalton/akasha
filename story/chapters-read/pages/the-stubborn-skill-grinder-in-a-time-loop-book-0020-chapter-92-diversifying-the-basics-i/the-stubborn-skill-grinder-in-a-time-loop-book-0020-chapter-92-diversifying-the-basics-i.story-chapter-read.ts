@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0020Chapter92DiversifyingTheB
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 20,
   ownLength: 14765,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

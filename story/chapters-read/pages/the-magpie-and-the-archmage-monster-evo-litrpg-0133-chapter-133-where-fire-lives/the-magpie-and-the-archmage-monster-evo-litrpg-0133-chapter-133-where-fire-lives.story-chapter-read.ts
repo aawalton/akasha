@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0133Chapter133WhereFireLives
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 133,
   ownLength: 1934,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

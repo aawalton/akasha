@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0014Chapter14HuntTheJuicie
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 14,
   ownLength: 1475,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

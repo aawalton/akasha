@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0082Chapter82FogOfAbylport =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 82,
   ownLength: 2173,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

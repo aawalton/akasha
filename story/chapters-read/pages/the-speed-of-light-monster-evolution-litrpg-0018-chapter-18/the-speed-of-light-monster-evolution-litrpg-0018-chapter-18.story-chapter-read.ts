@@ -8,7 +8,7 @@ export const theSpeedOfLightMonsterEvolutionLitrpg0018Chapter18 = {
   story: "the-speed-of-light-monster-evolution-litrpg",
   position: 18,
   ownLength: 2327,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

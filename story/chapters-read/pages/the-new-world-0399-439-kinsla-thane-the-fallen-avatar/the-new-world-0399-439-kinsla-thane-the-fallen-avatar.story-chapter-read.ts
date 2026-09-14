@@ -8,7 +8,7 @@ export const theNewWorld0399439KinslaThaneTheFallenAvatar = {
   story: "the-new-world",
   position: 399,
   ownLength: 3850,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

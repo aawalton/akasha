@@ -8,7 +8,7 @@ export const theNewWorld0171212Fallout = {
   story: "the-new-world",
   position: 171,
   ownLength: 3146,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

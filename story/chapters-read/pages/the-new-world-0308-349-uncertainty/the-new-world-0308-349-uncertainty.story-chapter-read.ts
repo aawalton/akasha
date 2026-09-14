@@ -8,7 +8,7 @@ export const theNewWorld0308349Uncertainty = {
   story: "the-new-world",
   position: 308,
   ownLength: 4613,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

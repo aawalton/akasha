@@ -9,7 +9,7 @@ export const theWanderingInn0515InterludeLuanTheGiant = {
   position: 515,
   ownLength: 19768,
   ownProgress: 19917,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-08",
   externalIdentity: [
     {

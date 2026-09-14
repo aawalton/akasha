@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0060060FissionGotNuked =
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 60,
   ownLength: 1657,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

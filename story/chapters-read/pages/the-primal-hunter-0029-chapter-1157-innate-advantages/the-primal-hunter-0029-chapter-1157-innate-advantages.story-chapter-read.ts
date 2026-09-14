@@ -8,7 +8,7 @@ export const thePrimalHunter0029Chapter1157InnateAdvantages = {
   story: "story-read/the-primal-hunter",
   position: 29,
   ownLength: 2687,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

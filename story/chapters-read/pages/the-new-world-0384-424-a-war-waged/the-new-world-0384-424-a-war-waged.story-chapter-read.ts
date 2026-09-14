@@ -8,7 +8,7 @@ export const theNewWorld0384424AWarWaged = {
   story: "the-new-world",
   position: 384,
   ownLength: 5530,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

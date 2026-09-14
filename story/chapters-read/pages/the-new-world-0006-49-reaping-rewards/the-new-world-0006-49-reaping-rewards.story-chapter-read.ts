@@ -8,7 +8,7 @@ export const theNewWorld000649ReapingRewards = {
   story: "the-new-world",
   position: 6,
   ownLength: 3508,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theGiftOfLoot0009Chapter9FirstStepToLevel2 = {
   story: "the-gift-of-loot",
   position: 9,
   ownLength: 2172,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

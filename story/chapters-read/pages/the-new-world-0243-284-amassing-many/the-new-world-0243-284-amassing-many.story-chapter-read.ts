@@ -8,7 +8,7 @@ export const theNewWorld0243284AmassingMany = {
   story: "the-new-world",
   position: 243,
   ownLength: 5116,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

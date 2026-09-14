@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0130Chapter128OfMeatMounta
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 130,
   ownLength: 3189,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

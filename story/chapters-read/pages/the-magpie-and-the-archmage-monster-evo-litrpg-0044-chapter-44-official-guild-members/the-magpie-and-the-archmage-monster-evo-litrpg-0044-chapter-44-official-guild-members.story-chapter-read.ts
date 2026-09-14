@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0044Chapter44OfficialGuildMe
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 44,
   ownLength: 2260,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

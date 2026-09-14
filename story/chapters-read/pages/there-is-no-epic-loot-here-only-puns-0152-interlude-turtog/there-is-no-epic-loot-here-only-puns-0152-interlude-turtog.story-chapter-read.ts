@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0152InterludeTurtog = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 152,
   ownLength: 5227,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

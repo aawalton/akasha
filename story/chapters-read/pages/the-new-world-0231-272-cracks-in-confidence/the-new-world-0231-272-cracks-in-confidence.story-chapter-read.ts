@@ -8,7 +8,7 @@ export const theNewWorld0231272CracksInConfidence = {
   story: "the-new-world",
   position: 231,
   ownLength: 6262,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

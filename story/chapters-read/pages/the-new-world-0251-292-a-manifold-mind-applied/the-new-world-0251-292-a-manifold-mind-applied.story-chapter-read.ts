@@ -8,7 +8,7 @@ export const theNewWorld0251292AManifoldMindApplied = {
   story: "the-new-world",
   position: 251,
   ownLength: 6151,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

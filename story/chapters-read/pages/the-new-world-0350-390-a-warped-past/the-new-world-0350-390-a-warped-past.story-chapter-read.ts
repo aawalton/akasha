@@ -8,7 +8,7 @@ export const theNewWorld0350390AWarpedPast = {
   story: "the-new-world",
   position: 350,
   ownLength: 5334,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

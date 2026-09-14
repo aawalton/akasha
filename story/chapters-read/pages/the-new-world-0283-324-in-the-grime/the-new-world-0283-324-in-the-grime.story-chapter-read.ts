@@ -8,7 +8,7 @@ export const theNewWorld0283324InTheGrime = {
   story: "the-new-world",
   position: 283,
   ownLength: 3198,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

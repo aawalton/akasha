@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0024Chapter95TrainTeachDieRep
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 24,
   ownLength: 18096,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

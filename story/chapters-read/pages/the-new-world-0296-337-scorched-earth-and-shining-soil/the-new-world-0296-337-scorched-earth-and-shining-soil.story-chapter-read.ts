@@ -8,7 +8,7 @@ export const theNewWorld0296337ScorchedEarthAndShiningSoil = {
   story: "the-new-world",
   position: 296,
   ownLength: 3282,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0424464TheDepthOfAFringeWalker = {
   story: "the-new-world",
   position: 424,
   ownLength: 7815,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

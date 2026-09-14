@@ -8,7 +8,7 @@ export const thePrimalHunter0212Chapter1338NightmareNeighbor = {
   story: "story-read/the-primal-hunter",
   position: 212,
   ownLength: 2676,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

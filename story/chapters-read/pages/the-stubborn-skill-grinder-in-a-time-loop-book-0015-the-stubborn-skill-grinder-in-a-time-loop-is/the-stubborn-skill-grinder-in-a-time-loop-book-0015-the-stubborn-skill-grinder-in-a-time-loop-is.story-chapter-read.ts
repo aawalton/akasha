@@ -9,7 +9,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0015TheStubbornSkillGrinderIn
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 15,
   ownLength: 89,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

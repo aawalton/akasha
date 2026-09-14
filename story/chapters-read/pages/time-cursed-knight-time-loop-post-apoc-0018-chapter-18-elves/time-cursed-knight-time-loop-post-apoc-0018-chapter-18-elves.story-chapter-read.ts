@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0018Chapter18Elves = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 18,
   ownLength: 2465,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

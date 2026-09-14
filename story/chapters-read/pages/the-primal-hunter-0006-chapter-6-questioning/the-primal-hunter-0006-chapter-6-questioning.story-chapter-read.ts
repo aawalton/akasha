@@ -8,7 +8,7 @@ export const thePrimalHunter0006Chapter6Questioning = {
   story: "story-read/the-primal-hunter",
   position: 6,
   ownLength: 2514,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

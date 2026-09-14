@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0042Chapter42MaskSlips = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 42,
   ownLength: 1910,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

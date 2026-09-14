@@ -8,7 +8,7 @@ export const theNewWorld0222263AnAdjustment = {
   story: "the-new-world",
   position: 222,
   ownLength: 4157,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

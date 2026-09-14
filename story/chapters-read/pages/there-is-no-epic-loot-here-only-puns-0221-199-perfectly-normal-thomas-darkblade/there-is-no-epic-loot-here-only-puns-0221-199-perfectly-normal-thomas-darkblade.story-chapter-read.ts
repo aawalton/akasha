@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0221199PerfectlyNormalThomasDarkblade 
   story: "there-is-no-epic-loot-here-only-puns",
   position: 221,
   ownLength: 2944,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

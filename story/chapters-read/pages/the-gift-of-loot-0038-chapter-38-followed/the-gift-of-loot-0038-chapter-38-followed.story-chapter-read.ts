@@ -8,7 +8,7 @@ export const theGiftOfLoot0038Chapter38Followed = {
   story: "the-gift-of-loot",
   position: 38,
   ownLength: 3387,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

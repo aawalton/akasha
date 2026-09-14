@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0009Chapter9MeatForPower =
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 9,
   ownLength: 1535,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

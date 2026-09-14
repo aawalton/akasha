@@ -8,7 +8,7 @@ export const thePrimalHunter0048Chapter1176ADishToRemember = {
   story: "story-read/the-primal-hunter",
   position: 48,
   ownLength: 2877,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

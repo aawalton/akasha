@@ -9,7 +9,7 @@ export const theWanderingInn0347InterludeNumbtonguePt1 = {
   position: 347,
   ownLength: 19736,
   ownProgress: 19736,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-07-30",
   externalIdentity: [
     {

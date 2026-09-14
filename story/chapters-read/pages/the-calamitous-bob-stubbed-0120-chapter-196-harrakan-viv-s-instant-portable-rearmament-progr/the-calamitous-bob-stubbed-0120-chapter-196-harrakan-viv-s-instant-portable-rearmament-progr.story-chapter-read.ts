@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0120Chapter196HarrakanVivSInstantPortableRea
   story: "the-calamitous-bob-stubbed",
   position: 120,
   ownLength: 5551,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

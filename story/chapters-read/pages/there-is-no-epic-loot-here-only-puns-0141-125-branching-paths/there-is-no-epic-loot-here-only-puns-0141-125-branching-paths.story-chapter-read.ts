@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0141125BranchingPaths = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 141,
   ownLength: 3839,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0247288ATargetedApproach = {
   story: "the-new-world",
   position: 247,
   ownLength: 7355,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

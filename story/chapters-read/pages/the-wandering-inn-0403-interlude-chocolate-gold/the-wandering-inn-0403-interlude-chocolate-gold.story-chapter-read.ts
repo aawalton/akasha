@@ -9,7 +9,7 @@ export const theWanderingInn0403InterludeChocolateGold = {
   position: 403,
   ownLength: 6217,
   ownProgress: 6217,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-04",
   externalIdentity: [
     {

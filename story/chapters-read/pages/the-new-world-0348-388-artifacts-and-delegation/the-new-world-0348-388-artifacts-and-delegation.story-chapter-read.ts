@@ -8,7 +8,7 @@ export const theNewWorld0348388ArtifactsAndDelegation = {
   story: "the-new-world",
   position: 348,
   ownLength: 3774,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

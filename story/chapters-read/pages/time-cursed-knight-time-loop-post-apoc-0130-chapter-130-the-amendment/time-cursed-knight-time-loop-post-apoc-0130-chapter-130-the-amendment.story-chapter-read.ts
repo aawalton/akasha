@@ -6,7 +6,7 @@ export const timeCursedKnightTimeLoopPostApoc0130Chapter130TheAmendment = {
   slug: "time-cursed-knight-time-loop-post-apoc-0130-chapter-130-the-amendment",
   position: 130,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

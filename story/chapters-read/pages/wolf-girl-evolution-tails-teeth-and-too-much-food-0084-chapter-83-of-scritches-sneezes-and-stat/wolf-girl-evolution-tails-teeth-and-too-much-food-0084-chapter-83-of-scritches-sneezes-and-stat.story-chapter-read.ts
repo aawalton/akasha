@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0084Chapter83OfScritchesSn
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 84,
   ownLength: 2167,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

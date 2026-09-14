@@ -9,7 +9,7 @@ export const theWanderingInn07321023Lmgy = {
   position: 732,
   ownLength: 29056,
   ownProgress: 29420,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-08",
   externalIdentity: [
     {

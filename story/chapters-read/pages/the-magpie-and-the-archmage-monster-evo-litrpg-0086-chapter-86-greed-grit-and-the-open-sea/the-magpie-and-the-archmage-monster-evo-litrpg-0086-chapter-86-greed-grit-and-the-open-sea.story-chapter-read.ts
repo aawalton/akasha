@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0086Chapter86GreedGritAndThe
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 86,
   ownLength: 2138,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

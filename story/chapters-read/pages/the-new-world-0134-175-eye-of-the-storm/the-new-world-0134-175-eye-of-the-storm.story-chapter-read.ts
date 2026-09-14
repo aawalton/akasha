@@ -8,7 +8,7 @@ export const theNewWorld0134175EyeOfTheStorm = {
   story: "the-new-world",
   position: 134,
   ownLength: 2378,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

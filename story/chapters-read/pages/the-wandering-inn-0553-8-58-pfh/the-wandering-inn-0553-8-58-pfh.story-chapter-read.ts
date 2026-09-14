@@ -9,7 +9,7 @@ export const theWanderingInn0553858Pfh = {
   position: 553,
   ownLength: 23478,
   ownProgress: 23742,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-12-15",
   externalIdentity: [
     { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2021/12/15/8-58-pfh/" },

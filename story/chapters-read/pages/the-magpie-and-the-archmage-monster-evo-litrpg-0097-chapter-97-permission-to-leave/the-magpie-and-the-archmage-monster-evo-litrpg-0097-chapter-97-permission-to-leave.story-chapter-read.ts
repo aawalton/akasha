@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0097Chapter97PermissionToLea
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 97,
   ownLength: 1893,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0102Chapter1230ALuckyMan = {
   story: "story-read/the-primal-hunter",
   position: 102,
   ownLength: 2599,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

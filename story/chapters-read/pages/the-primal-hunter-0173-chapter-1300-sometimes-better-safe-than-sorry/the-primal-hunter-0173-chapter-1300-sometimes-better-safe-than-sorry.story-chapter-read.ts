@@ -8,7 +8,7 @@ export const thePrimalHunter0173Chapter1300SometimesBetterSafeThanSorry = {
   story: "story-read/the-primal-hunter",
   position: 173,
   ownLength: 2946,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

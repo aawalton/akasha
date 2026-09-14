@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0139Chapter139YouveGotToBeKi
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 139,
   ownLength: 2021,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

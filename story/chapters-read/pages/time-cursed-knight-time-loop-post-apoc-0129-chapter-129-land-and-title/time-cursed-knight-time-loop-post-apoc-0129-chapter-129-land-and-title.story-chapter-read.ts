@@ -6,7 +6,7 @@ export const timeCursedKnightTimeLoopPostApoc0129Chapter129LandAndTitle = {
   slug: "time-cursed-knight-time-loop-post-apoc-0129-chapter-129-land-and-title",
   position: 129,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

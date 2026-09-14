@@ -8,7 +8,7 @@ export const theNewWorld0125166Yildraza = {
   story: "the-new-world",
   position: 125,
   ownLength: 2961,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

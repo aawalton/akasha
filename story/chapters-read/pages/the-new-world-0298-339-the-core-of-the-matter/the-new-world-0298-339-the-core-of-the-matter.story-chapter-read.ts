@@ -8,7 +8,7 @@ export const theNewWorld0298339TheCoreOfTheMatter = {
   story: "the-new-world",
   position: 298,
   ownLength: 3326,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

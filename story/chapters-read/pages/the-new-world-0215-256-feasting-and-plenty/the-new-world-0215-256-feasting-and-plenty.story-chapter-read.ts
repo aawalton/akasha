@@ -8,7 +8,7 @@ export const theNewWorld0215256FeastingAndPlenty = {
   story: "the-new-world",
   position: 215,
   ownLength: 2993,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

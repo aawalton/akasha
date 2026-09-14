@@ -8,7 +8,7 @@ export const theNewWorld0326367AnEmptyPurgatory = {
   story: "the-new-world",
   position: 326,
   ownLength: 5414,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

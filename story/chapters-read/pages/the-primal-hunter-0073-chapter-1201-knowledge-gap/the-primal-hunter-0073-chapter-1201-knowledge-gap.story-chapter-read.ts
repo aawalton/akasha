@@ -8,7 +8,7 @@ export const thePrimalHunter0073Chapter1201KnowledgeGap = {
   story: "story-read/the-primal-hunter",
   position: 73,
   ownLength: 2992,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

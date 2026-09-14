@@ -8,7 +8,7 @@ export const thePrimalHunter0191Chapter1317TermsOfEquality = {
   story: "story-read/the-primal-hunter",
   position: 191,
   ownLength: 2986,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

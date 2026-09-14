@@ -9,7 +9,7 @@ export const theWanderingInn0645InterludeBrewingSariants = {
   position: 645,
   ownLength: 16894,
   ownProgress: 17233,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-19",
   externalIdentity: [
     {

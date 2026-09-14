@@ -8,7 +8,7 @@ export const theNewWorld0249290AnArchmage = {
   story: "the-new-world",
   position: 249,
   ownLength: 3114,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

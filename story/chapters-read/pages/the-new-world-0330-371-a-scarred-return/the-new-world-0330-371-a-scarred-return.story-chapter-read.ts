@@ -8,7 +8,7 @@ export const theNewWorld0330371AScarredReturn = {
   story: "the-new-world",
   position: 330,
   ownLength: 3676,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

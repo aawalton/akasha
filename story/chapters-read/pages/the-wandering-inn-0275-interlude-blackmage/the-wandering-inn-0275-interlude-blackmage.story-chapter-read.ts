@@ -9,7 +9,7 @@ export const theWanderingInn0275InterludeBlackmage = {
   position: 275,
   ownLength: 12524,
   ownProgress: 12524,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-01",
   externalIdentity: [
     {

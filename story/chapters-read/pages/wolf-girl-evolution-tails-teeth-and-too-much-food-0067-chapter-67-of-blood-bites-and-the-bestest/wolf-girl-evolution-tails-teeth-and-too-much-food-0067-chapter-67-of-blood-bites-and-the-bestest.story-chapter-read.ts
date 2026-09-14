@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0067Chapter67OfBloodBitesA
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 67,
   ownLength: 1986,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

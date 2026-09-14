@@ -9,7 +9,7 @@ export const theWanderingInn0341InterludeEmbria = {
   position: 341,
   ownLength: 22404,
   ownProgress: 22424,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-07-02",
   externalIdentity: [
     {

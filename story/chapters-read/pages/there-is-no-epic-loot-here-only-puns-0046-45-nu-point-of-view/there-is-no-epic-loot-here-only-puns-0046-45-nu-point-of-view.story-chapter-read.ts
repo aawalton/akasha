@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns004645NuPointOfView = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 46,
   ownLength: 4321,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

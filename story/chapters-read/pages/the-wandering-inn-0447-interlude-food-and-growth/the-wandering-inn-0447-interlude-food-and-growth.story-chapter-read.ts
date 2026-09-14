@@ -9,7 +9,7 @@ export const theWanderingInn0447InterludeFoodAndGrowth = {
   position: 447,
   ownLength: 6296,
   ownProgress: 6475,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-12",
   externalIdentity: [
     {

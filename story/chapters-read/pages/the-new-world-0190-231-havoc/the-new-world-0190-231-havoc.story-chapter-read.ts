@@ -8,7 +8,7 @@ export const theNewWorld0190231Havoc = {
   story: "the-new-world",
   position: 190,
   ownLength: 3872,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

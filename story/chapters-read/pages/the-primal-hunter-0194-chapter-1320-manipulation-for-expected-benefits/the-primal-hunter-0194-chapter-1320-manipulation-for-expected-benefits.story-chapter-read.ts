@@ -8,7 +8,7 @@ export const thePrimalHunter0194Chapter1320ManipulationForExpectedBenefits = {
   story: "story-read/the-primal-hunter",
   position: 194,
   ownLength: 2808,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

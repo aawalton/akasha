@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0143Chapter143Petunias = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 143,
   ownLength: 2070,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0007Chapter80AChaoticStartToA
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 7,
   ownLength: 17464,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

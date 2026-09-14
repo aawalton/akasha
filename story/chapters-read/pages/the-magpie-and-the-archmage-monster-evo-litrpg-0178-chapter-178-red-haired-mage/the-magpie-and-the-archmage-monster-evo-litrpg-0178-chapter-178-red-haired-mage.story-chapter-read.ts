@@ -6,7 +6,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0178Chapter178RedHairedMage 
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0178-chapter-178-red-haired-mage",
   position: 178,
   publishedAt: "2026-09-12",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

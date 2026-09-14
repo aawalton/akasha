@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0073Chapter73Selim = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 73,
   ownLength: 2804,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0117Chapter1245MinagaSAwesomeAndIllustriousLabyrinth
   story: "story-read/the-primal-hunter",
   position: 117,
   ownLength: 2645,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0106Chapter106RainOfStone = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 106,
   ownLength: 2066,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

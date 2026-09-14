@@ -8,7 +8,7 @@ export const theGiftOfLoot0059Chapter59HailMary = {
   story: "the-gift-of-loot",
   position: 59,
   ownLength: 2211,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

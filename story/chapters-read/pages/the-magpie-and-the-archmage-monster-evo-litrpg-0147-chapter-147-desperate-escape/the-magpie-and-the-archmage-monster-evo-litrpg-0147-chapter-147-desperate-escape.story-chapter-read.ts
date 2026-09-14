@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0147Chapter147DesperateEscap
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 147,
   ownLength: 2112,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

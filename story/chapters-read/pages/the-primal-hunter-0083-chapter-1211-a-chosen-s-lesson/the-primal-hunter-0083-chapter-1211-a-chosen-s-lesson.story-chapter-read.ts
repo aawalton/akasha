@@ -8,7 +8,7 @@ export const thePrimalHunter0083Chapter1211AChosenSLesson = {
   story: "story-read/the-primal-hunter",
   position: 83,
   ownLength: 2834,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

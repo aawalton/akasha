@@ -8,7 +8,7 @@ export const theNewWorld0211252Energized = {
   story: "the-new-world",
   position: 211,
   ownLength: 2946,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

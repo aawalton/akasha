@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0100Chapter178WeightOfThePast = {
   story: "the-calamitous-bob-stubbed",
   position: 100,
   ownLength: 6713,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

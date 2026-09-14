@@ -8,7 +8,7 @@ export const thePrimalHunter0069Chapter1197AnUnaVoidAbleGamble = {
   story: "story-read/the-primal-hunter",
   position: 69,
   ownLength: 2730,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

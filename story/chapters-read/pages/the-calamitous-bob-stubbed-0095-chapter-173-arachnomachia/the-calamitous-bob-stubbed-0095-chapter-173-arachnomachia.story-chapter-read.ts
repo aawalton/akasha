@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0095Chapter173Arachnomachia = {
   story: "the-calamitous-bob-stubbed",
   position: 95,
   ownLength: 5174,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

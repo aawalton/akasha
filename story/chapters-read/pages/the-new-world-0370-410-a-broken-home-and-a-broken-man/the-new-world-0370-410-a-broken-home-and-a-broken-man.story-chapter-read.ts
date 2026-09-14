@@ -8,7 +8,7 @@ export const theNewWorld0370410ABrokenHomeAndABrokenMan = {
   story: "the-new-world",
   position: 370,
   ownLength: 2957,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

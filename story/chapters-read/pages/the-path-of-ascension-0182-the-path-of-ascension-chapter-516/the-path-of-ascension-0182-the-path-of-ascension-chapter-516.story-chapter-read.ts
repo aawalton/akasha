@@ -7,7 +7,7 @@ export const thePathOfAscension0182ThePathOfAscensionChapter516 = {
   story: "story-read/the-path-of-ascension",
   position: 182,
   publishedAt: "2026-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

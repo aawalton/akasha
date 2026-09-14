@@ -8,7 +8,7 @@ export const theNewWorld0116157Fluidity = {
   story: "the-new-world",
   position: 116,
   ownLength: 3392,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

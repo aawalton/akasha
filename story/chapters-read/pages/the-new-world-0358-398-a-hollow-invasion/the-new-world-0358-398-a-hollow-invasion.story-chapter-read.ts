@@ -8,7 +8,7 @@ export const theNewWorld0358398AHollowInvasion = {
   story: "the-new-world",
   position: 358,
   ownLength: 4809,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

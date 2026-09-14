@@ -8,7 +8,7 @@ export const thePrimalHunter0235Chapter1361GoldenFlowersOfAbundance = {
   story: "story-read/the-primal-hunter",
   position: 235,
   ownLength: 2667,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

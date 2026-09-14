@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0072Chapter72FeathersAndFrac
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 72,
   ownLength: 2084,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

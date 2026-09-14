@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns002222TheGreenhouseEffect = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 22,
   ownLength: 2403,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

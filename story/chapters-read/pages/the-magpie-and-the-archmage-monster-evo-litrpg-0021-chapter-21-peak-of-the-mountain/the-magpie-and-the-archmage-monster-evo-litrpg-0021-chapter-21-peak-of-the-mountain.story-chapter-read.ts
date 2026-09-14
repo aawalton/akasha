@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0021Chapter21PeakOfTheMounta
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 21,
   ownLength: 2089,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

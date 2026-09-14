@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0118Chapter117Anticipating
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 118,
   ownLength: 2900,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

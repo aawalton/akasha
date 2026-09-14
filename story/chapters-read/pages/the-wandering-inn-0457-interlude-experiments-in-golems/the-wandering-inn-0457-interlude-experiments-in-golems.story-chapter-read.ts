@@ -9,7 +9,7 @@ export const theWanderingInn0457InterludeExperimentsInGolems = {
   position: 457,
   ownLength: 29714,
   ownProgress: 29993,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-04",
   externalIdentity: [
     {

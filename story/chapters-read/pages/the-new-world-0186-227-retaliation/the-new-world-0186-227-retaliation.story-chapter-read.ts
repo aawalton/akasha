@@ -8,7 +8,7 @@ export const theNewWorld0186227Retaliation = {
   story: "the-new-world",
   position: 186,
   ownLength: 4547,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

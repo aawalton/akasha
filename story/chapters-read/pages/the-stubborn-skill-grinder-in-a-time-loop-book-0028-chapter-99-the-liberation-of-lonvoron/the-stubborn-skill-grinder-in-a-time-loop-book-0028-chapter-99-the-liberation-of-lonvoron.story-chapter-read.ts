@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0028Chapter99TheLiberationOfL
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 28,
   ownLength: 15179,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

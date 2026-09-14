@@ -8,7 +8,7 @@ export const thePrimalHunter0197Chapter1323ToFocusOnPersonalProgress = {
   story: "story-read/the-primal-hunter",
   position: 197,
   ownLength: 2783,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

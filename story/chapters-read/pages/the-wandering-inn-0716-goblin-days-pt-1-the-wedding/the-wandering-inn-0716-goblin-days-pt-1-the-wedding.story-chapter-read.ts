@@ -9,7 +9,7 @@ export const theWanderingInn0716GoblinDaysPt1TheWedding = {
   position: 716,
   ownLength: 12781,
   ownProgress: 13285,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-28",
   externalIdentity: [
     {

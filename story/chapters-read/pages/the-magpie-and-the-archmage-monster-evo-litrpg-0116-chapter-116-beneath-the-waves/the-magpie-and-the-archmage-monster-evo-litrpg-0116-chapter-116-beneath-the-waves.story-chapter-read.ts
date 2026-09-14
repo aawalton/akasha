@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0116Chapter116BeneathTheWave
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 116,
   ownLength: 2042,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

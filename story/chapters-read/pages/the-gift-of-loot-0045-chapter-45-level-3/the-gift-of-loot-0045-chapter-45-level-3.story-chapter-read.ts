@@ -8,7 +8,7 @@ export const theGiftOfLoot0045Chapter45Level3 = {
   story: "the-gift-of-loot",
   position: 45,
   ownLength: 2947,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

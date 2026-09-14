@@ -8,7 +8,7 @@ export const thePrimalHunter0161Chapter1364AnUnforgettableFoe = {
   story: "story-read/the-primal-hunter",
   position: 161,
   ownLength: 2791,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0169Chapter169IronscaleWyver
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 169,
   ownLength: 2081,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

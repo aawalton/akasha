@@ -9,7 +9,7 @@ export const theWanderingInn0394InterludeQueensAndDragons = {
   position: 394,
   ownLength: 11596,
   ownProgress: 11596,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-02-04",
   externalIdentity: [
     {

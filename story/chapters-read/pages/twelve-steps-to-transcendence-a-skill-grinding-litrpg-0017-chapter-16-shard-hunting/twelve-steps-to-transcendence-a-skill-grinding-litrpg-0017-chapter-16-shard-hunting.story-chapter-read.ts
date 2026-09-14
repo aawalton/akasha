@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0017Chapter16ShardHun
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 17,
   ownLength: 2680,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

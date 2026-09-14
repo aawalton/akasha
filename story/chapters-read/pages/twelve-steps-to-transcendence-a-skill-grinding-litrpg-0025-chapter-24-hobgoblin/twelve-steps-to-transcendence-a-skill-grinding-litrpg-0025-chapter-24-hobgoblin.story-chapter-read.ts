@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0025Chapter24Hobgobli
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 25,
   ownLength: 1798,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-04",
   externalIdentity: [
     {

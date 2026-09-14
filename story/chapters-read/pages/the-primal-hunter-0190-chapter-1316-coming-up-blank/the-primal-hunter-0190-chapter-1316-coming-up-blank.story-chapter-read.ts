@@ -8,7 +8,7 @@ export const thePrimalHunter0190Chapter1316ComingUpBlank = {
   story: "story-read/the-primal-hunter",
   position: 190,
   ownLength: 2961,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

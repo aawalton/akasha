@@ -8,7 +8,7 @@ export const theNewWorld0126167ThisbeyThorn = {
   story: "the-new-world",
   position: 126,
   ownLength: 3223,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

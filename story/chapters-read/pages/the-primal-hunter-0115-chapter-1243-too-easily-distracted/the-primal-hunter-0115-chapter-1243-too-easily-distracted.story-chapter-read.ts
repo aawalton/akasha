@@ -8,7 +8,7 @@ export const thePrimalHunter0115Chapter1243TooEasilyDistracted = {
   story: "story-read/the-primal-hunter",
   position: 115,
   ownLength: 2791,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

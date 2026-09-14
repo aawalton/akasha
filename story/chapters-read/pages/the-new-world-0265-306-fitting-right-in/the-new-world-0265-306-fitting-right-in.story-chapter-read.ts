@@ -8,7 +8,7 @@ export const theNewWorld0265306FittingRightIn = {
   story: "the-new-world",
   position: 265,
   ownLength: 4538,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

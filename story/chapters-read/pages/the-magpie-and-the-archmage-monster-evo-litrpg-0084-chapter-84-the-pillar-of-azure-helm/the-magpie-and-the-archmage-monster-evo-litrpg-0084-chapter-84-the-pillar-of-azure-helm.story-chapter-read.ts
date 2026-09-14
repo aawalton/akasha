@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0084Chapter84ThePillarOfAzur
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 84,
   ownLength: 1971,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

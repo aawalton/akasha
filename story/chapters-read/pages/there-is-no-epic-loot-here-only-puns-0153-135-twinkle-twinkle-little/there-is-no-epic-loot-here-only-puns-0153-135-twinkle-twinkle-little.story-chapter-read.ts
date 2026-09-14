@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0153135TwinkleTwinkleLittle = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 153,
   ownLength: 3689,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

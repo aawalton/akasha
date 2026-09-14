@@ -8,7 +8,7 @@ export const theNewWorld0374414ToKnowDeath = {
   story: "the-new-world",
   position: 374,
   ownLength: 5693,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

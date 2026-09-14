@@ -9,7 +9,7 @@ export const theWanderingInn0755TalesOfInnworld3 = {
   position: 755,
   ownLength: 0,
   ownProgress: 336,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const theGiftOfLoot0063Chapter63RegisterAct = {
   story: "the-gift-of-loot",
   position: 63,
   ownLength: 2799,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

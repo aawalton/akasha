@@ -8,7 +8,7 @@ export const theNewWorld0240281WielderOfMonsters = {
   story: "the-new-world",
   position: 240,
   ownLength: 5365,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

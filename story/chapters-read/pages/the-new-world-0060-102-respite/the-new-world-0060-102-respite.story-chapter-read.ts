@@ -8,7 +8,7 @@ export const theNewWorld0060102Respite = {
   story: "the-new-world",
   position: 60,
   ownLength: 4307,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

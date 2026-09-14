@@ -9,7 +9,7 @@ export const theWanderingInn0710InterludeAnotherTime = {
   position: 710,
   ownLength: 10863,
   ownProgress: 11150,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-07",
   externalIdentity: [
     {

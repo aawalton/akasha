@@ -8,7 +8,7 @@ export const theNewWorld0172213Breach = {
   story: "the-new-world",
   position: 172,
   ownLength: 4810,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

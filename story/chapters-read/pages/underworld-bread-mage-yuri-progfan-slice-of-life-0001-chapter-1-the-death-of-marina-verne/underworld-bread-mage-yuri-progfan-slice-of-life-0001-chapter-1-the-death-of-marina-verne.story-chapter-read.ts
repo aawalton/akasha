@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0001Chapter1TheDeathOfMari
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 1,
   ownLength: 1813,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

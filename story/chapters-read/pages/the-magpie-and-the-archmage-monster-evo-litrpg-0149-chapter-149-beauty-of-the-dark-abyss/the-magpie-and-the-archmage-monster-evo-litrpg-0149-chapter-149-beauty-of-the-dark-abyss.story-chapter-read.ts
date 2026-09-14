@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0149Chapter149BeautyOfTheDar
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 149,
   ownLength: 2234,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

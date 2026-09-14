@@ -9,7 +9,7 @@ export const theWanderingInn0429InterludeTheGeckoOfIllusions = {
   position: 429,
   ownLength: 24225,
   ownProgress: 24384,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-07",
   externalIdentity: [
     {

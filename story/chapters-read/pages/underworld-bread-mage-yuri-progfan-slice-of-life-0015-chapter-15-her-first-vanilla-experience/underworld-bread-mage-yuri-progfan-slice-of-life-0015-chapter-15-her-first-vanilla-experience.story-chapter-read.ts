@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0015Chapter15HerFirstVanil
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 15,
   ownLength: 1725,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

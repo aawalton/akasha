@@ -8,7 +8,7 @@ export const thePrimalHunter0220Chapter1346StormyWithAChanceOfFlamesAndArrows = 
   story: "story-read/the-primal-hunter",
   position: 220,
   ownLength: 2912,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

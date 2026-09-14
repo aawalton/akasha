@@ -8,7 +8,7 @@ export const theNewWorld0368408AnotherTimeInAnotherLife = {
   story: "the-new-world",
   position: 368,
   ownLength: 4627,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

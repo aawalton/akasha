@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0023Chapter23PickyFate = {
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 23,
   ownLength: 1284,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

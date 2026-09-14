@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0154Chapter151OfBestingBeh
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 154,
   ownLength: 2753,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

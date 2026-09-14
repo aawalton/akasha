@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0066Chapter66TheUnyieldingBa
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 66,
   ownLength: 1967,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

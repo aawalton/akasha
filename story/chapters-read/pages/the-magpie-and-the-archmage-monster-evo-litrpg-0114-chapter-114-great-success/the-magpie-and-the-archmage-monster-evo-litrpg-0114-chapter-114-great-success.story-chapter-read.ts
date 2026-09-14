@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0114Chapter114GreatSuccess =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 114,
   ownLength: 2142,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

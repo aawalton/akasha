@@ -8,7 +8,7 @@ export const theNewWorld002568TastingDeception = {
   story: "the-new-world",
   position: 25,
   ownLength: 3957,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

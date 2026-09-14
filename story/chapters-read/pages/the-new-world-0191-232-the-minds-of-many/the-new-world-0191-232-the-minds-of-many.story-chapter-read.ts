@@ -8,7 +8,7 @@ export const theNewWorld0191232TheMindsOfMany = {
   story: "the-new-world",
   position: 191,
   ownLength: 2566,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

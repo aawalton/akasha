@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0004Chapter3LadySerrsComtess
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 4,
   ownLength: 2257,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0295336TheDeathOfAMind = {
   story: "the-new-world",
   position: 295,
   ownLength: 7491,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

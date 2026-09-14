@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0074074TheFlame = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 74,
   ownLength: 2092,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

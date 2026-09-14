@@ -9,7 +9,7 @@ export const theWanderingInn0356InterludeTwoRats = {
   position: 356,
   ownLength: 24057,
   ownProgress: 24071,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-08-31",
   externalIdentity: [
     {

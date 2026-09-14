@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0030Chapter29Spar = {
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 30,
   ownLength: 1837,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-09",
   externalIdentity: [
     {

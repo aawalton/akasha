@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0034Chapter34Infiltration 
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 34,
   ownLength: 1361,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

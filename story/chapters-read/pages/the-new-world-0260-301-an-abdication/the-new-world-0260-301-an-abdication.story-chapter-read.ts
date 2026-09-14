@@ -8,7 +8,7 @@ export const theNewWorld0260301AnAbdication = {
   story: "the-new-world",
   position: 260,
   ownLength: 5934,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0175216TheHeavensWeep = {
   story: "the-new-world",
   position: 175,
   ownLength: 2254,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0021Book2IsAvailableOnKindleK
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 21,
   ownLength: 138,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

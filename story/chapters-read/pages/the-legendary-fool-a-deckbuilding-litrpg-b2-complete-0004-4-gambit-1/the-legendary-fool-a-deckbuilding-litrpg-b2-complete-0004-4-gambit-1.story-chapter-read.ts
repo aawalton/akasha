@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00044Gambit1 = {
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 4,
   ownLength: 1035,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

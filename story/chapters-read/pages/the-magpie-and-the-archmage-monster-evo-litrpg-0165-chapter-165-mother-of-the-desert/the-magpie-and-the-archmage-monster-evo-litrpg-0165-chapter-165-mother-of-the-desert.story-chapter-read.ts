@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0165Chapter165MotherOfTheDes
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 165,
   ownLength: 2090,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

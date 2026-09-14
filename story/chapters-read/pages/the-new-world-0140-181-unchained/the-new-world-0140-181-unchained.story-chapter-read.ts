@@ -8,7 +8,7 @@ export const theNewWorld0140181Unchained = {
   story: "the-new-world",
   position: 140,
   ownLength: 2847,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

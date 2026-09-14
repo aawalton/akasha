@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0096Chapter95OfCorrectiveZ
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 96,
   ownLength: 1943,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

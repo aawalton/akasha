@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0102Chapter101OfCampSafety
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 102,
   ownLength: 2206,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

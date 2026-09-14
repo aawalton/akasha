@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0021Chapter20ManaSens
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 21,
   ownLength: 2210,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

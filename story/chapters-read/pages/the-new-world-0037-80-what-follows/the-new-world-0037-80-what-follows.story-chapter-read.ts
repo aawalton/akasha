@@ -8,7 +8,7 @@ export const theNewWorld003780WhatFollows = {
   story: "the-new-world",
   position: 37,
   ownLength: 4482,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

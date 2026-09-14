@@ -9,7 +9,7 @@ export const theWanderingInn0487InterludeTheRevenantAndTheNaga = {
   position: 487,
   ownLength: 19128,
   ownProgress: 19298,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-24",
   externalIdentity: [
     {

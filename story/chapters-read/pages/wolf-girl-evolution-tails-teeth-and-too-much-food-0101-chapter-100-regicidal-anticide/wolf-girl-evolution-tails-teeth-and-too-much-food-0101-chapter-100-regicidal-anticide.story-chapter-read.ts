@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0101Chapter100RegicidalAnt
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 101,
   ownLength: 2708,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

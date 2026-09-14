@@ -8,7 +8,7 @@ export const theNewWorld0165206MeetingAnOldFriend = {
   story: "the-new-world",
   position: 165,
   ownLength: 3206,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

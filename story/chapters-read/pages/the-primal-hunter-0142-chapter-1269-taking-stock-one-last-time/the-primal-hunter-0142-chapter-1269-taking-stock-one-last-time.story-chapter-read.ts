@@ -8,7 +8,7 @@ export const thePrimalHunter0142Chapter1269TakingStockOneLastTime = {
   story: "story-read/the-primal-hunter",
   position: 142,
   ownLength: 2667,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

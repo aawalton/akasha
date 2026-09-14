@@ -8,7 +8,7 @@ export const theNewWorld0069111AnEnigma = {
   story: "the-new-world",
   position: 69,
   ownLength: 2539,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

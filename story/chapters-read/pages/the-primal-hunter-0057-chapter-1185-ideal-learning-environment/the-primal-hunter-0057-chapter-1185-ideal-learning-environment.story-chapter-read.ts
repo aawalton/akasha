@@ -8,7 +8,7 @@ export const thePrimalHunter0057Chapter1185IdealLearningEnvironment = {
   story: "story-read/the-primal-hunter",
   position: 57,
   ownLength: 2778,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

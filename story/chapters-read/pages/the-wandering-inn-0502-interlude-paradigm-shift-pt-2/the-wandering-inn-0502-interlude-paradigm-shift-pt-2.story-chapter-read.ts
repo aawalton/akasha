@@ -9,7 +9,7 @@ export const theWanderingInn0502InterludeParadigmShiftPt2 = {
   position: 502,
   ownLength: 20238,
   ownProgress: 20423,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-04",
   externalIdentity: [
     {

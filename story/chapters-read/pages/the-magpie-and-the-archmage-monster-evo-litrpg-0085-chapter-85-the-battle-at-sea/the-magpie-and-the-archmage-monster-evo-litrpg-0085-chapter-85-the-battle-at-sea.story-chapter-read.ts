@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0085Chapter85TheBattleAtSea 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 85,
   ownLength: 2052,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

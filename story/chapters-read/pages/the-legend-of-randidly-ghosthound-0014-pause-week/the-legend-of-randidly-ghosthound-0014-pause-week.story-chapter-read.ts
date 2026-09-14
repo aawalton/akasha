@@ -8,7 +8,7 @@ export const theLegendOfRandidlyGhosthound0014PauseWeek = {
   story: "story-read/the-legend-of-randidly-ghosthound",
   position: 14,
   ownLength: 263,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

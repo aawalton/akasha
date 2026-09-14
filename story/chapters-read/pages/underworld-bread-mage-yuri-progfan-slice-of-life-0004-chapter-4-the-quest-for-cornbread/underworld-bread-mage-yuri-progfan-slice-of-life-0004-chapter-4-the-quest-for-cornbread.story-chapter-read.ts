@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0004Chapter4TheQuestForCor
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 4,
   ownLength: 2123,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

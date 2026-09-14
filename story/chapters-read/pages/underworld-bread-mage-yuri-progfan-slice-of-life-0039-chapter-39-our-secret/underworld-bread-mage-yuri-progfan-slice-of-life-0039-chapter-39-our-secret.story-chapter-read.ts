@@ -6,7 +6,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0039Chapter39OurSecret = {
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0039-chapter-39-our-secret",
   position: 39,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

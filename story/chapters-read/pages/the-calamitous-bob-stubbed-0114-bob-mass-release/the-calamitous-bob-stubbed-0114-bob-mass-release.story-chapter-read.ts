@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0114BobMassRelease = {
   story: "the-calamitous-bob-stubbed",
   position: 114,
   ownLength: 210,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

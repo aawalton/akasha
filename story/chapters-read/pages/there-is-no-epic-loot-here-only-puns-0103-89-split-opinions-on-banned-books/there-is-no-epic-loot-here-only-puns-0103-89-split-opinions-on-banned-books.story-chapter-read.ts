@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns010389SplitOpinionsOnBannedBooks = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 103,
   ownLength: 4879,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

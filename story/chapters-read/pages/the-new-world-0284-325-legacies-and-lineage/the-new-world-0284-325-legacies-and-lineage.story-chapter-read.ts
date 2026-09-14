@@ -8,7 +8,7 @@ export const theNewWorld0284325LegaciesAndLineage = {
   story: "the-new-world",
   position: 284,
   ownLength: 3737,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

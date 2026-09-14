@@ -8,7 +8,7 @@ export const theNewWorld0124165Skyburner = {
   story: "the-new-world",
   position: 124,
   ownLength: 2715,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

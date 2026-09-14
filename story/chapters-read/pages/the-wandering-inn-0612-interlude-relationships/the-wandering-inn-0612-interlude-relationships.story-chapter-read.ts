@@ -9,7 +9,7 @@ export const theWanderingInn0612InterludeRelationships = {
   position: 612,
   ownLength: 23757,
   ownProgress: 24086,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-05",
   externalIdentity: [
     {

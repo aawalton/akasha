@@ -6,7 +6,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0084084AsATreat = {
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0084-084-as-a-treat",
   position: 84,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

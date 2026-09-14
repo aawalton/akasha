@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0128Chapter128SuspicionAndSi
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 128,
   ownLength: 2193,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

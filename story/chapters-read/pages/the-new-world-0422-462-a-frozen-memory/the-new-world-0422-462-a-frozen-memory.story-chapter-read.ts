@@ -8,7 +8,7 @@ export const theNewWorld0422462AFrozenMemory = {
   story: "the-new-world",
   position: 422,
   ownLength: 3426,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

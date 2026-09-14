@@ -8,7 +8,7 @@ export const theNewWorld0105146AligningTime = {
   story: "the-new-world",
   position: 105,
   ownLength: 3321,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

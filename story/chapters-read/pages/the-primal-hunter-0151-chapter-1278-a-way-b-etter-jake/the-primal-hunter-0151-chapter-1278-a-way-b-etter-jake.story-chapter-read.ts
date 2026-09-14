@@ -8,7 +8,7 @@ export const thePrimalHunter0151Chapter1278AWayBEtterJake = {
   story: "story-read/the-primal-hunter",
   position: 151,
   ownLength: 2890,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

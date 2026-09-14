@@ -8,7 +8,7 @@ export const theNewWorld0327368LeviathanSPull = {
   story: "the-new-world",
   position: 327,
   ownLength: 2405,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

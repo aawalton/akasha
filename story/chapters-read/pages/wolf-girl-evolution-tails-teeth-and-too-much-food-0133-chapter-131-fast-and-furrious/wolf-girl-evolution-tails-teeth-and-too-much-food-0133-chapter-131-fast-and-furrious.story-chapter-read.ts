@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0133Chapter131FastAndFurri
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 133,
   ownLength: 3151,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

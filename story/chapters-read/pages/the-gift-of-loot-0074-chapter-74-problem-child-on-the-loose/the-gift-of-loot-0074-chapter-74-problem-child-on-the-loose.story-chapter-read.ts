@@ -8,7 +8,7 @@ export const theGiftOfLoot0074Chapter74ProblemChildOnTheLoose = {
   story: "the-gift-of-loot",
   position: 74,
   ownLength: 3162,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

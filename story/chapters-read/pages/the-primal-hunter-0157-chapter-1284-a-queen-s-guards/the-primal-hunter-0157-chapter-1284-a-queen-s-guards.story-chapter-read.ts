@@ -8,7 +8,7 @@ export const thePrimalHunter0157Chapter1284AQueenSGuards = {
   story: "story-read/the-primal-hunter",
   position: 157,
   ownLength: 3511,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

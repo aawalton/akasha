@@ -8,7 +8,7 @@ export const theNewWorld0065107AjaxVolan = {
   story: "the-new-world",
   position: 65,
   ownLength: 4153,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

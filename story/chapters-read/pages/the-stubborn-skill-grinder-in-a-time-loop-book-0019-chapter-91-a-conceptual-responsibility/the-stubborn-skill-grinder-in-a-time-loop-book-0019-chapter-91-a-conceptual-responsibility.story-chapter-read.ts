@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0019Chapter91AConceptualRespo
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 19,
   ownLength: 15675,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

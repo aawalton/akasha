@@ -8,7 +8,7 @@ export const thePrimalHunter0116Chapter1244InvasivePersonalQuestions = {
   story: "story-read/the-primal-hunter",
   position: 116,
   ownLength: 2622,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0180Chapter1306ArachnecNest = {
   story: "story-read/the-primal-hunter",
   position: 180,
   ownLength: 2793,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

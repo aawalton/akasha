@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0122Chapter122NeverAgain = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 122,
   ownLength: 2280,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

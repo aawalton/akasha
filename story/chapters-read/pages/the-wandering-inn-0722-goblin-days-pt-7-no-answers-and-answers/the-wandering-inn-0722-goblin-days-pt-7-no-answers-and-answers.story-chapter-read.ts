@@ -9,7 +9,7 @@ export const theWanderingInn0722GoblinDaysPt7NoAnswersAndAnswers = {
   position: 722,
   ownLength: 16667,
   ownProgress: 17122,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-02",
   externalIdentity: [
     {

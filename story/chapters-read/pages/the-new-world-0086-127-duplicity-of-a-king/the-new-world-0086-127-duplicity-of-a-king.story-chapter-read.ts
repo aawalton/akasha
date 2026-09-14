@@ -8,7 +8,7 @@ export const theNewWorld0086127DuplicityOfAKing = {
   story: "the-new-world",
   position: 86,
   ownLength: 3661,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

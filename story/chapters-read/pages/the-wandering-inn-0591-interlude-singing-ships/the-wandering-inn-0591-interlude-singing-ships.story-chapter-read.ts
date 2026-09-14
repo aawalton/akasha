@@ -9,7 +9,7 @@ export const theWanderingInn0591InterludeSingingShips = {
   position: 591,
   ownLength: 15740,
   ownProgress: 16153,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-18",
   externalIdentity: [
     {

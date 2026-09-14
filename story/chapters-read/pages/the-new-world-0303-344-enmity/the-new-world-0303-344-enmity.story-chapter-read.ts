@@ -8,7 +8,7 @@ export const theNewWorld0303344Enmity = {
   story: "the-new-world",
   position: 303,
   ownLength: 1225,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const theWanderingInn0471InterludeTheInnkeeperSKnight = {
   position: 471,
   ownLength: 28703,
   ownProgress: 28912,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-06",
   externalIdentity: [
     {

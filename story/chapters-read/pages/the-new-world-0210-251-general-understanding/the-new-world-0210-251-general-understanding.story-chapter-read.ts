@@ -8,7 +8,7 @@ export const theNewWorld0210251GeneralUnderstanding = {
   story: "the-new-world",
   position: 210,
   ownLength: 3763,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

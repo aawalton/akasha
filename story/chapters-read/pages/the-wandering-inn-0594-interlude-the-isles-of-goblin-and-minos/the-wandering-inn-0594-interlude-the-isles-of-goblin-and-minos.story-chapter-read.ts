@@ -9,7 +9,7 @@ export const theWanderingInn0594InterludeTheIslesOfGoblinAndMinos = {
   position: 594,
   ownLength: 29442,
   ownProgress: 29583,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-05",
   externalIdentity: [
     {

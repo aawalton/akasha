@@ -8,7 +8,7 @@ export const theNewWorld003477Groundwork = {
   story: "the-new-world",
   position: 34,
   ownLength: 5371,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0277318PossibilitiesUnbounded = {
   story: "the-new-world",
   position: 277,
   ownLength: 2319,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

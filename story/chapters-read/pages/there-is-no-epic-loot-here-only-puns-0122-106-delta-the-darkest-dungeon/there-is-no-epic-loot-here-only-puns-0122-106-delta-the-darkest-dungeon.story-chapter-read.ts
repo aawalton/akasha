@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0122106DeltaTheDarkestDungeon = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 122,
   ownLength: 3266,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

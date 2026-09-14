@@ -8,7 +8,7 @@ export const thePrimalHunter0081Chapter1209HealthyForYou = {
   story: "story-read/the-primal-hunter",
   position: 81,
   ownLength: 2706,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

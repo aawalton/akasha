@@ -8,7 +8,7 @@ export const theNewWorld0080122Amara = {
   story: "the-new-world",
   position: 80,
   ownLength: 1698,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

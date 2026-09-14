@@ -7,7 +7,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0036Chapter36Insanity = {
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 36,
   publishedAt: "2026-09-03",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

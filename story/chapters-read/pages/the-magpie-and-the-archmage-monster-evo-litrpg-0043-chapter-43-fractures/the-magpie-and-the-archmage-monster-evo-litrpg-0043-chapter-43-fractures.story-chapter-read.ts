@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0043Chapter43Fractures = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 43,
   ownLength: 1979,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

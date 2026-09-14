@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0198177PractiseParadise = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 198,
   ownLength: 3523,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

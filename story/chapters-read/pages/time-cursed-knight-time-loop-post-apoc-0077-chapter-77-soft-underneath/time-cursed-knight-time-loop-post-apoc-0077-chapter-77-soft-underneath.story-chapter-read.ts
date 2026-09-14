@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0077Chapter77SoftUnderneath = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 77,
   ownLength: 2432,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const theWanderingInn0599InterludeMundanityAndMemorials = {
   position: 599,
   ownLength: 28648,
   ownProgress: 28904,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-30",
   externalIdentity: [
     {

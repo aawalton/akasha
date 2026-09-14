@@ -8,7 +8,7 @@ export const theNewWorld0346386AShadowReborn = {
   story: "the-new-world",
   position: 346,
   ownLength: 2973,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

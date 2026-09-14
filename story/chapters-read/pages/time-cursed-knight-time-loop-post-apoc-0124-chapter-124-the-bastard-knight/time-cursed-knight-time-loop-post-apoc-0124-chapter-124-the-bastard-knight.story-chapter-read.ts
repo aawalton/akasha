@@ -7,7 +7,7 @@ export const timeCursedKnightTimeLoopPostApoc0124Chapter124TheBastardKnight = {
   story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 124,
   publishedAt: "2026-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

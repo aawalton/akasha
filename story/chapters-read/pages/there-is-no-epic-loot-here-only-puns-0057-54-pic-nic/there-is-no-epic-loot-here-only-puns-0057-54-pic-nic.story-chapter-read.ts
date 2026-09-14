@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns005754PicNic = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 57,
   ownLength: 3788,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

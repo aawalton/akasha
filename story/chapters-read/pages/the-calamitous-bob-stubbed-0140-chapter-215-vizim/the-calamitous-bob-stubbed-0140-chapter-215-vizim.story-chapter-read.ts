@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0140Chapter215Vizim = {
   story: "the-calamitous-bob-stubbed",
   position: 140,
   ownLength: 6461,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

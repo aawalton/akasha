@@ -8,7 +8,7 @@ export const theNewWorld0101142OneAgainstMany = {
   story: "the-new-world",
   position: 101,
   ownLength: 4311,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

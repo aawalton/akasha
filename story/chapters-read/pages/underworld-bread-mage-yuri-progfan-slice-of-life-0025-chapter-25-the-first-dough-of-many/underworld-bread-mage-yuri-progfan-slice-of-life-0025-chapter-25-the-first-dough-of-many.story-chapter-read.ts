@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0025Chapter25TheFirstDough
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 25,
   ownLength: 1717,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0170Chapter170PrincessCaspia
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 170,
   ownLength: 2189,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

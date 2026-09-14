@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns006056BirdsMushroomsAndTaxes = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 60,
   ownLength: 3634,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

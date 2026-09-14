@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0006Chapter6HunterAndPrey = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 6,
   ownLength: 2138,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

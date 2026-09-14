@@ -8,7 +8,7 @@ export const theNewWorld0264305AGalaxyUnexplored = {
   story: "the-new-world",
   position: 264,
   ownLength: 3974,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -6,7 +6,7 @@ export const thePathOfAscension0183ThePathOfAscensionChapter517 = {
   slug: "the-path-of-ascension-0183-the-path-of-ascension-chapter-517",
   position: 183,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

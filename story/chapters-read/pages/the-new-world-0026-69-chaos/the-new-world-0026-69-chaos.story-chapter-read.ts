@@ -8,7 +8,7 @@ export const theNewWorld002669Chaos = {
   story: "the-new-world",
   position: 26,
   ownLength: 3055,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

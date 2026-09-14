@@ -8,7 +8,7 @@ export const theNewWorld0427467AmassingTerritory = {
   story: "the-new-world",
   position: 427,
   ownLength: 5083,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

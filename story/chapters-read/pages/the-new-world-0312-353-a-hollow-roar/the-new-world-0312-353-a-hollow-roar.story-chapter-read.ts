@@ -8,7 +8,7 @@ export const theNewWorld0312353AHollowRoar = {
   story: "the-new-world",
   position: 312,
   ownLength: 2678,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

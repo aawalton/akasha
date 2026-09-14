@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0014Chapter14Grezheim = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 14,
   ownLength: 2156,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

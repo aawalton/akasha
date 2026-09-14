@@ -7,7 +7,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0049Chapter48ASystemR
     slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0049-chapter-48-a-system-recognized-construct",
     position: 49,
     publishedAt: "2026-09-12",
-    unit: "words",
+    unit: "unit/words",
     externalIdentity: [
       {
         source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0278319AHivemindSPotential = {
   story: "the-new-world",
   position: 278,
   ownLength: 2546,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

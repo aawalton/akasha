@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0245222ConsoleGodModActivated = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 245,
   ownLength: 3242,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

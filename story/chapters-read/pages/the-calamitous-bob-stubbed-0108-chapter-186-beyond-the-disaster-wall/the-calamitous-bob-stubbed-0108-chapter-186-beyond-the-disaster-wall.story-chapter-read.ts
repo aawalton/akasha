@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0108Chapter186BeyondTheDisasterWall = {
   story: "the-calamitous-bob-stubbed",
   position: 108,
   ownLength: 5440,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

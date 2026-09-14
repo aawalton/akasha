@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0008Chapter8Pigeons = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 8,
   ownLength: 2127,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

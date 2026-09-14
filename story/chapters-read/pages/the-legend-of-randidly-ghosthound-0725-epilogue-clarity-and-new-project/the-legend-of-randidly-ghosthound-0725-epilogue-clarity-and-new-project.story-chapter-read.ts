@@ -8,7 +8,7 @@ export const theLegendOfRandidlyGhosthound0725EpilogueClarityAndNewProject = {
   story: "story-read/the-legend-of-randidly-ghosthound",
   position: 725,
   ownLength: 150,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

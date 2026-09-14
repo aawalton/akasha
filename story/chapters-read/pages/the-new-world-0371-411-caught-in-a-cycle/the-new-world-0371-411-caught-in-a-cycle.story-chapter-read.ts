@@ -8,7 +8,7 @@ export const theNewWorld0371411CaughtInACycle = {
   story: "the-new-world",
   position: 371,
   ownLength: 3265,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

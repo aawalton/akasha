@@ -8,7 +8,7 @@ export const theNewWorld0131172LeavingAnImpression = {
   story: "the-new-world",
   position: 131,
   ownLength: 3053,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

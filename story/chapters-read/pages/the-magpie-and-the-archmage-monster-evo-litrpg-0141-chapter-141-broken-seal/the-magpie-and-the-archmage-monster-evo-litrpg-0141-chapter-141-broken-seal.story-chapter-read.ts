@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0141Chapter141BrokenSeal = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 141,
   ownLength: 2248,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

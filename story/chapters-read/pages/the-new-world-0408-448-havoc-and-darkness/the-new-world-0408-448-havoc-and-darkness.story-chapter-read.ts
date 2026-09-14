@@ -8,7 +8,7 @@ export const theNewWorld0408448HavocAndDarkness = {
   story: "the-new-world",
   position: 408,
   ownLength: 5036,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

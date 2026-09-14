@@ -8,7 +8,7 @@ export const thePrimalHunter0203Chapter1329AVeryExcitingVote = {
   story: "story-read/the-primal-hunter",
   position: 203,
   ownLength: 2591,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

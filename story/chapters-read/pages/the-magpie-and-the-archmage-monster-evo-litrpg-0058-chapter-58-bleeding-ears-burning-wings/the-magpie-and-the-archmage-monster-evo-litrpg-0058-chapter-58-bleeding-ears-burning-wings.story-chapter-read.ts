@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0058Chapter58BleedingEarsBur
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 58,
   ownLength: 2014,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

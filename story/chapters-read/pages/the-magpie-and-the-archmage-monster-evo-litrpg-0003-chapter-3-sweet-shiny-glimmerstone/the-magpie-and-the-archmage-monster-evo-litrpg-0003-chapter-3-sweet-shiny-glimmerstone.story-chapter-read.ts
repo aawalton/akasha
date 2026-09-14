@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0003Chapter3SweetShinyGlimme
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 3,
   ownLength: 2234,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

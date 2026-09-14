@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0130Chapter130PunishedForGoo
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 130,
   ownLength: 2154,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

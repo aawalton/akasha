@@ -8,7 +8,7 @@ export const theNewWorld0359399GamingTheSystem = {
   story: "the-new-world",
   position: 359,
   ownLength: 3236,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

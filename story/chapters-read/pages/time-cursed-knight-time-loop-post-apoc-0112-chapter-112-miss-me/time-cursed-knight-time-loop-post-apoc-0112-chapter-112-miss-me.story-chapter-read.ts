@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0112Chapter112MissMe = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 112,
   ownLength: 2274,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

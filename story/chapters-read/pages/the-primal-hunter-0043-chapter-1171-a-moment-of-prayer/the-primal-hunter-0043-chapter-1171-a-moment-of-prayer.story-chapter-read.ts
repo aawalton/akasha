@@ -8,7 +8,7 @@ export const thePrimalHunter0043Chapter1171AMomentOfPrayer = {
   story: "story-read/the-primal-hunter",
   position: 43,
   ownLength: 2836,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

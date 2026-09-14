@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0045Chapter113TheBattleOfGlyp
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 45,
   ownLength: 18519,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

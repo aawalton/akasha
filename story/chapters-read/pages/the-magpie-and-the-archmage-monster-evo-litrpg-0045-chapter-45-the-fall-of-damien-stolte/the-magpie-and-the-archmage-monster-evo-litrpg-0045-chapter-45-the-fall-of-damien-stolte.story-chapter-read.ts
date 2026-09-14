@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0045Chapter45TheFallOfDamien
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 45,
   ownLength: 2093,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

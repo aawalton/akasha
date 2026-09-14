@@ -8,7 +8,7 @@ export const thePrimalHunter0019Chapter1147ABloodyHardTime = {
   story: "story-read/the-primal-hunter",
   position: 19,
   ownLength: 2793,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

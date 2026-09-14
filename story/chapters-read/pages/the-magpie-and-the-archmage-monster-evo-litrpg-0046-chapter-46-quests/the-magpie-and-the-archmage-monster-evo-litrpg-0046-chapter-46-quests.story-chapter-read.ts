@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0046Chapter46Quests = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 46,
   ownLength: 2322,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

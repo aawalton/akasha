@@ -9,7 +9,7 @@ export const theWanderingInn0404InterludeChessAndShips = {
   position: 404,
   ownLength: 7323,
   ownProgress: 7323,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-05",
   externalIdentity: [
     {

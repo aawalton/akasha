@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0159Chapter234Hellbringers = {
   story: "the-calamitous-bob-stubbed",
   position: 159,
   ownLength: 5426,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

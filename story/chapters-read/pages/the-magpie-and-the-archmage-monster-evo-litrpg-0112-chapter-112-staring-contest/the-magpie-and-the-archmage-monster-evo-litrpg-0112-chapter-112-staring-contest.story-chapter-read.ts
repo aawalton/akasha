@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0112Chapter112StaringContest
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 112,
   ownLength: 2137,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

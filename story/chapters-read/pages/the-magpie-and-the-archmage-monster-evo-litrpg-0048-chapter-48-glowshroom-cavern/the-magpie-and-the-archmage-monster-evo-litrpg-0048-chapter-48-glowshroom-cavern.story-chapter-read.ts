@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0048Chapter48GlowshroomCaver
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 48,
   ownLength: 2065,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

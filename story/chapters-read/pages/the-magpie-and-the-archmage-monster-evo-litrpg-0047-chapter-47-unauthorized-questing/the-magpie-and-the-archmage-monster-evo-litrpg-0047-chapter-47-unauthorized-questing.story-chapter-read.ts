@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0047Chapter47UnauthorizedQue
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 47,
   ownLength: 2014,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

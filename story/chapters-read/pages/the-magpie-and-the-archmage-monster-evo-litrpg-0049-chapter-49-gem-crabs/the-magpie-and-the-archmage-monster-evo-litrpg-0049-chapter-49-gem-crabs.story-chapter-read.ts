@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0049Chapter49GemCrabs = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 49,
   ownLength: 1884,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

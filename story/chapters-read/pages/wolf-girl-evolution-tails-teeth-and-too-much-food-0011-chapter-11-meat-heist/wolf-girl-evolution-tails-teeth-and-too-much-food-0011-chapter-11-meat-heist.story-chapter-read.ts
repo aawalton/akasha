@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0011Chapter11MeatHeist = {
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 11,
   ownLength: 1618,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

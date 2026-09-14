@@ -8,7 +8,7 @@ export const theNewWorld0319360Exposed = {
   story: "the-new-world",
   position: 319,
   ownLength: 6841,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

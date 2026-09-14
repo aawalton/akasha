@@ -8,7 +8,7 @@ export const theNewWorld0405445AHauntingPast = {
   story: "the-new-world",
   position: 405,
   ownLength: 6018,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0016Chapter1144TheFutureOfTheMultiverse = {
   story: "story-read/the-primal-hunter",
   position: 16,
   ownLength: 3144,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

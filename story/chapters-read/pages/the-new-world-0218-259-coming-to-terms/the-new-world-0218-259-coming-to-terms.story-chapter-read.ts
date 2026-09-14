@@ -8,7 +8,7 @@ export const theNewWorld0218259ComingToTerms = {
   story: "the-new-world",
   position: 218,
   ownLength: 6170,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

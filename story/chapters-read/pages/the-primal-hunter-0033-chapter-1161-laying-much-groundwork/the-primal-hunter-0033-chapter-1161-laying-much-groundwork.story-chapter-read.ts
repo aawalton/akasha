@@ -8,7 +8,7 @@ export const thePrimalHunter0033Chapter1161LayingMuchGroundwork = {
   story: "story-read/the-primal-hunter",
   position: 33,
   ownLength: 2513,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

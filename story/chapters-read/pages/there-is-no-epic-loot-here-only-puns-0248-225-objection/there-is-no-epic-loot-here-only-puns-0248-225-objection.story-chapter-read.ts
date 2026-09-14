@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0248225Objection = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 248,
   ownLength: 3870,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0109150Giess = {
   story: "the-new-world",
   position: 109,
   ownLength: 3891,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

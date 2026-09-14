@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0107Chapter185TheWallsOfGlastia = {
   story: "the-calamitous-bob-stubbed",
   position: 107,
   ownLength: 5674,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

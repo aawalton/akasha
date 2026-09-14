@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0055Chapter55OfHolesHopesA
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 55,
   ownLength: 1674,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

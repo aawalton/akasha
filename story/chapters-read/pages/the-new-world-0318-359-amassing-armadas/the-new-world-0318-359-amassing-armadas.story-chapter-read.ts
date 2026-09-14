@@ -8,7 +8,7 @@ export const theNewWorld0318359AmassingArmadas = {
   story: "the-new-world",
   position: 318,
   ownLength: 4065,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

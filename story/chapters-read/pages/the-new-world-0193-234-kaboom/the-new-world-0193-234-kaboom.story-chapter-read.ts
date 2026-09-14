@@ -8,7 +8,7 @@ export const theNewWorld0193234Kaboom = {
   story: "the-new-world",
   position: 193,
   ownLength: 2818,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const theWanderingInn0286InterludeNiers = {
   position: 286,
   ownLength: 4620,
   ownProgress: 4620,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-12-06",
   externalIdentity: [
     {

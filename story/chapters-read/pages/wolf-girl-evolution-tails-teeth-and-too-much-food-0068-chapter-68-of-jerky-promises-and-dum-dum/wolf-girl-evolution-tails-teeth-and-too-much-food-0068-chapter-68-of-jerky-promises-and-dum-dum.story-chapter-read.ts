@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0068Chapter68OfJerkyPromis
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 68,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

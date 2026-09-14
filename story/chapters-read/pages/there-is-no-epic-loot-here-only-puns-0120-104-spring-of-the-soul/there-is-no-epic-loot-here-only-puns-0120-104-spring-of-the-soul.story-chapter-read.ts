@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0120104SpringOfTheSoul = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 120,
   ownLength: 3249,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

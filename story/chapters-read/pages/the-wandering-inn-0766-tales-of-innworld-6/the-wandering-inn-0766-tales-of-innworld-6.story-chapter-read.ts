@@ -8,7 +8,7 @@ export const theWanderingInn0766TalesOfInnworld6 = {
   story: "story-read/the-wandering-inn",
   position: 766,
   ownLength: 0,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const thePrimalHunter0011Chapter1139FriendsInHighPlacesStartOfBook16 = {
   story: "story-read/the-primal-hunter",
   position: 11,
   ownLength: 2684,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

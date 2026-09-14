@@ -8,7 +8,7 @@ export const theNewWorld0163204DownARabbitHole = {
   story: "the-new-world",
   position: 163,
   ownLength: 2802,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePathOfAscension0127ThePathOfAscensionChapter428 = {
   story: "story-read/the-path-of-ascension",
   position: 127,
   ownLength: 5059,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

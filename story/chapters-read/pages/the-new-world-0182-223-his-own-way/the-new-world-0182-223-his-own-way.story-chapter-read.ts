@@ -8,7 +8,7 @@ export const theNewWorld0182223HisOwnWay = {
   story: "the-new-world",
   position: 182,
   ownLength: 3540,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

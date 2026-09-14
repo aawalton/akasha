@@ -8,7 +8,7 @@ export const theNewWorld0373413AParadigmShift = {
   story: "the-new-world",
   position: 373,
   ownLength: 5127,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

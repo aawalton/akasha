@@ -8,7 +8,7 @@ export const theNewWorld0161202Subversion = {
   story: "the-new-world",
   position: 161,
   ownLength: 1581,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0196Chapter1322JakeSPlanToTakeOverTheWorld = {
   story: "story-read/the-primal-hunter",
   position: 196,
   ownLength: 2854,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

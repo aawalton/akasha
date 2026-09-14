@@ -9,7 +9,7 @@ export const theWanderingInn07601036Pt2 = {
   position: 760,
   ownLength: 48481,
   ownProgress: 48973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-22",
   externalIdentity: [
     {

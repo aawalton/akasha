@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0049Chapter49TheNightOfSou
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 49,
   ownLength: 1709,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

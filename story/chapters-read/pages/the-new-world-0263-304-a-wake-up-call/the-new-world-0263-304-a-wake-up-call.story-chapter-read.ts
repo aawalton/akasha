@@ -8,7 +8,7 @@ export const theNewWorld0263304AWakeUpCall = {
   story: "the-new-world",
   position: 263,
   ownLength: 5456,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

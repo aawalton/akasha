@@ -7,7 +7,7 @@ export const thePrimalHunter0172Chapter1375InnerCity = {
   story: "story-read/the-primal-hunter",
   position: 172,
   publishedAt: "2026-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

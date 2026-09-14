@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0053Chapter53ChasingTheSlo
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 53,
   ownLength: 1816,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

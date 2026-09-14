@@ -8,7 +8,7 @@ export const theNewWorld0214255Multifaceted = {
   story: "the-new-world",
   position: 214,
   ownLength: 2065,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

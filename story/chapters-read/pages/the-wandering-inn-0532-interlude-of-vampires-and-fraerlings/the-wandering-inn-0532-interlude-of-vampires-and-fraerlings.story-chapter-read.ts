@@ -9,7 +9,7 @@ export const theWanderingInn0532InterludeOfVampiresAndFraerlings = {
   position: 532,
   ownLength: 19734,
   ownProgress: 19874,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-31",
   externalIdentity: [
     {

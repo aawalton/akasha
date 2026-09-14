@@ -8,7 +8,7 @@ export const thePrimalHunter0111Chapter1239Dragonslayer = {
   story: "story-read/the-primal-hunter",
   position: 111,
   ownLength: 2809,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

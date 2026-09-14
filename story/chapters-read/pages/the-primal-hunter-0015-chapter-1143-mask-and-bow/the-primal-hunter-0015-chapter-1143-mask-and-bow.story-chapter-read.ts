@@ -8,7 +8,7 @@ export const thePrimalHunter0015Chapter1143MaskAndBow = {
   story: "story-read/the-primal-hunter",
   position: 15,
   ownLength: 2937,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

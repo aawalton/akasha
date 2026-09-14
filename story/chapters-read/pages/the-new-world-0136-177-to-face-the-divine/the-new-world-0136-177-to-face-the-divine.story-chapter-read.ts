@@ -8,7 +8,7 @@ export const theNewWorld0136177ToFaceTheDivine = {
   story: "the-new-world",
   position: 136,
   ownLength: 2420,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

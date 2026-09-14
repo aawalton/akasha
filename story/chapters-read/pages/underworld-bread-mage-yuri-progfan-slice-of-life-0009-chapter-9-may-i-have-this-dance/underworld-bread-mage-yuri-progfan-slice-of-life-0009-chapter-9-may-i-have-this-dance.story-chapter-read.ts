@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0009Chapter9MayIHaveThisDa
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 9,
   ownLength: 1837,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0162Chapter237ThePromisedDoom = {
   story: "the-calamitous-bob-stubbed",
   position: 162,
   ownLength: 6767,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

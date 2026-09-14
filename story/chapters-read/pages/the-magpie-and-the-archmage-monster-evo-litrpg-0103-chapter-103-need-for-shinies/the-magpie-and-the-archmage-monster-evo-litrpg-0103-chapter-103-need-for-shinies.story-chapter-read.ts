@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0103Chapter103NeedForShinies
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 103,
   ownLength: 2080,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

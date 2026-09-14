@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000686AFoolishPursuit 
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 6,
   ownLength: 1130,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

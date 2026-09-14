@@ -9,7 +9,7 @@ export const theWanderingInn0372InterludeTheTitanSQuestion = {
   position: 372,
   ownLength: 23293,
   ownProgress: 23293,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-11-09",
   externalIdentity: [
     {

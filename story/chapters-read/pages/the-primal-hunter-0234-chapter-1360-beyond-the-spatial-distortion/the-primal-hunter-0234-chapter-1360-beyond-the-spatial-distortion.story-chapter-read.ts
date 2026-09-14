@@ -8,7 +8,7 @@ export const thePrimalHunter0234Chapter1360BeyondTheSpatialDistortion = {
   story: "story-read/the-primal-hunter",
   position: 234,
   ownLength: 2561,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theRunesmith0014GoodNewsEverybody = {
   story: "the-runesmith",
   position: 14,
   ownLength: 456,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

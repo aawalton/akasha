@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0026Chapter26TheFeast = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 26,
   ownLength: 2121,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

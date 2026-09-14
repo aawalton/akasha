@@ -8,7 +8,7 @@ export const thePrimalHunter0148Chapter1275ASuddenWindfallAndNewOptions = {
   story: "story-read/the-primal-hunter",
   position: 148,
   ownLength: 3288,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

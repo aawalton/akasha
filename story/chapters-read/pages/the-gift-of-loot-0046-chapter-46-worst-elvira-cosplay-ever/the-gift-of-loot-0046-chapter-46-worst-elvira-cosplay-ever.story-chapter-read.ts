@@ -8,7 +8,7 @@ export const theGiftOfLoot0046Chapter46WorstElviraCosplayEver = {
   story: "the-gift-of-loot",
   position: 46,
   ownLength: 3039,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

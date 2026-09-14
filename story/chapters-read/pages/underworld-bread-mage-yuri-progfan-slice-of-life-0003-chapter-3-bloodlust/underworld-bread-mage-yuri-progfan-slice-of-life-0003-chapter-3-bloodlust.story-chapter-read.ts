@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0003Chapter3Bloodlust = {
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 3,
   ownLength: 2434,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

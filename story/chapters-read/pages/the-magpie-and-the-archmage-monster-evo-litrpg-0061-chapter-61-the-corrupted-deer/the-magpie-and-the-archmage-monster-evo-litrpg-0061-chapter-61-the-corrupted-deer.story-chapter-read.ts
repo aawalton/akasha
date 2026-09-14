@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0061Chapter61TheCorruptedDee
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 61,
   ownLength: 2096,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0036Chapter36SpecialPass = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 36,
   ownLength: 2430,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

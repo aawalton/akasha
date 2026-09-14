@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0116Chapter116Eckhardt = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 116,
   ownLength: 2186,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

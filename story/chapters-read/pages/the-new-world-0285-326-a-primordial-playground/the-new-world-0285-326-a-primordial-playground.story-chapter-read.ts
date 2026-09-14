@@ -8,7 +8,7 @@ export const theNewWorld0285326APrimordialPlayground = {
   story: "the-new-world",
   position: 285,
   ownLength: 2965,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

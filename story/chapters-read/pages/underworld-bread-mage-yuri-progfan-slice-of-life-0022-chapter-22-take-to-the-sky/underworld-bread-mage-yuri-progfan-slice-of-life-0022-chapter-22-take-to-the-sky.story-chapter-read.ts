@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0022Chapter22TakeToTheSky 
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 22,
   ownLength: 1506,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

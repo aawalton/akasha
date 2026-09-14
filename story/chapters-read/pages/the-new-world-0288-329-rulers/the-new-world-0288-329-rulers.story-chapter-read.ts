@@ -8,7 +8,7 @@ export const theNewWorld0288329Rulers = {
   story: "the-new-world",
   position: 288,
   ownLength: 2453,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

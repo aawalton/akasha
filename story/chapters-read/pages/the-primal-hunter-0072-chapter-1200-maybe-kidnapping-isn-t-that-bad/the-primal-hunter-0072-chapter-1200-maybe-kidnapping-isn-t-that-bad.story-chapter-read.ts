@@ -8,7 +8,7 @@ export const thePrimalHunter0072Chapter1200MaybeKidnappingIsnTThatBad = {
   story: "story-read/the-primal-hunter",
   position: 72,
   ownLength: 2568,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -6,7 +6,7 @@ export const thePrimalHunter0177Chapter1380ADeviouslyDeliciousPlan = {
   slug: "the-primal-hunter-0177-chapter-1380-a-deviously-delicious-plan",
   position: 177,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

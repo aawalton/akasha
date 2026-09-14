@@ -8,7 +8,7 @@ export const theGiftOfLoot0073Chapter73ThomasDecidesWhoLives = {
   story: "the-gift-of-loot",
   position: 73,
   ownLength: 2995,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0081Chapter81HailTheFounder = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 81,
   ownLength: 2172,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld004689AnUnexpectedTrap = {
   story: "the-new-world",
   position: 46,
   ownLength: 3842,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

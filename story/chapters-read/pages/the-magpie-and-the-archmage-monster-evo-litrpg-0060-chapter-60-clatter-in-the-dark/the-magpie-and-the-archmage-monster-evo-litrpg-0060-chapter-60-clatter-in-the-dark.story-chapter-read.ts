@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0060Chapter60ClatterInTheDar
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 60,
   ownLength: 2007,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

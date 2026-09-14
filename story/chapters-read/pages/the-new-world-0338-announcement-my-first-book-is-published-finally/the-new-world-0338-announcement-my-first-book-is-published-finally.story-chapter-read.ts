@@ -8,7 +8,7 @@ export const theNewWorld0338AnnouncementMyFirstBookIsPublishedFinally = {
   story: "the-new-world",
   position: 338,
   ownLength: 280,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

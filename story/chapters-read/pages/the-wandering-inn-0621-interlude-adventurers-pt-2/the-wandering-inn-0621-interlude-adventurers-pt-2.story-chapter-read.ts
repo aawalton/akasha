@@ -9,7 +9,7 @@ export const theWanderingInn0621InterludeAdventurersPt2 = {
   position: 621,
   ownLength: 32275,
   ownProgress: 32465,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-13",
   externalIdentity: [
     {

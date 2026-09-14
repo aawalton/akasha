@@ -8,7 +8,7 @@ export const theNewWorld0220261AFirelitSky = {
   story: "the-new-world",
   position: 220,
   ownLength: 5652,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

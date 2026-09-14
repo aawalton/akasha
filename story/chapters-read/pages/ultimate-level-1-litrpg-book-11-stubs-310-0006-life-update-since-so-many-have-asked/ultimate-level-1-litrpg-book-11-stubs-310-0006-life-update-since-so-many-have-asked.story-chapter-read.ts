@@ -8,7 +8,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100006LifeUpdateSinceSoManyHaveAske
   story: "ultimate-level-1-litrpg-book-11-stubs-310",
   position: 6,
   ownLength: 366,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

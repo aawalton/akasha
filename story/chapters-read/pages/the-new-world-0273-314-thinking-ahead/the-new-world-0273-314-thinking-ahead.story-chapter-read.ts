@@ -8,7 +8,7 @@ export const theNewWorld0273314ThinkingAhead = {
   story: "the-new-world",
   position: 273,
   ownLength: 2680,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

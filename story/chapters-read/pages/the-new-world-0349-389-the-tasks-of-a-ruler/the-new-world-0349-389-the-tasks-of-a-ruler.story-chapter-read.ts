@@ -8,7 +8,7 @@ export const theNewWorld0349389TheTasksOfARuler = {
   story: "the-new-world",
   position: 349,
   ownLength: 3556,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

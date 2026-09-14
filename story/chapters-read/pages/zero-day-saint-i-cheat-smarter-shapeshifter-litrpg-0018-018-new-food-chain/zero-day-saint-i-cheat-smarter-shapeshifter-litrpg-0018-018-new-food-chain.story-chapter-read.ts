@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0018018NewFoodChain = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 18,
   ownLength: 1690,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

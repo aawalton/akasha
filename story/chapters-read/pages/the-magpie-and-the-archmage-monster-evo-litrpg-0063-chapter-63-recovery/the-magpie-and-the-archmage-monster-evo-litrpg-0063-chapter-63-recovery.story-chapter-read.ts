@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0063Chapter63Recovery = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 63,
   ownLength: 2056,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

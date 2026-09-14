@@ -8,7 +8,7 @@ export const theNewWorld0302343HellHathOpportunities = {
   story: "the-new-world",
   position: 302,
   ownLength: 3651,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

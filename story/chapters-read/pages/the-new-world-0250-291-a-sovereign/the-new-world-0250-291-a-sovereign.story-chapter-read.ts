@@ -8,7 +8,7 @@ export const theNewWorld0250291ASovereign = {
   story: "the-new-world",
   position: 250,
   ownLength: 4185,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

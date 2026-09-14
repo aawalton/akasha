@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0014Chapter14Gnoll = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 14,
   ownLength: 2107,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0130Chapter205TheLandOfTheDead = {
   story: "the-calamitous-bob-stubbed",
   position: 130,
   ownLength: 5849,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0053Chapter53PriceOfAdvancem
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 53,
   ownLength: 1927,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

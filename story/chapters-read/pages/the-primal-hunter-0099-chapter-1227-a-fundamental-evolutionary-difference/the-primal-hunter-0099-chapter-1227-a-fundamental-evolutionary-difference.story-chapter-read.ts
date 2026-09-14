@@ -8,7 +8,7 @@ export const thePrimalHunter0099Chapter1227AFundamentalEvolutionaryDifference = 
   story: "story-read/the-primal-hunter",
   position: 99,
   ownLength: 2691,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

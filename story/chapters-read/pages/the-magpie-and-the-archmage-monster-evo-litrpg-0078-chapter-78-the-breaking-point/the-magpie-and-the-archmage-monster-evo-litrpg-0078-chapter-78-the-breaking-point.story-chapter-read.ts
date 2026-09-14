@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0078Chapter78TheBreakingPoin
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 78,
   ownLength: 2049,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0219260ABloodyCompromise = {
   story: "the-new-world",
   position: 219,
   ownLength: 2385,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

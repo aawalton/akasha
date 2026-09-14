@@ -8,7 +8,7 @@ export const theNewWorld0119160TheMightOfAGialgathen = {
   story: "the-new-world",
   position: 119,
   ownLength: 1430,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

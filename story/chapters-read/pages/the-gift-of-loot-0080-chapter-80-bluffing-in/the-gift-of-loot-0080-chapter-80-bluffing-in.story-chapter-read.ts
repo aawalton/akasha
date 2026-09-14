@@ -6,7 +6,7 @@ export const theGiftOfLoot0080Chapter80BluffingIn = {
   slug: "the-gift-of-loot-0080-chapter-80-bluffing-in",
   position: 80,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

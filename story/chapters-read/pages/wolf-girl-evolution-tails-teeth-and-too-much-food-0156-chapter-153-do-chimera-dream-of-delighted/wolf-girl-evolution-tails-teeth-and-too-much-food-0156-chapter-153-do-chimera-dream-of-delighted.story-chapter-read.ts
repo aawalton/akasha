@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0156Chapter153DoChimeraDre
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 156,
   ownLength: 1791,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0074Chapter74TheReturnOfTheS
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 74,
   ownLength: 2113,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

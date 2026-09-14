@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0052Chapter52CostOfRescue = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 52,
   ownLength: 2219,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

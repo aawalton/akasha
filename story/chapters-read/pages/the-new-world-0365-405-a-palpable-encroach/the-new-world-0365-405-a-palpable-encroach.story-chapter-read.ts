@@ -8,7 +8,7 @@ export const theNewWorld0365405APalpableEncroach = {
   story: "the-new-world",
   position: 365,
   ownLength: 4703,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0044Chapter112TheWarCouncilAn
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 44,
   ownLength: 13381,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

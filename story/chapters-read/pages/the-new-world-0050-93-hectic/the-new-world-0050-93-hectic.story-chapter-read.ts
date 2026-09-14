@@ -8,7 +8,7 @@ export const theNewWorld005093Hectic = {
   story: "the-new-world",
   position: 50,
   ownLength: 2965,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

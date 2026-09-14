@@ -8,7 +8,7 @@ export const theNewWorld0357397LaughingInTheRain = {
   story: "the-new-world",
   position: 357,
   ownLength: 5749,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

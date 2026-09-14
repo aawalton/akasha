@@ -8,7 +8,7 @@ export const theNewWorld0351391NormalcySMight = {
   story: "the-new-world",
   position: 351,
   ownLength: 2517,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

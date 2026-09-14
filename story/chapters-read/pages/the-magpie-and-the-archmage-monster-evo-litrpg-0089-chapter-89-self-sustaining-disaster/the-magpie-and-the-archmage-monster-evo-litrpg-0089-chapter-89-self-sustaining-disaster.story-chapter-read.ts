@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0089Chapter89SelfSustainingD
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 89,
   ownLength: 2019,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

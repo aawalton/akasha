@@ -8,7 +8,7 @@ export const theNewWorld0317358CauseAndEffect = {
   story: "the-new-world",
   position: 317,
   ownLength: 4293,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

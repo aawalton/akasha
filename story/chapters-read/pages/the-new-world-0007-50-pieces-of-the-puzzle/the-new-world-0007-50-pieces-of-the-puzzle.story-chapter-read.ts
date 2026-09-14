@@ -8,7 +8,7 @@ export const theNewWorld000750PiecesOfThePuzzle = {
   story: "the-new-world",
   position: 7,
   ownLength: 3845,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

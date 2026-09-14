@@ -8,7 +8,7 @@ export const theNewWorld0257298ApplyingInput = {
   story: "the-new-world",
   position: 257,
   ownLength: 6585,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

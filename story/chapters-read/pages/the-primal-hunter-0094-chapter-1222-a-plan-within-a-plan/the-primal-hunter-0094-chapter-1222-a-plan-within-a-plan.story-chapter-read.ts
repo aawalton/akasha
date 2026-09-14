@@ -8,7 +8,7 @@ export const thePrimalHunter0094Chapter1222APlanWithinAPlan = {
   story: "story-read/the-primal-hunter",
   position: 94,
   ownLength: 2640,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

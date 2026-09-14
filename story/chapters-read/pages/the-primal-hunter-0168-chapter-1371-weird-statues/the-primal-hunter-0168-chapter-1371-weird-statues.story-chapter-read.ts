@@ -8,7 +8,7 @@ export const thePrimalHunter0168Chapter1371WeirdStatues = {
   story: "story-read/the-primal-hunter",
   position: 168,
   ownLength: 2687,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

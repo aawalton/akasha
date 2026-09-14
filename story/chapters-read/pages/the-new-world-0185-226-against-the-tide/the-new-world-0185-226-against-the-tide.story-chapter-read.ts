@@ -8,7 +8,7 @@ export const theNewWorld0185226AgainstTheTide = {
   story: "the-new-world",
   position: 185,
   ownLength: 2541,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

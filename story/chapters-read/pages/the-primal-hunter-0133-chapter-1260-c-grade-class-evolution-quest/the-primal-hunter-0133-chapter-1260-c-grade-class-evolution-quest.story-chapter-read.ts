@@ -8,7 +8,7 @@ export const thePrimalHunter0133Chapter1260CGradeClassEvolutionQuest = {
   story: "story-read/the-primal-hunter",
   position: 133,
   ownLength: 2736,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

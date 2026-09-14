@@ -8,7 +8,7 @@ export const theNewWorld000447GainingTools = {
   story: "the-new-world",
   position: 4,
   ownLength: 3837,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

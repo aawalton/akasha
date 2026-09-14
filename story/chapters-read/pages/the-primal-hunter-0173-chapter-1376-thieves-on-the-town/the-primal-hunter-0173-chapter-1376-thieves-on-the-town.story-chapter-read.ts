@@ -7,7 +7,7 @@ export const thePrimalHunter0173Chapter1376ThievesOnTheTown = {
   story: "story-read/the-primal-hunter",
   position: 173,
   publishedAt: "2026-09-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

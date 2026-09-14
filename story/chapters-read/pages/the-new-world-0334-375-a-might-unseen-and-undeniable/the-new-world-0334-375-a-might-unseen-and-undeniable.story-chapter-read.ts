@@ -8,7 +8,7 @@ export const theNewWorld0334375AMightUnseenAndUndeniable = {
   story: "the-new-world",
   position: 334,
   ownLength: 1866,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

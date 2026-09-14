@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0140Chapter138OfMissingBal
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 140,
   ownLength: 2658,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

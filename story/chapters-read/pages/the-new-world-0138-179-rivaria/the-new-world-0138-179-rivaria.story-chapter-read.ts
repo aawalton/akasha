@@ -8,7 +8,7 @@ export const theNewWorld0138179Rivaria = {
   story: "the-new-world",
   position: 138,
   ownLength: 4010,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

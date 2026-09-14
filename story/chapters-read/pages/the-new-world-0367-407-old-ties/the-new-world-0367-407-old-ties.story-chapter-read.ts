@@ -8,7 +8,7 @@ export const theNewWorld0367407OldTies = {
   story: "the-new-world",
   position: 367,
   ownLength: 2424,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

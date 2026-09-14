@@ -8,7 +8,7 @@ export const theNewWorld0421461TheFrostlands = {
   story: "the-new-world",
   position: 421,
   ownLength: 4668,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

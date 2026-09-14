@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0051Chapter51MissingMagpie =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 51,
   ownLength: 2041,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

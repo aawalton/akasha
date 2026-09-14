@@ -8,7 +8,7 @@ export const theGiftOfLoot0068Chapter68OneShotTheSubBoss = {
   story: "the-gift-of-loot",
   position: 68,
   ownLength: 2716,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

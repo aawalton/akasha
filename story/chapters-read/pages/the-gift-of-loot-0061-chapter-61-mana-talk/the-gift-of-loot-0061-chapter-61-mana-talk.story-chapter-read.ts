@@ -8,7 +8,7 @@ export const theGiftOfLoot0061Chapter61ManaTalk = {
   story: "the-gift-of-loot",
   position: 61,
   ownLength: 3820,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

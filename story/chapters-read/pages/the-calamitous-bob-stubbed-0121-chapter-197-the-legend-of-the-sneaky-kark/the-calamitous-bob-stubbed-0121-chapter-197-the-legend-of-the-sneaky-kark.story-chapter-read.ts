@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0121Chapter197TheLegendOfTheSneakyKark = {
   story: "the-calamitous-bob-stubbed",
   position: 121,
   ownLength: 3415,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

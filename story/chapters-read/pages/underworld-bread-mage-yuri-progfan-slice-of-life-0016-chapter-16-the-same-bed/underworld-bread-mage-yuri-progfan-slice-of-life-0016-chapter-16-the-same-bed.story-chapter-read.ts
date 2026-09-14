@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0016Chapter16TheSameBed = 
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 16,
   ownLength: 1945,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

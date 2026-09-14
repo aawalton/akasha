@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0098Chapter97OfAntsyBattle
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 98,
   ownLength: 2386,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

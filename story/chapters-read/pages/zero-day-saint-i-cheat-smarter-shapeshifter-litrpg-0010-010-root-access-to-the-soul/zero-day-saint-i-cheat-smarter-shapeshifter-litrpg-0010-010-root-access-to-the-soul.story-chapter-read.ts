@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0010010RootAccessToTheSo
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 10,
   ownLength: 2554,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

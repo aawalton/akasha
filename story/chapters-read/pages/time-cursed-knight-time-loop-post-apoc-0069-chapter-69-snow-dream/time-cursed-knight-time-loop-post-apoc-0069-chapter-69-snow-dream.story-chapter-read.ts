@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0069Chapter69SnowDream = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 69,
   ownLength: 2450,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

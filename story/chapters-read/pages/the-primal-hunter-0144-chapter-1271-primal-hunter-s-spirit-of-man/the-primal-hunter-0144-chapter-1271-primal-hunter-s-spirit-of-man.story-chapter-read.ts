@@ -8,7 +8,7 @@ export const thePrimalHunter0144Chapter1271PrimalHunterSSpiritOfMan = {
   story: "story-read/the-primal-hunter",
   position: 144,
   ownLength: 3453,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

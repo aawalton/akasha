@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0118Chapter118GuestsOfThalas
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 118,
   ownLength: 2140,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

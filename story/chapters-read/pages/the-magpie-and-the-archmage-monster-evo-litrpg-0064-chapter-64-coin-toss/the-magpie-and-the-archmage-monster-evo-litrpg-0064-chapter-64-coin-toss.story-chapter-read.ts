@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0064Chapter64CoinToss = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 64,
   ownLength: 2118,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0120161ANightToRemember = {
   story: "the-new-world",
   position: 120,
   ownLength: 3187,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

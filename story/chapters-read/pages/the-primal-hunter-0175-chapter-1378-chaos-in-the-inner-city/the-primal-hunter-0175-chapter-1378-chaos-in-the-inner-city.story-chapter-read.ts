@@ -6,7 +6,7 @@ export const thePrimalHunter0175Chapter1378ChaosInTheInnerCity = {
   slug: "the-primal-hunter-0175-chapter-1378-chaos-in-the-inner-city",
   position: 175,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

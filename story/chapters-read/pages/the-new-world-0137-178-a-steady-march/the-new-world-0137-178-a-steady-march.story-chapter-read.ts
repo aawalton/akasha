@@ -8,7 +8,7 @@ export const theNewWorld0137178ASteadyMarch = {
   story: "the-new-world",
   position: 137,
   ownLength: 3247,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

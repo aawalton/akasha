@@ -8,7 +8,7 @@ export const thePrimalHunter0009KeepReadingListeningOnAmazonSKindleKindleUnlimit
   story: "story-read/the-primal-hunter",
   position: 9,
   ownLength: 191,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

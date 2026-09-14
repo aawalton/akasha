@@ -8,7 +8,7 @@ export const theNewWorld0375415ADarkFantasy = {
   story: "the-new-world",
   position: 375,
   ownLength: 4954,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

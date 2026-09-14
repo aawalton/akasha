@@ -8,7 +8,7 @@ export const theNewWorld0426466FiramniaTheImplacable = {
   story: "the-new-world",
   position: 426,
   ownLength: 5947,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

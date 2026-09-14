@@ -8,7 +8,7 @@ export const thePrimalHunter0200Chapter1326WithGodsLikeTheseWhoNeedsEnemies = {
   story: "story-read/the-primal-hunter",
   position: 200,
   ownLength: 2993,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0019Chapter19GirlsNightOut
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 19,
   ownLength: 1686,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

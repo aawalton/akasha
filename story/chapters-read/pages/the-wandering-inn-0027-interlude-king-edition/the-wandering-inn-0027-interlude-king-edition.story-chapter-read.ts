@@ -9,7 +9,7 @@ export const theWanderingInn0027InterludeKingEdition = {
   position: 27,
   ownLength: 6401,
   ownProgress: 6401,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-04",
   externalIdentity: [
     {

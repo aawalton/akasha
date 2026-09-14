@@ -8,7 +8,7 @@ export const theGiftOfLoot0072Chapter72StarEyed = {
   story: "the-gift-of-loot",
   position: 72,
   ownLength: 3957,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

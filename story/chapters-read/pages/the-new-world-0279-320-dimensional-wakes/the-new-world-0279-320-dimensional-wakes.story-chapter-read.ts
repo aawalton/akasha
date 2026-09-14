@@ -8,7 +8,7 @@ export const theNewWorld0279320DimensionalWakes = {
   story: "the-new-world",
   position: 279,
   ownLength: 2583,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

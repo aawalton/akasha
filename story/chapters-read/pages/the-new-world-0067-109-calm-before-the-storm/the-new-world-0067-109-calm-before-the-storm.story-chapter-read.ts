@@ -8,7 +8,7 @@ export const theNewWorld0067109CalmBeforeTheStorm = {
   story: "the-new-world",
   position: 67,
   ownLength: 3410,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

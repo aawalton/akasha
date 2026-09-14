@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0046Chapter45TheArrest = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 46,
   ownLength: 1604,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

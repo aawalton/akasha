@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00022Artezia = {
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 2,
   ownLength: 1176,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

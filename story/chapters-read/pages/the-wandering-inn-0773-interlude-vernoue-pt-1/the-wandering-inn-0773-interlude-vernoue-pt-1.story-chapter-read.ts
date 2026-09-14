@@ -9,7 +9,7 @@ export const theWanderingInn0773InterludeVernouePt1 = {
   position: 773,
   ownLength: 38397,
   ownProgress: 38397,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-21",
   externalIdentity: [
     {

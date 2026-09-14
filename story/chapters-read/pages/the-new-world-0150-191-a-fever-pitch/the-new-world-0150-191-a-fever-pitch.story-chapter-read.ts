@@ -8,7 +8,7 @@ export const theNewWorld0150191AFeverPitch = {
   story: "the-new-world",
   position: 150,
   ownLength: 5257,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

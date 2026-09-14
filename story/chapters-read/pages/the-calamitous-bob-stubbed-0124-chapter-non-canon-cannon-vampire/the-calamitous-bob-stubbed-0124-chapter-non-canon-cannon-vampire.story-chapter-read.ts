@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0124ChapterNonCanonCannonVampire = {
   story: "the-calamitous-bob-stubbed",
   position: 124,
   ownLength: 1347,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

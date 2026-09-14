@@ -8,7 +8,7 @@ export const theNewWorld0416456TheBestAndBrightestAmongUs = {
   story: "the-new-world",
   position: 416,
   ownLength: 6990,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0093134Anticipation = {
   story: "the-new-world",
   position: 93,
   ownLength: 2258,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

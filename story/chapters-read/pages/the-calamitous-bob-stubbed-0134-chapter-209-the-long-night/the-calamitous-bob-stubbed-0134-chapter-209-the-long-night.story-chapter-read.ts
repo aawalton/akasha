@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0134Chapter209TheLongNight = {
   story: "the-calamitous-bob-stubbed",
   position: 134,
   ownLength: 6683,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

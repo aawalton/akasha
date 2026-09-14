@@ -8,7 +8,7 @@ export const theGiftOfLoot0034Chapter34GrinAndBearIt = {
   story: "the-gift-of-loot",
   position: 34,
   ownLength: 2497,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

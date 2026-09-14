@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0029Chapter29DumDumDirecti
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 29,
   ownLength: 1288,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

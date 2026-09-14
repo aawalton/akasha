@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0092Chapter92WhenMercyIsAMis
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 92,
   ownLength: 1979,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

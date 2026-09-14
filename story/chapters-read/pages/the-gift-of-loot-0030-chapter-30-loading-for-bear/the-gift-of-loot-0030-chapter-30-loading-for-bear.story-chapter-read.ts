@@ -8,7 +8,7 @@ export const theGiftOfLoot0030Chapter30LoadingForBear = {
   story: "the-gift-of-loot",
   position: 30,
   ownLength: 2611,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0366406ToWithholdHumanity = {
   story: "the-new-world",
   position: 366,
   ownLength: 2816,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0331372ABrokenTrust = {
   story: "the-new-world",
   position: 331,
   ownLength: 2216,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

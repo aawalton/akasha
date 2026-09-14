@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0023023BeaconOfTheProfan
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 23,
   ownLength: 2624,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

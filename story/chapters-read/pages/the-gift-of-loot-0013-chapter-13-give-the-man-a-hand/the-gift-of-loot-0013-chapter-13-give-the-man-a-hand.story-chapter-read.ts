@@ -8,7 +8,7 @@ export const theGiftOfLoot0013Chapter13GiveTheManAHand = {
   story: "the-gift-of-loot",
   position: 13,
   ownLength: 2229,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const theWanderingInn0477SolsticePt4 = {
   position: 477,
   ownLength: 5891,
   ownProgress: 5891,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-23",
   externalIdentity: [
     {

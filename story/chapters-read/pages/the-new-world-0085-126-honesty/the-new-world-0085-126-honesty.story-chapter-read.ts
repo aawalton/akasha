@@ -8,7 +8,7 @@ export const theNewWorld0085126Honesty = {
   story: "the-new-world",
   position: 85,
   ownLength: 4138,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

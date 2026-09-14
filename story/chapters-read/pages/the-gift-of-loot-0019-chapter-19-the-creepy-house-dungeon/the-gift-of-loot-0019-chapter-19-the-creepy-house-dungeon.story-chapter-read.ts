@@ -8,7 +8,7 @@ export const theGiftOfLoot0019Chapter19TheCreepyHouseDungeon = {
   story: "the-gift-of-loot",
   position: 19,
   ownLength: 2926,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

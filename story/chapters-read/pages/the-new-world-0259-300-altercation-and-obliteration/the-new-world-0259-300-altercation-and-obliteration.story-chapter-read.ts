@@ -8,7 +8,7 @@ export const theNewWorld0259300AltercationAndObliteration = {
   story: "the-new-world",
   position: 259,
   ownLength: 5862,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

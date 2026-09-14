@@ -8,7 +8,7 @@ export const thePrimalHunter0075Chapter1203ALongAwaitedConversation = {
   story: "story-read/the-primal-hunter",
   position: 75,
   ownLength: 2757,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

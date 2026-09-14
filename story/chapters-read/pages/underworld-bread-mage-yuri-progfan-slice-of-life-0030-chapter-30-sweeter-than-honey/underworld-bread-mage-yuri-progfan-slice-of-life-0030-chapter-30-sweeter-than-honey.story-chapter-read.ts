@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0030Chapter30SweeterThanHo
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 30,
   ownLength: 1430,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

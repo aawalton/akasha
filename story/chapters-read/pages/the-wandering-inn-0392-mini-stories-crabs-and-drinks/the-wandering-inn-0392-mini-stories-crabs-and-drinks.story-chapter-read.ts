@@ -9,7 +9,7 @@ export const theWanderingInn0392MiniStoriesCrabsAndDrinks = {
   position: 392,
   ownLength: 5238,
   ownProgress: 5264,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-01-30",
   externalIdentity: [
     {

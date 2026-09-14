@@ -8,7 +8,7 @@ export const theNewWorld0311352ClashingKingdoms = {
   story: "the-new-world",
   position: 311,
   ownLength: 3302,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

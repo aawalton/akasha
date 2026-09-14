@@ -8,7 +8,7 @@ export const thePrimalHunter0202Chapter1328ChiefAdministratorSelectionComme = {
   story: "story-read/the-primal-hunter",
   position: 202,
   ownLength: 2885,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

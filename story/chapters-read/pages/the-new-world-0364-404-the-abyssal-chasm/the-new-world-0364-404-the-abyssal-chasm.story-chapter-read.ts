@@ -8,7 +8,7 @@ export const theNewWorld0364404TheAbyssalChasm = {
   story: "the-new-world",
   position: 364,
   ownLength: 4457,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

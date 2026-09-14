@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0120Chapter120HolyVsHorrible
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 120,
   ownLength: 2195,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

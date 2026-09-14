@@ -8,7 +8,7 @@ export const thePrimalHunter0025Chapter1153AQuiteUniqueParty = {
   story: "story-read/the-primal-hunter",
   position: 25,
   ownLength: 2784,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

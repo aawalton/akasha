@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0032Chapter101SimilarButVeryD
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 32,
   ownLength: 13457,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

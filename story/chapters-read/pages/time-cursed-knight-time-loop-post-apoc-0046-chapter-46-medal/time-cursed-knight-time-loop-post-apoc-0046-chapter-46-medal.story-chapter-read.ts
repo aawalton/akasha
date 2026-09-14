@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0046Chapter46Medal = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 46,
   ownLength: 2056,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

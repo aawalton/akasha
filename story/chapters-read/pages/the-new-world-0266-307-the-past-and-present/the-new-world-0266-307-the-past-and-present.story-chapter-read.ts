@@ -8,7 +8,7 @@ export const theNewWorld0266307ThePastAndPresent = {
   story: "the-new-world",
   position: 266,
   ownLength: 3796,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

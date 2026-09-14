@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0129Chapter204ThroughTheWaves = {
   story: "the-calamitous-bob-stubbed",
   position: 129,
   ownLength: 4403,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

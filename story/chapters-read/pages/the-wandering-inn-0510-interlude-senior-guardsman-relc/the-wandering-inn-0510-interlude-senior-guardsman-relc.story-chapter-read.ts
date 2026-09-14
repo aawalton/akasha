@@ -9,7 +9,7 @@ export const theWanderingInn0510InterludeSeniorGuardsmanRelc = {
   position: 510,
   ownLength: 25780,
   ownProgress: 25937,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-16",
   externalIdentity: [
     {

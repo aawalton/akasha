@@ -8,7 +8,7 @@ export const theNewWorld0253294RevengeGivenForm = {
   story: "the-new-world",
   position: 253,
   ownLength: 4358,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

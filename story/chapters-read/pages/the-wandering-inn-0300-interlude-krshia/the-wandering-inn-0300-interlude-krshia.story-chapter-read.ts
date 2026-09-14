@@ -9,7 +9,7 @@ export const theWanderingInn0300InterludeKrshia = {
   position: 300,
   ownLength: 21466,
   ownProgress: 21466,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-01-26",
   externalIdentity: [
     {

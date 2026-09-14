@@ -9,7 +9,7 @@ export const theWanderingInn0718GoblinDaysPt3VengeanceAndTalking = {
   position: 718,
   ownLength: 14796,
   ownProgress: 14981,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-30",
   externalIdentity: [
     {

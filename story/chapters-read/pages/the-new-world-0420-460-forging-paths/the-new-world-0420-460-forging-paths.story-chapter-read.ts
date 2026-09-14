@@ -8,7 +8,7 @@ export const theNewWorld0420460ForgingPaths = {
   story: "the-new-world",
   position: 420,
   ownLength: 3468,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

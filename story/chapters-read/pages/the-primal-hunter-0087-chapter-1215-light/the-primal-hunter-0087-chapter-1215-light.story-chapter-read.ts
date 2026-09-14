@@ -8,7 +8,7 @@ export const thePrimalHunter0087Chapter1215Light = {
   story: "story-read/the-primal-hunter",
   position: 87,
   ownLength: 3052,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

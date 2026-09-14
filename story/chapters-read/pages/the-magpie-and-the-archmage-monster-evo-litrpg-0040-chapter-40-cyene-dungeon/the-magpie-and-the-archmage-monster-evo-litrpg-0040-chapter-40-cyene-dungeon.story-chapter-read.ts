@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0040Chapter40CyeneDungeon = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 40,
   ownLength: 2121,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

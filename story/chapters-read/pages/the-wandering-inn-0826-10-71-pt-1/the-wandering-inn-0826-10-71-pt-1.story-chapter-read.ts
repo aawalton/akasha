@@ -8,7 +8,7 @@ export const theWanderingInn08261071Pt1 = {
   story: "story-read/the-wandering-inn",
   position: 826,
   ownLength: 57100,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-19",
   externalIdentity: [
     {

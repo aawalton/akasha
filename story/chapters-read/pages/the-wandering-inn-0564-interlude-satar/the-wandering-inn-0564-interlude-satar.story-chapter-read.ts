@@ -9,7 +9,7 @@ export const theWanderingInn0564InterludeSatar = {
   position: 564,
   ownLength: 44801,
   ownProgress: 45023,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-20",
   externalIdentity: [
     {

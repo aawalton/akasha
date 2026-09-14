@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0119Chapter119GuardiansOfThe
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 119,
   ownLength: 2045,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0037037MightOfTheMeek = 
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 37,
   ownLength: 2516,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

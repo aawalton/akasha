@@ -8,7 +8,7 @@ export const theNewWorld0390430AdventureCalls = {
   story: "the-new-world",
   position: 390,
   ownLength: 4461,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

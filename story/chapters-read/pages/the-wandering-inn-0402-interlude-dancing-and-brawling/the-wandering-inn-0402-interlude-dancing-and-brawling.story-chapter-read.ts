@@ -9,7 +9,7 @@ export const theWanderingInn0402InterludeDancingAndBrawling = {
   position: 402,
   ownLength: 11336,
   ownProgress: 11336,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-03",
   externalIdentity: [
     {

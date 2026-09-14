@@ -8,7 +8,7 @@ export const theNewWorld0402442AFracturedReality = {
   story: "the-new-world",
   position: 402,
   ownLength: 4366,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

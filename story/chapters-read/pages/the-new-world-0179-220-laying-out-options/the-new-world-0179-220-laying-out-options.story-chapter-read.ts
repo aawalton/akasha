@@ -8,7 +8,7 @@ export const theNewWorld0179220LayingOutOptions = {
   story: "the-new-world",
   position: 179,
   ownLength: 5120,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

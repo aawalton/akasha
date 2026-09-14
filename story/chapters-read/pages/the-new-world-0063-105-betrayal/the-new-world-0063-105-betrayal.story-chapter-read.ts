@@ -8,7 +8,7 @@ export const theNewWorld0063105Betrayal = {
   story: "the-new-world",
   position: 63,
   ownLength: 3122,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

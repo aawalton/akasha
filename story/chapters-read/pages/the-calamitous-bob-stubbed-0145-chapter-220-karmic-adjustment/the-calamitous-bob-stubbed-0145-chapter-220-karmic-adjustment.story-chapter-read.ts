@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0145Chapter220KarmicAdjustment = {
   story: "the-calamitous-bob-stubbed",
   position: 145,
   ownLength: 4133,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0041Chapter1169AnApplicationThatHasToBeTested = {
   story: "story-read/the-primal-hunter",
   position: 41,
   ownLength: 2851,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0148Chapter148MyBigFatBeak =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 148,
   ownLength: 1907,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

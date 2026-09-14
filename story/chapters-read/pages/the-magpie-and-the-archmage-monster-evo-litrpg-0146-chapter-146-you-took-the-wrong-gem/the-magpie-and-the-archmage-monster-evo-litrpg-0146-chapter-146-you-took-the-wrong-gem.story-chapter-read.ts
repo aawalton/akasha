@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0146Chapter146YouTookTheWron
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 146,
   ownLength: 2017,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

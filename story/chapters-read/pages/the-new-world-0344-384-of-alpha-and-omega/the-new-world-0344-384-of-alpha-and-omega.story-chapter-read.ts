@@ -8,7 +8,7 @@ export const theNewWorld0344384OfAlphaAndOmega = {
   story: "the-new-world",
   position: 344,
   ownLength: 3834,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0023Chapter23Milk = {
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 23,
   ownLength: 1317,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

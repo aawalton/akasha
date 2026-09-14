@@ -8,7 +8,7 @@ export const theNewWorld0076118DeepWater = {
   story: "the-new-world",
   position: 76,
   ownLength: 2669,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

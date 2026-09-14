@@ -8,7 +8,7 @@ export const theNewWorld0223264FamilyProblems = {
   story: "the-new-world",
   position: 223,
   ownLength: 6861,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

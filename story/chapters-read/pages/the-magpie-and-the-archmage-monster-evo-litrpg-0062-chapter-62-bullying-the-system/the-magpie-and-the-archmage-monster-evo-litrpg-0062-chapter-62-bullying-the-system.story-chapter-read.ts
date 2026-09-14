@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0062Chapter62BullyingTheSyst
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 62,
   ownLength: 2104,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

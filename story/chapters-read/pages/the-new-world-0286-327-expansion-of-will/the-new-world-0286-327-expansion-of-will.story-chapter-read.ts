@@ -8,7 +8,7 @@ export const theNewWorld0286327ExpansionOfWill = {
   story: "the-new-world",
   position: 286,
   ownLength: 2868,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

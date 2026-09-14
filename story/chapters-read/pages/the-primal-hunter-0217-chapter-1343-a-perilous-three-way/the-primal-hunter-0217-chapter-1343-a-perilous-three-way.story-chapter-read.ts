@@ -8,7 +8,7 @@ export const thePrimalHunter0217Chapter1343APerilousThreeWay = {
   story: "story-read/the-primal-hunter",
   position: 217,
   ownLength: 2618,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

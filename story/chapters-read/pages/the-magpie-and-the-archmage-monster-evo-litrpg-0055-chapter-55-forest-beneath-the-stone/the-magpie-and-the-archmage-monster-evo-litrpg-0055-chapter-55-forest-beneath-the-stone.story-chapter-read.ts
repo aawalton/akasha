@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0055Chapter55ForestBeneathTh
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 55,
   ownLength: 1941,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

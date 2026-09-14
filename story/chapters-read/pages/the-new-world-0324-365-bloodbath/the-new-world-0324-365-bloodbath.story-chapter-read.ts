@@ -8,7 +8,7 @@ export const theNewWorld0324365Bloodbath = {
   story: "the-new-world",
   position: 324,
   ownLength: 4703,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

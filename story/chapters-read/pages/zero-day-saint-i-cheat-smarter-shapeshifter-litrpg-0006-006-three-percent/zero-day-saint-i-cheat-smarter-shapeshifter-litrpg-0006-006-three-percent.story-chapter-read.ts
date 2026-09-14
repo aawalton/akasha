@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0006006ThreePercent = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 6,
   ownLength: 1674,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

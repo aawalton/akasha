@@ -9,7 +9,7 @@ export const theWanderingInn0407InterludeBurningAlcohol = {
   position: 407,
   ownLength: 18474,
   ownProgress: 18474,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-08",
   externalIdentity: [
     {

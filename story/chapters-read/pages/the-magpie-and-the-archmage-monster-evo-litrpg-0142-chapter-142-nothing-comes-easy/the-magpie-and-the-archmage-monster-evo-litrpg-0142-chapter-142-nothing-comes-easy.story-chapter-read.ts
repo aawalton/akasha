@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0142Chapter142NothingComesEa
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 142,
   ownLength: 2037,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

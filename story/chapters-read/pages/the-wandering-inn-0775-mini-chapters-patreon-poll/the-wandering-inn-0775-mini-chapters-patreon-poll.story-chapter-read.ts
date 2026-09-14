@@ -9,7 +9,7 @@ export const theWanderingInn0775MiniChaptersPatreonPoll = {
   position: 775,
   ownLength: 66937,
   ownProgress: 66937,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-05",
   externalIdentity: [
     {

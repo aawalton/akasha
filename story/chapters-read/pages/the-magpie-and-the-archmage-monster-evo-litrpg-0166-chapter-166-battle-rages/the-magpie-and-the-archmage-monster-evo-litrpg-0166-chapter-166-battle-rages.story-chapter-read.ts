@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0166Chapter166BattleRages = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 166,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

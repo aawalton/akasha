@@ -8,7 +8,7 @@ export const theGiftOfLoot0050Chapter50BuyingAlliesDonTComeCheap = {
   story: "the-gift-of-loot",
   position: 50,
   ownLength: 2330,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

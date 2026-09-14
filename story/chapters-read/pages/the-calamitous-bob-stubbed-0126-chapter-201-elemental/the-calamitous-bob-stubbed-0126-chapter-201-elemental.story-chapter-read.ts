@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0126Chapter201Elemental = {
   story: "the-calamitous-bob-stubbed",
   position: 126,
   ownLength: 5558,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

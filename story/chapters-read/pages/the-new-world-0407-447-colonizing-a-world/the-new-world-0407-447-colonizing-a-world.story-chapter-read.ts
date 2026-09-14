@@ -8,7 +8,7 @@ export const theNewWorld0407447ColonizingAWorld = {
   story: "the-new-world",
   position: 407,
   ownLength: 6242,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

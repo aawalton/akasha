@@ -6,7 +6,7 @@ export const timeCursedKnightTimeLoopPostApoc0128Chapter128TheThirdCircle = {
   slug: "time-cursed-knight-time-loop-post-apoc-0128-chapter-128-the-third-circle",
   position: 128,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

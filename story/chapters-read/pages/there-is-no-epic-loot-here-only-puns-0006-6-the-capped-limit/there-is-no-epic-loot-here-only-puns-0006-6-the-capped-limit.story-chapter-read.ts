@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns00066TheCappedLimit = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 6,
   ownLength: 2555,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

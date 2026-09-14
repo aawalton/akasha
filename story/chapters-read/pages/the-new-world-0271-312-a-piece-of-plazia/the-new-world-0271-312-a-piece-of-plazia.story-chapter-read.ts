@@ -8,7 +8,7 @@ export const theNewWorld0271312APieceOfPlazia = {
   story: "the-new-world",
   position: 271,
   ownLength: 5946,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

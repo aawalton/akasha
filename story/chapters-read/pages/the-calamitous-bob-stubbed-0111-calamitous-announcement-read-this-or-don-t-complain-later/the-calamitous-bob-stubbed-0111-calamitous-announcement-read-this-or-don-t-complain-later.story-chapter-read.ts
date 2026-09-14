@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0111CalamitousAnnouncementReadThisOrDonTComp
   story: "the-calamitous-bob-stubbed",
   position: 111,
   ownLength: 260,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

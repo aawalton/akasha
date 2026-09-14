@@ -8,7 +8,7 @@ export const thePrimalHunter0040Chapter1168InvocationExperimentation = {
   story: "story-read/the-primal-hunter",
   position: 40,
   ownLength: 2862,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

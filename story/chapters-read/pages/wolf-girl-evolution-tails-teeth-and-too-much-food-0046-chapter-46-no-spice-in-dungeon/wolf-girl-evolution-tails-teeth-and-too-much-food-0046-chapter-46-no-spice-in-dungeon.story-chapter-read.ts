@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0046Chapter46NoSpiceInDung
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 46,
   ownLength: 1858,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0050Chapter50TheWeightOfTheB
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 50,
   ownLength: 2054,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

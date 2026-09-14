@@ -9,7 +9,7 @@ export const theWanderingInn0470InterludeTheTribesOfIzril = {
   position: 470,
   ownLength: 15364,
   ownProgress: 15572,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-25",
   externalIdentity: [
     {

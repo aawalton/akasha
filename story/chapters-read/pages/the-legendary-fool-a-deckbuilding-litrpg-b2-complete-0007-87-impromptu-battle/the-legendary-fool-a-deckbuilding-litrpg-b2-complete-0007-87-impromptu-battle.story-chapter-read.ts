@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000787ImpromptuBattle 
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 7,
   ownLength: 1277,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

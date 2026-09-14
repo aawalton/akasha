@@ -9,7 +9,7 @@ export const theWanderingInn0646InterludeTheSpitoon = {
   position: 646,
   ownLength: 22580,
   ownProgress: 23127,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-29",
   externalIdentity: [
     {

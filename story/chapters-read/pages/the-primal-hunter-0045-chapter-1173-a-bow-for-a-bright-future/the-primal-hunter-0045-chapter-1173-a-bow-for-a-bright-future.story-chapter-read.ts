@@ -8,7 +8,7 @@ export const thePrimalHunter0045Chapter1173ABowForABrightFuture = {
   story: "story-read/the-primal-hunter",
   position: 45,
   ownLength: 2969,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0002Chapter1TheInvitationsAr
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 2,
   ownLength: 2179,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

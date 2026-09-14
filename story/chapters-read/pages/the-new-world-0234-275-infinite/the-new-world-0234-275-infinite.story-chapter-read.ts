@@ -8,7 +8,7 @@ export const theNewWorld0234275Infinite = {
   story: "the-new-world",
   position: 234,
   ownLength: 10118,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0157Chapter232PlainOfTheGods = {
   story: "the-calamitous-bob-stubbed",
   position: 157,
   ownLength: 5389,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0034Chapter33Luck = {
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 34,
   ownLength: 1736,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-13",
   externalIdentity: [
     {

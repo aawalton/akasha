@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0098Chapter176WhereItAllBegan = {
   story: "the-calamitous-bob-stubbed",
   position: 98,
   ownLength: 5025,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

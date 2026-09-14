@@ -9,7 +9,7 @@ export const theWanderingInn0717GoblinDaysPt2ThePilotAndTheKnight = {
   position: 717,
   ownLength: 12799,
   ownProgress: 13319,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-28",
   externalIdentity: [
     {

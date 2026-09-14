@@ -6,7 +6,7 @@ export const thePrimalHunter0178Chapter1381StaffOfTheMagi = {
   slug: "the-primal-hunter-0178-chapter-1381-staff-of-the-magi",
   position: 178,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

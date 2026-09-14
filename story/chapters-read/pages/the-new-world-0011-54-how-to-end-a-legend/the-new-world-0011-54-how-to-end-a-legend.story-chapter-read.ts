@@ -8,7 +8,7 @@ export const theNewWorld001154HowToEndALegend = {
   story: "the-new-world",
   position: 11,
   ownLength: 4215,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

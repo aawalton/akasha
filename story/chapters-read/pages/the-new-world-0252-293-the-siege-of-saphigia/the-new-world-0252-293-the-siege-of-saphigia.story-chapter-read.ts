@@ -8,7 +8,7 @@ export const theNewWorld0252293TheSiegeOfSaphigia = {
   story: "the-new-world",
   position: 252,
   ownLength: 5126,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

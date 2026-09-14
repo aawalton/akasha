@@ -7,7 +7,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0038Chapter38Regrets = {
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 38,
   publishedAt: "2026-09-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

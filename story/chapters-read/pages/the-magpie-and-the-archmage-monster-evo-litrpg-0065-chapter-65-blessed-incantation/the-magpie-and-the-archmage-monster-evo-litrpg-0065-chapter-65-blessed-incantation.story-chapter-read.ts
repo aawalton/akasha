@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0065Chapter65BlessedIncantat
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 65,
   ownLength: 2075,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0090Chapter1218AMarchThroughNothingness = {
   story: "story-read/the-primal-hunter",
   position: 90,
   ownLength: 3206,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

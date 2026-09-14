@@ -8,7 +8,7 @@ export const theNewWorld0306347SetUp = {
   story: "the-new-world",
   position: 306,
   ownLength: 5011,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

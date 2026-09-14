@@ -8,7 +8,7 @@ export const theNewWorld0412452ToDevoteEverything = {
   story: "the-new-world",
   position: 412,
   ownLength: 9389,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

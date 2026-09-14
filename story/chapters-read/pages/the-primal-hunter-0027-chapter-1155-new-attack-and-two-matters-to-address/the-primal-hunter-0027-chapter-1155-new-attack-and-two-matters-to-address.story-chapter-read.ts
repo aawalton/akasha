@@ -8,7 +8,7 @@ export const thePrimalHunter0027Chapter1155NewAttackAndTwoMattersToAddress = {
   story: "story-read/the-primal-hunter",
   position: 27,
   ownLength: 2840,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

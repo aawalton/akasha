@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0033033NoComment = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 33,
   ownLength: 2070,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

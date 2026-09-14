@@ -8,7 +8,7 @@ export const theNewWorld0187228AnEnemyWorthFearing = {
   story: "the-new-world",
   position: 187,
   ownLength: 3145,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

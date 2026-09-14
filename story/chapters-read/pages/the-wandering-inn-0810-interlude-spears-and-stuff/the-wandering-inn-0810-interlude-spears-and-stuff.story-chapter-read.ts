@@ -8,7 +8,7 @@ export const theWanderingInn0810InterludeSpearsAndStuff = {
   story: "story-read/the-wandering-inn",
   position: 810,
   ownLength: 11636,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-14",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const theWanderingInn0012InterludeTheGreatRitual = {
   position: 12,
   ownLength: 2738,
   ownProgress: 2738,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-03-03",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0028Chapter27Marcus =
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 28,
   ownLength: 1943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-07",
   externalIdentity: [
     {

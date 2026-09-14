@@ -6,7 +6,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0177Chapter177TheInvaders = 
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0177-chapter-177-the-invaders",
   position: 177,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

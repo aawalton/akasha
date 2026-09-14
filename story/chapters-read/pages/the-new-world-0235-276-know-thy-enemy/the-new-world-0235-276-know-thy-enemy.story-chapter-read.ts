@@ -8,7 +8,7 @@ export const theNewWorld0235276KnowThyEnemy = {
   story: "the-new-world",
   position: 235,
   ownLength: 4091,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

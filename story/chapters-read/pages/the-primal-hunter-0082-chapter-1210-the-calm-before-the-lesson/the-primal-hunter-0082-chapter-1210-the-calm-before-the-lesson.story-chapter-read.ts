@@ -8,7 +8,7 @@ export const thePrimalHunter0082Chapter1210TheCalmBeforeTheLesson = {
   story: "story-read/the-primal-hunter",
   position: 82,
   ownLength: 2840,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

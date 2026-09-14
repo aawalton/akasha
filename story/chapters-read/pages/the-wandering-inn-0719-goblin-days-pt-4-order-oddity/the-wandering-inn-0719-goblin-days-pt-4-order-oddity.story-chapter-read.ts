@@ -9,7 +9,7 @@ export const theWanderingInn0719GoblinDaysPt4OrderOddity = {
   position: 719,
   ownLength: 4659,
   ownProgress: 4749,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-31",
   externalIdentity: [
     {

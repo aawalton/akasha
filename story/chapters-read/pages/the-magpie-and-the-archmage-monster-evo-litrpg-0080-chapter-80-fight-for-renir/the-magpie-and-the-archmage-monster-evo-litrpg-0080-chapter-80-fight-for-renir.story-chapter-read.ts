@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0080Chapter80FightForRenir =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 80,
   ownLength: 2105,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

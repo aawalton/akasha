@@ -8,7 +8,7 @@ export const thePrimalHunter0097Chapter1225SacredMeditation = {
   story: "story-read/the-primal-hunter",
   position: 97,
   ownLength: 2827,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

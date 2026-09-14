@@ -8,7 +8,7 @@ export const theNewWorld0352392ACityAlive = {
   story: "the-new-world",
   position: 352,
   ownLength: 4057,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

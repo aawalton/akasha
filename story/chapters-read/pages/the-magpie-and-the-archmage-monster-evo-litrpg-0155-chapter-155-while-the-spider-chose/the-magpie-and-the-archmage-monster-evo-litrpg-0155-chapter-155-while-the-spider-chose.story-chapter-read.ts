@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0155Chapter155WhileTheSpider
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 155,
   ownLength: 1954,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

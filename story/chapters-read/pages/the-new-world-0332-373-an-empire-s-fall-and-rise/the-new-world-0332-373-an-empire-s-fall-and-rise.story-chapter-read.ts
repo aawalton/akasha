@@ -8,7 +8,7 @@ export const theNewWorld0332373AnEmpireSFallAndRise = {
   story: "the-new-world",
   position: 332,
   ownLength: 2452,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

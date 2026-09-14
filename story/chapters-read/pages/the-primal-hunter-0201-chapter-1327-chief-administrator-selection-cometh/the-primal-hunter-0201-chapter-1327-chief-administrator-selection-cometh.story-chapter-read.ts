@@ -8,7 +8,7 @@ export const thePrimalHunter0201Chapter1327ChiefAdministratorSelectionCometh = {
   story: "story-read/the-primal-hunter",
   position: 201,
   ownLength: 2714,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

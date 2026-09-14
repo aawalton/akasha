@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0043043HelloEve = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 43,
   ownLength: 2493,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

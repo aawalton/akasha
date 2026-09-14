@@ -9,7 +9,7 @@ export const theWanderingInn0587Epilogue = {
   position: 587,
   ownLength: 4551,
   ownProgress: 5962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-03",
   externalIdentity: [
     { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2022/05/03/epilogue/" },

@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0041Chapter40AnHonorToServeY
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 41,
   ownLength: 363,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

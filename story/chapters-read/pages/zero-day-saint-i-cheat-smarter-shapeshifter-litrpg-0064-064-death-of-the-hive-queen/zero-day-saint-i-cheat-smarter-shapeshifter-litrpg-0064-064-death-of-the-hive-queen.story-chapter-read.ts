@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0064064DeathOfTheHiveQue
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 64,
   ownLength: 1941,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

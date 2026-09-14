@@ -9,7 +9,7 @@ export const theWanderingInn0644InterludeInnovationAndInvention = {
   position: 644,
   ownLength: 36542,
   ownProgress: 36790,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-15",
   externalIdentity: [
     {

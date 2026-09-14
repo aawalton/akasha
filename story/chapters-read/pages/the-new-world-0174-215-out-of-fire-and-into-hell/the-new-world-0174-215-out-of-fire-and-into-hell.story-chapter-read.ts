@@ -8,7 +8,7 @@ export const theNewWorld0174215OutOfFireAndIntoHell = {
   story: "the-new-world",
   position: 174,
   ownLength: 2472,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

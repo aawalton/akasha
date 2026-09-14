@@ -8,7 +8,7 @@ export const thePrimalHunter0221Chapter1347AnInextinguishableFlame = {
   story: "story-read/the-primal-hunter",
   position: 221,
   ownLength: 2754,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

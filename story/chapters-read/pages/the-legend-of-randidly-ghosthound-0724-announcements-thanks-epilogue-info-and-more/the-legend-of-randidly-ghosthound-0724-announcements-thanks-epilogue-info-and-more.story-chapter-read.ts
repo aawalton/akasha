@@ -8,7 +8,7 @@ export const theLegendOfRandidlyGhosthound0724AnnouncementsThanksEpilogueInfoAnd
   story: "story-read/the-legend-of-randidly-ghosthound",
   position: 724,
   ownLength: 679,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

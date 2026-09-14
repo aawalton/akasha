@@ -8,7 +8,7 @@ export const theNewWorld000346FightingEvil = {
   story: "the-new-world",
   position: 3,
   ownLength: 3124,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

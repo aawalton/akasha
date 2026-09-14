@@ -8,7 +8,7 @@ export const theNewWorld004588HideAndSeek = {
   story: "the-new-world",
   position: 45,
   ownLength: 2810,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

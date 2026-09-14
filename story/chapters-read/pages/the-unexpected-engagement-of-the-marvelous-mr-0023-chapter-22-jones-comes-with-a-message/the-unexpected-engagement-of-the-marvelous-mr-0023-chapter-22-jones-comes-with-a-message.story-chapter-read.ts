@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0023Chapter22JonesComesWithA
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 23,
   ownLength: 2442,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

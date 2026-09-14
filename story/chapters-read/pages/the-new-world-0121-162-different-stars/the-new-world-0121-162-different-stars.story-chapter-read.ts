@@ -8,7 +8,7 @@ export const theNewWorld0121162DifferentStars = {
   story: "the-new-world",
   position: 121,
   ownLength: 4064,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

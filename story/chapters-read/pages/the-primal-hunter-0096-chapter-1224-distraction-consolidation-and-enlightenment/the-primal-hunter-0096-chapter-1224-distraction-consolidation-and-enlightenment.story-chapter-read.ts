@@ -8,7 +8,7 @@ export const thePrimalHunter0096Chapter1224DistractionConsolidationAndEnlightenm
   story: "story-read/the-primal-hunter",
   position: 96,
   ownLength: 2717,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theGiftOfLoot0022Chapter22FindingBalanceAndLoot = {
   story: "the-gift-of-loot",
   position: 22,
   ownLength: 3098,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

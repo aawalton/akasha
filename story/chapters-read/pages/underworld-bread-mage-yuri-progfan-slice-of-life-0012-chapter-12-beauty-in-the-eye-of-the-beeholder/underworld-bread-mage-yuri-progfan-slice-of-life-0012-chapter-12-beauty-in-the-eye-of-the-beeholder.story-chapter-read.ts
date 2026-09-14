@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0012Chapter12BeautyInTheEy
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 12,
   ownLength: 1870,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

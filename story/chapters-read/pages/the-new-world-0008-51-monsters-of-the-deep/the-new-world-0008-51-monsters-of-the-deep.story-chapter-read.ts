@@ -8,7 +8,7 @@ export const theNewWorld000851MonstersOfTheDeep = {
   story: "the-new-world",
   position: 8,
   ownLength: 3054,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

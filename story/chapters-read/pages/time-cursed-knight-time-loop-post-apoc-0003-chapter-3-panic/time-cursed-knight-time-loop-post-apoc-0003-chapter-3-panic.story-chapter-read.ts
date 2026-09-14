@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0003Chapter3Panic = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 3,
   ownLength: 5876,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

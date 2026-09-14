@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0042Chapter111EarningAdmissio
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 42,
   ownLength: 11055,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

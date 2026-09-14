@@ -9,7 +9,7 @@ export const theWanderingInn0615InterludeDeathAndStitches = {
   position: 615,
   ownLength: 15687,
   ownProgress: 15998,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-16",
   externalIdentity: [
     {

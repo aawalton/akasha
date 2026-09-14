@@ -8,7 +8,7 @@ export const theGiftOfLoot0075Chapter75OfficiallyTheTeamPartyBus = {
   story: "the-gift-of-loot",
   position: 75,
   ownLength: 2970,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

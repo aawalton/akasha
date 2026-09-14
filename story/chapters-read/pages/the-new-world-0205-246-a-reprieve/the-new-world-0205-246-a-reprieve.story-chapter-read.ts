@@ -8,7 +8,7 @@ export const theNewWorld0205246AReprieve = {
   story: "the-new-world",
   position: 205,
   ownLength: 3647,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

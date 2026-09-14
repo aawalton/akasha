@@ -8,7 +8,7 @@ export const theNewWorld0152193AConflictOfInterests = {
   story: "the-new-world",
   position: 152,
   ownLength: 2622,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

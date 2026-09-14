@@ -8,7 +8,7 @@ export const theGiftOfLoot0071Chapter71WhoeverSaidOrangeIsTheNewPinkWas = {
   story: "the-gift-of-loot",
   position: 71,
   ownLength: 3847,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0216257Rhetoric = {
   story: "the-new-world",
   position: 216,
   ownLength: 3224,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

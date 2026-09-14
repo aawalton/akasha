@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0033Chapter33WolfWithAPlan
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 33,
   ownLength: 1273,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

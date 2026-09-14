@@ -8,7 +8,7 @@ export const theNewWorld0143184TheHybrid = {
   story: "the-new-world",
   position: 143,
   ownLength: 3410,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns001212TheNatureOfGiveAndTake = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 12,
   ownLength: 3190,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

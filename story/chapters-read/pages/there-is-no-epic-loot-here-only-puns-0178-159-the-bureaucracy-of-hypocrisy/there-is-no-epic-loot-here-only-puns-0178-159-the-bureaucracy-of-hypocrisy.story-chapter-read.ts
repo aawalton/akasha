@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0178159TheBureaucracyOfHypocrisy = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 178,
   ownLength: 2827,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

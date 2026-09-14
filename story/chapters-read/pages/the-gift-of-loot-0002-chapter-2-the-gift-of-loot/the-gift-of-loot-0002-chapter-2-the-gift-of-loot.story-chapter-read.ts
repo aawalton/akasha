@@ -8,7 +8,7 @@ export const theGiftOfLoot0002Chapter2TheGiftOfLoot = {
   story: "the-gift-of-loot",
   position: 2,
   ownLength: 3038,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

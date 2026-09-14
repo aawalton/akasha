@@ -8,7 +8,7 @@ export const theNewWorld0192233Elysium = {
   story: "the-new-world",
   position: 192,
   ownLength: 3503,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

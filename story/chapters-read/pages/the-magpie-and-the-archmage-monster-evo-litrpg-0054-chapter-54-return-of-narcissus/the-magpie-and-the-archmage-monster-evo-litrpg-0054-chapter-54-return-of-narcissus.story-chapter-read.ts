@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0054Chapter54ReturnOfNarciss
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 54,
   ownLength: 2158,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

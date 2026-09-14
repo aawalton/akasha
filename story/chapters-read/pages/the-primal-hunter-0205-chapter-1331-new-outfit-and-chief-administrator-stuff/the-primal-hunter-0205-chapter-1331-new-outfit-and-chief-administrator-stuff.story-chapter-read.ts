@@ -8,7 +8,7 @@ export const thePrimalHunter0205Chapter1331NewOutfitAndChiefAdministratorStuff =
   story: "story-read/the-primal-hunter",
   position: 205,
   ownLength: 2647,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

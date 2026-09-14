@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0013Chapter13MyShiny = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 13,
   ownLength: 2115,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

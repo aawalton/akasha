@@ -8,7 +8,7 @@ export const theNewWorld003881RiftKeeper = {
   story: "the-new-world",
   position: 38,
   ownLength: 5143,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

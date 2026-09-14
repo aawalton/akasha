@@ -8,7 +8,7 @@ export const thePrimalHunter0008Chapter8AWonderfulNight = {
   story: "story-read/the-primal-hunter",
   position: 8,
   ownLength: 2338,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

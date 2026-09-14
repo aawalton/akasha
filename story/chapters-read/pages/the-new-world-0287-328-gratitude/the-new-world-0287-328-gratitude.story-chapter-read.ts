@@ -8,7 +8,7 @@ export const theNewWorld0287328Gratitude = {
   story: "the-new-world",
   position: 287,
   ownLength: 3652,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

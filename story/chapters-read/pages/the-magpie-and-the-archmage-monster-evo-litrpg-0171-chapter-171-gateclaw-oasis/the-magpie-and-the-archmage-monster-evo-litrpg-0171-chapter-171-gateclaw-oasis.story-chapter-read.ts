@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0171Chapter171GateclawOasis 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 171,
   ownLength: 1952,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

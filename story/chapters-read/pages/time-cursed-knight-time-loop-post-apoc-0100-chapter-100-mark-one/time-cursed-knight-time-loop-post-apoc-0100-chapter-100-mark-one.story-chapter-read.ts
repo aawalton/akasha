@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0100Chapter100MarkOne = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 100,
   ownLength: 2301,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

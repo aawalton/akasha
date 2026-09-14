@@ -9,7 +9,7 @@ export const theWanderingInn0522InterludePiscesRevised = {
   position: 522,
   ownLength: 45183,
   ownProgress: 45640,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-20",
   externalIdentity: [
     {

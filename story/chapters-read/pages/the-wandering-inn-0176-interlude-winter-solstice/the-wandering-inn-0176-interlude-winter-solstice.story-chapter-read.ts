@@ -9,7 +9,7 @@ export const theWanderingInn0176InterludeWinterSolstice = {
   position: 176,
   ownLength: 12323,
   ownProgress: 13010,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-12-30",
   externalIdentity: [
     {

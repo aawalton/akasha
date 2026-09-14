@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0035Chapter104TestingLimitsIi
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 35,
   ownLength: 12496,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

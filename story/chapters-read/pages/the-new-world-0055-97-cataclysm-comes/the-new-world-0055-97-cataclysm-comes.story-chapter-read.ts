@@ -8,7 +8,7 @@ export const theNewWorld005597CataclysmComes = {
   story: "the-new-world",
   position: 55,
   ownLength: 4422,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

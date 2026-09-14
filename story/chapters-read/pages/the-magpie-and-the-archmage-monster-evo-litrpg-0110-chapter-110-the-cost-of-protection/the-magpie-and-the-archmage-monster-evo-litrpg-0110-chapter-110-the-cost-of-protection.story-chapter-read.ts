@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0110Chapter110TheCostOfProte
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 110,
   ownLength: 2090,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

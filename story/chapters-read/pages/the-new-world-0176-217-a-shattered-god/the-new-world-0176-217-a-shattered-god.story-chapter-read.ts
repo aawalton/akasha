@@ -8,7 +8,7 @@ export const theNewWorld0176217AShatteredGod = {
   story: "the-new-world",
   position: 176,
   ownLength: 6311,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

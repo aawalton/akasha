@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0232209WhyneTime = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 232,
   ownLength: 2524,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

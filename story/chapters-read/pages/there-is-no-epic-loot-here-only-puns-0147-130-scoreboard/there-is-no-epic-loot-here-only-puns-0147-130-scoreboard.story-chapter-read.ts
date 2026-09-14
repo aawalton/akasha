@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0147130Scoreboard = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 147,
   ownLength: 2642,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0209250MentalWarfare = {
   story: "the-new-world",
   position: 209,
   ownLength: 2077,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0144Chapter144Dreadspider = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 144,
   ownLength: 2012,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

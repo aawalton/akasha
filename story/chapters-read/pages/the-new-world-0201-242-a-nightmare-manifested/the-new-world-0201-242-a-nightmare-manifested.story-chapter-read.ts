@@ -8,7 +8,7 @@ export const theNewWorld0201242ANightmareManifested = {
   story: "the-new-world",
   position: 201,
   ownLength: 3294,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

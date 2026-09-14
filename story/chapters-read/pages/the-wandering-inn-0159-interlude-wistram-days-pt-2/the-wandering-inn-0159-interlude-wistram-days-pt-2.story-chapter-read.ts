@@ -9,7 +9,7 @@ export const theWanderingInn0159InterludeWistramDaysPt2 = {
   position: 159,
   ownLength: 12696,
   ownProgress: 12696,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-11-10",
   externalIdentity: [
     {

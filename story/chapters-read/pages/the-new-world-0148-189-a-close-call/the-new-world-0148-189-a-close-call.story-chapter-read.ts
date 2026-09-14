@@ -8,7 +8,7 @@ export const theNewWorld0148189ACloseCall = {
   story: "the-new-world",
   position: 148,
   ownLength: 3764,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0307348Reconnected = {
   story: "the-new-world",
   position: 307,
   ownLength: 4601,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

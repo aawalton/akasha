@@ -9,7 +9,7 @@ export const theWanderingInn0626InterludeAgeAndTales = {
   position: 626,
   ownLength: 22145,
   ownProgress: 22398,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-07",
   externalIdentity: [
     {

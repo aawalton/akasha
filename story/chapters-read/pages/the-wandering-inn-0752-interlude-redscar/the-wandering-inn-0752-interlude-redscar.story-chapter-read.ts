@@ -9,7 +9,7 @@ export const theWanderingInn0752InterludeRedscar = {
   position: 752,
   ownLength: 26158,
   ownProgress: 26606,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-01",
   externalIdentity: [
     {

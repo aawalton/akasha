@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0088Chapter88Unproven = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 88,
   ownLength: 2707,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

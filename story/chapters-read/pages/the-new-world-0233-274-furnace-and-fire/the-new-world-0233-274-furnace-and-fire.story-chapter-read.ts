@@ -8,7 +8,7 @@ export const theNewWorld0233274FurnaceAndFire = {
   story: "the-new-world",
   position: 233,
   ownLength: 10384,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

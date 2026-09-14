@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns001313HookLineSinker = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 13,
   ownLength: 2787,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0010PatreonScheduleTi
     story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
     position: 10,
     ownLength: 277,
-    unit: "words",
+    unit: "unit/words",
     publishedAt: "2026-07-21",
     externalIdentity: [
       {

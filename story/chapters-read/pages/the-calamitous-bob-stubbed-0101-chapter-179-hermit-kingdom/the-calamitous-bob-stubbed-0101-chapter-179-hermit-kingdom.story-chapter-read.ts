@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0101Chapter179HermitKingdom = {
   story: "the-calamitous-bob-stubbed",
   position: 101,
   ownLength: 5730,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

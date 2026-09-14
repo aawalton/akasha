@@ -8,7 +8,7 @@ export const theWanderingInn0782InterludeErin = {
   story: "story-read/the-wandering-inn",
   position: 782,
   ownLength: 11940,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-06",
   externalIdentity: [
     {

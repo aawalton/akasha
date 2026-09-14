@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0058Chapter58Memories = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 58,
   ownLength: 2689,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

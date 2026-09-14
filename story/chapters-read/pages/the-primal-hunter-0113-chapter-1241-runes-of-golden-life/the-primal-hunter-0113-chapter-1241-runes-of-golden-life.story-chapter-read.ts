@@ -8,7 +8,7 @@ export const thePrimalHunter0113Chapter1241RunesOfGoldenLife = {
   story: "story-read/the-primal-hunter",
   position: 113,
   ownLength: 2807,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

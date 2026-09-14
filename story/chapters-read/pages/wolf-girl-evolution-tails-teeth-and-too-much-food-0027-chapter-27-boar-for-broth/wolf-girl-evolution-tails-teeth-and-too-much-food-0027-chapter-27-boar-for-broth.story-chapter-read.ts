@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0027Chapter27BoarForBroth 
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 27,
   ownLength: 1280,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

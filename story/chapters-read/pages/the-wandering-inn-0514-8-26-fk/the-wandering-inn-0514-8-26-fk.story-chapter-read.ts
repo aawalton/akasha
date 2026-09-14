@@ -9,7 +9,7 @@ export const theWanderingInn0514826Fk = {
   position: 514,
   ownLength: 30292,
   ownProgress: 30388,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-06",
   externalIdentity: [
     { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2021/06/06/8-26-fk/" },

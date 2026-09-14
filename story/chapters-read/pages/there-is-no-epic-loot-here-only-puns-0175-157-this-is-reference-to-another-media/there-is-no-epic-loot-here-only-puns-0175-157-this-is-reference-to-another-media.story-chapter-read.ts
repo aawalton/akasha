@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0175157ThisIsReferenceToAnotherMedia =
   story: "there-is-no-epic-loot-here-only-puns",
   position: 175,
   ownLength: 3275,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

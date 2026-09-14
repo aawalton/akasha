@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0009Chapter9Blightpeak = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 9,
   ownLength: 2181,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

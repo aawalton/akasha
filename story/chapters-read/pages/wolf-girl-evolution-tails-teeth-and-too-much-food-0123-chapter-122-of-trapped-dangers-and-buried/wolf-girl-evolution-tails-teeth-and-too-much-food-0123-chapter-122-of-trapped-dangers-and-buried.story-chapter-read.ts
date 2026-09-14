@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0123Chapter122OfTrappedDan
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 123,
   ownLength: 2667,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

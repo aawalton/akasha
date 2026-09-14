@@ -8,7 +8,7 @@ export const theNewWorld001053MakingProgress = {
   story: "the-new-world",
   position: 10,
   ownLength: 3957,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

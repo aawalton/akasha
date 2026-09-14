@@ -8,7 +8,7 @@ export const thePrimalHunter0079Chapter1207UnintentionalDisplayOfPower = {
   story: "story-read/the-primal-hunter",
   position: 79,
   ownLength: 2812,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

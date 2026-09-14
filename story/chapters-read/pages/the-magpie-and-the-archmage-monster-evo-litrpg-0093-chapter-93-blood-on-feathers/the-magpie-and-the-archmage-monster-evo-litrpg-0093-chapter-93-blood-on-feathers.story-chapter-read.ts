@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0093Chapter93BloodOnFeathers
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 93,
   ownLength: 1842,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

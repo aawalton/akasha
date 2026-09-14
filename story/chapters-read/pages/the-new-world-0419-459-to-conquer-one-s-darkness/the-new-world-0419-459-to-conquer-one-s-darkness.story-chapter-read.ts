@@ -8,7 +8,7 @@ export const theNewWorld0419459ToConquerOneSDarkness = {
   story: "the-new-world",
   position: 419,
   ownLength: 2605,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

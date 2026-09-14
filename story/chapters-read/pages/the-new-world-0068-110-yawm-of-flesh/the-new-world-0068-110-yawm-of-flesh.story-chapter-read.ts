@@ -8,7 +8,7 @@ export const theNewWorld0068110YawmOfFlesh = {
   story: "the-new-world",
   position: 68,
   ownLength: 6648,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

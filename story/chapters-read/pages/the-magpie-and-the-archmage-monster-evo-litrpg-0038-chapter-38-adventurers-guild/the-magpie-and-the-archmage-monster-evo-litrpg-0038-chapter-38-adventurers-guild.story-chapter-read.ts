@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0038Chapter38AdventurersGuil
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 38,
   ownLength: 2056,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

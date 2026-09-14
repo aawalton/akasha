@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0164Chapter164EyeOfTheWyvern
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 164,
   ownLength: 2083,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

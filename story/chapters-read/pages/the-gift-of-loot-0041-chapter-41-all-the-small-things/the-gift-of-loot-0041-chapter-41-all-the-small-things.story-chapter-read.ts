@@ -8,7 +8,7 @@ export const theGiftOfLoot0041Chapter41AllTheSmallThings = {
   story: "the-gift-of-loot",
   position: 41,
   ownLength: 2042,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

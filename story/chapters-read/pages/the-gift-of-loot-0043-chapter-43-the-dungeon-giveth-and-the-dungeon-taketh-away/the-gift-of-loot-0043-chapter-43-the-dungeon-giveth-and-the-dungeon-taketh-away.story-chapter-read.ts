@@ -8,7 +8,7 @@ export const theGiftOfLoot0043Chapter43TheDungeonGivethAndTheDungeonTakethAway =
   story: "the-gift-of-loot",
   position: 43,
   ownLength: 3127,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0081Chapter81MagpiesMiserabl
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 81,
   ownLength: 2254,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

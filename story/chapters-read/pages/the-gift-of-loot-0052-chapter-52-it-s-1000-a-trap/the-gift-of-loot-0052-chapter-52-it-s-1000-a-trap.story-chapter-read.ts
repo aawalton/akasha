@@ -8,7 +8,7 @@ export const theGiftOfLoot0052Chapter52ItS1000ATrap = {
   story: "the-gift-of-loot",
   position: 52,
   ownLength: 3749,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

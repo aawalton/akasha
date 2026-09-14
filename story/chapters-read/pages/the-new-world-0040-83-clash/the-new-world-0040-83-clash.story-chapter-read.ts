@@ -8,7 +8,7 @@ export const theNewWorld004083Clash = {
   story: "the-new-world",
   position: 40,
   ownLength: 1922,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

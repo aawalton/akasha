@@ -8,7 +8,7 @@ export const theNewWorld0343383GolemicProgenitor = {
   story: "the-new-world",
   position: 343,
   ownLength: 4566,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

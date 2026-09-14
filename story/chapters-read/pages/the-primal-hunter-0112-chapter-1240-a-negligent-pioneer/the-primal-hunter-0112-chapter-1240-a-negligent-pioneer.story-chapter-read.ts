@@ -8,7 +8,7 @@ export const thePrimalHunter0112Chapter1240ANegligentPioneer = {
   story: "story-read/the-primal-hunter",
   position: 112,
   ownLength: 2727,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

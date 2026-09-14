@@ -8,7 +8,7 @@ export const theGiftOfLoot0040Chapter40IntoTheSwamp = {
   story: "the-gift-of-loot",
   position: 40,
   ownLength: 3095,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

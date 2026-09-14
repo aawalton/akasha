@@ -8,7 +8,7 @@ export const theGiftOfLoot0003Chapter3ClearingTheDungeon = {
   story: "the-gift-of-loot",
   position: 3,
   ownLength: 2602,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

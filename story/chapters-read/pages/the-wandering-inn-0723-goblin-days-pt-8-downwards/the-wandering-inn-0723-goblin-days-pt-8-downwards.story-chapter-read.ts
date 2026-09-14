@@ -9,7 +9,7 @@ export const theWanderingInn0723GoblinDaysPt8Downwards = {
   position: 723,
   ownLength: 2255,
   ownProgress: 3092,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-04",
   externalIdentity: [
     {

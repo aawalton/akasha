@@ -8,7 +8,7 @@ export const thePrimalHunter0214Chapter1340APeacefulFaction = {
   story: "story-read/the-primal-hunter",
   position: 214,
   ownLength: 2866,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

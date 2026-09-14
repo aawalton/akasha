@@ -8,7 +8,7 @@ export const thePrimalHunter0077Chapter1205QuestionableTrip = {
   story: "story-read/the-primal-hunter",
   position: 77,
   ownLength: 2723,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

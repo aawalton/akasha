@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0154Chapter154CurrentOfPurif
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 154,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

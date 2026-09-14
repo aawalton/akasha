@@ -8,7 +8,7 @@ export const thePrimalHunter0098Chapter1226TheCuriosityOfAPrimordial = {
   story: "story-read/the-primal-hunter",
   position: 98,
   ownLength: 3065,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0053Chapter1181Planeswarper = {
   story: "story-read/the-primal-hunter",
   position: 53,
   ownLength: 2814,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

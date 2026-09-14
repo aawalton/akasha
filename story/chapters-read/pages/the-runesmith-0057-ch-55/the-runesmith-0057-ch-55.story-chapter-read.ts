@@ -8,7 +8,7 @@ export const theRunesmith0057Ch55 = {
   story: "the-runesmith",
   position: 57,
   ownLength: 7162,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

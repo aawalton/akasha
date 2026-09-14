@@ -8,7 +8,7 @@ export const thePrimalHunter0163Chapter1290BetterBestBootsConfusingMessage = {
   story: "story-read/the-primal-hunter",
   position: 163,
   ownLength: 2981,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

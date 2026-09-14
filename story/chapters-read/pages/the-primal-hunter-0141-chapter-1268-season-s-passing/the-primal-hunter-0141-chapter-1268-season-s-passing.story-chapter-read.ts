@@ -8,7 +8,7 @@ export const thePrimalHunter0141Chapter1268SeasonSPassing = {
   story: "story-read/the-primal-hunter",
   position: 141,
   ownLength: 2802,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0104Chapter104LayingTheWebs 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 104,
   ownLength: 1965,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

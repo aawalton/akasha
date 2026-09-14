@@ -8,7 +8,7 @@ export const thePrimalHunter0228Chapter1354AVeryUnwelcomingDesert = {
   story: "story-read/the-primal-hunter",
   position: 228,
   ownLength: 2932,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

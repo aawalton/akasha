@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns010288XanatosGambitNoThisIsADeltaGambl
   story: "there-is-no-epic-loot-here-only-puns",
   position: 102,
   ownLength: 5053,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

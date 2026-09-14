@@ -8,7 +8,7 @@ export const theNewWorld0404444RitualsAndCultures = {
   story: "the-new-world",
   position: 404,
   ownLength: 7243,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

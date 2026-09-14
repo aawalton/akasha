@@ -8,7 +8,7 @@ export const thePrimalHunter0222Chapter1348ExtinguishedFlame = {
   story: "story-read/the-primal-hunter",
   position: 222,
   ownLength: 2625,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

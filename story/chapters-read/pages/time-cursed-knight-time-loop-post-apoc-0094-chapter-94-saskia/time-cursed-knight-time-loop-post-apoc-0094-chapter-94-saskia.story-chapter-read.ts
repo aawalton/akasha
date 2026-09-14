@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0094Chapter94Saskia = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 94,
   ownLength: 3070,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

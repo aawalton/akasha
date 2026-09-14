@@ -8,7 +8,7 @@ export const theNewWorld0409449OutFromUnderAHeel = {
   story: "the-new-world",
   position: 409,
   ownLength: 9191,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

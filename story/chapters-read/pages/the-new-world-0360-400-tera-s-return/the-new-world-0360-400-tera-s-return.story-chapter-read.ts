@@ -8,7 +8,7 @@ export const theNewWorld0360400TeraSReturn = {
   story: "the-new-world",
   position: 360,
   ownLength: 4270,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

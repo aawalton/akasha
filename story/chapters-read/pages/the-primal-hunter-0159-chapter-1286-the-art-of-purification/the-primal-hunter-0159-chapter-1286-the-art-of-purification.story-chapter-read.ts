@@ -8,7 +8,7 @@ export const thePrimalHunter0159Chapter1286TheArtOfPurification = {
   story: "story-read/the-primal-hunter",
   position: 159,
   ownLength: 2935,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

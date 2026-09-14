@@ -8,7 +8,7 @@ export const theGiftOfLoot0033Chapter33BearSerkerPotion = {
   story: "the-gift-of-loot",
   position: 33,
   ownLength: 2793,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

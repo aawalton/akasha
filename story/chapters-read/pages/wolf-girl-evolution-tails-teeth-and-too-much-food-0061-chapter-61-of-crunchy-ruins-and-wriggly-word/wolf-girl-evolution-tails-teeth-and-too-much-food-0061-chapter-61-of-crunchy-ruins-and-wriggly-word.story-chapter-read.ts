@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0061Chapter61OfCrunchyRuin
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 61,
   ownLength: 2042,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

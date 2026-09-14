@@ -8,7 +8,7 @@ export const theNewWorld0396436ToForgeForAnEmpire = {
   story: "the-new-world",
   position: 396,
   ownLength: 5078,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

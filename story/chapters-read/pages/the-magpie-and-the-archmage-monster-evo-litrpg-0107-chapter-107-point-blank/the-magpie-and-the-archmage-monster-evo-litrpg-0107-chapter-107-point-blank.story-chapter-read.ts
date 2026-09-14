@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0107Chapter107PointBlank = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 107,
   ownLength: 1986,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

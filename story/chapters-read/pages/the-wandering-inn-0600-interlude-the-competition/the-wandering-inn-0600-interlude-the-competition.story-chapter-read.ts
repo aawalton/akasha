@@ -9,7 +9,7 @@ export const theWanderingInn0600InterludeTheCompetition = {
   position: 600,
   ownLength: 20739,
   ownProgress: 20958,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-06",
   externalIdentity: [
     {

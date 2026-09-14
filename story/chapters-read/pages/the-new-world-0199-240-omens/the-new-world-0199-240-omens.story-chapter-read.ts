@@ -8,7 +8,7 @@ export const theNewWorld0199240Omens = {
   story: "the-new-world",
   position: 199,
   ownLength: 4346,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

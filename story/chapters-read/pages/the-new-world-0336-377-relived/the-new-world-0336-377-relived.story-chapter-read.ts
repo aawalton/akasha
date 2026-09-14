@@ -8,7 +8,7 @@ export const theNewWorld0336377Relived = {
   story: "the-new-world",
   position: 336,
   ownLength: 3102,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

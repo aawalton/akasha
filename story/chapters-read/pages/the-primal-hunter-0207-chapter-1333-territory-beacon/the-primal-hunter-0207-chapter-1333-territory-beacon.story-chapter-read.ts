@@ -8,7 +8,7 @@ export const thePrimalHunter0207Chapter1333TerritoryBeacon = {
   story: "story-read/the-primal-hunter",
   position: 207,
   ownLength: 2760,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

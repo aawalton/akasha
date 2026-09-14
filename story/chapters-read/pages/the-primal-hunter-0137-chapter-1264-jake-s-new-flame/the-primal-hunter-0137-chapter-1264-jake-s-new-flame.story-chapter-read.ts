@@ -8,7 +8,7 @@ export const thePrimalHunter0137Chapter1264JakeSNewFlame = {
   story: "story-read/the-primal-hunter",
   position: 137,
   ownLength: 2854,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

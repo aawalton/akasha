@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0027Chapter26TheBody = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 27,
   ownLength: 1180,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const theWanderingInn0411MatingRitualsPt2 = {
   position: 411,
   ownLength: 28462,
   ownProgress: 28828,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-21",
   externalIdentity: [
     {

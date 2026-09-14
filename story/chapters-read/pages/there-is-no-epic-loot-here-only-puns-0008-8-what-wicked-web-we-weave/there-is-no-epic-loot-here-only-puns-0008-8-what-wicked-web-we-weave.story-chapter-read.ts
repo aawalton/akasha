@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns00088WhatWickedWebWeWeave = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 8,
   ownLength: 1582,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

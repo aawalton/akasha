@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0117Chapter117StrangersInThe
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 117,
   ownLength: 1973,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

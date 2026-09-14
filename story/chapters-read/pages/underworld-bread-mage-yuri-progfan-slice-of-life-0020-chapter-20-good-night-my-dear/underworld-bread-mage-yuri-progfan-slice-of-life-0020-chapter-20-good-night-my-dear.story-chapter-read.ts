@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0020Chapter20GoodNightMyDe
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 20,
   ownLength: 1518,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

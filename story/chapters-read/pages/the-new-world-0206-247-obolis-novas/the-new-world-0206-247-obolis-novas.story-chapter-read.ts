@@ -8,7 +8,7 @@ export const theNewWorld0206247ObolisNovas = {
   story: "the-new-world",
   position: 206,
   ownLength: 2921,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

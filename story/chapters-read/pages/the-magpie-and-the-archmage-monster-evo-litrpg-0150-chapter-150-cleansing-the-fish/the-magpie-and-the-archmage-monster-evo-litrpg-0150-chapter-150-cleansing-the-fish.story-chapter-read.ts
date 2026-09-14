@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0150Chapter150CleansingTheFi
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 150,
   ownLength: 1954,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

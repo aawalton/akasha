@@ -6,7 +6,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0179Chapter179FamilyMatters 
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0179-chapter-179-family-matters",
   position: 179,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

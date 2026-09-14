@@ -9,7 +9,7 @@ export const theWanderingInn0727TheRootsPt2c = {
   position: 727,
   ownLength: 5869,
   ownProgress: 6250,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-11",
   externalIdentity: [
     {

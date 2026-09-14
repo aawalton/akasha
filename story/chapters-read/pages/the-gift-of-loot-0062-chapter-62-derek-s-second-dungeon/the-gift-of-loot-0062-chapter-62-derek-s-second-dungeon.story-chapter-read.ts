@@ -8,7 +8,7 @@ export const theGiftOfLoot0062Chapter62DerekSSecondDungeon = {
   story: "the-gift-of-loot",
   position: 62,
   ownLength: 3161,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

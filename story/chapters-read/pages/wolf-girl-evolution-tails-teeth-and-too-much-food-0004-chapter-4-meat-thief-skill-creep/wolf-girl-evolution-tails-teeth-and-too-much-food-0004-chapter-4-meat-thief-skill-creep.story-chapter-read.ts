@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0004Chapter4MeatThiefSkill
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 4,
   ownLength: 1497,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

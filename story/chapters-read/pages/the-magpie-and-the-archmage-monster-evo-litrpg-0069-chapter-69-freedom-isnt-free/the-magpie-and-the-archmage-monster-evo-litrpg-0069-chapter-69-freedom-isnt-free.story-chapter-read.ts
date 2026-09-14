@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0069Chapter69FreedomIsntFree
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 69,
   ownLength: 2099,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

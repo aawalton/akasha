@@ -8,7 +8,7 @@ export const theNewWorld0147188EclipseMakers = {
   story: "the-new-world",
   position: 147,
   ownLength: 2903,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

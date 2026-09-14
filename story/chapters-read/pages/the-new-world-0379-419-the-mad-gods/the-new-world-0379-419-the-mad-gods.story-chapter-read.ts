@@ -8,7 +8,7 @@ export const theNewWorld0379419TheMadGods = {
   story: "the-new-world",
   position: 379,
   ownLength: 4339,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

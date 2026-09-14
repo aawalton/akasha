@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0014Chapter14TheBeePleOfTh
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 14,
   ownLength: 1378,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

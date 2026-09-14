@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0160Chapter235Heroes = {
   story: "the-calamitous-bob-stubbed",
   position: 160,
   ownLength: 5460,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

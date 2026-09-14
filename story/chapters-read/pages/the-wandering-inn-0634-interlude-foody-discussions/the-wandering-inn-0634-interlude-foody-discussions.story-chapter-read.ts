@@ -9,7 +9,7 @@ export const theWanderingInn0634InterludeFoodyDiscussions = {
   position: 634,
   ownLength: 24644,
   ownProgress: 24963,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-24",
   externalIdentity: [
     {

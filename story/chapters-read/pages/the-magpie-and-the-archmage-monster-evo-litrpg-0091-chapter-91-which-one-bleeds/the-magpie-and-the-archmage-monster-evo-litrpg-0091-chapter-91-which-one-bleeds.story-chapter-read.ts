@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0091Chapter91WhichOneBleeds 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 91,
   ownLength: 1943,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

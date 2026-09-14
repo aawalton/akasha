@@ -8,7 +8,7 @@ export const thePrimalHunter0062Chapter1190VortexLance = {
   story: "story-read/the-primal-hunter",
   position: 62,
   ownLength: 2861,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theGiftOfLoot0036Chapter36AnEasyDungeonDive = {
   story: "the-gift-of-loot",
   position: 36,
   ownLength: 3715,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

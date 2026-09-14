@@ -8,7 +8,7 @@ export const theNewWorld0241282BeastsOfBurden = {
   story: "the-new-world",
   position: 241,
   ownLength: 5891,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

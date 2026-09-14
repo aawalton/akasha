@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0002Chapter2UsingDeathAsAWhet
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 2,
   ownLength: 5944,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

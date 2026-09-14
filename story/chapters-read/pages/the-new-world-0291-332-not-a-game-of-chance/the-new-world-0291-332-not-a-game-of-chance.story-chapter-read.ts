@@ -8,7 +8,7 @@ export const theNewWorld0291332NotAGameOfChance = {
   story: "the-new-world",
   position: 291,
   ownLength: 4012,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

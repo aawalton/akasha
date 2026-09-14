@@ -8,7 +8,7 @@ export const theNewWorld000952TrueIntentions = {
   story: "the-new-world",
   position: 9,
   ownLength: 4299,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

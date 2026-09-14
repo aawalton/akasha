@@ -8,7 +8,7 @@ export const theNewWorld0115156Eonoth = {
   story: "the-new-world",
   position: 115,
   ownLength: 3281,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

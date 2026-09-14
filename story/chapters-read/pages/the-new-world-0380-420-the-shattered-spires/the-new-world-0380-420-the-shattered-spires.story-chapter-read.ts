@@ -8,7 +8,7 @@ export const theNewWorld0380420TheShatteredSpires = {
   story: "the-new-world",
   position: 380,
   ownLength: 4264,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

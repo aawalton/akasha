@@ -8,7 +8,7 @@ export const theNewWorld0314355ASeaOfRed = {
   story: "the-new-world",
   position: 314,
   ownLength: 2922,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0417457TheMysteriesOfMana = {
   story: "the-new-world",
   position: 417,
   ownLength: 2714,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

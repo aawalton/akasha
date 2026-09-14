@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0037Chapter106RecoveryAndANew
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 37,
   ownLength: 10028,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

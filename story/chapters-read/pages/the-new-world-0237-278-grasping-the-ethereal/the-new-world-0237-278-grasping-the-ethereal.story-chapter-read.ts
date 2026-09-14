@@ -8,7 +8,7 @@ export const theNewWorld0237278GraspingTheEthereal = {
   story: "the-new-world",
   position: 237,
   ownLength: 4346,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

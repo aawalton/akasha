@@ -7,7 +7,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0173Chapter173MasterOfDistra
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 173,
   publishedAt: "2026-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0001TheStorySoFarFirstEdition = {
   story: "the-new-world",
   position: 1,
   ownLength: 2548,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

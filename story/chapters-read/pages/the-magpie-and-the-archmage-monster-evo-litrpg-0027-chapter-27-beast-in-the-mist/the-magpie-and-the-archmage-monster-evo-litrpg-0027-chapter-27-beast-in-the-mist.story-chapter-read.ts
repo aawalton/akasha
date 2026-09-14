@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0027Chapter27BeastInTheMist 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 27,
   ownLength: 2083,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

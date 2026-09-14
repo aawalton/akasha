@@ -8,7 +8,7 @@ export const theNewWorld005194InTheFleshPart1 = {
   story: "the-new-world",
   position: 51,
   ownLength: 3659,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

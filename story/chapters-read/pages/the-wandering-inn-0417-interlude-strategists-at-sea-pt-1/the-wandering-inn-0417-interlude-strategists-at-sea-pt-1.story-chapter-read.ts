@@ -9,7 +9,7 @@ export const theWanderingInn0417InterludeStrategistsAtSeaPt1 = {
   position: 417,
   ownLength: 33066,
   ownProgress: 33218,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-19",
   externalIdentity: [
     {

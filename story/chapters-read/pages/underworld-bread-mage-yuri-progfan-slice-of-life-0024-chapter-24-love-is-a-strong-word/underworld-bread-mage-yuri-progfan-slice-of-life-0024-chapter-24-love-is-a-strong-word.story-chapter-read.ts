@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0024Chapter24LoveIsAStrong
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 24,
   ownLength: 1419,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

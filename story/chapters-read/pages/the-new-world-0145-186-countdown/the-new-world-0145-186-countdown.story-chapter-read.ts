@@ -8,7 +8,7 @@ export const theNewWorld0145186Countdown = {
   story: "the-new-world",
   position: 145,
   ownLength: 4213,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

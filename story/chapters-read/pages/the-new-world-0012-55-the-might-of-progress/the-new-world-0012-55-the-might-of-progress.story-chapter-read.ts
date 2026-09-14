@@ -8,7 +8,7 @@ export const theNewWorld001255TheMightOfProgress = {
   story: "the-new-world",
   position: 12,
   ownLength: 2391,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

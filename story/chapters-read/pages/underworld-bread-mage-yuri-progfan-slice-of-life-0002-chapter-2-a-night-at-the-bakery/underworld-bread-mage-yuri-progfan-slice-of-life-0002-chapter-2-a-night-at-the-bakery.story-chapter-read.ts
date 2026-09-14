@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0002Chapter2ANightAtTheBak
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 2,
   ownLength: 1733,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

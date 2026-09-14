@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns006157TheMusicalTrap = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 61,
   ownLength: 3520,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

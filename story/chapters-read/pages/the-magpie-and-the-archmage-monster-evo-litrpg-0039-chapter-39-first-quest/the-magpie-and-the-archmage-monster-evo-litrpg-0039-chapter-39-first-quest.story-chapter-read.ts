@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0039Chapter39FirstQuest = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 39,
   ownLength: 2138,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

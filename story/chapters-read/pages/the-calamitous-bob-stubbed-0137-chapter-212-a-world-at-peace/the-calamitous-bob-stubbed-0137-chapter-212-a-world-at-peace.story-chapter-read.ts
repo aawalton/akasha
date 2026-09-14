@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0137Chapter212AWorldAtPeace = {
   story: "the-calamitous-bob-stubbed",
   position: 137,
   ownLength: 4866,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

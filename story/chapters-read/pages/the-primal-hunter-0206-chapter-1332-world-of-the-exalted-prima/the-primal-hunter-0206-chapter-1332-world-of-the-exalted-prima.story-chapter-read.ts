@@ -8,7 +8,7 @@ export const thePrimalHunter0206Chapter1332WorldOfTheExaltedPrima = {
   story: "story-read/the-primal-hunter",
   position: 206,
   ownLength: 2635,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0012Chapter12Blightstone = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 12,
   ownLength: 2244,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

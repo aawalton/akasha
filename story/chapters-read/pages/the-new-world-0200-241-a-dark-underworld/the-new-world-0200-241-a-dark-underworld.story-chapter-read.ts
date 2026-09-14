@@ -8,7 +8,7 @@ export const theNewWorld0200241ADarkUnderworld = {
   story: "the-new-world",
   position: 200,
   ownLength: 2061,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

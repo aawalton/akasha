@@ -8,7 +8,7 @@ export const thePrimalHunter0076Chapter1204EmotionsAreComplicated = {
   story: "story-read/the-primal-hunter",
   position: 76,
   ownLength: 2805,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

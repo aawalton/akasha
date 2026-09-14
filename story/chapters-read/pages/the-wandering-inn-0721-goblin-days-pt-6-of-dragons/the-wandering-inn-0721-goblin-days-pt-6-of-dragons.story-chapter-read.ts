@@ -9,7 +9,7 @@ export const theWanderingInn0721GoblinDaysPt6OfDragons = {
   position: 721,
   ownLength: 10228,
   ownProgress: 10477,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-02",
   externalIdentity: [
     {

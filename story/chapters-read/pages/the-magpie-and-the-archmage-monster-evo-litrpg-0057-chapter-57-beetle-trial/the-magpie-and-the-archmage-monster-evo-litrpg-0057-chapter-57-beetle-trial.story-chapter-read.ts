@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0057Chapter57BeetleTrial = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 57,
   ownLength: 2044,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

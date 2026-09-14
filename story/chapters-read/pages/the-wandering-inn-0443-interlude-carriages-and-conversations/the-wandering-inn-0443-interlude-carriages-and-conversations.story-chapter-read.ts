@@ -9,7 +9,7 @@ export const theWanderingInn0443InterludeCarriagesAndConversations = {
   position: 443,
   ownLength: 10502,
   ownProgress: 10765,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-08",
   externalIdentity: [
     {

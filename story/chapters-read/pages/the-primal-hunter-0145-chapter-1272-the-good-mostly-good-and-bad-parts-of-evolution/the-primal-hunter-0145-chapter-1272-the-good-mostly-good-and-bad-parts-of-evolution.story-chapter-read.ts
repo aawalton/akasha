@@ -8,7 +8,7 @@ export const thePrimalHunter0145Chapter1272TheGoodMostlyGoodAndBadPartsOfEvoluti
   story: "story-read/the-primal-hunter",
   position: 145,
   ownLength: 3056,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

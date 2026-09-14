@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0223200JusticeSlime = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 223,
   ownLength: 2744,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

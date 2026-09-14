@@ -9,7 +9,7 @@ export const theWanderingInn0408InterludeTheHangoverAfter = {
   position: 408,
   ownLength: 4420,
   ownProgress: 4420,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-09",
   externalIdentity: [
     {

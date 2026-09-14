@@ -8,7 +8,7 @@ export const theNewWorld0292333Leviathan7 = {
   story: "the-new-world",
   position: 292,
   ownLength: 3791,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

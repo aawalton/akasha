@@ -8,7 +8,7 @@ export const theNewWorld0403443FindingAPath = {
   story: "the-new-world",
   position: 403,
   ownLength: 7697,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0363403AHatefulHome = {
   story: "the-new-world",
   position: 363,
   ownLength: 3683,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

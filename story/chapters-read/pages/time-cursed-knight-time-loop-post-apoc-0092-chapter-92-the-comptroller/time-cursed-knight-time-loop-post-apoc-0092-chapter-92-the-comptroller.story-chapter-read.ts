@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0092Chapter92TheComptroller = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 92,
   ownLength: 2891,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

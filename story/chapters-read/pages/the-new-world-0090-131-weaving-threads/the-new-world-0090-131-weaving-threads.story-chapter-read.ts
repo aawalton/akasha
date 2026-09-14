@@ -8,7 +8,7 @@ export const theNewWorld0090131WeavingThreads = {
   story: "the-new-world",
   position: 90,
   ownLength: 2340,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

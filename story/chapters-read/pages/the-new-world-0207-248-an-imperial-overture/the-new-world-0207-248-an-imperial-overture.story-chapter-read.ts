@@ -8,7 +8,7 @@ export const theNewWorld0207248AnImperialOverture = {
   story: "the-new-world",
   position: 207,
   ownLength: 4495,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

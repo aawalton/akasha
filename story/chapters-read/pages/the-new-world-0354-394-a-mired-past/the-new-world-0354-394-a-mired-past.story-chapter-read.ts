@@ -8,7 +8,7 @@ export const theNewWorld0354394AMiredPast = {
   story: "the-new-world",
   position: 354,
   ownLength: 2717,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

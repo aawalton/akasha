@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0028Chapter28Artifact = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 28,
   ownLength: 2087,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

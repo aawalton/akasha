@@ -8,7 +8,7 @@ export const theNewWorld0316357Infiltration = {
   story: "the-new-world",
   position: 316,
   ownLength: 4128,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

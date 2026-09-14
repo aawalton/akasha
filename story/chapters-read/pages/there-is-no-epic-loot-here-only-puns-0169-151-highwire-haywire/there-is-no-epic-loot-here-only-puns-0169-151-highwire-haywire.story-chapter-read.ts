@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0169151HighwireHaywire = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 169,
   ownLength: 2717,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

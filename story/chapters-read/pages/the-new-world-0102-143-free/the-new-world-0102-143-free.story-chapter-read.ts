@@ -8,7 +8,7 @@ export const theNewWorld0102143Free = {
   story: "the-new-world",
   position: 102,
   ownLength: 4658,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0016016TeddyBearNo8 = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 16,
   ownLength: 1832,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

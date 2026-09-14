@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0156Chapter231TheSlayer = {
   story: "the-calamitous-bob-stubbed",
   position: 156,
   ownLength: 4158,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

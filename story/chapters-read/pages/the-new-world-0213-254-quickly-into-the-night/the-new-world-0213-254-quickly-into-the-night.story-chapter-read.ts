@@ -8,7 +8,7 @@ export const theNewWorld0213254QuicklyIntoTheNight = {
   story: "the-new-world",
   position: 213,
   ownLength: 3778,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theGiftOfLoot0032Chapter32AnUnBearAbleDecision = {
   story: "the-gift-of-loot",
   position: 32,
   ownLength: 3413,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

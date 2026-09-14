@@ -8,7 +8,7 @@ export const theNewWorld0088129AChance = {
   story: "the-new-world",
   position: 88,
   ownLength: 2264,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

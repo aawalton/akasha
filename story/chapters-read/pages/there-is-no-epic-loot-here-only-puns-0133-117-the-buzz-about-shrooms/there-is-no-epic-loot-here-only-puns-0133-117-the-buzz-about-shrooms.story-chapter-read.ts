@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0133117TheBuzzAboutShrooms = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 133,
   ownLength: 2264,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

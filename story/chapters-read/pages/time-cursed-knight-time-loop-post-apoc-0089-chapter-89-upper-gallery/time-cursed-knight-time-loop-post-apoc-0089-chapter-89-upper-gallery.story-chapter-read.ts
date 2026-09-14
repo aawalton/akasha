@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0089Chapter89UpperGallery = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 89,
   ownLength: 2392,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

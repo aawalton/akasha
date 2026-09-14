@@ -8,7 +8,7 @@ export const theNewWorld0423463Stasis = {
   story: "the-new-world",
   position: 423,
   ownLength: 4852,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

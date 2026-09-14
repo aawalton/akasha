@@ -8,7 +8,7 @@ export const theNewWorld0181222ToCreateAndDestroy = {
   story: "the-new-world",
   position: 181,
   ownLength: 9061,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

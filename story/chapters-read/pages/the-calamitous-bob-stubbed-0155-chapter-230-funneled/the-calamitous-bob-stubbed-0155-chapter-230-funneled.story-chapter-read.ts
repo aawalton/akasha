@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0155Chapter230Funneled = {
   story: "the-calamitous-bob-stubbed",
   position: 155,
   ownLength: 5262,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const theWanderingInn0543849MRevised = {
   position: 543,
   ownLength: 36208,
   ownProgress: 36862,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-27",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const theNewWorld0290331TheLottery = {
   story: "the-new-world",
   position: 290,
   ownLength: 3327,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

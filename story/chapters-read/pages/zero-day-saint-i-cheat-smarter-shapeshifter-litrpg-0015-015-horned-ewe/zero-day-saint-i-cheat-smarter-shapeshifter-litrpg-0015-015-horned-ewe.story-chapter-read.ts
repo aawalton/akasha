@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0015015HornedEwe = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 15,
   ownLength: 1845,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

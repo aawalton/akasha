@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns009382JackAndDeltaGoDownATunnel = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 93,
   ownLength: 3766,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

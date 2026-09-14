@@ -9,7 +9,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0125Chapter124OfMaliceReve
     story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
     position: 125,
     ownLength: 3143,
-    unit: "words",
+    unit: "unit/words",
     externalIdentity: [
       {
         source: "royal-road",

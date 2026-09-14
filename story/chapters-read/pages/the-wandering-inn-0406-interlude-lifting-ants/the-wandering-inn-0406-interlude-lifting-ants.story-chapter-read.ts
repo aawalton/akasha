@@ -9,7 +9,7 @@ export const theWanderingInn0406InterludeLiftingAnts = {
   position: 406,
   ownLength: 15671,
   ownProgress: 15671,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-07",
   externalIdentity: [
     {

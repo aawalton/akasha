@@ -8,7 +8,7 @@ export const theNewWorld0096137TheyComeAtNight = {
   story: "the-new-world",
   position: 96,
   ownLength: 2593,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0275316ClosureAndLessons = {
   story: "the-new-world",
   position: 275,
   ownLength: 2504,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

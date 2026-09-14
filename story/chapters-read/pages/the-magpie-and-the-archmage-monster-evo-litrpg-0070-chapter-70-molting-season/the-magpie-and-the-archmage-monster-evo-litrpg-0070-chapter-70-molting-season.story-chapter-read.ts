@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0070Chapter70MoltingSeason =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 70,
   ownLength: 2094,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

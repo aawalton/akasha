@@ -9,7 +9,7 @@ export const theWanderingInn0720GoblinDaysPt5RedbladeAndLilbrasi = {
   position: 720,
   ownLength: 10518,
   ownProgress: 10790,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-08-01",
   externalIdentity: [
     {

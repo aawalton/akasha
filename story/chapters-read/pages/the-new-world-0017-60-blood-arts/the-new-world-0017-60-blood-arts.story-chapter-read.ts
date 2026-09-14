@@ -8,7 +8,7 @@ export const theNewWorld001760BloodArts = {
   story: "the-new-world",
   position: 17,
   ownLength: 2372,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0297338AHavenInHell = {
   story: "the-new-world",
   position: 297,
   ownLength: 2742,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

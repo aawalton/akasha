@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0135Chapter135WhatAmIBecomin
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 135,
   ownLength: 1751,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

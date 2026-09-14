@@ -9,7 +9,7 @@ export const theWanderingInn0357InterludeRufelt = {
   position: 357,
   ownLength: 9880,
   ownProgress: 9880,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-09-03",
   externalIdentity: [
     {

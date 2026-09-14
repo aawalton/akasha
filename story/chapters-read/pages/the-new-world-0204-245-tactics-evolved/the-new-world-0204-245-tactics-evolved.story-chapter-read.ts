@@ -8,7 +8,7 @@ export const theNewWorld0204245TacticsEvolved = {
   story: "the-new-world",
   position: 204,
   ownLength: 4155,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0024Chapter24MlemOfDestiny
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 24,
   ownLength: 1482,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

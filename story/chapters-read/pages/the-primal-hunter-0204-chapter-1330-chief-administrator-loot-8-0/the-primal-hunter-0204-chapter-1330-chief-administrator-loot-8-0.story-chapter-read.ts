@@ -8,7 +8,7 @@ export const thePrimalHunter0204Chapter1330ChiefAdministratorLoot80 = {
   story: "story-read/the-primal-hunter",
   position: 204,
   ownLength: 3029,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

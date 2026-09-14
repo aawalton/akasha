@@ -8,7 +8,7 @@ export const theGiftOfLoot0016Chapter16TheBurningBoss = {
   story: "the-gift-of-loot",
   position: 16,
   ownLength: 2942,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

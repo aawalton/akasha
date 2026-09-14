@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0083Chapter82OfRabbitHunts
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 83,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

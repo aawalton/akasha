@@ -8,7 +8,7 @@ export const thePrimalHunter0064Chapter1192MinagaTheMessenger = {
   story: "story-read/the-primal-hunter",
   position: 64,
   ownLength: 2854,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0372412ReforgingAMind = {
   story: "the-new-world",
   position: 372,
   ownLength: 5395,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

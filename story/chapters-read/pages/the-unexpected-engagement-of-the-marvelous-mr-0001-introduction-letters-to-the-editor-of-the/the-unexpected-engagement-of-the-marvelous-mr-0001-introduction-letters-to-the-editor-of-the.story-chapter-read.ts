@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0001IntroductionLettersToThe
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 1,
   ownLength: 627,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

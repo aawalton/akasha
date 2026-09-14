@@ -8,7 +8,7 @@ export const theGiftOfLoot0054Chapter54Denouement = {
   story: "the-gift-of-loot",
   position: 54,
   ownLength: 480,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

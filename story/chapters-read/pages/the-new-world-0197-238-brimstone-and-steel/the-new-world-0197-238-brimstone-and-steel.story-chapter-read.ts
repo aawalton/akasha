@@ -8,7 +8,7 @@ export const theNewWorld0197238BrimstoneAndSteel = {
   story: "the-new-world",
   position: 197,
   ownLength: 2985,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

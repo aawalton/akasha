@@ -8,7 +8,7 @@ export const thePrimalHunter0093Chapter1221AnExplosiveAuction = {
   story: "story-read/the-primal-hunter",
   position: 93,
   ownLength: 3107,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

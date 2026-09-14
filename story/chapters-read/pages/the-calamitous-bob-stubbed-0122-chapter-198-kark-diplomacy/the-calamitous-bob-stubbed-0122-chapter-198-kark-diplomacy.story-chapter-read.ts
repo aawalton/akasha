@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0122Chapter198KarkDiplomacy = {
   story: "the-calamitous-bob-stubbed",
   position: 122,
   ownLength: 5661,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

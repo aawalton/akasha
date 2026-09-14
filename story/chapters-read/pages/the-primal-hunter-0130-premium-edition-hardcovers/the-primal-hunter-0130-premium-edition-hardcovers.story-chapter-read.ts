@@ -8,7 +8,7 @@ export const thePrimalHunter0130PremiumEditionHardcovers = {
   story: "story-read/the-primal-hunter",
   position: 130,
   ownLength: 226,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

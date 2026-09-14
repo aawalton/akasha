@@ -8,7 +8,7 @@ export const thePrimalHunter0065Chapter1193NightmareOfTheOlthorn = {
   story: "story-read/the-primal-hunter",
   position: 65,
   ownLength: 2695,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

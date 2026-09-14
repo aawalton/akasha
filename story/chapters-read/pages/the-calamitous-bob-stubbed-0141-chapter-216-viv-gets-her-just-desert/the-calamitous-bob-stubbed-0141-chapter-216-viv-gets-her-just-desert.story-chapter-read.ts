@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0141Chapter216VivGetsHerJustDesert = {
   story: "the-calamitous-bob-stubbed",
   position: 141,
   ownLength: 5977,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

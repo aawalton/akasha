@@ -9,7 +9,7 @@ export const theWanderingInn0312601 = {
   position: 312,
   ownLength: 17741,
   ownProgress: 17741,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-03-23",
   externalIdentity: [
     { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2019/03/23/6-01/" },

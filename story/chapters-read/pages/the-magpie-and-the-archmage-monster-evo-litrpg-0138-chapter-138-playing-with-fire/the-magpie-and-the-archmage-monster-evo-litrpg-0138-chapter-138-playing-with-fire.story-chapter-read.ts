@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0138Chapter138PlayingWithFir
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 138,
   ownLength: 2009,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

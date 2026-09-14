@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0043Chapter43Mortar = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 43,
   ownLength: 3314,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

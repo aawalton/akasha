@@ -6,7 +6,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0050Chapter49NewConst
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0050-chapter-49-new-construct",
   position: 50,
   publishedAt: "2026-09-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

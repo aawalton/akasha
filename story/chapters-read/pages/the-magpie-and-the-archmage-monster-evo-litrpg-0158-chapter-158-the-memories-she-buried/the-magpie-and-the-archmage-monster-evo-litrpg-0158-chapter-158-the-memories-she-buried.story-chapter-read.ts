@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0158Chapter158TheMemoriesShe
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 158,
   ownLength: 2200,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

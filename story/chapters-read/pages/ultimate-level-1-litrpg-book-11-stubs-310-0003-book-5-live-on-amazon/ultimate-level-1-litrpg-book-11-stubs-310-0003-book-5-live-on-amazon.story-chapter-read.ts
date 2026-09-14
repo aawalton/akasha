@@ -8,7 +8,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100003Book5LiveOnAmazon = {
   story: "ultimate-level-1-litrpg-book-11-stubs-310",
   position: 3,
   ownLength: 182,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

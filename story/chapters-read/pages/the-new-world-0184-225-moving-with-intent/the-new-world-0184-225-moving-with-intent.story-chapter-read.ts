@@ -8,7 +8,7 @@ export const theNewWorld0184225MovingWithIntent = {
   story: "the-new-world",
   position: 184,
   ownLength: 3734,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0135Chapter1262HeartyPlans = {
   story: "story-read/the-primal-hunter",
   position: 135,
   ownLength: 2738,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

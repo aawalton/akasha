@@ -9,7 +9,7 @@ export const theWanderingInn0652InterludeTradeAndTravel = {
   position: 652,
   ownLength: 39169,
   ownProgress: 39943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-06-04",
   externalIdentity: [
     {

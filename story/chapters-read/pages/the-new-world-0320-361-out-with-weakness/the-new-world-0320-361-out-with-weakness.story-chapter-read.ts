@@ -8,7 +8,7 @@ export const theNewWorld0320361OutWithWeakness = {
   story: "the-new-world",
   position: 320,
   ownLength: 4594,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

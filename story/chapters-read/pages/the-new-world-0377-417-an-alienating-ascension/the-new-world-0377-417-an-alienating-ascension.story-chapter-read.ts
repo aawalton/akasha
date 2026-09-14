@@ -8,7 +8,7 @@ export const theNewWorld0377417AnAlienatingAscension = {
   story: "the-new-world",
   position: 377,
   ownLength: 5387,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

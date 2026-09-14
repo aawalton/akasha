@@ -8,7 +8,7 @@ export const theNewWorld0328369SchemaSWill = {
   story: "the-new-world",
   position: 328,
   ownLength: 2127,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

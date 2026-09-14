@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0034Chapter34MagicTraining =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 34,
   ownLength: 2168,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

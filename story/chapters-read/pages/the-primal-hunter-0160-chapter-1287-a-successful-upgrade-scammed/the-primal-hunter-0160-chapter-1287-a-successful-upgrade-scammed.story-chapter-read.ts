@@ -8,7 +8,7 @@ export const thePrimalHunter0160Chapter1287ASuccessfulUpgradeScammed = {
   story: "story-read/the-primal-hunter",
   position: 160,
   ownLength: 2841,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

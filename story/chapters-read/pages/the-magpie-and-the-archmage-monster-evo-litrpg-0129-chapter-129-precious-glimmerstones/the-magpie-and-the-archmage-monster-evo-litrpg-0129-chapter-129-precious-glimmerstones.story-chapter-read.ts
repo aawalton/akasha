@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0129Chapter129PreciousGlimme
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 129,
   ownLength: 2081,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

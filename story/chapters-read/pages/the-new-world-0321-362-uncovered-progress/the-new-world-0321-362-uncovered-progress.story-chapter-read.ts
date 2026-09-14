@@ -8,7 +8,7 @@ export const theNewWorld0321362UncoveredProgress = {
   story: "the-new-world",
   position: 321,
   ownLength: 2224,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

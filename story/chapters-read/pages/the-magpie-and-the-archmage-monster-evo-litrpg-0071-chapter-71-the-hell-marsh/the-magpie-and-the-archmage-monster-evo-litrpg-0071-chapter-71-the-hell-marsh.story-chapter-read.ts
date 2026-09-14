@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0071Chapter71TheHellMarsh = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 71,
   ownLength: 2072,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

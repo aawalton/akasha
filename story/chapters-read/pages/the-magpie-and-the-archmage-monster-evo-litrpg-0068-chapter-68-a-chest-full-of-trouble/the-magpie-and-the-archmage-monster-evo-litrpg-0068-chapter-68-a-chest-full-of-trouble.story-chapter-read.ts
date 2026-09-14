@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0068Chapter68AChestFullOfTro
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 68,
   ownLength: 2261,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

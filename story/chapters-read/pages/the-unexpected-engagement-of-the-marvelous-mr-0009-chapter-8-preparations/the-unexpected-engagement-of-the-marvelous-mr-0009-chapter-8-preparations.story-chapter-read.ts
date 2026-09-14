@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0009Chapter8Preparations = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 9,
   ownLength: 1400,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

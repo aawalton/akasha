@@ -8,7 +8,7 @@ export const thePrimalHunter0125Chapter1253RisingTide = {
   story: "story-read/the-primal-hunter",
   position: 125,
   ownLength: 2947,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

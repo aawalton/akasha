@@ -8,7 +8,7 @@ export const theNewWorld0226267TheVagni = {
   story: "the-new-world",
   position: 226,
   ownLength: 7571,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theGiftOfLoot0057Chapter57Farming101 = {
   story: "the-gift-of-loot",
   position: 57,
   ownLength: 3766,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

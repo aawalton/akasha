@@ -8,7 +8,7 @@ export const theNewWorld0168209SendingAMessage = {
   story: "the-new-world",
   position: 168,
   ownLength: 1411,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

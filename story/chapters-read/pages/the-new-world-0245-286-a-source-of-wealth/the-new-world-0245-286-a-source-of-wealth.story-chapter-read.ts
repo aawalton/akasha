@@ -8,7 +8,7 @@ export const theNewWorld0245286ASourceOfWealth = {
   story: "the-new-world",
   position: 245,
   ownLength: 6578,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

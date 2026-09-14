@@ -8,7 +8,7 @@ export const theNewWorld003679Might = {
   story: "the-new-world",
   position: 36,
   ownLength: 3463,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

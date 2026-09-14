@@ -8,7 +8,7 @@ export const thePrimalHunter0084Chapter1212MentalFortitudeTraining = {
   story: "story-read/the-primal-hunter",
   position: 84,
   ownLength: 2682,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

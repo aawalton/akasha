@@ -8,7 +8,7 @@ export const theNewWorld0227268UnexpectedHelp = {
   story: "the-new-world",
   position: 227,
   ownLength: 2468,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

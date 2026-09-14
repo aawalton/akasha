@@ -8,7 +8,7 @@ export const theNewWorld0246287GalacticAnarchy = {
   story: "the-new-world",
   position: 246,
   ownLength: 5481,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

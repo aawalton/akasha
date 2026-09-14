@@ -8,7 +8,7 @@ export const theNewWorld0089130HunterOfMany = {
   story: "the-new-world",
   position: 89,
   ownLength: 2913,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

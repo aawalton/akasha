@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0018Chapter90TheUnintendedCon
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 18,
   ownLength: 8696,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0020Chapter20HolyBird = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 20,
   ownLength: 2068,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

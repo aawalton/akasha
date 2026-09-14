@@ -8,7 +8,7 @@ export const theGiftOfLoot0021Chapter21Upgrade = {
   story: "the-gift-of-loot",
   position: 21,
   ownLength: 2351,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0140Chapter140GrabAndFly = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 140,
   ownLength: 2018,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

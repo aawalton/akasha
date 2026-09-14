@@ -8,7 +8,7 @@ export const theNewWorld003174CorruptedRuin = {
   story: "the-new-world",
   position: 31,
   ownLength: 4920,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0155Chapter1282NevermoreTimeOrMaybeJustAlchemy = {
   story: "story-read/the-primal-hunter",
   position: 155,
   ownLength: 2844,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

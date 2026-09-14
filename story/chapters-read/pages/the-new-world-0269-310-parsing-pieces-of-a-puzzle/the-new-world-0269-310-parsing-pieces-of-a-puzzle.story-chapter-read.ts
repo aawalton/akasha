@@ -8,7 +8,7 @@ export const theNewWorld0269310ParsingPiecesOfAPuzzle = {
   story: "the-new-world",
   position: 269,
   ownLength: 2205,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

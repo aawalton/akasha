@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0176ThirdFloorMap = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 176,
   ownLength: 93,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

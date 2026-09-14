@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0025025PackLeader = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 25,
   ownLength: 2272,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

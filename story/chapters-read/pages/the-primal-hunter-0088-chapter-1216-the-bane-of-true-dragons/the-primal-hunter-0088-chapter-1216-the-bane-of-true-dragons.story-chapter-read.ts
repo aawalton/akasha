@@ -8,7 +8,7 @@ export const thePrimalHunter0088Chapter1216TheBaneOfTrueDragons = {
   story: "story-read/the-primal-hunter",
   position: 88,
   ownLength: 2889,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

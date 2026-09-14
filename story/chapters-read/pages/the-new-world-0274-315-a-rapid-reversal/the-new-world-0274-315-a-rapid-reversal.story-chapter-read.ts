@@ -8,7 +8,7 @@ export const theNewWorld0274315ARapidReversal = {
   story: "the-new-world",
   position: 274,
   ownLength: 2769,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0232273NewPathsOpened = {
   story: "the-new-world",
   position: 232,
   ownLength: 7541,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

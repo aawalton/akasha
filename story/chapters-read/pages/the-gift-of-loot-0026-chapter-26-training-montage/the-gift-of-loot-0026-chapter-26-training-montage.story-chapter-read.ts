@@ -8,7 +8,7 @@ export const theGiftOfLoot0026Chapter26TrainingMontage = {
   story: "the-gift-of-loot",
   position: 26,
   ownLength: 3492,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

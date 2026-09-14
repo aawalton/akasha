@@ -8,7 +8,7 @@ export const thePrimalHunter0018Chapter1146ExpansionPlans = {
   story: "story-read/the-primal-hunter",
   position: 18,
   ownLength: 2657,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

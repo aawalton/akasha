@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0160Chapter160GoodLuckLucien
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 160,
   ownLength: 2036,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

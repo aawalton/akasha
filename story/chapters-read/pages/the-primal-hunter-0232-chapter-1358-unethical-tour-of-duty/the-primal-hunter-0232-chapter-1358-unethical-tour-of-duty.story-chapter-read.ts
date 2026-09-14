@@ -8,7 +8,7 @@ export const thePrimalHunter0232Chapter1358UnethicalTourOfDuty = {
   story: "story-read/the-primal-hunter",
   position: 232,
   ownLength: 2674,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

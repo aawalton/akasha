@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete001090ProfessorThomasL
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 10,
   ownLength: 1036,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

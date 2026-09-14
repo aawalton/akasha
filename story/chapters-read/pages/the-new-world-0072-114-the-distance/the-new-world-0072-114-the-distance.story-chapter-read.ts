@@ -8,7 +8,7 @@ export const theNewWorld0072114TheDistance = {
   story: "the-new-world",
   position: 72,
   ownLength: 5364,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

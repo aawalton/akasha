@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0040Chapter40OldStonesFres
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 40,
   ownLength: 1314,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

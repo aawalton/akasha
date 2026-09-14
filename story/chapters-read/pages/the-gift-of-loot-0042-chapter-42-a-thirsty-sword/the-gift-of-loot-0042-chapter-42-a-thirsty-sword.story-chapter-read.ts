@@ -8,7 +8,7 @@ export const theGiftOfLoot0042Chapter42AThirstySword = {
   story: "the-gift-of-loot",
   position: 42,
   ownLength: 2471,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

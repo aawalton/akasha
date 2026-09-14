@@ -8,7 +8,7 @@ export const theNewWorld0242283ThePushAndPullOfWar = {
   story: "the-new-world",
   position: 242,
   ownLength: 6911,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

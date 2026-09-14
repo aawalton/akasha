@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0106Chapter184TheTwoEmpires = {
   story: "the-calamitous-bob-stubbed",
   position: 106,
   ownLength: 5790,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

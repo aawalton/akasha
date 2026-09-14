@@ -9,7 +9,7 @@ export const theWanderingInn0561InterludeHectvalPt1 = {
   position: 561,
   ownLength: 35515,
   ownProgress: 35684,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-09",
   externalIdentity: [
     {

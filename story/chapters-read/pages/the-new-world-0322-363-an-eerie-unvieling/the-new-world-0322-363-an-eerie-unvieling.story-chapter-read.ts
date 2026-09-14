@@ -8,7 +8,7 @@ export const theNewWorld0322363AnEerieUnvieling = {
   story: "the-new-world",
   position: 322,
   ownLength: 4591,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

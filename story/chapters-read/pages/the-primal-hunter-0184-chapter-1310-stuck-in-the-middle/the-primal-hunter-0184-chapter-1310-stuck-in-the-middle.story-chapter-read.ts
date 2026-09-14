@@ -8,7 +8,7 @@ export const thePrimalHunter0184Chapter1310StuckInTheMiddle = {
   story: "story-read/the-primal-hunter",
   position: 184,
   ownLength: 2637,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

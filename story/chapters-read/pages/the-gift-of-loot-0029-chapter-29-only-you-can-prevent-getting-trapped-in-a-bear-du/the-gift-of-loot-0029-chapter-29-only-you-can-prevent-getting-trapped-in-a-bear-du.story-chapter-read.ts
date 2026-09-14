@@ -8,7 +8,7 @@ export const theGiftOfLoot0029Chapter29OnlyYouCanPreventGettingTrappedInABearDu 
   story: "the-gift-of-loot",
   position: 29,
   ownLength: 2784,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

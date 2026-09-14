@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0201179RubySlippersAndSilverBadges = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 201,
   ownLength: 3251,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

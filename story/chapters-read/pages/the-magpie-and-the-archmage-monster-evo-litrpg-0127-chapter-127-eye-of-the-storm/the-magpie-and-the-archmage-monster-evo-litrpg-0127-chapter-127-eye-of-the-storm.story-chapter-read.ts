@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0127Chapter127EyeOfTheStorm 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 127,
   ownLength: 2002,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

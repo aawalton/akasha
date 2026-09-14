@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0143Chapter218ItSAliens = {
   story: "the-calamitous-bob-stubbed",
   position: 143,
   ownLength: 5321,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

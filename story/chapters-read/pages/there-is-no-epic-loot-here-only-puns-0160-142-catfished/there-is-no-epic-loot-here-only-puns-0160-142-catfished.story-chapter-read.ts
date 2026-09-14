@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0160142Catfished = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 160,
   ownLength: 3190,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

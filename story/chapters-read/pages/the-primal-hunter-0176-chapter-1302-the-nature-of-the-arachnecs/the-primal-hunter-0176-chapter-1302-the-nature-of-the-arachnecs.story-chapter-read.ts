@@ -8,7 +8,7 @@ export const thePrimalHunter0176Chapter1302TheNatureOfTheArachnecs = {
   story: "story-read/the-primal-hunter",
   position: 176,
   ownLength: 2594,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0083Chapter83InsideThePalaceOfQalat
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 83,
   ownLength: 2471,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

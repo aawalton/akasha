@@ -8,7 +8,7 @@ export const theNewWorld0107148ACalmKilling = {
   story: "the-new-world",
   position: 107,
   ownLength: 4499,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

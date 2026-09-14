@@ -8,7 +8,7 @@ export const thePrimalHunter0070Chapter1198AnExtremelyPerplexingSituation = {
   story: "story-read/the-primal-hunter",
   position: 70,
   ownLength: 2674,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

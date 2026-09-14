@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0008Chapter81PortBellgraveRev
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 8,
   ownLength: 19439,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

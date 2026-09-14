@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0026026BlackDeath = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 26,
   ownLength: 2506,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

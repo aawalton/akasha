@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0024Chapter24LittleHeroes = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 24,
   ownLength: 2150,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

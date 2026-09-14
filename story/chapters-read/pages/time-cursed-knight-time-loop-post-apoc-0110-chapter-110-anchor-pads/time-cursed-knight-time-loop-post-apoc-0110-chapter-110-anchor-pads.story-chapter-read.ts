@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0110Chapter110AnchorPads = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 110,
   ownLength: 2461,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

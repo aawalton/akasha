@@ -8,7 +8,7 @@ export const theNewWorld0309350UntimelyAssaults = {
   story: "the-new-world",
   position: 309,
   ownLength: 3312,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

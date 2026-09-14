@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0020Chapter19BadNews 
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 20,
   ownLength: 2140,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-30",
   externalIdentity: [
     {

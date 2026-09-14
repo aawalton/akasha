@@ -8,7 +8,7 @@ export const theNewWorld0188229TheBattleForPolydra = {
   story: "the-new-world",
   position: 188,
   ownLength: 6686,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0353393TheWeightOfWorlds = {
   story: "the-new-world",
   position: 353,
   ownLength: 3636,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

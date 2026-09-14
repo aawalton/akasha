@@ -8,7 +8,7 @@ export const theNewWorld0144185Conspiracy = {
   story: "the-new-world",
   position: 144,
   ownLength: 2137,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

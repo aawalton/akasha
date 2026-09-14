@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0184165SpongeGuardian = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 184,
   ownLength: 3523,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0225266JoiningWars = {
   story: "the-new-world",
   position: 225,
   ownLength: 5268,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

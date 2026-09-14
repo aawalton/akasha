@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0031Chapter31BeingAMonster =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 31,
   ownLength: 2064,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

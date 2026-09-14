@@ -8,7 +8,7 @@ export const theNewWorld001558WhatYouBelieve = {
   story: "the-new-world",
   position: 15,
   ownLength: 3108,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

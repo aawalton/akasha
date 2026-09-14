@@ -9,7 +9,7 @@ export const theWanderingInn0627InterludeTheFirstAndLastOfUs = {
   position: 627,
   ownLength: 26591,
   ownProgress: 26625,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-11",
   externalIdentity: [
     {

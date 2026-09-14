@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0166MecanimusSigningOff = {
   story: "the-calamitous-bob-stubbed",
   position: 166,
   ownLength: 369,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

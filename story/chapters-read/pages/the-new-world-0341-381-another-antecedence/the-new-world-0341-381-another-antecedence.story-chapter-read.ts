@@ -8,7 +8,7 @@ export const theNewWorld0341381AnotherAntecedence = {
   story: "the-new-world",
   position: 341,
   ownLength: 2727,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

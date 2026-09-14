@@ -8,7 +8,7 @@ export const thePrimalHunter0168Chapter1295VenusianOracle = {
   story: "story-read/the-primal-hunter",
   position: 168,
   ownLength: 2747,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

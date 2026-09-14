@@ -8,7 +8,7 @@ export const theNewWorld0392432ASweepingReform = {
   story: "the-new-world",
   position: 392,
   ownLength: 3902,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

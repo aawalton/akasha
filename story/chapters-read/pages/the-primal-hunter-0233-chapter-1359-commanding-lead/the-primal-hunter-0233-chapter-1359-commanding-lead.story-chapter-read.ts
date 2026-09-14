@@ -8,7 +8,7 @@ export const thePrimalHunter0233Chapter1359CommandingLead = {
   story: "story-read/the-primal-hunter",
   position: 233,
   ownLength: 2751,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0154195AProposition = {
   story: "the-new-world",
   position: 154,
   ownLength: 3834,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

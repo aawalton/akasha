@@ -8,7 +8,7 @@ export const thePrimalHunter0195Chapter1321ThereSAlwaysABiggerSnake = {
   story: "story-read/the-primal-hunter",
   position: 195,
   ownLength: 2614,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0078Chapter1206InflammatoryStatement = {
   story: "story-read/the-primal-hunter",
   position: 78,
   ownLength: 2813,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

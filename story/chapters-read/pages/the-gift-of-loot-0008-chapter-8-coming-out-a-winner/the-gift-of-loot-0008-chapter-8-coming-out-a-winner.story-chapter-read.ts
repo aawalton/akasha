@@ -8,7 +8,7 @@ export const theGiftOfLoot0008Chapter8ComingOutAWinner = {
   story: "the-gift-of-loot",
   position: 8,
   ownLength: 1517,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

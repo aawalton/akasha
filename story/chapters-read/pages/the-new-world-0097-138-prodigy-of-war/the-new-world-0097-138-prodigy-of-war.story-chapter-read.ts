@@ -8,7 +8,7 @@ export const theNewWorld0097138ProdigyOfWar = {
   story: "the-new-world",
   position: 97,
   ownLength: 2748,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

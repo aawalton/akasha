@@ -8,7 +8,7 @@ export const theNewWorld0383423ABrokenFacade = {
   story: "the-new-world",
   position: 383,
   ownLength: 4140,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

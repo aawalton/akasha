@@ -8,7 +8,7 @@ export const thePrimalHunter0060Chapter1188APeculiarVisitor = {
   story: "story-read/the-primal-hunter",
   position: 60,
   ownLength: 2848,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

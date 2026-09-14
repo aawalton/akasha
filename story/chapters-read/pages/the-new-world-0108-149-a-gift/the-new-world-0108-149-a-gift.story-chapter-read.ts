@@ -8,7 +8,7 @@ export const theNewWorld0108149AGift = {
   story: "the-new-world",
   position: 108,
   ownLength: 2784,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

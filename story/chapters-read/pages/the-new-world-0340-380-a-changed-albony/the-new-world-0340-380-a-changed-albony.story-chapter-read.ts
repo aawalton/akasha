@@ -8,7 +8,7 @@ export const theNewWorld0340380AChangedAlbony = {
   story: "the-new-world",
   position: 340,
   ownLength: 2036,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

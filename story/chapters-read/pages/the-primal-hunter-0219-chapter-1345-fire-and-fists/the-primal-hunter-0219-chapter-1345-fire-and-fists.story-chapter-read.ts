@@ -8,7 +8,7 @@ export const thePrimalHunter0219Chapter1345FireAndFists = {
   story: "story-read/the-primal-hunter",
   position: 219,
   ownLength: 2801,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld0139180HeliosRulerOfWorlds = {
   story: "the-new-world",
   position: 139,
   ownLength: 4352,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

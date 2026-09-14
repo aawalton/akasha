@@ -8,7 +8,7 @@ export const thePrimalHunter0059Chapter1187LongRangeArchery = {
   story: "story-read/the-primal-hunter",
   position: 59,
   ownLength: 3544,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

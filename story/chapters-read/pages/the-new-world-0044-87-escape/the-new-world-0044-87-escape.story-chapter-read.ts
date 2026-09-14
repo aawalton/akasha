@@ -8,7 +8,7 @@ export const theNewWorld004487Escape = {
   story: "the-new-world",
   position: 44,
   ownLength: 2578,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

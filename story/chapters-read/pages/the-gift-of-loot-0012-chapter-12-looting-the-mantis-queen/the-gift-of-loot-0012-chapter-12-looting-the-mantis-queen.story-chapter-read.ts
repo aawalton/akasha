@@ -8,7 +8,7 @@ export const theGiftOfLoot0012Chapter12LootingTheMantisQueen = {
   story: "the-gift-of-loot",
   position: 12,
   ownLength: 3070,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

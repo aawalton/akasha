@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0048048ThePheasantRailgu
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 48,
   ownLength: 3520,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

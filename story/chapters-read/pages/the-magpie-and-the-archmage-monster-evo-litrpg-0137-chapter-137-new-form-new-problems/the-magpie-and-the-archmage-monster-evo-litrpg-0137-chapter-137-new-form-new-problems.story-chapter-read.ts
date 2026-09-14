@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0137Chapter137NewFormNewProb
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 137,
   ownLength: 2191,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

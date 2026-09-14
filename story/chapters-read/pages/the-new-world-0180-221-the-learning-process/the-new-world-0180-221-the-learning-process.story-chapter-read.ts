@@ -8,7 +8,7 @@ export const theNewWorld0180221TheLearningProcess = {
   story: "the-new-world",
   position: 180,
   ownLength: 6157,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

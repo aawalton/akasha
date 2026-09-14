@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0124Chapter123OfBrokenGrou
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 124,
   ownLength: 2727,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0230Chapter1356AJustifiablyAngryHorde = {
   story: "story-read/the-primal-hunter",
   position: 230,
   ownLength: 2736,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

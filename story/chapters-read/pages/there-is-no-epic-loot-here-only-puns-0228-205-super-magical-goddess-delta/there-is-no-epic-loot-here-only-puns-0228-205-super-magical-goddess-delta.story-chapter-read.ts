@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0228205SuperMagicalGoddessDelta = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 228,
   ownLength: 3385,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

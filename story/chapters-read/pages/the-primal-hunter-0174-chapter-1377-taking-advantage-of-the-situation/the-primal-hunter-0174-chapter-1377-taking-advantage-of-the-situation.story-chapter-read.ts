@@ -7,7 +7,7 @@ export const thePrimalHunter0174Chapter1377TakingAdvantageOfTheSituation = {
   story: "story-read/the-primal-hunter",
   position: 174,
   publishedAt: "2026-09-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

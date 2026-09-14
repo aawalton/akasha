@@ -8,7 +8,7 @@ export const thePrimalHunter0123Chapter1251SecondFinalPhase = {
   story: "story-read/the-primal-hunter",
   position: 123,
   ownLength: 3029,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

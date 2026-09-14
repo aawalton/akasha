@@ -8,7 +8,7 @@ export const thePrimalHunter0167Chapter1370ADanceOfBlades = {
   story: "story-read/the-primal-hunter",
   position: 167,
   ownLength: 2894,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

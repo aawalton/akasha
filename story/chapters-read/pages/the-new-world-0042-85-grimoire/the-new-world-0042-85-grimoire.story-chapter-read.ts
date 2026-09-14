@@ -8,7 +8,7 @@ export const theNewWorld004285Grimoire = {
   story: "the-new-world",
   position: 42,
   ownLength: 3440,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

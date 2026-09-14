@@ -9,7 +9,7 @@ export const theWanderingInn0672InterludeTheLibrary = {
   position: 672,
   ownLength: 1868,
   ownProgress: 1943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-03",
   externalIdentity: [
     {

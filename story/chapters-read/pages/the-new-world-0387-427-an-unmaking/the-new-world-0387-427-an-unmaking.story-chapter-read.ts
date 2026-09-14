@@ -8,7 +8,7 @@ export const theNewWorld0387427AnUnmaking = {
   story: "the-new-world",
   position: 387,
   ownLength: 2641,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

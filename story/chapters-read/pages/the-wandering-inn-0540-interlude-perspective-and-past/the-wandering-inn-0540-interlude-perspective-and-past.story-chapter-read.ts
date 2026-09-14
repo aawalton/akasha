@@ -9,7 +9,7 @@ export const theWanderingInn0540InterludePerspectiveAndPast = {
   position: 540,
   ownLength: 21912,
   ownProgress: 22217,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-06",
   externalIdentity: [
     {

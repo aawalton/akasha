@@ -8,7 +8,7 @@ export const thePrimalHunter0216Chapter1342AFrostyEncounter = {
   story: "story-read/the-primal-hunter",
   position: 216,
   ownLength: 3095,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theGiftOfLoot0010Chapter10CrystalFleaMarket = {
   story: "the-gift-of-loot",
   position: 10,
   ownLength: 2441,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const thePrimalHunter0013Chapter1141SecretsDisclosed = {
   story: "story-read/the-primal-hunter",
   position: 13,
   ownLength: 2747,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

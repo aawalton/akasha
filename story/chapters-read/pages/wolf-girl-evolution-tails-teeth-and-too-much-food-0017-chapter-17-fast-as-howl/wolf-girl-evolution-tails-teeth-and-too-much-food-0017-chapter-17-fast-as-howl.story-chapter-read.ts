@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0017Chapter17FastAsHowl = 
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 17,
   ownLength: 1825,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

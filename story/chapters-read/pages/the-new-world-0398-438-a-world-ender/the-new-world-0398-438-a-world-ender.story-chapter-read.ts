@@ -8,7 +8,7 @@ export const theNewWorld0398438AWorldEnder = {
   story: "the-new-world",
   position: 398,
   ownLength: 3608,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

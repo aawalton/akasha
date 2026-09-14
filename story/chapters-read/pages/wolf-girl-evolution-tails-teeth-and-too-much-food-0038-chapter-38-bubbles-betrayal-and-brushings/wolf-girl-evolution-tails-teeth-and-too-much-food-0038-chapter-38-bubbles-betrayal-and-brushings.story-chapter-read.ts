@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0038Chapter38BubblesBetray
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 38,
   ownLength: 1323,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

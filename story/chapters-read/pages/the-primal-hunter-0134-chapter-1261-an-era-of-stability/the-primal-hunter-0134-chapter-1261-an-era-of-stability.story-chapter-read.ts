@@ -8,7 +8,7 @@ export const thePrimalHunter0134Chapter1261AnEraOfStability = {
   story: "story-read/the-primal-hunter",
   position: 134,
   ownLength: 3125,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

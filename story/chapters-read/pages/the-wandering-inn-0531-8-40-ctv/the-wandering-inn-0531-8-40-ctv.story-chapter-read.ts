@@ -9,7 +9,7 @@ export const theWanderingInn0531840Ctv = {
   position: 531,
   ownLength: 28207,
   ownProgress: 28408,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-29",
   externalIdentity: [
     { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2021/08/29/8-40-ctv/" },

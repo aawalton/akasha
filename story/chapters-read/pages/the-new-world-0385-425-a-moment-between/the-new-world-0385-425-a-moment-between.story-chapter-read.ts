@@ -8,7 +8,7 @@ export const theNewWorld0385425AMomentBetween = {
   story: "the-new-world",
   position: 385,
   ownLength: 2979,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theNewWorld003073WhatLiesBeyond = {
   story: "the-new-world",
   position: 30,
   ownLength: 4979,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

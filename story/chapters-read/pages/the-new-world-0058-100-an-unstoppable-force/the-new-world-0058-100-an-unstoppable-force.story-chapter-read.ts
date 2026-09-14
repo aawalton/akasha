@@ -8,7 +8,7 @@ export const theNewWorld0058100AnUnstoppableForce = {
   story: "the-new-world",
   position: 58,
   ownLength: 2122,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

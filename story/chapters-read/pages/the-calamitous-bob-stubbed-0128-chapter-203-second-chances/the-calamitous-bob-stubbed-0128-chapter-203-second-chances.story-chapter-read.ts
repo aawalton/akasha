@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0128Chapter203SecondChances = {
   story: "the-calamitous-bob-stubbed",
   position: 128,
   ownLength: 6503,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

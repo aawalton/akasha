@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0021Chapter21BreakfastWith
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 21,
   ownLength: 1480,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

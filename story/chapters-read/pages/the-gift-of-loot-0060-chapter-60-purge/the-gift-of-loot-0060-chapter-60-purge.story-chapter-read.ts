@@ -8,7 +8,7 @@ export const theGiftOfLoot0060Chapter60Purge = {
   story: "the-gift-of-loot",
   position: 60,
   ownLength: 3309,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

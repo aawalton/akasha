@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0150Chapter147LunaSaysNoTo
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 150,
   ownLength: 3968,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

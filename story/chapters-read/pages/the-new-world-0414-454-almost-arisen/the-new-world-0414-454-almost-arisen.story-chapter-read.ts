@@ -8,7 +8,7 @@ export const theNewWorld0414454AlmostArisen = {
   story: "the-new-world",
   position: 414,
   ownLength: 3154,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

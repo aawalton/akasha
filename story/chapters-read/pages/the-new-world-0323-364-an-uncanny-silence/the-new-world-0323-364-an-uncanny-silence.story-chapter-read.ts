@@ -8,7 +8,7 @@ export const theNewWorld0323364AnUncannySilence = {
   story: "the-new-world",
   position: 323,
   ownLength: 2019,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

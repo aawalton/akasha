@@ -8,7 +8,7 @@ export const theNewWorld0114155Hiding = {
   story: "the-new-world",
   position: 114,
   ownLength: 3783,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

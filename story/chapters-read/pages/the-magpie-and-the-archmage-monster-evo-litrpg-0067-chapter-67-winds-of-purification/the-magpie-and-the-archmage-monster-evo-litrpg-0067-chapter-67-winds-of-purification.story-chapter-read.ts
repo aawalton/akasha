@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0067Chapter67WindsOfPurifica
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 67,
   ownLength: 2089,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

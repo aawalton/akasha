@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0010Chapter10CreditWhereCr
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 10,
   ownLength: 1519,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

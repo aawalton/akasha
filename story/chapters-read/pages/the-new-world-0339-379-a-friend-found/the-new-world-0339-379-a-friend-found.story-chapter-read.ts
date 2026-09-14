@@ -8,7 +8,7 @@ export const theNewWorld0339379AFriendFound = {
   story: "the-new-world",
   position: 339,
   ownLength: 1865,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",
