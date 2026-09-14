@@ -32,6 +32,10 @@ export const emailRuleReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The person a rule forwards to reads back as the slug alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A clause comparing by a spelling no comparison names raises.",
     },
     {

@@ -8,6 +8,7 @@ import {
 } from "akasha/alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.code.ts"
 import type { Condition } from "akasha/alan/harness/rules-engine/modules/rule-conditions/rule-conditions.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
 
 export type Action = "notify" | "unsubscribe"
@@ -126,7 +127,7 @@ function ruleOf(page: Record<string, unknown>, relPath: string, kind: EmailRuleK
     kind,
     filing: filing === undefined ? null : filing,
     actions: (actions ?? []).map((one: unknown) => String(one) as Action),
-    forwardTo: forwardTo === undefined ? null : forwardTo,
+    forwardTo: forwardTo === undefined ? null : slugOf(forwardTo),
     delayMinutes: delayOf(page.delay, relPath),
     judgment: textOr(page.judgement, ""),
     conditions: conditionsOf(page, relPath),
