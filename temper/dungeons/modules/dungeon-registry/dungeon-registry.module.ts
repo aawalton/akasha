@@ -4,12 +4,7 @@ export const dungeonRegistry = {
   id: "01a06031-70e5-7414-8a53-3e7ea7823cbd",
   type: "module",
   slug: "dungeon-registry",
-  definition: "what is known of one group dungeon, and the label a key reads as",
+  definition: "what is known of one group dungeon",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A key no dungeon answers to reads back as itself.",
-    },
-  ],
+  invariants: [],
 } as const satisfies Module

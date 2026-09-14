@@ -7,8 +7,3 @@ export interface Dungeon {
   questGiverId?: string | null
   rotationPosition?: number | null
 }
-
-export function getDungeonLabel(dungeons: readonly Dungeon[], key: string): string {
-  const found = dungeons.find((d) => d.key === key)
-  return found?.label ?? key
-}
