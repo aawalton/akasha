@@ -27,7 +27,6 @@ import {
   landing,
   proposing,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
@@ -136,10 +135,12 @@ test("the mirror names every shell script a page carries as well as the ones the
   expect(besideIn(held, shadowAt(root))).toEqual([MAIN_AT, FILED_AT])
 })
 
-test("a shell script the index lists but no page carries is left out once a shell property answers", () => {
+test("a shell script the tree holds but no page carries is left out once a shell property answers", () => {
   const root = rooted()
   scripted(root)
-  pathListed(root, PART_AT)
+  const at = join(root, PART_AT)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, PART)
   const held = landing(root, { [MAIN_AT]: bytesOf(MAIN) })
   expect(besideIn(held, shadowAt(root))).toEqual([MAIN_AT, FILED_AT])
 })
@@ -162,7 +163,6 @@ test("a sourced script the change does not carry is there for the linter to foll
     const full = join(root, one.at)
     mkdirSync(dirname(full), { recursive: true })
     writeFileSync(full, one.body)
-    pathListed(root, one.at)
   }
   expect(refusalsOver(change(root, [MAIN_AT]), shadowAt(root))).toEqual([])
 })
@@ -172,7 +172,6 @@ test("a sourced script the index does not file is a refusal rather than a clean 
   const at = join(root, MAIN_AT)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, MAIN)
-  pathListed(root, MAIN_AT)
   const said = refusalsOver(change(root, [MAIN_AT]), shadowAt(root))
   expect(said.length).toBe(1)
   expect(said[0]?.reason).toContain("SC1091")

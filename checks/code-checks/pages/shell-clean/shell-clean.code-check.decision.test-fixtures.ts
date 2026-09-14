@@ -5,7 +5,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
-  noPathsFiled,
+  nothingFiled,
   pageFiled,
   relationFiled,
   shapeAdded,
@@ -53,7 +53,7 @@ export const scratch = scratchWorld()
 
 export function rooted(): string {
   const root = realpathSync(scratch.rootFor(HERE))
-  noPathsFiled(root)
+  nothingFiled(root)
   return root
 }
 
