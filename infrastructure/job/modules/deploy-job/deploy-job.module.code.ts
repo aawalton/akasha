@@ -50,6 +50,8 @@ const CODE = "code"
 
 const BUILDING = "index-building"
 
+const UNCONFINED = "Unconfined"
+
 export function jobNameFor(subject: string, commit: string): string {
   return `${deploy.name}-${subject}-${commit.slice(0, NAMED)}`
 }
@@ -88,6 +90,7 @@ export function jobFor(
         spec: {
           nodeSelector: workloadClassMemberSelector(CLASS),
           restartPolicy: "Never",
+          securityContext: { seccompProfile: { type: UNCONFINED } },
           volumes: [{ name: WORK, emptyDir: {} }],
           containers: [
             {

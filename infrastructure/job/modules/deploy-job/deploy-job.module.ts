@@ -69,5 +69,6 @@ export const deployJob = {
       invariantKind: "absence",
       statement: "Nothing here reads the workstation's checkout.",
     },
+    { invariantKind: "departure", statement: "A job runs under no syscall filter." },
   ],
 } as const satisfies Module
