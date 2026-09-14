@@ -5,6 +5,6 @@ export const alanRouteReadoutFeed = {
   type: "person-access",
   slug: "alan-route-readout-feed",
   person: "person/alan",
-  accessKind: "route",
+  accessKind: "access-kind/route",
   target: "readout-feed",
 } as const satisfies PersonAccess

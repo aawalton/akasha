@@ -5,6 +5,6 @@ export const alanRouteAll = {
   type: "person-access",
   slug: "alan-route-all",
   person: "person/alan",
-  accessKind: "route",
+  accessKind: "access-kind/route",
   target: "all",
 } as const satisfies PersonAccess

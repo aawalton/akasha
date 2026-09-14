@@ -5,7 +5,7 @@ export const kiPageTypeKiCollectionTemplate = {
   type: "person-access",
   slug: "ki-page-type-ki-collection-template",
   person: "person/ki",
-  accessKind: "page-type",
+  accessKind: "access-kind/page-type",
   target: "ki-collection-template",
   serves: "collection",
 } as const satisfies PersonAccess

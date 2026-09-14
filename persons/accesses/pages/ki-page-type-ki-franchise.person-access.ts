@@ -5,7 +5,7 @@ export const kiPageTypeKiFranchise = {
   type: "person-access",
   slug: "ki-page-type-ki-franchise",
   person: "person/ki",
-  accessKind: "page-type",
+  accessKind: "access-kind/page-type",
   target: "ki-franchise",
   serves: "franchise",
 } as const satisfies PersonAccess

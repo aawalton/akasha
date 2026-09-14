@@ -5,6 +5,6 @@ export const alanPageTypeAll = {
   type: "person-access",
   slug: "alan-page-type-all",
   person: "person/alan",
-  accessKind: "page-type",
+  accessKind: "access-kind/page-type",
   target: "all",
 } as const satisfies PersonAccess
