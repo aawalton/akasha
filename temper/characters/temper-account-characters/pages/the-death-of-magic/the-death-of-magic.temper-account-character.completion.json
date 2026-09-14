@@ -1128,7 +1128,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 23,
+            "numCompleted": 24,
             "numRequired": 30
           }
         }
@@ -2897,7 +2897,7 @@
           "isUltimate": false,
           "base": {
             "name": "Caltrops",
-            "rank": 3
+            "rank": 4
           },
           "abilityIndex": 5,
           "morph1": {
@@ -3132,7 +3132,7 @@
           "abilityIndex": 6,
           "morph1": {
             "name": "Elusive Mist",
-            "rank": 2
+            "rank": 3
           }
         },
         "128709": {
@@ -3157,7 +3157,7 @@
           "atMorph": true,
           "morph2": {
             "name": "Sated Fury",
-            "rank": 1
+            "rank": 2
           },
           "currentMorph": 2,
           "isUltimate": false,
@@ -12949,7 +12949,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-13"
+    "date": "2026-09-14"
   },
   "dailyWritStates": {
     "completed": {
@@ -12970,7 +12970,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-13"
+    "date": "2026-09-14"
   },
   "motifKnowledge": {
     "4": {
