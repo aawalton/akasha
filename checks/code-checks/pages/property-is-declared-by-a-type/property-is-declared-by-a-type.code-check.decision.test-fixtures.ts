@@ -1,6 +1,7 @@
 import {
   claiming,
   declaring,
+  edging,
   filing,
   founded,
   pathFor,
@@ -83,5 +84,6 @@ export function rooted(): string {
       },
     },
   ])
+  edging(root, RECORD, "page-property", "id-page-type", "akasha/types/page-type.page-type.ts")
   return root
 }
