@@ -8,7 +8,6 @@ export const seatObservation = {
   parts: [
     "domain/seat-turn",
     "list/idle-live-seat",
-    "module/seat-attached",
     "module/seat-presence-read",
     "module/seat-proc-key",
   ],
