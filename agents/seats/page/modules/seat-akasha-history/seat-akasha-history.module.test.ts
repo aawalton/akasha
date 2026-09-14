@@ -4,7 +4,6 @@ import { join } from "node:path"
 import {
   akashaSeatNamedInHistory,
   akashaSeatsInHistory,
-  dropAkashaSeatsInHistory,
 } from "akasha/agents/seats/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"
 import { indexAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -79,7 +78,6 @@ test("a seat page taken away holds nothing in history", () => {
   landed(root, 2000)
   took(root, at)
   landed(root, 3000)
-  dropAkashaSeatsInHistory()
   expect(akashaSeatNamedInHistory("gone", root)).toBeNull()
 })
 
@@ -94,7 +92,6 @@ test("a seat page moved and then taken away holds nothing at the path it left", 
   landed(root, 3000)
   took(root, now)
   landed(root, 4000)
-  dropAkashaSeatsInHistory()
   expect(akashaSeatNamedInHistory("moved", root)).toBeNull()
 })
 
@@ -105,7 +102,6 @@ test("where two paths end in the same file name, the one changed most recently a
   landed(root, 5000)
   put(root, `${SEATS_BEFORE}/twice.seat.ts`, pageOf("twice", "id-old"))
   landed(root, 4000)
-  dropAkashaSeatsInHistory()
   const held = akashaSeatNamedInHistory("twice", root)
   expect(held?.values["id"]).toBe("id-new")
   expect(held?.path).toBe(now)
@@ -118,7 +114,6 @@ test("a seat page still there is read from the newest commit that wrote it", () 
   landed(root, 2000)
   put(root, at, pageOf("held", "id-second"))
   landed(root, 3000)
-  dropAkashaSeatsInHistory()
   expect(akashaSeatNamedInHistory("held", root)?.values["id"]).toBe("id-second")
 })
 
@@ -126,27 +121,15 @@ test("what was read at one commit is read again while that commit has not moved"
   const root = repoMade()
   put(root, `${SEATS_AT}/kept/kept.seat.ts`, pageOf("kept", "id-kept"))
   landed(root, 2000)
-  dropAkashaSeatsInHistory()
   const first = akashaSeatsInHistory(root)
   expect(akashaSeatsInHistory(root)).toBe(first)
   expect(akashaSeatNamedInHistory("kept", root)?.values["id"]).toBe("id-kept")
 })
 
-test("a seat page landed after history was read is answered for without a drop", () => {
+test("a seat page landed after history was read is answered for on the next call", () => {
   const root = repoMade()
-  dropAkashaSeatsInHistory()
   expect(akashaSeatNamedInHistory("later", root)).toBeNull()
   put(root, `${SEATS_AT}/later/later.seat.ts`, pageOf("later", "id-later"))
   landed(root, 2000)
   expect(akashaSeatNamedInHistory("later", root)?.values["id"]).toBe("id-later")
-})
-
-test("dropping what is held sends the next answer back to history", () => {
-  const root = repoMade()
-  put(root, `${SEATS_AT}/fresh/fresh.seat.ts`, pageOf("fresh", "id-fresh"))
-  landed(root, 2000)
-  dropAkashaSeatsInHistory()
-  const first = akashaSeatsInHistory(root)
-  dropAkashaSeatsInHistory()
-  expect(akashaSeatsInHistory(root)).not.toBe(first)
 })

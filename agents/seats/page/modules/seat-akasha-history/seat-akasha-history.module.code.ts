@@ -109,11 +109,6 @@ function seatsInHistory(root: string): ReadonlyMap<string, SeatInHistory> {
   return found
 }
 
-export function dropAkashaSeatsInHistory(): undefined {
-  heldPerRoot.clear()
-  return undefined
-}
-
 export function akashaSeatsInHistory(root: string): ReadonlyMap<string, SeatInHistory> {
   return seatsInHistory(root)
 }
