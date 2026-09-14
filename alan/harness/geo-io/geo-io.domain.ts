@@ -4,8 +4,8 @@ export const geoIo = {
   id: "01a05c48-deeb-7000-a8e9-296daa14b0c7",
   type: "domain",
   slug: "geo-io",
-  definition: "a point on the earth, found by the name of a place and measured against another",
-  parts: ["module/coord", "module/geoapify"],
+  definition: "a place on the earth looked for by name",
+  parts: ["module/geoapify"],
   invariants: [
     {
       invariantKind: "absence",

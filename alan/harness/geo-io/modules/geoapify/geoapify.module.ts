@@ -4,7 +4,7 @@ export const geoapify = {
   id: "01a05c48-deeb-7002-a7d6-912bcaf143d2",
   type: "module",
   slug: "geoapify",
-  definition: "the geoapify calls turning a place name into a point and two points into a route",
+  definition: "the geoapify url a place name's autocomplete is asked for by",
   code: "ts",
   invariants: [
     {
