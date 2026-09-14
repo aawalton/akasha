@@ -5,7 +5,7 @@ export const sophia = {
   type: "seat",
   slug: "sophia",
   persona: "sophia",
-  assignmentSlug: "domain/persona",
+  assignmentSlug: "page-type/persona",
   role: "persona-craft",
   person: "alan",
   startMode: "interactive",
