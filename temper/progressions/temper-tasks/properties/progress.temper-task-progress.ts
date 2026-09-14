@@ -14,11 +14,11 @@ export const progress = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The totals a task states are the totals of these lines added up.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A line names a character by name rather than by a relation to that character.",
     },
   ],
