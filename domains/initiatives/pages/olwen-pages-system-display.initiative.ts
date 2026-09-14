@@ -49,4 +49,7 @@ export const olwenPagesSystemDisplay = {
         "Done for the badge. `page-asking`'s `drawnFor` climbs `extends` and hands each declaration its chain as `drawnBy`, which reaches the browser on the property definition. `property-badge` takes the first page type in that chain holding a drawing, stopping short of `page-property` so the registry still wins while the kinds have no drawing of their own. The drawings come from one `import.meta.glob` in `pages/ui/components/modules/property-badge-drawings/`. `alan/web` builds.",
     },
   ],
+  constraints: [
+    "A component more than one page type draws with is a module each of those drawings names.",
+  ],
 } as const satisfies Initiative
