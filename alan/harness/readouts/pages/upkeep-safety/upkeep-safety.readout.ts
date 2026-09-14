@@ -9,7 +9,7 @@ export const upkeepSafety = {
   label: "Safety",
   unit: "levels",
   place: 1,
-  scale: "safety-level",
+  scale: "readout-scale/safety-level",
   groups: ["upkeep", "safety"],
   wireKey: "safety",
   invariants: [

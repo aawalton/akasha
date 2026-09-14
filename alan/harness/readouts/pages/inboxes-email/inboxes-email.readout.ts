@@ -9,7 +9,7 @@ export const inboxesEmail = {
   label: "Email",
   unit: "messages",
   place: 1,
-  scale: "lowest-inbox-count",
+  scale: "readout-scale/lowest-inbox-count",
   groups: ["inboxes"],
   wireKey: "email",
   invariants: [

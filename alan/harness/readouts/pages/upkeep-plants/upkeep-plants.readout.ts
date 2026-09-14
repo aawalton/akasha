@@ -9,7 +9,7 @@ export const upkeepPlants = {
   label: "Plants",
   unit: "grams",
   place: 4,
-  scale: "plant-grams",
+  scale: "readout-scale/plant-grams",
   wireKey: "plants",
   invariants: [
     {

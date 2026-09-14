@@ -8,7 +8,7 @@ export const attributeConstitution = {
   label: "CON",
   unit: "points",
   place: 3,
-  scale: "attribute-points",
+  scale: "readout-scale/attribute-points",
   attribute: "constitution",
   groups: ["attributes"],
   wireKey: "constitution",

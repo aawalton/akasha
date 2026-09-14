@@ -8,7 +8,7 @@ export const attributeStrength = {
   label: "STR",
   unit: "points",
   place: 1,
-  scale: "attribute-points",
+  scale: "readout-scale/attribute-points",
   attribute: "strength",
   groups: ["attributes"],
   wireKey: "strength",

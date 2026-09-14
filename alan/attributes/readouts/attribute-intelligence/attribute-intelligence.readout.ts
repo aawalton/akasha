@@ -8,7 +8,7 @@ export const attributeIntelligence = {
   label: "INT",
   unit: "points",
   place: 5,
-  scale: "attribute-points",
+  scale: "readout-scale/attribute-points",
   attribute: "intelligence",
   groups: ["attributes"],
   wireKey: "intelligence",

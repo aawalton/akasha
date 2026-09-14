@@ -9,7 +9,7 @@ export const upkeepSleep = {
   label: "Sleep",
   unit: "hours",
   place: 6,
-  scale: "sleep-hours",
+  scale: "readout-scale/sleep-hours",
   groups: ["upkeep"],
   wireKey: "sleep",
   invariants: [
