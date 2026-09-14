@@ -56,7 +56,7 @@ export const keepAlanDirectives = {
     },
     {
       invariantKind: "departure",
-      statement: "The words put back are the rule's own rather than the model's.",
+      statement: "The words put back are the rule's own and nothing else.",
     },
     {
       invariantKind: "departure",

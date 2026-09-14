@@ -131,11 +131,10 @@ test("a turn no judge answers yes on is let through", () => {
   expect(holding(PUT, ["NOTHING TO QUOTE\nNO", "NO"]).code).toBe(ASIDE)
 })
 
-test("a judge answered yes holds the turn open in that rule's own words", () => {
+test("a judge answered yes holds the turn open in that rule's own words and nothing else", () => {
   const held = holding(PUT, ["NO", "Also worth a look.\nYES"])
   expect(held.code).toBe(REFUSED)
-  expect(held.err).toContain("No Commentary: Say less.")
-  expect(held.err).not.toContain("Also worth a look.")
+  expect(held.err).toBe("No Commentary: Say less.")
 })
 
 test("the first judge answered yes ends it and the rest are not read", () => {

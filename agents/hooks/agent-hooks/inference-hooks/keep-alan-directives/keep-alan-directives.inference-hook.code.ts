@@ -59,8 +59,6 @@ const ID = "id"
 
 const DIRECTIVES = "directives"
 
-const TOLD = "This is what you wrote to Alan, and it breaks a rule he holds. Write it again."
-
 const STOP_GATES = "stop-gates"
 
 const POSITIVES = "positives"
@@ -197,7 +195,7 @@ export function holding(asking: readonly Putting[], answers: readonly string[] |
   if (answers === null) return LET_THROUGH
   for (let at = 0; at < asking.length; at += 1) {
     if (!endsYes(answers[at] ?? "")) continue
-    return refusing(`${TOLD}\n\n${asking[at]?.statement ?? ""}`)
+    return refusing(asking[at]?.statement ?? "")
   }
   return LET_THROUGH
 }
