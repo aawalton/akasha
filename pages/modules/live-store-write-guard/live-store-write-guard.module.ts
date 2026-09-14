@@ -28,5 +28,10 @@ export const liveStoreWriteGuard = {
       invariantKind: "departure",
       statement: "The roots that root is read against are guarded.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "No writer calls this guard, so a test run's write into Alan's own checkout is let through.",
+    },
   ],
 } as const satisfies Module
