@@ -58,3 +58,7 @@ test("a run naming no service is refused rather than running something", async (
 test("a run naming a slug no service carries is refused", async () => {
   expect(await runNamedService([NO_SLUG])).toBe(REFUSED_EXIT)
 })
+
+test("a run is handed the checkout to read pages under and the tree to take code from", async () => {
+  expect(await runNamedService([SLUG], ROOT, NOWHERE)).toBe(REFUSED_EXIT)
+})

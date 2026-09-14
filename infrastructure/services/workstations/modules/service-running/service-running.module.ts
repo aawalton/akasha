@@ -38,6 +38,11 @@ export const serviceRunning = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A caller holding the checkout and the tree names them rather than leaving them found.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A service whose running code exports no `runService` is refused rather than run.",
     },
     {

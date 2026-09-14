@@ -62,13 +62,17 @@ export async function reachedFor(
   return { running: named as Running }
 }
 
-export async function runNamedService(argv: readonly string[]): Promise<number> {
+export async function runNamedService(
+  argv: readonly string[],
+  root: string = checkoutAt(),
+  codeAt: string = checkoutHere()
+): Promise<number> {
   const slug = argv[0]
   if (slug === undefined) {
     process.stderr.write(`${SAID} name the service to run\n`)
     return REFUSED_EXIT
   }
-  const reached = await reachedFor(checkoutAt(), slug, checkoutHere())
+  const reached = await reachedFor(root, slug, codeAt)
   if ("unnamed" in reached) {
     process.stderr.write(`${SAID} ${reached.unnamed}\n`)
     return REFUSED_EXIT
