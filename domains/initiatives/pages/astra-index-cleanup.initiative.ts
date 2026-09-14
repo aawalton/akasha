@@ -18,6 +18,7 @@ export const astraIndexCleanup = {
       workingMemory:
         "`everyPath` has thirty-three callers and none needs every path. Eight want `package.json`, which `manifestsBeside` answers. Four want the pages of a type, which `everyOfType` answers. Ten read every `.ts` for a spelling. Two want folders, two ask membership. Three are left, two of them the check that polices index use. The file is 15 MB, gitignored, machine-local, and holds about two hundred dead `.uncommitted.` entries.\n",
     },
+    { statement: "A file property declares one extension." },
     { statement: "Alan holds the import index's structure correct." },
     { statement: "Alan holds the rule index's structure correct." },
     {
