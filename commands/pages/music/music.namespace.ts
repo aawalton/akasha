@@ -18,6 +18,7 @@ export const music = {
     "command/music-queue",
     "command/music-rate",
     "command/music-search",
+    "command/music-seek",
     "command/music-skip",
     "module/device-option",
   ],

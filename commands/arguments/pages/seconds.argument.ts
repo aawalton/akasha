@@ -5,7 +5,7 @@ export const seconds = {
   type: "argument",
   slug: "seconds",
   said: "--seconds",
-  takes: "how long to wait for the port line before giving up",
+  takes: "a number of seconds",
   value: "whole-number",
   placeholder: "seconds",
 } as const satisfies Argument
