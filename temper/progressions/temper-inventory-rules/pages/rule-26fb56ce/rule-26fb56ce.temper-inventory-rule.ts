@@ -6,7 +6,7 @@ export const rule26fb56ce = {
   slug: "rule-26fb56ce",
   title: "Launder stolen lockpicks",
   description: "Launders stolen lockpicks so they can be banked or used instead of fence-sold.",
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "lockpicks",

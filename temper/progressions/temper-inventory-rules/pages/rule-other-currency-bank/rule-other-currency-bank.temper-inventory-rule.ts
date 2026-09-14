@@ -7,7 +7,7 @@ export const ruleOtherCurrencyBank = {
   title: "Bank other currencies",
   description:
     "Deposits alliance points, tel var stones, and writ vouchers into the bank when visiting.",
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "currency",

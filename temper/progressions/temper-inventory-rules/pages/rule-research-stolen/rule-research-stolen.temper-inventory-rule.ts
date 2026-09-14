@@ -7,7 +7,7 @@ export const ruleResearchStolen = {
   title: "Launder stolen researchables",
   description:
     "Launders stolen equipment with a researchable trait so it can be submitted at a crafting station. Place before other research rules.",
-  goal: "unlock",
+  goal: "temper-rule-goal/unlock",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",

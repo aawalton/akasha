@@ -7,7 +7,7 @@ export const ruleMasterWritsBank = {
   title: "Bank master writs",
   description:
     "Stashes master writs in the bank. Master writs reward writ vouchers for high-end crafting station furnishings.",
-  goal: "task",
+  goal: "temper-rule-goal/task",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "master-writs",

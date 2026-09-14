@@ -7,7 +7,7 @@ export const ruleTreasuresEpicStolen = {
   title: "Launder epic+ treasures",
   description:
     "Launders stolen treasures of epic quality or higher. These are worth keeping — sell them legitimately or bank for later.",
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "treasures",

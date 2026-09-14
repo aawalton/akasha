@@ -7,7 +7,7 @@ export const ruleCraftedNothing = {
   title: "Protect crafted gear",
   description:
     "Prevents crafted equipment from being affected by lower-priority rules. Useful for keeping gear you've invested materials into.",
-  goal: "equip",
+  goal: "temper-rule-goal/equip",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",

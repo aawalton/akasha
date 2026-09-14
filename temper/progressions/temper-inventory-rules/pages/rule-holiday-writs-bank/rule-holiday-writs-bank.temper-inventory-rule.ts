@@ -7,7 +7,7 @@ export const ruleHolidayWritsBank = {
   title: "Bank holiday writs",
   description:
     "Stashes holiday event writs in the bank. Complete them during events for bonus rewards.",
-  goal: "task",
+  goal: "temper-rule-goal/task",
   destination: "guild-bank:Walton Mountain",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "holiday-writs",

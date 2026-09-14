@@ -7,7 +7,7 @@ export const ruleUnlockByPriority = {
   title: "Use unlockables",
   description:
     "Uses items that teach something new — motifs, recipes, style pages, furnishing plans, etc. If the current character can learn the item, it's used immediately. For recipes (character-specific knowledge), the addon checks the current character only (ESO API limitation).",
-  goal: "unlock",
+  goal: "temper-rule-goal/unlock",
   conditions: "jsonl",
   destination: "character:by-priority",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

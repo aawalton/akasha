@@ -7,7 +7,7 @@ export const ruleLegendaryNothing = {
   title: "Protect legendary gear",
   description:
     "Prevents legendary (gold) quality equipment from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard your best gear.",
-  goal: "equip",
+  goal: "temper-rule-goal/equip",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",

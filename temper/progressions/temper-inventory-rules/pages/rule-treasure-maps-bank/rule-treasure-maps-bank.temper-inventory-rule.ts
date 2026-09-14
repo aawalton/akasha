@@ -7,7 +7,7 @@ export const ruleTreasureMapsBank = {
   title: "Bank treasure maps",
   description:
     "Stashes treasure maps in the bank for later use. Treasure maps lead to chests with set gear.",
-  goal: "task",
+  goal: "temper-rule-goal/task",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "treasure-maps",

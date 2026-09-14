@@ -7,7 +7,7 @@ export const ruleUnlockStolen = {
   title: "Launder stolen unlockables",
   description:
     "Launders stolen items that can teach something (motifs, recipes, etc.) so they can be used. Place before other unlock rules.",
-  goal: "unlock",
+  goal: "temper-rule-goal/unlock",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "knowledge",

@@ -7,7 +7,7 @@ export const ruleReconstructedNothing = {
   title: "Protect reconstructed gear",
   description:
     "Prevents reconstructed equipment from being affected by lower-priority rules. Reconstructed gear costs transmute crystals and set collection knowledge.",
-  goal: "equip",
+  goal: "temper-rule-goal/equip",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",

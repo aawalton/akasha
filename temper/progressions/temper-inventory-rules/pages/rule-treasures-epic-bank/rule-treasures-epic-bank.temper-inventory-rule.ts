@@ -6,7 +6,7 @@ export const ruleTreasuresEpicBank = {
   slug: "rule-treasures-epic-bank",
   title: "Bank epic+ treasures",
   description: "Banks epic quality or higher treasures for safekeeping or later sale.",
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

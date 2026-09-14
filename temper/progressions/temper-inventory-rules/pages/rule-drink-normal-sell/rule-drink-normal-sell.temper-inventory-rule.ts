@@ -7,7 +7,7 @@ export const ruleDrinkNormalSell = {
   title: "Sell basic drinks",
   description:
     "Sells normal (white) quality non-crafted drinks. Crafted and higher-quality drinks are kept.",
-  goal: "sell",
+  goal: "temper-rule-goal/sell",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "drink",

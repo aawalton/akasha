@@ -7,7 +7,7 @@ export const ruleFoodNormalSell = {
   title: "Sell basic food",
   description:
     "Sells normal (white) quality non-crafted food. Crafted and higher-quality food is kept.",
-  goal: "sell",
+  goal: "temper-rule-goal/sell",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "food",

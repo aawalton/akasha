@@ -7,7 +7,7 @@ export const ruleCraftingCraftBag = {
   title: "Stow crafting materials",
   description:
     "Moves crafting materials to the craft bag when visiting the bank. Requires ESO Plus or a craft bag entitlement. If you do not have ESO Plus, toggle off craft bag access in the ESO Plus panel above — the destination will be redirected to the bank automatically.",
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   destination: "craft-bag",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "crafting",

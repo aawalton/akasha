@@ -6,7 +6,7 @@ export const ruleToolsBank = {
   slug: "rule-tools-bank",
   title: "Stock tools",
   description: "Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping.",
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   destination: "bank",
   stockScope: "any-character",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

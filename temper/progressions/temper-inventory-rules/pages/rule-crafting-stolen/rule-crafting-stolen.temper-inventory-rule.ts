@@ -6,7 +6,7 @@ export const ruleCraftingStolen = {
   slug: "rule-crafting-stolen",
   title: "Launder crafting materials",
   description: "Launders stolen crafting materials so they can be deposited or used.",
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "crafting",

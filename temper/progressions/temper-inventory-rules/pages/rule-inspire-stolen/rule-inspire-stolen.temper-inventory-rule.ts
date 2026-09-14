@@ -7,7 +7,7 @@ export const ruleInspireStolen = {
   title: "Launder stolen inspiration",
   description:
     "Launders stolen equipment that would give useful crafting inspiration, so it can be deconstructed. Place before other inspiration rules.",
-  goal: "progress",
+  goal: "temper-rule-goal/progress",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",

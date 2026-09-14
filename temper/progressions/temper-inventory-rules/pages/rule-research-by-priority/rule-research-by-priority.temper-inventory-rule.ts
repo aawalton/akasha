@@ -7,7 +7,7 @@ export const ruleResearchByPriority = {
   title: "Research traits",
   description:
     "Routes equipment with researchable traits to the character that needs them most. Characters are checked in priority order using TemperCharacters saved variable data for cross-character trait knowledge. The current character is checked first via the ESO API; others are checked via saved data.",
-  goal: "unlock",
+  goal: "temper-rule-goal/unlock",
   conditions: "jsonl",
   destination: "character:by-priority",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

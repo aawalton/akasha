@@ -7,7 +7,7 @@ export const ruleAllianceWarBank = {
   title: "Bank Alliance War items",
   description:
     "Deposits Alliance War items (siege equipment, forward camps, repair kits, etc.) in the bank for safekeeping.",
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "alliance-war",

@@ -7,7 +7,7 @@ export const ruleQuestItemsNothing = {
   title: "Protect quest items",
   description:
     "Prevents quest-related items from being affected by lower-priority rules. Keep them safe until the associated quest is completed.",
-  goal: "task",
+  goal: "temper-rule-goal/task",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "quest-items",
   displayOrder: 55,

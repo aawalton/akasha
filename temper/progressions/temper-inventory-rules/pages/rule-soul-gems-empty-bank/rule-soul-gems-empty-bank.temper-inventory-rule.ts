@@ -7,7 +7,7 @@ export const ruleSoulGemsEmptyBank = {
   title: "Bank empty soul gems",
   description:
     "Deposits empty (white quality) soul gems in the bank. Filled and crown soul gems are kept.",
-  goal: "task",
+  goal: "temper-rule-goal/task",
   conditions: "jsonl",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
