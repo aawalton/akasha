@@ -328,6 +328,10 @@ export const checkReachesAPathThroughTheIndex = {
       invariantKind: "departure",
       statement: "A run in prose that spells a page's path is refused like a run meant as a path.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A pattern the bundler reads before the code runs is no directory listing.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 25 },

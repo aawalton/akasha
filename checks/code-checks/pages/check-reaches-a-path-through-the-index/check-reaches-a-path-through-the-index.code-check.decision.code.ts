@@ -41,6 +41,8 @@ const LISTING: ReadonlySet<string> = new Set([
 
 const LS_FILES = "ls-files"
 
+const BUNDLED = "glob"
+
 const PARTED_AT = "."
 
 const PARTED_UP = ".."
@@ -260,11 +262,18 @@ function saidIn(node: ts.Node, want: string): boolean {
   return ts.forEachChild(node, (one) => (saidIn(one, want) ? true : undefined)) ?? false
 }
 
+function bundledIn(node: ts.Expression): boolean {
+  if (!ts.isPropertyAccessExpression(node)) return false
+  if (node.name.text !== BUNDLED) return false
+  return ts.isMetaProperty(node.expression)
+}
+
 function listedBy(node: ts.Node): readonly ts.Expression[] | null {
   if (ts.isTaggedTemplateExpression(node)) {
     return saidIn(node.template, LS_FILES) ? [] : null
   }
   if (!ts.isCallExpression(node) && !ts.isNewExpression(node)) return null
+  if (ts.isCallExpression(node) && bundledIn(node.expression)) return null
   const args = [...(node.arguments ?? [])]
   const named = calledAs(node.expression)
   if (named !== null && LISTING.has(named)) return args
