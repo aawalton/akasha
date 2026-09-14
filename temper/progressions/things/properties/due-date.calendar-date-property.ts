@@ -8,7 +8,7 @@ export const dueDate = {
   definition: "the day a task is next wanted",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A due date rolls forward to the next round when the task is marked done.",
     },
   ],

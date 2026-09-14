@@ -8,7 +8,7 @@ export const lastAirDate = {
   definition: "the day a show's last episode aired",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A show still running states no day its last episode aired.",
     },
   ],

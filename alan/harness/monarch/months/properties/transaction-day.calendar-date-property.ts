@@ -8,7 +8,7 @@ export const transactionDay = {
   definition: "the day money moved",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transaction sits beside the month its day falls in.",
     },
   ],

@@ -8,7 +8,7 @@ export const testedAgainOn = {
   definition: "the day a constraint is tried against Alan again",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A constraint expected to remain forever states a day all the same.",
     },
   ],
