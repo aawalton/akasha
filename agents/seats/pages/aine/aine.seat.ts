@@ -6,7 +6,7 @@ export const aine = {
   slug: "aine",
   persona: "aine",
   assignmentSlug: "initiative/aine-resource-management",
-  role: "role/definer",
+  role: "definer",
   person: "alan",
   startMode: "interactive",
   onCall: true,
