@@ -73,7 +73,7 @@ function rootFiled(): string {
       "export const page = {",
       '  pageTypeSlug: "subagent",',
       `  slug: ${JSON.stringify(NAME)},`,
-      '  principalSeatName: "athena",',
+      '  principalSeatName: "seat/athena",',
       '  assignmentSlug: "domain/akasha",',
       '  dispatchedAs: "Explore",',
       `  agentId: ${JSON.stringify(ACTING)},`,
