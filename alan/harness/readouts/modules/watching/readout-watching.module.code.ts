@@ -1,4 +1,3 @@
-import { join } from "node:path"
 import {
   keepReading,
   NOT_FALLING,
@@ -12,9 +11,6 @@ import {
   statedIn,
 } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
 import { followWithin } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
-import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { fileFor } from "akasha/pages/indexes/value/index-value.index.code.ts"
-import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250
@@ -27,7 +23,6 @@ export type WatchedReadout = {
   readonly page: string
   readonly folders: readonly string[]
   readonly holds: (at: string) => boolean
-  readonly pageTypes?: readonly string[]
   readonly to: readonly string[]
   readonly take: (now: Date) => Promise<number | null>
 }
@@ -61,7 +56,6 @@ export type WatchSetup = {
 export type Taking = {
   readonly open: () => undefined
   readonly moved: (what: readonly string[]) => undefined
-  readonly indexMoved: (what: readonly string[]) => undefined
   readonly settled: () => Promise<undefined>
   readonly stop: () => undefined
 }
@@ -81,24 +75,6 @@ export function foldersOf(watched: readonly WatchedReadout[]): ReadonlySet<strin
 
 export function holdsAny(watched: readonly WatchedReadout[]): (at: string) => boolean {
   return (at) => watched.some((one) => one.holds(at))
-}
-
-function valuesFollowedIn(root: string): string {
-  return join(root, indexNamed(), indexValue.name)
-}
-
-export function valueFileOf(root: string, pageTypeSlug: string): string {
-  return join(root, indexNamed(), fileFor(pageTypeSlug))
-}
-
-function valuesRead(root: string, one: WatchedReadout): ReadonlySet<string> {
-  return new Set((one.pageTypes ?? []).map((slug) => valueFileOf(root, slug)))
-}
-
-export function valuesOf(root: string, watched: readonly WatchedReadout[]): ReadonlySet<string> {
-  const held = new Set<string>()
-  for (const one of watched) for (const at of valuesRead(root, one)) held.add(at)
-  return held
 }
 
 function unfollowedSaid(at: string): string {
@@ -145,8 +121,6 @@ export function takingOf(setup: WatchSetup): Taking {
   const taking = new Set<string>()
   const owed = new Set<string>()
   const running = new Set<Promise<undefined>>()
-  const valued = new Map<string, ReadonlySet<string>>()
-  for (const one of setup.watched) valued.set(one.page, valuesRead(setup.root, one))
   let faulted: { readonly what: unknown } | null = null
   let ending: ReturnType<typeof setTimeout> | null = null
 
@@ -249,13 +223,6 @@ export function takingOf(setup: WatchSetup): Taking {
       for (const one of setup.watched) if (what.some(one.holds)) run(one)
       return undefined
     },
-    indexMoved: (what: readonly string[]): undefined => {
-      for (const one of setup.watched) {
-        const read = valued.get(one.page)
-        if (read !== undefined && what.some((at) => read.has(at))) run(one)
-      }
-      return undefined
-    },
     settled: async (): Promise<undefined> => {
       while (running.size > 0) await Promise.all([...running])
       return undefined
@@ -280,22 +247,11 @@ export function watchReadings(setup: WatchSetup): Watching {
     taking.moved,
     settleMs
   )
-  const values = valuesOf(setup.root, setup.watched)
-  const indexed =
-    values.size === 0
-      ? null
-      : followWithin(
-          new Set([valuesFollowedIn(setup.root)]),
-          (at) => values.has(at),
-          taking.indexMoved,
-          settleMs
-        )
-  const unfollowed = [...following.unfollowed, ...(indexed?.unfollowed ?? [])].sort()
+  const unfollowed = [...following.unfollowed].sort()
   for (const at of unfollowed) setup.said("ERROR", unfollowedSaid(at))
   return {
     stop: (): undefined => {
       following.stop()
-      indexed?.stop()
       taking.stop()
       return undefined
     },

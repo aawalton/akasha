@@ -32,42 +32,6 @@ export const readoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout read from a value in the commit is taken again when the index moves.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A readout names the page types it reads a value in the commit from.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A readout naming no page type reads nothing in the commit and moves with none.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The file a page type's values are in is followed rather than the whole index.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That file moving is answered by the readouts naming that page type and no other.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A value file is followed rather than read at each event.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Where the values of a page type are is asked of the index rather than spelled.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A value moving both ways is taken twice.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The later take is the one kept.",
-    },
-    {
-      invariantKind: "departure",
       statement: "One take of every watched readout is made when the watch opens.",
     },
     {
@@ -199,6 +163,10 @@ export const readoutWatching = {
     {
       invariantKind: "absence",
       statement: "Nothing here decides a reading held is too old to show.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here follows an index.",
     },
   ],
 } as const satisfies Module

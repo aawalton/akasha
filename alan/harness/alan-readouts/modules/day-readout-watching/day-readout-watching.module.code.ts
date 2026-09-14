@@ -50,9 +50,15 @@ import {
 } from "akasha/alan/harness/surplus/modules/reading/surplus-reading.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
-import { followFolders } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
+import {
+  dirsOf,
+  followFolders,
+} from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
 import { keepBeat } from "akasha/infrastructure/services/workstations/modules/service-beating/service-beating.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  listedAt,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -91,9 +97,7 @@ const HIS_SITE: readonly string[] = [ALAN_SITE]
 
 export const FOOD_ENTRY_PAGE_TYPE = "food-entry"
 
-const FROM_THE_DAY: readonly string[] = [DAY_PAGE_TYPE]
-
-const FROM_THE_FOOD: readonly string[] = [FOOD_ENTRY_PAGE_TYPE]
+export const FOODS_AT = "alan/track/food-entries/pages"
 
 export type DayFiles = {
   readonly folder: string
@@ -104,6 +108,10 @@ export type DayFiles = {
 
 export function daysFolder(root: string): string {
   return join(root, DAYS_AT)
+}
+
+export function foodsFolder(root: string): string {
+  return join(root, FOODS_AT)
 }
 
 export function dayFilesOf(root: string, day: string): DayFiles {
@@ -119,6 +127,20 @@ export function dayFilesOf(root: string, day: string): DayFiles {
 export function madeOf(...files: readonly string[]): (at: string) => boolean {
   const held = new Set(files)
   return (at) => held.has(at)
+}
+
+export function anyOf(...held: readonly ((at: string) => boolean)[]): (at: string) => boolean {
+  return (at) => held.some((one) => one(at))
+}
+
+export type PagesWatched = {
+  readonly folders: readonly string[]
+  readonly holds: (at: string) => boolean
+}
+
+export function pagesOfType(root: string, pageTypeSlug: string): PagesWatched {
+  const at = everyOfType(root, pageTypeSlug).map((one) => join(root, one.path))
+  return { folders: [...dirsOf(at)], holds: madeOf(...at) }
 }
 
 export function shared<T>(work: (now: Date) => Promise<T>): (now: Date) => Promise<T> {
@@ -137,7 +159,11 @@ export function shared<T>(work: (now: Date) => Promise<T>): (now: Date) => Promi
 
 export function dayReadouts(root: string, day: string): readonly WatchedReadout[] {
   const files = dayFilesOf(root, day)
+  const days = pagesOfType(root, DAY_PAGE_TYPE)
+  const foods = pagesOfType(root, FOOD_ENTRY_PAGE_TYPE)
   const folders = [files.folder]
+  const dayFolders = [...folders, ...days.folders]
+  const foodFolders = [...folders, ...foods.folders]
   const attributes = shared((now: Date) => takeAttributes(root, now))
   const inboxes = shared((now: Date) => takeInboxes(root, now))
   const attributeAt =
@@ -147,6 +173,9 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
   const openBlock = madeOf(files.stretches)
   const dayRow = madeOf(files.row, files.open)
   const dayRowAndStretches = madeOf(files.row, files.open, files.stretches)
+  const everyDay = anyOf(dayRow, days.holds)
+  const everyDayAndStretches = anyOf(dayRowAndStretches, days.holds)
+  const everyFood = anyOf(dayRow, foods.holds)
   const tasks = tasksPage(root)
   const pageAt = (slug: string): string => readoutPage(root, slug)
   return [
@@ -166,89 +195,78 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
     },
     {
       page: pageAt(SURPLUS_SLUG),
-      folders,
-      holds: dayRowAndStretches,
-      pageTypes: FROM_THE_DAY,
+      folders: dayFolders,
+      holds: everyDayAndStretches,
       to: BOTH_SITES,
       take: (now) => takeSurplus(root, now),
     },
     {
       page: pageAt(SLEEP_SLUG),
-      folders,
-      holds: dayRow,
-      pageTypes: FROM_THE_DAY,
+      folders: dayFolders,
+      holds: everyDay,
       to: BOTH_SITES,
       take: (now) => takeSleep(root, now),
     },
     {
       page: pageAt(CAPACITY_SLUG),
-      folders,
-      holds: dayRowAndStretches,
-      pageTypes: FROM_THE_DAY,
+      folders: dayFolders,
+      holds: everyDayAndStretches,
       to: BOTH_SITES,
       take: (now) => takeCapacity(root, now),
     },
     {
       page: pageAt(PLANTS_SLUG),
-      folders,
-      holds: dayRow,
-      pageTypes: FROM_THE_FOOD,
+      folders: foodFolders,
+      holds: everyFood,
       to: BOTH_SITES,
       take: (now) => takePlants(root, now),
     },
     {
       page: tasks,
-      folders,
-      holds: dayRow,
-      pageTypes: FROM_THE_DAY,
+      folders: dayFolders,
+      holds: everyDay,
       to: HIS_SITE,
       take: async (now) => (await inboxes(now)).kept[tasks] ?? null,
     },
     {
       page: STRENGTH_PAGE,
-      folders,
-      holds: dayRow,
-      pageTypes: FROM_THE_DAY,
+      folders: dayFolders,
+      holds: everyDay,
       to: HIS_SITE,
       take: attributeAt(STRENGTH_PAGE),
     },
     {
       page: ENDURANCE_PAGE,
-      folders,
-      holds: dayRow,
-      pageTypes: FROM_THE_DAY,
+      folders: dayFolders,
+      holds: everyDay,
       to: HIS_SITE,
       take: attributeAt(ENDURANCE_PAGE),
     },
     {
       page: WISDOM_PAGE,
-      folders,
-      holds: dayRow,
-      pageTypes: FROM_THE_DAY,
+      folders: dayFolders,
+      holds: everyDay,
       to: HIS_SITE,
       take: attributeAt(WISDOM_PAGE),
     },
     {
       page: INTELLIGENCE_PAGE,
-      folders,
-      holds: dayRow,
-      pageTypes: FROM_THE_DAY,
+      folders: dayFolders,
+      holds: everyDay,
       to: HIS_SITE,
       take: attributeAt(INTELLIGENCE_PAGE),
     },
     {
       page: CHARISMA_PAGE,
-      folders,
-      holds: dayRowAndStretches,
-      pageTypes: FROM_THE_DAY,
+      folders: dayFolders,
+      holds: everyDayAndStretches,
       to: HIS_SITE,
       take: attributeAt(CHARISMA_PAGE),
     },
     {
       page: CONSTITUTION_PAGE,
-      folders,
-      holds: dayRow,
-      pageTypes: FROM_THE_FOOD,
+      folders: foodFolders,
+      holds: everyFood,
       to: HIS_SITE,
       take: attributeAt(CONSTITUTION_PAGE),
     },
@@ -282,13 +300,18 @@ export function watchDayReadings(
     return undefined
   }, BEAT_MS)
 
-  const renew = (): undefined => {
-    const opened = openedDayOf(roots, new Date())
-    if (opened === day && running.unfollowed.length === 0) return undefined
+  const rebuild = (opened: string): undefined => {
     day = opened
     running.stop()
     watched = dayReadouts(root, day)
     running = watchReadings({ root, watched, said, ended, beat })
+    return undefined
+  }
+
+  const renew = (): undefined => {
+    const opened = openedDayOf(roots, new Date())
+    if (opened === day && running.unfollowed.length === 0) return undefined
+    rebuild(opened)
     said("INFO", `the readings are taken off ${day} from here on`)
     return undefined
   }
@@ -307,9 +330,9 @@ export function watchDayReadings(
   waitForTheRoll()
 
   const following = followFolders(
-    new Set([daysFolder(root)]),
+    new Set([daysFolder(root), foodsFolder(root)]),
     (): undefined => {
-      renew()
+      rebuild(openedDayOf(roots, new Date()))
       waitForTheRoll()
       return undefined
     },

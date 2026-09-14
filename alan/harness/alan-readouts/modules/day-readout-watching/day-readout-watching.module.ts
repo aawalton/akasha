@@ -25,7 +25,7 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout read off the day row moves with the day values too.",
+      statement: "A readout read off the day row moves with every other day's page too.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "The index says the day row has moved.",
+      statement: "A day page's own file says that day row has moved.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,7 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "The constitution counts food entries and moves with the food entry values.",
+      statement: "The constitution counts food entries and moves with every food entry's page.",
     },
     {
       invariantKind: "stopgap",
@@ -85,7 +85,8 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder the day folders sit in is followed for a day folder appearing.",
+      statement:
+        "The folders the day pages and the food entries sit in are followed for a folder appearing.",
     },
     {
       invariantKind: "departure",
@@ -158,7 +159,7 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "The plant grams count food entries and move with the food entry values.",
+      statement: "The plant grams count food entries and move with every food entry's page.",
     },
   ],
 } as const satisfies Module

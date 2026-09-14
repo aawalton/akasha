@@ -4,8 +4,6 @@ import {
   foldersOf,
   holdsAny,
   takingOf,
-  valueFileOf,
-  valuesOf,
   type WatchedReadout,
   type WatchSetup,
 } from "akasha/alan/harness/readouts/modules/watching/readout-watching.module.code.ts"
@@ -21,10 +19,6 @@ const BESIDE = `${FOLDER}/day-2026-09-10.day.health-samples.jsonl`
 const PAGE = "alan/harness/readouts/pages/upkeep-probe/upkeep-probe.readout.ts"
 
 const OTHER_PAGE = "alan/harness/readouts/pages/upkeep-other/upkeep-other.readout.ts"
-
-const DAY = "day"
-
-const FOOD = "food-entry"
 
 const ALAN = "https://alanwalton.com"
 
@@ -200,17 +194,8 @@ test("a carry that fails to one site does not stop the carry to another site", a
   expect(held.said).toContain("INFO upkeep-probe=7")
 })
 
-test("the value files followed are the ones the readouts read a page type from", () => {
-  const one = { ...watchedOf(() => Promise.resolve(1)), pageTypes: [DAY] }
-  const two = { ...watchedOf(() => Promise.resolve(2)), page: OTHER_PAGE, pageTypes: [FOOD] }
-  const three = watchedOf(() => Promise.resolve(3))
-  expect([...valuesOf(ROOT, [one, two, three])].sort()).toEqual(
-    [valueFileOf(ROOT, DAY), valueFileOf(ROOT, FOOD)].sort()
-  )
-  expect(valuesOf(ROOT, [three]).size).toBe(0)
-})
-
-test("a readout is taken again when the values of a page type it reads move", async () => {
+test("a page of a type a readout reads moving in its folder takes that readout again", async () => {
+  const OTHER_DAY = `${FOLDER}/../1999-01-01/day-1999-01-01.day.ts`
   let takes = 0
   const held = setupOf({
     watched: [
@@ -219,80 +204,19 @@ test("a readout is taken again when the values of a page type it reads move", as
           takes += 1
           return Promise.resolve(takes)
         }),
-        pageTypes: [DAY],
+        holds: (at) => at === MADE_OF || at === OTHER_DAY,
       },
     ],
   })
   held.taking.open()
   await held.taking.settled()
-  held.taking.indexMoved([valueFileOf(ROOT, DAY)])
+  held.taking.moved([OTHER_DAY])
   await held.taking.settled()
   expect(takes).toBe(2)
   expect(held.written).toEqual([
     [PAGE, 1],
     [PAGE, 2],
   ])
-})
-
-test("another page type's values moving takes nothing", async () => {
-  let takes = 0
-  const held = setupOf({
-    watched: [
-      {
-        ...watchedOf(() => {
-          takes += 1
-          return Promise.resolve(takes)
-        }),
-        pageTypes: [DAY],
-      },
-    ],
-  })
-  held.taking.open()
-  await held.taking.settled()
-  held.taking.indexMoved([valueFileOf(ROOT, "subagent")])
-  await held.taking.settled()
-  expect(takes).toBe(1)
-})
-
-test("a readout reading no page type is left alone by any value moving", async () => {
-  let takes = 0
-  const held = setupOf({
-    watched: [
-      watchedOf(() => {
-        takes += 1
-        return Promise.resolve(takes)
-      }),
-    ],
-  })
-  held.taking.open()
-  await held.taking.settled()
-  held.taking.indexMoved([valueFileOf(ROOT, DAY), valueFileOf(ROOT, FOOD)])
-  await held.taking.settled()
-  expect(takes).toBe(1)
-})
-
-test("a value moving takes a readout no moved file would have taken", async () => {
-  let takes = 0
-  const held = setupOf({
-    watched: [
-      {
-        ...watchedOf(() => {
-          takes += 1
-          return Promise.resolve(takes)
-        }),
-        holds: () => false,
-        pageTypes: [FOOD],
-      },
-    ],
-  })
-  held.taking.open()
-  await held.taking.settled()
-  held.taking.moved([MADE_OF, BESIDE])
-  await held.taking.settled()
-  expect(takes).toBe(1)
-  held.taking.indexMoved([valueFileOf(ROOT, FOOD)])
-  await held.taking.settled()
-  expect(takes).toBe(2)
 })
 
 test("a take that throws costs its own reading rather than the readings beside it", async () => {
