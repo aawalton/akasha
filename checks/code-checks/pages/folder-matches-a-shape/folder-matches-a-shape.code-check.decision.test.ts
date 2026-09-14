@@ -173,9 +173,7 @@ test("a workspace beside a domain answers for the domain and for what that domai
 })
 
 test("the page a claimed file sits beside is the one the index names", () => {
-  expect(pageNameOf("akasha/pages-system/indexes/indexes.workspace-package.ts")).toBe(
-    "indexes.workspace-package"
-  )
+  expect(pageNameOf("akasha/pages/indexes/indexes.domain.ts")).toBe("indexes.domain")
   expect(
     namesFiling(
       new Map([
