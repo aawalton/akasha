@@ -8,7 +8,7 @@ export const mcpServers = {
   harnessSettings: "json",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A `.mcp.json` beside an account or a workspace is never read.",
     },
   ],

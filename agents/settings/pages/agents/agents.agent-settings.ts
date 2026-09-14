@@ -8,7 +8,7 @@ export const agents = {
   harnessSettings: "json",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bash environment and the statusline are resolved by akasha rather than here.",
     },
   ],

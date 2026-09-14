@@ -8,7 +8,7 @@ export const toolAccess = {
   harnessSettings: "json",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tool whose only act is writing a file is reached by no agent.",
     },
   ],
