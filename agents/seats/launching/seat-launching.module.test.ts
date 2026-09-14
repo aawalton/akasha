@@ -76,8 +76,20 @@ function fake(
 }
 
 test("the terminal's own tmux variables are scrubbed from what a seat inherits", () => {
-  expect(envScrubArgv()).toEqual(["env", "-u", "TMUX", "-u", "TMUX_PANE", "BASH_ENV="])
-  expect(envScrubShell()).toBe("env -u TMUX -u TMUX_PANE BASH_ENV=")
+  expect(envScrubArgv()).toEqual([
+    "env",
+    "-u",
+    "TMUX",
+    "-u",
+    "TMUX_PANE",
+    "TMPDIR=/var/tmp",
+    "BASH_ENV=",
+  ])
+  expect(envScrubShell()).toBe("env -u TMUX -u TMUX_PANE TMPDIR=/var/tmp BASH_ENV=")
+})
+
+test("a seat's scratch is named on the disk rather than in the folder held in memory", () => {
+  expect(envScrubArgv()).toContain("TMPDIR=/var/tmp")
 })
 
 test("the scrub is not undone by a startup file the next bash would read", () => {
@@ -286,6 +298,7 @@ test("a session is started detached under the seat's name in the start directory
     "TMUX",
     "-u",
     "TMUX_PANE",
+    "TMPDIR=/var/tmp",
     "BASH_ENV=",
     "AGENT_ID=athena-a2de5a24130090204",
     "bun",
@@ -339,6 +352,7 @@ test("the whole launch is composed from the seat alone", () => {
     "TMUX",
     "-u",
     "TMUX_PANE",
+    "TMPDIR=/var/tmp",
     "BASH_ENV=",
     "AGENT_ID=athena-a2de5a24130090204",
     "bash",

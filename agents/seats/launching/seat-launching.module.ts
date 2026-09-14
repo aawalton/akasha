@@ -148,5 +148,10 @@ export const seatLaunching = {
       statement:
         "A launch onto a tmux server already up makes no scope, so no cap of its own reaches it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat's scratch is put on the disk, because the folder above it is held in memory.",
+    },
   ],
 } as const satisfies Module

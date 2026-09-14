@@ -37,7 +37,17 @@ const SCOPE_FLAGS: readonly string[] = [
   `TasksMax=${String(SEAT_TASKS)}`,
 ]
 
-const ENV_SCRUB: readonly string[] = ["env", "-u", "TMUX", "-u", "TMUX_PANE", "BASH_ENV="]
+const SCRATCH_AT = "/var/tmp"
+
+const ENV_SCRUB: readonly string[] = [
+  "env",
+  "-u",
+  "TMUX",
+  "-u",
+  "TMUX_PANE",
+  `TMPDIR=${SCRATCH_AT}`,
+  "BASH_ENV=",
+]
 
 const SECRETS_FILE = '"$HOME/.secrets.env"'
 
