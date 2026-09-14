@@ -4,7 +4,7 @@ export const aUnitThatFailsAndSucceedsWithinATimerPeriodIsToldToNobody = {
   id: "01a095f0-c2e1-72dc-8f86-8146fd57c1a9",
   type: "finding",
   slug: "a-unit-that-fails-and-succeeds-within-a-timer-period-is-told-to-nobody",
-  domain: "domain/service",
+  domain: "page-type/service",
   claim:
     "A unit that fails and runs again within one timer period is well again before the watcher's next sample, so its failures are told to nobody and nothing keeps a count.",
   evidence:

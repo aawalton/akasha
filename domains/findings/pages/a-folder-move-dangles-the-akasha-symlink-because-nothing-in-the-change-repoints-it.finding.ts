@@ -4,7 +4,7 @@ export const aFolderMoveDanglesTheAkashaSymlinkBecauseNothingInTheChangeRepoints
   id: "01a0921c-aa69-78ba-9005-8bdae25a6a1f",
   type: "finding",
   slug: "a-folder-move-dangles-the-akasha-symlink-because-nothing-in-the-change-repoints-it",
-  domain: "domain/service",
+  domain: "page-type/service",
   claim:
     "`~/.local/bin/akasha` is a symlink to a script inside the checkout, placed by `setup-symlinks`, which is run by hand. A change moving the folder that script sits in repoints every import in the tree and leaves the symlink naming a path that is gone. Nothing in the change rewrites it, nothing refuses the change for it, and nothing on the machine notices; `akasha` stops being a command for every agent and every shell until someone runs the provisioning script again. What a shared launch path costs is `a-move-leaves-the-pinned-tree-every-unit-runs-from-behind-including-the-deploy` (`cafe3ff0856`) rather than this.",
   evidence:

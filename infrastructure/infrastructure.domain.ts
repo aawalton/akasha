@@ -26,11 +26,11 @@ export const infrastructure = {
     "domain/resource-utilization",
     "domain/seaweedfs",
     "domain/secret",
-    "domain/service",
     "domain/storage",
     "domain/telemetry",
     "module/infrastructure-calls",
     "page-type/alert",
+    "page-type/service",
   ],
   invariants: [
     {

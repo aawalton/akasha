@@ -4,7 +4,7 @@ export const nineTellingsArrivedAtOnceBecauseAPersonaWithNoSeatDrainsNoInbox = {
   id: "01a09f67-a1d4-7fea-8e0b-bec42e764a30",
   type: "finding",
   slug: "nine-tellings-arrived-at-once-because-a-persona-with-no-seat-drains-no-inbox",
-  domain: "domain/service",
+  domain: "page-type/service",
   claim:
     "A telling `service-watching` writes waits as a page until a seat holding that name reads it, so a persona opening her first seat in days takes every telling written since at once, each one true when it was written and none of them new.",
   evidence:

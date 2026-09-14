@@ -4,7 +4,7 @@ export const runningAPodmanReplaceServiceByHandEvictsTheInstalledOneAndTheUnitSt
   id: "01a091bd-4ffd-7435-875c-e5862f8ba78c",
   type: "finding",
   slug: "running-a-podman-replace-service-by-hand-evicts-the-installed-one-and-the-unit-stays-stopped",
-  domain: "domain/service",
+  domain: "page-type/service",
   claim:
     "A workstation service whose `runs` carries `podman run --replace --name` cannot be run by hand beside its own installed unit. Podman honours `--replace`: the by-hand run removes the installed unit's container and takes the name and the port. The unit's own `podman` then leaves on 0, and `Restart=on-failure` answers no clean exit, so the unit goes `inactive (dead)` and stays there until someone starts it by hand. Running `akasha infrastructure service run dcgm-exporter` at 12:25 on 2026-09-11 took the GPU metrics down for twenty-three seconds this way, and nothing in the unit would have brought them back. A service running a plain binary has no such shape: a second `node-exporter` loses the race for 9100 and dies, and the installed one keeps running.",
   evidence:

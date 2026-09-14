@@ -4,7 +4,7 @@ export const aServiceWhoseWorkIsNotInstantaneousIsStarvedByRestartsItCannotOutru
   id: "01a09459-ee24-74cc-b626-9496de9ece11",
   type: "finding",
   slug: "a-service-whose-work-is-not-instantaneous-is-starved-by-restarts-it-cannot-outrun",
-  domain: "domain/service",
+  domain: "page-type/service",
   claim:
     "Starting a service again whenever the code it reaches changed starves any service whose work takes longer than the gap between landings. Nothing is violated while it happens: the unit text is what the page states, the reach is computed correctly, every invariant on every page holds, and the service still never finishes a unit of work. The system is consistent and starving at once, so no check placed on a page could catch it. What makes a service vulnerable is not being slow but being unable to resume: work deferred or retried from the start of a process is lost on every restart, and a service restarted more often than that work takes never lands any of it. The failure is in the interaction between two correct mechanisms rather than in either, which is why it survived review of both.",
   evidence:

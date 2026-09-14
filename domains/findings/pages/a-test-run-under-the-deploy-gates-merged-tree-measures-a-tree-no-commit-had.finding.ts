@@ -4,7 +4,7 @@ export const aTestRunUnderTheDeployGatesMergedTreeMeasuresATreeNoCommitHad = {
   id: "01a0963d-781c-7350-9c9c-c7329124d1dc",
   type: "finding",
   slug: "a-test-run-under-the-deploy-gates-merged-tree-measures-a-tree-no-commit-had",
-  domain: "domain/service",
+  domain: "page-type/service",
   claim:
     "A test run under the deploy gate's merged tree is measuring a tree no commit ever had, so a failure it reports cannot be told apart from a real one by reading the failure.",
   evidence:
