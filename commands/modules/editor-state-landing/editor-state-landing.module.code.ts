@@ -1,4 +1,3 @@
-import { createRequire } from "node:module"
 import { join } from "node:path"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
@@ -21,9 +20,17 @@ const CODE = "code"
 
 const ANSWERS = "statesLanded"
 
-const loadFrom = createRequire(import.meta.url)
+const NOT_WRITTEN = "the editor's pictures of the pages were not written —"
+
+function loadFrom(at: string): Promise<Record<string, unknown>> {
+  return import(at) as Promise<Record<string, unknown>>
+}
 
 type Writing = (root: string) => undefined
+
+export type Drawing = { readonly writing: Writing | null; readonly broken: string | null }
+
+export const NOTHING_DRAWN: Drawing = { writing: null, broken: null }
 
 function writingAt(root: string): string | null {
   const reading = readingIn(root)
@@ -32,8 +39,8 @@ function writingAt(root: string): string | null {
   return fileOf(reading, valuedAt(reading, MODULE, WRITING), MODULE, CODE)
 }
 
-function writingLoaded(root: string, at: string): Writing {
-  const held = loadFrom(join(root, at)) as Record<string, unknown>
+async function writingLoaded(root: string, at: string): Promise<Writing> {
+  const held = await loadFrom(join(root, at))
   const named = held[ANSWERS]
   if (typeof named !== "function") {
     throw new Error(`${at} answers to no \`${ANSWERS}\` the editor's pictures are written by`)
@@ -41,16 +48,23 @@ function writingLoaded(root: string, at: string): Writing {
   return named as Writing
 }
 
-export function editorStateLanded(root: string): Linking {
+export async function editorStateLoading(root: string): Promise<Drawing> {
   try {
     const at = writingAt(root)
-    if (at === null) return NOTHING_LINKED
-    writingLoaded(root, at)(root)
+    if (at === null) return NOTHING_DRAWN
+    return { writing: await writingLoaded(root, at), broken: null }
+  } catch (thrown) {
+    return { writing: null, broken: whyOf(thrown) }
+  }
+}
+
+export function editorStateLanded(root: string, drawing: Drawing): Linking {
+  if (drawing.broken !== null) return { said: [], wrong: [`${NOT_WRITTEN} ${drawing.broken}`] }
+  if (drawing.writing === null) return NOTHING_LINKED
+  try {
+    drawing.writing(root)
     return NOTHING_LINKED
   } catch (thrown) {
-    return {
-      said: [],
-      wrong: [`the editor's pictures of the pages were not written — ${whyOf(thrown)}`],
-    }
+    return { said: [], wrong: [`${NOT_WRITTEN} ${whyOf(thrown)}`] }
   }
 }

@@ -14,6 +14,19 @@ export const editorStateLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "That code is loaded by awaiting it, so a module the loader serves is reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Loading that code is parted from calling it, so a caller holding a lock may call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A load that would not answer is carried to the call rather than thrown.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which pictures are drawn is the editor's own code to say.",
     },
     {
