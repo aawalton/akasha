@@ -5,7 +5,7 @@ export const restaurantsRodizioGrillBuyAnyEntreeGetAnySpecialtyBeverageAndAnyDes
   type: "location-deal",
   slug: "restaurants-rodizio-grill-buy-any-entree-get-any-specialty-beverage-and-any-dessert-free",
   title: "Rodizio Grill — Buy Any Entree, Get Any Specialty Beverage & Any Dessert FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:restaurants:rodizio-grill:buy-any-entree-get-any-specialty-beverage-and-any-dessert-free",
   finePrint: "(Up to 2 People) Excludes Holidays. Provo",

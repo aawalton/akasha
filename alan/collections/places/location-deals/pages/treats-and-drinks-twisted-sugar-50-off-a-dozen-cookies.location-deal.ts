@@ -5,7 +5,7 @@ export const treatsAndDrinksTwistedSugar50OffADozenCookies = {
   type: "location-deal",
   slug: "treats-and-drinks-twisted-sugar-50-off-a-dozen-cookies",
   title: "Twisted Sugar — 50% OFF! a Dozen Cookies!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:twisted-sugar:50-off-a-dozen-cookies",
   finePrint: "PG & Saratoga Only",
   locations: ["location/twisted-sugar-pleasant-grove", "location/twisted-sugar-saratoga-springs"],

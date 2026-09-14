@@ -5,7 +5,7 @@ export const restaurantsDennysBuy1EntrEAnd2DrinksGet1Free = {
   type: "location-deal",
   slug: "restaurants-dennys-buy-1-entr-e-and-2-drinks-get-1-free",
   title: "Dennys — Buy 1 Entrée & 2 Drinks, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:dennys:buy-1-entr-e-and-2-drinks-get-1-free",
   finePrint: "Participating Locations",
   locations: ["location/dennys-utah-county"],

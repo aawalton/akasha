@@ -5,7 +5,7 @@ export const pizzaRosatisAuthenticChicagoPizza241AnyPizza = {
   type: "location-deal",
   slug: "pizza-rosatis-authentic-chicago-pizza-2-4-1-any-pizza",
   title: "Rosati's Authentic Chicago Pizza — 2-4-1! Any Pizza!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:rosatis-authentic-chicago-pizza:2-4-1-any-pizza",
   finePrint: "Dine-in & Cam…",
   locations: ["location/rosatis-authentic-chicago-pizza-utah-county"],

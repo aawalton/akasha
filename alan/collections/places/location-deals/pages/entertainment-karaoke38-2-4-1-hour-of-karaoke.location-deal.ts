@@ -5,7 +5,7 @@ export const entertainmentKaraoke38241HourOfKaraoke = {
   type: "location-deal",
   slug: "entertainment-karaoke38-2-4-1-hour-of-karaoke",
   title: "Karaoke38 — 2-4-1! Hour of Karaoke!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:karaoke38:2-4-1-hour-of-karaoke",
   locations: ["location/karaoke38-utah-county"],
   offerText: "2-4-1! Hour of Karaoke!",

@@ -5,7 +5,7 @@ export const freeStuffMcdonaldsFree12OzFrozenDrink = {
   type: "location-deal",
   slug: "free-stuff-mcdonalds-free-12-oz-frozen-drink",
   title: "McDonald's — FREE! 12 oz Frozen Drink!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:mcdonalds:free-12-oz-frozen-drink",
   finePrint: "All Orem, N Provo, PG, Cedar Hills & AF",
   locations: [

@@ -5,7 +5,7 @@ export const treatsAndDrinksYonutz241HalfDozenDonuts = {
   type: "location-deal",
   slug: "treats-and-drinks-yonutz-2-4-1-half-dozen-donuts",
   title: "Yonutz — 2-4-1! Half Dozen Donuts!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:yonutz:2-4-1-half-dozen-donuts",
   finePrint: "Saratoga Springs",
   locations: ["location/yonutz-saratoga-springs"],

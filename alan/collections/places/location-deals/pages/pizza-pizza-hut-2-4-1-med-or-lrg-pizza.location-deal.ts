@@ -5,7 +5,7 @@ export const pizzaPizzaHut241MedOrLrgPizza = {
   type: "location-deal",
   slug: "pizza-pizza-hut-2-4-1-med-or-lrg-pizza",
   title: "Pizza Hut — 2-4-1! Med or Lrg Pizza!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:pizza-hut:2-4-1-med-or-lrg-pizza",
   finePrint: "Carryout Only! All Wasatch Front Lo…",
   locations: ["location/pizza-hut-utah-county"],

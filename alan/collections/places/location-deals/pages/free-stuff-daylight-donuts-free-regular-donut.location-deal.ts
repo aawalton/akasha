@@ -5,7 +5,7 @@ export const freeStuffDaylightDonutsFreeRegularDonut = {
   type: "location-deal",
   slug: "free-stuff-daylight-donuts-free-regular-donut",
   title: "Daylight Donuts — FREE! Regular Donut!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:daylight-donuts:free-regular-donut",
   finePrint: "Saratoga Springs",
   locations: ["location/daylight-donuts-saratoga-springs"],

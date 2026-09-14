@@ -5,7 +5,7 @@ export const pizzaPizzaPieCafFreeKidsBuffetWPayingAdult = {
   type: "location-deal",
   slug: "pizza-pizza-pie-caf-free-kids-buffet-w-paying-adult",
   title: "Pizza Pie Café — FREE! Kid's Buffet w/ Paying Adult!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:pizza-pie-caf:free-kids-buffet-w-paying-adult",
   finePrint: "Orem",
   locations: ["location/pizza-pie-cafe-orem"],

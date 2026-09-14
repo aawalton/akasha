@@ -5,7 +5,7 @@ export const entertainmentTheRuth50OffSameDayTicket = {
   type: "location-deal",
   slug: "entertainment-the-ruth-50-off-same-day-ticket",
   title: "The Ruth — 50% OFF! Same Day Ticket!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:the-ruth:50-off-same-day-ticket",
   finePrint: "Present Card in Person",
   locations: ["location/the-ruth-utah-county"],

@@ -5,7 +5,7 @@ export const sandwichesAndBurgersKlucksKrispyChickenBuy1EntreeAnd2DrinksGet1Entr
   type: "location-deal",
   slug: "sandwiches-and-burgers-klucks-krispy-chicken-buy-1-entree-and-2-drinks-get-1-entree-free",
   title: "Klucks Krispy Chicken — Buy 1 Entree & 2 Drinks, Get 1 Entree FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:sandwiches-and-burgers:klucks-krispy-chicken:buy-1-entree-and-2-drinks-get-1-entree-free",
   finePrint: "Saratoga",

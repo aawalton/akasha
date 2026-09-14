@@ -5,7 +5,7 @@ export const retailAutoAndMoreForgeJewelryWorks30OffAnyJewelryItem = {
   type: "location-deal",
   slug: "retail-auto-and-more-forge-jewelry-works-30-off-any-jewelry-item",
   title: "FORGE Jewelry Works — 30% OFF! Any Jewelry Item!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:forge-jewelry-works:30-off-any-jewelry-item",
   finePrint: "Excl. Loose Diamonds/Gemstones",
   locations: ["location/forge-jewelry-works-utah-county"],

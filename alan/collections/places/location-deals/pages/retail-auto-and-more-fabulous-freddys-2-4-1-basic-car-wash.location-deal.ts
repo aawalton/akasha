@@ -5,7 +5,7 @@ export const retailAutoAndMoreFabulousFreddys241BasicCarWash = {
   type: "location-deal",
   slug: "retail-auto-and-more-fabulous-freddys-2-4-1-basic-car-wash",
   title: "Fabulous Freddy's — 2-4-1! Basic Car Wash!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:fabulous-freddys:2-4-1-basic-car-wash",
   finePrint: "Lehi",
   locations: ["location/fabulous-freddys-lehi"],

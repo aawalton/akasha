@@ -5,7 +5,7 @@ export const entertainmentBackNineGolfBuy1HourGet1Free = {
   type: "location-deal",
   slug: "entertainment-back-nine-golf-buy-1-hour-get-1-free",
   title: "Back Nine Golf — Buy 1 Hour, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:back-nine-golf:buy-1-hour-get-1-free",
   finePrint: "Bring Clubs All UT Locs",
   locations: ["location/back-nine-golf-utah-county"],

@@ -5,7 +5,7 @@ export const freeStuffDairyQueenFreeSmallIceCreamCone = {
   type: "location-deal",
   slug: "free-stuff-dairy-queen-free-small-ice-cream-cone",
   title: "Dairy Queen — FREE! Small Ice Cream Cone!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:dairy-queen:free-small-ice-cream-cone",
   finePrint: "Orem, Vineyard, EM & Santaquin",
   locations: [

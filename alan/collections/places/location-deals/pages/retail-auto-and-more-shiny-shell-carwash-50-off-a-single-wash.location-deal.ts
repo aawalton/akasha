@@ -5,7 +5,7 @@ export const retailAutoAndMoreShinyShellCarwash50OffASingleWash = {
   type: "location-deal",
   slug: "retail-auto-and-more-shiny-shell-carwash-50-off-a-single-wash",
   title: "Shiny Shell Carwash — 50% OFF! a Single Wash!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:shiny-shell-carwash:50-off-a-single-wash",
   finePrint: "All Utah Locations",
   locations: ["location/shiny-shell-carwash-utah-county"],

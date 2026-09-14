@@ -5,7 +5,7 @@ export const entertainmentFatcats241ArcadeCardUpTo25 = {
   type: "location-deal",
   slug: "entertainment-fatcats-2-4-1-arcade-card-up-to-25",
   title: "FatCats — 2-4-1! Arcade Card! Up to $25",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:fatcats:2-4-1-arcade-card-up-to-25",
   finePrint: "Provo",
   locations: ["location/fatcats-provo"],

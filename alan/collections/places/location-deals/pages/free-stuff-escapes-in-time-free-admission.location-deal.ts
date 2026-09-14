@@ -5,7 +5,7 @@ export const freeStuffEscapesInTimeFreeAdmission = {
   type: "location-deal",
   slug: "free-stuff-escapes-in-time-free-admission",
   title: "Escapes In Time — FREE! Admission!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:escapes-in-time:free-admission",
   finePrint: "M-Th Not Valid December",
   locations: ["location/escapes-in-time-utah-county"],

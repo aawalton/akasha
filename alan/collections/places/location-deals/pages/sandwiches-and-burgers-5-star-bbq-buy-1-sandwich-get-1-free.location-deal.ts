@@ -5,7 +5,7 @@ export const sandwichesAndBurgers5StarBbqBuy1SandwichGet1Free = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-5-star-bbq-buy-1-sandwich-get-1-free",
   title: "5 Star BBQ — Buy 1 Sandwich, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:5-star-bbq:buy-1-sandwich-get-1-free",
   locations: ["location/location-5-star-bbq-utah-county"],
   offerText: "Buy 1 Sandwich, Get 1 FREE!",

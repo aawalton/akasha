@@ -6,7 +6,7 @@ export const bumblebeesKbbqAndGrillKPopFriesKPhillyKNoodlesOrDupBop = {
   slug: "bumblebees-kbbq-and-grill-k-pop-fries-k-philly-k-noodles-or-dup-bop",
   title:
     "Bumblebees KBBQ & Grill — Buy 1 K-pop Fries, K-Philly, K-Noodles, Or Dup Bop, & 2 Drinks, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:restaurants:bumblebees-kbbq-and-grill:buy-1-k-pop-fries-k-philly-k-noodles-or-dup-bop-and-2-drinks-get-1-free",
   finePrint: "All Locations",

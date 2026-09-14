@@ -5,7 +5,7 @@ export const retailAutoAndMoreHavoline20OffAnyOilChangeService = {
   type: "location-deal",
   slug: "retail-auto-and-more-havoline-20-off-any-oil-change-service",
   title: "Havoline — $20 OFF! Any Oil Change Service!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:havoline:20-off-any-oil-change-service",
   locations: ["location/havoline-utah-county"],
   offerText: "$20 OFF! Any Oil Change Service!",

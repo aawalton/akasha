@@ -5,7 +5,7 @@ export const freeStuffJerseyMikesFreeChocolateChipCookie = {
   type: "location-deal",
   slug: "free-stuff-jersey-mikes-free-chocolate-chip-cookie",
   title: "Jersey Mikes — FREE! Chocolate Chip Cookie!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:jersey-mikes:free-chocolate-chip-cookie",
   finePrint: "All Utah Cnty except EM and SF",
   locations: ["location/jersey-mikes-utah-county"],

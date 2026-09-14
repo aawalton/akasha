@@ -5,7 +5,7 @@ export const entertainmentSalsaAtSouthworth241ThursAdmission = {
   type: "location-deal",
   slug: "entertainment-salsa-at-southworth-2-4-1-thurs-admission",
   title: "Salsa at Southworth — 2-4-1! Thurs Admission!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:salsa-at-southworth:2-4-1-thurs-admission",
   locations: ["location/salsa-at-southworth-utah-county"],
   offerText: "2-4-1! Thurs Admission!",

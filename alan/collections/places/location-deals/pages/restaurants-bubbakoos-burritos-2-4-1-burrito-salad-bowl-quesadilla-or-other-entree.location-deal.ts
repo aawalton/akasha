@@ -5,7 +5,7 @@ export const restaurantsBubbakoosBurritos241BurritoSaladBowlQuesadillaOrOtherEnt
   type: "location-deal",
   slug: "restaurants-bubbakoos-burritos-2-4-1-burrito-salad-bowl-quesadilla-or-other-entree",
   title: "Bubbakoo's Burritos — 2-4-1! Burrito, Salad, Bowl, Quesadilla or Other Entree!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:bubbakoos-burritos:2-4-1-burrito-salad-bowl-quesadilla-or-other-entree",
   locations: ["location/bubbakoos-burritos-utah-county"],
   offerText: "2-4-1! Burrito, Salad, Bowl, Quesadilla or Other Entree!",

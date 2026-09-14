@@ -5,7 +5,7 @@ export const entertainmentStadiumCinemas241MovieTicket = {
   type: "location-deal",
   slug: "entertainment-stadium-cinemas-2-4-1-movie-ticket",
   title: "Stadium Cinemas — 2-4-1 Movie Ticket!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:stadium-cinemas:2-4-1-movie-ticket",
   locations: ["location/stadium-cinemas-utah-county"],
   offerText: "2-4-1 Movie Ticket!",

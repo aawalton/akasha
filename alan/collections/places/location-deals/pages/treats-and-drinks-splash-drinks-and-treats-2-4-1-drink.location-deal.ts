@@ -5,7 +5,7 @@ export const treatsAndDrinksSplashDrinksAndTreats241Drink = {
   type: "location-deal",
   slug: "treats-and-drinks-splash-drinks-and-treats-2-4-1-drink",
   title: "Splash Drinks and Treats — 2-4-1! Drink!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:splash-drinks-and-treats:2-4-1-drink",
   finePrint: "Lehi Excludes Energy Drink Mixers",
   locations: ["location/splash-drinks-and-treats-lehi"],

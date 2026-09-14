@@ -5,7 +5,7 @@ export const restaurants5StarBbq50OffAnyMeatPlateSandwichSideOrOtherRegMenuItem 
   type: "location-deal",
   slug: "restaurants-5-star-bbq-50-off-any-meat-plate-sandwich-side-or-other-reg-menu-item",
   title: "5 Star BBQ — 50% OFF! Any Meat Plate, Sandwich, Side or Other Reg Menu Item!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:5-star-bbq:50-off-any-meat-plate-sandwich-side-or-other-reg-menu-item",
   locations: ["location/location-5-star-bbq-utah-county"],
   offerText: "50% OFF! Any Meat Plate, Sandwich, Side or Other Reg Menu Item!",

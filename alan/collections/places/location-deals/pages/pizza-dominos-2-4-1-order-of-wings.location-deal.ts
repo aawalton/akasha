@@ -5,7 +5,7 @@ export const pizzaDominos241OrderOfWings = {
   type: "location-deal",
   slug: "pizza-dominos-2-4-1-order-of-wings",
   title: "Domino's — 2-4-1! Order of Wings!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:dominos:2-4-1-order-of-wings",
   finePrint: "Carryout Only. Saratoga & Eagle Mtn",
   locations: ["location/dominos-eagle-mountain", "location/dominos-saratoga-springs"],

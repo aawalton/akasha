@@ -5,7 +5,7 @@ export const entertainmentUsAndArt241ThemedPaintNightExperience = {
   type: "location-deal",
   slug: "entertainment-us-and-art-2-4-1-themed-paint-night-experience",
   title: "Us and Art — 2-4-1! Themed Paint Night Experience!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:us-and-art:2-4-1-themed-paint-night-experience",
   locations: ["location/us-and-art-utah-county"],
   offerText: "2-4-1! Themed Paint Night Experience!",

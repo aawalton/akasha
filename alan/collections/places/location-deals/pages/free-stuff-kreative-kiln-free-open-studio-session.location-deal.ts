@@ -5,7 +5,7 @@ export const freeStuffKreativeKilnFreeOpenStudioSession = {
   type: "location-deal",
   slug: "free-stuff-kreative-kiln-free-open-studio-session",
   title: "Kreative Kiln — FREE! Open Studio Session!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:kreative-kiln:free-open-studio-session",
   locations: ["location/kreative-kiln-utah-county"],
   offerText: "FREE! Open Studio Session!",

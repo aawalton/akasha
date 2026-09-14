@@ -5,7 +5,7 @@ export const restaurantsRubyRiverBuy1EntreeGetAnAppetizerFree = {
   type: "location-deal",
   slug: "restaurants-ruby-river-buy-1-entree-get-an-appetizer-free",
   title: "Ruby River — Buy 1 Entree, Get an Appetizer FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:ruby-river:buy-1-entree-get-an-appetizer-free",
   finePrint: "Up to $8",
   locations: ["location/ruby-river-utah-county"],

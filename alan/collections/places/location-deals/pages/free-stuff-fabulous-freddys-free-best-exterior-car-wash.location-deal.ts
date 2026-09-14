@@ -5,7 +5,7 @@ export const freeStuffFabulousFreddysFreeBestExteriorCarWash = {
   type: "location-deal",
   slug: "free-stuff-fabulous-freddys-free-best-exterior-car-wash",
   title: "Fabulous Freddy's — FREE! Best Exterior Car Wash!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:fabulous-freddys:free-best-exterior-car-wash",
   finePrint: "Lehi",
   locations: ["location/fabulous-freddys-lehi"],

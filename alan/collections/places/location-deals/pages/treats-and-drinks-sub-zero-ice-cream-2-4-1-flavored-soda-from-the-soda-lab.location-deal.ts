@@ -5,7 +5,7 @@ export const treatsAndDrinksSubZeroIceCream241FlavoredSodaFromTheSodaLab = {
   type: "location-deal",
   slug: "treats-and-drinks-sub-zero-ice-cream-2-4-1-flavored-soda-from-the-soda-lab",
   title: "Sub Zero Ice Cream — 2-4-1! Flavored Soda from the Soda Lab!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:sub-zero-ice-cream:2-4-1-flavored-soda-from-the-soda-lab",
   finePrint: "All Ut County",
   locations: ["location/sub-zero-ice-cream-utah-county"],

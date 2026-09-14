@@ -5,7 +5,7 @@ export const restaurantsWingersBuy1EntreeAnd2DrinksGet1EntreeFree = {
   type: "location-deal",
   slug: "restaurants-wingers-buy-1-entree-and-2-drinks-get-1-entree-free",
   title: "Wingers — Buy 1 Entree & 2 Drinks, Get 1 Entree FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:wingers:buy-1-entree-and-2-drinks-get-1-entree-free",
   finePrint: "Up to $10 Provo",
   locations: ["location/wingers-provo"],

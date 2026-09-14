@@ -5,7 +5,7 @@ export const freeStuffYogurtlandFreeFirst5OuncesOfYogurt = {
   type: "location-deal",
   slug: "free-stuff-yogurtland-free-first-5-ounces-of-yogurt",
   title: "Yogurtland — FREE! First 5 Ounces of Yogurt!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:yogurtland:free-first-5-ounces-of-yogurt",
   locations: ["location/yogurtland-utah-county"],
   offerText: "FREE! First 5 Ounces of Yogurt!",

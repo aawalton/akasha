@@ -5,7 +5,7 @@ export const freeStuffTacoTimeFreePlainOrBavarianCremeChurro = {
   type: "location-deal",
   slug: "free-stuff-taco-time-free-plain-or-bavarian-creme-churro",
   title: "Taco Time — FREE! Plain or Bavarian Creme Churro!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:taco-time:free-plain-or-bavarian-creme-churro",
   finePrint: "Orem",
   locations: ["location/taco-time-orem"],

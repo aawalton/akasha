@@ -5,7 +5,7 @@ export const treatsAndDrinksRoxberryJuiceCo241Smoothie = {
   type: "location-deal",
   slug: "treats-and-drinks-roxberry-juice-co-2-4-1-smoothie",
   title: "Roxberry Juice Co. — 2-4-1! Smoothie!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:roxberry-juice-co:2-4-1-smoothie",
   finePrint: "Spanish Fork & Participating Locations",
   locations: ["location/roxberry-juice-co-spanish-fork"],

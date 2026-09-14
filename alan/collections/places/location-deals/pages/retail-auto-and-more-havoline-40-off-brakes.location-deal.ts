@@ -5,7 +5,7 @@ export const retailAutoAndMoreHavoline40OffBrakes = {
   type: "location-deal",
   slug: "retail-auto-and-more-havoline-40-off-brakes",
   title: "Havoline — $40 OFF! Brakes!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:havoline:40-off-brakes",
   finePrint: "per axle",
   locations: ["location/havoline-utah-county"],

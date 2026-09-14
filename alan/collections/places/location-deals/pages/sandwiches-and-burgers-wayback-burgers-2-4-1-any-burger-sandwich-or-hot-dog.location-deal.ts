@@ -5,7 +5,7 @@ export const sandwichesAndBurgersWaybackBurgers241AnyBurgerSandwichOrHotDog = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-wayback-burgers-2-4-1-any-burger-sandwich-or-hot-dog",
   title: "Wayback Burgers — 2-4-1! Any Burger, Sandwich or Hot Dog!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:wayback-burgers:2-4-1-any-burger-sandwich-or-hot-dog",
   finePrint: "PG & WJ",
   locations: ["location/wayback-burgers-pleasant-grove", "location/wayback-burgers-west-jordan"],

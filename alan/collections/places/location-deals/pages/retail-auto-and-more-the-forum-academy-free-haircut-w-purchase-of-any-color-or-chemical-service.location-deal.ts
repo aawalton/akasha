@@ -5,7 +5,7 @@ export const retailAutoAndMoreTheForumAcademyFreeHaircutWPurchaseOfAnyColorOrChe
   type: "location-deal",
   slug: "retail-auto-and-more-the-forum-academy-free-haircut-w-purchase-of-any-color-or-chemical-service",
   title: "The Forum Academy — FREE! Haircut w/ Purchase of Any Color or Chemical Service!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:retail-auto-and-more:the-forum-academy:free-haircut-w-purchase-of-any-color-or-chemical-service",
   locations: ["location/the-forum-academy-utah-county"],

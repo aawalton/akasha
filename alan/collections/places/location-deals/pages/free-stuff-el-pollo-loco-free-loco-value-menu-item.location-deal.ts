@@ -5,7 +5,7 @@ export const freeStuffElPolloLocoFreeLocoValueMenuItem = {
   type: "location-deal",
   slug: "free-stuff-el-pollo-loco-free-loco-value-menu-item",
   title: "El Pollo Loco — FREE! Loco Value Menu Item!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:el-pollo-loco:free-loco-value-menu-item",
   finePrint: "Orem, Lehi & Particip. Locations",
   locations: ["location/el-pollo-loco-lehi", "location/el-pollo-loco-orem"],

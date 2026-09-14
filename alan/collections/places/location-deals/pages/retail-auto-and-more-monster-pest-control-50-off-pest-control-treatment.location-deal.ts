@@ -5,7 +5,7 @@ export const retailAutoAndMoreMonsterPestControl50OffPestControlTreatment = {
   type: "location-deal",
   slug: "retail-auto-and-more-monster-pest-control-50-off-pest-control-treatment",
   title: "Monster Pest Control — 50% OFF! Pest Control Treatment!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:monster-pest-control:50-off-pest-control-treatment",
   finePrint: "New Customers! Up to $40!",
   locations: ["location/monster-pest-control-utah-county"],

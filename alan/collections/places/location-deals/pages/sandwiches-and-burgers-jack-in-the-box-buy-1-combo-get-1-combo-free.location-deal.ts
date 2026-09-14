@@ -5,7 +5,7 @@ export const sandwichesAndBurgersJackInTheBoxBuy1ComboGet1ComboFree = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-jack-in-the-box-buy-1-combo-get-1-combo-free",
   title: "Jack in the Box — Buy 1 Combo, Get 1 Combo FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:jack-in-the-box:buy-1-combo-get-1-combo-free",
   finePrint: "All Utah County",
   locations: ["location/jack-in-the-box-utah-county"],

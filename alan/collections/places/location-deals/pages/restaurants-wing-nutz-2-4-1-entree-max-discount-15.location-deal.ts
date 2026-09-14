@@ -5,7 +5,7 @@ export const restaurantsWingNutz241EntreeMaxDiscount15 = {
   type: "location-deal",
   slug: "restaurants-wing-nutz-2-4-1-entree-max-discount-15",
   title: "Wing Nutz — 2-4-1! Entree! Max Discount $15!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:wing-nutz:2-4-1-entree-max-discount-15",
   finePrint: "Orem & SF",
   locations: ["location/wing-nutz-orem", "location/wing-nutz-spanish-fork"],

@@ -5,7 +5,7 @@ export const freeStuffLoloHawaiianBbqFreeSliceOfGuavaCakeOrSpamMusubi = {
   type: "location-deal",
   slug: "free-stuff-lolo-hawaiian-bbq-free-slice-of-guava-cake-or-spam-musubi",
   title: "LoLo Hawaiian BBQ — FREE! Slice of Guava Cake or Spam Musubi!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:lolo-hawaiian-bbq:free-slice-of-guava-cake-or-spam-musubi",
   finePrint: "All Locs",
   locations: ["location/lolo-hawaiian-bbq-utah-county"],

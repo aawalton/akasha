@@ -5,7 +5,7 @@ export const retailAutoAndMoreGOATHaircuts10OffAnyMensHaircut = {
   type: "location-deal",
   slug: "retail-auto-and-more-g-o-a-t-haircuts-10-off-any-mens-haircut",
   title: "G.O.A.T Haircuts — $10 OFF! Any Men's Haircut!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:g-o-a-t-haircuts:10-off-any-mens-haircut",
   finePrint: "Please Tip! Call for Appt",
   locations: ["location/g-o-a-t-haircuts-utah-county"],

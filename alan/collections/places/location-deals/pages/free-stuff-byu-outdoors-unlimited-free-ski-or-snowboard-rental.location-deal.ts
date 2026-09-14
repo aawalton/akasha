@@ -5,7 +5,7 @@ export const freeStuffByuOutdoorsUnlimitedFreeSkiOrSnowboardRental = {
   type: "location-deal",
   slug: "free-stuff-byu-outdoors-unlimited-free-ski-or-snowboard-rental",
   title: "BYU Outdoors Unlimited — FREE! Ski or Snowboard Rental!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:byu-outdoors-unlimited:free-ski-or-snowboard-rental",
   finePrint: "M-Th",
   locations: ["location/byu-outdoors-unlimited-utah-county"],

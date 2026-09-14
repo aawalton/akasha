@@ -5,7 +5,7 @@ export const freeStuffProvoBakeryFreeDonut = {
   type: "location-deal",
   slug: "free-stuff-provo-bakery-free-donut",
   title: "Provo Bakery — FREE! Donut!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:provo-bakery:free-donut",
   locations: ["location/provo-bakery-utah-county"],
   offerText: "FREE! Donut!",

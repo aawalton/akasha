@@ -5,7 +5,7 @@ export const freeStuffLaserAssaultFreeGameOfLaserTag = {
   type: "location-deal",
   slug: "free-stuff-laser-assault-free-game-of-laser-tag",
   title: "Laser Assault — FREE! Game of Laser Tag!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:laser-assault:free-game-of-laser-tag",
   locations: ["location/laser-assault-utah-county"],
   offerText: "FREE! Game of Laser Tag!",

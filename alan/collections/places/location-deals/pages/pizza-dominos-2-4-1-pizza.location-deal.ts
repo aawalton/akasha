@@ -5,7 +5,7 @@ export const pizzaDominos241Pizza = {
   type: "location-deal",
   slug: "pizza-dominos-2-4-1-pizza",
   title: "Domino's — 2-4-1! Pizza!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:dominos:2-4-1-pizza",
   finePrint: "Carryout Only. Saratoga & Eagle Mtn",
   locations: ["location/dominos-eagle-mountain", "location/dominos-saratoga-springs"],

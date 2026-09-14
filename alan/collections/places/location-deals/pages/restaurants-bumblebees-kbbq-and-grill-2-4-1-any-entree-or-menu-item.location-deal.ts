@@ -5,7 +5,7 @@ export const restaurantsBumblebeesKbbqAndGrill241AnyEntreeOrMenuItem = {
   type: "location-deal",
   slug: "restaurants-bumblebees-kbbq-and-grill-2-4-1-any-entree-or-menu-item",
   title: "Bumblebees KBBQ & Grill — 2-4-1! Any Entree or Menu Item!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:bumblebees-kbbq-and-grill:2-4-1-any-entree-or-menu-item",
   finePrint: "All Locations",
   locations: ["location/bumblebees-kbbq-grill-utah-county"],

@@ -5,7 +5,7 @@ export const pizzaCurryPizzaBuyALrgPizzaGetOrderOfWingsFree = {
   type: "location-deal",
   slug: "pizza-curry-pizza-buy-a-lrg-pizza-get-order-of-wings-free",
   title: "Curry Pizza — Buy a Lrg Pizza, Get Order of Wings FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:curry-pizza:buy-a-lrg-pizza-get-order-of-wings-free",
   finePrint: "Max $11 OFF",
   locations: ["location/curry-pizza-utah-county"],

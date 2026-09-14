@@ -5,7 +5,7 @@ export const freeStuffWingstopFree5BonelessWings = {
   type: "location-deal",
   slug: "free-stuff-wingstop-free-5-boneless-wings",
   title: "Wingstop — FREE! 5 Boneless Wings!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:wingstop:free-5-boneless-wings",
   finePrint: "All Northern UT locations",
   locations: ["location/wingstop-utah-county"],

@@ -5,7 +5,7 @@ export const treatsAndDrinksBobbysBurgersBuyAnyShakeGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-bobbys-burgers-buy-any-shake-get-1-free",
   title: "Bobbys Burgers — Buy Any Shake, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:bobbys-burgers:buy-any-shake-get-1-free",
   locations: ["location/bobbys-burgers-utah-county"],
   offerText: "Buy Any Shake, Get 1 FREE!",

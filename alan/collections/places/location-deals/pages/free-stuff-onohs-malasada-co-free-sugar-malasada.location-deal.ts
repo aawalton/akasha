@@ -5,7 +5,7 @@ export const freeStuffOnohsMalasadaCoFreeSugarMalasada = {
   type: "location-deal",
   slug: "free-stuff-onohs-malasada-co-free-sugar-malasada",
   title: "Onoh's Malasada Co — FREE! Sugar Malasada!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:onohs-malasada-co:free-sugar-malasada",
   locations: ["location/onohs-malasada-co-utah-county"],
   offerText: "FREE! Sugar Malasada!",

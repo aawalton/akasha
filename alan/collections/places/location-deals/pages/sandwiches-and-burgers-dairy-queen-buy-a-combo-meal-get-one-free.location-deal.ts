@@ -5,7 +5,7 @@ export const sandwichesAndBurgersDairyQueenBuyAComboMealGetOneFree = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-dairy-queen-buy-a-combo-meal-get-one-free",
   title: "Dairy Queen — Buy a Combo Meal, Get One FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:dairy-queen:buy-a-combo-meal-get-one-free",
   finePrint: "Orem, Vineyard, EM & Santaquin",
   locations: [

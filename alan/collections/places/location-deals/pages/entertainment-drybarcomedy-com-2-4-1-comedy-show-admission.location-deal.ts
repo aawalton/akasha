@@ -5,7 +5,7 @@ export const entertainmentDrybarcomedyCom241ComedyShowAdmission = {
   type: "location-deal",
   slug: "entertainment-drybarcomedy-com-2-4-1-comedy-show-admission",
   title: "DryBarComedy.com — 2-4-1! Comedy Show Admission!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:drybarcomedy-com:2-4-1-comedy-show-admission",
   finePrint: "Provo",
   locations: ["location/drybarcomedy-com-provo"],

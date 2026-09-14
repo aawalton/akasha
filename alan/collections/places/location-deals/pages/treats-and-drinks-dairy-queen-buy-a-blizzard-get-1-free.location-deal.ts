@@ -5,7 +5,7 @@ export const treatsAndDrinksDairyQueenBuyABlizzardGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-dairy-queen-buy-a-blizzard-get-1-free",
   title: "Dairy Queen — Buy a Blizzard, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:dairy-queen:buy-a-blizzard-get-1-free",
   finePrint: "Orem, Vineyard, EM & Santaquin",
   locations: [

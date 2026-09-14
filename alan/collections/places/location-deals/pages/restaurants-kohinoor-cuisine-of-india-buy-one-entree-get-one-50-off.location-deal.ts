@@ -5,7 +5,7 @@ export const restaurantsKohinoorCuisineOfIndiaBuyOneEntreeGetOne50Off = {
   type: "location-deal",
   slug: "restaurants-kohinoor-cuisine-of-india-buy-one-entree-get-one-50-off",
   title: "Kohinoor Cuisine of India — Buy One Entree, Get One 50% OFF!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:kohinoor-cuisine-of-india:buy-one-entree-get-one-50-off",
   locations: ["location/kohinoor-cuisine-of-india-utah-county"],
   offerText: "Buy One Entree, Get One 50% OFF!",

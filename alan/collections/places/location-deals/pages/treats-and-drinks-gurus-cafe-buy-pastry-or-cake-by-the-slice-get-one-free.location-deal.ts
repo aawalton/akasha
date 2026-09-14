@@ -5,7 +5,7 @@ export const treatsAndDrinksGurusCafeBuyPastryOrCakeByTheSliceGetOneFree = {
   type: "location-deal",
   slug: "treats-and-drinks-gurus-cafe-buy-pastry-or-cake-by-the-slice-get-one-free",
   title: "Gurus Cafe — Buy Pastry or Cake by the Slice, Get One FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:gurus-cafe:buy-pastry-or-cake-by-the-slice-get-one-free",
   finePrint: "Provo Cntr & UVU",
   locations: ["location/gurus-cafe-provo"],

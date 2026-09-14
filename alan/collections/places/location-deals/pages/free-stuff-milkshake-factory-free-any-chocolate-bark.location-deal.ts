@@ -5,7 +5,7 @@ export const freeStuffMilkshakeFactoryFreeAnyChocolateBark = {
   type: "location-deal",
   slug: "free-stuff-milkshake-factory-free-any-chocolate-bark",
   title: "MilkShake Factory — FREE! Any Chocolate Bark!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:milkshake-factory:free-any-chocolate-bark",
   finePrint: "All UT Locations",
   locations: ["location/milkshake-factory-utah-county"],

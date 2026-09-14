@@ -5,7 +5,7 @@ export const entertainmentImprovBroadwayBuy1AdmissionGet1Free = {
   type: "location-deal",
   slug: "entertainment-improv-broadway-buy-1-admission-get-1-free",
   title: "Improv Broadway — Buy 1 Admission, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:improv-broadway:buy-1-admission-get-1-free",
   locations: ["location/improv-broadway-utah-county"],
   offerText: "Buy 1 Admission, Get 1 FREE!",

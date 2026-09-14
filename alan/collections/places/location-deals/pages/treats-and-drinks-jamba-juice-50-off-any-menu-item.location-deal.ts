@@ -5,7 +5,7 @@ export const treatsAndDrinksJambaJuice50OffAnyMenuItem = {
   type: "location-deal",
   slug: "treats-and-drinks-jamba-juice-50-off-any-menu-item",
   title: "Jamba Juice — 50% OFF! Any Menu Item!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:jamba-juice:50-off-any-menu-item",
   finePrint: "Provo (Univ PKWY), UVU Campus, Draper & WJ",
   locations: [

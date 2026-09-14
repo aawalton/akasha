@@ -5,7 +5,7 @@ export const freeStuffSplashDrinksAndTreatsFreeConeBagOfCheddarJalapenoOrButterP
   type: "location-deal",
   slug: "free-stuff-splash-drinks-and-treats-free-cone-bag-of-cheddar-jalapeno-or-butter-popcorn",
   title: "Splash Drinks and Treats — FREE! Cone Bag of Cheddar, Jalapeno, or Butter Popcorn!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:free-stuff:splash-drinks-and-treats:free-cone-bag-of-cheddar-jalapeno-or-butter-popcorn",
   finePrint: "Lehi",

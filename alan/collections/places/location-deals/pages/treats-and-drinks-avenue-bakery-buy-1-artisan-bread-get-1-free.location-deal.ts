@@ -5,7 +5,7 @@ export const treatsAndDrinksAvenueBakeryBuy1ArtisanBreadGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-avenue-bakery-buy-1-artisan-bread-get-1-free",
   title: "Avenue Bakery — Buy 1 Artisan Bread, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:avenue-bakery:buy-1-artisan-bread-get-1-free",
   locations: ["location/avenue-bakery-utah-county"],
   offerText: "Buy 1 Artisan Bread, Get 1 FREE!",

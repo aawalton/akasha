@@ -5,7 +5,7 @@ export const sandwichesAndBurgersWendysFreeSmallFrostyWAnyPurchase = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-wendys-free-small-frosty-w-any-purchase",
   title: "Wendy's — FREE! Small Frosty w/ Any Purchase!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:wendys:free-small-frosty-w-any-purchase",
   finePrint:
     "Provo 122 E 1200 N, Orem Center St, N. Orem, AF, Highland, Saratoga, Traverse Mtn & Participating Locations",

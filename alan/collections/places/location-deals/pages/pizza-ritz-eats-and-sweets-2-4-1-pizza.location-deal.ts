@@ -5,7 +5,7 @@ export const pizzaRitzEatsAndSweets241Pizza = {
   type: "location-deal",
   slug: "pizza-ritz-eats-and-sweets-2-4-1-pizza",
   title: "Ritz Eats and Sweets — 2-4-1! Pizza!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:ritz-eats-and-sweets:2-4-1-pizza",
   finePrint: "Inside Classic Fun Center Orem",
   locations: ["location/ritz-eats-and-sweets-orem"],

@@ -5,7 +5,7 @@ export const restaurantsElMolcajeteBuy1EntreeAnd2DrinksGetOneFree = {
   type: "location-deal",
   slug: "restaurants-el-molcajete-buy-1-entree-and-2-drinks-get-one-free",
   title: "El Molcajete — Buy 1 Entree & 2 Drinks, Get One FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:el-molcajete:buy-1-entree-and-2-drinks-get-one-free",
   locations: ["location/el-molcajete-utah-county"],
   offerText: "Buy 1 Entree & 2 Drinks, Get One FREE!",

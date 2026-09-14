@@ -5,7 +5,7 @@ export const retailAutoAndMorePaulMitchellTheSchoolProvo50OffABrowWaxService = {
   type: "location-deal",
   slug: "retail-auto-and-more-paul-mitchell-the-school-provo-50-off-a-brow-wax-service",
   title: "Paul Mitchell the School Provo — 50% OFF! a Brow Wax Service!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:paul-mitchell-the-school-provo:50-off-a-brow-wax-service",
   locations: ["location/paul-mitchell-the-school-provo-provo"],
   offerText: "50% OFF! a Brow Wax Service!",

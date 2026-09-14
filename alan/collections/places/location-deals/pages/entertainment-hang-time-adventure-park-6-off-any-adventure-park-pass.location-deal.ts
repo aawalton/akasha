@@ -5,7 +5,7 @@ export const entertainmentHangTimeAdventurePark6OffAnyAdventureParkPass = {
   type: "location-deal",
   slug: "entertainment-hang-time-adventure-park-6-off-any-adventure-park-pass",
   title: "Hang Time Adventure Park — $6 OFF! Any Adventure Park Pass!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:hang-time-adventure-park:6-off-any-adventure-park-pass",
   finePrint: "w/College Student ID! Valid Anytime M-Th, Fri-Sat after 9 PM Only",
   locations: ["location/hang-time-adventure-park-utah-county"],

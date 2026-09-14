@@ -5,7 +5,7 @@ export const freeStuff5StarBbqFreeSideOrderOfFriedFuneralPotatoes = {
   type: "location-deal",
   slug: "free-stuff-5-star-bbq-free-side-order-of-fried-funeral-potatoes",
   title: "5 Star BBQ — FREE! Side Order of Fried Funeral Potatoes!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:5-star-bbq:free-side-order-of-fried-funeral-potatoes",
   locations: ["location/location-5-star-bbq-utah-county"],
   offerText: "FREE! Side Order of Fried Funeral Potatoes!",

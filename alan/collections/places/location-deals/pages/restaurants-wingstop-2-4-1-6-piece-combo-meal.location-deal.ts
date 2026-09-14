@@ -5,7 +5,7 @@ export const restaurantsWingstop2416PieceComboMeal = {
   type: "location-deal",
   slug: "restaurants-wingstop-2-4-1-6-piece-combo-meal",
   title: "Wingstop — 2-4-1! 6 Piece Combo Meal!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:wingstop:2-4-1-6-piece-combo-meal",
   finePrint: "All Northern UT locations",
   locations: ["location/wingstop-utah-county"],

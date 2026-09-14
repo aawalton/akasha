@@ -5,7 +5,7 @@ export const entertainmentQuickWitsComedyBuy1AdmissionGet1Free = {
   type: "location-deal",
   slug: "entertainment-quick-wits-comedy-buy-1-admission-get-1-free",
   title: "Quick Wits Comedy — Buy 1 Admission, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:quick-wits-comedy:buy-1-admission-get-1-free",
   locations: ["location/quick-wits-comedy-utah-county"],
   offerText: "Buy 1 Admission, Get 1 FREE!",

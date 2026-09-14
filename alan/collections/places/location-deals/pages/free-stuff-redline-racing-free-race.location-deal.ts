@@ -5,7 +5,7 @@ export const freeStuffRedlineRacingFreeRace = {
   type: "location-deal",
   slug: "free-stuff-redline-racing-free-race",
   title: "Redline Racing — FREE! Race!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:redline-racing:free-race",
   finePrint: "Includes free helmet & headsock.",
   locations: ["location/redline-racing-utah-county"],

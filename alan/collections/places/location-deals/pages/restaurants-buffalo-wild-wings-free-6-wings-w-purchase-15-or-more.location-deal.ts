@@ -5,7 +5,7 @@ export const restaurantsBuffaloWildWingsFree6WingsWPurchase15OrMore = {
   type: "location-deal",
   slug: "restaurants-buffalo-wild-wings-free-6-wings-w-purchase-15-or-more",
   title: "Buffalo Wild Wings — FREE! 6 Wings w/ Purchase $15 or More!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:buffalo-wild-wings:free-6-wings-w-purchase-15-or-more",
   finePrint: "Excl. Alcohol Orem & Lehi",
   locations: ["location/buffalo-wild-wings-lehi", "location/buffalo-wild-wings-orem"],

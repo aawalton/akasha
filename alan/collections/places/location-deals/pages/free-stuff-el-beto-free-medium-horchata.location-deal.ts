@@ -5,7 +5,7 @@ export const freeStuffElBetoFreeMediumHorchata = {
   type: "location-deal",
   slug: "free-stuff-el-beto-free-medium-horchata",
   title: "El Beto — FREE! Medium Horchata!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:el-beto:free-medium-horchata",
   finePrint: "Provo",
   locations: ["location/el-beto-provo"],

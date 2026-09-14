@@ -5,7 +5,7 @@ export const retailAutoAndMoreRevivePtCryo241CryoChamber = {
   type: "location-deal",
   slug: "retail-auto-and-more-revive-pt-cryo-2-4-1-cryo-chamber",
   title: "Revive PT Cryo — 2-4-1! Cryo Chamber!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:revive-pt-cryo:2-4-1-cryo-chamber",
   finePrint: "Appointment Required",
   locations: ["location/revive-pt-cryo-utah-county"],

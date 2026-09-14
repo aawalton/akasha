@@ -5,7 +5,7 @@ export const treatsAndDrinksCinnaholic241GourmetCinnamonRoll = {
   type: "location-deal",
   slug: "treats-and-drinks-cinnaholic-2-4-1-gourmet-cinnamon-roll",
   title: "Cinnaholic — 2-4-1! Gourmet Cinnamon Roll!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:cinnaholic:2-4-1-gourmet-cinnamon-roll",
   locations: ["location/cinnaholic-utah-county"],
   offerText: "2-4-1! Gourmet Cinnamon Roll!",

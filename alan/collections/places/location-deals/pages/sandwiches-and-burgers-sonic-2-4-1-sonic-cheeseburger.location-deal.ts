@@ -5,7 +5,7 @@ export const sandwichesAndBurgersSonic241SonicCheeseburger = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-sonic-2-4-1-sonic-cheeseburger",
   title: "Sonic — 2-4-1! Sonic Cheeseburger!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:sonic:2-4-1-sonic-cheeseburger",
   finePrint: "Valid at All Utah County Locations",
   locations: ["location/sonic-utah-county"],

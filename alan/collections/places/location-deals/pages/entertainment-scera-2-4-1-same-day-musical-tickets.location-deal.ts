@@ -5,7 +5,7 @@ export const entertainmentScera241SameDayMusicalTickets = {
   type: "location-deal",
   slug: "entertainment-scera-2-4-1-same-day-musical-tickets",
   title: "SCERA — 2-4-1! Same Day Musical Tickets!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:scera:2-4-1-same-day-musical-tickets",
   finePrint: "Present Card in Person",
   locations: ["location/scera-utah-county"],

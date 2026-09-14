@@ -5,7 +5,7 @@ export const entertainmentRedlineRacing241Race = {
   type: "location-deal",
   slug: "entertainment-redline-racing-2-4-1-race",
   title: "Redline Racing — 2-4-1! Race!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:redline-racing:2-4-1-race",
   finePrint: "Includes free helmet & headsock.",
   locations: ["location/redline-racing-utah-county"],

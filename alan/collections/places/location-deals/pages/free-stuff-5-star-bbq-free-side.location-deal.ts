@@ -5,7 +5,7 @@ export const freeStuff5StarBbqFreeSide = {
   type: "location-deal",
   slug: "free-stuff-5-star-bbq-free-side",
   title: "5 Star BBQ — FREE! Side!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:5-star-bbq:free-side",
   locations: ["location/location-5-star-bbq-utah-county"],
   offerText: "FREE! Side!",

@@ -5,7 +5,7 @@ export const treatsAndDrinksMrsCavanaughsChocolates25Off1PoundOfChocolate = {
   type: "location-deal",
   slug: "treats-and-drinks-mrs-cavanaughs-chocolates-25-off-1-pound-of-chocolate",
   title: "Mrs. Cavanaugh's Chocolates — 25% OFF! 1 Pound of Chocolate!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:mrs-cavanaughs-chocolates:25-off-1-pound-of-chocolate",
   locations: ["location/mrs-cavanaughs-chocolates-utah-county"],
   offerText: "25% OFF! 1 Pound of Chocolate!",

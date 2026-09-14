@@ -5,7 +5,7 @@ export const sandwichesAndBurgersMooyah50OffEntirePurchase = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-mooyah-50-off-entire-purchase",
   title: "Mooyah — 50% OFF! Entire Purchase!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:mooyah:50-off-entire-purchase",
   finePrint: "Entire Purchase! Max $30 Discount",
   locations: ["location/mooyah-utah-county"],

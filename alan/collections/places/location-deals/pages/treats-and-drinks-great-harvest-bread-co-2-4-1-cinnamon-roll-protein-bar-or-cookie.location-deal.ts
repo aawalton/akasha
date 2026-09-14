@@ -5,7 +5,7 @@ export const treatsAndDrinksGreatHarvestBreadCo241CinnamonRollProteinBarOrCookie
   type: "location-deal",
   slug: "treats-and-drinks-great-harvest-bread-co-2-4-1-cinnamon-roll-protein-bar-or-cookie",
   title: "Great Harvest Bread Co. — 2-4-1! Cinnamon Roll, Protein Bar or Cookie!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:great-harvest-bread-co:2-4-1-cinnamon-roll-protein-bar-or-cookie",
   finePrint: "Provo",
   locations: ["location/great-harvest-bread-co-provo"],

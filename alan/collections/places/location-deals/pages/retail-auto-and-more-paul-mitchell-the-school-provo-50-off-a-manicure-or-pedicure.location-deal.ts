@@ -5,7 +5,7 @@ export const retailAutoAndMorePaulMitchellTheSchoolProvo50OffAManicureOrPedicure
   type: "location-deal",
   slug: "retail-auto-and-more-paul-mitchell-the-school-provo-50-off-a-manicure-or-pedicure",
   title: "Paul Mitchell the School Provo — 50% OFF! a Manicure or Pedicure!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:paul-mitchell-the-school-provo:50-off-a-manicure-or-pedicure",
   locations: ["location/paul-mitchell-the-school-provo-provo"],
   offerText: "50% OFF! a Manicure or Pedicure!",

@@ -5,7 +5,7 @@ export const pizzaPizzaPieCaf241Buffet = {
   type: "location-deal",
   slug: "pizza-pizza-pie-caf-2-4-1-buffet",
   title: "Pizza Pie Café — 2-4-1! Buffet!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:pizza-pie-caf:2-4-1-buffet",
   finePrint: "Highland Only",
   locations: ["location/pizza-pie-cafe-highland"],

@@ -5,7 +5,7 @@ export const retailAutoAndMoreGreaseMonkey10OffFullServiceOilChange = {
   type: "location-deal",
   slug: "retail-auto-and-more-grease-monkey-10-off-full-service-oil-change",
   title: "Grease Monkey — $10 OFF! Full Service Oil Change!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:grease-monkey:10-off-full-service-oil-change",
   finePrint: "Same Locations",
   locations: ["location/grease-monkey-utah-county"],

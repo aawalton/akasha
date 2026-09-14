@@ -5,7 +5,7 @@ export const retailAutoAndMoreRevivePtCryo241OneHrMassage = {
   type: "location-deal",
   slug: "retail-auto-and-more-revive-pt-cryo-2-4-1-one-hr-massage",
   title: "Revive PT Cryo — 2-4-1! One Hr Massage!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:revive-pt-cryo:2-4-1-one-hr-massage",
   finePrint: "Appointment Required",
   locations: ["location/revive-pt-cryo-utah-county"],

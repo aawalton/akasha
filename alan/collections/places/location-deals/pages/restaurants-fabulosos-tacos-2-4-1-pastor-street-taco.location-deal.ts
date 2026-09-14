@@ -5,7 +5,7 @@ export const restaurantsFabulososTacos241PastorStreetTaco = {
   type: "location-deal",
   slug: "restaurants-fabulosos-tacos-2-4-1-pastor-street-taco",
   title: "Fabulosos Tacos — 2-4-1! Pastor Street Taco!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:fabulosos-tacos:2-4-1-pastor-street-taco",
   locations: ["location/fabulosos-tacos-utah-county"],
   offerText: "2-4-1! Pastor Street Taco!",

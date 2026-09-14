@@ -5,7 +5,7 @@ export const pizzaThePlacePizza241AnyPizza = {
   type: "location-deal",
   slug: "pizza-the-place-pizza-2-4-1-any-pizza",
   title: "The Place Pizza — 2-4-1! Any Pizza!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:the-place-pizza:2-4-1-any-pizza",
   locations: ["location/the-place-pizza-utah-county"],
   offerText: "2-4-1! Any Pizza!",

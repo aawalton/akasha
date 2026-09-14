@@ -5,7 +5,7 @@ export const restaurantsElBetoBuy1BurritoAnd2DrinksGet1BurritoFree = {
   type: "location-deal",
   slug: "restaurants-el-beto-buy-1-burrito-and-2-drinks-get-1-burrito-free",
   title: "El Beto — Buy 1 Burrito & 2 Drinks, Get 1 Burrito FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:el-beto:buy-1-burrito-and-2-drinks-get-1-burrito-free",
   finePrint: "Provo",
   locations: ["location/el-beto-provo"],

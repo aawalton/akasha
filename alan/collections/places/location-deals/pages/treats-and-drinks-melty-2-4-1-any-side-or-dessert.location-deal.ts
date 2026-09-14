@@ -5,7 +5,7 @@ export const treatsAndDrinksMelty241AnySideOrDessert = {
   type: "location-deal",
   slug: "treats-and-drinks-melty-2-4-1-any-side-or-dessert",
   title: "Melty — 2-4-1! Any Side or Dessert!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:melty:2-4-1-any-side-or-dessert",
   finePrint: "All Utah Locations",
   locations: ["location/melty-utah-county"],

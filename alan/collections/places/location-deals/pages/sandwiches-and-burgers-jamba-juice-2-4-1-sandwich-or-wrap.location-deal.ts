@@ -5,7 +5,7 @@ export const sandwichesAndBurgersJambaJuice241SandwichOrWrap = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-jamba-juice-2-4-1-sandwich-or-wrap",
   title: "Jamba Juice — 2-4-1! Sandwich or Wrap!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:jamba-juice:2-4-1-sandwich-or-wrap",
   finePrint: "Provo (University PKWY), UVU Campus, Draper & WJ",
   locations: [

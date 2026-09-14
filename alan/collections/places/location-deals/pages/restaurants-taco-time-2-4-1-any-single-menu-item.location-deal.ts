@@ -5,7 +5,7 @@ export const restaurantsTacoTime241AnySingleMenuItem = {
   type: "location-deal",
   slug: "restaurants-taco-time-2-4-1-any-single-menu-item",
   title: "Taco Time — 2-4-1! Any Single Menu Item!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:taco-time:2-4-1-any-single-menu-item",
   finePrint: "Orem",
   locations: ["location/taco-time-orem"],

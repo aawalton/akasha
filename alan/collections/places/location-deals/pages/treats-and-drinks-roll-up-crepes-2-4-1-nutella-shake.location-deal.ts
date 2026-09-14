@@ -5,7 +5,7 @@ export const treatsAndDrinksRollUpCrepes241NutellaShake = {
   type: "location-deal",
   slug: "treats-and-drinks-roll-up-crepes-2-4-1-nutella-shake",
   title: "Roll Up Crepes — 2-4-1! Nutella Shake!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:roll-up-crepes:2-4-1-nutella-shake",
   finePrint: "Orem & SF",
   locations: ["location/roll-up-crepes-orem", "location/roll-up-crepes-spanish-fork"],

@@ -5,7 +5,7 @@ export const freeStuffGOATHaircutsFreeMensEarsEyebrowOrNoseWax = {
   type: "location-deal",
   slug: "free-stuff-g-o-a-t-haircuts-free-mens-ears-eyebrow-or-nose-wax",
   title: "G.O.A.T Haircuts — FREE! Men's Ears, Eyebrow or Nose Wax!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:g-o-a-t-haircuts:free-mens-ears-eyebrow-or-nose-wax",
   finePrint: "Please Tip! Call for Appt",
   locations: ["location/g-o-a-t-haircuts-utah-county"],

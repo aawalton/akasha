@@ -5,7 +5,7 @@ export const freeStuffThePicklrFree3HrOpenPlaySession = {
   type: "location-deal",
   slug: "free-stuff-the-picklr-free-3-hr-open-play-session",
   title: "The Picklr — FREE! 3 Hr Open Play Session!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:the-picklr:free-3-hr-open-play-session",
   finePrint: "Lehi & Bluffdale",
   locations: ["location/the-picklr-bluffdale", "location/the-picklr-lehi"],

@@ -5,7 +5,7 @@ export const entertainmentByuOutdoorsUnlimited241DownhillSkiSnowboardOrCcSkiRent
   type: "location-deal",
   slug: "entertainment-byu-outdoors-unlimited-2-4-1-downhill-ski-snowboard-or-cc-ski-rental",
   title: "BYU Outdoors Unlimited — 2-4-1! Downhill Ski, Snowboard, or CC Ski Rental!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:byu-outdoors-unlimited:2-4-1-downhill-ski-snowboard-or-cc-ski-rental",
   finePrint: "M-Th",
   locations: ["location/byu-outdoors-unlimited-utah-county"],

@@ -5,7 +5,7 @@ export const freeStuffUvuScoopsFree22OzFountainDrink = {
   type: "location-deal",
   slug: "free-stuff-uvu-scoops-free-22-oz-fountain-drink",
   title: "UVU Scoops — FREE! 22 oz. Fountain Drink!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:uvu-scoops:free-22-oz-fountain-drink",
   locations: ["location/uvu-scoops-utah-county"],
   offerText: "FREE! 22 oz. Fountain Drink!",

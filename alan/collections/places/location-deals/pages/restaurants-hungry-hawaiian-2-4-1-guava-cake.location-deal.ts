@@ -5,7 +5,7 @@ export const restaurantsHungryHawaiian241GuavaCake = {
   type: "location-deal",
   slug: "restaurants-hungry-hawaiian-2-4-1-guava-cake",
   title: "Hungry Hawaiian — 2-4-1! Guava Cake!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:hungry-hawaiian:2-4-1-guava-cake",
   locations: ["location/hungry-hawaiian-utah-county"],
   offerText: "2-4-1! Guava Cake!",

@@ -5,7 +5,7 @@ export const restaurantsFirebirdPizzaAndPasta50OffAnyPastaEntree = {
   type: "location-deal",
   slug: "restaurants-firebird-pizza-and-pasta-50-off-any-pasta-entree",
   title: "Firebird Pizza & Pasta — 50% OFF! Any Pasta Entree!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:firebird-pizza-and-pasta:50-off-any-pasta-entree",
   locations: ["location/firebird-pizza-pasta-utah-county"],
   offerText: "50% OFF! Any Pasta Entree!",

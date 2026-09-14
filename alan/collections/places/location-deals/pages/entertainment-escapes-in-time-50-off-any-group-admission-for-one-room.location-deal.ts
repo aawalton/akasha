@@ -5,7 +5,7 @@ export const entertainmentEscapesInTime50OffAnyGroupAdmissionForOneRoom = {
   type: "location-deal",
   slug: "entertainment-escapes-in-time-50-off-any-group-admission-for-one-room",
   title: "Escapes In Time — 50% OFF! Any Group Admission for One Room!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:escapes-in-time:50-off-any-group-admission-for-one-room",
   finePrint: "Provo",
   locations: ["location/escapes-in-time-provo"],

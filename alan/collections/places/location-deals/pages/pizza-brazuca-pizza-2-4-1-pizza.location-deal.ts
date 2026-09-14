@@ -5,7 +5,7 @@ export const pizzaBrazucaPizza241Pizza = {
   type: "location-deal",
   slug: "pizza-brazuca-pizza-2-4-1-pizza",
   title: "Brazuca Pizza — 2-4-1! Pizza!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:brazuca-pizza:2-4-1-pizza",
   locations: ["location/brazuca-pizza-utah-county"],
   offerText: "2-4-1! Pizza!",

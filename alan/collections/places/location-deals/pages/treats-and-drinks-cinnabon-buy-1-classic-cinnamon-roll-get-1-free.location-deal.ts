@@ -5,7 +5,7 @@ export const treatsAndDrinksCinnabonBuy1ClassicCinnamonRollGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-cinnabon-buy-1-classic-cinnamon-roll-get-1-free",
   title: "Cinnabon — Buy 1 Classic Cinnamon Roll, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:cinnabon:buy-1-classic-cinnamon-roll-get-1-free",
   finePrint: "Orem",
   locations: ["location/cinnabon-orem"],

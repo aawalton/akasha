@@ -5,7 +5,7 @@ export const freeStuffLowesXtremeAirSportsFreeAdmission = {
   type: "location-deal",
   slug: "free-stuff-lowes-xtreme-air-sports-free-admission",
   title: "Lowes Xtreme Air Sports — FREE! Admission!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:lowes-xtreme-air-sports:free-admission",
   finePrint: "Up to 2 Hrs",
   locations: ["location/lowes-xtreme-air-sports-utah-county"],

@@ -5,7 +5,7 @@ export const sandwichesAndBurgersWaybackBurgers241AnyOrderOfChickenTenders = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-wayback-burgers-2-4-1-any-order-of-chicken-tenders",
   title: "Wayback Burgers — 2-4-1! Any Order of Chicken Tenders!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:wayback-burgers:2-4-1-any-order-of-chicken-tenders",
   finePrint: "PG & WJ",
   locations: ["location/wayback-burgers-pleasant-grove", "location/wayback-burgers-west-jordan"],

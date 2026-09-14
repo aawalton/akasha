@@ -5,7 +5,7 @@ export const treatsAndDrinksFranzBakeryOutlet241SnackCakeOrLoafOfBread = {
   type: "location-deal",
   slug: "treats-and-drinks-franz-bakery-outlet-2-4-1-snack-cake-or-loaf-of-bread",
   title: "Franz Bakery Outlet — 2-4-1! Snack Cake or Loaf of Bread!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:franz-bakery-outlet:2-4-1-snack-cake-or-loaf-of-bread",
   finePrint: "All UT",
   locations: ["location/franz-bakery-outlet-utah-county"],

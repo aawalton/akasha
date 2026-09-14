@@ -5,7 +5,7 @@ export const treatsAndDrinksQuenchIt241DrinkUpTo275 = {
   type: "location-deal",
   slug: "treats-and-drinks-quench-it-2-4-1-drink-up-to-2-75",
   title: "Quench It — 2-4-1! Drink! Up to $2.75!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:quench-it:2-4-1-drink-up-to-2-75",
   finePrint: "All Utah County & Bluffdale",
   locations: ["location/quench-it-bluffdale"],

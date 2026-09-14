@@ -5,7 +5,7 @@ export const restaurantsWallabysBuyAnyPlatterAnd2DrinksGetAnyPlatterFree = {
   type: "location-deal",
   slug: "restaurants-wallabys-buy-any-platter-and-2-drinks-get-any-platter-free",
   title: "Wallaby's — Buy Any Platter & 2 Drinks, Get Any Platter FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:wallabys:buy-any-platter-and-2-drinks-get-any-platter-free",
   finePrint: "Up to $14",
   locations: ["location/wallabys-utah-county"],

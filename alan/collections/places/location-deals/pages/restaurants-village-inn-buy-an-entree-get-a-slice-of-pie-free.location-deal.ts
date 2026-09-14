@@ -5,7 +5,7 @@ export const restaurantsVillageInnBuyAnEntreeGetASliceOfPieFree = {
   type: "location-deal",
   slug: "restaurants-village-inn-buy-an-entree-get-a-slice-of-pie-free",
   title: "Village Inn — Buy an Entree, Get a Slice of Pie FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:village-inn:buy-an-entree-get-a-slice-of-pie-free",
   finePrint: "Provo",
   locations: ["location/village-inn-provo"],

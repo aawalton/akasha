@@ -5,7 +5,7 @@ export const treatsAndDrinksJackInTheBoxBuy1ShakeGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-jack-in-the-box-buy-1-shake-get-1-free",
   title: "Jack in the Box — Buy 1 Shake, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:jack-in-the-box:buy-1-shake-get-1-free",
   finePrint: "All Utah County",
   locations: ["location/jack-in-the-box-utah-county"],

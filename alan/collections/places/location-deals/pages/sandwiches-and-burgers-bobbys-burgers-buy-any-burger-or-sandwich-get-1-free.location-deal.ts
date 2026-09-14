@@ -5,7 +5,7 @@ export const sandwichesAndBurgersBobbysBurgersBuyAnyBurgerOrSandwichGet1Free = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-bobbys-burgers-buy-any-burger-or-sandwich-get-1-free",
   title: "Bobbys Burgers — Buy Any Burger or Sandwich, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:bobbys-burgers:buy-any-burger-or-sandwich-get-1-free",
   locations: ["location/bobbys-burgers-utah-county"],
   offerText: "Buy Any Burger or Sandwich, Get 1 FREE!",

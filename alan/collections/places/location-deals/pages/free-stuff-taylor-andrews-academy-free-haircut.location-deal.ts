@@ -5,7 +5,7 @@ export const freeStuffTaylorAndrewsAcademyFreeHaircut = {
   type: "location-deal",
   slug: "free-stuff-taylor-andrews-academy-free-haircut",
   title: "Taylor Andrews Academy — FREE! Haircut!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:taylor-andrews-academy:free-haircut",
   finePrint: "M-Th Provo and WJ",
   locations: [

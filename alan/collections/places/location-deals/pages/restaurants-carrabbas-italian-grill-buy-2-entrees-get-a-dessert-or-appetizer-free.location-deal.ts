@@ -5,7 +5,7 @@ export const restaurantsCarrabbasItalianGrillBuy2EntreesGetADessertOrAppetizerFr
   type: "location-deal",
   slug: "restaurants-carrabbas-italian-grill-buy-2-entrees-get-a-dessert-or-appetizer-free",
   title: "Carrabba's Italian Grill — Buy 2 Entrees, Get a Dessert or Appetizer FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:carrabbas-italian-grill:buy-2-entrees-get-a-dessert-or-appetizer-free",
   locations: ["location/carrabbas-italian-grill-utah-county"],
   offerText: "Buy 2 Entrees, Get a Dessert or Appetizer FREE!",

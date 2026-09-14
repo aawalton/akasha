@@ -5,7 +5,7 @@ export const retailAutoAndMoreJiffyLube25OffAnyOilChange = {
   type: "location-deal",
   slug: "retail-auto-and-more-jiffy-lube-25-off-any-oil-change",
   title: "Jiffy Lube — $25 OFF! Any Oil Change!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:jiffy-lube:25-off-any-oil-change",
   finePrint: "All Utah Locations",
   locations: ["location/jiffy-lube-utah-county"],

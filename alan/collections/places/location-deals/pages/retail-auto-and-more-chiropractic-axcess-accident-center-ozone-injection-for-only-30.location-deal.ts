@@ -5,7 +5,7 @@ export const retailAutoAndMoreChiropracticAxcessAccidentCenterOzoneInjectionForO
   type: "location-deal",
   slug: "retail-auto-and-more-chiropractic-axcess-accident-center-ozone-injection-for-only-30",
   title: "Chiropractic: Axcess Accident Center — Ozone Injection for Only $30!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:retail-auto-and-more:chiropractic-axcess-accident-center:ozone-injection-for-only-30",
   locations: ["location/chiropractic-axcess-accident-center-utah-county"],

@@ -5,7 +5,7 @@ export const entertainmentGetoutGames50OffGroupAdmissionForOneRoom = {
   type: "location-deal",
   slug: "entertainment-getout-games-50-off-group-admission-for-one-room",
   title: "GetOut Games — 50% OFF! Group Admission for One Room!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:getout-games:50-off-group-admission-for-one-room",
   finePrint: "M-Th",
   locations: ["location/getout-games-utah-county"],

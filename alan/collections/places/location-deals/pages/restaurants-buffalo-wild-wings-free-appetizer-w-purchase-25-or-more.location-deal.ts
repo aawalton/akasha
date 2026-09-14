@@ -5,7 +5,7 @@ export const restaurantsBuffaloWildWingsFreeAppetizerWPurchase25OrMore = {
   type: "location-deal",
   slug: "restaurants-buffalo-wild-wings-free-appetizer-w-purchase-25-or-more",
   title: "Buffalo Wild Wings — FREE! Appetizer w/ Purchase $25 or More!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:buffalo-wild-wings:free-appetizer-w-purchase-25-or-more",
   finePrint: "Excl. Alcohol Orem & Lehi",
   locations: ["location/buffalo-wild-wings-lehi", "location/buffalo-wild-wings-orem"],

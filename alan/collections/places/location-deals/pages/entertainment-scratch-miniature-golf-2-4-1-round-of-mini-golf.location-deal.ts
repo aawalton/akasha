@@ -5,7 +5,7 @@ export const entertainmentScratchMiniatureGolf241RoundOfMiniGolf = {
   type: "location-deal",
   slug: "entertainment-scratch-miniature-golf-2-4-1-round-of-mini-golf",
   title: "Scratch Miniature Golf — 2-4-1! Round of Mini Golf!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:scratch-miniature-golf:2-4-1-round-of-mini-golf",
   locations: ["location/scratch-miniature-golf-utah-county"],
   offerText: "2-4-1! Round of Mini Golf!",

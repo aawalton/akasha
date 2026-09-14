@@ -5,7 +5,7 @@ export const freeStuffParlorDoughnutsFreeCarnivalDoughnut = {
   type: "location-deal",
   slug: "free-stuff-parlor-doughnuts-free-carnival-doughnut",
   title: "Parlor Doughnuts — FREE! Carnival Doughnut!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:parlor-doughnuts:free-carnival-doughnut",
   locations: ["location/parlor-doughnuts-utah-county"],
   offerText: "FREE! Carnival Doughnut!",

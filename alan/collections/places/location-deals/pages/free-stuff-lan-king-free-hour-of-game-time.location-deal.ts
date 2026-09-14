@@ -5,7 +5,7 @@ export const freeStuffLanKingFreeHourOfGameTime = {
   type: "location-deal",
   slug: "free-stuff-lan-king-free-hour-of-game-time",
   title: "LAN King — FREE! Hour of Game Time!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:lan-king:free-hour-of-game-time",
   locations: ["location/lan-king-utah-county"],
   offerText: "FREE! Hour of Game Time!",

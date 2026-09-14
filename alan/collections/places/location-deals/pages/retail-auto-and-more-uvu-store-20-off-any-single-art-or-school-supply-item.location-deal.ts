@@ -5,7 +5,7 @@ export const retailAutoAndMoreUvuStore20OffAnySingleArtOrSchoolSupplyItem = {
   type: "location-deal",
   slug: "retail-auto-and-more-uvu-store-20-off-any-single-art-or-school-supply-item",
   title: "UVU Store — 20% OFF! Any Single Art or School Supply Item!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:uvu-store:20-off-any-single-art-or-school-supply-item",
   locations: ["location/uvu-store-utah-county"],
   offerText: "20% OFF! Any Single Art or School Supply Item!",

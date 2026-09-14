@@ -5,7 +5,7 @@ export const entertainmentJackAndJillLanes241GameOfLaserTagForSamePlayer = {
   type: "location-deal",
   slug: "entertainment-jack-and-jill-lanes-2-4-1-game-of-laser-tag-for-same-player",
   title: "Jack & Jill Lanes — 2-4-1! Game of Laser Tag for Same Player!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:jack-and-jill-lanes:2-4-1-game-of-laser-tag-for-same-player",
   finePrint: "M-Th before 6pm. Not Valid Holidays! Lehi Only",
   locations: ["location/jack-jill-lanes-lehi"],

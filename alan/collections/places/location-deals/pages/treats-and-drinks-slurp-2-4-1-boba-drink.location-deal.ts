@@ -5,7 +5,7 @@ export const treatsAndDrinksSlurp241BobaDrink = {
   type: "location-deal",
   slug: "treats-and-drinks-slurp-2-4-1-boba-drink",
   title: "Slurp — 2-4-1! Boba Drink!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:slurp:2-4-1-boba-drink",
   locations: ["location/slurp-utah-county"],
   offerText: "2-4-1! Boba Drink!",

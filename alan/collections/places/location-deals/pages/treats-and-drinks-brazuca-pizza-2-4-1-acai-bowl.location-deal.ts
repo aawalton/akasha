@@ -5,7 +5,7 @@ export const treatsAndDrinksBrazucaPizza241AcaiBowl = {
   type: "location-deal",
   slug: "treats-and-drinks-brazuca-pizza-2-4-1-acai-bowl",
   title: "Brazuca Pizza — 2-4-1! Acai Bowl!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:brazuca-pizza:2-4-1-acai-bowl",
   locations: ["location/brazuca-pizza-utah-county"],
   offerText: "2-4-1! Acai Bowl!",

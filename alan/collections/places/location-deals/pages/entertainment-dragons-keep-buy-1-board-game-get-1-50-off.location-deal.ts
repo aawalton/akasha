@@ -5,7 +5,7 @@ export const entertainmentDragonsKeepBuy1BoardGameGet150Off = {
   type: "location-deal",
   slug: "entertainment-dragons-keep-buy-1-board-game-get-1-50-off",
   title: "Dragon's Keep — Buy 1 Board Game, Get 1 50% OFF!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:dragons-keep:buy-1-board-game-get-1-50-off",
   finePrint: "All Locations",
   locations: ["location/dragons-keep-utah-county"],

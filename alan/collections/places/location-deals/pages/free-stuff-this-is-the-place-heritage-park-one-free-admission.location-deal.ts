@@ -5,7 +5,7 @@ export const freeStuffThisIsThePlaceHeritageParkOneFreeAdmission = {
   type: "location-deal",
   slug: "free-stuff-this-is-the-place-heritage-park-one-free-admission",
   title: "This Is The Place Heritage Park — One FREE! Admission!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:this-is-the-place-heritage-park:one-free-admission",
   locations: ["location/this-is-the-place-heritage-park-utah-county"],
   offerText: "One FREE! Admission!",

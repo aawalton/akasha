@@ -5,7 +5,7 @@ export const treatsAndDrinksYonutz241SmashedOrSimplySmashedDonut = {
   type: "location-deal",
   slug: "treats-and-drinks-yonutz-2-4-1-smashed-or-simply-smashed-donut",
   title: "Yonutz — 2-4-1! Smashed or Simply Smashed Donut!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:yonutz:2-4-1-smashed-or-simply-smashed-donut",
   finePrint: "Saratoga Springs",
   locations: ["location/yonutz-saratoga-springs"],

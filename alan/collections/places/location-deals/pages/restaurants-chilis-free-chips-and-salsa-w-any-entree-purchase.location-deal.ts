@@ -5,7 +5,7 @@ export const restaurantsChilisFreeChipsAndSalsaWAnyEntreePurchase = {
   type: "location-deal",
   slug: "restaurants-chilis-free-chips-and-salsa-w-any-entree-purchase",
   title: "Chili's — FREE! Chips & Salsa w/ Any Entree Purchase!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:chilis:free-chips-and-salsa-w-any-entree-purchase",
   finePrint: "All Utah Locations",
   locations: ["location/chilis-utah-county"],

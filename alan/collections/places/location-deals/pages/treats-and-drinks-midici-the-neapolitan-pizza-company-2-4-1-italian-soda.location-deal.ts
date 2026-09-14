@@ -5,7 +5,7 @@ export const treatsAndDrinksMidiciTheNeapolitanPizzaCompany241ItalianSoda = {
   type: "location-deal",
   slug: "treats-and-drinks-midici-the-neapolitan-pizza-company-2-4-1-italian-soda",
   title: "MidiCi The Neapolitan Pizza Company — 2-4-1! Italian Soda!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:midici-the-neapolitan-pizza-company:2-4-1-italian-soda",
   locations: ["location/midici-the-neapolitan-pizza-company-utah-county"],
   offerText: "2-4-1! Italian Soda!",

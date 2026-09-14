@@ -5,7 +5,7 @@ export const restaurantsRancheritosBuy1BurritoGetABeanAndCheeseBurritoFree = {
   type: "location-deal",
   slug: "restaurants-rancheritos-buy-1-burrito-get-a-bean-and-cheese-burrito-free",
   title: "Rancherito's — Buy 1 Burrito, Get a Bean and Cheese Burrito FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:rancheritos:buy-1-burrito-get-a-bean-and-cheese-burrito-free",
   finePrint: "PG Only",
   locations: ["location/rancheritos-pleasant-grove"],

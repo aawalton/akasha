@@ -5,7 +5,7 @@ export const freeStuffFranzBakeryOutletFreeLoafOfBread = {
   type: "location-deal",
   slug: "free-stuff-franz-bakery-outlet-free-loaf-of-bread",
   title: "Franz Bakery Outlet — FREE! Loaf of Bread!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:franz-bakery-outlet:free-loaf-of-bread",
   finePrint: "All Utah Locations",
   locations: ["location/franz-bakery-outlet-utah-county"],

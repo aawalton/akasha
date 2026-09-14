@@ -5,7 +5,7 @@ export const treatsAndDrinksNothingBundtCakesBuy1BundtletGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-nothing-bundt-cakes-buy-1-bundtlet-get-1-free",
   title: "Nothing Bundt Cakes — Buy 1 Bundtlet, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:nothing-bundt-cakes:buy-1-bundtlet-get-1-free",
   locations: ["location/nothing-bundt-cakes-utah-county"],
   offerText: "Buy 1 Bundtlet, Get 1 FREE!",

@@ -5,7 +5,7 @@ export const retailAutoAndMoreBadAppleAndFixit20OffAnyServiceOrRepair = {
   type: "location-deal",
   slug: "retail-auto-and-more-bad-apple-and-fixit-20-off-any-service-or-repair",
   title: "Bad Apple & FIXIT — $20 OFF! Any Service or Repair!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:bad-apple-and-fixit:20-off-any-service-or-repair",
   finePrint: "Valid All Locations",
   locations: ["location/bad-apple-fixit-utah-county"],

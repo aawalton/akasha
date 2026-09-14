@@ -5,7 +5,7 @@ export const entertainmentVoltageEbikeRent1EbikeFor1HrGet2ndEbikeFree = {
   type: "location-deal",
   slug: "entertainment-voltage-ebike-rent-1-ebike-for-1-hr-get-2nd-ebike-free",
   title: "Voltage eBike — Rent 1 eBike for 1 Hr, Get 2nd eBike FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:voltage-ebike:rent-1-ebike-for-1-hr-get-2nd-ebike-free",
   finePrint: "M-Th",
   locations: ["location/voltage-ebike-utah-county"],

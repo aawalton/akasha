@@ -5,7 +5,7 @@ export const restaurantsBajioMexicanGrillBuy1EntreeAnd2DrinksGet1EntreeFree = {
   type: "location-deal",
   slug: "restaurants-bajio-mexican-grill-buy-1-entree-and-2-drinks-get-1-entree-free",
   title: "Bajio Mexican Grill — Buy 1 Entree and 2 Drinks, Get 1 Entree FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:bajio-mexican-grill:buy-1-entree-and-2-drinks-get-1-entree-free",
   locations: ["location/bajio-mexican-grill-utah-county"],
   offerText: "Buy 1 Entree and 2 Drinks, Get 1 Entree FREE!",

@@ -5,7 +5,7 @@ export const restaurantsWingersFreeDessertWithAnyEntreePurchase = {
   type: "location-deal",
   slug: "restaurants-wingers-free-dessert-with-any-entree-purchase",
   title: "Wingers — FREE! Dessert With Any Entree Purchase!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:wingers:free-dessert-with-any-entree-purchase",
   finePrint: "Provo",
   locations: ["location/wingers-provo"],

@@ -5,7 +5,7 @@ export const freeStuffCoinCrazyFreeIceCreamCone = {
   type: "location-deal",
   slug: "free-stuff-coin-crazy-free-ice-cream-cone",
   title: "Coin Crazy — FREE! Ice Cream Cone!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:coin-crazy:free-ice-cream-cone",
   locations: ["location/coin-crazy-utah-county"],
   offerText: "FREE! Ice Cream Cone!",

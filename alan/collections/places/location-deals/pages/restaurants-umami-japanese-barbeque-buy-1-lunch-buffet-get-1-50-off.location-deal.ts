@@ -5,7 +5,7 @@ export const restaurantsUmamiJapaneseBarbequeBuy1LunchBuffetGet150Off = {
   type: "location-deal",
   slug: "restaurants-umami-japanese-barbeque-buy-1-lunch-buffet-get-1-50-off",
   title: "Umami Japanese Barbeque — Buy 1 Lunch Buffet, Get 1 50% OFF!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:umami-japanese-barbeque:buy-1-lunch-buffet-get-1-50-off",
   locations: ["location/umami-japanese-barbeque-utah-county"],
   offerText: "Buy 1 Lunch Buffet, Get 1 50% OFF!",

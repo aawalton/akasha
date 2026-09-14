@@ -5,7 +5,7 @@ export const entertainmentZiplineUtah241ScreamingFalconRush = {
   type: "location-deal",
   slug: "entertainment-zipline-utah-2-4-1-screaming-falcon-rush",
   title: "Zipline Utah — 2-4-1! Screaming Falcon Rush!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:zipline-utah:2-4-1-screaming-falcon-rush",
   locations: ["location/zipline-utah-utah-county"],
   offerText: "2-4-1! Screaming Falcon Rush!",

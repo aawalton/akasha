@@ -5,7 +5,7 @@ export const sandwichesAndBurgersJcws241BurgerOrSandwich = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-jcws-2-4-1-burger-or-sandwich",
   title: "JCW's — 2-4-1! Burger or Sandwich!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:jcws:2-4-1-burger-or-sandwich",
   finePrint: "All Locations",
   locations: ["location/jcws-utah-county"],

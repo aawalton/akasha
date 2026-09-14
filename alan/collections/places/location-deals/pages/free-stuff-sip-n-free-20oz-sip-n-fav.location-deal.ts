@@ -5,7 +5,7 @@ export const freeStuffSipNFree20ozSipNFav = {
   type: "location-deal",
   slug: "free-stuff-sip-n-free-20oz-sip-n-fav",
   title: "Sip-N — FREE! 20oz Sip-N Fav!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:sip-n:free-20oz-sip-n-fav",
   finePrint: "All Locations",
   locations: ["location/sip-n-utah-county"],

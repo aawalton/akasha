@@ -5,7 +5,7 @@ export const entertainmentMiracleBowl241GameUpTo3FreeGamesPerVisit = {
   type: "location-deal",
   slug: "entertainment-miracle-bowl-2-4-1-game-up-to-3-free-games-per-visit",
   title: "Miracle Bowl — 2-4-1! Game! Up to 3 free games per visit!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:miracle-bowl:2-4-1-game-up-to-3-free-games-per-visit",
   finePrint: "Not Valid after 5 PM, Saturdays, Holidays or School Holidays! Orem",
   locations: ["location/miracle-bowl-orem"],

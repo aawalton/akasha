@@ -5,7 +5,7 @@ export const treatsAndDrinksCarlsJr2For4IceCreamShake = {
   type: "location-deal",
   slug: "treats-and-drinks-carls-jr-2-for-4-ice-cream-shake",
   title: "Carl's Jr — 2 for $4 Ice Cream Shake!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:carls-jr:2-for-4-ice-cream-shake",
   locations: ["location/carls-jr-utah-county"],
   offerText: "2 for $4 Ice Cream Shake!",

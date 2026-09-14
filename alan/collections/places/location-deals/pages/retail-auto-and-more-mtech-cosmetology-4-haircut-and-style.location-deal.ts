@@ -5,7 +5,7 @@ export const retailAutoAndMoreMtechCosmetology4HaircutAndStyle = {
   type: "location-deal",
   slug: "retail-auto-and-more-mtech-cosmetology-4-haircut-and-style",
   title: "MTECH Cosmetology — $4 Haircut & Style!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:mtech-cosmetology:4-haircut-and-style",
   finePrint: "Lehi & SF",
   locations: ["location/mtech-cosmetology-lehi", "location/mtech-cosmetology-spanish-fork"],

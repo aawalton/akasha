@@ -5,7 +5,7 @@ export const freeStuffCurryPizzaFreeSamosa = {
   type: "location-deal",
   slug: "free-stuff-curry-pizza-free-samosa",
   title: "Curry Pizza — FREE! Samosa!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:curry-pizza:free-samosa",
   finePrint: "Lehi",
   locations: ["location/curry-pizza-lehi"],

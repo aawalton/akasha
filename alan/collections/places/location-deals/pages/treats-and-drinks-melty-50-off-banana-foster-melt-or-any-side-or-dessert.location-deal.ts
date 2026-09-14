@@ -5,7 +5,7 @@ export const treatsAndDrinksMelty50OffBananaFosterMeltOrAnySideOrDessert = {
   type: "location-deal",
   slug: "treats-and-drinks-melty-50-off-banana-foster-melt-or-any-side-or-dessert",
   title: "Melty — 50% OFF! Banana Foster Melt, or Any Side or Dessert!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:melty:50-off-banana-foster-melt-or-any-side-or-dessert",
   finePrint: "All Ut Locations",
   locations: ["location/melty-utah-county"],

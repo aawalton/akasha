@@ -6,7 +6,7 @@ export const chiropracticAxcessAdjustmentOrAcupuncture = {
   slug: "chiropractic-axcess-adjustment-or-acupuncture",
   title:
     "Chiropractic: Axcess Accident Center — Buy 1 Chiropractic Adjustment or Acupuncture Treatment For Only $15!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:retail-auto-and-more:chiropractic-axcess-accident-center:buy-1-chiropractic-adjustment-or-acupuncture-treatment-for-only-15",
   finePrint: "All Locations",

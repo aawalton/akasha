@@ -5,7 +5,7 @@ export const pizzaPizzaHutBuyMedOrLrgPizzaGetAMeltFree = {
   type: "location-deal",
   slug: "pizza-pizza-hut-buy-med-or-lrg-pizza-get-a-melt-free",
   title: "Pizza Hut — Buy Med or Lrg Pizza, Get a Melt FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:pizza-hut:buy-med-or-lrg-pizza-get-a-melt-free",
   finePrint: "Carryout Only! All W…",
   locations: ["location/pizza-hut-utah-county"],

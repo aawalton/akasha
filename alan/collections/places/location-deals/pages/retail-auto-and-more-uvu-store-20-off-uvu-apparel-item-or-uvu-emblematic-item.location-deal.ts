@@ -5,7 +5,7 @@ export const retailAutoAndMoreUvuStore20OffUvuApparelItemOrUvuEmblematicItem = {
   type: "location-deal",
   slug: "retail-auto-and-more-uvu-store-20-off-uvu-apparel-item-or-uvu-emblematic-item",
   title: "UVU Store — 20% OFF! UVU Apparel item or UVU Emblematic Item.",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:uvu-store:20-off-uvu-apparel-item-or-uvu-emblematic-item",
   finePrint: "Restrictions Apply",
   locations: ["location/uvu-store-utah-county"],

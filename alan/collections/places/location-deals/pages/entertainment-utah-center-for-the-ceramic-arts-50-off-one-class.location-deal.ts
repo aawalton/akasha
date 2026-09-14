@@ -5,7 +5,7 @@ export const entertainmentUtahCenterForTheCeramicArts50OffOneClass = {
   type: "location-deal",
   slug: "entertainment-utah-center-for-the-ceramic-arts-50-off-one-class",
   title: "Utah Center for the Ceramic Arts — 50% OFF! One Class!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:utah-center-for-the-ceramic-arts:50-off-one-class",
   locations: ["location/utah-center-for-the-ceramic-arts-utah-county"],
   offerText: "50% OFF! One Class!",

@@ -5,7 +5,7 @@ export const entertainmentTheRiftAugmentedReality241AnyExperienceMax8People = {
   type: "location-deal",
   slug: "entertainment-the-rift-augmented-reality-2-4-1-any-experience-max-8-people",
   title: "The Rift Augmented Reality — 2-4-1! Any Experience! Max 8 People",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:the-rift-augmented-reality:2-4-1-any-experience-max-8-people",
   finePrint: "Provo",
   locations: ["location/the-rift-augmented-reality-provo"],

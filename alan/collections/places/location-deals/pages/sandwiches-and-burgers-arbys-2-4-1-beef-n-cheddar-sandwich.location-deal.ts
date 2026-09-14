@@ -5,7 +5,7 @@ export const sandwichesAndBurgersArbys241BeefNCheddarSandwich = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-arbys-2-4-1-beef-n-cheddar-sandwich",
   title: "Arby's — 2-4-1! Beef N' Cheddar Sandwich!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:arbys:2-4-1-beef-n-cheddar-sandwich",
   finePrint: "Valid Particip. Locations",
   locations: ["location/arbys-utah-county"],

@@ -5,7 +5,7 @@ export const pizzaGurusCafeBuy1PizzaGet1Free = {
   type: "location-deal",
   slug: "pizza-gurus-cafe-buy-1-pizza-get-1-free",
   title: "Gurus Cafe — Buy 1 Pizza, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:gurus-cafe:buy-1-pizza-get-1-free",
   finePrint: "Provo Center St & UVU",
   locations: ["location/gurus-cafe-provo"],

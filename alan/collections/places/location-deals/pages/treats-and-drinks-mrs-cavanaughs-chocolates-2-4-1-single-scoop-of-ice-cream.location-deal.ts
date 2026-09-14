@@ -5,7 +5,7 @@ export const treatsAndDrinksMrsCavanaughsChocolates241SingleScoopOfIceCream = {
   type: "location-deal",
   slug: "treats-and-drinks-mrs-cavanaughs-chocolates-2-4-1-single-scoop-of-ice-cream",
   title: "Mrs. Cavanaugh's Chocolates — 2-4-1! Single Scoop of Ice Cream!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:mrs-cavanaughs-chocolates:2-4-1-single-scoop-of-ice-cream",
   locations: ["location/mrs-cavanaughs-chocolates-utah-county"],
   offerText: "2-4-1! Single Scoop of Ice Cream!",

@@ -5,7 +5,7 @@ export const pizzaMarcosPizza241Salad = {
   type: "location-deal",
   slug: "pizza-marcos-pizza-2-4-1-salad",
   title: "Marco's Pizza — 2-4-1 Salad!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:marcos-pizza:2-4-1-salad",
   finePrint: "Santaquin Only",
   locations: ["location/marcos-pizza-santaquin"],

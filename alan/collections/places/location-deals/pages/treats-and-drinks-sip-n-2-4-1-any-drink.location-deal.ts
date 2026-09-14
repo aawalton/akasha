@@ -5,7 +5,7 @@ export const treatsAndDrinksSipN241AnyDrink = {
   type: "location-deal",
   slug: "treats-and-drinks-sip-n-2-4-1-any-drink",
   title: "Sip-N — 2-4-1! Any Drink!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:sip-n:2-4-1-any-drink",
   finePrint: "All Locations",
   locations: ["location/sip-n-utah-county"],

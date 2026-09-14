@@ -5,7 +5,7 @@ export const treatsAndDrinksFreddysFrozenCustardAndSteakburgers241CustardConeOrD
   type: "location-deal",
   slug: "treats-and-drinks-freddys-frozen-custard-and-steakburgers-2-4-1-custard-cone-or-dish",
   title: "Freddy's Frozen Custard & Steakburgers — 2-4-1! Custard, Cone or Dish!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:treats-and-drinks:freddys-frozen-custard-and-steakburgers:2-4-1-custard-cone-or-dish",
   finePrint: "All UT Locs",

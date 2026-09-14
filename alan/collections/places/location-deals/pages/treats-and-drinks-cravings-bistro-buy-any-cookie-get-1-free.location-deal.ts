@@ -5,7 +5,7 @@ export const treatsAndDrinksCravingsBistroBuyAnyCookieGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-cravings-bistro-buy-any-cookie-get-1-free",
   title: "Cravings Bistro — Buy Any Cookie, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:cravings-bistro:buy-any-cookie-get-1-free",
   locations: ["location/cravings-bistro-utah-county"],
   offerText: "Buy Any Cookie, Get 1 FREE!",

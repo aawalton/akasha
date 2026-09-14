@@ -5,7 +5,7 @@ export const restaurantsSweetoBurritoBuy1BreakNeckBreakfastBurritoGet1Free = {
   type: "location-deal",
   slug: "restaurants-sweeto-burrito-buy-1-break-neck-breakfast-burrito-get-1-free",
   title: "Sweeto Burrito — Buy 1 Break Neck Breakfast Burrito, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:sweeto-burrito:buy-1-break-neck-breakfast-burrito-get-1-free",
   locations: ["location/sweeto-burrito-utah-county"],
   offerText: "Buy 1 Break Neck Breakfast Burrito, Get 1 FREE!",

@@ -6,7 +6,7 @@ export const zagg20OffAccessories = {
   slug: "zagg-20-off-accessories",
   title:
     "ZAGG — 20% OFF! Any Glass Screen Protection, Phone Case, Headphones, Power Bank or Bluetooth Keyboard!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:retail-auto-and-more:zagg:20-off-any-glass-screen-protection-phone-case-headphones-power-bank-or-bluetooth-keyboard",
   finePrint: "UT County Stores",

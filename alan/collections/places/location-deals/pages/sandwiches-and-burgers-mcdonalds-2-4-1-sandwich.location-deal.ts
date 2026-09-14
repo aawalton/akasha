@@ -5,7 +5,7 @@ export const sandwichesAndBurgersMcdonalds241Sandwich = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-mcdonalds-2-4-1-sandwich",
   title: "McDonald's — 2-4-1! Sandwich!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:mcdonalds:2-4-1-sandwich",
   finePrint: "All Orem, N Provo, PG, Cedar Hills & AF",
   locations: [

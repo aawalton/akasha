@@ -5,7 +5,7 @@ export const entertainmentThePicklr2413HrOpenPlaySession = {
   type: "location-deal",
   slug: "entertainment-the-picklr-2-4-1-3-hr-open-play-session",
   title: "The Picklr — 2-4-1! 3 Hr Open Play Session!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:the-picklr:2-4-1-3-hr-open-play-session",
   finePrint: "Lehi & Bluffdale",
   locations: ["location/the-picklr-bluffdale", "location/the-picklr-lehi"],

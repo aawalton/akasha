@@ -5,7 +5,7 @@ export const sandwichesAndBurgersGandolfos241BreakfastSandwich = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-gandolfos-2-4-1-breakfast-sandwich",
   title: "Gandolfo's — 2-4-1! Breakfast Sandwich!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:gandolfos:2-4-1-breakfast-sandwich",
   finePrint: "All Utah County",
   locations: ["location/gandolfos-utah-county"],

@@ -5,7 +5,7 @@ export const restaurantsOutbackSteakhouseBuyAnyEntreeGetABloominOnionFree = {
   type: "location-deal",
   slug: "restaurants-outback-steakhouse-buy-any-entree-get-a-bloomin-onion-free",
   title: "Outback Steakhouse — Buy Any Entree, Get a Bloomin' Onion FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:outback-steakhouse:buy-any-entree-get-a-bloomin-onion-free",
   finePrint: "Orem",
   locations: ["location/outback-steakhouse-orem"],

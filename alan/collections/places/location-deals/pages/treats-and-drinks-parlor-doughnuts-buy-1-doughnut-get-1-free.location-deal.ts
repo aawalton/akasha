@@ -5,7 +5,7 @@ export const treatsAndDrinksParlorDoughnutsBuy1DoughnutGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-parlor-doughnuts-buy-1-doughnut-get-1-free",
   title: "Parlor Doughnuts — Buy 1 Doughnut, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:parlor-doughnuts:buy-1-doughnut-get-1-free",
   locations: ["location/parlor-doughnuts-utah-county"],
   offerText: "Buy 1 Doughnut, Get 1 FREE!",

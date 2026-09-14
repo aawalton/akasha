@@ -5,7 +5,7 @@ export const entertainmentHangTimeAdventurePark241HourForSamePerson = {
   type: "location-deal",
   slug: "entertainment-hang-time-adventure-park-2-4-1-hour-for-same-person",
   title: "Hang Time Adventure Park — 2-4-1! Hour for Same Person!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:hang-time-adventure-park:2-4-1-hour-for-same-person",
   finePrint: "M-Th",
   locations: ["location/hang-time-adventure-park-utah-county"],

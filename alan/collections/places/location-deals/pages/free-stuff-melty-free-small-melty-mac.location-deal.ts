@@ -5,7 +5,7 @@ export const freeStuffMeltyFreeSmallMeltyMac = {
   type: "location-deal",
   slug: "free-stuff-melty-free-small-melty-mac",
   title: "Melty — FREE! Small Melty Mac!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:melty:free-small-melty-mac",
   finePrint: "All Utah Locations",
   locations: ["location/melty-utah-county"],

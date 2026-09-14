@@ -5,7 +5,7 @@ export const pizzaPier49Pizza241AnyPizza = {
   type: "location-deal",
   slug: "pizza-pier-49-pizza-2-4-1-any-pizza",
   title: "Pier 49 Pizza — 2-4-1! Any Pizza!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:pier-49-pizza:2-4-1-any-pizza",
   finePrint: "AF and Provo",
   locations: ["location/pier-49-pizza-american-fork", "location/pier-49-pizza-provo"],

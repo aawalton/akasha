@@ -5,7 +5,7 @@ export const treatsAndDrinksNauticalBowls241AnySmoothie = {
   type: "location-deal",
   slug: "treats-and-drinks-nautical-bowls-2-4-1-any-smoothie",
   title: "Nautical Bowls — 2-4-1! Any Smoothie!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:nautical-bowls:2-4-1-any-smoothie",
   locations: ["location/nautical-bowls-utah-county"],
   offerText: "2-4-1! Any Smoothie!",

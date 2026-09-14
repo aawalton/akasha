@@ -5,7 +5,7 @@ export const sandwichesAndBurgersMcdonalds241KidsMeal = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-mcdonalds-2-4-1-kids-meal",
   title: "McDonald's — 2-4-1! Kids Meal!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:mcdonalds:2-4-1-kids-meal",
   finePrint: "All Orem, N Provo, PG, Cedar Hills & AF",
   locations: [

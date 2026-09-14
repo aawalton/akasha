@@ -5,7 +5,7 @@ export const entertainmentUtahGrizzlies241Ticket = {
   type: "location-deal",
   slug: "entertainment-utah-grizzlies-2-4-1-ticket",
   title: "Utah Grizzlies — 2-4-1! Ticket!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:utah-grizzlies:2-4-1-ticket",
   finePrint: "Regular Season Only",
   locations: ["location/utah-grizzlies-utah-county"],

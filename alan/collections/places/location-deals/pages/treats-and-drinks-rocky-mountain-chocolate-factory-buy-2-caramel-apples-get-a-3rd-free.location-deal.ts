@@ -5,7 +5,7 @@ export const treatsAndDrinksRockyMountainChocolateFactoryBuy2CaramelApplesGetA3r
   type: "location-deal",
   slug: "treats-and-drinks-rocky-mountain-chocolate-factory-buy-2-caramel-apples-get-a-3rd-free",
   title: "Rocky Mountain Chocolate Factory — Buy 2 Caramel Apples, Get a 3rd FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:treats-and-drinks:rocky-mountain-chocolate-factory:buy-2-caramel-apples-get-a-3rd-free",
   finePrint: "Orem & SF",

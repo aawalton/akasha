@@ -5,7 +5,7 @@ export const pizzaFirebirdPizzaAndPastaBuyAnyCalzoneGetOneFree = {
   type: "location-deal",
   slug: "pizza-firebird-pizza-and-pasta-buy-any-calzone-get-one-free",
   title: "Firebird Pizza & Pasta — Buy Any Calzone, Get One FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:firebird-pizza-and-pasta:buy-any-calzone-get-one-free",
   locations: ["location/firebird-pizza-pasta-utah-county"],
   offerText: "Buy Any Calzone, Get One FREE!",

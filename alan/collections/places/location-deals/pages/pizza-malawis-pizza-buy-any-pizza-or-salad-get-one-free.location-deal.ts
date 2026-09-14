@@ -5,7 +5,7 @@ export const pizzaMalawisPizzaBuyAnyPizzaOrSaladGetOneFree = {
   type: "location-deal",
   slug: "pizza-malawis-pizza-buy-any-pizza-or-salad-get-one-free",
   title: "Malawi's Pizza — Buy Any Pizza or Salad, Get One FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:malawis-pizza:buy-any-pizza-or-salad-get-one-free",
   locations: ["location/malawis-pizza-utah-county"],
   offerText: "Buy Any Pizza or Salad, Get One FREE!",

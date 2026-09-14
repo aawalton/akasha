@@ -5,7 +5,7 @@ export const sandwichesAndBurgersDairyQueen2414PieceChickenStripBasket = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-dairy-queen-2-4-1-4-piece-chicken-strip-basket",
   title: "Dairy Queen — 2-4-1! 4-Piece Chicken Strip Basket!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:dairy-queen:2-4-1-4-piece-chicken-strip-basket",
   finePrint: "Orem, Vineyard, EM & Santaquin",
   locations: [

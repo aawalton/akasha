@@ -5,7 +5,7 @@ export const treatsAndDrinksOnohsMalasadaCo50OffHalfDozenMalasadas = {
   type: "location-deal",
   slug: "treats-and-drinks-onohs-malasada-co-50-off-half-dozen-malasadas",
   title: "Onoh's Malasada Co — 50% OFF! Half Dozen Malasadas!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:onohs-malasada-co:50-off-half-dozen-malasadas",
   locations: ["location/onohs-malasada-co-utah-county"],
   offerText: "50% OFF! Half Dozen Malasadas!",

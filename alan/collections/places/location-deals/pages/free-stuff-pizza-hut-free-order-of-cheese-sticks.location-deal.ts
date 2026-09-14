@@ -5,7 +5,7 @@ export const freeStuffPizzaHutFreeOrderOfCheeseSticks = {
   type: "location-deal",
   slug: "free-stuff-pizza-hut-free-order-of-cheese-sticks",
   title: "Pizza Hut — FREE! Order of Cheese Sticks!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:pizza-hut:free-order-of-cheese-sticks",
   finePrint: "Carryout Only! All Wasatch Front Locs",
   locations: ["location/pizza-hut-utah-county"],

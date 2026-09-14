@@ -5,7 +5,7 @@ export const pizzaCurryPizzaBuy1CurryDishGetSideAndSoftDrinkFree = {
   type: "location-deal",
   slug: "pizza-curry-pizza-buy-1-curry-dish-get-side-and-soft-drink-free",
   title: "Curry Pizza — Buy 1 Curry Dish, Get Side & Soft drink FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:curry-pizza:buy-1-curry-dish-get-side-and-soft-drink-free",
   finePrint: "Max $8 OFF",
   locations: ["location/curry-pizza-utah-county"],

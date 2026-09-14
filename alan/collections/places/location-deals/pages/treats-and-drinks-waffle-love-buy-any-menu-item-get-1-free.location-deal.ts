@@ -5,7 +5,7 @@ export const treatsAndDrinksWaffleLoveBuyAnyMenuItemGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-waffle-love-buy-any-menu-item-get-1-free",
   title: "Waffle Love — Buy Any Menu Item, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:waffle-love:buy-any-menu-item-get-1-free",
   finePrint: "All Locations",
   locations: ["location/waffle-love-utah-county"],

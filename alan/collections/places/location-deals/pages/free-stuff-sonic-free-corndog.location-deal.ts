@@ -5,7 +5,7 @@ export const freeStuffSonicFreeCorndog = {
   type: "location-deal",
   slug: "free-stuff-sonic-free-corndog",
   title: "Sonic — FREE! Corndog!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:sonic:free-corndog",
   finePrint: "Valid at All Utah County Locations",
   locations: ["location/sonic-utah-county"],

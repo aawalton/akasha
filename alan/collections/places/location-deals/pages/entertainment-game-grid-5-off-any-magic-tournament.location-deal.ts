@@ -5,7 +5,7 @@ export const entertainmentGameGrid5OffAnyMagicTournament = {
   type: "location-deal",
   slug: "entertainment-game-grid-5-off-any-magic-tournament",
   title: "Game Grid — $5 OFF! Any Magic Tournament!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:game-grid:5-off-any-magic-tournament",
   finePrint: "Lehi",
   locations: ["location/game-grid-lehi"],

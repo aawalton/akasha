@@ -5,7 +5,7 @@ export const restaurantsGoldenCorralBuffet241LunchBuffet = {
   type: "location-deal",
   slug: "restaurants-golden-corral-buffet-2-4-1-lunch-buffet",
   title: "Golden Corral Buffet — 2-4-1! Lunch Buffet!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:golden-corral-buffet:2-4-1-lunch-buffet",
   finePrint: "Mon-Fri. Before 4 PM Orem",
   locations: ["location/golden-corral-buffet-orem"],

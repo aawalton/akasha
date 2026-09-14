@@ -5,7 +5,7 @@ export const treatsAndDrinksAuntieAnnesBuy1ClassicPretzelGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-auntie-annes-buy-1-classic-pretzel-get-1-free",
   title: "Auntie Anne's — Buy 1 Classic Pretzel, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:auntie-annes:buy-1-classic-pretzel-get-1-free",
   finePrint: "Lehi & Draper",
   locations: ["location/auntie-annes-draper", "location/auntie-annes-lehi"],

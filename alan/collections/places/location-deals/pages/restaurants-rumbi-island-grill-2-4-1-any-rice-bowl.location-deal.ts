@@ -5,7 +5,7 @@ export const restaurantsRumbiIslandGrill241AnyRiceBowl = {
   type: "location-deal",
   slug: "restaurants-rumbi-island-grill-2-4-1-any-rice-bowl",
   title: "Rumbi Island Grill — 2-4-1! Any Rice Bowl!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:rumbi-island-grill:2-4-1-any-rice-bowl",
   finePrint: "All UT Locations",
   locations: ["location/rumbi-island-grill-utah-county"],

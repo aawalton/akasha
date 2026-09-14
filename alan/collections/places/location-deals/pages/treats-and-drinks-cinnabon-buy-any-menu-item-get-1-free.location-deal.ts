@@ -5,7 +5,7 @@ export const treatsAndDrinksCinnabonBuyAnyMenuItemGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-cinnabon-buy-any-menu-item-get-1-free",
   title: "Cinnabon — Buy Any Menu Item, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:cinnabon:buy-any-menu-item-get-1-free",
   finePrint: "Orem",
   locations: ["location/cinnabon-orem"],

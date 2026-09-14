@@ -5,7 +5,7 @@ export const treatsAndDrinksSubZeroIceCreamBuyAnyIceCreamGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-sub-zero-ice-cream-buy-any-ice-cream-get-1-free",
   title: "Sub Zero Ice Cream — Buy Any Ice Cream, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:sub-zero-ice-cream:buy-any-ice-cream-get-1-free",
   finePrint: "All Utah County",
   locations: ["location/sub-zero-ice-cream-utah-county"],

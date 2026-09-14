@@ -5,7 +5,7 @@ export const freeStuffTheForumAcademyFreeHaircut = {
   type: "location-deal",
   slug: "free-stuff-the-forum-academy-free-haircut",
   title: "The Forum Academy — FREE! Haircut!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:the-forum-academy:free-haircut",
   locations: ["location/the-forum-academy-utah-county"],
   offerText: "FREE! Haircut!",

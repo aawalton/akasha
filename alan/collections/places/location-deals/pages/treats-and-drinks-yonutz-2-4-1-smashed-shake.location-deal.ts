@@ -5,7 +5,7 @@ export const treatsAndDrinksYonutz241SmashedShake = {
   type: "location-deal",
   slug: "treats-and-drinks-yonutz-2-4-1-smashed-shake",
   title: "Yonutz — 2-4-1! Smashed Shake!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:yonutz:2-4-1-smashed-shake",
   finePrint: "Saratoga Springs",
   locations: ["location/yonutz-saratoga-springs"],

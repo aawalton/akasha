@@ -5,7 +5,7 @@ export const freeStuffTheRiftAugmentedRealityFreeAdmit2ToAnyExperience = {
   type: "location-deal",
   slug: "free-stuff-the-rift-augmented-reality-free-admit-2-to-any-experience",
   title: "The Rift Augmented Reality — FREE! Admit 2 to Any Experience!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:the-rift-augmented-reality:free-admit-2-to-any-experience",
   finePrint: "Mon Only Provo",
   locations: ["location/the-rift-augmented-reality-provo"],

@@ -5,7 +5,7 @@ export const restaurantsRancheritosBuyAComboMealGetAComboMeal50Off = {
   type: "location-deal",
   slug: "restaurants-rancheritos-buy-a-combo-meal-get-a-combo-meal-50-off",
   title: "Rancherito's — Buy a Combo Meal, Get a Combo Meal 50% OFF!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:rancheritos:buy-a-combo-meal-get-a-combo-meal-50-off",
   finePrint: "PG Only",
   locations: ["location/rancheritos-pleasant-grove"],

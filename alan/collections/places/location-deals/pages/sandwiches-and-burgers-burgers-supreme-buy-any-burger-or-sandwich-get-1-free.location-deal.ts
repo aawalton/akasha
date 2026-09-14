@@ -5,7 +5,7 @@ export const sandwichesAndBurgersBurgersSupremeBuyAnyBurgerOrSandwichGet1Free = 
   type: "location-deal",
   slug: "sandwiches-and-burgers-burgers-supreme-buy-any-burger-or-sandwich-get-1-free",
   title: "Burgers Supreme — Buy Any Burger or Sandwich, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:burgers-supreme:buy-any-burger-or-sandwich-get-1-free",
   locations: ["location/burgers-supreme-utah-county"],
   offerText: "Buy Any Burger or Sandwich, Get 1 FREE!",

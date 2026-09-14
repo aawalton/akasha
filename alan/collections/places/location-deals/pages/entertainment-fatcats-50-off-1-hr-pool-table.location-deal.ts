@@ -5,7 +5,7 @@ export const entertainmentFatcats50Off1HrPoolTable = {
   type: "location-deal",
   slug: "entertainment-fatcats-50-off-1-hr-pool-table",
   title: "FatCats — 50% OFF! 1 Hr Pool Table!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:fatcats:50-off-1-hr-pool-table",
   finePrint: "Provo",
   locations: ["location/fatcats-provo"],

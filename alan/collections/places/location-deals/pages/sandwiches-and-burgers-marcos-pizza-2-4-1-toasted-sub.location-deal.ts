@@ -5,7 +5,7 @@ export const sandwichesAndBurgersMarcosPizza241ToastedSub = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-marcos-pizza-2-4-1-toasted-sub",
   title: "Marco's Pizza — 2-4-1! Toasted Sub!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:marcos-pizza:2-4-1-toasted-sub",
   finePrint: "Santaquin Only",
   locations: ["location/marcos-pizza-santaquin"],

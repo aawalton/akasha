@@ -5,7 +5,7 @@ export const entertainmentProvoBeach241Attraction = {
   type: "location-deal",
   slug: "entertainment-provo-beach-2-4-1-attraction",
   title: "Provo Beach — 2-4-1! Attraction!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:provo-beach:2-4-1-attraction",
   finePrint: "Excludes Flowrider",
   locations: ["location/provo-beach-utah-county"],

@@ -5,7 +5,7 @@ export const freeStuffTheRuthFreeTicketToAnyYouthShow = {
   type: "location-deal",
   slug: "free-stuff-the-ruth-free-ticket-to-any-youth-show",
   title: "The Ruth — FREE! Ticket to Any Youth Show!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:the-ruth:free-ticket-to-any-youth-show",
   finePrint: "Select Seats",
   locations: ["location/the-ruth-utah-county"],

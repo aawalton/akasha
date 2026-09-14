@@ -5,7 +5,7 @@ export const treatsAndDrinksDippinDotsFabFreddys241RegularDippinDots = {
   type: "location-deal",
   slug: "treats-and-drinks-dippin-dots-fab-freddys-2-4-1-regular-dippin-dots",
   title: "Dippin' Dots Fab Freddy's — 2-4-1! Regular Dippin' Dots!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:dippin-dots-fab-freddys:2-4-1-regular-dippin-dots",
   finePrint: "Lehi",
   locations: ["location/dippin-dots-fab-freddys-lehi"],

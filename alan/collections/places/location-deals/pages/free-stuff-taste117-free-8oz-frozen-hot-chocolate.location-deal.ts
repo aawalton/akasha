@@ -5,7 +5,7 @@ export const freeStuffTaste117Free8ozFrozenHotChocolate = {
   type: "location-deal",
   slug: "free-stuff-taste117-free-8oz-frozen-hot-chocolate",
   title: "Taste117 — FREE! 8oz. Frozen Hot Chocolate!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:taste117:free-8oz-frozen-hot-chocolate",
   locations: ["location/taste117-utah-county"],
   offerText: "FREE! 8oz. Frozen Hot Chocolate!",

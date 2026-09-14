@@ -5,7 +5,7 @@ export const treatsAndDrinksBrustersIceCream241IceCreamSundae = {
   type: "location-deal",
   slug: "treats-and-drinks-brusters-ice-cream-2-4-1-ice-cream-sundae",
   title: "Bruster's Ice Cream — 2-4-1! Ice Cream Sundae!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:brusters-ice-cream:2-4-1-ice-cream-sundae",
   locations: ["location/brusters-ice-cream-utah-county"],
   offerText: "2-4-1! Ice Cream Sundae!",

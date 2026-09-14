@@ -5,7 +5,7 @@ export const restaurantsLaCarretasPeruvianRestaurantBuy1EntreeAnd2DrinksGet1Entr
   type: "location-deal",
   slug: "restaurants-la-carretas-peruvian-restaurant-buy-1-entree-and-2-drinks-get-1-entree-free",
   title: "La Carreta's Peruvian Restaurant — Buy 1 Entree & 2 Drinks, Get 1 Entree FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:restaurants:la-carretas-peruvian-restaurant:buy-1-entree-and-2-drinks-get-1-entree-free",
   finePrint: "M-Th",

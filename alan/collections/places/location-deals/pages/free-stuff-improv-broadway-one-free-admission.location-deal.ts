@@ -5,7 +5,7 @@ export const freeStuffImprovBroadwayOneFreeAdmission = {
   type: "location-deal",
   slug: "free-stuff-improv-broadway-one-free-admission",
   title: "Improv Broadway — One FREE! Admission!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:improv-broadway:one-free-admission",
   locations: ["location/improv-broadway-utah-county"],
   offerText: "One FREE! Admission!",

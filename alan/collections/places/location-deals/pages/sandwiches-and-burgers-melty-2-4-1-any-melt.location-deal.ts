@@ -5,7 +5,7 @@ export const sandwichesAndBurgersMelty241AnyMelt = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-melty-2-4-1-any-melt",
   title: "Melty — 2-4-1! Any Melt!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:melty:2-4-1-any-melt",
   finePrint: "All Utah Locations",
   locations: ["location/melty-utah-county"],

@@ -5,7 +5,7 @@ export const freeStuffTsubameRotatingSushiFreeFoodPlate = {
   type: "location-deal",
   slug: "free-stuff-tsubame-rotating-sushi-free-food-plate",
   title: "Tsubame Rotating Sushi — FREE! Food Plate!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:tsubame-rotating-sushi:free-food-plate",
   finePrint: "Dine-in Only",
   locations: ["location/tsubame-rotating-sushi-utah-county"],

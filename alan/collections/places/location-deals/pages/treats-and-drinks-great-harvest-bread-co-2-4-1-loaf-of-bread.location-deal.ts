@@ -5,7 +5,7 @@ export const treatsAndDrinksGreatHarvestBreadCo241LoafOfBread = {
   type: "location-deal",
   slug: "treats-and-drinks-great-harvest-bread-co-2-4-1-loaf-of-bread",
   title: "Great Harvest Bread Co. — 2-4-1! Loaf of Bread!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:great-harvest-bread-co:2-4-1-loaf-of-bread",
   finePrint: "Provo",
   locations: ["location/great-harvest-bread-co-provo"],

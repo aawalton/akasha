@@ -5,7 +5,7 @@ export const retailAutoAndMoreRevivePtCryo241AnySpaAmenity = {
   type: "location-deal",
   slug: "retail-auto-and-more-revive-pt-cryo-2-4-1-any-spa-amenity",
   title: "Revive PT Cryo — 2-4-1! Any Spa Amenity!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:revive-pt-cryo:2-4-1-any-spa-amenity",
   finePrint: "Appointment Required",
   locations: ["location/revive-pt-cryo-utah-county"],

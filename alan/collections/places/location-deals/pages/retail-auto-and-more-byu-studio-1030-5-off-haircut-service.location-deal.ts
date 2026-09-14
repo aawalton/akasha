@@ -5,7 +5,7 @@ export const retailAutoAndMoreByuStudio10305OffHaircutService = {
   type: "location-deal",
   slug: "retail-auto-and-more-byu-studio-1030-5-off-haircut-service",
   title: "BYU Studio 1030 — $5 OFF! Haircut Service!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:byu-studio-1030:5-off-haircut-service",
   locations: ["location/byu-studio-1030-utah-county"],
   offerText: "$5 OFF! Haircut Service!",

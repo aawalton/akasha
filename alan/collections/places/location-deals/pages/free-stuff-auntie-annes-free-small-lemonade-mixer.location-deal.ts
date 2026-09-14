@@ -5,7 +5,7 @@ export const freeStuffAuntieAnnesFreeSmallLemonadeMixer = {
   type: "location-deal",
   slug: "free-stuff-auntie-annes-free-small-lemonade-mixer",
   title: "Auntie Anne's — FREE! Small Lemonade Mixer!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:auntie-annes:free-small-lemonade-mixer",
   finePrint: "Lehi & Draper",
   locations: ["location/auntie-annes-draper", "location/auntie-annes-lehi"],

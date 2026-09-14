@@ -5,7 +5,7 @@ export const entertainmentColorMeMine241StudioFee = {
   type: "location-deal",
   slug: "entertainment-color-me-mine-2-4-1-studio-fee",
   title: "Color Me Mine — 2-4-1! Studio Fee!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:color-me-mine:2-4-1-studio-fee",
   finePrint: "M-Th",
   locations: ["location/color-me-mine-utah-county"],

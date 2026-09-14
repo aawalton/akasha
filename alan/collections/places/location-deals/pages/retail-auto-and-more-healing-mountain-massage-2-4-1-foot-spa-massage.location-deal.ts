@@ -5,7 +5,7 @@ export const retailAutoAndMoreHealingMountainMassage241FootSpaMassage = {
   type: "location-deal",
   slug: "retail-auto-and-more-healing-mountain-massage-2-4-1-foot-spa-massage",
   title: "Healing Mountain Massage — 2-4-1! Foot Spa Massage!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:healing-mountain-massage:2-4-1-foot-spa-massage",
   finePrint: "Orem",
   locations: ["location/healing-mountain-massage-orem"],

@@ -5,7 +5,7 @@ export const treatsAndDrinksCravingsBistroBuyASpecialtyDrinkGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-cravings-bistro-buy-a-specialty-drink-get-1-free",
   title: "Cravings Bistro — Buy A Specialty Drink, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:cravings-bistro:buy-a-specialty-drink-get-1-free",
   locations: ["location/cravings-bistro-utah-county"],
   offerText: "Buy A Specialty Drink, Get 1 FREE!",

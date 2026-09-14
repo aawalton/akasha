@@ -5,7 +5,7 @@ export const retailAutoAndMoreByuStudio103025OffAnyProduct = {
   type: "location-deal",
   slug: "retail-auto-and-more-byu-studio-1030-25-off-any-product",
   title: "BYU Studio 1030 — 25% OFF! Any Product!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:byu-studio-1030:25-off-any-product",
   locations: ["location/byu-studio-1030-utah-county"],
   offerText: "25% OFF! Any Product!",

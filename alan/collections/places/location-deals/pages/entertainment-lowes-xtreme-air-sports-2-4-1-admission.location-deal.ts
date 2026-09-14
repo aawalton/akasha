@@ -5,7 +5,7 @@ export const entertainmentLowesXtremeAirSports241Admission = {
   type: "location-deal",
   slug: "entertainment-lowes-xtreme-air-sports-2-4-1-admission",
   title: "Lowes Xtreme Air Sports — 2-4-1! Admission!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:lowes-xtreme-air-sports:2-4-1-admission",
   locations: ["location/lowes-xtreme-air-sports-utah-county"],
   offerText: "2-4-1! Admission!",

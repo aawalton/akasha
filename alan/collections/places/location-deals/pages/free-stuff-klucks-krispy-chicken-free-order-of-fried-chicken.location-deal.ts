@@ -5,7 +5,7 @@ export const freeStuffKlucksKrispyChickenFreeOrderOfFriedChicken = {
   type: "location-deal",
   slug: "free-stuff-klucks-krispy-chicken-free-order-of-fried-chicken",
   title: "Klucks Krispy Chicken — FREE! Order of Fried Chicken!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:klucks-krispy-chicken:free-order-of-fried-chicken",
   finePrint: "(3 Pcs & 1 Sauce) Saratoga",
   locations: ["location/klucks-krispy-chicken-saratoga-springs"],

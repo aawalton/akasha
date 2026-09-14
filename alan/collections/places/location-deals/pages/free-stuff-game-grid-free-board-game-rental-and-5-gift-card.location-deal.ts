@@ -5,7 +5,7 @@ export const freeStuffGameGridFreeBoardGameRentalAnd5GiftCard = {
   type: "location-deal",
   slug: "free-stuff-game-grid-free-board-game-rental-and-5-gift-card",
   title: "Game Grid — FREE! Board Game Rental and $5! Gift Card!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:game-grid:free-board-game-rental-and-5-gift-card",
   finePrint: "Lehi",
   locations: ["location/game-grid-lehi"],

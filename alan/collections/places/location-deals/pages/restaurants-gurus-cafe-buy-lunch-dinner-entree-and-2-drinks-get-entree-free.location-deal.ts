@@ -5,7 +5,7 @@ export const restaurantsGurusCafeBuyLunchDinnerEntreeAnd2DrinksGetEntreeFree = {
   type: "location-deal",
   slug: "restaurants-gurus-cafe-buy-lunch-dinner-entree-and-2-drinks-get-entree-free",
   title: "Gurus Cafe — Buy Lunch/Dinner Entree & 2 Drinks, Get Entree FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:gurus-cafe:buy-lunch-dinner-entree-and-2-drinks-get-entree-free",
   finePrint: "Provo Cntr & UVU",
   locations: ["location/gurus-cafe-provo"],

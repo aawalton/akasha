@@ -5,7 +5,7 @@ export const restaurantsLoloHawaiianBbqBuy1PlateLunchOrMiniMealGet1Free = {
   type: "location-deal",
   slug: "restaurants-lolo-hawaiian-bbq-buy-1-plate-lunch-or-mini-meal-get-1-free",
   title: "LoLo Hawaiian BBQ — Buy 1 Plate Lunch or Mini Meal, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:lolo-hawaiian-bbq:buy-1-plate-lunch-or-mini-meal-get-1-free",
   finePrint: "All Locations",
   locations: ["location/lolo-hawaiian-bbq-utah-county"],

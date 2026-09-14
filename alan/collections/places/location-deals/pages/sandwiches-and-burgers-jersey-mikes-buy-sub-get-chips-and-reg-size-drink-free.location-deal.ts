@@ -5,7 +5,7 @@ export const sandwichesAndBurgersJerseyMikesBuySubGetChipsAndRegSizeDrinkFree = 
   type: "location-deal",
   slug: "sandwiches-and-burgers-jersey-mikes-buy-sub-get-chips-and-reg-size-drink-free",
   title: "Jersey Mikes — Buy Sub, Get Chips and Reg. Size Drink FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:jersey-mikes:buy-sub-get-chips-and-reg-size-drink-free",
   finePrint: "All Ut Cnty excl. EM & SF",
   locations: ["location/jersey-mikes-utah-county"],

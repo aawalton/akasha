@@ -5,7 +5,7 @@ export const freeStuffStadiumCinemasFreeMovieTicket = {
   type: "location-deal",
   slug: "free-stuff-stadium-cinemas-free-movie-ticket",
   title: "Stadium Cinemas — FREE! Movie Ticket!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:stadium-cinemas:free-movie-ticket",
   locations: ["location/stadium-cinemas-utah-county"],
   offerText: "FREE! Movie Ticket!",

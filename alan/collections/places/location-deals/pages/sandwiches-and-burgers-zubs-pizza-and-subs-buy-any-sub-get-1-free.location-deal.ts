@@ -5,7 +5,7 @@ export const sandwichesAndBurgersZubsPizzaAndSubsBuyAnySubGet1Free = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-zubs-pizza-and-subs-buy-any-sub-get-1-free",
   title: "Zub's Pizza & Sub's — Buy Any Sub, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:zubs-pizza-and-subs:buy-any-sub-get-1-free",
   locations: ["location/zubs-pizza-subs-utah-county"],
   offerText: "Buy Any Sub, Get 1 FREE!",

@@ -5,7 +5,7 @@ export const retailAutoAndMoreBodyBalanceMassageAndFloat2411HourFloatSensoryDepr
   type: "location-deal",
   slug: "retail-auto-and-more-body-balance-massage-and-float-2-4-1-1-hour-float-sensory-deprivation",
   title: "Body Balance Massage and Float — 2-4-1! 1 Hour Float (Sensory Deprivation)",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey:
     "ssc:retail-auto-and-more:body-balance-massage-and-float:2-4-1-1-hour-float-sensory-deprivation",
   finePrint: "AF",

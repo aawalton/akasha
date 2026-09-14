@@ -5,7 +5,7 @@ export const treatsAndDrinksSonic241Shake = {
   type: "location-deal",
   slug: "treats-and-drinks-sonic-2-4-1-shake",
   title: "Sonic — 2-4-1! Shake!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:sonic:2-4-1-shake",
   finePrint: "Valid at All Utah County Locations",
   locations: ["location/sonic-utah-county"],

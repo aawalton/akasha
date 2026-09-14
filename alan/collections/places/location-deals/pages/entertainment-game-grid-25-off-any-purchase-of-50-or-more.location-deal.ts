@@ -5,7 +5,7 @@ export const entertainmentGameGrid25OffAnyPurchaseOf50OrMore = {
   type: "location-deal",
   slug: "entertainment-game-grid-25-off-any-purchase-of-50-or-more",
   title: "Game Grid — $25 OFF! Any Purchase of $50 or More!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:game-grid:25-off-any-purchase-of-50-or-more",
   finePrint: "Lehi",
   locations: ["location/game-grid-lehi"],

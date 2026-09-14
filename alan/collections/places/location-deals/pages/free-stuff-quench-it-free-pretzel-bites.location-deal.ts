@@ -5,7 +5,7 @@ export const freeStuffQuenchItFreePretzelBites = {
   type: "location-deal",
   slug: "free-stuff-quench-it-free-pretzel-bites",
   title: "Quench It! — FREE! Pretzel Bites!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:quench-it:free-pretzel-bites",
   finePrint: "All Ut County & Bluffdale",
   locations: ["location/quench-it-bluffdale"],

@@ -5,7 +5,7 @@ export const treatsAndDrinksWaybackBurgers241AnyRegularMilkshake = {
   type: "location-deal",
   slug: "treats-and-drinks-wayback-burgers-2-4-1-any-regular-milkshake",
   title: "Wayback Burgers — 2-4-1! Any Regular Milkshake!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:wayback-burgers:2-4-1-any-regular-milkshake",
   finePrint: "PG & WJ",
   locations: ["location/wayback-burgers-pleasant-grove", "location/wayback-burgers-west-jordan"],

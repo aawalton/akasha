@@ -5,7 +5,7 @@ export const treatsAndDrinksBaskinRobbins2412ScoopSundae = {
   type: "location-deal",
   slug: "treats-and-drinks-baskin-robbins-2-4-1-2-scoop-sundae",
   title: "Baskin Robbins — 2-4-1! 2-Scoop Sundae!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:baskin-robbins:2-4-1-2-scoop-sundae",
   finePrint: "Orem",
   locations: ["location/baskin-robbins-orem"],

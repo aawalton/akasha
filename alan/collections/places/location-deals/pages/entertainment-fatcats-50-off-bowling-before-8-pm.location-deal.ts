@@ -5,7 +5,7 @@ export const entertainmentFatcats50OffBowlingBefore8Pm = {
   type: "location-deal",
   slug: "entertainment-fatcats-50-off-bowling-before-8-pm",
   title: "FatCats — 50% OFF! Bowling! Before 8 PM",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:fatcats:50-off-bowling-before-8-pm",
   finePrint: "Provo",
   locations: ["location/fatcats-provo"],

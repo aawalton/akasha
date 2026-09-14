@@ -5,7 +5,7 @@ export const entertainmentLanKing241HourOfGameTimeUpTo4Players = {
   type: "location-deal",
   slug: "entertainment-lan-king-2-4-1-hour-of-game-time-up-to-4-players",
   title: "LAN King — 2-4-1! Hour of Game Time! Up to 4 Players",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:lan-king:2-4-1-hour-of-game-time-up-to-4-players",
   locations: ["location/lan-king-utah-county"],
   offerText: "2-4-1! Hour of Game Time! Up to 4 Players",

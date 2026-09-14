@@ -5,7 +5,7 @@ export const entertainmentHiddenhuntsCom30OffTreasureHuntAdventure = {
   type: "location-deal",
   slug: "entertainment-hiddenhunts-com-30-off-treasure-hunt-adventure",
   title: "HiddenHunts.com — 30% OFF! Treasure Hunt Adventure!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:hiddenhunts-com:30-off-treasure-hunt-adventure",
   locations: ["location/hiddenhunts-com-utah-county"],
   offerText: "30% OFF! Treasure Hunt Adventure!",

@@ -5,7 +5,7 @@ export const retailAutoAndMoreJiffyLube10OffVehicleEmissions = {
   type: "location-deal",
   slug: "retail-auto-and-more-jiffy-lube-10-off-vehicle-emissions",
   title: "Jiffy Lube — $10 OFF! Vehicle Emissions!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:jiffy-lube:10-off-vehicle-emissions",
   finePrint: "All Utah Locations",
   locations: ["location/jiffy-lube-utah-county"],

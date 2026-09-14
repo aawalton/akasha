@@ -5,7 +5,7 @@ export const treatsAndDrinksTheYardMilkshakeBarBuy1RegularMilkshakeGet1Free = {
   type: "location-deal",
   slug: "treats-and-drinks-the-yard-milkshake-bar-buy-1-regular-milkshake-get-1-free",
   title: "The Yard Milkshake Bar — Buy 1 Regular Milkshake, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:the-yard-milkshake-bar:buy-1-regular-milkshake-get-1-free",
   locations: ["location/the-yard-milkshake-bar-utah-county"],
   offerText: "Buy 1 Regular Milkshake, Get 1 FREE!",

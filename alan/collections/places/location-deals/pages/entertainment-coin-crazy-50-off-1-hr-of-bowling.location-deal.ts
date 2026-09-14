@@ -5,7 +5,7 @@ export const entertainmentCoinCrazy50Off1HrOfBowling = {
   type: "location-deal",
   slug: "entertainment-coin-crazy-50-off-1-hr-of-bowling",
   title: "Coin Crazy — 50% OFF! 1 Hr of Bowling!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:coin-crazy:50-off-1-hr-of-bowling",
   finePrint: "M-Th Before 6 PM",
   locations: ["location/coin-crazy-utah-county"],

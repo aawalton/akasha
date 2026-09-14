@@ -5,7 +5,7 @@ export const entertainmentTheHiveTrampolinePark241FirstMonthAnyMembership = {
   type: "location-deal",
   slug: "entertainment-the-hive-trampoline-park-2-4-1-first-month-any-membership",
   title: "The Hive Trampoline Park — 2-4-1! First Month Any Membership!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:the-hive-trampoline-park:2-4-1-first-month-any-membership",
   locations: ["location/the-hive-trampoline-park-utah-county"],
   offerText: "2-4-1! First Month Any Membership!",

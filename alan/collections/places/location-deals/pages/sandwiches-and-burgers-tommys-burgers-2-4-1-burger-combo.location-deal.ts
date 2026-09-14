@@ -5,7 +5,7 @@ export const sandwichesAndBurgersTommysBurgers241BurgerCombo = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-tommys-burgers-2-4-1-burger-combo",
   title: "Tommy's Burgers — 2-4-1! Burger Combo!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:tommys-burgers:2-4-1-burger-combo",
   locations: ["location/tommys-burgers-utah-county"],
   offerText: "2-4-1! Burger Combo!",

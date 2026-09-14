@@ -5,7 +5,7 @@ export const freeStuffColorMeMineFreeStudioAdmission = {
   type: "location-deal",
   slug: "free-stuff-color-me-mine-free-studio-admission",
   title: "Color Me Mine — FREE! Studio Admission!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:color-me-mine:free-studio-admission",
   locations: ["location/color-me-mine-utah-county"],
   offerText: "FREE! Studio Admission!",

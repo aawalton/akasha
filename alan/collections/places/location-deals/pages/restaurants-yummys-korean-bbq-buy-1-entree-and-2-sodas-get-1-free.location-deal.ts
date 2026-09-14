@@ -5,7 +5,7 @@ export const restaurantsYummysKoreanBbqBuy1EntreeAnd2SodasGet1Free = {
   type: "location-deal",
   slug: "restaurants-yummys-korean-bbq-buy-1-entree-and-2-sodas-get-1-free",
   title: "Yummy's Korean BBQ — Buy 1 Entree and 2 Sodas, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:yummys-korean-bbq:buy-1-entree-and-2-sodas-get-1-free",
   finePrint: "Up to $11",
   locations: ["location/yummys-korean-bbq-utah-county"],

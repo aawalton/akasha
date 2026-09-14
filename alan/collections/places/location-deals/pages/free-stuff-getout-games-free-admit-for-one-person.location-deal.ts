@@ -5,7 +5,7 @@ export const freeStuffGetoutGamesFreeAdmitForOnePerson = {
   type: "location-deal",
   slug: "free-stuff-getout-games-free-admit-for-one-person",
   title: "GetOut Games — FREE! Admit for ONE Person!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:getout-games:free-admit-for-one-person",
   finePrint: "M-Th only!",
   locations: ["location/getout-games-utah-county"],

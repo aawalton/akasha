@@ -5,7 +5,7 @@ export const sandwichesAndBurgersIkes241Sandwich = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-ikes-2-4-1-sandwich",
   title: "Ike's — 2-4-1! Sandwich!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:ikes:2-4-1-sandwich",
   finePrint: "Lehi",
   locations: ["location/ikes-lehi"],

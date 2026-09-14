@@ -5,7 +5,7 @@ export const retailAutoAndMoreByuStore50OffAnyBrighamSupplyCompanyItem = {
   type: "location-deal",
   slug: "retail-auto-and-more-byu-store-50-off-any-brigham-supply-company-item",
   title: "BYU Store — 50% OFF! Any Brigham Supply Company item!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:byu-store:50-off-any-brigham-supply-company-item",
   finePrint: "Restrictions Apply",
   locations: ["location/byu-store-utah-county"],

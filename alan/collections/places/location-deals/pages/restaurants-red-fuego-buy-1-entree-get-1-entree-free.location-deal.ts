@@ -5,7 +5,7 @@ export const restaurantsRedFuegoBuy1EntreeGet1EntreeFree = {
   type: "location-deal",
   slug: "restaurants-red-fuego-buy-1-entree-get-1-entree-free",
   title: "Red Fuego — Buy 1 Entree, Get 1 Entree FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:red-fuego:buy-1-entree-get-1-entree-free",
   finePrint: "All Locations",
   locations: ["location/red-fuego-utah-county"],

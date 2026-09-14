@@ -5,7 +5,7 @@ export const entertainmentByuBowlingAndGamesCenter241GameOfBowling = {
   type: "location-deal",
   slug: "entertainment-byu-bowling-and-games-center-2-4-1-game-of-bowling",
   title: "BYU Bowling & Games Center — 2-4-1! Game of Bowling!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:byu-bowling-and-games-center:2-4-1-game-of-bowling",
   finePrint: "M-Fri Before 6pm. Excludes Holidays! Shoe Rental Not Included!",
   locations: ["location/byu-bowling-games-center-utah-county"],

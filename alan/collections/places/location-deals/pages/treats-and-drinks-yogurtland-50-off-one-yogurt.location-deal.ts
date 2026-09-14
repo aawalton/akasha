@@ -5,7 +5,7 @@ export const treatsAndDrinksYogurtland50OffOneYogurt = {
   type: "location-deal",
   slug: "treats-and-drinks-yogurtland-50-off-one-yogurt",
   title: "Yogurtland — 50% OFF! One Yogurt!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:yogurtland:50-off-one-yogurt",
   locations: ["location/yogurtland-utah-county"],
   offerText: "50% OFF! One Yogurt!",

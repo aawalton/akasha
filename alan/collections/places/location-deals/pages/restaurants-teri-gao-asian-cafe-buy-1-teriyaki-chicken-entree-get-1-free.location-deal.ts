@@ -5,7 +5,7 @@ export const restaurantsTeriGaoAsianCafeBuy1TeriyakiChickenEntreeGet1Free = {
   type: "location-deal",
   slug: "restaurants-teri-gao-asian-cafe-buy-1-teriyaki-chicken-entree-get-1-free",
   title: "Teri Gao Asian Cafe — Buy 1 Teriyaki Chicken Entree, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:teri-gao-asian-cafe:buy-1-teriyaki-chicken-entree-get-1-free",
   locations: ["location/teri-gao-asian-cafe-utah-county"],
   offerText: "Buy 1 Teriyaki Chicken Entree, Get 1 FREE!",

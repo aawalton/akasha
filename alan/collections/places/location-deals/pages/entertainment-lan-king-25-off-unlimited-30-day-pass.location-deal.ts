@@ -5,7 +5,7 @@ export const entertainmentLanKing25OffUnlimited30DayPass = {
   type: "location-deal",
   slug: "entertainment-lan-king-25-off-unlimited-30-day-pass",
   title: "LAN King — 25% OFF! Unlimited 30-Day Pass!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:lan-king:25-off-unlimited-30-day-pass",
   locations: ["location/lan-king-utah-county"],
   offerText: "25% OFF! Unlimited 30-Day Pass!",

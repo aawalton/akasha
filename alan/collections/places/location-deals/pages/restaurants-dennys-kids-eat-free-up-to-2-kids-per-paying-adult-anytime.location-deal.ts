@@ -5,7 +5,7 @@ export const restaurantsDennysKidsEatFreeUpTo2KidsPerPayingAdultAnytime = {
   type: "location-deal",
   slug: "restaurants-dennys-kids-eat-free-up-to-2-kids-per-paying-adult-anytime",
   title: "Dennys — Kids Eat FREE! Up to 2 Kids Per Paying Adult Anytime!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:dennys:kids-eat-free-up-to-2-kids-per-paying-adult-anytime",
   finePrint: "Partic. Locs",
   locations: ["location/dennys-utah-county"],

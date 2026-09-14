@@ -5,7 +5,7 @@ export const entertainmentKreativeKilnBuyOnePlayInTheClaySessionGetOneFree = {
   type: "location-deal",
   slug: "entertainment-kreative-kiln-buy-one-play-in-the-clay-session-get-one-free",
   title: 'Kreative Kiln — Buy One "Play in the Clay" Session, Get One FREE!',
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:kreative-kiln:buy-one-play-in-the-clay-session-get-one-free",
   locations: ["location/kreative-kiln-utah-county"],
   offerText: 'Buy One "Play in the Clay" Session, Get One FREE!',

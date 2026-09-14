@@ -5,7 +5,7 @@ export const entertainmentLaserAssault50OffFridayNightFireFightPass = {
   type: "location-deal",
   slug: "entertainment-laser-assault-50-off-friday-night-fire-fight-pass",
   title: "Laser Assault — 50% OFF! Friday Night Fire Fight Pass!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:laser-assault:50-off-friday-night-fire-fight-pass",
   locations: ["location/laser-assault-utah-county"],
   offerText: "50% OFF! Friday Night Fire Fight Pass!",

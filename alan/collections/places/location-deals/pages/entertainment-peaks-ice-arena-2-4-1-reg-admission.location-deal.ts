@@ -5,7 +5,7 @@ export const entertainmentPeaksIceArena241RegAdmission = {
   type: "location-deal",
   slug: "entertainment-peaks-ice-arena-2-4-1-reg-admission",
   title: "Peaks Ice Arena — 2-4-1! Reg Admission!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:peaks-ice-arena:2-4-1-reg-admission",
   finePrint: "Skate Rental Not Included",
   locations: ["location/peaks-ice-arena-utah-county"],

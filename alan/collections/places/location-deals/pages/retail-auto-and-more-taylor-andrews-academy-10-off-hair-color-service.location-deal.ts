@@ -5,7 +5,7 @@ export const retailAutoAndMoreTaylorAndrewsAcademy10OffHairColorService = {
   type: "location-deal",
   slug: "retail-auto-and-more-taylor-andrews-academy-10-off-hair-color-service",
   title: "Taylor Andrews Academy — $10 OFF! Hair Color Service!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:taylor-andrews-academy:10-off-hair-color-service",
   finePrint: "Provo & WJ",
   locations: [

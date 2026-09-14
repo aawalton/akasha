@@ -5,7 +5,7 @@ export const sandwichesAndBurgersParlorDoughnutsBuy1BreakfastSandwichGet1Free = 
   type: "location-deal",
   slug: "sandwiches-and-burgers-parlor-doughnuts-buy-1-breakfast-sandwich-get-1-free",
   title: "Parlor Doughnuts — Buy 1 Breakfast Sandwich, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:parlor-doughnuts:buy-1-breakfast-sandwich-get-1-free",
   locations: ["location/parlor-doughnuts-utah-county"],
   offerText: "Buy 1 Breakfast Sandwich, Get 1 FREE!",

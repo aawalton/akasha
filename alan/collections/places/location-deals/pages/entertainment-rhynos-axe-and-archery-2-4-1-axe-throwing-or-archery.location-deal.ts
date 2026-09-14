@@ -5,7 +5,7 @@ export const entertainmentRhynosAxeAndArchery241AxeThrowingOrArchery = {
   type: "location-deal",
   slug: "entertainment-rhynos-axe-and-archery-2-4-1-axe-throwing-or-archery",
   title: "Rhyno's Axe & Archery — 2-4-1! Axe Throwing or Archery!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:rhynos-axe-and-archery:2-4-1-axe-throwing-or-archery",
   finePrint: "Valid M-Th",
   locations: ["location/rhynos-axe-archery-utah-county"],

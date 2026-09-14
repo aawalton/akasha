@@ -5,7 +5,7 @@ export const sandwichesAndBurgersCarlsJrBuyAWesternBaconCheeseburgerGet1Free = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-carls-jr-buy-a-western-bacon-cheeseburger-get-1-free",
   title: "Carl's Jr — Buy a Western Bacon Cheeseburger, Get 1 FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:carls-jr:buy-a-western-bacon-cheeseburger-get-1-free",
   locations: ["location/carls-jr-utah-county"],
   offerText: "Buy a Western Bacon Cheeseburger, Get 1 FREE!",

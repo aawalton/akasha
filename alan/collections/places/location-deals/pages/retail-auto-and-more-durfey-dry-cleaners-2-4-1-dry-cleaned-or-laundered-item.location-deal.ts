@@ -5,7 +5,7 @@ export const retailAutoAndMoreDurfeyDryCleaners241DryCleanedOrLaunderedItem = {
   type: "location-deal",
   slug: "retail-auto-and-more-durfey-dry-cleaners-2-4-1-dry-cleaned-or-laundered-item",
   title: "Durfey Dry Cleaners — 2-4-1! Dry Cleaned or Laundered Item!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:retail-auto-and-more:durfey-dry-cleaners:2-4-1-dry-cleaned-or-laundered-item",
   finePrint: "Up to $20 All Ut Cnty Locs",
   locations: ["location/durfey-dry-cleaners-utah-county"],

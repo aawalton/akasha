@@ -5,7 +5,7 @@ export const freeStuffUtahGrizzliesFreeTicketForUpTo2People = {
   type: "location-deal",
   slug: "free-stuff-utah-grizzlies-free-ticket-for-up-to-2-people",
   title: "Utah Grizzlies — FREE! Ticket for Up to 2 People!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:utah-grizzlies:free-ticket-for-up-to-2-people",
   finePrint: "Reg Season Only",
   locations: ["location/utah-grizzlies-utah-county"],

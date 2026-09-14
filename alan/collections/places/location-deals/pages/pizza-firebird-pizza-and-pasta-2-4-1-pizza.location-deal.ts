@@ -5,7 +5,7 @@ export const pizzaFirebirdPizzaAndPasta241Pizza = {
   type: "location-deal",
   slug: "pizza-firebird-pizza-and-pasta-2-4-1-pizza",
   title: "Firebird Pizza & Pasta — 2-4-1! Pizza!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:pizza:firebird-pizza-and-pasta:2-4-1-pizza",
   finePrint: "Up to 2 Toppings",
   locations: ["location/firebird-pizza-pasta-utah-county"],

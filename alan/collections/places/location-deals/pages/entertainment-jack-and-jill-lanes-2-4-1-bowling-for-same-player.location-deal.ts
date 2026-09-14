@@ -5,7 +5,7 @@ export const entertainmentJackAndJillLanes241BowlingForSamePlayer = {
   type: "location-deal",
   slug: "entertainment-jack-and-jill-lanes-2-4-1-bowling-for-same-player",
   title: "Jack & Jill Lanes — 2-4-1! Bowling for Same Player!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:entertainment:jack-and-jill-lanes:2-4-1-bowling-for-same-player",
   finePrint: "Shoes Not Included! M-Thurs Before 6pm! Not Valid Holidays! Lehi & AF",
   locations: ["location/jack-jill-lanes-american-fork", "location/jack-jill-lanes-lehi"],

@@ -5,7 +5,7 @@ export const sandwichesAndBurgersPitaPitBuyAnEntrEAndASideGetAnEntrEFree = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-pita-pit-buy-an-entr-e-and-a-side-get-an-entr-e-free",
   title: "Pita Pit — Buy an Entrée and a Side, Get an Entrée FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:pita-pit:buy-an-entr-e-and-a-side-get-an-entr-e-free",
   locations: ["location/pita-pit-utah-county"],
   offerText: "Buy an Entrée and a Side, Get an Entrée FREE!",

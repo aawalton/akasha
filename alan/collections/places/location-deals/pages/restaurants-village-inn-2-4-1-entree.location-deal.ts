@@ -5,7 +5,7 @@ export const restaurantsVillageInn241Entree = {
   type: "location-deal",
   slug: "restaurants-village-inn-2-4-1-entree",
   title: "Village Inn — 2-4-1! Entree!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:village-inn:2-4-1-entree",
   finePrint: "Provo",
   locations: ["location/village-inn-provo"],

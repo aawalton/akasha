@@ -5,7 +5,7 @@ export const sandwichesAndBurgersMcdonaldsBuyLargeDrinkAndFryGet1SandwichFree = 
   type: "location-deal",
   slug: "sandwiches-and-burgers-mcdonalds-buy-large-drink-and-fry-get-1-sandwich-free",
   title: "McDonald's — Buy Large Drink & Fry, Get 1 Sandwich FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:mcdonalds:buy-large-drink-and-fry-get-1-sandwich-free",
   finePrint: "All Orem, N Provo, PG, Cedar Hills & AF",
   locations: [

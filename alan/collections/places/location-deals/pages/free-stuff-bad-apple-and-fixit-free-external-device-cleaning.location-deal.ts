@@ -5,7 +5,7 @@ export const freeStuffBadAppleAndFixitFreeExternalDeviceCleaning = {
   type: "location-deal",
   slug: "free-stuff-bad-apple-and-fixit-free-external-device-cleaning",
   title: "Bad Apple & FIXIT — FREE! External Device Cleaning!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:bad-apple-and-fixit:free-external-device-cleaning",
   finePrint: "Valid All Locations",
   locations: ["location/bad-apple-fixit-utah-county"],

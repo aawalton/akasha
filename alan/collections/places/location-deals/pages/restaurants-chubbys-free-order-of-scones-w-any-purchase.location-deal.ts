@@ -5,7 +5,7 @@ export const restaurantsChubbysFreeOrderOfSconesWAnyPurchase = {
   type: "location-deal",
   slug: "restaurants-chubbys-free-order-of-scones-w-any-purchase",
   title: "Chubby's — FREE! Order of Scones w/Any Purchase!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:chubbys:free-order-of-scones-w-any-purchase",
   finePrint: "All Locations",
   locations: ["location/chubbys-utah-county"],

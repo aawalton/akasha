@@ -5,7 +5,7 @@ export const sandwichesAndBurgersJerseyMikesBuy1RegSubGetARegSubFree = {
   type: "location-deal",
   slug: "sandwiches-and-burgers-jersey-mikes-buy-1-reg-sub-get-a-reg-sub-free",
   title: "Jersey Mikes — Buy 1 Reg. Sub, Get a Reg. Sub FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:sandwiches-and-burgers:jersey-mikes:buy-1-reg-sub-get-a-reg-sub-free",
   finePrint: "All Ut Cnty excl. EM and SF",
   locations: ["location/jersey-mikes-utah-county"],

@@ -5,7 +5,7 @@ export const restaurantsGoldenCorralBuffet241WeekendBreakfastBuffet = {
   type: "location-deal",
   slug: "restaurants-golden-corral-buffet-2-4-1-weekend-breakfast-buffet",
   title: "Golden Corral Buffet — 2-4-1! Weekend Breakfast Buffet!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:restaurants:golden-corral-buffet:2-4-1-weekend-breakfast-buffet",
   finePrint: "Orem",
   locations: ["location/golden-corral-buffet-orem"],

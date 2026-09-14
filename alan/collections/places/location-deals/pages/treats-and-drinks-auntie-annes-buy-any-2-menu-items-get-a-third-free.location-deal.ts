@@ -5,7 +5,7 @@ export const treatsAndDrinksAuntieAnnesBuyAny2MenuItemsGetAThirdFree = {
   type: "location-deal",
   slug: "treats-and-drinks-auntie-annes-buy-any-2-menu-items-get-a-third-free",
   title: "Auntie Anne's — Buy Any 2 Menu Items, Get a Third FREE!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:treats-and-drinks:auntie-annes:buy-any-2-menu-items-get-a-third-free",
   finePrint: "Lehi & Draper",
   locations: ["location/auntie-annes-draper", "location/auntie-annes-lehi"],

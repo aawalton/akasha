@@ -5,7 +5,7 @@ export const freeStuffDominosFreeOrderOfOvenBakedTwistsAndDip = {
   type: "location-deal",
   slug: "free-stuff-dominos-free-order-of-oven-baked-twists-and-dip",
   title: "Domino's — FREE! Order of Oven-Baked Twists & Dip!",
-  collection: "starving-student-card",
+  collection: "location-collection/starving-student-card",
   dealKey: "ssc:free-stuff:dominos:free-order-of-oven-baked-twists-and-dip",
   finePrint: "Carryout Only. Saratoga & Eagle Mtn",
   locations: ["location/dominos-eagle-mountain", "location/dominos-saratoga-springs"],
