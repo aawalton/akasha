@@ -6,7 +6,6 @@ import {
   FILES,
   input,
   judgingEach,
-  judgingEachFile,
   onDisk,
   overEachFile,
   overEachText,
@@ -79,16 +78,6 @@ test("the body a change took away is read as the text a check judges", () => {
   const gone = { root, changed: ["was.ts"], after: () => null, before: onDisk(root) }
   expect(textWas(gone, "was.ts")).toBe("was")
   expect(textWas(gone, "none.ts")).toBeNull()
-})
-
-test("judging each file makes a runner of a judge, naming the path each refusal is for", () => {
-  const root = scratch.rootFor("akasha-each-run-")
-  writeFileSync(join(root, "here.ts"), "here")
-  const run = judgingEachFile((given) => [`${given.path} holds ${given.bytes.length} bytes`])
-  const held = onDisk(root)
-  expect(
-    run({ root, changed: ["gone.ts", "here.ts"], after: held, before: held }, shadowAt(root))
-  ).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
 })
 
 test("the files selected are the ones the change leaves standing, whatever kind of file they are", () => {

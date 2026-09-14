@@ -249,25 +249,6 @@ export function overEachText(
   return overEach(textNamed, found)
 }
 
-export function overEachTextAsync(
-  found: (path: string, text: string) => Promise<readonly string[]>
-): (given: Body) => Promise<readonly string[]> {
-  return async (given) => {
-    if (!textNamed(given.path)) return []
-    return await found(given.path, bodyOf(given))
-  }
-}
-
-export function overEachBody(
-  found: (path: string, text: string) => readonly string[]
-): (given: Body) => readonly string[] {
-  return overEach(bodyNamed, found)
-}
-
-export function judgingEachFile(judge: (given: Body) => readonly string[]): Running {
-  return (change) => overEachFile(change, judge)
-}
-
 export function overEachFile(
   change: Change,
   judge: (given: Body) => readonly string[]
