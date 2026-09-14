@@ -11,9 +11,8 @@
     "forwardEnv": ["PATH", "HOME"],
     "storageState": "$HOME/.cache/claude-code/playwright-storage-state.json",
     "args": [
-      "npx",
-      "-y",
-      "@playwright/mcp@0.0.76",
+      "node",
+      "$INSTRUCTIONS/node_modules/@playwright/mcp/cli.js",
       "--headless",
       "--browser=chromium",
       "--isolated",
