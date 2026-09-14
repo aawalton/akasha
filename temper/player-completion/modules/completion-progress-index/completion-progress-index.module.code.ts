@@ -2,7 +2,6 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "akasha/temper/player-completion/modules/completion-account-checkers/completion-account-checkers.module.code.ts"
 import { COMPLETION_CARD_CHECKERS } from "akasha/temper/player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"
 import {
   type AnyCompletionCardId,
@@ -51,40 +50,6 @@ function asCardIds(keys: readonly string[]): readonly AnyCompletionCardId[] {
     if (isAnyCompletionCardId(key)) result.push(key)
   }
   return result
-}
-
-export function buildCharacterCompletionIndex(
-  characterId: string,
-  characterCompletion: CharacterCompletion
-): Record<string, ScalarProgress> {
-  const index: Record<string, ScalarProgress> = {}
-  const charRow = { id: characterId, completion: characterCompletion }
-
-  for (const cardId of asCardIds(Object.keys(COMPLETION_CARD_CHECKERS))) {
-    for (const path of enumeratePaths(cardId, [characterCompletion])) {
-      const progress = resolveTaskProgress(cardId, path, characterCompletion, null, charRow)
-      if (progress === undefined) continue
-      index[joinPath(cardId, path)] = { current: progress.current, total: progress.total }
-    }
-  }
-
-  return index
-}
-
-export function buildAccountCompletionIndex(
-  accountCompletion: AccountCompletion | null
-): Record<string, ScalarProgress> {
-  const index: Record<string, ScalarProgress> = {}
-
-  for (const cardId of asCardIds(Object.keys(ACCOUNT_COMPLETION_CARD_CHECKERS))) {
-    for (const path of enumeratePaths(cardId, [])) {
-      const progress = resolveTaskProgress(cardId, path, null, accountCompletion)
-      if (progress === undefined) continue
-      index[joinPath(cardId, path)] = { current: progress.current, total: progress.total }
-    }
-  }
-
-  return index
 }
 
 export function buildCrossCharacterCompletionIndex(

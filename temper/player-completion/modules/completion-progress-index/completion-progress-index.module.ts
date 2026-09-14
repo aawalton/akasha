@@ -4,8 +4,7 @@ export const completionProgressIndex = {
   id: "01a0640c-1e9b-7ed3-97f9-cf48e60107c6",
   type: "module",
   slug: "completion-progress-index",
-  definition:
-    "every completion card and path counted once, for a character, an account, or a roster",
+  definition: "every completion card and path counted once across a whole roster of characters",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

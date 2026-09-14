@@ -1,7 +1,5 @@
 import { describe, expect, test } from "bun:test"
 import {
-  buildAccountCompletionIndex,
-  buildCharacterCompletionIndex,
   buildCrossCharacterCompletionIndex,
   materializeCrossCharacterProgress,
 } from "akasha/temper/player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
@@ -10,65 +8,9 @@ import {
   CHAR_FULL,
   CHAR_MORPHS,
   CHAR_PARTIAL,
-  CHAR_SKILL_POINTS,
   EMPTY_ACCOUNT,
   mkRosterEntry,
 } from "akasha/temper/player-completion/modules/completion-progress-index/completion-progress-index.module.test-fixtures.ts"
-
-describe("buildCharacterCompletionIndex", () => {
-  test("emits the cardId-only key for a flat card with no picker (daily-writs)", () => {
-    const index = buildCharacterCompletionIndex("c0", {})
-    expect(index["daily-writs"]).toEqual({ current: 0, total: 7 })
-    expect(index["daily-writs/speed"]).toBeUndefined()
-  })
-
-  test("emits depth-0 plus per-stat keys for a 1-deep narrowed card (mount-training)", () => {
-    const index = buildCharacterCompletionIndex("c0", CHAR_PARTIAL)
-    expect(index["mount-training"]).toEqual({ current: 30, total: 180 })
-    expect(index["mount-training/speed"]).toEqual({ current: 30, total: 60 })
-    expect(index["mount-training/stamina"]).toEqual({ current: 0, total: 60 })
-    expect(index["mount-training/carryCapacity"]).toEqual({ current: 0, total: 60 })
-  })
-
-  test("skips paths whose resolver returns undefined (no mountTraining data)", () => {
-    const index = buildCharacterCompletionIndex("c0", {})
-    expect(index["mount-training"]).toBeUndefined()
-    expect(index["mount-training/speed"]).toBeUndefined()
-  })
-
-  test("does not include account-scoped cards in the character index", () => {
-    const index = buildCharacterCompletionIndex("c0", CHAR_FULL)
-    expect(index["account-achievements"]).toBeUndefined()
-  })
-
-  test("emits a skill-morphs key for a character with class, race and skill data", () => {
-    const index = buildCharacterCompletionIndex("c1", CHAR_MORPHS)
-    const entry = index["skill-morphs"]
-    expect(entry).toBeDefined()
-    if (!entry) throw new Error("skill-morphs missing")
-    expect(entry.total).toBeGreaterThan(0)
-    expect(entry.current).toBe(0)
-  })
-
-  test("materializes the Folium Discognitum leaf as x/y", () => {
-    const index = buildCharacterCompletionIndex("c0", CHAR_SKILL_POINTS)
-    expect(index["skill-points/general/foliumDiscognitum"]).toEqual({ current: 2, total: 2 })
-  })
-
-  test("materializes the general branch and card-level rollups", () => {
-    const index = buildCharacterCompletionIndex("c0", CHAR_SKILL_POINTS)
-    expect(index["skill-points/general"]).toBeDefined()
-    expect(index["skill-points"]).toBeDefined()
-  })
-})
-
-describe("buildAccountCompletionIndex", () => {
-  test("does not include character-scoped cards in the account index", () => {
-    const index = buildAccountCompletionIndex(EMPTY_ACCOUNT)
-    expect(index["mount-training"]).toBeUndefined()
-    expect(index["daily-writs"]).toBeUndefined()
-  })
-})
 
 describe("buildCrossCharacterCompletionIndex", () => {
   test("returns the container with one characters entry per roster character", () => {
