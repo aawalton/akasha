@@ -24,5 +24,6 @@ export const akashaWorkspace = {
     "@capacitor/filesystem",
     "@capacitor/push-notifications",
     "@capacitor/status-bar",
+    "@playwright/mcp",
   ],
 } as const satisfies Workspace
