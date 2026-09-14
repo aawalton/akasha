@@ -1,0 +1,60 @@
+import {
+  addressesDeclared,
+  forwardedTo,
+  type Plan,
+  plannedOver,
+  type RoutingRule,
+  type RuleToWrite,
+  saidOf,
+} from "akasha/alan/harness/email-routing/modules/email-rule-planning/email-rule-planning.module.code.ts"
+import {
+  rulesIn,
+  tokenStated,
+  writeRule,
+  zoneIdOf,
+} from "akasha/alan/harness/email-routing/modules/email-zone-reaching/email-zone-reaching.module.code.ts"
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { personasStanding } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
+
+const ZONE = "alanwalton.com"
+
+export interface Reaching {
+  readonly rules: () => Promise<readonly RoutingRule[]>
+  readonly write: (rule: RuleToWrite) => Promise<undefined>
+}
+
+export async function reconciledOver(
+  declared: readonly string[],
+  reaching: Reaching,
+  dry: boolean,
+  done: string[] = []
+): Promise<Plan> {
+  const rules = await reaching.rules()
+  const plan = plannedOver(declared, rules, forwardedTo(rules))
+  if (dry) return plan
+  for (const one of plan.writing) {
+    await reaching.write(one.rule)
+    done.push(`routed ${one.address}`)
+  }
+  return plan
+}
+
+export function reachingZone(token: string, zoneId: string): Reaching {
+  return {
+    rules: () => rulesIn(token, zoneId),
+    write: (rule) => writeRule(token, zoneId, rule),
+  }
+}
+
+export async function runPersonaRouting(dry: boolean, done: string[] = []): Promise<undefined> {
+  const root = rootStated(process.env) ?? process.cwd()
+  const token = tokenStated()
+  const reaching = reachingZone(token, await zoneIdOf(token, ZONE))
+  const declared = addressesDeclared(personasStanding(root), ZONE)
+  const plan = await reconciledOver(declared, reaching, dry, done)
+  process.stdout.write(`${saidOf(plan, dry).join("\n")}\n`)
+}
+
+if (import.meta.main) {
+  await runPersonaRouting(!process.argv.slice(2).includes("--apply"))
+}
