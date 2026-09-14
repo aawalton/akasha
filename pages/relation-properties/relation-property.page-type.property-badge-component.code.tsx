@@ -2,12 +2,11 @@
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/modules/badge-layout-context/badge-layout-context.module.code.tsx"
-import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
-import { LinkBadge } from "akasha/design/interfaces/badges/modules/link-badge/link-badge.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { relationConfigSchema } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
+import { PageBadge } from "akasha/pages/ui/components/modules/page-badge/page-badge.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import {
   getRelationId,
@@ -95,7 +94,12 @@ function RelationCardBadgeBody({
     const currentIds = relValue !== undefined ? [getRelationId(relValue)] : []
     const inner =
       relValue !== undefined ? (
-        <Badge variant={variant}>{resolveRelationName(resolver, relValue)}</Badge>
+        <PageBadge
+          pageId={getRelationId(relValue)}
+          label={resolveRelationName(resolver, relValue)}
+          variant={variant}
+          pageTypeId={targetPageTypeId}
+        />
       ) : (
         <Badge variant="elevation-muted">
           <span className="text-tertiary">Empty</span>
@@ -117,29 +121,18 @@ function RelationCardBadgeBody({
 
   if (relValue === undefined) return null
   const relId = getRelationId(relValue)
-  const label = resolveRelationName(resolver, relValue)
-
-  if (pageHref) {
-    return (
-      <LinkBadge
-        variant={variant}
-        href={pageHref(relId, { targetPageTypeId })}
-        onClick={(e) => e.stopPropagation()}
-      >
-        {label}
-      </LinkBadge>
-    )
-  }
   return (
-    <ButtonBadge
+    <PageBadge
+      pageId={relId}
+      label={resolveRelationName(resolver, relValue)}
       variant={variant}
+      pageTypeId={targetPageTypeId}
+      href={pageHref ? pageHref(relId, { targetPageTypeId }) : undefined}
       onClick={(e) => {
         e.stopPropagation()
-        onPageNavigate?.(relId)
+        if (!pageHref) onPageNavigate?.(relId)
       }}
-    >
-      {label}
-    </ButtonBadge>
+    />
   )
 }
 
@@ -161,11 +154,15 @@ function RelationDetailBody({
   const relValue = toRelationValue(value)
   const hasValue = relValue !== undefined
   const currentIds = hasValue ? [getRelationId(relValue)] : []
+  const { targetPageTypeId } = parseConfig(relationConfigSchema, property.config, {})
 
   const badge = hasValue ? (
-    <Badge variant={resolveRelationVariant(resolver, relValue, property.accent)}>
-      {resolveRelationName(resolver, relValue)}
-    </Badge>
+    <PageBadge
+      pageId={getRelationId(relValue)}
+      label={resolveRelationName(resolver, relValue)}
+      variant={resolveRelationVariant(resolver, relValue, property.accent)}
+      pageTypeId={targetPageTypeId}
+    />
   ) : (
     <Badge variant="elevation-muted">
       <span className="text-tertiary">Empty</span>

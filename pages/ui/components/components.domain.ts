@@ -38,6 +38,8 @@ export const components = {
     "module/notes-options-picker",
     "module/operator-filter-control",
     "module/page-actions-menu",
+    "module/page-badge",
+    "module/page-badge-drawings",
     "module/page-board",
     "module/page-board-dnd-helpers",
     "module/page-calendar",

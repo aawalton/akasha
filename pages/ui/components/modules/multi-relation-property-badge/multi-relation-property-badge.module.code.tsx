@@ -8,6 +8,7 @@ import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/pag
 import type { PropertyValue } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { multiRelationConfigSchema } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
+import { PageBadge } from "akasha/pages/ui/components/modules/page-badge/page-badge.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import {
   getRelationId,
@@ -93,18 +94,19 @@ function MultiRelationDetailBadges({
     )
   }
 
+  const { targetPageTypeId } = parseConfig(multiRelationConfigSchema, definition.config, {})
   return (
     <>
       {relValues.map((rv) => {
         const id = getRelationId(rv)
-        const name = resolveRelationName(resolver, rv)
         return (
-          <Badge
+          <PageBadge
             key={`${definition.id}-${id}`}
+            pageId={id}
+            label={resolveRelationName(resolver, rv)}
             variant={resolveRelationVariant(resolver, rv, definition.accent)}
-          >
-            {name}
-          </Badge>
+            pageTypeId={targetPageTypeId}
+          />
         )
       })}
     </>
