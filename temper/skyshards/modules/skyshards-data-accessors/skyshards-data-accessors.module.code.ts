@@ -1,8 +1,6 @@
 import { SKYSHARDS_DATA } from "akasha/temper/skyshards/modules/skyshards-data/skyshards-data.module.code.ts"
 import type { SkyshardPin } from "akasha/temper/skyshards/modules/skyshards-types/skyshards-types.module.code.ts"
 
-type MutableSkyshardsData = Record<string, Record<string, SkyshardPin[]>>
-
 const SKYSHARDS_ACHIEVEMENT_IDS: Record<number, boolean> = {
   [695]: true,
   [682]: true,
@@ -196,28 +194,4 @@ export function getLocalData(
     }
   }
   return undefined
-}
-
-export function setLocalData(
-  this: void,
-  zone: unknown,
-  subzone: unknown,
-  data: unknown
-): undefined {
-  if (type(zone) === "string" && type(subzone) === "string" && type(data) === "table") {
-    const zoneKey = zone as string
-    const subzoneKey = subzone as string
-    const mutableData = SKYSHARDS_DATA as MutableSkyshardsData
-    let zoneTable = mutableData[zoneKey]
-    if (zoneTable == null) {
-      zoneTable = {}
-      mutableData[zoneKey] = zoneTable
-    }
-    let list = zoneTable[subzoneKey]
-    if (list == null) {
-      list = []
-      zoneTable[subzoneKey] = list
-    }
-    list.push(data as SkyshardPin)
-  }
 }
