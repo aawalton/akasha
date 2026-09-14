@@ -8,6 +8,7 @@ import {
   killTarget,
   type Landing,
   moving,
+  pageLeft,
   stillUp,
   subagentGuard,
   TAKE,
@@ -140,6 +141,14 @@ test("a seat whose processes did not all end is refused naming the pids signalle
   expect(said as string).toContain("11, 12")
   expect(said as string).toContain("did not all end")
   expect(said as string).toContain("kept rather than taken")
+})
+
+test("a stop whose landing left the page says the page is there and the name is held", () => {
+  const said = pageLeft("sophia", "agents/seats/pages/sophia/sophia.seat.ts")
+  expect(said).toContain("sophia")
+  expect(said).toContain("agents/seats/pages/sophia/sophia.seat.ts")
+  expect(said).toContain("holds the name against a fresh seat")
+  expect(said).toContain("stop `sophia` again")
 })
 
 const AGENT = "01a05844-6e60-7000-b54c-4b14559df70d"

@@ -191,16 +191,25 @@ export function stillUp(name: string, pids: readonly number[], allGone: boolean)
   )
 }
 
+export function pageLeft(name: string, page: string): string {
+  return (
+    `\`${name}\` was ended, and the landing taking \`${page}\` refused, so that page is still ` +
+    `there naming a seat nothing runs in, and it holds the name against a fresh seat. Land what ` +
+    `the refusal names, then stop \`${name}\` again`
+  )
+}
+
 async function tookPage(
   given: Given,
   page: string,
   message: string,
   done: string[]
-): Promise<void> {
+): Promise<boolean> {
   removeUncommitted(given.root, page)
   done.push(`took the uncommitted values beside \`${page}\``)
   const gone = await took(given, [page], message, done)
   done.push(gone ? `took \`${page}\`` : `left \`${page}\` — the landing taking it refused`)
+  return gone
 }
 
 export async function stopping(
@@ -236,7 +245,8 @@ export async function stopping(
     const up = stillUp(name, target.pids, ended.allGone)
     if (up !== null) return { refused: up, code: OPERATIONAL }
     done.push(`ended ${target.pids.map((pid) => String(pid)).join(", ")}`)
-    await tookPage(given, page, `${name} was stopped, so the page it held goes`, done)
+    const gone = await tookPage(given, page, `${name} was stopped, so the page it held goes`, done)
+    if (!gone) return { refused: pageLeft(name, page), code: OPERATIONAL }
     return {
       stopped: { name, pids: target.pids, signalled: ended.asked, how: "ended", moved },
     }
@@ -244,7 +254,7 @@ export async function stopping(
   if (target.kind === "session") {
     const ended = await endedSession(target.name)
     if (ended) done.push(`ended the tmux session \`${target.name}\``)
-    await tookPage(
+    const gone = await tookPage(
       given,
       page,
       ended
@@ -252,10 +262,12 @@ export async function stopping(
         : `${name} had no process and no session, so the page it held goes`,
       done
     )
+    if (!gone) return { refused: pageLeft(name, page), code: OPERATIONAL }
     return {
       stopped: { name, pids: [], signalled: ended, how: ended ? "ended" : "already-gone", moved },
     }
   }
-  await tookPage(given, page, `no process and no session were left for ${name}`, done)
+  const gone = await tookPage(given, page, `no process and no session were left for ${name}`, done)
+  if (!gone) return { refused: pageLeft(name, page), code: OPERATIONAL }
   return { stopped: { name, pids: [], signalled: false, how: "reconciled", moved } }
 }

@@ -43,6 +43,10 @@ export const seatStopping = {
     },
     {
       invariantKind: "departure",
+      statement: "A stop whose landing refused the page is refused rather than answered as done.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The values beside a seat's page go with the page.",
     },
     {
