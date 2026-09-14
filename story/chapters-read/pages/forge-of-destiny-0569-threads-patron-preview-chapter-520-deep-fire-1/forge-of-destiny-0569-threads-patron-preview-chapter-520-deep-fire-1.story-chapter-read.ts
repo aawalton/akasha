@@ -8,7 +8,7 @@ export const forgeOfDestiny0569ThreadsPatronPreviewChapter520DeepFire1 = {
   story: "forge-of-destiny",
   position: 569,
   ownLength: 1869,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-19",
   externalIdentity: [
     {

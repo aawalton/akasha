@@ -8,7 +8,7 @@ export const godOfTrash008484WeveGotToStopMeetingLikeThis = {
   story: "god-of-trash",
   position: 84,
   ownLength: 2375,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-23",
   externalIdentity: [
     {

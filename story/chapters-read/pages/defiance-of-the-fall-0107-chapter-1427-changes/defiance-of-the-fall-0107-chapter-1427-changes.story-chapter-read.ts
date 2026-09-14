@@ -8,7 +8,7 @@ export const defianceOfTheFall0107Chapter1427Changes = {
   story: "story-read/defiance-of-the-fall",
   position: 107,
   ownLength: 2926,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0104ChapterOneHundredOneRecognition =
   story: "flesh-eater-demon-evolution-litrpg",
   position: 104,
   ownLength: 2136,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-01",
   externalIdentity: [
     {

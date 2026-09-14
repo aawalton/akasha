@@ -8,7 +8,7 @@ export const godOfTrash0106106LambsToTheSlaughter = {
   story: "god-of-trash",
   position: 106,
   ownLength: 2107,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-20",
   externalIdentity: [
     {

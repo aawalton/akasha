@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0068Chapter68TeaWithLydia = {
   position: 68,
   ownLength: 4391,
   ownProgress: 4391,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:13:12.141Z",
   publishedAt: "2024-05-05",
   externalIdentity: [

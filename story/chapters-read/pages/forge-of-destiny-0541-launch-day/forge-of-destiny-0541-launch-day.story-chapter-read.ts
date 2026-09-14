@@ -8,7 +8,7 @@ export const forgeOfDestiny0541LaunchDay = {
   story: "forge-of-destiny",
   position: 541,
   ownLength: 119,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-20",
   externalIdentity: [
     {

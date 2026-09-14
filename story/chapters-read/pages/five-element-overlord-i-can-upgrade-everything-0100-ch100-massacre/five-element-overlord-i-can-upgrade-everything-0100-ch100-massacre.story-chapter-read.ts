@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0100Ch100Massacre = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 100,
   ownLength: 2061,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-17",
   externalIdentity: [
     {

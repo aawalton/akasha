@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0113112BelowTheDeck =
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0113-112-below-the-deck",
   position: 113,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

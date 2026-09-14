@@ -8,7 +8,7 @@ export const godOfTrash0209209TheFinalBlow = {
   story: "god-of-trash",
   position: 209,
   ownLength: 1639,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-07",
   externalIdentity: [
     {

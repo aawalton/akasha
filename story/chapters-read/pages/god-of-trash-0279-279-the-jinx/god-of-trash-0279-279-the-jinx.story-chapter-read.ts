@@ -8,7 +8,7 @@ export const godOfTrash0279279TheJinx = {
   story: "god-of-trash",
   position: 279,
   ownLength: 2112,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-25",
   externalIdentity: [
     {

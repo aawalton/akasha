@@ -8,7 +8,7 @@ export const defianceOfTheFall0024Chapter1348Whitfall = {
   story: "story-read/defiance-of-the-fall",
   position: 24,
   ownLength: 2768,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-02",
   externalIdentity: [
     {

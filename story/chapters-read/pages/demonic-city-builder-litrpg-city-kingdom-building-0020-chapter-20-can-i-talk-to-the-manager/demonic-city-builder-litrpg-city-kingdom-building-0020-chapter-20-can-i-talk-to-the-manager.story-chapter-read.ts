@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0020Chapter20CanITalkToT
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 20,
   ownLength: 2095,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-27",
   externalIdentity: [
     {

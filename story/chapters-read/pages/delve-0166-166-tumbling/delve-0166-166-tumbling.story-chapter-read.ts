@@ -8,7 +8,7 @@ export const delve0166166Tumbling = {
   story: "delve",
   position: 166,
   ownLength: 4618,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-10",
   externalIdentity: [
     {

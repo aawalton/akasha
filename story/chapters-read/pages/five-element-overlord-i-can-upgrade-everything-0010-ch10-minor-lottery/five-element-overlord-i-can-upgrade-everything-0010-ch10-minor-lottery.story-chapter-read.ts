@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0010Ch10MinorLottery = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 10,
   ownLength: 1360,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

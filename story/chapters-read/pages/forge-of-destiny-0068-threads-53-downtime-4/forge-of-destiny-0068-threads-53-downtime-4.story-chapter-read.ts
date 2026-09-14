@@ -8,7 +8,7 @@ export const forgeOfDestiny0068Threads53Downtime4 = {
   story: "forge-of-destiny",
   position: 68,
   ownLength: 1444,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-22",
   externalIdentity: [
     {

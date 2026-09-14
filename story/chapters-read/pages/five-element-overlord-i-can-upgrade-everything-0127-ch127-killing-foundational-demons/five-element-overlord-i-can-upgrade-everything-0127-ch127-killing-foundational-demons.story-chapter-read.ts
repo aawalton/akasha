@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0127Ch127KillingFoundationa
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 127,
   ownLength: 1750,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-25",
   externalIdentity: [
     {

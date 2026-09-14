@@ -8,7 +8,7 @@ export const godOfTrash003333AChallenge = {
   story: "god-of-trash",
   position: 33,
   ownLength: 2618,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-27",
   externalIdentity: [
     {

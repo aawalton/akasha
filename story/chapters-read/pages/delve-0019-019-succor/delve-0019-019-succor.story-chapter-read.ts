@@ -8,7 +8,7 @@ export const delve0019019Succor = {
   story: "delve",
   position: 19,
   ownLength: 2677,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-13",
   externalIdentity: [
     {

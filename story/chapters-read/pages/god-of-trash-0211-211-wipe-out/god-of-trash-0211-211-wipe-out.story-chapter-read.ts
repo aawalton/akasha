@@ -8,7 +8,7 @@ export const godOfTrash0211211WipeOut = {
   story: "god-of-trash",
   position: 211,
   ownLength: 2436,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-09",
   externalIdentity: [
     {

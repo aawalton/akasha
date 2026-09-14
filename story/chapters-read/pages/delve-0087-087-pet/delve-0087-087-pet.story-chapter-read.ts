@@ -8,7 +8,7 @@ export const delve0087087Pet = {
   story: "delve",
   position: 87,
   ownLength: 6750,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-22",
   externalIdentity: [
     {

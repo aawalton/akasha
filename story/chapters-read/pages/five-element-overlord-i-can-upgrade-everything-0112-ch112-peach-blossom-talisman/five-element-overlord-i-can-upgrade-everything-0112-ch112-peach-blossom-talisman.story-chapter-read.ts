@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0112Ch112PeachBlossomTalism
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 112,
   ownLength: 1355,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-04",
   externalIdentity: [
     {

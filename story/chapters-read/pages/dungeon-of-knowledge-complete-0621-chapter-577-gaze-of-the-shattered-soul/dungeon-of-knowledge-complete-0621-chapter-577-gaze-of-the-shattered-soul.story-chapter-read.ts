@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0621Chapter577GazeOfTheShatteredSoul = {
   story: "dungeon-of-knowledge-complete",
   position: 621,
   ownLength: 2189,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-21",
   externalIdentity: [
     {

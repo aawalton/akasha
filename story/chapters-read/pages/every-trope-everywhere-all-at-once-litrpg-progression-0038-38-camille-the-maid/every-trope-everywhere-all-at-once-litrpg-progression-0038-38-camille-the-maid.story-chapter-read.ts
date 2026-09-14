@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003838CamilleTheMaid 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 38,
   ownLength: 1737,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-06",
   externalIdentity: [
     {

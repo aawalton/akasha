@@ -8,7 +8,7 @@ export const godOfTrash0175175EverythingsSofterWhenItsWet = {
   story: "god-of-trash",
   position: 175,
   ownLength: 2435,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-03",
   externalIdentity: [
     {

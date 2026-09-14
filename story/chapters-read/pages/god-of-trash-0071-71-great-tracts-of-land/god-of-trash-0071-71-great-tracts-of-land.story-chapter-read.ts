@@ -8,7 +8,7 @@ export const godOfTrash007171GreatTractsOfLand = {
   story: "god-of-trash",
   position: 71,
   ownLength: 1938,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-10",
   externalIdentity: [
     {

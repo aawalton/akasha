@@ -8,7 +8,7 @@ export const forgeOfDestiny0169141Concert4 = {
   story: "forge-of-destiny",
   position: 169,
   ownLength: 1713,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-11",
   externalIdentity: [
     {

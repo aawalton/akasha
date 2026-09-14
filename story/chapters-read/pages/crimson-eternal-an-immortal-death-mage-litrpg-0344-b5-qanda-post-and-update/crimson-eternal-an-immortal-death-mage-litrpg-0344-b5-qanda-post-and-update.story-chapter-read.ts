@@ -8,7 +8,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0344B5QandaPostAndUpdate = {
   story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 344,
   ownLength: 211,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-22",
   externalIdentity: [
     {

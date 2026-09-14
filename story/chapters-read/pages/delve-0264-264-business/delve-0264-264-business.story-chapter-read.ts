@@ -8,7 +8,7 @@ export const delve0264264Business = {
   story: "delve",
   position: 264,
   ownLength: 3822,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-27",
   externalIdentity: [
     {

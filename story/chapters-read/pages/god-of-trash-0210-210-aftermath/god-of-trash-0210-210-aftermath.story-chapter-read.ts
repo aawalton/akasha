@@ -8,7 +8,7 @@ export const godOfTrash0210210Aftermath = {
   story: "god-of-trash",
   position: 210,
   ownLength: 2009,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-08",
   externalIdentity: [
     {

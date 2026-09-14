@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0062ChapterSixtyOneTheSearchForTheHor
   story: "flesh-eater-demon-evolution-litrpg",
   position: 62,
   ownLength: 3585,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-05",
   externalIdentity: [
     {

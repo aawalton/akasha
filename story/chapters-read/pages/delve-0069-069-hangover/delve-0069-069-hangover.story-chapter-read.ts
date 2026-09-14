@@ -8,7 +8,7 @@ export const delve0069069Hangover = {
   story: "delve",
   position: 69,
   ownLength: 5447,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-12-29",
   externalIdentity: [
     {

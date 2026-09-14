@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006565HisSoul = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 65,
   ownLength: 1825,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-04",
   externalIdentity: [
     {

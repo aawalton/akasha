@@ -8,7 +8,7 @@ export const delve0156156Magnet = {
   story: "delve",
   position: 156,
   ownLength: 5374,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-25",
   externalIdentity: [
     {

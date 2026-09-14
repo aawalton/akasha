@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0048Chapter46Amendments 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 48,
   ownLength: 3274,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-21",
   externalIdentity: [
     {

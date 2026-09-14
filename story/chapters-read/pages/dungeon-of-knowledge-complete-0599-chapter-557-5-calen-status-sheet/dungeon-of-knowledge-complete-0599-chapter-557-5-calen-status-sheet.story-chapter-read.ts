@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0599Chapter5575CalenStatusSheet = {
   position: 599,
   ownLength: 1584,
   ownProgress: 460,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-06",
   externalIdentity: [
     {

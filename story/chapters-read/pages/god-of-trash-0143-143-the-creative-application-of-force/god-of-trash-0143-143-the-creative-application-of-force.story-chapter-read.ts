@@ -8,7 +8,7 @@ export const godOfTrash0143143TheCreativeApplicationOfForce = {
   story: "god-of-trash",
   position: 143,
   ownLength: 2394,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-27",
   externalIdentity: [
     {

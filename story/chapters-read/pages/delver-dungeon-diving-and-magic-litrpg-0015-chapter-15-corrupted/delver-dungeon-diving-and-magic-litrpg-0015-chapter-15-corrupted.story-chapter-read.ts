@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0015Chapter15Corrupted = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 15,
   ownLength: 2710,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-02",
   externalIdentity: [
     {

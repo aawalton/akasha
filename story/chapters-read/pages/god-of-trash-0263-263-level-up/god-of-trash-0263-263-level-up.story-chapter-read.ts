@@ -8,7 +8,7 @@ export const godOfTrash0263263LevelUp = {
   story: "god-of-trash",
   position: 263,
   ownLength: 2046,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash0118118TheMostFunYouCanHaveOutsideOfALibrary = {
   story: "god-of-trash",
   position: 118,
   ownLength: 2654,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-02",
   externalIdentity: [
     {

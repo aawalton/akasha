@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0068Ch6810thLevelBloodDemon
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 68,
   ownLength: 1868,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-03",
   externalIdentity: [
     {

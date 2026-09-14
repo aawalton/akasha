@@ -8,7 +8,7 @@ export const delve0218218Infiltration = {
   story: "delve",
   position: 218,
   ownLength: 3617,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-15",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0277Chapter245SnowGlobe = {
   position: 277,
   ownLength: 2225,
   ownProgress: 2225,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:20:37.255Z",
   publishedAt: "2025-05-10",
   externalIdentity: [

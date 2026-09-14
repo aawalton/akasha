@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0096ChapterNinetyThreeLifespan = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 96,
   ownLength: 2471,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-13",
   externalIdentity: [
     {

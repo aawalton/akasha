@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00011UnfortunatelyIMT
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 1,
   ownLength: 1900,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

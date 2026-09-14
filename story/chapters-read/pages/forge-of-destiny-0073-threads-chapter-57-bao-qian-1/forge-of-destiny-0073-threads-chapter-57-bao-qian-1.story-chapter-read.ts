@@ -8,7 +8,7 @@ export const forgeOfDestiny0073ThreadsChapter57BaoQian1 = {
   story: "forge-of-destiny",
   position: 73,
   ownLength: 2238,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-04",
   externalIdentity: [
     {

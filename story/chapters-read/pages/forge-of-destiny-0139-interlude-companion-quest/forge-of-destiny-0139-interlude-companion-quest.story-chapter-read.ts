@@ -8,7 +8,7 @@ export const forgeOfDestiny0139InterludeCompanionQuest = {
   story: "forge-of-destiny",
   position: 139,
   ownLength: 1029,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-02",
   externalIdentity: [
     {

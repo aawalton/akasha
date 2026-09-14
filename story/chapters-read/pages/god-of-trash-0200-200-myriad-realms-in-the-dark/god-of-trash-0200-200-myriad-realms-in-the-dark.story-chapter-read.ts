@@ -8,7 +8,7 @@ export const godOfTrash0200200MyriadRealmsInTheDark = {
   story: "god-of-trash",
   position: 200,
   ownLength: 1396,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-28",
   externalIdentity: [
     {

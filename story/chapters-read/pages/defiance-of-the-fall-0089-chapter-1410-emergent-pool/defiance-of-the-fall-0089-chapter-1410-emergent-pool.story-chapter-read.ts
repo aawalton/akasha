@@ -8,7 +8,7 @@ export const defianceOfTheFall0089Chapter1410EmergentPool = {
   story: "story-read/defiance-of-the-fall",
   position: 89,
   ownLength: 2816,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-17",
   externalIdentity: [
     {

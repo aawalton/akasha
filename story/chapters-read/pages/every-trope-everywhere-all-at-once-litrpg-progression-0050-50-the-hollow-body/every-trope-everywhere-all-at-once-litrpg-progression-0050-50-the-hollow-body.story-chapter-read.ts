@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005050TheHollowBody =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 50,
   ownLength: 1912,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-19",
   externalIdentity: [
     {

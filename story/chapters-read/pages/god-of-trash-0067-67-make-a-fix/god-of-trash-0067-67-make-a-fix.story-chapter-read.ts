@@ -8,7 +8,7 @@ export const godOfTrash006767MakeAFix = {
   story: "god-of-trash",
   position: 67,
   ownLength: 2479,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-06",
   externalIdentity: [
     {

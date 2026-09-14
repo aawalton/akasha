@@ -8,7 +8,7 @@ export const delve0206206Warden = {
   story: "delve",
   position: 206,
   ownLength: 4801,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-25",
   externalIdentity: [
     {

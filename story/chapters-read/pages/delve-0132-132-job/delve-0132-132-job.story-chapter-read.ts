@@ -8,7 +8,7 @@ export const delve0132132Job = {
   story: "delve",
   position: 132,
   ownLength: 7116,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-31",
   externalIdentity: [
     {

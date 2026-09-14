@@ -8,7 +8,7 @@ export const forgeOfDestiny0371Threads331Springs1 = {
   story: "forge-of-destiny",
   position: 371,
   ownLength: 2560,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-28",
   externalIdentity: [
     {

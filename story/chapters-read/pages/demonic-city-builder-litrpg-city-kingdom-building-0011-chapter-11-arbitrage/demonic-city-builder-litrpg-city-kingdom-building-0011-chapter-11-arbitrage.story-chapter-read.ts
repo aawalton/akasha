@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0011Chapter11Arbitrage =
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 11,
   ownLength: 1213,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0094ChapterNinetyOneSerindell = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 94,
   ownLength: 2932,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0179179TimeManagement = {
   story: "delve",
   position: 179,
   ownLength: 5396,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const forgeOfDestiny0001PrologueSmelting = {
   story: "forge-of-destiny",
   position: 1,
   ownLength: 2325,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-10-26",
   externalIdentity: [
     {

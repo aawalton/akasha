@@ -8,7 +8,7 @@ export const forgeOfDestiny0235ThreadsInterludeTheWhiteBladeDevil = {
   story: "forge-of-destiny",
   position: 235,
   ownLength: 1849,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-29",
   externalIdentity: [
     {

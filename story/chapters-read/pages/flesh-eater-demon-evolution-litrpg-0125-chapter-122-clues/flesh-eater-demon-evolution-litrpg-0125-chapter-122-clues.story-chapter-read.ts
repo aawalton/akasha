@@ -6,7 +6,7 @@ export const fleshEaterDemonEvolutionLitrpg0125Chapter122Clues = {
   slug: "flesh-eater-demon-evolution-litrpg-0125-chapter-122-clues",
   position: 125,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

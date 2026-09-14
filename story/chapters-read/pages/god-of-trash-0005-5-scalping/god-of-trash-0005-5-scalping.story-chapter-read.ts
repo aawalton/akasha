@@ -8,7 +8,7 @@ export const godOfTrash00055Scalping = {
   story: "god-of-trash",
   position: 5,
   ownLength: 4113,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-27",
   externalIdentity: [
     {

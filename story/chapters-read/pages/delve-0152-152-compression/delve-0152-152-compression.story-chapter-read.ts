@@ -8,7 +8,7 @@ export const delve0152152Compression = {
   story: "delve",
   position: 152,
   ownLength: 6475,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-27",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0127Chapter1446ApocalypticDeath = {
   story: "story-read/defiance-of-the-fall",
   position: 127,
   ownLength: 3134,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-13",
   externalIdentity: [
     {

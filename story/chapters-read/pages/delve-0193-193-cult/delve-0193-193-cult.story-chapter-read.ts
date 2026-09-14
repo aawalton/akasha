@@ -8,7 +8,7 @@ export const delve0193193Cult = {
   story: "delve",
   position: 193,
   ownLength: 4930,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0249249Lucid = {
   story: "delve",
   position: 249,
   ownLength: 3728,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0240240Sniffed = {
   story: "delve",
   position: 240,
   ownLength: 4653,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-06",
   externalIdentity: [
     {

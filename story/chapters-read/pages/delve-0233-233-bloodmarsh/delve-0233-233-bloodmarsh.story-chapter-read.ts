@@ -8,7 +8,7 @@ export const delve0233233Bloodmarsh = {
   story: "delve",
   position: 233,
   ownLength: 2507,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-06-04",
   externalIdentity: [
     {

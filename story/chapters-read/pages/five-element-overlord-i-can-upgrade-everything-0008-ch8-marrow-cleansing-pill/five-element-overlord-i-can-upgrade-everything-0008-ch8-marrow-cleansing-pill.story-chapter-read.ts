@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0008Ch8MarrowCleansingPill 
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 8,
   ownLength: 996,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

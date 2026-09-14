@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0067Ch67DemonSlayer = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 67,
   ownLength: 1569,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-02",
   externalIdentity: [
     {

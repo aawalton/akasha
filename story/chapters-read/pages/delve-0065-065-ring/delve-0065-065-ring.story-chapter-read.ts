@@ -8,7 +8,7 @@ export const delve0065065Ring = {
   story: "delve",
   position: 65,
   ownLength: 4103,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-12-01",
   externalIdentity: [
     {

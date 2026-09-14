@@ -8,7 +8,7 @@ export const delve0151151Forethought = {
   story: "delve",
   position: 151,
   ownLength: 8075,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-20",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const fleshEaterDemonEvolutionLitrpg0126Chapter123Investigation = {
   slug: "flesh-eater-demon-evolution-litrpg-0126-chapter-123-investigation",
   position: 126,
   publishedAt: "2026-09-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

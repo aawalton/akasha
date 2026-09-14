@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001010MatchingHairTie
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 10,
   ownLength: 1809,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-15",
   externalIdentity: [
     {

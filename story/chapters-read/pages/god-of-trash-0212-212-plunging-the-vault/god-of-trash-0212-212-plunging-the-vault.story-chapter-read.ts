@@ -8,7 +8,7 @@ export const godOfTrash0212212PlungingTheVault = {
   story: "god-of-trash",
   position: 212,
   ownLength: 2946,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-10",
   externalIdentity: [
     {

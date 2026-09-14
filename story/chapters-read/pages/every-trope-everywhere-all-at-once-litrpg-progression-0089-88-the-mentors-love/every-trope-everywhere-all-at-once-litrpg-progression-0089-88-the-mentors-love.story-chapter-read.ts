@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008988TheMentorsLove 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 89,
   ownLength: 1981,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-13",
   externalIdentity: [
     {

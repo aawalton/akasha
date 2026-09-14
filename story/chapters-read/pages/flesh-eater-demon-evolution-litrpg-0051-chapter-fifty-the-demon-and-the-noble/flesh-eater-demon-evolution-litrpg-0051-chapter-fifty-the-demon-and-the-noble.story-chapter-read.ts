@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0051ChapterFiftyTheDemonAndTheNoble =
   story: "flesh-eater-demon-evolution-litrpg",
   position: 51,
   ownLength: 2816,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-19",
   externalIdentity: [
     {

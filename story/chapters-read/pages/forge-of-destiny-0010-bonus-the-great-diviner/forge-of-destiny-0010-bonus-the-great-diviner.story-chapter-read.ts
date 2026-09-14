@@ -8,7 +8,7 @@ export const forgeOfDestiny0010BonusTheGreatDiviner = {
   story: "forge-of-destiny",
   position: 10,
   ownLength: 1020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-28",
   externalIdentity: [
     {

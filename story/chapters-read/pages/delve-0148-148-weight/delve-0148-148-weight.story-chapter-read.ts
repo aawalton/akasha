@@ -8,7 +8,7 @@ export const delve0148148Weight = {
   story: "delve",
   position: 148,
   ownLength: 5419,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-30",
   externalIdentity: [
     {

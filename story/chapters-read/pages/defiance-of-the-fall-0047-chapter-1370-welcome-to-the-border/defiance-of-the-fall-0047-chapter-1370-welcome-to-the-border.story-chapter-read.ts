@@ -8,7 +8,7 @@ export const defianceOfTheFall0047Chapter1370WelcomeToTheBorder = {
   story: "story-read/defiance-of-the-fall",
   position: 47,
   ownLength: 3017,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-26",
   externalIdentity: [
     {

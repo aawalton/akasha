@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0034Chapter34KolasSStronghold = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 34,
   ownLength: 1947,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-22",
   externalIdentity: [
     {

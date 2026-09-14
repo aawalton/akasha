@@ -8,7 +8,7 @@ export const delve0092092Fracture = {
   story: "delve",
   position: 92,
   ownLength: 4211,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-26",
   externalIdentity: [
     {

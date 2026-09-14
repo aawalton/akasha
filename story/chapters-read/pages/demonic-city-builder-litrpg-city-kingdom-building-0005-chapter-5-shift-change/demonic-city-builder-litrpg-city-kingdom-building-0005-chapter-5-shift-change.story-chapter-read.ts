@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0005Chapter5ShiftChange 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 5,
   ownLength: 3068,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

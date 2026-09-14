@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0081ChapterEightyTheSoundOfWings = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 81,
   ownLength: 2279,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0113Chapter1433EarthlyDome = {
   story: "story-read/defiance-of-the-fall",
   position: 113,
   ownLength: 2887,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-12",
   externalIdentity: [
     {

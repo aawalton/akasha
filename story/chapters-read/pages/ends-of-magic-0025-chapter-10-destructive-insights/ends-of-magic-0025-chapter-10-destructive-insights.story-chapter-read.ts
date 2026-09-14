@@ -9,7 +9,7 @@ export const endsOfMagic0025Chapter10DestructiveInsights = {
   position: 25,
   ownLength: 3432,
   ownProgress: 3432,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:08:04.315Z",
   publishedAt: "2025-08-07",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0001Chapter1TheFinePrint
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 1,
   ownLength: 2539,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0010Chapter49TheDealOfAL
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 10,
   ownLength: 2483,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-06",
   externalIdentity: [
     {

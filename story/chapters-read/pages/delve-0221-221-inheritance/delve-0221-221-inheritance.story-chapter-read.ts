@@ -8,7 +8,7 @@ export const delve0221221Inheritance = {
   story: "delve",
   position: 221,
   ownLength: 3252,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-12",
   externalIdentity: [
     {

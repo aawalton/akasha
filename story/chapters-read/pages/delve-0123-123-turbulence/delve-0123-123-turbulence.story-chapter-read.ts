@@ -8,7 +8,7 @@ export const delve0123123Turbulence = {
   story: "delve",
   position: 123,
   ownLength: 6116,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-29",
   externalIdentity: [
     {

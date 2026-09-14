@@ -8,7 +8,7 @@ export const forgeOfDestiny0234Threads202Festival3 = {
   story: "forge-of-destiny",
   position: 234,
   ownLength: 2325,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-26",
   externalIdentity: [
     {

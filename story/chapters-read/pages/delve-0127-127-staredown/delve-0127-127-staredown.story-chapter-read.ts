@@ -8,7 +8,7 @@ export const delve0127127Staredown = {
   story: "delve",
   position: 127,
   ownLength: 5888,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-27",
   externalIdentity: [
     {

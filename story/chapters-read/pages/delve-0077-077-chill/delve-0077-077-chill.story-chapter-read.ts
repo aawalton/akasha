@@ -8,7 +8,7 @@ export const delve0077077Chill = {
   story: "delve",
   position: 77,
   ownLength: 4554,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-02-01",
   externalIdentity: [
     {

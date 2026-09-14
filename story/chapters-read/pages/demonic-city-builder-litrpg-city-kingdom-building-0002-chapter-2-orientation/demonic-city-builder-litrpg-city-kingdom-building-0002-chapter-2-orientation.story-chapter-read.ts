@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0002Chapter2Orientation 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 2,
   ownLength: 2300,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash0108108PitifulHeavens = {
   story: "god-of-trash",
   position: 108,
   ownLength: 1523,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-22",
   externalIdentity: [
     {

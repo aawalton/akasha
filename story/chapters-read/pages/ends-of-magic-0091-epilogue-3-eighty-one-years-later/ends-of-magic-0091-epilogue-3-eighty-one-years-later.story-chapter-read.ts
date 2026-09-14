@@ -8,7 +8,7 @@ export const endsOfMagic0091Epilogue3EightyOneYearsLater = {
   story: "story-read/ends-of-magic",
   position: 91,
   ownLength: 1543,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-04",
   externalIdentity: [
     {

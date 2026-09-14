@@ -8,7 +8,7 @@ export const delve0105105Connection = {
   story: "delve",
   position: 105,
   ownLength: 6454,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-25",
   externalIdentity: [
     {

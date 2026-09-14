@@ -8,7 +8,7 @@ export const delve0097097Arrested = {
   story: "delve",
   position: 97,
   ownLength: 9725,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-31",
   externalIdentity: [
     {

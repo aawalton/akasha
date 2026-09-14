@@ -8,7 +8,7 @@ export const godOfTrash0253253FilthGolem = {
   story: "god-of-trash",
   position: 253,
   ownLength: 1965,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-26",
   externalIdentity: [
     {

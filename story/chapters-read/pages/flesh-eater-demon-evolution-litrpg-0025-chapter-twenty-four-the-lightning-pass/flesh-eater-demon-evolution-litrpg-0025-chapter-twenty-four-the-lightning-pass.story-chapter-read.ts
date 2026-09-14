@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0025ChapterTwentyFourTheLightningPass
   story: "flesh-eater-demon-evolution-litrpg",
   position: 25,
   ownLength: 2576,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-28",
   externalIdentity: [
     {

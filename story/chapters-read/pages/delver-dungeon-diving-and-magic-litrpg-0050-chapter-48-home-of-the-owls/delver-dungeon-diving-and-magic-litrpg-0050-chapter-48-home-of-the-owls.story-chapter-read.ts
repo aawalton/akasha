@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0050Chapter48HomeOfTheOwls = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 50,
   ownLength: 2011,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

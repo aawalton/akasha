@@ -8,7 +8,7 @@ export const delve0138138Metal = {
   story: "delve",
   position: 138,
   ownLength: 5388,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-14",
   externalIdentity: [
     {

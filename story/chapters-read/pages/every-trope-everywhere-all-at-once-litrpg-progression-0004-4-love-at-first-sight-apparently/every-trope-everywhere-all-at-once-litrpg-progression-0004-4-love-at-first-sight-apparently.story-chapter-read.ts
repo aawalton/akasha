@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00044LoveAtFirstSight
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 4,
   ownLength: 1815,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-12",
   externalIdentity: [
     {

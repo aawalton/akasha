@@ -8,7 +8,7 @@ export const delve0241241Impasse = {
   story: "delve",
   position: 241,
   ownLength: 3184,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-20",
   externalIdentity: [
     {

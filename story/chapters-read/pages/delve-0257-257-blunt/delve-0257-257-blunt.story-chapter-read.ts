@@ -8,7 +8,7 @@ export const delve0257257Blunt = {
   story: "delve",
   position: 257,
   ownLength: 3011,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-14",
   externalIdentity: [
     {

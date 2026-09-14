@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004545AGreatSin = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 45,
   ownLength: 1990,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-14",
   externalIdentity: [
     {

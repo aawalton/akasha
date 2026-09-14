@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004949TheDragonSMadly
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 49,
   ownLength: 2028,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-17",
   externalIdentity: [
     {

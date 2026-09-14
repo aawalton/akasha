@@ -8,7 +8,7 @@ export const delve0210210Atrocity = {
   story: "delve",
   position: 210,
   ownLength: 6622,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-30",
   externalIdentity: [
     {

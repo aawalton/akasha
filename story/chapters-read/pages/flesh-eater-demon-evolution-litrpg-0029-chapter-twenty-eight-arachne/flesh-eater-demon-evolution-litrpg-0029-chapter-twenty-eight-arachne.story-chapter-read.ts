@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0029ChapterTwentyEightArachne = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 29,
   ownLength: 3283,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-09",
   externalIdentity: [
     {

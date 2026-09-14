@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0018Chapter57FireIcePart
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 18,
   ownLength: 1574,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-25",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0079Ch79QuestHall = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 79,
   ownLength: 1938,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-18",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0042Chapter40TheWardens 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 42,
   ownLength: 2281,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-07",
   externalIdentity: [
     {

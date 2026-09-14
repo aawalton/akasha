@@ -8,7 +8,7 @@ export const forgeOfDestiny0266InTheShadowOfXiangmenIv = {
   story: "forge-of-destiny",
   position: 266,
   ownLength: 841,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-07",
   externalIdentity: [
     {

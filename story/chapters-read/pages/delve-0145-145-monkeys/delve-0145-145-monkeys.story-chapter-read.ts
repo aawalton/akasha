@@ -8,7 +8,7 @@ export const delve0145145Monkeys = {
   story: "delve",
   position: 145,
   ownLength: 7933,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-02",
   externalIdentity: [
     {

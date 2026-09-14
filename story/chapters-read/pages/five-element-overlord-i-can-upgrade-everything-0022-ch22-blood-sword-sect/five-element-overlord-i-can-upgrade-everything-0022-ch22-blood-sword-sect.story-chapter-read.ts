@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0022Ch22BloodSwordSect = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 22,
   ownLength: 1490,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-31",
   externalIdentity: [
     {

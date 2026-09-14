@@ -8,7 +8,7 @@ export const godOfTrash0188188FromOnePoisonMasterToAnother = {
   story: "god-of-trash",
   position: 188,
   ownLength: 2107,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-16",
   externalIdentity: [
     {

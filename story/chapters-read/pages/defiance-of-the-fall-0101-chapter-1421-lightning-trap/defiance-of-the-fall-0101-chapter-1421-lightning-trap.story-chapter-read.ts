@@ -8,7 +8,7 @@ export const defianceOfTheFall0101Chapter1421LightningTrap = {
   story: "story-read/defiance-of-the-fall",
   position: 101,
   ownLength: 2915,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-12",
   externalIdentity: [
     {

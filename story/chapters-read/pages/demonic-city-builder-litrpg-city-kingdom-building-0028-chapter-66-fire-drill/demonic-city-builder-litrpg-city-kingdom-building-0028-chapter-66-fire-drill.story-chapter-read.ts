@@ -6,7 +6,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0028Chapter66FireDrill =
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0028-chapter-66-fire-drill",
   position: 28,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

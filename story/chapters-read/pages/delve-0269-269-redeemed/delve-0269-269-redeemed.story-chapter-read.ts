@@ -8,7 +8,7 @@ export const delve0269269Redeemed = {
   story: "delve",
   position: 269,
   ownLength: 2658,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-10-27",
   externalIdentity: [
     {

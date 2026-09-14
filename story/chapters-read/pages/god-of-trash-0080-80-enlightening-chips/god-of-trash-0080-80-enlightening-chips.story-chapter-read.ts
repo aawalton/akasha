@@ -8,7 +8,7 @@ export const godOfTrash008080EnlighteningChips = {
   story: "god-of-trash",
   position: 80,
   ownLength: 2003,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-19",
   externalIdentity: [
     {

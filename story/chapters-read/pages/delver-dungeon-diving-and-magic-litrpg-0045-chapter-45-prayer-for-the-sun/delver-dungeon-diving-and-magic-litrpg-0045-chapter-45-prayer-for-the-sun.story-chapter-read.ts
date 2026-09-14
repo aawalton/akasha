@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0045Chapter45PrayerForTheSun = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 45,
   ownLength: 2493,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-18",
   externalIdentity: [
     {

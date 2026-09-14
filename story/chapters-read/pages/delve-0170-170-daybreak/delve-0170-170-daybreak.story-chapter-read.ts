@@ -8,7 +8,7 @@ export const delve0170170Daybreak = {
   story: "delve",
   position: 170,
   ownLength: 6571,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-07",
   externalIdentity: [
     {

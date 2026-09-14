@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0256Chapter224KirVellaPart2 = {
   position: 256,
   ownLength: 3154,
   ownProgress: 3154,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:19:52.876Z",
   publishedAt: "2025-04-16",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0111ChapterOneHundredEightAlliesAndFo
   story: "flesh-eater-demon-evolution-litrpg",
   position: 111,
   ownLength: 2405,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-23",
   externalIdentity: [
     {

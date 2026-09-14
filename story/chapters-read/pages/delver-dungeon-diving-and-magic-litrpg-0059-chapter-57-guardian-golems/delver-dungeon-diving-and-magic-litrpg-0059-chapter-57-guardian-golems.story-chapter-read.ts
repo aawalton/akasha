@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0059Chapter57GuardianGolems = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 59,
   ownLength: 2418,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-27",
   externalIdentity: [
     {

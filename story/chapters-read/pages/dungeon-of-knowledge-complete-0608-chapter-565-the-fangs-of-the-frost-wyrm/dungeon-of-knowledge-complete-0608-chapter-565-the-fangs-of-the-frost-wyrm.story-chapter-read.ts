@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0608Chapter565TheFangsOfTheFrostWyrm = {
   story: "dungeon-of-knowledge-complete",
   position: 608,
   ownLength: 2978,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-13",
   externalIdentity: [
     {

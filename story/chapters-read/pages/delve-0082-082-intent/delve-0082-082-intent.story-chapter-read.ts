@@ -8,7 +8,7 @@ export const delve0082082Intent = {
   story: "delve",
   position: 82,
   ownLength: 7216,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-02-23",
   externalIdentity: [
     {

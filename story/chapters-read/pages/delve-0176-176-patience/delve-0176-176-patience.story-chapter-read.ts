@@ -8,7 +8,7 @@ export const delve0176176Patience = {
   story: "delve",
   position: 176,
   ownLength: 5561,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-12-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0024ChapterTwentyThreePiecesOfThePuzz
   story: "flesh-eater-demon-evolution-litrpg",
   position: 24,
   ownLength: 2849,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-26",
   externalIdentity: [
     {

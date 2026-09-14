@@ -8,7 +8,7 @@ export const defianceOfTheFall0033Chapter1357FateThroughChaos = {
   story: "story-read/defiance-of-the-fall",
   position: 33,
   ownLength: 3129,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-23",
   externalIdentity: [
     {

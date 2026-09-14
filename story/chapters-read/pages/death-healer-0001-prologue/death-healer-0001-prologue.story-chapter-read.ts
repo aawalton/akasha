@@ -8,7 +8,7 @@ export const deathHealer0001Prologue = {
   story: "death-healer",
   position: 1,
   ownLength: 3142,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-04",
   externalIdentity: [
     {

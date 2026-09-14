@@ -8,7 +8,7 @@ export const delve0089089Consequence = {
   story: "delve",
   position: 89,
   ownLength: 4502,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-05",
   externalIdentity: [
     {

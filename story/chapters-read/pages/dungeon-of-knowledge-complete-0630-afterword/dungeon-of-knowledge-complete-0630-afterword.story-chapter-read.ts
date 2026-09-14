@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0630Afterword = {
   story: "dungeon-of-knowledge-complete",
   position: 630,
   ownLength: 560,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-24",
   externalIdentity: [
     {

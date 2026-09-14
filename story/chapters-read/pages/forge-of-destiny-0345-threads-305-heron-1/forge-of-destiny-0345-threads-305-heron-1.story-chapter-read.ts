@@ -8,7 +8,7 @@ export const forgeOfDestiny0345Threads305Heron1 = {
   story: "forge-of-destiny",
   position: 345,
   ownLength: 1515,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-11",
   externalIdentity: [
     {

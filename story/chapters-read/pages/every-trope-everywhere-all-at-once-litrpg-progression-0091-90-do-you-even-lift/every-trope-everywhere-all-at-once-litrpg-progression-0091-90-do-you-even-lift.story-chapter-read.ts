@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009190DoYouEvenLift =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 91,
   ownLength: 1836,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-18",
   externalIdentity: [
     {

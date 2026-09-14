@@ -8,7 +8,7 @@ export const godOfTrash0275275IThinkIveBeenRevealed = {
   story: "god-of-trash",
   position: 275,
   ownLength: 2185,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-16",
   externalIdentity: [
     {

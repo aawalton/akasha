@@ -8,7 +8,7 @@ export const godOfTrash0242242GettingAway = {
   story: "god-of-trash",
   position: 242,
   ownLength: 1997,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-01",
   externalIdentity: [
     {

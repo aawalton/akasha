@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0600Chapter558ThirdTierBalance = {
   story: "dungeon-of-knowledge-complete",
   position: 600,
   ownLength: 2320,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0237237Threshold = {
   story: "delve",
   position: 237,
   ownLength: 3527,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-09",
   externalIdentity: [
     {

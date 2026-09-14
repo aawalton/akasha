@@ -8,7 +8,7 @@ export const defianceOfTheFall0128Chapter1447RaptureBeast = {
   story: "story-read/defiance-of-the-fall",
   position: 128,
   ownLength: 3013,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-16",
   externalIdentity: [
     {

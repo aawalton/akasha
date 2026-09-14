@@ -8,7 +8,7 @@ export const delve0260260Pitch = {
   story: "delve",
   position: 260,
   ownLength: 3839,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-11",
   externalIdentity: [
     {

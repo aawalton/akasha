@@ -8,7 +8,7 @@ export const forgeOfDestiny0007ThreadsOfDestinyPrologue = {
   story: "forge-of-destiny",
   position: 7,
   ownLength: 1258,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-22",
   externalIdentity: [
     {

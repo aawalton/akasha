@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0628Chapter584EpiloguePart1 = {
   story: "dungeon-of-knowledge-complete",
   position: 628,
   ownLength: 2917,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-24",
   externalIdentity: [
     {

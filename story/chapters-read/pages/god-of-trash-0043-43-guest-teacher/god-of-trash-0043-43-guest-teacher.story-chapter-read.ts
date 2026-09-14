@@ -8,7 +8,7 @@ export const godOfTrash004343GuestTeacher = {
   story: "god-of-trash",
   position: 43,
   ownLength: 2276,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-06",
   externalIdentity: [
     {

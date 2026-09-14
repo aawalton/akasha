@@ -8,7 +8,7 @@ export const defianceOfTheFall0076Chapter1398Lodge = {
   story: "story-read/defiance-of-the-fall",
   position: 76,
   ownLength: 3044,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-18",
   externalIdentity: [
     {

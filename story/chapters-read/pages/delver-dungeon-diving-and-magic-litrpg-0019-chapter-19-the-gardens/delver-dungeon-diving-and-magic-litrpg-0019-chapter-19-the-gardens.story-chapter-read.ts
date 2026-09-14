@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0019Chapter19TheGardens = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 19,
   ownLength: 2052,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-06",
   externalIdentity: [
     {

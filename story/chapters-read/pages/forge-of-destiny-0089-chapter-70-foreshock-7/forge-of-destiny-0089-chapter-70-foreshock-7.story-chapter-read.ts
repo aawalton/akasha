@@ -8,7 +8,7 @@ export const forgeOfDestiny0089Chapter70Foreshock7 = {
   story: "forge-of-destiny",
   position: 89,
   ownLength: 3003,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-05",
   externalIdentity: [
     {

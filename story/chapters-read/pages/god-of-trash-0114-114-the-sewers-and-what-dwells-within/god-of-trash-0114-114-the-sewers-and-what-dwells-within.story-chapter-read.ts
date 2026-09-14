@@ -8,7 +8,7 @@ export const godOfTrash0114114TheSewersAndWhatDwellsWithin = {
   story: "god-of-trash",
   position: 114,
   ownLength: 2583,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-28",
   externalIdentity: [
     {

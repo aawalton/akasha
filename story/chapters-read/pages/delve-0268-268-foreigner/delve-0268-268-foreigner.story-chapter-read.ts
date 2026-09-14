@@ -8,7 +8,7 @@ export const delve0268268Foreigner = {
   story: "delve",
   position: 268,
   ownLength: 3233,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-09-22",
   externalIdentity: [
     {

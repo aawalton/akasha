@@ -8,7 +8,7 @@ export const godOfTrash0264264TheDarkOfTheEarth = {
   story: "god-of-trash",
   position: 264,
   ownLength: 1920,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-21",
   externalIdentity: [
     {

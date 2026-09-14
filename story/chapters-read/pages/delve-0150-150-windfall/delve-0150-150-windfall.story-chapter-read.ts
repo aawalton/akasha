@@ -8,7 +8,7 @@ export const delve0150150Windfall = {
   story: "delve",
   position: 150,
   ownLength: 7217,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009594Quack = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 95,
   ownLength: 1607,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-27",
   externalIdentity: [
     {

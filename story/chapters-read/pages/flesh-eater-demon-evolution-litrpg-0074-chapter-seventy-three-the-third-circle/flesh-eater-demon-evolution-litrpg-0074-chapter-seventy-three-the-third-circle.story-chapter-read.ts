@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0074ChapterSeventyThreeTheThirdCircle
   story: "flesh-eater-demon-evolution-litrpg",
   position: 74,
   ownLength: 2460,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-19",
   externalIdentity: [
     {

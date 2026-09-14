@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0020Chapter58RedClaws = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 20,
   ownLength: 2481,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-26",
   externalIdentity: [
     {

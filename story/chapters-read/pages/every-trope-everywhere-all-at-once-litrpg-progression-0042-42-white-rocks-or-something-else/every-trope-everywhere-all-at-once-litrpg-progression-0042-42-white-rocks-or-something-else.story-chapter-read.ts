@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004242WhiteRocksOrSom
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 42,
   ownLength: 1650,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-11",
   externalIdentity: [
     {

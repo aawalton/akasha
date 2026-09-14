@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0416Chapter379AssaultOnTheBloomingRot = {
   position: 416,
   ownLength: 3585,
   ownProgress: 3585,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:26:07.438Z",
   publishedAt: "2025-09-16",
   externalIdentity: [

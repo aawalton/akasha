@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0414Chapter377CraftingResources = {
   position: 414,
   ownLength: 3009,
   ownProgress: 3009,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:26:02.838Z",
   publishedAt: "2025-09-14",
   externalIdentity: [

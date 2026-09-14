@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0007Ch7SpiritStone = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 7,
   ownLength: 971,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

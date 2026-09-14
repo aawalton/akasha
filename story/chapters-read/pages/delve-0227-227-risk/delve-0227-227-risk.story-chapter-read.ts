@@ -8,7 +8,7 @@ export const delve0227227Risk = {
   story: "delve",
   position: 227,
   ownLength: 4509,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0029Chapter28NewHires = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 29,
   ownLength: 2344,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-09",
   externalIdentity: [
     {

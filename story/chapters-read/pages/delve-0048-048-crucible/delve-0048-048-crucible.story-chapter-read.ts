@@ -8,7 +8,7 @@ export const delve0048048Crucible = {
   story: "delve",
   position: 48,
   ownLength: 3010,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-09-29",
   externalIdentity: [
     {

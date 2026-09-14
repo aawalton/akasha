@@ -8,7 +8,7 @@ export const godOfTrash0252252BigFatPillars = {
   story: "god-of-trash",
   position: 252,
   ownLength: 2118,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-24",
   externalIdentity: [
     {

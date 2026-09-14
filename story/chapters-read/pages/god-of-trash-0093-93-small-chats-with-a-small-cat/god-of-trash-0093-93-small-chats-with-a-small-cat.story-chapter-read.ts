@@ -8,7 +8,7 @@ export const godOfTrash009393SmallChatsWithASmallCat = {
   story: "god-of-trash",
   position: 93,
   ownLength: 2688,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-01",
   externalIdentity: [
     {

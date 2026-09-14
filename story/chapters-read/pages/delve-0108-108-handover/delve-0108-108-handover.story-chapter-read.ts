@@ -8,7 +8,7 @@ export const delve0108108Handover = {
   story: "delve",
   position: 108,
   ownLength: 5321,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-16",
   externalIdentity: [
     {

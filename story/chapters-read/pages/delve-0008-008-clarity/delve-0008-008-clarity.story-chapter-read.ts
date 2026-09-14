@@ -8,7 +8,7 @@ export const delve0008008Clarity = {
   story: "delve",
   position: 8,
   ownLength: 3175,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-02",
   externalIdentity: [
     {

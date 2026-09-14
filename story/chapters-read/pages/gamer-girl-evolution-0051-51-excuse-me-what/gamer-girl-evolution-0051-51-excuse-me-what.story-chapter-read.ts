@@ -9,7 +9,7 @@ export const gamerGirlEvolution005151ExcuseMeWhat = {
   position: 51,
   ownLength: 1722,
   ownProgress: 1722,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:07:12.533Z",
   publishedAt: "2026-01-22",
   externalIdentity: [

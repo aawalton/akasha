@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0098Ch9810thLevelArmoredLiz
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 98,
   ownLength: 1379,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-15",
   externalIdentity: [
     {

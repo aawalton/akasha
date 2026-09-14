@@ -8,7 +8,7 @@ export const forgeOfDestiny0485Threads441LessonPlan2 = {
   story: "forge-of-destiny",
   position: 485,
   ownLength: 1716,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-04",
   externalIdentity: [
     {

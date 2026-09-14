@@ -8,7 +8,7 @@ export const forgeOfDestiny0405Threads365Maps6 = {
   story: "forge-of-destiny",
   position: 405,
   ownLength: 2296,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-26",
   externalIdentity: [
     {

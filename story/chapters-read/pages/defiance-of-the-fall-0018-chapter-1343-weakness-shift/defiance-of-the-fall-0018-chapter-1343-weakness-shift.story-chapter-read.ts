@@ -8,7 +8,7 @@ export const defianceOfTheFall0018Chapter1343WeaknessShift = {
   story: "story-read/defiance-of-the-fall",
   position: 18,
   ownLength: 3239,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-30",
   externalIdentity: [
     {

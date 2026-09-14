@@ -6,7 +6,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0029Chapter67UnexpectedP
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0029-chapter-67-unexpected-promotion",
   position: 29,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

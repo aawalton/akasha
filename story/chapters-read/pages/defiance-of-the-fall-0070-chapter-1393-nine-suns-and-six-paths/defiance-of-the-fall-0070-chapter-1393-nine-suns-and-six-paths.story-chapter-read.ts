@@ -8,7 +8,7 @@ export const defianceOfTheFall0070Chapter1393NineSunsAndSixPaths = {
   story: "story-read/defiance-of-the-fall",
   position: 70,
   ownLength: 3457,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-21",
   externalIdentity: [
     {

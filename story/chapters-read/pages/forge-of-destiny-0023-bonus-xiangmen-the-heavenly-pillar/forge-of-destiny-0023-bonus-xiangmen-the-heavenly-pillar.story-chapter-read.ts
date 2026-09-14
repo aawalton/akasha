@@ -8,7 +8,7 @@ export const forgeOfDestiny0023BonusXiangmenTheHeavenlyPillar = {
   story: "forge-of-destiny",
   position: 23,
   ownLength: 963,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-25",
   externalIdentity: [
     {

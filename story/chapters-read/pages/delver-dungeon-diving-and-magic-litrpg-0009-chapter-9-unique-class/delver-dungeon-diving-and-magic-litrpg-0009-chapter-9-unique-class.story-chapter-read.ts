@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0009Chapter9UniqueClass = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 9,
   ownLength: 2455,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-27",
   externalIdentity: [
     {

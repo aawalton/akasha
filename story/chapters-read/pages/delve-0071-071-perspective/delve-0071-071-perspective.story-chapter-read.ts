@@ -8,7 +8,7 @@ export const delve0071071Perspective = {
   story: "delve",
   position: 71,
   ownLength: 4906,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-01-08",
   externalIdentity: [
     {

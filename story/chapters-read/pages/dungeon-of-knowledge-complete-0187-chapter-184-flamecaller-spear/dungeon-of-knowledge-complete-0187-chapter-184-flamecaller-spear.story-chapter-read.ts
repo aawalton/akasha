@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0187Chapter184FlamecallerSpear = {
   position: 187,
   ownLength: 7009,
   ownProgress: 7009,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:17:25.293Z",
   publishedAt: "2025-01-16",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const godOfTrash0180180ThePivotalMoment = {
   story: "god-of-trash",
   position: 180,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009796LetsSplitUp = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 97,
   ownLength: 1528,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-30",
   externalIdentity: [
     {

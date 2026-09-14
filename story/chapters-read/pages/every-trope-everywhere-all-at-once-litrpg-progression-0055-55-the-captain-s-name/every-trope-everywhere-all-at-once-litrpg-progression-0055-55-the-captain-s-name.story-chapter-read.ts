@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005555TheCaptainSName
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 55,
   ownLength: 1722,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

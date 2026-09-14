@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003030TheGiantRolling
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 30,
   ownLength: 1727,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-30",
   externalIdentity: [
     {

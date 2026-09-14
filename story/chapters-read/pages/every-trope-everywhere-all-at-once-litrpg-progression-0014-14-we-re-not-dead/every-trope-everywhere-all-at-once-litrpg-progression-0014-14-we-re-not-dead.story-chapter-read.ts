@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001414WeReNotDead = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 14,
   ownLength: 1241,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-18",
   externalIdentity: [
     {

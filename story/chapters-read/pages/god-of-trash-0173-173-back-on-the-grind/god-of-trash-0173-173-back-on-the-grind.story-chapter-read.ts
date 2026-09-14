@@ -8,7 +8,7 @@ export const godOfTrash0173173BackOnTheGrind = {
   story: "god-of-trash",
   position: 173,
   ownLength: 2216,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-01",
   externalIdentity: [
     {

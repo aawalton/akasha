@@ -8,7 +8,7 @@ export const godOfTrash0206206Counterattack = {
   story: "god-of-trash",
   position: 206,
   ownLength: 2052,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-04",
   externalIdentity: [
     {

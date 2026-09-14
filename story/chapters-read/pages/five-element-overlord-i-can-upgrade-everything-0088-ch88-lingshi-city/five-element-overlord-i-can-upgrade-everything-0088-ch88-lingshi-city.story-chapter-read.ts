@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0088Ch88LingshiCity = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 88,
   ownLength: 1584,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-01",
   externalIdentity: [
     {

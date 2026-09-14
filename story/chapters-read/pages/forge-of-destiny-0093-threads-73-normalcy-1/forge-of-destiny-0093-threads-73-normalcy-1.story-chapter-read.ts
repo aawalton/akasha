@@ -8,7 +8,7 @@ export const forgeOfDestiny0093Threads73Normalcy1 = {
   story: "forge-of-destiny",
   position: 93,
   ownLength: 2966,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-15",
   externalIdentity: [
     {

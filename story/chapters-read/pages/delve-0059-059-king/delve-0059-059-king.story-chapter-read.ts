@@ -8,7 +8,7 @@ export const delve0059059King = {
   story: "delve",
   position: 59,
   ownLength: 5313,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-11-07",
   externalIdentity: [
     {

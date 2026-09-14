@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0014ChapterFourteenTheCrossroadsDemon
   story: "flesh-eater-demon-evolution-litrpg",
   position: 14,
   ownLength: 2867,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-03",
   externalIdentity: [
     {

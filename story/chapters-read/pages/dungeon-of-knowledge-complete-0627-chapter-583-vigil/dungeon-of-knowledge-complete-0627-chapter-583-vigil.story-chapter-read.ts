@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0627Chapter583Vigil = {
   story: "dungeon-of-knowledge-complete",
   position: 627,
   ownLength: 1916,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-23",
   externalIdentity: [
     {

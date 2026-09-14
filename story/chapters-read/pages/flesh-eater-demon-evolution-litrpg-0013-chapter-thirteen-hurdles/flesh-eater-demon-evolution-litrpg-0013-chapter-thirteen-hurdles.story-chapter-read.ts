@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0013ChapterThirteenHurdles = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 13,
   ownLength: 2826,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-31",
   externalIdentity: [
     {

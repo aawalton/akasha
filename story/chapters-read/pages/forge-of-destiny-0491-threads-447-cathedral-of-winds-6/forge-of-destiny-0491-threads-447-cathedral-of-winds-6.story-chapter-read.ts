@@ -8,7 +8,7 @@ export const forgeOfDestiny0491Threads447CathedralOfWinds6 = {
   story: "forge-of-destiny",
   position: 491,
   ownLength: 2008,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-02",
   externalIdentity: [
     {

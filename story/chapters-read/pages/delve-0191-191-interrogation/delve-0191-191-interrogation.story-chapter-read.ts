@@ -8,7 +8,7 @@ export const delve0191191Interrogation = {
   story: "delve",
   position: 191,
   ownLength: 4770,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-08",
   externalIdentity: [
     {

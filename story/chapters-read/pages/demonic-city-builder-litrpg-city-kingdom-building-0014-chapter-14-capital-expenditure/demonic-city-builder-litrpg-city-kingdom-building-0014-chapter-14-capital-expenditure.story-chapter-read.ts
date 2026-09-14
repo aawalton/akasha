@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0014Chapter14CapitalExpe
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 14,
   ownLength: 2415,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-22",
   externalIdentity: [
     {

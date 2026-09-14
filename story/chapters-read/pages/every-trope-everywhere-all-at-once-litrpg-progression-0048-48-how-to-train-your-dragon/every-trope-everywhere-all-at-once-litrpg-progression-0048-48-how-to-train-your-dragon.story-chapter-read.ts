@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004848HowToTrainYourD
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 48,
   ownLength: 1477,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-16",
   externalIdentity: [
     {

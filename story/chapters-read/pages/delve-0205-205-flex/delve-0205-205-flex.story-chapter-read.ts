@@ -8,7 +8,7 @@ export const delve0205205Flex = {
   story: "delve",
   position: 205,
   ownLength: 4218,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-18",
   externalIdentity: [
     {

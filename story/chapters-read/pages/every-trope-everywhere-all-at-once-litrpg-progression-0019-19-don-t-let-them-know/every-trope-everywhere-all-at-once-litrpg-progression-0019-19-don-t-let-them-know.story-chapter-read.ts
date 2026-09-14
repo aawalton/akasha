@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001919DonTLetThemKnow
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 19,
   ownLength: 1524,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-22",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0079Chapter1401Immortal = {
   story: "story-read/defiance-of-the-fall",
   position: 79,
   ownLength: 2962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-25",
   externalIdentity: [
     {

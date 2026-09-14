@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0031ChapterThirtyTheDemonOfEnvy = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 31,
   ownLength: 2520,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0071Ch71Backlash = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 71,
   ownLength: 1758,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-08",
   externalIdentity: [
     {

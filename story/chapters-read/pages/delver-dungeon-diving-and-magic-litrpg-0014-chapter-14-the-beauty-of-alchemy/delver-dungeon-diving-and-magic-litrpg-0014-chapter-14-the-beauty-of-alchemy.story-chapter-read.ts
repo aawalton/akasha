@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0014Chapter14TheBeautyOfAlchemy = 
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 14,
   ownLength: 1926,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-01",
   externalIdentity: [
     {

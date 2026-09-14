@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002525DrunkenFestival
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 25,
   ownLength: 2000,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-26",
   externalIdentity: [
     {

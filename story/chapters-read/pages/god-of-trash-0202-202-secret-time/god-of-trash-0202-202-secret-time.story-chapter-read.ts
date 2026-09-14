@@ -8,7 +8,7 @@ export const godOfTrash0202202SecretTime = {
   story: "god-of-trash",
   position: 202,
   ownLength: 1764,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-30",
   externalIdentity: [
     {

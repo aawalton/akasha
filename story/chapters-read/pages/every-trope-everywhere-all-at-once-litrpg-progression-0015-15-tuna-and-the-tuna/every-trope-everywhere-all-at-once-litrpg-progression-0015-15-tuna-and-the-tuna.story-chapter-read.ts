@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001515TunaAndTheTuna 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 15,
   ownLength: 1919,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-19",
   externalIdentity: [
     {

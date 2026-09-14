@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0064ChapterSixtyThreeTruths = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 64,
   ownLength: 2131,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-12",
   externalIdentity: [
     {

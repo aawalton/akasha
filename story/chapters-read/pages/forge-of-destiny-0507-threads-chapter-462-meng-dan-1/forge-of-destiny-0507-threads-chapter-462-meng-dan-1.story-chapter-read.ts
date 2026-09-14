@@ -8,7 +8,7 @@ export const forgeOfDestiny0507ThreadsChapter462MengDan1 = {
   story: "forge-of-destiny",
   position: 507,
   ownLength: 2085,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-22",
   externalIdentity: [
     {

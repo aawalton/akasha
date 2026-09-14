@@ -8,7 +8,7 @@ export const godOfTrash0255255FeedingTime = {
   story: "god-of-trash",
   position: 255,
   ownLength: 2154,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-31",
   externalIdentity: [
     {

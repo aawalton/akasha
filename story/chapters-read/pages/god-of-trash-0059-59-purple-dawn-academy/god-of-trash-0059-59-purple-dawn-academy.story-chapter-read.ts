@@ -8,7 +8,7 @@ export const godOfTrash005959PurpleDawnAcademy = {
   story: "god-of-trash",
   position: 59,
   ownLength: 2766,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-28",
   externalIdentity: [
     {

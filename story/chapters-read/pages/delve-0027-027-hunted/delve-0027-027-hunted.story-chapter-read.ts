@@ -8,7 +8,7 @@ export const delve0027027Hunted = {
   story: "delve",
   position: 27,
   ownLength: 2087,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-07-14",
   externalIdentity: [
     {

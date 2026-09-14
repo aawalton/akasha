@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0625Chapter581ToKillDeath = {
   story: "dungeon-of-knowledge-complete",
   position: 625,
   ownLength: 3532,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-23",
   externalIdentity: [
     {

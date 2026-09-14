@@ -8,7 +8,7 @@ export const godOfTrash0110110NewHideout = {
   story: "god-of-trash",
   position: 110,
   ownLength: 2272,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash0129129ARemnantWeapon = {
   story: "god-of-trash",
   position: 129,
   ownLength: 2151,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-13",
   externalIdentity: [
     {

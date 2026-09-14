@@ -8,7 +8,7 @@ export const forgeOfDestiny0564ThreadsChapter515Homecoming3 = {
   story: "forge-of-destiny",
   position: 564,
   ownLength: 1887,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-21",
   externalIdentity: [
     {

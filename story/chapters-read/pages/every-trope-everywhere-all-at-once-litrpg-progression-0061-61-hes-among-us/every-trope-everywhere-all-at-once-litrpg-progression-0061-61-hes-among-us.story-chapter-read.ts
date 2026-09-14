@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006161HesAmongUs = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 61,
   ownLength: 1931,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0075075Adaptation = {
   story: "delve",
   position: 75,
   ownLength: 6342,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-01-26",
   externalIdentity: [
     {

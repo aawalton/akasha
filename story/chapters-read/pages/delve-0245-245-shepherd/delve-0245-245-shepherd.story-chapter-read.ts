@@ -8,7 +8,7 @@ export const delve0245245Shepherd = {
   story: "delve",
   position: 245,
   ownLength: 3435,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-24",
   externalIdentity: [
     {

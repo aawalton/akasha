@@ -8,7 +8,7 @@ export const defianceOfTheFall0106Chapter1426Peak = {
   story: "story-read/defiance-of-the-fall",
   position: 106,
   ownLength: 3189,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-26",
   externalIdentity: [
     {

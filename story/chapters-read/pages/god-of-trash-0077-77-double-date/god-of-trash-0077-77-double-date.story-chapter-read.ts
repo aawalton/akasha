@@ -8,7 +8,7 @@ export const godOfTrash007777DoubleDate = {
   story: "god-of-trash",
   position: 77,
   ownLength: 2405,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-16",
   externalIdentity: [
     {

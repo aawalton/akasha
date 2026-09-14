@@ -8,7 +8,7 @@ export const delve0160160Spelunking = {
   story: "delve",
   position: 160,
   ownLength: 5133,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-29",
   externalIdentity: [
     {

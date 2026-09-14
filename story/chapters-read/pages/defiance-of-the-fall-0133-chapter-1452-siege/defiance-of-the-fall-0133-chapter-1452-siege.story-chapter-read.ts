@@ -8,7 +8,7 @@ export const defianceOfTheFall0133Chapter1452Siege = {
   story: "story-read/defiance-of-the-fall",
   position: 133,
   ownLength: 2812,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-27",
   externalIdentity: [
     {

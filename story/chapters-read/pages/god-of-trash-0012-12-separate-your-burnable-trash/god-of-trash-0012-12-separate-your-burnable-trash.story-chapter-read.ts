@@ -8,7 +8,7 @@ export const godOfTrash001212SeparateYourBurnableTrash = {
   story: "god-of-trash",
   position: 12,
   ownLength: 3224,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-06",
   externalIdentity: [
     {

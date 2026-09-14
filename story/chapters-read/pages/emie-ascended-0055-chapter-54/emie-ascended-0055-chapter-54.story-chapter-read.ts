@@ -7,7 +7,7 @@ export const emieAscended0055Chapter54 = {
   story: "story-read/emie-ascended",
   position: 55,
   publishedAt: "2026-09-05",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

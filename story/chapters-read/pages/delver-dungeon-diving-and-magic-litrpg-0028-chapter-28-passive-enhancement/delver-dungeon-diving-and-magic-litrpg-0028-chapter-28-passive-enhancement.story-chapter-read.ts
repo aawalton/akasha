@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0028Chapter28PassiveEnhancement = 
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 28,
   ownLength: 2112,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-15",
   externalIdentity: [
     {

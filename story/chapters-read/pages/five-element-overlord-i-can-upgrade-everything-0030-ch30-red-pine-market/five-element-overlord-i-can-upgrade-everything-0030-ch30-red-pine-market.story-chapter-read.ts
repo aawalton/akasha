@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0030Ch30RedPineMarket = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 30,
   ownLength: 2098,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-10",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0301MapNewDaria = {
   position: 301,
   ownLength: 60,
   ownProgress: 60,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:21:28.157Z",
   publishedAt: "2025-06-05",
   externalIdentity: [

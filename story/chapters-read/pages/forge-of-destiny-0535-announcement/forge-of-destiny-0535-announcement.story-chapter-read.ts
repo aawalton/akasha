@@ -8,7 +8,7 @@ export const forgeOfDestiny0535Announcement = {
   story: "forge-of-destiny",
   position: 535,
   ownLength: 229,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-19",
   externalIdentity: [
     {

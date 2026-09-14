@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter26IDidnTAgree
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 26,
   ownLength: 2632,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-04",
   externalIdentity: [
     {

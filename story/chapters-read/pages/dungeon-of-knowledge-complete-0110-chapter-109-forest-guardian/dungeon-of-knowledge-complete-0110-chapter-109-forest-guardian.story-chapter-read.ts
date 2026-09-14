@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0110Chapter109ForestGuardian = {
   position: 110,
   ownLength: 4877,
   ownProgress: 4877,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:14:42.604Z",
   publishedAt: "2024-08-06",
   externalIdentity: [

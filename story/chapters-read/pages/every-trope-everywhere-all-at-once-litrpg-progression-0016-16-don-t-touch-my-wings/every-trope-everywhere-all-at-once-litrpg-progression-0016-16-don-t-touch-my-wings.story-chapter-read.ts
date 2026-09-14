@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001616DonTTouchMyWing
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 16,
   ownLength: 2432,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-19",
   externalIdentity: [
     {

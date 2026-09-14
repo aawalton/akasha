@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0033Ch33TyrantBloodline = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 33,
   ownLength: 1610,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-15",
   externalIdentity: [
     {

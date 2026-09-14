@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0046Chapter46AncientSerpent = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 46,
   ownLength: 2100,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-20",
   externalIdentity: [
     {

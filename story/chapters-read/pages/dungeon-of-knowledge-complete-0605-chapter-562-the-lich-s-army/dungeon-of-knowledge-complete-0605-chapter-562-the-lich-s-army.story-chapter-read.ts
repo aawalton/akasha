@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0605Chapter562TheLichSArmy = {
   story: "dungeon-of-knowledge-complete",
   position: 605,
   ownLength: 5563,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-11",
   externalIdentity: [
     {

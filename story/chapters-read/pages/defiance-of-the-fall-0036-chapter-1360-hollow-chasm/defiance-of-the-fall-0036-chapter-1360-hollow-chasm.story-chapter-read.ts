@@ -8,7 +8,7 @@ export const defianceOfTheFall0036Chapter1360HollowChasm = {
   story: "story-read/defiance-of-the-fall",
   position: 36,
   ownLength: 2847,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-30",
   externalIdentity: [
     {

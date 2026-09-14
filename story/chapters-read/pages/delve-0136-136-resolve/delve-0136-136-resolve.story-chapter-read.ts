@@ -8,7 +8,7 @@ export const delve0136136Resolve = {
   story: "delve",
   position: 136,
   ownLength: 9121,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-28",
   externalIdentity: [
     {

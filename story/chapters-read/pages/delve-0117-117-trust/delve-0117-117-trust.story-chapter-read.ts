@@ -8,7 +8,7 @@ export const delve0117117Trust = {
   story: "delve",
   position: 117,
   ownLength: 4083,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-18",
   externalIdentity: [
     {

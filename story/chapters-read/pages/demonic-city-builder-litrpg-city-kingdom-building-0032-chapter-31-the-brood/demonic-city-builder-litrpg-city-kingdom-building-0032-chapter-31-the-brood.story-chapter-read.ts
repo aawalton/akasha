@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0032Chapter31TheBrood = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 32,
   ownLength: 2030,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-15",
   externalIdentity: [
     {

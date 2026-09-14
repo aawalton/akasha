@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0015Chapter15CostAnalysi
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 15,
   ownLength: 1306,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-23",
   externalIdentity: [
     {

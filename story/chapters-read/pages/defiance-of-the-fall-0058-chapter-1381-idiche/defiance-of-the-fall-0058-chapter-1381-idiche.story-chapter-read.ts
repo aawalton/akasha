@@ -8,7 +8,7 @@ export const defianceOfTheFall0058Chapter1381Idiche = {
   story: "story-read/defiance-of-the-fall",
   position: 58,
   ownLength: 3462,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-23",
   externalIdentity: [
     {

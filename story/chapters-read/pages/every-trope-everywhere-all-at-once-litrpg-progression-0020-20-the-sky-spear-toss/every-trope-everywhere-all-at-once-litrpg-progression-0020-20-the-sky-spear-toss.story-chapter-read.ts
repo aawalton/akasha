@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002020TheSkySpearToss
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 20,
   ownLength: 1787,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-22",
   externalIdentity: [
     {

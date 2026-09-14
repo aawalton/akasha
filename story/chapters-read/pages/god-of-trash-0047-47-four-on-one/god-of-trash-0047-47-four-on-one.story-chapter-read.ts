@@ -8,7 +8,7 @@ export const godOfTrash004747FourOnOne = {
   story: "god-of-trash",
   position: 47,
   ownLength: 3632,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-10",
   externalIdentity: [
     {

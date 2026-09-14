@@ -8,7 +8,7 @@ export const delve0118118Frost = {
   story: "delve",
   position: 118,
   ownLength: 5106,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-25",
   externalIdentity: [
     {

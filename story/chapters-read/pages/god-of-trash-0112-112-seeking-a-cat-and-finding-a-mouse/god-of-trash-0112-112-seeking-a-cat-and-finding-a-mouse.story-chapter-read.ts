@@ -8,7 +8,7 @@ export const godOfTrash0112112SeekingACatAndFindingAMouse = {
   story: "god-of-trash",
   position: 112,
   ownLength: 2123,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-26",
   externalIdentity: [
     {

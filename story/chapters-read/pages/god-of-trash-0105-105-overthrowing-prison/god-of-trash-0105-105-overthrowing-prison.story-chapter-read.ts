@@ -8,7 +8,7 @@ export const godOfTrash0105105OverthrowingPrison = {
   story: "god-of-trash",
   position: 105,
   ownLength: 2113,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-19",
   externalIdentity: [
     {

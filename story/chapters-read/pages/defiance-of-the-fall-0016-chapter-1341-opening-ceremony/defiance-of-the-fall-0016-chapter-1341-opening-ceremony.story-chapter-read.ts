@@ -8,7 +8,7 @@ export const defianceOfTheFall0016Chapter1341OpeningCeremony = {
   story: "story-read/defiance-of-the-fall",
   position: 16,
   ownLength: 3081,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-25",
   externalIdentity: [
     {

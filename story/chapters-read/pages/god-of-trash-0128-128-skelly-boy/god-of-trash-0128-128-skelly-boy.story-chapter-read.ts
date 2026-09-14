@@ -8,7 +8,7 @@ export const godOfTrash0128128SkellyBoy = {
   story: "god-of-trash",
   position: 128,
   ownLength: 2193,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-12",
   externalIdentity: [
     {

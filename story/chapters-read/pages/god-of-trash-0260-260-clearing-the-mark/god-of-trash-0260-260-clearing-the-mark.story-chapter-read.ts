@@ -8,7 +8,7 @@ export const godOfTrash0260260ClearingTheMark = {
   story: "god-of-trash",
   position: 260,
   ownLength: 1907,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-13",
   externalIdentity: [
     {

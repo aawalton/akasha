@@ -8,7 +8,7 @@ export const delve0031031Gear = {
   story: "delve",
   position: 31,
   ownLength: 3499,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-08-09",
   externalIdentity: [
     {

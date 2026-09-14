@@ -8,7 +8,7 @@ export const forgeOfDestiny0197ThreadsInterludeFaceless = {
   story: "forge-of-destiny",
   position: 197,
   ownLength: 1131,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-12-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0163163Emergence = {
   story: "delve",
   position: 163,
   ownLength: 4444,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-19",
   externalIdentity: [
     {

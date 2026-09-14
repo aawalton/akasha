@@ -8,7 +8,7 @@ export const forgeOfDestiny0276Threads238Spymaster2 = {
   story: "forge-of-destiny",
   position: 276,
   ownLength: 1829,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-16",
   externalIdentity: [
     {

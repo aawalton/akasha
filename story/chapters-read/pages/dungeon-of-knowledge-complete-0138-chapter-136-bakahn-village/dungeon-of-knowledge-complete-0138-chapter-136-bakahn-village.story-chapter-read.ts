@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0138Chapter136BakahnVillage = {
   position: 138,
   ownLength: 6091,
   ownProgress: 6091,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:15:29.235Z",
   publishedAt: "2024-09-29",
   externalIdentity: [

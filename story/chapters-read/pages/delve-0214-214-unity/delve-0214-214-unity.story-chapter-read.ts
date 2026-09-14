@@ -8,7 +8,7 @@ export const delve0214214Unity = {
   story: "delve",
   position: 214,
   ownLength: 3112,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-12-11",
   externalIdentity: [
     {

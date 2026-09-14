@@ -8,7 +8,7 @@ export const godOfTrash0198198AloneInAPocketDimension = {
   story: "god-of-trash",
   position: 198,
   ownLength: 2146,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-26",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0206Chapter200TheHatchery1Of2 = {
   position: 206,
   ownLength: 2711,
   ownProgress: 2711,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:18:06.900Z",
   publishedAt: "2025-02-20",
   externalIdentity: [

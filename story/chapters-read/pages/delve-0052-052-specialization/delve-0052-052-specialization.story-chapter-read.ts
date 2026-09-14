@@ -8,7 +8,7 @@ export const delve0052052Specialization = {
   story: "delve",
   position: 52,
   ownLength: 2622,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-10-13",
   externalIdentity: [
     {

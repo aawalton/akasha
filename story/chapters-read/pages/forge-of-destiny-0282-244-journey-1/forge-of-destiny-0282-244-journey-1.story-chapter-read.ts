@@ -8,7 +8,7 @@ export const forgeOfDestiny0282244Journey1 = {
   story: "forge-of-destiny",
   position: 282,
   ownLength: 1792,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-06",
   externalIdentity: [
     {

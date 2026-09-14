@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0008Chapter8CampAndRockLizard = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 8,
   ownLength: 2112,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-26",
   externalIdentity: [
     {

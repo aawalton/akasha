@@ -8,7 +8,7 @@ export const forgeOfDestiny0101InterludeDance = {
   story: "forge-of-destiny",
   position: 101,
   ownLength: 1188,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-03",
   externalIdentity: [
     {

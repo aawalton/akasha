@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0089Ch89WindowShopping = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 89,
   ownLength: 1626,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-02",
   externalIdentity: [
     {

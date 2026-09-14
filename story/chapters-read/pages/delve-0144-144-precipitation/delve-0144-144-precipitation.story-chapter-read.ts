@@ -8,7 +8,7 @@ export const delve0144144Precipitation = {
   story: "delve",
   position: 144,
   ownLength: 4412,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-25",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0116116Squall = {
   story: "delve",
   position: 116,
   ownLength: 6075,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-11",
   externalIdentity: [
     {

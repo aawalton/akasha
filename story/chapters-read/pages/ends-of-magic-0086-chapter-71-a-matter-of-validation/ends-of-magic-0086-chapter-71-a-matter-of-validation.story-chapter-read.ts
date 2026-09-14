@@ -8,7 +8,7 @@ export const endsOfMagic0086Chapter71AMatterOfValidation = {
   story: "story-read/ends-of-magic",
   position: 86,
   ownLength: 2749,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009089TheUltimateFlex
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 90,
   ownLength: 1519,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-14",
   externalIdentity: [
     {

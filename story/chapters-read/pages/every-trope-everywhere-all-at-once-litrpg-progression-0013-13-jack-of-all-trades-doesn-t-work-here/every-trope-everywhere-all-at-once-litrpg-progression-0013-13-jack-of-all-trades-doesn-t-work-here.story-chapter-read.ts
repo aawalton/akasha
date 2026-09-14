@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001313JackOfAllTrades
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 13,
   ownLength: 1672,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-17",
   externalIdentity: [
     {

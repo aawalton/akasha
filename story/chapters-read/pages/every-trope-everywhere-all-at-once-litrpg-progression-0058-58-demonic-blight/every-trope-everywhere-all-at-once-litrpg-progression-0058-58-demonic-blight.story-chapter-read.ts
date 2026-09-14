@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005858DemonicBlight =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 58,
   ownLength: 1426,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-27",
   externalIdentity: [
     {

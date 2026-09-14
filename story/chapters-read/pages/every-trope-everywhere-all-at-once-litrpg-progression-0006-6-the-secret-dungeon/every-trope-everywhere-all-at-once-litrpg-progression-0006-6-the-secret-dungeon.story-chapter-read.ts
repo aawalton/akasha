@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00066TheSecretDungeon
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 6,
   ownLength: 1682,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-12",
   externalIdentity: [
     {

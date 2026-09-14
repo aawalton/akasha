@@ -8,7 +8,7 @@ export const delve0083083Boon = {
   story: "delve",
   position: 83,
   ownLength: 7118,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-01",
   externalIdentity: [
     {

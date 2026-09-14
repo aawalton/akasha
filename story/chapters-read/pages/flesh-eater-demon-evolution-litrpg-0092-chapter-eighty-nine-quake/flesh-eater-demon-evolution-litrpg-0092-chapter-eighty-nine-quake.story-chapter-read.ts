@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0092ChapterEightyNineQuake = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 92,
   ownLength: 2030,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-04",
   externalIdentity: [
     {

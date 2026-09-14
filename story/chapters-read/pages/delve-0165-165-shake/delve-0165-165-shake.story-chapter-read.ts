@@ -8,7 +8,7 @@ export const delve0165165Shake = {
   story: "delve",
   position: 165,
   ownLength: 5894,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-03",
   externalIdentity: [
     {

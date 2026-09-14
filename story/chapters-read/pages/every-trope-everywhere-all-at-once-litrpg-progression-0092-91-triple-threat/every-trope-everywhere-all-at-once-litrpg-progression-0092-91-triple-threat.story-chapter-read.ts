@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009291TripleThreat = 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 92,
   ownLength: 1974,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-20",
   externalIdentity: [
     {

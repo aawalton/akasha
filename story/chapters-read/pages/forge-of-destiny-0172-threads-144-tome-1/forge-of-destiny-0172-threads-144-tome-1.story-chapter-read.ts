@@ -8,7 +8,7 @@ export const forgeOfDestiny0172Threads144Tome1 = {
   story: "forge-of-destiny",
   position: 172,
   ownLength: 3134,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-18",
   externalIdentity: [
     {

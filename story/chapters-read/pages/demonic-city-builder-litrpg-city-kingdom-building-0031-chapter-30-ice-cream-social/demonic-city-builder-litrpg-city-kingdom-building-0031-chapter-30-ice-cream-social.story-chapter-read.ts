@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0031Chapter30IceCreamSoc
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 31,
   ownLength: 2202,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-13",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0591Chapter550AHolyTribute = {
   position: 591,
   ownLength: 3523,
   ownProgress: 3523,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:32:30.469Z",
   publishedAt: "2026-02-27",
   externalIdentity: [

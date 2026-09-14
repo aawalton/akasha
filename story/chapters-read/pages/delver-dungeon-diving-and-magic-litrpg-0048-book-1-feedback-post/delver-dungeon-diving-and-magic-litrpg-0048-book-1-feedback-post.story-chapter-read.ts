@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0048Book1FeedbackPost = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 48,
   ownLength: 107,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-22",
   externalIdentity: [
     {

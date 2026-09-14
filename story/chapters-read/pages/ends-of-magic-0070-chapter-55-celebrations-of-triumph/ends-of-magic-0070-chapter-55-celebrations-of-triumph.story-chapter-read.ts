@@ -9,7 +9,7 @@ export const endsOfMagic0070Chapter55CelebrationsOfTriumph = {
   position: 70,
   ownLength: 2863,
   ownProgress: 2863,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:09:30.581Z",
   publishedAt: "2026-02-09",
   externalIdentity: [

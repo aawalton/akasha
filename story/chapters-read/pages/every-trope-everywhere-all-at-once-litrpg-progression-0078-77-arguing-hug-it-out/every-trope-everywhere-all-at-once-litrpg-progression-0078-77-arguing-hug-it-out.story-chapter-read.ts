@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007877ArguingHugItOut
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 78,
   ownLength: 2003,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-24",
   externalIdentity: [
     {

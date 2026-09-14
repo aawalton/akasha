@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0017Chapter17ExitIntervi
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 17,
   ownLength: 2394,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

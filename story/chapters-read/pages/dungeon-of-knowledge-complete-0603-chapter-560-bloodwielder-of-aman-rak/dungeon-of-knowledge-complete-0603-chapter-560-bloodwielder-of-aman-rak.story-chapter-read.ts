@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0603Chapter560BloodwielderOfAmanRak = {
   story: "dungeon-of-knowledge-complete",
   position: 603,
   ownLength: 4623,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-09",
   externalIdentity: [
     {

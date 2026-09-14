@@ -8,7 +8,7 @@ export const defianceOfTheFall0025Chapter1349NewNeighbor = {
   story: "story-read/defiance-of-the-fall",
   position: 25,
   ownLength: 3466,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-05",
   externalIdentity: [
     {

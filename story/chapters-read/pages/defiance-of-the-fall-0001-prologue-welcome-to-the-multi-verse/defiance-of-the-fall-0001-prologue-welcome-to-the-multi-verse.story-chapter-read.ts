@@ -8,7 +8,7 @@ export const defianceOfTheFall0001PrologueWelcomeToTheMultiVerse = {
   story: "story-read/defiance-of-the-fall",
   position: 1,
   ownLength: 1230,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-05-05",
   externalIdentity: [
     {

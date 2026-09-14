@@ -8,7 +8,7 @@ export const delve0130130Moving = {
   story: "delve",
   position: 130,
   ownLength: 5828,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-17",
   externalIdentity: [
     {

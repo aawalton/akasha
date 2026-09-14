@@ -8,7 +8,7 @@ export const delve0040040Lair = {
   story: "delve",
   position: 40,
   ownLength: 5312,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-09-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0062Ch62StoneValleyStrongho
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 62,
   ownLength: 2253,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-26",
   externalIdentity: [
     {

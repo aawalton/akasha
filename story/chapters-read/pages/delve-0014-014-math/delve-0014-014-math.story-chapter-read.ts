@@ -8,7 +8,7 @@ export const delve0014014Math = {
   story: "delve",
   position: 14,
   ownLength: 3183,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-08",
   externalIdentity: [
     {

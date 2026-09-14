@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0043ChapterFortyTwoTheGarrison = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 43,
   ownLength: 3006,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-14",
   externalIdentity: [
     {

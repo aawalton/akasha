@@ -8,7 +8,7 @@ export const forgeOfDestiny0529Threads484Market1 = {
   story: "forge-of-destiny",
   position: 529,
   ownLength: 2004,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-21",
   externalIdentity: [
     {

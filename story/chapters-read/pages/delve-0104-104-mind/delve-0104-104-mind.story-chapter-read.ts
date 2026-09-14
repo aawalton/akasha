@@ -8,7 +8,7 @@ export const delve0104104Mind = {
   story: "delve",
   position: 104,
   ownLength: 9342,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-19",
   externalIdentity: [
     {

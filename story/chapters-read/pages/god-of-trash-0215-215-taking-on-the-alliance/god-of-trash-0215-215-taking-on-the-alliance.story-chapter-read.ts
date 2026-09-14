@@ -8,7 +8,7 @@ export const godOfTrash0215215TakingOnTheAlliance = {
   story: "god-of-trash",
   position: 215,
   ownLength: 1989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-19",
   externalIdentity: [
     {

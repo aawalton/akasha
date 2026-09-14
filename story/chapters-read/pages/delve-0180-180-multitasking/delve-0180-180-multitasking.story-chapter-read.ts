@@ -8,7 +8,7 @@ export const delve0180180Multitasking = {
   story: "delve",
   position: 180,
   ownLength: 5464,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-30",
   externalIdentity: [
     {

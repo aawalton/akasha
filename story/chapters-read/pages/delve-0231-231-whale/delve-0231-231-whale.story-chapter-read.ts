@@ -8,7 +8,7 @@ export const delve0231231Whale = {
   story: "delve",
   position: 231,
   ownLength: 3710,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-14",
   externalIdentity: [
     {

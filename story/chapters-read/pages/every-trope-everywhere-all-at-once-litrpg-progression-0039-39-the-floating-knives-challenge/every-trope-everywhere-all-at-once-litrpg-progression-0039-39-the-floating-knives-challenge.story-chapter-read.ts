@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003939TheFloatingKniv
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 39,
   ownLength: 1627,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-08",
   externalIdentity: [
     {

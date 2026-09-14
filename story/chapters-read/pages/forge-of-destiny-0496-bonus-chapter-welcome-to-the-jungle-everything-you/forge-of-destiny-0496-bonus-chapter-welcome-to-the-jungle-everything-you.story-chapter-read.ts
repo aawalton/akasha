@@ -8,7 +8,7 @@ export const forgeOfDestiny0496BonusChapterWelcomeToTheJungleEverythingYou = {
   story: "forge-of-destiny",
   position: 496,
   ownLength: 1238,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-03",
   externalIdentity: [
     {

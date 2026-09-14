@@ -8,7 +8,7 @@ export const delve0247247Onion = {
   story: "delve",
   position: 247,
   ownLength: 3741,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-15",
   externalIdentity: [
     {

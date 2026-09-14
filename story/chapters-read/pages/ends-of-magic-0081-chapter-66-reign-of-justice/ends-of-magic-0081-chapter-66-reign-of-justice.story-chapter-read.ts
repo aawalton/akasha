@@ -8,7 +8,7 @@ export const endsOfMagic0081Chapter66ReignOfJustice = {
   story: "story-read/ends-of-magic",
   position: 81,
   ownLength: 2977,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-23",
   externalIdentity: [
     {

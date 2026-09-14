@@ -8,7 +8,7 @@ export const forgeOfDestiny0005ForgeOfDestinyBookReleases = {
   story: "forge-of-destiny",
   position: 5,
   ownLength: 107,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2018-11-05",
   externalIdentity: [
     {

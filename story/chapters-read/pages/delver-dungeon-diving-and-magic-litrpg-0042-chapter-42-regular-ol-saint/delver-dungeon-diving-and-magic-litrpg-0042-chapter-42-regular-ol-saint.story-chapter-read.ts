@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0042Chapter42RegularOlSaint = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 42,
   ownLength: 2153,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-13",
   externalIdentity: [
     {

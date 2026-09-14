@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0004ChapterFourVoice = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 4,
   ownLength: 3664,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-17",
   externalIdentity: [
     {

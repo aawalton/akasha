@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0616Chapter572MalikaSVision = {
   story: "dungeon-of-knowledge-complete",
   position: 616,
   ownLength: 2406,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-18",
   externalIdentity: [
     {

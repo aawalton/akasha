@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0109ChapterOneHundredSixTheAlardiceMa
   story: "flesh-eater-demon-evolution-litrpg",
   position: 109,
   ownLength: 2029,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-18",
   externalIdentity: [
     {

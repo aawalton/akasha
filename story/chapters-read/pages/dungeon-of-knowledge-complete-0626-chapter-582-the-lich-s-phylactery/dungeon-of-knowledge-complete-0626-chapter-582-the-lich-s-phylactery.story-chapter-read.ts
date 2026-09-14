@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0626Chapter582TheLichSPhylactery = {
   story: "dungeon-of-knowledge-complete",
   position: 626,
   ownLength: 4803,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-23",
   externalIdentity: [
     {

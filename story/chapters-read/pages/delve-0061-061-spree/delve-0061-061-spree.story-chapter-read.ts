@@ -8,7 +8,7 @@ export const delve0061061Spree = {
   story: "delve",
   position: 61,
   ownLength: 4660,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-11-13",
   externalIdentity: [
     {

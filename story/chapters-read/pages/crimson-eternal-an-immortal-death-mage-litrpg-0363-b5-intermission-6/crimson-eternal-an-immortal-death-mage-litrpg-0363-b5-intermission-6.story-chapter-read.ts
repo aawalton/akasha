@@ -6,7 +6,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0363B5Intermission6 = {
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0363-b5-intermission-6",
   position: 363,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const godOfTrash00022GoodTimeHadByAll = {
   story: "god-of-trash",
   position: 2,
   ownLength: 4677,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-27",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0079079Slumber = {
   story: "delve",
   position: 79,
   ownLength: 4450,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-02-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0018018Rescue = {
   story: "delve",
   position: 18,
   ownLength: 4924,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-13",
   externalIdentity: [
     {

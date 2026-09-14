@@ -7,7 +7,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0101100TheSoulIsVulne
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 101,
   publishedAt: "2026-09-05",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

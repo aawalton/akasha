@@ -8,7 +8,7 @@ export const delve0007007Slime = {
   story: "delve",
   position: 7,
   ownLength: 3132,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0046046Light = {
   story: "delve",
   position: 46,
   ownLength: 1688,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-09-25",
   externalIdentity: [
     {

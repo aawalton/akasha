@@ -8,7 +8,7 @@ export const delve0196196Knives = {
   story: "delve",
   position: 196,
   ownLength: 4139,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-26",
   externalIdentity: [
     {

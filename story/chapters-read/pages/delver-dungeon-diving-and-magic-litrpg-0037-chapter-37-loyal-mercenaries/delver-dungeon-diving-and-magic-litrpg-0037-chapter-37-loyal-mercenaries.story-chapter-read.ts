@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0037Chapter37LoyalMercenaries = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 37,
   ownLength: 2049,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-25",
   externalIdentity: [
     {

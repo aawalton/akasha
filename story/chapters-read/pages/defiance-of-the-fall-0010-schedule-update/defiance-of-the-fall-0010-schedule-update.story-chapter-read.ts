@@ -8,7 +8,7 @@ export const defianceOfTheFall0010ScheduleUpdate = {
   story: "story-read/defiance-of-the-fall",
   position: 10,
   ownLength: 283,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-04-18",
   externalIdentity: [
     {

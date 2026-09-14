@@ -7,7 +7,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression010099ARealmOfSouls =
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 100,
   publishedAt: "2026-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

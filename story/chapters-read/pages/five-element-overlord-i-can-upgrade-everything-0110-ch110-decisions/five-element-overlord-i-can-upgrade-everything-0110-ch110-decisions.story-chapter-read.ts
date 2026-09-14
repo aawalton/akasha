@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0110Ch110Decisions = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 110,
   ownLength: 2971,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

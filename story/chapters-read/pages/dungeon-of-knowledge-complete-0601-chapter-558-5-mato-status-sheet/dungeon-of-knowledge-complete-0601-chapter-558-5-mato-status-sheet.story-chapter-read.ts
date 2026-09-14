@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0601Chapter5585MatoStatusSheet = {
   story: "dungeon-of-knowledge-complete",
   position: 601,
   ownLength: 1861,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const forgeOfDestiny0209InterludeTheDecliningStorm = {
   story: "forge-of-destiny",
   position: 209,
   ownLength: 2595,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-25",
   externalIdentity: [
     {

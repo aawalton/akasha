@@ -8,7 +8,7 @@ export const delve0009009Commerce = {
   story: "delve",
   position: 9,
   ownLength: 4167,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-04",
   externalIdentity: [
     {

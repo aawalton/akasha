@@ -7,7 +7,7 @@ export const fiveElementOverlordICanUpgradeEverything0136Ch136SearchingForBookle
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 136,
   publishedAt: "2026-09-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

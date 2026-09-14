@@ -8,7 +8,7 @@ export const forgeOfDestiny0032Threads23WintersMuse = {
   story: "forge-of-destiny",
   position: 32,
   ownLength: 2729,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-14",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006868AureliusTheBorr
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 68,
   ownLength: 1800,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-08",
   externalIdentity: [
     {

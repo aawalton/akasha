@@ -8,7 +8,7 @@ export const delve0055055Armored = {
   story: "delve",
   position: 55,
   ownLength: 5636,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-10-22",
   externalIdentity: [
     {

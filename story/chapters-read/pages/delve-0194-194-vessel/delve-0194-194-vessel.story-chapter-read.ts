@@ -8,7 +8,7 @@ export const delve0194194Vessel = {
   story: "delve",
   position: 194,
   ownLength: 4482,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-05",
   externalIdentity: [
     {

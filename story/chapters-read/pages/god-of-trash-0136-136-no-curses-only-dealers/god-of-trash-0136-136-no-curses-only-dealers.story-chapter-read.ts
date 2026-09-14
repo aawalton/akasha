@@ -8,7 +8,7 @@ export const godOfTrash0136136NoCursesOnlyDealers = {
   story: "god-of-trash",
   position: 136,
   ownLength: 2472,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-20",
   externalIdentity: [
     {

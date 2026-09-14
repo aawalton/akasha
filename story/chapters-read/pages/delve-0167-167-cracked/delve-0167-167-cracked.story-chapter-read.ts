@@ -8,7 +8,7 @@ export const delve0167167Cracked = {
   story: "delve",
   position: 167,
   ownLength: 3927,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-17",
   externalIdentity: [
     {

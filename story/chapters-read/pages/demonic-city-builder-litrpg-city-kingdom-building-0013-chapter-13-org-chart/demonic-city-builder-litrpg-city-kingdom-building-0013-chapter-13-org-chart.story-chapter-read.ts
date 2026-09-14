@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0013Chapter13OrgChart = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 13,
   ownLength: 2220,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-21",
   externalIdentity: [
     {

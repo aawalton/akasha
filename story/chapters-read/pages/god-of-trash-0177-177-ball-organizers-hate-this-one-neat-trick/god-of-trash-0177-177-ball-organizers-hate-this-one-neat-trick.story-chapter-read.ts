@@ -8,7 +8,7 @@ export const godOfTrash0177177BallOrganizersHateThisOneNeatTrick = {
   story: "god-of-trash",
   position: 177,
   ownLength: 2047,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-05",
   externalIdentity: [
     {

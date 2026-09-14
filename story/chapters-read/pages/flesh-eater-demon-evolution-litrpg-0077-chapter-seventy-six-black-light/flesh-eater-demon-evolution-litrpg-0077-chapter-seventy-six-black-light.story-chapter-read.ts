@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0077ChapterSeventySixBlackLight = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 77,
   ownLength: 2437,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-30",
   externalIdentity: [
     {

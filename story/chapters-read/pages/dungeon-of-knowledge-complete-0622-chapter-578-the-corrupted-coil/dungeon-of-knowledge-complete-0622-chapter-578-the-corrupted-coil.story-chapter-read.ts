@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0622Chapter578TheCorruptedCoil = {
   story: "dungeon-of-knowledge-complete",
   position: 622,
   ownLength: 3592,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-21",
   externalIdentity: [
     {

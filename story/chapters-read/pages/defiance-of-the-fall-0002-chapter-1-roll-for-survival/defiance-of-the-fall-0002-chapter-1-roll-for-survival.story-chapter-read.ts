@@ -8,7 +8,7 @@ export const defianceOfTheFall0002Chapter1RollForSurvival = {
   story: "story-read/defiance-of-the-fall",
   position: 2,
   ownLength: 1563,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-05-05",
   externalIdentity: [
     {

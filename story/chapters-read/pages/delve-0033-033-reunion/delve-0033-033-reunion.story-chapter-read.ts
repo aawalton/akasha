@@ -8,7 +8,7 @@ export const delve0033033Reunion = {
   story: "delve",
   position: 33,
   ownLength: 3371,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-08-17",
   externalIdentity: [
     {

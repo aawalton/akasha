@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0051Chapter49TalismanRoom = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 51,
   ownLength: 2385,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-30",
   externalIdentity: [
     {

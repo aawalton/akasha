@@ -8,7 +8,7 @@ export const defianceOfTheFall0023Chapter1347ChanceAndFate = {
   story: "story-read/defiance-of-the-fall",
   position: 23,
   ownLength: 2699,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-29",
   externalIdentity: [
     {

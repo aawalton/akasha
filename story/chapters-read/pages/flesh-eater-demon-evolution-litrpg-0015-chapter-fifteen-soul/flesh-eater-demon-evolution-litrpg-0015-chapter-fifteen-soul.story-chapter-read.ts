@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0015ChapterFifteenSoul = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 15,
   ownLength: 3025,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-05",
   externalIdentity: [
     {

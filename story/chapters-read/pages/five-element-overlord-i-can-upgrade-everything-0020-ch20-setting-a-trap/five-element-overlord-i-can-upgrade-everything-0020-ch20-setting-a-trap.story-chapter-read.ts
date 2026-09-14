@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0020Ch20SettingATrap = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 20,
   ownLength: 1267,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

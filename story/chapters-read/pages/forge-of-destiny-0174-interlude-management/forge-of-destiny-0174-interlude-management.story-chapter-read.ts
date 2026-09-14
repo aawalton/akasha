@@ -8,7 +8,7 @@ export const forgeOfDestiny0174InterludeManagement = {
   story: "forge-of-destiny",
   position: 174,
   ownLength: 1778,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-23",
   externalIdentity: [
     {

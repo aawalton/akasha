@@ -8,7 +8,7 @@ export const endsOfMagic0084Chapter69MortalSRise = {
   story: "story-read/ends-of-magic",
   position: 84,
   ownLength: 3249,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-02",
   externalIdentity: [
     {

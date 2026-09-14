@@ -8,7 +8,7 @@ export const defianceOfTheFall0015Chapter1340Bazaar = {
   story: "story-read/defiance-of-the-fall",
   position: 15,
   ownLength: 3109,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-24",
   externalIdentity: [
     {

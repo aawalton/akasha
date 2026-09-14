@@ -8,7 +8,7 @@ export const delve0162162Extermination = {
   story: "delve",
   position: 162,
   ownLength: 3755,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-12",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0096096Sanctuary = {
   story: "delve",
   position: 96,
   ownLength: 7132,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-24",
   externalIdentity: [
     {

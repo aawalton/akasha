@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0036Chapter36ManaAlignment = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 36,
   ownLength: 1980,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0265265Surveillance = {
   story: "delve",
   position: 265,
   ownLength: 3322,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash00077MeetingDestiny = {
   story: "god-of-trash",
   position: 7,
   ownLength: 3626,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-01",
   externalIdentity: [
     {

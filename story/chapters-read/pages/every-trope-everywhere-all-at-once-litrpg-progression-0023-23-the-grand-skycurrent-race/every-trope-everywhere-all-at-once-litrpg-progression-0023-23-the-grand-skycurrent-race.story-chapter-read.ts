@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002323TheGrandSkycurr
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 23,
   ownLength: 1697,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

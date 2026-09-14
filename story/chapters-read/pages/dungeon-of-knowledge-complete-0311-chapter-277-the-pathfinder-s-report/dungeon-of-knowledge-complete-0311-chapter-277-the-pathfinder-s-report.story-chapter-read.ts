@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0311Chapter277ThePathfinderSReport = {
   position: 311,
   ownLength: 1736,
   ownProgress: 1736,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:21:50.164Z",
   publishedAt: "2025-06-12",
   externalIdentity: [

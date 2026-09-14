@@ -8,7 +8,7 @@ export const forgeOfDestiny0431ThreadsChapter388MakingGood1 = {
   story: "forge-of-destiny",
   position: 431,
   ownLength: 2650,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-07-01",
   externalIdentity: [
     {

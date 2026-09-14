@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0106105SovereignOfSou
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0106-105-sovereign-of-souls",
   position: 106,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0055Chapter53BladeAndSheathe = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 55,
   ownLength: 2046,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-10",
   externalIdentity: [
     {

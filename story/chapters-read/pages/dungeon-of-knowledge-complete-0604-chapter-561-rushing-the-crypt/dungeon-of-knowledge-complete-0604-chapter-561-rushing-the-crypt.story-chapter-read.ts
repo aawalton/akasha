@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0604Chapter561RushingTheCrypt = {
   story: "dungeon-of-knowledge-complete",
   position: 604,
   ownLength: 3337,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0019ChapterNineteenBaseClass = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 19,
   ownLength: 3695,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-14",
   externalIdentity: [
     {

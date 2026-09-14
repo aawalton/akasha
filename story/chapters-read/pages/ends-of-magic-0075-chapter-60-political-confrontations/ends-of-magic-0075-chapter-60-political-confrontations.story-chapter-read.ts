@@ -9,7 +9,7 @@ export const endsOfMagic0075Chapter60PoliticalConfrontations = {
   position: 75,
   ownLength: 2678,
   ownProgress: 2678,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:09:40.307Z",
   publishedAt: "2026-03-02",
   externalIdentity: [

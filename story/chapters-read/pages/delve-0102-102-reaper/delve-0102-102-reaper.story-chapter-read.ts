@@ -8,7 +8,7 @@ export const delve0102102Reaper = {
   story: "delve",
   position: 102,
   ownLength: 5389,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-05",
   externalIdentity: [
     {

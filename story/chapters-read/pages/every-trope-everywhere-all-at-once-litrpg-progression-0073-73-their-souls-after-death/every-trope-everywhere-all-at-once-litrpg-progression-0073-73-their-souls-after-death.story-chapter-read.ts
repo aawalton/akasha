@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007373TheirSoulsAfter
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 73,
   ownLength: 1609,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-16",
   externalIdentity: [
     {

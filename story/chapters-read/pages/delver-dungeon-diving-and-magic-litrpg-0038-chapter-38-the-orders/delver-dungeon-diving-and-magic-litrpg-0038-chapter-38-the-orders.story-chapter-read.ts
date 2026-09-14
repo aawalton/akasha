@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0038Chapter38TheOrders = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 38,
   ownLength: 2111,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-02",
   externalIdentity: [
     {

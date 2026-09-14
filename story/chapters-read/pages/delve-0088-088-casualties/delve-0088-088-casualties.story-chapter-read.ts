@@ -8,7 +8,7 @@ export const delve0088088Casualties = {
   story: "delve",
   position: 88,
   ownLength: 7667,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-29",
   externalIdentity: [
     {

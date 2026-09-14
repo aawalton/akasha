@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004747TheSecondSun = 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 47,
   ownLength: 1768,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-15",
   externalIdentity: [
     {

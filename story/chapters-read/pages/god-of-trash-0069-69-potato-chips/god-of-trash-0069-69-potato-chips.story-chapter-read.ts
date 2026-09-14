@@ -8,7 +8,7 @@ export const godOfTrash006969PotatoChips = {
   story: "god-of-trash",
   position: 69,
   ownLength: 3369,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-08",
   externalIdentity: [
     {

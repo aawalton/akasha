@@ -8,7 +8,7 @@ export const forgeOfDestiny0472Threads428Shenglu7 = {
   story: "forge-of-destiny",
   position: 472,
   ownLength: 1754,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-11",
   externalIdentity: [
     {

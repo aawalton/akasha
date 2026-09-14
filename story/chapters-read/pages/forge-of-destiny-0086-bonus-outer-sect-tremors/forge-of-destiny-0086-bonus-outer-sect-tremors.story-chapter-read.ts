@@ -8,7 +8,7 @@ export const forgeOfDestiny0086BonusOuterSectTremors = {
   story: "forge-of-destiny",
   position: 86,
   ownLength: 1601,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-31",
   externalIdentity: [
     {

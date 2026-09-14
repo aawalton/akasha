@@ -8,7 +8,7 @@ export const delve0134134Unbreakable = {
   story: "delve",
   position: 134,
   ownLength: 4022,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-14",
   externalIdentity: [
     {

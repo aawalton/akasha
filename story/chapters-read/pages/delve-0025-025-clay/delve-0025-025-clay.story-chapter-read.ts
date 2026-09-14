@@ -8,7 +8,7 @@ export const delve0025025Clay = {
   story: "delve",
   position: 25,
   ownLength: 3298,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-07-05",
   externalIdentity: [
     {

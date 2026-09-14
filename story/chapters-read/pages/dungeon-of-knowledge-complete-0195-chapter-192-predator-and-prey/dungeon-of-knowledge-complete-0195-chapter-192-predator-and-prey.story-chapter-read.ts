@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0195Chapter192PredatorAndPrey = {
   position: 195,
   ownLength: 7024,
   ownProgress: 7024,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:17:43.168Z",
   publishedAt: "2025-02-02",
   externalIdentity: [

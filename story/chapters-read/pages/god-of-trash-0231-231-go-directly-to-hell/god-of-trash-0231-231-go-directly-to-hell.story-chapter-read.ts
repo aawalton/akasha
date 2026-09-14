@@ -8,7 +8,7 @@ export const godOfTrash0231231GoDirectlyToHell = {
   story: "god-of-trash",
   position: 231,
   ownLength: 1979,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-05",
   externalIdentity: [
     {

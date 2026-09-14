@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0044Chapter42CrisisManag
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 44,
   ownLength: 2812,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-11",
   externalIdentity: [
     {

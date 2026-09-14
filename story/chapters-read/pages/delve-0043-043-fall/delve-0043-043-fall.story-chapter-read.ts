@@ -8,7 +8,7 @@ export const delve0043043Fall = {
   story: "delve",
   position: 43,
   ownLength: 3457,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-09-15",
   externalIdentity: [
     {

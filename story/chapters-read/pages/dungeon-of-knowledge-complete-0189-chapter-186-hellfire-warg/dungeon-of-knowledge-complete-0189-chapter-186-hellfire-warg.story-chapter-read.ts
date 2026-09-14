@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0189Chapter186HellfireWarg = {
   position: 189,
   ownLength: 5458,
   ownProgress: 5458,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:17:30.017Z",
   publishedAt: "2025-01-21",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0022Chapter22Autonomy = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 22,
   ownLength: 2487,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const forgeOfDestiny0054BonusCharactersOfDestiny = {
   story: "forge-of-destiny",
   position: 54,
   ownLength: 1363,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-27",
   externalIdentity: [
     {

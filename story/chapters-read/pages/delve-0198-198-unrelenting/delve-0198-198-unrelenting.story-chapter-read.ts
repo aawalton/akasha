@@ -8,7 +8,7 @@ export const delve0198198Unrelenting = {
   story: "delve",
   position: 198,
   ownLength: 4528,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-10",
   externalIdentity: [
     {

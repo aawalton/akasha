@@ -8,7 +8,7 @@ export const defianceOfTheFall0014Chapter1339HuntingGods = {
   story: "story-read/defiance-of-the-fall",
   position: 14,
   ownLength: 3232,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-18",
   externalIdentity: [
     {

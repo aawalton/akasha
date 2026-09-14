@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0075Chapter75ADangerousClass = {
   position: 75,
   ownLength: 3787,
   ownProgress: 3787,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:13:25.908Z",
   publishedAt: "2024-05-21",
   externalIdentity: [

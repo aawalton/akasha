@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0120ChapterOneHundredSeventeenSummoni
   story: "flesh-eater-demon-evolution-litrpg",
   position: 120,
   ownLength: 2600,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-18",
   externalIdentity: [
     {

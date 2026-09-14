@@ -8,7 +8,7 @@ export const godOfTrash0111111GrandStrategy = {
   story: "god-of-trash",
   position: 111,
   ownLength: 2230,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-25",
   externalIdentity: [
     {

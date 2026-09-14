@@ -8,7 +8,7 @@ export const defianceOfTheFall0042Chapter1365Potentiality = {
   story: "story-read/defiance-of-the-fall",
   position: 42,
   ownLength: 3085,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-14",
   externalIdentity: [
     {

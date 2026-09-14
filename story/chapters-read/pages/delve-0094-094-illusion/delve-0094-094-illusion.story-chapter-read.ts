@@ -8,7 +8,7 @@ export const delve0094094Illusion = {
   story: "delve",
   position: 94,
   ownLength: 6541,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-10",
   externalIdentity: [
     {

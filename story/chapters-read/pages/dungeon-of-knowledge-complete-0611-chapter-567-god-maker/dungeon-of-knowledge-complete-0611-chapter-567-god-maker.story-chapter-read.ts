@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0611Chapter567GodMaker = {
   story: "dungeon-of-knowledge-complete",
   position: 611,
   ownLength: 2956,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-15",
   externalIdentity: [
     {

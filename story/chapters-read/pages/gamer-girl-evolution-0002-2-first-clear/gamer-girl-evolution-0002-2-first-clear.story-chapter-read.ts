@@ -9,7 +9,7 @@ export const gamerGirlEvolution00022FirstClear = {
   position: 2,
   ownLength: 1881,
   ownProgress: 1881,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:05:39.253Z",
   publishedAt: "2025-09-22",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0043Ch43PerfectGradeSpiritu
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 43,
   ownLength: 1628,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-29",
   externalIdentity: [
     {

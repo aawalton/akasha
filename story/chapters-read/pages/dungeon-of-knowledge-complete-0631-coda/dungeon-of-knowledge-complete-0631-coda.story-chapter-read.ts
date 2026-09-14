@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0631Coda = {
   story: "dungeon-of-knowledge-complete",
   position: 631,
   ownLength: 2092,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-24",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0111Chapter1431Quarantine = {
   story: "story-read/defiance-of-the-fall",
   position: 111,
   ownLength: 3295,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-07",
   externalIdentity: [
     {

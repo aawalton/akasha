@@ -8,7 +8,7 @@ export const godOfTrash0205205LastMinutePrep = {
   story: "god-of-trash",
   position: 205,
   ownLength: 2409,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-03",
   externalIdentity: [
     {

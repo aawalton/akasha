@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004141Gabriel = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 41,
   ownLength: 1835,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-10",
   externalIdentity: [
     {

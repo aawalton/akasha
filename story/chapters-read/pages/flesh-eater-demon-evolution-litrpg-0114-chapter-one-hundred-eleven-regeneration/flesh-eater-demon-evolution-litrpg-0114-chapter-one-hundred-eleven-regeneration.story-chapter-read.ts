@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0114ChapterOneHundredElevenRegenerati
   story: "flesh-eater-demon-evolution-litrpg",
   position: 114,
   ownLength: 2402,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-30",
   externalIdentity: [
     {

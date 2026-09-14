@@ -8,7 +8,7 @@ export const delve0157157Speculation = {
   story: "delve",
   position: 157,
   ownLength: 6180,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-08",
   externalIdentity: [
     {

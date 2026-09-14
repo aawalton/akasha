@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008584AlleneTheDragon
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 85,
   ownLength: 1844,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-07",
   externalIdentity: [
     {

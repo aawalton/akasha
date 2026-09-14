@@ -8,7 +8,7 @@ export const forgeOfDestiny0051Chapter39ThreeMoons4 = {
   story: "forge-of-destiny",
   position: 51,
   ownLength: 2622,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-21",
   externalIdentity: [
     {

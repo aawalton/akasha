@@ -8,7 +8,7 @@ export const godOfTrash0191191CriminalsCleared = {
   story: "god-of-trash",
   position: 191,
   ownLength: 1853,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-19",
   externalIdentity: [
     {

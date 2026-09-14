@@ -8,7 +8,7 @@ export const delve0115115Camp = {
   story: "delve",
   position: 115,
   ownLength: 5843,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-10-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0610Chapter5665MalikaStatusSheet = {
   story: "dungeon-of-knowledge-complete",
   position: 610,
   ownLength: 1428,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-14",
   externalIdentity: [
     {

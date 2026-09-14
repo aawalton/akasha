@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007675TheChiefsReward
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 76,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0074QuickUpdate = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 74,
   ownLength: 69,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-17",
   externalIdentity: [
     {

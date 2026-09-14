@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0118Ch11812thLevelQiRefiner
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 118,
   ownLength: 1569,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-12",
   externalIdentity: [
     {

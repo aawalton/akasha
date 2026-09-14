@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005959MissingArm = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 59,
   ownLength: 2105,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-28",
   externalIdentity: [
     {

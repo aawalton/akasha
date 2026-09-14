@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0073ChapterSeventyTwoReturnToTheGarri
   story: "flesh-eater-demon-evolution-litrpg",
   position: 73,
   ownLength: 2313,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-17",
   externalIdentity: [
     {

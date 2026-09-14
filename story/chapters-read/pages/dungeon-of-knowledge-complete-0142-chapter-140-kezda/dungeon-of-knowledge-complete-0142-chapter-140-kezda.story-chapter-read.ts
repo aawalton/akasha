@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0142Chapter140Kezda = {
   position: 142,
   ownLength: 6273,
   ownProgress: 6273,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:15:43.282Z",
   publishedAt: "2024-10-08",
   externalIdentity: [

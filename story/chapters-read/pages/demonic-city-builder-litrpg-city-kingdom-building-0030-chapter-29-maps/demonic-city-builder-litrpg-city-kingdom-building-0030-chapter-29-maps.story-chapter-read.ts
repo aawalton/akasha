@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0030Chapter29Maps = {
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 30,
   ownLength: 1597,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-11",
   externalIdentity: [
     {

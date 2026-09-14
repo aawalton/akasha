@@ -8,7 +8,7 @@ export const godOfTrash008585Supernova = {
   story: "god-of-trash",
   position: 85,
   ownLength: 2310,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-24",
   externalIdentity: [
     {

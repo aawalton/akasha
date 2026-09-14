@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0052Chapter50TrainingRooms = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 52,
   ownLength: 2798,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-31",
   externalIdentity: [
     {

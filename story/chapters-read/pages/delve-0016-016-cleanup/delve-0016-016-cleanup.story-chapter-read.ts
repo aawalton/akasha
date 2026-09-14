@@ -8,7 +8,7 @@ export const delve0016016Cleanup = {
   story: "delve",
   position: 16,
   ownLength: 2055,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash0284284ThreeInTheDeeps = {
   story: "god-of-trash",
   position: 284,
   ownLength: 2002,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-09",
   externalIdentity: [
     {

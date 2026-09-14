@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0549Chapter509ShrineOfTheAncientGrove = {
   position: 549,
   ownLength: 6044,
   ownProgress: 6044,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:30:56.910Z",
   publishedAt: "2026-01-17",
   externalIdentity: [

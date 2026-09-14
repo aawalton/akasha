@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0072Ch72Escape = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 72,
   ownLength: 1529,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-09",
   externalIdentity: [
     {

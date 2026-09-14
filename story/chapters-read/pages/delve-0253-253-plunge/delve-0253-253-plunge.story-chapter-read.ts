@@ -8,7 +8,7 @@ export const delve0253253Plunge = {
   story: "delve",
   position: 253,
   ownLength: 3351,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-12-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008685TentOfAThousand
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 86,
   ownLength: 1642,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-08",
   externalIdentity: [
     {

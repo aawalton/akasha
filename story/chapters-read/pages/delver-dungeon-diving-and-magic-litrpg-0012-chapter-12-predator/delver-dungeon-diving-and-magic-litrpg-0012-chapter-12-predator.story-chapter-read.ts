@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0012Chapter12Predator = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 12,
   ownLength: 2166,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-30",
   externalIdentity: [
     {

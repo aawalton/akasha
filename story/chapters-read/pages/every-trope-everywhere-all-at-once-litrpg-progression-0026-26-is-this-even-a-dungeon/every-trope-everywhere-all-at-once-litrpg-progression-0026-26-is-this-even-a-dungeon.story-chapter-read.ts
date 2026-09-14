@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002626IsThisEvenADung
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 26,
   ownLength: 1631,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-26",
   externalIdentity: [
     {

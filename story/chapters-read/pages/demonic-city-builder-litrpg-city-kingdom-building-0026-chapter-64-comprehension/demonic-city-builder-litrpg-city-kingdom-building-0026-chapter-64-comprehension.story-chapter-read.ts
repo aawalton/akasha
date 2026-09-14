@@ -7,7 +7,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter64Comprehensi
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 26,
   publishedAt: "2026-09-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

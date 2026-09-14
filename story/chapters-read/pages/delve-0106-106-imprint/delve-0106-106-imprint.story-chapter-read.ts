@@ -8,7 +8,7 @@ export const delve0106106Imprint = {
   story: "delve",
   position: 106,
   ownLength: 6002,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-02",
   externalIdentity: [
     {

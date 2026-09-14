@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0002Ch2Immortals = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 2,
   ownLength: 1741,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

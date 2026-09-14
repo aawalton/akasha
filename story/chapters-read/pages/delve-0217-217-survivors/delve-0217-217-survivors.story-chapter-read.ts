@@ -8,7 +8,7 @@ export const delve0217217Survivors = {
   story: "delve",
   position: 217,
   ownLength: 2776,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-01-08",
   externalIdentity: [
     {

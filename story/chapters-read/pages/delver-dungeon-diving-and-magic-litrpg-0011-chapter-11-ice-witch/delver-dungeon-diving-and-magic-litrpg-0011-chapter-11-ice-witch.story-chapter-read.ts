@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0011Chapter11IceWitch = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 11,
   ownLength: 2235,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-29",
   externalIdentity: [
     {

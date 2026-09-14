@@ -8,7 +8,7 @@ export const godOfTrash0187187NewSwordWhoDis = {
   story: "god-of-trash",
   position: 187,
   ownLength: 1928,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-15",
   externalIdentity: [
     {

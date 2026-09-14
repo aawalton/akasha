@@ -8,7 +8,7 @@ export const defianceOfTheFall0110Chapter1430Mummy = {
   story: "story-read/defiance-of-the-fall",
   position: 110,
   ownLength: 3195,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-05",
   externalIdentity: [
     {

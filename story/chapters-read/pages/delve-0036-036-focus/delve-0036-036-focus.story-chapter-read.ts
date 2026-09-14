@@ -8,7 +8,7 @@ export const delve0036036Focus = {
   story: "delve",
   position: 36,
   ownLength: 4441,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-08-25",
   externalIdentity: [
     {

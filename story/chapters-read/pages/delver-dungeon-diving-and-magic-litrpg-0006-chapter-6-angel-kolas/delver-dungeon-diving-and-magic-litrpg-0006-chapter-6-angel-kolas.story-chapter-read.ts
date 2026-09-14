@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0006Chapter6AngelKolas = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 6,
   ownLength: 2065,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

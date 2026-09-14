@@ -8,7 +8,7 @@ export const forgeOfDestiny0092ThreadsInterludeRiversAndRain = {
   story: "forge-of-destiny",
   position: 92,
   ownLength: 989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-12",
   externalIdentity: [
     {

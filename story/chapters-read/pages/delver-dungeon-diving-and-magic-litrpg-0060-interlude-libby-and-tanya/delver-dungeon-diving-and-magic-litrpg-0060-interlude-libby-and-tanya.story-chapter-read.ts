@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0060InterludeLibbyAndTanya = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 60,
   ownLength: 2123,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

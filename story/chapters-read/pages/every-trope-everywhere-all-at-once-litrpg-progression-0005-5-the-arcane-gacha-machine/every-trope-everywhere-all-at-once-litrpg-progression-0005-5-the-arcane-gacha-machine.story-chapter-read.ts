@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00055TheArcaneGachaMa
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 5,
   ownLength: 1822,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-12",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009493MonsterSlayer =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 94,
   ownLength: 1534,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-23",
   externalIdentity: [
     {

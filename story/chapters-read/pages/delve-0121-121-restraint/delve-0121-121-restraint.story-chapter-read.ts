@@ -8,7 +8,7 @@ export const delve0121121Restraint = {
   story: "delve",
   position: 121,
   ownLength: 6581,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-15",
   externalIdentity: [
     {

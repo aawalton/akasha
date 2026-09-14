@@ -8,7 +8,7 @@ export const forgeOfDestiny0537Threads491SeniorBrother2 = {
   story: "forge-of-destiny",
   position: 537,
   ownLength: 2462,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-09",
   externalIdentity: [
     {

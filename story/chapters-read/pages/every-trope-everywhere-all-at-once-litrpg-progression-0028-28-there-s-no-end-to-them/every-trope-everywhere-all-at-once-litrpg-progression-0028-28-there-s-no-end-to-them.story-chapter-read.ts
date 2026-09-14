@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002828ThereSNoEndToTh
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 28,
   ownLength: 1887,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-28",
   externalIdentity: [
     {

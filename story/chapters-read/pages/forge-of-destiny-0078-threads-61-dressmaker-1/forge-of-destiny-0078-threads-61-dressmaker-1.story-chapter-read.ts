@@ -8,7 +8,7 @@ export const forgeOfDestiny0078Threads61Dressmaker1 = {
   story: "forge-of-destiny",
   position: 78,
   ownLength: 3369,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-15",
   externalIdentity: [
     {

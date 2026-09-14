@@ -8,7 +8,7 @@ export const defianceOfTheFall0094ReadTheDefianceOfTheFallWebtoonNow = {
   story: "story-read/defiance-of-the-fall",
   position: 94,
   ownLength: 93,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-29",
   externalIdentity: [
     {

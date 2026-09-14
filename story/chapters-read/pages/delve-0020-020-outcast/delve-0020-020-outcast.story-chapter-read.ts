@@ -8,7 +8,7 @@ export const delve0020020Outcast = {
   story: "delve",
   position: 20,
   ownLength: 3812,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash0125125KillingFarm = {
   story: "god-of-trash",
   position: 125,
   ownLength: 2211,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const forgeOfDestiny0474Threads430Snowblossom2 = {
   story: "forge-of-destiny",
   position: 474,
   ownLength: 1876,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-18",
   externalIdentity: [
     {

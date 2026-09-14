@@ -8,7 +8,7 @@ export const forgeOfDestiny0065BonusTheSkyThatFell = {
   story: "forge-of-destiny",
   position: 65,
   ownLength: 1124,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-17",
   externalIdentity: [
     {

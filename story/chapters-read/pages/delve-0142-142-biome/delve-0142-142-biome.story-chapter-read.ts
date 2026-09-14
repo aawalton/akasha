@@ -8,7 +8,7 @@ export const delve0142142Biome = {
   story: "delve",
   position: 142,
   ownLength: 4843,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-11",
   externalIdentity: [
     {

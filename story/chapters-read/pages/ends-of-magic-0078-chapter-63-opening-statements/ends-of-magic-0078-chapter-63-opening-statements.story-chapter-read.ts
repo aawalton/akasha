@@ -8,7 +8,7 @@ export const endsOfMagic0078Chapter63OpeningStatements = {
   story: "story-read/ends-of-magic",
   position: 78,
   ownLength: 2879,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-12",
   externalIdentity: [
     {

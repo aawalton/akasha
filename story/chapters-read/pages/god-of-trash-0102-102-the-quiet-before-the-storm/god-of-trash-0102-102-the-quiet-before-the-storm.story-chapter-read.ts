@@ -8,7 +8,7 @@ export const godOfTrash0102102TheQuietBeforeTheStorm = {
   story: "god-of-trash",
   position: 102,
   ownLength: 2148,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-10",
   externalIdentity: [
     {

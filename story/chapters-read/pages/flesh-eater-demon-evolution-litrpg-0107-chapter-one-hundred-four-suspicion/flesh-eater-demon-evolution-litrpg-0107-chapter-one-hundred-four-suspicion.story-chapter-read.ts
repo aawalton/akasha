@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0107ChapterOneHundredFourSuspicion = 
   story: "flesh-eater-demon-evolution-litrpg",
   position: 107,
   ownLength: 2344,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-14",
   externalIdentity: [
     {

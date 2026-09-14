@@ -8,7 +8,7 @@ export const delve0080080Trapped = {
   story: "delve",
   position: 80,
   ownLength: 5558,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-02-16",
   externalIdentity: [
     {

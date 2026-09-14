@@ -8,7 +8,7 @@ export const delve0044044Beast = {
   story: "delve",
   position: 44,
   ownLength: 2043,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-09-18",
   externalIdentity: [
     {

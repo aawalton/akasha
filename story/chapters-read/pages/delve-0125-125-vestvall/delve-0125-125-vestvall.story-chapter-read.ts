@@ -8,7 +8,7 @@ export const delve0125125Vestvall = {
   story: "delve",
   position: 125,
   ownLength: 5147,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-13",
   externalIdentity: [
     {

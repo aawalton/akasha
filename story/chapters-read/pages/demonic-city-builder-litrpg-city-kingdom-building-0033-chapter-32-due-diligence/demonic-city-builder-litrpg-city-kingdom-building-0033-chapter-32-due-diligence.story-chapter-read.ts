@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0033Chapter32DueDiligenc
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 33,
   ownLength: 2507,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-18",
   externalIdentity: [
     {

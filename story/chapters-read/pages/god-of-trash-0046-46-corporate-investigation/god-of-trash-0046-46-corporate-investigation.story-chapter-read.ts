@@ -8,7 +8,7 @@ export const godOfTrash004646CorporateInvestigation = {
   story: "god-of-trash",
   position: 46,
   ownLength: 2981,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0072072Preemption = {
   story: "delve",
   position: 72,
   ownLength: 9827,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-01-12",
   externalIdentity: [
     {

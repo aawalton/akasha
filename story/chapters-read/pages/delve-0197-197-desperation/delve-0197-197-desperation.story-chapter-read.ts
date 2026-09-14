@@ -8,7 +8,7 @@ export const delve0197197Desperation = {
   story: "delve",
   position: 197,
   ownLength: 3789,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-03",
   externalIdentity: [
     {

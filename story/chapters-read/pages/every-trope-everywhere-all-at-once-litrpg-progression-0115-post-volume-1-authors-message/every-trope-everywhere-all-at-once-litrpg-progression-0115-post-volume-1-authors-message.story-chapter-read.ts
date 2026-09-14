@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0115PostVolume1Author
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0115-post-volume-1-authors-message",
   position: 115,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

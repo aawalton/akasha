@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0105ChapterOneHundredTwoTheChase = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 105,
   ownLength: 2049,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

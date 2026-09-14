@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0058Ch58Killing = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 58,
   ownLength: 1670,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

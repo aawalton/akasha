@@ -8,7 +8,7 @@ export const delve0093093Tomb = {
   story: "delve",
   position: 93,
   ownLength: 7149,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-03",
   externalIdentity: [
     {

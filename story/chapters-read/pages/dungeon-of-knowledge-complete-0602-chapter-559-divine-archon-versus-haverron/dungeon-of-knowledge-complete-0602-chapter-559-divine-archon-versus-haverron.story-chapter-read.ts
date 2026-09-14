@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0602Chapter559DivineArchonVersusHaverron 
   story: "dungeon-of-knowledge-complete",
   position: 602,
   ownLength: 2250,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-08",
   externalIdentity: [
     {

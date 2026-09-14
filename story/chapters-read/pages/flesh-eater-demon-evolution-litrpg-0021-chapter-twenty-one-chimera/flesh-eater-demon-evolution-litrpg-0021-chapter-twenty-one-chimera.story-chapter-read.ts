@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0021ChapterTwentyOneChimera = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 21,
   ownLength: 2899,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-19",
   externalIdentity: [
     {

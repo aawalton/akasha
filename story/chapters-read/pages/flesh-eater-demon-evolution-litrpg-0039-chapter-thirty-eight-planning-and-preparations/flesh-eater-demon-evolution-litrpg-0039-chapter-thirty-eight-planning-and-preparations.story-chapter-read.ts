@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0039ChapterThirtyEightPlanningAndPrep
   story: "flesh-eater-demon-evolution-litrpg",
   position: 39,
   ownLength: 2984,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-03",
   externalIdentity: [
     {

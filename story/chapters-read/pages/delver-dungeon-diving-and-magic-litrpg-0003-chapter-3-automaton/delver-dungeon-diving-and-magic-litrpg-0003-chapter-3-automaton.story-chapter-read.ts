@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0003Chapter3Automaton = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 3,
   ownLength: 2274,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

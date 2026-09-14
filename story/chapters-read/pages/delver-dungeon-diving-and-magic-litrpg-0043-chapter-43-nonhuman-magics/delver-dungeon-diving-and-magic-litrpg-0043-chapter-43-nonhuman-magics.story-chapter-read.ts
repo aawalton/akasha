@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0043Chapter43NonhumanMagics = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 43,
   ownLength: 2129,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-14",
   externalIdentity: [
     {

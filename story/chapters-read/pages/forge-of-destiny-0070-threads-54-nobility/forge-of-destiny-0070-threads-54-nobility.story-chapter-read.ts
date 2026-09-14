@@ -8,7 +8,7 @@ export const forgeOfDestiny0070Threads54Nobility = {
   story: "forge-of-destiny",
   position: 70,
   ownLength: 2114,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-26",
   externalIdentity: [
     {

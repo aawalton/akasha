@@ -9,7 +9,7 @@ export const endsOfMagic0054Chapter39IntroductionsToQuestorPolitics = {
   position: 54,
   ownLength: 3009,
   ownProgress: 3009,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:08:59.675Z",
   publishedAt: "2025-12-15",
   externalIdentity: [

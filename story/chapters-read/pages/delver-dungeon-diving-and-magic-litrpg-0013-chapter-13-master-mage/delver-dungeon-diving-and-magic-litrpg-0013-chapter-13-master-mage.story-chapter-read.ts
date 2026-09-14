@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0013Chapter13MasterMage = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 13,
   ownLength: 2372,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-31",
   externalIdentity: [
     {

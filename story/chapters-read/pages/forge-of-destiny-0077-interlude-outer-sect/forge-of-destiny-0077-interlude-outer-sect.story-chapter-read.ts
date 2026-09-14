@@ -8,7 +8,7 @@ export const forgeOfDestiny0077InterludeOuterSect = {
   story: "forge-of-destiny",
   position: 77,
   ownLength: 1307,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-14",
   externalIdentity: [
     {

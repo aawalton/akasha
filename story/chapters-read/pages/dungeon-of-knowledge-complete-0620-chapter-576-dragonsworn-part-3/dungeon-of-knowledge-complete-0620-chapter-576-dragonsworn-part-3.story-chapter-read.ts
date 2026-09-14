@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0620Chapter576DragonswornPart3 = {
   story: "dungeon-of-knowledge-complete",
   position: 620,
   ownLength: 1815,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0100Chapter1420HeavenlyDescent = {
   story: "story-read/defiance-of-the-fall",
   position: 100,
   ownLength: 2743,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001212TheOrdinaryWasn
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 12,
   ownLength: 1813,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-16",
   externalIdentity: [
     {

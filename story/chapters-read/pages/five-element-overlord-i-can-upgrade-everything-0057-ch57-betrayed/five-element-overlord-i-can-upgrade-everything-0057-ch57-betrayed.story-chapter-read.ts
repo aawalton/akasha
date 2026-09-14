@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0057Ch57Betrayed = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 57,
   ownLength: 1572,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-19",
   externalIdentity: [
     {

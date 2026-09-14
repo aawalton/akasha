@@ -8,7 +8,7 @@ export const godOfTrash0122122CraftingFries = {
   story: "god-of-trash",
   position: 122,
   ownLength: 1642,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-06",
   externalIdentity: [
     {

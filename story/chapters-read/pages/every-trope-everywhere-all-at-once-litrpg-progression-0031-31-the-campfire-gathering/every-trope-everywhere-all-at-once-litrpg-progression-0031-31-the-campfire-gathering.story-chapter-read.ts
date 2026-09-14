@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003131TheCampfireGath
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 31,
   ownLength: 1766,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-31",
   externalIdentity: [
     {

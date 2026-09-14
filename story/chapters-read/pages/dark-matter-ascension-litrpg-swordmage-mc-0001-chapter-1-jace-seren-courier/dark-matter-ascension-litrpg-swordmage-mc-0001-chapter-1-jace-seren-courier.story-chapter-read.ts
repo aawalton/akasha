@@ -8,7 +8,7 @@ export const darkMatterAscensionLitrpgSwordmageMc0001Chapter1JaceSerenCourier = 
   story: "dark-matter-ascension-litrpg-swordmage-mc",
   position: 1,
   ownLength: 2353,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-12-02",
   externalIdentity: [
     {

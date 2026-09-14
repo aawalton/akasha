@@ -8,7 +8,7 @@ export const delve0078078Heatsink = {
   story: "delve",
   position: 78,
   ownLength: 4352,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-02-06",
   externalIdentity: [
     {

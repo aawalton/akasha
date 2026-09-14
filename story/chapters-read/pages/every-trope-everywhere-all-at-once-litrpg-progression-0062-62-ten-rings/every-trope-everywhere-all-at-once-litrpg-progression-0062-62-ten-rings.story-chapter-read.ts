@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006262TenRings = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 62,
   ownLength: 1689,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-01",
   externalIdentity: [
     {

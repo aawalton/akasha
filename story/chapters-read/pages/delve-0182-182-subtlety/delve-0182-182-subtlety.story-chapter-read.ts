@@ -8,7 +8,7 @@ export const delve0182182Subtlety = {
   story: "delve",
   position: 182,
   ownLength: 4746,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-02-13",
   externalIdentity: [
     {

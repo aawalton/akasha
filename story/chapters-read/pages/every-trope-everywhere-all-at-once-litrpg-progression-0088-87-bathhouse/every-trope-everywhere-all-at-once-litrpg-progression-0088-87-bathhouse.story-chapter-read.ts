@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008887Bathhouse = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 88,
   ownLength: 1826,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-12",
   externalIdentity: [
     {

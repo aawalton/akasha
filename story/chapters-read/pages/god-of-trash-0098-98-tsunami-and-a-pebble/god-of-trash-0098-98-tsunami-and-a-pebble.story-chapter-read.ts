@@ -8,7 +8,7 @@ export const godOfTrash009898TsunamiAndAPebble = {
   story: "god-of-trash",
   position: 98,
   ownLength: 2160,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-06",
   externalIdentity: [
     {

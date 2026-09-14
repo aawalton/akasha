@@ -8,7 +8,7 @@ export const delve0229229Breakaway = {
   story: "delve",
   position: 229,
   ownLength: 3775,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-30",
   externalIdentity: [
     {

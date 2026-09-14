@@ -8,7 +8,7 @@ export const delve0261261Omen = {
   story: "delve",
   position: 261,
   ownLength: 4387,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-02-18",
   externalIdentity: [
     {

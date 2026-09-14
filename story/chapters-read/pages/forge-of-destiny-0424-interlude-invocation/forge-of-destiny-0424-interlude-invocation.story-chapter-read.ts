@@ -8,7 +8,7 @@ export const forgeOfDestiny0424InterludeInvocation = {
   story: "forge-of-destiny",
   position: 424,
   ownLength: 1665,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0195195Stealth = {
   story: "delve",
   position: 195,
   ownLength: 5511,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-12",
   externalIdentity: [
     {

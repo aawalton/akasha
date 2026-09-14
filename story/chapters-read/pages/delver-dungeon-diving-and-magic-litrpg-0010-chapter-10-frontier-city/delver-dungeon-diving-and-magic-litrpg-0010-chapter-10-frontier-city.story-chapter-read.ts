@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0010Chapter10FrontierCity = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 10,
   ownLength: 2281,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-28",
   externalIdentity: [
     {

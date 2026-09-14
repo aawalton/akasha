@@ -8,7 +8,7 @@ export const godOfTrash0218218DungeonDelvingTheBlackPalace = {
   story: "god-of-trash",
   position: 218,
   ownLength: 1875,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-22",
   externalIdentity: [
     {

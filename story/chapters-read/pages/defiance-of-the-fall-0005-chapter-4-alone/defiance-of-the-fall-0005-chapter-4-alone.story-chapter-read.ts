@@ -8,7 +8,7 @@ export const defianceOfTheFall0005Chapter4Alone = {
   story: "story-read/defiance-of-the-fall",
   position: 5,
   ownLength: 1691,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-05-05",
   externalIdentity: [
     {

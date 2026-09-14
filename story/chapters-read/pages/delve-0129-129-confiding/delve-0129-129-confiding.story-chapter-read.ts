@@ -8,7 +8,7 @@ export const delve0129129Confiding = {
   story: "delve",
   position: 129,
   ownLength: 5539,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-01-10",
   externalIdentity: [
     {

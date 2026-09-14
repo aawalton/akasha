@@ -8,7 +8,7 @@ export const endsOfMagic0088Chapter73BestowingMorality = {
   story: "story-read/ends-of-magic",
   position: 88,
   ownLength: 2646,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-16",
   externalIdentity: [
     {

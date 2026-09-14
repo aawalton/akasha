@@ -8,7 +8,7 @@ export const godOfTrash0139139WaterSyndicateVsTheSnackShack = {
   story: "god-of-trash",
   position: 139,
   ownLength: 2332,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-23",
   externalIdentity: [
     {

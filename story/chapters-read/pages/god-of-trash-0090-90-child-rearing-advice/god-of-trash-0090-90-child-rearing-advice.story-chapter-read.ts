@@ -8,7 +8,7 @@ export const godOfTrash009090ChildRearingAdvice = {
   story: "god-of-trash",
   position: 90,
   ownLength: 2853,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-29",
   externalIdentity: [
     {

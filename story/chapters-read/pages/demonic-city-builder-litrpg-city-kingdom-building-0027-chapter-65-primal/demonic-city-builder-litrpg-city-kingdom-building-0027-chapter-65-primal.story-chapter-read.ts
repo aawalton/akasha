@@ -6,7 +6,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0027Chapter65Primal = {
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0027-chapter-65-primal",
   position: 27,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

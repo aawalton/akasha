@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0101ChapterNinetyEightGlowingWaters =
   story: "flesh-eater-demon-evolution-litrpg",
   position: 101,
   ownLength: 2394,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-24",
   externalIdentity: [
     {

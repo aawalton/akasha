@@ -8,7 +8,7 @@ export const delve0032032Well = {
   story: "delve",
   position: 32,
   ownLength: 3862,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-08-11",
   externalIdentity: [
     {

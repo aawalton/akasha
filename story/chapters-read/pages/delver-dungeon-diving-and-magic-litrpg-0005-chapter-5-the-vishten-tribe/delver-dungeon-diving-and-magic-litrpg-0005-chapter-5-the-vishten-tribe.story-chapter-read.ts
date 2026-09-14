@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0005Chapter5TheVishtenTribe = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 5,
   ownLength: 2281,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

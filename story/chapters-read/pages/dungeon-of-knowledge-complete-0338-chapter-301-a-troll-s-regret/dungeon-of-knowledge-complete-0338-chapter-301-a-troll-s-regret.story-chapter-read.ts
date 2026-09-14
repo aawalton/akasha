@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0338Chapter301ATrollSRegret = {
   position: 338,
   ownLength: 2918,
   ownProgress: 2918,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:22:00.538Z",
   publishedAt: "2025-07-05",
   externalIdentity: [

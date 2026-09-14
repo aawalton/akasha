@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0606Chapter563TheLairOfTheDracolich = {
   story: "dungeon-of-knowledge-complete",
   position: 606,
   ownLength: 3621,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-12",
   externalIdentity: [
     {

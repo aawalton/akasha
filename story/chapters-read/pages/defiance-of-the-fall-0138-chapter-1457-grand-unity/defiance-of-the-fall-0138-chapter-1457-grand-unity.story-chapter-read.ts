@@ -7,7 +7,7 @@ export const defianceOfTheFall0138Chapter1457GrandUnity = {
   story: "story-read/defiance-of-the-fall",
   position: 138,
   publishedAt: "2026-09-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

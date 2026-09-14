@@ -8,7 +8,7 @@ export const godOfTrash0226226WhatLiesBeyondTheLake = {
   story: "god-of-trash",
   position: 226,
   ownLength: 2574,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0016Ch16NewNeighbor = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 16,
   ownLength: 1504,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

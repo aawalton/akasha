@@ -8,7 +8,7 @@ export const delve0239239Sharing = {
   story: "delve",
   position: 239,
   ownLength: 3335,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-07-30",
   externalIdentity: [
     {

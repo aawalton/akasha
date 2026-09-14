@@ -8,7 +8,7 @@ export const delve0067067Footrace = {
   story: "delve",
   position: 67,
   ownLength: 5347,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-12-15",
   externalIdentity: [
     {

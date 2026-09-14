@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005353TheShackledGian
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 53,
   ownLength: 1647,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-22",
   externalIdentity: [
     {

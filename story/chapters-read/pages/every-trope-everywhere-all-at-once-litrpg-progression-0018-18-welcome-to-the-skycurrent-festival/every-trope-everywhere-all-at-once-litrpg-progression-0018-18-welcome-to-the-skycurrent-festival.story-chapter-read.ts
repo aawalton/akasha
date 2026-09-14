@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001818WelcomeToTheSky
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 18,
   ownLength: 1747,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0035ChapterThirtyFourThePaleRiver = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 35,
   ownLength: 3108,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-27",
   externalIdentity: [
     {

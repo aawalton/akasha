@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0609Chapter566SoulSeerOfTheNinePaths = {
   story: "dungeon-of-knowledge-complete",
   position: 609,
   ownLength: 2796,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-14",
   externalIdentity: [
     {

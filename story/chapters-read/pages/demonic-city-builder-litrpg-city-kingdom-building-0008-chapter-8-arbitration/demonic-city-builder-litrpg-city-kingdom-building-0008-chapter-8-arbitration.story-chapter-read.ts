@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0008Chapter8Arbitration 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 8,
   ownLength: 4015,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

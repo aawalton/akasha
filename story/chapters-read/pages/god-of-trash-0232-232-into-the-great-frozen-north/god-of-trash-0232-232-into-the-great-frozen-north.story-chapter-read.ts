@@ -8,7 +8,7 @@ export const godOfTrash0232232IntoTheGreatFrozenNorth = {
   story: "god-of-trash",
   position: 232,
   ownLength: 1953,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0104Ch104Puppets = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 104,
   ownLength: 2415,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-23",
   externalIdentity: [
     {

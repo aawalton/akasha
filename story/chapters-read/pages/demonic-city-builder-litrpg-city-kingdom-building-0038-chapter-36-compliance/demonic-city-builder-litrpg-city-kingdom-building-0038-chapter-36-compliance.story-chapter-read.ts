@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0038Chapter36Compliance 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 38,
   ownLength: 2308,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-26",
   externalIdentity: [
     {

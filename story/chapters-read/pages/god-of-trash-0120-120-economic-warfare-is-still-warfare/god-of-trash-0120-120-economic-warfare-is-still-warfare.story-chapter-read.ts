@@ -8,7 +8,7 @@ export const godOfTrash0120120EconomicWarfareIsStillWarfare = {
   story: "god-of-trash",
   position: 120,
   ownLength: 2816,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-04",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0055ChapterFiftyFourTickingTime = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 55,
   ownLength: 2476,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-07",
   externalIdentity: [
     {

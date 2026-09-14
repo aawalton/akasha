@@ -8,7 +8,7 @@ export const defianceOfTheFall0050Chapter1373StatusQuo = {
   story: "story-read/defiance-of-the-fall",
   position: 50,
   ownLength: 3160,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-02",
   externalIdentity: [
     {

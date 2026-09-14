@@ -8,7 +8,7 @@ export const delve0122122Composition = {
   story: "delve",
   position: 122,
   ownLength: 6983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-22",
   externalIdentity: [
     {

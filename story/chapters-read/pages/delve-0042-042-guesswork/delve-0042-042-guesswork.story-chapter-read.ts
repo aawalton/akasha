@@ -8,7 +8,7 @@ export const delve0042042Guesswork = {
   story: "delve",
   position: 42,
   ownLength: 4514,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-09-10",
   externalIdentity: [
     {

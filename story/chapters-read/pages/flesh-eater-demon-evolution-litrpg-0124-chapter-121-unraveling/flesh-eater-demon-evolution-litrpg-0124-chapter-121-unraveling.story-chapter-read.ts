@@ -7,7 +7,7 @@ export const fleshEaterDemonEvolutionLitrpg0124Chapter121Unraveling = {
   story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 124,
   publishedAt: "2026-09-06",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

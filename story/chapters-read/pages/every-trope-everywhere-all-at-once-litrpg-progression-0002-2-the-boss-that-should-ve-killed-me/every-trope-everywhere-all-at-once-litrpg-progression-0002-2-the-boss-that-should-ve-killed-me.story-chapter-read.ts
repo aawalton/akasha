@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00022TheBossThatShoul
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 2,
   ownLength: 2609,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-12",
   externalIdentity: [
     {

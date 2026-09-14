@@ -8,7 +8,7 @@ export const delve0149149Instinct = {
   story: "delve",
   position: 149,
   ownLength: 5268,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-06",
   externalIdentity: [
     {

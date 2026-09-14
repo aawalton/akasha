@@ -8,7 +8,7 @@ export const delve0034034Kin = {
   story: "delve",
   position: 34,
   ownLength: 3659,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-08-18",
   externalIdentity: [
     {

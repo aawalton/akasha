@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0176Chapter173TheEldritchTome = {
   position: 176,
   ownLength: 6606,
   ownProgress: 6606,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:17:00.604Z",
   publishedAt: "2024-12-22",
   externalIdentity: [

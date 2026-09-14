@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0006Book1ReleaseToday = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 6,
   ownLength: 173,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-16",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0076Ch76BeastMasteryPeak = 
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 76,
   ownLength: 1910,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-15",
   externalIdentity: [
     {

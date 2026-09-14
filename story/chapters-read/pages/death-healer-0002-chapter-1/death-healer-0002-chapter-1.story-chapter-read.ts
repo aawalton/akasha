@@ -8,7 +8,7 @@ export const deathHealer0002Chapter1 = {
   story: "death-healer",
   position: 2,
   ownLength: 3282,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-04",
   externalIdentity: [
     {

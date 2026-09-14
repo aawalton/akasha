@@ -8,7 +8,7 @@ export const godOfTrash0240240LockIn = {
   story: "god-of-trash",
   position: 240,
   ownLength: 2155,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-26",
   externalIdentity: [
     {

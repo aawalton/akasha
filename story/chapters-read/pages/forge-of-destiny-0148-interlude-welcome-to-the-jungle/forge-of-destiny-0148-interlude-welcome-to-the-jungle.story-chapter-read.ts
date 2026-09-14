@@ -8,7 +8,7 @@ export const forgeOfDestiny0148InterludeWelcomeToTheJungle = {
   story: "forge-of-destiny",
   position: 148,
   ownLength: 3352,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-23",
   externalIdentity: [
     {

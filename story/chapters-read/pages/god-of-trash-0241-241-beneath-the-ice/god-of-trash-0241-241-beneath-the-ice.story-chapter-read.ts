@@ -8,7 +8,7 @@ export const godOfTrash0241241BeneathTheIce = {
   story: "god-of-trash",
   position: 241,
   ownLength: 2221,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-28",
   externalIdentity: [
     {

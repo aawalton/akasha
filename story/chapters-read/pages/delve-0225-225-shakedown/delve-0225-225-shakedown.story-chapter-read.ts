@@ -8,7 +8,7 @@ export const delve0225225Shakedown = {
   story: "delve",
   position: 225,
   ownLength: 3750,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-19",
   externalIdentity: [
     {

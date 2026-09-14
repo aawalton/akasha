@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0022Chapter60Missions = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 22,
   ownLength: 2086,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-29",
   externalIdentity: [
     {

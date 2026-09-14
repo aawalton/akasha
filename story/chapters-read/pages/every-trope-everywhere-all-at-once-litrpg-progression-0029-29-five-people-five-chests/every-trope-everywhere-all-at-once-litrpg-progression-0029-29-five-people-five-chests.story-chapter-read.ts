@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002929FivePeopleFiveC
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 29,
   ownLength: 2270,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-29",
   externalIdentity: [
     {

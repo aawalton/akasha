@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0007Chapter7Ceremony = {
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 7,
   ownLength: 1916,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-20",
   externalIdentity: [
     {

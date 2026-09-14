@@ -8,7 +8,7 @@ export const defianceOfTheFall0031Chapter1355Naruk = {
   story: "story-read/defiance-of-the-fall",
   position: 31,
   ownLength: 3321,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-18",
   externalIdentity: [
     {

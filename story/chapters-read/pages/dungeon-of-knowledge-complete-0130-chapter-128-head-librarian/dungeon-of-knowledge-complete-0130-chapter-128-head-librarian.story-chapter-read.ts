@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0130Chapter128HeadLibrarian = {
   position: 130,
   ownLength: 4225,
   ownProgress: 4225,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:31:21.854Z",
   publishedAt: "2024-09-10",
   externalIdentity: [

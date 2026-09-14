@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0007Chapter7WolfPack = {
   position: 7,
   ownLength: 5989,
   ownProgress: 5989,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:11:14.496Z",
   publishedAt: "2024-02-01",
   externalIdentity: [

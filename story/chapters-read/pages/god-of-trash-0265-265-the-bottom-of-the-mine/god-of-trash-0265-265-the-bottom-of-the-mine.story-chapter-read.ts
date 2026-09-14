@@ -8,7 +8,7 @@ export const godOfTrash0265265TheBottomOfTheMine = {
   story: "god-of-trash",
   position: 265,
   ownLength: 2138,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-23",
   externalIdentity: [
     {

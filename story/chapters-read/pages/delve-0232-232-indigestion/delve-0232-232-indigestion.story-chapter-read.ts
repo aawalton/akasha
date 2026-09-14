@@ -8,7 +8,7 @@ export const delve0232232Indigestion = {
   story: "delve",
   position: 232,
   ownLength: 4713,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-28",
   externalIdentity: [
     {

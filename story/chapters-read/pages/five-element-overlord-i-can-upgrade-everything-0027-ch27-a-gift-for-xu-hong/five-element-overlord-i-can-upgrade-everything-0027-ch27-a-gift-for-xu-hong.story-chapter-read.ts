@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0027Ch27AGiftForXuHong = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 27,
   ownLength: 1374,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-07",
   externalIdentity: [
     {

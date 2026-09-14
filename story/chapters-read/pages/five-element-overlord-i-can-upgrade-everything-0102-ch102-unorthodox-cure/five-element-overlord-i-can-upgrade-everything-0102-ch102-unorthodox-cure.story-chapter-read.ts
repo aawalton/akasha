@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0102Ch102UnorthodoxCure = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 102,
   ownLength: 2108,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-21",
   externalIdentity: [
     {

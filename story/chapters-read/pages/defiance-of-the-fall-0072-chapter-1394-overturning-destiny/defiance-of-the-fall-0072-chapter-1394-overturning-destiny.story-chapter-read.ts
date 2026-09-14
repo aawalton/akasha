@@ -8,7 +8,7 @@ export const defianceOfTheFall0072Chapter1394OverturningDestiny = {
   story: "story-read/defiance-of-the-fall",
   position: 72,
   ownLength: 2905,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-06",
   externalIdentity: [
     {

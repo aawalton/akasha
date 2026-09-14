@@ -8,7 +8,7 @@ export const delve0006006Skill = {
   story: "delve",
   position: 6,
   ownLength: 2953,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-02",
   externalIdentity: [
     {

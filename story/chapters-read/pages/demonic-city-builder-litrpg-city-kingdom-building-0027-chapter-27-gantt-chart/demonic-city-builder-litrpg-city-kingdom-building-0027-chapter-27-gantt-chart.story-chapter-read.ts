@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0027Chapter27GanttChart 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 27,
   ownLength: 2395,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-06",
   externalIdentity: [
     {

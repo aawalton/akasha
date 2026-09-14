@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004646JustAPinch = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 46,
   ownLength: 1654,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-14",
   externalIdentity: [
     {

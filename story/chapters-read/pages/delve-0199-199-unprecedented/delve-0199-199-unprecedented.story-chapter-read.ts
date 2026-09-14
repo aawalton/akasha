@@ -8,7 +8,7 @@ export const delve0199199Unprecedented = {
   story: "delve",
   position: 199,
   ownLength: 3896,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-07-24",
   externalIdentity: [
     {

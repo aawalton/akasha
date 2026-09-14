@@ -8,7 +8,7 @@ export const godOfTrash0124124EyesFullOfVengeance = {
   story: "god-of-trash",
   position: 124,
   ownLength: 2155,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-08",
   externalIdentity: [
     {

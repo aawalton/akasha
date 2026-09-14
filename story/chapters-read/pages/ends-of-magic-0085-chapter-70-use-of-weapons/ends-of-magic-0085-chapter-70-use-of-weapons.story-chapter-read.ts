@@ -8,7 +8,7 @@ export const endsOfMagic0085Chapter70UseOfWeapons = {
   story: "story-read/ends-of-magic",
   position: 85,
   ownLength: 2916,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-06",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0211211Birdman = {
   story: "delve",
   position: 211,
   ownLength: 4457,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-13",
   externalIdentity: [
     {

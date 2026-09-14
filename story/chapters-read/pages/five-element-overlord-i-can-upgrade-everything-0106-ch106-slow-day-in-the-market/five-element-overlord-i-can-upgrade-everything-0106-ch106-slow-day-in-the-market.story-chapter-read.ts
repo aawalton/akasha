@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0106Ch106SlowDayInTheMarket
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 106,
   ownLength: 2618,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-27",
   externalIdentity: [
     {

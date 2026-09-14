@@ -8,7 +8,7 @@ export const godOfTrash0207207BlackShip = {
   story: "god-of-trash",
   position: 207,
   ownLength: 2177,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-05",
   externalIdentity: [
     {

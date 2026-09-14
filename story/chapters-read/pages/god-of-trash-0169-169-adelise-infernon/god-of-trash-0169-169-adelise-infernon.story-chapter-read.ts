@@ -8,7 +8,7 @@ export const godOfTrash0169169AdeliseInfernon = {
   story: "god-of-trash",
   position: 169,
   ownLength: 1979,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004343BonenT = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 43,
   ownLength: 1866,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-12",
   externalIdentity: [
     {

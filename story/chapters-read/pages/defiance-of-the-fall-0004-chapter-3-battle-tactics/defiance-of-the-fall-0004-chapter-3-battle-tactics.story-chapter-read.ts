@@ -8,7 +8,7 @@ export const defianceOfTheFall0004Chapter3BattleTactics = {
   story: "story-read/defiance-of-the-fall",
   position: 4,
   ownLength: 1608,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-05-05",
   externalIdentity: [
     {

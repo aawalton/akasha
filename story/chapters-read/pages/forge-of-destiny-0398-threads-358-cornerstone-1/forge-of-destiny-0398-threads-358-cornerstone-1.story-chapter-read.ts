@@ -8,7 +8,7 @@ export const forgeOfDestiny0398Threads358Cornerstone1 = {
   story: "forge-of-destiny",
   position: 398,
   ownLength: 1683,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-25",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0108Chapter1428TakingStock = {
   story: "story-read/defiance-of-the-fall",
   position: 108,
   ownLength: 3116,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-30",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0213213ShoreLeave = {
   story: "delve",
   position: 213,
   ownLength: 3880,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-11-27",
   externalIdentity: [
     {

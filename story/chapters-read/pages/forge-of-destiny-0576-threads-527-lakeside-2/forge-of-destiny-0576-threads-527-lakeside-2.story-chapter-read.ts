@@ -8,7 +8,7 @@ export const forgeOfDestiny0576Threads527Lakeside2 = {
   story: "forge-of-destiny",
   position: 576,
   ownLength: 2003,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-19",
   externalIdentity: [
     {

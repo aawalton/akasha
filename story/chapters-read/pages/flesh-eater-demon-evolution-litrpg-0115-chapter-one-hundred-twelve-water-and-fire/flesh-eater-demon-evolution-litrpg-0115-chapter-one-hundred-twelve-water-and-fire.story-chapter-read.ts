@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0115ChapterOneHundredTwelveWaterAndFi
   story: "flesh-eater-demon-evolution-litrpg",
   position: 115,
   ownLength: 2292,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-01",
   externalIdentity: [
     {

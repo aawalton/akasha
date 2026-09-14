@@ -8,7 +8,7 @@ export const defianceOfTheFall0081WritingSeclusionAnnouncement = {
   story: "story-read/defiance-of-the-fall",
   position: 81,
   ownLength: 290,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-28",
   externalIdentity: [
     {

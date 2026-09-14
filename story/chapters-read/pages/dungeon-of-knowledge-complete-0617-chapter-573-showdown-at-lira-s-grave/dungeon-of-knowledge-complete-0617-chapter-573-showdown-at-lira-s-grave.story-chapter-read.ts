@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0617Chapter573ShowdownAtLiraSGrave = {
   story: "dungeon-of-knowledge-complete",
   position: 617,
   ownLength: 4044,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0013013Party = {
   story: "delve",
   position: 13,
   ownLength: 3890,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-08",
   externalIdentity: [
     {

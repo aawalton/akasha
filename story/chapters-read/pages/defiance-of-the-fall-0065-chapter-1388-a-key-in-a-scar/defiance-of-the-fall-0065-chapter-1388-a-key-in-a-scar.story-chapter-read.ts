@@ -8,7 +8,7 @@ export const defianceOfTheFall0065Chapter1388AKeyInAScar = {
   story: "story-read/defiance-of-the-fall",
   position: 65,
   ownLength: 3046,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-09",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0039Chapter37Dessert = {
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 39,
   ownLength: 2450,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-30",
   externalIdentity: [
     {

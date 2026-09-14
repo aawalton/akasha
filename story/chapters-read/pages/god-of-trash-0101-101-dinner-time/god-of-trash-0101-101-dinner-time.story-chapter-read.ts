@@ -8,7 +8,7 @@ export const godOfTrash0101101DinnerTime = {
   story: "god-of-trash",
   position: 101,
   ownLength: 3471,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-09",
   externalIdentity: [
     {

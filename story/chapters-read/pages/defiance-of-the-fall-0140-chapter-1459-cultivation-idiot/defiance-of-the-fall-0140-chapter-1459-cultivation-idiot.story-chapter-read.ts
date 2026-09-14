@@ -6,7 +6,7 @@ export const defianceOfTheFall0140Chapter1459CultivationIdiot = {
   slug: "defiance-of-the-fall-0140-chapter-1459-cultivation-idiot",
   position: 140,
   publishedAt: "2026-09-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

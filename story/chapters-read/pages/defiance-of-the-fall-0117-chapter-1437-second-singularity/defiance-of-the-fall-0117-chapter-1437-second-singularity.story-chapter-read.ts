@@ -8,7 +8,7 @@ export const defianceOfTheFall0117Chapter1437SecondSingularity = {
   story: "story-read/defiance-of-the-fall",
   position: 117,
   ownLength: 3039,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-21",
   externalIdentity: [
     {

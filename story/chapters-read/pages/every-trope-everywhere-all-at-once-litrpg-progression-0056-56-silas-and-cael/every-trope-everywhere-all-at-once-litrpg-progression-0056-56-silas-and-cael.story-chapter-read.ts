@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005656SilasAndCael = 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 56,
   ownLength: 1495,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-25",
   externalIdentity: [
     {

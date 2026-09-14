@@ -8,7 +8,7 @@ export const delve0252252Inconceivable = {
   story: "delve",
   position: 252,
   ownLength: 4489,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-11-26",
   externalIdentity: [
     {

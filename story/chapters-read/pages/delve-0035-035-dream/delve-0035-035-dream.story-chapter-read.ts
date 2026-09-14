@@ -8,7 +8,7 @@ export const delve0035035Dream = {
   story: "delve",
   position: 35,
   ownLength: 2378,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-08-25",
   externalIdentity: [
     {

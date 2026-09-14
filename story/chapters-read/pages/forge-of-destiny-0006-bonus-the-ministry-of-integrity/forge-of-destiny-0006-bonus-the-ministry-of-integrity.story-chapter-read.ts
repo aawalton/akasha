@@ -8,7 +8,7 @@ export const forgeOfDestiny0006BonusTheMinistryOfIntegrity = {
   story: "forge-of-destiny",
   position: 6,
   ownLength: 1520,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-30",
   externalIdentity: [
     {

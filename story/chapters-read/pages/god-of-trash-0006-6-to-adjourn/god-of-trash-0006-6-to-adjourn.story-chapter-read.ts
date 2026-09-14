@@ -8,7 +8,7 @@ export const godOfTrash00066ToAdjourn = {
   story: "god-of-trash",
   position: 6,
   ownLength: 4057,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-28",
   externalIdentity: [
     {

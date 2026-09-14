@@ -8,7 +8,7 @@ export const defianceOfTheFall0063Chapter1386ExcellentLuck = {
   story: "story-read/defiance-of-the-fall",
   position: 63,
   ownLength: 3013,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-04",
   externalIdentity: [
     {

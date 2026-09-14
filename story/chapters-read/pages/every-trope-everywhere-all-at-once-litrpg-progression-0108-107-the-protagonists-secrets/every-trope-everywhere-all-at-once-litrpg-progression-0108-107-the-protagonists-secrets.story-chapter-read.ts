@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0108107TheProtagonist
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0108-107-the-protagonists-secrets",
   position: 108,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

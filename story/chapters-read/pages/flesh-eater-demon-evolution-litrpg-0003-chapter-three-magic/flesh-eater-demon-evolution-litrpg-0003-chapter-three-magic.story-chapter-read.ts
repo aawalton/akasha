@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0003ChapterThreeMagic = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 3,
   ownLength: 2848,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash009191TheEmpressArrives = {
   story: "god-of-trash",
   position: 91,
   ownLength: 2177,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-30",
   externalIdentity: [
     {

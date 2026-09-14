@@ -8,7 +8,7 @@ export const defianceOfTheFall0043Chapter1366Impersonator = {
   story: "story-read/defiance-of-the-fall",
   position: 43,
   ownLength: 2759,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-16",
   externalIdentity: [
     {

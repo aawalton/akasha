@@ -8,7 +8,7 @@ export const delve0178178Proposition = {
   story: "delve",
   position: 178,
   ownLength: 4059,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-01-16",
   externalIdentity: [
     {

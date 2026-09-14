@@ -8,7 +8,7 @@ export const godOfTrash0174174CrashingABallForFunAndProfit = {
   story: "god-of-trash",
   position: 174,
   ownLength: 2127,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-02",
   externalIdentity: [
     {

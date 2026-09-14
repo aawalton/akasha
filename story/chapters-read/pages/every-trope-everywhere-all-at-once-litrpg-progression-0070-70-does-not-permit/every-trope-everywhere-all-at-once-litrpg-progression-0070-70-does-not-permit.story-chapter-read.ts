@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007070DoesNotPermit =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 70,
   ownLength: 1915,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-10",
   externalIdentity: [
     {

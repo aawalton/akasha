@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0031Chapter31TheyAllFall = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 31,
   ownLength: 1865,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-18",
   externalIdentity: [
     {

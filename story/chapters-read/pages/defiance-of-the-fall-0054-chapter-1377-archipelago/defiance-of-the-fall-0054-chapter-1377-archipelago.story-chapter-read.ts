@@ -8,7 +8,7 @@ export const defianceOfTheFall0054Chapter1377Archipelago = {
   story: "story-read/defiance-of-the-fall",
   position: 54,
   ownLength: 3358,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-14",
   externalIdentity: [
     {

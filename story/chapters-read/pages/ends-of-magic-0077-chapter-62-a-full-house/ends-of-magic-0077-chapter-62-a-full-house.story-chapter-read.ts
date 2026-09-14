@@ -9,7 +9,7 @@ export const endsOfMagic0077Chapter62AFullHouse = {
   position: 77,
   ownLength: 2700,
   ownProgress: 302,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-09",
   externalIdentity: [
     {

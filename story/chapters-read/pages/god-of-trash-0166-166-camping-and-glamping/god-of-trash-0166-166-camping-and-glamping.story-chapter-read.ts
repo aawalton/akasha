@@ -8,7 +8,7 @@ export const godOfTrash0166166CampingAndGlamping = {
   story: "god-of-trash",
   position: 166,
   ownLength: 2314,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-25",
   externalIdentity: [
     {

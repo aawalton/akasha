@@ -8,7 +8,7 @@ export const forgeOfDestiny0367Threads327Dukes1 = {
   story: "forge-of-destiny",
   position: 367,
   ownLength: 2747,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-08-15",
   externalIdentity: [
     {

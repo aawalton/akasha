@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0046Chapter44Stone = {
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 46,
   ownLength: 1537,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-16",
   externalIdentity: [
     {

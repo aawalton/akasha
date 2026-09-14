@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003636TheWeepingOnes 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 36,
   ownLength: 1564,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-05",
   externalIdentity: [
     {

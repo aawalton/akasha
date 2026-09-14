@@ -8,7 +8,7 @@ export const defianceOfTheFall0041Chapter1364MercurialSacks = {
   story: "story-read/defiance-of-the-fall",
   position: 41,
   ownLength: 2841,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-13",
   externalIdentity: [
     {

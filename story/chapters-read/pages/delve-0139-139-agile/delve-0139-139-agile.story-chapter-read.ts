@@ -8,7 +8,7 @@ export const delve0139139Agile = {
   story: "delve",
   position: 139,
   ownLength: 6602,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-21",
   externalIdentity: [
     {

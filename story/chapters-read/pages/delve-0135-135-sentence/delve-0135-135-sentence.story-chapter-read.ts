@@ -8,7 +8,7 @@ export const delve0135135Sentence = {
   story: "delve",
   position: 135,
   ownLength: 5806,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-21",
   externalIdentity: [
     {

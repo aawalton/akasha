@@ -8,7 +8,7 @@ export const godOfTrash0220220ItsATrap = {
   story: "god-of-trash",
   position: 220,
   ownLength: 2272,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-24",
   externalIdentity: [
     {

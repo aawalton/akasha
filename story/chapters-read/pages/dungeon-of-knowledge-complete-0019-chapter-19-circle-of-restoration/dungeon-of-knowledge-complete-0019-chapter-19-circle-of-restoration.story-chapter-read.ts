@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0019Chapter19CircleOfRestoration = {
   position: 19,
   ownLength: 3450,
   ownProgress: 3450,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:11:37.847Z",
   publishedAt: "2024-02-15",
   externalIdentity: [

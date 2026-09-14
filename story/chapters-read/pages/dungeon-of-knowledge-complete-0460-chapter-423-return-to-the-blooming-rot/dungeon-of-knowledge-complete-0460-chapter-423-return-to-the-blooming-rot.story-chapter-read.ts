@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0460Chapter423ReturnToTheBloomingRot = {
   position: 460,
   ownLength: 2085,
   ownProgress: 2085,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:27:45.682Z",
   publishedAt: "2025-10-28",
   externalIdentity: [

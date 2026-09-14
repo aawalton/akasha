@@ -8,7 +8,7 @@ export const godOfTrash0131131DisregardWomenAcquireSoda = {
   story: "god-of-trash",
   position: 131,
   ownLength: 2212,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-15",
   externalIdentity: [
     {

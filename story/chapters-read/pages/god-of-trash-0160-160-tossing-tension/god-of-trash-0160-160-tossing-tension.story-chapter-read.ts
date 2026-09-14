@@ -8,7 +8,7 @@ export const godOfTrash0160160TossingTension = {
   story: "god-of-trash",
   position: 160,
   ownLength: 2025,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-19",
   externalIdentity: [
     {

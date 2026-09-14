@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0393Chapter356TheSpearOfSilentExtinctionP
   position: 393,
   ownLength: 3000,
   ownProgress: 3000,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:25:17.003Z",
   publishedAt: "2025-08-24",
   externalIdentity: [

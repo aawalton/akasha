@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0425Chapter388Evacuation = {
   position: 425,
   ownLength: 2834,
   ownProgress: 2834,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:26:26.131Z",
   publishedAt: "2025-09-23",
   externalIdentity: [

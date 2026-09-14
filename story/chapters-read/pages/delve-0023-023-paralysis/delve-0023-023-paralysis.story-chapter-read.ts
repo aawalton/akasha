@@ -8,7 +8,7 @@ export const delve0023023Paralysis = {
   story: "delve",
   position: 23,
   ownLength: 3909,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-27",
   externalIdentity: [
     {

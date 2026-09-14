@@ -8,7 +8,7 @@ export const defianceOfTheFall0120Chapter1440GatesAndLightning = {
   story: "story-read/defiance-of-the-fall",
   position: 120,
   ownLength: 3168,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-28",
   externalIdentity: [
     {

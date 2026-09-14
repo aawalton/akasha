@@ -8,7 +8,7 @@ export const delve0002002OneOnOne = {
   story: "delve",
   position: 2,
   ownLength: 3452,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0013Ch13CopperBell = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 13,
   ownLength: 2045,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

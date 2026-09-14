@@ -7,7 +7,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0025Chapter63ARisingTide
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 25,
   publishedAt: "2026-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

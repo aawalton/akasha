@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0505Chapter468Scouting = {
   position: 505,
   ownLength: 2275,
   ownProgress: 2275,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:29:22.257Z",
   publishedAt: "2025-12-07",
   externalIdentity: [

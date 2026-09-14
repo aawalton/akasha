@@ -8,7 +8,7 @@ export const defianceOfTheFall0122DefianceOfTheFallSoonInABookstoreNearYou = {
   story: "story-read/defiance-of-the-fall",
   position: 122,
   ownLength: 515,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-16",
   externalIdentity: [
     {

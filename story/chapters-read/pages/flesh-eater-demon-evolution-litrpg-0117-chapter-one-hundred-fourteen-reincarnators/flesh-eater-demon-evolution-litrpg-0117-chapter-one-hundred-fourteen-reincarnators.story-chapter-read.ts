@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0117ChapterOneHundredFourteenReincarn
   story: "flesh-eater-demon-evolution-litrpg",
   position: 117,
   ownLength: 2276,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-06",
   externalIdentity: [
     {

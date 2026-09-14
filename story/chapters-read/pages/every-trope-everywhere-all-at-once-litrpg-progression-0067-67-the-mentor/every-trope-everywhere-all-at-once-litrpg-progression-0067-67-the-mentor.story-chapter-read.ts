@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006767TheMentor = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 67,
   ownLength: 2020,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-08",
   externalIdentity: [
     {

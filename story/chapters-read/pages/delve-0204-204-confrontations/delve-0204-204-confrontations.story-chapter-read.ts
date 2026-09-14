@@ -8,7 +8,7 @@ export const delve0204204Confrontations = {
   story: "delve",
   position: 204,
   ownLength: 4151,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-09-04",
   externalIdentity: [
     {

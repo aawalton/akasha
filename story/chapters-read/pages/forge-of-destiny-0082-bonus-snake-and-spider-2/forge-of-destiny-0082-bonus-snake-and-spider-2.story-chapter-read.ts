@@ -8,7 +8,7 @@ export const forgeOfDestiny0082BonusSnakeAndSpider2 = {
   story: "forge-of-destiny",
   position: 82,
   ownLength: 1818,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-22",
   externalIdentity: [
     {

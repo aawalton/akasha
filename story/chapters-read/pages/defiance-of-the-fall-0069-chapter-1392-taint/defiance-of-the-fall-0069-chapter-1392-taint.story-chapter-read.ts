@@ -8,7 +8,7 @@ export const defianceOfTheFall0069Chapter1392Taint = {
   story: "story-read/defiance-of-the-fall",
   position: 69,
   ownLength: 3330,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-18",
   externalIdentity: [
     {

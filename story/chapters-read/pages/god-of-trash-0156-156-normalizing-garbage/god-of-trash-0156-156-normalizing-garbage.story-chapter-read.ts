@@ -8,7 +8,7 @@ export const godOfTrash0156156NormalizingGarbage = {
   story: "god-of-trash",
   position: 156,
   ownLength: 2220,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-09",
   externalIdentity: [
     {

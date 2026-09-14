@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0056Chapter54TheDralk = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 56,
   ownLength: 2035,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-14",
   externalIdentity: [
     {

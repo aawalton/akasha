@@ -8,7 +8,7 @@ export const delve0085085Temper = {
   story: "delve",
   position: 85,
   ownLength: 5891,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-03-11",
   externalIdentity: [
     {

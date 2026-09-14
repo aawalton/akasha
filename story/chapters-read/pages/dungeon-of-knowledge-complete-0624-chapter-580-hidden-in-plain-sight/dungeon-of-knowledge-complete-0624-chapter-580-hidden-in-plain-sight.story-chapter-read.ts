@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0624Chapter580HiddenInPlainSight = {
   story: "dungeon-of-knowledge-complete",
   position: 624,
   ownLength: 2429,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-22",
   externalIdentity: [
     {

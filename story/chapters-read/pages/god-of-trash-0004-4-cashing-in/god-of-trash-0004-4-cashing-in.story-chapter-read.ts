@@ -8,7 +8,7 @@ export const godOfTrash00044CashingIn = {
   story: "god-of-trash",
   position: 4,
   ownLength: 3610,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-02-27",
   externalIdentity: [
     {

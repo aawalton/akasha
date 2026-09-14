@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008382CorrectingTheMe
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 83,
   ownLength: 1752,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-03",
   externalIdentity: [
     {

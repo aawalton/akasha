@@ -8,7 +8,7 @@ export const delve0246246Inhospitable = {
   story: "delve",
   position: 246,
   ownLength: 4479,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-01",
   externalIdentity: [
     {

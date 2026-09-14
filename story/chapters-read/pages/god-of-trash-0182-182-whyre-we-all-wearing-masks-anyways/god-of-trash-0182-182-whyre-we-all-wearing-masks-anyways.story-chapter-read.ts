@@ -8,7 +8,7 @@ export const godOfTrash0182182WhyreWeAllWearingMasksAnyways = {
   story: "god-of-trash",
   position: 182,
   ownLength: 2788,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-10",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0111110Mystery = {
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0111-110-mystery",
   position: 111,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

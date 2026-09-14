@@ -8,7 +8,7 @@ export const delve0243243Nadir = {
   story: "delve",
   position: 243,
   ownLength: 3583,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-09-03",
   externalIdentity: [
     {

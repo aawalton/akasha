@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0422Chapter385FromTheBrinkPart2 = {
   position: 422,
   ownLength: 2370,
   ownProgress: 2370,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:26:20.076Z",
   publishedAt: "2025-09-20",
   externalIdentity: [

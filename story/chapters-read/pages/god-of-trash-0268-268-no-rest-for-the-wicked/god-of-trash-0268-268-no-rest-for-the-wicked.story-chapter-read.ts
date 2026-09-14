@@ -8,7 +8,7 @@ export const godOfTrash0268268NoRestForTheWicked = {
   story: "god-of-trash",
   position: 268,
   ownLength: 2061,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-29",
   externalIdentity: [
     {

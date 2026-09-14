@@ -8,7 +8,7 @@ export const godOfTrash0199199IGetWhyTheyDefeatedYou = {
   story: "god-of-trash",
   position: 199,
   ownLength: 1826,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-27",
   externalIdentity: [
     {

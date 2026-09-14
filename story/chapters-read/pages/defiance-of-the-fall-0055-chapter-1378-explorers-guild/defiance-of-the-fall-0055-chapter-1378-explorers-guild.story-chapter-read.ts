@@ -8,7 +8,7 @@ export const defianceOfTheFall0055Chapter1378ExplorersGuild = {
   story: "story-read/defiance-of-the-fall",
   position: 55,
   ownLength: 3043,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-16",
   externalIdentity: [
     {

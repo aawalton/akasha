@@ -8,7 +8,7 @@ export const forgeOfDestiny0031Threads22Duels2 = {
   story: "forge-of-destiny",
   position: 31,
   ownLength: 2932,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-13",
   externalIdentity: [
     {

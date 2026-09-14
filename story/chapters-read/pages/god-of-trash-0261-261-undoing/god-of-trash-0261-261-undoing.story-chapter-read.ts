@@ -8,7 +8,7 @@ export const godOfTrash0261261Undoing = {
   story: "god-of-trash",
   position: 261,
   ownLength: 1778,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-14",
   externalIdentity: [
     {

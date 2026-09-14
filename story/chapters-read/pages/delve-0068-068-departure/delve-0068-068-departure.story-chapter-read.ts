@@ -8,7 +8,7 @@ export const delve0068068Departure = {
   story: "delve",
   position: 68,
   ownLength: 4639,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-12-22",
   externalIdentity: [
     {

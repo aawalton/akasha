@@ -8,7 +8,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0342B5Chapter37 = {
   story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 342,
   ownLength: 1349,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-09",
   externalIdentity: [
     {

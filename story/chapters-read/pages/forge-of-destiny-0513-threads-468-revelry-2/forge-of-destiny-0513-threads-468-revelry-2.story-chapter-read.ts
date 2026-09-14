@@ -8,7 +8,7 @@ export const forgeOfDestiny0513Threads468Revelry2 = {
   story: "forge-of-destiny",
   position: 513,
   ownLength: 1641,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-19",
   externalIdentity: [
     {

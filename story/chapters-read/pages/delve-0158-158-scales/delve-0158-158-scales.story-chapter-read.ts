@@ -8,7 +8,7 @@ export const delve0158158Scales = {
   story: "delve",
   position: 158,
   ownLength: 7379,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-15",
   externalIdentity: [
     {

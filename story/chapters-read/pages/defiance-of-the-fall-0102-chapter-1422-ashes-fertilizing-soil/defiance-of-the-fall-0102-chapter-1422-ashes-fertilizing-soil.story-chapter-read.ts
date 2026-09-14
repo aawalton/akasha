@@ -8,7 +8,7 @@ export const defianceOfTheFall0102Chapter1422AshesFertilizingSoil = {
   story: "story-read/defiance-of-the-fall",
   position: 102,
   ownLength: 2858,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-14",
   externalIdentity: [
     {

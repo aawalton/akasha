@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002121TheParade = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 21,
   ownLength: 1945,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-23",
   externalIdentity: [
     {

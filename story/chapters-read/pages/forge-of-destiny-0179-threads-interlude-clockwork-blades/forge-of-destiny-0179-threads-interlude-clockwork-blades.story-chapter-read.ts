@@ -8,7 +8,7 @@ export const forgeOfDestiny0179ThreadsInterludeClockworkBlades = {
   story: "forge-of-destiny",
   position: 179,
   ownLength: 1484,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-04",
   externalIdentity: [
     {

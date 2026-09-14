@@ -8,7 +8,7 @@ export const godOfTrash0148148FullFrontal = {
   story: "god-of-trash",
   position: 148,
   ownLength: 2446,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-01",
   externalIdentity: [
     {

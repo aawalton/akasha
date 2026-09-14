@@ -8,7 +8,7 @@ export const forgeOfDestiny0015ThreadsChapter7TheBloodyDream1 = {
   story: "forge-of-destiny",
   position: 15,
   ownLength: 2298,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-11-07",
   externalIdentity: [
     {

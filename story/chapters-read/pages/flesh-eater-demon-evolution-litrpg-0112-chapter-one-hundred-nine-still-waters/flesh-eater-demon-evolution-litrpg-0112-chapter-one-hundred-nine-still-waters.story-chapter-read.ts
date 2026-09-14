@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0112ChapterOneHundredNineStillWaters 
   story: "flesh-eater-demon-evolution-litrpg",
   position: 112,
   ownLength: 2743,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-25",
   externalIdentity: [
     {

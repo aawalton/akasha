@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005757Salvation = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 57,
   ownLength: 1703,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-26",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0017ChapterSeventeenShapeshifting = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 17,
   ownLength: 3191,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-10",
   externalIdentity: [
     {

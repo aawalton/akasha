@@ -8,7 +8,7 @@ export const godOfTrash004949TheFinalDuel = {
   story: "god-of-trash",
   position: 49,
   ownLength: 4136,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-12",
   externalIdentity: [
     {

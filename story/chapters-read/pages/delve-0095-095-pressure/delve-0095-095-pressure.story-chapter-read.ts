@@ -8,7 +8,7 @@ export const delve0095095Pressure = {
   story: "delve",
   position: 95,
   ownLength: 4742,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-05-17",
   externalIdentity: [
     {

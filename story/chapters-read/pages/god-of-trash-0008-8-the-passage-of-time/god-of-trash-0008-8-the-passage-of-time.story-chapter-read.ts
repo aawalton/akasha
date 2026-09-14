@@ -8,7 +8,7 @@ export const godOfTrash00088ThePassageOfTime = {
   story: "god-of-trash",
   position: 8,
   ownLength: 3906,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-02",
   externalIdentity: [
     {

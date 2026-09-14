@@ -8,7 +8,7 @@ export const delve0208208Priorities = {
   story: "delve",
   position: 208,
   ownLength: 4150,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-10-16",
   externalIdentity: [
     {

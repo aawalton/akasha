@@ -9,7 +9,7 @@ export const gamerGirlEvolution002929TheAncientWaterway1 = {
   position: 29,
   ownLength: 1750,
   ownProgress: 1750,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:06:30.525Z",
   publishedAt: "2025-11-24",
   externalIdentity: [

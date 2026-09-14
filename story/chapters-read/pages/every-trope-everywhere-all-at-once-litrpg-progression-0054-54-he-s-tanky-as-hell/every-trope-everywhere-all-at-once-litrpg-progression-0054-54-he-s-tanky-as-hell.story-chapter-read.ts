@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005454HeSTankyAsHell 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 54,
   ownLength: 1723,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0003003Pothole = {
   story: "delve",
   position: 3,
   ownLength: 2151,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-02",
   externalIdentity: [
     {

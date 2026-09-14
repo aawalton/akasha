@@ -8,7 +8,7 @@ export const godOfTrash0272272HappyWifeHappyLife = {
   story: "god-of-trash",
   position: 272,
   ownLength: 1980,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-09",
   externalIdentity: [
     {

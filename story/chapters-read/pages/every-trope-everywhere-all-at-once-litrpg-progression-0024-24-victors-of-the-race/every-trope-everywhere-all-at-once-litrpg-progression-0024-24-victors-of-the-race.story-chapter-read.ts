@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002424VictorsOfTheRac
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 24,
   ownLength: 2063,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

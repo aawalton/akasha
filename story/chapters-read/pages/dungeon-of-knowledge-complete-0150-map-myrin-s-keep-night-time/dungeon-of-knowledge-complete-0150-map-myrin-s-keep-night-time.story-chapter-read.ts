@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0150MapMyrinSKeepNightTime = {
   position: 150,
   ownLength: 67,
   ownProgress: 67,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:16:02.069Z",
   publishedAt: "2024-10-27",
   externalIdentity: [

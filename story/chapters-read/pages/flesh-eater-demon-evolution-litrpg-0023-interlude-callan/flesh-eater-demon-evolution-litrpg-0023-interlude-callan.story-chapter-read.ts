@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0023InterludeCallan = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 23,
   ownLength: 3803,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-25",
   externalIdentity: [
     {

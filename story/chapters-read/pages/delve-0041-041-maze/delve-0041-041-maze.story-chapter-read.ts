@@ -8,7 +8,7 @@ export const delve0041041Maze = {
   story: "delve",
   position: 41,
   ownLength: 2719,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-09-08",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0012Ch12TheSerpentSPlum = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 12,
   ownLength: 1160,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

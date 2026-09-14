@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009897Galmeth = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 98,
   ownLength: 1786,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-31",
   externalIdentity: [
     {

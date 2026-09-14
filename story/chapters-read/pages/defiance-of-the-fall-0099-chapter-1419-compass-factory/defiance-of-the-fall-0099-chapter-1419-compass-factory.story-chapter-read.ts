@@ -8,7 +8,7 @@ export const defianceOfTheFall0099Chapter1419CompassFactory = {
   story: "story-read/defiance-of-the-fall",
   position: 99,
   ownLength: 2880,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-07",
   externalIdentity: [
     {

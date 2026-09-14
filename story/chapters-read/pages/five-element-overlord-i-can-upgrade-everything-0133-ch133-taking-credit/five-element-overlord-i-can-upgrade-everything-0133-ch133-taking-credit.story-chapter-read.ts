@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0133Ch133TakingCredit = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 133,
   ownLength: 2983,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-02",
   externalIdentity: [
     {

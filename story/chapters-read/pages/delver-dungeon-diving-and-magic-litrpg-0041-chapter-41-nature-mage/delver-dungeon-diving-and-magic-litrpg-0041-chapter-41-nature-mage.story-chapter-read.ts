@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0041Chapter41NatureMage = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 41,
   ownLength: 2663,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-10",
   externalIdentity: [
     {

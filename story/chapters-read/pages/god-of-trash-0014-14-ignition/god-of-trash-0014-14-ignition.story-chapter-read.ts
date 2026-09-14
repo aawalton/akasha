@@ -8,7 +8,7 @@ export const godOfTrash001414Ignition = {
   story: "god-of-trash",
   position: 14,
   ownLength: 3716,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-08",
   externalIdentity: [
     {

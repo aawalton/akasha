@@ -8,7 +8,7 @@ export const godOfTrash003434Cornered = {
   story: "god-of-trash",
   position: 34,
   ownLength: 2591,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-28",
   externalIdentity: [
     {

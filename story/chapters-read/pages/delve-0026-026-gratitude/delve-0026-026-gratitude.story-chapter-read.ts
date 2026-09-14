@@ -8,7 +8,7 @@ export const delve0026026Gratitude = {
   story: "delve",
   position: 26,
   ownLength: 3440,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-07-07",
   externalIdentity: [
     {

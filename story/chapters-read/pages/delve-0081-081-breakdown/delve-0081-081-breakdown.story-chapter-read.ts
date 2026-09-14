@@ -8,7 +8,7 @@ export const delve0081081Breakdown = {
   story: "delve",
   position: 81,
   ownLength: 6393,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-02-18",
   externalIdentity: [
     {

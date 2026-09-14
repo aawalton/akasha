@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0114Ch114ImmenseWealth = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 114,
   ownLength: 2017,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-06",
   externalIdentity: [
     {

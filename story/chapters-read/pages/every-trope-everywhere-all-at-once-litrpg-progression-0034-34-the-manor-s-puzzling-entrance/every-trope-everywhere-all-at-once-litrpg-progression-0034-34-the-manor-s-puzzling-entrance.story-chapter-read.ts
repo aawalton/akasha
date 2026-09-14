@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003434TheManorSPuzzli
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 34,
   ownLength: 2078,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-03",
   externalIdentity: [
     {

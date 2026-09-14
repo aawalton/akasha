@@ -8,7 +8,7 @@ export const delve0090090Buried = {
   story: "delve",
   position: 90,
   ownLength: 4847,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-04-12",
   externalIdentity: [
     {

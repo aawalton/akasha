@@ -8,7 +8,7 @@ export const defianceOfTheFall0021Chapter1345WarOnTheDocks = {
   story: "story-read/defiance-of-the-fall",
   position: 21,
   ownLength: 3142,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-25",
   externalIdentity: [
     {

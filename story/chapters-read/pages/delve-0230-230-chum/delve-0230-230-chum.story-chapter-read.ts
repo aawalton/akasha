@@ -8,7 +8,7 @@ export const delve0230230Chum = {
   story: "delve",
   position: 230,
   ownLength: 3562,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-05-07",
   externalIdentity: [
     {

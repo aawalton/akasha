@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009998ArchaicContract
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 99,
   ownLength: 2274,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-02",
   externalIdentity: [
     {

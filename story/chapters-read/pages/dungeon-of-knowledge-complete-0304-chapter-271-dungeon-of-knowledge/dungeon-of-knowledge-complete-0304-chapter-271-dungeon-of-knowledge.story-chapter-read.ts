@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0304Chapter271DungeonOfKnowledge = {
   position: 304,
   ownLength: 2981,
   ownProgress: 2981,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:21:35.050Z",
   publishedAt: "2025-06-07",
   externalIdentity: [

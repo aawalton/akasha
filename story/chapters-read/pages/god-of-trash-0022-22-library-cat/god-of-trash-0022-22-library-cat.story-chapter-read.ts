@@ -8,7 +8,7 @@ export const godOfTrash002222LibraryCat = {
   story: "god-of-trash",
   position: 22,
   ownLength: 2828,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-16",
   externalIdentity: [
     {

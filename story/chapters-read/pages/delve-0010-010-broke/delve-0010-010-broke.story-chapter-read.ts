@@ -8,7 +8,7 @@ export const delve0010010Broke = {
   story: "delve",
   position: 10,
   ownLength: 4173,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-05",
   externalIdentity: [
     {

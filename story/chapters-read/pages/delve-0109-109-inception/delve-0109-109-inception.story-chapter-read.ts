@@ -8,7 +8,7 @@ export const delve0109109Inception = {
   story: "delve",
   position: 109,
   ownLength: 5858,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-08-23",
   externalIdentity: [
     {

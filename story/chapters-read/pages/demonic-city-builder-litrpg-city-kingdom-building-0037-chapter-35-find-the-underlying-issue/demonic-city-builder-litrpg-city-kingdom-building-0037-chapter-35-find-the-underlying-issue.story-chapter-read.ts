@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0037Chapter35FindTheUnde
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 37,
   ownLength: 2104,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-25",
   externalIdentity: [
     {

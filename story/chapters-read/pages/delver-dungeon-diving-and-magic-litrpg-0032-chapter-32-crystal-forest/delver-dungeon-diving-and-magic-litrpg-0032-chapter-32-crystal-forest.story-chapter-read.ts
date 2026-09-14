@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0032Chapter32CrystalForest = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 32,
   ownLength: 2096,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-19",
   externalIdentity: [
     {

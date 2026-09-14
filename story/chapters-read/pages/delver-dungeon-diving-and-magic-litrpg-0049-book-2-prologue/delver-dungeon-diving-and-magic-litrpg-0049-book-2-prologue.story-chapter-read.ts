@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0049Book2Prologue = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 49,
   ownLength: 1656,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-24",
   externalIdentity: [
     {

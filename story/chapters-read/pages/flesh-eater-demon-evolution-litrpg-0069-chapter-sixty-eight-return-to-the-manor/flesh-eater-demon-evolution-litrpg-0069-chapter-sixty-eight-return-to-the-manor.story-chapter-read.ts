@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0069ChapterSixtyEightReturnToTheManor
   story: "flesh-eater-demon-evolution-litrpg",
   position: 69,
   ownLength: 2635,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-26",
   externalIdentity: [
     {

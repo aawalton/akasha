@@ -8,7 +8,7 @@ export const delve0056056Noble = {
   story: "delve",
   position: 56,
   ownLength: 4171,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-10-27",
   externalIdentity: [
     {

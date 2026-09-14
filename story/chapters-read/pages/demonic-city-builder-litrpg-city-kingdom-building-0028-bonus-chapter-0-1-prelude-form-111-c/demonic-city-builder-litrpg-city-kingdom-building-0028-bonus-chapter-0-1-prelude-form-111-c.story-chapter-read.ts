@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0028BonusChapter01Prelud
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 28,
   ownLength: 2176,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-07",
   externalIdentity: [
     {

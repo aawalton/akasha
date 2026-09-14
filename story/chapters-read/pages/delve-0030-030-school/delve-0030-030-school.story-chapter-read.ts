@@ -8,7 +8,7 @@ export const delve0030030School = {
   story: "delve",
   position: 30,
   ownLength: 3502,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-08-04",
   externalIdentity: [
     {

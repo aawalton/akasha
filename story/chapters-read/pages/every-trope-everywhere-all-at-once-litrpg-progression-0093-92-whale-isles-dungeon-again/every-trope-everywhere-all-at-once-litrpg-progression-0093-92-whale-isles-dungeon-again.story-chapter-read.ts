@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009392WhaleIslesDunge
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 93,
   ownLength: 2041,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-21",
   externalIdentity: [
     {

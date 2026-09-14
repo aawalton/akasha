@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0123Ch123AcquiringProperty 
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 123,
   ownLength: 1849,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-19",
   externalIdentity: [
     {

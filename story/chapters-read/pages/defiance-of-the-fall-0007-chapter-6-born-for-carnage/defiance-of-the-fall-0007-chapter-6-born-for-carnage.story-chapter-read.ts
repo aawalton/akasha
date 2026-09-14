@@ -8,7 +8,7 @@ export const defianceOfTheFall0007Chapter6BornForCarnage = {
   story: "story-read/defiance-of-the-fall",
   position: 7,
   ownLength: 1633,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-05-06",
   externalIdentity: [
     {

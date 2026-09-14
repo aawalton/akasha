@@ -8,7 +8,7 @@ export const forgeOfDestiny0099Chapter79Muse1 = {
   story: "forge-of-destiny",
   position: 99,
   ownLength: 1642,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-29",
   externalIdentity: [
     {

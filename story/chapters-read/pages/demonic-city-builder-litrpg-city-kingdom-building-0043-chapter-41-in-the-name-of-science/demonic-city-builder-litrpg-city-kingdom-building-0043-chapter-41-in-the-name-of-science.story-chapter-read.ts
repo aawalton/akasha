@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0043Chapter41InTheNameOf
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 43,
   ownLength: 2871,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-08",
   externalIdentity: [
     {

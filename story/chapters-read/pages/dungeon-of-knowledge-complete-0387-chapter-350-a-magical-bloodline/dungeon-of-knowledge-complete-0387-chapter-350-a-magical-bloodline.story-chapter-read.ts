@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0387Chapter350AMagicalBloodline = {
   position: 387,
   ownLength: 1907,
   ownProgress: 1907,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:25:04.569Z",
   publishedAt: "2025-08-18",
   externalIdentity: [

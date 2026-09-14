@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007171ImNotTheOnlyOne
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 71,
   ownLength: 1939,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-14",
   externalIdentity: [
     {

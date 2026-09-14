@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0001ChapterOneFleshLumps = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 1,
   ownLength: 2633,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-17",
   externalIdentity: [
     {

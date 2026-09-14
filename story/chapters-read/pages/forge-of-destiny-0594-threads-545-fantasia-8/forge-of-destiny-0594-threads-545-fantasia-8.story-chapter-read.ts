@@ -6,7 +6,7 @@ export const forgeOfDestiny0594Threads545Fantasia8 = {
   slug: "forge-of-destiny-0594-threads-545-fantasia-8",
   position: 594,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

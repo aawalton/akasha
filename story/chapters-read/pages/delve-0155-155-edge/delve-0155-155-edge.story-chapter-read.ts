@@ -8,7 +8,7 @@ export const delve0155155Edge = {
   story: "delve",
   position: 155,
   ownLength: 5515,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-18",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0226226Anchorage = {
   story: "delve",
   position: 226,
   ownLength: 4132,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-04-02",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0009ContinueReadingOnKindleKindleUnlimitedAnd = {
   story: "story-read/defiance-of-the-fall",
   position: 9,
   ownLength: 144,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-19",
   externalIdentity: [
     {

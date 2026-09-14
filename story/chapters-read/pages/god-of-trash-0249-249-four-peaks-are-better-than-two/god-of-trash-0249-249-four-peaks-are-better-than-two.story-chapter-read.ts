@@ -8,7 +8,7 @@ export const godOfTrash0249249FourPeaksAreBetterThanTwo = {
   story: "god-of-trash",
   position: 249,
   ownLength: 1890,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-17",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0513Chapter476WhatLurksInTheDarkness = {
   position: 513,
   ownLength: 2413,
   ownProgress: 2413,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:29:39.621Z",
   publishedAt: "2025-12-15",
   externalIdentity: [

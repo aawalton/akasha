@@ -9,7 +9,7 @@ export const dungeonDevotee0012Chapter10HintsOfThePastAndInklingsOfTheFuture = {
   position: 12,
   ownLength: 7599,
   ownProgress: 7599,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T22:39:25.265Z",
   publishedAt: "2022-07-01",
   externalIdentity: [

@@ -6,7 +6,7 @@ export const fiveElementOverlordICanUpgradeEverything0140Ch140AClashOfSouls = {
   slug: "five-element-overlord-i-can-upgrade-everything-0140-ch140-a-clash-of-souls",
   position: 140,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

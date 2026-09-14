@@ -8,7 +8,7 @@ export const defianceOfTheFall0088Chapter1409GhostMarkets = {
   story: "story-read/defiance-of-the-fall",
   position: 88,
   ownLength: 3314,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-15",
   externalIdentity: [
     {

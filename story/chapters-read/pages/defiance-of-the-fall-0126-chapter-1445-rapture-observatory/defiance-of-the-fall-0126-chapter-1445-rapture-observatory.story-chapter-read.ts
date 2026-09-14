@@ -8,7 +8,7 @@ export const defianceOfTheFall0126Chapter1445RaptureObservatory = {
   story: "story-read/defiance-of-the-fall",
   position: 126,
   ownLength: 2943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-11",
   externalIdentity: [
     {

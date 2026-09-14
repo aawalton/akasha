@@ -8,7 +8,7 @@ export const delve0175175Improbable = {
   story: "delve",
   position: 175,
   ownLength: 4748,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-12-19",
   externalIdentity: [
     {

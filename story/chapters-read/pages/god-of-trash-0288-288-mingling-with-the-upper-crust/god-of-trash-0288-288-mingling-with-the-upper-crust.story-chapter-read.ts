@@ -8,7 +8,7 @@ export const godOfTrash0288288MinglingWithTheUpperCrust = {
   story: "god-of-trash",
   position: 288,
   ownLength: 2282,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-18",
   externalIdentity: [
     {

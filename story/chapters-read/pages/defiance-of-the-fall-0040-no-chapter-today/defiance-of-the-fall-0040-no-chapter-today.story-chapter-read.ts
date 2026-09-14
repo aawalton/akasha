@@ -8,7 +8,7 @@ export const defianceOfTheFall0040NoChapterToday = {
   story: "story-read/defiance-of-the-fall",
   position: 40,
   ownLength: 84,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-09",
   externalIdentity: [
     {

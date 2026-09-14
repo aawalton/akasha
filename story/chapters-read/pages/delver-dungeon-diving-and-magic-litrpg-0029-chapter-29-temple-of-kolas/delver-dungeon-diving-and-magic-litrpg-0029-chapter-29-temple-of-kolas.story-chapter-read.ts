@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0029Chapter29TempleOfKolas = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 29,
   ownLength: 2166,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-16",
   externalIdentity: [
     {

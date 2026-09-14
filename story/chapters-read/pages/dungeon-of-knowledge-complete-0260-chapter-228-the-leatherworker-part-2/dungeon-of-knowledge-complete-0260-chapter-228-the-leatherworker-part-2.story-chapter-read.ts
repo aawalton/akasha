@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0260Chapter228TheLeatherworkerPart2 = {
   position: 260,
   ownLength: 2931,
   ownProgress: 2931,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:20:01.102Z",
   publishedAt: "2025-04-20",
   externalIdentity: [

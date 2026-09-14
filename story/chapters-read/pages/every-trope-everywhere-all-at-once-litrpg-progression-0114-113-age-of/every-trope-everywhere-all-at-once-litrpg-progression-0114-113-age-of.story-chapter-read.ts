@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0114113AgeOf = {
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0114-113-age-of",
   position: 114,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

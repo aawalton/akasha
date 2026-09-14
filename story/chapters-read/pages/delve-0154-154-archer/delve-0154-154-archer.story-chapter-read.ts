@@ -8,7 +8,7 @@ export const delve0154154Archer = {
   story: "delve",
   position: 154,
   ownLength: 6316,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-11",
   externalIdentity: [
     {

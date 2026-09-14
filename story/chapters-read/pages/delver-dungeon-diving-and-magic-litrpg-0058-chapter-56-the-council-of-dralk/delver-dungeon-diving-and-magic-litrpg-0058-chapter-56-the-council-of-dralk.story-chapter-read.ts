@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0058Chapter56TheCouncilOfDralk = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 58,
   ownLength: 1925,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-25",
   externalIdentity: [
     {

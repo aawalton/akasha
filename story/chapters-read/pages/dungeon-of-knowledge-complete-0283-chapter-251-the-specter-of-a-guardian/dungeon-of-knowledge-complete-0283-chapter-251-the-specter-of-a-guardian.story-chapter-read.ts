@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0283Chapter251TheSpecterOfAGuardian = {
   position: 283,
   ownLength: 2030,
   ownProgress: 2030,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:20:49.646Z",
   publishedAt: "2025-05-17",
   externalIdentity: [

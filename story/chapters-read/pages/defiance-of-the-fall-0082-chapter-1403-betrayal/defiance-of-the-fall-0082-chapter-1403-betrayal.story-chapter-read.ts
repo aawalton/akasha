@@ -8,7 +8,7 @@ export const defianceOfTheFall0082Chapter1403Betrayal = {
   story: "story-read/defiance-of-the-fall",
   position: 82,
   ownLength: 3191,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-29",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009695DormantSoul = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 96,
   ownLength: 1868,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-28",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const forgeOfDestiny0551Volume3Relaunch = {
   story: "forge-of-destiny",
   position: 551,
   ownLength: 92,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-25",
   externalIdentity: [
     {

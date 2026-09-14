@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0623Chapter579TheDefianceOfTheMeek = {
   story: "dungeon-of-knowledge-complete",
   position: 623,
   ownLength: 4643,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-22",
   externalIdentity: [
     {

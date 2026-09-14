@@ -8,7 +8,7 @@ export const delve0192192Swim = {
   story: "delve",
   position: 192,
   ownLength: 5343,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-05-15",
   externalIdentity: [
     {

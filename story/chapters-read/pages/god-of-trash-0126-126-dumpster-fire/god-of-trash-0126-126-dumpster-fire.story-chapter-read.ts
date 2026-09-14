@@ -8,7 +8,7 @@ export const godOfTrash0126126DumpsterFire = {
   story: "god-of-trash",
   position: 126,
   ownLength: 2302,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-07-10",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash0178178Offloading = {
   story: "god-of-trash",
   position: 178,
   ownLength: 1941,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-06",
   externalIdentity: [
     {

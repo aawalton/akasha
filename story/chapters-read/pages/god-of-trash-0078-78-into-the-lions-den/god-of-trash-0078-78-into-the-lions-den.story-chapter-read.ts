@@ -8,7 +8,7 @@ export const godOfTrash007878IntoTheLionsDen = {
   story: "god-of-trash",
   position: 78,
   ownLength: 3873,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-17",
   externalIdentity: [
     {

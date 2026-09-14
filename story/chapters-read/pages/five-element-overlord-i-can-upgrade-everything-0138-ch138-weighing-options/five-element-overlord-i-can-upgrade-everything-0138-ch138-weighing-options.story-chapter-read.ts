@@ -6,7 +6,7 @@ export const fiveElementOverlordICanUpgradeEverything0138Ch138WeighingOptions = 
   slug: "five-element-overlord-i-can-upgrade-everything-0138-ch138-weighing-options",
   position: 138,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

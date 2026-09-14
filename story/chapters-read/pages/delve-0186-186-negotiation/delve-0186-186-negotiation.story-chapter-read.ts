@@ -8,7 +8,7 @@ export const delve0186186Negotiation = {
   story: "delve",
   position: 186,
   ownLength: 3934,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-03-20",
   externalIdentity: [
     {

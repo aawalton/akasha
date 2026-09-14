@@ -8,7 +8,7 @@ export const delve0271271Refreshment = {
   story: "delve",
   position: 271,
   ownLength: 3452,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-18",
   externalIdentity: [
     {

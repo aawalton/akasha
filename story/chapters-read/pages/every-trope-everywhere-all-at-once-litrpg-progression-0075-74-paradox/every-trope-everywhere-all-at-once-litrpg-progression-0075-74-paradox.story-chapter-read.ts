@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007574Paradox = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 75,
   ownLength: 2377,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0089InterludeTheEmperor = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 89,
   ownLength: 2090,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-29",
   externalIdentity: [
     {

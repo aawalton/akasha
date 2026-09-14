@@ -8,7 +8,7 @@ export const endsOfMagic0083Chapter68TyrantSFall = {
   story: "story-read/ends-of-magic",
   position: 83,
   ownLength: 3264,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-30",
   externalIdentity: [
     {

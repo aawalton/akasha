@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0094Ch94Duel = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 94,
   ownLength: 1736,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-09",
   externalIdentity: [
     {

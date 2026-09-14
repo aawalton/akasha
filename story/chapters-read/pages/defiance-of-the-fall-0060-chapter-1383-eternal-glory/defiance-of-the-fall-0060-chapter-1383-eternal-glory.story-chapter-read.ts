@@ -8,7 +8,7 @@ export const defianceOfTheFall0060Chapter1383EternalGlory = {
   story: "story-read/defiance-of-the-fall",
   position: 60,
   ownLength: 3113,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-27",
   externalIdentity: [
     {

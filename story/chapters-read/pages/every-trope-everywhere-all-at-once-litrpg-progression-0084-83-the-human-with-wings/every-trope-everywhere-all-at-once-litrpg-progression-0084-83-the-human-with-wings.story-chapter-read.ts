@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008483TheHumanWithWin
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 84,
   ownLength: 2111,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-06",
   externalIdentity: [
     {

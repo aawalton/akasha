@@ -8,7 +8,7 @@ export const defianceOfTheFall0116Chapter1436SeverOrInvite = {
   story: "story-read/defiance-of-the-fall",
   position: 116,
   ownLength: 3177,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-19",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0024Chapter24ReaperYana = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 24,
   ownLength: 1931,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-11",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const forgeOfDestiny0039InterludeTheCobblerAndTheViper = {
   story: "forge-of-destiny",
   position: 39,
   ownLength: 1716,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-30",
   externalIdentity: [
     {

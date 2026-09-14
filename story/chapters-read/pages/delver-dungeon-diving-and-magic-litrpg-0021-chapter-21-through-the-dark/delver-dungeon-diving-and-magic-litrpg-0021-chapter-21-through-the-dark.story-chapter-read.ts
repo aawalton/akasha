@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0021Chapter21ThroughTheDark = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 21,
   ownLength: 2255,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-08",
   externalIdentity: [
     {

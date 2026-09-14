@@ -8,7 +8,7 @@ export const godOfTrash002020Fireballs = {
   story: "god-of-trash",
   position: 20,
   ownLength: 3095,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-14",
   externalIdentity: [
     {

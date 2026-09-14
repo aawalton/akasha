@@ -8,7 +8,7 @@ export const delve0060060Snow = {
   story: "delve",
   position: 60,
   ownLength: 4718,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-11-10",
   externalIdentity: [
     {

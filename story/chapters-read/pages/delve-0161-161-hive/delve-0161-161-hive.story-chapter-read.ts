@@ -8,7 +8,7 @@ export const delve0161161Hive = {
   story: "delve",
   position: 161,
   ownLength: 3303,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-09-05",
   externalIdentity: [
     {

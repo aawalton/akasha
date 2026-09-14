@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0107106TheAncientEras
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0107-106-the-ancient-eras",
   position: 107,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const delve0050050Baggage = {
   story: "delve",
   position: 50,
   ownLength: 3553,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-10-06",
   externalIdentity: [
     {

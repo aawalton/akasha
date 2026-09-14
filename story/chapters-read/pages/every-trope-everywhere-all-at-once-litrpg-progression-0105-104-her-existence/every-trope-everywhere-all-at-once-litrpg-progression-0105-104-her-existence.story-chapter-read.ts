@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0105104HerExistence =
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0105-104-her-existence",
   position: 105,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

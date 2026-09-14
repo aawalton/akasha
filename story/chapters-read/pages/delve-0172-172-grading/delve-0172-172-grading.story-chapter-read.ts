@@ -8,7 +8,7 @@ export const delve0172172Grading = {
   story: "delve",
   position: 172,
   ownLength: 4772,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-11-28",
   externalIdentity: [
     {

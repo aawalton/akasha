@@ -8,7 +8,7 @@ export const defianceOfTheFall0135Chapter1454Rapture = {
   story: "story-read/defiance-of-the-fall",
   position: 135,
   ownLength: 2905,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-09-01",
   externalIdentity: [
     {

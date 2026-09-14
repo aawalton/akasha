@@ -8,7 +8,7 @@ export const forgeOfDestiny0058BonusHandmaiden = {
   story: "forge-of-destiny",
   position: 58,
   ownLength: 1106,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-02-03",
   externalIdentity: [
     {

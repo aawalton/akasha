@@ -8,7 +8,7 @@ export const godOfTrash0251251MadeOfFilth = {
   story: "god-of-trash",
   position: 251,
   ownLength: 1958,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-12-22",
   externalIdentity: [
     {

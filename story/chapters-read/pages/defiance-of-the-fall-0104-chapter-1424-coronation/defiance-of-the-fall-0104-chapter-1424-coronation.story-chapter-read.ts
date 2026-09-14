@@ -8,7 +8,7 @@ export const defianceOfTheFall0104Chapter1424Coronation = {
   story: "story-read/defiance-of-the-fall",
   position: 104,
   ownLength: 3023,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-19",
   externalIdentity: [
     {

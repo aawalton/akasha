@@ -8,7 +8,7 @@ export const forgeOfDestiny0420ThreadsInterludeChicken = {
   story: "forge-of-destiny",
   position: 420,
   ownLength: 1236,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-05-16",
   externalIdentity: [
     {

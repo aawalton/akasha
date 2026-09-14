@@ -8,7 +8,7 @@ export const forgeOfDestiny0115BonusHauntsOfThePrimalForest = {
   story: "forge-of-destiny",
   position: 115,
   ownLength: 1134,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-06-10",
   externalIdentity: [
     {

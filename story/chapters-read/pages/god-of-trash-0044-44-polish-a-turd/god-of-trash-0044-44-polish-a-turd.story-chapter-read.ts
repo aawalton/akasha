@@ -8,7 +8,7 @@ export const godOfTrash004444PolishATurd = {
   story: "god-of-trash",
   position: 44,
   ownLength: 2435,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delve0137137Geometry = {
   story: "delve",
   position: 137,
   ownLength: 6229,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-03-07",
   externalIdentity: [
     {

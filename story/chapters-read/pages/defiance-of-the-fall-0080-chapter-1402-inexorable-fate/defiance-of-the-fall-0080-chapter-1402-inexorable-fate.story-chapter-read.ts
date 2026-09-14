@@ -8,7 +8,7 @@ export const defianceOfTheFall0080Chapter1402InexorableFate = {
   story: "story-read/defiance-of-the-fall",
   position: 80,
   ownLength: 2943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-27",
   externalIdentity: [
     {

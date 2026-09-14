@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0038ChapterThirtySevenMagrath = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 38,
   ownLength: 3221,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-01",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0057ChapterFiftySixUnderTheMoonlight 
   story: "flesh-eater-demon-evolution-litrpg",
   position: 57,
   ownLength: 2685,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-15",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0103Chapter1423DesperateMeasures = {
   story: "story-read/defiance-of-the-fall",
   position: 103,
   ownLength: 2950,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-16",
   externalIdentity: [
     {

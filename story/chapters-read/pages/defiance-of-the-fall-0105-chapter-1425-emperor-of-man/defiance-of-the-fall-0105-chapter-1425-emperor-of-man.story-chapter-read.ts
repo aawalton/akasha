@@ -8,7 +8,7 @@ export const defianceOfTheFall0105Chapter1425EmperorOfMan = {
   story: "story-read/defiance-of-the-fall",
   position: 105,
   ownLength: 2711,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-23",
   externalIdentity: [
     {

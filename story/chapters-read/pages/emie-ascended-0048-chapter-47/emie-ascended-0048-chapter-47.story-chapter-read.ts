@@ -8,7 +8,7 @@ export const emieAscended0048Chapter47 = {
   story: "emie-ascended",
   position: 48,
   ownLength: 1883,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-08",
   externalIdentity: [
     {

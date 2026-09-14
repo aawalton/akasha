@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0020Chapter20Guilt = {
   position: 20,
   ownLength: 3025,
   ownProgress: 3025,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:11:39.760Z",
   publishedAt: "2024-02-16",
   externalIdentity: [

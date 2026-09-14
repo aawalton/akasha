@@ -8,7 +8,7 @@ export const delve0001001Woodland = {
   story: "delve",
   position: 1,
   ownLength: 3263,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-02",
   externalIdentity: [
     {

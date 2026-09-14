@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0018Chapter18OpenTicket 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 18,
   ownLength: 3022,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-25",
   externalIdentity: [
     {

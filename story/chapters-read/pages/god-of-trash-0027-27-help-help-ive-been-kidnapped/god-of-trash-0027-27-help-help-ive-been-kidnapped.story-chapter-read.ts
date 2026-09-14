@@ -8,7 +8,7 @@ export const godOfTrash002727HelpHelpIveBeenKidnapped = {
   story: "god-of-trash",
   position: 27,
   ownLength: 3047,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-21",
   externalIdentity: [
     {

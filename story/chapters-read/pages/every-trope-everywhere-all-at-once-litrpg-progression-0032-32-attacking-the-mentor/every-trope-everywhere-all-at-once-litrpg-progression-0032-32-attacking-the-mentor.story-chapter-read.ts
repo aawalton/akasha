@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003232AttackingTheMen
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 32,
   ownLength: 1743,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-01",
   externalIdentity: [
     {

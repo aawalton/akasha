@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0047Chapter45TheSolari =
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 47,
   ownLength: 3978,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-18",
   externalIdentity: [
     {

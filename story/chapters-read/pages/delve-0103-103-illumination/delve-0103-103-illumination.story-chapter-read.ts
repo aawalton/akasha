@@ -8,7 +8,7 @@ export const delve0103103Illumination = {
   story: "delve",
   position: 103,
   ownLength: 7172,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-07-12",
   externalIdentity: [
     {

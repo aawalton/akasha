@@ -8,7 +8,7 @@ export const delve0201201Breather = {
   story: "delve",
   position: 201,
   ownLength: 5121,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-07",
   externalIdentity: [
     {

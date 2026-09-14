@@ -9,7 +9,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0049Chapter47Spreadsheet
     story: "demonic-city-builder-litrpg-city-kingdom-building",
     position: 49,
     ownLength: 2084,
-    unit: "words",
+    unit: "unit/words",
     publishedAt: "2026-07-23",
     externalIdentity: [
       {

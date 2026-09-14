@@ -8,7 +8,7 @@ export const gamerGirlEvolution005655AnotherDoorOpens = {
   story: "gamer-girl-evolution",
   position: 56,
   ownLength: 1446,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-10",
   externalIdentity: [
     {

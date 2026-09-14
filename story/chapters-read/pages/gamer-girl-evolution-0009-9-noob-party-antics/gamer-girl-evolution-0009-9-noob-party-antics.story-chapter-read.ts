@@ -9,7 +9,7 @@ export const gamerGirlEvolution00099NoobPartyAntics = {
   position: 9,
   ownLength: 2235,
   ownProgress: 2235,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:05:52.743Z",
   publishedAt: "2025-09-22",
   externalIdentity: [

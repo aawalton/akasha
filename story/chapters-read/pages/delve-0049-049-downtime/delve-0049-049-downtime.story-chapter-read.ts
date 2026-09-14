@@ -8,7 +8,7 @@ export const delve0049049Downtime = {
   story: "delve",
   position: 49,
   ownLength: 3660,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-10-04",
   externalIdentity: [
     {

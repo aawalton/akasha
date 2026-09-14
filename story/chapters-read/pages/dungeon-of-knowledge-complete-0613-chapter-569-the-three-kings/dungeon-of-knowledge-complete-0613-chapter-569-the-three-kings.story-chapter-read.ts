@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0613Chapter569TheThreeKings = {
   story: "dungeon-of-knowledge-complete",
   position: 613,
   ownLength: 3957,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-17",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0078Chapter1400BloodAndMoonlight = {
   story: "story-read/defiance-of-the-fall",
   position: 78,
   ownLength: 3082,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-01-22",
   externalIdentity: [
     {

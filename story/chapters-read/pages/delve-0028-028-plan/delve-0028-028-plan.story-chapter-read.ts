@@ -8,7 +8,7 @@ export const delve0028028Plan = {
   story: "delve",
   position: 28,
   ownLength: 2518,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-07-21",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash0203203WakeUp = {
   story: "god-of-trash",
   position: 203,
   ownLength: 2218,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-01",
   externalIdentity: [
     {

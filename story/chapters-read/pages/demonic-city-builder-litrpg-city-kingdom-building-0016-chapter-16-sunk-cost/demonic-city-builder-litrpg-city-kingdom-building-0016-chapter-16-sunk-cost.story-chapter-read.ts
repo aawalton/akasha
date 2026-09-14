@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0016Chapter16SunkCost = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 16,
   ownLength: 3285,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-24",
   externalIdentity: [
     {

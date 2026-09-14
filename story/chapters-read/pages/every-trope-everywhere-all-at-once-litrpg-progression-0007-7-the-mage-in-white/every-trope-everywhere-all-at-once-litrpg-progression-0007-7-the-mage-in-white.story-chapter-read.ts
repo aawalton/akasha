@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00077TheMageInWhite =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 7,
   ownLength: 1457,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-05-12",
   externalIdentity: [
     {

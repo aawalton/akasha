@@ -8,7 +8,7 @@ export const delve0168168Escape = {
   story: "delve",
   position: 168,
   ownLength: 5685,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-10-24",
   externalIdentity: [
     {

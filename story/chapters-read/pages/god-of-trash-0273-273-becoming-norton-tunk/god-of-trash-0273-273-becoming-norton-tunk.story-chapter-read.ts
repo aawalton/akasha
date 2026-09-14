@@ -8,7 +8,7 @@ export const godOfTrash0273273BecomingNortonTunk = {
   story: "god-of-trash",
   position: 273,
   ownLength: 2166,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-11",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0403Chapter366SixfoldStrike = {
   position: 403,
   ownLength: 2206,
   ownProgress: 2206,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:25:39.691Z",
   publishedAt: "2025-09-03",
   externalIdentity: [

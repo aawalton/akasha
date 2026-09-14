@@ -8,7 +8,7 @@ export const godOfTrash002828BurningImpurities = {
   story: "god-of-trash",
   position: 28,
   ownLength: 3086,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-22",
   externalIdentity: [
     {

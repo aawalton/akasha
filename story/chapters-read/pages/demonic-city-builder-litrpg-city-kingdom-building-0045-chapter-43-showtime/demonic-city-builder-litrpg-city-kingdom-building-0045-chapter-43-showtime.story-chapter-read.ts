@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0045Chapter43Showtime = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 45,
   ownLength: 2937,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-14",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0355NewStoryReleaseToPrepare
   story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 355,
   ownLength: 308,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-07",
   externalIdentity: [
     {

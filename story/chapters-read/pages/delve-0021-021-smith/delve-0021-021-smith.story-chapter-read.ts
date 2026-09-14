@@ -8,7 +8,7 @@ export const delve0021021Smith = {
   story: "delve",
   position: 21,
   ownLength: 5219,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-06-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const defianceOfTheFall0045Chapter1368Sidetracked = {
   story: "story-read/defiance-of-the-fall",
   position: 45,
   ownLength: 3247,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-21",
   externalIdentity: [
     {

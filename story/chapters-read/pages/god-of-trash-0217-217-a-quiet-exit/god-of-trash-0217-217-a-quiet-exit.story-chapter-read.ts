@@ -8,7 +8,7 @@ export const godOfTrash0217217AQuietExit = {
   story: "god-of-trash",
   position: 217,
   ownLength: 1988,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-21",
   externalIdentity: [
     {

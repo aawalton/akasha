@@ -8,7 +8,7 @@ export const godOfTrash005252Skullduggery = {
   story: "god-of-trash",
   position: 52,
   ownLength: 2879,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-15",
   externalIdentity: [
     {

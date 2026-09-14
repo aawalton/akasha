@@ -8,7 +8,7 @@ export const defianceOfTheFall0048Chapter1371Longanimity = {
   story: "story-read/defiance-of-the-fall",
   position: 48,
   ownLength: 3118,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-28",
   externalIdentity: [
     {

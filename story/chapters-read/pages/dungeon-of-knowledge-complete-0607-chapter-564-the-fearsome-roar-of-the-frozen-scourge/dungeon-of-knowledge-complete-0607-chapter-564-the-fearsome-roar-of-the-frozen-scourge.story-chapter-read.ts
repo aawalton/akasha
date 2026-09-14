@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0607Chapter564TheFearsomeRoarOfTheFrozenS
   story: "dungeon-of-knowledge-complete",
   position: 607,
   ownLength: 2718,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-12",
   externalIdentity: [
     {

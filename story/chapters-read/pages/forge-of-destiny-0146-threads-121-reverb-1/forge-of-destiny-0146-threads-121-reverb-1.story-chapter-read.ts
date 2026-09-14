@@ -8,7 +8,7 @@ export const forgeOfDestiny0146Threads121Reverb1 = {
   story: "forge-of-destiny",
   position: 146,
   ownLength: 1680,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-08-19",
   externalIdentity: [
     {

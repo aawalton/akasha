@@ -8,7 +8,7 @@ export const godOfTrash0103103CursedHoles = {
   story: "god-of-trash",
   position: 103,
   ownLength: 2393,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-11",
   externalIdentity: [
     {

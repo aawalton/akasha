@@ -8,7 +8,7 @@ export const endsOfMagic0079Chapter64AChallengingBalance = {
   story: "story-read/ends-of-magic",
   position: 79,
   ownLength: 2922,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-16",
   externalIdentity: [
     {

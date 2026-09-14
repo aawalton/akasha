@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0090Ch90TheMortalSShop = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 90,
   ownLength: 1632,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-03",
   externalIdentity: [
     {

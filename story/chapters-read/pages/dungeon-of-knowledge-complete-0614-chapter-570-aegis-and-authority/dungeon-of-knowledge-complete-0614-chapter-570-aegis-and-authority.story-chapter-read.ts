@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0614Chapter570AegisAndAuthority = {
   story: "dungeon-of-knowledge-complete",
   position: 614,
   ownLength: 2677,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-17",
   externalIdentity: [
     {

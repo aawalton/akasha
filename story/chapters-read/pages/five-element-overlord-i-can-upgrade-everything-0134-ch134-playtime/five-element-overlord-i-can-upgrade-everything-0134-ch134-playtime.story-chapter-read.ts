@@ -7,7 +7,7 @@ export const fiveElementOverlordICanUpgradeEverything0134Ch134Playtime = {
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 134,
   publishedAt: "2026-09-03",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

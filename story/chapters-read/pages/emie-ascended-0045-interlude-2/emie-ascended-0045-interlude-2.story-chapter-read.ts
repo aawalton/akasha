@@ -8,7 +8,7 @@ export const emieAscended0045Interlude2 = {
   story: "emie-ascended",
   position: 45,
   ownLength: 2580,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-28",
   externalIdentity: [
     {

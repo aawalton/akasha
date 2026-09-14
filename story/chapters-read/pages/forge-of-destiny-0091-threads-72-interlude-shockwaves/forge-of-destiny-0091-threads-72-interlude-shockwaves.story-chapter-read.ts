@@ -8,7 +8,7 @@ export const forgeOfDestiny0091Threads72InterludeShockwaves = {
   story: "forge-of-destiny",
   position: 91,
   ownLength: 3970,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-10",
   externalIdentity: [
     {

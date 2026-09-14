@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0122Ch122TheCeremony = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 122,
   ownLength: 2072,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-18",
   externalIdentity: [
     {

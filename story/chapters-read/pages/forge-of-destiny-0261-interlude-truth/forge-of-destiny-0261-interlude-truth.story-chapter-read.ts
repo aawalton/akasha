@@ -8,7 +8,7 @@ export const forgeOfDestiny0261InterludeTruth = {
   story: "forge-of-destiny",
   position: 261,
   ownLength: 1805,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-06-27",
   externalIdentity: [
     {

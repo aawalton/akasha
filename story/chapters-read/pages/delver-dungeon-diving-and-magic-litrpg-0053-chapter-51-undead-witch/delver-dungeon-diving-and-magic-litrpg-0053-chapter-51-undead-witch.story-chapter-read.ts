@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0053Chapter51UndeadWitch = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 53,
   ownLength: 1966,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-04",
   externalIdentity: [
     {

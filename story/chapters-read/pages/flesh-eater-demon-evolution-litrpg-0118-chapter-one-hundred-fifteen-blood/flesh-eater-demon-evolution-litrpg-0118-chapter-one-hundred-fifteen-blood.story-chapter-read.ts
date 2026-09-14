@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0118ChapterOneHundredFifteenBlood = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 118,
   ownLength: 2363,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-08",
   externalIdentity: [
     {

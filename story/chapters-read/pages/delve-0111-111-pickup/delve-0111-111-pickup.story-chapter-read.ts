@@ -8,7 +8,7 @@ export const delve0111111Pickup = {
   story: "delve",
   position: 111,
   ownLength: 5063,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-09-06",
   externalIdentity: [
     {

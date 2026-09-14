@@ -8,7 +8,7 @@ export const defianceOfTheFall0087Chapter1408HistoryRepeatingItself = {
   story: "story-read/defiance-of-the-fall",
   position: 87,
   ownLength: 2989,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-08",
   externalIdentity: [
     {

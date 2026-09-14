@@ -8,7 +8,7 @@ export const forgeOfDestiny0321Threads283WintersEnd2 = {
   story: "forge-of-destiny",
   position: 321,
   ownLength: 1615,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-02-10",
   externalIdentity: [
     {

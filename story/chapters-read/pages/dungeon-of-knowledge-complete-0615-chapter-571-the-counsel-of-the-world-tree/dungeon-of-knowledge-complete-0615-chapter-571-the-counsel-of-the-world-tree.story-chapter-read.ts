@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0615Chapter571TheCounselOfTheWorldTree = 
   story: "dungeon-of-knowledge-complete",
   position: 615,
   ownLength: 2822,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-18",
   externalIdentity: [
     {

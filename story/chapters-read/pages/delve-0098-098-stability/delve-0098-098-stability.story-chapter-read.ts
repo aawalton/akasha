@@ -8,7 +8,7 @@ export const delve0098098Stability = {
   story: "delve",
   position: 98,
   ownLength: 12120,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-07",
   externalIdentity: [
     {

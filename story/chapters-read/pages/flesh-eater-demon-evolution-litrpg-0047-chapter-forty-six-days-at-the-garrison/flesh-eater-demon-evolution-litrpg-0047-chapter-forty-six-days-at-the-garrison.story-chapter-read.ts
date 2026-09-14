@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0047ChapterFortySixDaysAtTheGarrison 
   story: "flesh-eater-demon-evolution-litrpg",
   position: 47,
   ownLength: 2876,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-11-29",
   externalIdentity: [
     {

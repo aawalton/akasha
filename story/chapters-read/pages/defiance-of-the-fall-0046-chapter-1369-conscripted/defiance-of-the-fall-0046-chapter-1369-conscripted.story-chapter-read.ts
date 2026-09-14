@@ -8,7 +8,7 @@ export const defianceOfTheFall0046Chapter1369Conscripted = {
   story: "story-read/defiance-of-the-fall",
   position: 46,
   ownLength: 3287,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-10-23",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0039Chapter39StrongholdDeragun = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 39,
   ownLength: 2288,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-06",
   externalIdentity: [
     {

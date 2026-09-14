@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0312Chapter278AConversationWithVivian = {
   position: 312,
   ownLength: 1915,
   ownProgress: 1915,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:21:52.166Z",
   publishedAt: "2025-06-14",
   externalIdentity: [

@@ -8,7 +8,7 @@ export const defianceOfTheFall0134Chapter1453Gambit = {
   story: "story-read/defiance-of-the-fall",
   position: 134,
   ownLength: 3011,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-30",
   externalIdentity: [
     {

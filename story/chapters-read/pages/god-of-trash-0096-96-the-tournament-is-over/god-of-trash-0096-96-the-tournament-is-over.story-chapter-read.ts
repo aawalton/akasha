@@ -8,7 +8,7 @@ export const godOfTrash009696TheTournamentIsOver = {
   story: "god-of-trash",
   position: 96,
   ownLength: 2240,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-06-04",
   externalIdentity: [
     {

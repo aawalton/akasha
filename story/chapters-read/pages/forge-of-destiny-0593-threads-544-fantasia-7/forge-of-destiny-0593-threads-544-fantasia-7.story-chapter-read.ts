@@ -7,7 +7,7 @@ export const forgeOfDestiny0593Threads544Fantasia7 = {
   story: "story-read/forge-of-destiny",
   position: 593,
   publishedAt: "2026-09-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

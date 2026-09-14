@@ -8,7 +8,7 @@ export const endsOfMagic0082Chapter67LuckyDraw = {
   story: "story-read/ends-of-magic",
   position: 82,
   ownLength: 2881,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-03-26",
   externalIdentity: [
     {

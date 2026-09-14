@@ -8,7 +8,7 @@ export const delve0070070Skating = {
   story: "delve",
   position: 70,
   ownLength: 6699,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-01-05",
   externalIdentity: [
     {

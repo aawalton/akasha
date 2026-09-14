@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0070Ch70PhantomLord = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 70,
   ownLength: 1832,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-05",
   externalIdentity: [
     {

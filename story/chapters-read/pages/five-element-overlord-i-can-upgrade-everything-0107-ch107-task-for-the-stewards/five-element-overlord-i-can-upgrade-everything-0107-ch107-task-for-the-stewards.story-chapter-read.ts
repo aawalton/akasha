@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0107Ch107TaskForTheStewards
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 107,
   ownLength: 2037,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-28",
   externalIdentity: [
     {

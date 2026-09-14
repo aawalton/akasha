@@ -8,7 +8,7 @@ export const forgeOfDestiny0133InterludePreciousDreams = {
   story: "forge-of-destiny",
   position: 133,
   ownLength: 2716,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-07-19",
   externalIdentity: [
     {

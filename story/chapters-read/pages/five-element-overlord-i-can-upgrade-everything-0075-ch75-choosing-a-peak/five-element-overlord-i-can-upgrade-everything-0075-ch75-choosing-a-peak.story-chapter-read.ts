@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0075Ch75ChoosingAPeak = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 75,
   ownLength: 1843,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-12",
   externalIdentity: [
     {

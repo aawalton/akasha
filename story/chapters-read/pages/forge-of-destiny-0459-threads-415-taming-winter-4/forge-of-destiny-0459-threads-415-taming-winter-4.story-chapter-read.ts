@@ -8,7 +8,7 @@ export const forgeOfDestiny0459Threads415TamingWinter4 = {
   story: "forge-of-destiny",
   position: 459,
   ownLength: 1538,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-11-21",
   externalIdentity: [
     {

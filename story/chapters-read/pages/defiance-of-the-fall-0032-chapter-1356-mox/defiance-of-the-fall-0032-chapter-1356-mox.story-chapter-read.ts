@@ -8,7 +8,7 @@ export const defianceOfTheFall0032Chapter1356Mox = {
   story: "story-read/defiance-of-the-fall",
   position: 32,
   ownLength: 3508,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-21",
   externalIdentity: [
     {

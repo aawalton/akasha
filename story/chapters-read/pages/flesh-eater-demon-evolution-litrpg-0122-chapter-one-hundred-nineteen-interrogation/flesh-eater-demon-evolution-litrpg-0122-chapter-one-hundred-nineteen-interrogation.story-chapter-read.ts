@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0122ChapterOneHundredNineteenInterrog
   story: "flesh-eater-demon-evolution-litrpg",
   position: 122,
   ownLength: 2474,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-26",
   externalIdentity: [
     {

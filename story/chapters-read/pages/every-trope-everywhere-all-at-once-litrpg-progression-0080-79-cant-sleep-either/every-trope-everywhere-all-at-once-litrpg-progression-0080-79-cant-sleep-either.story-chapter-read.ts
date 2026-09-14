@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008079CantSleepEither
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 80,
   ownLength: 2032,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-28",
   externalIdentity: [
     {

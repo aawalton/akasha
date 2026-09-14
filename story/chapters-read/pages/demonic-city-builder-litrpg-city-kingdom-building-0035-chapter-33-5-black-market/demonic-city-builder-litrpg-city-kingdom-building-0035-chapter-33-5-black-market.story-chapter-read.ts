@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0035Chapter335BlackMarke
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 35,
   ownLength: 1918,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-20",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const godOfTrash0162162PeerBattle = {
   story: "god-of-trash",
   position: 162,
   ownLength: 2001,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-21",
   externalIdentity: [
     {

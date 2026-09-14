@@ -8,7 +8,7 @@ export const godOfTrash0186186MagicalEngineering = {
   story: "god-of-trash",
   position: 186,
   ownLength: 2400,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-09-14",
   externalIdentity: [
     {

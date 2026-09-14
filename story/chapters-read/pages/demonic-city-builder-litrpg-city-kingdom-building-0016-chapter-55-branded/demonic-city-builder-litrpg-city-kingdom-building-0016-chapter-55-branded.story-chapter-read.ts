@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0016Chapter55Branded = {
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 16,
   ownLength: 2686,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-20",
   externalIdentity: [
     {

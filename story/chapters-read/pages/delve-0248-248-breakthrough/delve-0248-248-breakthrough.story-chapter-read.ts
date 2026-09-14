@@ -8,7 +8,7 @@ export const delve0248248Breakthrough = {
   story: "delve",
   position: 248,
   ownLength: 3244,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-10-22",
   externalIdentity: [
     {

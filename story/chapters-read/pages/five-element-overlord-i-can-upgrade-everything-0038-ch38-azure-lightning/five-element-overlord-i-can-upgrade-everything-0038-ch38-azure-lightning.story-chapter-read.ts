@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0038Ch38AzureLightning = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 38,
   ownLength: 1330,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-22",
   externalIdentity: [
     {

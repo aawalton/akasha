@@ -8,7 +8,7 @@ export const godOfTrash005050PluckingADiamond = {
   story: "god-of-trash",
   position: 50,
   ownLength: 1876,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-04-13",
   externalIdentity: [
     {

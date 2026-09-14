@@ -8,7 +8,7 @@ export const defianceOfTheFall0083Chapter1404Burden = {
   story: "story-read/defiance-of-the-fall",
   position: 83,
   ownLength: 2973,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-02-01",
   externalIdentity: [
     {

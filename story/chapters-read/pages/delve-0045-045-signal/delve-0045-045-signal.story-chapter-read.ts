@@ -8,7 +8,7 @@ export const delve0045045Signal = {
   story: "delve",
   position: 45,
   ownLength: 3332,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-09-22",
   externalIdentity: [
     {

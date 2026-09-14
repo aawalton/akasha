@@ -8,7 +8,7 @@ export const godOfTrash0159159Warpath = {
   story: "god-of-trash",
   position: 159,
   ownLength: 2658,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-08-18",
   externalIdentity: [
     {

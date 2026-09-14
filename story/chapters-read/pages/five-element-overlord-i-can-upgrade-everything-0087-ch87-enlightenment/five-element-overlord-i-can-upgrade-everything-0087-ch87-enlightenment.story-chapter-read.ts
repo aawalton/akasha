@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0087Ch87Enlightenment = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 87,
   ownLength: 1928,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-30",
   externalIdentity: [
     {

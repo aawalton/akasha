@@ -8,7 +8,7 @@ export const delve0146146Pillow = {
   story: "delve",
   position: 146,
   ownLength: 4363,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-05-16",
   externalIdentity: [
     {

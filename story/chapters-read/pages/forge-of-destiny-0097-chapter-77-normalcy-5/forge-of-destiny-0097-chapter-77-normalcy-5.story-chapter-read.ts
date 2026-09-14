@@ -8,7 +8,7 @@ export const forgeOfDestiny0097Chapter77Normalcy5 = {
   story: "forge-of-destiny",
   position: 97,
   ownLength: 3069,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2021-04-24",
   externalIdentity: [
     {

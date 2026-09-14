@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0095Ch95MistyForest = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 95,
   ownLength: 1680,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-07-10",
   externalIdentity: [
     {

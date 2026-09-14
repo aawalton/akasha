@@ -6,7 +6,7 @@ export const defianceOfTheFall0139Chapter1458BrotherlyRegard = {
   slug: "defiance-of-the-fall-0139-chapter-1458-brotherly-regard",
   position: 139,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

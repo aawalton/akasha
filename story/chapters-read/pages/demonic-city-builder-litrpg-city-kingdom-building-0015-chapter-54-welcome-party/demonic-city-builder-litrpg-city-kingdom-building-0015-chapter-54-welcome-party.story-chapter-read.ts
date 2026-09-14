@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0015Chapter54WelcomePart
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 15,
   ownLength: 2360,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-08-18",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const forgeOfDestiny0426ThreadsInterludeUnity = {
   story: "forge-of-destiny",
   position: 426,
   ownLength: 2473,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-06-13",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const forgeOfDestiny0331InterludeWintersEndTourPart1 = {
   story: "forge-of-destiny",
   position: 331,
   ownLength: 1365,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-03-23",
   externalIdentity: [
     {

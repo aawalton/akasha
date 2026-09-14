@@ -8,7 +8,7 @@ export const forgeOfDestiny0040BonusMacabre = {
   story: "forge-of-destiny",
   position: 40,
   ownLength: 1161,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-12-30",
   externalIdentity: [
     {

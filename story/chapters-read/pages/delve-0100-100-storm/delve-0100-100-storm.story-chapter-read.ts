@@ -8,7 +8,7 @@ export const delve0100100Storm = {
   story: "delve",
   position: 100,
   ownLength: 10666,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-21",
   externalIdentity: [
     {

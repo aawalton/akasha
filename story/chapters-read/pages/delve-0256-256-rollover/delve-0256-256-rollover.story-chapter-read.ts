@@ -8,7 +8,7 @@ export const delve0256256Rollover = {
   story: "delve",
   position: 256,
   ownLength: 3593,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-07",
   externalIdentity: [
     {

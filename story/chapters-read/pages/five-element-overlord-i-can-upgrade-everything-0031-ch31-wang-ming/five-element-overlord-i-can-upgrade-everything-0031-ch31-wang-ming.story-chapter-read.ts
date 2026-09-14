@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0031Ch31WangMing = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 31,
   ownLength: 1355,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-04-13",
   externalIdentity: [
     {

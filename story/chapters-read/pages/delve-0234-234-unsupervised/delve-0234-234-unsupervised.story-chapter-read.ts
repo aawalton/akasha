@@ -8,7 +8,7 @@ export const delve0234234Unsupervised = {
   story: "delve",
   position: 234,
   ownLength: 3375,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2023-06-11",
   externalIdentity: [
     {

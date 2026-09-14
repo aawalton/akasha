@@ -8,7 +8,7 @@ export const godOfTrash006565SmeltingAndForging = {
   story: "god-of-trash",
   position: 65,
   ownLength: 2215,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-05-04",
   externalIdentity: [
     {

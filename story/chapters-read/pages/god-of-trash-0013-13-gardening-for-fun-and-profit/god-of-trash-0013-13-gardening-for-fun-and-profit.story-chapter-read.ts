@@ -8,7 +8,7 @@ export const godOfTrash001313GardeningForFunAndProfit = {
   story: "god-of-trash",
   position: 13,
   ownLength: 1560,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-07",
   externalIdentity: [
     {

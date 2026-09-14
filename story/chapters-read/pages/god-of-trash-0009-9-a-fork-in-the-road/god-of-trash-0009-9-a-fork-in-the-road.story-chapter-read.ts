@@ -8,7 +8,7 @@ export const godOfTrash00099AForkInTheRoad = {
   story: "god-of-trash",
   position: 9,
   ownLength: 4436,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2025-03-03",
   externalIdentity: [
     {

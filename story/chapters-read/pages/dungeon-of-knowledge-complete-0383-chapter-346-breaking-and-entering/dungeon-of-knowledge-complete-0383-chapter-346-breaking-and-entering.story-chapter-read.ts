@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0383Chapter346BreakingAndEntering = {
   position: 383,
   ownLength: 3075,
   ownProgress: 3075,
-  unit: "words",
+  unit: "unit/words",
   completedAt: "2026-06-29T20:24:55.812Z",
   publishedAt: "2025-08-14",
   externalIdentity: [

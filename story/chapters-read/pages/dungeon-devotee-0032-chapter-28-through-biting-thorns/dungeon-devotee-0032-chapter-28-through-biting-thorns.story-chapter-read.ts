@@ -9,7 +9,7 @@ export const dungeonDevotee0032Chapter28ThroughBitingThorns = {
   position: 32,
   ownLength: 8708,
   ownProgress: 8625,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2024-01-02",
   externalIdentity: [
     {

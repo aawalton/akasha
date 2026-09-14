@@ -8,7 +8,7 @@ export const delve0203203Truth = {
   story: "delve",
   position: 203,
   ownLength: 4479,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2022-08-28",
   externalIdentity: [
     {

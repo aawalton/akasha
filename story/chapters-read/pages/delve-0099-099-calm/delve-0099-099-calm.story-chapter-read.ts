@@ -8,7 +8,7 @@ export const delve0099099Calm = {
   story: "delve",
   position: 99,
   ownLength: 9059,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-14",
   externalIdentity: [
     {

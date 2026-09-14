@@ -8,7 +8,7 @@ export const delve0051051Completionist = {
   story: "delve",
   position: 51,
   ownLength: 5943,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2019-10-07",
   externalIdentity: [
     {

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004040TheBorrowedOne 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 40,
   ownLength: 1586,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2026-06-09",
   externalIdentity: [
     {

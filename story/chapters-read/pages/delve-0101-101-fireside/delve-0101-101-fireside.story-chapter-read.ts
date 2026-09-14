@@ -8,7 +8,7 @@ export const delve0101101Fireside = {
   story: "delve",
   position: 101,
   ownLength: 7501,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2020-06-28",
   externalIdentity: [
     {
