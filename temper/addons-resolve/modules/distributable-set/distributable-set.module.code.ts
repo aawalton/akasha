@@ -1,5 +1,3 @@
-export const BUNDLE_REUSE_DIST_ENV = "TEMPER_ADDON_BUNDLE_REUSE_DIST"
-
 export type AddonDependencies = {
   readonly dependsOn: readonly string[]
   readonly optionalDependsOn?: readonly string[]

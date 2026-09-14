@@ -77,12 +77,3 @@ export function computeWorkspaceClosure(
   }
   return [...seen].sort()
 }
-
-export function computeClosureForPackage(packageName: string, repoRoot: string): readonly string[] {
-  const catalog = loadWorkspaceCatalog(repoRoot)
-  const seedRepoRelDir = catalog.get(packageName)
-  if (seedRepoRelDir === undefined) {
-    throw new Error(`${packageName} is no workspace package under ${repoRoot}`)
-  }
-  return computeWorkspaceClosure(seedRepoRelDir, repoRoot, catalog)
-}
