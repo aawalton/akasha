@@ -28,7 +28,7 @@ export const removeUnusedExportKeywords = {
     },
     {
       invariantKind: "departure",
-      statement: "The whole tree is walked rather than a path handed in.",
+      statement: "The whole tree is searched rather than a path handed in.",
     },
     {
       invariantKind: "departure",
@@ -50,6 +50,10 @@ export const removeUnusedExportKeywords = {
     {
       invariantKind: "departure",
       statement: "A route module keeps the `export` on every name React Router reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file spelling no `export` is left unread.",
     },
   ],
 } as const satisfies ChangeAgent

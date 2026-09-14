@@ -1,4 +1,4 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { removeUnusedExportKeywords } from "akasha/changes/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.code.ts"
 import {
   NOTHING_OVER,
@@ -6,14 +6,22 @@ import {
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { bodyAnswered } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import {
+  put,
+  scratch,
+} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
-const NOWHERE = "/nowhere"
+afterAll(scratch.sweep)
 
 const MOST = 100
 
 const AT = "akasha/held.module.code.ts"
 
 const READER = "akasha/reader.module.code.ts"
+
+const PLAIN = "akasha/plain.module.code.ts"
+
+const PLAIN_TEXT = "const plain = 1\n"
 
 const TEXT =
   "export function held(): number {\n  return 1\n}\n\n" +
@@ -22,7 +30,13 @@ const TEXT =
 const READER_TEXT =
   'import { spare } from "akasha/akasha/held.module.code.ts"\n\nexport const reader = spare\n'
 
-function worldOver(held: Readonly<Record<string, string>>, importers: readonly string[]): World {
+function worldOver(
+  held: Readonly<Record<string, string>>,
+  importers: readonly string[],
+  asked: string[] = []
+): World {
+  const root = scratch.rootFor("remove-unused-export-keywords-")
+  for (const [at, body] of Object.entries(held)) put(root, at, body)
   const index = {
     everyOfType: () => [],
     everyPath: () => Object.keys(held),
@@ -30,9 +44,12 @@ function worldOver(held: Readonly<Record<string, string>>, importers: readonly s
     pageTypesIn: () => new Set<string>(),
   } as never
   return {
-    root: NOWHERE,
+    root,
     index,
-    textOf: (path: string) => held[path] ?? null,
+    textOf: (path: string) => {
+      asked.push(path)
+      return held[path] ?? null
+    },
     bodyOf: (path: string) => held[path] ?? null,
     under: () => [],
     base: (path: string) => held[path] ?? null,
@@ -71,4 +88,14 @@ test("a value another file names keeps its keyword", async () => {
   expect(bodyAnswered(said, world, AT)).toBe(
     "function held(): number {\n  return 1\n}\n\nexport function spare(): number {\n  return held()\n}\n"
   )
+})
+
+test("a file spelling no `export` is left unread", async () => {
+  const asked: string[] = []
+  const world = worldOver({ [AT]: TEXT, [PLAIN]: PLAIN_TEXT }, [], asked)
+
+  await removeUnusedExportKeywords(world, MOST)
+
+  expect(asked).toContain(AT)
+  expect(asked).not.toContain(PLAIN)
 })

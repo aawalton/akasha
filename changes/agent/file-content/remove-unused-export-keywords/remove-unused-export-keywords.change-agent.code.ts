@@ -8,6 +8,10 @@ import type { Answer } from "akasha/changes/modules/answer/change-answer.module.
 import { droppableIn } from "akasha/changes/modules/export-keyword/export-keyword.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  pathsNaming,
+  TYPED_KINDS,
+} from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
+import {
   groupsSparing,
   sparedIn,
   unreachedIn,
@@ -19,6 +23,8 @@ const DROP = "change-mechanical-file-content/remove-export-keyword"
 const MOST = "most"
 
 const BUT = "but"
+
+const KEYWORD = "export"
 
 function surplusIn(
   world: World,
@@ -47,7 +53,7 @@ export async function removeUnusedExportKeywords(
   const pageTypes = world.index.pageTypesIn()
   const groups = groupsSparing(world.index)
   const answers: Answer[] = []
-  for (const path of [...world.index.everyPath()].sort()) {
+  for (const path of pathsNaming(world, [KEYWORD], TYPED_KINDS)) {
     if (answers.length >= most) break
     if (!typed(path) || but.has(path)) continue
     const names = surplusIn(world, pageTypes, groups, path)
