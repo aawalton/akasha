@@ -5,7 +5,7 @@ export const theMandalorianSpecials = {
   type: "season",
   slug: "the-mandalorian-specials",
   title: "The Mandalorian Specials",
-  partOfCollections: ["the-mandalorian"],
+  partOfCollections: ["show/the-mandalorian"],
   position: 0,
   ownLength: 55.8,
   ownProgress: 0,

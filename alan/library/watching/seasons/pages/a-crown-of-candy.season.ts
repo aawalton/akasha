@@ -5,7 +5,7 @@ export const aCrownOfCandy = {
   type: "season",
   slug: "a-crown-of-candy",
   title: "A Crown of Candy",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 5,
   ownLength: 2185.8,
   ownProgress: 0,

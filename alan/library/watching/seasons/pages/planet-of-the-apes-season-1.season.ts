@@ -5,7 +5,7 @@ export const planetOfTheApesSeason1 = {
   type: "season",
   slug: "planet-of-the-apes-season-1",
   title: "Planet of the Apes Season 1",
-  partOfCollections: ["planet-of-the-apes-1974"],
+  partOfCollections: ["show/planet-of-the-apes-1974"],
   position: 1,
   ownLength: 840,
   ownProgress: 0,

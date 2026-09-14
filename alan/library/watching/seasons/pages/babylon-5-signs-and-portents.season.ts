@@ -5,7 +5,7 @@ export const babylon5SignsAndPortents = {
   type: "season",
   slug: "babylon-5-signs-and-portents",
   title: "Babylon 5 Signs and Portents",
-  partOfCollections: ["babylon-5"],
+  partOfCollections: ["show/babylon-5"],
   position: 1,
   ownLength: 990,
   ownProgress: 0,

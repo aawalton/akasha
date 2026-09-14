@@ -5,7 +5,7 @@ export const marvelSLukeCageSeason2 = {
   type: "season",
   slug: "marvel-s-luke-cage-season-2",
   title: "Marvel's Luke Cage Season 2",
-  partOfCollections: ["luke-cage"],
+  partOfCollections: ["show/luke-cage"],
   position: 2,
   ownLength: 763.2,
   ownProgress: 0,

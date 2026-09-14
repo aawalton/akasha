@@ -5,7 +5,7 @@ export const criminalMindsSeason16Evolution = {
   type: "season",
   slug: "criminal-minds-season-16-evolution",
   title: "Criminal Minds Season 16: Evolution",
-  partOfCollections: ["criminal-minds"],
+  partOfCollections: ["show/criminal-minds"],
   position: 16,
   ownLength: 521,
   ownProgress: 0,

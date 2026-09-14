@@ -5,7 +5,7 @@ export const ncisSpecials = {
   type: "season",
   slug: "ncis-specials",
   title: "NCIS Specials",
-  partOfCollections: ["ncis"],
+  partOfCollections: ["show/ncis"],
   position: 0,
   ownLength: 765,
   ownProgress: 0,

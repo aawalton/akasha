@@ -5,7 +5,7 @@ export const starWarsRebelsSeason4 = {
   type: "season",
   slug: "star-wars-rebels-season-4",
   title: "Star Wars Rebels Season 4",
-  partOfCollections: ["star-wars-rebels"],
+  partOfCollections: ["show/star-wars-rebels"],
   position: 4,
   ownLength: 384,
   ownProgress: 0,

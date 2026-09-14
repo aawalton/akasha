@@ -5,7 +5,7 @@ export const echoMiniseries = {
   type: "season",
   slug: "echo-miniseries",
   title: "Echo Miniseries",
-  partOfCollections: ["echo"],
+  partOfCollections: ["show/echo"],
   position: 1,
   ownLength: 213,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const book2Sky = {
   type: "season",
   slug: "book-2-sky",
   title: "Book 2: Sky",
-  partOfCollections: ["the-dragon-prince"],
+  partOfCollections: ["show/the-dragon-prince"],
   position: 2,
   ownLength: 241.2,
   ownProgress: 0,

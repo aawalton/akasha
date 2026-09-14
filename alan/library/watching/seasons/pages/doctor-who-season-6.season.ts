@@ -5,7 +5,7 @@ export const doctorWhoSeason6 = {
   type: "season",
   slug: "doctor-who-season-6",
   title: "Doctor Who Season 6",
-  partOfCollections: ["doctor-who-2005"],
+  partOfCollections: ["show/doctor-who-2005"],
   position: 6,
   ownLength: 604.2,
   ownProgress: 604.2,

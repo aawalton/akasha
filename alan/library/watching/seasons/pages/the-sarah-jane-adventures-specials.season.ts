@@ -5,7 +5,7 @@ export const theSarahJaneAdventuresSpecials = {
   type: "season",
   slug: "the-sarah-jane-adventures-specials",
   title: "The Sarah Jane Adventures Specials",
-  partOfCollections: ["the-sarah-jane-adventures"],
+  partOfCollections: ["show/the-sarah-jane-adventures"],
   position: 0,
   ownLength: 111,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theOfficeSeason7 = {
   type: "season",
   slug: "the-office-season-7",
   title: "The Office Season 7",
-  partOfCollections: ["the-office"],
+  partOfCollections: ["show/the-office"],
   position: 7,
   ownLength: 588,
   ownProgress: 0,

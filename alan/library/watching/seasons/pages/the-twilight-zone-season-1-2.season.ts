@@ -5,7 +5,7 @@ export const theTwilightZoneSeason12 = {
   type: "season",
   slug: "the-twilight-zone-season-1-2",
   title: "The Twilight Zone Season 1",
-  partOfCollections: ["the-twilight-zone-1985"],
+  partOfCollections: ["show/the-twilight-zone-1985"],
   position: 1,
   ownLength: 1175,
   ownProgress: 0,

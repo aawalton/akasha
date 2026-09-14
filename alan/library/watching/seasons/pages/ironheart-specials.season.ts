@@ -5,7 +5,7 @@ export const ironheartSpecials = {
   type: "season",
   slug: "ironheart-specials",
   title: "Ironheart Specials",
-  partOfCollections: ["ironheart"],
+  partOfCollections: ["show/ironheart"],
   position: 0,
   ownLength: 4.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const blueySpecials = {
   type: "season",
   slug: "bluey-specials",
   title: "Bluey Specials",
-  partOfCollections: ["bluey"],
+  partOfCollections: ["show/bluey"],
   position: 0,
   ownLength: 214.8,
   ownProgress: 0,

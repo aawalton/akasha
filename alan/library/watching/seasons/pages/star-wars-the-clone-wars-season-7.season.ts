@@ -5,7 +5,7 @@ export const starWarsTheCloneWarsSeason7 = {
   type: "season",
   slug: "star-wars-the-clone-wars-season-7",
   title: "Star Wars: The Clone Wars Season 7",
-  partOfCollections: ["star-wars-the-clone-wars"],
+  partOfCollections: ["show/star-wars-the-clone-wars"],
   position: 7,
   ownLength: 324,
   ownProgress: 0,

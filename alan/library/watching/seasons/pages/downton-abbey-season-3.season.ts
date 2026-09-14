@@ -5,7 +5,7 @@ export const downtonAbbeySeason3 = {
   type: "season",
   slug: "downton-abbey-season-3",
   title: "Downton Abbey Season 3",
-  partOfCollections: ["downton-abbey"],
+  partOfCollections: ["show/downton-abbey"],
   position: 3,
   ownLength: 438,
   ownProgress: 0,

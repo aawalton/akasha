@@ -5,7 +5,7 @@ export const battlestarGalacticaSpecials = {
   type: "season",
   slug: "battlestar-galactica-specials",
   title: "Battlestar Galactica Specials",
-  partOfCollections: ["battlestar-galactica-2004"],
+  partOfCollections: ["show/battlestar-galactica-2004"],
   position: 0,
   ownLength: 289.8,
   ownProgress: 0,

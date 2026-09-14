@@ -5,7 +5,7 @@ export const stargateOriginsSpecials = {
   type: "season",
   slug: "stargate-origins-specials",
   title: "Stargate Origins Specials",
-  partOfCollections: ["stargate-origins"],
+  partOfCollections: ["show/stargate-origins"],
   position: 0,
   ownLength: 103.8,
   ownProgress: 0,

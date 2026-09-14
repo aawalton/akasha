@@ -5,7 +5,7 @@ export const miceAndMurder = {
   type: "season",
   slug: "mice-and-murder",
   title: "Mice & Murder",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 9,
   ownLength: 1251,
   ownProgress: 0,

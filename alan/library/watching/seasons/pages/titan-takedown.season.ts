@@ -5,7 +5,7 @@ export const titanTakedown = {
   type: "season",
   slug: "titan-takedown",
   title: "Titan Takedown",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 25,
   ownLength: 507,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const marvelSAgentCarterSeason1 = {
   type: "season",
   slug: "marvel-s-agent-carter-season-1",
   title: "Marvel's Agent Carter Season 1",
-  partOfCollections: ["agent-carter"],
+  partOfCollections: ["show/agent-carter"],
   position: 1,
   ownLength: 343.2,
   ownProgress: 343.2,

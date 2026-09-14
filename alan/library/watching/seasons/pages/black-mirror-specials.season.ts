@@ -5,7 +5,7 @@ export const blackMirrorSpecials = {
   type: "season",
   slug: "black-mirror-specials",
   title: "Black Mirror Specials",
-  partOfCollections: ["black-mirror"],
+  partOfCollections: ["show/black-mirror"],
   position: 0,
   ownLength: 73.8,
   ownProgress: 0,

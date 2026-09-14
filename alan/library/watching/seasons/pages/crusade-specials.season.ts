@@ -5,7 +5,7 @@ export const crusadeSpecials = {
   type: "season",
   slug: "crusade-specials",
   title: "Crusade Specials",
-  partOfCollections: ["crusade"],
+  partOfCollections: ["show/crusade"],
   position: 0,
   ownLength: 21,
   ownProgress: 0,

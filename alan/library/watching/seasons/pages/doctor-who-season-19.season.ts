@@ -5,7 +5,7 @@ export const doctorWhoSeason19 = {
   type: "season",
   slug: "doctor-who-season-19",
   title: "Doctor Who Season 19",
-  partOfCollections: ["doctor-who-1963-1989"],
+  partOfCollections: ["show/doctor-who-1963-1989"],
   position: 19,
   ownLength: 649.8,
   ownProgress: 0,

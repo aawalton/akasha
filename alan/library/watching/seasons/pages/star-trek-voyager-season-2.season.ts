@@ -5,7 +5,7 @@ export const starTrekVoyagerSeason2 = {
   type: "season",
   slug: "star-trek-voyager-season-2",
   title: "Star Trek: Voyager Season 2",
-  partOfCollections: ["star-trek-voyager"],
+  partOfCollections: ["show/star-trek-voyager"],
   position: 2,
   ownLength: 1195.8,
   ownProgress: 0,

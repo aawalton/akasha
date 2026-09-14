@@ -5,7 +5,7 @@ export const theUnsleepingCity = {
   type: "season",
   slug: "the-unsleeping-city",
   title: "The Unsleeping City",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 3,
   ownLength: 2061,
   ownProgress: 0,

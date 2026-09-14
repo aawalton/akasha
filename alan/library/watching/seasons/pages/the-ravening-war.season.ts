@@ -5,7 +5,7 @@ export const theRaveningWar = {
   type: "season",
   slug: "the-ravening-war",
   title: "The Ravening War",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 17,
   ownLength: 903,
   ownProgress: 0,

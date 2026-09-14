@@ -5,7 +5,7 @@ export const doctorWhoSeason82 = {
   type: "season",
   slug: "doctor-who-season-8-2",
   title: "Doctor Who Season 8",
-  partOfCollections: ["doctor-who-1963-1989"],
+  partOfCollections: ["show/doctor-who-1963-1989"],
   position: 8,
   ownLength: 625.2,
   ownProgress: 0,

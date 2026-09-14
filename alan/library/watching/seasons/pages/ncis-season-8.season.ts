@@ -5,7 +5,7 @@ export const ncisSeason8 = {
   type: "season",
   slug: "ncis-season-8",
   title: "NCIS Season 8",
-  partOfCollections: ["ncis"],
+  partOfCollections: ["show/ncis"],
   position: 8,
   ownLength: 1038,
   ownProgress: 0,

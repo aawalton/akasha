@@ -5,7 +5,7 @@ export const houseOfTheDragonSeason1 = {
   type: "season",
   slug: "house-of-the-dragon-season-1",
   title: "House of the Dragon Season 1",
-  partOfCollections: ["house-of-the-dragon"],
+  partOfCollections: ["show/house-of-the-dragon"],
   position: 1,
   ownLength: 619.8,
   ownProgress: 0,

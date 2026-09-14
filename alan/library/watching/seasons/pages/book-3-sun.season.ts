@@ -5,7 +5,7 @@ export const book3Sun = {
   type: "season",
   slug: "book-3-sun",
   title: "Book 3: Sun",
-  partOfCollections: ["the-dragon-prince"],
+  partOfCollections: ["show/the-dragon-prince"],
   position: 3,
   ownLength: 249,
   ownProgress: 0,

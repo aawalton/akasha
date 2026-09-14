@@ -5,7 +5,7 @@ export const starTrekEnterpriseSpecials = {
   type: "season",
   slug: "star-trek-enterprise-specials",
   title: "Star Trek: Enterprise Specials",
-  partOfCollections: ["star-trek-enterprise"],
+  partOfCollections: ["show/star-trek-enterprise"],
   position: 0,
   ownLength: 1132.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const miracleDay = {
   type: "season",
   slug: "miracle-day",
   title: "Miracle Day",
-  partOfCollections: ["torchwood"],
+  partOfCollections: ["show/torchwood"],
   position: 4,
   ownLength: 550.2,
   ownProgress: 0,

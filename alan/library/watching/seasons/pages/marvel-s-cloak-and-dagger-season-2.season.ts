@@ -5,7 +5,7 @@ export const marvelSCloakAndDaggerSeason2 = {
   type: "season",
   slug: "marvel-s-cloak-and-dagger-season-2",
   title: "Marvel's Cloak & Dagger Season 2",
-  partOfCollections: ["cloak-and-dagger"],
+  partOfCollections: ["show/cloak-and-dagger"],
   position: 2,
   ownLength: 409.2,
   ownProgress: 0,

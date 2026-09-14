@@ -5,7 +5,7 @@ export const eurekaSeason2 = {
   type: "season",
   slug: "eureka-season-2",
   title: "Eureka Season 2",
-  partOfCollections: ["eureka"],
+  partOfCollections: ["show/eureka"],
   position: 2,
   ownLength: 566,
   ownProgress: 0,

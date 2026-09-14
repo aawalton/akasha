@@ -5,7 +5,7 @@ export const starTrekEnterpriseSeason2 = {
   type: "season",
   slug: "star-trek-enterprise-season-2",
   title: "Star Trek: Enterprise Season 2",
-  partOfCollections: ["star-trek-enterprise"],
+  partOfCollections: ["show/star-trek-enterprise"],
   position: 2,
   ownLength: 1117.8,
   ownProgress: 0,

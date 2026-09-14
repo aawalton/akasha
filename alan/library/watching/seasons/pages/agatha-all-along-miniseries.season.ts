@@ -5,7 +5,7 @@ export const agathaAllAlongMiniseries = {
   type: "season",
   slug: "agatha-all-along-miniseries",
   title: "Agatha All Along Miniseries",
-  partOfCollections: ["agatha-all-along"],
+  partOfCollections: ["show/agatha-all-along"],
   position: 1,
   ownLength: 379.2,
   ownProgress: 0,

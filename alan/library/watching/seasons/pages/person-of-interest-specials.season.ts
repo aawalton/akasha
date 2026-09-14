@@ -5,7 +5,7 @@ export const personOfInterestSpecials = {
   type: "season",
   slug: "person-of-interest-specials",
   title: "Person of Interest Specials",
-  partOfCollections: ["person-of-interest"],
+  partOfCollections: ["show/person-of-interest"],
   position: 0,
   ownLength: 283,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const onePieceSeason21 = {
   type: "season",
   slug: "one-piece-season-21",
   title: "One Piece Season 21",
-  partOfCollections: ["one-piece"],
+  partOfCollections: ["fandom/one-piece"],
   position: 21,
   ownLength: 4728,
   ownProgress: 0,

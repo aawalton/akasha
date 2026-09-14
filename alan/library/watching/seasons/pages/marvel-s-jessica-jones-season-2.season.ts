@@ -5,7 +5,7 @@ export const marvelSJessicaJonesSeason2 = {
   type: "season",
   slug: "marvel-s-jessica-jones-season-2",
   title: "Marvel's Jessica Jones Season 2",
-  partOfCollections: ["jessica-jones"],
+  partOfCollections: ["show/jessica-jones"],
   position: 2,
   ownLength: 673.2,
   ownProgress: 0,

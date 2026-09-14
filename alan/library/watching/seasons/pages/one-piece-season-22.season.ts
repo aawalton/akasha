@@ -5,7 +5,7 @@ export const onePieceSeason22 = {
   type: "season",
   slug: "one-piece-season-22",
   title: "One Piece Season 22",
-  partOfCollections: ["one-piece"],
+  partOfCollections: ["fandom/one-piece"],
   position: 22,
   ownLength: 1174.2,
   ownProgress: 0,

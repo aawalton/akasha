@@ -5,7 +5,7 @@ export const theTrialOfATimeLord = {
   type: "season",
   slug: "the-trial-of-a-time-lord",
   title: "The Trial of a Time Lord",
-  partOfCollections: ["doctor-who-1963-1989"],
+  partOfCollections: ["show/doctor-who-1963-1989"],
   position: 23,
   ownLength: 349.8,
   ownProgress: 0,

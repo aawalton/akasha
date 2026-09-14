@@ -5,7 +5,7 @@ export const theBigBangTheorySeason4 = {
   type: "season",
   slug: "the-big-bang-theory-season-4",
   title: "The Big Bang Theory Season 4",
-  partOfCollections: ["the-big-bang-theory"],
+  partOfCollections: ["show/the-big-bang-theory"],
   position: 4,
   ownLength: 496.8,
   ownProgress: 0,

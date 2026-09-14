@@ -5,7 +5,7 @@ export const theWheelOfTimeSpecials = {
   type: "season",
   slug: "the-wheel-of-time-specials",
   title: "The Wheel of Time Specials",
-  partOfCollections: ["the-wheel-of-time"],
+  partOfCollections: ["show/the-wheel-of-time"],
   position: 0,
   ownLength: 316.2,
   ownProgress: 0,

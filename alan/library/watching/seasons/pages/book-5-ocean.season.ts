@@ -5,7 +5,7 @@ export const book5Ocean = {
   type: "season",
   slug: "book-5-ocean",
   title: "Book 5: Ocean",
-  partOfCollections: ["the-dragon-prince"],
+  partOfCollections: ["show/the-dragon-prince"],
   position: 5,
   ownLength: 252,
   ownProgress: 0,

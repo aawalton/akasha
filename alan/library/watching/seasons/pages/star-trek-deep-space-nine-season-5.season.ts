@@ -5,7 +5,7 @@ export const starTrekDeepSpaceNineSeason5 = {
   type: "season",
   slug: "star-trek-deep-space-nine-season-5",
   title: "Star Trek: Deep Space Nine Season 5",
-  partOfCollections: ["star-trek-deep-space-nine"],
+  partOfCollections: ["show/star-trek-deep-space-nine"],
   position: 5,
   ownLength: 1170,
   ownProgress: 0,

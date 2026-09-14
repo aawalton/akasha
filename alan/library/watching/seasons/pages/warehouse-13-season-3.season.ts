@@ -5,7 +5,7 @@ export const warehouse13Season3 = {
   type: "season",
   slug: "warehouse-13-season-3",
   title: "Warehouse 13 Season 3",
-  partOfCollections: ["warehouse-13"],
+  partOfCollections: ["show/warehouse-13"],
   position: 3,
   ownLength: 560,
   ownProgress: 0,

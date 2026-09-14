@@ -5,7 +5,7 @@ export const tinyHeist = {
   type: "season",
   slug: "tiny-heist",
   title: "Tiny Heist",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 4,
   ownLength: 750,
   ownProgress: 0,

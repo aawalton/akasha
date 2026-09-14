@@ -5,7 +5,7 @@ export const thirdRockFromTheSunSpecials = {
   type: "season",
   slug: "third-rock-from-the-sun-specials",
   title: "3rd Rock from the Sun Specials",
-  partOfCollections: ["third-rock-from-the-sun"],
+  partOfCollections: ["show/third-rock-from-the-sun"],
   position: 0,
   ownLength: 660,
   ownProgress: 0,

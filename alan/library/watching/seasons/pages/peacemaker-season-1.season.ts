@@ -5,7 +5,7 @@ export const peacemakerSeason1 = {
   type: "season",
   slug: "peacemaker-season-1",
   title: "Peacemaker Season 1",
-  partOfCollections: ["peacemaker"],
+  partOfCollections: ["show/peacemaker"],
   position: 1,
   ownLength: 576,
   ownProgress: 0,

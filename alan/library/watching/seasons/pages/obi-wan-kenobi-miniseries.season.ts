@@ -5,7 +5,7 @@ export const obiWanKenobiMiniseries = {
   type: "season",
   slug: "obi-wan-kenobi-miniseries",
   title: "Obi-Wan Kenobi Miniseries",
-  partOfCollections: ["obi-wan-kenobi"],
+  partOfCollections: ["show/obi-wan-kenobi"],
   position: 1,
   ownLength: 280.2,
   ownProgress: 0,

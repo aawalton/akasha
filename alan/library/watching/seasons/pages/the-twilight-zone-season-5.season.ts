@@ -5,7 +5,7 @@ export const theTwilightZoneSeason5 = {
   type: "season",
   slug: "the-twilight-zone-season-5",
   title: "The Twilight Zone Season 5",
-  partOfCollections: ["the-twilight-zone-1959"],
+  partOfCollections: ["show/the-twilight-zone-1959"],
   position: 5,
   ownLength: 936,
   ownProgress: 0,

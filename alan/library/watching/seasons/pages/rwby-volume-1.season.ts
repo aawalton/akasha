@@ -5,7 +5,7 @@ export const rwbyVolume1 = {
   type: "season",
   slug: "rwby-volume-1",
   title: "RWBY Volume 1",
-  partOfCollections: ["rwby-2"],
+  partOfCollections: ["show/rwby-2"],
   position: 1,
   ownLength: 126,
   ownProgress: 126,

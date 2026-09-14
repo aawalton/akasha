@@ -5,7 +5,7 @@ export const studioCSeason10 = {
   type: "season",
   slug: "studio-c-season-10",
   title: "Studio C Season 10",
-  partOfCollections: ["studio-c"],
+  partOfCollections: ["show/studio-c"],
   position: 10,
   ownLength: 307.8,
   ownProgress: 307.8,

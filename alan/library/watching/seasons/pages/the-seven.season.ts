@@ -5,7 +5,7 @@ export const theSeven = {
   type: "season",
   slug: "the-seven",
   title: "The Seven",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 11,
   ownLength: 1440,
   ownProgress: 0,

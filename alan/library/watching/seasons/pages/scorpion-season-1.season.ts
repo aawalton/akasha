@@ -5,7 +5,7 @@ export const scorpionSeason1 = {
   type: "season",
   slug: "scorpion-season-1",
   title: "Scorpion Season 1",
-  partOfCollections: ["scorpion"],
+  partOfCollections: ["show/scorpion"],
   position: 1,
   ownLength: 921,
   ownProgress: 921,

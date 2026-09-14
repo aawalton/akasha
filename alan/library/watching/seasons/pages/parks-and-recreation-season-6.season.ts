@@ -5,7 +5,7 @@ export const parksAndRecreationSeason6 = {
   type: "season",
   slug: "parks-and-recreation-season-6",
   title: "Parks and Recreation Season 6",
-  partOfCollections: ["parks-and-recreation"],
+  partOfCollections: ["show/parks-and-recreation"],
   position: 6,
   ownLength: 484.2,
   ownProgress: 0,

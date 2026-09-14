@@ -5,7 +5,7 @@ export const ironheartMiniseries = {
   type: "season",
   slug: "ironheart-miniseries",
   title: "Ironheart Miniseries",
-  partOfCollections: ["ironheart"],
+  partOfCollections: ["show/ironheart"],
   position: 1,
   ownLength: 304.8,
   ownProgress: 0,

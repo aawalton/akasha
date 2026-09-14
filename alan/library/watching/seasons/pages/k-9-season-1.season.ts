@@ -5,7 +5,7 @@ export const k9Season1 = {
   type: "season",
   slug: "k-9-season-1",
   title: "K-9 Season 1",
-  partOfCollections: ["k-9"],
+  partOfCollections: ["show/k-9"],
   position: 1,
   ownLength: 702,
   ownProgress: 0,

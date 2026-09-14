@@ -5,7 +5,7 @@ export const starTrekEnterpriseSeason3 = {
   type: "season",
   slug: "star-trek-enterprise-season-3",
   title: "Star Trek: Enterprise Season 3",
-  partOfCollections: ["star-trek-enterprise"],
+  partOfCollections: ["show/star-trek-enterprise"],
   position: 3,
   ownLength: 1032,
   ownProgress: 0,

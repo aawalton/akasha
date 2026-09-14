@@ -5,7 +5,7 @@ export const marvelSRunawaysSeason1 = {
   type: "season",
   slug: "marvel-s-runaways-season-1",
   title: "Marvel's Runaways Season 1",
-  partOfCollections: ["runaways"],
+  partOfCollections: ["show/runaways"],
   position: 1,
   ownLength: 502.8,
   ownProgress: 0,

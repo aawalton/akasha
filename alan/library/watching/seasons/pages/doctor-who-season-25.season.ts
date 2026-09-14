@@ -5,7 +5,7 @@ export const doctorWhoSeason25 = {
   type: "season",
   slug: "doctor-who-season-25",
   title: "Doctor Who Season 25",
-  partOfCollections: ["doctor-who-1963-1989"],
+  partOfCollections: ["show/doctor-who-1963-1989"],
   position: 25,
   ownLength: 349.8,
   ownProgress: 0,

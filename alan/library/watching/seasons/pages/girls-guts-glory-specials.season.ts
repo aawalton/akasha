@@ -5,7 +5,7 @@ export const girlsGutsGlorySpecials = {
   type: "season",
   slug: "girls-guts-glory-specials",
   title: "Girls Guts Glory Specials",
-  partOfCollections: ["girls-guts-glory"],
+  partOfCollections: ["show/girls-guts-glory"],
   position: 0,
   ownLength: 84,
   ownProgress: 0,

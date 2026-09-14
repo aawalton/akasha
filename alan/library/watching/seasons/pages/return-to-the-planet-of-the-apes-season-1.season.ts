@@ -5,7 +5,7 @@ export const returnToThePlanetOfTheApesSeason1 = {
   type: "season",
   slug: "return-to-the-planet-of-the-apes-season-1",
   title: "Return to the Planet of the Apes Season 1",
-  partOfCollections: ["return-to-the-planet-of-the-apes"],
+  partOfCollections: ["show/return-to-the-planet-of-the-apes"],
   position: 1,
   ownLength: 390,
   ownProgress: 0,

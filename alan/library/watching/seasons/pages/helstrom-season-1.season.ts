@@ -5,7 +5,7 @@ export const helstromSeason1 = {
   type: "season",
   slug: "helstrom-season-1",
   title: "Helstrom Season 1",
-  partOfCollections: ["helstrom"],
+  partOfCollections: ["show/helstrom"],
   position: 1,
   ownLength: 516,
   ownProgress: 0,

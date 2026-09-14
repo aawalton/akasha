@@ -5,7 +5,7 @@ export const book6Stars = {
   type: "season",
   slug: "book-6-stars",
   title: "Book 6: Stars",
-  partOfCollections: ["the-dragon-prince"],
+  partOfCollections: ["show/the-dragon-prince"],
   position: 6,
   ownLength: 253.8,
   ownProgress: 0,

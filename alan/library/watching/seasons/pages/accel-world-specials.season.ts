@@ -5,7 +5,7 @@ export const accelWorldSpecials = {
   type: "season",
   slug: "accel-world-specials",
   title: "Accel World Specials",
-  partOfCollections: ["accel-world-2"],
+  partOfCollections: ["show/accel-world-2"],
   position: 0,
   ownLength: 80,
   ownProgress: 80,

@@ -5,7 +5,7 @@ export const theChosenSeason2 = {
   type: "season",
   slug: "the-chosen-season-2",
   title: "The Chosen Season 2",
-  partOfCollections: ["the-chosen"],
+  partOfCollections: ["show/the-chosen"],
   position: 2,
   ownLength: 405,
   ownProgress: 0,

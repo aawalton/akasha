@@ -5,7 +5,7 @@ export const rwbyVolume4 = {
   type: "season",
   slug: "rwby-volume-4",
   title: "RWBY Volume 4",
-  partOfCollections: ["rwby-2"],
+  partOfCollections: ["show/rwby-2"],
   position: 4,
   ownLength: 205.8,
   ownProgress: 205.8,

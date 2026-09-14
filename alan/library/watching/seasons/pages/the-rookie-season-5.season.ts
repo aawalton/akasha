@@ -5,7 +5,7 @@ export const theRookieSeason5 = {
   type: "season",
   slug: "the-rookie-season-5",
   title: "The Rookie Season 5",
-  partOfCollections: ["the-rookie"],
+  partOfCollections: ["show/the-rookie"],
   position: 5,
   ownLength: 946.8,
   ownProgress: 946.8,

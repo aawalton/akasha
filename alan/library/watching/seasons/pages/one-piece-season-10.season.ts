@@ -5,7 +5,7 @@ export const onePieceSeason10 = {
   type: "season",
   slug: "one-piece-season-10",
   title: "One Piece Season 10",
-  partOfCollections: ["one-piece"],
+  partOfCollections: ["fandom/one-piece"],
   position: 10,
   ownLength: 1080,
   ownProgress: 0,

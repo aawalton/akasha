@@ -5,7 +5,7 @@ export const starTrekPicardSpecials = {
   type: "season",
   slug: "star-trek-picard-specials",
   title: "Star Trek: Picard Specials",
-  partOfCollections: ["star-trek-picard"],
+  partOfCollections: ["show/star-trek-picard"],
   position: 0,
   ownLength: 481.8,
   ownProgress: 0,

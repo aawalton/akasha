@@ -5,7 +5,7 @@ export const rwbySpecials2 = {
   type: "season",
   slug: "rwby-specials-2",
   title: "RWBY Specials",
-  partOfCollections: ["rwby-2"],
+  partOfCollections: ["show/rwby-2"],
   position: 0,
   ownLength: 126,
   ownProgress: 0,

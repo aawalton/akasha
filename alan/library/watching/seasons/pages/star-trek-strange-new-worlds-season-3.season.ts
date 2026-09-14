@@ -5,7 +5,7 @@ export const starTrekStrangeNewWorldsSeason3 = {
   type: "season",
   slug: "star-trek-strange-new-worlds-season-3",
   title: "Star Trek: Strange New Worlds Season 3",
-  partOfCollections: ["star-trek-strange-new-worlds"],
+  partOfCollections: ["show/star-trek-strange-new-worlds"],
   position: 3,
   ownLength: 550.2,
   ownProgress: 0,

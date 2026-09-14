@@ -5,7 +5,7 @@ export const ncisLosAngelesSeason14 = {
   type: "season",
   slug: "ncis-los-angeles-season-14",
   title: "NCIS: Los Angeles Season 14",
-  partOfCollections: ["ncis-los-angeles"],
+  partOfCollections: ["show/ncis-los-angeles"],
   position: 14,
   ownLength: 903,
   ownProgress: 0,

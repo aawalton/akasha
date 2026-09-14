@@ -5,7 +5,7 @@ export const starWarsRebelsSpecials = {
   type: "season",
   slug: "star-wars-rebels-specials",
   title: "Star Wars Rebels Specials",
-  partOfCollections: ["star-wars-rebels"],
+  partOfCollections: ["show/star-wars-rebels"],
   position: 0,
   ownLength: 105,
   ownProgress: 0,

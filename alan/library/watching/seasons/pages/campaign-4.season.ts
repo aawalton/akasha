@@ -5,7 +5,7 @@ export const campaign4 = {
   type: "season",
   slug: "campaign-4",
   title: "Campaign 4",
-  partOfCollections: ["critical-role"],
+  partOfCollections: ["show/critical-role"],
   position: 4,
   ownLength: 960,
   ownProgress: 0,

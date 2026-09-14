@@ -5,7 +5,7 @@ export const bookOneWater = {
   type: "season",
   slug: "book-one-water",
   title: "Book One: Water",
-  partOfCollections: ["avatar-the-last-airbender"],
+  partOfCollections: ["show/avatar-the-last-airbender"],
   position: 1,
   ownLength: 487.2,
   ownProgress: 0,

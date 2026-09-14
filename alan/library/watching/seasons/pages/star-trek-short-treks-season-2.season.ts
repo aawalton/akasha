@@ -5,7 +5,7 @@ export const starTrekShortTreksSeason2 = {
   type: "season",
   slug: "star-trek-short-treks-season-2",
   title: "Star Trek: Short Treks Season 2",
-  partOfCollections: ["star-trek-short-treks"],
+  partOfCollections: ["show/star-trek-short-treks"],
   position: 2,
   ownLength: 61.2,
   ownProgress: 0,

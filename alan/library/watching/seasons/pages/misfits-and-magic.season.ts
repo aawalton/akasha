@@ -5,7 +5,7 @@ export const misfitsAndMagic = {
   type: "season",
   slug: "misfits-and-magic",
   title: "Misfits and Magic",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 10,
   ownLength: 586.2,
   ownProgress: 0,

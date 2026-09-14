@@ -5,7 +5,7 @@ export const criminalMindsSeason11 = {
   type: "season",
   slug: "criminal-minds-season-11",
   title: "Criminal Minds Season 11",
-  partOfCollections: ["criminal-minds"],
+  partOfCollections: ["show/criminal-minds"],
   position: 11,
   ownLength: 924,
   ownProgress: 0,

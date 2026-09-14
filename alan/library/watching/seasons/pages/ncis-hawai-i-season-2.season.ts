@@ -5,7 +5,7 @@ export const ncisHawaiISeason2 = {
   type: "season",
   slug: "ncis-hawai-i-season-2",
   title: "NCIS: Hawai'i Season 2",
-  partOfCollections: ["ncis-hawai-i"],
+  partOfCollections: ["show/ncis-hawai-i"],
   position: 2,
   ownLength: 940.2,
   ownProgress: 0,

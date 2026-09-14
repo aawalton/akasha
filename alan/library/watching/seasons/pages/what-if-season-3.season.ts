@@ -5,7 +5,7 @@ export const whatIfSeason3 = {
   type: "season",
   slug: "what-if-season-3",
   title: "What If...? Season 3",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 52,
   ownLength: 253.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const capricaSpecials = {
   type: "season",
   slug: "caprica-specials",
   title: "Caprica Specials",
-  partOfCollections: ["caprica"],
+  partOfCollections: ["show/caprica"],
   position: 0,
   ownLength: 61.2,
   ownProgress: 0,

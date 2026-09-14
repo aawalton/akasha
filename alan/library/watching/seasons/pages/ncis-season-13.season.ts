@@ -5,7 +5,7 @@ export const ncisSeason13 = {
   type: "season",
   slug: "ncis-season-13",
   title: "NCIS Season 13",
-  partOfCollections: ["ncis"],
+  partOfCollections: ["show/ncis"],
   position: 13,
   ownLength: 1017,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const elementarySeason2 = {
   type: "season",
   slug: "elementary-season-2",
   title: "Elementary Season 2",
-  partOfCollections: ["elementary"],
+  partOfCollections: ["show/elementary"],
   position: 2,
   ownLength: 1030.2,
   ownProgress: 1030.2,

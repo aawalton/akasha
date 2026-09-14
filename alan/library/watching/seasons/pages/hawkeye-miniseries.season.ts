@@ -5,7 +5,7 @@ export const hawkeyeMiniseries = {
   type: "season",
   slug: "hawkeye-miniseries",
   title: "Hawkeye Miniseries",
-  partOfCollections: ["hawkeye"],
+  partOfCollections: ["show/hawkeye"],
   position: 1,
   ownLength: 297,
   ownProgress: 297,

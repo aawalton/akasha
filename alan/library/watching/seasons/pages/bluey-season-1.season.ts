@@ -5,7 +5,7 @@ export const blueySeason1 = {
   type: "season",
   slug: "bluey-season-1",
   title: "Bluey Season 1",
-  partOfCollections: ["bluey"],
+  partOfCollections: ["show/bluey"],
   position: 1,
   ownLength: 364.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theExpanseSeason6 = {
   type: "season",
   slug: "the-expanse-season-6",
   title: "The Expanse Season 6",
-  partOfCollections: ["the-expanse"],
+  partOfCollections: ["show/the-expanse"],
   position: 6,
   ownLength: 291,
   ownProgress: 0,

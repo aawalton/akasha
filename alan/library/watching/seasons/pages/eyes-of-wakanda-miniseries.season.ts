@@ -5,7 +5,7 @@ export const eyesOfWakandaMiniseries = {
   type: "season",
   slug: "eyes-of-wakanda-miniseries",
   title: "Eyes of Wakanda Miniseries",
-  partOfCollections: ["eyes-of-wakanda"],
+  partOfCollections: ["show/eyes-of-wakanda"],
   position: 1,
   ownLength: 124.8,
   ownProgress: 0,

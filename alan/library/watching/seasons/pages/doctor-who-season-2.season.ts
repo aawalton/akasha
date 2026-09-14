@@ -5,7 +5,7 @@ export const doctorWhoSeason2 = {
   type: "season",
   slug: "doctor-who-season-2",
   title: "Doctor Who Season 2",
-  partOfCollections: ["doctor-who-2005"],
+  partOfCollections: ["show/doctor-who-2005"],
   position: 2,
   ownLength: 622.2,
   ownProgress: 622.2,

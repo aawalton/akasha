@@ -5,7 +5,7 @@ export const swordArtOnlineAlicizationSeason3 = {
   type: "season",
   slug: "sword-art-online-alicization-season-3",
   title: "Sword Art Online: Alicization (Season 3)",
-  partOfCollections: ["sword-art-online-shows"],
+  partOfCollections: ["show-collection/sword-art-online-shows"],
   position: 4,
   ownLength: 600,
   ownProgress: 600,

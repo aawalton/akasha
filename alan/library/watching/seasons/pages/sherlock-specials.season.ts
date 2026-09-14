@@ -5,7 +5,7 @@ export const sherlockSpecials = {
   type: "season",
   slug: "sherlock-specials",
   title: "Sherlock Specials",
-  partOfCollections: ["sherlock"],
+  partOfCollections: ["show/sherlock"],
   position: 0,
   ownLength: 367.8,
   ownProgress: 367.8,

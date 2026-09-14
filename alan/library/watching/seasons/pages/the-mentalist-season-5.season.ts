@@ -5,7 +5,7 @@ export const theMentalistSeason5 = {
   type: "season",
   slug: "the-mentalist-season-5",
   title: "The Mentalist Season 5",
-  partOfCollections: ["the-mentalist"],
+  partOfCollections: ["show/the-mentalist"],
   position: 5,
   ownLength: 935,
   ownProgress: 935,

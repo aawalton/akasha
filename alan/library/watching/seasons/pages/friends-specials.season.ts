@@ -5,7 +5,7 @@ export const friendsSpecials = {
   type: "season",
   slug: "friends-specials",
   title: "Friends Specials",
-  partOfCollections: ["friends"],
+  partOfCollections: ["show/friends"],
   position: 0,
   ownLength: 678,
   ownProgress: 0,

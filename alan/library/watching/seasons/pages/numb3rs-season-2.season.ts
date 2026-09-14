@@ -5,7 +5,7 @@ export const numb3rsSeason2 = {
   type: "season",
   slug: "numb3rs-season-2",
   title: "Numb3rs Season 2",
-  partOfCollections: ["numb3rs"],
+  partOfCollections: ["show/numb3rs"],
   position: 2,
   ownLength: 1035,
   ownProgress: 1035,

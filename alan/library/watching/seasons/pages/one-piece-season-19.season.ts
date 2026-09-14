@@ -5,7 +5,7 @@ export const onePieceSeason19 = {
   type: "season",
   slug: "one-piece-season-19",
   title: "One Piece Season 19",
-  partOfCollections: ["one-piece"],
+  partOfCollections: ["fandom/one-piece"],
   position: 19,
   ownLength: 1776,
   ownProgress: 0,

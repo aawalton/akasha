@@ -5,7 +5,7 @@ export const babylon5TheComingOfShadows = {
   type: "season",
   slug: "babylon-5-the-coming-of-shadows",
   title: "Babylon 5 The Coming of Shadows",
-  partOfCollections: ["babylon-5"],
+  partOfCollections: ["show/babylon-5"],
   position: 2,
   ownLength: 990,
   ownProgress: 0,

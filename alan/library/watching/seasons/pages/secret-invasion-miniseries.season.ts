@@ -5,7 +5,7 @@ export const secretInvasionMiniseries = {
   type: "season",
   slug: "secret-invasion-miniseries",
   title: "Secret Invasion Miniseries",
-  partOfCollections: ["secret-invasion"],
+  partOfCollections: ["show/secret-invasion"],
   position: 1,
   ownLength: 262.2,
   ownProgress: 262.2,

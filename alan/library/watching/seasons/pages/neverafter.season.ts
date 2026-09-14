@@ -5,7 +5,7 @@ export const neverafter = {
   type: "season",
   slug: "neverafter",
   title: "Neverafter",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 16,
   ownLength: 2554.2,
   ownProgress: 0,

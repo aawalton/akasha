@@ -5,7 +5,7 @@ export const downtonAbbeySeason4 = {
   type: "season",
   slug: "downton-abbey-season-4",
   title: "Downton Abbey Season 4",
-  partOfCollections: ["downton-abbey"],
+  partOfCollections: ["show/downton-abbey"],
   position: 4,
   ownLength: 438,
   ownProgress: 0,

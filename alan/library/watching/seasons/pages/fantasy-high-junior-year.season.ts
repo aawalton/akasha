@@ -5,7 +5,7 @@ export const fantasyHighJuniorYear = {
   type: "season",
   slug: "fantasy-high-junior-year",
   title: "Fantasy High: Junior Year",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 21,
   ownLength: 2676,
   ownProgress: 0,

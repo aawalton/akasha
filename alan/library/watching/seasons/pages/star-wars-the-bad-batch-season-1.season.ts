@@ -5,7 +5,7 @@ export const starWarsTheBadBatchSeason1 = {
   type: "season",
   slug: "star-wars-the-bad-batch-season-1",
   title: "Star Wars: The Bad Batch Season 1",
-  partOfCollections: ["star-wars-the-bad-batch"],
+  partOfCollections: ["show/star-wars-the-bad-batch"],
   position: 1,
   ownLength: 511.8,
   ownProgress: 0,

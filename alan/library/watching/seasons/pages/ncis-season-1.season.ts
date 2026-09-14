@@ -5,7 +5,7 @@ export const ncisSeason1 = {
   type: "season",
   slug: "ncis-season-1",
   title: "NCIS Season 1",
-  partOfCollections: ["ncis"],
+  partOfCollections: ["show/ncis"],
   position: 1,
   ownLength: 1009.2,
   ownProgress: 0,

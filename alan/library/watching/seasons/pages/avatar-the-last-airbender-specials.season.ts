@@ -5,7 +5,7 @@ export const avatarTheLastAirbenderSpecials = {
   type: "season",
   slug: "avatar-the-last-airbender-specials",
   title: "Avatar: The Last Airbender Specials",
-  partOfCollections: ["avatar-the-last-airbender"],
+  partOfCollections: ["show/avatar-the-last-airbender"],
   position: 0,
   ownLength: 430.2,
   ownProgress: 0,

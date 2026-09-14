@@ -5,7 +5,7 @@ export const duneProphecySeason1 = {
   type: "season",
   slug: "dune-prophecy-season-1",
   title: "Dune: Prophecy Season 1",
-  partOfCollections: ["dune-prophecy"],
+  partOfCollections: ["show/dune-prophecy"],
   position: 1,
   ownLength: 393,
   ownProgress: 0,

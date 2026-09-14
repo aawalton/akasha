@@ -5,7 +5,7 @@ export const starWarsAndorSeason1 = {
   type: "season",
   slug: "star-wars-andor-season-1",
   title: "Star Wars: Andor Season 1",
-  partOfCollections: ["andor"],
+  partOfCollections: ["show/andor"],
   position: 1,
   ownLength: 582,
   ownProgress: 0,

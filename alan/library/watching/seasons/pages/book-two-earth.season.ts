@@ -5,7 +5,7 @@ export const bookTwoEarth = {
   type: "season",
   slug: "book-two-earth",
   title: "Book Two: Earth",
-  partOfCollections: ["avatar-the-last-airbender"],
+  partOfCollections: ["show/avatar-the-last-airbender"],
   position: 2,
   ownLength: 496.8,
   ownProgress: 0,

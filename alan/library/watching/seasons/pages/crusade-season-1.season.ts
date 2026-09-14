@@ -5,7 +5,7 @@ export const crusadeSeason1 = {
   type: "season",
   slug: "crusade-season-1",
   title: "Crusade Season 1",
-  partOfCollections: ["crusade"],
+  partOfCollections: ["show/crusade"],
   position: 1,
   ownLength: 572,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const manifestSeason1 = {
   type: "season",
   slug: "manifest-season-1",
   title: "Manifest Season 1",
-  partOfCollections: ["manifest"],
+  partOfCollections: ["show/manifest"],
   position: 1,
   ownLength: 679,
   ownProgress: 0,

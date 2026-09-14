@@ -5,7 +5,7 @@ export const ncisNewOrleansSeason4 = {
   type: "season",
   slug: "ncis-new-orleans-season-4",
   title: "NCIS: New Orleans Season 4",
-  partOfCollections: ["ncis-new-orleans"],
+  partOfCollections: ["show/ncis-new-orleans"],
   position: 4,
   ownLength: 1080,
   ownProgress: 0,

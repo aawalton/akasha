@@ -5,7 +5,7 @@ export const theOfficeSeason9 = {
   type: "season",
   slug: "the-office-season-9",
   title: "The Office Season 9",
-  partOfCollections: ["the-office"],
+  partOfCollections: ["show/the-office"],
   position: 9,
   ownLength: 591,
   ownProgress: 0,

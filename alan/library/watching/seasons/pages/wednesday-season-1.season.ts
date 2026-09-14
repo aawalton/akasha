@@ -5,7 +5,7 @@ export const wednesdaySeason1 = {
   type: "season",
   slug: "wednesday-season-1",
   title: "Wednesday Season 1",
-  partOfCollections: ["wednesday"],
+  partOfCollections: ["show/wednesday"],
   position: 1,
   ownLength: 412.8,
   ownProgress: 412.8,

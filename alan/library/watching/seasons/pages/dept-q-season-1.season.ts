@@ -5,7 +5,7 @@ export const deptQSeason1 = {
   type: "season",
   slug: "dept-q-season-1",
   title: "Dept. Q Season 1",
-  partOfCollections: ["dept-q"],
+  partOfCollections: ["show/dept-q"],
   position: 1,
   ownLength: 498,
   ownProgress: 498,

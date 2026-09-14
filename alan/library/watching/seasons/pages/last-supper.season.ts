@@ -5,7 +5,7 @@ export const lastSupper = {
   type: "season",
   slug: "last-supper",
   title: "Last Supper",
-  partOfCollections: ["the-chosen"],
+  partOfCollections: ["show/the-chosen"],
   position: 5,
   ownLength: 463.2,
   ownProgress: 0,

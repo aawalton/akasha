@@ -5,7 +5,7 @@ export const starTrekDiscoverySpecials = {
   type: "season",
   slug: "star-trek-discovery-specials",
   title: "Star Trek: Discovery Specials",
-  partOfCollections: ["star-trek-discovery"],
+  partOfCollections: ["show/star-trek-discovery"],
   position: 0,
   ownLength: 871.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theOfficeSpecials = {
   type: "season",
   slug: "the-office-specials",
   title: "The Office Specials",
-  partOfCollections: ["the-office"],
+  partOfCollections: ["show/the-office"],
   position: 0,
   ownLength: 2514,
   ownProgress: 0,

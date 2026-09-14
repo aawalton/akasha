@@ -5,7 +5,7 @@ export const theLoneGunmenSpecials = {
   type: "season",
   slug: "the-lone-gunmen-specials",
   title: "The Lone Gunmen Specials",
-  partOfCollections: ["the-lone-gunmen-2001"],
+  partOfCollections: ["show/the-lone-gunmen-2001"],
   position: 0,
   ownLength: 90,
   ownProgress: 0,

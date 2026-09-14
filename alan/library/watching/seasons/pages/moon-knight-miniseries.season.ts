@@ -5,7 +5,7 @@ export const moonKnightMiniseries = {
   type: "season",
   slug: "moon-knight-miniseries",
   title: "Moon Knight Miniseries",
-  partOfCollections: ["moon-knight"],
+  partOfCollections: ["show/moon-knight"],
   position: 1,
   ownLength: 301.8,
   ownProgress: 301.8,

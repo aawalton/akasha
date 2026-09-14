@@ -5,7 +5,7 @@ export const marvelSDaredevilSeason1 = {
   type: "season",
   slug: "marvel-s-daredevil-season-1",
   title: "Marvel's Daredevil Season 1",
-  partOfCollections: ["daredevil"],
+  partOfCollections: ["show/daredevil"],
   position: 1,
   ownLength: 712.2,
   ownProgress: 0,

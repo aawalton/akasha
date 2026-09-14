@@ -5,7 +5,7 @@ export const doctorWhoSeason24 = {
   type: "season",
   slug: "doctor-who-season-24",
   title: "Doctor Who Season 24",
-  partOfCollections: ["doctor-who-1963-1989"],
+  partOfCollections: ["show/doctor-who-1963-1989"],
   position: 24,
   ownLength: 349.8,
   ownProgress: 0,

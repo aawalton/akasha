@@ -5,7 +5,7 @@ export const fantasyHigh = {
   type: "season",
   slug: "fantasy-high",
   title: "Fantasy High",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 1,
   ownLength: 1705.2,
   ownProgress: 0,

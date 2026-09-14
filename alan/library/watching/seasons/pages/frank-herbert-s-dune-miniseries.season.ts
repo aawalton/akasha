@@ -5,7 +5,7 @@ export const frankHerbertSDuneMiniseries = {
   type: "season",
   slug: "frank-herbert-s-dune-miniseries",
   title: "Frank Herbert's Dune Miniseries",
-  partOfCollections: ["frank-herbert-s-dune"],
+  partOfCollections: ["show/frank-herbert-s-dune"],
   position: 1,
   ownLength: 285,
   ownProgress: 0,

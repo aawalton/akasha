@@ -5,7 +5,7 @@ export const onePieceSeason14 = {
   type: "season",
   slug: "one-piece-season-14",
   title: "One Piece Season 14",
-  partOfCollections: ["one-piece"],
+  partOfCollections: ["fandom/one-piece"],
   position: 14,
   ownLength: 1392,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const book1Moon = {
   type: "season",
   slug: "book-1-moon",
   title: "Book 1: Moon",
-  partOfCollections: ["the-dragon-prince"],
+  partOfCollections: ["show/the-dragon-prince"],
   position: 1,
   ownLength: 235.8,
   ownProgress: 0,

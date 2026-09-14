@@ -5,7 +5,7 @@ export const dungeonsAndDragQueensSeason2 = {
   type: "season",
   slug: "dungeons-and-drag-queens-season-2",
   title: "Dungeons and Drag Queens Season 2",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 24,
   ownLength: 876,
   ownProgress: 0,

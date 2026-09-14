@@ -5,7 +5,7 @@ export const onePieceSeason6 = {
   type: "season",
   slug: "one-piece-season-6",
   title: "One Piece Season 6",
-  partOfCollections: ["one-piece"],
+  partOfCollections: ["fandom/one-piece"],
   position: 6,
   ownLength: 1248,
   ownProgress: 0,

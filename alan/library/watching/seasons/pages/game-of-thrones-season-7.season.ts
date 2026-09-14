@@ -5,7 +5,7 @@ export const gameOfThronesSeason7 = {
   type: "season",
   slug: "game-of-thrones-season-7",
   title: "Game of Thrones Season 7",
-  partOfCollections: ["game-of-thrones"],
+  partOfCollections: ["show/game-of-thrones"],
   position: 7,
   ownLength: 439.8,
   ownProgress: 0,

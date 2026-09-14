@@ -5,7 +5,7 @@ export const eurekaSpecials = {
   type: "season",
   slug: "eureka-specials",
   title: "Eureka Specials",
-  partOfCollections: ["eureka"],
+  partOfCollections: ["show/eureka"],
   position: 0,
   ownLength: 837,
   ownProgress: 0,

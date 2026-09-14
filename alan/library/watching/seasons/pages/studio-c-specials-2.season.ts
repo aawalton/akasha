@@ -5,7 +5,7 @@ export const studioCSpecials2 = {
   type: "season",
   slug: "studio-c-specials-2",
   title: "Studio C Specials",
-  partOfCollections: ["studio-c"],
+  partOfCollections: ["show/studio-c"],
   position: 0,
   ownLength: 200,
   ownProgress: 0,

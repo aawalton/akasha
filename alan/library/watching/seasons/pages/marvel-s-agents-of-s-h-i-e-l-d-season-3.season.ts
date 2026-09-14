@@ -5,7 +5,7 @@ export const marvelSAgentsOfSHIELDSeason3 = {
   type: "season",
   slug: "marvel-s-agents-of-s-h-i-e-l-d-season-3",
   title: "Marvel's Agents of S.H.I.E.L.D. Season 3",
-  partOfCollections: ["agents-of-s-h-i-e-l-d"],
+  partOfCollections: ["show/agents-of-s-h-i-e-l-d"],
   position: 3,
   ownLength: 954,
   ownProgress: 954,

@@ -5,7 +5,7 @@ export const theXFilesSeason1 = {
   type: "season",
   slug: "the-x-files-season-1",
   title: "The X-Files Season 1",
-  partOfCollections: ["the-x-files-1993-2002"],
+  partOfCollections: ["show/the-x-files-1993-2002"],
   position: 1,
   ownLength: 1098,
   ownProgress: 1098,

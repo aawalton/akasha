@@ -5,7 +5,7 @@ export const coffinRun = {
   type: "season",
   slug: "coffin-run",
   title: "Coffin Run",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 14,
   ownLength: 618,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theLordOfTheRingsTheRingsOfPowerSeason1 = {
   type: "season",
   slug: "the-lord-of-the-rings-the-rings-of-power-season-1",
   title: "The Lord of the Rings: The Rings of Power Season 1",
-  partOfCollections: ["the-lord-of-the-rings-the-rings-of-power"],
+  partOfCollections: ["show/the-lord-of-the-rings-the-rings-of-power"],
   position: 1,
   ownLength: 565.2,
   ownProgress: 0,

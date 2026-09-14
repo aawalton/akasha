@@ -5,7 +5,7 @@ export const mentopolis = {
   type: "season",
   slug: "mentopolis",
   title: "Mentopolis",
-  partOfCollections: ["dimension-20"],
+  partOfCollections: ["show/dimension-20"],
   position: 19,
   ownLength: 751.2,
   ownProgress: 0,

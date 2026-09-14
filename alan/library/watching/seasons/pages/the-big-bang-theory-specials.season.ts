@@ -5,7 +5,7 @@ export const theBigBangTheorySpecials = {
   type: "season",
   slug: "the-big-bang-theory-specials",
   title: "The Big Bang Theory Specials",
-  partOfCollections: ["the-big-bang-theory"],
+  partOfCollections: ["show/the-big-bang-theory"],
   position: 0,
   ownLength: 66,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const lokiSeason1 = {
   type: "season",
   slug: "loki-season-1",
   title: "Loki Season 1",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 30,
   ownLength: 301.8,
   ownProgress: 301.8,

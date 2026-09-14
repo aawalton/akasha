@@ -5,7 +5,7 @@ export const ahsokaSeason1 = {
   type: "season",
   slug: "ahsoka-season-1",
   title: "Ahsoka Season 1",
-  partOfCollections: ["ahsoka"],
+  partOfCollections: ["show/ahsoka"],
   position: 1,
   ownLength: 375,
   ownProgress: 0,

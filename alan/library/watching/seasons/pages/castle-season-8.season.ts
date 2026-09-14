@@ -5,7 +5,7 @@ export const castleSeason8 = {
   type: "season",
   slug: "castle-season-8",
   title: "Castle Season 8",
-  partOfCollections: ["castle"],
+  partOfCollections: ["show/castle"],
   position: 8,
   ownLength: 966,
   ownProgress: 966,

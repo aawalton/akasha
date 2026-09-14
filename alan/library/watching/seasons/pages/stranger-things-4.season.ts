@@ -5,7 +5,7 @@ export const strangerThings4 = {
   type: "season",
   slug: "stranger-things-4",
   title: "Stranger Things 4",
-  partOfCollections: ["stranger-things"],
+  partOfCollections: ["show/stranger-things"],
   position: 4,
   ownLength: 778.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const marvelSIronFistSeason2 = {
   type: "season",
   slug: "marvel-s-iron-fist-season-2",
   title: "Marvel's Iron Fist Season 2",
-  partOfCollections: ["iron-fist"],
+  partOfCollections: ["show/iron-fist"],
   position: 2,
   ownLength: 526.2,
   ownProgress: 0,

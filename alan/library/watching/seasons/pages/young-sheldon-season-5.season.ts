@@ -5,7 +5,7 @@ export const youngSheldonSeason5 = {
   type: "season",
   slug: "young-sheldon-season-5",
   title: "Young Sheldon Season 5",
-  partOfCollections: ["young-sheldon"],
+  partOfCollections: ["show/young-sheldon"],
   position: 5,
   ownLength: 427.8,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const marvelZombiesMiniseries = {
   type: "season",
   slug: "marvel-zombies-miniseries",
   title: "Marvel Zombies Miniseries",
-  partOfCollections: ["marvel-zombies"],
+  partOfCollections: ["show/marvel-zombies"],
   position: 1,
   ownLength: 136.8,
   ownProgress: 0,

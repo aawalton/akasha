@@ -5,7 +5,7 @@ export const doctorWhoSeason52 = {
   type: "season",
   slug: "doctor-who-season-5-2",
   title: "Doctor Who Season 5",
-  partOfCollections: ["doctor-who-1963-1989"],
+  partOfCollections: ["show/doctor-who-1963-1989"],
   position: 5,
   ownLength: 1000.2,
   ownProgress: 0,

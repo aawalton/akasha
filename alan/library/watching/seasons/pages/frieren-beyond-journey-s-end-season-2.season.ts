@@ -5,7 +5,7 @@ export const frierenBeyondJourneySEndSeason2 = {
   type: "season",
   slug: "frieren-beyond-journey-s-end-season-2",
   title: "Frieren: Beyond Journey's End Season 2",
-  partOfCollections: ["frieren-beyond-journey-s-end-2"],
+  partOfCollections: ["show/frieren-beyond-journey-s-end-2"],
   position: 2,
   ownLength: 25,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const friendsSeason10 = {
   type: "season",
   slug: "friends-season-10",
   title: "Friends Season 10",
-  partOfCollections: ["friends"],
+  partOfCollections: ["show/friends"],
   position: 10,
   ownLength: 453,
   ownProgress: 0,

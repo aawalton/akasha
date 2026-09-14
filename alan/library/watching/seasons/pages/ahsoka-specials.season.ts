@@ -5,7 +5,7 @@ export const ahsokaSpecials = {
   type: "season",
   slug: "ahsoka-specials",
   title: "Ahsoka Specials",
-  partOfCollections: ["ahsoka"],
+  partOfCollections: ["show/ahsoka"],
   position: 0,
   ownLength: 46.8,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const bookOneAir = {
   type: "season",
   slug: "book-one-air",
   title: "Book One: Air",
-  partOfCollections: ["the-legend-of-korra"],
+  partOfCollections: ["show/the-legend-of-korra"],
   position: 1,
   ownLength: 276,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const starTrekLowerDecksSeason1 = {
   type: "season",
   slug: "star-trek-lower-decks-season-1",
   title: "Star Trek: Lower Decks Season 1",
-  partOfCollections: ["star-trek-lower-decks"],
+  partOfCollections: ["show/star-trek-lower-decks"],
   position: 1,
   ownLength: 267,
   ownProgress: 0,

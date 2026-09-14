@@ -5,7 +5,7 @@ export const uploadSeason2 = {
   type: "season",
   slug: "upload-season-2",
   title: "Upload Season 2",
-  partOfCollections: ["upload"],
+  partOfCollections: ["show/upload"],
   position: 2,
   ownLength: 229.8,
   ownProgress: 0,

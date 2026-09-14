@@ -5,7 +5,7 @@ export const downtonAbbeySpecials = {
   type: "season",
   slug: "downton-abbey-specials",
   title: "Downton Abbey Specials",
-  partOfCollections: ["downton-abbey"],
+  partOfCollections: ["show/downton-abbey"],
   position: 0,
   ownLength: 838.8,
   ownProgress: 0,

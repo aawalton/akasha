@@ -5,7 +5,7 @@ export const doctorWhoFlux = {
   type: "season",
   slug: "doctor-who-flux",
   title: "Doctor Who Flux",
-  partOfCollections: ["doctor-who-2005"],
+  partOfCollections: ["show/doctor-who-2005"],
   position: 13,
   ownLength: 658,
   ownProgress: 0,

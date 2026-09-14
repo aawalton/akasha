@@ -5,7 +5,7 @@ export const torchwoodSeason1 = {
   type: "season",
   slug: "torchwood-season-1",
   title: "Torchwood Season 1",
-  partOfCollections: ["torchwood"],
+  partOfCollections: ["show/torchwood"],
   position: 1,
   ownLength: 640.2,
   ownProgress: 0,
