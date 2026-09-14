@@ -118,6 +118,12 @@ test("a service kept running by systemd is run by the loader", () => {
   }
 })
 
+test("a service whose entry only execs a binary or a container is run by the loader", () => {
+  for (const one of ["node-exporter", "dcgm-exporter", "ttc-client", "repos-empty-dir-purge"]) {
+    expect(loadedHere(one)).toBe(true)
+  }
+})
+
 test("a manifest names its paths one to a line, in order, ending on a newline", () => {
   expect(manifestText(["b/one.ts", "a/two.ts"])).toBe("a/two.ts\nb/one.ts\n")
 })

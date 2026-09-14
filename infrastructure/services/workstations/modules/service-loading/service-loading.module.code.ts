@@ -7,11 +7,23 @@ const HOME = "%h"
 const RUN = "bun"
 
 const LOADED: ReadonlySet<string> = new Set([
+  "active-calories-service",
   "apns-push-notifier",
   "code-editor-data-watcher",
+  "dcgm-exporter",
+  "maintain-seat-pending",
   "memory-reaper",
+  "monarch-poll",
+  "node-exporter",
+  "recipient-resolver",
+  "repos-empty-dir-purge",
   "surplus-fall-notifier",
+  "sweep-cost-records",
   "sweep-log-days",
+  "sweep-stray-processes",
+  "sweep-subagent-pages",
+  "sweep-supervisor-logs",
+  "ttc-client",
 ])
 
 export const STAGING = ".local/state/workstation-services"
