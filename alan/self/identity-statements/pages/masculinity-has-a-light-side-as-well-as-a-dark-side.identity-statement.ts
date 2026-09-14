@@ -8,7 +8,7 @@ export const masculinityHasALightSideAsWellAsADarkSide = {
   about: "reality",
   identityStatementLevel: 1,
   notionId: "2d95cf0bf24a808a8f26d22441bb3ffe",
-  parentStatement: "my-psychological-gender-is-80-masculine",
+  parentStatement: "identity-statement/my-psychological-gender-is-80-masculine",
   identityStatementRank: "s-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["gender"],

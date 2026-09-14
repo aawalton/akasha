@@ -8,7 +8,7 @@ export const iHaveToInventManyOfMyOwnSolutions = {
   about: "myself",
   identityStatementLevel: 1,
   notionId: "135abad415ac424fab700e084ba1c784",
-  parentStatement: "i-am-profoundly-neurodivergent",
+  parentStatement: "identity-statement/i-am-profoundly-neurodivergent",
   identityStatementRank: "b-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
