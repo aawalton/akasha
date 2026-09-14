@@ -7,6 +7,6 @@ export const failureModeAndGuard = {
   title: "Compression epistemology — failure mode and guard",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/compression-epistemology"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

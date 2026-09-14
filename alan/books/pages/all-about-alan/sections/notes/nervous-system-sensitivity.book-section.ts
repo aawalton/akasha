@@ -9,6 +9,6 @@ export const nervousSystemSensitivity = {
   description:
     "Nervous-system sensitivity — autism mechanism root. Includes the input-doubling mechanism for skin-on-skin contact.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

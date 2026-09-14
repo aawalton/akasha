@@ -9,6 +9,6 @@ export const closureRituals = {
   description:
     "Closure rituals — explicit, repeatable closure actions after an exposure event that give the cognitive system falsifiable evidence the source is contained, accelerating aftershock-tail decay.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

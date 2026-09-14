@@ -9,6 +9,6 @@ export const stamina = {
   description:
     "Stamina — physical energy. Levels of energy resources in the body. Currently at stoplight resolution; reads through signed valence on movement.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

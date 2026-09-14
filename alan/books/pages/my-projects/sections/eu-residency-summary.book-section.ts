@@ -7,6 +7,6 @@ export const euResidencySummary = {
   title: "Summary",
   sectionOf: "book-section/second-passport/eu-residency",
   partOfCollections: ["book-section/second-passport/eu-residency", "my-projects"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

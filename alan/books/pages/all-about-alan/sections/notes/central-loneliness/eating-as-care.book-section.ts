@@ -7,6 +7,6 @@ export const eatingAsCare = {
   title: "Eating as care",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/central-loneliness"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

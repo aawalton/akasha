@@ -7,6 +7,6 @@ export const whatCanBeSaid = {
   title: "What can be said about an illegible number",
   sectionOf: "my-math",
   partOfCollections: ["my-math", "book-section/my-math/legible-numbers"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

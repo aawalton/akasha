@@ -7,6 +7,6 @@ export const passiveIncome = {
   title: "Passive Income",
   sectionOf: "book-section/my-projects/second-passport",
   partOfCollections: ["book-section/my-projects/second-passport", "my-projects"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

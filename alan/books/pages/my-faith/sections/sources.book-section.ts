@@ -7,6 +7,6 @@ export const sources = {
   title: "Sources",
   sectionOf: "my-faith",
   partOfCollections: ["my-faith"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

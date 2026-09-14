@@ -9,6 +9,6 @@ export const pv = {
   description:
     "PV DC kWp sizing — Provo specific yield, real-roof derate stack, ILR, mid-life degradation; demand × yield sensitivity table; roof-area feasibility.",
   partOfCollections: ["book-section/solar-power/sizing", "my-projects"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

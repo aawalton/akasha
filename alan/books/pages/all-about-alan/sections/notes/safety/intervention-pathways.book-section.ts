@@ -7,6 +7,6 @@ export const interventionPathways = {
   title: "Safety — intervention pathways and how it climbs",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/safety"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

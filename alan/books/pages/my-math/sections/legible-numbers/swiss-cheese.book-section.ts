@@ -7,6 +7,6 @@ export const swissCheese = {
   title: "The legible integers are Swiss cheese",
   sectionOf: "my-math",
   partOfCollections: ["my-math", "book-section/my-math/legible-numbers"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

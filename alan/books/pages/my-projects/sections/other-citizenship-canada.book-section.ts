@@ -8,6 +8,6 @@ export const otherCitizenshipCanada = {
   sectionOf: "book-section/second-passport/other-citizenship",
   description: "Canada citizenship paths (May 2026 snapshot).",
   partOfCollections: ["book-section/second-passport/other-citizenship", "my-projects"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

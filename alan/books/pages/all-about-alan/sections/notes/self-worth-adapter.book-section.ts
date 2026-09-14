@@ -7,6 +7,6 @@ export const selfWorthAdapter = {
   title: "The self-worth adapter",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

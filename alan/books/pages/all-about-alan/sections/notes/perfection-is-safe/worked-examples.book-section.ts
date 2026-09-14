@@ -7,6 +7,6 @@ export const workedExamples = {
   title: "The worked-examples wall",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/perfection-is-safe"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

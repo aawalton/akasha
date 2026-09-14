@@ -8,6 +8,6 @@ export const beginnings = {
   sectionOf: "my-strategy",
   position: 0,
   partOfCollections: ["my-strategy"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

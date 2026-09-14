@@ -9,6 +9,6 @@ export const otherResidencyAustralia = {
   description:
     "Australia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/australia.md.",
   partOfCollections: ["book-section/second-passport/other-residency", "my-projects"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

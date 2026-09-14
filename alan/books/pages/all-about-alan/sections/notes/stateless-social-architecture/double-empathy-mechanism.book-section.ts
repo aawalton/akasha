@@ -10,6 +10,6 @@ export const doubleEmpathyMechanism = {
     "all-about-alan",
     "book-section/all-about-alan/stateless-social-architecture",
   ],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

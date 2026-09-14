@@ -7,6 +7,6 @@ export const scopeAndWitness = {
   title: "Creativity scars — scope and the witness confound",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/creativity-scars"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

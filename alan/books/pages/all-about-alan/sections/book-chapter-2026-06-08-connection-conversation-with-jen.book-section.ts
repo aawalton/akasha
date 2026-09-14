@@ -7,6 +7,6 @@ export const bookChapter20260608ConnectionConversationWithJen = {
   title: "Connection conversation with Jen",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/journal"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

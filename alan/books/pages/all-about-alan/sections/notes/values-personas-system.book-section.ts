@@ -7,6 +7,6 @@ export const valuesPersonasSystem = {
   title: "The values-personas system",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

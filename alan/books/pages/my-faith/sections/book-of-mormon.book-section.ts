@@ -7,6 +7,6 @@ export const bookOfMormon = {
   title: "The Book of Mormon",
   sectionOf: "book-section/my-faith/sources",
   partOfCollections: ["book-section/my-faith/sources", "my-faith"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

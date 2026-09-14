@@ -7,6 +7,6 @@ export const journal = {
   title: "Journal",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

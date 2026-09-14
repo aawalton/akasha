@@ -7,6 +7,6 @@ export const dilemmasAndOpenQuestions = {
   title: "Dilemmas, settled dials, and open questions",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

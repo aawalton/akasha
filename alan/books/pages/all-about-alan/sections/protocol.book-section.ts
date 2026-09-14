@@ -7,6 +7,6 @@ export const protocol = {
   title: "Exp 4 — voice-reward DOSE test (long-message)",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/experiments/exp4-voice-reward-dose"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -8,6 +8,6 @@ export const bookChapter002Resources = {
   sectionOf: "my-strategy",
   position: 2,
   partOfCollections: ["my-strategy"],
-  unit: "words",
+  unit: "unit/words",
   chapterText: "md",
 } as const satisfies BookSection
