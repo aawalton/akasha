@@ -139,7 +139,7 @@ export function systemctl(args: readonly string[]): Ran {
   return { code: held.code, out: `${held.out}${held.err}`.trim() }
 }
 
-export function writeUnit(home: string, name: string, text: string): undefined {
+export function writeStaged(home: string, name: string, text: string): undefined {
   const at = stagingDir(home)
   mkdirSync(at, { recursive: true })
   writeFileSync(join(at, name), text)
@@ -183,7 +183,7 @@ export function installing(
   }
 
   for (const [name, text] of plan.write) {
-    writeUnit(home, name, text)
+    writeStaged(home, name, text)
     did.push(`wrote ${name}`)
     if (linkUnit(home, name)) did.push(`linked ${name}`)
   }

@@ -12,7 +12,7 @@ import {
   stagingDir,
   systemctl,
   textFor,
-  writeUnit,
+  writeStaged,
 } from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
 import {
   everyService,
@@ -94,7 +94,7 @@ export function landedOver(weighed: Weighing, home: string, run: Running): Linki
   let written = 0
   for (const one of weighed.drifts) {
     try {
-      writeUnit(home, one.unit, one.text)
+      writeStaged(home, one.unit, one.text)
       written += 1
       said.push(`wrote ${one.unit} as ${one.page} states it`)
     } catch (thrown) {

@@ -13,7 +13,7 @@ import {
   systemdDir,
   textFor,
   unlinkUnit,
-  writeUnit,
+  writeStaged,
 } from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
 import type { Started } from "akasha/infrastructure/services/workstations/modules/unit-writing/unit-writing.module.code.ts"
 
@@ -73,7 +73,7 @@ test("a unit a service does account for is not removed", () => {
 })
 
 test("a unit is written to the staging folder and reached by a link systemd reads", () => {
-  writeUnit(HOME, "y.service", "body")
+  writeStaged(HOME, "y.service", "body")
   linkUnit(HOME, "y.service")
   const at = join(systemdDir(HOME), "y.service")
   expect(lstatSync(at).isSymbolicLink()).toBe(true)
@@ -81,14 +81,14 @@ test("a unit is written to the staging folder and reached by a link systemd read
 })
 
 test("linking a unit already linked leaves it alone", () => {
-  writeUnit(HOME, "z.service", "body")
+  writeStaged(HOME, "z.service", "body")
   linkUnit(HOME, "z.service")
   linkUnit(HOME, "z.service")
   expect(existsSync(join(systemdDir(HOME), "z.service"))).toBe(true)
 })
 
 test("a link sitting where a unit belongs is replaced rather than refused", () => {
-  writeUnit(HOME, "w.service", "body")
+  writeStaged(HOME, "w.service", "body")
   writeFileSync(join(systemdDir(HOME), "w.service"), "someone else wrote this")
   linkUnit(HOME, "w.service")
   expect(lstatSync(join(systemdDir(HOME), "w.service")).isSymbolicLink()).toBe(true)
@@ -103,7 +103,7 @@ test("the units we own are the links pointing into our staging folder", () => {
 })
 
 test("unlinking a unit takes away both the link and the file it named", () => {
-  writeUnit(HOME, "bye.service", "body")
+  writeStaged(HOME, "bye.service", "body")
   linkUnit(HOME, "bye.service")
   unlinkUnit(HOME, "bye.service")
   expect(existsSync(join(systemdDir(HOME), "bye.service"))).toBe(false)
@@ -127,7 +127,7 @@ const NOTHING = { write: new Map<string, string>(), enable: [], stop: [], remove
 
 test("a unit is stopped before that unit is disabled", () => {
   const { said, run } = recorded()
-  writeUnit(HOME, "off.service", "body")
+  writeStaged(HOME, "off.service", "body")
   installing(HOME, { ...NOTHING, stop: ["off.service"] }, run)
   expect(said).toContain("stop off.service")
   expect(said).toContain("disable off.service")
@@ -137,14 +137,14 @@ test("a unit is stopped before that unit is disabled", () => {
 
 test("a service that is not to be running keeps the link akasha reaches it by", () => {
   const { run } = recorded()
-  writeUnit(HOME, "kept.service", "body")
+  writeStaged(HOME, "kept.service", "body")
   installing(HOME, { ...NOTHING, stop: ["kept.service"] }, run)
   expect(lstatSync(join(systemdDir(HOME), "kept.service")).isSymbolicLink()).toBe(true)
 })
 
 test("systemd is reloaded again once a link taken away is made again", () => {
   const { said, run } = recorded()
-  writeUnit(HOME, "again.service", "body")
+  writeStaged(HOME, "again.service", "body")
   installing(HOME, { ...NOTHING, stop: ["again.service"] }, run)
   expect(said.filter((one) => one === "daemon-reload").length).toBe(2)
 })
@@ -157,7 +157,7 @@ test("nothing stopped means nothing reloaded twice", () => {
 
 test("a unit no service accounts for is stopped, disabled and then taken away", () => {
   const { said, run } = recorded()
-  writeUnit(HOME, "gone.service", "body")
+  writeStaged(HOME, "gone.service", "body")
   linkUnit(HOME, "gone.service")
   installing(HOME, { ...NOTHING, remove: ["gone.service"] }, run)
   expect(said.indexOf("stop gone.service")).toBeLessThan(said.indexOf("disable gone.service"))
@@ -166,7 +166,7 @@ test("a unit no service accounts for is stopped, disabled and then taken away", 
 })
 
 test("what is staged that is no unit is weighed as no unit", () => {
-  writeUnit(HOME, "counted.service", "body")
+  writeStaged(HOME, "counted.service", "body")
   writeFileSync(join(stagingDir(HOME), "verdicts.json"), "{}")
   const staged = ourStaged(HOME)
   expect(staged).toContain("counted.service")
@@ -185,7 +185,7 @@ test("a staged file no link reaches and no service accounts for is stranded", ()
 
 test("a stranded file is taken away with systemd told to stop and disable nothing", () => {
   const { said, run } = recorded()
-  writeUnit(HOME, "adrift.service", "body")
+  writeStaged(HOME, "adrift.service", "body")
   installing(HOME, { ...NOTHING, strand: ["adrift.service"] }, run)
   expect(existsSync(join(stagingDir(HOME), "adrift.service"))).toBe(false)
   expect(said).not.toContain("stop adrift.service")
@@ -194,13 +194,13 @@ test("a stranded file is taken away with systemd told to stop and disable nothin
 
 test("a plan naming nothing stranded takes no staged file away", () => {
   const { run } = recorded()
-  writeUnit(HOME, "stays.service", "body")
+  writeStaged(HOME, "stays.service", "body")
   installing(HOME, NOTHING, run)
   expect(existsSync(join(stagingDir(HOME), "stays.service"))).toBe(true)
 })
 
 test("unlinking names the link and the staged file apart, each after that one has gone", () => {
-  writeUnit(HOME, "apart.service", "body")
+  writeStaged(HOME, "apart.service", "body")
   linkUnit(HOME, "apart.service")
   const did: string[] = []
   unlinkUnit(HOME, "apart.service", did)
@@ -208,7 +208,7 @@ test("unlinking names the link and the staged file apart, each after that one ha
 })
 
 test("a link already pointing where it belongs is answered as a link nothing wrote", () => {
-  writeUnit(HOME, "twice.service", "body")
+  writeStaged(HOME, "twice.service", "body")
   expect(linkUnit(HOME, "twice.service")).toBe(true)
   expect(linkUnit(HOME, "twice.service")).toBe(false)
 })
@@ -222,7 +222,7 @@ test("a unit written is named before the link to it is named rather than after",
 
 test("a unit is named removed after its staged file has gone rather than after a disable", () => {
   const { run } = recorded()
-  writeUnit(HOME, "away.service", "body")
+  writeStaged(HOME, "away.service", "body")
   linkUnit(HOME, "away.service")
   const did: string[] = []
   installing(HOME, { ...NOTHING, remove: ["away.service"] }, run, did)
