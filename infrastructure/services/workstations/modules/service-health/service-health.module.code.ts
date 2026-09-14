@@ -19,6 +19,7 @@ const STATE_CHANGE = "StateChangeTimestamp"
 const UNIX_STAMP = "--timestamp=unix"
 const A_SECOND = 1000
 const WELL = new Set(["active", "activating", "reloading"])
+export const SETTLE_MS = 120_000
 const UNBOUND = "unbound"
 
 export type UnitState = {
@@ -111,6 +112,13 @@ function unbeatenIn(one: Watched, now: Date): string | null {
   return null
 }
 
+export function settling(changedAt: string | null, now: Date): boolean {
+  if (changedAt === null) return false
+  const at = Date.parse(changedAt)
+  if (!Number.isFinite(at)) return false
+  return now.getTime() - at < SETTLE_MS
+}
+
 export function brokenIn(
   one: Watched,
   state: UnitState | undefined,
@@ -128,6 +136,7 @@ export function brokenIn(
   if (unbeaten !== null) return unbeaten
   if (one.scheduled) return null
   if (WELL.has(state.activeState)) return null
+  if (settling(state.changedAt, now)) return null
   const since = state.changedAt === null ? "" : `, and has been since ${state.changedAt}`
   return `${one.unit} is \`${state.activeState}\` rather than running${since}`
 }

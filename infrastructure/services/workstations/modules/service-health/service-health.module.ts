@@ -59,7 +59,25 @@ export const serviceHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "A service that is to be running and is not is broken.",
+      statement: "A service that is to be running and has not been for the settle is broken.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service that stopped running inside the settle is well, a restart taking seconds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The settle is two minutes, which is longer than any restart a service page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit systemd says nothing of the moment for waits out no settle.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit that failed is broken at once rather than waiting out the settle.",
     },
     {
       invariantKind: "departure",

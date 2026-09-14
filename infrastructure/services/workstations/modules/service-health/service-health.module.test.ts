@@ -4,6 +4,8 @@ import {
   brokenIn,
   healthFor,
   healthIn,
+  SETTLE_MS,
+  settling,
   stampIn,
   statesIn,
   type Watched,
@@ -119,6 +121,35 @@ test("a service that is to be running and is not is broken", () => {
   expect(
     brokenIn(RUNNING, { activeState: "inactive", result: "success", changedAt: null })
   ).toContain("rather than running")
+})
+
+test("a service that stopped running inside the settle is well rather than broken", () => {
+  const just = new Date(NOW.getTime() - 2_000).toISOString()
+  expect(
+    brokenIn(RUNNING, { activeState: "deactivating", result: "success", changedAt: just }, NOW)
+  ).toBe(null)
+  expect(
+    brokenIn(RUNNING, { activeState: "inactive", result: "success", changedAt: just }, NOW)
+  ).toBe(null)
+})
+
+test("a service that stopped running longer ago than the settle is broken", () => {
+  const held = new Date(NOW.getTime() - SETTLE_MS).toISOString()
+  expect(
+    brokenIn(RUNNING, { activeState: "inactive", result: "success", changedAt: held }, NOW)
+  ).toContain("rather than running")
+})
+
+test("a unit that failed is broken at once rather than waiting out the settle", () => {
+  const just = new Date(NOW.getTime() - 2_000).toISOString()
+  expect(
+    brokenIn(RUNNING, { activeState: "failed", result: "exit-code", changedAt: just }, NOW)
+  ).toContain("failed")
+})
+
+test("a unit systemd said no moment for waits out no settle", () => {
+  expect(settling(null, NOW)).toBe(false)
+  expect(settling("lately", NOW)).toBe(false)
 })
 
 test("a service that is not running says since when systemd says it stopped", () => {
