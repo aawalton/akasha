@@ -5,7 +5,7 @@ export const experiment20260725BlackSatinCloakOverPeasantShirt = {
   type: "appearance-experiment",
   slug: "experiment-2026-07-25-black-satin-cloak-over-peasant-shirt",
   title: "Experiment \u2014 2026-07-25 \u2014 black satin cloak over peasant shirt",
-  persona: "shaestrel",
+  persona: "persona/shaestrel",
   date: "2026-07-25",
   verdict: "tweak",
   whatTried: "txt",
