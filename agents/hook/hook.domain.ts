@@ -11,13 +11,13 @@ export const hook = {
     "module/git-calls",
     "module/hook-answer",
     "module/hook-dispatch",
-    "test-fixture/hook-judging",
     "module/hook-links",
-    "test-fixture/hook-payload",
     "module/path-showing",
     "module/settling",
     "module/shell-calls",
     "page-type/agent-hook",
+    "test-fixture/hook-judging",
+    "test-fixture/hook-payload",
   ],
   invariants: [
     {
