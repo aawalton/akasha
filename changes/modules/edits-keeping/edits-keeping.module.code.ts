@@ -14,7 +14,6 @@ import type {
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { decodeUtf8 } from "akasha/code/bodies/modules/utf8-body/utf8-body.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
-import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import {
   uncommittedPartAt,
@@ -155,9 +154,7 @@ export function editsIn(root: string, page: string): Kept {
   return editsAt(page) === null ? { why: NO_PAGE } : heldIn(root, page)
 }
 
-type Filling = { readonly at: string; readonly opened: boolean }
-
-function fillingAt(root: string, page: string, adding: number): Filling | null {
+function fillingAt(root: string, page: string, adding: number): string | null {
   let part = FIRST_PART
   let found = partAt(page, part)
   if (found === null) return null
@@ -168,19 +165,16 @@ function fillingAt(root: string, page: string, adding: number): Filling | null {
     found = next
   }
   const size = sizeOnDisk(join(root, found))
-  if (size === 0) return { at: found, opened: true }
-  if (size + adding <= ENTRY_CEILING) return { at: found, opened: false }
-  const next = partAt(page, part + 1)
-  return next === null ? { at: found, opened: false } : { at: next, opened: true }
+  if (size === 0 || size + adding <= ENTRY_CEILING) return found
+  return partAt(page, part + 1) ?? found
 }
 
 function appended(root: string, page: string, text: string): undefined {
-  const filling = fillingAt(root, page, Buffer.byteLength(text, "utf8"))
-  if (filling === null) return
-  const full = join(root, filling.at)
+  const at = fillingAt(root, page, Buffer.byteLength(text, "utf8"))
+  if (at === null) return
+  const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   appendFileSync(full, text)
-  if (filling.opened) partFiled(root, page, filling.at)
 }
 
 function poured(root: string, page: string, lines: readonly string[]): undefined {
@@ -208,10 +202,7 @@ function appending(root: string, page: string, rows: readonly FileChange[]): und
 }
 
 function swept(root: string, page: string): undefined {
-  for (const at of partsAt(root, page)) {
-    rmSync(join(root, at), { force: true })
-    partUnfiled(root, at)
-  }
+  for (const at of partsAt(root, page)) rmSync(join(root, at), { force: true })
 }
 
 export function linesIn(root: string, page: string): readonly string[] {

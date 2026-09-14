@@ -14,10 +14,6 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The path index and this module name the edits by one rule.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The edits outlive the page the file sits beside.",
     },
     {
@@ -71,14 +67,6 @@ export const editsKeeping = {
     {
       invariantKind: "departure",
       statement: "A row rolls into the next numbered file where the ceiling is reached.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file a row opens is filed in the path index once that row reaches the file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file taken away here is withdrawn from the path index.",
     },
     {
       invariantKind: "departure",
