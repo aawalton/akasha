@@ -23,6 +23,12 @@ const ACCOUNT_SHAPE = /^[a-z][a-z0-9-]*$/
 
 const EMAIL_SHAPE = /^\S+@\S+$/
 
+const AT = "alanwalton.com"
+
+export function addressFor(account: string): string {
+  return `${account}@${AT}`
+}
+
 export type Asked = {
   readonly account: string
   readonly email: string
@@ -92,10 +98,8 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
   const read = takenFor(argv, given.calledAs, page, [accountArgument, emailArgument, alias])
   if ("refused" in read) return mistaking(read.refused)
   const taken = read.taken
-  const wrong = wrongIn(taken.account, taken.email, taken.alias)
+  const email = taken.email ?? addressFor(taken.account)
+  const wrong = wrongIn(taken.account, email, taken.alias)
   if (wrong.length > 0) return mistaking(wrong)
-  return await filedBy(
-    { account: taken.account, email: taken.email, alias: taken.alias ?? null },
-    given
-  )
+  return await filedBy({ account: taken.account, email, alias: taken.alias ?? null }, given)
 }

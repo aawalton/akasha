@@ -82,11 +82,15 @@ export const claudeAccountAdd = {
       statement:
         "The folder a page is filed into is read off the account pages rather than spelled here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An address the call does not say is the account's own name at `alanwalton.com`.",
+    },
   ],
   name: "add",
   arguments: [
     { argument: "argument/account", required: true, saidAs: "word" },
-    { argument: "argument/email", required: true },
+    { argument: "argument/email" },
     { argument: "argument/alias" },
   ],
 } as const satisfies Command

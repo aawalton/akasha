@@ -9,11 +9,13 @@ import { throwingAfter } from "akasha/commands/modules/answering/command-answeri
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Asked,
+  addressFor,
   claudeAccountAdd,
   filedBy,
   slotFrom,
   wrongIn,
 } from "akasha/commands/pages/claude-account/add/claude-account-add.command.code.ts"
+import { claudeAccountAdd as page } from "akasha/commands/pages/claude-account/add/claude-account-add.command.ts"
 
 const ASKED: Asked = { account: "tempereso", email: "a@b.c", alias: null }
 
@@ -33,6 +35,16 @@ test("an account named twice over is refused", async () => {
   const said = await claudeAccountAdd(["one", "two", "--email", "a@b.c"], HERE)
 
   expect(said.refusals.join(" ")).toContain("takes 1 word and this call says 2 words")
+})
+
+test("an address the call does not say is the account's own name at alanwalton.com", () => {
+  expect(addressFor("abby")).toBe("abby@alanwalton.com")
+})
+
+test("the call may leave the address out", () => {
+  const asked = page.arguments.find((one) => one.argument === "argument/email")
+  expect(asked).toBeDefined()
+  expect((asked as { required?: boolean }).required ?? false).toBe(false)
 })
 
 test("an alias slot below one is refused", () => {
