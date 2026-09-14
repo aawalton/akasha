@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the listing index's structure correct.",
       workingMemory:
-        "`everyPath` has thirty-three callers and none needs every path. Eight want `package.json`, which `manifestsBeside` answers. Four want the pages of a type, which `everyOfType` answers. Ten read every `.ts` for a spelling. Two want folders, two ask membership. Three are left, two of them the check that polices index use. The file is 15 MB, gitignored, machine-local, and holds about two hundred dead `.uncommitted.` entries.\n",
+        "`everyPath` is down from thirty-three callers to eight. `tree-searching` reads no index since `192316782978`: the search honours `.gitignore`, and the change's edits lay over it. Four of the eight want one file kind, two are the check policing how a check reaches a path, one is a membership set measured faster as a set, one is the rule index's own completeness. A check listing a folder must now do it through the overlay, and `Shadow` has no listing member yet.\n",
     },
     {
       statement: "A file property declares one extension.",
