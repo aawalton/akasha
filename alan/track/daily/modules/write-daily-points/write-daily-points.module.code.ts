@@ -71,10 +71,6 @@ export function writeActiveCalories(dayStr: string, activeCalories: number): Pro
   return writeDailyReading(dayStr, "activeCalories", activeCalories)
 }
 
-export function writeSleepPoints(dayStr: string, sleepPoints: number): Promise<WriteOutcome> {
-  return writeDailyReading(dayStr, "sleepPoints", sleepPoints)
-}
-
 export function writeNutritionPoints(
   dayStr: string,
   nutritionPoints: number
@@ -84,13 +80,6 @@ export function writeNutritionPoints(
 
 export function writeTaskPoints(dayStr: string, taskPoints: number): Promise<WriteOutcome> {
   return writeDailyReading(dayStr, "taskPoints", taskPoints)
-}
-
-export function writeBreathingPoints(
-  dayStr: string,
-  breathingPoints: number
-): Promise<WriteOutcome> {
-  return writeDailyReading(dayStr, "breathingPoints", breathingPoints)
 }
 
 export function writeWisdomWords(dayStr: string, wisdomWords: number): Promise<WriteOutcome> {
