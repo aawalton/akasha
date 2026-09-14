@@ -196,7 +196,7 @@ test("a rule spelled inline is not seen, because only a function is read", () =>
 test("a change with no code file is refused nothing though the index cannot be read", () => {
   const change = unindexed()
   const shadow = shadowAsked(change)
-  expect(() => shadow.index.everyPath()).toThrow("could not be answered")
+  expect(() => shadow.index.everyOfType("module")).toThrow("could not be answered")
   expect(refusalsOver(change, shadow)).toEqual([])
 })
 

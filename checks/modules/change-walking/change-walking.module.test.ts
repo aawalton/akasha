@@ -216,7 +216,7 @@ test("the judge of a selection is handed the index the change leaves, so it may 
   const change = mixedWorld()
   const seen: string[] = []
   const run = judgingEach(TEXTS, (given, shadow) => {
-    seen.push(typeof shadow.index.everyPath)
+    seen.push(typeof shadow.index.everyOfType)
     return [given.path]
   })
   expect(run(change, shadowAt(change.root)).length).toBe(1)

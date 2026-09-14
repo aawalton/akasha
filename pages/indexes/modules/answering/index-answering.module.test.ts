@@ -17,7 +17,6 @@ import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property
 import { knownIn } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import {
   everyOfType,
-  everyPath,
   idsNaming,
   importersOf,
   listedAt,
@@ -144,7 +143,6 @@ test("every question answers what the reader beneath it answers with the reading
   expect(index.declarationsOf(MODULE)).toEqual(declarationsOf(MODULE, reading, pageOf))
   expect(index.declaringOf(SLUG_ID)).toEqual(declaringOf(reading, SLUG_ID))
   expect(index.everyOfType(MODULE)).toEqual(everyOfType(reading, MODULE))
-  expect(index.everyPath()).toEqual(everyPath(reading))
   expect(index.fileKeysAt()).toEqual(fileKeysAt(reading))
   expect(index.idsNaming(TYPE_ID, "extends-slug")).toEqual(
     idsNaming(reading, TYPE_ID, "extends-slug")
@@ -190,8 +188,6 @@ test("a question is answered from the reading bound rather than from the index a
   const index = answeringOver(laid, pageOf)
   expect(index.listedAt(MODULE, "laid")).toEqual([{ path: LAID_AT, id: LAID_ID }])
   expect(listedAt(root, MODULE, "laid")).toEqual([])
-  expect(index.everyPath()).toContain(LAID_AT)
-  expect(everyPath(root)).not.toContain(LAID_AT)
 })
 
 const COLD: Reading = {
@@ -206,7 +202,6 @@ test("no question falls back to the index at a root, even one handed in for some
   const index = answeringOver(COLD, pageOf)
   expect(listedAt(root, MODULE, "held")).toHaveLength(1)
   expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
-  expect(() => index.everyPath()).toThrow(NOT_THERE)
   expect(() => index.listedAt(MODULE, "held")).toThrow(NOT_THERE)
   expect(() => index.listedById(HELD_ID)).toThrow(NOT_THERE)
   expect(() => index.fileKeysAt()).toThrow(NOT_THERE)
