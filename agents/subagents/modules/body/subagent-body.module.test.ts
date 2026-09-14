@@ -8,7 +8,7 @@ const STATES = [
   "export const akashaAbc = {",
   'type: "subagent"',
   'slug: "akasha-abc"',
-  'principalSeatName: "akasha"',
+  'principalSeatName: "seat/akasha"',
   'assignmentSlug: "domain/akasha-system"',
   'dispatchedAs: "Explore"',
   'agentId: "seat--own"',

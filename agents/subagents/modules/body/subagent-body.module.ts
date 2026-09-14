@@ -22,6 +22,10 @@ export const subagentBody = {
     },
     {
       invariantKind: "departure",
+      statement: "A body names its principal seat by page type and slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body names its type from the root rather than by a relative path.",
     },
     {

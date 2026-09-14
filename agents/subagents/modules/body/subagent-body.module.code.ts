@@ -1,4 +1,5 @@
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   importedFrom,
   bodyOf as pageBodyOf,
@@ -7,6 +8,8 @@ import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const SUBAGENT = "subagent"
+
+const SEAT = "seat"
 
 const PAGE_TYPE = "page-type"
 
@@ -49,7 +52,7 @@ export function bodyOf(
       id: id ?? undefined,
       type: SUBAGENT,
       slug,
-      principalSeatName: seatName,
+      principalSeatName: namedAs(SEAT, seatName, null),
       assignmentSlug,
       dispatchedAs,
       agentId,
