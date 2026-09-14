@@ -14,6 +14,10 @@ describe("matchPersonaForAgent", () => {
     expect(matchPersonaForAgent("Nova", "Aria Blue", PERSONAS)).toBe("1")
   })
 
+  test("lowercases and spaces both sides with dashes before comparing", () => {
+    expect(matchPersonaForAgent(null, "  Aria   Blue ", PERSONAS)).toBe("1")
+  })
+
   test("falls back to the agent's name where no persona is stated", () => {
     expect(matchPersonaForAgent("Nova", null, PERSONAS)).toBe("2")
   })

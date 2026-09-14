@@ -1,4 +1,6 @@
-import { toPersonaSlug } from "akasha/personas/modules/image-name/image-name.module.code.ts"
+function toPersonaSlug(title: string): string {
+  return title.trim().toLowerCase().replace(/\s+/g, "-")
+}
 
 export interface PersonaMatchCandidate {
   readonly id: string

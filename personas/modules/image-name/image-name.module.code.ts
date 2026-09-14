@@ -7,10 +7,6 @@ export interface ImageName {
   readonly ext: string
 }
 
-export function toPersonaSlug(title: string): string {
-  return title.trim().toLowerCase().replace(/\s+/g, "-")
-}
-
 export function pad2(n: number): string {
   return n < 10 ? `0${n}` : `${n}`
 }

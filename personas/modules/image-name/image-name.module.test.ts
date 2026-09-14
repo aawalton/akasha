@@ -3,16 +3,9 @@ import {
   buildImageName,
   parseImageName,
   parseImageTimestamp,
-  toPersonaSlug,
 } from "akasha/personas/modules/image-name/image-name.module.code.ts"
 
 const moment = new Date(Date.UTC(2026, 0, 15, 10, 30, 0))
-
-describe("toPersonaSlug", () => {
-  test("lowercases and spaces a title with dashes", () => {
-    expect(toPersonaSlug("  Aria   Blue ")).toBe("aria-blue")
-  })
-})
 
 describe("buildImageName", () => {
   test("spells a single-digit level with two digits", () => {
