@@ -4,7 +4,7 @@ import {
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { partedIn, secretAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -159,11 +159,6 @@ export function accountBesideIn(root: string, slug: string): Value | null {
   const page = accountPathIn(root, slug)
   if (page === null) return null
   return uncommittedIn(root, page) ?? {}
-}
-
-export function accountSecretPathIn(root: string, slug: string): string | null {
-  const page = accountPathIn(root, slug)
-  return page === null ? null : secretAt(page)
 }
 
 export function stateFrom(slug: string, stated: Value | null, beside: Value | null): AccountState {

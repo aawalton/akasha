@@ -4,7 +4,6 @@ import { join } from "node:path"
 import {
   accountBesideIn,
   accountPathIn,
-  accountSecretPathIn,
   accountStateIn,
   accountUuidsIn,
   accountValuesIn,
@@ -153,7 +152,6 @@ test("one account is read by its slug", () => {
   const root = worldMade()
   expect(accountPathIn(root, "aine")).toBe(pageAt("aine"))
   expect(accountValuesIn(root, "aine")?.["email"]).toBe("aine@example.test")
-  expect(accountSecretPathIn(root, "aine")).toBe(`${PAGES_AT}/aine/aine.claude-account.sops.yaml`)
   const state = accountStateIn(root, "aine")
   expect(state?.slug).toBe("aine")
   expect(state?.fiveHourPercentUsed).toBe(12)
@@ -177,7 +175,6 @@ test("an account no page is filed for is answered as absent", () => {
   expect(accountValuesIn(root, "nobody")).toBe(null)
   expect(accountBesideIn(root, "nobody")).toBe(null)
   expect(accountStateIn(root, "nobody")).toBe(null)
-  expect(accountSecretPathIn(root, "nobody")).toBe(null)
   const held = credentialIn(root, "nobody", secretsFake)
   expect(held.kind).toBe("absent")
   expect(held.kind === "absent" ? held.why : "").toContain("no page is filed for `nobody`")
