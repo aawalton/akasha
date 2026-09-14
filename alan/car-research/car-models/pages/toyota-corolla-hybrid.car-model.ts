@@ -17,5 +17,5 @@ export const toyotaCorollaHybrid = {
   sources:
     "- https://www.toyota.com/corollahybrid/\n- https://pressroom.toyota.com/2025-toyota-corolla-hybrid/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_Corolla.shtml",
   exclusionReason: "All years excluded",
-  carMake: "toyota",
+  carMake: "car-make/toyota",
 } as const satisfies CarModel

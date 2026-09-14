@@ -16,5 +16,5 @@ export const cadillacVistiq = {
   sources:
     "- [Edmunds 2026 Vistiq](https://www.edmunds.com/cadillac/vistiq/)\n- [MotorWeek Vistiq Road Test](https://motorweek.org/road-tests/2026-cadillac-vistiq/)\n- [Edmunds Vistiq Features Specs](https://www.edmunds.com/cadillac/vistiq/2026/features-specs/)",
   exclusionReason: "All years excluded",
-  carMake: "cadillac",
+  carMake: "car-make/cadillac",
 } as const satisfies CarModel

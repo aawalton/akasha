@@ -16,5 +16,5 @@ export const mercedesBenzEqb = {
   sources:
     "- https://www.mbusa.com/en/vehicles/class/eqb/suv\n- https://carbuzz.com/mercedes-benz-ev-models-you-can-buy-in-2026/",
   exclusionReason: "All years excluded",
-  carMake: "mercedes-benz",
+  carMake: "car-make/mercedes-benz",
 } as const satisfies CarModel

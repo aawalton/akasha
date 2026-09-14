@@ -16,5 +16,5 @@ export const hondaCivicHybrid = {
   sources:
     "- https://automobiles.honda.com/civic-sedan\n- https://automobiles.honda.com/civic-hatchback\n- https://www.edmunds.com/honda/civic/2025/hybrid/\n- https://www.edmunds.com/honda/civic/2026/hybrid/",
   exclusionReason: "All years excluded",
-  carMake: "honda",
+  carMake: "car-make/honda",
 } as const satisfies CarModel

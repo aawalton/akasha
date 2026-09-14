@@ -16,5 +16,5 @@ export const kiaSportageHybrid = {
   sources:
     "https://www.kia.com/us/en/sportage-hybrid\nhttps://www.kia.com/us/en/sportage-hybrid/specs-compare\nhttps://www.kbb.com/kia/sportage-hybrid/2025/\nhttps://www.edmunds.com/kia/sportage-hybrid/2025/",
   exclusionReason: "All years excluded",
-  carMake: "kia",
+  carMake: "car-make/kia",
 } as const satisfies CarModel

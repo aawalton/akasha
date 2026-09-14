@@ -16,5 +16,5 @@ export const toyotaSienna = {
   sources:
     "- https://www.toyota.com/sienna/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_Sienna.shtml",
   exclusionReason: "All years excluded",
-  carMake: "toyota",
+  carMake: "car-make/toyota",
 } as const satisfies CarModel
