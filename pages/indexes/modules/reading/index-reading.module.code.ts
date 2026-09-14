@@ -118,6 +118,20 @@ export function heldEach<T>(
   }
 }
 
+function heldOverFile<T>(
+  asked: (reading: Reading, at: string) => T
+): (reading: Reading, at: string) => T {
+  const held = new WeakMap<readonly string[], readonly [T]>()
+  return (reading, at) => {
+    const lines = reading.lines(at)
+    const found = held.get(lines)
+    if (found !== undefined) return found[0]
+    const made: readonly [T] = [asked(reading, at)]
+    held.set(lines, made)
+    return made[0]
+  }
+}
+
 function listedIn(reading: Reading, at: string): readonly Listed[] {
   const found: Listed[] = []
   for (const line of reading.lines(at)) {
@@ -250,7 +264,7 @@ export type Valued = {
   readonly value: Value
 }
 
-function valuesIn(reading: Reading, at: string): readonly Valued[] {
+const valuesIn = heldOverFile((reading: Reading, at: string): readonly Valued[] => {
   const found: Valued[] = []
   for (const line of reading.lines(at)) {
     let said: unknown
@@ -268,7 +282,7 @@ function valuesIn(reading: Reading, at: string): readonly Valued[] {
     found.push({ path, value: value as Value })
   }
   return found
-}
+})
 
 export function everyValue(given: string | Reading): ReadonlyMap<string, Value> {
   return answered(given, ROOT, "what every page carries", (reading) => {
@@ -281,11 +295,15 @@ export function everyValue(given: string | Reading): ReadonlyMap<string, Value> 
   })
 }
 
+const ordered = heldOverFile((reading: Reading, at: string): readonly Valued[] =>
+  [...valuesIn(reading, at)].sort((one, two) =>
+    one.path < two.path ? -1 : one.path > two.path ? 1 : 0
+  )
+)
+
 const valued = heldEach((reading: Reading, pageTypeSlug: string) =>
   answered(reading, ROOT, `what the \`${pageTypeSlug}\` pages carry`, (held) =>
-    [...valuesIn(held, join(VALUE, `${pageTypeSlug}${ENDING}`))].sort((one, two) =>
-      one.path < two.path ? -1 : one.path > two.path ? 1 : 0
-    )
+    ordered(held, join(VALUE, `${pageTypeSlug}${ENDING}`))
   )
 )
 

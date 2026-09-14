@@ -17,6 +17,7 @@ import {
   readingIn,
   shapesEvery,
   shapesOfType,
+  valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   importFiled,
@@ -333,6 +334,60 @@ test("a fixture files a shape as the line the index itself files for that page p
       unique: "page",
     }).map((one) => one.line)
   )
+})
+
+test("the values of one page type are worked out once for a reading and that page type", () => {
+  const root = rootAt()
+  valueAlsoFiled(root, "module", [
+    { path: "akasha/one/one.module.ts", value: { id: A, slug: "one" } },
+  ])
+  const reading = readingIn(root)
+
+  expect(valuesOfType(reading, "module")).toBe(valuesOfType(reading, "module"))
+})
+
+test("two readings of an entry file nothing wrote between them share the one answer", () => {
+  const root = rootAt()
+  valueAlsoFiled(root, "module", [
+    { path: "akasha/one/one.module.ts", value: { id: A, slug: "one" } },
+  ])
+
+  expect(valuesOfType(root, "module")).toBe(valuesOfType(root, "module"))
+})
+
+test("a reading made after a write answers the values the entry file carries now", () => {
+  const root = rootAt()
+  valueAlsoFiled(root, "module", [
+    { path: "akasha/one/one.module.ts", value: { id: A, slug: "one" } },
+  ])
+  expect(valuesOfType(root, "module").map((one) => one.path)).toEqual(["akasha/one/one.module.ts"])
+  valueAlsoFiled(root, "module", [
+    { path: "akasha/held/two.module.ts", value: { id: B, slug: "two" } },
+  ])
+
+  expect(valuesOfType(root, "module").map((one) => one.path)).toEqual([
+    "akasha/held/two.module.ts",
+    "akasha/one/one.module.ts",
+  ])
+})
+
+test("a poll over fresh readings sees the value a writer files while that poll runs", () => {
+  const root = rootAt()
+  valueAlsoFiled(root, "subagent", [
+    { path: "akasha/a.subagent.ts", value: { id: A, agentId: "old" } },
+  ])
+  let saw: readonly string[] = []
+  for (let tries = 0; tries < 5; tries += 1) {
+    if (tries === 2) {
+      valueAlsoFiled(root, "subagent", [
+        { path: "akasha/b.subagent.ts", value: { id: B, agentId: "landed" } },
+      ])
+    }
+    saw = valuesOfType(root, "subagent").map((one) => one.path)
+    if (saw.length > 1) break
+  }
+
+  expect(saw).toEqual(["akasha/a.subagent.ts", "akasha/b.subagent.ts"])
 })
 
 test("a page the values name and no slug names is answered by nothing", () => {
