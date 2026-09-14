@@ -11,6 +11,7 @@ export type Declaration = {
   readonly key: string
   readonly type: string
   readonly drawnBy: readonly string[]
+  readonly memberDrawnBy: readonly (readonly string[])[]
   readonly title: string
   readonly pageId: string
   readonly on: string
@@ -128,6 +129,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
     title: one.title,
     type: one.renderedAs ?? renderedType(one.type),
     ...(one.renderedAs === null ? { drawnBy: one.drawnBy } : {}),
+    ...(one.memberDrawnBy.length === 0 ? {} : { memberDrawnBy: one.memberDrawnBy }),
     pageId: one.pageId,
     ...(stated ? { config } : {}),
   }

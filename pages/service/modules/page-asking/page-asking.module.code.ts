@@ -32,6 +32,10 @@ const TARGET_PAGE_TYPE = "targetPageType"
 
 const EXTENDS = "extends"
 
+const MEMBERS = "members"
+
+const PARTED_BY = "/"
+
 export const TESTS_RUN: readonly string[] = [
   "is",
   "in",
@@ -111,6 +115,7 @@ export type Declared = {
   readonly key: string
   readonly type: string
   readonly drawnBy: readonly string[]
+  readonly memberDrawnBy: readonly (readonly string[])[]
   readonly title: string
   readonly pageId: string
   readonly on: string
@@ -153,16 +158,31 @@ export function drawnFor(root: string, named: Named, pageTypeSlug: string): read
   return found
 }
 
+export function memberTypesIn(page: Value | undefined): readonly string[] {
+  if (page === undefined) return []
+  const held = page[MEMBERS]
+  if (!Array.isArray(held)) return []
+  const found: string[] = []
+  for (const one of held) {
+    if (typeof one !== "string") continue
+    const at = one.indexOf(PARTED_BY)
+    if (at > 0) found.push(one.slice(0, at))
+  }
+  return found
+}
+
 function declaredOf(
   one: Carried,
   page: Value | undefined,
   on: string,
-  drawnBy: readonly string[]
+  drawnBy: readonly string[],
+  memberDrawnBy: readonly (readonly string[])[]
 ): Declared {
   return {
     key: one.propertySlug,
     type: one.pageTypeSlug,
     drawnBy,
+    memberDrawnBy,
     title: titledAs(one.propertySlug),
     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
     on,
@@ -196,14 +216,16 @@ export function shaping(root: string, pageTypeSlug: string): Shaped {
   try {
     const named: Named = new Map()
     const own = pagesOfType(root, named, PAGE_TYPE).get(pageTypeSlug)
-    const declarations = carriedFor(root, pageTypeSlug).map((one) =>
-      declaredOf(
+    const declarations = carriedFor(root, pageTypeSlug).map((one) => {
+      const page = pagesOfType(root, named, one.pageTypeSlug).get(one.pagePropertySlug)
+      return declaredOf(
         one,
-        pagesOfType(root, named, one.pageTypeSlug).get(one.pagePropertySlug),
+        page,
         pageTypeSlug,
-        drawnFor(root, named, one.pageTypeSlug)
+        drawnFor(root, named, one.pageTypeSlug),
+        memberTypesIn(page).map((slug) => drawnFor(root, named, slug))
       )
-    )
+    })
     return {
       shape: {
         pageType: pageTypeSlug,

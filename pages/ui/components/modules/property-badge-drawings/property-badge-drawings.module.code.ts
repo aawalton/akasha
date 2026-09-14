@@ -26,3 +26,14 @@ export const PROPERTY_BADGE_DRAWINGS: ReadonlyMap<
     return slug === null ? [] : [[slug, held.Drawing] as const]
   })
 )
+
+export function drawingAlong(
+  drawnBy: readonly string[] | undefined
+): ComponentType<PropertyBadgeProps> | undefined {
+  if (drawnBy === undefined) return undefined
+  for (const slug of drawnBy) {
+    const found = PROPERTY_BADGE_DRAWINGS.get(slug)
+    if (found !== undefined) return found
+  }
+  return undefined
+}

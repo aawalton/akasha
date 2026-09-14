@@ -14,6 +14,7 @@ export type PropertyDefinition = {
   title: string
   type: string
   drawnBy?: readonly string[]
+  memberDrawnBy?: readonly (readonly string[])[]
   pageId: string
   key?: string
   config?: Json

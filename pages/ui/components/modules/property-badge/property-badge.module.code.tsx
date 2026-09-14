@@ -11,7 +11,10 @@ import type {
 import type { PropertyValue } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import { propertyTypeRendersWhenEmpty } from "akasha/pages/core/property-types/modules/registry/registry.module.code.ts"
 import { PROPERTY_BADGE_REGISTRY } from "akasha/pages/ui/components/modules/badge-registry/badge-registry.module.code.ts"
-import { PROPERTY_BADGE_DRAWINGS } from "akasha/pages/ui/components/modules/property-badge-drawings/property-badge-drawings.module.code.ts"
+import {
+  drawingAlong,
+  PROPERTY_BADGE_DRAWINGS,
+} from "akasha/pages/ui/components/modules/property-badge-drawings/property-badge-drawings.module.code.ts"
 import type { ComponentType } from "react"
 
 const FALLS_BACK_TO = "page-property"
@@ -54,12 +57,12 @@ function drawingFor(
   drawnBy: readonly string[] | undefined
 ): ComponentType<PropertyBadgeProps> | undefined {
   if (drawnBy === undefined) return undefined
+  const short: string[] = []
   for (const slug of drawnBy) {
-    if (slug === FALLS_BACK_TO) return undefined
-    const found = PROPERTY_BADGE_DRAWINGS.get(slug)
-    if (found !== undefined) return found
+    if (slug === FALLS_BACK_TO) break
+    short.push(slug)
   }
-  return undefined
+  return drawingAlong(short)
 }
 
 function layoutForContext(context: PropertyBadgeContext): {
