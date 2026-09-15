@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0212ChapterTwoHundredAndFourImmuneSystem = {
   id: "01a0672c-eb12-700d-bd33-c5d535478ab0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0212-chapter-two-hundred-and-four-immune-system",
   title: "Chapter Two Hundred and Four - Immune System",
   story: "story-read/cinnamon-bun",

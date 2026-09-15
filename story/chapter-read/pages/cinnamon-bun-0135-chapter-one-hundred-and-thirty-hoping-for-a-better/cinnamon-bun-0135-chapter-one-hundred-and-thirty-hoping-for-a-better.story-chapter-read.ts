@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0135ChapterOneHundredAndThirtyHopingForABetter = {
   id: "01a0672c-eb0a-700e-bfe7-f67c6e7a1cf4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0135-chapter-one-hundred-and-thirty-hoping-for-a-better",
   title: "Chapter One Hundred and Thirty - Hoping For a Better Tomorrow",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0107ChapterOneHundredAndThreeTheLowestLow = {
   id: "01a0672c-eb09-7001-a7f3-d4da172f69ef",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0107-chapter-one-hundred-and-three-the-lowest-low",
   title: "Chapter One Hundred and Three - The Lowest Low",
   story: "story-read/cinnamon-bun",

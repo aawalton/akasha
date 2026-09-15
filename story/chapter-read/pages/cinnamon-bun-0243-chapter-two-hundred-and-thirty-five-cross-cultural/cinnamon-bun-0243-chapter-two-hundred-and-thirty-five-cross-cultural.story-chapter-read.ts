@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0243ChapterTwoHundredAndThirtyFiveCrossCultural = {
   id: "01a0672c-eb14-700b-a7e3-5c554d466cc9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0243-chapter-two-hundred-and-thirty-five-cross-cultural",
   title: "Chapter Two Hundred and Thirty-Five - Cross-cultural Xenopsychology 101",
   story: "story-read/cinnamon-bun",

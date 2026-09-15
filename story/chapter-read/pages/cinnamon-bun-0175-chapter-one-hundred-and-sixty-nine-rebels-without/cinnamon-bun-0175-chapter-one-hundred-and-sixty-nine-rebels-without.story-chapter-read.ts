@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0175ChapterOneHundredAndSixtyNineRebelsWithout = {
   id: "01a0672c-eb10-7007-bc2c-bd1f5109b80a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0175-chapter-one-hundred-and-sixty-nine-rebels-without",
   title: "Chapter One Hundred and Sixty-Nine - Rebels Without (Much of) a Cause",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0172ChapterOneHundredAndSixtySixDiplomatreeIi = {
   id: "01a0672c-eb10-7004-9c05-bd905ef011d1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0172-chapter-one-hundred-and-sixty-six-diplomatree-ii",
   title: "Chapter One Hundred and Sixty-Six - Diplomatree II: Treety Harder",
   story: "story-read/cinnamon-bun",

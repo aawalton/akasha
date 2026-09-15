@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0141ChapterOneHundredAndThirtySixRelationshipOf = {
   id: "01a0672c-eb0b-7005-b8ea-9eb9d62c8e0d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0141-chapter-one-hundred-and-thirty-six-relationship-of",
   title: "Chapter One Hundred and Thirty-Six - Relationship of Fools",
   story: "story-read/cinnamon-bun",

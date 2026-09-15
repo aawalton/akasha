@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0125ChapterOneHundredAndTwentyIntoTheScumways = {
   id: "01a0672c-eb0a-7004-b6fd-f74db5aa9218",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0125-chapter-one-hundred-and-twenty-into-the-scumways",
   title: "Chapter One Hundred and Twenty - Into the Scumways",
   story: "story-read/cinnamon-bun",

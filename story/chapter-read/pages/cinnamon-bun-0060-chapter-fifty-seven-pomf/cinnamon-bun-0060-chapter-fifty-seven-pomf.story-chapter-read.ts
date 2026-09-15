@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0060ChapterFiftySevenPomf = {
   id: "01a0672c-eb05-700a-8b96-403806e0956d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0060-chapter-fifty-seven-pomf",
   title: "Chapter Fifty-Seven - Pomf",
   story: "story-read/cinnamon-bun",

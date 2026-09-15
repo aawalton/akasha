@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0149ChapterOneHundredAndFortyFourLaVogueDeLa = {
   id: "01a0672c-eb0c-7001-9ae6-7d502d1e9409",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0149-chapter-one-hundred-and-forty-four-la-vogue-de-la",
   title: "Chapter One Hundred and Forty-Four - La Vogue de la Résistance",
   story: "story-read/cinnamon-bun",

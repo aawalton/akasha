@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0086ChapterEightyThreeTheresNoSenseCryingOver = {
   id: "01a0672c-eb07-7008-a87e-d8832aca5f9f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0086-chapter-eighty-three-theres-no-sense-crying-over",
   title: "Chapter Eighty-Three - There's No Sense Crying Over Every Mistake",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0166ChapterOneHundredAndSixtyYoureGroundedYoung = {
   id: "01a0672c-eb0e-7000-b499-3899b7e35790",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0166-chapter-one-hundred-and-sixty-youre-grounded-young",
   title: "Chapter One Hundred and Sixty - You're Grounded, Young Lady",
   story: "story-read/cinnamon-bun",

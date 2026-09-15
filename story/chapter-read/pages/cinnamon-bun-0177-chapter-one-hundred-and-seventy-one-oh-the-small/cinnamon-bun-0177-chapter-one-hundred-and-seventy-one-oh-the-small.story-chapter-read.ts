@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0177ChapterOneHundredAndSeventyOneOhTheSmall = {
   id: "01a0672c-eb10-7009-bdf0-270fbc8a56e9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0177-chapter-one-hundred-and-seventy-one-oh-the-small",
   title: "Chapter One Hundred and Seventy-One - Oh, The Small Manatee",
   story: "story-read/cinnamon-bun",

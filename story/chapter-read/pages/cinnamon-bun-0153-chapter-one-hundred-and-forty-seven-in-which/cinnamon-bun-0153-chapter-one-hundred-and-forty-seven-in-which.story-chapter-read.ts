@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0153ChapterOneHundredAndFortySevenInWhich = {
   id: "01a0672c-eb0c-7005-963a-90b482c56455",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0153-chapter-one-hundred-and-forty-seven-in-which",
   title: "Chapter One Hundred and Forty-Seven - In Which Broccoli Gets to Wear Many Hats",
   story: "story-read/cinnamon-bun",

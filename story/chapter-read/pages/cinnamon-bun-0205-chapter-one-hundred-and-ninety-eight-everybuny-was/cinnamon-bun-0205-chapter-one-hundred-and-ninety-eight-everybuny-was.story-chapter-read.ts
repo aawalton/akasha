@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0205ChapterOneHundredAndNinetyEightEverybunyWas = {
   id: "01a0672c-eb12-7006-ad78-dc20fabe55fb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0205-chapter-one-hundred-and-ninety-eight-everybuny-was",
   title: "Chapter One Hundred and Ninety-Eight - Everybuny was Draugr Fighting",
   story: "story-read/cinnamon-bun",

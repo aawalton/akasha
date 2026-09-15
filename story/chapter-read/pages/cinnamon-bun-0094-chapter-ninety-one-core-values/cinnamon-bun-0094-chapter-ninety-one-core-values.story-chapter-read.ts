@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0094ChapterNinetyOneCoreValues = {
   id: "01a0672c-eb08-7002-a46e-d3a0c76a768e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0094-chapter-ninety-one-core-values",
   title: "Chapter Ninety-One - Core Values",
   story: "story-read/cinnamon-bun",

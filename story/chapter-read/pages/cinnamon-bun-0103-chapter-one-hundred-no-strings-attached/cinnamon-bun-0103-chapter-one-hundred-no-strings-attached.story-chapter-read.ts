@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0103ChapterOneHundredNoStringsAttached = {
   id: "01a0672c-eb08-700b-a8e9-87977f5524ad",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0103-chapter-one-hundred-no-strings-attached",
   title: "Chapter One Hundred - No Strings Attached",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0215ChapterTwoHundredAndSevenReciprocation = {
   id: "01a0672c-eb12-7010-9295-fbba8ba97329",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0215-chapter-two-hundred-and-seven-reciprocation",
   title: "Chapter Two Hundred and Seven - Reciprocation",
   story: "story-read/cinnamon-bun",

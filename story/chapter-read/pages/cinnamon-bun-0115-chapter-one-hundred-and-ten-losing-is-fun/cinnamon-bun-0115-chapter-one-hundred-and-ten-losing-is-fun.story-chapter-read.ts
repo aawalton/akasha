@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0115ChapterOneHundredAndTenLosingIsFun = {
   id: "01a0672c-eb09-7009-95e9-fb772f02d54c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0115-chapter-one-hundred-and-ten-losing-is-fun",
   title: "Chapter One Hundred and Ten - Losing is Fun",
   story: "story-read/cinnamon-bun",

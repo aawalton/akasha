@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0157ChapterOneHundredAndFiftyOneOnceIs = {
   id: "01a0672c-eb0c-7009-8069-25098168aaa6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0157-chapter-one-hundred-and-fifty-one-once-is",
   title: "Chapter One Hundred and Fifty-One - Once is Happenstance, Twice is Enemy Action",
   story: "story-read/cinnamon-bun",

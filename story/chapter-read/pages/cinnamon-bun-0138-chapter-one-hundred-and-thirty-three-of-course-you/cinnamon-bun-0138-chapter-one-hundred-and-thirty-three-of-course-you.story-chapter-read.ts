@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0138ChapterOneHundredAndThirtyThreeOfCourseYou = {
   id: "01a0672c-eb0b-7002-b261-8791805662b0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0138-chapter-one-hundred-and-thirty-three-of-course-you",
   title: "Chapter One Hundred and Thirty-Three - Of Course You Realize this Maybe War",
   story: "story-read/cinnamon-bun",

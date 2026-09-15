@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0126ChapterOneHundredAndTwentyOneGangstaBun = {
   id: "01a0672c-eb0a-7005-9028-ae4360ea37e8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0126-chapter-one-hundred-and-twenty-one-gangsta-bun",
   title: "Chapter One Hundred and Twenty-One - Gangsta Bun",
   story: "story-read/cinnamon-bun",
