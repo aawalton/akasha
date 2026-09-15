@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spearDanceTheFishLeap = {
   id: "01a0657d-02ec-7624-be1e-67eb3ba5fdda",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spear-dance-the-fish-leap",
   title: "Spear Dance: The Fish Leap",
   world: "world/the-wandering-inn",

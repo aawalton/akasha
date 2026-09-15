@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spellStorageBook = {
   id: "01a0657d-02ed-7263-ba84-ffd247a03745",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spell-storage-book",
   title: "Spell Storage: Book",
   world: "world/the-wandering-inn",

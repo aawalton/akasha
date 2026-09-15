@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const speedPainting = {
   id: "01a0657d-02ed-7b6a-a572-f43edb778e10",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "speed-painting",
   title: "Speed Painting",
   world: "world/the-wandering-inn",

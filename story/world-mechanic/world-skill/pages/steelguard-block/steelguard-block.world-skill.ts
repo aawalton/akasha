@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const steelguardBlock = {
   id: "01a0657d-02fa-7d44-8ba3-fcebd2dff4a4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "steelguard-block",
   title: "Steelguard Block",
   world: "world/the-wandering-inn",

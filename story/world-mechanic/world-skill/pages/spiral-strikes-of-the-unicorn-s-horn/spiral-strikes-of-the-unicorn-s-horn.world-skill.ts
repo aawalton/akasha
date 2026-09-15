@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spiralStrikesOfTheUnicornSHorn = {
   id: "01a0657d-02ee-7de4-a018-a4f5f793c83f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spiral-strikes-of-the-unicorn-s-horn",
   title: "Spiral Strikes of the Unicorn’s Horn",
   world: "world/the-wandering-inn",

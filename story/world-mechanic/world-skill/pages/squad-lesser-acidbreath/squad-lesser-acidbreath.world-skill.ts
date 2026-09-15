@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const squadLesserAcidbreath = {
   id: "01a0657d-02ee-7dd1-bef9-c1e96e48b331",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "squad-lesser-acidbreath",
   title: "Squad: Lesser Acidbreath",
   world: "world/the-wandering-inn",

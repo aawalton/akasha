@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spellSchoolColorMagicProficiency = {
   id: "01a0657d-02ed-7202-8f11-1295b41e059f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spell-school-color-magic-proficiency",
   title: "Spell School: Color Magic Proficiency",
   world: "world/the-wandering-inn",

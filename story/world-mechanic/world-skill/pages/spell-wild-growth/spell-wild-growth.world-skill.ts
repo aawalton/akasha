@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spellWildGrowth = {
   id: "01a0657d-02ed-72e1-8f54-368e4cdf5808",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spell-wild-growth",
   title: "Spell: Wild Growth",
   world: "world/the-wandering-inn",

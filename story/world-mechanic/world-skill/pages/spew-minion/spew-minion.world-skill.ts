@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spewMinion = {
   id: "01a0657d-02ed-7025-99d3-0d156c3cf38e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spew-minion",
   title: "Spew Minion",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const sleepNow = {
   id: "01a0657d-02c6-76ba-82fe-bfbaf381db24",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sleep-now",
   title: "Sleep, Now",
   world: "world/the-wandering-inn",

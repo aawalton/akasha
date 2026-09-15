@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spellEfficiencyStellarMagic = {
   id: "01a0657d-02ed-787b-8abf-f76cfbcdf25f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spell-efficiency-stellar-magic",
   title: "Spell Efficiency: Stellar Magic",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const steelcutSunder = {
   id: "01a0657d-02fa-7788-bb13-5394afdd66bb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "steelcut-sunder",
   title: "Steelcut Sunder",
   world: "world/the-wandering-inn",

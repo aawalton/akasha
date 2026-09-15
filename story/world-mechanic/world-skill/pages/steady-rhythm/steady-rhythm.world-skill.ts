@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const steadyRhythm = {
   id: "01a0657d-02f9-77af-b650-eb89c0ca09d1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "steady-rhythm",
   title: "Steady Rhythm",
   world: "world/the-wandering-inn",

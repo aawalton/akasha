@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spellRefraction = {
   id: "01a0657d-02ed-77e7-873c-ffa96afb9172",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spell-refraction",
   title: "Spell Refraction",
   world: "world/the-wandering-inn",

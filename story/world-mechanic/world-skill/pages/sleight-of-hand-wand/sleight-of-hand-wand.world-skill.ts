@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const sleightOfHandWand = {
   id: "01a0657d-02c6-7b4b-aa60-8c2c934a7e7b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sleight-of-hand-wand",
   title: "Sleight of Hand: Wand",
   world: "world/the-wandering-inn",

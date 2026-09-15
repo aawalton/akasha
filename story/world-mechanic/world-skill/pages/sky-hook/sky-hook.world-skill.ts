@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const skyHook = {
   id: "01a0657d-02c6-7a06-aa11-c3d03ef47c7e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sky-hook",
   title: "Sky Hook",
   world: "world/the-wandering-inn",

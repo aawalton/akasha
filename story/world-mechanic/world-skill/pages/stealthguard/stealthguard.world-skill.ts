@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const stealthguard = {
   id: "01a0657d-02fa-7515-938e-ced1457ab163",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "stealthguard",
   title: "Stealthguard",
   world: "world/the-wandering-inn",

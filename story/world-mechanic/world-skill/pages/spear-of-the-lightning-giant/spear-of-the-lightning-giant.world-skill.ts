@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spearOfTheLightningGiant = {
   id: "01a0657d-02ed-7971-b865-fb6bd5204830",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spear-of-the-lightning-giant",
   title: "Spear of the Lightning Giant",
   world: "world/the-wandering-inn",

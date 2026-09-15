@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const speedOfTheStrikingViper = {
   id: "01a0657d-02ed-7c8f-8247-9ee339cf2298",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "speed-of-the-striking-viper",
   title: "Speed of the Striking Viper",
   world: "world/the-wandering-inn",

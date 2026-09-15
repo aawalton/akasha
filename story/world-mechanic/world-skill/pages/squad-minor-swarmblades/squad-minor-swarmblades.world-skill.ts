@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const squadMinorSwarmblades = {
   id: "01a0657d-02ee-761b-ba89-98dc913c70ce",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "squad-minor-swarmblades",
   title: "Squad: Minor Swarmblades",
   world: "world/the-wandering-inn",

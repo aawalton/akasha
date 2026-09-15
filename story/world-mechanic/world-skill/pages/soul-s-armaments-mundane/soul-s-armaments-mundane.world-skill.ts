@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const soulSArmamentsMundane = {
   id: "01a0657d-02c7-7fe6-b7cf-6624a0e8668e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "soul-s-armaments-mundane",
   title: "Soul’s Armaments: Mundane",
   world: "world/the-wandering-inn",

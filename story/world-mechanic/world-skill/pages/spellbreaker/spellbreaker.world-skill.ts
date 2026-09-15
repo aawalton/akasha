@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spellbreaker = {
   id: "01a0657d-02ed-7686-bd72-b3bd43639383",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spellbreaker",
   title: "Spellbreaker",
   world: "world/the-wandering-inn",

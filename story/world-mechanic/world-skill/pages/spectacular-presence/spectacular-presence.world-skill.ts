@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spectacularPresence = {
   id: "01a0657d-02ed-7cd7-9793-62fcc4bba676",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spectacular-presence",
   title: "Spectacular Presence",
   world: "world/the-wandering-inn",

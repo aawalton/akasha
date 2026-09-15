@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spoilsOfTheDeadFitForMyHand = {
   id: "01a0657d-02ee-73cf-8b3e-1c39f1193ab2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spoils-of-the-dead-fit-for-my-hand",
   title: "Spoils of the Dead: Fit for My Hand",
   world: "world/the-wandering-inn",

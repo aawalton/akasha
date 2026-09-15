@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spellbookOfWizardlyAcumen = {
   id: "01a0657d-02ed-74bb-ab10-ee1464d2cb78",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spellbook-of-wizardly-acumen",
   title: "Spellbook of Wizardly Acumen",
   world: "world/the-wandering-inn",

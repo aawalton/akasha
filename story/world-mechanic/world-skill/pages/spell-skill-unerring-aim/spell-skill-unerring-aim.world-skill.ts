@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spellSkillUnerringAim = {
   id: "01a0657d-02ed-76cc-8edf-cce126d05e1e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spell-skill-unerring-aim",
   title: "Spell Skill: Unerring Aim",
   world: "world/the-wandering-inn",

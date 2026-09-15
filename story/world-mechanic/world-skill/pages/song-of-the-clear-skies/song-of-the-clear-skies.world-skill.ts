@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const songOfTheClearSkies = {
   id: "01a0657d-02c7-79f5-92fe-c3eca644a8c6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "song-of-the-clear-skies",
   title: "Song of the Clear Skies",
   world: "world/the-wandering-inn",

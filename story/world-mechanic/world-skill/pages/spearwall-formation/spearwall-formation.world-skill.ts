@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const spearwallFormation = {
   id: "01a0657d-02ed-7a08-a2a2-bfc52f9762de",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "spearwall-formation",
   title: "Spearwall Formation",
   world: "world/the-wandering-inn",

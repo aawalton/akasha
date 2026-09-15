@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const steelCurtainFormation = {
   id: "01a0657d-02fa-7b2d-bce1-b13a950892a5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "steel-curtain-formation",
   title: "Steel Curtain Formation",
   world: "world/the-wandering-inn",

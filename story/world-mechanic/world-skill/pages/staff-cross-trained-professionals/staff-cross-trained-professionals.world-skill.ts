@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const staffCrossTrainedProfessionals = {
   id: "01a0657d-02ee-7e7f-98c7-31624ee7b1df",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "staff-cross-trained-professionals",
   title: "Staff: Cross-trained Professionals",
   world: "world/the-wandering-inn",

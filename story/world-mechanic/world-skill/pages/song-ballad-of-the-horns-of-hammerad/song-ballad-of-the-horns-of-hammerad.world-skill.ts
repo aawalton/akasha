@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const songBalladOfTheHornsOfHammerad = {
   id: "01a0657d-02c7-7d24-aa7c-721ab54b1e14",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "song-ballad-of-the-horns-of-hammerad",
   title: "Song: Ballad of the Horns of Hammerad",
   world: "world/the-wandering-inn",

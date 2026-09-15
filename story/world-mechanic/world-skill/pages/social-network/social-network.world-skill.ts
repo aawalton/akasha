@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const socialNetwork = {
   id: "01a0657d-02c7-70e0-8831-b5c24df8492c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "social-network",
   title: "Social Network",
   world: "world/the-wandering-inn",
