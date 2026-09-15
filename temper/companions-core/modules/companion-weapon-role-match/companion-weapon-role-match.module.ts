@@ -15,10 +15,5 @@ export const companionWeaponRoleMatch = {
       invariantKind: "invariant-kind/constraint",
       statement: "A build whose weapons match no role reads as the no-weapon-role entry.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "Choosing the weapons a role calls for picks at random among the types the role permits.",
-    },
   ],
 } as const satisfies Module

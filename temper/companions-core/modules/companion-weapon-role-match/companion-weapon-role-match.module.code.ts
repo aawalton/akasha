@@ -3,22 +3,11 @@ import {
   type CompanionWeaponRoleId,
   companionWeaponRoles,
 } from "akasha/temper/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
-import {
-  type CompanionWeaponTypeId,
-  companionWeaponTypes,
-} from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { randomFrom } from "akasha/temper/formula-framework/modules/random-from/random-from.module.code.ts"
+import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 
 const NO_WEAPON_ROLE: CompanionWeaponRoleId = "no-weapon-role"
 
 const NO_WEAPON_TYPE: CompanionWeaponTypeId = "no-type"
-
-function narrowToWeaponTypeId(raw: string, label: string): CompanionWeaponTypeId {
-  if (!companionWeaponTypes.has(raw)) {
-    throw new Error(`${label}: '${raw}' is not a known CompanionWeaponTypeId`)
-  }
-  return raw
-}
 
 export function getWeaponRole(state: CompanionState): CompanionWeaponRoleId {
   const mainHand = state.equipment.weapons["main-hand"]
@@ -42,38 +31,4 @@ export function getWeaponRole(state: CompanionState): CompanionWeaponRoleId {
   }
 
   return NO_WEAPON_ROLE
-}
-
-export function setWeaponTypesForRole(
-  state: CompanionState,
-  roleId: CompanionWeaponRoleId
-): CompanionState {
-  const role = companionWeaponRoles.data[roleId]
-  const mains: readonly string[] = role.validMainHandWeaponTypes
-  const offs: readonly string[] = role.validOffHandWeaponTypes
-  const mainHandType = narrowToWeaponTypeId(randomFrom(mains), `weapon-role ${roleId} main-hand`)
-  const offHandType: CompanionWeaponTypeId =
-    offs.length > 0
-      ? narrowToWeaponTypeId(randomFrom(offs), `weapon-role ${roleId} off-hand`)
-      : NO_WEAPON_TYPE
-
-  const mainHand = state.equipment.weapons["main-hand"]
-  const offHand = state.equipment.weapons["off-hand"]
-
-  return {
-    ...state,
-    equipment: {
-      ...state.equipment,
-      weapons: {
-        "main-hand":
-          mainHand.itemType === "weapon"
-            ? { itemType: "weapon", data: { ...mainHand.data, type: mainHandType } }
-            : mainHand,
-        "off-hand":
-          offHand.itemType === "weapon"
-            ? { itemType: "weapon", data: { ...offHand.data, type: offHandType } }
-            : offHand,
-      },
-    },
-  }
 }
