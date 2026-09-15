@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mcdonaldsPleasantGrove = {
   id: "019f322c-9aa1-72fa-ba82-6aa9d7374e11",
-  type: "location",
+  type: "page-type/location",
   slug: "mcdonalds-pleasant-grove",
   title: "McDonald's (Pleasant Grove)",
   address: "Pleasant Grove, UT",

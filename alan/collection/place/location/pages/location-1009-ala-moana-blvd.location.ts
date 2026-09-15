@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const location1009AlaMoanaBlvd = {
   id: "019f1b49-52b5-7ec4-b9a0-70c757a611ea",
-  type: "location",
+  type: "page-type/location",
   slug: "location-1009-ala-moana-blvd",
   title: "1009 Ala Moana Blvd",
   latitude: 21.2947187,

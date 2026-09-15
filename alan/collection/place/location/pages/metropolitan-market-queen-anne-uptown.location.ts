@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const metropolitanMarketQueenAnneUptown = {
   id: "019f1aec-0c87-7883-a6ab-93d6f86dec5b",
-  type: "location",
+  type: "page-type/location",
   slug: "metropolitan-market-queen-anne-uptown",
   title: "Metropolitan Market Queen Anne (Uptown)",
   latitude: 47.6247689,

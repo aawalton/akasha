@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const nashvilleFarmersMarket = {
   id: "019f1b49-5483-745f-8a6d-77e801287225",
-  type: "location",
+  type: "page-type/location",
   slug: "nashville-farmers-market",
   title: "Nashville Farmers' Market",
   latitude: 36.1622767,

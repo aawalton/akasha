@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const littleIndiaFineDining = {
   id: "019f1aec-0e03-71ce-aa85-b76af03c54cb",
-  type: "location",
+  type: "page-type/location",
   slug: "little-india-fine-dining",
   title: "Little India Fine Dining",
   latitude: 40.4924009,

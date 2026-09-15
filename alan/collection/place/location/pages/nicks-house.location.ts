@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const nicksHouse = {
   id: "019f1aec-0f30-7c34-949f-5ab0e88a4227",
-  type: "location",
+  type: "page-type/location",
   slug: "nicks-house",
   title: "Nick’s house",
   address: "722 N 380 W, Vineyard, UT 84059, United States",

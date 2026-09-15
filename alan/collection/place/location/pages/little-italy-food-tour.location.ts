@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const littleItalyFoodTour = {
   id: "019f1aec-0f4c-7a80-b223-4b4f3ec6249c",
-  type: "location",
+  type: "page-type/location",
   slug: "little-italy-food-tour",
   title: "Little Italy Food Tour",
   address:

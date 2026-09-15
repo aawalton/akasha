@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const museumOfIllusionsAustin = {
   id: "019f1aec-0e4e-726a-b6a0-1280d6728166",
-  type: "location",
+  type: "page-type/location",
   slug: "museum-of-illusions-austin",
   title: "Museum of Illusions Austin",
   latitude: 30.396365,

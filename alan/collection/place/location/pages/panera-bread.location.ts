@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const paneraBread = {
   id: "019f1aec-0f13-7e4a-9358-ad8ea6e7e68f",
-  type: "location",
+  type: "page-type/location",
   slug: "panera-bread",
   title: "Panera Bread",
   latitude: 39.8761561,

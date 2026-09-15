@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const location3420NWindRiverCt = {
   id: "019f1b49-5350-7a41-83e6-d2d50e77f748",
-  type: "location",
+  type: "page-type/location",
   slug: "location-3420-n-wind-river-ct",
   title: "3420 N Wind River Ct",
   latitude: 41.3208849,

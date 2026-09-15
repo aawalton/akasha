@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const museumGouda = {
   id: "019f1aec-0e4a-761e-8555-96d5877b3743",
-  type: "location",
+  type: "page-type/location",
   slug: "museum-gouda",
   title: "Museum Gouda",
   latitude: 52.0100937,

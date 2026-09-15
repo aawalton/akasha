@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const opelZoo = {
   id: "019f1b49-562b-7f51-b0e4-0c4f7e1177b4",
-  type: "location",
+  type: "page-type/location",
   slug: "opel-zoo",
   title: "Opel Zoo",
   latitude: 50.17973,

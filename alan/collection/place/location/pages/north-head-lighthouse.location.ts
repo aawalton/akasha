@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const northHeadLighthouse = {
   id: "019f1aec-0c9b-7de1-9df3-e8b4abe670c5",
-  type: "location",
+  type: "page-type/location",
   slug: "north-head-lighthouse",
   title: "North Head Lighthouse",
   latitude: 46.2989031,

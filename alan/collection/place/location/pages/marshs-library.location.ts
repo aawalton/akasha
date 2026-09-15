@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const marshsLibrary = {
   id: "019f1aec-0d60-78c1-a717-360e075718f1",
-  type: "location",
+  type: "page-type/location",
   slug: "marshs-library",
   title: "Marsh's Library",
   latitude: 53.3392033,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const location2813EPresidentGeorgeBushHwy = {
   id: "019f1b49-535a-7a23-ab1c-ddbc1a7daba3",
-  type: "location",
+  type: "page-type/location",
   slug: "location-2813-e-president-george-bush-hwy",
   title: "2813 E President George Bush Hwy",
   latitude: 33.001689,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const padelisStreetGreek = {
   id: "019f1aec-0e01-7c8a-aeea-c173bb3e4407",
-  type: "location",
+  type: "page-type/location",
   slug: "padelis-street-greek",
   title: "Padeli's Street Greek",
   latitude: 40.4308791,

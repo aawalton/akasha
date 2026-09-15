@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const monellsAtTheManor = {
   id: "019f1b49-5472-7045-b4c1-512cb3bf4b7c",
-  type: "location",
+  type: "page-type/location",
   slug: "monells-at-the-manor",
   title: "Monell's At the Manor",
   latitude: 36.1622767,

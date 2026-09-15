@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mountainDonutsTopYourOwn = {
   id: "019f1b49-529b-7302-84fa-1d4b993d4bab",
-  type: "location",
+  type: "page-type/location",
   slug: "mountain-donuts-top-your-own",
   title: "Mountain Donuts “Top Your Own”",
   latitude: 41.13339,

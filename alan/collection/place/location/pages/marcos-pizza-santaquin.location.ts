@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const marcosPizzaSantaquin = {
   id: "019f322c-9a49-7063-85a4-1cbc0c960e08",
-  type: "location",
+  type: "page-type/location",
   slug: "marcos-pizza-santaquin",
   title: "Marco's Pizza (Santaquin)",
   address: "Santaquin, UT",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const lowesXtremeAirSportsUtahCounty = {
   id: "019f322c-9a3a-70da-a5ef-69a638ad2398",
-  type: "location",
+  type: "page-type/location",
   slug: "lowes-xtreme-air-sports-utah-county",
   title: "Lowes Xtreme Air Sports (Utah County)",
   address: "Utah County, UT",

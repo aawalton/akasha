@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mtechCosmetologySpanishFork = {
   id: "019f322c-9acf-7df6-a4a1-e4713ad0689c",
-  type: "location",
+  type: "page-type/location",
   slug: "mtech-cosmetology-spanish-fork",
   title: "MTECH Cosmetology (Spanish Fork)",
   address: "Spanish Fork, UT",

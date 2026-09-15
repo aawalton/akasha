@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const nashvilleInternationalAirport = {
   id: "019f1aec-0dfb-735f-97a6-e5612902ba51",
-  type: "location",
+  type: "page-type/location",
   slug: "nashville-international-airport",
   title: "Nashville International Airport",
   latitude: 36.1195848,

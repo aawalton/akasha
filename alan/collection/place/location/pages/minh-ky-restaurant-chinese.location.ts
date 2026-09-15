@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const minhKyRestaurantChinese = {
   id: "019f1aec-0ff1-7f42-bb67-624e9bad4ead",
-  type: "location",
+  type: "page-type/location",
   slug: "minh-ky-restaurant-chinese",
   title: "Minh Ky Restaurant | Chinese",
   address: "4644 El Cajon Blvd #101, San Diego, CA 92115, United States",

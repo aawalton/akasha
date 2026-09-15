@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const location1800ParkRestaurant = {
   id: "019f1aec-0cd5-7579-801e-7d68d642064e",
-  type: "location",
+  type: "page-type/location",
   slug: "location-1800-park-restaurant",
   title: "1800 Park Restaurant",
   latitude: 42.2277142,

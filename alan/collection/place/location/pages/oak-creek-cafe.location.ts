@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const oakCreekCafe = {
   id: "019f1b49-556b-7310-b85a-a2294090acb4",
-  type: "location",
+  type: "page-type/location",
   slug: "oak-creek-cafe",
   title: "Oak Creek Cafe",
   latitude: 30.2711286,

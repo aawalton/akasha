@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const magicFountainOfMontjuic = {
   id: "019f1aec-0e6f-7623-a3ee-6dbba7c17074",
-  type: "location",
+  type: "page-type/location",
   slug: "magic-fountain-of-montjuic",
   title: "Magic Fountain of Montjuïc",
   latitude: 41.3711565,

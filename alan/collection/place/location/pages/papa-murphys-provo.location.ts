@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const papaMurphysProvo = {
   id: "019f322c-9aee-714f-a4f2-1d6a9808d255",
-  type: "location",
+  type: "page-type/location",
   slug: "papa-murphys-provo",
   title: "Papa Murphy's (Provo)",
   address: "Provo, UT",

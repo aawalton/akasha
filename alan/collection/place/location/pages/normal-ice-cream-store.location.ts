@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const normalIceCreamStore = {
   id: "019f1b49-51ed-7af8-9926-ff57046d8349",
-  type: "location",
+  type: "page-type/location",
   slug: "normal-ice-cream-store",
   title: "normal ice cream store",
   latitude: 14.6767925,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const nonaBistro = {
   id: "019f1aec-0d29-7a1f-9c0d-a96d6b946a64",
-  type: "location",
+  type: "page-type/location",
   slug: "nona-bistro",
   title: "Nona Bistro",
   latitude: 40.7495348,

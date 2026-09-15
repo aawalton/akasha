@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const parkBurgerPlattPark = {
   id: "019f1aec-0d45-75c7-9c4a-8def4932ee40",
-  type: "location",
+  type: "page-type/location",
   slug: "park-burger-platt-park",
   title: "Park Burger - Platt Park",
   latitude: 39.6822737,

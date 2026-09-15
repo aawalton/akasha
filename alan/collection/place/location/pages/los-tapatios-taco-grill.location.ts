@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const losTapatiosTacoGrill = {
   id: "019f1aec-0d2c-71a5-ae74-fc34ca4e4929",
-  type: "location",
+  type: "page-type/location",
   slug: "los-tapatios-taco-grill",
   title: "Los Tapatios Taco Grill",
   latitude: 40.6970273,

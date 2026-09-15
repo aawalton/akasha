@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ninfasMexicanRestaurant = {
   id: "019f1b49-5647-75c8-9b69-1675040d9bad",
-  type: "location",
+  type: "page-type/location",
   slug: "ninfas-mexican-restaurant",
   title: "Ninfa's Mexican Restaurant",
   latitude: 31.5491899,

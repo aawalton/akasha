@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const masTacosPorFavor = {
   id: "019f1aec-0dea-73e9-9fb1-ba0d1d445536",
-  type: "location",
+  type: "page-type/location",
   slug: "mas-tacos-por-favor",
   title: "Mas Tacos Por Favor",
   latitude: 36.1847536,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const museoNacionalDelPrado = {
   id: "019f1aec-0d72-7fdc-b6d2-a9ee93342a4a",
-  type: "location",
+  type: "page-type/location",
   slug: "museo-nacional-del-prado",
   title: "Museo Nacional del Prado",
   latitude: 40.4137925,

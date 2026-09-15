@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const maisonKuntz = {
   id: "019f1b49-540b-7960-84b6-8378c8c50e98",
-  type: "location",
+  type: "page-type/location",
   slug: "maison-kuntz",
   title: "Maison Kuntz",
   latitude: 48.8628006,

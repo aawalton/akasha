@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const oldTownMexicanCafe = {
   id: "019f1aec-0e51-7e29-8840-ff4cd77e3b0f",
-  type: "location",
+  type: "page-type/location",
   slug: "old-town-mexican-cafe",
   title: "Old Town Mexican Cafe",
   latitude: 32.7524533,

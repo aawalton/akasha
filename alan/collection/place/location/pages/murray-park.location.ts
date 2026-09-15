@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const murrayPark = {
   id: "019f1aec-0f11-74d7-8c53-892ec9caea97",
-  type: "location",
+  type: "page-type/location",
   slug: "murray-park",
   title: "Murray Park",
   latitude: 37.9443807,

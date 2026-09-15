@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mouthOfTruth = {
   id: "019f1aec-0db5-73ab-a889-e7d23c698534",
-  type: "location",
+  type: "page-type/location",
   slug: "mouth-of-truth",
   title: "Mouth of Truth",
   latitude: 41.8882567,

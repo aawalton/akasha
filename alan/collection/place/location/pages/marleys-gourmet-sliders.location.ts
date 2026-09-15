@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const marleysGourmetSliders = {
   id: "019f1b49-573c-79d1-b1eb-958aa7d82372",
-  type: "location",
+  type: "page-type/location",
   slug: "marleys-gourmet-sliders",
   title: "Marley’s Gourmet Sliders",
   latitude: 30.974992,

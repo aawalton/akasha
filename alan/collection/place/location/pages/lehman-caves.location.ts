@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const lehmanCaves = {
   id: "019f1aec-0f23-7a82-bca1-88c6f4c5d204",
-  type: "location",
+  type: "page-type/location",
   slug: "lehman-caves",
   title: "Lehman Caves",
   latitude: 39.0054225,

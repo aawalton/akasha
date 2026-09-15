@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const madridSpainTemple = {
   id: "019f1b49-534d-7648-a278-9ec74eb76261",
-  type: "location",
+  type: "page-type/location",
   slug: "madrid-spain-temple",
   title: "Madrid Spain Temple",
   latitude: 40.4195045,

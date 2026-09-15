@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const papaMurphysParkCity = {
   id: "019f322c-9aea-7f79-b594-8287e972e26b",
-  type: "location",
+  type: "page-type/location",
   slug: "papa-murphys-park-city",
   title: "Papa Murphy's (Park City)",
   address: "Park City, UT",

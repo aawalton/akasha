@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const monellsDiningAndCatering = {
   id: "019f1aec-0dee-701c-833e-f212952d68d6",
-  type: "location",
+  type: "page-type/location",
   slug: "monells-dining-and-catering",
   title: "Monell's Dining and Catering",
   latitude: 36.1756419,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const linger = {
   id: "019f1aec-0d47-7bc2-bb5a-4ce323e3c4c7",
-  type: "location",
+  type: "page-type/location",
   slug: "linger",
   title: "Linger",
   latitude: 49.5648801,

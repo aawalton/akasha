@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const littleManIceCream = {
   id: "019f1aec-0d48-7e7c-b5b1-10e3bdbe425d",
-  type: "location",
+  type: "page-type/location",
   slug: "little-man-ice-cream",
   title: "Little Man Ice Cream",
   latitude: 39.759457,

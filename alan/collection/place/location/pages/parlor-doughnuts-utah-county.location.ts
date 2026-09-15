@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const parlorDoughnutsUtahCounty = {
   id: "019f322c-9af2-71fd-ac09-2baa3f1ec393",
-  type: "location",
+  type: "page-type/location",
   slug: "parlor-doughnuts-utah-county",
   title: "Parlor Doughnuts (Utah County)",
   address: "Utah County, UT",

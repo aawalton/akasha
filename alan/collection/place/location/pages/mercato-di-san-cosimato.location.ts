@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mercatoDiSanCosimato = {
   id: "019f1aec-0daa-7224-9b8a-dd3fcd8755da",
-  type: "location",
+  type: "page-type/location",
   slug: "mercato-di-san-cosimato",
   title: "Mercato di San Cosimato",
   latitude: 41.88744,

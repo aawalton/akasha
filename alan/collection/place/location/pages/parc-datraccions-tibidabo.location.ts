@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const parcDatraccionsTibidabo = {
   id: "019f1aec-0e70-7a89-b4dc-54c5345279dc",
-  type: "location",
+  type: "page-type/location",
   slug: "parc-datraccions-tibidabo",
   title: "Parc d'atraccions Tibidabo",
   latitude: 41.4231527,

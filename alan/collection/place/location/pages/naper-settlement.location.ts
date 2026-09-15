@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const naperSettlement = {
   id: "019f1b49-566c-7fb0-b11a-de8e14931dba",
-  type: "location",
+  type: "page-type/location",
   slug: "naper-settlement",
   title: "Naper Settlement",
   latitude: 41.769076,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const leonardsBakery = {
   id: "019f1b49-52cf-7fac-a00b-8df41c5d84e5",
-  type: "location",
+  type: "page-type/location",
   slug: "leonards-bakery",
   title: "Leonard's Bakery",
   latitude: 21.420105,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const magnoliaTable = {
   id: "019f1aec-0e93-7b39-a3d1-c158d2c35595",
-  type: "location",
+  type: "page-type/location",
   slug: "magnolia-table",
   title: "Magnolia Table",
   latitude: 31.5247141,

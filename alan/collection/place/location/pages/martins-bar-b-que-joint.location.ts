@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const martinsBarBQueJoint = {
   id: "019f1aec-0de3-7fee-818a-505f52299984",
-  type: "location",
+  type: "page-type/location",
   slug: "martins-bar-b-que-joint",
   title: "Martin's Bar-B-Que Joint",
   latitude: 36.1181012,

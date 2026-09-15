@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const lovelandLivingPlanetAquarium = {
   id: "019f1aec-0fd6-7e6f-ad2e-fec2384109d3",
-  type: "location",
+  type: "page-type/location",
   slug: "loveland-living-planet-aquarium",
   title: "Loveland Living Planet Aquarium",
   address: "12033 S Lone Peak Pkwy, Draper, UT 84020, United States",

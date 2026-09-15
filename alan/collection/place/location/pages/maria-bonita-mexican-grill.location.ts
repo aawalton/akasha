@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mariaBonitaMexicanGrill = {
   id: "019f1b49-54ac-7f54-b7e1-cd5486fd8d85",
-  type: "location",
+  type: "page-type/location",
   slug: "maria-bonita-mexican-grill",
   title: "Maria Bonita Mexican Grill",
   latitude: 40.210261,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const muranoMade = {
   id: "019f1b49-5508-7bdc-b551-96c615826f6f",
-  type: "location",
+  type: "page-type/location",
   slug: "murano-made",
   title: "Murano made",
   latitude: 45.454119,

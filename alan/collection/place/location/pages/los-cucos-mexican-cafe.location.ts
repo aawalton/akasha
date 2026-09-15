@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const losCucosMexicanCafe = {
   id: "019f1b49-5794-7eb2-8464-f0754ab99273",
-  type: "location",
+  type: "page-type/location",
   slug: "los-cucos-mexican-cafe",
   title: "Los Cucos Mexican Cafe",
   latitude: 30.6176325,

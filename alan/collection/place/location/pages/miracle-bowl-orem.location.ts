@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const miracleBowlOrem = {
   id: "019f322c-9abc-70c8-bcec-92a59557de00",
-  type: "location",
+  type: "page-type/location",
   slug: "miracle-bowl-orem",
   title: "Miracle Bowl (Orem)",
   address: "Orem, UT",

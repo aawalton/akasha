@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const moesSouthwestGrill = {
   id: "019f1aec-0d2f-7c8f-a728-765de88c616b",
-  type: "location",
+  type: "page-type/location",
   slug: "moes-southwest-grill",
   title: "Moe's Southwest Grill",
   latitude: 40.7527033,

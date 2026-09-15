@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const palaceOfGaudiAstorga = {
   id: "019f1b49-55b7-7489-ab3c-d53ef5d30081",
-  type: "location",
+  type: "page-type/location",
   slug: "palace-of-gaudi-astorga",
   title: "Palace of Gaudì Astorga",
   latitude: 42.455401,

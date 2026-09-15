@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mcdonaldsProvo = {
   id: "019f322c-9aa6-7d4c-a19e-fb1efdc5c761",
-  type: "location",
+  type: "page-type/location",
   slug: "mcdonalds-provo",
   title: "McDonald's (Provo)",
   address: "Provo, UT",

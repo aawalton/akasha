@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const natureParkSchonebergerSudgelande = {
   id: "019f1b49-5301-7749-9fa8-ab49838a2eb6",
-  type: "location",
+  type: "page-type/location",
   slug: "nature-park-schoneberger-sudgelande",
   title: "Nature Park Schöneberger Südgelände",
   latitude: 52.459052,

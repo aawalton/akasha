@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const madPitaExpress = {
   id: "019f1aec-0dff-733a-9c11-c2f31880c86c",
-  type: "location",
+  type: "page-type/location",
   slug: "mad-pita-express",
   title: "Mad Pita Express",
   latitude: 37.1222065,

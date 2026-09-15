@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const maisonKuntzVersaillesCarnot = {
   id: "019f1b49-540a-72c6-8489-b7946e465981",
-  type: "location",
+  type: "page-type/location",
   slug: "maison-kuntz-versailles-carnot",
   title: "Maison Kuntz Versailles Carnot",
   latitude: 48.82586,

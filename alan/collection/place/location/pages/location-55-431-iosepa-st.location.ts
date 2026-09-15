@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const location55431IosepaSt = {
   id: "019f1b49-52c9-7ca0-b4ee-4ed4f7fca660",
-  type: "location",
+  type: "page-type/location",
   slug: "location-55-431-iosepa-st",
   title: "55-431 Iosepa St",
   latitude: 21.6447554,

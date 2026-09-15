@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const owenBeach = {
   id: "019f1aec-0c76-7e35-9aff-f15b0668b3d3",
-  type: "location",
+  type: "page-type/location",
   slug: "owen-beach",
   title: "Owen Beach",
   latitude: 47.3123338,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const libreriaAcquaAlta = {
   id: "019f1aec-0e1c-7ea1-a062-d478fa358d68",
-  type: "location",
+  type: "page-type/location",
   slug: "libreria-acqua-alta",
   title: "Libreria Acqua Alta",
   latitude: 45.4380556,

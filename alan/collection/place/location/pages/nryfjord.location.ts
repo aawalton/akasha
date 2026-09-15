@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const nryfjord = {
   id: "019f1aec-0eea-7d20-abaf-24f24cd57b2c",
-  type: "location",
+  type: "page-type/location",
   slug: "nryfjord",
   title: "Nærøyfjord",
   latitude: 60.9439251,

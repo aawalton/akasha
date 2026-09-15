@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const navyPier = {
   id: "019f1aec-0eb2-7dcf-8f3d-8edd5224686a",
-  type: "location",
+  type: "page-type/location",
   slug: "navy-pier",
   title: "Navy Pier",
   latitude: 41.8905809,

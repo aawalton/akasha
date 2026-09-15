@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const papaRe = {
   id: "019f1aec-0da2-7aaf-b8b3-5e0701f50354",
-  type: "location",
+  type: "page-type/location",
   slug: "papa-re",
   title: "Papa Re",
   latitude: 41.8713818,

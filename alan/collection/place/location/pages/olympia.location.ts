@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const olympia = {
   id: "019f1aec-0c91-7442-8856-d3ae9f9ee6c0",
-  type: "location",
+  type: "page-type/location",
   slug: "olympia",
   title: "Olympia",
   latitude: 47.0451022,

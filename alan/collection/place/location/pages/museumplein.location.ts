@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const museumplein = {
   id: "019f1aec-0e2d-73a7-bdde-f4c9d47b2c16",
-  type: "location",
+  type: "page-type/location",
   slug: "museumplein",
   title: "Museumplein",
   latitude: 52.3572706,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const muiderslot = {
   id: "019f1aec-0e49-723c-958f-f4d6480cd8b9",
-  type: "location",
+  type: "page-type/location",
   slug: "muiderslot",
   title: "Muiderslot",
   latitude: 52.3343768,

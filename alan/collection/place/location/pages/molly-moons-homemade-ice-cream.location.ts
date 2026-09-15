@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mollyMoonsHomemadeIceCream = {
   id: "019f1aec-0c84-7d4a-8b54-383aba543025",
-  type: "location",
+  type: "page-type/location",
   slug: "molly-moons-homemade-ice-cream",
   title: "Molly Moon's Homemade Ice Cream",
   latitude: 47.6615058,

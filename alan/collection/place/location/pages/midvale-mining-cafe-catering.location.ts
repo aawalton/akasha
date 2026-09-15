@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const midvaleMiningCafeCatering = {
   id: "019f1aec-0d0f-7bce-9537-d400efe207a0",
-  type: "location",
+  type: "page-type/location",
   slug: "midvale-mining-cafe-catering",
   title: "Midvale Mining Cafe & Catering",
   latitude: 40.6209479,

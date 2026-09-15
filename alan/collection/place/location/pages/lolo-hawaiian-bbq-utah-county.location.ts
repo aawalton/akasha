@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const loloHawaiianBbqUtahCounty = {
   id: "019f322c-9a26-77ce-91e5-2ea643566503",
-  type: "location",
+  type: "page-type/location",
   slug: "lolo-hawaiian-bbq-utah-county",
   title: "LoLo Hawaiian BBQ (Utah County)",
   address: "Utah County, UT",

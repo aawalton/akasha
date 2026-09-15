@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const outbackSteakhouseOrem = {
   id: "019f322c-9ae7-7de3-a866-74ec2f11c8c0",
-  type: "location",
+  type: "page-type/location",
   slug: "outback-steakhouse-orem",
   title: "Outback Steakhouse (Orem)",
   address: "Orem, UT",

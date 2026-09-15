@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mooseBuns = {
   id: "019f1b49-57ab-712f-ad33-e1a5f3fecd31",
-  type: "location",
+  type: "page-type/location",
   slug: "moose-buns",
   title: "Moose Buns",
   latitude: 39.297962,

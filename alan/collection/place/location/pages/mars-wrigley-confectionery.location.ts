@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const marsWrigleyConfectionery = {
   id: "019f1aec-0e96-745a-b155-58ca73cbff6b",
-  type: "location",
+  type: "page-type/location",
   slug: "mars-wrigley-confectionery",
   title: "Mars Wrigley Confectionery",
   latitude: 31.4912892,

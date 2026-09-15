@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const museeDeLorangerie = {
   id: "019f1aec-0dc4-707c-8f0c-e1ab5f1bb3bd",
-  type: "location",
+  type: "page-type/location",
   slug: "musee-de-lorangerie",
   title: "Musée de l'Orangerie",
   latitude: 48.8637655,

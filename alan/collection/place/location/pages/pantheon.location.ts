@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const pantheon = {
   id: "019f1aec-0db0-744d-89f1-2b6a9091ab49",
-  type: "location",
+  type: "page-type/location",
   slug: "pantheon",
   title: "Pantheon",
   latitude: 41.898616,

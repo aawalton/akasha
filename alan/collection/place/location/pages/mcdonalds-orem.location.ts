@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mcdonaldsOrem = {
   id: "019f322c-9a9b-75a0-99af-86157605cebe",
-  type: "location",
+  type: "page-type/location",
   slug: "mcdonalds-orem",
   title: "McDonald's (Orem)",
   address: "Orem, UT",

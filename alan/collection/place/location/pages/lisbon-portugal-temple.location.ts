@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const lisbonPortugalTemple = {
   id: "019f1aec-0eba-7cde-be4d-8bd1ba52508d",
-  type: "location",
+  type: "page-type/location",
   slug: "lisbon-portugal-temple",
   title: "Lisbon Portugal Temple",
   latitude: 38.7797971,

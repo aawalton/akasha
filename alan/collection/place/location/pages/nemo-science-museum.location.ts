@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const nemoScienceMuseum = {
   id: "019f1b49-5557-731c-9fb2-793ca9612aa5",
-  type: "location",
+  type: "page-type/location",
   slug: "nemo-science-museum",
   title: "NEMO Science Museum",
   latitude: 51.4973983,

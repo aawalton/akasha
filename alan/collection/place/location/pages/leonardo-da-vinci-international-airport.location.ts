@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const leonardoDaVinciInternationalAirport = {
   id: "019f1b49-53d5-7d3c-8b4e-63a9477fa5e7",
-  type: "location",
+  type: "page-type/location",
   slug: "leonardo-da-vinci-international-airport",
   title: "Leonardo da Vinci International Airport",
   latitude: 41.77271,

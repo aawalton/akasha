@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mandalynAcademyUtahCounty = {
   id: "019f322c-9a44-7c1d-bd95-55bc7dea36d1",
-  type: "location",
+  type: "page-type/location",
   slug: "mandalyn-academy-utah-county",
   title: "Mandalyn Academy (Utah County)",
   address: "Utah County, UT",

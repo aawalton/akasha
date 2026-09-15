@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ninjaPlaygroundUtahCounty = {
   id: "019f322c-9ad8-78f3-9458-2cec8fc0a90f",
-  type: "location",
+  type: "page-type/location",
   slug: "ninja-playground-utah-county",
   title: "Ninja Playground (Utah County)",
   address: "Utah County, UT",

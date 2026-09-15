@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ocotilloPrimeLenaYMar = {
   id: "019f1b49-513f-75a3-8b97-e96b6410cb23",
-  type: "location",
+  type: "page-type/location",
   slug: "ocotillo-prime-lena-y-mar",
   title: "Ocotillo Prime Leña Y Mar",
   latitude: 32.743435,

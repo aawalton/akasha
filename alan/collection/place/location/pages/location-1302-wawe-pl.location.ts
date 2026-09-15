@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const location1302WawePl = {
   id: "019f1b49-52b7-74ff-97c5-ee4c176c669e",
-  type: "location",
+  type: "page-type/location",
   slug: "location-1302-wawe-pl",
   title: "1302 Wawe Pl",
   latitude: 21.3648843,

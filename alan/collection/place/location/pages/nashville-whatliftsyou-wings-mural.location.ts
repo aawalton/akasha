@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const nashvilleWhatliftsyouWingsMural = {
   id: "019f1b49-548a-7e7b-b707-79bea2b6a827",
-  type: "location",
+  type: "page-type/location",
   slug: "nashville-whatliftsyou-wings-mural",
   title: "Nashville WhatLiftsYou Wings Mural",
   latitude: 36.1622767,

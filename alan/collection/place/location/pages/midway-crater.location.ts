@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const midwayCrater = {
   id: "019f1b49-570d-7b85-865d-66c71cfc2fd6",
-  type: "location",
+  type: "page-type/location",
   slug: "midway-crater",
   title: "Midway Crater",
   latitude: 40.500606,

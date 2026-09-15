@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const location5StarBbqUtahCounty = {
   id: "019f322c-912f-7b55-963d-2d5314259b78",
-  type: "location",
+  type: "page-type/location",
   slug: "location-5-star-bbq-utah-county",
   title: "5 Star BBQ (Utah County)",
   address: "Utah County, UT",

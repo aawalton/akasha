@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const museumOfGlass = {
   id: "019f1aec-0cac-7d1d-bec1-b7b2b145abd4",
-  type: "location",
+  type: "page-type/location",
   slug: "museum-of-glass",
   title: "Museum of Glass",
   latitude: 47.2458241,

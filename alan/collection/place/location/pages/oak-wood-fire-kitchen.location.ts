@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const oakWoodFireKitchen = {
   id: "019f1aec-0ce0-770b-862d-3bab6f7b859a",
-  type: "location",
+  type: "page-type/location",
   slug: "oak-wood-fire-kitchen",
   title: "OAK Wood Fire Kitchen",
   latitude: 40.5279236,

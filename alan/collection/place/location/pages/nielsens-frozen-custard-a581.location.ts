@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const nielsensFrozenCustardA581 = {
   id: "019f1aec-0f7e-7ac5-aa10-a61b3b82a581",
-  type: "location",
+  type: "page-type/location",
   slug: "nielsens-frozen-custard-a581",
   title: "Nielsen's Frozen Custard",
   address: "3779 South Jordan Pkwy, South Jordan, UT 84009, United States",

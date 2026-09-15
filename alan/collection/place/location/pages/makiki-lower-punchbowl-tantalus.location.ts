@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const makikiLowerPunchbowlTantalus = {
   id: "019f1b49-52c6-7f4b-8066-732f66e1e540",
-  type: "location",
+  type: "page-type/location",
   slug: "makiki-lower-punchbowl-tantalus",
   title: "Makiki - Lower Punchbowl - Tantalus",
   latitude: 21.31756,

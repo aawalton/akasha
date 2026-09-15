@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const littleItalyStreetSign = {
   id: "019f1b49-558a-77f3-b80b-ff7b2204166f",
-  type: "location",
+  type: "page-type/location",
   slug: "little-italy-street-sign",
   title: "Little Italy Street Sign",
   latitude: 38.796491,

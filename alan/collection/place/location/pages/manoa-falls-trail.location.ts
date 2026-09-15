@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const manoaFallsTrail = {
   id: "019f1b49-52a9-716d-85ce-5846706ad717",
-  type: "location",
+  type: "page-type/location",
   slug: "manoa-falls-trail",
   title: "Manoa Falls Trail",
   latitude: 21.337141,

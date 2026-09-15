@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const matsumotoShaveIce = {
   id: "019f1b49-52cc-795b-a6da-26f3ce1c831a",
-  type: "location",
+  type: "page-type/location",
   slug: "matsumoto-shave-ice",
   title: "Matsumoto Shave Ice",
   latitude: 21.5911077,

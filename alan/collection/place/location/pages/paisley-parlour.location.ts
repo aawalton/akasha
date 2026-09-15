@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const paisleyParlour = {
   id: "019f1b49-50f0-734f-b048-4653625a7d25",
-  type: "location",
+  type: "page-type/location",
   slug: "paisley-parlour",
   title: "Paisley Parlour",
   latitude: 48.063334,

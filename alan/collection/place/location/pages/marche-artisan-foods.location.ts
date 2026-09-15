@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const marcheArtisanFoods = {
   id: "019f1aec-0de0-7315-a5a4-902d2f192d68",
-  type: "location",
+  type: "page-type/location",
   slug: "marche-artisan-foods",
   title: "Marché Artisan Foods",
   latitude: 36.1780436,

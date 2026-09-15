@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const mrsCavanaughsChocolatesUtahCounty = {
   id: "019f322c-9ac8-7d12-8666-650554c6d3ac",
-  type: "location",
+  type: "page-type/location",
   slug: "mrs-cavanaughs-chocolates-utah-county",
   title: "Mrs. Cavanaugh's Chocolates (Utah County)",
   address: "Utah County, UT",
