@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0063Chapter62TheLordAndTacoTuesday = {
   id: "01a06730-4df6-7293-971d-b5456a476fa2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0063-chapter-62-the-lord-and-taco-tuesday",
   title: "Chapter 62: The Lord and Taco Tuesday",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

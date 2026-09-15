@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0043Chapter42Ctrlaltdelete = {
   id: "01a06730-4dee-7e17-9b60-c883633f6ece",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0043-chapter-42-ctrlaltdelete",
   title: "Chapter 42: Ctrl+Alt+Delete",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

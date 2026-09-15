@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0026Chapter25TheArenaOfTheTitans = {
   id: "01a06730-4ded-7c0d-a1b8-0bc7dd9c7295",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0026-chapter-25-the-arena-of-the-titans",
   title: "Chapter 25: The Arena of the Titans",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

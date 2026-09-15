@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0022Chapter103AcademyApprovedBattleMagic = {
   id: "01a06730-4f4b-7649-97c3-dd790e607ef6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0022-chapter-103-academy-approved-battle-magic",
   title: "Chapter 103: Academy-approved Battle Magic",
   story: "story-read/the-calamitous-bob-stubbed",

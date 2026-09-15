@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0014Chapter95TheFateOfEnoria = {
   id: "01a06730-4f43-72ef-9f42-98ae4670d19b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0014-chapter-95-the-fate-of-enoria",
   title: "Chapter 95: The Fate of Enoria.",
   story: "story-read/the-calamitous-bob-stubbed",

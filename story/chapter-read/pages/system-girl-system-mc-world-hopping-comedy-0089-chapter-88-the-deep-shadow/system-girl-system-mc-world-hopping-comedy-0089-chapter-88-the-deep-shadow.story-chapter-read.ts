@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0089Chapter88TheDeepShadow = {
   id: "01a06730-4dfe-7d7e-b51f-a09e098e95e1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0089-chapter-88-the-deep-shadow",
   title: "Chapter 88: The Deep Shadow",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

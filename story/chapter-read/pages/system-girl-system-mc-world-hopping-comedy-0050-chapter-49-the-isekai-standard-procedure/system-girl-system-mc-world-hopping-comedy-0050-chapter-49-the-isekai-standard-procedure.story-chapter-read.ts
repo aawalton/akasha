@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0050Chapter49TheIsekaiStandardProcedure = {
   id: "01a06730-4def-7f2f-befb-d4f0cc428202",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0050-chapter-49-the-isekai-standard-procedure",
   title: "Chapter 49: The Isekai Standard Procedure",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

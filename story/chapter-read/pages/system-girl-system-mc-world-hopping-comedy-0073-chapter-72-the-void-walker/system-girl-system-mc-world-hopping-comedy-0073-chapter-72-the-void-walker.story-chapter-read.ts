@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0073Chapter72TheVoidWalker = {
   id: "01a06730-4df8-7e83-b1cb-1a4b5a243e65",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0073-chapter-72-the-void-walker",
   title: "Chapter 72: The Void Walker",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

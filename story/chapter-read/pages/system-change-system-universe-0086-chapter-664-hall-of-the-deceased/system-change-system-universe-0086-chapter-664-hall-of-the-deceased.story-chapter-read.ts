@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0086Chapter664HallOfTheDeceased = {
   id: "01a06730-4fbc-7238-85b6-91cdc71a87f2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0086-chapter-664-hall-of-the-deceased",
   title: "Chapter 664: Hall of the Deceased",
   story: "story-read/system-change-system-universe",

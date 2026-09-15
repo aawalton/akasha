@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0042Chapter41TheBlueScreenOfDeath = {
   id: "01a06730-4dee-7db5-a198-951ab3477883",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0042-chapter-41-the-blue-screen-of-death",
   title: "Chapter 41: The Blue Screen of Death",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

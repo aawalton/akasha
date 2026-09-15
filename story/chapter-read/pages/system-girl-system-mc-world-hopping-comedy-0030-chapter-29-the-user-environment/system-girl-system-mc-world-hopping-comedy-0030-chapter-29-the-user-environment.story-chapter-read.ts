@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0030Chapter29TheUserEnvironment = {
   id: "01a06730-4ded-7439-b1fc-57fd87dd2b67",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0030-chapter-29-the-user-environment",
   title: "Chapter 29: The User Environment",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

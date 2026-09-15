@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0091Chapter90TheMichelinMenu = {
   id: "01a06730-4dfe-7464-995b-55dbdd1aa232",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0091-chapter-90-the-michelin-menu",
   title: "Chapter 90: The Michelin Menu",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0106Chapter684Challenge = {
   id: "01a090ca-3268-7cf9-93c9-f3e127e4c3fa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0106-chapter-684-challenge",
   position: 106,
   publishedAt: "2026-09-10",

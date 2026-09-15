@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0100Chapter99TheCostOfGrainAndMercy = {
   id: "01a06730-4e05-7d5f-986a-64a9da2604e5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0100-chapter-99-the-cost-of-grain-and-mercy",
   title: "Chapter 99: The Cost of Grain and Mercy",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

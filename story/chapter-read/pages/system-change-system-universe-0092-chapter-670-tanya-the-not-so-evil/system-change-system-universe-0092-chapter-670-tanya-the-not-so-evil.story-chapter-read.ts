@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0092Chapter670TanyaTheNotSoEvil = {
   id: "01a06730-4fbd-7349-924f-bbb665c2d866",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0092-chapter-670-tanya-the-not-so-evil",
   title: "Chapter 670: Tanya the Not-So-Evil",
   story: "story-read/system-change-system-universe",

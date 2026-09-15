@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0033Chapter32TheSilentOrchestra = {
   id: "01a06730-4ded-76af-b813-d22dce469ff8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0033-chapter-32-the-silent-orchestra",
   title: "Chapter 32: The Silent Orchestra",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

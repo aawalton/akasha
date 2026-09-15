@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0104Chapter103AMoonlitPlateForTheBeast = {
   id: "01a09738-28c2-733f-837c-42dc87857e1f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0104-chapter-103-a-moonlit-plate-for-the-beast",
   position: 104,
   publishedAt: "2026-09-12",

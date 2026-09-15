@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0042Chapter122RemnantsOfABygoneAge = {
   id: "01a06730-4f5b-7879-bae2-cec2053e8264",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0042-chapter-122-remnants-of-a-bygone-age",
   title: "Chapter 122: Remnants of a bygone age.",
   story: "story-read/the-calamitous-bob-stubbed",

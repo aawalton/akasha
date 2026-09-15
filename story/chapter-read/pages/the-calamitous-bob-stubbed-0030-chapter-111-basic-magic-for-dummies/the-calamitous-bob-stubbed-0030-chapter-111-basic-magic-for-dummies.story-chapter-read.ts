@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0030Chapter111BasicMagicForDummies = {
   id: "01a06730-4f50-776e-b1e4-def44ed760cb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0030-chapter-111-basic-magic-for-dummies",
   title: "Chapter 111. Basic magic for dummies",
   story: "story-read/the-calamitous-bob-stubbed",

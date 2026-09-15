@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0018Chapter18AVoiceInTheCode = {
   id: "01a06730-4dec-73af-adf8-da00578cc79f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0018-chapter-18-a-voice-in-the-code",
   title: "Chapter 18: A Voice in the Code",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

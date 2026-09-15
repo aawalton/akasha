@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0018Chapter99TheTasteOfFreedom = {
   id: "01a06730-4f47-7bc9-a484-23beabf2e2a7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0018-chapter-99-the-taste-of-freedom",
   title: "Chapter 99: The Taste of Freedom",
   story: "story-read/the-calamitous-bob-stubbed",

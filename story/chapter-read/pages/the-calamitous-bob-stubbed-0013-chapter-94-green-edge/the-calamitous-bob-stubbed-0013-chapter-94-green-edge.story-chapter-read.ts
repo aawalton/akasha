@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0013Chapter94GreenEdge = {
   id: "01a06730-4f42-7969-afc8-c6bc4c2b741f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0013-chapter-94-green-edge",
   title: "Chapter 94: Green Edge",
   story: "story-read/the-calamitous-bob-stubbed",

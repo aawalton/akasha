@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0047Chapter127TheGatesOfHell = {
   id: "01a06730-4f61-7a35-969d-505fcd568179",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0047-chapter-127-the-gates-of-hell",
   title: "Chapter 127: The Gates of Hell",
   story: "story-read/the-calamitous-bob-stubbed",

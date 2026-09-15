@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0067Chapter147OhNeriadICanTChange = {
   id: "01a06730-4f74-731d-af03-8e6221cd43ec",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0067-chapter-147-oh-neriad-i-can-t-change",
   title: "Chapter 147: Oh Neriad, I can't change.",
   story: "story-read/the-calamitous-bob-stubbed",

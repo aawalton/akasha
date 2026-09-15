@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0002Chapter2UpACreekNoPaddle = {
   id: "01a06730-4f36-75df-9d13-ff0c0513d5f7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0002-chapter-2-up-a-creek-no-paddle",
   title: "Chapter 2: Up a Creek, No Paddle",
   story: "story-read/the-calamitous-bob-stubbed",

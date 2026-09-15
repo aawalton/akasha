@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0094Chapter93TheFivePledges = {
   id: "01a06730-4e04-7cfe-a58e-a12da0bb81bf",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0094-chapter-93-the-five-pledges",
   title: "Chapter 93: The Five Pledges",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

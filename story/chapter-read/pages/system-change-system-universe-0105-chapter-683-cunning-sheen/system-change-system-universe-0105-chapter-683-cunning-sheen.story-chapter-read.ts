@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0105Chapter683CunningSheen = {
   id: "01a08397-20b4-70f0-9302-0f76ad61a8e5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0105-chapter-683-cunning-sheen",
   story: "story-read/system-change-system-universe",
   position: 105,

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0036Chapter35CrunchTimeInTheLabyrinth = {
   id: "01a06730-4ded-7056-ba27-ff94bbafed46",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0036-chapter-35-crunch-time-in-the-labyrinth",
   title: "Chapter 35: Crunch Time in the Labyrinth",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

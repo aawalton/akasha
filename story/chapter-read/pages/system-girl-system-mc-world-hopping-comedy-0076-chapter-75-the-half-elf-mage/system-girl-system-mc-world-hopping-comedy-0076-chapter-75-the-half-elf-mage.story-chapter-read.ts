@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemGirlSystemMcWorldHoppingComedy0076Chapter75TheHalfElfMage = {
   id: "01a06730-4df8-7e32-b53d-86660ff72cd4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0076-chapter-75-the-half-elf-mage",
   title: "Chapter 75: The Half-Elf Mage",
   story: "story-read/system-girl-system-mc-world-hopping-comedy",

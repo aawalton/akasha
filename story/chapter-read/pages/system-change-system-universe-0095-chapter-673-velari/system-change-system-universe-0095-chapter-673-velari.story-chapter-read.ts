@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const systemChangeSystemUniverse0095Chapter673Velari = {
   id: "01a06730-4fbd-7a13-a04c-900aea4074a2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0095-chapter-673-velari",
   title: "Chapter 673: Velari",
   story: "story-read/system-change-system-universe",

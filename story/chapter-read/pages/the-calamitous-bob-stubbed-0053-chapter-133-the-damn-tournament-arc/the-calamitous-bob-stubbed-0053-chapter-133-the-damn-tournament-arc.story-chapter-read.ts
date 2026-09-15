@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0053Chapter133TheDamnTournamentArc = {
   id: "01a06730-4f66-733e-8fac-3d9db842e2c9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0053-chapter-133-the-damn-tournament-arc",
   title: "Chapter 133: The Damn Tournament Arc",
   story: "story-read/the-calamitous-bob-stubbed",

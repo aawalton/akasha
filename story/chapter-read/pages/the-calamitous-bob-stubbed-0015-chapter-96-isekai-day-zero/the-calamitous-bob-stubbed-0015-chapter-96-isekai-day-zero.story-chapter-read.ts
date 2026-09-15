@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theCalamitousBobStubbed0015Chapter96IsekaiDayZero = {
   id: "01a06730-4f44-780b-804c-0d29adc94285",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0015-chapter-96-isekai-day-zero",
   title: "Chapter 96: Isekai, day zero",
   story: "story-read/the-calamitous-bob-stubbed",
