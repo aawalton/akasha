@@ -7,7 +7,7 @@ import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.
 import type {
   TributePatronCatalogCard,
   TributePatronCatalogEntry,
-} from "akasha/temper/capture-shapes/modules/tribute-catalog/tribute-catalog.module.code.ts"
+} from "akasha/temper/capture-shape/modules/tribute-catalog/tribute-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 

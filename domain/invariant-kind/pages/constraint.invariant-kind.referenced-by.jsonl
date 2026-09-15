@@ -368,7 +368,7 @@
 {"propertySlug":"invariant-kind","path":"temper/build-support/modules/confirm-set-target/confirm-set-target.module.ts","id":"01a090a4-c227-7bc1-87d7-d7b98fe5499c"}
 {"propertySlug":"invariant-kind","path":"temper/capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts","id":"01a06341-d9e8-7008-91c3-2fcab6b143bf"}
 {"propertySlug":"invariant-kind","path":"temper/capture-sales-addon/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
-{"propertySlug":"invariant-kind","path":"temper/capture-shapes/temper-capture-shapes.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
+{"propertySlug":"invariant-kind","path":"temper/capture-shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
 {"propertySlug":"invariant-kind","path":"temper/capture-writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}

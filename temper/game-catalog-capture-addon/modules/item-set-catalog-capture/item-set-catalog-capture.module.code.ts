@@ -7,7 +7,7 @@ import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import type {
   ItemSetCatalogEntry,
   ItemSetCatalogPiece,
-} from "akasha/temper/capture-shapes/modules/item-set-catalog/item-set-catalog.module.code.ts"
+} from "akasha/temper/capture-shape/modules/item-set-catalog/item-set-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/modules/run-batched/run-batched.module.code.ts"
 import {
   BATCH_DELAY,

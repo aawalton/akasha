@@ -3,7 +3,7 @@ import type {
   LoreLibraryCatalogBook,
   LoreLibraryCatalogCategory,
   LoreLibraryCatalogCollection,
-} from "akasha/temper/capture-shapes/modules/lore-library-catalog/lore-library-catalog.module.code.ts"
+} from "akasha/temper/capture-shape/modules/lore-library-catalog/lore-library-catalog.module.code.ts"
 import { z } from "zod"
 
 const loreLibraryBookSchema = z

@@ -5,7 +5,7 @@ import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.
 import type {
   RecipeCatalogList,
   RecipeCatalogRecipe,
-} from "akasha/temper/capture-shapes/modules/recipe-catalog/recipe-catalog.module.code.ts"
+} from "akasha/temper/capture-shape/modules/recipe-catalog/recipe-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 

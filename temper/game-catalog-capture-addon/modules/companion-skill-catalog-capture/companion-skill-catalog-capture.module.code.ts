@@ -7,7 +7,7 @@ import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import type {
   CompanionSkillCatalogAbility,
   CompanionSkillCatalogLine,
-} from "akasha/temper/capture-shapes/modules/companion-skill-catalog/companion-skill-catalog.module.code.ts"
+} from "akasha/temper/capture-shape/modules/companion-skill-catalog/companion-skill-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/modules/run-batched/run-batched.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"

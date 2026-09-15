@@ -3,7 +3,7 @@ import "akasha/temper/eso-types/eso-functions-05/eso-functions-05.type-declarati
 import "akasha/temper/eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
-import type { AchievementCatalogData } from "akasha/temper/capture-shapes/modules/achievement-catalog/achievement-catalog.module.code.ts"
+import type { AchievementCatalogData } from "akasha/temper/capture-shape/modules/achievement-catalog/achievement-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/modules/run-batched/run-batched.module.code.ts"
 import {
   BATCH_DELAY,

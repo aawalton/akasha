@@ -2,7 +2,7 @@ import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/modules/a
 import type {
   TributePatronCatalogCard,
   TributePatronCatalogEntry,
-} from "akasha/temper/capture-shapes/modules/tribute-catalog/tribute-catalog.module.code.ts"
+} from "akasha/temper/capture-shape/modules/tribute-catalog/tribute-catalog.module.code.ts"
 import { z } from "zod"
 
 const tributePatronCatalogCardSchema = z

@@ -3290,7 +3290,7 @@
 {"propertySlug":"invariant-kind","path":"temper/capture-sales-addon/modules/sales-addon-entry/sales-addon-entry.module.ts","id":"01a060e2-3180-7c1e-a6c8-0d7019081afa"}
 {"propertySlug":"invariant-kind","path":"temper/capture-sales-addon/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
 {"propertySlug":"invariant-kind","path":"temper/capture-sales-addon/temper-capture-sales-addon.eso-addon.ts","id":"01a060e2-3181-7c02-be71-c63b5b648d5b"}
-{"propertySlug":"invariant-kind","path":"temper/capture-shapes/temper-capture-shapes.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
+{"propertySlug":"invariant-kind","path":"temper/capture-shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
 {"propertySlug":"invariant-kind","path":"temper/capture-writer/modules/account-wide-vars/account-wide-vars.module.ts","id":"01a060b5-5ba8-7a8b-9378-5bd025a7cb9d"}
 {"propertySlug":"invariant-kind","path":"temper/capture-writer/modules/capture-writer/capture-writer.module.ts","id":"01a060b5-5ba9-7490-bcc8-208680a38a27"}
 {"propertySlug":"invariant-kind","path":"temper/capture-writer/modules/run-batched/run-batched.module.ts","id":"01a060b5-5ba9-7ee1-a925-9a6bbfd758f4"}
