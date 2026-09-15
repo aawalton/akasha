@@ -1,10 +1,7 @@
 import { join } from "node:path"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
-import {
-  answered,
-  heldOnce,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { answered, heldOnce } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import {
