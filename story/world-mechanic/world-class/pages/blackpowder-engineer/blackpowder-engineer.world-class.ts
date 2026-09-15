@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const blackpowderEngineer = {
   id: "01a0657e-01bb-7e5e-82e8-46f9845ba9af",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "blackpowder-engineer",
   title: "Blackpowder Engineer",
   world: "world/the-wandering-inn",

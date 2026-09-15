@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const cameraOperators = {
   id: "01a0657e-01c1-7f54-9ac8-f6eee05a13de",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "camera-operators",
   title: "Camera Operators",
   world: "world/the-wandering-inn",

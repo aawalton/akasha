@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const brickLayer = {
   id: "01a0657e-01c0-788e-a52b-9111d9bd42f0",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "brick-layer",
   title: "Brick Layer",
   world: "world/the-wandering-inn",

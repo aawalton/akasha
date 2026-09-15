@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const bugCollector = {
   id: "01a0657e-1341-7b99-a796-ae9c3b97ad3c",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "bug-collector",
   title: "Bug Collector",
   world: "world/the-wandering-inn",

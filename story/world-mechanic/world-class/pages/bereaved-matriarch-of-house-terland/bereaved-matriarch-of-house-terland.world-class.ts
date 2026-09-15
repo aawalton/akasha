@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const bereavedMatriarchOfHouseTerland = {
   id: "01a0657e-133d-7adf-89bb-b1c4371a5162",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "bereaved-matriarch-of-house-terland",
   title: "Bereaved Matriarch of House Terland",
   world: "world/the-wandering-inn",

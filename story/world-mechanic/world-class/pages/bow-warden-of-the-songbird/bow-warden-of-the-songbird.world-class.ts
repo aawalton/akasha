@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const bowWardenOfTheSongbird = {
   id: "01a0657e-01c0-7088-bbe4-a260c3ec34bd",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "bow-warden-of-the-songbird",
   title: "Bow-Warden of the Songbird",
   world: "world/the-wandering-inn",

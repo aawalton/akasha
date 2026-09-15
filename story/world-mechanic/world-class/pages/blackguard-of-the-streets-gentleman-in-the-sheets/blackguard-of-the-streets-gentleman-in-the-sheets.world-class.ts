@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const blackguardOfTheStreetsGentlemanInTheSheets = {
   id: "01a0657e-01bb-7e4a-8dc6-7005896a8ef9",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "blackguard-of-the-streets-gentleman-in-the-sheets",
   title: "Blackguard of the Streets, Gentleman in the Sheets",
   world: "world/the-wandering-inn",
