@@ -2,7 +2,6 @@
 {"propertySlug":"extends-type","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/strength/exercise/selection/constraint/strength-exercise-selection-constraint.page-type.ts","id":"01a09321-570f-755f-bc16-c8ba7c719e26"}
 {"propertySlug":"extends-type","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
-{"propertySlug":"extends-type","path":"change/guard/change-guard.page-type.ts","id":"01a07744-1310-721d-8751-4a3757cf2d90"}
 {"propertySlug":"extends-type","path":"change/runner/change-runner.page-type.ts","id":"01a077c2-3a15-7c14-8900-ecb0624ff450"}
 {"propertySlug":"extends-type","path":"check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts","id":"01a04e33-f280-701e-96a0-859a53ed8298"}
 {"propertySlug":"extends-type","path":"check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.ts","id":"01a0500d-738b-79f3-8932-7d947cd9b51b"}
@@ -910,7 +909,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/use-next-unread/use-next-unread.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/use-reader-active-marks/use-reader-active-marks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/change.page-type.types.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/guard/change-guard.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/address-restating/address-restating.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/answer/change-answer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.ts"}
@@ -921,7 +919,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/file-carrying/file-carrying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/gated-landing/gated-landing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/gated-write/gated-write.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/guarding/change-guarding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/import-lines/import-lines.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/import-repointing/import-repointing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/json-entries/json-entries.module.ts"}

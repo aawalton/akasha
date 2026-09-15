@@ -1,8 +1,4 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/guard/pages/import-not-left-hanging/import-not-left-hanging.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/guard/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/modules/guarding/change-guarding.module.code.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/modules/guarding/change-guarding.module.types.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/runner/change-runner.page-type.type-generator.ts"}

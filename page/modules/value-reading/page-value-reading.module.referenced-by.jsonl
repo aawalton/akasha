@@ -58,10 +58,6 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/guard/pages/identity-not-already-held/identity-not-already-held.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/guard/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/guard/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/guard/pages/slug-names-one-property/slug-names-one-property.change-guard.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.test.ts"}

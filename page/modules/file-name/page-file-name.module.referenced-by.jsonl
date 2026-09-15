@@ -47,13 +47,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/rename-pages/rename-pages.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/guard/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/guard/pages/field-key-not-carried-twice/field-key-not-carried-twice.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/guard/pages/identity-not-already-held/identity-not-already-held.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/guard/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/guard/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/guard/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/guard/pages/slug-names-one-property/slug-names-one-property.change-guard.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.code.ts"}

@@ -15,15 +15,6 @@
 {"propertySlug":"change-target-type","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.ts","id":"01a095d5-f114-71cc-888d-338de89fc74b"}
 {"propertySlug":"change-target-type","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.ts","id":"01a07718-c9b6-7d80-aebd-b1155f08ab77"}
 {"propertySlug":"change-target-type","path":"change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.ts","id":"01a08dc4-e449-7081-b339-7a0d9b4ca947"}
-{"propertySlug":"change-target-type","path":"change/guard/pages/field-key-not-carried-twice/field-key-not-carried-twice.change-guard.ts","id":"01a07984-2e7f-7d7a-aee0-2708d063ae88"}
-{"propertySlug":"change-target-type","path":"change/guard/pages/folder-not-left-named/folder-not-left-named.change-guard.ts","id":"01a08238-9081-766f-acab-30c5d8f612ee"}
-{"propertySlug":"change-target-type","path":"change/guard/pages/identity-not-already-held/identity-not-already-held.change-guard.ts","id":"01a0797f-d415-717a-919e-cc0760a816fd"}
-{"propertySlug":"change-target-type","path":"change/guard/pages/import-not-left-hanging/import-not-left-hanging.change-guard.ts","id":"01a07750-f2bd-7d2d-8ad4-0ebf57b8dd1f"}
-{"propertySlug":"change-target-type","path":"change/guard/pages/import-reaches-a-file/import-reaches-a-file.change-guard.ts","id":"01a07969-9122-7db9-ad3c-de58ab103a06"}
-{"propertySlug":"change-target-type","path":"change/guard/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.ts","id":"01a0798b-75e5-74cb-96a6-d72e53dc5424"}
-{"propertySlug":"change-target-type","path":"change/guard/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.ts","id":"01a07750-f2bc-7b43-a336-b879db98da45"}
-{"propertySlug":"change-target-type","path":"change/guard/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.ts","id":"01a07976-d28f-7fac-9491-0467366b86b4"}
-{"propertySlug":"change-target-type","path":"change/guard/pages/slug-names-one-property/slug-names-one-property.change-guard.ts","id":"01a087a8-1eb3-77b4-bc4e-82237084862d"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts","id":"01a08174-b09a-7bbd-acf1-6892ecfb3575"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.ts","id":"01a081d9-419a-72bf-ae0b-5318df5fce07"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts","id":"01a07932-2568-72a6-8b8e-314ac44c417b"}

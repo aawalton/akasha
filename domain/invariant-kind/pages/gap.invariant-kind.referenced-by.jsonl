@@ -168,10 +168,6 @@
 {"propertySlug":"invariant-kind","path":"alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.ts","id":"01a0655d-dab8-7c58-8569-1c6e3295591b"}
 {"propertySlug":"invariant-kind","path":"alan/web/modules/home-dni/home-dni.module.ts","id":"01a0655d-daa7-7945-ac04-32daf772c01c"}
 {"propertySlug":"invariant-kind","path":"alan/web/modules/offline-text/offline-text.module.ts","id":"01a0655d-daab-77d7-a316-1495d9684b74"}
-{"propertySlug":"invariant-kind","path":"change/guard/pages/folder-not-left-named/folder-not-left-named.change-guard.ts","id":"01a08238-9081-766f-acab-30c5d8f612ee"}
-{"propertySlug":"invariant-kind","path":"change/guard/pages/identity-not-already-held/identity-not-already-held.change-guard.ts","id":"01a0797f-d415-717a-919e-cc0760a816fd"}
-{"propertySlug":"invariant-kind","path":"change/guard/pages/import-reaches-a-file/import-reaches-a-file.change-guard.ts","id":"01a07969-9122-7db9-ad3c-de58ab103a06"}
-{"propertySlug":"invariant-kind","path":"change/guard/pages/slug-names-one-property/slug-names-one-property.change-guard.ts","id":"01a087a8-1eb3-77b4-bc4e-82237084862d"}
 {"propertySlug":"invariant-kind","path":"change/kind/pages/change-mechanical.change-kind.ts","id":"01a05df1-e262-72e3-8f24-d6e5e4ed122d"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts","id":"01a08239-8d1d-7b49-a5c2-fc039de37378"}
 {"propertySlug":"invariant-kind","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.ts","id":"01a09c75-f89f-7276-9b93-86898be2b3a2"}

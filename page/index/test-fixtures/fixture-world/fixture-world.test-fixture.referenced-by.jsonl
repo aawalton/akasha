@@ -6,16 +6,6 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file/move-pages/move-pages.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/folder/nest-modules/nest-modules.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/field-key-not-carried-twice/field-key-not-carried-twice.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/folder-not-left-named/folder-not-left-named.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/identity-not-already-held/identity-not-already-held.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/import-not-left-hanging/import-not-left-hanging.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/import-reaches-a-file/import-reaches-a-file.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/guard/pages/slug-names-one-property/slug-names-one-property.change-guard.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.test.ts"}
@@ -40,8 +30,6 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/edits-keeping/edits-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/export-renaming/export-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/file-carrying/file-carrying.module.test.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/guarding/change-guarding.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/guarding/change-guarding.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/page-claiming/page-claiming.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/page-knowing/page-knowing.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/page-type-renaming/page-type-renaming.module.test.ts"}
