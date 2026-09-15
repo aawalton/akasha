@@ -383,7 +383,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/bootstrap-layer/bootstrap-layer.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/commands/infrastructure-commands.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/command/infrastructure-command.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/container-image.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/dockerfiles/built-image/built-image.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/dockerfiles/dockerfiles.domain.ts"}

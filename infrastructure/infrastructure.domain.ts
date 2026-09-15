@@ -15,7 +15,7 @@ export const infrastructure = {
     "domain/eso-rig",
     "domain/git-transport",
     "domain/inference",
-    "domain/infrastructure-commands",
+    "domain/infrastructure-command",
     "domain/job",
     "domain/loki-service",
     "domain/machines",
