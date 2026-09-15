@@ -2,7 +2,7 @@ import type { WorldSong } from "akasha/story/world-mechanic/world-song/world-son
 
 export const peacefulMelody = {
   id: "01a0655a-0688-7f77-b8a8-4145aef07660",
-  type: "world-song",
+  type: "page-type/world-song",
   slug: "peaceful-melody",
   title: "Peaceful Melody",
   world: "world/the-wandering-inn",
