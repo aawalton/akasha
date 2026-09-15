@@ -8,16 +8,16 @@ import {
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
 import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 
-const NAMESPACE = "page-store"
-const APP_NAME = "page-store"
-const INSTANCE_NAME = "page-store"
-const COMPONENT = "page-store-forwarder"
-const PART_OF = "page-store"
+const NAMESPACE = "page-forwarder"
+const APP_NAME = "page-forwarder"
+const INSTANCE_NAME = "page-forwarder"
+const COMPONENT = "page-forwarder"
+const PART_OF = "page-forwarder"
 const MANAGED_BY = "deploy-script"
 
 const SOCAT_IMAGE = "alpine/socat:1.8.0.3"
 
-const PAGE_STORE_PORT = 8787
+const FORWARDER_PORT = 8787
 
 const WORKSTATION_HOST = "workstation.alanwalton.ts.net"
 
@@ -39,9 +39,9 @@ const DEPLOYMENT_SELECTOR_LABELS = selectorOf(DEPLOYMENT_LABELS, "name-instance"
 
 const NETPOL_LABELS = kubernetesLabels({ name: APP_NAME, managedBy: MANAGED_BY })
 
-const LISTEN_ADDRESS = `TCP-LISTEN:${PAGE_STORE_PORT},fork,reuseaddr`
+const LISTEN_ADDRESS = `TCP-LISTEN:${FORWARDER_PORT},fork,reuseaddr`
 
-const DIAL_ADDRESS = `PROXY:${EGRESS_HOST}:${WORKSTATION_HOST}:${PAGE_STORE_PORT},proxyport=${EGRESS_PORT}`
+const DIAL_ADDRESS = `PROXY:${EGRESS_HOST}:${WORKSTATION_HOST}:${FORWARDER_PORT},proxyport=${EGRESS_PORT}`
 
 const ASK_PATH = "/ask"
 
@@ -56,7 +56,7 @@ const READINESS_SECONDS = 8
 const READINESS_COMMAND = [
   "/bin/sh",
   "-c",
-  `wget -q -O- --timeout=${READINESS_SECONDS} --header='content-type: application/json' --post-data='${READINESS_QUESTION}' http://127.0.0.1:${PAGE_STORE_PORT}${ASK_PATH} | grep -q '"rows"'`,
+  `wget -q -O- --timeout=${READINESS_SECONDS} --header='content-type: application/json' --post-data='${READINESS_QUESTION}' http://127.0.0.1:${FORWARDER_PORT}${ASK_PATH} | grep -q '"rows"'`,
 ]
 
 function deploymentYaml(): string {
@@ -64,7 +64,7 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "page-store",
+      name: "page-forwarder",
       namespace: NAMESPACE,
       labels: DEPLOYMENT_LABELS,
     },
@@ -81,7 +81,7 @@ function deploymentYaml(): string {
               image: SOCAT_IMAGE,
               command: ["socat"],
               args: ["-d", "-d", LISTEN_ADDRESS, DIAL_ADDRESS],
-              ports: [{ name: "page-store", containerPort: PAGE_STORE_PORT, protocol: "TCP" }],
+              ports: [{ name: "page-forwarder", containerPort: FORWARDER_PORT, protocol: "TCP" }],
               readinessProbe: {
                 exec: { command: READINESS_COMMAND },
                 initialDelaySeconds: 2,
@@ -114,7 +114,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "page-store",
+      name: "page-forwarder",
       namespace: NAMESPACE,
       labels: DEPLOYMENT_LABELS,
     },
@@ -123,9 +123,9 @@ function serviceYaml(): string {
       selector: DEPLOYMENT_SELECTOR_LABELS,
       ports: [
         {
-          name: "page-store",
-          port: PAGE_STORE_PORT,
-          targetPort: PAGE_STORE_PORT,
+          name: "page-forwarder",
+          port: FORWARDER_PORT,
+          targetPort: FORWARDER_PORT,
           protocol: "TCP",
         },
       ],
@@ -230,7 +230,7 @@ function networkPolicyYaml(): string {
           ingress: [
             {
               from: [{ namespaceSelector: {} }],
-              ports: [{ protocol: "TCP", port: PAGE_STORE_PORT }],
+              ports: [{ protocol: "TCP", port: FORWARDER_PORT }],
             },
           ],
         },
