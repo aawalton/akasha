@@ -20,10 +20,6 @@ export const addFilePageProperty = {
       statement: "Nothing here judges the path handed in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The keys the property has are judged by the guard this change names.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "The pages the body names are judged by the change this change reaches.",
     },

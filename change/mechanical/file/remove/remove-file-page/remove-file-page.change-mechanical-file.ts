@@ -77,14 +77,6 @@ export const removeFilePage = {
       invariantKind: "invariant-kind/departure",
       statement: "A parent naming the page bare rather than qualified is dropped just the same.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The relations naming the page are judged by a guard this change names.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The files beside the page are judged by a guard this change names.",
-    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFile

@@ -16,10 +16,6 @@ export const removeFileCode = {
       statement: "The file is taken away by the change this change reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The imports naming the file are judged by the guard this change names.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the path a file is taken away from.",
     },

@@ -57,10 +57,6 @@ export const moveFilePage = {
       statement: "A refusal from any change reached here refuses the whole move.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The files beside the page are judged by the guard this change names.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here changes the data the page states.",
     },

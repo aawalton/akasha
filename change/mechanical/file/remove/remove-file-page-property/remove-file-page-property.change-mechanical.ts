@@ -21,11 +21,6 @@ export const removeFilePageProperty = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A page type still declaring the property is refused by a guard that change names.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "No page has that key while the property goes.",
     },
   ],

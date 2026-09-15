@@ -52,10 +52,6 @@ export const moveFiles = {
       statement: "A manifest naming a moved file as a way in states the path that file landed at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The imports left over the move are judged by the guard this change names.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "No rung is reached for a file that moves.",
     },

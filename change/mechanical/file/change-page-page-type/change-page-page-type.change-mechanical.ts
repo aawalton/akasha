@@ -62,10 +62,6 @@ export const changePagePageType = {
       statement: "The file moved is moved by the rung this change reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The guards the modules called cannot name are named here.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here changes the slug a page states.",
     },

@@ -16,10 +16,6 @@ export const addFileCode = {
       statement: "The body is written by the change this change reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The imports the body names are judged by the guard this change names.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the path a body is written at.",
     },

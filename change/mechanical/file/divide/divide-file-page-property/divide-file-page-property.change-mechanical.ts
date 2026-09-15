@@ -40,11 +40,6 @@ export const divideFilePageProperty = {
       invariantKind: "invariant-kind/absence",
       statement: "No row's text changes and no row changes its place in the order.",
     },
-    {
-      invariantKind: "invariant-kind/absence",
-      statement:
-        "No guard runs here, where every file written is one the page beside it already claims.",
-    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

@@ -49,10 +49,6 @@ export const divideFileCode = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The imports that file names are judged by the guard that change carries.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "The passages the division leaves in every other body are answered as edits here.",
     },
     {

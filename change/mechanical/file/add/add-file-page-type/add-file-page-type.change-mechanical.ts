@@ -19,11 +19,6 @@ export const addFilePageType = {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the path handed in.",
     },
-    {
-      invariantKind: "invariant-kind/absence",
-      statement:
-        "This change names no guard, a page type's body stating nothing a page's does not.",
-    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

@@ -48,10 +48,6 @@ export const moveFileCode = {
       statement: "An index that cannot answer which bodies import the file refuses the move.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The imports left over the move are judged by the guard this change names.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here works out a body of its own.",
     },
