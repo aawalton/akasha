@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const gourmet = {
   id: "01a0626e-c111-7b36-b9a0-5a84d6e98e48",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "gourmet",
   title: "Gourmet",
   displayOrder: 7,

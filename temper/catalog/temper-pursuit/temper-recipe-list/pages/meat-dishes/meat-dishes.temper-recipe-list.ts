@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const meatDishes = {
   id: "01a0626e-c111-7ccd-8fea-05e83c8c381b",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "meat-dishes",
   title: "Meat Dishes",
   displayOrder: 1,

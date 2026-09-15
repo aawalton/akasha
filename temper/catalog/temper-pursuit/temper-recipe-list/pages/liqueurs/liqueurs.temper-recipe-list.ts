@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const liqueurs = {
   id: "01a0626e-c111-73df-8c9d-4a6b0b31794b",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "liqueurs",
   title: "Liqueurs",
   displayOrder: 11,

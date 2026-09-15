@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const ragout = {
   id: "01a0626e-c111-7a28-843a-090a76f807a2",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "ragout",
   title: "Ragout",
   displayOrder: 5,

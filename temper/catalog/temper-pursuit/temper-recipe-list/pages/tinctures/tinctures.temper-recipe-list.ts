@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const tinctures = {
   id: "01a0626e-c111-78cc-9b72-a345a91fd9bf",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "tinctures",
   title: "Tinctures",
   displayOrder: 12,

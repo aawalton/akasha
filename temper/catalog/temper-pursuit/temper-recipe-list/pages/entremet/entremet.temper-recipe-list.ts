@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const entremet = {
   id: "01a0626e-c111-761e-8a51-7ded9b240c9c",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "entremet",
   title: "Entremet",
   displayOrder: 6,

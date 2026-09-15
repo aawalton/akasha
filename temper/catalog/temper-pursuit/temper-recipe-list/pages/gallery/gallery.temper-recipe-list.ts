@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const gallery = {
   id: "01a0626e-c112-7ec3-b3a7-14decfcf82eb",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "gallery",
   title: "Gallery",
   displayOrder: 20,

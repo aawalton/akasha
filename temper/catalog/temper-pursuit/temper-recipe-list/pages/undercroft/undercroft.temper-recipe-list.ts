@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const undercroft = {
   id: "01a0626e-c112-7e8e-86d2-442215220a3a",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "undercroft",
   title: "Undercroft",
   displayOrder: 27,

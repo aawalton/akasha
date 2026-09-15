@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const courtyard = {
   id: "01a0626e-c111-7cdd-a904-5aeeb8809a3b",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "courtyard",
   title: "Courtyard",
   displayOrder: 18,

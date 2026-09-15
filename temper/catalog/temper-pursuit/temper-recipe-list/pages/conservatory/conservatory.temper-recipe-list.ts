@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const conservatory = {
   id: "01a0626e-c111-7d7c-bb63-e65dc53476f7",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "conservatory",
   title: "Conservatory",
   displayOrder: 17,

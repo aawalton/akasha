@@ -2,7 +2,7 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuit/temp
 
 export const library = {
   id: "01a0626e-c112-78e7-989e-1314cc051824",
-  type: "temper-recipe-list",
+  type: "page-type/temper-recipe-list",
   slug: "library",
   title: "Library",
   displayOrder: 22,
