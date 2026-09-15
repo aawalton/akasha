@@ -8,11 +8,11 @@ export const canLevelMorphsFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `canLevelMorphs` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule whose action is other than `stock` is offered no Can Level Morphs condition.",
     },

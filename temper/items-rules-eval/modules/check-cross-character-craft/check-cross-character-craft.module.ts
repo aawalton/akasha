@@ -9,21 +9,21 @@ export const checkCrossCharacterCraft = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Research and inspiration are answered across every character rather than the current character.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One character below the crafting rank cap makes the whole item inspirable.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A trait with no researchable mapping fails the can-research form of the condition.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item with no inferrable crafting type fails the can-inspire form of the condition.",
     },

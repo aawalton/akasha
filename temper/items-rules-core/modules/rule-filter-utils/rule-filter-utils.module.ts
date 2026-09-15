@@ -9,11 +9,11 @@ export const ruleFilterUtils = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A threshold named by key is shown beside the number the key resolves to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A category is judged by the roots above the category rather than by the category id.",
     },

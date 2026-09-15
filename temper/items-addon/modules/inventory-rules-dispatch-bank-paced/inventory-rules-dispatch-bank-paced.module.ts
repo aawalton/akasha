@@ -10,137 +10,137 @@ export const inventoryRulesDispatchBankPaced = {
   testFixtures: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The game allows a hundred stack moves in any ten seconds, and that is the budget.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Withdrawals and deposits spend one budget, because the game counts them as one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The budget is spent by what was sent, so a move sent again spends from it again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The budget is measured over the last ten seconds rather than from a window start.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A move is confirmed on its own, so one straggler holds no other move up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chain with nothing left to issue ends the moment its last batch lands.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every move in a batch is issued without waiting for the one before it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How long to wait before calling a move failed is its own quantity, and shorter.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A move unconfirmed at that deadline is issued again until its attempts run out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A move is issued again only where issuing it again could land it, whatever attempts it has left.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Nothing left the source since it was issued and the target has no room: that move could not land.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A target slot holding another item takes no amount of this one, so that move could not land.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What the source held is read afresh each time the move is issued.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A move is confirmed by what its item has left the source slot, rather than by what that slot holds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A source slot holding another item has let this move's item go, so the move landed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A move given up on leaves the moves after it alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A move unconfirmed at a settle is written down by its bags, its slots, its item and its count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A move written down says what its source held when issued and what its source holds now.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A move written down says what its target slot holds and how much that slot takes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A move still in flight when the bank closed is written down as the chain ends.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Closing the bank ends the chain, and how many moves went unsent is said.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chain that drains every step tells its caller the chain has settled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chain the bank closed on tells its caller it settled all the same.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Whether the game counts a move exactly ten seconds old is not knowable from outside the game.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A move is held against the budget for the ten seconds the game allows and a margin above them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The margin is wide enough for a boundary counted either way and for the two clocks to differ.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chain has one wake outstanding, and setting a wake ends the wake before it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chain that has ended wakes for nothing, whatever visit is running by then.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Sends are kept across visits, so a visit opened inside the ten seconds spends what the last left.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Sends are kept as long as the addon is loaded, which is as long as the game keeps its count.",
     },

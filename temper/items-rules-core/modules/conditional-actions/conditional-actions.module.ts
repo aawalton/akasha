@@ -8,7 +8,7 @@ export const conditionalActions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action here is written for the addon rather than for the web matcher.",
     },
   ],

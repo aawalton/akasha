@@ -8,11 +8,11 @@ export const inventoryRulesDispatchBankVault = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A vault withdrawal goes straight to the game rather than onto the paced chain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A visit sends at most a fixed number of vault withdrawals, and says so on stopping there.",
     },

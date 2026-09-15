@@ -9,15 +9,15 @@ export const searchEvalAdapter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A rule-editor checker takes a compiled rule and item facts and an eval context.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every environment accessor here throws rather than answering.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The synthetic rule names the stock action and the category that matches every item.",
     },

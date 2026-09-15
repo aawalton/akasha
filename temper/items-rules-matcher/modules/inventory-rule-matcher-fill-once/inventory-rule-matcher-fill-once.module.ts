@@ -8,7 +8,7 @@ export const inventoryRuleMatcherFillOnce = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character already filled by this rule takes nothing further.",
     },
   ],

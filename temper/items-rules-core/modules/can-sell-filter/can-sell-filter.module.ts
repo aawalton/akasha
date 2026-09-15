@@ -8,11 +8,11 @@ export const canSellFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `canSell` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule whose action is not `sell` or `fence-sell` is not offered this condition.",
     },
   ],

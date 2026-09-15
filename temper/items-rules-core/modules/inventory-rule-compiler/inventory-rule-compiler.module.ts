@@ -8,15 +8,15 @@ export const inventoryRuleCompiler = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule compiles to one ordered entry.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A compiled rule's place in the list is the order the rules are tried in.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A rule moved to another place changes which rule an item matches first.",
     },
   ],

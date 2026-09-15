@@ -9,11 +9,11 @@ export const stockDestinationPlanner = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character already with the target count takes no part of the stack.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The surplus cascades down the tiers in the order the chain gives.",
     },
   ],

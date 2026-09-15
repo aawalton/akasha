@@ -8,15 +8,15 @@ export const searchQualityFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The quality filter also adds the selected quality numbers to the server request.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty selection matches every item.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The option values are the client quality numbers 0 through 5.",
     },
   ],

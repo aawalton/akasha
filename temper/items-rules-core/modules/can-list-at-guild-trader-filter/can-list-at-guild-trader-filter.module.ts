@@ -9,11 +9,11 @@ export const canListAtGuildTraderFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `canListAtGuildTrader` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule whose action is other than `list` is offered no Can List at Guild Trader condition.",
     },

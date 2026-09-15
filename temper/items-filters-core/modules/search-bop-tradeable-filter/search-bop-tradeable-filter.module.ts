@@ -8,11 +8,11 @@ export const searchBopTradeableFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The BoP-tradeable filter reads the flag through the rule-editor flags checker.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

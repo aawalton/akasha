@@ -8,15 +8,15 @@ export const stockReconcilePlan = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shortfall draws no larger amount than the open storage tier can give.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A surplus deposits no more than the open storage tier's cap leaves room for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plan moving zero items names neither withdrawal nor deposit.",
     },
   ],

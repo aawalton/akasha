@@ -8,21 +8,21 @@ export const checkContainer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A non-container item fails both container conditions rather than skipping the check.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A transmute crystal container is specialized type 875 with Transmut inside the item name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A container held at the transmute crystal cap fails the can-open condition.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Max rewards fails only when one character knows every script and another does not.",
     },

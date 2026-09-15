@@ -8,7 +8,7 @@ export const destinationChainTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tier names where the items go and how many items the tier takes.",
     },
   ],

@@ -9,15 +9,15 @@ export const checkStackFullness = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stack at or above the maximum stack size counts as full.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An absent stack count or maximum stack size makes the condition indeterminate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rule chooses between the full form and the partial form of the condition.",
     },
   ],

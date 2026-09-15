@@ -8,7 +8,7 @@ export const canLevelMorphsFilterTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Levelling a morph is the only sense this condition is asked in.",
     },
   ],

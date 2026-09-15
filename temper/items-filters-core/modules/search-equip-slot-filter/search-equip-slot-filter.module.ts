@@ -8,11 +8,11 @@ export const searchEquipSlotFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The equip slot filter also adds the selected slot numbers to the server request.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item with no equip type fails a non-empty selection.",
     },
   ],

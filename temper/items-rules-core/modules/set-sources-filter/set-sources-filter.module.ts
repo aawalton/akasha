@@ -8,11 +8,11 @@ export const setSourcesFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `setSourceTypes` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The set category representing no set is not offered.",
     },
   ],

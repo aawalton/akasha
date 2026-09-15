@@ -9,16 +9,16 @@ export const searchStylePageFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A style page is client specialized item type 82.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item with no specialized item type fails the toggle whichever setting the player chose.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

@@ -9,15 +9,15 @@ export const inventoryRuleControlled = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A controlled rule is known by the shape of its id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A controlled rule is rewritten from the automation settings on every build.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A saved rule set with an older controlled rule is migrated to the current shape.",
     },
   ],

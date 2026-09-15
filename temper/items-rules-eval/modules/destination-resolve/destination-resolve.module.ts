@@ -9,41 +9,41 @@ export const destinationResolve = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A destination that is not a by-priority token resolves to the token unchanged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stock rule carrying a chain resolves to the surplus tier's destination.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stock chain is planned by the one planner the game side plans it by.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A resolved stock chain carries the fill tier's target quantity beside it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A fill tier no character in priority order passes has a target quantity of zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chain naming no by-priority tier leaves the flat destination to answer.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "The by-priority companion destination has no resolver and always answers indeterminate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Any lookup answering unknown makes the whole destination resolution indeterminate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character already claiming the same item key is skipped during use resolution.",
     },
   ],

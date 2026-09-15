@@ -8,20 +8,20 @@ export const checkFlags = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every flag condition has a positive form and a negated form.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A flag absent from the item facts makes the condition indeterminate rather than false.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first flag that fails ends the flag check.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No flag condition consults the evaluation environment.",
     },
   ],

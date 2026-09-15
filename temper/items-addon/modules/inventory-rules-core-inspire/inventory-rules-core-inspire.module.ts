@@ -9,7 +9,7 @@ export const inventoryRulesCoreInspire = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trait is matched by name without regard to case.",
     },
   ],

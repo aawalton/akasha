@@ -9,11 +9,11 @@ export const inventoryRuleGoals = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each goal has the priority the goal is weighed at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule pursuing no goal is stored against the goal id GOAL_NONE_ID.",
     },
   ],

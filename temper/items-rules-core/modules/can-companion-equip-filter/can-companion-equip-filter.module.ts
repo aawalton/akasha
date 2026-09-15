@@ -8,11 +8,11 @@ export const canCompanionEquipFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `canCompanionEquip` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category outside `equipment` is offered no Can Companion Equip condition.",
     },
   ],

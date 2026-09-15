@@ -9,12 +9,12 @@ export const searchMarketValueFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "The server request takes a price range that the market value filter does not set.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The operator defaults to <= where the saved value names no operator.",
     },
   ],

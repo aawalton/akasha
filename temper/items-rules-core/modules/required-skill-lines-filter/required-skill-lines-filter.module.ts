@@ -8,11 +8,11 @@ export const requiredSkillLinesFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `requiredSkillLines` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule whose action is other than `stock` is offered no Required Skill Lines condition.",
     },

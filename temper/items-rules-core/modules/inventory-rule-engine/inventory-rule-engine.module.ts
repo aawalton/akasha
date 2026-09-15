@@ -8,15 +8,15 @@ export const inventoryRuleEngine = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node takes the action of the first rule matching the node.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule on a category reaches every node beneath that category.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node no rule matches resolves to nothing.",
     },
   ],

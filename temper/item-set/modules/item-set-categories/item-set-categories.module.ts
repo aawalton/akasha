@@ -8,16 +8,16 @@ export const itemSetCategories = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A set's category is the root of the category chain the client hangs the set under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category the game names as an empty string is no category.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A set the game hangs under no category has neither name.",
     },
   ],

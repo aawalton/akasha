@@ -9,15 +9,15 @@ export const searchServerNarrowing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A selection that is not an integer string is dropped from the server terms.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A threshold with the != operator yields no server band.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The open end of a server band is the sentinel 999999.",
     },
   ],

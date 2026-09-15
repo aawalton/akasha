@@ -8,7 +8,7 @@ export const itemCategoryTreeUtils = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node absent from the tree has no path.",
     },
   ],

@@ -9,22 +9,22 @@ export const buildItemFactsFromInventoryItem = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every category chain gets ALL_CATEGORIES_ID prepended ahead of the caller's node ids.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item key is resolved from the item name only for recipes and motif books and scripts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Potion effect metric ids come from the potionData field parsed out of the item link.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "An item type the resolver does not name is left with no item key.",
     },
   ],

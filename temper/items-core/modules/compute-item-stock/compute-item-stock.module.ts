@@ -8,7 +8,7 @@ export const computeItemStock = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The bank is counted on its own as well as among the rest of an account's storage.",
     },

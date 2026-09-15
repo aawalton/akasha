@@ -8,15 +8,15 @@ export const equipmentSignatureCompiler = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slot with no trait yields no signature.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shield is read as an off-hand with an armor trait.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A two-handed main hand leaves the off-hand unread.",
     },
   ],

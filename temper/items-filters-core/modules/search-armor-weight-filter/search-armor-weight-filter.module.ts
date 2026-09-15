@@ -8,12 +8,12 @@ export const searchArmorWeightFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The armor weight filter also adds the selected weight numbers to the server request.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item with no armor type fails a non-empty selection.",
     },
   ],

@@ -8,11 +8,11 @@ export const transmutedFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `transmuted` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category outside `equipment` is offered no Transmuted Status condition.",
     },
   ],

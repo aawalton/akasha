@@ -8,12 +8,12 @@ export const potionEffectsFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This filter reads and writes the conditions `potionEffects` and `potionEffectsMode`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category outside `potions` is offered no Potion Effects condition.",
     },
   ],

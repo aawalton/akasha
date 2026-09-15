@@ -9,15 +9,15 @@ export const checkLocation = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty location list on the rule skips the location check.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item with no known location makes the condition indeterminate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The failing item's location is reported as the failure detail.",
     },
   ],

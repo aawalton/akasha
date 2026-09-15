@@ -8,11 +8,11 @@ export const ruleMatcherContext = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The half derived from builds is gathered apart from the half read off inventory.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The build-derived half is reusable across many inventory readings.",
     },
   ],

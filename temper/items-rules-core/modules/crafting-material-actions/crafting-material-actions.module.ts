@@ -9,7 +9,7 @@ export const craftingMaterialActions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A material no rule reaches is left where the material lies.",
     },
   ],

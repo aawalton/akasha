@@ -8,15 +8,15 @@ export const useDestinationTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character id is a string held apart from every other string by a brand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item a character learns from is keyed by the kind of knowledge granted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A motif chapter of null names the master book covering every chapter.",
     },
   ],

@@ -8,16 +8,16 @@ export const craftedFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `crafted` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A category outside the 8 roots named in the code is offered no Crafted Status condition.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule with the `stolen` condition is offered no Crafted Status condition.",
     },
   ],

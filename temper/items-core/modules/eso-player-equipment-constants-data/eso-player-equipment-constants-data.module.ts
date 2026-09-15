@@ -8,11 +8,11 @@ export const esoPlayerEquipmentConstantsData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "These numbers were written out from the player equipment constant pages.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "No vocabulary in akasha names every weapon type and armor weight yet.",
     },
   ],

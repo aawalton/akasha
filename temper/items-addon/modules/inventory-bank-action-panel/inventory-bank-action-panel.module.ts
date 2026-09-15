@@ -8,11 +8,11 @@ export const inventoryBankActionPanel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The counts shown are tallied by the sweep that opened the bank.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No verdict this panel shows outlives the sweep that judged it.",
     },
   ],

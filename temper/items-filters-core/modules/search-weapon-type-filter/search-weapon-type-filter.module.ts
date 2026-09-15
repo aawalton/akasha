@@ -8,12 +8,12 @@ export const searchWeaponTypeFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The weapon type filter also adds the selected weapon numbers to the server request.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "Three weapon-type numbers below the highest offered number are left out of the options.",
     },

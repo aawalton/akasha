@@ -8,16 +8,16 @@ export const savedSearch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A saved search carries version 1 so a later format change can be told apart.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A value with no matching filter in the registry index is dropped when a saved search is written.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Sort field and guild scope ride alongside the filter values in one saved search.",
     },
   ],

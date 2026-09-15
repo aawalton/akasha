@@ -8,7 +8,7 @@ export const inventoryRulesDispatchBankPacedConfirm = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A move landed where the stack left behind is no more than what the move was to leave.",
     },

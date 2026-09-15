@@ -9,19 +9,19 @@ export const inventoryRuleMatcherExclude = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where a rule sends an item is read off that rule's action and destination.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item already at its destination is marked rather than moved.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An affected item carries the item, where it lies, and whether it is there.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A container the rule's action cannot open is set aside.",
     },
   ],

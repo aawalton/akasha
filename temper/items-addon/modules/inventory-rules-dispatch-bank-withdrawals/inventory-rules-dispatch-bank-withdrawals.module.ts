@@ -8,11 +8,11 @@ export const inventoryRulesDispatchBankWithdrawals = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every slot of one storage sweep shares the claims.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A second copy of a claimable item goes to a second character.",
     },
   ],

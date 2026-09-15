@@ -9,15 +9,15 @@ export const inventoryRuleMatcherAllocators = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An allocation is charged against the character the allocation is meant for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character keeps the stock that character already holds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule takes no larger amount of an item than the rule asked for.",
     },
   ],

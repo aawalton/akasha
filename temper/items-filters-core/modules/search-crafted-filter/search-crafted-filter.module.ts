@@ -8,11 +8,11 @@ export const searchCraftedFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The crafted filter reads the crafted flag through the rule-editor flags checker.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

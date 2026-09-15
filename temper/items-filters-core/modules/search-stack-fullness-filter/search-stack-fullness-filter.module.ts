@@ -8,11 +8,11 @@ export const searchStackFullnessFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Exclude means a partial stack rather than anything short of a full stack.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

@@ -10,21 +10,21 @@ export const checkPotionEffects = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The default matching mode asks for one selected effect rather than every selected effect.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Absent potion effect metric ids on the item make the condition indeterminate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule stating one effect as bare text rather than a list is named rather than tested.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No effect magnitude or duration is compared here.",
     },
   ],

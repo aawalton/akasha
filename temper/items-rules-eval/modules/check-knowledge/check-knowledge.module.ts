@@ -8,20 +8,20 @@ export const checkKnowledge = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Knowledge is decided across every character rather than the current character alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item with no item key falls back to the client's own known flag.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A non-knowledge item with no item key fails rather than answering indeterminate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The can-unlock condition is the negation of every character knowing the item.",
     },
   ],

@@ -9,32 +9,32 @@ export const inventoryRuleToPages = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule's page is slugged `rule-` and the id the rule has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where a rule falls among the rules is written as its display order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A condition value is written as JSON except where the value is text no JSON reader would take.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule saying nothing about being switched on is written as switched on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action and a goal are written by the page type and slug naming each.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule saying nothing about when the rule changed is written as the epoch.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A rule carrying no switch state and no change time comes back switched on and dated the epoch.",
     },

@@ -8,7 +8,7 @@ export const inventoryRuleMapping = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting the rules leave unsaid keeps the value the settings already have.",
     },
   ],

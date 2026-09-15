@@ -9,15 +9,15 @@ export const buyRuleSettings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A locked buy rule is changed by nothing until the lock comes off.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A buy rule copied takes a new id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every change stamps the buy rule with the moment of the change.",
     },
   ],

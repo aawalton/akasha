@@ -9,15 +9,15 @@ export const inventoryRuleActionLabels = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every action has a verb shown to a reader.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action with a destination is shown with the destination named.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A stocked item's destination takes the surplus rather than the stock, and is shown that way.",
     },

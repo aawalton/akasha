@@ -8,7 +8,7 @@ export const ruleMatcherContextCanLevelMorphs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character whose completion is unreadable can level no morph.",
     },
   ],

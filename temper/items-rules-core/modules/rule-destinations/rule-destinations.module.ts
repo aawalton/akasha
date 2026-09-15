@@ -8,7 +8,7 @@ export const ruleDestinations = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule sending its items nowhere is absent from this map.",
     },
   ],

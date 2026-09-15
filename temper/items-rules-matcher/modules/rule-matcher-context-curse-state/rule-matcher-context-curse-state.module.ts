@@ -10,11 +10,11 @@ export const ruleMatcherContextCurseState = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A curse the game named is kept under the character bearing it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character with neither curse answers as nothing.",
     },
   ],

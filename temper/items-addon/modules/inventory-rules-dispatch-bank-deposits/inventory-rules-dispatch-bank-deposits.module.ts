@@ -8,12 +8,12 @@ export const inventoryRulesDispatchBankDeposits = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item joins a stack of its own in storage where one has room, whatever action sent it there.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item storage has no room for leaves the deposits after it alone.",
     },
   ],

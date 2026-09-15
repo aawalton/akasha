@@ -8,7 +8,7 @@ export const inventoryEsoEvalEnv = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill line rank table is built on the first lookup that asks for one.",
     },
   ],

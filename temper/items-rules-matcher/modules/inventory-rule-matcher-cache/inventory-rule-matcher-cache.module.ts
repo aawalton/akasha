@@ -9,11 +9,11 @@ export const inventoryRuleMatcherCache = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule whose fingerprint changed is matched again from scratch.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A residue is stored as entries so the cache survives being written out.",
     },
   ],

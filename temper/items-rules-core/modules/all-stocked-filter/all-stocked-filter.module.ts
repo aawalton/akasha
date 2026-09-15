@@ -8,11 +8,11 @@ export const allStockedFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `allStocked` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category outside `consumables` is offered no All Stocked condition.",
     },
   ],

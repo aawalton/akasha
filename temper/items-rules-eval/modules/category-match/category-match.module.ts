@@ -9,16 +9,16 @@ export const categoryMatch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An absent category chain answers unknown rather than answering mismatch.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A match is plain equality between the rule category id and one node id in the chain.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here consults the category tree.",
     },
   ],

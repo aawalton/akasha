@@ -9,11 +9,11 @@ export const searchToggleValueParse = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parser answers undefined where the value is not include and is not exclude.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every toggle filter in the package reads a toggle value through the one shared module.",
     },

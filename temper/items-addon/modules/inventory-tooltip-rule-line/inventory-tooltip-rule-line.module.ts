@@ -8,15 +8,15 @@ export const inventoryTooltipRuleLine = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stocked item names what is held here and what is sent on as two lines.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stocked item carrying no more than it holds names nowhere to send the rest.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What is sent on is reckoned by the rule the bank deposits by.",
     },
   ],

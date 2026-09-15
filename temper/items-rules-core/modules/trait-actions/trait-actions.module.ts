@@ -8,7 +8,7 @@ export const traitActions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first rule naming a trait on a category settles the action for that trait.",
     },
   ],

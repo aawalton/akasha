@@ -8,11 +8,11 @@ export const inventoryRuleMatcherTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An affected item carries where the item lies as well as the item's own data.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item already at the destination is marked rather than dropped.",
     },
   ],

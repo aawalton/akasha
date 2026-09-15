@@ -9,11 +9,11 @@ export const neededForTargetCharacterBuildFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `isTargetEquip` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A category outside `equipment` is offered no Needed for Target Character Build condition.",
     },

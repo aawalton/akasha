@@ -8,15 +8,15 @@ export const inventoryBankTraceFold = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The remainder subtracts only brackets that nest inside no other bracket.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Building facts and judging the ordered rules both sit inside judging a slot.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What an open handler spent sits inside that handler's own time already.",
     },
   ],

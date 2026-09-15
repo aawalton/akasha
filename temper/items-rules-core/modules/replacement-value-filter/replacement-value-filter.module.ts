@@ -8,7 +8,7 @@ export const replacementValueFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This filter reads and writes the conditions `replacementValue` and `replacementValueOp`.",
     },

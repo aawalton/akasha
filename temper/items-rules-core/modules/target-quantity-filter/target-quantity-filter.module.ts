@@ -8,15 +8,15 @@ export const targetQuantityFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `targetQuantity` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule with the `keep-quantity` condition is offered no Target condition.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule whose action is other than `move-to` is offered no Target condition.",
     },
   ],

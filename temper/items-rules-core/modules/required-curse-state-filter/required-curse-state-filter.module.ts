@@ -8,11 +8,11 @@ export const requiredCurseStateFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `requiredCurseState` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule whose action is other than `stock` is offered no Required Curse State condition.",
     },

@@ -8,11 +8,11 @@ export const reconstructedFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `reconstructed` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category outside `equipment` is offered no Reconstructed Status condition.",
     },
   ],

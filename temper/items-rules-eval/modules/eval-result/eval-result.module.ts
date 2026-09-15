@@ -8,26 +8,26 @@ export const evalResult = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every rejection has a reason naming which stage rejected the rule.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule whose condition holds the wrong shape is indeterminate rather than rejected.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An indeterminate outcome keeps every indeterminate rule found ahead of the first match.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A match found after an indeterminate rule is recorded only as a provisional match.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item no rule matches gets an implicit terminal outcome with the action nothing.",
     },

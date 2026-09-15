@@ -9,16 +9,16 @@ export const searchTraitFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The trait filter also adds the ESO numbers for the selected traits to the server request.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Trait options are deduplicated by trait id across the four trait lists.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An ESO trait number of zero is left out of the server terms.",
     },
   ],

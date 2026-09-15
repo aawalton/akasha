@@ -9,20 +9,20 @@ export const ruleConditionEval = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The first checker answering neither the passing nor the skip kind ends the condition run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule every checker skips gets the passing result.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The numeric checker runs ahead of every other condition checker.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every checker receives the whole compiled rule rather than one condition field.",
     },
   ],

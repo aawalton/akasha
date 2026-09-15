@@ -9,7 +9,7 @@ export const ruleConditionStates = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node takes the conditions of the first rule matching the node.",
     },
   ],

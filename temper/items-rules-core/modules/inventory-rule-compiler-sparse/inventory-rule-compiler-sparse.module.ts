@@ -9,15 +9,15 @@ export const inventoryRuleCompilerSparse = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A destination ending in `by-priority` reaches any character.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A destination naming one character reaches that character alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule naming no destination reaches the character playing now.",
     },
   ],

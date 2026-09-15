@@ -8,16 +8,16 @@ export const inventoryCurrencyData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This table was written out from the inventory currency pages rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The order of this table is the order a balance summary lists currencies in.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A currency moved to another place reorders every balance summary shown.",
     },
   ],

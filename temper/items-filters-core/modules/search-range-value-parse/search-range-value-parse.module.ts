@@ -9,15 +9,15 @@ export const searchRangeValueParse = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "parseRangeValue returns undefined when the raw value has no numeric value field.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The accepted operators are the six comparison operators the rule layer names.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No default operator is supplied here.",
     },
   ],

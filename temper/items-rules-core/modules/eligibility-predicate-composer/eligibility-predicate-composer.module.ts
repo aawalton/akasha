@@ -9,11 +9,11 @@ export const eligibilityPredicateComposer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character failing one condition fails the whole test.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A condition whose reader the context lacks is passed over.",
     },
   ],

@@ -8,7 +8,7 @@ export const marketValueFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the 4 value conditions named in the code.",
     },
   ],

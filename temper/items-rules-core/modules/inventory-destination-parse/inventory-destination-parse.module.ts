@@ -8,11 +8,11 @@ export const inventoryDestinationParse = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text naming no known action reads as nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text naming no known destination reads as nothing.",
     },
   ],

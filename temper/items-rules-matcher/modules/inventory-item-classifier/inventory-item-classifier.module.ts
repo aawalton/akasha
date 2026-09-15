@@ -8,7 +8,7 @@ export const inventoryItemClassifier = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item falls under every node the item's own type and traits reach.",
     },
   ],

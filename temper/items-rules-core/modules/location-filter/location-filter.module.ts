@@ -8,7 +8,7 @@ export const locationFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `location` condition alone.",
     },
   ],

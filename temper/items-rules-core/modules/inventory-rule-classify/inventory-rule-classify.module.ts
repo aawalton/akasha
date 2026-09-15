@@ -9,15 +9,15 @@ export const inventoryRuleClassify = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule the automation settings control is classed by the id those settings gave.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule equipping a companion belongs on a companion card.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule matching neither character nor companion belongs on a category card.",
     },
   ],

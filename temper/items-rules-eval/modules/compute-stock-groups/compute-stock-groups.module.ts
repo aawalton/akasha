@@ -8,19 +8,19 @@ export const computeStockGroups = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only rules with allStocked or targetQuantity get a stock group.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Stock conditions are skipped while the stock groups are being computed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule matching no item is left out of the returned map.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A rule without an id cannot key a stock group.",
     },
   ],

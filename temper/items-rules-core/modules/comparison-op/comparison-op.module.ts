@@ -8,7 +8,7 @@ export const comparisonOp = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every operator the comparison table names is answered here.",
     },
   ],

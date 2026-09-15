@@ -8,43 +8,43 @@ export const inventoryBankTrace = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The traces of the ten most recent bank sessions are kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The oldest trace goes when a further session opens.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The trace of the session that opened last is kept a second time on its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A closed session takes the settling that follows it for five seconds and no more.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "One venue's visit is traced at a time, and opening a venue ends the visit before.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A merchant and a fence are traced as a banker is, into a ring of their own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A venue with no instrument ends the traced visit rather than taking its settling.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "What a venue's open handler spends is bracketed apart from what settles after it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Neither bucket's brackets are subtracted twice from the unattributed remainder.",
     },
   ],

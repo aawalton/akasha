@@ -9,11 +9,11 @@ export const neededForTargetCompanionBuildFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `isTargetCompanionEquip` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A category outside `companion` is offered no Needed for Target Companion Build condition.",
     },

@@ -9,19 +9,19 @@ export const checkStock = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The all-stocked threshold defaults to 200 units.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item outside any computed stock group is treated as a group of one item id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Stock checks are skipped when the evaluation context sets skipStock.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Bank stock is summed across the whole stock group before the target quantity is compared.",
     },

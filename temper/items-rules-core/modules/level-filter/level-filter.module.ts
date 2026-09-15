@@ -8,11 +8,11 @@ export const levelFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the conditions `levelOp` and `maxLevel`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A category outside `equipment` is offered no Level condition.",
     },
   ],

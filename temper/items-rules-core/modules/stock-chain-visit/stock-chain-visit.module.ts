@@ -8,11 +8,11 @@ export const stockChainVisit = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chain naming no by-priority tier answers no visit plan.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tiers below the fill tier are the surplus cascade.",
     },
   ],

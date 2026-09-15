@@ -8,7 +8,7 @@ export const stockThresholdFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `stockThreshold` condition alone.",
     },
   ],

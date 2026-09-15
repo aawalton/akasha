@@ -9,16 +9,16 @@ export const searchFilterRegistry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "buildFilterIndex throws when two filters in the list have the same filter id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The filter bar order is the array order in TEMPER_FILTERS rather than an order worked out later.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No filter is added to the registry at run time by code outside this package.",
     },
   ],

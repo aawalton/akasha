@@ -9,11 +9,11 @@ export const inventorySettingsTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every setting has a default stated here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A timestamp records when a settings group was last worked out.",
     },
   ],

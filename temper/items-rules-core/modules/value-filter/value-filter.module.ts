@@ -8,7 +8,7 @@ export const valueFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the conditions `value` and `valueOp`.",
     },
   ],

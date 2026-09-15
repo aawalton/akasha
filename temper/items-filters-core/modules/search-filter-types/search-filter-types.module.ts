@@ -9,17 +9,17 @@ export const searchFilterTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "defineFilter re-narrows the raw value on every call so a matcher never sees a wrong type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A filter declares applyToSearch only when the trader server can narrow on that property.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "createSearchRequestCollector drops a term number already added for that server field.",
     },

@@ -8,11 +8,11 @@ export const stockDestinationTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stock decision reads holdings through the context handed to the decision.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The character priority is the order the characters are offered the stock in.",
     },
   ],

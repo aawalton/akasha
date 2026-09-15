@@ -8,11 +8,11 @@ export const searchStringArrayParse = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value that is no array is read as no value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An array with a non-string entry is read as no value.",
     },
   ],

@@ -8,15 +8,15 @@ export const inventoryRulesDispatchBankSlots = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A partial slot is offered for a move only where the slot takes the whole move.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How much a move carries is named by the caller rather than assumed to be one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slot offered once in a visit is reserved, so no second move is aimed at it.",
     },
   ],

@@ -8,16 +8,16 @@ export const searchItemTypeFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The item type filter also adds the selected type numbers to the server request.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "The option list names twenty item types rather than every item type the client defines.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item with no item type fails a non-empty selection.",
     },
   ],

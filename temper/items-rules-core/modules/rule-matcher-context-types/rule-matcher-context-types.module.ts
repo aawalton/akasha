@@ -8,11 +8,11 @@ export const ruleMatcherContextTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A matcher reads the account through this context alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader absent from the context leaves the matching condition unjudged.",
     },
   ],

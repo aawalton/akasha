@@ -8,7 +8,7 @@ export const requiredCurseStateFilterTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Vampirism and lycanthropy are the two curses this condition asks after.",
     },
   ],

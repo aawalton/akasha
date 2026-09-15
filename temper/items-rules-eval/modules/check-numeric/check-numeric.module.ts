@@ -9,46 +9,46 @@ export const checkNumeric = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Required champion points above zero raise the level to 50 plus a tenth of the points.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every numeric comparison defaults to the <= operator when the rule names no operator.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "maxValue and minValue are consulted only when the rule sets no marketValue.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item with no value signal satisfies a zero threshold under <= and nothing higher.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A zero market-value threshold under <= is meant to take an item whose market value is unknown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item priced by nothing is worth nothing only where the price source has a table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A price source answering with no table makes that one threshold indeterminate rather than met.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A threshold an unknown value already fails is failed whether or not a table is there.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A missing merchant value and a missing replacement cost each count as zero.",
     },
   ],

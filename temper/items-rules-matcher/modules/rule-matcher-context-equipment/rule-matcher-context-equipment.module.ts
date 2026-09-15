@@ -9,23 +9,23 @@ export const ruleMatcherContextEquipment = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character whose equipment toggle is off wants no gear.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A toggle set on the one beats the toggle set for everyone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target build nothing holds wants no gear.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build wanting no trait in a slot wants no gear for that slot.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build hash that does not decode yields no wanted gear.",
     },
   ],

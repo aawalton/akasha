@@ -9,15 +9,15 @@ export const ruleFilterTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every condition the editor offers is named once in this list of ids.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A filter names the categories the condition suits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A filter's fingerprint tells two rules carrying that condition apart.",
     },
   ],

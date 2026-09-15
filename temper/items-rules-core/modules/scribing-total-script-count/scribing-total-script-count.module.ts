@@ -8,7 +8,7 @@ export const scribingTotalScriptCount = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This count is written out from the scribing script pages rather than by hand.",
     },
   ],

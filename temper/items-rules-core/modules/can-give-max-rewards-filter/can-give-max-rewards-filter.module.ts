@@ -8,11 +8,11 @@ export const canGiveMaxRewardsFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter reads and writes the `canGiveMaxRewards` condition alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule whose action is other than `open` is offered no Can Give Max Rewards condition.",
     },

@@ -8,11 +8,11 @@ export const buyRuleTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A buy rule names one item and one target quantity.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A merchant is the only source a buy rule buys from.",
     },
   ],

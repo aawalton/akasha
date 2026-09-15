@@ -8,7 +8,7 @@ export const inventoryParser = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field the capture holds for an item reaches the item read out of it.",
     },
   ],

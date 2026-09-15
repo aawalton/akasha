@@ -9,52 +9,52 @@ export const inventoryRuleFromPages = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule's id is the part of its page's slug after the leading `rule-`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where a rule falls among the rules is read from `display-order` alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A condition value is read as JSON where that value parses as JSON and as text otherwise.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "What that read yields is held against the shape a condition declares before it reaches a rule.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A value that shape refuses stops the read naming the rule, the condition and what it held.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A property the page leaves unsaid is left off the rule rather than written empty.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row short of a key every rule has stops the read naming the rule and the key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row beside the page short of a field its shape declares stops the read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every rule a read was handed is in what that read returns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An action, a goal and a condition field are read as the slug alone, whatever page type names each.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Two rules of one account with one display order are ordered by nothing.",
     },
   ],

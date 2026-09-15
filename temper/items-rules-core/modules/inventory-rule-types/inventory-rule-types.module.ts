@@ -8,16 +8,16 @@ export const inventoryRuleTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action a rule may give an item is named once here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A currency category is named by a prefix and by the key the currency banks under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The category id `all` reaches every item.",
     },
   ],

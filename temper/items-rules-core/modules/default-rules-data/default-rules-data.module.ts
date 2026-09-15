@@ -9,11 +9,11 @@ export const defaultRulesData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The starting rules are the rule templates and nothing besides.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A starting rule is switched off until the player switches the rule on.",
     },
   ],

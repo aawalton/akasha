@@ -8,15 +8,15 @@ export const inventoryEvents = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slot the add-on changed at a bank is judged again as any other slot is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing is used or opened while a bank visit still has moves in flight.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A closing bank is what dispatches the uses a visit's withdrawals earned.",
     },
   ],

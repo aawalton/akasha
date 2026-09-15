@@ -8,7 +8,7 @@ export const itemBrowserTooltipHooks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An argument of an unknown kind is narrowed where that argument is read rather than by a helper.",
     },

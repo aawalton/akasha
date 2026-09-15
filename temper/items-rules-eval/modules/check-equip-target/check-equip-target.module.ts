@@ -9,19 +9,19 @@ export const checkEquipTarget = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A missing equipType or traitType or quality makes the condition indeterminate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first missing field of those three is reported as the missing signal.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Character equipment and companion equipment are separate environment lookups.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reports which character wants the equipment.",
     },
   ],

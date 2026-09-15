@@ -9,7 +9,7 @@ export const equipmentConfig = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting the rules do not decide falls back on the saved settings.",
     },
   ],

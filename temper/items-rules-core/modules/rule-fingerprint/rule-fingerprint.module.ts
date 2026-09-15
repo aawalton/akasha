@@ -8,11 +8,11 @@ export const ruleFingerprint = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two rules matching the same items have the same fingerprint.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A filter with no condition on a rule adds nothing to that rule's string.",
     },
   ],

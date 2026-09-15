@@ -9,15 +9,15 @@ export const inventoryRuleSettings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule set has its rules in the order the rules are tried in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A locked rule is changed by nothing until the lock comes off.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule added lands beside the anchor rule the caller named.",
     },
   ],

@@ -8,15 +8,15 @@ export const itemLinkParser = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each field's place in the link is named once here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A link with fewer fields than the game's shortest form parses to nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field with no number reads as zero.",
     },
   ],

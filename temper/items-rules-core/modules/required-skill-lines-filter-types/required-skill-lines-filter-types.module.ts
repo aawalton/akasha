@@ -8,7 +8,7 @@ export const requiredSkillLinesFilterTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A condition asks that every named line be maxed or that one named line is not.",
     },
   ],

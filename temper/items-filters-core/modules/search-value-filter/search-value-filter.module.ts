@@ -8,11 +8,11 @@ export const searchValueFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The operator defaults to <= where the saved value names no operator.",
     },
   ],

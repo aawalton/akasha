@@ -10,16 +10,16 @@ export const checkResult = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checker's skip kind is distinct from the passing kind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A list condition holding what is no list answers the misshapen kind naming what it held.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every non-skip kind comes unchanged from the shared condition result type.",
     },
   ],

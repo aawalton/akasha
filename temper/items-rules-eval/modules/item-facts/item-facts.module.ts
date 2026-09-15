@@ -8,19 +8,19 @@ export const itemFacts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An item facts record requires itemId and itemName and itemLink and nothing else.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An absent field means the signal is unknown rather than meaning false.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The category chain arrives already flattened into an array of node ids.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here describes a character or a rule or the wider inventory.",
     },
   ],

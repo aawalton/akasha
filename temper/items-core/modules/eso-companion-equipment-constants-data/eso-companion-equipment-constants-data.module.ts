@@ -8,11 +8,11 @@ export const esoCompanionEquipmentConstantsData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "These numbers were written out from the companion equipment constant pages.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No name here is taken from the game at runtime.",
     },
   ],

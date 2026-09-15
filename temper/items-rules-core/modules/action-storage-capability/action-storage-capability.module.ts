@@ -9,11 +9,11 @@ export const actionStorageCapability = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action leaving an item in place needs no backpack.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Using an item at a named destination needs no backpack.",
     },
   ],

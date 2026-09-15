@@ -8,11 +8,11 @@ export const ruleFilterRegistry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A filter reaches a rule only by being in this list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The order here is the order the rule editor offers the conditions in.",
     },
   ],

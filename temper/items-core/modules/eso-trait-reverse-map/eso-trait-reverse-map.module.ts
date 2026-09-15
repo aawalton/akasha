@@ -9,16 +9,16 @@ export const esoTraitReverseMap = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An equip type the game numbers as jewelry is read against the jewelry maps alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A player trait map is read before a companion trait map.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here answers for an ESO trait number no map has.",
     },
   ],

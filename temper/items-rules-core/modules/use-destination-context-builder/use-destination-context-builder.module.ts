@@ -9,11 +9,11 @@ export const useDestinationContextBuilder = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item teaching nothing has no use key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A master motif is known only where every chapter of the style is known.",
     },
   ],

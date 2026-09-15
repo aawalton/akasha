@@ -8,15 +8,15 @@ export const affectedItemsTreeBuilder = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character's worn items are kept apart from that character's backpack.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A location type with one location is drawn without a level for the location.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A guild is drawn with its own level even where only one guild has items.",
     },
   ],

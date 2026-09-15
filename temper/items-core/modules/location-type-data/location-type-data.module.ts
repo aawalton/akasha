@@ -8,15 +8,15 @@ export const locationTypeData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This table was written out from the location type pages rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The order of this table is the order a reading shows locations in.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A location type moved to another place reorders every inventory shown.",
     },
   ],
