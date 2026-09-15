@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/fitness-slottables/fitness-slottables.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/warfare-passives/warfare-passives.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/warfare-slottables/warfare-slottables.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-class/modules/character-class/character-class.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-race/modules/races/races.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"}
@@ -66,6 +65,7 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items-core/modules/location-type-data/location-type-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/modules/character-class/character-class.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"}

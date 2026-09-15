@@ -373,7 +373,6 @@
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"invariant-kind","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
-{"propertySlug":"invariant-kind","path":"temper/character-class/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"invariant-kind","path":"temper/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skill-template/character-skill-template.module.ts","id":"01a0617a-2c70-7581-9900-cbdb1ccbe478"}
@@ -1165,6 +1164,7 @@
 {"propertySlug":"invariant-kind","path":"temper/lorebook/modules/lorebooks-shalidor-locations-18/lorebooks-shalidor-locations-18.module.ts","id":"01a06181-3843-77d5-8ed3-8892b3a40b9c"}
 {"propertySlug":"invariant-kind","path":"temper/lorebook/modules/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.ts","id":"01a06184-3d7c-7388-9f04-084ca5cea38a"}
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
+{"propertySlug":"invariant-kind","path":"temper/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/is-callback/is-callback.module.ts","id":"01a08e19-c569-71cc-8644-64f32991852e"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/lua-string-contains/lua-string-contains.module.ts","id":"01a08e17-f876-773e-b52a-6d8f314fa4fa"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/require-saved-variables/require-saved-variables.module.ts","id":"01a08e11-e16f-78aa-8cc2-9f44f46d50cf"}

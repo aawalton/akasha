@@ -433,7 +433,6 @@
 {"propertySlug":"invariant-kind","path":"temper/catalog/thing/properties/skill-type.text-property.ts","id":"01a05fba-ce3b-7869-b428-d3dd2f8703d7"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/thing/properties/subcategory-id.text-property.ts","id":"01a05fba-ce3b-7c4b-adf4-7b752fef3058"}
 {"propertySlug":"invariant-kind","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
-{"propertySlug":"invariant-kind","path":"temper/character-class/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"invariant-kind","path":"temper/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skills-00/character-skills-00.module.ts","id":"01a06182-7818-7e29-abd6-c2963db70f64"}
@@ -774,6 +773,7 @@
 {"propertySlug":"invariant-kind","path":"temper/lib-sets/modules/lib-sets-gen-set-info/lib-sets-gen-set-info.module.ts","id":"01a061fc-cee5-75d4-9e8c-3b140c7e89cc"}
 {"propertySlug":"invariant-kind","path":"temper/lib-treasure/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
 {"propertySlug":"invariant-kind","path":"temper/lorebook/temper-lorebook.domain.ts","id":"01a06176-9c44-7c00-8a3b-7cf902e62430"}
+{"propertySlug":"invariant-kind","path":"temper/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"invariant-kind","path":"temper/player-completion/modules/activity-categories/activity-categories.module.ts","id":"01a06108-2fe7-758c-947c-5275babdadb5"}
 {"propertySlug":"invariant-kind","path":"temper/player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}
 {"propertySlug":"invariant-kind","path":"temper/player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.ts","id":"01a0641c-83b4-7fba-b338-0d13a366420a"}

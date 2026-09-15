@@ -2763,7 +2763,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-build/modules/build-factory/build-factory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-build/modules/build-types/build-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-build/modules/race-source/race-source.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-class/modules/character-class/character-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-race/modules/race-icon-url/race-icon-url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-race/modules/races/races.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-skill-line/modules/alliance-war-skill-lines/alliance-war-skill-lines.module.ts"}
@@ -5499,6 +5498,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/addon-init/addon-init.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/build-metadata/build-metadata.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/character-class/character-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/descriptor/descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}

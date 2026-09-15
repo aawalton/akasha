@@ -9,7 +9,6 @@ import {
   SelectValue,
 } from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
 import { getRaceSourceById } from "akasha/temper/character-build/modules/race-source/race-source.module.code.ts"
-import { classes } from "akasha/temper/character-class/modules/character-class/character-class.module.code.ts"
 import type { RaceId } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import {
   type CurseState,
@@ -20,6 +19,7 @@ import {
   vampireStages,
 } from "akasha/temper/character-source/modules/vampire-stages/vampire-stages.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
+import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
 import { FilterableSelectTrigger } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { RaceSelectDialog } from "akasha/temper/web/modules/race-select-dialog/race-select-dialog.module.code.tsx"
 import { useState } from "react"

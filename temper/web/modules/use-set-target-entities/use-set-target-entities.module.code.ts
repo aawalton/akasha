@@ -6,7 +6,6 @@ import {
 } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { confirmingTarget } from "akasha/temper/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import { classes } from "akasha/temper/character-class/modules/character-class/character-class.module.code.ts"
 import { races } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import {
   useCharacterLifecycle,
@@ -19,6 +18,7 @@ import {
   applyCharacterMetadata,
   extractCharacterMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/modules/use-player/use-player.module.code.ts"
 import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
