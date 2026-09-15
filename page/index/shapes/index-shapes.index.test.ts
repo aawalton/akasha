@@ -6,7 +6,6 @@ import {
   carryingIn,
   fileFor,
   pageTypeSlugsIn,
-  shapedIn,
   shapeFiled,
   shapeFileFor,
   shapesFiled,
@@ -14,6 +13,7 @@ import {
 } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { sourceOver } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { shapedIn } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 const SLUG: Value = {
   type: "text-property",

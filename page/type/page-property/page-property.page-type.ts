@@ -13,6 +13,7 @@ export const pageProperty = {
     "boolean-property/runs-file-length",
     "boolean-property/sorted",
     "file-property/shape",
+    "module/property-shape",
     "number-property/max-count",
     "number-property/max-length",
     "relation-property/generator",

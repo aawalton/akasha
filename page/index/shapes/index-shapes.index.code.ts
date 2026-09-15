@@ -1,14 +1,10 @@
 import { join } from "node:path"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import {
-  answered,
-  heldEach,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { answered, heldEach } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { indexShapes } from "akasha/page/index/shapes/index-shapes.index.ts"
 import {
   numberAt,
-  slugAt,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -17,6 +13,7 @@ import {
   propertiesIfNamed,
   type Source,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { shapedIn } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 const SHAPES = indexShapes.name
 
@@ -54,24 +51,6 @@ export function fileFor(pageTypeSlug: string): string {
 
 export function shapeFileFor(pageTypeSlug: string): string {
   return join(SHAPES, PAGE_PROPERTY, `${pageTypeSlug}${ENDING}`)
-}
-
-export function shapedIn(value: Value): Shape | null {
-  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
-  const slug = textAt(value, "slug")
-  const propertySlug = textAt(value, "propertySlug")
-  if (pageTypeSlug === null || slug === null || propertySlug === null) return null
-  return {
-    pageTypeSlug,
-    targetPageTypeSlug: slugAt(value, "targetPageType"),
-    unique: slugAt(value, "unique"),
-    uniquePropertySlug: slugAt(value, "uniqueProperty"),
-    slug,
-    propertySlug,
-    fileName: textAt(value, "fileName"),
-    folderName: textAt(value, "folderName"),
-    sorted: value["sorted"] === true,
-  }
 }
 
 export function shapeFiled(value: Value): readonly Entry[] {

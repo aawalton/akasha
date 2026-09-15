@@ -10,13 +10,13 @@ import {
   pageFiled,
   relationFiled,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { shapedIn } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import {
   carriedFor,
   computedInto,
   gatheredFor,
   kindsFor,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import { shapedIn } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
