@@ -13,9 +13,9 @@ import {
   WRITES_VENDORED,
 } from "akasha/check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.test-fixtures.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { landing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -64,7 +64,7 @@ test("that same write is refused where the change takes the folder out of `.giti
 test("the check takes the code outside the changes as its input and no other body", () => {
   const cast = shadowFor(landing(rooted(), { [AT]: bytesOf(READS) }))
   if ("refused" in cast) throw new Error(cast.refused)
-  const inside = "changes/one/one.module.code.ts"
+  const inside = "change/one/one.module.code.ts"
 
   expect(repositoryIsWrittenByAChange.isInput(AT, cast.shadow)).toBe(true)
   expect(repositoryIsWrittenByAChange.isInput(inside, cast.shadow)).toBe(false)
@@ -74,7 +74,7 @@ test("a page of another type sharing the command slug does not move where the co
   const cast = shadowFor(landing(rooted(), { [AT]: bytesOf(READS) }))
   if ("refused" in cast) throw new Error(cast.refused)
 
-  expect(
-    repositoryIsWrittenByAChange.isInput("command/one/one.command.code.ts", cast.shadow)
-  ).toBe(false)
+  expect(repositoryIsWrittenByAChange.isInput("command/one/one.command.code.ts", cast.shadow)).toBe(
+    false
+  )
 })

@@ -12,6 +12,7 @@ import {
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -275,7 +276,7 @@ export async function pushedIn(
       [{ at: PUT, given: { at: sidecar, body: composed.text } }],
       `akasha: credential push ${sidecar}`
     )
-    const said = "refusals" in landed ? landed.refusals : landed.wrong
+    const said = refusalsIn(landed)
     if (said.length > 0) {
       return refusedFor(
         slug,

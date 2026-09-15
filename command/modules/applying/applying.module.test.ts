@@ -10,6 +10,7 @@ import {
   askedIn,
   type Carried,
   messageFor,
+  refusalsIn,
 } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
@@ -248,4 +249,24 @@ test("an apply stopped before any commit landed says nothing was committed", asy
   expect(said.refusals.length).toBe(1)
   expect(said.refusals[0]?.startsWith(NOTHING_COMMITTED)).toBe(true)
   expect(said.landed).toBe(false)
+})
+
+const COMMITTED = {
+  base: "0000000000000000000000000000000000000000",
+  landed: [],
+  formatted: [],
+  said: [],
+  wrong: [],
+  commit: "1111111111111111111111111111111111111111",
+}
+
+test("a landing that committed is taken as landed whatever went wrong after that commit", () => {
+  expect(refusalsIn({ ...COMMITTED, wrong: ["no workstation unit was weighed"] })).toEqual([])
+  expect(refusalsIn(COMMITTED)).toEqual([])
+})
+
+test("a landing refused answers its refusals", () => {
+  expect(refusalsIn({ refusals: ["another landing held the lock"], code: 1 })).toEqual([
+    "another landing held the lock",
+  ])
 })

@@ -87,7 +87,7 @@
 {"path":"command/pages/mobile/sim/tap/mobile-sim-tap.command.test.ts"}
 {"path":"command/pages/mobile/sim/teardown/mobile-sim-teardown.command.test.ts"}
 {"path":"command/pages/mobile/sim/type/mobile-sim-type.command.test.ts"}
-{"path":"command/pages/model/account/add/model-account-add.command.test.ts"}
+{"path":"command/pages/model-account/add/model-account-add.command.test.ts"}
 {"path":"command/pages/model/gateway/swap/model-gateway-swap.command.test.ts"}
 {"path":"command/pages/music/back/music-back.command.test.ts"}
 {"path":"command/pages/music/capture/music-capture.command.test-fixtures.ts"}

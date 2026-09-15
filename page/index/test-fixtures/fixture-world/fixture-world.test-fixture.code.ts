@@ -1,5 +1,6 @@
 import { cpSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
@@ -8,7 +9,6 @@ import { readerAt } from "akasha/page/index/rule/index-rule.index.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
-import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { keptAt, scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export type Held = Record<string, unknown>
@@ -118,7 +118,7 @@ export const named = ${HELD_EXPORT} + 1
 
 const CHANGE_TYPE = "change-mechanical"
 
-const CHANGE_CODE_AT = "changes"
+const CHANGE_CODE_AT = "change"
 
 type Reached = { readonly slug: string; readonly type: string; readonly at: string }
 

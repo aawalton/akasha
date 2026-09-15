@@ -200,12 +200,6 @@ export type Landing = (
   message: string
 ) => ReturnType<typeof landedMechanically>
 
-function refusalsIn(landed: Awaited<ReturnType<Landing>>): readonly string[] {
-  if ("refusals" in landed) return landed.refusals
-  for (const one of landed.wrong) process.stderr.write(`${one}\n`)
-  return []
-}
-
 export function unfiled(wrong: readonly string[]): boolean {
   return wrong.length === 1 && wrong[0]?.includes(UNFILED) === true
 }
@@ -220,7 +214,9 @@ export async function tookSeat(
   if (!existsSync(join(root, page))) return { kind: "unchanged" }
   const message = `${seatName} stopped, ${why}, so its page goes`
   const done: string[] = []
-  const refused = refusalsIn(await landing(done, root, [{ at: TAKE, given: { at: page } }], message))
+  const refused = refusalsIn(
+    await landing(done, root, [{ at: TAKE, given: { at: page } }], message)
+  )
   if (refused.length === 0) return { kind: "took" }
   if (!unfiled(refused)) return refusing(refused, done)
   const taken: readonly Asking[] = [{ at: TAKE_FILE, given: { at: page } }]

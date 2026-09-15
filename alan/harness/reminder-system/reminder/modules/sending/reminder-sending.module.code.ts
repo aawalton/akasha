@@ -1,14 +1,12 @@
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   mergeUncommitted,
   removeUncommitted,
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-import {
-  slugAt,
-  textAt,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 import { z } from "zod"
 
@@ -102,7 +100,7 @@ export async function tookReminder(
   done: string[] = []
 ): Promise<string | null> {
   const landed = await runMechanicalChange(root, [{ at: TOOK, given: { at: path } }], why)
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  const wrong = refusalsIn(landed)
   if (wrong.length > 0) return wrong.join("; ")
   done.push(tookSaid(path))
   removeUncommitted(root, path)

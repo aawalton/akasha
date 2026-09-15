@@ -6,7 +6,7 @@ import {
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import { testFixturesOnly } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/test-fixtures-only/test-fixtures-only.folder-shape.code.ts"
 
-const FOLDER = "akasha/check/test-fixtures"
+const FOLDER = "akasha/checks/test-fixtures"
 
 const ABOVE = "akasha/checks"
 
@@ -14,8 +14,8 @@ const PAGE_TYPES = new Set<string>(["test-fixture", "domain"])
 
 const HELD: Record<string, readonly string[]> = {
   "akasha/checks": ["domain/checks"],
-  "akasha/check/test-fixtures/one": ["test-fixture/one"],
-  "akasha/check/test-fixtures/two": ["test-fixture/two"],
+  "akasha/checks/test-fixtures/one": ["test-fixture/one"],
+  "akasha/checks/test-fixtures/two": ["test-fixture/two"],
 }
 
 const holds = holdsFrom(HELD)

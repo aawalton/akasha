@@ -253,6 +253,12 @@ export type Applied = {
   readonly untracked?: readonly string[]
 }
 
+export function refusalsIn(landed: Applied | Refused): readonly string[] {
+  if ("refusals" in landed) return landed.refusals
+  for (const one of landed.wrong) process.stderr.write(`${one}\n`)
+  return []
+}
+
 function warrantedAgain(
   root: string,
   head: string,

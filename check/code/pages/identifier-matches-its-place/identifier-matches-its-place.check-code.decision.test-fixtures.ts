@@ -58,7 +58,7 @@ export const DRAWN_ONE = "export function RungOf() {\n  return 1\n}\n"
 export const DRAWN_HELD = "function RungOf() {\n  return null\n}\n"
 
 export const PLACES: Places = {
-  fixed: new Map([["akasha/lualibs", "__TS__ArrayAt"]]),
+  fixed: new Map([["akasha/lualib-helper", "__TS__ArrayAt"]]),
   typeIdentifier: {
     nameFormat: typeIdentifier.nameFormat,
     matching: upperCamelCase,

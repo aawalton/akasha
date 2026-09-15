@@ -19,6 +19,7 @@ import {
   tagPages,
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { typeSlugOf } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
 import { AKASHA as AKASHA_REPO } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -299,7 +300,7 @@ export async function through(items: readonly WriteItem[], message: string): Pro
     items.map((item) => ({ at: PUT, given: { at: item.file_path, body: item.content } })),
     message
   )
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  const wrong = refusalsIn(landed)
   if (wrong.length > 0) {
     throw new Error(`landing the ${AKASHA_REPO} files was refused:\n${wrong.join("\n")}`)
   }

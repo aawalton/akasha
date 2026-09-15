@@ -8,4 +8,4 @@
 {"path":"agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts"}
 {"path":"agent/model/account/modules/upkeep/model-account-upkeep.module.test.ts"}
 {"path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"}
-{"path":"command/pages/model/account/re-enable/model-account-re-enable.command.code.ts"}
+{"path":"command/pages/model-account/re-enable/model-account-re-enable.command.code.ts"}

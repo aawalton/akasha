@@ -11,6 +11,7 @@ import {
   refusedBy,
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import type { Committing } from "akasha/command/modules/landing/landing.module.code.ts"
@@ -126,7 +127,7 @@ const BEFORE_STOPPING =
   "was committed before this stopped, so read that commit rather than running this again"
 
 function answered(landed: Awaited<ReturnType<Landing>>, did: string): Answer {
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  const wrong = refusalsIn(landed)
   if (wrong.length > 0) return refusedBy(wrong, OPERATIONAL)
   return told([did])
 }

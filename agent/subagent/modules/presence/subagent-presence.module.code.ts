@@ -35,6 +35,7 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import {
   listedAt,
   listedById,
@@ -107,7 +108,7 @@ export function seatNamedIn(root: string, seatId: string): string | null {
 }
 
 function wentBy(landed: Awaited<ReturnType<Landing>>, done: readonly string[] = []): Went {
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  const wrong = refusalsIn(landed)
   if (wrong.length === 0) return WENT
   return { why: [wrong.join(" ").trim(), ...partWay(done)].join(" ") }
 }

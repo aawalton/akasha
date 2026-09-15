@@ -11,6 +11,11 @@ export const applying = {
     {
       invariantKind: "departure",
       statement:
+        "A landing that committed is taken as landed whatever went wrong after that commit, and what went wrong is said on stderr.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The arguments an apply takes are read here rather than by the command naming the apply.",
     },
     {

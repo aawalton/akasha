@@ -1,4 +1,5 @@
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
@@ -204,7 +205,7 @@ export async function recordCutFingerprint(
     null,
     { done }
   )
-  const wrong = "refusals" in said ? said.refusals : said.wrong
+  const wrong = refusalsIn(said)
   if (wrong.length > 0) {
     throw new Error(
       `\`${MOBILE_CUT_PAGE_TYPE_SLUG}/${slug}\` was not filed, so \`mobile cut-status\` would keep ` +

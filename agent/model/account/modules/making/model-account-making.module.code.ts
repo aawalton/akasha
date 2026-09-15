@@ -8,6 +8,7 @@ import {
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -164,7 +165,7 @@ export async function madeIn(
       [{ at: PUT, given: { at: path, body: text } }],
       `akasha: add ${path}`
     )
-    const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+    const wrong = refusalsIn(landed)
     if (wrong.length > 0) return { kind: "refused", slug, why: wrong.join("; ") }
     return { kind: "made", slug, path, id }
   } catch (thrown) {

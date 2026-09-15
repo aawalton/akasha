@@ -1,4 +1,5 @@
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -66,7 +67,7 @@ async function landed(
   let text = ""
   for (const one of runs) text += `${JSON.stringify(one)}${NEWLINE}`
   const answer = await runMechanicalChange(root, [{ at: PUT, given: { at, body: text } }], message)
-  const wrong = "refusals" in answer ? answer.refusals : answer.wrong
+  const wrong = refusalsIn(answer)
   if (wrong.length > 0) said(`the run record did not land: ${wrong.join("; ")}`)
 }
 

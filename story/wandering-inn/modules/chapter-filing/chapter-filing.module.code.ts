@@ -1,5 +1,6 @@
 import { linkFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -121,7 +122,7 @@ export async function fileChapter(chapter: Filing): Promise<string> {
     ],
     `file ${CHAPTER_PAGE_TYPE}/${slug}`
   )
-  const wrong = "refusals" in answer ? answer.refusals : answer.wrong
+  const wrong = refusalsIn(answer)
   if (wrong.length > 0) {
     throw new FilingRefused(`${CHAPTER_PAGE_TYPE}/${slug} did not land: ${wrong.join("; ")}`)
   }

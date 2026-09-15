@@ -20,6 +20,7 @@ import {
   INPUT,
   OPERATIONAL,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   everyOfType,
@@ -27,10 +28,7 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { removeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import {
-  slugAt,
-  textAt,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { procEntries } from "akasha/util/process/modules/proc-reading/proc-reading.module.code.ts"
 import { ending } from "akasha/util/process/modules/process-ending/process-ending.module.code.ts"
 
@@ -159,8 +157,7 @@ export async function took(
   if (here.length === 0) return true
   const changes: readonly Asking[] = here.map((path) => ({ at: TAKE, given: { at: path } }))
   const landed = await landing(done, given.root, changes, message)
-  const gone = !("refusals" in landed)
-  if (gone) for (const one of landed.wrong) process.stderr.write(`${one}\n`)
+  const gone = refusalsIn(landed).length === 0
   if (gone) dropReadings(given.root, here)
   return gone
 }
