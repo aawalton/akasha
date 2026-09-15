@@ -8,7 +8,6 @@ export const pageUi = {
 
   parts: [
     "domain/page-ui-component",
-    "domain/page-ui-action-verb",
     "domain/page-ui-app-version",
     "domain/page-ui-block-editor",
     "domain/page-ui-cache",
@@ -21,6 +20,7 @@ export const pageUi = {
     "domain/page-ui-perf",
     "domain/page-ui-reorder-verb",
     "domain/page-ui-supabase",
+    "module/action-verb-registry",
     "module/navigation-context",
     "module/option-create-context",
     "module/use-user-id",

@@ -8,11 +8,11 @@ import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badg
 import { Icon } from "akasha/design/interfaces/patterns/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { actionButtonConfigSchema } from "akasha/page/core/schema/modules/action-button-config/action-button-config.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import {
   getActionVerb,
   getActionVerbPresentation,
-} from "akasha/page/ui/action-verb/modules/action-verb-registry/action-verb-registry.module.code.ts"
-import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
+} from "akasha/page/ui/modules/action-verb-registry/action-verb-registry.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { type MouseEvent, useEffect } from "react"
 

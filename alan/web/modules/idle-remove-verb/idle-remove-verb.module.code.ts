@@ -4,7 +4,7 @@ import { removeFromTeam } from "akasha/alan/web/modules/lineup-slots-draft/lineu
 import {
   type ActionVerbContext,
   registerActionVerb,
-} from "akasha/page/ui/action-verb/modules/action-verb-registry/action-verb-registry.module.code.ts"
+} from "akasha/page/ui/modules/action-verb-registry/action-verb-registry.module.code.ts"
 import { z } from "zod"
 
 const removeCardSchema = z.object({ cardSlug: z.string().min(1) }).partial()
