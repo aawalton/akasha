@@ -8,19 +8,19 @@ export const recipientResolverConfig = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting the environment states as no positive finite number is the default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The seconds the environment states are held as milliseconds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Dry run is on where the environment says `1` or `true` or `yes` or `on`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The value the environment states is read without regard to case or surrounding spaces.",
     },
