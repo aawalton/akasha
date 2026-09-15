@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathOfTheDeathlessBook4Completed0336270ITheChoiceOfVirtueIi2965363 = {
   id: "01a06730-4e56-7720-8d06-7a36cffcde94",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0336-270-i-the-choice-of-virtue-ii-2965363",
   title: "270 (I) “The Choice of Virtue” [II]",
   story: "story-read/path-of-the-deathless-book-4-completed",
