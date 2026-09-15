@@ -2,7 +2,7 @@ import type { WorldLegacy } from "akasha/story/world-mechanic/world-legacy/world
 
 export const longRangedShot = {
   id: "01a0655a-0687-7721-a2a6-29bd70cb0498",
-  type: "world-legacy",
+  type: "page-type/world-legacy",
   slug: "long-ranged-shot",
   title: "Long-ranged Shot",
   world: "world/the-wandering-inn",
