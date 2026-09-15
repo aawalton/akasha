@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   folderFrom,
+  gatheringFrom,
   holdsFrom,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
@@ -29,12 +30,7 @@ const TAKES: Record<string, readonly string[]> = {
 const extending: Standing["extending"] = (pageTypeSlug, wanted) =>
   (TAKES[pageTypeSlug] ?? []).includes(wanted)
 
-const GATHERED: Record<string, readonly string[]> = {
-  modules: ["module"],
-  properties: ["page-property"],
-}
-
-const gathered: Standing["gathered"] = (named) => GATHERED[named] ?? []
+const gathered = gatheringFrom({ modules: ["module"], properties: ["page-property"] })
 
 const DEEP = ["one/one.module.ts", "two/two.module.ts"]
 

@@ -110,6 +110,12 @@ export function holdsFrom(named: Readonly<Record<string, readonly string[]>>): S
   return (at) => named[at] ?? []
 }
 
+export function gatheringFrom(
+  named: Readonly<Record<string, readonly string[]>>
+): Standing["gathered"] {
+  return (plural) => named[plural] ?? []
+}
+
 export function folderFrom(shaping: Shaping): (names: readonly string[]) => Standing {
   const extending = shaping.extending ?? ((): boolean => false)
   const declaring = shaping.declaring ?? ((): null => null)
