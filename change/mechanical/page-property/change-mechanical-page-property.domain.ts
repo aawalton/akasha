@@ -7,7 +7,7 @@ export const changeMechanicalPageProperty = {
   definition: "a mechanical change acting on a page property and on every page with it",
   parts: [
     "change-mechanical/add-page-property",
-    "domain/change-mechanical-page-property-remove",
+    "change-mechanical/remove-page-property",
     "domain/change-mechanical-page-property-rename",
   ],
   invariants: [

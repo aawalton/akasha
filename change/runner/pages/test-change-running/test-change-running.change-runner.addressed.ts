@@ -351,7 +351,7 @@ export type Changes = {
     typeof import("akasha/change/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/remove-page-property": Parameters<
-    typeof import("akasha/change/mechanical/page-property/remove/remove-page-property/remove-page-property.change-mechanical.code.ts")["runChange"]
+    typeof import("akasha/change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/rename-file-page": Parameters<
     typeof import("akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts")["runChange"]
