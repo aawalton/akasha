@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   answerPages,
   answerPageTypes,
+  listedKeys,
   type PagesDeps,
   type PageTypeReading,
   type PageTypesDeps,
@@ -132,6 +133,42 @@ test("a listing asks the pages for no more rows than the listing carries", async
   })
   await answerPages(new Request(AT), "readout", deps)
   expect(under).toEqual([5_000])
+})
+
+const CARRIED: readonly PropertyDefinition[] = [
+  {
+    id: "slug",
+    title: "Slug",
+    type: "text",
+    pageId: "one",
+    drawnBy: ["text-property", "page-property", "domain", "page"],
+  },
+  {
+    id: "stacks",
+    title: "Stacks",
+    type: "json",
+    pageId: "two",
+    drawnBy: ["page-property-entry", "page-property", "domain", "page"],
+  },
+]
+
+test("a listing asks for every key but the ones whose rows are filed beside the page", async () => {
+  const under: (readonly string[] | undefined)[] = []
+  const answered = await answerPages(new Request(AT), "readout", {
+    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    ask: async (_pageTypeSlug, _limit, keys) => {
+      under.push(keys)
+      return { rows: [], n: 0 }
+    },
+    readPageType: async () => ({ pageTypeId: "one", definitions: CARRIED }),
+    definitionsFor: async () => [],
+  })
+  expect(answered.status).toBe(200)
+  expect(under).toEqual([["slug"]])
+})
+
+test("a page type stating no property is asked for no keys rather than for an empty list", () => {
+  expect(listedKeys([])).toBeUndefined()
 })
 
 test("how many pages are filed is the count the pages answer with", async () => {

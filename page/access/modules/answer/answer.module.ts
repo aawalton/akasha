@@ -27,6 +27,18 @@ export const answer = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A listing carries a page's own values and not the rows filed beside that page.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The keys a listing asks for are named in the question rather than trimmed after.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The page type is read before the pages are asked, so the question can name keys.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "An answer says how many pages were counted and whether the listing reached those pages.",
     },

@@ -69,7 +69,11 @@ export type PageTypeReading = {
 
 export type PagesDeps = {
   readonly readUser: ReadUser
-  readonly ask: (pageTypeSlug: string, limit: number) => Promise<Asked>
+  readonly ask: (
+    pageTypeSlug: string,
+    limit: number,
+    keys: readonly string[] | undefined
+  ) => Promise<Asked>
   readonly readPageType: (pageTypeSlug: string) => Promise<PageTypeReading | null>
   readonly definitionsFor: (pageTypeSlug: string) => Promise<readonly PropertyDefinition[]>
 }
@@ -77,7 +81,8 @@ export type PagesDeps = {
 export function pagesDeps(readUser: ReadUser): PagesDeps {
   return {
     readUser,
-    ask: (pageTypeSlug, limit) => askingFor({ pageTypeSlug, limit }),
+    ask: (pageTypeSlug, limit, keys) =>
+      askingFor({ pageTypeSlug, limit, ...(keys === undefined ? {} : { keys }) }),
     readPageType: async (pageTypeSlug) => {
       const pageType = await getPageTypeBySlug(pageTypeSlug)
       if (pageType === null) return null
@@ -88,6 +93,19 @@ export function pagesDeps(readUser: ReadUser): PagesDeps {
     },
     definitionsFor: (pageTypeSlug) => getPropertyDefinitions({ pageTypeSlug }),
   }
+}
+
+const ENTRY_PROPERTY = "page-property-entry"
+
+export function listedKeys(
+  definitions: readonly PropertyDefinition[]
+): readonly string[] | undefined {
+  const wanted: string[] = []
+  for (const one of definitions) {
+    if (one.drawnBy?.includes(ENTRY_PROPERTY) === true) continue
+    wanted.push(one.id)
+  }
+  return wanted.length === 0 ? undefined : wanted
 }
 
 function carrying(row: RawPageRow, definitions: readonly PropertyDefinition[]): RawPageRow {
@@ -135,11 +153,6 @@ export async function answerPages(
     return Response.json({ error: SIGNED_IN_ONLY }, { status: 401, headers })
   }
 
-  const asked = await deps.ask(pageTypeSlug, LISTING_CEILING)
-  if ("refused" in asked) {
-    return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })
-  }
-
   let reading: PageTypeReading | null
   try {
     reading = await deps.readPageType(pageTypeSlug)
@@ -155,6 +168,11 @@ export async function answerPages(
       { error: `no page type is named \`${pageTypeSlug}\`` },
       { status: 404, headers }
     )
+  }
+
+  const asked = await deps.ask(pageTypeSlug, LISTING_CEILING, listedKeys(reading.definitions))
+  if ("refused" in asked) {
+    return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })
   }
 
   const held = asked.n
