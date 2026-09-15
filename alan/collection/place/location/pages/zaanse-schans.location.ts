@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const zaanseSchans = {
   id: "019f1aec-0e25-7198-b708-0e548943a961",
-  type: "location",
+  type: "page-type/location",
   slug: "zaanse-schans",
   title: "Zaanse Schans",
   latitude: 52.4750534,

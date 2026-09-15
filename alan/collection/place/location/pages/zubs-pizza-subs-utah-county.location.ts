@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const zubsPizzaSubsUtahCounty = {
   id: "019f322c-9caa-7102-8916-ef5bd1ac3a12",
-  type: "location",
+  type: "page-type/location",
   slug: "zubs-pizza-subs-utah-county",
   title: "Zub's Pizza & Sub's (Utah County)",
   address: "Utah County, UT",

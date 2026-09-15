@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const zipzBearLake = {
   id: "019f1aec-0f16-7771-b24b-d8a06cc8bbd3",
-  type: "location",
+  type: "page-type/location",
   slug: "zipz-bear-lake",
   title: "Zipz Bear Lake",
   address: "75 N Bear Lake Blvd, Garden City, UT 84028, United States",

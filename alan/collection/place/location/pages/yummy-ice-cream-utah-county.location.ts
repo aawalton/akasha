@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const yummyIceCreamUtahCounty = {
   id: "019f322c-9c99-7f68-a802-85c7a5debe17",
-  type: "location",
+  type: "page-type/location",
   slug: "yummy-ice-cream-utah-county",
   title: "Yummy Ice Cream (Utah County)",
   address: "Utah County, UT",

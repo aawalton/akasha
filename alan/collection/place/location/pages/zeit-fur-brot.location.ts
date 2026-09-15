@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const zeitFurBrot = {
   id: "019f1aec-0d55-7a48-9605-69303dac42cb",
-  type: "location",
+  type: "page-type/location",
   slug: "zeit-fur-brot",
   title: "Zeit für Brot",
   latitude: 52.5412291,

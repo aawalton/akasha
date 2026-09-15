@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ziplineUtahUtahCounty = {
   id: "019f322c-9ca6-7f3a-bcab-2b3819eea6ad",
-  type: "location",
+  type: "page-type/location",
   slug: "zipline-utah-utah-county",
   title: "Zipline Utah (Utah County)",
   address: "Utah County, UT",
