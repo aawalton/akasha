@@ -41,6 +41,7 @@ import {
   scanBankBags,
   scanCompanionWorn,
   scanCraftBag,
+  scanCurrentFurnitureVault,
   scanCurrentGuildBank,
   scanHouseBanks,
   scanPersonalBags,
@@ -167,6 +168,9 @@ export function registerInventoryEvents(): undefined {
       scanBankBags()
       recordBankPhaseMs("scanBankBags", GetGameTimeMilliseconds() - scanStart)
       scanBankedCurrencies()
+      if (GetBankingBag() === BAG_FURNITURE_VAULT) {
+        scanCurrentFurnitureVault()
+      }
       if (GetCurrentZoneHouseId() > 0 && IsOwnerOfCurrentHouse()) {
         scanHouseBanks()
       }

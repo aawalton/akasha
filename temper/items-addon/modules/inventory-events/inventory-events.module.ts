@@ -9,6 +9,10 @@ export const inventoryEvents = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A bank visit scans the bag that visit opened.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A slot the add-on changed at a bank is judged again as any other slot is.",
     },
     {
