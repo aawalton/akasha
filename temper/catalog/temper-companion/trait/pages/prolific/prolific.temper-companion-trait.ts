@@ -2,7 +2,7 @@ import type { TemperCompanionTrait } from "akasha/temper/catalog/temper-companio
 
 export const prolific = {
   id: "01a05fce-c4b0-7db1-b613-848e703bbfc8",
-  type: "temper-companion-trait",
+  type: "page-type/temper-companion-trait",
   slug: "prolific",
   key: "prolific",
   title: "Prolific",

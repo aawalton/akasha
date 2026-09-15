@@ -2,7 +2,7 @@ import type { TemperCompanionTrait } from "akasha/temper/catalog/temper-companio
 
 export const vigorous = {
   id: "01a05fce-c4b1-7ee6-a23d-dede085d0557",
-  type: "temper-companion-trait",
+  type: "page-type/temper-companion-trait",
   slug: "vigorous",
   key: "vigorous",
   title: "Vigorous",

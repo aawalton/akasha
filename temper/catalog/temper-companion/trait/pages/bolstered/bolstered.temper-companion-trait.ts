@@ -2,7 +2,7 @@ import type { TemperCompanionTrait } from "akasha/temper/catalog/temper-companio
 
 export const bolstered = {
   id: "01a05fce-c4af-7566-b544-fc48ca193628",
-  type: "temper-companion-trait",
+  type: "page-type/temper-companion-trait",
   slug: "bolstered",
   key: "bolstered",
   title: "Bolstered",
