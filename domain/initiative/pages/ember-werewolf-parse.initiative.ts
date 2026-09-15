@@ -10,7 +10,7 @@ export const emberWerewolfParse = {
     {
       statement: "Three-Color Stalker's bar, masteries and Champion Points are the werewolf setup.",
       workingMemory:
-        "One bar and no weapon swap: Feral Carnage, Hircine's Rage, Ferocious Roar, Bloody Gnash and Bloodclaws under Werewolf Berserker. Class Mastery rather than subclassing, taking An Eye for Exploitation and Above and Beyond. Warfare takes Wrathful Strikes, Fighting Finesse, Deadly Aim and Master-at-Arms. Fitness takes Boundless Vitality, Fortified, Rejuvenation and Celerity. The Thief, and 64 Stamina. The bar and Champion Points sit only inside buildHash, which the importer discards.\n",
+        "One bar and no weapon swap: Feral Pounce, Hircine's Rage, Ferocious Roar, Bloody Gnash and Bloodclaws under Werewolf Berserker. The guide calls Feral Pounce by the name Feral Carnage, which the game does not use. Class Mastery rather than subclassing, taking An Eye for Exploitation and Above and Beyond. Warfare takes Wrathful Strikes, Fighting Finesse, Deadly Aim and Master-at-Arms. Fitness takes Boundless Vitality, Fortified, Rejuvenation and Celerity. The Thief, and 64 Stamina.\n",
     },
     {
       statement: "Three-Color Stalker parses 135,000 or more on the trials dummy.",
