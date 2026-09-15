@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/seat/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/seat/reviving/modules/seat-resume-guard/seat-resume-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}

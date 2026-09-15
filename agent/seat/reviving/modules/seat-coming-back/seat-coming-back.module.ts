@@ -4,13 +4,21 @@ export const seatComingBack = {
   id: "01a0a502-1586-777f-84c7-0d2a1f147ede",
   type: "module",
   slug: "seat-coming-back",
-  definition: "a seat's page put back as the commit that took that page away left it",
+  definition: "a seat composed again from what its page said before that page was taken away",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A seat comes back as the commit that took its page away left that page.",
+      statement: "A seat comes back from what the commit that took its page away left there.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The page is composed again from those values rather than written back as it was.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A value written under a name pages have left is read under the name pages have.",
     },
     {
       invariantKind: "invariant-kind/departure",

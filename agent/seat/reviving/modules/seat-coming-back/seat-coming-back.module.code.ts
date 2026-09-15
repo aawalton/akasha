@@ -1,18 +1,24 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import {
+  type Landing,
+  type SeatStated,
+  type Stating,
+  statedSeat,
+} from "akasha/agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"
 import { resolveSeatTarget } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
+import { underOldKeys } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { landedMechanically } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { akashaHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-
-const PUT = "change-mechanical-file/add-file"
+import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
 
 const HEAD = "HEAD"
 
@@ -25,12 +31,12 @@ export interface Held {
   readonly body: string
 }
 
-export type Landing = (
-  done: string[],
+export type StatingSeat = (
   root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof landedMechanically>
+  stated: SeatStated,
+  seatName: string,
+  landing?: Landing
+) => Promise<Stating>
 
 export function seatFileNamed(name: string): string {
   return `${name}${TAIL}`
@@ -78,18 +84,48 @@ export function alreadyThere(root: string, path: string): boolean {
   return existsSync(join(root, path))
 }
 
+export function statedFrom(values: Record<string, unknown>): SeatStated | null {
+  const agentId = textIn(values["id"])
+  if (agentId === null) return null
+  const assignment = textIn(values["domain-slug"])
+  return {
+    agentId,
+    persona: textIn(values["persona-slug"]),
+    domain: assignment === null ? null : slugOf(assignment),
+    assignment,
+    role: textIn(values["role-slug"]),
+    principal: textIn(values["person-slug"]),
+    mode: textIn(values["start-mode"]),
+    registration: textIn(values["registration-account"]),
+    onCall: values["on-call"] === true,
+    session: textIn(values["claude-code-session-uuid"]),
+    parentName: textIn(values["principal-seat-name"]),
+  }
+}
+
+export function statedIn(body: string): SeatStated | null {
+  const held = loadedFrom(body)
+  if (held.failed !== null || held.value === null) return null
+  return statedFrom(underOldKeys(held.value as Record<string, unknown>))
+}
+
 export async function seatBackFromHistory(
   root: string,
   name: string,
   done: string[] = [],
-  landing: Landing = landedMechanically
+  stating: StatingSeat = statedSeat
 ): Promise<Held | null> {
   if (alreadyThere(root, seatPathForName(name))) return null
   const held = heldBefore(root, name)
   if (held === null) return null
-  const asked: readonly Asking[] = [{ at: PUT, given: { at: held.at, body: held.body } }]
-  const refused = refusalsIn(await landing(done, root, asked, saidOfBack(name, held.commit)))
-  if (refused.length > 0) throw dataError(refused.join("\n"))
+  const stated = statedIn(held.body)
+  if (stated === null) return null
+  const saying: Landing = (wrote, at, changes) =>
+    landedMechanically(wrote, at, changes, saidOfBack(name, held.commit))
+  const said = await stating(root, stated, name, saying)
+  if (said.kind === "refused") throw dataError(said.said)
+  if (said.kind === "unstated") return null
+  done.push(saidOfBack(name, held.commit))
   return held
 }
 
@@ -98,7 +134,6 @@ export async function seatTargetOrBack(named: string, done: string[]): Promise<s
   if (!("error" in found)) return found.id
   const back = await seatBackFromHistory(akashaHere(), named, done)
   if (back === null) throw inputError(found.error)
-  done.push(`\`${named}\` comes back from ${back.commit}`)
   const again = resolveSeatTarget(named)
   if ("error" in again) throw dataError(again.error)
   return again.id

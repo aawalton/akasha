@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/page/modules/seat-record/seat-record.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/page/modules/values/seat-page-values.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"command/pages/seat/transcript-list/seat-transcript-list.command.code.ts"}
