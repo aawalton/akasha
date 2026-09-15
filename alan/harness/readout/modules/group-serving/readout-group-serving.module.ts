@@ -269,6 +269,27 @@ export const readoutGroupServing = {
       statement: "The rows a store holds are handed in rather than named here.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A store set up for a test places a page named by page type and slug at a path of its own.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page no row of that store answers for is placed nowhere rather than at a path.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A store keeps the values a write hands it beside the path that write names.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A row a store answers carries the values written beside that row's own path.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A store set up again holds nothing written to the store before it.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here takes a reading.",
     },

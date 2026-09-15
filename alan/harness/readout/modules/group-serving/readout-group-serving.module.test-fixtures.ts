@@ -90,10 +90,66 @@ function answeredRows(asked: AskedOf): Rows {
   return []
 }
 
+const READ_AT = "/read"
+
+const WRITE_AT = "/write"
+
+const AT_A_COMMIT = "0000000000000000000000000000000000000000"
+
+const written = new Map<string, Record<string, unknown>>()
+
+type Sought = {
+  readonly pages?: readonly { readonly pageTypeSlug: string; readonly slug: string }[]
+}
+
+type Keeping = {
+  readonly kept?: readonly { readonly path: string; readonly values: Record<string, unknown> }[]
+}
+
+function pageAt(pageTypeSlug: string, slug: string): string {
+  return `${pageTypeSlug}/pages/${slug}/${slug}.${pageTypeSlug}.ts`
+}
+
+function writtenOnto(asked: AskedOf, rows: Rows): Rows {
+  if (written.size === 0) return rows
+  return rows.map((row) => {
+    const slug = typeof row.slug === "string" ? row.slug : ""
+    const held = written.get(pageAt(asked.pageTypeSlug, slug))
+    return held === undefined ? row : { ...row, ...held }
+  })
+}
+
+function placing(answering: Answering, sought: Sought): Response {
+  const bodies: { path: string; content: null }[] = []
+  const unplaced: string[] = []
+  for (const one of sought.pages ?? []) {
+    const found = rowsAsked(answering({ pageTypeSlug: one.pageTypeSlug }), {
+      slug: { is: one.slug },
+    })
+    if (found.length === 0) unplaced.push(`${one.pageTypeSlug}/${one.slug}`)
+    else bodies.push({ path: pageAt(one.pageTypeSlug, one.slug), content: null })
+  }
+  return Response.json({ at: AT_A_COMMIT, bodies, unplaced })
+}
+
+function keeping(asked: Keeping): Response {
+  const kept = asked.kept ?? []
+  for (const one of kept) written.set(one.path, { ...(written.get(one.path) ?? {}), ...one.values })
+  return Response.json({ commit: null, wrote: kept.map((one) => one.path), took: [] })
+}
+
 export function servingStore(answering: Answering = answeredRows): ReturnType<typeof Bun.serve> {
+  written.clear()
   const store = Bun.serve({
     port: 0,
-    fetch: async (request) => Response.json({ rows: answering((await request.json()) as AskedOf) }),
+    fetch: async (request) => {
+      const at = new URL(request.url).pathname
+      const body: unknown = await request.json()
+      if (at === READ_AT) return placing(answering, body as Sought)
+      if (at === WRITE_AT) return keeping(body as Keeping)
+      const asked = body as AskedOf
+      return Response.json({ rows: writtenOnto(asked, answering(asked)) })
+    },
   })
   heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
   process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
