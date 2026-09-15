@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const shapeshifterANonHumanLitrpg0044Chapter39StatDifference = {
   id: "01a080e7-1bd4-7603-b868-a4b5f3735b84",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0044-chapter-39-stat-difference",
   story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 44,

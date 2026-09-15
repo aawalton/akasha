@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const sherlyTheMostVirtuousHolyCow0011Chapter11CowVersusUnirats = {
   id: "01a06730-4fa9-7cdc-ba95-057406f4489f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0011-chapter-11-cow-versus-unirats",
   title: "Chapter 11 - Cow Versus Unirats",
   story: "story-read/sherly-the-most-virtuous-holy-cow",

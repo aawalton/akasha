@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const shapeshifterANonHumanLitrpg0038Chapter33LivingInTheShadows = {
   id: "01a06730-4e0a-7995-b7c9-9616fe4f2df5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0038-chapter-33-living-in-the-shadows",
   title: "Chapter 33: Living in the Shadows",
   story: "story-read/shapeshifter-a-non-human-litrpg",

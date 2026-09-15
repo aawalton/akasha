@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const shapeshifterANonHumanLitrpg0021Chapter17AConfrontation = {
   id: "01a06730-4e09-7749-accb-d74c5152ac83",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0021-chapter-17-a-confrontation",
   title: "Chapter 17: A Confrontation",
   story: "story-read/shapeshifter-a-non-human-litrpg",

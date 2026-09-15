@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const shapeshifterANonHumanLitrpg0046Chapter41GrandRitual = {
   id: "01a0a598-d512-7077-aead-57b68f2b049a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0046-chapter-41-grand-ritual",
   position: 46,
   publishedAt: "2026-09-15",

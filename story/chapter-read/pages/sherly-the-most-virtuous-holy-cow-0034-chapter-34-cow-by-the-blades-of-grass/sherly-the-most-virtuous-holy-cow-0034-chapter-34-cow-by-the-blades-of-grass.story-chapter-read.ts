@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const sherlyTheMostVirtuousHolyCow0034Chapter34CowByTheBladesOfGrass = {
   id: "01a06730-4fab-710d-ac98-e8bf71784b61",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0034-chapter-34-cow-by-the-blades-of-grass",
   title: "Chapter 34 - Cow by the Blades of Grass",
   story: "story-read/sherly-the-most-virtuous-holy-cow",
