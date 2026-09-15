@@ -46,6 +46,11 @@ export const fileIsOwnedByAPage = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement:
+        "A file closing with an extension a page type names is owned by the page naming that extension.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A file whose name states a page that is nowhere is let through.",
     },
     {
@@ -58,5 +63,5 @@ export const fileIsOwnedByAPage = {
     },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 60 },
+  audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

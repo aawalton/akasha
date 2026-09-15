@@ -7,7 +7,9 @@ import {
 } from "akasha/check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts"
 import {
   AWAY_AT,
+  AWAY_ENDED_AT,
   CODE_AT,
+  ENDED_AT,
   FILED_AT,
   NAMED_AT,
   NOWHERE_AT,
@@ -45,8 +47,13 @@ test("a file beneath a folder a page type names is owned by the page naming that
   expect(ownerOf(UNDER_AT, HELD)).toBe(PAGE_AT)
 })
 
-test("a file of that name where no page of the type sits is owned by nothing", () => {
+test("a file closing with an extension a page type names is owned by the page naming it", () => {
+  expect(ownerOf(ENDED_AT, HELD)).toBe(PAGE_AT)
+})
+
+test("those same names where no page of the type sits are owned by nothing", () => {
   expect(ownerOf(AWAY_AT, HELD)).toBeNull()
+  expect(ownerOf(AWAY_ENDED_AT, HELD)).toBeNull()
   expect(reasonsFor(AWAY_AT, HELD)).toEqual([UNOWNED])
 })
 

@@ -12,17 +12,25 @@ const CARRIED = "holding"
 
 const FOLDERED = "carried-folder"
 
+const ENDED = "carried-ending"
+
 const CARRIED_ID = "01a0a5b0-0000-7000-8000-000000000001"
 
 const FOLDER_KIND_ID = "01a0a5b0-0000-7000-8000-000000000002"
 
 const FOLDERED_ID = "01a0a5b0-0000-7000-8000-000000000003"
 
+const ENDING_KIND_ID = "01a0a5b0-0000-7000-8000-000000000004"
+
+const ENDED_ID = "01a0a5b0-0000-7000-8000-000000000005"
+
 const HELD = "ca.crt"
 
 const UNDER = "art"
 
-const DECLARES = ["code", "test", "note", "part-slugs", CARRIED, FOLDERED]
+const ENDING = "dds"
+
+const DECLARES = ["code", "test", "note", "part-slugs", CARRIED, FOLDERED, ENDED]
 
 export const PAGE_AT = "akasha/one/held.module.ts"
 
@@ -30,9 +38,13 @@ export const CODE_AT = "akasha/one/held.module.code.ts"
 
 export const NAMED_AT = `akasha/one/${HELD}`
 
-export const UNDER_AT = `akasha/one/${UNDER}/held.dds`
+export const UNDER_AT = `akasha/one/${UNDER}/held.png`
+
+export const ENDED_AT = `akasha/one/held.${ENDING}`
 
 export const AWAY_AT = `akasha/three/${HELD}`
+
+export const AWAY_ENDED_AT = `akasha/three/held.${ENDING}`
 
 export const STRAY_AT = "akasha/loose.txt"
 
@@ -53,8 +65,15 @@ const VOCABULARY: Readonly<Record<string, string>> = {
   [`akasha/${FOLDERED}.named-folder-property.ts`]: bodyOf(
     aProperty(FOLDERED_ID, FOLDERED, "named-folder-property", { folderName: UNDER })[1]
   ),
+  "akasha/named-extension-property.page-type.ts": bodyOf(
+    aType(ENDING_KIND_ID, "named-extension-property", ["page-type/page-property"])[1]
+  ),
+  [`akasha/${ENDED}.named-extension-property.ts`]: bodyOf(
+    aProperty(ENDED_ID, ENDED, "named-extension-property", { extensionName: ENDING })[1]
+  ),
   [NAMED_AT]: "one\n",
   [UNDER_AT]: "under\n",
+  [ENDED_AT]: "ending\n",
 }
 
 export function whole(): string {
@@ -62,5 +81,10 @@ export function whole(): string {
 }
 
 export function strayed(): string {
-  return indexedRepo({ ...VOCABULARY, [AWAY_AT]: "away\n", [STRAY_AT]: "nothing\n" })
+  return indexedRepo({
+    ...VOCABULARY,
+    [AWAY_AT]: "away\n",
+    [AWAY_ENDED_AT]: "away\n",
+    [STRAY_AT]: "nothing\n",
+  })
 }

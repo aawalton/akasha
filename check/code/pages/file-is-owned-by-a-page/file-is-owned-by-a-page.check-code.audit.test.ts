@@ -3,6 +3,7 @@ import { fileIsOwnedByAPage } from "akasha/check/code/pages/file-is-owned-by-a-p
 import { UNOWNED } from "akasha/check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts"
 import {
   AWAY_AT,
+  AWAY_ENDED_AT,
   STRAY_AT,
   strayed,
   whole,
@@ -17,6 +18,6 @@ test("a tree whose every file belongs to a page is let through", () => {
 
 test("a file no change names and no page owns is refused, and the rest are let through", () => {
   const said = fileIsOwnedByAPage(strayed())
-  expect(said.map((one) => one.path)).toEqual([STRAY_AT, AWAY_AT])
-  expect(said.map((one) => one.reason)).toEqual([UNOWNED, UNOWNED])
+  expect(said.map((one) => one.path)).toEqual([STRAY_AT, AWAY_AT, AWAY_ENDED_AT])
+  expect(new Set(said.map((one) => one.reason))).toEqual(new Set([UNOWNED]))
 })
