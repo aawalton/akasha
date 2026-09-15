@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0005ChapterFiveCloseEncounterOfThePrimateKind = {
   id: "01a0672c-eb6d-700a-82bc-a7e633b83397",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0005-chapter-five-close-encounter-of-the-primate-kind",
   title: "Chapter Five: Close Encounter of the Primate Kind",
   story: "story-read/labyrinth-of-the-mad-god",

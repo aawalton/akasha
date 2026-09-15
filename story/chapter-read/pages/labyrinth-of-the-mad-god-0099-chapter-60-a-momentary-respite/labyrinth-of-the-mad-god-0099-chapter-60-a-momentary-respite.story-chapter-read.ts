@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0099Chapter60AMomentaryRespite = {
   id: "01a0672c-eb73-7000-805f-47b5216f5e88",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0099-chapter-60-a-momentary-respite",
   title: "Chapter 60: A Momentary Respite",
   story: "story-read/labyrinth-of-the-mad-god",

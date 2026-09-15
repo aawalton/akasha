@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0159BookChapterFirstReincarnation = {
   id: "01a06731-ae68-7000-bf3a-5725d93d8db0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0159-book-chapter-first-reincarnation",
   title: "??? — Book ?, Chapter ?? — First Reincarnation",
   story: "story-read/just-add-mana",

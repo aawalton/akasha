@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0014AnInterludeWithNickAndBanditBookOneRecap = {
   id: "01a0672c-eb6e-7006-a24c-cfa11df6f014",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0014-an-interlude-with-nick-and-bandit-book-one-recap",
   title: "An Interlude with Nick and Bandit: Book One Recap",
   story: "story-read/labyrinth-of-the-mad-god",

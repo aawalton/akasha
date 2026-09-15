@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0177172Book4Chapter16OnTheNatureOfDarkness = {
   id: "01a06731-ae81-7000-9676-82121fa6a938",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0177-172-book-4-chapter-16-on-the-nature-of-darkness",
   title: "172 — Book 4, Chapter 16 — On the Nature of Darkness",
   story: "story-read/just-add-mana",

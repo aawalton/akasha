@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0092Chapter53ForceRayAssault = {
   id: "01a0672c-eb72-700e-ada8-b97b5642723e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0092-chapter-53-force-ray-assault",
   title: "Chapter 53: Force Ray Assault",
   story: "story-read/labyrinth-of-the-mad-god",

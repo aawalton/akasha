@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0038FridayConceptArt = {
   id: "01a0672c-eb70-7006-af1b-3849841d4c78",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0038-friday-concept-art",
   title: "Friday Concept Art",
   story: "story-read/labyrinth-of-the-mad-god",

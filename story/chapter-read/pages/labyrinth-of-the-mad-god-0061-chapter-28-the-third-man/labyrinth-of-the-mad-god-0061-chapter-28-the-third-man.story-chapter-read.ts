@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0061Chapter28TheThirdMan = {
   id: "01a0672c-eb71-7006-9adb-0688f377c312",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0061-chapter-28-the-third-man",
   title: "Chapter 28: The Third Man",
   story: "story-read/labyrinth-of-the-mad-god",

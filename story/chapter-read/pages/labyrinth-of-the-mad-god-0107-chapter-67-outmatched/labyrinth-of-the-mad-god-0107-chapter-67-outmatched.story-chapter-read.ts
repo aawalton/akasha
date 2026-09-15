@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0107Chapter67Outmatched = {
   id: "01a0672c-eb75-7007-8412-cb90fc03e583",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0107-chapter-67-outmatched",
   title: "Chapter 67: Outmatched",
   story: "story-read/labyrinth-of-the-mad-god",

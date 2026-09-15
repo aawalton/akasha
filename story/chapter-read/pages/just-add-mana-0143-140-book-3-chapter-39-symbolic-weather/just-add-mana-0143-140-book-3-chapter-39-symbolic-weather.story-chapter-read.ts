@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0143140Book3Chapter39SymbolicWeather = {
   id: "01a06731-ae4e-7000-b134-18b163398f51",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0143-140-book-3-chapter-39-symbolic-weather",
   title: "140 — Book 3, Chapter 39 —Symbolic Weather",
   story: "story-read/just-add-mana",

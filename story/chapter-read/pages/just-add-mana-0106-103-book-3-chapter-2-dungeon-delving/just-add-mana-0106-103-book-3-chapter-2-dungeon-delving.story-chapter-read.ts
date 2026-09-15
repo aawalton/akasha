@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0106103Book3Chapter2DungeonDelving = {
   id: "01a06731-ae17-7000-b904-af19ad4ef688",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0106-103-book-3-chapter-2-dungeon-delving",
   title: "103 — Book 3, Chapter 2 — Dungeon Delving",
   story: "story-read/just-add-mana",

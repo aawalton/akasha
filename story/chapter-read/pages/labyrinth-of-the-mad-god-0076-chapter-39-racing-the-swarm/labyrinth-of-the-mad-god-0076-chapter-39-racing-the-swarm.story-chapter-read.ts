@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0076Chapter39RacingTheSwarm = {
   id: "01a0672c-eb71-7015-b3ad-d40410644d95",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0076-chapter-39-racing-the-swarm",
   title: "Chapter 39: Racing the Swarm",
   story: "story-read/labyrinth-of-the-mad-god",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0093Chapter54TheBigGuns = {
   id: "01a0672c-eb72-700f-a81c-a0ef86c580c6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0093-chapter-54-the-big-guns",
   title: "Chapter 54: The Big Guns",
   story: "story-read/labyrinth-of-the-mad-god",

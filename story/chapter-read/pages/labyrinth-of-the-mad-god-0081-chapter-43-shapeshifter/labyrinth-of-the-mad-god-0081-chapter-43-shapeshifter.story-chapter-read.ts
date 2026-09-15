@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0081Chapter43Shapeshifter = {
   id: "01a0672c-eb72-7003-bdd3-9ee1b786c5c6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0081-chapter-43-shapeshifter",
   title: "Chapter 43: Shapeshifter",
   story: "story-read/labyrinth-of-the-mad-god",

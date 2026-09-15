@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0006ChapterSixAGameOfLifeAndDeath = {
   id: "01a0672c-eb6d-700b-a154-def993d79e58",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0006-chapter-six-a-game-of-life-and-death",
   title: "Chapter Six: A Game of Life and Death",
   story: "story-read/labyrinth-of-the-mad-god",

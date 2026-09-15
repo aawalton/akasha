@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0178173Book4Chapter17RipplesInBrightscale = {
   id: "01a06731-ae83-7000-b27e-459fa3cc6847",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0178-173-book-4-chapter-17-ripples-in-brightscale",
   title: "173 — Book 4, Chapter 17 — Ripples in Brightscale",
   story: "story-read/just-add-mana",

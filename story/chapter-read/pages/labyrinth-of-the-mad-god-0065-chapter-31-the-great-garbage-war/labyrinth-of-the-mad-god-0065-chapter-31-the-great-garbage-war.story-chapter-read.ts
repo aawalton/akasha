@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0065Chapter31TheGreatGarbageWar = {
   id: "01a0672c-eb71-700a-a806-d03e9df691f6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0065-chapter-31-the-great-garbage-war",
   title: "Chapter 31: The Great Garbage War",
   story: "story-read/labyrinth-of-the-mad-god",

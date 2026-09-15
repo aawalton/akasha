@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0051Chapter20StrategySession = {
   id: "01a0672c-eb70-7013-a7a3-9a11b90ddf7c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0051-chapter-20-strategy-session",
   title: "Chapter 20: Strategy Session",
   story: "story-read/labyrinth-of-the-mad-god",

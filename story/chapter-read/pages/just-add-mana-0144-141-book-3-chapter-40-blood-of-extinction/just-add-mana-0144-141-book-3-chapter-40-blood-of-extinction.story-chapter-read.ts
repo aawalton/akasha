@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0144141Book3Chapter40BloodOfExtinction = {
   id: "01a06731-ae4f-7000-b6b3-55e986437167",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0144-141-book-3-chapter-40-blood-of-extinction",
   title: "141 — Book 3, Chapter 40 — Blood of Extinction",
   story: "story-read/just-add-mana",

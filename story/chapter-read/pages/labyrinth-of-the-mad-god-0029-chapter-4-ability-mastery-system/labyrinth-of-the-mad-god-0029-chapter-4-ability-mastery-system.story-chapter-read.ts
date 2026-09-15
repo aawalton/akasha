@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0029Chapter4AbilityMasterySystem = {
   id: "01a0672c-eb6e-7015-a00e-a62e6c3b8e2e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0029-chapter-4-ability-mastery-system",
   title: "Chapter 4: Ability Mastery System",
   story: "story-read/labyrinth-of-the-mad-god",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0108Chapter68Takeaway = {
   id: "01a0672c-eb75-7008-bfd3-deffc35ed3e1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0108-chapter-68-takeaway",
   title: "Chapter 68: Takeaway",
   story: "story-read/labyrinth-of-the-mad-god",

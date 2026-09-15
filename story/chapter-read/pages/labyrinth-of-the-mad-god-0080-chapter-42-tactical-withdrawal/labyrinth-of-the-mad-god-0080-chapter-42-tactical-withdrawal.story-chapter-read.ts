@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0080Chapter42TacticalWithdrawal = {
   id: "01a0672c-eb72-7002-892d-5c556ec99b85",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0080-chapter-42-tactical-withdrawal",
   title: "Chapter 42: Tactical Withdrawal",
   story: "story-read/labyrinth-of-the-mad-god",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const justAddMana0173168Book4Chapter12TheBranchAndTheBloomPt4 = {
   id: "01a06731-ae7b-7000-ac94-4716e94bc327",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "just-add-mana-0173-168-book-4-chapter-12-the-branch-and-the-bloom-pt-4",
   title: "168 — Book 4, Chapter 12 — The Branch and the Bloom, Pt 4",
   story: "story-read/just-add-mana",
