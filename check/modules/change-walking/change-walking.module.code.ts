@@ -5,7 +5,7 @@ import type {
   Running,
   RunningAsync,
 } from "akasha/check/modules/judging/judging.module.code.ts"
-import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"

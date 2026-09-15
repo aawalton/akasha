@@ -2,8 +2,8 @@ import { describe, expect, test } from "bun:test"
 import {
   bodyFor,
   heldOver,
-} from "akasha/code/bodies/modules/body-loading/body-loading.module.code.ts"
-import { BESIDE } from "akasha/code/bodies/modules/body-loading/body-loading.module.test-fixtures.ts"
+} from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
+import { BESIDE } from "akasha/code/body/modules/body-loading/body-loading.module.test-fixtures.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"

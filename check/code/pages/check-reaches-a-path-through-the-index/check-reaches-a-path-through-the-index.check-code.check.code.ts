@@ -13,7 +13,7 @@ import {
   judgingEach,
   type Selector,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
-import { textIn } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,

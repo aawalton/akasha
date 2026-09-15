@@ -1,8 +1,8 @@
 import { readFileSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { pathsListed } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
-import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
-import { digestOf } from "akasha/code/bodies/modules/carried-file/carried-file.module.code.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
+import { digestOf } from "akasha/code/body/modules/carried-file/carried-file.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import {

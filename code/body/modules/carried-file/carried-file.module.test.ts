@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   carriedIn,
   digestOf,
-} from "akasha/code/bodies/modules/carried-file/carried-file.module.code.ts"
+} from "akasha/code/body/modules/carried-file/carried-file.module.code.ts"
 
 const BYTES = new Uint8Array([0, 1, 2, 255, 0, 65, 66, 0])
 

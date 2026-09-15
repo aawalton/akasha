@@ -1,5 +1,5 @@
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { heldByGit } from "akasha/page/index/modules/carrying/index-carrying.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"

@@ -4,8 +4,8 @@ import {
   bodyFor,
   type Held,
   heldOver,
-} from "akasha/code/bodies/modules/body-loading/body-loading.module.code.ts"
-import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+} from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"

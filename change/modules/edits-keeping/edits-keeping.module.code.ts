@@ -12,7 +12,7 @@ import type {
   Held,
   Reading,
 } from "akasha/change/modules/answer/change-answer.module.types.ts"
-import { decodeUtf8 } from "akasha/code/bodies/modules/utf8-body/utf8-body.module.code.ts"
+import { decodeUtf8 } from "akasha/code/body/modules/utf8-body/utf8-body.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import {

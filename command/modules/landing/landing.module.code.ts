@@ -6,7 +6,7 @@ import { carriedOff } from "akasha/agent/subagent/modules/recovering/subagent-re
 import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/check/modules/judging/judging.module.code.ts"
-import { textIn, textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   sweptOff,

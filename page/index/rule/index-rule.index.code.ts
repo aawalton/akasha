@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { digestOf } from "akasha/code/bodies/modules/carried-file/carried-file.module.code.ts"
+import { digestOf } from "akasha/code/body/modules/carried-file/carried-file.module.code.ts"
 import { speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"

@@ -9,7 +9,7 @@ export const code = {
   parts: [
     "domain/audit-ast-unused",
     "domain/browser",
-    "domain/code-bodies",
+    "domain/code-body",
     "domain/code-paths",
     "domain/code-reading",
     "domain/code-running",

@@ -7,7 +7,7 @@ import {
 } from "akasha/check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.decision.code.ts"
 import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import {
   filePropertiesAt,
   folderPropertiesAt,

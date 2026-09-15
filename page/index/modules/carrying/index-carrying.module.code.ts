@@ -1,5 +1,5 @@
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
-import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"

@@ -1,6 +1,6 @@
 import { realpathSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import {
   stamped,
   writtenTo,

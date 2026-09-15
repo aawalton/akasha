@@ -5,7 +5,7 @@ import {
   textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { textIn, textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { lua50Config } from "akasha/code/lua-runtime-library/properties/lua50-config.file-property.ts"
 import { universalConfig } from "akasha/code/lua-runtime-library/properties/universal-config.file-property.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"

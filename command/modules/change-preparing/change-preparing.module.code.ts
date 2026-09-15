@@ -5,7 +5,7 @@ import type {
   Moving,
   Replacing,
 } from "akasha/change/modules/answer/change-answer.module.types.ts"
-import { textIn } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { steppedFor } from "akasha/code/ios-component/pages/spacing/modules/stepping/spacing-stepping.module.code.ts"
 import { bodiesFor } from "akasha/code/module-property-group/modules/group-writing/group-writing.module.code.ts"
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"

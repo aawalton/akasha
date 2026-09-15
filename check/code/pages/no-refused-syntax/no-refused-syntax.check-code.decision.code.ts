@@ -13,7 +13,7 @@ import {
   textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import type { Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"

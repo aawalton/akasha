@@ -6,7 +6,7 @@ import {
   textIn,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { groupsIn } from "akasha/code/module-property-group/modules/group-writing/group-writing.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"

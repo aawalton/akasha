@@ -1,5 +1,5 @@
 import { refusalText } from "akasha/check/modules/refusal-text/refusal-text.module.code.ts"
-import { leadingBytes } from "akasha/code/bodies/modules/utf8-body/utf8-body.module.code.ts"
+import { leadingBytes } from "akasha/code/body/modules/utf8-body/utf8-body.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
