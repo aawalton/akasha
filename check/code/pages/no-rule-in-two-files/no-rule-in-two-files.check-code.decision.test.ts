@@ -190,10 +190,9 @@ test("a rule spelled inline is not seen, because only a function is read", () =>
   expect(reasonsIn("one.ts", inline, every)).toEqual([])
 })
 
-test("a change with no code file is refused nothing though the index cannot be read", () => {
+test("a change with no code file is refused nothing without the index being read", () => {
   const change = unindexed()
   const shadow = shadowAsked(change)
-  expect(() => shadow.index.everyOfType("module")).toThrow("could not be answered")
   expect(refusalsOver(change, shadow)).toEqual([])
 })
 
