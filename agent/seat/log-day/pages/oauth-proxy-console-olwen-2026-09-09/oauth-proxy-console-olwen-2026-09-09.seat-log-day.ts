@@ -2,7 +2,7 @@ import type { SeatLogDay } from "akasha/agent/seat/log-day/seat-log-day.page-typ
 
 export const oauthProxyConsoleOlwen20260909 = {
   id: "01a08376-ee4b-7f48-8867-c534ae64cf73",
-  type: "seat-log-day",
+  type: "page-type/seat-log-day",
   slug: "oauth-proxy-console-olwen-2026-09-09",
   source: "log-source/oauth-proxy-console",
   seatName: "olwen",
