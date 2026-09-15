@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   ACCOUNT,
+  ANTHROPIC,
   askingsAt,
   buildClaudeUsageResponse,
   type ClaudeUsageAnswers,
@@ -151,11 +152,17 @@ test("the tier is read off how long the seven-day window has left", async () => 
   expect(await tierAt(100)).toBe("blue")
 })
 
-test("the mean is asked of every account, narrowing nothing", () => {
+test("the mean is asked of every Anthropic account and narrows nothing further", () => {
   const asking = askingsAt(NOW).meanWeeklyUsed
   expect(asking.pageTypeSlug).toBe(ACCOUNT)
-  expect(asking.where).toBeUndefined()
+  expect(asking.where).toEqual({ provider: { is: ANTHROPIC } })
   expect(asking.keys).toContain("effectiveSevenDayUsage")
+})
+
+test("every asking here narrows to the Anthropic fleet", () => {
+  for (const one of Object.values(askingsAt(NOW))) {
+    expect(one.where?.["provider"]).toEqual({ is: ANTHROPIC })
+  }
 })
 
 test("each pick narrows the way its saved query narrowed", () => {
@@ -163,14 +170,17 @@ test("each pick narrows the way its saved query narrowed", () => {
   const now = new Date(NOW).toISOString()
 
   expect(asking.nextFiveHourBack.where).toEqual({
+    provider: { is: ANTHROPIC },
     effectiveFiveHourUsage: { "at-or-after": 100 },
     fiveHourResetsAt: { "at-or-after": now },
   })
   expect(asking.nextSevenDayBack.where).toEqual({
+    provider: { is: ANTHROPIC },
     effectiveSevenDayUsage: { "at-or-after": 100 },
     sevenDayResetsAt: { "at-or-after": now },
   })
   expect(asking.nextSevenDayEnd.where).toEqual({
+    provider: { is: ANTHROPIC },
     effectiveSevenDayUsage: { before: 100 },
     sevenDayResetsAt: { "at-or-after": now },
   })

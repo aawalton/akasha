@@ -24,6 +24,8 @@ const NEXT_SEVEN_DAY_BACK = "the next seven-day window to come back"
 const NEXT_SEVEN_DAY_END = "the next seven-day window to end"
 
 export const ACCOUNT = "model-account"
+export const ANTHROPIC = "model-provider/anthropic"
+const PROVIDER = "provider"
 const SLUG = "slug"
 const EFFECTIVE_FIVE_HOUR_USAGE = "effectiveFiveHourUsage"
 const EFFECTIVE_SEVEN_DAY_USAGE = "effectiveSevenDayUsage"
@@ -44,11 +46,13 @@ export function askingsAt(nowMs: number): ClaudeUsageAskings {
   return {
     meanWeeklyUsed: {
       pageTypeSlug: ACCOUNT,
+      where: { [PROVIDER]: { is: ANTHROPIC } },
       keys: [SLUG, EFFECTIVE_SEVEN_DAY_USAGE],
     },
     nextFiveHourBack: {
       pageTypeSlug: ACCOUNT,
       where: {
+        [PROVIDER]: { is: ANTHROPIC },
         [EFFECTIVE_FIVE_HOUR_USAGE]: { "at-or-after": SPENT },
         [FIVE_HOUR_RESETS_AT]: { "at-or-after": now },
       },
@@ -59,6 +63,7 @@ export function askingsAt(nowMs: number): ClaudeUsageAskings {
     nextSevenDayBack: {
       pageTypeSlug: ACCOUNT,
       where: {
+        [PROVIDER]: { is: ANTHROPIC },
         [EFFECTIVE_SEVEN_DAY_USAGE]: { "at-or-after": SPENT },
         [SEVEN_DAY_RESETS_AT]: { "at-or-after": now },
       },
@@ -69,6 +74,7 @@ export function askingsAt(nowMs: number): ClaudeUsageAskings {
     nextSevenDayEnd: {
       pageTypeSlug: ACCOUNT,
       where: {
+        [PROVIDER]: { is: ANTHROPIC },
         [EFFECTIVE_SEVEN_DAY_USAGE]: { before: SPENT },
         [SEVEN_DAY_RESETS_AT]: { "at-or-after": now },
       },
