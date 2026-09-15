@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonHookEagerCapture = {
   id: "01a062b7-adf2-779a-abcc-18497baaf891",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-hook-eager-capture",
   definition: "whether a hook installed at load calls a field read before the field was published",
   code: "ts",

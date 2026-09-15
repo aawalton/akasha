@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const batchConfig = {
   id: "01a06071-0c77-7e96-8044-2bad3e05b280",
-  type: "module",
+  type: "page-type/module",
   slug: "batch-config",
   definition: "how many entries a collector reads at once, and how long it waits after each batch",
   code: "ts",

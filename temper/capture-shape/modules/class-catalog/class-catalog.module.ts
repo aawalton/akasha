@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const classCatalog = {
   id: "01a0604d-239c-76fa-af72-b602cc5f5b68",
-  type: "module",
+  type: "page-type/module",
   slug: "class-catalog",
   definition: "what the game states about one player class and which skill lines that class opens",
   code: "ts",

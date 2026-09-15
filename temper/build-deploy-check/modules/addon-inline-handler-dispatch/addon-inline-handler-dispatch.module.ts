@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonInlineHandlerDispatch = {
   id: "01a062a8-e76a-7191-8366-e4e515c97683",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-inline-handler-dispatch",
   definition: "whether an inline markup handler's body is one call to a named global and no more",
   code: "ts",

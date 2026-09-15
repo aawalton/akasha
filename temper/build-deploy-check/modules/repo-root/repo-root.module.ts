@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const repoRoot = {
   id: "01a06287-7841-7b94-a9bc-853c9c556746",
-  type: "module",
+  type: "page-type/module",
   slug: "repo-root",
   definition: "the code checkout a run reads, named by the environment",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkAddonRemovedRefs = {
   id: "01a06365-e827-7008-ba28-298e223f8538",
-  type: "module",
+  type: "page-type/module",
   slug: "check-addon-removed-refs",
   definition: "the run judging whether an emitted bundle still reaches a removed add-on",
   code: "ts",

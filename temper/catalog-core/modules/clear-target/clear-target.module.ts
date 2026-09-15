@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const clearTarget = {
   id: "01a06071-0c78-7d17-86de-fe565133b1ee",
-  type: "module",
+  type: "page-type/module",
   slug: "clear-target",
   definition:
     "reading what was asked to be cleared into all, one domain, an unknown name, or nothing",

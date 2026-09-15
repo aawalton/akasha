@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const cliArgs = {
   id: "01a06287-7841-7a70-bbb2-973c9c17ce4e",
-  type: "module",
+  type: "page-type/module",
   slug: "cli-args",
   definition: "the flags and positionals read off a command line against a declared shape",
   code: "ts",

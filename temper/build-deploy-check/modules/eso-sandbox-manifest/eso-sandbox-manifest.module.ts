@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const esoSandboxManifest = {
   id: "01a06365-e827-7000-b4e8-c281707e413b",
-  type: "module",
+  type: "page-type/module",
   slug: "eso-sandbox-manifest",
   definition: "what the game's Lua sandbox leaves of the Lua standard library",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonDistBundles = {
   id: "01a06365-e827-7001-8799-62e2c6d7ba62",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-dist-bundles",
   definition: "the emitted Lua bundles a post-build gate has to examine",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const catalogApiTest = {
   id: "01a063ba-94e5-7e5c-ad37-4144ed456b26",
-  type: "module",
+  type: "page-type/module",
   slug: "catalog-api-test",
   definition: "the one call per catalog that says whether the game answers it at all",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const catalogDescriptor = {
   id: "01a06071-0c77-71fa-866d-8ddbd099aa5c",
-  type: "module",
+  type: "page-type/module",
   slug: "catalog-descriptor",
   definition:
     "the name, version and empty defaults the catalog add-on hands the game to save under",

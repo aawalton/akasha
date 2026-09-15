@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const catalogEntry = {
   id: "01a063ba-94e5-7d65-8774-cc57b1701594",
-  type: "module",
+  type: "page-type/module",
   slug: "catalog-entry",
   definition: "what the add-on does once the game has loaded it and its saved table is ready",
   code: "ts",

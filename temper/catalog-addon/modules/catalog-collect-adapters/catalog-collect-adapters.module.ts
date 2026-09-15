@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const catalogCollectAdapters = {
   id: "01a063ba-94e5-7a59-9efa-ef08d6f1dfea",
-  type: "module",
+  type: "page-type/module",
   slug: "catalog-collect-adapters",
   definition: "what the collection run calls to reach the game, the clock and the saved table",
   code: "ts",

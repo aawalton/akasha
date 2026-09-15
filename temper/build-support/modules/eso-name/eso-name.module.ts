@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const esoName = {
   id: "01a0609f-53f9-7998-8f89-ccf5a230130b",
-  type: "module",
+  type: "page-type/module",
   slug: "eso-name",
   definition: "a name the game gave, with the game's own grammar suffix cut off",
   code: "ts",

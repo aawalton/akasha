@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillLines = {
   id: "01a0608a-c135-7b83-afde-8d52e111b852",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-lines",
   definition: "every skill line indexed by its id and by its category",
   code: "ts",

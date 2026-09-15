@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const salesPayload = {
   id: "01a0608a-15b3-7095-b65b-bb44a69a01c0",
-  type: "module",
+  type: "page-type/module",
   slug: "sales-payload",
   definition: "the shape one sale through a guild store takes, held under an id of its own",
   code: "ts",

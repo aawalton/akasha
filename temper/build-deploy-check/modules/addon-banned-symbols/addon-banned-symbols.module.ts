@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonBannedSymbols = {
   id: "01a06365-e827-7002-bfdd-914c6a139782",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-banned-symbols",
   definition: "the Lua symbols an emitted bundle names that the game's sandbox took away",
   code: "ts",

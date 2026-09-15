@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const itemSetCatalog = {
   id: "01a0604d-239f-729e-9cd9-74586deb860c",
-  type: "module",
+  type: "page-type/module",
   slug: "item-set-catalog",
   definition: "what the game states about one item set and the pieces the set has",
   code: "ts",

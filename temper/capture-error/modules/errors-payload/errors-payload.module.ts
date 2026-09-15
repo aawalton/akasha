@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const errorsPayload = {
   id: "01a0608a-15b2-7682-b22a-9bbc37158e7b",
-  type: "module",
+  type: "page-type/module",
   slug: "errors-payload",
   definition: "the shape a captured error takes, counted and blamed on the add-on that raised it",
   code: "ts",

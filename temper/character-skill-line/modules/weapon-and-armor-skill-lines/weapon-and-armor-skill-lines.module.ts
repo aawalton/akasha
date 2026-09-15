@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const weaponAndArmorSkillLines = {
   id: "01a0608a-c136-70fa-be11-d3265e130947",
-  type: "module",
+  type: "page-type/module",
   slug: "weapon-and-armor-skill-lines",
   definition: "the six weapon skill lines and the three armor skill lines",
   code: "ts",

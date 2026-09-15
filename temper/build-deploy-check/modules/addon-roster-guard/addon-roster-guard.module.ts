@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonRosterGuard = {
   id: "01a06287-7841-7049-814e-e0e562320460",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-roster-guard",
   definition: "whether the add-on roster a scan would run over has nothing",
   code: "ts",

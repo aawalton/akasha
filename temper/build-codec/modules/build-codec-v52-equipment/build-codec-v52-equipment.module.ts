@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const buildCodecV52Equipment = {
   id: "01a062e7-4dd2-7284-adf4-5912e7c3808f",
-  type: "module",
+  type: "page-type/module",
   slug: "build-codec-v52-equipment",
   definition: "the bit layout update fifty-two writes a character's equipment in",
   code: "ts",

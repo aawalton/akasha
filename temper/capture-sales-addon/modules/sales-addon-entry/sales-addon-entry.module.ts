@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const salesAddonEntry = {
   id: "01a060e2-3180-7c1e-a6c8-0d7019081afa",
-  type: "module",
+  type: "page-type/module",
   slug: "sales-addon-entry",
   definition: "what the sales add-on does once the game has loaded that add-on",
   code: "ts",

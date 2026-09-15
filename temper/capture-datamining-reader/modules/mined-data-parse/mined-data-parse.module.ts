@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const minedDataParse = {
   id: "01a0611e-913c-74b8-9972-f3bfd84d8cd8",
-  type: "module",
+  type: "page-type/module",
   slug: "mined-data-parse",
   definition: "the rows a datamining capture has, read out of the file it was saved as",
   code: "ts",

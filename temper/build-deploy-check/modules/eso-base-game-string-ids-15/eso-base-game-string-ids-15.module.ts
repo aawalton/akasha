@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const esoBaseGameStringIds15 = {
   id: "01a06372-72ff-700f-94a2-d33b21c7e2d9",
-  type: "module",
+  type: "page-type/module",
   slug: "eso-base-game-string-ids-15",
   definition: "one run of the string ids the base game provides, in the whole census's order",
   code: "ts",

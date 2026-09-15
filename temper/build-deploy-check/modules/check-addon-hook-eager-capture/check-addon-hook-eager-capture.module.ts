@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkAddonHookEagerCapture = {
   id: "01a062a8-e76a-7827-ac45-326fa4e9d4f3",
-  type: "module",
+  type: "page-type/module",
   slug: "check-addon-hook-eager-capture",
   definition: "the run judging every load-installed hook an add-on on the roster holds",
   code: "ts",

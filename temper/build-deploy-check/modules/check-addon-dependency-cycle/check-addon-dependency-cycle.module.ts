@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkAddonDependencyCycle = {
   id: "01a06297-7f6a-7484-a95a-2bbf183e482d",
-  type: "module",
+  type: "page-type/module",
   slug: "check-addon-dependency-cycle",
   definition: "the run judging whether the game add-on load graph is acyclic",
   code: "ts",

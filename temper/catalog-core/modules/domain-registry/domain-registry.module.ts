@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const domainRegistry = {
   id: "01a06071-0c79-71aa-8f49-de4128d97c66",
-  type: "module",
+  type: "page-type/module",
   slug: "domain-registry",
   definition: "the collectors an add-on adds itself to, in the order they were added",
   code: "ts",

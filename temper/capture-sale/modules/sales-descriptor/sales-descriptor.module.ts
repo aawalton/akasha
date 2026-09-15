@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const salesDescriptor = {
   id: "01a0608a-15b3-7c39-bcf3-50e4681cd98f",
-  type: "module",
+  type: "page-type/module",
   slug: "sales-descriptor",
   definition: "the name, version and defaults the sales add-on hands the game to save under",
   code: "ts",

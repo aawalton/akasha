@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const leadsUnitState = {
   id: "01a06274-b08a-7d45-bbc7-396f8676b33d",
-  type: "module",
+  type: "page-type/module",
   slug: "leads-unit-state",
   definition: "the leads gathered for the list, and how far each set has been dug",
   code: "ts",

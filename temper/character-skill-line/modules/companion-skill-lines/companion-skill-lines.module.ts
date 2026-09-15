@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionSkillLines = {
   id: "01a0608a-c134-7baf-b371-fead0aad1a6f",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-skill-lines",
   definition: "the forty-four skill lines a companion advances",
   code: "ts",

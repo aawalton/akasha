@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const championPointSource = {
   id: "01a06076-1b65-7228-8994-fbce92968c6f",
-  type: "module",
+  type: "page-type/module",
   slug: "champion-point-source",
   definition: "every champion star a character can earn, gathered into one table",
   code: "ts",
