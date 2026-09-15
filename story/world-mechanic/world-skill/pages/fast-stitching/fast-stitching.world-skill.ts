@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fastStitching = {
   id: "01a06575-980c-706e-9fbe-051222e3c209",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "fast-stitching",
   title: "Fast Stitching",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const eviscerateTheUnguarded = {
   id: "01a06575-9809-7bdf-afb1-220e8c0504e1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "eviscerate-the-unguarded",
   title: "Eviscerate the Unguarded",
   world: "world/the-wandering-inn",

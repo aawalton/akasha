@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const expertBartering = {
   id: "01a06575-980a-7d3d-98a1-6b2f832fe0ae",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "expert-bartering",
   title: "Expert Bartering",
   world: "world/the-wandering-inn",

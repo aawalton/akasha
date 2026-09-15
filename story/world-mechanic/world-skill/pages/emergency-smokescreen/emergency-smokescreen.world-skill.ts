@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const emergencySmokescreen = {
   id: "01a06575-9807-79d4-ae52-e529e14d8de9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "emergency-smokescreen",
   title: "Emergency Smokescreen",
   world: "world/the-wandering-inn",

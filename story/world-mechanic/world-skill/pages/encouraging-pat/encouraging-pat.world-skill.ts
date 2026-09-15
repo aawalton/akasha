@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const encouragingPat = {
   id: "01a06575-9808-7fd4-8907-d48c7fdeaa71",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "encouraging-pat",
   title: "Encouraging Pat",
   world: "world/the-wandering-inn",

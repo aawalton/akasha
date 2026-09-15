@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const eyesOfMany = {
   id: "01a06575-980b-7e26-aafd-933a76b1a6ae",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "eyes-of-many",
   title: "Eyes of Many",
   world: "world/the-wandering-inn",

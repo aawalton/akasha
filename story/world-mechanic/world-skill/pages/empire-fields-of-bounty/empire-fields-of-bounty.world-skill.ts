@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const empireFieldsOfBounty = {
   id: "01a06575-9807-7b92-a143-2be69dd5457a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "empire-fields-of-bounty",
   title: "Empire: Fields of Bounty",
   world: "world/the-wandering-inn",

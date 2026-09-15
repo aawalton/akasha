@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const enchancedFocus = {
   id: "01a06575-9808-7fd8-a01c-42954bcdbca7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "enchanced-focus",
   title: "Enchanced Focus",
   world: "world/the-wandering-inn",

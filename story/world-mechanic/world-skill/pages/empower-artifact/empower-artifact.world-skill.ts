@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const empowerArtifact = {
   id: "01a06575-9808-704b-9e66-6336f2ee8509",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "empower-artifact",
   title: "Empower Artifact",
   world: "world/the-wandering-inn",

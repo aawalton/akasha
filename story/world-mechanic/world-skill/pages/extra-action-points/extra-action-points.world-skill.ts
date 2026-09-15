@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const extraActionPoints = {
   id: "01a06575-980a-71de-9be2-321936d43550",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "extra-action-points",
   title: "Extra Action Points",
   world: "world/the-wandering-inn",

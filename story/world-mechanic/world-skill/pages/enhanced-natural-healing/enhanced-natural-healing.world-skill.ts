@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const enhancedNaturalHealing = {
   id: "01a06575-9808-7d8a-ae8f-3be9ab017fdb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "enhanced-natural-healing",
   title: "Enhanced Natural Healing",
   world: "world/the-wandering-inn",

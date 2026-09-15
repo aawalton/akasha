@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const estateCollectTaxesCrops = {
   id: "01a06575-9809-7553-9810-bbedc6525ede",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "estate-collect-taxes-crops",
   title: "Estate: Collect Taxes (Crops)",
   world: "world/the-wandering-inn",

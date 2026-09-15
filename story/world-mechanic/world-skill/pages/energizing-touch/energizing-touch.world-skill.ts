@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const energizingTouch = {
   id: "01a06575-9808-72b6-bdf6-c7c356330d3d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "energizing-touch",
   title: "Energizing Touch",
   world: "world/the-wandering-inn",

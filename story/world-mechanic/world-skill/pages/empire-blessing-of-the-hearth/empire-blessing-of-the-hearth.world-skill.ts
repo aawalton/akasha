@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const empireBlessingOfTheHearth = {
   id: "01a06575-9807-700a-a698-9b52f63dd805",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "empire-blessing-of-the-hearth",
   title: "Empire: Blessing of the Hearth",
   world: "world/the-wandering-inn",

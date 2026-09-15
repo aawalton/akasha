@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const empoweredPuppets = {
   id: "01a06575-9808-74cf-8aca-857fca76b06c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "empowered-puppets",
   title: "Empowered Puppets",
   world: "world/the-wandering-inn",

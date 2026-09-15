@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const enhancedPotions = {
   id: "01a06575-9808-721e-a7c4-b054f63bbb15",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "enhanced-potions",
   title: "Enhanced Potions",
   world: "world/the-wandering-inn",

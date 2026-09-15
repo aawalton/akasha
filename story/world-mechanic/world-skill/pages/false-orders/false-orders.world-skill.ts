@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const falseOrders = {
   id: "01a06575-980b-7448-b2b8-f36b4ff18fe5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "false-orders",
   title: "False Orders",
   world: "world/the-wandering-inn",

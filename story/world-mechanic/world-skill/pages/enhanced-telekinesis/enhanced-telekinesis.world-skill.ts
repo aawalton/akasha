@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const enhancedTelekinesis = {
   id: "01a06575-9809-7d65-bbf5-a8d36ad1baa8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "enhanced-telekinesis",
   title: "Enhanced Telekinesis",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const enhancedShields = {
   id: "01a06575-9808-77b4-bf40-1c81bcf7b6c2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "enhanced-shields",
   title: "Enhanced Shields",
   world: "world/the-wandering-inn",

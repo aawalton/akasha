@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const factualStatement = {
   id: "01a06575-980b-7bae-b633-aa5a4ef3ae4d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "factual-statement",
   title: "Factual Statement",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const enticingOffer = {
   id: "01a06575-9809-765b-b119-143c54f4031e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "enticing-offer",
   title: "Enticing Offer",
   world: "world/the-wandering-inn",

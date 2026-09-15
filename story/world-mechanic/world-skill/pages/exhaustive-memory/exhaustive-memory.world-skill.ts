@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const exhaustiveMemory = {
   id: "01a06575-9809-7e94-a968-eea719bd7e64",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "exhaustive-memory",
   title: "Exhaustive Memory",
   world: "world/the-wandering-inn",

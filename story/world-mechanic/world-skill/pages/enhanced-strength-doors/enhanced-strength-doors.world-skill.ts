@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const enhancedStrengthDoors = {
   id: "01a06575-9808-70b6-b583-7d5de4f9965a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "enhanced-strength-doors",
   title: "Enhanced Strength: Doors",
   world: "world/the-wandering-inn",

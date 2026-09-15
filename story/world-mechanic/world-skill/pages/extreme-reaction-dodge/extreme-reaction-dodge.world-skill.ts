@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const extremeReactionDodge = {
   id: "01a06575-980a-7937-8874-159bfa059210",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "extreme-reaction-dodge",
   title: "Extreme Reaction: Dodge",
   world: "world/the-wandering-inn",

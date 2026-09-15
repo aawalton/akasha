@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const eyesOfMagicalTruth = {
   id: "01a06575-980b-7834-b099-7ef85fbb0697",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "eyes-of-magical-truth",
   title: "Eyes of Magical Truth",
   world: "world/the-wandering-inn",

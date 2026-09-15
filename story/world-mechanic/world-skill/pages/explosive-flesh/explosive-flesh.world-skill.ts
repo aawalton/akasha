@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const explosiveFlesh = {
   id: "01a06575-980a-748d-be64-86f80f4e138a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "explosive-flesh",
   title: "Explosive Flesh",
   world: "world/the-wandering-inn",

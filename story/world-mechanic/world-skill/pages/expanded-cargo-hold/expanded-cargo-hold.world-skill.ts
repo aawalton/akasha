@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const expandedCargoHold = {
   id: "01a06575-980a-7041-9dbc-4c4e64156c41",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "expanded-cargo-hold",
   title: "Expanded Cargo Hold",
   world: "world/the-wandering-inn",

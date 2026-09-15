@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const expandedBlastSpiderwebPattern = {
   id: "01a06575-980a-772c-ae9e-a1967ec6edec",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "expanded-blast-spiderweb-pattern",
   title: "Expanded Blast: Spiderweb Pattern",
   world: "world/the-wandering-inn",

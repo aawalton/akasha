@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const enhancedThread = {
   id: "01a06575-9809-74d0-b1d4-faad04e3ea51",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "enhanced-thread",
   title: "Enhanced Thread",
   world: "world/the-wandering-inn",

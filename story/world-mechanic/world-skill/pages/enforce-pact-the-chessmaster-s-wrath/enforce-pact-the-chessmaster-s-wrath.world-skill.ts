@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const enforcePactTheChessmasterSWrath = {
   id: "01a06575-9808-7113-9d80-04c51f58d141",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "enforce-pact-the-chessmaster-s-wrath",
   title: "Enforce Pact: The Chessmaster’s Wrath",
   world: "world/the-wandering-inn",

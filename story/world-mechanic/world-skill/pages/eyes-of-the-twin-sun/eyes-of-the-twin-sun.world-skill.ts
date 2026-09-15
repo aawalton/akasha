@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const eyesOfTheTwinSun = {
   id: "01a06575-980b-7c63-b3aa-ac1de1f60ac8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "eyes-of-the-twin-sun",
   title: "Eyes of the Twin Sun",
   world: "world/the-wandering-inn",

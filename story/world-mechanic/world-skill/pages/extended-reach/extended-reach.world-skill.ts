@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const extendedReach = {
   id: "01a06575-980a-78fc-b558-6f7014123a06",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "extended-reach",
   title: "Extended Reach",
   world: "world/the-wandering-inn",

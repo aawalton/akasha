@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const evasiveFlip = {
   id: "01a06575-9809-79a2-b8b2-4004cd2d2572",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "evasive-flip",
   title: "Evasive Flip",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const everydayProp = {
   id: "01a06575-9809-7a6f-a449-8391b7c5b4a1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "everyday-prop",
   title: "Everyday Prop",
   world: "world/the-wandering-inn",

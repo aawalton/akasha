@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const extendedSweep = {
   id: "01a06575-980a-7669-8e44-3d28acfd37ce",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "extended-sweep",
   title: "Extended Sweep",
   world: "world/the-wandering-inn",

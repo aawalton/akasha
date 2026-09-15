@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const factCheck = {
   id: "01a06575-980b-76b3-94f9-513fbfd94831",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "fact-check",
   title: "Fact Check",
   world: "world/the-wandering-inn",

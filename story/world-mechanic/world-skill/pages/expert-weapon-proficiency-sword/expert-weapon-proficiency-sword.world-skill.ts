@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const expertWeaponProficiencySword = {
   id: "01a06575-980a-7089-befb-9302589d3c53",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "expert-weapon-proficiency-sword",
   title: "Expert Weapon Proficiency: Sword",
   world: "world/the-wandering-inn",

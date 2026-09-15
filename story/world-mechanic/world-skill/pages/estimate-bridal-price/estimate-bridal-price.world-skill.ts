@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const estimateBridalPrice = {
   id: "01a06575-9809-7acf-8d5c-abc687b5838b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "estimate-bridal-price",
   title: "Estimate Bridal Price",
   world: "world/the-wandering-inn",
