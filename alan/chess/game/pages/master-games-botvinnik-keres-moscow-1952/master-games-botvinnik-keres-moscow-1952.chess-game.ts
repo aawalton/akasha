@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesBotvinnikKeresMoscow1952 = {
   id: "019f248f-e85d-7f24-9e34-2a70141d75a2",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-botvinnik-keres-moscow-1952",
   title: "Mikhail Botvinnik vs Paul Keres · classical · 1952-12-09",
   externalId: "master-games_botvinnik-keres-moscow-1952",

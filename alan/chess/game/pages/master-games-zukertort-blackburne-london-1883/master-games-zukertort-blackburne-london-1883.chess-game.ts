@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesZukertortBlackburneLondon1883 = {
   id: "019f1e68-978d-79e2-9d08-c149b5ef540a",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-zukertort-blackburne-london-1883",
   title: "Johannes Zukertort vs Joseph Henry Blackburne · classical · 1883-05-05",
   externalId: "master-games_zukertort-blackburne-london-1883",

@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesCapablancaTartakowerNewYork1924 = {
   id: "019f248f-e85a-7419-a0ac-2b7323a94284",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-capablanca-tartakower-new-york-1924",
   title: "Jose Raul Capablanca vs Savielly Tartakower · classical · 1924-03-23",
   externalId: "master-games_capablanca-tartakower-new-york-1924",

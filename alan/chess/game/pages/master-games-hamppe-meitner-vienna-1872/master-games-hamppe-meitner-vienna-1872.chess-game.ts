@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesHamppeMeitnerVienna1872 = {
   id: "019f1e68-979e-7d15-8b0f-d7a33115817f",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-hamppe-meitner-vienna-1872",
   title: "Carl Hamppe vs Philipp Meitner · classical · 1872-01-01",
   externalId: "master-games_hamppe-meitner-vienna-1872",

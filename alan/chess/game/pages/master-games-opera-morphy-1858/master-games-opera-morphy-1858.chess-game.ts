@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesOperaMorphy1858 = {
   id: "019f1e68-977f-7907-8782-9488ab6285f3",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-opera-morphy-1858",
   title: "Paul Morphy vs Duke Karl / Count Isouard · classical · 1858-01-01",
   externalId: "master-games_opera-morphy-1858",

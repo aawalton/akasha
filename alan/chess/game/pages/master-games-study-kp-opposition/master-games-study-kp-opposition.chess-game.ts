@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesStudyKpOpposition = {
   id: "019f248f-e850-7205-8e06-f4cafc478427",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-study-kp-opposition",
   title: "King and pawn vs King (the opposition) · classical · 1900-01-01",
   externalId: "master-games_study-kp-opposition",

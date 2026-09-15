@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const maiaGame1787197093002 = {
   id: "01a01d3f-9831-7000-a934-66dcc2251505",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "maia-game-1787197093002",
   title: "Alan vs Maia 1500 · 2026-08-20",
   externalId: "maia-game_1787197093002",

@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesStudyFahrniAlapinTriangulation1917 = {
   id: "019f248f-e852-7a17-a1df-335656c3bb0a",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-study-fahrni-alapin-triangulation-1917",
   title: "Hans Fahrni vs Semyon Alapin · classical · 1917-01-01",
   externalId: "master-games_study-fahrni-alapin-triangulation-1917",

@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesRetiTartakowerVienna1910 = {
   id: "019f1e68-9794-7a81-9985-1f4dc77af924",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-reti-tartakower-vienna-1910",
   title: "Richard Réti vs Savielly Tartakower · classical · 1910-01-01",
   externalId: "master-games_reti-tartakower-vienna-1910",

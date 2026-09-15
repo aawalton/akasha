@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesRotlewiRubinsteinLodz1907 = {
   id: "019f1e68-9792-7c65-a667-d27df9d2f1f9",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-rotlewi-rubinstein-lodz-1907",
   title: "Georg Rotlewi vs Akiba Rubinstein · classical · 1907-12-26",
   externalId: "master-games_rotlewi-rubinstein-lodz-1907",

@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesStudyPhilidorPosition1749 = {
   id: "019f248f-e857-7ba2-907a-94b62bab69d8",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-study-philidor-position-1749",
   title: "Rook and pawn vs Rook (Philidor position) · classical · 1749-01-01",
   externalId: "master-games_study-philidor-position-1749",

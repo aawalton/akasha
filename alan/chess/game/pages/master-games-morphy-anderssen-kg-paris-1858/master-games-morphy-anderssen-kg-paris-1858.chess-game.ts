@@ -2,7 +2,7 @@ import type { ChessGame } from "akasha/alan/chess/game/chess-game.page-type.type
 
 export const masterGamesMorphyAnderssenKgParis1858 = {
   id: "019f1e68-979d-73f6-8714-452bee026f7c",
-  type: "chess-game",
+  type: "page-type/chess-game",
   slug: "master-games-morphy-anderssen-kg-paris-1858",
   title: "Paul Morphy vs Adolf Anderssen · classical · 1858-12-29",
   externalId: "master-games_morphy-anderssen-kg-paris-1858",
