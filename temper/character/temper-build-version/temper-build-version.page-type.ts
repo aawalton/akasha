@@ -8,8 +8,12 @@ export const temperBuildVersion = {
   extends: ["page-type/temper-character-thing"],
   parts: [
     "boolean-property/is-checkpoint",
+    "number-property/build-target-count",
     "number-property/version-number",
+    "relation-property/character-roles",
+    "select-property/base-roles",
     "text-property/build",
+    "text-property/build-character-name",
     "text-property/build-hash",
     "text-property/checkpoint-name",
   ],
@@ -20,6 +24,15 @@ export const temperBuildVersion = {
     { pageProperty: "text-property/build-hash", required: true, many: false },
     { pageProperty: "boolean-property/is-checkpoint", required: false, many: false },
     { pageProperty: "text-property/checkpoint-name", required: false, many: false },
+    { pageProperty: "text-property/build-character-name", required: false, many: false },
+    { pageProperty: "number-property/build-target-count", required: false, many: false },
+    {
+      pageProperty: "relation-property/character-roles",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    { pageProperty: "select-property/base-roles", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {
@@ -39,8 +52,8 @@ export const temperBuildVersion = {
       statement: "Checkpoints are shown before the versions taken as the build changed.",
     },
     {
-      invariantKind: "invariant-kind/gap",
-      statement: "The build metadata a version keeps is no declared property.",
+      invariantKind: "invariant-kind/departure",
+      statement: "A version keeps the build's name, description and roles as declared properties.",
     },
   ],
   types: "ts",

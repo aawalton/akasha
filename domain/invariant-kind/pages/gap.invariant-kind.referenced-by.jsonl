@@ -540,7 +540,6 @@
 {"propertySlug":"invariant-kind","path":"temper/character-stat/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
 {"propertySlug":"invariant-kind","path":"temper/character-stat/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
 {"propertySlug":"invariant-kind","path":"temper/character/temper-build-version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}
-{"propertySlug":"invariant-kind","path":"temper/character/temper-build-version/temper-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"invariant-kind","path":"temper/characters-addon/modules/characters-scribing-sources/characters-scribing-sources.module.ts","id":"01a062ed-39c9-700c-9df3-7f4288c3c504"}
 {"propertySlug":"invariant-kind","path":"temper/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
