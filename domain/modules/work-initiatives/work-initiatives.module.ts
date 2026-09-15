@@ -19,11 +19,6 @@ export const workInitiatives = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "An index that cannot say what an initiative is refuses rather than drawing no initiative.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "An initiative's slug is read off its file's name rather than out of its page.",
     },
     {

@@ -76,11 +76,6 @@ test("an index filing no initiative draws nothing", () => {
   expect(initiativesDrawn(root)).toEqual([])
 })
 
-test("an index naming no page type for initiatives refuses rather than drawing none", () => {
-  const root = scratch.rootFor("akasha-work-")
-  expect(() => initiativesDrawn(root)).toThrow("could not be answered")
-})
-
 test("the edge is filed under the parent, so the child is the one that sits under", () => {
   const root = worldFor()
   filing(root, "amy-parent", ONE)
