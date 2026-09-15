@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const backstreetBoys2LastChristmas = {
   id: "01a0676a-d722-705b-a85f-0fff22f191b2",
-  type: "release",
+  type: "page-type/release",
   slug: "backstreet-boys-2-last-christmas",
   title: "Last Christmas",
   partOfCollections: ["artist/backstreet-boys"],

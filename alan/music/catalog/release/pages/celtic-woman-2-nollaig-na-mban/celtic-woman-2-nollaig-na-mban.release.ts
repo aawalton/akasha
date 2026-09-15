@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2NollaigNaMban = {
   id: "01a0676a-d725-7073-a5c7-be5577e9732f",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-nollaig-na-mban",
   title: "Nollaig na mBan",
   partOfCollections: ["artist/celtic-woman"],

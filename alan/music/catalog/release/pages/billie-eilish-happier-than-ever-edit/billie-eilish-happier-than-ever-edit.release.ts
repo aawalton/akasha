@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishHappierThanEverEdit = {
   id: "01a0676a-d71f-7049-be61-a6210b9a36db",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-happier-than-ever-edit",
   title: "Happier Than Ever (Edit)",
   partOfCollections: ["artist/billie-eilish"],

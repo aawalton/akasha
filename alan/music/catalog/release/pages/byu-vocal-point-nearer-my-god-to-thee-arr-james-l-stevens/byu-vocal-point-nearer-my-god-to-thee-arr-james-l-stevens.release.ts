@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointNearerMyGodToTheeArrJamesLStevens = {
   id: "01a0676a-d725-7042-ba62-39dc77523399",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-nearer-my-god-to-thee-arr-james-l-stevens",
   title: "Nearer, My God, to Thee (Arr. James L. Stevens)",
   partOfCollections: ["artist/byu-vocal-point"],

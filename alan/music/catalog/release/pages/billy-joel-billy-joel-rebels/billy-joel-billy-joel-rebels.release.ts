@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelBillyJoelRebels = {
   id: "01a0676a-d719-7007-85d5-9714a5fa93f6",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-billy-joel-rebels",
   title: "Billy Joel - Rebels",
   partOfCollections: ["artist/billy-joel"],

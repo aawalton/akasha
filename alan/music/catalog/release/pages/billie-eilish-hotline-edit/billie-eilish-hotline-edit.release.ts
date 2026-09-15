@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishHotlineEdit = {
   id: "01a0676a-d720-7065-9b3c-2aede4f2104c",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-hotline-edit",
   title: "hotline (edit)",
   partOfCollections: ["artist/billie-eilish"],

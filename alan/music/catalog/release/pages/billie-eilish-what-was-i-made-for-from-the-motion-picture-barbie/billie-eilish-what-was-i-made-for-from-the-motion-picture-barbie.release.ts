@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
   id: "01a0676a-d730-704c-a08d-ec15452dcaf6",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie",
   title: 'What Was I Made For? [From The Motion Picture "Barbie"]',
   partOfCollections: ["artist/billie-eilish"],

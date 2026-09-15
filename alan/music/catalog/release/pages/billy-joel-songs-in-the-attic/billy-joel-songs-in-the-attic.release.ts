@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelSongsInTheAttic = {
   id: "01a0676a-d729-7067-96e1-4a3c03eb015c",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-songs-in-the-attic",
   title: "Songs In the Attic",
   partOfCollections: ["artist/billy-joel"],

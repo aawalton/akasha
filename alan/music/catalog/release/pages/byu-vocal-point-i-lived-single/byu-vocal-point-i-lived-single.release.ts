@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointILivedSingle = {
   id: "01a0676a-d721-7027-b4b9-cd60897cf549",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-i-lived-single",
   title: "I Lived - Single",
   partOfCollections: ["artist/byu-vocal-point"],

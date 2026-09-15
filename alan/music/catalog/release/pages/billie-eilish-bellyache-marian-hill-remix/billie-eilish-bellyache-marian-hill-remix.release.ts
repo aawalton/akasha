@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishBellyacheMarianHillRemix = {
   id: "01a0676a-d718-703d-99c7-520cef044074",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-bellyache-marian-hill-remix",
   title: "Bellyache (Marian Hill Remix)",
   partOfCollections: ["artist/billie-eilish"],

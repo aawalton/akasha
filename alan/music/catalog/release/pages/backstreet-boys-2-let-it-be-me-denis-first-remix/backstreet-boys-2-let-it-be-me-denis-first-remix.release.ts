@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const backstreetBoys2LetItBeMeDenisFirstRemix = {
   id: "01a0676a-d723-7003-83a6-0fe3c268ad4b",
-  type: "release",
+  type: "page-type/release",
   slug: "backstreet-boys-2-let-it-be-me-denis-first-remix",
   title: "Let It Be Me (Denis First Remix)",
   partOfCollections: ["artist/backstreet-boys"],

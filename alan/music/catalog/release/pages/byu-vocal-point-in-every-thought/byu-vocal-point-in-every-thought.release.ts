@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointInEveryThought = {
   id: "01a0676a-d721-7067-8310-43696cc88ac4",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-in-every-thought",
   title: "In Every Thought",
   partOfCollections: ["artist/byu-vocal-point"],

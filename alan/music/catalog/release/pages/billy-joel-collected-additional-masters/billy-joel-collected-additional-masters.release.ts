@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelCollectedAdditionalMasters = {
   id: "01a0676a-d71b-700f-92a4-9e0308fdf473",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-collected-additional-masters",
   title: "Collected Additional Masters",
   partOfCollections: ["artist/billy-joel"],

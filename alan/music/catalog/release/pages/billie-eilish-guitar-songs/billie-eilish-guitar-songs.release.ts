@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishGuitarSongs = {
   id: "01a0676a-d71f-7034-bbc3-f31973dfb3b1",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-guitar-songs",
   title: "Guitar Songs",
   partOfCollections: ["artist/billie-eilish"],

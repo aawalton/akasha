@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelLiveAtYankeeStadium = {
   id: "01a0676a-d723-7049-9223-285ef8746255",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-live-at-yankee-stadium",
   title: "Live at Yankee Stadium",
   partOfCollections: ["artist/billy-joel"],

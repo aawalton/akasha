@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointBeThouMyVision = {
   id: "01a0676a-d718-7022-a3db-49f752c814f4",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-be-thou-my-vision",
   title: "Be Thou My Vision",
   partOfCollections: ["artist/byu-vocal-point"],

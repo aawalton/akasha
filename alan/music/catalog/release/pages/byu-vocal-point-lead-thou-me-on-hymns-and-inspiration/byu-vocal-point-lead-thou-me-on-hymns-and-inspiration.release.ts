@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointLeadThouMeOnHymnsAndInspiration = {
   id: "01a0676a-d722-7066-870b-0a8f8e26799c",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-lead-thou-me-on-hymns-and-inspiration",
   title: "Lead Thou Me On: Hymns and Inspiration",
   partOfCollections: ["artist/byu-vocal-point"],

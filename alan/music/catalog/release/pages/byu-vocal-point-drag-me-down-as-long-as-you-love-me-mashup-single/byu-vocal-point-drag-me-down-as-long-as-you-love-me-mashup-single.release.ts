@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointDragMeDownAsLongAsYouLoveMeMashupSingle = {
   id: "01a0676a-d71c-702f-8e43-5e749d895b6d",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-drag-me-down-as-long-as-you-love-me-mashup-single",
   title: "Drag Me Down / As Long as You Love Me (Mashup) - Single",
   partOfCollections: ["artist/byu-vocal-point"],

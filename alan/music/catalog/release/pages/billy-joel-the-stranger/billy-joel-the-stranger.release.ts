@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelTheStranger = {
   id: "01a0676a-d72e-7010-9438-b1e1c6536a60",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-the-stranger",
   title: "The Stranger",
   partOfCollections: ["artist/billy-joel"],

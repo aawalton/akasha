@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelColdSpringHarbor = {
   id: "01a0676a-d71b-700d-8215-7cc1523a2948",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-cold-spring-harbor",
   title: "Cold Spring Harbor",
   partOfCollections: ["artist/billy-joel"],

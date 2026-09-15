@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishBurnWithVinceStaples = {
   id: "01a0676a-d717-7015-a0de-559d48fbe7e4",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-burn-with-vince-staples",
   title: "&burn (with Vince Staples)",
   partOfCollections: ["artist/billie-eilish"],

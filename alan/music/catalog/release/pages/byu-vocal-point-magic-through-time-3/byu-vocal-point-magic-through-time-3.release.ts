@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointMagicThroughTime3 = {
   id: "01a0676a-d724-7027-a8c3-c8228b3b2c9a",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-magic-through-time-3",
   title: "Magic Through Time",
   partOfCollections: ["artist/byu-vocal-point"],

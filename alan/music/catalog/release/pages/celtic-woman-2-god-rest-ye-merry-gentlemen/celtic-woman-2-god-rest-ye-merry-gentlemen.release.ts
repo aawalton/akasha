@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2GodRestYeMerryGentlemen = {
   id: "01a0676a-d71f-700d-8692-e6dcf0cbf824",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-god-rest-ye-merry-gentlemen",
   title: "God Rest Ye Merry Gentlemen",
   partOfCollections: ["artist/celtic-woman"],

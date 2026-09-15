@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelLiveAtTheGreatAmericanMusicHall = {
   id: "01a0676a-d723-7046-a917-9463eb0d1293",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-live-at-the-great-american-music-hall",
   title: "Live at The Great American Music Hall",
   partOfCollections: ["artist/billy-joel"],

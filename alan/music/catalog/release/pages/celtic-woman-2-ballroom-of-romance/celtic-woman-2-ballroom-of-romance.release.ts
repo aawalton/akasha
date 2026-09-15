@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2BallroomOfRomance = {
   id: "01a0676a-d718-7012-8172-b02b26654652",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-ballroom-of-romance",
   title: "Ballroom Of Romance",
   partOfCollections: ["artist/celtic-woman"],

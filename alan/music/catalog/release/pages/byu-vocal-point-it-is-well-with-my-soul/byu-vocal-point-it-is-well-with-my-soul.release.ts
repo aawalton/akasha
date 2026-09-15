@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointItIsWellWithMySoul = {
   id: "01a0676a-d722-7007-bf28-1a9f6885fa2d",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-it-is-well-with-my-soul",
   title: "It Is Well with My Soul",
   partOfCollections: ["artist/byu-vocal-point"],

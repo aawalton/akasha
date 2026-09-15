@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishBored = {
   id: "01a0676a-d719-7022-8669-66eb03d29e21",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-bored",
   title: "Bored",
   partOfCollections: ["artist/billie-eilish"],

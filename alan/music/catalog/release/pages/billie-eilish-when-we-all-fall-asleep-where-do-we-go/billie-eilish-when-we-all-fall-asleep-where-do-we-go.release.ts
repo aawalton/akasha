@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishWhenWeAllFallAsleepWhereDoWeGo = {
   id: "01a0676a-d730-705a-a4f2-e912dfd99513",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-when-we-all-fall-asleep-where-do-we-go",
   title: "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
   partOfCollections: ["artist/billie-eilish"],

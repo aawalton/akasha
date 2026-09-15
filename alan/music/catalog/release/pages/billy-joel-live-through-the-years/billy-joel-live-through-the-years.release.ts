@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelLiveThroughTheYears = {
   id: "01a0676a-d723-7056-ae4c-da9418043288",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-live-through-the-years",
   title: "Live Through the Years",
   partOfCollections: ["artist/billy-joel"],

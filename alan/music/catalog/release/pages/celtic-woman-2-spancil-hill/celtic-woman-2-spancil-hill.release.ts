@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2SpancilHill = {
   id: "01a0676a-d729-7071-9ab4-ad28b6812182",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-spancil-hill",
   title: "Spancil Hill",
   partOfCollections: ["artist/celtic-woman"],

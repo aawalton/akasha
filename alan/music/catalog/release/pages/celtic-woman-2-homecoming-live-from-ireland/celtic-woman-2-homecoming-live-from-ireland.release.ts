@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2HomecomingLiveFromIreland = {
   id: "01a0676a-d720-7055-939e-fbcbcea603a5",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-homecoming-live-from-ireland",
   title: "Homecoming – Live From Ireland",
   partOfCollections: ["artist/celtic-woman"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoel12GardensLive = {
   id: "01a0676a-d714-7011-a690-7e6eb3210b34",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-12-gardens-live",
   title: "12 Gardens Live",
   partOfCollections: ["artist/billy-joel"],

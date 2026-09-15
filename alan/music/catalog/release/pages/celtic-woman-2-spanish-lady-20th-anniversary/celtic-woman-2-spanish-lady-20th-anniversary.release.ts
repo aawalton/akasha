@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2SpanishLady20thAnniversary = {
   id: "01a0676a-d729-7072-ad7d-a3e6fa02a381",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-spanish-lady-20th-anniversary",
   title: "Spanish Lady (20th Anniversary)",
   partOfCollections: ["artist/celtic-woman"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointNonstop = {
   id: "01a0676a-d725-7077-85ec-7c7ddce6d695",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-nonstop",
   title: "Nonstop",
   partOfCollections: ["artist/byu-vocal-point"],

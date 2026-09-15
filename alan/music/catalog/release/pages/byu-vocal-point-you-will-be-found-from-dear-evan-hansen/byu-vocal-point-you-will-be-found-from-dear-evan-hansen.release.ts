@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointYouWillBeFoundFromDearEvanHansen = {
   id: "01a0676a-d732-7021-8741-1b7d0f4e098c",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-you-will-be-found-from-dear-evan-hansen",
   title: 'You Will Be Found (From "Dear Evan Hansen")',
   partOfCollections: ["artist/byu-vocal-point"],

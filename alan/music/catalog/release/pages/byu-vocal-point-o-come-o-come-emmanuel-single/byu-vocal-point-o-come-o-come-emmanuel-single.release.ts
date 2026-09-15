@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointOComeOComeEmmanuelSingle = {
   id: "01a0676a-d726-700d-bdbd-2f16356ba574",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-o-come-o-come-emmanuel-single",
   title: "O Come, O Come, Emmanuel - Single",
   partOfCollections: ["artist/byu-vocal-point"],

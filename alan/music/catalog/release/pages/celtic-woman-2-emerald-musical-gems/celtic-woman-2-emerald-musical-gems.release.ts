@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2EmeraldMusicalGems = {
   id: "01a0676a-d71d-700b-9146-fcf411c45f14",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-emerald-musical-gems",
   title: "Emerald: Musical Gems",
   partOfCollections: ["artist/celtic-woman"],

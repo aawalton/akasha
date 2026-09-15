@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassics = {
   id: "01a0676a-d71b-7076-96dc-32a03febc479",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   title: "Decade. The Songs, The Show, The Traditions, The Classics.",
   partOfCollections: ["artist/celtic-woman"],

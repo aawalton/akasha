@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointMerryChristmasHappyHolidays = {
   id: "01a0676a-d724-704f-a1e3-86d490a3273f",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-merry-christmas-happy-holidays",
   title: "Merry Christmas, Happy Holidays",
   partOfCollections: ["artist/byu-vocal-point"],

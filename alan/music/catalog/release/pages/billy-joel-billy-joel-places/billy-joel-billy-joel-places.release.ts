@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelBillyJoelPlaces = {
   id: "01a0676a-d719-7006-97e5-4203997a3860",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-billy-joel-places",
   title: "Billy Joel - Places",
   partOfCollections: ["artist/billy-joel"],

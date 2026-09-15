@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishMyFuture = {
   id: "01a0676a-d725-702a-bc7d-247437f76bba",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-my-future",
   title: "my future",
   partOfCollections: ["artist/billie-eilish"],

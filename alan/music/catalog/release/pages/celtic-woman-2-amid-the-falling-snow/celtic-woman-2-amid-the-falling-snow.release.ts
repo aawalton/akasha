@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2AmidTheFallingSnow = {
   id: "01a0676a-d717-700c-8502-3238e90b7a84",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-amid-the-falling-snow",
   title: "Amid The Falling Snow",
   partOfCollections: ["artist/celtic-woman"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const backstreetBoys2LetItBeMe = {
   id: "01a0676a-d723-7001-8602-2f4caa161403",
-  type: "release",
+  type: "page-type/release",
   slug: "backstreet-boys-2-let-it-be-me",
   title: "Let It Be Me",
   partOfCollections: ["artist/backstreet-boys"],

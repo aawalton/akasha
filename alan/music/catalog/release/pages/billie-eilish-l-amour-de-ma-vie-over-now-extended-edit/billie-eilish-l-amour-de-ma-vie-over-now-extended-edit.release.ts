@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishLAmourDeMaVieOverNowExtendedEdit = {
   id: "01a0676a-d722-7054-9700-28c96d5a5e23",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-l-amour-de-ma-vie-over-now-extended-edit",
   title: "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
   partOfCollections: ["artist/billie-eilish"],

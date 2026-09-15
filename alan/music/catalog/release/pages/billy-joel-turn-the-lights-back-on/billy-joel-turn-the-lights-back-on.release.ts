@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelTurnTheLightsBackOn = {
   id: "01a0676a-d72f-7023-8878-2e69a5224123",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-turn-the-lights-back-on",
   title: "Turn the Lights Back On",
   partOfCollections: ["artist/billy-joel"],

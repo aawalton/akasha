@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishSixFeetUnderTheRemixes = {
   id: "01a0676a-d729-7014-b8f0-6d48a0958e32",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-six-feet-under-the-remixes",
   title: "Six Feet Under (The Remixes)",
   partOfCollections: ["artist/billie-eilish"],

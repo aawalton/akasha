@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishOceanEyesTheRemixes = {
   id: "01a0676a-d726-7013-8410-b1f2102ca5f8",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-ocean-eyes-the-remixes",
   title: "Ocean Eyes (The Remixes)",
   partOfCollections: ["artist/billie-eilish"],

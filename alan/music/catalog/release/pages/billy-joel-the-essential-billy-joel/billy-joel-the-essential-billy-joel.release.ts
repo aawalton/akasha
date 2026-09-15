@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelTheEssentialBillyJoel = {
   id: "01a0676a-d72d-7005-bb96-0b8fb8cedb15",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-the-essential-billy-joel",
   title: "The Essential Billy Joel",
   partOfCollections: ["artist/billy-joel"],

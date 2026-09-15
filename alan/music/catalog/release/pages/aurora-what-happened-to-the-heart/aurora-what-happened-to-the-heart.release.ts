@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraWhatHappenedToTheHeart = {
   id: "01a0676a-d730-7045-a222-4328473df7e1",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-what-happened-to-the-heart",
   title: "What Happened To The Heart?",
   partOfCollections: ["artist/aurora"],

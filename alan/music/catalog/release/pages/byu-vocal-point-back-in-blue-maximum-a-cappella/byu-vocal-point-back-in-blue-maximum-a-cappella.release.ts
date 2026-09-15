@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointBackInBlueMaximumACappella = {
   id: "01a0676a-d717-7049-be16-c6eaf366c40b",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-back-in-blue-maximum-a-cappella",
   title: "Back in Blue: Maximum A Cappella",
   partOfCollections: ["artist/byu-vocal-point"],

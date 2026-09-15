@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const celticWoman2OHolyNight2020Version = {
   id: "01a0676a-d726-700f-bfdc-f239a8eedd86",
-  type: "release",
+  type: "page-type/release",
   slug: "celtic-woman-2-o-holy-night-2020-version",
   title: "O Holy Night (2020 Version)",
   partOfCollections: ["artist/celtic-woman"],

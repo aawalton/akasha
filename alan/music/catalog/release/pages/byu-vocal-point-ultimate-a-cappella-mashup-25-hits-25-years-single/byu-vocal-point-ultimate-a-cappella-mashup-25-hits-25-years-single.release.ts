@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointUltimateACappellaMashup25Hits25YearsSingle = {
   id: "01a0676a-d72f-702e-9c44-15acb23e5ab4",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-ultimate-a-cappella-mashup-25-hits-25-years-single",
   title: "Ultimate A Cappella Mashup: 25 Hits, 25 Years - Single",
   partOfCollections: ["artist/byu-vocal-point"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointBeautyAndTheBeastMedleyFeatLexiWalker = {
   id: "01a0676a-d718-7031-9bff-f37878414bf1",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-beauty-and-the-beast-medley-feat-lexi-walker",
   title: "Beauty and the Beast Medley (feat. Lexi Walker)",
   partOfCollections: ["artist/byu-vocal-point"],

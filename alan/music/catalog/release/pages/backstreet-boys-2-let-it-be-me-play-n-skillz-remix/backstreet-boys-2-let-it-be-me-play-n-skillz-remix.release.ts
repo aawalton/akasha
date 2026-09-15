@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const backstreetBoys2LetItBeMePlayNSkillzRemix = {
   id: "01a0676a-d723-7004-8b03-a88ea6a0650e",
-  type: "release",
+  type: "page-type/release",
   slug: "backstreet-boys-2-let-it-be-me-play-n-skillz-remix",
   title: "Let It Be Me (Play-N-Skillz Remix)",
   partOfCollections: ["artist/backstreet-boys"],

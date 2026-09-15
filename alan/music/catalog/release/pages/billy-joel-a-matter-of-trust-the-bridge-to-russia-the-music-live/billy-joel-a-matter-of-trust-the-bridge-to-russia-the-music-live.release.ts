@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelAMatterOfTrustTheBridgeToRussiaTheMusicLive = {
   id: "01a0676a-d715-7030-956b-0e2c054224e8",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-a-matter-of-trust-the-bridge-to-russia-the-music-live",
   title: "A Matter of Trust - The Bridge to Russia: The Music (Live)",
   partOfCollections: ["artist/billy-joel"],

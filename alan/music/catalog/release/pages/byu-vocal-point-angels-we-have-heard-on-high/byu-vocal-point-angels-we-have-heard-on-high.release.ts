@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointAngelsWeHaveHeardOnHigh = {
   id: "01a0676a-d717-701f-bb86-f38eacf11da5",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-angels-we-have-heard-on-high",
   title: "Angels We Have Heard on High",
   partOfCollections: ["artist/byu-vocal-point"],

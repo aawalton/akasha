@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoel2000YearsTheMillenniumConcert = {
   id: "01a0676a-d714-7021-b7fa-ff4996285f6b",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-2000-years-the-millennium-concert",
   title: "2000 Years - The Millennium Concert",
   partOfCollections: ["artist/billy-joel"],

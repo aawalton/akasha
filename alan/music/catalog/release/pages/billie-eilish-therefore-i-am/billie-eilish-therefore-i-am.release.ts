@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishThereforeIAm = {
   id: "01a0676a-d72e-7024-b4cc-342650686d7a",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-therefore-i-am",
   title: "Therefore I Am",
   partOfCollections: ["artist/billie-eilish"],

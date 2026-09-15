@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const byuVocalPointYouRaiseMeUp = {
   id: "01a0676a-d732-7012-b931-a665eb651281",
-  type: "release",
+  type: "page-type/release",
   slug: "byu-vocal-point-you-raise-me-up",
   title: "You Raise Me Up",
   partOfCollections: ["artist/byu-vocal-point"],

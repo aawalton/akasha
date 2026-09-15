@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelTheBridge = {
   id: "01a0676a-d72c-7037-83ee-b321b05d998c",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-the-bridge",
   title: "The Bridge",
   partOfCollections: ["artist/billy-joel"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const auroraYouCanTRunFromYourselfFromKaijuNo8 = {
   id: "01a0676a-d732-7007-9264-6753195dca62",
-  type: "release",
+  type: "page-type/release",
   slug: "aurora-you-can-t-run-from-yourself-from-kaiju-no-8",
   title: 'You Can’t Run From Yourself (From "Kaiju No. 8")',
   partOfCollections: ["artist/aurora"],

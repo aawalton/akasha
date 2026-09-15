@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const backstreetBoys2ThePerfectFanDemo = {
   id: "01a0676a-d72d-7053-b170-13a30175ee75",
-  type: "release",
+  type: "page-type/release",
   slug: "backstreet-boys-2-the-perfect-fan-demo",
   title: "The Perfect Fan (Demo)",
   partOfCollections: ["artist/backstreet-boys"],

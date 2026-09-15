@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const backstreetBoys2ChancesRemixes = {
   id: "01a0676a-d71a-7013-b566-c85af60d1130",
-  type: "release",
+  type: "page-type/release",
   slug: "backstreet-boys-2-chances-remixes",
   title: "Chances (Remixes)",
   partOfCollections: ["artist/backstreet-boys"],

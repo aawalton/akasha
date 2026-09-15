@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurry = {
   id: "01a0676a-d721-7057-8e56-ff49df251344",
-  type: "release",
+  type: "page-type/release",
   slug: "billie-eilish-ilomilo-live-from-the-film-billie-eilish-the-world-s-a-little-blurry",
   title: "ilomilo (Live From The Film - Billie Eilish: The World’s A Little Blurry)",
   partOfCollections: ["artist/billie-eilish"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const backstreetBoys2LetItBeMeBrennanHeartRemix = {
   id: "01a0676a-d723-7002-b1ad-e4e5fc60bced",
-  type: "release",
+  type: "page-type/release",
   slug: "backstreet-boys-2-let-it-be-me-brennan-heart-remix",
   title: "Let It Be Me (Brennan Heart Remix)",
   partOfCollections: ["artist/backstreet-boys"],

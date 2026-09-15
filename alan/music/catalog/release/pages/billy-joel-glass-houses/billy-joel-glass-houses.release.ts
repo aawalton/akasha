@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const billyJoelGlassHouses = {
   id: "01a0676a-d71f-7002-8898-b6297c4b8602",
-  type: "release",
+  type: "page-type/release",
   slug: "billy-joel-glass-houses",
   title: "Glass Houses",
   partOfCollections: ["artist/billy-joel"],
