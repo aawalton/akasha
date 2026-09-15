@@ -23,6 +23,10 @@ export const modelProviderReading = {
       statement: "A provider no page is filed for is answered as none.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "A provider stating no model of its own is answered as none.",
+    },
+    {
       invariantKind: "invariant-kind/constraint",
       statement: "The repository root reaches every reader here as a parameter.",
     },

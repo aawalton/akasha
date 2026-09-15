@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   apiBaseIn,
+  providerModelIn,
   providerPathIn,
   providerValuesIn,
   slugOf,
@@ -24,8 +25,17 @@ test("a provider's base is read off that provider's page", () => {
   expect(apiBaseIn(HERE, "model-provider/deepseek")).toBe("https://api.deepseek.com/anthropic")
 })
 
+test("a provider's own model is read off that provider's page", () => {
+  expect(providerModelIn(HERE, "model-provider/deepseek")).toBe("deepseek-flash")
+})
+
+test("a provider stating no model of its own is answered as none", () => {
+  expect(providerModelIn(HERE, "model-provider/anthropic")).toBe(null)
+})
+
 test("a provider no page is filed for is answered as none", () => {
   expect(providerPathIn(HERE, "model-provider/nobody")).toBe(null)
   expect(providerValuesIn(HERE, "model-provider/nobody")).toBe(null)
   expect(apiBaseIn(HERE, "model-provider/nobody")).toBe(null)
+  expect(providerModelIn(HERE, "model-provider/nobody")).toBe(null)
 })

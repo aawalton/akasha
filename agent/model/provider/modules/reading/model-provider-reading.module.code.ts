@@ -12,6 +12,8 @@ const NAMED = "model-provider/"
 
 const API_BASE = "apiBase"
 
+const PROVIDER_MODEL = "providerModel"
+
 export function slugOf(provider: string): string {
   return provider.startsWith(NAMED) ? provider.slice(NAMED.length) : provider
 }
@@ -27,5 +29,10 @@ export function providerValuesIn(root: string, provider: string): Value | null {
 
 export function apiBaseIn(root: string, provider: string): string | null {
   const said = providerValuesIn(root, provider)?.[API_BASE]
+  return typeof said === "string" && said !== "" ? said : null
+}
+
+export function providerModelIn(root: string, provider: string): string | null {
+  const said = providerValuesIn(root, provider)?.[PROVIDER_MODEL]
   return typeof said === "string" && said !== "" ? said : null
 }
