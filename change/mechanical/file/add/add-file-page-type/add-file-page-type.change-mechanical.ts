@@ -7,11 +7,9 @@ export const addFilePageType = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-type",
-  definition:
-    "one page type written at one path, with the plural slug that page type states judged",
+  definition: "one page type written at one path",
   code: "ts",
   test: "ts",
-  guards: ["change-guard/plural-slug-not-already-held"],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
@@ -22,8 +20,9 @@ export const addFilePageType = {
       statement: "Nothing here judges the path handed in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The plural slug the body states is judged by the guard this change names.",
+      invariantKind: "invariant-kind/absence",
+      statement:
+        "This change names no guard, a page type's body stating nothing a page's does not.",
     },
   ],
   changeKind: "change-kind/change-mechanical",

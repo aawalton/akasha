@@ -14,7 +14,6 @@ export const changeGuard = {
     "change-guard/import-not-left-hanging",
     "change-guard/import-reaches-a-file",
     "change-guard/page-type-carries-no-pages",
-    "change-guard/plural-slug-not-already-held",
     "change-guard/relation-not-left-hanging",
     "change-guard/relation-reaches-a-page",
     "change-guard/slug-names-one-property",

@@ -73,7 +73,7 @@ export const addFileOfAnyKind = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A path under a page type name is written by the change judging the plural slug.",
+      statement: "A path under a page type name is written by the change writing a page type.",
     },
     {
       invariantKind: "invariant-kind/departure",
