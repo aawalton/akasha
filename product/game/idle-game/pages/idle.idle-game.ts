@@ -2,7 +2,7 @@ import type { IdleGame } from "akasha/product/game/idle-game/idle-game.page-type
 
 export const idle = {
   id: "01a0658b-3654-7ef1-b86d-b672bebfccc6",
-  type: "idle-game",
+  type: "page-type/idle-game",
   slug: "idle",
   description: "The idle incremental game — your persona roster earns Moments over time.",
   unit: "unit/moments",
