@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noVoidSelfInObjectMethod = {
   id: "01a05031-0197-7c3c-a886-b0297dd3adcf",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-void-self-in-object-method",
   definition: "the rule refusing `this: void` on a method written into an object literal",
   code: "ts",

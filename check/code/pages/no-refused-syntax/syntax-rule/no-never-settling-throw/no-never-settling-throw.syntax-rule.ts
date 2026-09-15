@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noNeverSettlingThrow = {
   id: "01a082d0-eb31-7c7b-922a-bfc7e90577a2",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-never-settling-throw",
   definition: "the rule refusing a thrown promise whose executor can never reach resolve or reject",
   code: "ts",

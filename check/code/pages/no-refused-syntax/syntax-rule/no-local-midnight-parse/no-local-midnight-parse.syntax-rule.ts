@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noLocalMidnightParse = {
   id: "01a0502e-ff9d-7175-a105-c6d1db716e4b",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-local-midnight-parse",
   definition: "the rule refusing a date turned into an instant by pinning a midnight onto it",
   code: "ts",

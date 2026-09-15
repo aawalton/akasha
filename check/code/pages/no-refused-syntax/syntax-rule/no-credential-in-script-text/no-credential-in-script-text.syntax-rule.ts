@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noCredentialInScriptText = {
   id: "01a05031-fa74-7d24-87db-885dfcb18a31",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-credential-in-script-text",
   definition: "the rule refusing a credential named in script text handed to a browser to run",
   code: "ts",

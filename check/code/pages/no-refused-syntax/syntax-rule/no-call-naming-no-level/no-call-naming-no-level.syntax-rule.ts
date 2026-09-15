@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noCallNamingNoLevel = {
   id: "01a09578-4c2b-7000-9a41-6f5d3e8b71c0",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-call-naming-no-level",
   definition:
     "the rule refusing a call marked in a literal whose word under a namespace names no level there",

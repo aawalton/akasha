@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noScrubBashEnvUndoes = {
   id: "01a08230-0014-772b-9adf-c9c4f73e3f7d",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-scrub-bash-env-undoes",
   definition:
     "the rule refusing an `env -u` scrub the bash startup file undoes before the command runs",

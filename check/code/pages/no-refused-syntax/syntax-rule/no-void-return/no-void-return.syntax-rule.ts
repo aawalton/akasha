@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noVoidReturn = {
   id: "01a0502e-a144-778b-8b3c-5e4f4be4713d",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-void-return",
   definition: "the rule refusing `void` where a function written here states its return type",
   code: "ts",

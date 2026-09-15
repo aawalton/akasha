@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noLibcByName = {
   id: "01a05030-729c-7c85-8f48-e6357917f933",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-libc-by-name",
   definition:
     "the rule refusing a core system library opened by name rather than the one already mapped",

@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const commandExportNamedForItsSlug = {
   id: "01a0945b-4372-7098-9be8-b0c6a08d0366",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "command-export-named-for-its-slug",
   definition: "the rule refusing a command's code that exports no name that command's slug spells",
   code: "ts",

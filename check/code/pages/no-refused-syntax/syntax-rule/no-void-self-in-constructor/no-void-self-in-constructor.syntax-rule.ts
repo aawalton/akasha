@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noVoidSelfInConstructor = {
   id: "01a0828b-d669-75ff-9180-2666300299da",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-void-self-in-constructor",
   definition:
     "the rule refusing a New or Subclass member declaring this: void where the call needs a colon",

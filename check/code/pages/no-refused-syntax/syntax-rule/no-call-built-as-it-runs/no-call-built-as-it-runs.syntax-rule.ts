@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noCallBuiltAsItRuns = {
   id: "01a0950e-c46b-7000-8560-8256b53bda3e",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-call-built-as-it-runs",
   definition:
     "the rule refusing a call built as the code runs where that call spelled out is refused",

@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noHyphenatedCall = {
   id: "01a0945c-0c1b-71fb-8a5c-8c0d26e8acfb",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-hyphenated-call",
   definition: "the rule refusing a call spelled in one word where its levels want spaces",
   code: "ts",

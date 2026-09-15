@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noCommandSpellingItsOwnCall = {
   id: "01a0944a-77a3-732c-91c2-0b714c12abf3",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-command-spelling-its-own-call",
   definition:
     "the rule refusing a command's own call spelled in a literal in that command's code or page",

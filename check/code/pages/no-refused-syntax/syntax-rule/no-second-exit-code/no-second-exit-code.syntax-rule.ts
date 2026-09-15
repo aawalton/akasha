@@ -2,7 +2,7 @@ import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/synta
 
 export const noSecondExitCode = {
   id: "01a09404-576c-788f-b915-f4998c66542e",
-  type: "syntax-rule",
+  type: "page-type/syntax-rule",
   slug: "no-second-exit-code",
   definition:
     "the rule refusing an exit code spelled as a number away from the page declaring the five",
