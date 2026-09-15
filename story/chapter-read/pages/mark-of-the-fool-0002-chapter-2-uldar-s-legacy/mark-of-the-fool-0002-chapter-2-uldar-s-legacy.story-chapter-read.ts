@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const markOfTheFool0002Chapter2UldarSLegacy = {
   id: "01a06731-ae93-7001-8223-8c8450661f76",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0002-chapter-2-uldar-s-legacy",
   title: "Chapter 2: Uldar's Legacy",
   story: "story-read/mark-of-the-fool",

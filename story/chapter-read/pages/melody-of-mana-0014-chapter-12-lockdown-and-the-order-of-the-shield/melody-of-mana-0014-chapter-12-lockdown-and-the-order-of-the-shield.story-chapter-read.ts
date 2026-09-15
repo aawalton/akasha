@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0014Chapter12LockdownAndTheOrderOfTheShield = {
   id: "01a0672c-ed5b-7002-9d18-0def3e88a301",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0014-chapter-12-lockdown-and-the-order-of-the-shield",
   title: "Chapter 12 Lockdown and The Order of the Shield",
   story: "story-read/melody-of-mana",

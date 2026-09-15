@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const markOfTheFool0011SpecialAnnouncementNewBookOnRoyalRoadNoThisWillNot = {
   id: "01a06731-ae97-7003-9dc2-40afea24bcc6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0011-special-announcement-new-book-on-royal-road-no-this-will-not",
   title: "Special Announcement: New Book on Royal Road (No, this will not slow down Fool lol)",
   story: "story-read/mark-of-the-fool",

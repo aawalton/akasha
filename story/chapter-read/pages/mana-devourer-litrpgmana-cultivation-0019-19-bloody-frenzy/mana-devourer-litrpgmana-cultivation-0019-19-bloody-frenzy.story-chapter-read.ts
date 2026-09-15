@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const manaDevourerLitrpgmanaCultivation001919BloodyFrenzy = {
   id: "01a06731-ae42-7000-98f3-ee2483929adb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0019-19-bloody-frenzy",
   title: "19. Bloody Frenzy",
   story: "story-read/mana-devourer-litrpgmana-cultivation",

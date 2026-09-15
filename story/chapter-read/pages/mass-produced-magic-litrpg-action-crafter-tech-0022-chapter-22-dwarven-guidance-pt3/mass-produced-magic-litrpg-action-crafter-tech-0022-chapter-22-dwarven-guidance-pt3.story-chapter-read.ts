@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const massProducedMagicLitrpgActionCrafterTech0022Chapter22DwarvenGuidancePt3 = {
   id: "01a06731-afb0-7000-96d6-901655a1dd10",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0022-chapter-22-dwarven-guidance-pt3",
   title: "Chapter 22 – Dwarven Guidance – Pt3",
   story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",

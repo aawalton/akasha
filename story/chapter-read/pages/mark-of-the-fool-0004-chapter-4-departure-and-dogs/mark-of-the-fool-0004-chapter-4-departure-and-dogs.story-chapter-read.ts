@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const markOfTheFool0004Chapter4DepartureAndDogs = {
   id: "01a06731-ae94-7001-b2cd-95a33d5e9b18",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0004-chapter-4-departure-and-dogs",
   title: "Chapter 4: Departure and Dogs",
   story: "story-read/mark-of-the-fool",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const massProducedMagicLitrpgActionCrafterTech0059Chapter59GolemsPt7 = {
   id: "01a06731-afb3-7000-9cea-aa9692d8684f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0059-chapter-59-golems-pt7",
   title: "Chapter 59 – Golems – Pt7",
   story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",

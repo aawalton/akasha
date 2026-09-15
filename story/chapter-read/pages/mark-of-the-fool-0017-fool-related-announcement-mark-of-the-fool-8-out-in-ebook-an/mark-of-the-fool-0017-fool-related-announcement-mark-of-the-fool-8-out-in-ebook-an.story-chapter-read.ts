@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const markOfTheFool0017FoolRelatedAnnouncementMarkOfTheFool8OutInEbookAn = {
   id: "01a06731-ae97-7009-b855-bf574b4c28ed",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0017-fool-related-announcement-mark-of-the-fool-8-out-in-ebook-an",
   title: "Fool-Related Announcement: Mark of the Fool 8 out in ebook and paperback form!",
   story: "story-read/mark-of-the-fool",

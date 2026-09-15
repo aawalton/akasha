@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const melodyOfMana0007Chapter6HoneyIceCreamAndFallingNight = {
   id: "01a0672c-ed58-7002-acb1-d1bdc304790a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0007-chapter-6-honey-ice-cream-and-falling-night",
   title: "Chapter 6 Honey, ice cream, and falling night",
   story: "story-read/melody-of-mana",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const markOfTheFool0028CrossPostedFromPatreonIUhNeedSomeHelp = {
   id: "01a06731-ae97-7014-bd7b-e9ae964de572",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0028-cross-posted-from-patreon-i-uh-need-some-help",
   title: "(Cross posted from Patreon) I uh, need some help",
   story: "story-read/mark-of-the-fool",

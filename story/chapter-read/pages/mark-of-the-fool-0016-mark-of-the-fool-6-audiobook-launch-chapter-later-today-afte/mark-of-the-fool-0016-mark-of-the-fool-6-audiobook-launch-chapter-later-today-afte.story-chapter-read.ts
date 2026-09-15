@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const markOfTheFool0016MarkOfTheFool6AudiobookLaunchChapterLaterTodayAfte = {
   id: "01a06731-ae97-7008-ba43-360f095a728b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0016-mark-of-the-fool-6-audiobook-launch-chapter-later-today-afte",
   title: "Mark of the Fool 6 audiobook launch (Chapter later today after editing is done)",
   story: "story-read/mark-of-the-fool",

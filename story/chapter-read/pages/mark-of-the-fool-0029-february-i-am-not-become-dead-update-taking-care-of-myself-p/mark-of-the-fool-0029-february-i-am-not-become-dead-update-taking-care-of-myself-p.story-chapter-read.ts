@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const markOfTheFool0029FebruaryIAmNotBecomeDeadUpdateTakingCareOfMyselfP = {
   id: "01a06731-ae97-7015-bd74-b3291af88e42",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0029-february-i-am-not-become-dead-update-taking-care-of-myself-p",
   title:
     "February I Am Not Become Dead Update: Taking care of myself, progress, and Mark of the Fool Webtoon",

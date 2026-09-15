@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const markOfTheCrijik0001MarkOfTheCrijikGeneralUpdateBook4And5Update = {
   id: "01a06731-b11e-7008-8190-1e48efbfd88a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mark-of-the-crijik-0001-mark-of-the-crijik-general-update-book-4-and-5-update",
   title: "Mark of the Crijik: General update + Book 4 and 5 Update",
   story: "story-read/mark-of-the-crijik",
