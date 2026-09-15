@@ -2,7 +2,7 @@ import type { StandardAgentEnglishNonTermKind } from "akasha/domain/standard-age
 
 export const time = {
   id: "01a07c77-e732-7c13-8443-75f2ca54ce82",
-  type: "standard-agent-english-non-term-kind",
+  type: "page-type/standard-agent-english-non-term-kind",
   slug: "time",
   definition: "a time of day",
 } as const satisfies StandardAgentEnglishNonTermKind
