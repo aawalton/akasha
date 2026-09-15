@@ -54,6 +54,12 @@ export const BY_REFERENCE = "reference"
 
 export const BY_DECLARATION = "declaration"
 
+export const NAMES = "names"
+
+export const NAMES_TYPE = "type"
+
+export const NAMES_CODE = "code"
+
 export const PART = "part-slugs"
 
 export const LOADED_BY = "loaded-by"
@@ -166,6 +172,10 @@ export function namingBody(from: string): string {
   return `import { held } from "${from}"\n`
 }
 
+export function typingBody(from: string): string {
+  return `import type { Held } from "${from}"\n`
+}
+
 export function edgeFiledAt(kind: string): string {
   return `page-type/${GRAPH_EDGE}/slug/${kind}.jsonl`
 }
@@ -224,16 +234,23 @@ export function relationWorld(lines: number, pagesExist = true): string {
   return root
 }
 
-function worldFor(): string {
+const CARRIED = [KNOWN, NAMES]
+
+function worldFor(attributes: readonly string[] = CARRIED): string {
   const root = scratch.rootFor(PREFIX)
-  edged(root, IMPORT_EDGE, { attributes: [`${GRAPH_ATTRIBUTE}/${KNOWN}`] }, true)
+  edged(
+    root,
+    IMPORT_EDGE,
+    { attributes: attributes.map((one) => `${GRAPH_ATTRIBUTE}/${one}`) },
+    true
+  )
   pageTyped(root)
   filed(root, `path/${EDGE_AT}.jsonl`, { path: EDGE_AT, id: EDGE_ID })
   return root
 }
 
-export function importWorld(): string {
-  const root = worldFor()
+export function importWorld(attributes: readonly string[] = CARRIED): string {
+  const root = worldFor(attributes)
   importsFiled(root, TARGET_AT, [SOURCE_AT])
   return root
 }

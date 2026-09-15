@@ -79,5 +79,13 @@ export const graphAsking = {
       statement:
         "An attribute an answer writes is named here, and an edge carrying none of it is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An edge going out says whether that edge names a type or names code.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "An edge coming in says whether that edge names a type or names code.",
+    },
   ],
 } as const satisfies Module

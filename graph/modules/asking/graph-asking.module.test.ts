@@ -28,6 +28,9 @@ import {
   loaderWorld,
   loadingWorld,
   MODULE,
+  NAMES,
+  NAMES_CODE,
+  NAMES_TYPE,
   namedBeside,
   namingBody,
   PART,
@@ -42,6 +45,7 @@ import {
   TARGET_AT,
   THIRD_AT,
   TYPE_AT,
+  typingBody,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
@@ -205,8 +209,36 @@ test("a file is answered with what its own body names, and each says a declarati
   const bodies = filesOf({ [FIRST_AT]: namingBody("./second.page.ts") })
 
   expect(edgesOutOver([IMPORT_EDGE], indexOf(root), bodies)(FIRST_AT)).toEqual([
-    { kind: IMPORT_EDGE, from: FIRST_AT, to: SECOND_AT, attrs: { [KNOWN]: BY_DECLARATION } },
+    {
+      kind: IMPORT_EDGE,
+      from: FIRST_AT,
+      to: SECOND_AT,
+      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE },
+    },
   ])
+})
+
+test("an edge going out of a body naming only a type says that edge names a type", () => {
+  const root = importWorld()
+  const bodies = filesOf({ [FIRST_AT]: typingBody("./second.page.ts") })
+
+  expect(edgesOutOver([IMPORT_EDGE], indexOf(root), bodies)(FIRST_AT)).toEqual([
+    {
+      kind: IMPORT_EDGE,
+      from: FIRST_AT,
+      to: SECOND_AT,
+      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_TYPE },
+    },
+  ])
+})
+
+test("an edge kind carrying none of an attribute read off it is refused", () => {
+  const root = importWorld([KNOWN])
+  const bodies = filesOf({ [FIRST_AT]: namingBody("./second.page.ts") })
+
+  expect(() => edgesOutOver([IMPORT_EDGE], indexOf(root), bodies)(FIRST_AT)).toThrow(
+    /carries no `names` attribute/
+  )
 })
 
 test("a file the reader of bodies answers nothing for is answered with no edge going out", () => {

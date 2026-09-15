@@ -12,11 +12,15 @@ import {
   indexOf,
   indexOver,
   KNOWN,
+  NAMES,
+  NAMES_CODE,
+  NAMES_TYPE,
   namingBody,
   reachingWorld,
   SECOND_AT,
   scratch,
   THIRD_AT,
+  typingBody,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
 import {
   closureOf,
@@ -31,6 +35,8 @@ import { shadowOnto } from "akasha/page/modules/shadow/shadow.module.code.ts"
 const ENDING = ".ts"
 
 const SIDEWAYS = { ...imports, direction: "sideways" }
+
+const DECLARED = { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE }
 
 const writing = new TextEncoder()
 
@@ -211,8 +217,23 @@ test("an ask answers the edges a closure took in as well as the nodes", () => {
 
   expect(taken.nodes).toEqual([FIRST_AT, SECOND_AT, THIRD_AT])
   expect(taken.edges).toEqual([
-    { kind: IMPORT_EDGE, from: FIRST_AT, to: SECOND_AT, attrs: { [KNOWN]: BY_DECLARATION } },
-    { kind: IMPORT_EDGE, from: SECOND_AT, to: THIRD_AT, attrs: { [KNOWN]: BY_DECLARATION } },
+    { kind: IMPORT_EDGE, from: FIRST_AT, to: SECOND_AT, attrs: DECLARED },
+    { kind: IMPORT_EDGE, from: SECOND_AT, to: THIRD_AT, attrs: DECLARED },
+  ])
+})
+
+test("an edge over a body naming only a type says that edge names a type", () => {
+  const root = importWorld()
+  const bodyAt = filesOf({ [FIRST_AT]: typingBody("./second.page.ts") })
+  const taken = takenIn(imports, [FIRST_AT], { index: indexOf(root), bodyAt })
+
+  expect(taken.edges).toEqual([
+    {
+      kind: IMPORT_EDGE,
+      from: FIRST_AT,
+      to: SECOND_AT,
+      attrs: { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_TYPE },
+    },
   ])
 })
 
@@ -236,8 +257,8 @@ test("the edge closing a cycle is answered though the node it reaches was taken 
 
   expect(taken.nodes).toEqual([FIRST_AT, SECOND_AT])
   expect(taken.edges).toEqual([
-    { kind: IMPORT_EDGE, from: FIRST_AT, to: SECOND_AT, attrs: { [KNOWN]: BY_DECLARATION } },
-    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: BY_DECLARATION } },
+    { kind: IMPORT_EDGE, from: FIRST_AT, to: SECOND_AT, attrs: DECLARED },
+    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: DECLARED },
   ])
 })
 

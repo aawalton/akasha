@@ -1,7 +1,8 @@
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
-import { importsIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
+import { importingIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
 import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import type { Known } from "akasha/graph/attribute/pages/known.graph-attribute.ts"
+import type { Names } from "akasha/graph/attribute/pages/names.graph-attribute.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   type Body,
@@ -34,11 +35,17 @@ const APART = "\n"
 
 const KNOWN = "known"
 
+const NAMES = "names"
+
 const PROPERTY = "property"
 
 const BY_REFERENCE: Known = "reference"
 
 const BY_DECLARATION: Known = "declaration"
+
+const NAMES_TYPE: Names = "type"
+
+const NAMES_CODE: Names = "code"
 
 export type Edge = {
   readonly kind: string
@@ -129,15 +136,19 @@ function importsOutOf(
   bodyAt: Body,
   naming: Naming
 ): readonly Edge[] {
-  const attribute = attributeNamed(asking, KNOWN, asked)
+  const known = attributeNamed(asking, KNOWN, asked)
+  const names = attributeNamed(asking, NAMES, asked)
   if (!typeScripted(path)) return []
   const body = bodyAt(path)
   if (body === null) return []
-  return importsIn(body, path, naming).map((to) => ({
+  return importingIn(body, path, naming).map((one) => ({
     kind: asking.kind,
     from: path,
-    to,
-    attrs: { [attribute]: BY_DECLARATION },
+    to: one.at,
+    attrs: {
+      [known]: BY_DECLARATION,
+      [names]: one.typed ? NAMES_TYPE : NAMES_CODE,
+    },
   }))
 }
 
