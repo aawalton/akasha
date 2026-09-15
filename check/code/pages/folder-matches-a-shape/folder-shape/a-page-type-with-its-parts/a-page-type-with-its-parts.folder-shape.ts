@@ -2,7 +2,7 @@ import type { FolderShape } from "akasha/check/code/pages/folder-matches-a-shape
 
 export const aPageTypeWithItsParts = {
   id: "01a0626e-045c-71cf-8781-17811b8d9f9d",
-  type: "folder-shape",
+  type: "page-type/folder-shape",
   slug: "a-page-type-with-its-parts",
   definition:
     "the shape of a folder with one page type, its parts and the pages and properties it declares",

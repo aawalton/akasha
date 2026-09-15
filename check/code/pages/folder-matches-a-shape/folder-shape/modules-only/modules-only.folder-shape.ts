@@ -2,7 +2,7 @@ import type { FolderShape } from "akasha/check/code/pages/folder-matches-a-shape
 
 export const modulesOnly = {
   id: "01a05f26-edf0-76fc-b2f1-9351eb172aee",
-  type: "folder-shape",
+  type: "page-type/folder-shape",
   slug: "modules-only",
   definition: "the shape of a folder of modules under the name React Router reads",
   code: "ts",

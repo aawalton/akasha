@@ -2,7 +2,7 @@ import type { FolderShape } from "akasha/check/code/pages/folder-matches-a-shape
 
 export const partsUnderTheirPlural = {
   id: "01a0a5c5-2740-7001-863a-0802035387a4",
-  type: "folder-shape",
+  type: "page-type/folder-shape",
   slug: "parts-under-their-plural",
   definition: "the shape of a folder gathering one page type's pages under that type's plural",
   code: "ts",

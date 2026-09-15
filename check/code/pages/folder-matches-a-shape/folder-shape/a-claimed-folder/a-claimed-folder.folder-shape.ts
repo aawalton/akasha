@@ -2,7 +2,7 @@ import type { FolderShape } from "akasha/check/code/pages/folder-matches-a-shape
 
 export const aClaimedFolder = {
   id: "01a095cd-e1f6-7ab8-8f0e-c2747098063c",
-  type: "folder-shape",
+  type: "page-type/folder-shape",
   slug: "a-claimed-folder",
   definition: "the shape of a folder a page above claims, holding no page and no page's file",
   code: "ts",
