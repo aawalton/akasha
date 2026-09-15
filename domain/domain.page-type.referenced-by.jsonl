@@ -215,7 +215,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-static-assets/web-static-assets.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/workspace-paths/workspace-paths.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/library/library.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/library/litrpg-books/litrpg-books.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/library/litrpg-book/litrpg-book.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/library/reading/reading.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/library/studying/studying.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/library/watching/watching.domain.ts"}
