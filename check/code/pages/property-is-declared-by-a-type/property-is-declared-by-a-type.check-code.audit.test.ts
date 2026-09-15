@@ -37,9 +37,9 @@ test("an audit judges every page in the tree, no change naming one of them", () 
 })
 
 test("an audit lets through a tree whose every page property a page type declares", () => {
-  const root = rooted()
+  const root = held(rooted())
   edging(root, ONE, "page-property", TWO, UP_AT)
   pageFiled(root, TWO, UP_AT)
 
-  expect(propertyIsDeclaredByAType(held(root))).toEqual([])
+  expect(propertyIsDeclaredByAType(root)).toEqual([])
 })
