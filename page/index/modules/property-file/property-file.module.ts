@@ -6,19 +6,19 @@ export const propertyFile = {
   slug: "property-file",
   definition: "the file a page holds a property in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A property a page type files under a name of its own is that name beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Any other property is under the name the page's own value states beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type holding that property in no file is refused rather than answered.",
     },
   ],

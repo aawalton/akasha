@@ -27,9 +27,9 @@ export const held = {
   pageTypeSlug: "module",
   slug: "held",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "departure",
+      decisionKind: "departure",
       statement: "the first",
     },
   ],
@@ -44,10 +44,10 @@ function worldTold(): World {
 
 const ASKED = {
   at: AT,
-  key: "invariants",
+  key: "decisions",
   where: "statement",
   is: "the first",
-  field: "invariantKind",
+  field: "decisionKind",
   to: "gap",
 }
 
@@ -55,11 +55,11 @@ test("one field of the record a match names is stated anew", async () => {
   const said = await changePropertyRecordField(worldTold(), ASKED)
 
   expect(said.refused).toBeNull()
-  expect(bodyOf(said, () => BODY)).toContain(`invariantKind: "gap"`)
+  expect(bodyOf(said, () => BODY)).toContain(`decisionKind: "gap"`)
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {
-  const said = await runChange(worldTold(), { at: AT, key: "invariants" })
+  const said = await runChange(worldTold(), { at: AT, key: "decisions" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`where` names what this change is handed/)

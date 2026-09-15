@@ -6,29 +6,29 @@ export const statusBarLegends = {
   slug: "status-bar-legends",
   definition: "the labels a stoplight section's tooltip names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every stoplight section is here whether or not the section has been read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section that has not been read names no labels.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section whose read failed keeps the labels the section last named.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The labels and the glyphs beside the labels come out of one reading of a group.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here fetches a label.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here schedules or times out a read.",
     },
   ],

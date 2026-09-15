@@ -7,45 +7,45 @@ export const seatResume = {
   definition: "the command putting a seat back on the session that seat was bound to",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A flag this page does not name is refused though the module beneath takes it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seat resumed is named by the first word.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat to resume is named as that seat's page is named.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The code a resume runs is reached only once a resume is read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The output a resume prints is written where the resume runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A resume refused after it revived the seat names each write it finished.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name no seat holds brings that seat's page back from history and resumes it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A resume refused before it wrote anything is refused as the fault alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice named by slug is composed here into the first turn the seat takes up.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice slug no page carries is refused as the caller's fault.",
     },
   ],

@@ -6,29 +6,29 @@ export const buildFolderProperty = {
   slug: "build-folder-property",
   definition: "a page property held in a folder a build writes",
   extends: ["page-type/named-folder-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build folder is outside the commit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build writes a build folder again from the source beside it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build folder has a body that is not text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every folder a build writes is declared by a property of this type.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A change moving a folder leaves out the folders this property names.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The paths git is told to ignore are read from this property.",
     },
   ],

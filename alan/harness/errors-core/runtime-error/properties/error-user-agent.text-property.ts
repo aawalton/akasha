@@ -8,9 +8,9 @@ export const errorUserAgent = {
   definition: "the browser or shell that reported an error",
   maxLength: 1024,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A report raised by a server names the server rather than a browser.",
     },
   ],

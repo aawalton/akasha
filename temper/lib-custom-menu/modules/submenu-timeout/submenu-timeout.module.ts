@@ -6,13 +6,13 @@ export const submenuTimeout = {
   slug: "submenu-timeout",
   definition: "the single delayed call a sub-menu opens and closes on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only one delayed call is armed at a time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each delayed call is registered under a name no earlier call used.",
     },
   ],

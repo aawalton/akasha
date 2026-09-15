@@ -37,21 +37,21 @@ export const idlePersonaCard = {
     { pageProperty: "text-property/images", required: false, many: true, maxCount: null },
     { pageProperty: "number-property/seat-index", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One player and one card is one page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card is slugged by the card slug and then the player with that card.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The card alone is no name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card names its persona only once the card is unlocked.",
     },
   ],

@@ -6,29 +6,29 @@ export const duringCall = {
   slug: "during-call",
   definition: "a value made once and held for as long as one run of a command lasts",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run begun inside a run has nothing of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value asked for outside every run is made afresh.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names the values worth holding.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Loading this module reaches nothing of node and makes nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What keeps runs apart is reached at the first ask and kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where node is absent nothing is held and every value is made afresh.",
     },
   ],

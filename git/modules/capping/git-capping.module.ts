@@ -6,21 +6,21 @@ export const gitCapping = {
   slug: "git-capping",
   definition: "running one git command under a time cap and reading back what it said",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command that will not answer is capped rather than waited on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command that could not be spawned answers with code -1 and the reason.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a command reaching the network is capped by the network ceiling.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command carrying objects is capped far above a command asking a question.",
     },
   ],

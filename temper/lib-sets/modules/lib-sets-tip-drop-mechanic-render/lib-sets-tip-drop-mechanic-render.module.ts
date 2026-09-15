@@ -6,17 +6,17 @@ export const libSetsTipDropMechanicRender = {
   slug: "lib-sets-tip-drop-mechanic-render",
   definition: "the whole drop text for a set built from its per-zone pieces",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The dungeon name follows the parent zone name in square brackets.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A set whose zones are identical is treated as a single zone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every text is built once with textures and once plain.",
     },
   ],

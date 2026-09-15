@@ -8,17 +8,17 @@ export const startMode = {
   definition: "how an agent in a seat is started",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The modes a seat can start in are no pages.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a start mode.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "An agent states the mode the agent works in rather than how the agent was started.",
     },

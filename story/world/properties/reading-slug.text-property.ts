@@ -8,9 +8,9 @@ export const readingSlug = {
   definition: "the name a reading is looked up by",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading slug has the letters its own text uses rather than Latin alone.",
     },
   ],

@@ -6,13 +6,13 @@ export const readStdinOrFile = {
   slug: "read-stdin-or-file",
   definition: "text read from a named file or from standard input",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path of one dash names standard input.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file this module cannot read raises an input error.",
     },
   ],

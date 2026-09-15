@@ -6,17 +6,17 @@ export const inventoryRuleMatcherPropertyFixtures = {
   slug: "inventory-rule-matcher-property-fixtures",
   definition: "the generated rules and items the matcher's property tests are built from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A generated list of rules has no two rules of one id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item rule is answered before any category rule.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item no rule claims falls to the implicit terminal rule.",
     },
   ],

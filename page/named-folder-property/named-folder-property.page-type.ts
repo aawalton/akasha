@@ -13,41 +13,41 @@ export const namedFolderProperty = {
     { pageProperty: "boolean-property/runs-file-length", required: false, many: false },
     { pageProperty: "boolean-property/folder-generated", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A name here is chosen outside akasha.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page states the name its folder is under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder is found under the folder the page sits in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page claims a folder by stating the property with that folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page claiming a folder claims every file that folder has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page states whether it has the folder rather than what the folder holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The property speaks for every file the folder holds rather than for one of them.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying its folder holds bytes says so of every file beneath it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A property saying its folder is judged for no length says so of each of them too.",
     },

@@ -6,13 +6,13 @@ export const esoDate = {
   slug: "eso-date",
   definition: "today's date on the game's own clock",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Lua compiled for the game reaches no Date.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller of this module runs on a host rather than inside the game.",
     },
   ],

@@ -6,13 +6,13 @@ export const completionSkillLineProgress = {
   slug: "completion-skill-line-progress",
   definition: "how far each character has taken every skill line, and the morphs alongside",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill line at its last rank reads as a hundred.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill line the game gives no rank ceiling is left out.",
     },
   ],

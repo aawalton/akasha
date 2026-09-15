@@ -99,86 +99,86 @@ export const extension = {
     "module/work-tree-view",
     "type-declaration/vscode-api",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The editor loads the extension's TypeScript.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A feature that fails to start leaves every other feature running.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel finds its pages through the index rather than by walking the tree.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tree the editor draws is replaced whole rather than patched row by row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page the index named is opened for a value the index does not file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel row that represents a page names that page.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No timer starts a drawing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row with a match is drawn open while a filter is there.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel has one row at the top, and every other row hangs beneath it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel's top row is drawn open rather than closed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel's top row carries how many rows hang directly beneath it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A colored row takes that color on its name and nowhere else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A row whose children carry colors counts those children by color, after the whole count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A count for a color is shown in that color rather than beside a word naming it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A count by color counts the children a row has directly.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A child carrying no color is counted by the whole count and by no other.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel opens by Ctrl+Alt and the first letter of that panel's name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The transcript opens by Ctrl+Alt+T, as a panel opens by its own letter.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A panel's shortcut reaches the editor rather than the shell while a terminal holds focus.",
     },

@@ -6,25 +6,25 @@ export const useCharacters = {
   slug: "use-characters",
   definition: "a player's character builds, read and written",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character build belongs to the account its account page names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Build metadata is read off the keys the build page declares.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A role the character sources do not name is dropped from base roles.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Making a new build, filing it and going to its page is one act here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build that could not be made leaves the act ready to be asked for again.",
     },
   ],

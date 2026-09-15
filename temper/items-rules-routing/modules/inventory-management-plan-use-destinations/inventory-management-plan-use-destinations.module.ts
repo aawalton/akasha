@@ -6,9 +6,9 @@ export const inventoryManagementPlanUseDestinations = {
   slug: "inventory-management-plan-use-destinations",
   definition: "which character each stack of a learnable item is handed to across the plan",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stack is shared out over the characters who do not yet know the item.",
     },
   ],

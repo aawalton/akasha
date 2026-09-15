@@ -8,9 +8,9 @@ export const casePage = {
   definition: "the name of the page a case is drawn from",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name whose page is renamed or deleted stays as the case was written.",
     },
   ],

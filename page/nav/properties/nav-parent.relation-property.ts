@@ -7,13 +7,13 @@ export const navParent = {
   propertySlug: "nav-parent",
   definition: "the nav item a nav item sits beneath",
   targetPageType: "page-type/nav",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Navigation is one level deep or two.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav item naming no parent is at the top.",
     },
   ],

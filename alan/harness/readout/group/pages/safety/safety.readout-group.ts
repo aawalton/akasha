@@ -6,17 +6,17 @@ export const safety = {
   slug: "safety",
   definition: "how safe things are where Alan is",
   figureOffScale: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The color reports where Alan is rather than whether Alan did well.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level draws its figure at either end of its scale.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tile draws that figure alone.",
     },
   ],

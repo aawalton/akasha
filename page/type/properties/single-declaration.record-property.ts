@@ -18,17 +18,17 @@ export const singleDeclaration = {
     { pageProperty: "relation-property/unique", required: false, many: false },
     { pageProperty: "relation-property/unique-property", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a declaration with one value states a default.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A declaration with one value states no count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The false this states is what tells a declaration from its many-valued sibling.",
     },
   ],

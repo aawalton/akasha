@@ -41,33 +41,33 @@ export const workspace = {
     { pageProperty: "build-folder-property/package-directory", required: false, many: false },
     { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workspace has its manifest at the root of its own folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workspace has its lockfile beside that manifest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workspace manifest is no package's manifest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A package a workspace manifest names is reached from anywhere in the tree.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The package manager rather than an author writes the lockfile.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One lockfile answers for every package the workspace installs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every file the workspace root has is claimed by a property here.",
     },
   ],

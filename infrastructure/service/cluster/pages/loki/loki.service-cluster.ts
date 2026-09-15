@@ -13,25 +13,25 @@ export const loki = {
   containerPort: 3100,
   manifest: ["manifest/loki"],
   secrets: ["secret/loki-s3-creds-access-key", "secret/loki-s3-creds-secret-key"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Loki keeps a log for seven days.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workload's log reaches Loki from a collector on its node.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workstation program pushes its own log.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Loki takes no authentication of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the tailnet limits who reaches Loki.",
     },
   ],

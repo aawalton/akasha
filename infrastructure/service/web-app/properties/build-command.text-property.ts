@@ -8,13 +8,13 @@ export const buildCommand = {
   definition: "the command run in a web app's source folder to make its build",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The command is run in the folder the source directory names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The command is stated on the page rather than written into the code that runs the command.",
     },

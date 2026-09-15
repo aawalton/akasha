@@ -22,21 +22,21 @@ export const tracks = {
     { pageProperty: "instant-property/first-heard-at", required: false, many: false },
     { pageProperty: "text-property/heard-source", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every heard track names a Spotify track id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No two heard tracks on one page name the same Spotify track id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A heard track is written the first time the track is heard.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The artist a heard track names is the first artist Spotify names for it.",
     },
   ],

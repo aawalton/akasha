@@ -5,13 +5,13 @@ export const narrativeProduction = {
   type: "page-type/domain",
   slug: "narrative-production",
   definition: "turning a story into narration and illustration",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A picture is made for one chapter.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A chapter's picture is rendered from the chapter rather than kept as a page of its own.",
     },

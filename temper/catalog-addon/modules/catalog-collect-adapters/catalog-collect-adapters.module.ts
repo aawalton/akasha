@@ -6,17 +6,17 @@ export const catalogCollectAdapters = {
   slug: "catalog-collect-adapters",
   definition: "what the collection run calls to reach the game, the clock and the saved table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collector is called inside the game's protected call so a fault is caught.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fault that is no text is reported under one fixed sentence.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run leaving no skips clears the skips rather than leaving the old ones.",
     },
   ],

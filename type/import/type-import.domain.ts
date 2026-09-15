@@ -5,9 +5,9 @@ export const typeImport = {
   type: "page-type/domain",
   slug: "type-import",
   definition: "one file using what another declares",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An akasha file imports no tracked file from outside the akasha folder.",
     },
   ],

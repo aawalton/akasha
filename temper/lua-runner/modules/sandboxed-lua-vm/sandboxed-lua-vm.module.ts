@@ -6,33 +6,33 @@ export const sandboxedLuaVm = {
   slug: "sandboxed-lua-vm",
   definition: "a Lua VM whose globals answer as the game's globals would",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The prelude is loaded from the file beside the prelude's own page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The prelude file is read once and kept for every VM after the first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The banned names are handed over before the prelude loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seeded value waits until the next source is loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seeded value no Lua literal can carry is seeded as a stub instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seeded function is seeded as a stub.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Source is handed over as one long literal rather than as an escaped string.",
     },
   ],

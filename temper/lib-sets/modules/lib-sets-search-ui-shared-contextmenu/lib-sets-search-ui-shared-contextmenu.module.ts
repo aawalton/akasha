@@ -6,9 +6,9 @@ export const libSetsSearchUiSharedContextmenu = {
   slug: "lib-sets-search-ui-shared-contextmenu",
   definition: "the scrollable menus the search window opens away from its result rows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These menus open only when LibScrollableMenu is present.",
     },
   ],

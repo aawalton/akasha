@@ -6,17 +6,17 @@ export const toolResolvesPaths = {
   slug: "tool-resolves-paths",
   propertySlug: "tool-resolves-paths",
   definition: "whether a tool rather than the index resolves the paths in the files a property has",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying nothing here holds files no tool resolves a path in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tool reading such a file resolves the paths that file spells.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names the tool that resolves the paths.",
     },
   ],

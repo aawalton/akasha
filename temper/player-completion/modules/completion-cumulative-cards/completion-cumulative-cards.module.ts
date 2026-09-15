@@ -7,9 +7,9 @@ export const completionCumulativeCards = {
   definition: "the account and character cards that count for all time",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here counts the completions a character has earned.",
     },
   ],

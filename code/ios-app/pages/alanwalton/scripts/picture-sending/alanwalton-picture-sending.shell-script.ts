@@ -7,37 +7,37 @@ export const alanwaltonPictureSending = {
   definition: "the Swift sending a picture to alanwalton.com",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The body is the jpeg alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The device secret is the one header naming the phone.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing naming Alan rides along with the bytes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every send ends in one sentence, shown on the camera and posted as a notice.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A send says whether the picture got there as well as what to read.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The per-request timeout restarts on every byte that moves.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The whole transfer is bounded by a second timeout of thirty seconds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A send waits for no network to arrive.",
     },
   ],

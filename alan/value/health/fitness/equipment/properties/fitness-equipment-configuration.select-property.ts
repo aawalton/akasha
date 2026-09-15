@@ -7,9 +7,9 @@ export const fitnessEquipmentConfiguration = {
   propertySlug: "configuration",
   definition: "how many of a piece there are and whether its load moves",
   values: ["pair", "single", "adjustable", "n-a"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A piece with no load at all is configured n-a.",
     },
   ],

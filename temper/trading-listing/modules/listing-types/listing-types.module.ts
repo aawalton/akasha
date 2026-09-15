@@ -6,13 +6,13 @@ export const listingTypes = {
   slug: "listing-types",
   definition: "the shape a guild store listing takes where the add-on saves it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A listing has the price for the stack and the price for one item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A listing has the second of capture.",
     },
   ],

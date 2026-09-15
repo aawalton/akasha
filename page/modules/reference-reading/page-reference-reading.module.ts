@@ -7,34 +7,34 @@ export const pageReferenceReading = {
   definition: "what references a page, read from the file beside that page",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What references a page is read from the file beside that page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page asked about by id is reached through the identity index.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page a file belongs to is asked of the index rather than read from its name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page's references are read once for one reading and held.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer comes back in one order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading that answers nothing at all answers none rather than refusing.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A file that is missing reads as a page nothing references.",
     },
   ],

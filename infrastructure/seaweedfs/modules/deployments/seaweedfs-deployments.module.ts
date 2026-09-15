@@ -6,17 +6,17 @@ export const seaweedfsDeployments = {
   slug: "seaweedfs-deployments",
   definition: "the deployment manifests for the master, the volume, the filer and the S3 gateway",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The S3 gateway's pod template carries the hash of the seaweedfs-creds secret.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key hashed from the seaweedfs-creds secret is s3-config.json.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The S3 gateway mounts only s3-config.json from that secret.",
     },
   ],

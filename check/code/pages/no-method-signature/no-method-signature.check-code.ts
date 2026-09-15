@@ -8,33 +8,33 @@ export const noMethodSignature = {
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A call signature is left out.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A construct signature is left out.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "An index signature is left out.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "So is a method written out rather than declared.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The method form is refused and the function-type property is not.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file named `.d.ts` is passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A declaration file names a shape another language or another writer already named.",
     },

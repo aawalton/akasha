@@ -7,13 +7,13 @@ export const rating = {
   propertySlug: "rating",
   definition: "what Alan scored a book out of ten",
   max: 10,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rating is Alan's own score rather than anyone else's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book Alan has not scored states no rating.",
     },
   ],

@@ -7,9 +7,9 @@ export const nav = {
   propertySlug: "nav",
   definition: "the nav item a view sits under",
   targetPageType: "page-type/nav",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A view belongs to the nav item that owns that view and is drawn nowhere else.",
     },
   ],

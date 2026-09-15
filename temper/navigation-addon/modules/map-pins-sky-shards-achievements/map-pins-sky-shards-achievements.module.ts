@@ -6,9 +6,9 @@ export const mapPinsSkyShardsAchievements = {
   slug: "map-pins-sky-shards-achievements",
   definition: "the achievement behind each zone's skyshards",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

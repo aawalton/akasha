@@ -6,9 +6,9 @@ export const mapPingCasts = {
   slug: "map-ping-casts",
   definition: "what an untyped ping value the game hands over is taken to be",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

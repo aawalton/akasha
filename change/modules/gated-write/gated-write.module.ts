@@ -6,30 +6,30 @@ export const gatedWrite = {
   slug: "gated-write",
   definition: "what came of a write through the gate, and the reason where it was refused",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run is its exit code together with the report that run printed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a refusal has a reason with that refusal.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reason for a refusal is read out of the report the run printed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A line is a failure where that line opens with a bracketed name followed by fail.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Several failures in one report are joined with a semicolon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A report naming no failure comes back whole with its edges trimmed.",
     },
   ],

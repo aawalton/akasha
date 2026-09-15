@@ -8,42 +8,42 @@ export const googleLogin = {
     "the command granting the consent Google is reached as Alan on, for calendar, drive and mail",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The token minted is written into `~/.secrets.env`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The token is read from `GOOGLE_OAUTH_REFRESH_TOKEN`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The older token a product had is read only where that name has no value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scopes asked for are every scope calendar, drive and mail read between them.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One token is minted, and calendar, drive and mail all read that token.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The token minted is saved rather than left for whoever ran this to save.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The token's value reaches neither the report nor a log.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A login refused after the code reached Google says that code is spent and consent is asked again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A login refused before the code reached Google is refused as the fault alone.",
     },
   ],

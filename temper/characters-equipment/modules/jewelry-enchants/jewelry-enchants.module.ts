@@ -6,9 +6,9 @@ export const jewelryEnchants = {
   slug: "jewelry-enchants",
   definition: "every glyph a jewelry piece takes, and what each is worth at a quality",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "The generator writes this table outside akasha.",
     },
   ],

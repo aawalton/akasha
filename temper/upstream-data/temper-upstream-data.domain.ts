@@ -24,34 +24,34 @@ export const temperUpstreamData = {
     "module/zone-upstream-port",
     "module/zone-upstream-verify",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An upstream library's data is copied into this repository rather than read live.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A copy is ruled on against the upstream files a live ESO install has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An upstream Lua file is read by running the file in a Lua machine.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A copy is ruled on leaf for leaf rather than by a digest or a count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A ruling is refused where the upstream files that ruling reads are not on this workstation.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A library is ported by the one module named for that library.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The checkout the ported file lands in is named by the caller.",
     },
   ],

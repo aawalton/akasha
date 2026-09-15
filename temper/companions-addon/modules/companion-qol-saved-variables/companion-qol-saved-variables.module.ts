@@ -6,9 +6,9 @@ export const companionQolSavedVariables = {
   slug: "companion-qol-saved-variables",
   definition: "opening the quality-of-life settings account-wide or per character",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Switching between account-wide and per character carries the current settings over.",
     },

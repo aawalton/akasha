@@ -8,17 +8,17 @@ export const logs = {
   definition: "the cost of each run of a group's code, appended a line at a time",
   extensions: ["jsonl"],
   generated: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A group's runs are recorded apart from every other group's runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Logs are kept outside the commit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No page states its own logs.",
     },
   ],

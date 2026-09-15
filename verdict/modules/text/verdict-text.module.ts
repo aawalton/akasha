@@ -6,9 +6,9 @@ export const verdictText = {
   slug: "verdict-text",
   definition: "what a judgement covered, written out for a person to read",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A coverage with no denominator says the denominator was not computed.",
     },
   ],

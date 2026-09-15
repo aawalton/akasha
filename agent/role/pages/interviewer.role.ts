@@ -6,22 +6,22 @@ export const interviewer = {
   slug: "interviewer",
   definition: "an agent drawing out what one person knows, in their own words",
   onCall: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This role's input is a person rather than a document.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This role writes domains and never the record.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A change during an interview is landed by a subagent rather than by a second seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Changes land continuously through an interview rather than at the end.",
     },
   ],

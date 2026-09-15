@@ -99,52 +99,52 @@ export const serviceCluster = {
       maxCount: null,
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cluster service is one resource with a pod template.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The resource the cluster calls a Service is no cluster service.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A cluster service runs one copy unless the cluster service is spread across nodes on purpose.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cluster service sits under the domain the cluster service serves.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A cluster service's page states the shape of the workload that cluster service is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cluster service states replicas only where its kind has replicas.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A cluster service states a container port only where its kind has a container port.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cluster service the cluster starts on a schedule states that schedule.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The manifests a cluster service is applied as are emitted from its own page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cluster service names the manifest page emitting its resources.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "Every cluster service runs as its page describes.",
     },
   ],

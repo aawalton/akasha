@@ -6,9 +6,9 @@ export const craftDefined = {
   slug: "craft-defined",
   definition: "a value the crafting add-on read that must be there, refused where it is nil",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A value that is nil ends the call rather than being carried on.",
     },
   ],

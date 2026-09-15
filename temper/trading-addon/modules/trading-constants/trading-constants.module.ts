@@ -6,9 +6,9 @@ export const tradingConstants = {
   slug: "trading-constants",
   definition: "the add-on's name and the key its saved variables answer to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The add-on name is the one key every event name and every saved variables read is built from.",
     },

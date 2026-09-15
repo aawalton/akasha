@@ -7,13 +7,13 @@ export const urlProperty = {
   definition: "a page property with a web address",
   extends: ["page-type/page-property"],
   properties: [{ pageProperty: "number-property/max-length", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A web address has the scheme the address is reached over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A web address is followed rather than read.",
     },
   ],

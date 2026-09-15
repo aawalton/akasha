@@ -6,17 +6,17 @@ export const asyncTaskClass = {
   slug: "async-task-class",
   definition: "a task and the making, resuming, suspending and cancelling of that task",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A task resumed is put on the job list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A task suspended is taken off the job list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A task cancelled keeps a place on the job list while a finally step is set.",
     },
   ],

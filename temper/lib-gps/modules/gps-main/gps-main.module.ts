@@ -6,9 +6,9 @@ export const gpsMain = {
   slug: "gps-main",
   definition: "the wiring the library does as the game loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global name is put in place before anything is built.",
     },
   ],

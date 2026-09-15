@@ -6,13 +6,13 @@ export const orderListBoxDialogs = {
   slug: "order-list-box-dialogs",
   definition: "the dialog asking for a new entry and the dialog asking before a removal",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A new entry is refused where the caller's validator rejects the text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A removal is confirmed before the entry goes.",
     },
   ],

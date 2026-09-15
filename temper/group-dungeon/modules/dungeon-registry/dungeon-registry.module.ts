@@ -6,5 +6,5 @@ export const dungeonRegistry = {
   slug: "dungeon-registry",
   definition: "what is known of one group dungeon",
   code: "ts",
-  invariants: [],
+  decisions: [],
 } as const satisfies Module

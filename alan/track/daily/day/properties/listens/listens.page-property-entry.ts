@@ -22,17 +22,17 @@ export const listens = {
     { pageProperty: "boolean-property/first-listen", required: false, many: false },
     { pageProperty: "number-property/new-music-minutes", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A play key names a single listen.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "An ESO day without listening carries no listens file.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A listen names no persona.",
     },
   ],

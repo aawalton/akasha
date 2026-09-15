@@ -5,25 +5,25 @@ export const categorization = {
   type: "page-type/readout-group",
   slug: "categorization",
   definition: "how much of the transaction record is still unreviewed",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The backlog counted is a year's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The intake the backlog is measured against is a month's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The feed also sends the year's total.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No tile draws the year's total.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tap opens Monarch filtered only where Monarch was not already running.",
     },
   ],

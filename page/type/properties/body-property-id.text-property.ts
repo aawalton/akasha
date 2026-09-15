@@ -8,9 +8,9 @@ export const bodyPropertyId = {
   definition: "the key of the property a page's body is read from",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key named here that the page type has no property for reads nothing.",
     },
   ],

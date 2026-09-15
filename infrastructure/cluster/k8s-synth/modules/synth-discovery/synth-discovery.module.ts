@@ -7,21 +7,21 @@ export const synthDiscovery = {
   definition: "the synth files a checkout holds",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path component naming a folder every synth sits under names no package.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The code file of every `manifest` page the index holds is a synth file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A manifest page's synth file is the file that page states its code under.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No folder and no file name ending is spelled here.",
     },
   ],

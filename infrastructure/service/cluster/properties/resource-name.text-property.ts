@@ -8,9 +8,9 @@ export const resourceName = {
   definition: "the name a resource carries in the cluster",
   maxLength: 63,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The resource name is the name the cluster is asked for rather than the page's own slug.",
     },

@@ -9,9 +9,9 @@ export const collectionCompletion = {
   holds: "text",
   values: ["completed", "in-progress", "not-started"],
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collection whose length or progress is absent reads as not started.",
     },
   ],

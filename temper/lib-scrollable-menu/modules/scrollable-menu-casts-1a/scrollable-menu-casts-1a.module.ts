@@ -6,21 +6,21 @@ export const scrollableMenuCasts1a = {
   slug: "scrollable-menu-casts-1a",
   definition: "the narrowing helpers for shapes named from Anchor through ContextMenuCallbackEntry",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each helper performs a bare TypeScript cast and returns the value unchanged.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The cast is not guarded by any runtime check.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Membership of this half is decided by the alphabetical name of the target type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A target shape with no named declaration is written inline as a structural type.",
     },
   ],

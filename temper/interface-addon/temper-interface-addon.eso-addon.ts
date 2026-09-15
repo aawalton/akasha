@@ -111,13 +111,13 @@ export const temperInterfaceAddon = {
     "type-declaration/interface-global-declarations",
     "type-declaration/quiet-camera-keybind-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Three separate add-ons were folded into this add-on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A keybind is named after the assistant the player has unlocked.",
     },
   ],

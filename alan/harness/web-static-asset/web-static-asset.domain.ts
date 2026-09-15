@@ -6,9 +6,9 @@ export const webStaticAsset = {
   slug: "web-static-asset",
   definition: "a built file handed back from disk with the cache lifetime it is given",
   parts: ["module/build-directory", "module/serve-static"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hashed asset is cached for a year and everything else for an hour.",
     },
   ],

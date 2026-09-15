@@ -6,29 +6,29 @@ export const completionQuestProgress = {
   slug: "completion-quest-progress",
   definition: "how many quests a character has finished, zone by zone and companion by companion",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The quest catalog arrives as an argument rather than as an imported table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quest a companion gives is left out of the zone reckoning.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone whose every quest belongs to a companion is left out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The companion reckoning takes the quests from the companion quest module.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A character read only for roster fields is skipped.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An empty catalog answers an empty list.",
     },
   ],

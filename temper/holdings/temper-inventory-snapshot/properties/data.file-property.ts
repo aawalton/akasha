@@ -7,38 +7,38 @@ export const data = {
   propertySlug: "data",
   definition: "the bytes one whole reading was written as",
   extensions: ["json"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A data file is kept byte for byte as the capture handed the bytes over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A data file has one whole JSON document rather than a piece of a document.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The pieces a reading arrived in are rejoined in chunk index order before landing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading whose pieces rejoin to no JSON document has no data file.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "A data file has raw bytes that no page has yet been written for.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The rows a data file has are being modelled as the reading's own entries.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "A data file goes once those entries are proved to have its rows.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement:
         "The transport's division is not carried into akasha with the bytes that transport divided.",
     },

@@ -21,13 +21,13 @@ export const temperCharacter = {
     "page-type/temper-skill-point",
     "page-type/temper-weapon-bar",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is author-given.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Several builds answer to one name.",
     },
   ],

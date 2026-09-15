@@ -6,17 +6,17 @@ export const repoRoot = {
   slug: "repo-root",
   definition: "the code checkout a run reads, named by the environment",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A checkout nobody named is refused rather than worked out.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A named directory with no lockfile is no checkout of the code repository.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No root is derived from where this file itself sits.",
     },
   ],

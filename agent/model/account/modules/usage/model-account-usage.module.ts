@@ -6,13 +6,13 @@ export const modelAccountUsage = {
   slug: "model-account-usage",
   definition: "what the fleet of model accounts has spent, read off the account pages",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account carrying no reading is left out of the mean.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkout naming no account is refused rather than answered as a fleet.",
     },
   ],

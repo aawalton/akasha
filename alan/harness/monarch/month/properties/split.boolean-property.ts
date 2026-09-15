@@ -6,9 +6,9 @@ export const split = {
   slug: "split",
   propertySlug: "split",
   definition: "whether a transaction was broken into parts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry stating nothing here states the opposite.",
     },
   ],

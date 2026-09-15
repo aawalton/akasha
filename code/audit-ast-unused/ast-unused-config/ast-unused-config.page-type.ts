@@ -8,9 +8,9 @@ export const astUnusedConfig = {
   parts: ["file-property/curation"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "file-property/curation", required: false, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The root keeps the name its reader has compiled in rather than taking a page's.",
     },
   ],

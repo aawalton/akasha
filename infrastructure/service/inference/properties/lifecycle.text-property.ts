@@ -8,21 +8,21 @@ export const lifecycle = {
   definition: "how a service is held on its host",
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service the pool swaps in and out says `pool`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service that runs at all times says `always-on`.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The two ways a service is held are no pages.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a lifecycle.",
     },
   ],

@@ -7,26 +7,26 @@ export const generationImages = {
   propertySlug: "images",
   definition: "every picture the runs in this log have made",
   extensions: ["jsonl"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One row is one json object on one line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image row records where its bytes are rather than the bytes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Rows past the most bytes one file may have roll into a numbered part beside that file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first part beside a page is part2.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each further part takes the next number up.",
     },
   ],

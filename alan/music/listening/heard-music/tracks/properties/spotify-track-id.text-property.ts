@@ -8,9 +8,9 @@ export const spotifyTrackId = {
   definition: "the id Spotify keeps a track under",
   maxLength: 22,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A Spotify track id is 22 characters of letters and digits.",
     },
   ],

@@ -16,18 +16,18 @@ export const temperTradingPricing = {
     "module/ttc-listing-types",
     "service-workstation/ttc-client",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A price here is the price Tamriel Trade Centre last saw rather than the price the game asks.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A lookup finding no price answers with nothing rather than with zero.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code here reaches the network.",
     },
   ],

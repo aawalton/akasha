@@ -7,21 +7,21 @@ export const completionTributeProgress = {
   definition:
     "how much of every Tales of Tribute patron deck an account holds, patron by patron and card by card",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The patron catalog arrives as an argument rather than as an imported table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A patron's total counts the patron beside each card the patron has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card the account never upgraded counts as not upgraded.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An empty catalog answers an empty progress.",
     },
   ],

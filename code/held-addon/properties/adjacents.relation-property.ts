@@ -7,13 +7,13 @@ export const adjacents = {
   propertySlug: "adjacents",
   definition: "the addons a bite at this addon reaches",
   targetPageType: "page-type/held-addon",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Adjacency is written as a bite meets an addon rather than mapped out up front.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon naming no adjacent here has had no bite reach past that addon.",
     },
   ],

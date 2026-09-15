@@ -7,17 +7,17 @@ export const questsChatterNames = {
   definition: "the name behind a dialogue option code, looked up for whoever reads a trace",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The map from code to name is built once and kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A code the game names nothing for reads back as the code itself.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name the globals do not have is left out of the map.",
     },
   ],

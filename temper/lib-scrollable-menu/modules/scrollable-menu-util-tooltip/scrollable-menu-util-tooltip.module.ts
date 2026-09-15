@@ -6,21 +6,21 @@ export const scrollableMenuUtilTooltip = {
   slug: "scrollable-menu-util-tooltip",
   definition: "the placement and display of the tooltip for a menu entry",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A custom tooltip function replaces the game tooltip entirely.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The tooltip flips side when its text would overflow the screen edge.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Hovering an entry without a submenu hides any visible submenu first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The selected-entry sound is silenced by swapping the game sound table entry.",
     },
   ],

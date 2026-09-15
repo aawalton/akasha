@@ -6,9 +6,9 @@ export const libSetsSearchUiSharedRowmenu = {
   slug: "lib-sets-search-ui-shared-rowmenu",
   definition: "the menu a result row opens under the right mouse button",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The menu does not open unless LibScrollableMenu is present.",
     },
   ],

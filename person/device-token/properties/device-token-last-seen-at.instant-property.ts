@@ -6,9 +6,9 @@ export const deviceTokenLastSeenAt = {
   slug: "device-token-last-seen-at",
   propertySlug: "last-seen-at",
   definition: "when a device last registered the token it is reached at",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A token carrying no such instant has not been registered again.",
     },
   ],

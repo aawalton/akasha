@@ -6,17 +6,17 @@ export const searchQualityFilter = {
   slug: "search-quality-filter",
   definition: "the item quality, narrowed by a multiselect of the six quality tiers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The quality filter also adds the selected quality numbers to the server request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty selection matches every item.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The option values are the client quality numbers 0 through 5.",
     },
   ],

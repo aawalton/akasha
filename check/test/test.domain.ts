@@ -11,125 +11,125 @@ export const test = {
     "module/dom-registering",
     "page-type/test-fixture",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test names one thing held true.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test asserts no name and no prose.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name or a passage is read from where that name or passage is stated.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test over invented data proves the truths the fixture has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test over the pages proves the truths the pages have.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test over invented data and a test over the pages do not replace each other.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A test reaching the pages reads the pages whole rather than pinning the values the test found.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A test that would pass over an empty world does not land.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "A test proves a mend only where the mend removed makes that test fail.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The DOM shim a test runs in drops `set-cookie` from a `Response`.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The runtime that DOM shim answers for keeps `set-cookie` on a `Response`.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "`mock.restore()` leaves a `mock.module` replacement in place.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Mocking a module mutates that module's namespace object in place.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A reference taken before a mock has the stub rather than the original.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A module mock outlives the test file that made it.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every later importer of a mocked specifier sees the mocking test's values.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A later factory cannot take away a key an earlier one put in.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The failure surfaces in the later file rather than in the file that mocked.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A `beforeAll` is charged against the same time bound as a test case.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The DOM shim replaces `Response` with one whose `json()` the runtime refuses to answer.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Scaffolding a test sets up is not the thing under test.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scaffolding the tests of more than one system need is here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scaffolding one module's tests need is in fixtures beside that module.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A fixture beside a module reaches for this scaffolding rather than spelling this scaffolding again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This scaffolding is reached by tests alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A module the running system reaches for belongs to the system that runs the module.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No test is written here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "This scaffolding is set up by the tests that reach for this scaffolding.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A fixture proving itself proves nothing about the system.",
     },
   ],
@@ -147,11 +147,11 @@ export const test = {
     },
     {
       directiveKind: "directive-kind/principle",
-      name: "Assert The Invariant",
-      act: "Assert an invariant a page states, never a detail of the case at hand.",
+      name: "Assert The Decision",
+      act: "Assert an decision a page states, never a detail of the case at hand.",
       warrant:
         "An assertion about one case breaks while nothing is wrong, and its repair checks nothing.",
-      aids: ["Where no page states it, settle it with Alan.", "Stable so far is not an invariant."],
+      aids: ["Where no page states it, settle it with Alan.", "Stable so far is not an decision."],
     },
     {
       directiveKind: "directive-kind/principle",

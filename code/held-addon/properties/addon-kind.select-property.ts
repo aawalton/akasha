@@ -7,17 +7,17 @@ export const addonKind = {
   propertySlug: "addon-kind",
   definition: "where an addon's source came from",
   values: ["library", "native", "ported"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A native addon is backbone written for Temper.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A ported addon is a community addon a machine translated.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A library addon is a framework other addons load.",
     },
   ],

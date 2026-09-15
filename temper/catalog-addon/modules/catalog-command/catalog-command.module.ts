@@ -6,18 +6,18 @@ export const catalogCommand = {
   slug: "catalog-command",
   definition: "what the player's slash command clears and what it prints about each catalog",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Clearing a catalog marks the whole set incomplete so the next login refills the set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A domain name the add-on does not carry clears nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A clear naming no target lists the domains the last run skipped.",
     },
   ],

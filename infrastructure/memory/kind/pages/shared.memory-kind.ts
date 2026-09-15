@@ -5,21 +5,21 @@ export const shared = {
   type: "page-type/memory-kind",
   slug: "shared",
   definition: "memory more than one process holds at once",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page more than one process holds is held once by the host.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Shared memory is why the processes of a host add to more than that host has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A library every process loads is shared rather than held by each.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Ending one process holding a shared page frees none of that page.",
     },
   ],

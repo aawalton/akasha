@@ -6,9 +6,9 @@ export const pendingSync = {
   slug: "pending-sync",
   propertySlug: "pending-sync",
   definition: "whether a task has changed since the watcher last carried it out to the game",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The watcher clears this property as soon as that watcher has written the task out.",
     },

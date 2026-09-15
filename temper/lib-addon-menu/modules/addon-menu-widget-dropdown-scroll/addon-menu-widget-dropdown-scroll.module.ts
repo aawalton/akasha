@@ -6,17 +6,17 @@ export const addonMenuWidgetDropdownScroll = {
   slug: "addon-menu-widget-dropdown-scroll",
   definition: "the height of a dropdown list computed from its visible row count",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Ten visible rows is the default when scrollable is true without a number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list shorter than the visible row count is sized to its own length.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A rounding margin of one hundredth is added to the computed height.",
     },
   ],

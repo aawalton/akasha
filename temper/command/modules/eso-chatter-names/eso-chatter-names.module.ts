@@ -8,13 +8,13 @@ export const esoChatterNames = {
     "the chatter and interaction names the emitted declarations hold, rendered as a module",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is rendered as a literal the JSON writer quoted.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The module rendered here carries no prose.",
     },
   ],

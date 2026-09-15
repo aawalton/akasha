@@ -6,9 +6,9 @@ export const knowledgeLdei = {
   slug: "knowledge-ldei",
   definition: "one character's knowledge wrapped as text another account can read",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A share is held to the characters one edit box has.",
     },
   ],

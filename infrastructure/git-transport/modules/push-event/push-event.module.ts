@@ -6,21 +6,21 @@ export const pushEvent = {
   slug: "push-event",
   definition: "what a repository says it took, answered to whoever hooked the repository",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A payload that is no push event is refused as a bad request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An update to anything but a branch is taken and passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A branch deleted is taken and passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An update passed over is answered as passed over rather than as taken.",
     },
   ],

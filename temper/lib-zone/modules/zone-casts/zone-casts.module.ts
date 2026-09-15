@@ -6,13 +6,13 @@ export const zoneCasts = {
   slug: "zone-casts",
   definition: "what an untyped table the game hands over is taken to be",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The slash-command library is reached off the global table rather than by its name.",
     },

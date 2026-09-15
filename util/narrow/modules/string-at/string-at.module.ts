@@ -6,9 +6,9 @@ export const stringAt = {
   slug: "string-at",
   definition: "the string a record holds under a key, or nothing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty string is answered rather than read as nothing.",
     },
   ],

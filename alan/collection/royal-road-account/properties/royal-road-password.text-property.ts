@@ -8,9 +8,9 @@ export const royalRoadPassword = {
   definition: "what authorises a Royal Road account's sign-in",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The password is in the page's sops file rather than in the page.",
     },
   ],

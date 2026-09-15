@@ -8,37 +8,37 @@ export const ruleMatcherContextKnowledge = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list the game wrote sparsely and one it wrote as a record say the same thing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe is known where the game says known, and the rest are left out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the crafting motif category of the lore library counts as motif knowledge.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every character holds a motif chapter map, empty where the game wrote none.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trait a character has yet to research is recorded as unknown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Bank stock is what the Bank location holds and nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a location keyed by digits alone counts as a character for stock.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A script is recorded by the item id its name resolves to.",
     },
   ],

@@ -59,7 +59,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"initiative","unique":null,"uniquePropertySlug":null,"slug":"initiative","propertySlug":"initiative","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"initiative","unique":null,"uniquePropertySlug":null,"slug":"initiative-parent","propertySlug":"parent","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"initiative-persona","propertySlug":"persona","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"invariant-kind","unique":null,"uniquePropertySlug":null,"slug":"invariant-kind","propertySlug":"invariant-kind","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"decision-kind","unique":null,"uniquePropertySlug":null,"slug":"decision-kind","propertySlug":"decision-kind","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-inventory-snapshot","unique":null,"uniquePropertySlug":null,"slug":"inventory","propertySlug":"inventory","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"life-theme","unique":null,"uniquePropertySlug":null,"slug":"life-theme-parent","propertySlug":"life-theme-parent","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"life-theme-value","propertySlug":"life-theme-value","fileName":null,"folderName":null,"sorted":false}

@@ -7,19 +7,19 @@ export const syncScript = {
   propertySlug: "sync-script",
   definition: "the script making an app's native sources from its shell",
   targetPageType: "page-type/shell-script",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The script is handed `add` where the shell carries no native sources, `sync` where it does.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Which script makes an app's native sources is read from its page rather than walked to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The script is run by name rather than through a manifest.",
     },
   ],

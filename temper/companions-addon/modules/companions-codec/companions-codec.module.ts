@@ -6,9 +6,9 @@ export const companionsCodec = {
   slug: "companions-codec",
   definition: "reading a companion's gear and skills off the game and writing them out as a hash",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty slot is written as index zero rather than left out.",
     },
   ],

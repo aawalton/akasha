@@ -8,17 +8,17 @@ export const googleCalendarEventDelete = {
   code: "ts",
   test: "ts",
 
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An event named in place and as a flag is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A call naming no calendar acts on Alan's own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This reaches the calendar as the account akasha runs under.",
     },
   ],

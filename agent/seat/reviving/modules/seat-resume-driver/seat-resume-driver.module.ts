@@ -6,9 +6,9 @@ export const seatResumeDriver = {
   slug: "seat-resume-driver",
   definition: "the five things that put a resuming seat back to work",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A resuming seat is driven by exactly one of these five things.",
     },
   ],

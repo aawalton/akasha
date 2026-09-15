@@ -10,9 +10,9 @@ export const collectibles = {
     { pageProperty: "number-property/eso-collectible-id", required: true, many: false },
     { pageProperty: "text-property/collectible-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collectible here is filed by the game under the category with the file.",
     },
   ],

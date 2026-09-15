@@ -6,13 +6,13 @@ export const libSetsTipVeteranBreakdown = {
   slug: "lib-sets-tip-veteran-breakdown",
   definition: "the per-slot veteran or normal reading of a monster set whose pieces differ",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The breakdown only appears when the pieces do not all agree.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slot with no veteran flag recorded is shown as a question mark.",
     },
   ],

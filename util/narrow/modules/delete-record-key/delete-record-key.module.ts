@@ -6,9 +6,9 @@ export const deleteRecordKey = {
   slug: "delete-record-key",
   definition: "a record key set to nothing rather than deleted",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Lua compiled from this code empties a table key by assigning nothing.",
     },
   ],

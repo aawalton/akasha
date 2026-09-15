@@ -31,41 +31,41 @@ export const transactions = {
     { pageProperty: "boolean-property/needs-review", required: false, many: false },
     { pageProperty: "boolean-property/pending", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A transaction sits beside the month its day falls in rather than in a file of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Ten thousand transactions arrive from a poller and nobody writes a transaction by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry states nothing that entry has no value for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value an entry does not state is false or empty.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Entries sit in the order of the day those entries fell on and then of their Monarch id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A split transaction leaves the list Monarch serves and its parts are there in its place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A split transaction stays alive and reachable by its own id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry's id is carried across a resync rather than minted again.",
     },
   ],

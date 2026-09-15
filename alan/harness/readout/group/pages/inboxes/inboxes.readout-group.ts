@@ -7,18 +7,18 @@ export const inboxes = {
   definition: "how far each of Alan's inboxes is from empty",
   sortOrder: "place",
   figureOffScale: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A daily inbox of at least a hundred readings is black rather than a reading gone missing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An inbox at empty is blue.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The color any other reading takes is stated by that reading's own scale.",
     },
   ],

@@ -7,17 +7,17 @@ export const carriedEffect = {
   propertySlug: "effect",
   definition: "what an effect carries, as an inner effect or as a named act",
   members: ["record-property/nested-effect", "relation-property/special-effect"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An effect that delays or repeats carries its inner effect here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An effect naming a special act names that act here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which of the two an effect carries follows from the kind that effect names.",
     },
   ],

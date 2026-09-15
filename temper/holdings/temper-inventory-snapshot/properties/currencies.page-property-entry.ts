@@ -13,17 +13,17 @@ export const currencies = {
     { pageProperty: "number-property/currency-amount", required: true, many: false },
     { pageProperty: "instant-property/last-scanned-at", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One line is one currency held under one scope.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A currency held across the whole account names no character.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A currency held by one character names when that character was last read.",
     },
   ],

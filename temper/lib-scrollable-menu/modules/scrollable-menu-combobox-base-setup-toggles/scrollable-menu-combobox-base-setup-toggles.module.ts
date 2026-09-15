@@ -6,17 +6,17 @@ export const scrollableMenuComboboxBaseSetupToggles = {
   slug: "scrollable-menu-combobox-base-setup-toggles",
   definition: "the setup functions filling a radio button row and a checkbox row",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A toggle row is built on the shared label setup before its button is added.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A toggle fires the entry's own callback and the library callback together.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A radio group is told which button is clicked when the entry comes in checked.",
     },
   ],

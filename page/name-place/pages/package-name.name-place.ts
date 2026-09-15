@@ -6,21 +6,21 @@ export const packageName = {
   slug: "package-name",
   definition: "the name a package is required by",
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A package name with no scope is one slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A package name with a scope is that scope and a slug parted by a slash.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scope opens with an at sign.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The at sign is the registry's mark rather than a part of either name.",
     },
   ],

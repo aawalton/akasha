@@ -7,34 +7,34 @@ export const temperInventoryOutcomeParity = {
   definition:
     "whether the outcome-only run reaches what the full run reaches, over every item held",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every item in every bag of every location is ruled on rather than a sample.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An indeterminate outcome is compared whole rather than counted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One item disagreeing answers with that item rather than with a tally.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "Neither run compared here is the addon's, so agreement is no sign the addon agrees.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Both runs read one env, so a signal that env lacks leaves the two runs alike.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that found a divergence answers a code other than zero.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "This answers in one shape, so no second shape can answer a second code.",
     },
   ],

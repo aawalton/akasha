@@ -8,13 +8,13 @@ export const openShells = {
   definition: "every background command a seat started that is still live",
   maxLength: 64,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A background command is named by the task the transcript gives that command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command is listed until the notification naming that command is read.",
     },
   ],

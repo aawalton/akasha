@@ -17,13 +17,13 @@ export const temperCharacterSkillLine = {
     "module/weapon-and-armor-skill-lines",
     "module/world-and-guild-skill-lines",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The skill line data here is written out from the skill-line pages.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A class line names its category by the category page's key rather than by that page's slug.",
     },

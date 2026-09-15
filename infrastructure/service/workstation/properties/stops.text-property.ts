@@ -8,9 +8,9 @@ export const stops = {
   definition: "a command line a unit runs to bring down what it started",
   maxLength: 500,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The commands run in the order the commands are written in.",
     },
   ],

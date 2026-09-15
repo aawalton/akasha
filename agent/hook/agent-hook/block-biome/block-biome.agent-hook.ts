@@ -9,54 +9,54 @@ export const blockBiome = {
   test: "ts",
   runsAt: ["PreToolUse"],
   overTools: ["Bash"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every biome call is refused whether that call reads or writes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A biome call in the command word is refused whether it reads or writes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The refusal names the apply rather than the draft as where the linter runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Biome reached by a path is the same call and is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Biome reached through a runner is the same call and is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A prefix that only runs the call behind that prefix does not hide a biome call from this hook.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A package script reaching biome is not read here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No package script now reaches akasha.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A biome write reaches akasha content with no gate.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A biome write reaches akasha content with no index.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A biome write reaches akasha content with no commit.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "`prettier` reaching akasha content is refused as `biome` reaching it is.",
     },
   ],

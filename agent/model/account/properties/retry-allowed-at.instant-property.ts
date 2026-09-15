@@ -6,9 +6,9 @@ export const retryAllowedAt = {
   slug: "retry-allowed-at",
   propertySlug: "retry-allowed-at",
   definition: "when the account may be called again after a refusal",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An upstream `retry-after` header states a length and is added to now to reach this instant.",
     },

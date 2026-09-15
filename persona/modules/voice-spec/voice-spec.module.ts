@@ -7,17 +7,17 @@ export const voiceSpec = {
   definition: "the shape a persona's cloned voice is described by",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A voice cloned from a real speaker runs in lane R and no other lane.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A designed voice has the instruction the designed voice was designed by.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every path a spec names is relative to the repo.",
     },
   ],

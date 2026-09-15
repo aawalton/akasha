@@ -6,34 +6,34 @@ export const deployImagePushing = {
   slug: "deploy-image-pushing",
   definition: "a container recipe built and put in the registry under the hash of its inputs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe the registry already holds under its tag is built again by nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe naming no repository is refused rather than built.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing is applied to the cluster here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here catches the throw, so the deploy names what the push had done.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The recipe and the context are read from the tree pinned at the commit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A push answers one line naming the image, the reference it went under, and its fate.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "That line says it was built and pushed, or the registry holds it, or it would be.",
     },

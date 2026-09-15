@@ -6,23 +6,23 @@ export const addonMenuWidgetPanel = {
   slug: "addon-menu-widget-panel",
   definition: "the scrolling page of one addon's settings, headed by its name and author",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The website and feedback and translation and donation links are laid out in one row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A donation link is colored gold where the other links are blue.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The refresh callback is registered once however many panels ask for that callback.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Forcing defaults walks the registered controls and then fires a refresh.",
     },
   ],

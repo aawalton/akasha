@@ -6,17 +6,17 @@ export const buyRuleEval = {
   slug: "buy-rule-eval",
   definition: "how far short of its target quantity each buy rule falls",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A buy rule turned off answers no evaluation.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shortfall never falls below zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item absent from the totals counts as zero held.",
     },
   ],

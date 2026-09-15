@@ -12,21 +12,21 @@ export const temperSettingsPanel = {
     "module/panel-controls-created",
     "module/register-panel",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A control here is a plain record the add-on menu library reads.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here draws a control.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The add-on menu library is handed in rather than reached as a global.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting is read back the way the setting was stated.",
     },
   ],

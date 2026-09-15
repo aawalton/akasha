@@ -6,13 +6,13 @@ export const supervisorAskRule = {
   slug: "supervisor-ask-rule",
   definition: "a rule asked of the deciding command",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule that cannot be reached is answered with the safe value and a notice.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule that cannot be reached is never a throw the caller must catch.",
     },
   ],

@@ -7,13 +7,13 @@ export const messagesSent = {
   propertySlug: "sent",
   definition: "how many messages Alan wrote to one persona on one day",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message Alan wrote is counted where the message left Alan.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A message a persona wrote back is counted nowhere.",
     },
   ],

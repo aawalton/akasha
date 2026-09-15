@@ -6,9 +6,9 @@ export const skillLineCategoryData = {
   slug: "skill-line-category-data",
   definition: "the ten groupings a skill line falls into, each with its display order",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-line-category pages rather than by hand.",
     },
   ],

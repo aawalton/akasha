@@ -7,13 +7,13 @@ export const mobile = {
   definition: "the simulator an iOS app is driven on, and what is known of the builds Apple holds",
   parts: ["command/mobile-testflight-status", "namespace/mobile-cut", "namespace/mobile-sim"],
   name: "mobile",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command under this namespace reports the work and mobile-cli does the work.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing under this namespace reaches the mac except through mobile-cli.",
     },
   ],

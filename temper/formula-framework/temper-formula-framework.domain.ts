@@ -37,21 +37,21 @@ export const temperFormulaFramework = {
     "module/source-file",
     "module/topological-sort",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A formula is a tree of arithmetic steps rather than an expression to parse.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The number a tree comes to and the tree a reader sees are worked out apart.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The buff and debuff tables here are written out from the temper pages.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A module here reaching a Date is never reached by addon code.",
     },
   ],

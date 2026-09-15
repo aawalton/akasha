@@ -7,17 +7,17 @@ export const inventoryRuleCompilerSparse = {
   definition:
     "which characters or companions a rule reaches, read off the destination the rule names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A destination ending in `by-priority` reaches any character.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A destination naming one character reaches that character alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule naming no destination reaches the character playing now.",
     },
   ],

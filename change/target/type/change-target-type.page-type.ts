@@ -14,13 +14,13 @@ export const changeTargetType = {
     "change-target-type/prose",
   ],
   extends: ["page-type/domain"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change states the target type from the thing that change acts on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which act a change makes and which thing a change acts on are two answers.",
     },
   ],

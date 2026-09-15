@@ -7,28 +7,28 @@ export const wholeWriting = {
   definition: "a run of bytes written to a destination until every byte of it is gone",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A write carrying part of the bytes is followed by a write of the bytes left over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A destination refusing bytes for now is written to again rather than dropping the bytes left over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A destination refusing bytes for any other reason raises rather than being written to again.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Writing sets no length on the destination beforehand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run of no bytes is written nowhere.",
     },
   ],

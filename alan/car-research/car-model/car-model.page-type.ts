@@ -29,9 +29,9 @@ export const carModel = {
     { pageProperty: "text-property/segment", required: true, many: false },
     { pageProperty: "relation-property/car-make", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A model names the make above that model and never the years below.",
     },
   ],

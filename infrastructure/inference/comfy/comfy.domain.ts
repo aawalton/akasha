@@ -6,18 +6,18 @@ export const comfy = {
   slug: "comfy",
   definition: "what ComfyUI is asked to run",
   parts: ["domain/z-image-turbo", "module/comfy-graph"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A model that makes images is a domain whose subject is that one model.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The settings a model is loaded and sampled with are code rather than a page property.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page has the lessons learned by generating with the model.",
     },
   ],

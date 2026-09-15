@@ -7,48 +7,48 @@ export const syncing = {
   definition: "every chapter the wandering inn lists read and filed under the story",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The story the chapters are filed under is there before any chapter is read.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A chapter marked as patron early access by its title or by its page body is left.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A chapter with no prose once the trailing navigation is stripped is left rather than filed empty.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter's title is the page's own title where the page has a title.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter's title is the contents listing's title where the page has no title.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second sits between one chapter read and the next.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The site is closed whether the run finished or threw.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter that failed is counted and the run carries on to the next chapter.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that files nothing is still recorded as a run that happened.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that only says the chapters the run would file is not recorded as a run.",
     },
   ],

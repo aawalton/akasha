@@ -6,13 +6,13 @@ export const orderListBoxErrors = {
   slug: "order-list-box-errors",
   definition: "the complaints made about entries a caller shaped wrongly",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A complaint names the entry index the caller got wrong.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A complaint reaches the chat window rather than halting the panel.",
     },
   ],

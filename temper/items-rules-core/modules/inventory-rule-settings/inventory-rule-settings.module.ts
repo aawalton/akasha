@@ -7,17 +7,17 @@ export const inventoryRuleSettings = {
   definition:
     "the whole saved rule set, and each way an agent adds, changes, moves or takes away a rule",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule set has its rules in the order the rules are tried in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A locked rule is changed by nothing until the lock comes off.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule added lands beside the anchor rule the caller named.",
     },
   ],

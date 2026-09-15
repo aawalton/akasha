@@ -6,9 +6,9 @@ export const debugLoggerSavedVariables = {
   slug: "debug-logger-saved-variables",
   definition: "the two tables the game keeps for this library between sessions",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The settings and the log are kept apart.",
     },
   ],

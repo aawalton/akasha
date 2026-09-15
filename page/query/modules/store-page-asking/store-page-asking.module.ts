@@ -7,9 +7,9 @@ export const storePageAsking = {
   definition: "a composed query put to the store, with the fetcher and the nap defaulted",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here has an answer for a later question.",
     },
   ],

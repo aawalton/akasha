@@ -7,9 +7,9 @@ export const completionCardResetBehavior = {
   definition: "whether a completion card counts for all time or starts over each day",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "Every completion card is named here.",
     },
   ],

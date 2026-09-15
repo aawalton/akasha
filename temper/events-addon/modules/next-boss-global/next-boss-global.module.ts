@@ -6,9 +6,9 @@ export const nextBossGlobal = {
   slug: "next-boss-global",
   definition: "the name the key bindings reach this tracker's table by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A key binding's Lua runs outside the bundle and reaches only a global.",
     },
   ],

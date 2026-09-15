@@ -6,9 +6,9 @@ export const header = {
   slug: "header",
   definition: "a line naming the group of settings that follows it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A header has no setting of its own.",
     },
   ],

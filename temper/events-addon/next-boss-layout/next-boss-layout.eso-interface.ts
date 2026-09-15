@@ -7,21 +7,21 @@ export const nextBossLayout = {
   definition: "the timetable window and the district labels drawn over the Imperial City map",
   markup: "xml",
   loadedAs: "TemperEvents.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The timetable window is one label of names beside one label of times.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The map labels are anchored to the middle of the screen rather than to the map.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The window's width is set from a string id rather than stated here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Dragging the window calls back into the tracker so the place is kept.",
     },
   ],

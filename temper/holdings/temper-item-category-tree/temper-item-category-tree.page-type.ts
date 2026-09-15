@@ -73,13 +73,13 @@ export const temperItemCategoryTree = {
     { pageProperty: "number-property/priority-order", required: false, many: false },
     { pageProperty: "text-property/item-name-contains", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A branch takes an item that answers to every test the branch states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A branch naming no parent is a root.",
     },
   ],

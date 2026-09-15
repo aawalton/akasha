@@ -7,34 +7,34 @@ export const gitTreeHash = {
   definition: "a sha256 over the git object ids named paths carry at a ref",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path absent at the ref hashes as the literal string absent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The digest is taken over path=objectid lines in the order the sources give.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rev-list that fails is answered as a count of zero commits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A ref naming no commit is answered as nothing rather than as a throw.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Origin reaches a commit where a remote-tracking ref of origin contains the commit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The code repo's build inputs are a fixed hand-written list of five paths.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fetch of origin is named here, so every caller names it the same way.",
     },
   ],

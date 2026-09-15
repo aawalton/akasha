@@ -6,17 +6,17 @@ export const ttcShoppingTypes = {
   slug: "ttc-shopping-types",
   definition: "the shapes a shopping plan and the parts of a shopping plan take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item to shop for carries the key one recommendation comes back under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A budget strategy is a multiplier over the cheapest price found.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plan keeps every listing passed over as an alternative.",
     },
   ],

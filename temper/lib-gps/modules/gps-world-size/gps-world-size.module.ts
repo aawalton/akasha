@@ -6,9 +6,9 @@ export const gpsWorldSize = {
   slug: "gps-world-size",
   definition: "how far across a map reaches in the world's own units",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A world size is written to a string and read back from that string.",
     },
   ],

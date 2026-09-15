@@ -25,21 +25,21 @@ export const temperLibTreasure = {
     "module/treasure-public-api",
     "module/treasure-types",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pin is placed by where the pin falls on its own map rather than on the world.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every lookup is built once as the library loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon adds an icon to the shared list rather than keeping a separate list.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The pin rows are the rows upstream LibTreasure v24 states.",
     },
   ],

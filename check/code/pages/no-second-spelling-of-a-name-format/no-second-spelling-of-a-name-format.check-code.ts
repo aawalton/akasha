@@ -8,33 +8,33 @@ export const noSecondSpellingOfANameFormat = {
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape is collected from every name format's code file the index names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape is the pattern a regex literal reads as without its flags.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A regex literal is read from the parse rather than from the text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal names the line spelling the shape and the file stating that shape.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A name format spelling its own shape is passed over.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Two name formats stating one shape refuse neither name format.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A shape reached rather than spelled is nothing to read.",
     },
   ],

@@ -14,13 +14,13 @@ export const temperCatalog = {
     "page-type/temper-catalog-thing",
     "page-type/temper-skill",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every page here states a thing the game has for everybody.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page here is replaced by the next capture rather than edited by hand.",
     },
   ],

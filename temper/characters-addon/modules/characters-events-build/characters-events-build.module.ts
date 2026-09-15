@@ -6,9 +6,9 @@ export const charactersEventsBuild = {
   slug: "characters-events-build",
   definition: "what this add-on does when the played character's build changes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run of build changes is read once after the run settles.",
     },
   ],

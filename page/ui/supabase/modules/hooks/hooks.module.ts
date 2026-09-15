@@ -7,13 +7,13 @@ export const hooks = {
   definition:
     "Reading pages from supabase: one by id suffix, all of a type, related ones, and a nav's views.",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The views a nav item holds are asked for by that nav item's address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav item whose slug went unread narrows the views to none.",
     },
   ],

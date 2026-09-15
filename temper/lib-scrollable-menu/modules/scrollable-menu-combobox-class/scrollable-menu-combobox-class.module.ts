@@ -6,21 +6,21 @@ export const scrollableMenuComboboxClass = {
   slug: "scrollable-menu-combobox-class",
   definition: "the subclass a normal dropdown menu on an existing ZO_ComboBox becomes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An existing combobox is adopted by replacing its metatable in place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Sorting is offered only where filtering is also enabled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Multi-select bookkeeping walks upward to update every opening control.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The visible row count falls back to the library default of ten.",
     },
   ],

@@ -7,14 +7,14 @@ export const completionSummary = {
   definition:
     "the numbers one character's summary card shows, folded from that character's progress",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The progress folded here arrives in one bundle rather than as separate arguments.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a catalog.",
     },
   ],

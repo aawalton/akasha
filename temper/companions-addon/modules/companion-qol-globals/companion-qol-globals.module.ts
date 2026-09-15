@@ -6,9 +6,9 @@ export const companionQolGlobals = {
   slug: "companion-qol-globals",
   definition: "the one name the quality-of-life code hangs off the game's global table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The quality-of-life holder answers to the name its own add-on used.",
     },
   ],

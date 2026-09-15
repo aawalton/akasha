@@ -7,13 +7,13 @@ export const alanWebApiPicture = {
   definition: "the picture a phone sends in for its person's handler",
   code: "ts",
   urlPath: "api/picture",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sender is known by its device secret rather than by a session.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing but the picture's bytes and the device secret leaves the phone.",
     },
   ],

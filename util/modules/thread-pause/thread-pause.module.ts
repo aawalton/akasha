@@ -6,17 +6,17 @@ export const threadPause = {
   slug: "thread-pause",
   definition: "the thread held still for a number of milliseconds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wait reaches no `Bun` global.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The thread is held rather than a later turn taken.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "How long a caller waits in all is bounded by that caller.",
     },
   ],

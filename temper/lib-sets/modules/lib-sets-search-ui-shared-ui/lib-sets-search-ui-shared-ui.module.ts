@@ -6,9 +6,9 @@ export const libSetsSearchUiSharedUi = {
   slug: "lib-sets-search-ui-shared-ui",
   definition: "what any search window does when it is shown, hidden or reset",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Showing the window announces itself through a named callback.",
     },
   ],

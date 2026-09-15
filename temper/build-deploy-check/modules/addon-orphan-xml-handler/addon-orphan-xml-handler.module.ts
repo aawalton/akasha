@@ -6,25 +6,25 @@ export const addonOrphanXmlHandler = {
   slug: "addon-orphan-xml-handler",
   definition: "whether an inline markup handler names what an add-on's source defines nowhere",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An add-on publishing no global namespace has no handler judged.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A handler inside a markup comment is no handler.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A handler whose body is blank is not judged.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A non-blank `OnUpdate` naming a published namespace is a finding of its own.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A member written onto any object anywhere in the add-on counts as defined.",
     },
   ],

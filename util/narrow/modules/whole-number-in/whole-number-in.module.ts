@@ -7,21 +7,21 @@ export const wholeNumberIn = {
   definition: "the whole number text spells, or nothing",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A whole number is digits alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sign, a point or a space makes the text no whole number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Digits running past the largest number there is are no whole number.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Digits naming a number past the last exact one are answered rounded.",
     },
   ],

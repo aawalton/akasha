@@ -7,14 +7,14 @@ export const supervisorAdoptedClaudePort = {
   definition: "the proxy port an adopted Claude child was launched against",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A port is read from the adopted child's own environment rather than from this environment.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A base url that is not loopback http names no port.",
     },
   ],

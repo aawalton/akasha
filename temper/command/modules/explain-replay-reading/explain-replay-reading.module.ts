@@ -6,18 +6,18 @@ export const explainReplayReading = {
   slug: "explain-replay-reading",
   definition: "the last rule walk the inventory addon recorded in the game, read back for replay",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The walk is read back as the addon recorded that walk rather than run again on this side.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The trace is ruled on whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unknown field refuses the read.",
     },
   ],

@@ -13,29 +13,29 @@ export const orphanedResourcesSweep = {
     catchUp: true,
     startTimeoutSeconds: 600,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the app namespaces are swept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only Deployments and Services and StatefulSets are swept in those namespaces.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A resource nothing labels as a deploy's is passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A clean sweep says nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every message this service sends is drift.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The manifests compared against are read from the code checkout beside this checkout.",
     },

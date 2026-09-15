@@ -6,9 +6,9 @@ export const tabDefaults = {
   slug: "tab-defaults",
   definition: "the tab a path opens on where the path names none",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path matching no prefix opens on no tab.",
     },
   ],

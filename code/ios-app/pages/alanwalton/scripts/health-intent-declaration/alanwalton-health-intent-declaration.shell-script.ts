@@ -7,22 +7,22 @@ export const alanwaltonHealthIntentDeclaration = {
   definition: "the Swift declaring the health-samples intent's metrics and batch limits",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build raising the state generation drops every anchor the device already has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Repairing the drain without dropping the cursor ships a build that streams nothing.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing on the phone decides the bounds of a day.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every window over these samples is a query the server runs against stored rows.",
     },
   ],

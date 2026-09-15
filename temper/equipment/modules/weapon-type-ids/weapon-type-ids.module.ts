@@ -6,9 +6,9 @@ export const weaponTypeIds = {
   slug: "weapon-type-ids",
   definition: "every weapon type a character may hold, from the axe to the restoration staff",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This module names the weapon types without naming any order among the weapon types.",
     },

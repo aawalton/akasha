@@ -8,13 +8,13 @@ export const esoDay = {
   definition: "the ESO day a record is of",
   maxLength: 10,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An ESO day runs from six in the morning to six the next morning.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a day rather than text.",
     },
   ],

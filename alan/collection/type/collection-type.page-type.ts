@@ -12,17 +12,17 @@ export const collectionType = {
     { pageProperty: "relation-property/collection-unit", required: true, many: false },
     { pageProperty: "select-property/collection-type-status", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collection takes its unit from its kind unless the collection states its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collection's `type` names the kind.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Six thousand collections of these kinds sit outside akasha and have no page of their own.",
     },

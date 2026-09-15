@@ -8,17 +8,17 @@ export const statementLine = {
   definition: "the words the bank put on a row",
   maxLength: 400,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A statement line never changes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Monarch's title for the same row changes without warning.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A merchant's patterns are taken from here rather than from a title.",
     },
   ],

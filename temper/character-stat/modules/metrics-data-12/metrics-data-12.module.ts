@@ -6,9 +6,9 @@ export const metricsData12 = {
   slug: "metrics-data-12",
   definition: "character stats overcharged-damage through resistance-flame",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The stats are named here in the order the gathered table answers its ids in.",
     },
   ],

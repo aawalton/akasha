@@ -7,21 +7,21 @@ export const alanAuthProvider = {
   definition: "the signed-in account held for every component below it",
   code: "tsx",
   test: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A session ending clears the account every component below this provider reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module replaced under test is spelled as the code under test spells it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The account is cleared in a render of its own before the route changes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Signing out lands on the signed-out route carrying where the person was.",
     },
   ],

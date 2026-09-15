@@ -11,13 +11,13 @@ export const bagSizes = {
     { pageProperty: "number-property/bag", required: true, many: false },
     { pageProperty: "number-property/bag-size", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One line is one bag of one holder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A holder with no bag of a kind has no line for that kind.",
     },
   ],

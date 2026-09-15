@@ -6,13 +6,13 @@ export const potionSource = {
   slug: "potion-source",
   definition: "every potion a character drinks, gathered into one table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A potion's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A potion moved to another place breaks every build hash saved.",
     },
   ],

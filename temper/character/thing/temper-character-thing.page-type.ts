@@ -11,9 +11,9 @@ export const temperCharacterThing = {
     { pageProperty: "file-property/completion", required: false, many: false },
     { pageProperty: "text-property/target-build-id", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A completion file is kept word for word as the game handed the file over.",
     },
   ],

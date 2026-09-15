@@ -6,9 +6,9 @@ export const paths = {
   slug: "paths",
   definition: "the places a cluster's secrets, talosconfig and kubeconfig sit on disk",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The repository root is read from the checkout rather than climbed to.",
     },
   ],

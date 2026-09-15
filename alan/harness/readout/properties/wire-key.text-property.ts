@@ -8,13 +8,13 @@ export const wireKey = {
   definition: "the key a reading travels under on the wire",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every readout states a wire key of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No readout falls back to its slug on the wire.",
     },
   ],

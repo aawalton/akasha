@@ -6,13 +6,13 @@ export const inventoryRuleMatcherTypes = {
   slug: "inventory-rule-matcher-types",
   definition: "the shape of an item a rule was found to affect, and of the map from rule to items",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An affected item carries where the item lies as well as the item's own data.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item already at the destination is marked rather than dropped.",
     },
   ],

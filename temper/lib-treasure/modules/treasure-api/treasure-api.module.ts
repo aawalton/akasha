@@ -6,9 +6,9 @@ export const treasureApi = {
   slug: "treasure-api",
   definition: "what an addon asks the library about a treasure map or a survey",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The lore book lookup answers nothing for any book.",
     },
   ],

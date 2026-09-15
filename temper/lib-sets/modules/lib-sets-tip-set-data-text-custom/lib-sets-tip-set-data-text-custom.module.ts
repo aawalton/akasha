@@ -6,14 +6,14 @@ export const libSetsTipSetDataTextCustom = {
   slug: "lib-sets-tip-set-data-text-custom",
   definition: "the player's own tooltip pattern filled in from the set's text parts",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A placeholder whose part is empty is cut out of the pattern along with its break.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The literal <br> in the pattern becomes a newline.",
     },
   ],

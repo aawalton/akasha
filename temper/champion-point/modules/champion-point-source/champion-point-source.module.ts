@@ -6,13 +6,13 @@ export const championPointSource = {
   slug: "champion-point-source",
   definition: "every champion star a character can earn, gathered into one table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A champion star's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A champion star moved to another place breaks every build hash saved.",
     },
   ],

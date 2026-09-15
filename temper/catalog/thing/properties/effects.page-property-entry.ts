@@ -27,18 +27,18 @@ export const effects = {
     },
     { pageProperty: "boolean-property/per-weapon", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An effect moves a metric or puts a buff on the character or companion with the effect.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An effect stating no metric states a buff or a debuff.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which further fields an effect states is settled by the effect type.",
     },
   ],

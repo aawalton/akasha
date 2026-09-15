@@ -7,26 +7,26 @@ export const watcherServerUrl = {
   definition: "the address of the temper server the watcher carries what it read across to",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The server address is read from the environment at the call rather than at load.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An environment naming no server address answers a default address.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "An empty `TEMPER_SERVER_URL` is read as an empty address rather than as no address set.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here signs anyone in.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here starts a process.",
     },
   ],

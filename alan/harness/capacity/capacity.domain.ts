@@ -10,32 +10,32 @@ export const capacity = {
     "readout/upkeep-capacity",
     "service-workstation/capacity-relay-service",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The capacity is read from the tracking the workstation's checkout carries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The capacity is summed over the stretches of the day rather than read off the day.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every site showing the capacity is carried the capacity rather than taking that capacity.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A carry that fails to one site does not stop the carry to another site.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tile shows the capacity Alan's workstation last took.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A capacity nothing can be read for is shown as no signal rather than as a zero.",
     },
   ],

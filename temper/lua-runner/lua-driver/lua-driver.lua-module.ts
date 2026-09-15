@@ -6,45 +6,45 @@ export const luaDriver = {
   slug: "lua-driver",
   definition: "the loop a Lua subprocess runs, reading scripts in and writing answers back",
   lua: "lua",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A script arrives as lines closed by a run sentinel of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer is one JSON document closed by a done sentinel of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer says whether the script ran and has either a value or an error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A script that fails to compile answers as an error rather than ending the loop.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A script that throws answers as an error rather than ending the loop.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A table whose keys start at 1 and rise with no gap is written as a JSON array.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every other table is written as a JSON object.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A number JSON cannot have is written as a tagged object.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A function is written as a tagged object rather than as a value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Closed input ends the loop.",
     },
   ],

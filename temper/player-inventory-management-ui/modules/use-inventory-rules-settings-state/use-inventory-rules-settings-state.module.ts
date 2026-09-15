@@ -6,13 +6,13 @@ export const useInventoryRulesSettingsState = {
   slug: "use-inventory-rules-settings-state",
   definition: "the inventory rule settings a reader is editing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A write refused for unread rules is told apart from one that failed to save.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader is told nothing was saved and nothing was lost, rather than to retry.",
     },
   ],

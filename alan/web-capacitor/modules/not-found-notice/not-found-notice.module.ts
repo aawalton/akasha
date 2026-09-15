@@ -6,17 +6,17 @@ export const notFoundNotice = {
   slug: "not-found-notice",
   definition: "what a route draws in place of a page that is not there",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every route drawing nothing found draws the same notice.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The notice says the page was not found rather than why it was not found.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here answers with a status, because a route here draws in the browser.",
     },
   ],

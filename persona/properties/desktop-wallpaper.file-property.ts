@@ -10,27 +10,27 @@ export const desktopWallpaper = {
   generated: true,
   runsFileLength: false,
   holdsBytes: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A persona's desktop wallpaper is a file beside that persona's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Whatever sets Alan's monitor reads this property rather than a path under his pictures.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A desktop wallpaper is shaped for the monitor Alan works at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The rung a picture was made for is kept on the persona wallpaper page rather than here.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A workstation service sets the monitor from this property.",
     },
   ],

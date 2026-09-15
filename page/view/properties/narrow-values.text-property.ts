@@ -8,13 +8,13 @@ export const narrowValues = {
   definition: "what one narrow weighs a page's value against",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A blank character of a value is weighed like every other character.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "A value is written as text whatever kind the key the value narrows has.",
     },
   ],

@@ -6,9 +6,9 @@ export const libSetsSearchUiCasts = {
   slug: "lib-sets-search-ui-casts",
   definition: "the narrowings for the untyped values the search window handles",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every narrowing here is an unchecked cast.",
     },
   ],

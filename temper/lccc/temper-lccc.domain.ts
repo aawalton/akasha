@@ -13,17 +13,17 @@ export const temperLccc = {
     "module/lccc-util",
     "module/lccc-util-tables",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An add-on reaching this code carries its own copy inside its own bundle.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A copy already loaded at the same version or newer is left alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A name the game reads keeps its upstream spelling on the key rather than on the function.",
     },

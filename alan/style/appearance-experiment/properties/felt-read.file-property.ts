@@ -7,9 +7,9 @@ export const feltRead = {
   propertySlug: "felt-read",
   definition: "how the try landed on Alan wearing it",
   extensions: ["txt"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A felt read is Alan's own rather than the persona's reading of Alan.",
     },
   ],

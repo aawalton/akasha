@@ -6,9 +6,9 @@ export const companionActivationBuffs = {
   slug: "companion-activation-buffs",
   definition: "the buff names a companion skill shows where the shared buff table has none",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the companion pages rather than by hand.",
     },
   ],

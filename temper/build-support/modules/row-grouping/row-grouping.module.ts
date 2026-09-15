@@ -6,21 +6,21 @@ export const rowGrouping = {
   slug: "row-grouping",
   definition: "rows filed under a key, and rows counted by a key",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key is written out as text before a row is filed under that key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row the key extractor answers nothing for is left out of the counts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The counts keep the order each key was first met in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The later of two rows sharing a key is the row filed under that key.",
     },
   ],

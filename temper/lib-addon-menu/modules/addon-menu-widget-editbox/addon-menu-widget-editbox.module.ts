@@ -6,21 +6,21 @@ export const addonMenuWidgetEditbox = {
   slug: "addon-menu-widget-editbox",
   definition: "the text entry widget, single line or multiline",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The value is written back when the box loses focus.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An escape press writes the value back rather than discarding the edit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mouse wheel over a multiline box moves the cursor by whole lines.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Input is capped at three thousand characters when maxChars is absent.",
     },
   ],

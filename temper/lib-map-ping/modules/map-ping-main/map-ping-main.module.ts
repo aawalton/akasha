@@ -6,9 +6,9 @@ export const mapPingMain = {
   slug: "map-ping-main",
   definition: "the wiring the map ping library does as the game loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global name is put in place before the handler is made.",
     },
   ],

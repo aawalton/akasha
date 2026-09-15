@@ -6,21 +6,21 @@ export const memory = {
   slug: "memory",
   definition: "where bytes live while a program holds them",
   parts: ["domain/memory-limit", "domain/memory-reaping", "page-type/memory-kind"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The memory a host has is one pool every program on that host draws from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Memory one program holds is memory no other program can have.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A program is given the memory it asks for before anything weighs the ask.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A host out of memory ends a program rather than refusing the ask.",
     },
   ],

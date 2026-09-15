@@ -8,9 +8,9 @@ export const effectiveCharacter = {
   definition: "the character a rotating task falls to for its current turn",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a character.",
     },
   ],

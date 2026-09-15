@@ -12,26 +12,26 @@ export const refusal = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/refusal-text", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal is words to print and nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal goes when the instrument printing that refusal goes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hole marked in the text is filled by the instrument printing the refusal.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The holes a refusal marks are read off the refusal's own text rather than listed beside that text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One refusal is printed at more than one place.",
     },
   ],

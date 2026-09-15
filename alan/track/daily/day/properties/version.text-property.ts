@@ -8,13 +8,13 @@ export const version = {
   definition: "which shape of a record was written",
   maxLength: 10,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A version reads as a number and is written as text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Writing a version as a number would flatten `1.0` to `1`.",
     },
   ],

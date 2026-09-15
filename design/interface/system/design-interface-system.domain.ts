@@ -51,17 +51,17 @@ export const designInterfaceSystem = {
     "stylesheet/theme-bridge",
     "stylesheet/token-values",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The space separating a component from its neighbours is written on the parent.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No component takes a prop letting its caller space that component.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The space inside a component is written on the component.",
     },
   ],

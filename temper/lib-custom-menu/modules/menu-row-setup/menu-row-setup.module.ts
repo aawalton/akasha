@@ -6,13 +6,13 @@ export const menuRowSetup = {
   slug: "menu-row-setup",
   definition: "the tooltip, divider and header work one menu row takes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A divider next to another divider is hidden and counted as no height.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A divider's label reports a fixed size rather than measuring its text.",
     },
   ],

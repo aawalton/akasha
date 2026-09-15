@@ -6,13 +6,13 @@ export const searchStackFullnessFilter = {
   slug: "search-stack-fullness-filter",
   definition: "whether an item stack is full, narrowed by a toggle between full and partial",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Exclude means a partial stack rather than anything short of a full stack.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

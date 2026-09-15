@@ -11,9 +11,9 @@ export const temperPlayerCompletionUi = {
     "module/completion-search-context",
     "module/use-completion",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A panel here reaches no data of its own.",
     },
   ],

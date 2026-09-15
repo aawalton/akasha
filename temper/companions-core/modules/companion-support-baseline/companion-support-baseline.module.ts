@@ -6,17 +6,17 @@ export const companionSupportBaseline = {
   slug: "companion-support-baseline",
   definition: "reference baseline of buff uptimes and damage multipliers for a companion build",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The baseline computation passes EMPTY_BASELINE into the stats calculator.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Light attack is excluded from the per-skill buff scan.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A missing health maximum metric falls back to thirty thousand.",
     },
   ],

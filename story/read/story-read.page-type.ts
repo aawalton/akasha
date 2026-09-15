@@ -37,26 +37,26 @@ export const storyRead = {
     { pageProperty: "select-property/publication-status", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story read has the words of the story's writer rather than akasha's own.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story names the source the story was read from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A source with no page for a story leaves that story naming no link and no id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The text a story has here is the description the source gives the story.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tag the source gave and a tag the person gave are two properties.",
     },
   ],

@@ -6,9 +6,9 @@ export const libSetsCoreInitSearchUi = {
   slug: "lib-sets-core-init-search-ui",
   definition: "the keyboard search window found by name and handed to its initializer",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here runs before the library reports itself fully loaded.",
     },
   ],

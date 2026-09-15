@@ -8,17 +8,17 @@ export const webEnvPath = {
   definition: "where the env file a site is built against lives in the repository",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The path is read against the repository root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A worktree missing the file is given a copy of the file at the same path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An app whose site needs no env file states no path here.",
     },
   ],

@@ -6,29 +6,29 @@ export const upstreamLibraries = {
   slug: "upstream-libraries",
   definition: "which community ESO libraries temper copies data out of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A library is named by the slug a caller spells on the command line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each library names the package its copied data is written into.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each library names the upstream files its data is read out of.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Those files are named against the addons directory rather than as whole paths.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name that is no library is answered as no library rather than refused here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A copy differing from upstream is told apart from a run that broke.",
     },
   ],

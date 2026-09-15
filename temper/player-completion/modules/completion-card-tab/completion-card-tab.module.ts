@@ -7,25 +7,25 @@ export const completionCardTab = {
   definition: "which of the three tabs of the completion window a card is shown under",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A card is answered for by its own identifier alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Anything hung beneath a card answers for that card's tab.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An identifier hung under two tabs answers for neither.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tree answered from is handed in, and the static tree where it is not.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An achievement heading answers only once a tree with that heading is handed in.",
     },
   ],

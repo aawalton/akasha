@@ -6,13 +6,13 @@ export const temperPagesResolver = {
   slug: "temper-pages-resolver",
   definition: "every temper page a browser holds, gathered into one list beside the page types",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seven temper page types are named here rather than worked out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The whole set is loading while any one type is loading.",
     },
   ],

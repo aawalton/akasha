@@ -7,13 +7,13 @@ export const inventoryRuleGoals = {
   definition:
     "the goals a rule may be worked toward, each with the priority the goal is weighed at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each goal has the priority the goal is weighed at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule pursuing no goal is stored against the goal id GOAL_NONE_ID.",
     },
   ],

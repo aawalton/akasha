@@ -7,13 +7,13 @@ export const amount = {
   propertySlug: "amount",
   definition: "how much money moved, in dollars",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An amount below zero is money leaving the account.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An amount is in dollars rather than in cents.",
     },
   ],

@@ -6,17 +6,17 @@ export const hudAddonSettingsPanel = {
   slug: "hud-addon-settings-panel",
   definition: "the settings page a player turns each HUD part on and off from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part sits under the category the catalog gives that part.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The categories appear in the order the catalog first names a category.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkbox turned on shows its part.",
     },
   ],

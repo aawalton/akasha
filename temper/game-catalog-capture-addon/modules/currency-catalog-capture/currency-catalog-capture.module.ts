@@ -6,21 +6,21 @@ export const currencyCatalogCapture = {
   slug: "currency-catalog-capture",
   definition: "the game's currencies, read out of the client into the add-on's saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The collector adds itself to the catalog registry as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A currency the client calls invalid is passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each currency carries whether the bank has that currency.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads how much of a currency the player has.",
     },
   ],

@@ -167,21 +167,21 @@ export const temperLorebook = {
     "type-declaration/lorebooks-public-api-declarations",
     "type-declaration/lorebooks-string-ids",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The text here is English alone.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Akasha has no map pin for a lore book.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Akasha names 4328 of the 4773 book titles this table has.",
     },
   ],

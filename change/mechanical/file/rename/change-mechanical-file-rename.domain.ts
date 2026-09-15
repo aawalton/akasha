@@ -10,13 +10,13 @@ export const changeMechanicalFileRename = {
     "change-mechanical/rename-file-page-property",
     "change-mechanical/rename-file-pages",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file's rename is that file's move.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here renames a file alone.",
     },
   ],

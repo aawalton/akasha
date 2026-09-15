@@ -6,18 +6,18 @@ export const savedSearch = {
   slug: "saved-search",
   definition: "a named, stored set of filter values that reloads into the filter bar",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A saved search carries version 1 so a later format change can be told apart.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A value with no matching filter in the registry index is dropped when a saved search is written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Sort field and guild scope ride alongside the filter values in one saved search.",
     },
   ],

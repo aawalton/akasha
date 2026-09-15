@@ -8,22 +8,22 @@ export const measureComplexityMaintainability = {
     "the command saying the maintainability index of each file of a checkout's TypeScript",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The index is the Visual Studio variant over volume, the cyclomatic sum and the source lines.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A blank line and a comment-only line are no source line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row is one file, and the rows are ordered by index, lowest first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cutoff keeps the rows whose index is at or under it.",
     },
   ],

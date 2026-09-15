@@ -6,13 +6,13 @@ export const mapPingHandlerState = {
   slug: "map-ping-handler-state",
   definition: "the mute, suppress and ping state one map ping key carries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A count below zero is clamped to zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A ping state read for the first time is taken from the game.",
     },
   ],

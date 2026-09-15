@@ -6,21 +6,21 @@ export const commandTreeIds = {
   slug: "command-tree-ids",
   definition: "the strings the editor knows the command tree's view and refresh command by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The names here are the names the extension manifest has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The refresh command's name opens with the view's name.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here makes the view or the command these names reach.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names a row of the command tree.",
     },
   ],

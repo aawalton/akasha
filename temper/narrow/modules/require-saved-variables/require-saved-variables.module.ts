@@ -6,9 +6,9 @@ export const requireSavedVariables = {
   slug: "require-saved-variables",
   definition: "the add-on's saved table, or a refusal where no session has opened it yet",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A read before the session opens the table is a refusal rather than an empty table.",
     },

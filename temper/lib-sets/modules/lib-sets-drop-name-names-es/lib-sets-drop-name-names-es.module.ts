@@ -6,9 +6,9 @@ export const libSetsDropNameNamesEs = {
   slug: "lib-sets-drop-name-names-es",
   definition: "the Spanish name of each way a gear set drops",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name absent here is taken from the English table.",
     },
   ],

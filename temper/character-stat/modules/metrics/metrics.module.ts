@@ -7,14 +7,14 @@ export const metrics = {
   definition:
     "every character stat indexed by its id, with the ones carrying a formula gathered apart",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "This table is gathered from the sixteen data groups in the order the groups are named.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A stat moved to another group changes the order this table answers its ids in.",
     },
   ],

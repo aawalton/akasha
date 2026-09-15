@@ -6,9 +6,9 @@ export const companionsEquipmentMatch = {
   slug: "companions-equipment-match",
   definition: "how far a companion's worn gear is from the build a player is aiming at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each gear slot is judged on weight and on trait and on quality apart.",
     },
   ],

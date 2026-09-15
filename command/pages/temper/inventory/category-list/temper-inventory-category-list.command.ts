@@ -7,21 +7,21 @@ export const temperInventoryCategoryList = {
   definition: "the command naming every category a rule may be written against",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The categories are given in the order the tree holds them.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The category every item is in comes first and is the parent of every root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How deep a category sits is how far that category is indented.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the holdings, the rules or the game.",
     },
   ],

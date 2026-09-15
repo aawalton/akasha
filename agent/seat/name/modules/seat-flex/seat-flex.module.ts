@@ -6,29 +6,29 @@ export const seatFlex = {
   slug: "seat-flex",
   definition: "a seat's flex, read out of its name, with the rules for refusing one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A flex is read from the seat's name rather than from its page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subagent takes the flex of the seat above that subagent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat that states a person came to exist by being opened.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat that states a principal seat name came to exist by being spawned.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a seat shown to have been spawned is given a flex.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No seat gives itself a flex.",
     },
   ],

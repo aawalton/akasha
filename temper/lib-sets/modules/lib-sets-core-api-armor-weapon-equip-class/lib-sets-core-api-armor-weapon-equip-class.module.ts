@@ -7,9 +7,9 @@ export const libSetsCoreApiArmorWeaponEquipClass = {
   definition:
     "a set's armor, weapon and equip types, its worn piece count, its bonuses and its name",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The answers here share no concern beyond taking a set as their subject.",
     },
   ],

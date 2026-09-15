@@ -6,21 +6,21 @@ export const subagentNaming = {
   slug: "subagent-naming",
   definition: "how a subagent's name has the seat above it, joined by a double hyphen",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The mark between the two names is two hyphens.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is split at the first mark rather than the last.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name opening with the mark names no seat above it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name without the mark belongs to a seat rather than a subagent.",
     },
   ],

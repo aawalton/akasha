@@ -6,9 +6,9 @@ export const accountProgress = {
   slug: "account-progress",
   definition: "the account-wide progress worked out from the catalogs and the saved data",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The zone completion union reads the per-character progress alone and takes no catalog.",
     },

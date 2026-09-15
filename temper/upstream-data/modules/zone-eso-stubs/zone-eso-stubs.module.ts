@@ -6,13 +6,13 @@ export const zoneEsoStubs = {
   slug: "zone-eso-stubs",
   definition: "the ESO functions LibZone's data file calls while it loads outside the game",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stub answers whatever lets the data file finish loading.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stub's answer is never read as game data.",
     },
   ],

@@ -6,18 +6,18 @@ export const searchItemTypeFilter = {
   slug: "search-item-type-filter",
   definition: "the item type, narrowed by a multiselect of twenty client item-type numbers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The item type filter also adds the selected type numbers to the server request.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "The option list names twenty item types rather than every item type the client defines.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with no item type fails a non-empty selection.",
     },
   ],

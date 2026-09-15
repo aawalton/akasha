@@ -6,13 +6,13 @@ export const libraryLogger = {
   slug: "library-logger",
   definition: "the log a library writes to under the identifier that library goes by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A library naming no loaded log library raises the identifier it asked under.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "LibDebugLogger is loaded before the library asking for a log.",
     },
   ],

@@ -6,25 +6,25 @@ export const setSelectDialog = {
   slug: "set-select-dialog",
   definition: "the dialog a gear set is chosen in, searched and filtered by where it drops",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set shows the wildcard icon the set has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set with no wildcard icon shows its weapon wildcard.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set with no weapon wildcard shows its armor wildcard.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set with no armor wildcard shows the icon of its alphabetically first slot.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "No set has a wildcard icon today.",
     },
   ],

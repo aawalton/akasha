@@ -7,22 +7,22 @@ export const libSetsTipHooks = {
   definition:
     "the wrapping of the game's own tooltip handlers and of other add-ons' tooltip controls",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game's own handler is wrapped rather than replaced.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "An existing handler on another add-on's control keeps being called before this handler.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing is hooked until the game reports the player active.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Gamepad and keyboard tooltips are hooked by different means.",
     },
   ],

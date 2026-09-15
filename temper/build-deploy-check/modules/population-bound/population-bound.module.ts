@@ -6,26 +6,26 @@ export const populationBound = {
   slug: "population-bound",
   definition: "the note saying how much of a population a run examined",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A run over an empty population certifies nothing.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The count examined and the count declared are read from two separate measurements.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A caller handing the same count twice reports no shortfall.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A record naming both counts does not stop a caller handing the same count twice.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every call site is rewritten on its way into akasha.",
     },
   ],

@@ -6,18 +6,18 @@ export const itemSetCategories = {
   slug: "item-set-categories",
   definition: "the category and subcategory the game hangs one item set collection under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A set's category is the root of the category chain the client hangs the set under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category the game names as an empty string is no category.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set the game hangs under no category has neither name.",
     },
   ],

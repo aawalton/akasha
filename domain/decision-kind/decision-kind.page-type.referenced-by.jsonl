@@ -1,0 +1,8 @@
+{"propertySlug":"import","fileName":"decision-kind.page-type.types.ts","path":"domain/decision-kind/pages/absence.decision-kind.ts"}
+{"propertySlug":"import","fileName":"decision-kind.page-type.types.ts","path":"domain/decision-kind/pages/constraint.decision-kind.ts"}
+{"propertySlug":"import","fileName":"decision-kind.page-type.types.ts","path":"domain/decision-kind/pages/departure.decision-kind.ts"}
+{"propertySlug":"import","fileName":"decision-kind.page-type.types.ts","path":"domain/decision-kind/pages/gap.decision-kind.ts"}
+{"propertySlug":"import","fileName":"decision-kind.page-type.types.ts","path":"domain/decision-kind/pages/stopgap.decision-kind.ts"}
+{"propertySlug":"import","fileName":"decision-kind.page-type.types.ts","path":"domain/decision-kind/pages/upkeep.decision-kind.ts"}
+{"propertySlug":"parts","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
+{"propertySlug":"target-page-type","path":"domain/properties/decision-kind.relation-property.ts","id":"01a04d66-767b-740d-a958-1f84e5858ad0"}

@@ -7,25 +7,25 @@ export const extendsType = {
   propertySlug: "extends",
   definition: "a type a type takes its properties from",
   targetPageType: "page-type/page-type",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A type takes its properties from every type this names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The nearer type decides where two of the types named declare one property.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The last named type decides where two types are equally near.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reordering the types changes the type's properties.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A type naming no type states an empty list rather than nothing.",
     },
   ],

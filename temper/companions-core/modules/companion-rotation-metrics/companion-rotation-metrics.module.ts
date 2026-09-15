@@ -7,17 +7,17 @@ export const companionRotationMetrics = {
   definition:
     "derivation of dps, hps, sps and tps metric entries from a simulated companion rotation",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Buff uptime scales each damage multiplier additively rather than compounding.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The light-attack skill id is skipped in both the dps and the tps pass.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A missing metric value falls back to a hardcoded two thousand or thirty thousand.",
     },

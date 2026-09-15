@@ -7,9 +7,9 @@ export const pointsTotal = {
   propertySlug: "points-total",
   definition: "the points earned since the day counting began",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This figure is kept rather than added up wherever the figure is read.",
     },
   ],

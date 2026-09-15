@@ -6,13 +6,13 @@ export const offlineTextCache = {
   slug: "offline-text-cache",
   definition: "the shape a reading position is held in on the device",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing writes an index of the chapters the device holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A position store under the older shape carries fractions forward as progress.",
     },
   ],

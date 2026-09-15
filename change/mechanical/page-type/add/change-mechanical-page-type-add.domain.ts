@@ -13,13 +13,13 @@ export const changeMechanicalPageTypeAdd = {
     "change-mechanical-page-type/add-property-to-page-type",
     "change-mechanical-page-type/copy-property-on-every-page",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here answers the whole scope of one act in one answer.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rung here takes a key away.",
     },
   ],

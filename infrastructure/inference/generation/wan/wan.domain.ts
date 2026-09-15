@@ -17,13 +17,13 @@ export const wan = {
     "shell-script/wan-smoke",
     "shell-script/wan-up",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A graph is built here and run by the holder of the daemon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The two experts split one sampling run at the step halfway through.",
     },
   ],

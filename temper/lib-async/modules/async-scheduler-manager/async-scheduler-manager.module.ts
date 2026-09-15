@@ -6,17 +6,17 @@ export const asyncSchedulerManager = {
   slug: "async-scheduler-manager",
   definition: "when the scheduler and the frame measurement are switched on and off",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scheduler runs on a game update at every frame.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The frame measurement runs on a game update every hundred milliseconds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scheduler is started again a short delay after the player enters the world.",
     },
   ],

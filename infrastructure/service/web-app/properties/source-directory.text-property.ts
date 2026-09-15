@@ -8,17 +8,17 @@ export const sourceDirectory = {
   definition: "the folder a web app's source sits in",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder is named from the repository root.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No slash opens or closes the folder named here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A web app's build is made in this folder.",
     },
   ],

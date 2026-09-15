@@ -13,29 +13,29 @@ export const seatTurnState = {
     "seat-turn-state/working",
   ],
   properties: [{ pageProperty: "relation-property/turn-state-color", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat is in one turn state at a time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A state's slug is the name the seat system reads that state by.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every turn state names a color.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A state that is stopped names a color too.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A color here is a name a palette resolves rather than a shade.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here says which agent is in which state.",
     },
   ],

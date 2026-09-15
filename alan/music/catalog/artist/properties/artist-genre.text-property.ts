@@ -8,9 +8,9 @@ export const artistGenre = {
   definition: "a genre the provider files an artist under",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A genre is the provider's rather than Alan's.",
     },
   ],

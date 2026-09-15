@@ -7,34 +7,34 @@ export const tickRatchet = {
   definition: "the run of throws a service that keeps running is allowed before it has to end",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tick that works takes the run of throws back to nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run of throws that reaches the threshold spends the ratchet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run of throws is counted in whole ticks beginning at `1`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Any other threshold is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The ratchet names the service and the run and the threshold on the way out.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "A loop that catches its own throw and logs that throw leaves the unit reading healthy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Ending is the only thing the unit can see.",
     },
   ],

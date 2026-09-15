@@ -6,17 +6,17 @@ export const addonMenuWidgetCustom = {
   slug: "addon-menu-widget-custom",
   definition: "the empty height-bounded container widget of the settings panel",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Height is bounded by a minimum and by four times that minimum.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The addon's create function runs after the control is registered for refresh.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No value is read or written by the custom widget itself.",
     },
   ],

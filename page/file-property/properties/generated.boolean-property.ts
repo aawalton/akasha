@@ -6,17 +6,17 @@ export const generated = {
   slug: "generated",
   propertySlug: "generated",
   definition: "whether a machine rather than an author writes the files a property has",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying nothing here holds the files an author writes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No author writes such a file by hand.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names the machine that writes the file.",
     },
   ],

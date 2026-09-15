@@ -6,14 +6,14 @@ export const payloadTranslator = {
   slug: "payload-translator",
   definition: "the shape a page row arrives in over the wire",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page kept as a file carries a sequence number only where its page type numbers its pages.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row stating no sequence number is read rather than throwing its batch away.",
     },
   ],

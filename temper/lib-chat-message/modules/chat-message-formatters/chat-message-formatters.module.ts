@@ -6,21 +6,21 @@ export const chatMessageFormatters = {
   slug: "chat-message-formatters",
   definition: "the game's chat formatters wrapped so a tag and a time prefix are added",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A wrapper calls the formatter the game registered for the same event.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wrapped formatter table is in place only while the game formats a message.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An event is stored in history before the event is formatted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An event with no registered formatter raises an error.",
     },
   ],

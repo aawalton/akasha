@@ -6,18 +6,18 @@ export const trackingEntry = {
   slug: "tracking-entry",
   definition: "one set of field values written down together",
   extends: ["page-type/page"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry is an instant or a session or a date.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Which shape an entry takes is the page type that entry is rather than a value the entry states.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No page is an entry of this type without standing as one of the three shapes.",
     },
   ],

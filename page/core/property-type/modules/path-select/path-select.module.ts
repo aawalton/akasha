@@ -6,9 +6,9 @@ export const pathSelect = {
   slug: "path-select",
   definition: "a property value treated as a path of ordered segments",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A property value read as a path of segments is read here rather than by each reader.",
     },

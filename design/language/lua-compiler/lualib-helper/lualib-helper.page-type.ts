@@ -156,49 +156,49 @@ export const lualibHelper = {
     { pageProperty: "text-property/lua-export", required: true, many: false },
     { pageProperty: "text-property/lua-feature", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A helper's TypeScript is in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Code outside the compiler reaches a helper by importing that file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An importer outside the compiler compiles the helper into its own bundle.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A helper's exported name is the ECMAScript runtime's rather than akasha's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rules refusing a shadowed global name and refusing `any` are off here.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A helper names an argument for what that argument is rather than for its scope.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rule refusing a name that shadows an outer name is off here.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A value compared with itself is how the ECMAScript runtime tests for NaN.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rule refusing a value compared with itself is off here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One exported name is one page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page stating no Lua 5.0 code is compiled from its code for every build.",
     },
   ],

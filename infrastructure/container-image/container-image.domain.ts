@@ -17,9 +17,9 @@ export const containerImage = {
     "module/recipe-page",
     "test-fixture/recipe-proving",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An image is tagged with a hash of the image's build inputs rather than a name or version.",
     },

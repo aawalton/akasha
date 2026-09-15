@@ -6,9 +6,9 @@ export const completionCardRegistry = {
   slug: "completion-card-registry",
   definition: "every completion card with the tab and the title the category tree gives it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card identifier is a literal type read off the category tree.",
     },
   ],

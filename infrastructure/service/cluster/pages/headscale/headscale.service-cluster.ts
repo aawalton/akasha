@@ -19,18 +19,18 @@ export const headscale = {
     "secret/headscale-s3-creds-access-key",
     "secret/headscale-s3-creds-secret-key",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A certificate renewal reaches the server serving that certificate.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The server reads its certificate once and serves that certificate until the server ends.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The pod is rolled by the certificate's checksum changing where the manifest is applied again.",
     },

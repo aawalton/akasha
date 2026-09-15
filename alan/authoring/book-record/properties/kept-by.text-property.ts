@@ -8,13 +8,13 @@ export const keptBy = {
   definition: "what keeps a record current",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record a command writes names the command.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A record naming no keeper of its own names no keeper here.",
     },
   ],

@@ -7,13 +7,13 @@ export const applyCompletionOverrides = {
   definition: "raising a character's counted skill points to what a player claims by hand",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An override never lowers the points a character already counts.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An override never carries a count past the largest count its source can give.",
     },
   ],

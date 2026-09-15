@@ -7,18 +7,18 @@ export const emailAttachmentShow = {
   definition: "the command fetching one attachment's bytes by id, with its size beside them",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An attachment is reached by its own id rather than by where that attachment sits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bytes are answered base64url-encoded with their size beside those bytes.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes the bytes to a file.",
     },
   ],

@@ -63,25 +63,25 @@ export const temperLibZone = {
     "module/zone-types",
     "module/zone-ui-strings",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone name is carried here rather than asked of the game one zone at a time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone geographical parent is stated where the game's own parent is wrong.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone name the running game does not know is dropped as the library loads.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The zone rows are the rows upstream LibZone v8.98 states.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The slash-command autocompletion needs LibSlashCommander loaded first.",
     },
   ],

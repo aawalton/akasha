@@ -7,13 +7,13 @@ export const noticeText = {
   propertySlug: "text",
   definition: "the words a notice hands to the seat the notice reaches",
   extensions: ["md"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice's words sit in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Wrapping is the author's convenience rather than part of the words.",
     },
   ],

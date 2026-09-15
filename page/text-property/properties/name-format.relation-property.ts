@@ -8,9 +8,9 @@ export const nameFormat = {
   definition: "the format a text value is written in",
   nullable: true,
   targetPageType: "page-type/name-format",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page held to no format states null rather than nothing.",
     },
   ],

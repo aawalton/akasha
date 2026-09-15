@@ -9,13 +9,13 @@ export const authorityCertificate = {
   extensions: ["pem"],
   fileName: "ca.crt",
   generated: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The certificate is written in PEM rather than in DER.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "PEM carries a certificate as base64 text.",
     },
   ],

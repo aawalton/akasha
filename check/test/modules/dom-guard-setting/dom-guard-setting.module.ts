@@ -6,17 +6,17 @@ export const domGuardSetting = {
   slug: "dom-guard-setting",
   definition: "halting a component test run without a document and saying how to run it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The test runner preloads the module rather than a test importing the module.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A missing document throws and everything else passes through silently.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The module declares no name a test reaches for.",
     },
   ],

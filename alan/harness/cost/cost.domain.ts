@@ -12,22 +12,22 @@ export const cost = {
     "readout/cost-multiplier",
     "service-workstation/cost-relay-service",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The cost is the multiplier the open block's safety and difficulty price the block at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cost of one multiplier is the most Alan can pay all day without draining.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The color a cost takes is read with the surplus rather than from the cost alone.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A cost nothing can be read for is shown as no signal rather than as a zero.",
     },
   ],

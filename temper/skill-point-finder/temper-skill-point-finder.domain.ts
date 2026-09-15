@@ -30,17 +30,17 @@ export const temperSkillPointFinder = {
     "type-declaration/skill-point-finder-controls",
     "type-declaration/skill-point-finder-string-ids",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A count here is read out of the game rather than out of a capture.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every character on the account is counted from the one saved-variables file.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game reports a skill point only for the character being played.",
     },
   ],

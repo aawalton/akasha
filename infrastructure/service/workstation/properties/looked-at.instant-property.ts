@@ -6,30 +6,30 @@ export const lookedAt = {
   slug: "looked-at",
   propertySlug: "looked-at",
   definition: "when this service last looked at the health of every workstation service",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One service does the looking.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "That service alone states the moment.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The moment moves on every look whether or not any verdict changed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "How long ago the moment was judges a verdict rather than anything on the verdict's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The moment is written after every verdict.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The moment says the whole look landed.",
     },
   ],

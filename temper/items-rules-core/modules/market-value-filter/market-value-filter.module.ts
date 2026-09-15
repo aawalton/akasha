@@ -6,9 +6,9 @@ export const marketValueFilter = {
   slug: "market-value-filter",
   definition: "the Market Value condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the 4 value conditions named in the code.",
     },
   ],

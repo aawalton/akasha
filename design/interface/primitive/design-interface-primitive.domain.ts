@@ -68,13 +68,13 @@ export const designInterfacePrimitive = {
     "module/use-number-draft",
     "module/use-single-flight",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "This manifest leaves out the seven packages only a `.tsx` module here reaches.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The manifest names every package this package reaches.",
     },
   ],

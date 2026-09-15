@@ -6,17 +6,17 @@ export const errorsAddonBuildIds = {
   slug: "errors-addon-build-ids",
   definition: "which add-on a callstack blames and the build that add-on was made from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The blamed folder is the earliest callstack folder the build stamp knows.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A callstack naming no add-on folder blames nobody.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No build stamp is needed for an error to be recorded.",
     },
   ],

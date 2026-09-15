@@ -7,13 +7,13 @@ export const memoryReaperProcScan = {
   definition: "what one process has, and whether that process is a container",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process this module cannot read is passed over rather than refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A process in a rootless-podman cgroup is a container rather than a fleet process.",
     },

@@ -6,17 +6,17 @@ export const deployableAddons = {
   slug: "deployable-addons",
   definition: "the addons a deploy can have",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The addons are answered in the order their canonical names sort.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A roster handed in is taken as the answer to which addons the repository has.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here judges whether an addon is fit to deploy.",
     },
   ],

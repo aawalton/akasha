@@ -6,9 +6,9 @@ export const skillBars = {
   slug: "skill-bars",
   definition: "the primary skill bar and the backup skill bar a character swaps between",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
   ],

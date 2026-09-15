@@ -12,31 +12,31 @@ export const weeklyUsage = {
   colorFrom: "readout/weekly-ends",
   groups: ["readout-group/claude-usage"],
   wireKey: "weekly-usage",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reading is the mean across every account the pool has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account with no percent is left out of the mean rather than counted zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No account with a percent is no reading rather than a mean of zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A percent stated as text is read as the number that percent spells.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The figure is how much of the allowance is spent and the color is how long the allowance has left.",
     },
 
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
   ],

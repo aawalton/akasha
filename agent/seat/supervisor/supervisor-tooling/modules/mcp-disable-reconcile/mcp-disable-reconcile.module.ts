@@ -7,29 +7,29 @@ export const mcpDisableReconcile = {
   definition: "a harness setting that switched a declared tool server off, undone before launch",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A declared server switched off in the harness is switched back on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A server switched off that nothing declares is left switched off.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the project whose real path is the launch directory is touched.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A configuration this module cannot read is left alone rather than rewritten.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing to clear is no plan rather than a plan that changes nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A configuration is rewritten keeping whether that configuration ended in a newline.",
     },

@@ -12,17 +12,17 @@ export const season = {
     { pageProperty: "text-property/poster-path", required: false, many: false },
     { pageProperty: "number-property/vote-average", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The season numbered zero has the episodes sitting outside the run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A season's length is summed from its episodes rather than stated.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A season's number is its position among the seasons of its show.",
     },
   ],

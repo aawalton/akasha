@@ -7,9 +7,9 @@ export const platform = {
   propertySlug: "platform",
   definition: "the machine a player's account is played on",
   values: ["PC", "Xbox", "PlayStation"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The machines are named as The Elder Scrolls Online names those machines.",
     },
   ],

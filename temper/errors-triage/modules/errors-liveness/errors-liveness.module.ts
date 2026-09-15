@@ -6,29 +6,29 @@ export const errorsLiveness = {
   slug: "errors-liveness",
   definition: "whether an error is still happening or was left behind by a mend",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error last seen before its addon was mended is left behind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error unseen for longer than the staleness allowed is left behind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mend weighs ahead of recency.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon outside the repository is judged by recency alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The addon owning an error is read off the first traceback frame.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here opens a file.",
     },
   ],

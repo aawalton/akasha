@@ -6,14 +6,14 @@ export const personaCraft = {
   slug: "persona-craft",
   definition: "an agent making a persona's definition true and her voice her own",
   onCall: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Personas are written so that no two read alike rather than written to a common style.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The method is left to be found by testing variations rather than named up front.",
     },
   ],

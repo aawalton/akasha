@@ -6,18 +6,18 @@ export const venueTraceSaying = {
   slug: "venue-trace-saying",
   definition: "the lines one visit's timing trace is told in, whatever venue the visit was to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bracket is told as its count, its total and its longest turn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A bucket the trace does not carry is told as nil naming the version that fills it.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a file.",
     },
   ],

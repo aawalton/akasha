@@ -6,9 +6,9 @@ export const restartNow = {
   slug: "restart-now",
   definition:
     "a seat's agent started again in the same session without waiting for the turn to end",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This action interrupts the agent's turn.",
     },
   ],

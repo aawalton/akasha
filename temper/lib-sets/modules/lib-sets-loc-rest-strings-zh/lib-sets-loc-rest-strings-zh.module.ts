@@ -6,9 +6,9 @@ export const libSetsLocRestStringsZh = {
   slug: "lib-sets-loc-rest-strings-zh",
   definition: "the library's own interface text in Chinese",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text absent here is taken from the English table.",
     },
   ],

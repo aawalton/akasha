@@ -6,13 +6,13 @@ export const charactersPublicApi = {
   slug: "characters-public-api",
   definition: "the table this add-on publishes for other add-ons and for the keybindings",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name this table publishes keeps the spelling its readers use.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is assigned through a cast rather than a declaration.",
     },
   ],

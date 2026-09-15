@@ -6,21 +6,21 @@ export const useBuildSync = {
   slug: "use-build-sync",
   definition: "a build held in a browser reconciled with the hash the server keeps",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first hash the server gives back resets the local build.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hash the reconciler itself last wrote is not applied again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is written up before the first hash has come down.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One write is in flight at a time.",
     },
   ],

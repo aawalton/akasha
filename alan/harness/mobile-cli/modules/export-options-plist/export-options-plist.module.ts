@@ -6,18 +6,18 @@ export const exportOptionsPlist = {
   slug: "export-options-plist",
   definition: "the plist that tells Xcode which profile signs which bundle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The profile uuids and the certificate hash sit in the plist as shell variable names.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "An app stating no widget bundle id gets no second provisioning-profile entry.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The plist names manual signing rather than automatic.",
     },
   ],

@@ -10,26 +10,26 @@ export const agentRole = {
   runsOnRead: true,
   runsOnWrite: true,
   transitive: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent warrants the role page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
-        "The invariants and directives every role is held to are on the type rather than on any one role.",
+        "The decisions and directives every role is held to are on the type rather than on any one role.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent stating no role of its own warrants the type all the same.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only an agent warrants the role page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A role page type that cannot be found is no warrant.",
     },
   ],

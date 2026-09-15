@@ -6,9 +6,9 @@ export const trackingEntryDate = {
   slug: "tracking-entry-date",
   definition: "a tracking entry for something true of a whole day",
   extends: ["page-type/tracking-entry"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A date entry counts to the day the entry was written in.",
     },
   ],

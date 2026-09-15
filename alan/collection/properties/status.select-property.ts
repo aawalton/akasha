@@ -15,13 +15,13 @@ export const status = {
     "not-applicable",
     "archived",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collection nobody will ever work through is `not-applicable`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collection put out of sight is `archived`.",
     },
   ],

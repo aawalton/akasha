@@ -6,9 +6,9 @@ export const expandTilde = {
   slug: "expand-tilde",
   definition: "a path spelled from home read as the path it is at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A tilde anywhere but the front of a path is left unchanged.",
     },
   ],

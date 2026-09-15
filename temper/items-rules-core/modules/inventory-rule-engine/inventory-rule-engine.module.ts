@@ -6,17 +6,17 @@ export const inventoryRuleEngine = {
   slug: "inventory-rule-engine",
   definition: "the action every category tree node resolves to, given the rules and the tree",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node takes the action of the first rule matching the node.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule on a category reaches every node beneath that category.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node no rule matches resolves to nothing.",
     },
   ],

@@ -6,29 +6,29 @@ export const pushDeviceTokens = {
   slug: "push-device-tokens",
   definition: "the devices one person is pushed at, read through this workstation's own service",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A request goes to the loopback the pages service binds on this workstation.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An origin named in the environment is used unchanged.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The loopback is reached only where the environment names no origin.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The in-cluster service name resolves to nothing on this workstation.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A token list that cannot be read is a throw rather than an empty answer.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here sends a push.",
     },
   ],

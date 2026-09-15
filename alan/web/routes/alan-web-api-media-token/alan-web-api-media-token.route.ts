@@ -7,13 +7,13 @@ export const alanWebApiMediaToken = {
   definition: "the token a reader's browser fetches a medium with",
   code: "ts",
   urlPath: "api/media/token",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A token is good for an hour.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader who is not signed in is refused before the medium is looked for.",
     },
   ],

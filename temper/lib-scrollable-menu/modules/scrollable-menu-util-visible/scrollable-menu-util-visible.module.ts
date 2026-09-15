@@ -6,18 +6,18 @@ export const scrollableMenuUtilVisible = {
   slug: "scrollable-menu-util-visible",
   definition: "the checks over which library dropdowns are currently visible",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A scrollbar click is recognised by comparing against the bar and both arrow buttons.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Visibility is answered by walking the library's list of live menu objects.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The next entry mouse-up is suppressed through a counting preventer variable.",
     },
   ],

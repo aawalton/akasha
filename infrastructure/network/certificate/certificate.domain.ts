@@ -6,17 +6,17 @@ export const certificate = {
   slug: "certificate",
   definition: "a signed statement that a name belongs to whoever answers on it",
   parts: ["page-type/certificate-authority"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A certificate for a public name is issued by an outside authority.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A certificate used inside the cluster is signed by our own authority.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Our own authority's key is not in the repository.",
     },
   ],

@@ -47,10 +47,10 @@ export async function refusalOf(answered: Response): Promise<string> {
 
 const A_TIGHT_CEILING = 40
 
-const EVERY_INVARIANT_KIND = { pageTypeSlug: "invariant-kind", keys: ["slug"] }
+const EVERY_DECISION_KIND = { pageTypeSlug: "decision-kind", keys: ["slug"] }
 
 export function tightly(limit?: number): Promise<Response> {
-  const query = limit === undefined ? EVERY_INVARIANT_KIND : { ...EVERY_INVARIANT_KIND, limit }
+  const query = limit === undefined ? EVERY_DECISION_KIND : { ...EVERY_DECISION_KIND, limit }
   return answering({ ...GIVEN, answeredAtMost: A_TIGHT_CEILING }, asking(query))
 }
 

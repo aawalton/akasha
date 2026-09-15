@@ -7,13 +7,13 @@ export const searchRecipeSubtypeFilter = {
   definition:
     "the specialized item type of a recipe, narrowed by a multiselect of nine recipe subtypes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The nine option values are client specialized item-type numbers 170 through 178.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

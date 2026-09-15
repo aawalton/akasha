@@ -36,34 +36,34 @@ export const readoutScale = {
     { pageProperty: "number-property/blue-at", required: false, many: false },
     { pageProperty: "text-property/earned-color-slug", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A scale is named by the readings drawn against that scale and belongs to no reading.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scale states only the rungs the scale has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Rising numbers make a scale ascend and falling ones descend.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Black is at zero unless a scale moves black.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Orange is a rung a stoplight strip cannot draw.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scale states the color an earned reading takes rather than a rung.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scale stating no earned color has no reading earn a color against that scale.",
     },
   ],

@@ -19,13 +19,13 @@ export const ki = {
     "page-type/ki-season",
     "page-type/ki-show",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pages Ki keeps here are reached by Ki alone among the people outside akasha.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type here serves Ki as the matching page type of Alan's serves Alan.",
     },
   ],

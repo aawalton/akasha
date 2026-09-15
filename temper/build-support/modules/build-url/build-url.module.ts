@@ -6,21 +6,21 @@ export const buildUrl = {
   slug: "build-url",
   definition: "the link one character build or companion build is reached at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character build is linked under the `character-build` page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A companion build is linked under the `companion-build` page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build link has the build's own id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build link takes the readable part of the link from the build's name.",
     },
   ],

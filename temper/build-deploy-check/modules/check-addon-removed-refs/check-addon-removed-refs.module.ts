@@ -6,18 +6,18 @@ export const checkAddonRemovedRefs = {
   slug: "check-addon-removed-refs",
   definition: "the run judging whether an emitted bundle still reaches a removed add-on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The population the run states is the emitted bundles under the build output.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A bundle examined is a bundle whose text was read.",
     },
 
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A bundle no longer on disk is skipped rather than counted as examined.",
     },
   ],

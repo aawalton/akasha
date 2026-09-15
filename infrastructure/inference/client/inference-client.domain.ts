@@ -18,22 +18,22 @@ export const inferenceClient = {
     "module/segment-client",
     "module/voice-clone-client",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A client speaks one service's own wire shape rather than a shape shared here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A client answers with the bytes the service made rather than a path those bytes were written to.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here keeps a record of the run a client asked for.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows which host a service is on.",
     },
   ],

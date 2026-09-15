@@ -39,13 +39,13 @@ export const temperCommand = {
     "module/name-ordering",
     "module/venue-trace-saying",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The temper code a command here works over is in akasha.",
     },
   ],

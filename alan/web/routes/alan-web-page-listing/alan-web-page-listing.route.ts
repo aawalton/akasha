@@ -7,13 +7,13 @@ export const alanWebPageListing = {
   definition: "the pages of one page type, drawn as a list",
   code: "tsx",
   urlPath: ":pageTypeSlug",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The segment in the url is the page type's slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slug reaching no page type is answered 404.",
     },
   ],

@@ -7,29 +7,29 @@ export const inventoryItemData = {
   definition:
     "reading one slot into the saved item shape, with its price source, lock state and junk state",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The price source says whether Tamriel Trade Centre holds a price table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A source answering with no price table is told apart from no price source.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table itself is read rather than the sentence the addon renders about it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slot records whether the game holds the item junk now.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slot records whether the game would let the item be marked junk.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game is asked about junk rather than the answer being worked out here.",
     },
   ],

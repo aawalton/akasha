@@ -6,9 +6,9 @@ export const housingAddonNames = {
   slug: "housing-addon-names",
   definition: "the name and version the housing add-on answers to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name here is the folder name the game loads.",
     },
   ],

@@ -6,21 +6,21 @@ export const achievementCatalogCapture = {
   slug: "achievement-catalog-capture",
   definition: "the achievements by category, read in batches into the add-on's saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The collector adds itself to the catalog registry as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An achievement line is followed from its first achievement onward.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An achievement already seen is not added a second time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Achievements are read in batches so the client keeps its frame rate.",
     },
   ],

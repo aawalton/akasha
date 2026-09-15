@@ -6,17 +6,17 @@ export const scribingCatalogCapture = {
   slug: "scribing-catalog-capture",
   definition: "the scribing grimoires and scripts, read into the add-on's saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The collector adds itself to the catalog registry as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each crafted ability is asked for the scripts of every scribing slot.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A script already read is not read a second time.",
     },
   ],

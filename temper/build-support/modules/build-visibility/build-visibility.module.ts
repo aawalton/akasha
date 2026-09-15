@@ -6,17 +6,17 @@ export const buildVisibility = {
   slug: "build-visibility",
   definition: "how visible a saved build is, taken from the word stored for it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character build and a companion build are visible in the same ways.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stored word naming no visibility is read as private.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "`live` and `target` are visibilities a player never sets directly.",
     },
   ],

@@ -10,21 +10,21 @@ export const changeFileContentPage = {
   definition: "one passage of one page's body replaced, with what that page states judged",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The passage is worked by the change this change reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The imports the body names after the change are judged by the change reached.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here judges the path a passage is worked at.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here works out a body of its own.",
     },
   ],

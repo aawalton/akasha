@@ -7,17 +7,17 @@ export const inventoryRuleClassify = {
   definition:
     "whether a rule belongs on a character card, on a companion card or on a category card",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule the automation settings control is classed by the id those settings gave.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule equipping a companion belongs on a companion card.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule matching neither character nor companion belongs on a category card.",
     },
   ],

@@ -8,21 +8,21 @@ export const supervisorRestartNoticeDecide = {
     "what a restarting seat is told, and whether it is told on the spawn line or the rail",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A restart under maintenance is deferred and told on the rail.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A restart waiting on a re-exec is told on the rail rather than the spawn line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An interrupt message stated with the restart is the notice the seat is told.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The recovery clause follows every notice unless that clause is empty.",
     },
   ],

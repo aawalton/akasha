@@ -7,25 +7,25 @@ export const uuidVersion7 = {
   definition: "a uuid with the moment that uuid was made",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A uuid states version 7.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A uuid is judged version 7 by every part of that uuid rather than by one digit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The leading bytes have the millisecond the uuid was made.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two uuids made in one millisecond are two uuids.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller stating no moment is taken to have said now.",
     },
   ],

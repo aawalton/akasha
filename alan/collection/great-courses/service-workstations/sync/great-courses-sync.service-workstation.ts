@@ -13,30 +13,30 @@ export const greatCoursesSync = {
     catchUp: true,
     startTimeoutSeconds: 1800,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A course sits on a shelf by that shelf's slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "`partOf` is a relation-slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A catalogue link naming no path is resolved against the catalogue's own address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A read answering fewer pages than that read counted is refused rather than returned.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The root's `lastSyncedAt` holds the sync off for thirty days after one lands.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is read or written except through the page query service.",
     },
   ],

@@ -6,30 +6,30 @@ export const seatObservations = {
   slug: "seat-observations",
   definition: "what each feature was last seen doing, and the key saying two readings differ",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change key leaves every timestamp out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keys `at` and `worstAt` are the timestamps left out of a change key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A change key sorts an object's keys rather than keeping the order those keys were set in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An array keeps its order in a change key.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads or writes a file.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows which window wrote a reading.",
     },
   ],

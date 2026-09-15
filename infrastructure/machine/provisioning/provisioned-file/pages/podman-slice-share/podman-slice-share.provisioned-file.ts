@@ -10,17 +10,17 @@ export const podmanSliceShare = {
   onlyOn: "linux",
   installPath: "~/.config/systemd/user/user.slice.d/10-share.conf",
   reloadWith: "systemctl --user daemon-reload",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Podman puts every container it runs rootless in the slice named here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The containers hold the same share as the seats and the services.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A container already running takes the new share without being started again.",
     },
   ],

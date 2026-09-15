@@ -12,21 +12,21 @@ export const emailInbound = {
     "module/persona-channels",
     "module/sender",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches a mail provider.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every judgement here is made from headers alone.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The channel addresses a decision reads are reached from akasha.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A persona's channel address is read off her own page rather than kept here.",
     },
   ],

@@ -31,17 +31,17 @@ export const personaCraftDay = {
     { pageProperty: "number-property/advance-count", required: false, many: false },
     { pageProperty: "number-property/green-day", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The persona named here did the crafting.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The personas crafted are named apart from the crafter.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A craft day is slugged by the crafter and then the day.",
     },
   ],

@@ -6,13 +6,13 @@ export const gameSchema = {
   slug: "game-schema",
   definition: "what a game puts on screen, how often it looks for more, and how it alerts",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An awen game is framed edge to edge and in focus.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sheet panel may only ask for reveal keys the code names.",
     },
   ],

@@ -6,9 +6,9 @@ export const libSetsLocRestStringsRu = {
   slug: "lib-sets-loc-rest-strings-ru",
   definition: "the library's own interface text in Russian",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text absent here is taken from the English table.",
     },
   ],

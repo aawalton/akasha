@@ -6,13 +6,13 @@ export const rootNonceLoader = {
   slug: "root-nonce-loader",
   definition: "the nonce a root route answers to the document that route renders",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A root route names this loader rather than spelling a loader of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The nonce answered is the one the app's server put on the load context.",
     },
   ],

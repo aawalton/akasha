@@ -6,17 +6,17 @@ export const inventoryBankTraceFold = {
   slug: "inventory-bank-trace-fold",
   definition: "folding net-worth walks and settling brackets from a venue trace into totals",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The remainder subtracts only brackets that nest inside no other bracket.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Building facts and judging the ordered rules both sit inside judging a slot.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What an open handler spent sits inside that handler's own time already.",
     },
   ],

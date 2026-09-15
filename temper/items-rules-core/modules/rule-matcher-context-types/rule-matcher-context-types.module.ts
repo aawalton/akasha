@@ -6,13 +6,13 @@ export const ruleMatcherContextTypes = {
   slug: "rule-matcher-context-types",
   definition: "everything a matcher is given to read about the account before judging an item",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A matcher reads the account through this context alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader absent from the context leaves the matching condition unjudged.",
     },
   ],

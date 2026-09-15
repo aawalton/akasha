@@ -6,25 +6,25 @@ export const ttcShoppingOptimizer = {
   slug: "ttc-shopping-optimizer",
   definition: "which listings to buy so that the fewest kiosks are visited",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two items asking the same search ask Tamriel Trade Centre once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with the fewest candidate listings is settled first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One listing answers one item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kiosk with a larger share of the items still wanted breaks a tie on price.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item no listing answers comes back among the missing.",
     },
   ],

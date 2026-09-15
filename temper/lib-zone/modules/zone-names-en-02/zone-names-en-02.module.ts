@@ -6,9 +6,9 @@ export const zoneNamesEn02 = {
   slug: "zone-names-en-02",
   definition: "part 02 of every zone's name in en",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These rows are the rows upstream LibZone v8.98 states.",
     },
   ],

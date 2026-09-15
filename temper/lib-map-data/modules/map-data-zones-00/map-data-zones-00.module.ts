@@ -6,9 +6,9 @@ export const mapDataZones00 = {
   slug: "map-data-zones-00",
   definition: "part 00 of what each zone holds by way of dungeons, events and subzones",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These rows are the rows upstream LibMapData v1.21 states.",
     },
   ],

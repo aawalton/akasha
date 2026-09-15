@@ -6,13 +6,13 @@ export const ruleFingerprint = {
   slug: "rule-fingerprint",
   definition: "one string representing everything a rule matches on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two rules matching the same items have the same fingerprint.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A filter with no condition on a rule adds nothing to that rule's string.",
     },
   ],

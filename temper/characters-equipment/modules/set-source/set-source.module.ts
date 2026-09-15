@@ -7,9 +7,9 @@ export const setSource = {
   definition:
     "one effect source per gear set and piece count, scaled by the quality of the pieces worn",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A source has the bonuses whose piece count the worn count reaches.",
     },
   ],

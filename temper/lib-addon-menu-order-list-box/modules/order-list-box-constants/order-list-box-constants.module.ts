@@ -6,13 +6,13 @@ export const orderListBoxConstants = {
   slug: "order-list-box-constants",
   definition: "the names, textures, sizes and translated words this widget uses",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A control name is built from a template the widget counter fills.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A language the widget has no words for falls back to English.",
     },
   ],

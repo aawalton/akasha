@@ -6,18 +6,18 @@ export const companionLeaderboard = {
   slug: "companion-leaderboard",
   definition: "ranking of companion builds by score across base role combinations",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A build scores through the support optimizer when its base roles include support.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A build ranks only when its visibility is public.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Target filters apply only to combinations that include the damage role.",
     },
   ],

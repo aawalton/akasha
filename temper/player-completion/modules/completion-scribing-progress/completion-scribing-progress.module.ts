@@ -6,13 +6,13 @@ export const completionScribingProgress = {
   slug: "completion-scribing-progress",
   definition: "which grimoires and scripts each character has unlocked",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A character no measurement was taken of is left out.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A script with no item id is left out.",
     },
   ],

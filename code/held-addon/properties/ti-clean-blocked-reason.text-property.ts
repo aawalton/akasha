@@ -8,13 +8,13 @@ export const tiCleanBlockedReason = {
   definition: "what keeps an addon from reaching ti-clean",
   maxLength: 1000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon naming a reason here is blocked rather than backlog.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reason names the call sites the addon cannot convert.",
     },
   ],

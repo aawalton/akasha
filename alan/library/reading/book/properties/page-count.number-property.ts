@@ -7,13 +7,13 @@ export const pageCount = {
   propertySlug: "page-count",
   definition: "how many pages an edition runs to",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page count is the edition's rather than the book's.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No length counted in words is read off a page count.",
     },
   ],

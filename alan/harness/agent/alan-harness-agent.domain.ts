@@ -6,29 +6,29 @@ export const alanHarnessAgent = {
   slug: "alan-harness-agent",
   definition: "how Alan meets the system through his agents",
   parts: ["domain/alan-harness-agent-annoyance"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Alan reaches an agent on whatever channel Alan is holding.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Alan answers one item in a message.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A question to Alan is a question only Alan can answer.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every message to Alan is warm.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every message to Alan is feminine.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every message to Alan is enthusiastic.",
     },
   ],

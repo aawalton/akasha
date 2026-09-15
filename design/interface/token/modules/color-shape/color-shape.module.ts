@@ -6,9 +6,9 @@ export const colorShape = {
   slug: "color-shape",
   definition: "the shape a color is written in, and the reading of a hex into it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The shape every color in this package is written in is declared here.",
     },
   ],

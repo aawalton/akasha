@@ -6,13 +6,13 @@ export const slashCommanderEntry = {
   slug: "slash-commander-entry",
   definition: "the global the game reads the slash command library from once the addon loads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bundle the transpiler writes starts here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every part of the library is loaded before the chat entry is hooked.",
     },
   ],

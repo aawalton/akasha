@@ -8,9 +8,9 @@ export const mediaVariantAxis = {
   definition: "what a page's audio is rendered once per, so one page has several renditions",
   maxLength: 64,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type naming no axis has one rendition of each page.",
     },
   ],

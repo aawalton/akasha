@@ -13,41 +13,41 @@ export const dayReadoutWatchService = {
     restartDelaySeconds: 5,
     startLimitIntervalSeconds: 0,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The unit running the watch is simple rather than a timer.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Repeated starts are counted over no window.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A round of takes landing is what says this watch is working.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The window holds three beats, so two missed rounds are not yet broken.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A watch that starts over and over without a round landing reads as broken.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A watch left again on a file changing lands a round and reads as well.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A watch failing all night keeps on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The sites the readings are carried to are named by the watch rather than here.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The timers carrying these readings run whatever this service does.",
     },
   ],

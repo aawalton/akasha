@@ -8,22 +8,22 @@ export const filePurpose = {
   parts: ["file-purpose/test-ts", "file-purpose/test-tsx"],
   extends: ["page-type/domain"],
   properties: [],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A purpose is told from a file's name rather than from the file's body.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A kind says the format a file is written in and a purpose says the use that file is written for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One file has a kind and a purpose at once.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The ending a purpose claims has no property here yet.",
     },
   ],

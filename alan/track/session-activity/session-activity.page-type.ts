@@ -13,13 +13,13 @@ export const sessionActivity = {
     { pageProperty: "text-property/icon", required: false, many: false },
     { pageProperty: "number-property/seq", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A session naming no activity states its own difficulty instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An activity is matched to a session by the session's title.",
     },
   ],

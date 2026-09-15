@@ -10,17 +10,17 @@ export const tabooSenses = {
     { pageProperty: "text-property/sense", required: true, many: false },
     { pageProperty: "text-property/instead", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One list has every sense a term bars.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A taboo sense bars one sense of the term.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sense is alone among the senses one term bars.",
     },
   ],

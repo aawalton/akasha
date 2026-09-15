@@ -21,58 +21,58 @@ export const testFixture = {
     { pageProperty: "code-file-property/code", required: true, many: false },
     { pageProperty: "code-file-property/test", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fixture holds what a test is set up with rather than what a test proves.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scaffolding one module's tests alone need sits beside that module instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test or another fixture is what reaches a fixture.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fixture's own test proves the fixture rather than the system.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A fixture holds no fixtures of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fixture nothing but fixtures' own tests reach is unused code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fixture has the page that fixture needs rather than restating its values.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fixture invents a page only where no page represents what the test needs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page a fixture invents has a slug no page in the tree has.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "A fixture stating the values of a page it does not import has nothing keeping the two alike.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fixture sits in a world the system could have built.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing says a fixture has fallen behind the system that fixture feeds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A system reading the pages' declarations refuses a world declaring no property unique.",
     },

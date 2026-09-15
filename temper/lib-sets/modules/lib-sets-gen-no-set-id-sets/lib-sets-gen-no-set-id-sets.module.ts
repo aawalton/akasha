@@ -6,13 +6,13 @@ export const libSetsGenNoSetIdSets = {
   slug: "lib-sets-gen-no-set-id-sets",
   definition: "the sets the game names without giving a set id",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is ported from the upstream library at a pinned commit.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The table is empty at the pinned commit.",
     },
   ],

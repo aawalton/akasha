@@ -6,30 +6,30 @@ export const mapDataUpstreamPort = {
   slug: "map-data-upstream-port",
   definition: "the map tables upstream LibMapData carries, copied out as TypeScript",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tables are serialized by Lua rather than carried across as values.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run leaving the map table empty is refused rather than written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The pseudo map indices are gathered from the globals the upstream file names those indices on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run capturing no pseudo map index is refused rather than written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The ported file names the upstream version the data came out of.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The file written is named to the caller as soon as that file is written.",
     },
   ],

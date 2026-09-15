@@ -7,21 +7,21 @@ export const alanWebPageDetail = {
   definition: "one page, drawn as the kind of page it is",
   code: "tsx",
   urlPath: ":pageTypeSlug/:pageHrefParam",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav page is drawn as the page that nav item points at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every other page is drawn by the component its page type names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Asking for properties draws the properties rather than that component.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change to the speed or the variant asked for does not load the page again.",
     },
   ],

@@ -6,21 +6,21 @@ export const dayNarrowTypes = {
   slug: "day-narrow-types",
   definition: "the narrow types the daily tracking readers share",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A type here names no store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An ask that cannot answer has the reason rather than throwing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row names its page rather than a file path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A count is taken before any limit.",
     },
   ],

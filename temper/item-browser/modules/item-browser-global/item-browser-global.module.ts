@@ -6,9 +6,9 @@ export const itemBrowserGlobal = {
   slug: "item-browser-global",
   definition: "the three row handlers this add-on's own markup calls back into",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This global is the add-on's own name rather than a name the game owns.",
     },
   ],

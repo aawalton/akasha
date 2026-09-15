@@ -9,35 +9,35 @@ export const nameSubagent = {
   test: "ts",
   runsAt: ["PreToolUse"],
   overTools: ["Bash"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is honoured only where the seat's own id begins the name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A call the seat makes has nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The name reaches a command through the environment of the call the command runs in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A name with a character no id is written in is left off rather than spelled into a command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A payload naming no subagent leaves the call as the call is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This hook changes the command a call runs rather than judging that call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This hook refuses nothing.",
     },
   ],

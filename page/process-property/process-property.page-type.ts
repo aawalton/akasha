@@ -6,26 +6,26 @@ export const processProperty = {
   slug: "process-property",
   definition: "a page property with one run of one program",
   extends: ["page-type/page-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A process is its pid and the start time the kernel fixed at exec joined by a hyphen.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pid is handed out again once its process ends.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The start time is counted in clock ticks after the machine booted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process names its run within one boot.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An existing process is the process named only where the start time read now matches the time held.",
     },

@@ -6,33 +6,33 @@ export const slashCommand = {
   slug: "slash-command",
   definition: "one slash command, its aliases, its callback and the commands beneath it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Calling a command with text matching a subcommand alias calls that subcommand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The text after the matched alias is handed on to the subcommand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Calling a command with no callback raises an error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An alias added to a command is added to the parent as a subcommand alias.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A command already carrying a parent may not be given a second parent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Registering the first subcommand turns completion on for the parent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Unregistering the last subcommand turns completion off again.",
     },
   ],

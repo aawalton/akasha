@@ -7,9 +7,9 @@ export const collectionPublishedAt = {
   propertySlug: "published-at",
   definition: "when a collection was released, to the day or to the moment",
   members: ["calendar-date-property/published-day", "instant-property/published-at"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A release known only to the day is written as a day rather than as midnight.",
     },
   ],

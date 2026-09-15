@@ -18,17 +18,17 @@ export const syncRuns = {
     { pageProperty: "number-property/failed-count", required: false, many: false },
     { pageProperty: "text-property/run-error-message", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run names no source.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run sits beside the sync that run was a pull of.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run reporting no counts failed before reaching anything to count.",
     },
   ],

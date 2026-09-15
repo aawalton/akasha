@@ -6,17 +6,17 @@ export const companionSupportEvaluator = {
   slug: "companion-support-evaluator",
   definition: "assembly of the three support rotation metrics from a companion stats result",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The support damage metric is multiplied by four before that metric is returned.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The support score weighs toughness at one tenth of damage.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A stats result without a rotation yields no support metrics.",
     },
   ],

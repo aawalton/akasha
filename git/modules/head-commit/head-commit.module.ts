@@ -7,13 +7,13 @@ export const headCommit = {
   definition: "the commit a checkout's HEAD is at",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The commit at HEAD is read from git rather than carried by a caller.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The commit is answered as the hash naming it.",
     },
   ],

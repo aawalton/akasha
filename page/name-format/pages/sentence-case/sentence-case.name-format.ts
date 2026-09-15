@@ -7,13 +7,13 @@ export const sentenceCase = {
   definition: "a name format separating words with spaces, capitalized as a sentence is",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Only the opening capital and the single spaces parting the words are judged.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A proper noun cannot be told from the name.",
     },
   ],

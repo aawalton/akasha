@@ -7,9 +7,9 @@ export const firstChapter = {
   propertySlug: "first-chapter",
   definition: "the number of the earliest chapter a page draws on",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter is counted here rather than named.",
     },
   ],

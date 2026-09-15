@@ -7,13 +7,13 @@ export const stockDestinationPlanner = {
   definition:
     "where a stack of stocked items goes across characters and down a chain of destinations",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character already with the target count takes no part of the stack.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The surplus cascades down the tiers in the order the chain gives.",
     },
   ],

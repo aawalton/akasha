@@ -6,13 +6,13 @@ export const libSetsTipState = {
   slug: "lib-sets-tip-state",
   definition: "the mutable tooltip state holding setting flags and per-set scratch tables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One shared object has the state for every tooltip the library touches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scratch tables are cleared and refilled for each set rather than made fresh.",
     },
   ],

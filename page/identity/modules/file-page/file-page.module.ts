@@ -6,21 +6,21 @@ export const filePage = {
   slug: "file-page",
   definition: "the id and slug a file's page carries, worked out from where the file sits",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stated id or slug is kept rather than worked out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An id worked out from where a file sits is a uuid version 5 over that address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a markdown file's address yields a slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file's stem is the part before its first dot.",
     },
   ],

@@ -6,17 +6,17 @@ export const addonMenuWidgetColorpicker = {
   slug: "addon-menu-widget-colorpicker",
   definition: "the color swatch widget of the settings panel",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The swatch hands four separate channel numbers to setFunc rather than a table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A default color is read from a table of r and g and b and a fields.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Gamepad mode opens a different color picker than keyboard mode.",
     },
   ],

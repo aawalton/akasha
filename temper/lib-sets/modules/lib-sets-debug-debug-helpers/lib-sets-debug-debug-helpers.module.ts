@@ -6,13 +6,13 @@ export const libSetsDebugDebugHelpers = {
   slug: "lib-sets-debug-debug-helpers",
   definition: "the set ids missing from the preloaded tables and the squeeze on item id lists",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run of consecutive item ids is written as a start value and a count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Set ids named as belonging to a newer API version count as new on a live client.",
     },
   ],

@@ -25,21 +25,21 @@ export const vendoredWorkload = {
     { pageProperty: "text-property/namespace", required: true, many: false },
     { pageProperty: "text-property/resource-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A vendored workload is one resource with a pod template.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A vendored workload's manifests come from outside this repository.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A vendored workload names no image and no manifest code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A workload this repository emits manifests for is a cluster service rather than a vendored workload.",
     },

@@ -7,9 +7,9 @@ export const ownProgress = {
   propertySlug: "own-progress",
   definition: "how far through a collection a person has got, counted in its own unit",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Progress is read against the collection's own length rather than against its parts.",
     },

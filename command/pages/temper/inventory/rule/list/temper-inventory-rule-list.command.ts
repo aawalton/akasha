@@ -6,21 +6,21 @@ export const temperInventoryRuleList = {
   slug: "temper-inventory-rule-list",
   definition: "the command naming every category rule in the priority order the addon reads them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The controlled rules come before the rules a person wrote.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The position column is the index a reorder names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order given is the order the addon reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule is named by the title that rule carries beside its id.",
     },
   ],

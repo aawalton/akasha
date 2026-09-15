@@ -6,13 +6,13 @@ export const orderListBoxListMethods = {
   slug: "order-list-box-list-methods",
   definition: "the methods filling, refreshing and reordering the rows of the list",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row's position is read off the list rather than kept on the row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reordering the rows rewrites the caller's entry list in place.",
     },
   ],

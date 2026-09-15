@@ -6,9 +6,9 @@ export const specialEffectTypes = {
   slug: "special-effect-types",
   definition: "the ten skill effects no damage number or heal number says",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
   ],

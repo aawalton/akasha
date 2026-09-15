@@ -6,9 +6,9 @@ export const housingDropdowns = {
   slug: "housing-dropdowns",
   definition: "the drop-downs choosing a library filter, a library sort and a house sort",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The drop-down choices a player last made are kept in saved variables.",
     },
   ],

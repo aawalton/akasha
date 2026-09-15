@@ -6,13 +6,13 @@ export const ruleMatcherContext = {
   slug: "rule-matcher-context",
   definition: "everything a rule is judged against, gathered into one value",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The half derived from builds is gathered apart from the half read off inventory.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The build-derived half is reusable across many inventory readings.",
     },
   ],

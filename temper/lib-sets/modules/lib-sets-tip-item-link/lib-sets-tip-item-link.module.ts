@@ -6,17 +6,17 @@ export const libSetsTipItemLink = {
   slug: "lib-sets-tip-item-link",
   definition: "the item link dug out of whatever row control the mouse is over",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The control is recognised by its name for each game window handled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Another addon's row control is reached by name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A craftable set node yields a link built from the set's first item id.",
     },
   ],

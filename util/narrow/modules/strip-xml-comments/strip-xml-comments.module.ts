@@ -7,13 +7,13 @@ export const stripXmlComments = {
   definition: "markup with every comment blanked out and every line left where that line was",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A comment becomes blanks rather than going, so a position still names its place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A newline inside a comment is kept, so a line number still names its line.",
     },
   ],

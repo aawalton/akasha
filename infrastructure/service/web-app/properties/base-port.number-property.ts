@@ -7,14 +7,14 @@ export const basePort = {
   propertySlug: "base-port",
   definition: "the port a web app's dev server counts up from",
   max: 65535,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The port is stated on the page rather than written into the code that starts the dev server.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hundred ports from the base port belong to the web app stating the base port.",
     },
   ],

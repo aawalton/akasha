@@ -7,17 +7,17 @@ export const manifestCode = {
   propertySlug: "code",
   definition: "the code a manifest is",
   extensions: ["ts"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Manifest code is written in TypeScript.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path this code spells is a path inside a container.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code builds resources rather than applying those resources.",
     },
   ],

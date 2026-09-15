@@ -7,9 +7,9 @@ export const whatTried = {
   propertySlug: "what-tried",
   definition: "the thing put on and what it was put on with",
   extensions: ["txt"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This file has the garments themselves rather than how those garments came out.",
     },
   ],

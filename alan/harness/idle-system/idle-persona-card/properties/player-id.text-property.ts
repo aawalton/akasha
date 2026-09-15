@@ -8,13 +8,13 @@ export const playerId = {
   definition: "the player whose card it is",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "Two of the three players named here are pages and the third is not.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a player.",
     },
   ],

@@ -11,13 +11,13 @@ export const job = {
     "module/deploy-job",
     "module/deploy-job-running",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job that fails leaves its object behind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A later run succeeding does not remove the object a failed job left.",
     },
   ],

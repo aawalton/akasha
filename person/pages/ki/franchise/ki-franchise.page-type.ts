@@ -6,17 +6,17 @@ export const kiFranchise = {
   slug: "ki-franchise",
   definition: "the shows and movies Ki watches that share one world",
   extends: ["page-type/ki-collection-template"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A franchise of Ki's names the shows that franchise takes in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A franchise of Ki's names the movies that franchise takes in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A show or movie named by a franchise of Ki's names that franchise back.",
     },
   ],

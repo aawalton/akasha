@@ -6,34 +6,34 @@ export const monarchEvalSnapshot = {
   slug: "monarch-eval-snapshot",
   definition: "the mark every Monarch page family has, so a run can say nothing moved",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A family's mark is its page count and a hash over every page's path and bytes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Pages are hashed in path order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Transactions are marked from their sidecars rather than from the month pages.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A month with no sidecar is hashed as having no sidecar rather than failing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A move is said family by family as the mark before and the mark after.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A family present on one side and absent on the second is said as absent rather than passed over.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes.",
     },
   ],

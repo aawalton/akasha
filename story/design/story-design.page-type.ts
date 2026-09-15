@@ -60,26 +60,26 @@ export const storyDesign = {
     { pageProperty: "text-property/gbww-readings", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A design says how a story is meant to read rather than the words the story says.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story has one design.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A design states a property only where the design settled that property.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The prose a design settled in that is too long for a property is carried beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words a design has are the story's rather than akasha's own.",
     },
   ],

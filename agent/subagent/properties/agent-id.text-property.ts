@@ -8,17 +8,17 @@ export const agentId = {
   definition: "the id an agent acts under",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent id reaches the page whose readings are that agent's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subagent's agent id joins its seat's id to the id the subagent runs under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two hyphens part the seat's id from the id the subagent runs under.",
     },
   ],

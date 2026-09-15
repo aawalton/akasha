@@ -7,21 +7,21 @@ export const inventoryConstantsCatalogCapture = {
   definition:
     "the game's inventory enumerations, read out of the client into the add-on's saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The collector adds itself to the catalog registry as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every enumeration is gathered in one pass with no batching.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each label table is built by the one loop that names a string prefix.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the player's own inventory.",
     },
   ],

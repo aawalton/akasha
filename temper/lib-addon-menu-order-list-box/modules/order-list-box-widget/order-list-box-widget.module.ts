@@ -6,13 +6,13 @@ export const orderListBoxWidget = {
   slug: "order-list-box-widget",
   definition: "the panel row LibAddonMenu-2.0 builds when an addon asks for an order list box",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The widget is built from the same data shape every LAM-2.0 widget takes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel closing turns off the drag handlers the widget left on.",
     },
   ],

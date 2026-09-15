@@ -62,34 +62,34 @@ export const routerApp = {
     { pageProperty: "build-folder-property/bundle-directory", required: false, many: false },
     { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One table names every route a router app serves.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route is reached by the path the table names rather than by its own file name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The names the router fixes are beside the package's manifest.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The tsconfig naming a fixed name gives that name the package's path mappings.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The router bundles to the browser whatever a route module exports beyond its loader and its action.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route module exports its loader and its action alone.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A request whose method is OPTIONS reaches a route's loader rather than its action.",
     },

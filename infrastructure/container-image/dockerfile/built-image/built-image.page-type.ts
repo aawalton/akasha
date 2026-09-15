@@ -26,26 +26,26 @@ export const builtImage = {
     { pageProperty: "text-property/image-repository", required: false, many: false },
     { pageProperty: "module-property-group/extending", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An image's Dockerfile is written from the image's stated values rather than kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image states the sort of Dockerfile written for that image.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image adding to its Dockerfile keeps the addition beside its own page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image adding nothing states no extensions.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image naming no package installer is built with apk.",
     },
   ],

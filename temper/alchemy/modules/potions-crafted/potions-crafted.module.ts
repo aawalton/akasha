@@ -6,13 +6,13 @@ export const potionsCrafted = {
   slug: "potions-crafted",
   definition: "every crafted essence, gathered into one table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A crafted potion's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A crafted potion moved to another place breaks every build hash saved.",
     },
   ],

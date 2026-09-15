@@ -6,9 +6,9 @@ export const characterCaptureSkillLineRanks = {
   slug: "character-capture-skill-line-ranks",
   definition: "each skill line's place in a build hash, its top rank and its order",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
   ],

@@ -6,13 +6,13 @@ export const weaponBars = {
   slug: "weapon-bars",
   definition: "the primary bar and the backup bar a character swaps between in combat",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A weapon bar's place in this table is the precedence an addon reads the bar in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A weapon bar moved to another place changes which bar an addon prefers.",
     },
   ],

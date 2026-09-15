@@ -51,35 +51,35 @@ export const learnEverythingTopic = {
     { pageProperty: "file-property/bites", required: false, many: false },
     { pageProperty: "file-property/topic-evidence", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every level of the map is a topic.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The whole of the map is a topic.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A topic's mastery level is judged by hand and its coverage worked out from beneath that topic.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A topic states no coverage of its own.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each of a topic's five readings is a file beside the topic's page.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A reading nothing has been written into is no file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A topic named for the number that topic opens with is slugged for its page type first.",
     },

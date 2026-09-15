@@ -6,13 +6,13 @@ export const setsData052 = {
   slug: "sets-data-052",
   definition: "part 052 of the gear set table, law-of-julianos through lekis-focus",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The sets are named here in the order the gathered table answers its ids in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A set moved to another place breaks every build hash saved.",
     },
   ],

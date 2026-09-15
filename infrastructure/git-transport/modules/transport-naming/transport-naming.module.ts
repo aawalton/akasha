@@ -6,13 +6,13 @@ export const transportNaming = {
   slug: "transport-naming",
   definition: "the names and labels every resource of this workload carries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is spelled here once and every resource takes the name from here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pod carries labels beyond the labels that pod is selected by.",
     },
   ],

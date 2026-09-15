@@ -16,14 +16,14 @@ export const zimage = {
     "shell-script/zimage-smoke",
     "shell-script/zimage-up",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every checkpoint here loads through the stock nodes rather than a quantised loader.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A prompt file may pin the seed the render is drawn with.",
     },
   ],

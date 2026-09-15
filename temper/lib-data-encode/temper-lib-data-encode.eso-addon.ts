@@ -21,38 +21,38 @@ export const temperLibDataEncode = {
     "module/data-encode-types",
     "type-declaration/data-encode-entry-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Encoding a table and decoding the text again answers the table encoded.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The alphabet leaves out every character the game reads as markup.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A control character is never a character of the alphabet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A value seen at least three times is put in a dictionary and referred to by index.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller may hand in a dictionary rather than have the encoder work one out.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An encoded line runs to no more than 998 characters.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A function met while encoding is skipped rather than encoded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game reaches the library through one global name.",
     },
   ],

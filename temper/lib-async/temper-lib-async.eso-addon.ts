@@ -27,37 +27,37 @@ export const temperLibAsync = {
     "module/async-types",
     "type-declaration/async-saved-vars-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Work handed in is run in slices rather than in a single call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slice is bounded by a share of the frame the game is drawing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A time here is seconds read from the game's own frame and update clocks.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here reaches the Lua `os` table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A task has a callstack of steps rather than a Lua coroutine.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Another addon reaches this library only through the global name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The debug logger is used where the debug logger is loaded and skipped otherwise.",
     },
   ],

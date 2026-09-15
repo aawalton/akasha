@@ -7,34 +7,34 @@ export const smsOptIn = {
   definition: "the form a person opts in to text messages through",
   code: "tsx",
   test: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A person opts in only by checking the box themselves.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wording shown beside the box is the whole wording the consent module states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field no person is shown catches a caller filling every field.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal the route states is shown as the refusal was given.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes the consent down.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The wording and the links beside the box read as one sentence rather than as a row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each link beside the box reaches a whole document rather than a section here.",
     },
   ],

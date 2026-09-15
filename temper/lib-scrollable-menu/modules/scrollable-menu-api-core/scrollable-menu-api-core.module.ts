@@ -6,22 +6,22 @@ export const scrollableMenuApiCore = {
   slug: "scrollable-menu-api-core",
   definition: "the globals that add a scrollable dropdown to a combobox and add one menu entry",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The supplied container must already have a ZO_ComboBox instance or the call errors.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Entry validation failures are raised as errors rather than returned as a result.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Persistent-menu state is a plain field on the library object.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A divider entry has its callback discarded.",
     },
   ],

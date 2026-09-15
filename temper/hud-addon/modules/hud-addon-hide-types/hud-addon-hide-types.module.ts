@@ -6,13 +6,13 @@ export const hudAddonHideTypes = {
   slug: "hud-addon-hide-types",
   definition: "what a request to hide a HUD part states and what the worked-out plan states",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A registration says how to reach its part rather than holding the part.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plan entry has the mechanism the catalog gives its part.",
     },
   ],

@@ -6,13 +6,13 @@ export const setsData013 = {
   slug: "sets-data-013",
   definition: "part 013 of the gear set table, blackfeather-flight through bloodlords-embrace",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The sets are named here in the order the gathered table answers its ids in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A set moved to another place breaks every build hash saved.",
     },
   ],

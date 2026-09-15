@@ -7,9 +7,9 @@ export const targetQuantity = {
   propertySlug: "target-quantity",
   definition: "how many of an item one leg of a destination chain takes",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A leg stating no quantity takes every item reaching that leg.",
     },
   ],

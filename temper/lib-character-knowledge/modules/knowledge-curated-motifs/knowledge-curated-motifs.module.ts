@@ -6,9 +6,9 @@ export const knowledgeCuratedMotifs = {
   slug: "knowledge-curated-motifs",
   definition: "which motif book carries which style and chapter",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reading the numbered entries misses the named entry beside the numbered entries.",
     },
   ],

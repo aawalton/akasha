@@ -9,43 +9,43 @@ export const blockBunTest = {
   test: "ts",
   runsAt: ["PreToolUse"],
   overTools: ["Bash"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A `bun test` made inside the checkout is refused whatever paths that call names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A `bun test` this reads as a command word is refused whatever paths it names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The refusal names the apply rather than the draft as where the tests run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A prefix that only runs the call behind that prefix does not hide a `bun test` from this hook.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No word after the act is read.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "`bun run test` is not read here.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "`bun test` runs a filter over every test file rather than a path `bun test` is handed.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The repository root is the akasha folder.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every test file the akasha folder has is an akasha test.",
     },
   ],

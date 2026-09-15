@@ -6,13 +6,13 @@ export const esoTraitMap = {
   slug: "eso-trait-map",
   definition: "which numbered Elder Scrolls Online trait a player trait answers to, by gear family",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Weapon armor and jewelry each number their traits differently.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reverse map is worked out at load rather than written out.",
     },
   ],

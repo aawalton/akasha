@@ -8,9 +8,9 @@ export const visibleProperties = {
   definition: "the properties a view draws",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property is named by the key its declaration states.",
     },
   ],

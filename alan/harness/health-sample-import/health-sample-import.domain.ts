@@ -16,18 +16,18 @@ export const healthSampleImport = {
     "module/laptop-host",
     "module/verdict-reading",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading is fetched over a shell rather than from anything the machine with the export serves.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An import that stops part way is resumed rather than started again.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decides the meaning of a reading.",
     },
   ],

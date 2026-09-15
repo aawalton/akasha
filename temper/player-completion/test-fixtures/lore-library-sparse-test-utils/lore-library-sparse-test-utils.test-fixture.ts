@@ -6,9 +6,9 @@ export const loreLibrarySparseTestUtils = {
   slug: "lore-library-sparse-test-utils",
   definition: "a sparse lore library capture a test makes from the real table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capture asked to be short is short by the first book of the first collection.",
     },
   ],

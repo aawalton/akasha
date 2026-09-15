@@ -7,9 +7,9 @@ export const estimatedCalories = {
   propertySlug: "estimated-calories",
   definition: "the calories one thing eaten was reckoned to hold",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A calorie estimate is captured by judgment.",
     },
   ],

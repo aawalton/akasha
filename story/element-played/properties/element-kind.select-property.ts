@@ -7,13 +7,13 @@ export const elementKind = {
   propertySlug: "element-kind",
   definition: "whether an element wants or only tends",
   values: ["agent", "setting"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent is an element that wants something of the story.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting is an element whose wanting is law rather than desire.",
     },
   ],

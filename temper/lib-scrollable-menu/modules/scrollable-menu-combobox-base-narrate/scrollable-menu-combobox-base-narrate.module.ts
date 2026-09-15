@@ -6,21 +6,21 @@ export const scrollableMenuComboboxBaseNarrate = {
   slug: "scrollable-menu-combobox-base-narrate",
   definition: "the dispatch of a narration event to the addon callback and then to the reader",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each narration event has its own fixed callback argument signature.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Narration is skipped entirely while the UI reader is off.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An event with no signature entry is dropped silently.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The addon callback must return a string for anything to be spoken.",
     },
   ],

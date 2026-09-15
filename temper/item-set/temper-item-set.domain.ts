@@ -6,9 +6,9 @@ export const temperItemSet = {
   slug: "temper-item-set",
   definition: "the item set collections the game's client answers about",
   parts: ["module/item-set-categories"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This code is compiled to Lua and runs inside the game.",
     },
   ],

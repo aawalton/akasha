@@ -8,17 +8,17 @@ export const providerModel = {
   definition: "the model akasha asks a provider for by the provider's own name",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name is the provider's own rather than the name the caller asked for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name of the provider's own is served by that model rather than mapped to one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A provider akasha asks for whatever the caller asked for states none.",
     },
   ],

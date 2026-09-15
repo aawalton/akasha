@@ -8,13 +8,13 @@ export const luaExport = {
   definition: "the name a compiled helper is reached by in Lua",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A name here is chosen outside akasha.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name is stated rather than worked out from the page's slug.",
     },
   ],

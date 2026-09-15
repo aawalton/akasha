@@ -6,25 +6,25 @@ export const serviceRole = {
   slug: "service-role",
   definition: "the Supabase client acting as the service role, past every row policy",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The URL is read from the environment when the caller names no URL.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key is read from the environment when the caller names no key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A request outrunning its timeout is aborted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error body that is not JSON comes back summarised rather than whole.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A request is given thirty seconds unless the caller says otherwise.",
     },
   ],

@@ -6,13 +6,13 @@ export const hudSceneFragments = {
   slug: "hud-scene-fragments",
   definition: "the HUD parts one scene adds for itself",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part here belongs to the one scene adding the part.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part here is hidden by the scene rather than by the fragment group.",
     },
   ],

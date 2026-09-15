@@ -7,9 +7,9 @@ export const topicMasteryLevel = {
   propertySlug: "mastery-level",
   definition: "the rung a topic is scored at",
   targetPageType: "page-type/mastery-level",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic is scored at one rung.",
     },
   ],

@@ -7,21 +7,21 @@ export const checkEquipTarget = {
   definition:
     "the condition check over whether an item is equipment a character or companion wants",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A missing equipType or traitType or quality makes the condition indeterminate.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first missing field of those three is reported as the missing signal.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Character equipment and companion equipment are separate environment lookups.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reports which character wants the equipment.",
     },
   ],

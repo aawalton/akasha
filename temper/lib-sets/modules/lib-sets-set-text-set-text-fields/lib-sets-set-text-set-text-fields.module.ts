@@ -6,14 +6,14 @@ export const libSetsSetTextSetTextFields = {
   slug: "lib-sets-set-text-set-text-fields",
   definition: "which pieces of a set's text are worth computing and the computing of them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A piece is skipped when neither the settings nor the pattern asks for that piece.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Drop text identical to the set type text is emptied out.",
     },
   ],

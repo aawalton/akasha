@@ -27,8 +27,8 @@ export const held = {
   pageTypeSlug: "module",
   slug: "held",
   code: "ts",
-  invariants: [
-    { invariantKind: "departure", statement: "the first" },
+  decisions: [
+    { decisionKind: "departure", statement: "the first" },
   ],
 } as const satisfies Module
 `
@@ -39,12 +39,12 @@ function worldTold(): World {
   return worldFor(PAGE, BODY, running)
 }
 
-const RECORD = '{ invariantKind: "gap", statement: "the second" }'
+const RECORD = '{ decisionKind: "gap", statement: "the second" }'
 
 test("a record is put in as the body spells it rather than quoted", async () => {
   const said = await addPropertyRecord(worldTold(), {
     at: AT,
-    key: "invariants",
+    key: "decisions",
     record: RECORD,
   })
 
@@ -55,7 +55,7 @@ test("a record is put in as the body spells it rather than quoted", async () => 
 test("text parsing as no record is refused", async () => {
   const said = await addPropertyRecord(worldTold(), {
     at: AT,
-    key: "invariants",
+    key: "decisions",
     record: "the second",
   })
 
@@ -64,7 +64,7 @@ test("text parsing as no record is refused", async () => {
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {
-  const said = await runChange(worldTold(), { at: AT, key: "invariants" })
+  const said = await runChange(worldTold(), { at: AT, key: "decisions" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`record` names what this change is handed/)
@@ -80,7 +80,7 @@ test("the record is handed to the change reached at the address that change name
     },
   }
 
-  await addPropertyRecord(seeing, { at: AT, key: "invariants", record: RECORD })
+  await addPropertyRecord(seeing, { at: AT, key: "decisions", record: RECORD })
 
   expect(reached).toEqual([ADDRESS])
 })
@@ -95,9 +95,9 @@ test("`after` is left out where the pages of this page's type write the key nowh
     },
   }
 
-  await runChange(seeing, { at: AT, key: "invariants", record: RECORD })
+  await runChange(seeing, { at: AT, key: "decisions", record: RECORD })
 
-  expect(handed).toEqual({ at: AT, key: "invariants", record: RECORD })
+  expect(handed).toEqual({ at: AT, key: "decisions", record: RECORD })
 })
 
 const SIBLINGS = new Map<string, Value>([
@@ -138,7 +138,7 @@ test("`after` is handed on where the caller states `after`", async () => {
     },
   }
 
-  await runChange(seeing, { at: AT, key: "invariants", record: RECORD, after: "code" })
+  await runChange(seeing, { at: AT, key: "decisions", record: RECORD, after: "code" })
 
-  expect(handed).toEqual({ at: AT, key: "invariants", record: RECORD, after: "code" })
+  expect(handed).toEqual({ at: AT, key: "decisions", record: RECORD, after: "code" })
 })

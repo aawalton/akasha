@@ -7,9 +7,9 @@ export const mediaPcBackupfontJp = {
   definition: "the fallback fonts a Windows or Mac client loads for Japanese",
   markup: "xml",
   loadedAs: "PC/backupfont_jp.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fallback font is loaded only where the client runs this language.",
     },
   ],

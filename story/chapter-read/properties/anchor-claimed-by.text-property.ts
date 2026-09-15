@@ -8,9 +8,9 @@ export const anchorClaimedBy = {
   definition: "who in the story said the anchor",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An anchor the story itself tells names nobody here.",
     },
   ],

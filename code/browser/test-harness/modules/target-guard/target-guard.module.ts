@@ -6,9 +6,9 @@ export const targetGuard = {
   slug: "target-guard",
   definition: "the warning that a deployed target does not carry this branch's commits",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A localhost target is never warned about.",
     },
   ],

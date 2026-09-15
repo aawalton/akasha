@@ -6,21 +6,21 @@ export const scrollableMenuComboboxBaseOverrides = {
   slug: "scrollable-menu-combobox-base-overrides",
   definition: "the base-class methods left empty or answering undefined",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The base class leaves four methods with empty bodies.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The maximum row count answers undefined on the base class.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Width computation is fully implemented here rather than left to subclasses.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A container width of zero falls back to the no-search-header minimum.",
     },
   ],

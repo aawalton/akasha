@@ -6,27 +6,27 @@ export const temperWatcherStatus = {
   slug: "temper-watcher-status",
   definition: "the command saying whether the workstation watcher is running",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A watcher that is running is reported with its process id, its uptime and its log path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One watcher runs for the whole workstation.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Whether the watcher is running is read from systemd.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "How long the watcher has been up is read from the file the watcher wrote when the watcher started.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A watcher that is not running has no process id.",
     },
   ],

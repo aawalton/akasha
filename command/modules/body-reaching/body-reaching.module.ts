@@ -7,17 +7,17 @@ export const bodyReaching = {
   definition: "the bytes at a path, and the text those bytes are where they are text",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reaching a body tells a path nothing is at from a path that will not open.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body that will not open is answered with why that body would not.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body that is no UTF-8 text is answered as no text rather than as bytes.",
     },
   ],

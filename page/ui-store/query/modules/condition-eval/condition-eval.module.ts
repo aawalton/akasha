@@ -6,17 +6,17 @@ export const conditionEval = {
   slug: "condition-eval",
   definition: "whether one page row satisfies a query condition",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A condition on a path holds where some value that path reaches holds it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value a path reaches is weighed as the one value a row carries under a key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path reaching no value is weighed as a key carrying nothing.",
     },
   ],

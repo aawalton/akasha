@@ -6,13 +6,13 @@ export const assistantCollectibles = {
   slug: "assistant-collectibles",
   definition: "the collectible ids of every personal assistant the player may summon",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An assistant collectible id is the game's own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each id is copied rather than worked out.",
     },
   ],

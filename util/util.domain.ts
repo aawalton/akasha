@@ -21,9 +21,9 @@ export const util = {
     "module/sha256-hex",
     "module/thread-pause",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A `utils` module an addon's bundle reaches is compiled to Lua.",
     },
   ],

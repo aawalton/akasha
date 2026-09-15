@@ -7,26 +7,26 @@ export const generationRuns = {
   propertySlug: "runs",
   definition: "every loading of a model this log has recorded",
   extensions: ["jsonl"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One row is one json object on one line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run records where its output was written rather than the output itself.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Rows past the most bytes one file may have roll into a numbered part beside that file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first part beside a page is part2.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each further part takes the next number up.",
     },
   ],

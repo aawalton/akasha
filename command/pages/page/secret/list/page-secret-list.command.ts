@@ -7,22 +7,22 @@ export const pageSecretList = {
   definition: "the command naming which secrets a page holds, none of them decrypted",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path that names no page is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keys held are read off the file standing on disk.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keys declared are read off the page type the page names.",
     },
 
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decrypts anything or answers with a value.",
     },
   ],

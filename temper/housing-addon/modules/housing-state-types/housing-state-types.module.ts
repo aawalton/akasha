@@ -6,9 +6,9 @@ export const housingStateTypes = {
   slug: "housing-state-types",
   definition: "the shapes of the housing window's own settings and its running state",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

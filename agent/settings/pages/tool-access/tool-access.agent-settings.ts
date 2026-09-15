@@ -6,9 +6,9 @@ export const toolAccess = {
   slug: "tool-access",
   definition: "which built-in tools an agent may reach",
   harnessSettings: "json",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tool whose only act is writing a file is reached by no agent.",
     },
   ],

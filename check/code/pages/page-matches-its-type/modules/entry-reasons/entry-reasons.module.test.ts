@@ -53,8 +53,8 @@ test("a field its shape leaves optional is not demanded of a row", () => {
 })
 
 test("a one-of property opens the one member that declares fields", () => {
-  expect(openedFor(["record-property/invariants", "relation-property/page-domain"])).toEqual([
-    ["invariantKind", "statement"],
+  expect(openedFor(["record-property/decisions", "relation-property/page-domain"])).toEqual([
+    ["decisionKind", "statement"],
     true,
   ])
   expect(openedFor(["relation-property/page-domain", "relation-property/initiative"])).toEqual([
@@ -64,11 +64,11 @@ test("a one-of property opens the one member that declares fields", () => {
 })
 
 test("a property whose members declare fields more than once holds each of those fields", () => {
-  const members = ["record-property/invariants", "record-property/directives"]
+  const members = ["record-property/decisions", "record-property/directives"]
 
   expect(openedFor(members)).toEqual([[], false])
   expect(amongFor(members)).toEqual([
-    ["invariantKind", "statement"],
+    ["decisionKind", "statement"],
     ["act", "aids", "directiveKind", "name", "warrant"],
   ])
 })

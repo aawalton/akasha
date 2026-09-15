@@ -7,25 +7,25 @@ export const completionItemSetProgress = {
   definition:
     "how many pieces of each item set an account holds, gathered under the set's category",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One fold adds the totals at every level.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A crafted set is left out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set the add-on never saw counts as zero of zero pieces.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category the add-on names wins over the category the set data gives.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category with several named roots nests its subcategories under those roots.",
     },
   ],

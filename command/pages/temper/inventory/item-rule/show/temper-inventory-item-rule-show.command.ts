@@ -7,29 +7,29 @@ export const temperInventoryItemRuleShow = {
   definition: "the command giving back one per-item rule named by its id",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An id no per-item rule carries refuses the call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The id is said as a word and the answer's shape at its flag.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A call saying no id is refused, asking for the id by its placeholder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A flag this takes none of is refused, naming both the ways this is said.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The answer's shape carries no value, so a value joined to it is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The answer's shape said twice is refused rather than read once.",
     },
   ],

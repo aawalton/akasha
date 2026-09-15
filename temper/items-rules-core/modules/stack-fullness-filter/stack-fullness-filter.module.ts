@@ -6,9 +6,9 @@ export const stackFullnessFilter = {
   slug: "stack-fullness-filter",
   definition: "the Stack Fullness condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `stackFullness` condition alone.",
     },
   ],

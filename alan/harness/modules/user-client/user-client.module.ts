@@ -6,25 +6,25 @@ export const userClient = {
   slug: "user-client",
   definition: "the Supabase client a signed-in person acts through, bound by row policy",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No key is here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The client made here reaches only as far as the signed-in person may.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The URL and the anonymous key are handed in by the caller.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A session is kept and refreshed on its own.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No session is read out of the address bar.",
     },
   ],

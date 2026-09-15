@@ -6,14 +6,14 @@ export const useTemperImport = {
   slug: "use-temper-import",
   definition: "the import a browser runs, from the file chosen to the result held",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An import merges forward against the completion already counted rather than writing over it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A completion that could not be read stops the import rather than reading as absent.",
     },

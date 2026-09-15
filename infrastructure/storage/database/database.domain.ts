@@ -13,29 +13,29 @@ export const database = {
     "manifest/supabase-studio",
     "module/retry-transient-ddl",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A GIN index sets a small pending-list bound rather than taking the default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every database-backed test boots its tables from the committed snapshot.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code the database runs is written in this repository any more.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "All data goes through the pages system.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The postgres database is decommissioned other than for auth.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Supabase is reached only for auth.",
     },
   ],

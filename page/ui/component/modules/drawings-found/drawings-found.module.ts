@@ -7,13 +7,13 @@ export const drawingsFound = {
   definition: "the page type a drawing's file names, and the first drawing a chain reaches",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A drawing's file is named for the page it sits beside and the group it is in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page type a drawing is for is the part of that name before the first dot.",
     },
   ],

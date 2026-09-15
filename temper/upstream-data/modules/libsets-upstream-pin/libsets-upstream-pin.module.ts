@@ -6,25 +6,25 @@ export const libsetsUpstreamPin = {
   slug: "libsets-upstream-pin",
   definition: "the one upstream LibSets commit temper copies its set data out of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The upstream is pinned to a single commit rather than to a branch.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pinned release is stated as the AddOnVersion the upstream manifest carries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The files a copy needs are named in the order upstream loads the files.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The files are named in the order upstream loads the files.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Moving the pin to a later commit is a hand-made change.",
     },
   ],

@@ -77,60 +77,60 @@ export const agent = {
       default: "jsonl",
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent is named by one agent id wherever the agent acts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent id names a seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent id names a subagent by its seat's id and its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pages an agent has read are the agent's own rather than its seat's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent answers for the assignment the agent states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent drafts into one set of edits rather than one set for each change.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An agent works at a terminal or at a seat with no terminal or inside another agent's turn.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "Every act an agent leaves for later has a reminder set for that act.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process a departed agent left running is taken away.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A subagent has departed once its seat's transcript records the result it returned.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Nothing a subagent left behind is taken away on a transcript that names it nowhere.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subagent whose seat has no page has departed, since no agent is in that seat.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A name exported inside a shell never reaches that shell's own environment.",
     },
   ],

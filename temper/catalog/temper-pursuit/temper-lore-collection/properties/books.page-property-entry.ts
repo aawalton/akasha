@@ -10,9 +10,9 @@ export const books = {
     { pageProperty: "number-property/book-index", required: true, many: false },
     { pageProperty: "text-property/book-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book here is a book a player finds in the world and reads into a collection.",
     },
   ],

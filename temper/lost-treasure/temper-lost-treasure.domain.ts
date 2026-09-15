@@ -29,17 +29,17 @@ export const temperLostTreasure = {
     "type-declaration/lost-treasure-global-declarations",
     "type-declaration/lost-treasure-string-ids",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The text here is English alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A dig site the add-on does not know is gathered from the player rather than shipped.",
     },

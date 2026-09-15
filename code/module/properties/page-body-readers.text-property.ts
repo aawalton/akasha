@@ -8,21 +8,21 @@ export const pageBodyReaders = {
   definition: "the name a module exports for reading a page body off a checkout root",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module declares a reader here rather than a reader's caller holding a list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name declared here is an export of the module declaring it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module saying nothing here declares no reader of page bodies.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader is what a module declares rather than what a body is seen to do.",
     },
   ],

@@ -7,13 +7,13 @@ export const libSetsDropTipInstallTooltips = {
   definition:
     "the eight drop mechanic tooltip tables placed on the library under their language codes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tables are written onto the library global rather than exported.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An empty branch sits where the newer API version's entries would go.",
     },
   ],

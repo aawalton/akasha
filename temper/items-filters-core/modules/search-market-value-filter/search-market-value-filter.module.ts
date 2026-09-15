@@ -7,14 +7,14 @@ export const searchMarketValueFilter = {
   definition:
     "the market value of an item, narrowed by a range from 0 to 1000000 with a comparison operator",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "The server request takes a price range that the market value filter does not set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The operator defaults to <= where the saved value names no operator.",
     },
   ],

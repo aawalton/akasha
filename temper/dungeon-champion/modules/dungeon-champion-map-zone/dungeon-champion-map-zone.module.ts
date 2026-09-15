@@ -6,9 +6,9 @@ export const dungeonChampionMapZone = {
   slug: "dungeon-champion-map-zone",
   definition: "which zone and subzone the open map shows, read from the map tile texture",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The zone is read from a texture path rather than asked of the game.",
     },
   ],

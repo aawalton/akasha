@@ -6,13 +6,13 @@ export const libSetsSearchUiSharedState = {
   slug: "lib-sets-search-ui-shared-state",
   definition: "the icons and localized words the search window shows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every favourite icon is formatted at 24 by 24 pixels.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A set is taken to have twelve bonus lines at the most.",
     },
   ],

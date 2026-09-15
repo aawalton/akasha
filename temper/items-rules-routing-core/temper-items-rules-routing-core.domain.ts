@@ -14,13 +14,13 @@ export const temperItemsRulesRoutingCore = {
     "module/inventory-management-plan-route-venue",
     "module/inventory-management-plan-types",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route says where a player goes and the steps the player takes at each stop.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

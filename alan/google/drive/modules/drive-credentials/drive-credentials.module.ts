@@ -6,9 +6,9 @@ export const driveCredentials = {
   slug: "drive-credentials",
   definition: "the scope and the refresh token a Drive client is built with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scope asked for is read-only.",
     },
   ],

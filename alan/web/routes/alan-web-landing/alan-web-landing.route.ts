@@ -6,13 +6,13 @@ export const alanWebLanding = {
   slug: "alan-web-landing",
   definition: "what a reader who is not signed in is shown",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A signed-in reader is sent to the home route.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The messaging page is reached from here rather than by knowing its address.",
     },
   ],

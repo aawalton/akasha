@@ -6,17 +6,17 @@ export const addonMenuWidgetTexture = {
   slug: "addon-menu-widget-texture",
   definition: "the fixed-size image widget of the settings panel",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Image width and height are required and are not derived from the file.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No value is read or written by the texture widget.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The image is centered in a control that grows to fit the image.",
     },
   ],

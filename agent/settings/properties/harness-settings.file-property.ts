@@ -8,17 +8,17 @@ export const harnessSettings = {
   definition: "what an agent harness is told before the harness starts",
   extensions: ["json"],
   writtenBy: "module-property-group/telling",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A settings body reaches a harness through akasha code rather than off disk.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A settings body is written by hand apart from the keys akasha derives.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key akasha derives is absent from the body rather than written by hand.",
     },
   ],

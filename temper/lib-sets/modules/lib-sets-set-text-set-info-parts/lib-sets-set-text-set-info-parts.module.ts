@@ -6,9 +6,9 @@ export const libSetsSetTextSetInfoParts = {
   slug: "lib-sets-set-text-set-info-parts",
   definition: "the set's text broken into named parts with their raw data beside each",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each part has a flag saying whether the part has content.",
     },
   ],

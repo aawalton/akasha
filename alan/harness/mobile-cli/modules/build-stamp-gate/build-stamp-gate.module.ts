@@ -7,25 +7,25 @@ export const buildStampGate = {
   definition: "the shell that refuses an upload whose binaries do not have this cut's commit",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The commit is read back out of the compiled binary with strings.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A binary with no stamp is refused the same as a binary with a wrong commit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every widget extension under PlugIns is checked beside the app binary.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every binary is checked before the gate refuses.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A passing gate says so by printing one fixed marker line.",
     },
   ],

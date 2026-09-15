@@ -6,22 +6,22 @@ export const supervisorCredentials = {
   slug: "supervisor-credentials",
   definition: "the credential pulled for a seat's account while the seat runs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account already terminal is not pulled for again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A terminal failure is reported once rather than on every tick.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An account whose file shows a re-auth is terminal no longer and is pulled for again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pull that faults is said and the tick ends rather than the timer dying.",
     },
   ],

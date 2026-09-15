@@ -6,21 +6,21 @@ export const runsTabooCheck = {
   slug: "runs-taboo-check",
   propertySlug: "runs-taboo-check",
   definition: "whether the taboo terms are judged over the pages of a page type",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type saying nothing here is judged.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No page of a page type saying false is judged.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words a page type's own file has are judged whatever that page type says.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type says false here where the words its pages carry are somebody else's.",
     },
   ],

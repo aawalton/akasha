@@ -6,9 +6,9 @@ export const ruleMatcherContextCanLevelMorphs = {
   slug: "rule-matcher-context-can-level-morphs",
   definition: "which characters still have a skill morph left to level",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character whose completion is unreadable can level no morph.",
     },
   ],

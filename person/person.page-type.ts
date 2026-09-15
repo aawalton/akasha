@@ -49,9 +49,9 @@ export const person = {
     { pageProperty: "text-property/supabase-auth-user-id", required: false, many: false },
     { pageProperty: "number-property/bodyweight", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A person whose body nothing here counts against states no weight.",
     },
   ],

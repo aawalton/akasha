@@ -7,21 +7,21 @@ export const asyncTaskLoops = {
   definition:
     "the numeric loop, the pairs loop and the conditional loop a task runs a step at a time",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A loop is declared by a marker step the body step then replaces.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body without a preceding loop declaration raises an error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A loop stops early where the body answers the break value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A numeric loop with a zero step raises an error.",
     },
   ],

@@ -6,13 +6,13 @@ export const changeMechanicalProse = {
   slug: "change-mechanical-prose",
   definition: "a mechanical change acting on the English the pages state",
   parts: ["change-mechanical/change-prose-pattern"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here answers for every passage the repository states at once.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rung here reaches a rung beneath once for each passage.",
     },
   ],

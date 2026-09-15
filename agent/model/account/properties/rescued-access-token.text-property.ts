@@ -8,9 +8,9 @@ export const rescuedAccessToken = {
   definition: "the access token a rescued credential has",
   maxLength: 4000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rescued access token is the token the sops file did not take.",
     },
   ],

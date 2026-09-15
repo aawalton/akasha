@@ -18,13 +18,13 @@ export const storyChapterPlayed = {
     { pageProperty: "number-property/own-length", required: true, many: false },
     { pageProperty: "file-property/prose", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter has the prose play made rather than prose anybody wrote.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter is part of the one story the chapter was played in.",
     },
   ],

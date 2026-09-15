@@ -6,17 +6,17 @@ export const playedPanels = {
   slug: "played-panels",
   definition: "the panels a played story's game asks for beside its run, its hud, quests and sheet",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel is drawn where the game beside the story asks for that panel.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel drawn over a state that went unread draws its own empty reading.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pools a hud bars are the pools the game's display names and no other.",
     },
   ],

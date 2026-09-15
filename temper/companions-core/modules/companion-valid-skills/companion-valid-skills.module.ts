@@ -6,17 +6,17 @@ export const companionValidSkills = {
   slug: "companion-valid-skills",
   definition: "the set of skill ids a companion build may still slot",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill already on the skill bar is excluded.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Armor skills match the skill line named for the role armor weight.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Guild skill lines pass without any further check.",
     },
   ],

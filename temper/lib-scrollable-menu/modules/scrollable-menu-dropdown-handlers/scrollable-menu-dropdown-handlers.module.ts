@@ -6,22 +6,22 @@ export const scrollableMenuDropdownHandlers = {
   slug: "scrollable-menu-dropdown-handlers",
   definition: "the row construction and recycling behind the dropdown scroll list",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "One shared named update handler serves as the submenu show timeout.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The last entry of a list is given a distinct scroll type id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Resetting a pooled row hides that row and takes the row's button out of the button group.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Row width is measured from the label text through the item font object.",
     },
   ],

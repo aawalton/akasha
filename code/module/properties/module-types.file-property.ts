@@ -7,18 +7,18 @@ export const moduleTypes = {
   propertySlug: "types",
   definition: "the type declarations a module's code and its callers both state",
   extensions: ["ts"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module states its shared declarations here rather than in its code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller naming a declaration alone does not load the code answering that declaration.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

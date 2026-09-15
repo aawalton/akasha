@@ -6,17 +6,17 @@ export const auth = {
   slug: "auth",
   definition: "signing in, signing up, signing out and reading who is signed in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every call here takes the Supabase client rather than making a client.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No URL and no key is read here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failed call is handed back as a value rather than thrown.",
     },
   ],

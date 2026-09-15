@@ -6,9 +6,9 @@ export const signedInRedirect = {
   slug: "signed-in-redirect",
   definition: "where a signed-in reader asking for a signed-out route is sent",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A signed-in reader is sent to the home route.",
     },
   ],

@@ -7,17 +7,17 @@ export const hudAddonVisibilityVersion = {
   definition:
     "which version the stored HUD visibility is at and how an older version is brought forward",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The baseline stored the flag each part was hidden by.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The current version stores the flag each part is shown by.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stored value that is not a boolean is left out of the migration.",
     },
   ],

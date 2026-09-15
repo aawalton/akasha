@@ -5,13 +5,13 @@ export const cost = {
   type: "page-type/readout-group",
   slug: "cost",
   definition: "what the block Alan is in costs him for each hour it runs",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reading is the multiplier the block's safety and difficulty price it at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The color this group draws is read with the surplus rather than off a scale.",
     },
   ],

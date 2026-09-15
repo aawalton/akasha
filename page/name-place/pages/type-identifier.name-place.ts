@@ -6,14 +6,14 @@ export const typeIdentifier = {
   slug: "type-identifier",
   definition: "the name a type carries in code",
   nameFormat: "name-format/upper-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A type is named for the thing the type has rather than for the file the type is in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A type and the value of the same name are parted by their case alone.",
     },
   ],

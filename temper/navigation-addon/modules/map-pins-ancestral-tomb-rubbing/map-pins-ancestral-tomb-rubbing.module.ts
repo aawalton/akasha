@@ -6,9 +6,9 @@ export const mapPinsAncestralTombRubbing = {
   slug: "map-pins-ancestral-tomb-rubbing",
   definition: "the ancestral tomb rubbing places",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

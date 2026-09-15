@@ -6,21 +6,21 @@ export const scrollableMenuConstantsSubmenu = {
   slug: "scrollable-menu-constants-submenu",
   definition: "the keys and methods a submenu proxy reads through to its owning combobox",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each exposed key has a boolean saying whether the proxy forwards that key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The no-results placeholder entries are declared here as ordinary menu entries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Silencing a click is done by swapping the sound name in the game sound table.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A silenceable click sound exists for every entry type a click can reach.",
     },
   ],

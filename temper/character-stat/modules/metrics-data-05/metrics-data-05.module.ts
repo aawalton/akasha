@@ -6,9 +6,9 @@ export const metricsData05 = {
   slug: "metrics-data-05",
   definition: "character stats effective-power-spell through ha-frost-spell-damage",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The stats are named here in the order the gathered table answers its ids in.",
     },
   ],

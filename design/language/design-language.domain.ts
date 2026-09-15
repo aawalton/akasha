@@ -6,19 +6,19 @@ export const designLanguage = {
   slug: "design-language",
   definition: "how a language is shaped",
   parts: ["domain/lua-compiler"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A program is found wrong at reading the program or at checking its names or at running the program.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A program that reads and checks and runs can still have a meaning its writer did not intend.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No failure catches a program with a meaning its writer did not intend.",
     },
   ],

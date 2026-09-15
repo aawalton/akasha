@@ -6,9 +6,9 @@ export const stateSchema = {
   slug: "state-schema",
   definition: "the whole live state of a game at one turn",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "State keeps the keys the schema does not name.",
     },
   ],

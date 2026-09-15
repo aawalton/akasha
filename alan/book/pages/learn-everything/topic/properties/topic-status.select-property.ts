@@ -7,13 +7,13 @@ export const topicStatus = {
   propertySlug: "status",
   definition: "whether a topic is unopened, live or resting",
   values: ["unopened", "live", "resting"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic nobody has yet sat down with is `unopened`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic worked and left warm is `resting`.",
     },
   ],

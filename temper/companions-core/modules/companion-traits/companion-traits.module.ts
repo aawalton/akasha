@@ -7,30 +7,30 @@ export const companionTraits = {
   definition:
     "every property a piece of companion equipment is worked with, and what each is worth",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the companion pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "These bytes are the last good build rather than the table the generator emits today.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The generator reads a field the trait pages no longer have.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A regeneration today zeroes the effect type on every trait.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A trait's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A trait moved to another place breaks every build hash saved.",
     },
   ],

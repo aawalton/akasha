@@ -6,9 +6,9 @@ export const recurring = {
   slug: "recurring",
   propertySlug: "recurring",
   definition: "whether a transaction is one Monarch expects again",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry stating nothing here states the opposite.",
     },
   ],

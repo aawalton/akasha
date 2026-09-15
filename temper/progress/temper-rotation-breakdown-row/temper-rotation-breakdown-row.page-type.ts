@@ -12,9 +12,9 @@ export const temperRotationBreakdownRow = {
     { pageProperty: "text-property/description", required: true, many: false },
     { pageProperty: "text-property/full-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The title is the short name a narrow column is headed by.",
     },
   ],

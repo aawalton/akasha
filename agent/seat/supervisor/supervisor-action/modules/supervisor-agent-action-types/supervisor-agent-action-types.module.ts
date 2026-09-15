@@ -6,13 +6,13 @@ export const supervisorAgentActionTypes = {
   slug: "supervisor-agent-action-types",
   definition: "what an action asked of a running seat is",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An action is restart or restart-now or swap-proxy.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "This module declares no behaviour.",
     },
   ],

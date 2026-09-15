@@ -6,9 +6,9 @@ export const addonKeybindsStrings = {
   slug: "addon-keybinds-strings",
   definition: "the two names the split halves of the keybindings menu are shown under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The names are English and are not translated.",
     },
   ],

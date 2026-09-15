@@ -6,21 +6,21 @@ export const esoSandboxGlobals = {
   slug: "eso-sandbox-globals",
   definition: "the substitute game globals a bundle finds when a sandbox loads the bundle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A stub answers every property reach with a stub of the stub's own.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A stub reached twice under one name answers with the same stub both times.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A stub answers no promise.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A load seeds only the game names a bundle reads at load time.",
     },
   ],

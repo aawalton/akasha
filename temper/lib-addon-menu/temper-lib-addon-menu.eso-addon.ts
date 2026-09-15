@@ -45,27 +45,27 @@ export const temperLibAddonMenu = {
     "type-declaration/addon-menu-logger",
     "type-declaration/addon-menu-string-ids",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An add-on declares a panel and its widgets as data rather than building controls.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A widget kind is added to the library by registering a factory under a name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The library publishes itself as the LibAddonMenu2 global the game's add-ons expect.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A panel is built the first time a player opens that panel rather than at load.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A control reads its value through a getter the declaring add-on supplies.",
     },
   ],

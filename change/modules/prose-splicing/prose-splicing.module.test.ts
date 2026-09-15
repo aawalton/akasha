@@ -14,17 +14,17 @@ const BODY = `export const one = {
   slug: "one",
   definition: "a page holds a value",
   partSlugs: ["widget/two"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "departure",
+      decisionKind: "departure",
       statement: "a page holds one",
     },
     {
-      invariantKind: "gap",
+      decisionKind: "gap",
       statement: "a page holds two",
     },
     {
-      invariantKind: "gap",
+      decisionKind: "gap",
       statement: "a page holds two",
     },
   ],
@@ -110,13 +110,13 @@ test("an object above the exported one is not read", () => {
 })
 
 test("one field of the record whose words match is stated anew", () => {
-  const said = textOn([fielded("invariants", "a page holds one", "a page has one")])
+  const said = textOn([fielded("decisions", "a page holds one", "a page has one")])
 
   expect(said).toContain(`statement: "a page has one",`)
 })
 
 test("the passage stated each side is the line the field's value sits on", () => {
-  const said = ranOn([fielded("invariants", "a page holds one", "a page has one")])
+  const said = ranOn([fielded("decisions", "a page holds one", "a page has one")])
 
   expect(said.edits).toEqual([
     {
@@ -143,23 +143,23 @@ test("a key the page states nothing under is refused", () => {
 })
 
 test("text no record states is refused", () => {
-  const said = ranOn([fielded("invariants", "a page holds three", "a page has three")])
+  const said = ranOn([fielded("decisions", "a page holds three", "a page has three")])
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no record under `invariants` states that text under `statement`")
+  expect(said.refused).toBe("no record under `decisions` states that text under `statement`")
 })
 
 test("text more than one record states is refused, and the refusal says how many", () => {
-  const said = ranOn([fielded("invariants", "a page holds two", "a page has two")])
+  const said = ranOn([fielded("decisions", "a page holds two", "a page has two")])
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
-    "2 records under `invariants` state that text under `statement`, and one change works one"
+    "2 records under `decisions` state that text under `statement`, and one change works one"
   )
 })
 
 test("a field stating what was asked for already is refused", () => {
-  const said = ranOn([fielded("invariants", "a page holds one", "a page holds one")])
+  const said = ranOn([fielded("decisions", "a page holds one", "a page holds one")])
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`a page holds one` is what `statement` states already")
@@ -168,7 +168,7 @@ test("a field stating what was asked for already is refused", () => {
 test("two passages in one body are answered by one edit", () => {
   const held = [
     keyed("definition", "a page holds a value", "a page has a value"),
-    fielded("invariants", "a page holds one", "a page has one"),
+    fielded("decisions", "a page holds one", "a page has one"),
   ]
 
   const said = ranOn(held)
@@ -185,7 +185,7 @@ test("two passages in one body are answered by one edit", () => {
 test("one passage refused refuses every passage in that body", () => {
   const said = ranOn([
     keyed("definition", "a page holds a value", "a page has a value"),
-    fielded("invariants", "a page holds two", "a page has two"),
+    fielded("decisions", "a page holds two", "a page has two"),
   ])
 
   expect(said.edits).toEqual([])

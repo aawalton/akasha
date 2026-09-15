@@ -6,29 +6,29 @@ export const asyncScheduler = {
   slug: "async-scheduler",
   definition: "how much of each frame the jobs are given and which job runs next",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The frame budget is read from the frame rate the game reports.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A console budget is read from the addon CPU time the game allows each frame.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job raising an error is handed to the error step of that job.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job with no error step suspends and the error is raised again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job marked once per frame runs no more than once in a frame.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A frame that overran is paid back out of the next frame.",
     },
   ],

@@ -6,9 +6,9 @@ export const fcoCollectiblesMounts = {
   slug: "fco-collectibles-mounts",
   definition: "the mount list the interface tweaks mark favourites in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shared guard stands behind the table guards here.",
     },
   ],

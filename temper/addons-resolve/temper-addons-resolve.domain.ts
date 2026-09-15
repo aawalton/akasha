@@ -14,21 +14,21 @@ export const temperAddonsResolve = {
     "module/folder-ownership",
     "module/sibling-addons",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon is a folder with an `eso-addon` page and an addon manifest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon is found by asking the index for every `eso-addon` page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder the deploy did not write is never deleted on missing evidence.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes to the game's addons folder.",
     },
   ],

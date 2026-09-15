@@ -7,13 +7,13 @@ export const accountType = {
   propertySlug: "account-type",
   definition: "the sort of balance an account holds",
   values: ["depository", "brokerage", "credit", "loan", "real_estate"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The sorts are Monarch's own words rather than words chosen here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sort Monarch spells with an underscore is kept as Monarch spells that sort.",
     },
   ],

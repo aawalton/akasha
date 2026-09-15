@@ -7,31 +7,31 @@ export const supervisorSpawnSettings = {
   definition: "the settings one agent spawn is composed from and written out with",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The document is read by the agent settings module rather than here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The agent settings module is imported from beside this module and its function called.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A settings document that will not read leaves the spawn carrying the per-spawn overrides.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page or a file the agent settings reach for and miss refuses the spawn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A document fault is told from a page fault by a mark rather than by a message.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The settings are read once for a spawn rather than asked for until they answer.",
     },
   ],

@@ -7,13 +7,13 @@ export const franchise = {
   definition: "the shows and films that share one world",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A franchise has a name and the provider the name was read from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A franchise the provider gives no id to leaves the id unstated.",
     },
   ],

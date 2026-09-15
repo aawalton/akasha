@@ -7,9 +7,9 @@ export const seaweedfsBackupLongtail = {
   definition: "the scheduled job copying the oldest backups on to slower storage",
   code: "ts",
   generatedDirectory: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where the longtail copier's code sits is asked of the index rather than spelled.",
     },
   ],

@@ -6,9 +6,9 @@ export const dungeonChampionStart = {
   slug: "dungeon-champion-start",
   definition: "bringing the addon up once the game has loaded",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Settings are brought up before pins are registered.",
     },
   ],

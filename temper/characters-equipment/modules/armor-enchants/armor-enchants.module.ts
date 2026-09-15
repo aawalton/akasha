@@ -6,21 +6,21 @@ export const armorEnchants = {
   slug: "armor-enchants",
   definition: "every glyph an armor piece takes, and what each is worth at a quality",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the glyph pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A glyph's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A glyph moved to another place breaks every build hash saved.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "The generator writes this table outside akasha.",
     },
   ],

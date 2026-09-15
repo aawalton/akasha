@@ -49,17 +49,17 @@ export const computer = {
     { pageProperty: "number-property/ssd", required: true, many: false },
     { pageProperty: "select-property/computer-status", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A machine stays on the list once sold.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The cost and the replacement of a sold machine are still read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every score a machine has is worked out from its parts rather than written down.",
     },
   ],

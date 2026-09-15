@@ -6,29 +6,29 @@ export const esouiCatalog = {
   slug: "esoui-catalog",
   definition: "what ESOUI answers about the addons ESOUI has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "ESOUI answers over HTTP as JSON.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer of another shape is refused rather than read past.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A network error is raised as an operational error naming the address asked.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A status other than success is raised as an operational error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry naming no install folder is carried through as naming no folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first detail record answers for the file asked about.",
     },
   ],

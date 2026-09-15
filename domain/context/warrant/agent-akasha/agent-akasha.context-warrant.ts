@@ -10,17 +10,17 @@ export const agentAkasha = {
   runsOnRead: true,
   runsOnWrite: true,
   transitive: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent warrants the akasha domain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only an agent warrants the akasha domain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An akasha domain whose page cannot be found is no warrant.",
     },
   ],

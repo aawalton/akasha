@@ -7,26 +7,26 @@ export const checkAddonSandboxLoad = {
   definition:
     "the run judging whether an emitted bundle loads under a sandbox shaped like the game's",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The population the run states is the emitted bundles under the build output.",
     },
 
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An empty base-game string-id census ends the run rather than passing the run.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every bundle gets a sandbox of the bundle's own.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A failing run names the build command and the call that runs one bundle alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "That call is the file running rather than a path spelled here.",
     },
   ],

@@ -6,17 +6,17 @@ export const seatOnCall = {
   slug: "seat-on-call",
   definition: "whether a seat is on call, read off its page",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat is on call only where its page holds true under the on-call key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Anything other than true under that key reads as not on call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with no page in akasha reads as not on call.",
     },
   ],

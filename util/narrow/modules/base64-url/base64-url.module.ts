@@ -6,17 +6,17 @@ export const base64Url = {
   slug: "base64-url",
   definition: "bytes or text written in base64 over the URL alphabet, carrying no padding",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text handed in is read as its UTF-8 bytes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Plus becomes minus and slash becomes underscore.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The padding base64 ends in is struck.",
     },
   ],

@@ -16,9 +16,9 @@ export const model = {
     "page-type/model-provider",
     "page-type/model-test",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A model is a domain whose subject is one trained network.",
     },
   ],

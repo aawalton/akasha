@@ -6,13 +6,13 @@ export const voiceCore = {
   slug: "voice-core",
   definition: "how written text is cut into what a voice can speak, and when each sentence is said",
   parts: ["module/estimate-marks", "module/infer-endpoint", "module/mark-schema", "module/speech"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here reaches a voice.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The same cut serves the browser and the phone alike.",
     },
   ],

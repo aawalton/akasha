@@ -6,9 +6,9 @@ export const charactersKeyedMerge = {
   slug: "characters-keyed-merge",
   definition: "a stored map of numbered entries folded with a freshly read one, entry by entry",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "How a stored map of numbered entries takes a freshly read map is settled here.",
     },
   ],

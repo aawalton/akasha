@@ -6,13 +6,13 @@ export const armorSlots = {
   slug: "armor-slots",
   definition: "the seven body positions an armor piece is worn at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An armor slot's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An armor slot moved to another place breaks every build hash saved.",
     },
   ],

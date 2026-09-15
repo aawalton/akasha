@@ -7,17 +7,17 @@ export const temperInventoryItemRuleList = {
   definition: "the command naming every per-item rule",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rules are given in the order the settings have.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The act that lists takes the read it lists from rather than reaching it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The JSON says the whole rule and a row says the columns a rule carries.",
     },
   ],

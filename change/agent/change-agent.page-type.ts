@@ -18,13 +18,13 @@ export const changeAgent = {
     { pageProperty: "number-property/change-max-cpu-seconds", required: true, many: false },
     { pageProperty: "number-property/change-max-memory-mb", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent change is reached by name rather than by another change.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent change reaches the mechanical changes working its bodies out.",
     },
   ],

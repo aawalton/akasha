@@ -6,17 +6,17 @@ export const completionPanelCard = {
   slug: "completion-panel-card",
   definition: "a card telling how far along each branch of a completion tree is",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A row counting nothing is drawn nowhere.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A branch is drawn where any row beneath the branch is drawn.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A search of fewer than three letters narrows nothing.",
     },
   ],

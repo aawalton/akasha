@@ -6,17 +6,17 @@ export const rclone = {
   slug: "rclone",
   definition: "the rclone commands a store is listed, read, copied and hashed through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command that exits non-zero is an error carrying the text the command said.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A copy of named files leaves behind no list of those names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The same commands reach a remote store and a local path.",
     },
   ],

@@ -7,9 +7,9 @@ export const completionImportOutcome = {
   definition: "what a merge did to a stored completion, and which fields the merge held back",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes.",
     },
   ],

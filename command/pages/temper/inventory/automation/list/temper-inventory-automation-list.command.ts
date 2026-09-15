@@ -6,17 +6,17 @@ export const temperInventoryAutomationList = {
   slug: "temper-inventory-automation-list",
   definition: "the command giving back the automation toggles as they are set",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every scope is reported.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scope is the global one, one character or one companion.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here changes a toggle.",
     },
   ],

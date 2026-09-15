@@ -6,13 +6,13 @@ export const typescriptInternals = {
   slug: "typescript-internals",
   definition: "the compiler's own unexported names the Lua compiler reaches into",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each name here is a name the compiler ships without declaring.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A program's options are read as the Lua compiler's options.",
     },
   ],

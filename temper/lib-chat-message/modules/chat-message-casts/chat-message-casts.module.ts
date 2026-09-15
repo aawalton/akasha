@@ -6,9 +6,9 @@ export const chatMessageCasts = {
   slug: "chat-message-casts",
   definition: "what an untyped chat value the game hands over is read as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

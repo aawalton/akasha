@@ -7,21 +7,21 @@ export const inventoryExplainCapabilities = {
   definition: "what explaining one item's rule walk is built from",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The parts an explanation needs are handed over together rather than one by one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item asked for without a character is looked for in the newest place first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every item in every bag is reached with the place that item is held in.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rule walk is run here.",
     },
   ],

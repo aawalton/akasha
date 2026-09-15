@@ -7,33 +7,33 @@ export const temperInventoryRuleTakes = {
   definition: "the command naming the items one category rule takes and what takes the rest",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The items named are the ones the rule takes where every rule above it has run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item the rule would take alone and does not take here is named as shadowed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shadowed item names the first rule above this one that takes it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every item rule is above every ordered rule when the shadow is worked out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The items are gathered by the item they are, rather than by the stack.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An id no rule the addon compiled carries refuses the call.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "Nothing here reads the rule store, so a rule is named by its id rather than its title.",
     },

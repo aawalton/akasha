@@ -7,9 +7,9 @@ export const dockerfileServices = {
   definition: "which services get a Dockerfile, where each one lives and what type it builds as",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image's extensions file is named from the root rather than from its folder.",
     },
   ],

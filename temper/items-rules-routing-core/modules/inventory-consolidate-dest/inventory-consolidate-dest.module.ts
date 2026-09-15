@@ -6,9 +6,9 @@ export const inventoryConsolidateDest = {
   slug: "inventory-consolidate-dest",
   definition: "whether a destination gathers one thing from every character into one place",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A destination gathering stock is known by the name the destination has.",
     },
   ],

@@ -6,17 +6,17 @@ export const questsSlashCommand = {
   slug: "quests-slash-command",
   definition: "the words the player types to turn answering dialogue and tracing on and off",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command is registered with the game whether or not the hud is loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command is announced to the hud only where the hud is loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The hud is told the name of the addon each command belongs to.",
     },
   ],

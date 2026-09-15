@@ -6,25 +6,25 @@ export const notificationProviders = {
   slug: "notification-providers",
   definition: "the game notification providers a caller's rows are handed to the panels through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A provider is a subclass of the game's own notification provider.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A new provider adds itself to the panel's own list of providers.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Building the list copies the link table deeply.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Accepting or declining calls back to the row rather than to the panel.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "A misspelled decline callback is read as well as the correctly spelled name.",
     },
   ],

@@ -6,18 +6,18 @@ export const companionStatsCalculatorImpl = {
   slug: "companion-stats-calculator-impl",
   definition: "the full companion stat calculation pass over sources, formula metrics and rotation",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The result interface is imported from companion-stats-result rather than declared here.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Formula metrics are evaluated in topological order of their metric references.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Six rotation metric ids are held out of the display pass by a hardcoded set.",
     },
   ],

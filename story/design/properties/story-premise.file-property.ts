@@ -7,13 +7,13 @@ export const storyPremise = {
   propertySlug: "premise",
   definition: "what a story is about, in the shape the story is told in",
   extensions: ["md"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A premise is a document beside its design rather than a line in the design.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A premise is written in the shape the story that premise opens is told in.",
     },
   ],

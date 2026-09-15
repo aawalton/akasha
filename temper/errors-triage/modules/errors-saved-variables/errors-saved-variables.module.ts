@@ -6,21 +6,21 @@ export const errorsSavedVariables = {
   slug: "errors-saved-variables",
   definition: "the shape the errors addon saves, ruled on as it is read back",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A saved field the shape does not name is refused rather than passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The shape is held to the payload the addon writes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry list the addon left out reads as no entries.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here opens a file.",
     },
   ],

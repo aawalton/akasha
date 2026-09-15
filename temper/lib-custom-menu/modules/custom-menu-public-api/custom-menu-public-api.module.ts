@@ -6,13 +6,13 @@ export const customMenuPublicApi = {
   slug: "custom-menu-public-api",
   definition: "the names the custom menu library puts in the game's global table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A header entry is added as a label drawn from the header pool.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkbox entry is indented by a fixed-width space.",
     },
   ],

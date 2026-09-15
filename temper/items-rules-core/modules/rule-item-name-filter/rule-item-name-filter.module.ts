@@ -6,9 +6,9 @@ export const ruleItemNameFilter = {
   slug: "rule-item-name-filter",
   definition: "the Item Name condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `itemNamePattern` condition alone.",
     },
   ],

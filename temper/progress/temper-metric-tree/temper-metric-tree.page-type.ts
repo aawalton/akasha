@@ -22,17 +22,17 @@ export const temperMetricTree = {
     },
     { pageProperty: "boolean-property/use-accent-color", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node stating no parent is a root of the tree.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node of type `metric` is the metric the catalog names by `metric-id`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The slug is the node type and the node id joined by a hyphen.",
     },
   ],

@@ -7,25 +7,25 @@ export const saidAs = {
   propertySlug: "said-as",
   definition: "how a call fills an argument under one command",
   values: ["flag", "word", "flag-or-word"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry stating nothing here is filled at its flag.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An argument filled as a word alone is not taken at its flag.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal names an argument filled as a word alone by its placeholder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Words fill the arguments taken as words in the order the page states them.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How a call fills an argument belongs to the command rather than to the argument.",
     },
   ],

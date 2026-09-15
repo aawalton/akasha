@@ -6,9 +6,9 @@ export const charactersTaskProgressTestUtils = {
   slug: "characters-task-progress-test-utils",
   definition: "the saved character entry a progress resolver's test is written against",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capture the test leaves unnamed is absent from the entry rather than empty.",
     },
   ],

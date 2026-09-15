@@ -7,17 +7,17 @@ export const cadwellCatalogCapture = {
   definition:
     "the Cadwell's Almanac zones and points of interest, read into the add-on's saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The collector adds itself to the catalog registry as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The three progression levels are read in turn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone or a point of interest with no name is left out.",
     },
   ],

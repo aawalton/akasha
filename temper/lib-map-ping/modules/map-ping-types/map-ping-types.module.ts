@@ -6,9 +6,9 @@ export const mapPingTypes = {
   slug: "map-ping-types",
   definition: "the shapes a map ping, a ping handler and the library object take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches run time.",
     },
   ],

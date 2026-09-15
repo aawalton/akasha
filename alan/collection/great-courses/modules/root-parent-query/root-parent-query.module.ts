@@ -7,17 +7,17 @@ export const rootParentQuery = {
   definition:
     "the date the Great Courses collection root last synced, read as a gate and written back",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A read that failed is refused rather than answered as the sync being due.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing renders a `great-courses-collection` body out of its keys.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The date the gate reads never moves.",
     },
   ],

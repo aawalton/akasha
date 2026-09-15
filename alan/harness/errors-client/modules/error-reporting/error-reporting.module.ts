@@ -6,9 +6,9 @@ export const errorReporting = {
   slug: "error-reporting",
   definition: "a browser error posted to the sink, with the page it was seen on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A report that fails to send raises nothing to the caller.",
     },
   ],

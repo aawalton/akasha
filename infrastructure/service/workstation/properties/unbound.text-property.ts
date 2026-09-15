@@ -8,26 +8,26 @@ export const unbound = {
   definition: "a host name a service states and is not listening on",
   maxLength: 253,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service publishes here each host name the service states and could not bind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A service listening on every host name the service states publishes nothing here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A host name here is published by the service itself rather than by a watcher.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A host name here is a reading.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A host name here is no better than the last start of that service.",
     },
   ],

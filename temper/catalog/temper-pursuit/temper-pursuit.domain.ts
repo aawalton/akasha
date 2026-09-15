@@ -17,9 +17,9 @@ export const temperPursuit = {
     "page-type/temper-research-line",
     "page-type/temper-tribute-patron",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page here is one node of a catalog the game shows a player's progress against.",
     },
   ],

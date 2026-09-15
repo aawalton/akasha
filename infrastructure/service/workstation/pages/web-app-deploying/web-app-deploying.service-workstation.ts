@@ -11,24 +11,24 @@ export const webAppDeploying = {
     jitterSeconds: 10,
     startTimeoutSeconds: 3900,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A web app deploy pushes the commit to origin, builds in the pod, and applies its manifests.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The cluster service beside a web app is put up here rather than by the cluster loop.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A tick with every web app up to date puts nothing up, so that is no loop without end.",
     },

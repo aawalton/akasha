@@ -6,9 +6,9 @@ export const lostTreasureGlobal = {
   slug: "lost-treasure-global",
   definition: "the three calls this add-on's own markup makes back into it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This global is the add-on's own name rather than a name the game owns.",
     },
   ],

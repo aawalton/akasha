@@ -6,21 +6,21 @@ export const scribingGrimoires = {
   slug: "scribing-grimoires",
   definition: "every scribing grimoire an Elder Scrolls Online character may learn",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the skill pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An entry's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An entry moved to another place breaks every build hash saved.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is divided across runs.",
     },
   ],

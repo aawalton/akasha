@@ -6,9 +6,9 @@ export const companionsEquipmentPanel = {
   slug: "companions-equipment-panel",
   definition: "the panel showing a companion's gear beside the gear a build asks for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The optimal column is hidden until a target build is set.",
     },
   ],

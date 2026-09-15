@@ -13,9 +13,9 @@ export const changeMechanicalFileRemove = {
     "change-mechanical/remove-file-page-property",
     "change-mechanical/remove-file-page-type",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This family has a rung at every file kind the add family has one at.",
     },
   ],

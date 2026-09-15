@@ -13,33 +13,33 @@ export const spotifySync = {
     catchUp: true,
     startTimeoutSeconds: 3600,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The artists swept are the artists Alan follows whose thirty days are up.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day's run takes a share of them rather than all of them.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Spotify refuses an account for about a day once that account's quota is spent.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An unpaced sweep of the Web API bans the account for about a day.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This run paces itself at a second a call rather than at the client's default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The token this run signs with is the file consent left outside the repository.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that filed nothing new is a run that succeeded.",
     },
   ],

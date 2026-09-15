@@ -6,9 +6,9 @@ export const tradingCapture = {
   slug: "trading-capture",
   definition: "recording the search results and the player's own listings into saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A capture replaces the guild's earlier snapshot rather than adding to the snapshot.",
     },

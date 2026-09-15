@@ -6,17 +6,17 @@ export const idleSave = {
   slug: "idle-save",
   definition: "where one player's idle game is",
   extends: ["page-type/page"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A player has one save and no second save.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A write replaces the whole save rather than amending part of that save.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tick banks a save on its own cadence whether or not the player is watching.",
     },
   ],

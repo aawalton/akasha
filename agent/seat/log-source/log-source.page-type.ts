@@ -7,21 +7,21 @@ export const logSource = {
   definition: "a stream of console lines the processes behind a seat write",
 
   extends: ["page-type/page"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A source is named for the process writing the lines rather than for the seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One source writes a separate day for each seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A source outlives every day of lines the source wrote.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A source has nothing but the name the source is reached by.",
     },
   ],

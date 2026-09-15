@@ -7,29 +7,29 @@ export const sshDelivery = {
   definition: "the ssh wire settings shared by every ssh and rsync call to a host",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A script is delivered under the host's `/var/tmp` rather than its `/tmp`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every connection skips host key verification.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No known_hosts entry is kept for a host reached this way.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The delivered script deletes itself through a trap the shell fires on leaving.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A connection is given up after four missed keepalives fifteen seconds apart.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The same options are spelled once as argv and once joined into an -e string.",
     },
   ],

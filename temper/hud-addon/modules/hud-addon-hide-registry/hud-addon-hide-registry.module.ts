@@ -7,21 +7,21 @@ export const hudAddonHideRegistry = {
   definition:
     "the plan carried out against the game, each part through the mechanism the part names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part is reached again each time the plan is carried out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part not answering the mechanism the catalog names is left alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Carrying out the whole plan touches only the parts to be hidden.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A mechanism the catalog gains and the registry does not is refused at compile time.",
     },

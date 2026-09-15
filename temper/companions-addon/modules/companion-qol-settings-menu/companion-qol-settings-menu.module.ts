@@ -6,9 +6,9 @@ export const companionQolSettingsMenu = {
   slug: "companion-qol-settings-menu",
   definition: "the settings panel a player changes the quality-of-life behaviour from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panel is built through the add-on menu library rather than drawn by hand.",
     },
   ],

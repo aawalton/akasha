@@ -7,21 +7,21 @@ export const generator = {
   propertySlug: "generator",
   definition: "how this property's value is worked out when its page is created",
   targetPageType: "page-type/generator-kind",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property stating no `generator` is written by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page being created that states the property keeps the value the page states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body carried from another path is left as the body stands.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A move is one page arriving somewhere else rather than a second page.",
     },
   ],

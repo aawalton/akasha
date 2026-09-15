@@ -6,21 +6,21 @@ export const temperCatalogSideFile = {
   slug: "temper-catalog-side-file",
   definition: "what the catalog addon is told to collect again, written where the addon reads it",
   parts: ["module/catalog-file-paths", "module/catalog-side-file"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The addon is told the things to collect again through a file rather than a call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The file is Lua the addon loads as a table.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the game.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here opens a file.",
     },
   ],

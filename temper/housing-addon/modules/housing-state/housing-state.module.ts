@@ -6,13 +6,13 @@ export const housingState = {
   slug: "housing-state",
   definition: "the one holder with the add-on's settings, running state and saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every other module reaches this holder rather than importing a sibling module.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Reading saved variables before the add-on opens the saved variables raises an error.",
     },

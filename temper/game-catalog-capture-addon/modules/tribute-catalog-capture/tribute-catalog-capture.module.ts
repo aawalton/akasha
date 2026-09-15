@@ -7,17 +7,17 @@ export const tributeCatalogCapture = {
   definition:
     "the Tales of Tribute patrons and the cards of each patron, read into saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The collector adds itself to the catalog registry as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A patron whose collectible falls under another category is passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dock card pair with no upgrade card is passed over.",
     },
   ],

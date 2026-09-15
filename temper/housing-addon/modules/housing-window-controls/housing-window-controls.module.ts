@@ -6,9 +6,9 @@ export const housingWindowControls = {
   slug: "housing-window-controls",
   definition: "the search box and scroll frames the housing window is built from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scroll frame has a slider the add-on made rather than the game's.",
     },
   ],

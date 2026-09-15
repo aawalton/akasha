@@ -107,13 +107,13 @@ export const temperItemsRulesCore = {
     "module/use-destination-types",
     "module/value-filter",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule names the action an item is given.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

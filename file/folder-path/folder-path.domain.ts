@@ -5,9 +5,9 @@ export const folderPath = {
   type: "page-type/domain",
   slug: "folder-path",
   definition: "a path saying where a folder is",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every file path begins with a folder path.",
     },
   ],

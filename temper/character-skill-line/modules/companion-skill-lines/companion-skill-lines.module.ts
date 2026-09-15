@@ -6,9 +6,9 @@ export const companionSkillLines = {
   slug: "companion-skill-lines",
   definition: "the forty-four skill lines a companion advances",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-line pages rather than by hand.",
     },
   ],

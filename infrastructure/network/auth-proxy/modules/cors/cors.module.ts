@@ -6,13 +6,13 @@ export const cors = {
   slug: "cors",
   definition: "this proxy's allowed origins put to a request and to its preflight",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A preflight is answered here rather than by the target behind the proxy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A preflight echoes back the headers the request asked about.",
     },
   ],

@@ -7,38 +7,38 @@ export const inventoryRuleToPages = {
   definition: "a rule a player has written out as a page and the entries beside it",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule's page is slugged `rule-` and the id the rule has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where a rule falls among the rules is written as its display order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A condition value is written as JSON except where the value is text no JSON reader would take.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule saying nothing about being switched on is written as switched on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An action and a goal are written by the page type and slug naming each.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A condition field is written by the page type and slug naming the field.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule saying nothing about when the rule changed is written as the epoch.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A rule carrying no switch state and no change time comes back switched on and dated the epoch.",
     },

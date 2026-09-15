@@ -8,8 +8,8 @@ export const quality = {
   definition: "the grade a thing is made at",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
-    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a quality." },
+  decisions: [
+    { decisionKind: "decision-kind/gap", statement: "This property is a relation to a quality." },
   ],
   types: "ts",
 } as const satisfies TextProperty

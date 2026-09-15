@@ -20,11 +20,11 @@ const AT = "change/modules/held/held.module.ts"
 
 const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
 
-const FIRST = '{ invariantKind: "departure", statement: "the first" }'
+const FIRST = '{ decisionKind: "departure", statement: "the first" }'
 
-const SECOND = '{ invariantKind: "gap", statement: "the second" }'
+const SECOND = '{ decisionKind: "gap", statement: "the second" }'
 
-const THIRD = '{ invariantKind: "absence", statement: "the third" }'
+const THIRD = '{ decisionKind: "absence", statement: "the third" }'
 
 const BODY = `import type { Module } from "@akasha/code/module"
 
@@ -33,7 +33,7 @@ export const held = {
   pageTypeSlug: "module",
   slug: "held",
   code: "ts",
-  invariants: [
+  decisions: [
     ${FIRST},
     ${SECOND},
     ${THIRD},
@@ -47,7 +47,7 @@ function worldTold(): World {
   return worldFor(PAGE, BODY, running)
 }
 
-const KEY = "invariants"
+const KEY = "decisions"
 
 test("a value named by a field is carried onto the value already holding the place", async () => {
   const said = await runChange(worldTold(), {

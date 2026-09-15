@@ -7,27 +7,27 @@ export const unitWords = {
   propertySlug: "unit-words",
   definition: "how many words one of the collection's unit is worth",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This value is read off the unit the collection names rather than stated on that collection.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The value read is the unit's own `words`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A total counted in this unit is absent where the collection states no unit words.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A total counted in this unit is absent where the unit words are zero.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A formula cannot yet read a property off the page a relation reaches.",
     },
   ],

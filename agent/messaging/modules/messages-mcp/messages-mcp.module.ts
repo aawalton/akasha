@@ -7,17 +7,17 @@ export const messagesMcp = {
   definition:
     "the MCP server a seat launch runs, joining the seat to the channel its messages arrive on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "SIGTERM and SIGINT each end this server.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cleanup that throws or stalls does not keep this server running.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A message already claimed is left claimed, for the supervisor to weigh on resume.",
     },

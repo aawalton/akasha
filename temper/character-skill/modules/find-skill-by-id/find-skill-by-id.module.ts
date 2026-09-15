@@ -7,9 +7,9 @@ export const findSkillById = {
   definition:
     "the skill an id names, looked for among the ordinary skills and then the scribed ones",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The empty slot sentinel answers with no skill.",
     },
   ],

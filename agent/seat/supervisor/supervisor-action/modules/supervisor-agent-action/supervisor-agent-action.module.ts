@@ -6,21 +6,21 @@ export const supervisorAgentAction = {
   slug: "supervisor-agent-action",
   definition: "a running seat's answer to a restart, a deferred restart or a proxy swap",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A restart arms an idle gate rather than signalling the child at once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A restart-now clears the request before that restart-now signals the child.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second proxy swap while a first swap is in flight is dropped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kill the supervisor issued is remembered so the exit is not read as a crash.",
     },
   ],

@@ -6,9 +6,9 @@ export const traitActions = {
   slug: "trait-actions",
   definition: "what becomes of an item carrying each trait, gathered from the rules naming traits",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first rule naming a trait on a category settles the action for that trait.",
     },
   ],

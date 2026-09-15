@@ -10,13 +10,13 @@ export const addFilePageType = {
   definition: "one page type written at one path",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The body is written by the change this change reaches.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here judges the path handed in.",
     },
   ],

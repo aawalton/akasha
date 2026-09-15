@@ -8,17 +8,17 @@ export const dispatchedAs = {
   definition: "the kind of agent a subagent was run as",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kind is spelled as the tool running the kind takes the name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kind states this name and a subagent run as that kind repeats this name.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to an agent kind.",
     },
   ],

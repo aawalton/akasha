@@ -7,9 +7,9 @@ export const completionCategoryTreeTypes = {
   definition:
     "the shape of a node in the completion category tree, and the three tabs it hangs under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

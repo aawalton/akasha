@@ -7,26 +7,26 @@ export const seatStatedParentRefusal = {
   definition: "the refusal a seat start meets when it names the seat above it rather than being it",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seat above a new seat is the seat running the call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "That seat is read from the environment.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What this reads is the refusals the one reader gave rather than the call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A parent stated as a flag and a parent stated with an equals sign are both refused.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A flag merely opening with those same letters is no stated parent.",
     },
   ],

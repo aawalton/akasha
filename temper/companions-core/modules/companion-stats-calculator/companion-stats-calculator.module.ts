@@ -6,13 +6,13 @@ export const companionStatsCalculator = {
   slug: "companion-stats-calculator",
   definition: "entry point resolving a reference baseline before calculating companion stats",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wrapper exists only to default the baseline argument.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An omitted baseline is resolved through getReferenceBaseline on every call.",
     },
   ],

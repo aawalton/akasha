@@ -7,17 +7,17 @@ export const greatCourse = {
   definition: "one course Alan is taught by",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A course states the minutes the course runs to and the minutes Alan has watched.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A course names every shelf the course sits on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A course Alan has not graded states no rank.",
     },
   ],

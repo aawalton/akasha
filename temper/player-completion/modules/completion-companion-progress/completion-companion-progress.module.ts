@@ -7,9 +7,9 @@ export const completionCompanionProgress = {
   definition: "each companion of a player counted for level, rapport, quests and skill lines",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A companion never met counts as nothing rather than being left out.",
     },
   ],

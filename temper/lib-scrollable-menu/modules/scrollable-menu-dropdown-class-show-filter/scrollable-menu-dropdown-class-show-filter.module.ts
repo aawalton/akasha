@@ -6,21 +6,21 @@ export const scrollableMenuDropdownClassShowFilter = {
   slug: "scrollable-menu-dropdown-class-show-filter",
   definition: "the text search that decides whether one entry survives the current filter",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A leading slash in the search string makes submenu entries ignore the filter.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Edit box and slider children are searched through their declared getter names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Filter state is held in module-level variables reset at the start of each show.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry may opt out of filtering through a doNotFilter callback.",
     },
   ],

@@ -6,13 +6,13 @@ export const libSetsSearchUiKeyboardInit = {
   slug: "lib-sets-search-ui-keyboard-init",
   definition: "what a fresh keyboard search window object is built out of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A keystroke in a search box starts a new search 500 milliseconds later.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The window adds itself to the game's keyboard systems under the search UI name.",
     },
   ],

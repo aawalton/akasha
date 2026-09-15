@@ -6,13 +6,13 @@ export const routeMapCore = {
   slug: "route-map-core",
   definition: "a host-to-target map read out of the text it is written as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A target written as a bare address means no proxy behind the address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text the proxy cannot read as a map stops the proxy from starting.",
     },
   ],

@@ -6,13 +6,13 @@ export const canInspireFilter = {
   slug: "can-inspire-filter",
   definition: "the Can Inspire condition a rule may have, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `canInspire` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A category outside the two roots named in the code is offered no Can Inspire condition.",
     },

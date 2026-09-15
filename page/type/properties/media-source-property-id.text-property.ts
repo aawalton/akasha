@@ -8,9 +8,9 @@ export const mediaSourcePropertyId = {
   definition: "the key of the property a page's audio is rendered from",
   maxLength: 64,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key named here that the page type has no property for renders nothing.",
     },
   ],

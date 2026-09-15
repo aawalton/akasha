@@ -10,13 +10,13 @@ export const viewSorts = {
     { pageProperty: "text-property/sort-key", required: true, many: false },
     { pageProperty: "boolean-property/sort-descending", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keys are weighed in the order the keys are stated.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A view stating no key draws in whatever order the pages arrive.",
     },
   ],

@@ -6,17 +6,17 @@ export const sampleShape = {
   slug: "sample-shape",
   definition: "what a health reading has, and the metrics one can be",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A metric names the unit its readings are counted in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stored reading has the instant the reading arrived on top of the value read.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here exists at runtime beyond the two lists of metrics.",
     },
   ],

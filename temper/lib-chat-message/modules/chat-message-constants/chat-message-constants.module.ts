@@ -6,9 +6,9 @@ export const chatMessageConstants = {
   slug: "chat-message-constants",
   definition: "the fixed values a chat message is built from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A time format is named by a short label a player types.",
     },
   ],

@@ -6,17 +6,17 @@ export const achievementCatalogSchema = {
   slug: "achievement-catalog-schema",
   definition: "the zod schema reading the achievement catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category has sub categories that have achievements.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A general sub category is optional on a category.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry says whether the achievement is earned per character.",
     },
   ],

@@ -8,21 +8,21 @@ export const errorFingerprint = {
   definition: "the hash telling one error apart from another",
   maxLength: 16,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fingerprint is taken over an error's normalized stack and message and app.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two reports hashing alike are one error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fingerprint is written as lower hexadecimal.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A fingerprint is never a page's whole slug.",
     },
   ],

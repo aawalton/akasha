@@ -28,21 +28,21 @@ export const emailRuleCode = {
     },
   ],
   loadedBy: "module/email-rule-reading",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule of this kind is settled by its clauses without anybody reading the mail.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Filing is a key of its own rather than an action.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule forwards by naming who receives the mail.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "There is no forward action.",
     },
   ],

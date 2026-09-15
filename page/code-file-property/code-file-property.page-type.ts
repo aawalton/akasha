@@ -16,13 +16,13 @@ export const codeFileProperty = {
     { pageProperty: "number-property/max-wall-seconds", required: false, many: false },
     { pageProperty: "number-property/max-memory-mb", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property stating no ceiling holds no run.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A run of a code file property's file is stopped at the ceilings that property states.",
     },

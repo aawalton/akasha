@@ -6,21 +6,21 @@ export const recipientResolverTick = {
   slug: "recipient-resolver-tick",
   definition: "one run over the armed specs, reviving each absent seat whose inbound work matches",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A spec whose work outruns its timeout is abandoned and taken up next tick.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A spec that throws is said aloud.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The specs after a spec that throws are still walked.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An aborted signal ends the run at the next spec boundary.",
     },
   ],

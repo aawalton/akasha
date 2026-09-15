@@ -7,21 +7,21 @@ export const workstation = {
   definition: "how hard Alan's workstation is working",
   parts: ["readout/workstation-memory", "readout/workstation-processor"],
   sortOrder: "place",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each reading here is drawn as a number rather than as a stoplight.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading here is the workstation's own rather than one process's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The processor reading here is a share and the memory reading an amount.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading here is drawn in the unit its own readout names.",
     },
   ],

@@ -6,9 +6,9 @@ export const antiquitiesAddonEntry = {
   slug: "antiquities-addon-entry",
   definition: "where the transpiler starts this add-on's one Lua file",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here runs before the game says this add-on has loaded.",
     },
   ],

@@ -7,13 +7,13 @@ export const shifterBoxTemplate = {
   definition: "the XML template every control of a shifter box is built from",
   markup: "xml",
   loadedAs: "ShifterBox/ShifterBoxTemplate.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A control is named after the shifter box the control belongs to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This document is loaded before the Lua bundle.",
     },
   ],

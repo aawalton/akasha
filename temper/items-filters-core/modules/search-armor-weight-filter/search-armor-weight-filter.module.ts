@@ -6,14 +6,14 @@ export const searchArmorWeightFilter = {
   slug: "search-armor-weight-filter",
   definition: "the armor weight of an item, narrowed by a multiselect of light, medium, and heavy",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The armor weight filter also adds the selected weight numbers to the server request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with no armor type fails a non-empty selection.",
     },
   ],

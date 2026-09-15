@@ -6,17 +6,17 @@ export const importRedirect = {
   slug: "import-redirect",
   definition: "where a browser is sent after a shared build hash was imported for that browser",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A redirect carries every cookie the import set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A redirect is found again rather than moved for good.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A redirect has no body.",
     },
   ],

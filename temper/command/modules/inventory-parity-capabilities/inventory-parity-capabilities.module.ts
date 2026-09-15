@@ -7,17 +7,17 @@ export const inventoryParityCapabilities = {
   definition: "what comparing the addon's routing against the web's is built from",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The parts a parity run needs are handed over together rather than one by one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trace and a route are defined here for the run to read a trace and a route by.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No routing is compared here.",
     },
   ],

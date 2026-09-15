@@ -6,21 +6,21 @@ export const errorsAddonTraceback = {
   slug: "errors-addon-traceback",
   definition: "the message and the callstack read out of what the game hands an error listener",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A traceback loses its Locals blocks before being kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error with no visible text is recorded under a sentinel message.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error that is not a string is recorded under a sentinel message.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sentinel message has the listener's own callstack for want of the origin.",
     },
   ],

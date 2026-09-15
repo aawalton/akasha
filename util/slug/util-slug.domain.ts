@@ -11,13 +11,13 @@ export const utilSlug = {
     "module/dash-each-capital",
     "module/slug-of",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One module holds one folding rather than one module taking a flag.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "A folding wrapped in a fallback or a prefix is that caller's rule rather than one here.",
     },

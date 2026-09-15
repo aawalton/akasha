@@ -7,9 +7,9 @@ export const doctrineVersion = {
   propertySlug: "doctrine-version",
   definition: "which revision of the doctrine a pack carries",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Changing the doctrine a pack has without raising this number is refused.",
     },
   ],

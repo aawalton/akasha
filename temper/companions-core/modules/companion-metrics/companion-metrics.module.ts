@@ -6,21 +6,21 @@ export const companionMetrics = {
   slug: "companion-metrics",
   definition: "every companion metric gathered into one table, keyed by metric id",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is assembled from three runs rather than declared in one place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run has a contiguous stretch of the companion metrics table.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A metric with a formula is worked out after every metric the formula reads.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No companion build hash has a metric's place in this table.",
     },
   ],

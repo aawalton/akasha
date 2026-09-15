@@ -6,13 +6,13 @@ export const skillMorphsProgressPanelCard = {
   slug: "skill-morphs-progress-panel-card",
   definition: "how far each chosen character has taken every skill a morph is picked for",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Choosing no character reckons every character together.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill line with no morphable skill is left out.",
     },
   ],

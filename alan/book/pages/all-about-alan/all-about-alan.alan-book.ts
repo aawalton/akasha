@@ -15,21 +15,21 @@ export const allAboutAlan = {
   description:
     "This is the orientation an `/abby` interviewer loads before the first question. Its job is narrow and specific: surface the **unusual, easy-to-miss things** about Alan — the places where a normal-person prior would mislead you — so you don't open cold and don't spend the session re-deriving the architecture.",
   unit: "unit/words",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The notes are part of Alan rather than a description of Alan.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The notes have no queue of subjects to work through.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A loose end is a finding.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change here lands without Alan's review.",
     },
   ],

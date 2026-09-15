@@ -6,40 +6,40 @@ export const evalEnv = {
   slug: "eval-env",
   definition: "the lookups a rule evaluation needs from outside the item's own facts",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every lookup may answer unknown in place of a value.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No lookup declared here is asynchronous.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The evaluation context has the claim map and the stock groups beside the environment.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The context says whether the price source answered with no price table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A context saying nothing of that is read as a price source holding a table.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A wanted-equipment lookup takes equipType and traitType and quality as one bundle.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A lookup answering undefined holds nothing, and one answering unknown cannot say.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A skill line is named by its temper id rather than by the number the game gives it.",
     },

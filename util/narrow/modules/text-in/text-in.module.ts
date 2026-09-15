@@ -7,17 +7,17 @@ export const textIn = {
   definition: "the non-empty text a value holds, or nothing",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value that is no text holds no text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text written as nothing at all is nothing rather than empty text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text carrying a space is text, because a space was written.",
     },
   ],

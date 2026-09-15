@@ -6,13 +6,13 @@ export const searchStringArrayParse = {
   slug: "search-string-array-parse",
   definition: "a list of strings read out of whatever a saved search or an editor handed in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value that is no array is read as no value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An array with a non-string entry is read as no value.",
     },
   ],

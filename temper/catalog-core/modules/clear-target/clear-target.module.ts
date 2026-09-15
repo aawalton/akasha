@@ -8,17 +8,17 @@ export const clearTarget = {
     "reading what was asked to be cleared into all, one domain, an unknown name, or nothing",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The word `all` asks for every domain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty request asks for nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A request naming no known domain comes back as unknown.",
     },
   ],

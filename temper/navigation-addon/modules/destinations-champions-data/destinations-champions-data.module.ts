@@ -6,9 +6,9 @@ export const destinationsChampionsData = {
   slug: "destinations-champions-data",
   definition: "the champion (dolmen and world boss) achievement rows by zone, joined from its runs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the runs joined in order.",
     },
   ],

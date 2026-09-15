@@ -6,18 +6,18 @@ export const healthImport = {
   slug: "health-import",
   definition: "an exported record turned into a stored sample, and what is counted on the way",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A record naming a metric that is not stored is rejected rather than dropped in silence.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record naming no source is stored under the unattributed source.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every record is either converted or counted under the reason the record was refused.",
     },

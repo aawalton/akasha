@@ -6,21 +6,21 @@ export const backup = {
   slug: "backup",
   definition: "a copy of what a store has, kept apart from that store",
   parts: ["domain/backup-retention"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A backup mirrors its store by default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A deletion from a store reaches that store's backup.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Backups of the database are thinned as the backups age.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Fewer database backups are kept the further back the backups go.",
     },
   ],

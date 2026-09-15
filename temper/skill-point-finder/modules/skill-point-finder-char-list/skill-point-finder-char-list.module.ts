@@ -6,9 +6,9 @@ export const skillPointFinderCharList = {
   slug: "skill-point-finder-char-list",
   definition: "the character whose skill points the window is showing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The character shown is chosen from a list rather than followed from who is played.",
     },

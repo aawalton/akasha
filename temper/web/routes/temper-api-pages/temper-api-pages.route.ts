@@ -7,13 +7,13 @@ export const temperApiPages = {
   definition: "the pages of one type a browser asks for",
   code: "ts",
   urlPath: "api/pages/:pageTypeSlug",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This route exports `loader` alone.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "React Router strips only `loader` and `action` and `middleware` and `headers` from the browser.",
     },

@@ -24,17 +24,17 @@ export const musicCatalog = {
     "page-type/track",
     "service-workstation/spotify-sync",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "MusicBrainz defines a song and an artist.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "LRCLIB states the words of a song.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Spotify states the releases an artist put out.",
     },
   ],

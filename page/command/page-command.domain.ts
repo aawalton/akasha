@@ -6,13 +6,13 @@ export const pageCommand = {
   slug: "page-command",
   definition: "what an agent runs by name over the pages themselves",
   parts: ["module/icon-index-rendering", "module/page-secret-acting"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here acts on a page's files rather than on the values a page states.",
     },
   ],

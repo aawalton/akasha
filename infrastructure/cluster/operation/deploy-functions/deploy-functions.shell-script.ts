@@ -7,14 +7,14 @@ export const deployFunctions = {
   definition: "the names a cluster script sources for reaching the cluster",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A script sourcing deploy-functions sets _DEPLOY_LIB_DIR to the folder deploy-functions sits in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Sourcing deploy-functions sources deploy-dns-functions.",
     },
   ],

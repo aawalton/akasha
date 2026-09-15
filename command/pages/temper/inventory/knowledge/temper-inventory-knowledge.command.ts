@@ -7,26 +7,26 @@ export const temperInventoryKnowledge = {
   definition: "the command giving back what each character knows of recipes, motifs and scripts",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An item key is `recipe:<resultItemId>`, `motif:<styleId>:<chapterId>` or `script:<scriptId>`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A motif key's chapter is a whole number or the word `master`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Naming an item key turns the answer into who knows that item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key naming no kind this command has refuses the call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character the capture does not hold refuses the call.",
     },
   ],

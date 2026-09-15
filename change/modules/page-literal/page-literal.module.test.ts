@@ -36,9 +36,9 @@ const RECORDS = [
   "",
   "export const held = {",
   '  slug: "held",',
-  "  invariants: [",
-  '    { invariantKind: "departure", statement: "the first" },',
-  '    { invariantKind: "gap", statement: "the second" },',
+  "  decisions: [",
+  '    { decisionKind: "departure", statement: "the first" },',
+  '    { decisionKind: "gap", statement: "the second" },',
   "    3,",
   "  ],",
   '  partSlugs: ["module/one"],',
@@ -138,15 +138,15 @@ test("a key is read off the assignment stating that key", () => {
 })
 
 test("the records a many-valued key holds are answered in the order they sit in", () => {
-  const held = valuesIn(sourceOf(RECORDS), "invariants")
+  const held = valuesIn(sourceOf(RECORDS), "decisions")
   const said = held.map((one) => textsOf(one).get("statement")?.text)
 
   expect(said).toEqual(["the first", "the second"])
 })
 
 test("each key stating text on a record is answered under that key", () => {
-  const held = valuesIn(sourceOf(RECORDS), "invariants")
-  const said = held.map((one) => textsOf(one).get("invariantKind")?.text)
+  const held = valuesIn(sourceOf(RECORDS), "decisions")
+  const said = held.map((one) => textsOf(one).get("decisionKind")?.text)
 
   expect(said).toEqual(["departure", "gap"])
 })
@@ -164,7 +164,7 @@ test("a list holding no object holds no records", () => {
 })
 
 test("the list a key states is answered whole", () => {
-  const held = listIn(sourceOf(RECORDS), "invariants")
+  const held = listIn(sourceOf(RECORDS), "decisions")
 
   expect(held?.elements.length).toBe(3)
 })
@@ -175,25 +175,25 @@ test("a key stating no list answers no list", () => {
 })
 
 test("a record is matched by the text one named field states", () => {
-  const held = listIn(sourceOf(RECORDS), "invariants")
+  const held = listIn(sourceOf(RECORDS), "decisions")
 
   expect(held === null ? [] : matchingIn(held, "statement", "the second")).toEqual([1])
 })
 
 test("every record stating that text is matched", () => {
-  const held = listIn(sourceOf(RECORDS), "invariants")
+  const held = listIn(sourceOf(RECORDS), "decisions")
 
-  expect(held === null ? [] : matchingIn(held, "invariantKind", "gap")).toEqual([1])
+  expect(held === null ? [] : matchingIn(held, "decisionKind", "gap")).toEqual([1])
 })
 
 test("text no record states matches nothing", () => {
-  const held = listIn(sourceOf(RECORDS), "invariants")
+  const held = listIn(sourceOf(RECORDS), "decisions")
 
   expect(held === null ? [] : matchingIn(held, "statement", "the third")).toEqual([])
 })
 
 test("a place in the list that is no object matches nothing", () => {
-  const held = listIn(sourceOf(RECORDS), "invariants")
+  const held = listIn(sourceOf(RECORDS), "decisions")
 
   expect(held === null ? [] : matchingIn(held, "statement", "3")).toEqual([])
 })

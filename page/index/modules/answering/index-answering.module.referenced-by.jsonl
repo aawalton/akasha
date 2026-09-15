@@ -12,7 +12,7 @@
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/plural-gathering/plural-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/invariant-statement-is-plain/invariant-statement-is-plain.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}

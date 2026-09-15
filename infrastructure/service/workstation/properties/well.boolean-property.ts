@@ -6,34 +6,34 @@ export const well = {
   slug: "well",
   propertySlug: "well",
   definition: "whether a service was running as it should when last looked at",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service nothing has looked at states this neither way.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The verdict holds one look's finding rather than the service's state now.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A look writes the verdict only where the look's finding differs from the verdict written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The verdict carries no moment.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How long ago the verdict was written says nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value cleared away is written again by the next look.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A service no longer looked at keeps the verdict the last look reaching that service left.",
     },

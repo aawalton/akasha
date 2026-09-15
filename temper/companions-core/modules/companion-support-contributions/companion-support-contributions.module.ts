@@ -6,17 +6,17 @@ export const companionSupportContributions = {
   slug: "companion-support-contributions",
   definition: "support damage and toughness contributions derived from ally-visible buff uptimes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The damage contribution divides remaining armor by a literal fifty thousand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Only buffs aimed at an ally-visible target enter the uptime list.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A debuff counts only when the effect targets an enemy.",
     },
   ],

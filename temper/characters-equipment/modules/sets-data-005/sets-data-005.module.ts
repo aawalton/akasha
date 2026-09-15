@@ -6,13 +6,13 @@ export const setsData005 = {
   slug: "sets-data-005",
   definition: "part 005 of the gear set table, arkays-charity through armor-of-the-seducer",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The sets are named here in the order the gathered table answers its ids in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A set moved to another place breaks every build hash saved.",
     },
   ],

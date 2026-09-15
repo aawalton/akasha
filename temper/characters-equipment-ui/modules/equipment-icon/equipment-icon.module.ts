@@ -6,9 +6,9 @@ export const equipmentIcon = {
   slug: "equipment-icon",
   definition: "the picture that represents one piece of equipment",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A picture that fails to load is replaced rather than left broken.",
     },
   ],

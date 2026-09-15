@@ -28,21 +28,21 @@ export const allAboutAlanTopic = {
     },
     { pageProperty: "text-property/topic-settled", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Containment is carried by a topic's parents rather than by folders.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic sits under another topic or under no topic.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Exactly one topic sits under no topic.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic with no settled text is a title and a definition alone.",
     },
   ],

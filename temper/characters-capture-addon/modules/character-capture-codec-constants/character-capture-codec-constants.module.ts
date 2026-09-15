@@ -6,9 +6,9 @@ export const characterCaptureCodecConstants = {
   slug: "character-capture-codec-constants",
   definition: "how many bits a character build hash gives each field, and its hash version",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
   ],

@@ -7,18 +7,18 @@ export const searchStylePageFilter = {
   definition:
     "whether an item is a collectible style page, narrowed by an include or exclude toggle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A style page is client specialized item type 82.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An item with no specialized item type fails the toggle whichever setting the player chose.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

@@ -6,9 +6,9 @@ export const salesAddonName = {
   slug: "sales-addon-name",
   definition: "the name the sales add-on is known by to the game",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the game.",
     },
   ],

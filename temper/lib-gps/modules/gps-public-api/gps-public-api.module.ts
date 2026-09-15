@@ -6,9 +6,9 @@ export const gpsPublicApi = {
   slug: "gps-public-api",
   definition: "the name the library puts in the game's global table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Loading the library a second time is an error.",
     },
   ],

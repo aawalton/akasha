@@ -7,17 +7,17 @@ export const searchServerNarrowing = {
   definition:
     "the conversion of filter-bar selections into the exact terms and bands a trader search takes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A selection that is not an integer string is dropped from the server terms.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A threshold with the != operator yields no server band.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The open end of a server band is the sentinel 999999.",
     },
   ],

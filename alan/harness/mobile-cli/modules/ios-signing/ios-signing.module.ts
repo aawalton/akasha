@@ -8,48 +8,48 @@ export const iosSigning = {
     "how a mac build gets its App Store distribution certificate and provisioning profile",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The provisioning profile is ensured by ruby embedded in the generated shell script.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "the macbook is assumed to have a ruby with an OpenSSL binding already installed",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "every App Store profile for the bundle id is remade where a capability was just enabled",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "the keychain search list is narrowed to the login keychain alone for the length of the build",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "the App Store Connect .p8 private key is read from the mac's own home directory",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The mac is reached and mended over ssh from the workstation rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A signing failure on the mac is the harness's to mend rather than Alan's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A profile call App Store Connect refuses is no fault of the mac's keychain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A create App Store Connect answers with a 5xx is asked again three times.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run failing after the delete leaves the bundle no profile until the next run.",
     },
   ],

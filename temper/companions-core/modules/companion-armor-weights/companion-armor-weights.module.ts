@@ -6,9 +6,9 @@ export const companionArmorWeights = {
   slug: "companion-armor-weights",
   definition: "the weight classes a companion's body armor is made in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This module names the armor weights without naming any order among the armor weights.",
     },

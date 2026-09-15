@@ -6,9 +6,9 @@ export const cyrodiilWayshrine = {
   slug: "cyrodiil-wayshrine",
   definition: "whether a point of interest is a wayshrine of Cyrodiil",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Cyrodiil's wayshrines are left out of the points of interest a character is measured on.",
     },

@@ -207,30 +207,30 @@ export const temperCraftingAddon = {
     "eso-interface/craft-store-style-layout",
     "eso-interface/potion-maker-layout",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One add-on has the crafting stations rather than an add-on for each station.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The potion window and the writ tracker are folded in here rather than shipped apart.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character's knowledge is asked of LibCharacterKnowledge.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The font document loads before the Lua bundle.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every other markup document loads after the Lua bundle.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
   ],

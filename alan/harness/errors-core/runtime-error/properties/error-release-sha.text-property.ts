@@ -8,13 +8,13 @@ export const errorReleaseSha = {
   definition: "the build a client was running when a client met an error",
   maxLength: 64,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build the reporting client could not name is left out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The build named is the build the first report had.",
     },
   ],

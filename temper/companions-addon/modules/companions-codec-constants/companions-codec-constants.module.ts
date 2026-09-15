@@ -6,9 +6,9 @@ export const companionsCodecConstants = {
   slug: "companions-codec-constants",
   definition: "the bit widths the companion build codec reads a build hash by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A width here is the width the codec on the other side reads.",
     },
   ],

@@ -7,9 +7,9 @@ export const equipmentConfig = {
   definition:
     "the equipment settings the game addon reads, built from the rules and from the saved settings",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting the rules do not decide falls back on the saved settings.",
     },
   ],

@@ -5,18 +5,18 @@ export const proportional = {
   type: "page-type/memory-kind",
   slug: "proportional",
   definition: "a shared page divided among the processes holding that page",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Proportional memory over every process on a host adds to what that host holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The proportional memory of a process holding nothing shared is its resident memory.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process's proportional memory rises when a process sharing with it ends.",
     },
   ],

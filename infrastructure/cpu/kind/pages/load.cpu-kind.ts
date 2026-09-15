@@ -5,22 +5,22 @@ export const load = {
   type: "page-type/cpu-kind",
   slug: "load",
   definition: "how many threads were runnable or waiting on disk, averaged over a stretch",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Load counts a thread waiting on disk the same as a thread waiting for a processor.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Load above the number of processors is no processor shortage on its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The three numbers are averaged over one, five and fifteen minutes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A load average is of the host rather than of any one program.",
     },
   ],

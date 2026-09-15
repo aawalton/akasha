@@ -11,13 +11,13 @@ export const monarchDirection = {
     { pageProperty: "text-property/applies-when", required: true, many: false },
     { pageProperty: "text-property/directs", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A direction has no Monarch identity.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Nothing yet reads a direction.",
     },
   ],

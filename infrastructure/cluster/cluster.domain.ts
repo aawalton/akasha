@@ -13,44 +13,44 @@ export const cluster = {
     "domain/k8s-synth",
     "domain/k8s-type",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every folder under `cluster` matches a folder shape.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service's own manifest sits with that service rather than under `cluster`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module one service alone reaches sits under that service's `modules` folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A module more than one service reaches sits under the domain with those services.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workload names the class of node the workload runs on.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A workload reaches a node by the needs that workload states rather than by a class node carries.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The machines people use day to day run Linux and are nodes in the cluster.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "The work a person did on a cluster machine under Windows is work that person can still do.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Work stops on a machine the moment a person starts using that machine.",
     },
   ],

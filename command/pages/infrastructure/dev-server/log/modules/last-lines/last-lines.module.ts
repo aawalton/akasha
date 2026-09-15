@@ -6,26 +6,26 @@ export const lastLines = {
   slug: "last-lines",
   definition: "the last lines of a file",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file is read from its end backwards rather than whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reading ends once one line more than the caller asked for has been read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The line ending closing a file opens no line of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A file with fewer lines than the caller asked for answers with every line the file has.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here follows a file as that file grows.",
     },
   ],

@@ -20,17 +20,17 @@ export const ctwTeam = {
     { pageProperty: "number-property/zones-completed", required: true, many: false },
     { pageProperty: "text-property/hex", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A team is a real demining organisation.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The four counts are the team's running totals across every player.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hex is the color the team is drawn in.",
     },
   ],

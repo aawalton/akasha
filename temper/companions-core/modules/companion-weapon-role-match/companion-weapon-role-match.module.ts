@@ -6,13 +6,13 @@ export const companionWeaponRoleMatch = {
   slug: "companion-weapon-role-match",
   definition: "the pairing of a companion's two equipped weapons with a weapon role",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A weapon role is read back from the weapons rather than stored on the build.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A build whose weapons match no role reads as the no-weapon-role entry.",
     },
   ],

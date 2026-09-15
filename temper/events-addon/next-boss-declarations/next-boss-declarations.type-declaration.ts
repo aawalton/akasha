@@ -6,21 +6,21 @@ export const nextBossDeclarations = {
   slug: "next-boss-declarations",
   definition: "the string ids and layout controls this tracker makes for itself",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A string id here is made at load rather than shipped with the game.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A control here is declared by this add-on's own XML document.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name the game or a library owns is declared in the shared set instead.",
     },
   ],

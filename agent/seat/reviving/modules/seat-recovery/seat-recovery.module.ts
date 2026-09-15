@@ -7,21 +7,21 @@ export const seatRecovery = {
   definition: "the process trees a restarted seat left behind, reaped before the seat runs again",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The process doing the reaping is never among the processes reaped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process tree is found by the agent id its command line has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A keeper named by the caller is left standing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sweep that finds nothing says nothing.",
     },
   ],

@@ -6,29 +6,29 @@ export const addonMenuWidgetSubmenu = {
   slug: "addon-menu-widget-submenu",
   definition: "the collapsible group of widgets under a titled bar",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The group starts closed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A click on the title toggles the group open.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A click on the icon toggles the group open.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A click on the bottom edge toggles the group open.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A disabled submenu refuses to open.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The scroll area resizes to its contents only while the submenu is open.",
     },
   ],

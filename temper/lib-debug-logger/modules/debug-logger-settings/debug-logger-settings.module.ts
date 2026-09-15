@@ -6,17 +6,17 @@ export const debugLoggerSettings = {
   slug: "debug-logger-settings",
   definition: "the saved settings and the slash command reading and changing them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting absent from the saved table takes the default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A saved setting the defaults no longer name is dropped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The slash command prints through the chat library where that library is loaded.",
     },
   ],

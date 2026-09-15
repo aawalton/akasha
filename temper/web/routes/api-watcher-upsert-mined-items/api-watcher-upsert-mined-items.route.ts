@@ -7,21 +7,21 @@ export const apiWatcherUpsertMinedItems = {
   definition: "the mined items the watcher posts",
   code: "ts",
   urlPath: "api/watcher/upsert-mined-items",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "No mined item posted here is kept.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A row sits inside a page's body.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The store writes a path and a whole body.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This route answers 503 and says plainly that nothing was kept.",
     },
   ],

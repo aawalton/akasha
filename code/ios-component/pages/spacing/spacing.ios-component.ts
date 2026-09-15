@@ -6,22 +6,22 @@ export const spacing = {
   slug: "spacing",
   definition: "the steps a gap between two drawn things is allowed to be",
   swift: "swift",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every gap a tile leaves is one step among these steps.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This Swift is written by the landing from the spacing tokens the stylesheet states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No author writes this Swift by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A widget extension takes its scale from this one copy.",
     },
   ],

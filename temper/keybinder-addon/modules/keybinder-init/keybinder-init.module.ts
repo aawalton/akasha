@@ -6,17 +6,17 @@ export const keybinderInit = {
   slug: "keybinder-init",
   definition: "the controls the add-on puts in the key-bind window and the events it waits on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account with no shared bindings is filled from the defaults on first login.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Synchronising waits until the player is out of combat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bind button is held enabled so a bound key can be rebound.",
     },
   ],

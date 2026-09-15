@@ -8,30 +8,30 @@ export const alanwaltonHealthAnchoredRead = {
     "the Swift running one anchored query page and returning its samples, anchor and error",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "HealthKit hides read authorization.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An app cannot infer that a read was declined.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A refused read comes back empty with a valid anchor and no error as a quiet read does.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A read that errored hands back the error that ended it.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "HealthKit's store is shut while the phone is locked.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shut store and a refused read are told apart by the error code alone.",
     },
   ],

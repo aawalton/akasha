@@ -6,13 +6,13 @@ export const searchBopTradeableFilter = {
   slug: "search-bop-tradeable-filter",
   definition: "whether a bound item is still tradeable, narrowed by an include or exclude toggle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The BoP-tradeable filter reads the flag through the rule-editor flags checker.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

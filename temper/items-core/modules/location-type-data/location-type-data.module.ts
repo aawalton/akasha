@@ -6,17 +6,17 @@ export const locationTypeData = {
   slug: "location-type-data",
   definition: "the kinds of place an inventory reading has items in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table was written out from the location type pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The order of this table is the order a reading shows locations in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A location type moved to another place reorders every inventory shown.",
     },
   ],

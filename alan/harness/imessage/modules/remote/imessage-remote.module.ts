@@ -6,17 +6,17 @@ export const imessageRemote = {
   slug: "imessage-remote",
   definition: "message and contact reads carried to the machine with them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is resolved through the address book before any handle is matched.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name matching nobody is a data failure rather than an empty answer.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An address or a number is matched against handles without the address book.",
     },
   ],

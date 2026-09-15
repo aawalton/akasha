@@ -75,13 +75,13 @@ export const temperInventorySnapshot = {
     { pageProperty: "page-property-entry/placed-furnishings", required: false, many: false },
     { pageProperty: "page-property-entry/open-cooldowns", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slug opens with `at-` ahead of the moment the reading was taken.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One JSON document is written across every chunk a snapshot counts.",
     },
   ],

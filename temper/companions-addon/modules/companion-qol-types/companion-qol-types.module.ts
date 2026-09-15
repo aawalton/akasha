@@ -6,9 +6,9 @@ export const companionQolTypes = {
   slug: "companion-qol-types",
   definition: "the shapes the folded-in companion quality-of-life settings are held in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

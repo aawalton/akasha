@@ -6,9 +6,9 @@ export const charactersUndauntedPledges = {
   slug: "characters-undaunted-pledges",
   definition: "today's undaunted pledges, less those a character has already taken the point from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A pledge on a dungeon one player cannot finish alone is not offered.",
     },
   ],

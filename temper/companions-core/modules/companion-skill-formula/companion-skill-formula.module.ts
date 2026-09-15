@@ -6,18 +6,18 @@ export const companionSkillFormula = {
   slug: "companion-skill-formula",
   definition: "the number a companion skill's value formula works out to against a set of stats",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A percentage with no effect type is worked out through a lossy truncation helper.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Soothing healing done is floored rather than rounded.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Equipment sources are left out of the non-soothing healing done list.",
     },
   ],

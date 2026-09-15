@@ -16,13 +16,13 @@ export const generation = {
     "page-type/generation-log",
     "page-type/image",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Drafts are made with smaller weights than the final render.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A generation run that fails is not retried.",
     },
   ],

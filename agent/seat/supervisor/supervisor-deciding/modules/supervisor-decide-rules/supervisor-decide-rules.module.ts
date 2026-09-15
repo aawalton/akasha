@@ -6,17 +6,17 @@ export const supervisorDecideRules = {
   slug: "supervisor-decide-rules",
   definition: "every rule the deciding command answers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A question naming nothing this answers is refused rather than answered empty.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A question asking nothing is refused rather than answered with nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every rule answers only the keys the question asked for.",
     },
   ],

@@ -6,13 +6,13 @@ export const orderListBoxPublish = {
   slug: "order-list-box-publish",
   definition: "the widget handed to LibAddonMenu-2.0 once the game says this addon loaded",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The widget is offered only after the game reports this addon loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A widget LibAddonMenu-2.0 already has at a higher version is left alone.",
     },
   ],

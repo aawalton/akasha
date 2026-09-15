@@ -6,13 +6,13 @@ export const hudAddonHideTargets = {
   slug: "hud-addon-hide-targets",
   definition: "the shapes a HUD part takes where the way to hide the part is a method of its own",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape here has the one method the mechanism names.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shape here is a game global.",
     },
   ],

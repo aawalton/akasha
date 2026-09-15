@@ -166,13 +166,13 @@ export const temperCharactersEquipment = {
     "module/weapon-trait-effects",
     "module/weapon-types-data",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "A generator for these tables writes outside akasha.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "Both copies of a generated table move together.",
     },
   ],

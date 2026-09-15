@@ -5,21 +5,21 @@ export const burned = {
   type: "page-type/cpu-kind",
   slug: "burned",
   definition: "processor seconds a program has spent running",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Seconds spent on more than one processor at once add together.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A program waiting for disk or for a lock spends none.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What a run cost is asked in burned seconds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A child that has been reaped has its seconds added to its parent's.",
     },
   ],

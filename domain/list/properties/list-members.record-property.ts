@@ -10,13 +10,13 @@ export const listMembers = {
     { pageProperty: "text-property/member-name", required: true, many: false },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One list has every member of its set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order the members are in is the order the list means.",
     },
   ],

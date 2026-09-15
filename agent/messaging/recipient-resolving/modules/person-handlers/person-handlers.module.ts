@@ -6,14 +6,14 @@ export const personHandlers = {
   slug: "person-handlers",
   definition: "every person there is, paired with the persona who answers them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A person nobody answers is warned about and left out rather than refusing the list.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here resolves a recipient.",
     },
   ],

@@ -6,17 +6,17 @@ export const waiting = {
   slug: "waiting",
   definition: "a test holding on until something running elsewhere has become true",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The condition waited for is asked again rather than told.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Time running out is said as false rather than thrown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The condition waited for is asked once more after time is up.",
     },
   ],

@@ -6,41 +6,41 @@ export const libsetsDataPort = {
   slug: "libsets-data-port",
   definition: "upstream LibSets's own data tables copied out as TypeScript",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The upstream Lua files are run in order in a sandboxed Lua machine.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A table is serialized by Lua rather than carried across as a value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A table with a metatable is refused as an unseeded global's stub.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A table keyed by both halves of a boolean is written as a pair.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A number the game names is written as that name rather than as the number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A non-finite number is refused rather than written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder the ported data lands in is named by the caller.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every ported file names the upstream commit the data came out of.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Where the ported set data lands is settled by the LibSets library's own move.",
     },
   ],

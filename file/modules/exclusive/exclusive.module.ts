@@ -6,29 +6,29 @@ export const exclusive = {
   slug: "exclusive",
   definition: "the turn one process takes over a path while it acts on it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The turn is a directory made beside the path the turn represents.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Making the turn is one act that fails where that turn already exists.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn left by a process that is gone is taken rather than waited on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn is given up only by the process whose mark is in the turn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An act that settles later keeps the turn until that act settles.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller that waited too long is refused rather than acting anyway.",
     },
   ],

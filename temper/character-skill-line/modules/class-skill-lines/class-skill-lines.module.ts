@@ -6,9 +6,9 @@ export const classSkillLines = {
   slug: "class-skill-lines",
   definition: "the twenty-one class skill lines, each naming the class that has it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-line pages rather than by hand.",
     },
   ],

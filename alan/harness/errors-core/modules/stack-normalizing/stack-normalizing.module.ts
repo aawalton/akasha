@@ -6,9 +6,9 @@ export const stackNormalizing = {
   slug: "stack-normalizing",
   definition: "a stack trace with line numbers, directories and build hashes taken out",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A frame repeated directly after itself is dropped.",
     },
   ],

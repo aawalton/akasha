@@ -6,13 +6,13 @@ export const inventoryManagementPlanGrouping = {
   slug: "inventory-management-plan-grouping",
   definition: "the plan's items gathered into groups by the action taken on them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A group's total is the sum of the item values the group has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with no value leaves the group total unknown.",
     },
   ],

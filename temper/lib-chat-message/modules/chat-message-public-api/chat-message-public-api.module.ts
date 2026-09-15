@@ -6,9 +6,9 @@ export const chatMessagePublicApi = {
   slug: "chat-message-public-api",
   definition: "the name the chat message library puts in the game's global table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Loading the library a second time raises an error.",
     },
   ],

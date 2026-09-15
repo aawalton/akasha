@@ -6,13 +6,13 @@ export const questsPublicApi = {
   slug: "quests-public-api",
   definition: "the global another addon turns answering dialogue on and off through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global is named for the addon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global has the two toggles and nothing more.",
     },
   ],

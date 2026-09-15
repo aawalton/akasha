@@ -32,23 +32,23 @@ export const temperTradingAddon = {
     "module/trading-types",
     "type-declaration/trading-globals-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A guild store search is run through the game's own search rather than a search of our own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A captured listing is dropped once the listing has aged past the expiry.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A search a player named is kept between sessions.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here buys or lists without the player saying so.",
     },
   ],

@@ -6,9 +6,9 @@ export const fcoMap = {
   slug: "fco-map",
   definition: "the world map behaviour the interface tweaks change",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shared guard stands behind the table guards here.",
     },
   ],

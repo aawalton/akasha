@@ -6,14 +6,14 @@ export const companionsEntry = {
   slug: "companions-entry",
   definition: "what the companion add-on does as the game loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The companion tab is registered with the characters add-on rather than drawn alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every sub-tab registered here names both the panel it makes and the refresh.",
     },
   ],

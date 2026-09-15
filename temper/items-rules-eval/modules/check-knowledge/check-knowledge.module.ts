@@ -6,22 +6,22 @@ export const checkKnowledge = {
   slug: "check-knowledge",
   definition: "the condition check over whether every character already knows an item",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Knowledge is decided across every character rather than the current character alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with no item key falls back to the client's own known flag.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A non-knowledge item with no item key fails rather than answering indeterminate.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The can-unlock condition is the negation of every character knowing the item.",
     },
   ],

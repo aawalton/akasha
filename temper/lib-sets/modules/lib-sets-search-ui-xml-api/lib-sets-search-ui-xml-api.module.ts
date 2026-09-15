@@ -6,9 +6,9 @@ export const libSetsSearchUiXmlApi = {
   slug: "lib-sets-search-ui-xml-api",
   definition: "the width a control takes from the width of the window with it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The markup reaches XMLGetDynamicWidth on the library global.",
     },
   ],

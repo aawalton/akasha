@@ -7,9 +7,9 @@ export const chessReviewSessionNotes = {
   propertySlug: "notes",
   definition: "what the coach said as a game was stepped through",
   extensions: ["txt"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The notes are the words said at the board rather than a summary written after.",
     },
   ],

@@ -7,9 +7,9 @@ export const startLimitIntervalSeconds = {
   propertySlug: "start-limit-interval-seconds",
   definition: "the window a unit's repeated starts are counted over",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A unit starting too often inside the window is left stopped.",
     },
   ],

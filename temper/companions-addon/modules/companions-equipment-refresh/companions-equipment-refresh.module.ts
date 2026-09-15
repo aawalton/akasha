@@ -6,9 +6,9 @@ export const companionsEquipmentRefresh = {
   slug: "companions-equipment-refresh",
   definition: "filling the companion equipment panel from live gear or from a saved build",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Live gear is read where the chosen companion is summoned and saved gear otherwise.",
     },

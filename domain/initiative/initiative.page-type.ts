@@ -28,48 +28,48 @@ export const initiative = {
     },
   ],
   mortal: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An initiative sits under another initiative or under no initiative.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An initiative takes each intent off the domain that had the intent and has the intent as its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An intent an initiative meets returns to the domain the intent came from or is deleted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "An intent returning to its domain is a design or condition invariant.",
+      decisionKind: "decision-kind/departure",
+      statement: "An intent returning to its domain is a design or condition decision.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An initiative is not limited to one domain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An initiative's purpose is done once every intent that initiative has is met.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A state the migration passes through is an initiative.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An initiative dies when the initiative is reached rather than remaining as a domain that is done.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "No initiative has an intent that is met.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An initiative is read from this definition rather than from the old system's.",
     },
   ],

@@ -11,13 +11,13 @@ export const detailFrame = {
     { pageProperty: "boolean-property/frame-focus-mode", required: false, many: false },
     { pageProperty: "record-property/frame-auto-scroll", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A frame says nothing about the body the frame stands around.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type stating no frame is read in the frame every page is read in.",
     },
   ],

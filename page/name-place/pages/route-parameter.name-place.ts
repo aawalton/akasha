@@ -6,13 +6,13 @@ export const routeParameter = {
   slug: "route-parameter",
   definition: "the name of a part of a route's path that is filled in",
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A parameter is read in code rather than written in a path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A parameter is named for the value that parameter has rather than for how that value is written.",
     },

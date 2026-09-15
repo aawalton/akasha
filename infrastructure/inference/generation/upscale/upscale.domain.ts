@@ -21,25 +21,25 @@ export const upscale = {
     "shell-script/upscale-srpo",
     "shell-script/upscale-up",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run cleans the image up first and refines its skin second.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The refining stage is skipped where its weights are not on the machine.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The upscaling tool answers zero when that tool runs out of memory.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The tool's answer is not believed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run goes either to a cluster GPU or to the workstation's own.",
     },
   ],

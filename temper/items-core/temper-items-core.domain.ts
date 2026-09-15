@@ -64,13 +64,13 @@ export const temperItemsCore = {
     "module/set-category-mappings",
     "module/shard-inventory",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item is known by the fields its own link has.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

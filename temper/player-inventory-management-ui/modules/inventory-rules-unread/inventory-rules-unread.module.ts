@@ -6,13 +6,13 @@ export const inventoryRulesUnread = {
   slug: "inventory-rules-unread",
   definition: "what a reader is shown in place of rules the read refused",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words shown are the ones the read refused with.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No rule is shown beside them, so none is acted on as if it were whole.",
     },
   ],

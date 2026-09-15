@@ -6,21 +6,21 @@ export const comparisonOpData = {
   slug: "comparison-op-data",
   definition: "the six numeric comparisons a rule condition may be written with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the comparison-op pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A saved rule has an operator's key.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An operator's place in this table is the order the operators are offered in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An operator moved to another place changes which operator an agent meets first.",
     },
   ],

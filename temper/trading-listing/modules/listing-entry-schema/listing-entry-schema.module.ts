@@ -6,13 +6,13 @@ export const listingEntrySchema = {
   slug: "listing-entry-schema",
   definition: "the zod parse a saved guild store listing must pass",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field the shape does not name makes the parse fail.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The parse and the listing shape are held equal at typecheck.",
     },
   ],

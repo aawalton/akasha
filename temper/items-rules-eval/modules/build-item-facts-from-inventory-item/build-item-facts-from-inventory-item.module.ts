@@ -7,24 +7,24 @@ export const buildItemFactsFromInventoryItem = {
   definition:
     "the evaluable facts of one item, projected out of the game client's inventory item record",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every category chain gets ALL_CATEGORIES_ID prepended ahead of the caller's node ids.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An item key is resolved from the item name only for recipes and motif books and scripts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Potion effect metric ids come from the potionData field parsed out of the item link.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "An item type the resolver does not name is left with no item key.",
     },
   ],

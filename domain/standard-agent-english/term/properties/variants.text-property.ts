@@ -8,21 +8,21 @@ export const variants = {
   definition: "another spelling of a term, differing from the plainest only by grammar",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A term states every spelling a reader meets it under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The plainest spelling is stated once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No variant repeats the plainest spelling.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A spelling no variant states is a spelling nothing finds.",
     },
   ],

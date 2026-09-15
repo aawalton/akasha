@@ -7,13 +7,13 @@ export const deployedRenderCheck = {
   definition:
     "whether a rendered page passed, failed or could not be told apart from an empty shell",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A render nothing discriminating was asserted over fails.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A settle that timed out turns a failure into an indeterminate.",
     },
   ],

@@ -6,9 +6,9 @@ export const tradingListingFacts = {
   slug: "trading-listing-facts",
   definition: "reading one guild store result row into the facts a filter judges",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row the game cannot describe is read as nothing rather than as a guess.",
     },
   ],

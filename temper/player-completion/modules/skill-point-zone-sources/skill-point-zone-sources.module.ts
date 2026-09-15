@@ -6,13 +6,13 @@ export const skillPointZoneSources = {
   slug: "skill-point-zone-sources",
   definition: "the skyshards and the quest skill points each zone of Tamriel holds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-point pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A zone is named by the two-letter key the game knows that zone by.",
     },
   ],

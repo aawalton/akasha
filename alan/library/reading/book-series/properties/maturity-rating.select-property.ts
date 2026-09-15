@@ -7,13 +7,13 @@ export const maturityRating = {
   propertySlug: "maturity-rating",
   definition: "how grown-up the provider says a series is",
   values: ["PG", "PG-13", "R"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rating is the provider's judgement rather than Alan's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A series the provider rated not at all states no rating.",
     },
   ],

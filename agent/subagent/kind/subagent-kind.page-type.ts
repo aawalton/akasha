@@ -17,30 +17,30 @@ export const subagentKind = {
     { pageProperty: "file-property/subagent-prompt", required: true, many: false },
     { pageProperty: "text-property/model", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Subagents run from a single kind at the same time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kind's prompt is the whole of the context a subagent of that kind starts with.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kind's definition is the one thing a seat reads to choose between kinds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name a seat dispatches a kind by is a property rather than the kind's title.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A kind stating no model runs on the model of the seat that dispatched the subagent.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A subagent's dispatched-as reaches a kind page rather than being text.",
     },
   ],

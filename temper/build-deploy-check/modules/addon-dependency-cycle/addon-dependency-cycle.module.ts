@@ -6,17 +6,17 @@ export const addonDependencyCycle = {
   slug: "addon-dependency-cycle",
   definition: "the cycles in what a game add-on declares it loads after",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A cycle the search reaches a second time is reported once.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A cycle is named from its alphabetically first member.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An edge to an add-on outside the roster is no edge.",
     },
   ],

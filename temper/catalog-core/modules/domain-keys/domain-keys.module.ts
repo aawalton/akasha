@@ -6,17 +6,17 @@ export const domainKeys = {
   slug: "domain-keys",
   definition: "the key each catalog domain is saved under, held to the payload's own fields",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key list is checked against the payload where the compiler runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A metadata field of the payload is named by no key here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key here is a field of the payload of the same name.",
     },
   ],

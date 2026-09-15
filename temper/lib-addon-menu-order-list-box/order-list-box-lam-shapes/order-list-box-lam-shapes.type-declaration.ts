@@ -6,17 +6,17 @@ export const orderListBoxLamShapes = {
   slug: "order-list-box-lam-shapes",
   definition: "what this widget adds to the menu library it plugs into",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name here is the menu library's own and is never renamed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library global is merged rather than declared a second time.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

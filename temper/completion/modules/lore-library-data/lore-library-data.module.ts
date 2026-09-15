@@ -6,17 +6,17 @@ export const loreLibraryData = {
   slug: "lore-library-data",
   definition: "every Mages Guild lore book, under the collection and the category that have it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is captured from the game rather than written by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game's report order sets a book's place in this table.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A book moved to another place drifts from the index the game has.",
     },
   ],

@@ -7,13 +7,13 @@ export const alanWebCapacitorPageListing = {
   definition: "the pages of one page type, drawn as a list",
   code: "tsx",
   urlPath: ":pageTypeSlug",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page types are read in the browser rather than on a server.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The segment in the url is matched against a page type's slug.",
     },
   ],

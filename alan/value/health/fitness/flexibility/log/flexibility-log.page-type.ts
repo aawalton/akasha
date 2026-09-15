@@ -32,17 +32,17 @@ export const flexibilityLog = {
     { pageProperty: "text-property/mobility-reading-value-text", required: true, many: false },
     { pageProperty: "text-property/note", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A reading names no session the reading was taken in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading always has a human read of the measurement.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading has a number beside its human read where the metric is measured in numbers.",
     },

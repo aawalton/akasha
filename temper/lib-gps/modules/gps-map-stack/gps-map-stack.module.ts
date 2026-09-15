@@ -6,9 +6,9 @@ export const gpsMapStack = {
   slug: "gps-map-stack",
   definition: "the maps left behind to go measure another, so the caller returns to one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A map is pushed with the zoom and offset the map was shown at.",
     },
   ],

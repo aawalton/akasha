@@ -6,18 +6,18 @@ export const companionEffectSources = {
   slug: "companion-effect-sources",
   definition: "extractors turning a companion build into categorized metric effect sources",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The off-hand weapon damage fraction sits as a bare constant rather than in a table.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every source has a categoryId drawn from the shared SourceCategoryId union.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The class passive contributes a source only when the companion declares a classPassiveId.",
     },

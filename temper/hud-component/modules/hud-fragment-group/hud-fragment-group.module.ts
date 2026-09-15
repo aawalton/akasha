@@ -6,13 +6,13 @@ export const hudFragmentGroup = {
   slug: "hud-fragment-group",
   definition: "the HUD parts the game's own fragment group holds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every part here belongs to all three HUD scenes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part here is hidden through the fragment group.",
     },
   ],

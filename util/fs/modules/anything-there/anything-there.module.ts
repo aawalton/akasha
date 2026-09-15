@@ -6,17 +6,17 @@ export const anythingThere = {
   slug: "anything-there",
   definition: "whether anything at all sits at a path, a link among them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The path itself is read rather than whatever a link at it reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A link reaching nothing is something there.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A read that throws for any reason answers that nothing is there.",
     },
   ],

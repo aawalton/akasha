@@ -8,9 +8,9 @@ export const itemLevel = {
   definition: "the character level an item is made for",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level reading Scaled follows the character with the item.",
     },
   ],

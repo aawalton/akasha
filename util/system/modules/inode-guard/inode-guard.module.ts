@@ -6,22 +6,22 @@ export const inodeGuard = {
   slug: "inode-guard",
   definition: "whether the mounts have inodes enough to admit one more process",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Two hundred thousand free inodes is the floor unless the environment names another floor.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mount reporting no inodes is left out rather than read as full.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mount that cannot be read leaves the whole reading indeterminate.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An indeterminate reading admits rather than refuses.",
     },
   ],

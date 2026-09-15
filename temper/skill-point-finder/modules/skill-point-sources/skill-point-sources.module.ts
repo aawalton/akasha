@@ -6,13 +6,13 @@ export const skillPointSources = {
   slug: "skill-point-sources",
   definition: "every place in The Elder Scrolls Online hands a character a skill point",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A source is named by the identifier the game knows that source by.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here counts the skill points a character has earned.",
     },
   ],

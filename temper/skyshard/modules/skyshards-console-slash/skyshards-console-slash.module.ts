@@ -6,9 +6,9 @@ export const skyshardsConsoleSlash = {
   slug: "skyshards-console-slash",
   definition: "the slash command that prints where the player is",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Both a console and a computer print the player's position from this one rule.",
     },
   ],

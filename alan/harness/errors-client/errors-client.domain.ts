@@ -11,9 +11,9 @@ export const errorsClient = {
     "module/global-error-capture",
     "module/use-report-render-error",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here acts where there is no window.",
     },
   ],

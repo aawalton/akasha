@@ -6,21 +6,21 @@ export const persistImage = {
   slug: "persist-image",
   definition: "the image page a generate, edit or upscale run lands, and the cover it is given",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a generate or edit or upscale run lands an image.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The engine is read from the operation first and from the service second.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The cover is set after the bytes are stored rather than before.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The object put and the cover set are each pushed into the caller's `done`.",
     },
   ],

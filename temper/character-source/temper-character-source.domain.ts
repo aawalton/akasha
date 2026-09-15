@@ -22,13 +22,13 @@ export const temperCharacterSource = {
     "module/target-source",
     "module/vampire-stages",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character's class and race are named outside this folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character's gear is named outside this folder.",
     },
   ],

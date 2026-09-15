@@ -6,13 +6,13 @@ export const jennyCapacitorGlobals = {
   slug: "jenny-capacitor-globals",
   definition: "the Capacitor shell and its push plugin, as a page in that shell finds them",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The shell putting these globals on the window is built outside akasha.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A browser outside that shell carries no such global.",
     },
   ],

@@ -7,9 +7,9 @@ export const companionRapport = {
   definition: "how fond a companion is of a character, as a raw count and as a tier",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Rapport is held between nothing and its ceiling.",
     },
   ],

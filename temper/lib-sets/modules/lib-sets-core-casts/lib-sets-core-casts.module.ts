@@ -6,9 +6,9 @@ export const libSetsCoreCasts = {
   slug: "lib-sets-core-casts",
   definition: "the narrowings for the slots and set-keyed tables hung on the LibSets global",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global's slots are reached by string key rather than by a declared field.",
     },
   ],

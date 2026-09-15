@@ -6,9 +6,9 @@ export const throwableNormalizing = {
   slug: "throwable-normalizing",
   definition: "a message and a stack read off whatever was thrown",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing thrown is left without a message.",
     },
   ],

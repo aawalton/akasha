@@ -6,13 +6,13 @@ export const catalogPublicApi = {
   slug: "catalog-public-api",
   definition: "the global another add-on reaches the collected catalog table through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global is named for the addon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global has the one reader and nothing more.",
     },
   ],

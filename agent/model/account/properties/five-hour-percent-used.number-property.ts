@@ -7,9 +7,9 @@ export const fiveHourPercentUsed = {
   propertySlug: "five-hour-percent-used",
   definition: "how much of the five-hour allowance is spent",
   max: 100,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account that has spent its seven-day window has spent its five-hour window.",
     },
   ],

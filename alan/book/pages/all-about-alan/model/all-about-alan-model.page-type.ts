@@ -12,13 +12,13 @@ export const allAboutAlanModel = {
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
     { pageProperty: "code-file-property/simulation", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A model has the computation rather than the numbers the computation prints.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic citing a number cites the model the number came from.",
     },
   ],

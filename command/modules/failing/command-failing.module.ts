@@ -6,13 +6,13 @@ export const commandFailing = {
   slug: "command-failing",
   definition: "the line a command writes and the code it exits on when its caller is at fault",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command failing this way exits with the code that names a caller's mistake.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The message reaches standard error rather than standard output.",
     },
   ],

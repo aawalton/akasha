@@ -8,9 +8,9 @@ export const dailyTracking = {
   definition: "the day a stretch of time was part of",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a daily tracking.",
     },
   ],

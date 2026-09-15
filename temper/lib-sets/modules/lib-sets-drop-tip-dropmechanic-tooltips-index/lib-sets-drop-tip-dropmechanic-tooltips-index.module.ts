@@ -6,9 +6,9 @@ export const libSetsDropTipDropmechanicTooltipsIndex = {
   slug: "lib-sets-drop-tip-dropmechanic-tooltips-index",
   definition: "one import that runs the drop mechanic tooltip install",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This file has a single import and declares nothing.",
     },
   ],

@@ -6,9 +6,9 @@ export const housingVisitCardsInteract = {
   slug: "housing-visit-cards-interact",
   definition: "what clicking a received visit card does",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One card is selected at a time.",
     },
   ],

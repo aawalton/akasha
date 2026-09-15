@@ -6,13 +6,13 @@ export const debugLoggerTypes = {
   slug: "debug-logger-types",
   definition: "the shapes a log entry, a logger and the library state take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A log entry is a list rather than a record.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every field past the message is optional.",
     },
   ],

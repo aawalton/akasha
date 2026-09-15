@@ -6,9 +6,9 @@ export const errorFingerprint = {
   slug: "error-fingerprint",
   definition: "the one value two accounts of the same fault share",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two faults differing in line numbers or asset hashes alone fingerprint alike.",
     },
   ],

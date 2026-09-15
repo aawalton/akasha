@@ -6,25 +6,25 @@ export const categorizeRing = {
   slug: "categorize-ring",
   definition: "the tile drawing how many transactions are unreviewed",
   swift: "swift",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The ring is drawn whole in one color rather than swept to a fraction.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The color is the color the feed's scale gives the reading.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading the feed sends no scale for is ringed in the track's own gray.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The count is drawn in the label's color whatever the ring is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading of nothing is drawn as the words or the emoji sent for that reading.",
     },
   ],

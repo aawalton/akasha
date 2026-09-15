@@ -7,21 +7,21 @@ export const recipientResolverRegistry = {
   definition:
     "the armed specs a tick walks, gathered from the declared, the seated, the personas and the people",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A spec is named once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first spec of a name is the spec kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A declared spec is kept over a persona or a person handler of the same name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A person no persona answers for arms no spec.",
     },
   ],

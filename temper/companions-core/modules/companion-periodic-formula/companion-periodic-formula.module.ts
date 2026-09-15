@@ -7,18 +7,18 @@ export const companionPeriodicFormula = {
   definition:
     "the tooltip number a periodic companion effect shows for a tick or for its whole run",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Tick counts are recomputed against the buff-augmented duration before the total is formed.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A channeled effect drops one tick from its count.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Healing done is applied per tick unless the effect asks for the total.",
     },
   ],

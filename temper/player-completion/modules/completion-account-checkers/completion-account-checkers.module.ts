@@ -6,13 +6,13 @@ export const completionAccountCheckers = {
   slug: "completion-account-checkers",
   definition: "what answers whether an account has finished each account-wide completion card",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The registry is empty and nothing here can fill it.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The registry names every account card the category tree has.",
     },
   ],

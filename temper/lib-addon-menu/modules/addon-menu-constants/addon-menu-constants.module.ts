@@ -6,17 +6,17 @@ export const addonMenuConstants = {
   slug: "addon-menu-constants",
   definition: "the fixed names, sizes, and per-widget version numbers of the library",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each widget type has its own version number.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The library version is split into a major string and a minor number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Dialog identifiers are literal strings rather than generated names.",
     },
   ],

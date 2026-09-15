@@ -7,9 +7,9 @@ export const questionTopic = {
   propertySlug: "topic",
   definition: "the topic a question is open on",
   targetPageType: "page-type/all-about-alan-topic",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This edge is read inverted.",
     },
   ],

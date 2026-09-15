@@ -8,17 +8,17 @@ export const projectHours = {
   definition: "the hours Alan spent on projects, added up from the day's own stretches",
   holds: "number",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stretch counts where the stretch's title says projects as a word of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stretch still open counts up to the moment the reading is taken.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day with no stretches is no reading rather than a spend of nothing.",
     },
   ],

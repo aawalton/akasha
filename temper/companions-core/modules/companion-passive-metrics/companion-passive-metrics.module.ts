@@ -6,9 +6,9 @@ export const companionPassiveMetrics = {
   slug: "companion-passive-metrics",
   definition: "the metrics a companion passive raises, each named for what it changes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the companion pages rather than by hand.",
     },
   ],

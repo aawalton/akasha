@@ -8,10 +8,10 @@ export const reagentNames = {
   definition: "the reagents one recipe is brewed from",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
-    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a reagent." },
+  decisions: [
+    { decisionKind: "decision-kind/gap", statement: "This property is a relation to a reagent." },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One list holds every reagent one recipe takes.",
     },
   ],

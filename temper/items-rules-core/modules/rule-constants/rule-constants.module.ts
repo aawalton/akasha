@@ -6,13 +6,13 @@ export const ruleConstants = {
   slug: "rule-constants",
   definition: "the named thresholds a rule may name in place of a number",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A threshold named by key resolves to the number this table has under that key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule may give a threshold as a plain number instead of naming a key.",
     },
   ],

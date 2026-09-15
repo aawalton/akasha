@@ -7,37 +7,37 @@ export const alanwaltonHealthForegroundSync = {
   definition: "the Swift draining health samples when the app comes forward",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A locked phone's health store is shut to every read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The app coming forward is the one moment the phone is certainly unlocked.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The phone drains its health samples without anyone running a shortcut.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run the app started posts no notice and reports as every other run does.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quarter hour is spent before a run rather than after it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that never got to start costs a quarter hour and loses no sample.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run says it began before that run reads a thing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that began and never finished reads apart from a run that never began.",
     },
   ],

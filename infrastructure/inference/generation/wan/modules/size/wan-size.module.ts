@@ -7,13 +7,13 @@ export const wanSize = {
   definition: "the width and height a render is asked for",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A size is two whole positive numbers parted by an x.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A size that does not read answers as nothing rather than raising.",
     },
   ],

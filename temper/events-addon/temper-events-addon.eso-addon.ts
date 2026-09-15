@@ -32,25 +32,25 @@ export const temperEventsAddon = {
     "type-declaration/next-boss-global-declarations",
   ],
   interfaces: ["eso-interface/next-boss-layout"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One add-on has the timers rather than an add-on for each timer.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The Imperial City boss round is the first thing the add-on tracks.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tracker shares nothing with another tracker.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The XML document loads after the Lua bundle.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
   ],

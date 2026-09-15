@@ -6,13 +6,13 @@ export const esoPlusSource = {
   slug: "eso-plus-source",
   definition: "the tenth an ESO Plus subscription adds to what a character earns",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A ESO Plus row's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A ESO Plus row moved to another place breaks every build hash saved.",
     },
   ],

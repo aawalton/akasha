@@ -6,13 +6,13 @@ export const setsData031 = {
   slug: "sets-data-031",
   definition: "part 031 of the gear set table, eternal-warrior through eye-of-the-grasp",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The sets are named here in the order the gathered table answers its ids in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A set moved to another place breaks every build hash saved.",
     },
   ],

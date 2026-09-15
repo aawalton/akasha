@@ -7,22 +7,22 @@ export const titleCase = {
   definition: "a name format separating words with spaces, every important word starting capital",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The first word and the last are taken as important.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Which word between the first and the last is important cannot be read off the name.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A lower word between the first and the last is let through.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A name padded or doubly spaced is not written in title case.",
     },
   ],

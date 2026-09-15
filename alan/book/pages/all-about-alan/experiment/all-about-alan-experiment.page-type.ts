@@ -12,18 +12,18 @@ export const allAboutAlanExperiment = {
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
     { pageProperty: "file-property/line-set", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An experiment has the material the experiment is run with rather than any topic or finding.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An experiment finds a topic or a finding.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An experiment is kept whether or not the experiment has been run yet.",
     },
   ],

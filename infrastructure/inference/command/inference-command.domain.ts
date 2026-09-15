@@ -6,33 +6,33 @@ export const inferenceCommand = {
   slug: "inference-command",
   definition: "what an agent runs by name over the models the inference hosts serve",
   parts: ["module/inference-answering"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here has the slug the old ops command's path was spelled with.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here is called with spaces between its levels rather than by its slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here files a run row for the work that command sends to a model.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run row is filed whether the work finished or failed.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The run rows a command here files are akasha pages.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here reads a service from that service's own page.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The hosts a command here reads are pages rather than a list in code.",
     },
   ],

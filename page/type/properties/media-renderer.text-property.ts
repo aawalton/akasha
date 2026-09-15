@@ -8,9 +8,9 @@ export const mediaRenderer = {
   definition: "the model that makes a page type's audio or image",
   maxLength: 64,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A renderer is named here and reached by the code that knows the name.",
     },
   ],

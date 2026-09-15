@@ -6,13 +6,13 @@ export const chatSavedData = {
   slug: "chat-saved-data",
   definition: "how a value too long for one saved variable string is split and rejoined",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A string over the saved variable limit is split into chunks.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chunked string is rejoined as the string is read back.",
     },
   ],

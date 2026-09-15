@@ -6,9 +6,9 @@ export const companionQolInit = {
   slug: "companion-qol-init",
   definition: "what the quality-of-life code does as the companion add-on loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The quality-of-life code loads after the companion panels are registered.",
     },
   ],

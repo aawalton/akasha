@@ -20,9 +20,9 @@ export const source = {
     "wizarding-world",
     "project-euler",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A provider is named here before a page may state that provider.",
     },
   ],

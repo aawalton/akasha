@@ -15,26 +15,26 @@ export const network = {
     "manifest/talos-subnet-router",
     "module/headscale-constants",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Traffic reaches the cluster through a tunnel opened from inside the cluster.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No port is opened to the cluster from outside.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The name a machine joins the private network by answers at the cluster's public address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workload in the cluster reaches a machine at that machine's local address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "No workload reaches a machine by the name that machine joins the private network by.",
     },

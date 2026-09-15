@@ -19,22 +19,22 @@ export const supervisorAction = {
     "supervisor-action/swap-proxy",
   ],
   extends: ["page-type/domain"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A supervisor is the process running an agent in a seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A supervisor writes a seat's page by running the writer rather than by holding the page in memory.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "A supervisor's action is carried on the seat with that supervisor.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A supervisor is a page.",
     },
   ],

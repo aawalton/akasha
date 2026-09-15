@@ -10,22 +10,22 @@ export const mediaConfig = {
     { pageProperty: "record-property/audio-media", required: false, many: false },
     { pageProperty: "record-property/image-media", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type states here how its pages are rendered as media.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page type stating no media config takes the media config the page type above states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type with no media config here or above renders no media.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type rendering no media is served by no media route.",
     },
   ],

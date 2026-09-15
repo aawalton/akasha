@@ -6,17 +6,17 @@ export const luaFiles = {
   slug: "lua-files",
   definition: "every Lua file under a directory, however deep it sits",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A directory that cannot be read answers with no files.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry that cannot be examined is left out rather than refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file is answered as the path that file was found at.",
     },
   ],

@@ -6,21 +6,21 @@ export const useAppNavItems = {
   slug: "use-app-nav-items",
   definition: "The nav items an app draws, with the acts reordering and reparenting them.",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav item names the app it belongs to by slug rather than by id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key the nav page type does not declare is refused rather than answered empty.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav item names its parent by page address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A parent naming an item outside this app leaves its child at the top.",
     },
   ],

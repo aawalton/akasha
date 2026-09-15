@@ -6,9 +6,9 @@ export const libSetsDropTipTooltipsDe = {
   slug: "lib-sets-drop-tip-tooltips-de",
   definition: "the German explanation of each way a gear set drops",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An explanation absent here is taken from the English table.",
     },
   ],

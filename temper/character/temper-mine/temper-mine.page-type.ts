@@ -50,17 +50,17 @@ export const temperMine = {
     { pageProperty: "page-property-entry/items", required: false, many: false },
     { pageProperty: "page-property-entry/quests", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The items a sweep read are kept in numbered parts beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row a sweep read is judged against the fields its entry shape declares.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sweep's rows run past the byte ceiling one file has.",
     },
   ],

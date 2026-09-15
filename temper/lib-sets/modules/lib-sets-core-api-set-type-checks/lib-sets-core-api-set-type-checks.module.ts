@@ -6,9 +6,9 @@ export const libSetsCoreApiSetTypeChecks = {
   slug: "lib-sets-core-api-set-type-checks",
   definition: "whether a set has pieces of a given armor, weapon or equip type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A type the library has no table for answers nothing rather than false.",
     },
   ],

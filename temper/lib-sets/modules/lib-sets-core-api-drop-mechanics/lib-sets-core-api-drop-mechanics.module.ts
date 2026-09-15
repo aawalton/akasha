@@ -6,9 +6,9 @@ export const libSetsCoreApiDropMechanics = {
   slug: "lib-sets-core-api-drop-mechanics",
   definition: "how a set drops, named and described in the caller's language",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The same function is published under an upper-case and a lower-case first letter.",
     },

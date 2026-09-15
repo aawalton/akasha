@@ -12,9 +12,9 @@ export const cadwellStops = {
     { pageProperty: "number-property/stop-index", required: true, many: false },
     { pageProperty: "text-property/poi-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stop here is one point of interest Cadwell sends a player to.",
     },
   ],

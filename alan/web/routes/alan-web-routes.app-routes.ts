@@ -68,25 +68,25 @@ export const alanWebRoutes = {
     "route/wallpaper",
     "route/widget-tap",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The download is offered wherever a page has an audio variant.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The shell itself withholds the download in a browser.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A media address handed to the native shell is absolute.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A browser is handed the relative address that browser resolves itself.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An email address a route draws is readable in the HTML Cloudflare serves.",
     },
   ],

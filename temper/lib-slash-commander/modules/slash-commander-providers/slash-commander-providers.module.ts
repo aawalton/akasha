@@ -6,25 +6,25 @@ export const slashCommanderProviders = {
   slug: "slash-commander-providers",
   definition: "what a chat completion is offered from for a token the player has typed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A provider answers only where the token opens with the provider's prefix.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A result is keyed by the alias in lower case and shown as a label.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A label differing from its alias is kept in a lookup back to the alias.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The slash provider offers the game's commands and the channel switches together.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The subcommand provider offers the aliases beneath one command.",
     },
   ],

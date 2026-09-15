@@ -11,19 +11,19 @@ export const webPageAnswer = {
     "module/answer-pages",
     "module/nav-icon-svg",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every site serving pages over http answers from here rather than from its own copy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The values that differ between two sites are passed in rather than written into a copy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The three answers reaching a service-role client sit behind a `.server` folder.",
     },
   ],

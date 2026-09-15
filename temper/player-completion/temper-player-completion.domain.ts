@@ -78,13 +78,13 @@ export const temperPlayerCompletion = {
     "module/skill-point-source-types",
     "module/skill-point-zone-sources",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here reaches the game.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A completion card is the unit a player is measured by.",
     },
   ],

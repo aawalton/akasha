@@ -7,26 +7,26 @@ export const reportAnswering = {
   definition: "a command's answer built from lines it gathers, or from the fault that stopped it",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Lines gathered without a fault are the report, and nothing went wrong.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A fault thrown while gathering is the one refusal, and it is a fault in the world.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The answer is built by the one function building a command's answer.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer carries a report or a refusal, never both.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows what the lines say or where they came from.",
     },
   ],

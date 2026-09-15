@@ -7,21 +7,21 @@ export const scrollableMenuCasts3b = {
   definition:
     "the narrowing helpers for shapes named from ThisVoidControlUnknownAlt through PreventerVar",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each helper performs a bare TypeScript cast and returns the value unchanged.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The cast is not guarded by any runtime check.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Callback signatures are named after their parameter list rather than their role.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Type names are truncated to a fixed width which forces the digit suffixes.",
     },
   ],

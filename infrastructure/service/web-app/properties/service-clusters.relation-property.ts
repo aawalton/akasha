@@ -7,13 +7,13 @@ export const serviceClusters = {
   propertySlug: "service-clusters",
   definition: "the cluster services running a web app",
   targetPageType: "page-type/service-cluster",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A web app naming more than one leaves which workload a deploy puts up unsettled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slug no cluster service page has is refused.",
     },
   ],

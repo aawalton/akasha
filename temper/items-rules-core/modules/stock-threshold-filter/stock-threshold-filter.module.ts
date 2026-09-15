@@ -6,9 +6,9 @@ export const stockThresholdFilter = {
   slug: "stock-threshold-filter",
   definition: "the Stock Threshold condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `stockThreshold` condition alone.",
     },
   ],

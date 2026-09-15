@@ -6,9 +6,9 @@ export const cookieMatchCore = {
   slug: "cookie-match-core",
   definition: "a cookie name read as a Supabase auth token chunk",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name with no chunk number is the first chunk.",
     },
   ],

@@ -7,21 +7,21 @@ export const alanWebApiPropertyOption = {
   definition: "the refusal an ask to add a select option is answered with",
   code: "ts",
   urlPath: "api/property-option",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A property definition's options are a key in that definition's own file.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No option asked for here is added.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No definition is read here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller is told the option cannot be added rather than told the property is missing.",
     },

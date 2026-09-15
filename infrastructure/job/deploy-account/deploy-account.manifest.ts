@@ -6,17 +6,17 @@ export const deployAccount = {
   slug: "deploy-account",
   definition: "the account the deploy job runs as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The deploy job runs as this account.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This account sits in the namespace the deploy job runs in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This account is allowed every action on every object the cluster holds.",
     },
   ],

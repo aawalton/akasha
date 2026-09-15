@@ -10,17 +10,17 @@ export const tmuxScopeDelegation = {
   onlyOn: "linux",
   installPath: "~/.config/systemd/user/tmux-.scope.d/20-delegation.conf",
   reloadWith: "systemctl --user daemon-reload",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "systemd turns no controller on inside a scope systemd hands over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A group holding processes of its own turns no controller on for its children.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What is turned on here outlasts a reload and goes when the scope goes.",
     },
   ],

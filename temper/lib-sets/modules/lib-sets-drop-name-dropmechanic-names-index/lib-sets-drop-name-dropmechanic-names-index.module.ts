@@ -6,9 +6,9 @@ export const libSetsDropNameDropmechanicNamesIndex = {
   slug: "lib-sets-drop-name-dropmechanic-names-index",
   definition: "one import that runs the drop mechanic name install",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This file has a single import and declares nothing.",
     },
   ],

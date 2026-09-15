@@ -6,17 +6,17 @@ export const chatHistory = {
   slug: "chat-history",
   definition: "the chat events this library keeps for a later session to replay",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A timestamp is counted in whole seconds of local time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "History over its maximum length is trimmed from the oldest entry.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A replayed event is stored no second time.",
     },
   ],

@@ -14,30 +14,30 @@ export const companionBuild = {
     { pageProperty: "number-property/build-target-count", required: false, many: false },
     { pageProperty: "select-property/base-roles", required: false, many: true, maxCount: 2 },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build is the arrangement itself rather than the companion wearing that build.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One companion has many builds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One build is shared across companions.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two builds arranged alike carry one hash.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This page type is Temper's while its slug has no temper- prefix.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build's name is its title rather than a second field saying the same.",
     },
   ],

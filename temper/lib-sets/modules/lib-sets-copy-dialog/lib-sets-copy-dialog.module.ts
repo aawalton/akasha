@@ -6,12 +6,12 @@ export const libSetsCopyDialog = {
   slug: "lib-sets-copy-dialog",
   definition: "the dialog holding set text in an edit box a player can select and copy",
   code: "ts",
-  invariants: [
-    { invariantKind: "invariant-kind/constraint", statement: "The published name is fixed." },
+  decisions: [
+    { decisionKind: "decision-kind/constraint", statement: "The published name is fixed." },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text over 20000 characters is broken into pages the player turns by hand.",
     },
-    { invariantKind: "invariant-kind/constraint", statement: "Nothing is built here on console." },
+    { decisionKind: "decision-kind/constraint", statement: "Nothing is built here on console." },
   ],
 } as const satisfies Module

@@ -6,17 +6,17 @@ export const inventoryManagementPlanChainPropertyFixtures = {
   slug: "inventory-management-plan-chain-property-fixtures",
   definition: "the generated destination chains the plan's chain property tests are built from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A generated chain has at least a tail tier.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bounded chain has a target quantity on every tier.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chain scenario has an equivalent written as one rule per tier.",
     },
   ],

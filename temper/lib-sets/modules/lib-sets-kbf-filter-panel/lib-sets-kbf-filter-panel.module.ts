@@ -6,9 +6,9 @@ export const libSetsKbfFilterPanel = {
   slug: "lib-sets-kbf-filter-panel",
   definition: "the keyboard window's filter row assembled from its eleven dropdown builders",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The search button is turned off before the dropdowns are built.",
     },
   ],

@@ -8,9 +8,9 @@ export const extensionName = {
   definition: "the extension the files a property speaks for close with",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This extension is the name after the last dot rather than the dot with it.",
     },
   ],

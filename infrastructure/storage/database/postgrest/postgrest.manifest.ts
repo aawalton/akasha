@@ -7,13 +7,13 @@ export const postgrest = {
   definition: "the namespace, deployment and service serving the database's tables over HTTP",
   code: "ts",
   generatedDirectory: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pod template carries the hash of the postgrest-secrets secret.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The keys hashed from the postgrest-secrets secret are DATABASE_URL and PGRST_JWT_SECRET.",
     },

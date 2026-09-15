@@ -6,9 +6,9 @@ export const inventoryRuleMatcherFillOnce = {
   slug: "inventory-rule-matcher-fill-once",
   definition: "a rule filling a character or a companion once, rather than once for each item",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character already filled by this rule takes nothing further.",
     },
   ],

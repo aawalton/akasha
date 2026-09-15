@@ -6,17 +6,17 @@ export const antiquityLoreCatalogCapture = {
   slug: "antiquity-lore-catalog-capture",
   definition: "the antiquities with lore entries, read into the add-on's saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The collector adds itself to the catalog registry as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Antiquity ids are read in a chain that ends where the game answers zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An antiquity with no lore entry is left out.",
     },
   ],

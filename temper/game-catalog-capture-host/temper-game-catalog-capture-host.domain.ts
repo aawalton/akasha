@@ -17,17 +17,17 @@ export const temperGameCatalogCaptureHost = {
     "module/tribute-catalog-schema",
     "module/zone-completion-catalog-schema",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each catalog here is a module of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A completion catalog here is read from a key the game already gives as a number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
     },
   ],

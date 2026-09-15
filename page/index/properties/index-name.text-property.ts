@@ -9,13 +9,13 @@ export const indexName = {
   maxLength: 30,
   nameFormat: "name-format/lower-kebab-case",
   unique: "unique-kind/page-type",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No two indexes share a name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name is the folder the answers stand in.",
     },
   ],

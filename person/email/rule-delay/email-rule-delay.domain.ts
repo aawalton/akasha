@@ -5,18 +5,18 @@ export const emailRuleDelay = {
   type: "page-type/domain",
   slug: "email-rule-delay",
   definition: "how long after a piece of mail arrives before an email rule acts on it",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A delay is measured from when the mail arrived rather than from when the rule was consulted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The delay postpones the acting rather than the matching.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A delay is on the rule rather than on an action.",
     },
   ],

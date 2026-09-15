@@ -6,21 +6,21 @@ export const mapPingHandler = {
   slug: "map-ping-handler",
   definition: "the wrappers around the game's own map ping functions",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A wrapper calls the function the wrapper replaced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game's own map is unhooked from the ping event.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A suppressed ping reads back as no position.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A group ping outside a group is dropped.",
     },
   ],

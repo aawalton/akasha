@@ -6,25 +6,25 @@ export const questsTrace = {
   slug: "quests-trace",
   definition: "what the addon saw and what it decided, written down where it can be read back",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A menu is written down once however often the menu is read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The same decision twice running is written down once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Leaving the dialogue is written down even where the decision repeats.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An option code is written down beside the name the game gives that code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Turning tracing on again clears the trace written before.",
     },
   ],

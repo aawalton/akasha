@@ -5,21 +5,21 @@ export const throttled = {
   type: "page-type/cpu-kind",
   slug: "throttled",
   definition: "time a program was held off a processor by its own ceiling",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Throttling is a ceiling being kept rather than a host being short.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A program is throttled while processors elsewhere are idle.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The kernel counts both how often a program was throttled and for how long.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A ceiling nothing is ever throttled against is a ceiling nothing reached.",
     },
   ],

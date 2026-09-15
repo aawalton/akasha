@@ -6,9 +6,9 @@ export const companionQolCasts = {
   slug: "companion-qol-casts",
   definition: "reading a value of a known kind out of a saved variables table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value of the wrong kind reads back as the fallback rather than raising.",
     },
   ],

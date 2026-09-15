@@ -6,9 +6,9 @@ export const weaponAndArmorSkillLines = {
   slug: "weapon-and-armor-skill-lines",
   definition: "the six weapon skill lines and the three armor skill lines",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-line pages rather than by hand.",
     },
   ],

@@ -13,21 +13,21 @@ export const modelProvider = {
     "text-property/provider-model",
     "url-property/api-base",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A provider is a domain whose subject is one outside system.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A gateway sends the Anthropic wire shape, so a provider takes that shape.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every provider akasha reaches is a page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The base a call goes to is read from the provider's page rather than from code.",
     },
   ],

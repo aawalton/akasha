@@ -7,13 +7,13 @@ export const resumeThresholdMinutes = {
   propertySlug: "resume-threshold-minutes",
   definition: "how long a seat's session sits idle before starting it offers the resume menu",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a headless seat has this property.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A threshold no seat reaches is how the resume menu never appears.",
     },
   ],

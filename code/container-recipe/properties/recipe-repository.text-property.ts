@@ -8,13 +8,13 @@ export const recipeRepository = {
   definition: "the name an image is held under in the registry it is pushed to",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The name carries no registry host.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The name carries no tag.",
     },
   ],

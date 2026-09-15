@@ -6,34 +6,34 @@ export const ciBenchmark = {
   slug: "ci-benchmark",
   definition: "one CI node's substrate measured against the whole check registry on a cold store",
   parts: ["module/toolchain-manifest"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pod is placed by a hostname nodeSelector rather than by a node name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pod the kubelet rejects is a destroyed run rather than a retried run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The store is empty at the start of every run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The store is independent of the node.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two runs are comparable only where their failures match on name and exit code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A failure outside the declared set invalidates the run rather than failing that run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The memory request covers the tmpfs size limit as well as the working set.",
     },
   ],

@@ -10,13 +10,13 @@ export const changeMechanicalPageTypeChange = {
     "change-mechanical-page-type/change-property-on-page-type",
     "change-mechanical-page-type/qualify-relation-on-every-page",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here answers for every page of the page type at once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here writes the declaration, the pages under it, or both.",
     },
   ],

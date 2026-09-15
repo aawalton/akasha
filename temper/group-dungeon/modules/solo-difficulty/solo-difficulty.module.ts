@@ -6,9 +6,9 @@ export const soloDifficulty = {
   slug: "solo-difficulty",
   definition: "how hard one player alone finds a dungeon",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dungeon saying nothing of its difficulty is taken as hard.",
     },
   ],

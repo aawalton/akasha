@@ -6,9 +6,9 @@ export const completionOverride = {
   slug: "completion-override",
   definition: "a floor a player sets by hand under one item of one completion card",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

@@ -30,33 +30,33 @@ export const serviceInference = {
     { pageProperty: "text-property/lifecycle", required: true, many: false },
     { pageProperty: "boolean-property/warm", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An inference service names the script that builds the environment it runs in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder handed to the host is read off that script rather than spelled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shell on the host reads the command line an inference service runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service the pool fronts is asked for at its port and listens on its own.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An inference service reaches its host through `akasha deploy` alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pool service states an internal port and an always-on service states none.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A warm service is a pool service.",
     },
   ],

@@ -6,9 +6,9 @@ export const toolchainManifest = {
   slug: "toolchain-manifest",
   definition: "where each binary a CI toolchain installs is fetched from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A binary is fetched at a pinned version rather than latest.",
     },
   ],

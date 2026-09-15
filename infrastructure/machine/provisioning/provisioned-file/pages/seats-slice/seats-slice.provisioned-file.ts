@@ -10,17 +10,17 @@ export const seatsSlice = {
   onlyOn: "linux",
   installPath: "~/.config/systemd/user/seats.slice",
   reloadWith: "systemctl --user daemon-reload",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The share is held by the seats together rather than by each seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat takes the whole machine while the apps want none of it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat already running keeps the slice that seat began in.",
     },
   ],

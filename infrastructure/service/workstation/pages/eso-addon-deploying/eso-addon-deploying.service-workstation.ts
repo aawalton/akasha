@@ -12,18 +12,18 @@ export const esoAddonDeploying = {
     jitterSeconds: 10,
     startTimeoutSeconds: 3900,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon is compiled and placed where the game reads it, and nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A tick with every addon up to date puts nothing up, so that is no loop without end.",
     },

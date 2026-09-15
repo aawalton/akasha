@@ -6,17 +6,17 @@ export const addonMenuEsoControls = {
   slug: "addon-menu-eso-controls",
   definition: "the game control members and color constants the option widgets reach",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name here keeps the spelling the game gives that name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name the shared game types already declare is left out.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

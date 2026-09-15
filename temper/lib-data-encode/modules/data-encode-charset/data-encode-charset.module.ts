@@ -6,21 +6,21 @@ export const dataEncodeCharset = {
   slug: "data-encode-charset",
   definition: "the alphabet a value is written in and the control characters parting values",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The alphabet has the characters the game carries through a saved string.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The lookup each way is worked out from the alphabet as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A control character found in the alphabet raises an error as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A control character names the reader for the characters following that character.",
     },

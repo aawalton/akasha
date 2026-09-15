@@ -11,13 +11,13 @@ export const heardMusic = {
     { pageProperty: "relation-property/person", required: true, many: false },
     { pageProperty: "page-property-entry/tracks", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One person has one heard music page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A track entered into a heard music page is never taken out.",
     },
   ],

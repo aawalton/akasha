@@ -8,9 +8,9 @@ export const lengthPropertyId = {
   definition: "the key of the property holding how long a page is",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page whose length is not known is never recorded as read at its end.",
     },
   ],

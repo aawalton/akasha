@@ -8,13 +8,13 @@ export const appLayout = {
   definition: "the route a signed-in reader's routes render inside",
   extensions: ["tsx"],
   fileName: "_app-layout.tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This route is reached by the route table rather than by a url.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A router app serving a signed-out reader alone states no app layout.",
     },
   ],

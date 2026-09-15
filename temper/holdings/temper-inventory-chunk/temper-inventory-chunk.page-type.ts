@@ -17,21 +17,21 @@ export const temperInventoryChunk = {
     { pageProperty: "number-property/chunk-index", required: true, many: false },
     { pageProperty: "number-property/byte-count", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pieces of one reading rejoin in the order the chunk indexes give.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A piece is divided on a byte count rather than on a JSON boundary.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The file a piece names has that piece's whole byte count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bytes a page here counts are in the reading's own data file.",
     },
   ],

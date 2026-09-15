@@ -8,21 +8,21 @@ export const refusedCommit = {
   definition: "the commit the last deploy that refused was made at",
   maxLength: 40,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The commit is the whole hash git resolved rather than the name a call gave.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A deploy that finished leaves the commit as that commit was.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dry run leaves the commit as that commit was.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The commit is kept uncommitted, so no deploy's closure reaches it.",
     },
   ],

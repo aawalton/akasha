@@ -8,9 +8,9 @@ export const epoch = {
   definition: "the day a rotation is counted from",
   maxLength: 10,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a day rather than text.",
     },
   ],

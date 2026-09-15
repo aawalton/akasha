@@ -7,13 +7,13 @@ export const sortOrder = {
   propertySlug: "sort-order",
   definition: "whether a group draws its readings in label order or in place order",
   values: ["label", "place"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A group stating nothing draws in label order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two readings sharing one place draw in label order between the two.",
     },
   ],

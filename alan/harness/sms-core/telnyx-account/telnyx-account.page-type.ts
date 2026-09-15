@@ -23,17 +23,17 @@ export const telnyxAccount = {
       secret: true,
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key is in the sops file beside the page and never in the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The number a text is sent from is on the account rather than in the environment.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The accounts are pages under this type rather than markdown.",
     },
   ],

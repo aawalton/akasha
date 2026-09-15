@@ -7,18 +7,18 @@ export const esoTraitReverseMap = {
   definition:
     "the temper trait id an ESO trait number means, for a player's gear or for a companion's",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An equip type the game numbers as jewelry is read against the jewelry maps alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A player trait map is read before a companion trait map.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here answers for an ESO trait number no map has.",
     },
   ],

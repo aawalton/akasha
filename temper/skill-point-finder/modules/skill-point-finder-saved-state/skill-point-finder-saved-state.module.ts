@@ -6,13 +6,13 @@ export const skillPointFinderSavedState = {
   slug: "skill-point-finder-saved-state",
   definition: "the skill point window's own saved variables, read forward from older shapes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A saved shape from an older version is read forward on load.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game is the only writer of a saved-variables file.",
     },
   ],

@@ -6,13 +6,13 @@ export const ttlCache = {
   slug: "ttl-cache",
   definition: "a store dropping its oldest entry and its expired ones",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reading an entry makes the entry the newest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry past its time reads as nothing and is dropped at the reading.",
     },
   ],

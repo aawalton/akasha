@@ -8,9 +8,9 @@ export const shellSha = {
   definition: "the commit of the app shell a cut was built from",
   maxLength: 40,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A cut built from no separate shell leaves this property off rather than repeating its main sha.",
     },

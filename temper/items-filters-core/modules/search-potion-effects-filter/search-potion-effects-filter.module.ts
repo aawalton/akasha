@@ -7,17 +7,17 @@ export const searchPotionEffectsFilter = {
   definition:
     "the effects a potion carries, narrowed by a multiselect of health, magicka, and stamina restore",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item matches the selection where the item has a selected effect.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The three restore effects are offered rather than the full potion effect list.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

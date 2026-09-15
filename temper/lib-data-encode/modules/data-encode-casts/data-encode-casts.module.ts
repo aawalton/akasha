@@ -6,9 +6,9 @@ export const dataEncodeCasts = {
   slug: "data-encode-casts",
   definition: "what an unknown handed to the encoder or read by the decoder is taken as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

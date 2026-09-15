@@ -7,9 +7,9 @@ export const baseRoles = {
   propertySlug: "base-roles",
   definition: "the parts a companion build is arranged to play",
   values: ["tank", "healer"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build arranged for no part names none.",
     },
   ],

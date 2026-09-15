@@ -12,21 +12,21 @@ export const temperGroupDungeon = {
     "module/pledge-rotation",
     "module/solo-difficulty",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dungeon is reached by its short key rather than by its name.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which dungeons and quest givers a reckoning covers is handed in by the caller.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The dungeon data here is written out from the dungeon pages.",
     },
   ],

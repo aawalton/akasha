@@ -6,17 +6,17 @@ export const ttcListingTypes = {
   slug: "ttc-listing-types",
   definition: "the shape a search of Tamriel Trade Centre listings asks for and answers with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A search asks for one page of listings at a time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field name here keeps Tamriel Trade Centre's spelling.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A listing older than the age the search names is left out.",
     },
   ],

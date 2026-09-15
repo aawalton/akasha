@@ -6,17 +6,17 @@ export const nextBossState = {
   slug: "next-boss-state",
   definition: "the one table every part of this tracker reads and writes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One table has the state this tracker keeps.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is declared whole and filled in by the modules that own each part.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The table is cast rather than built.",
     },
   ],

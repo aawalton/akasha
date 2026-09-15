@@ -7,9 +7,9 @@ export const repo = {
   definition: "a domain whose subject is one repository",
   extends: ["page-type/domain"],
   parts: ["repo/akasha-repo", "repo/code-editor-repo"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The repository a change lands in settles how that change lands.",
     },
   ],

@@ -8,9 +8,9 @@ export const progressPropertyId = {
   definition: "the key of the property holding how far into a page the reader has come",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key named here that the page type has no property for records nothing.",
     },
   ],

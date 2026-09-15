@@ -6,9 +6,9 @@ export const readOnlyHarness = {
   slug: "read-only-harness",
   definition: "a browser session opened over a user who is only ever read",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Signing in as the protected user is refused unless the caller opted in deliberately.",
     },

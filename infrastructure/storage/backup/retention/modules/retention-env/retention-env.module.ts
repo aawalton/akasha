@@ -6,13 +6,13 @@ export const retentionEnv = {
   slug: "retention-env",
   definition: "what the environment states a retention run is to work against",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every setting has the cluster's own value as its default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run is a rehearsal only where the environment says so outright.",
     },
   ],

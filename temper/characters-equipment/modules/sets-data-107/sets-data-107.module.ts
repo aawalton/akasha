@@ -6,13 +6,13 @@ export const setsData107 = {
   slug: "sets-data-107",
   definition: "part 107 of the gear set table, trappings-of-invigoration through true-sworn-fury",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The sets are named here in the order the gathered table answers its ids in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A set moved to another place breaks every build hash saved.",
     },
   ],

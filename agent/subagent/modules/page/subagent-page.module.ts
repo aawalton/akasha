@@ -8,18 +8,18 @@ export const subagentPage = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Which repositories are cloned here is asked once and held for the life of the process.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A root named by the environment is read in a process that has asked nothing yet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat is found by its id and is a seat by the page type its file name says.",
     },
   ],

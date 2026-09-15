@@ -6,13 +6,13 @@ export const reloadUi = {
   slug: "reload-ui",
   definition: "the game asked to load its interface again with the player left where they are",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The interface is loaded again with the player still in the world.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is handed back, because the interface goes before the next line runs.",
     },
   ],

@@ -6,27 +6,27 @@ export const gitPathspec = {
   slug: "git-pathspec",
   definition: "git asked which paths it ignores and which paths it tracks under a folder",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The paths git tracks under a folder are asked for by that folder alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A repository git will not answer for answers nothing rather than no path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The repository root is asked for as the folder `.` rather than as the empty string git refuses.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The paths git ignores under a folder that the tree holds are asked for by that folder alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "One run of paths asked of a repository twice is answered without asking git again.",
     },

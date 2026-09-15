@@ -8,9 +8,9 @@ export const imageRoot = {
   definition: "the name of the place a picture's path is read against",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A root naming no place falls back to the first place given.",
     },
   ],

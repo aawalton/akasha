@@ -7,9 +7,9 @@ export const liveRefreshMs = {
   propertySlug: "live-refresh-ms",
   definition: "how often in milliseconds a view redraws itself",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A view stating nothing redraws only when the pages that view draws change.",
     },
   ],

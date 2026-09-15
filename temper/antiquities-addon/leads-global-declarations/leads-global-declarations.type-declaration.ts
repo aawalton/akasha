@@ -6,9 +6,9 @@ export const leadsGlobalDeclarations = {
   slug: "leads-global-declarations",
   definition: "the shape of the table the lead window's markup calls into",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A key here is spelled as the markup that calls the key spells the key.",
     },
   ],

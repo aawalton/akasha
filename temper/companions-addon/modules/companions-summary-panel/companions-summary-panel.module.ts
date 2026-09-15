@@ -6,9 +6,9 @@ export const companionsSummaryPanel = {
   slug: "companions-summary-panel",
   definition: "the table of one row per companion the summary tab is drawn from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Column positions are fixed numbers rather than measured from content.",
     },
   ],

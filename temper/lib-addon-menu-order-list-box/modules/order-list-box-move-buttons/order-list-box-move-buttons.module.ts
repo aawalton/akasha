@@ -6,13 +6,13 @@ export const orderListBoxMoveButtons = {
   slug: "order-list-box-move-buttons",
   definition: "the four buttons moving the picked row up, down, to the top or to the foot",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A move button is disabled where the picked row cannot go that way.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The four buttons sit beside the scroll list rather than on a row.",
     },
   ],

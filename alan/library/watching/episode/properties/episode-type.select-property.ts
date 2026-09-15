@@ -7,9 +7,9 @@ export const episodeType = {
   propertySlug: "episode-type",
   definition: "what an episode is to the run it sits in",
   values: ["standard", "mid-season", "finale"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "The values are the ones the record has rather than every value the provider answers with.",
     },

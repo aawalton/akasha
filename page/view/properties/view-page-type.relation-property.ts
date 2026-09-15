@@ -7,17 +7,17 @@ export const viewPageType = {
   propertySlug: "page-type",
   definition: "the page type whose pages a view lists",
   targetPageType: "page-type/page-type",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A view names the page type by that page type's own slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A view naming a predicate instead names no page type here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A view naming neither lists nothing.",
     },
   ],

@@ -8,9 +8,9 @@ export const sequenceOrderBy = {
   definition: "the key a run of pages is sorted by",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key named here that the page type has no property for sorts nothing.",
     },
   ],

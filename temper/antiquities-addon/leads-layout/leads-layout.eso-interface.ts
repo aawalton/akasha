@@ -7,14 +7,14 @@ export const leadsLayout = {
   definition: "the whole antiquity lead window, from its title row to its list rows",
   markup: "xml",
   loadedAs: "TemperAntiquities.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every control the lead code reaches is declared here and nowhere else.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row of the list is a virtual control the list clones.",
     },
   ],

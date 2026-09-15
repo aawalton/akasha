@@ -29,7 +29,7 @@ import {
 test("a question is answered with rows", async () => {
   const answered = await answering(
     GIVEN,
-    asking({ pageTypeSlug: "invariant-kind", keys: ["slug"] })
+    asking({ pageTypeSlug: "decision-kind", keys: ["slug"] })
   )
   expect(answered.status).toBe(200)
   const held = await bodyOf(answered)
@@ -39,7 +39,7 @@ test("a question is answered with rows", async () => {
 
 test("an answer counts what matched before what was taken", async () => {
   const held = await bodyOf(
-    await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", limit: 1 }))
+    await answering(GIVEN, asking({ pageTypeSlug: "decision-kind", limit: 1 }))
   )
   expect(held.n).toBe(6)
 })
@@ -48,7 +48,7 @@ test("a question whose rows run past what an answer carries is refused by size",
   const answered = await tightly()
   expect(answered.status).toBe(400)
   const refused = await refusalOf(answered)
-  expect(refused).toContain("invariant-kind")
+  expect(refused).toContain("decision-kind")
   expect(refused).toContain("40 characters")
   expect(refused).toContain("of 6 rows matching")
 })
@@ -58,7 +58,7 @@ test("a question narrowed under what an answer carries is answered", async () =>
 })
 
 test("nothing is asked at another path", async () => {
-  const answered = await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind" }, "/elsewhere"))
+  const answered = await answering(GIVEN, asking({ pageTypeSlug: "decision-kind" }, "/elsewhere"))
   expect(answered.status).toBe(404)
 })
 
@@ -83,20 +83,20 @@ test("a question naming no page type is refused", async () => {
 test("a where that is no test is refused", async () => {
   const answered = await answering(
     GIVEN,
-    asking({ pageTypeSlug: "invariant-kind", where: { slug: 7 } })
+    asking({ pageTypeSlug: "decision-kind", where: { slug: 7 } })
   )
   expect(answered.status).toBe(400)
   expect(await refusalOf(answered)).toContain("where.slug")
 })
 
 test("keys that are not strings are refused", async () => {
-  const answered = await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", keys: [7] }))
+  const answered = await answering(GIVEN, asking({ pageTypeSlug: "decision-kind", keys: [7] }))
   expect(answered.status).toBe(400)
   expect(await refusalOf(answered)).toContain("keys")
 })
 
 test("what the pages refuse is carried back", async () => {
-  const answered = await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", limit: -1 }))
+  const answered = await answering(GIVEN, asking({ pageTypeSlug: "decision-kind", limit: -1 }))
   expect(answered.status).toBe(400)
   expect(await refusalOf(answered)).toContain("limit")
 })
@@ -129,7 +129,7 @@ test("an answer to a write names the commit it landed as", async () => {
 test("a test the pages do not run is refused by the name it was given", async () => {
   const answered = await answering(
     GIVEN,
-    asking({ pageTypeSlug: "invariant-kind", where: { slug: { startsWith: "de" } } })
+    asking({ pageTypeSlug: "decision-kind", where: { slug: { startsWith: "de" } } })
   )
   expect(answered.status).toBe(400)
   expect(await refusalOf(answered)).toContain("where.slug.startsWith")
@@ -138,7 +138,7 @@ test("a test the pages do not run is refused by the name it was given", async ()
 test("a refusal over a test names what the pages do run", async () => {
   const answered = await answering(
     GIVEN,
-    asking({ pageTypeSlug: "invariant-kind", where: { slug: { gt: "de" } } })
+    asking({ pageTypeSlug: "decision-kind", where: { slug: { gt: "de" } } })
   )
   expect(await refusalOf(answered)).toContain("ends-with")
 })
@@ -146,7 +146,7 @@ test("a refusal over a test names what the pages do run", async () => {
 test("a where holding only the tests already taken answers as it did", async () => {
   const answered = await answering(
     GIVEN,
-    asking({ pageTypeSlug: "invariant-kind", where: { slug: { is: "gap" } }, keys: ["slug"] })
+    asking({ pageTypeSlug: "decision-kind", where: { slug: { is: "gap" } }, keys: ["slug"] })
   )
   expect(answered.status).toBe(200)
   expect((await bodyOf(answered)).rows).toEqual([{ slug: "gap" }])
@@ -155,7 +155,7 @@ test("a where holding only the tests already taken answers as it did", async () 
 test("a test named nowhere is refused rather than narrowing nothing", async () => {
   const answered = await answering(
     GIVEN,
-    asking({ pageTypeSlug: "invariant-kind", where: { slug: { bogusop: "de" } }, keys: ["slug"] })
+    asking({ pageTypeSlug: "decision-kind", where: { slug: { bogusop: "de" } }, keys: ["slug"] })
   )
   expect(answered.status).toBe(400)
   expect(await refusalOf(answered)).toContain("bogusop")

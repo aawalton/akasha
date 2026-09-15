@@ -6,21 +6,21 @@ export const luaArray = {
   slug: "lua-array",
   definition: "reading a Lua list the file may have written keyed or unkeyed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record put in place of a list keeps the order its keys were written in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item's key goes at the head of the path an error names.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "One item failing fails the whole list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value that is neither a list nor a record reads as an empty list.",
     },
   ],

@@ -6,13 +6,13 @@ export const addonKeybindsNames = {
   slug: "addon-keybinds-names",
   definition: "the global name, the version and the row type numbers the game's list uses",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global name is also the name the game event is registered under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row type number is taken from the game's own keybinding list.",
     },
   ],

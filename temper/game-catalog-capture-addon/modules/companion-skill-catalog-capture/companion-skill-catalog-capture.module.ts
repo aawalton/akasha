@@ -7,17 +7,17 @@ export const companionSkillCatalogCapture = {
   definition:
     "the companion skill lines and abilities, read in batches into the add-on's saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The collector adds itself to the catalog registry as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Abilities are read in batches so the client keeps its frame rate.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A skill line's highest rank is the highest rank an ability of that line asks for.",
     },

@@ -6,25 +6,25 @@ export const auditAstUnused = {
   slug: "audit-ast-unused",
   definition: "the entry globs reachability is worked out from",
   parts: ["ast-unused-config/every-workspace", "page-type/ast-unused-config"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The curation is one root file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tree is one workspace, so the curation names no part.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workspace the curation does not name takes the default entry globs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reachability is computed from the entry globs the curation names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change to the entry globs moves the files that read as reached.",
     },
   ],

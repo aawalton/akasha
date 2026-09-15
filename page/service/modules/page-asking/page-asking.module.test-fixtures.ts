@@ -26,7 +26,7 @@ export function slugsOf(asked: Asked): readonly unknown[] {
 
 export function over(where: unknown): Asked {
   return asking(root, {
-    pageTypeSlug: "invariant-kind",
+    pageTypeSlug: "decision-kind",
     where: where as Query["where"],
     keys: ["slug"],
   })

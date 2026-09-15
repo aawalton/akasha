@@ -6,9 +6,9 @@ export const skyshardsData2 = {
   slug: "skyshards-data-2",
   definition: "one run of the zones of the skyshard table, gathered from the runs its maps sit in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These zones are one unbroken run of the whole table's order.",
     },
   ],

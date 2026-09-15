@@ -6,9 +6,9 @@ export const housingBuildLibraryTab = {
   slug: "housing-build-library-tab",
   definition: "building the controls of the community library tab",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Controls are built once and hidden rather than made again.",
     },
   ],

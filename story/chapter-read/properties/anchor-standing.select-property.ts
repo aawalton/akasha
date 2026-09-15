@@ -7,14 +7,14 @@ export const anchorStanding = {
   propertySlug: "standing",
   definition: "whether the story tells an anchor or a person in it says so",
   values: ["asserted", "claimed"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An anchor the story tells is asserted and an anchor a person in that story says is claimed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a claimed anchor names who claimed the anchor.",
     },
   ],

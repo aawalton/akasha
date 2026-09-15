@@ -6,9 +6,9 @@ export const completionDailyWritsProgress = {
   slug: "completion-daily-writs-progress",
   definition: "how many of today's seven daily writs each character has turned in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The count shown is the count of today alone.",
     },
   ],

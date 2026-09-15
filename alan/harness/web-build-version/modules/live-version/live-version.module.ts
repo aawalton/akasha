@@ -6,13 +6,13 @@ export const liveVersion = {
   slug: "live-version",
   definition: "the response a running site answers with when asked which commit it is",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The answer is never cached.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build with no commit answers with the reason rather than with nothing.",
     },
   ],

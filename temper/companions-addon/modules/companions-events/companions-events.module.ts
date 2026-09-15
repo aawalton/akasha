@@ -6,9 +6,9 @@ export const companionsEvents = {
   slug: "companions-events",
   definition: "the game events the companion add-on listens for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every listener is named after the add-on so a reload can drop those listeners.",
     },
   ],

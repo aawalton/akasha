@@ -6,9 +6,9 @@ export const comparisonOp = {
   slug: "comparison-op",
   definition: "one numeric comparison carried out under the operator naming it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every operator the comparison table names is answered here.",
     },
   ],

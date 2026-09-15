@@ -6,22 +6,22 @@ export const addonMenuDialogs = {
   slug: "addon-menu-dialogs",
   definition: "the reset-to-defaults and reload-UI dialogs and the panel reopened after a reload",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panel to reopen is stored in saved variables before the UI reloads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Discarding restores every reload-flagged control to the value that control had on creation.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Dismissing the reload dialog without choosing discards the changes.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Dialog descriptors are created once and kept in the game's global dialog table.",
     },
   ],

@@ -6,18 +6,18 @@ export const companionSkillExecutor = {
   slug: "companion-skill-executor",
   definition: "what activating a companion skill does to the rotation state",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The global cooldown starts when a cast finishes rather than when the cast begins.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Refreshing an effect adds only the time past its old end.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A heals-self-only skill extends the ultimate window only while that window is open.",
     },

@@ -6,18 +6,18 @@ export const copAdmin = {
   slug: "cop-admin",
   definition: "asking the traffic cop which service is resident and telling it to swap",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The admin port is reached from the host over ssh rather than across the network.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A cop that answers something other than the expected answer is raised as an operational failure.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An activate posted is named before its answer is read, since that read can fail.",
     },
   ],

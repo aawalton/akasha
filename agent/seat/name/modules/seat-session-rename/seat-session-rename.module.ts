@@ -7,25 +7,25 @@ export const seatSessionRename = {
   definition: "the tmux session a renamed seat sits in, moved to the seat's new name",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with no session standing under its old name is left alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rename onto a name a live session already holds is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A session name is matched exactly rather than as a prefix.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rename that does not happen is said in the words that follow the rename.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rename that leaves the seat where that seat was says nothing.",
     },
   ],

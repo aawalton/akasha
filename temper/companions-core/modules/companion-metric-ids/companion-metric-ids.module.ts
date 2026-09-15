@@ -6,9 +6,9 @@ export const companionMetricIds = {
   slug: "companion-metric-ids",
   definition: "every quantity a companion build is measured by, named as one type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This list imports nothing.",
     },
   ],

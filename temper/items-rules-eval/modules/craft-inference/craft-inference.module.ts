@@ -7,23 +7,23 @@ export const craftInference = {
   definition:
     "the crafting type and trait name an equipment item implies, read off the item's type numbers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Necklaces and rings infer jewelry crafting ahead of any armor or weapon reasoning.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Heavy armor infers blacksmithing while light and medium armor infer clothier.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A bow or a staff or a shield infers woodworking while another weapon infers blacksmithing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Research inference rejects any trait type outside 1 through 33.",
     },
   ],

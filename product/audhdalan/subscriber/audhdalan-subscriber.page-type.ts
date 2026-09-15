@@ -10,17 +10,17 @@ export const audhdalanSubscriber = {
   properties: [
     { pageProperty: "email-address-property/subscriber-email", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subscriber is slugged from the address the subscriber gave.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The same address given again reaches the subscriber already filed here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subscriber arrives from the subscribe form audhdalan.com serves.",
     },
   ],

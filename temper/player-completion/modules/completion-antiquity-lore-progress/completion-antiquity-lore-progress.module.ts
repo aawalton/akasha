@@ -6,30 +6,30 @@ export const completionAntiquityLoreProgress = {
   slug: "completion-antiquity-lore-progress",
   definition: "how much antiquity lore an account has dug up, category by category",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The antiquity catalog arrives as an argument rather than as an imported table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A record entry with a name is read for the acquired lore entries the entry states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record entry that is a bare number is that many lore entries acquired.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An antiquity the record says nothing about has no lore entries acquired.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How many lore entries an antiquity has is taken from the catalog.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An empty catalog answers an empty progress.",
     },
   ],

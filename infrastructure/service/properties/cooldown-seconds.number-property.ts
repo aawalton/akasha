@@ -7,22 +7,22 @@ export const cooldownSeconds = {
   propertySlug: "cooldown-seconds",
   definition: "how long a service waits after a deploy before that service is deployed again",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wait is counted from the moment the last deploy of that service ended.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating nothing here waits the hour every service waits by default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The wait keeps a run of commits from putting the same service up once for each commit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service a person deploys by hand waits out nothing.",
     },
   ],

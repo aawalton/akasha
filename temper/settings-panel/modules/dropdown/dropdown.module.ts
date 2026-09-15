@@ -6,21 +6,21 @@ export const dropdown = {
   slug: "dropdown",
   definition: "a choice among named options, described for the add-on menu library",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dropdown given no values of its own is set by the place a choice sits at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dropdown given values of its own is set by the value itself.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A value outside the list handed in is ignored.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A place outside the list reads as the empty string.",
     },
   ],

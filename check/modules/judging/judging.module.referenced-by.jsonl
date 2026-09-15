@@ -67,10 +67,10 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.decision.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/invariant-restated-on-a-part-narrows-it/invariant-restated-on-a-part-narrows-it.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/invariant-restated-on-a-part-narrows-it/invariant-restated-on-a-part-narrows-it.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/invariant-statement-is-plain/invariant-statement-is-plain.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/invariant-statement-is-plain/invariant-statement-is-plain.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.check.test.ts"}

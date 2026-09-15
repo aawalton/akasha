@@ -8,9 +8,9 @@ export const stoplights = {
   definition: "the rung each of the day's six values reached, as one colored light apiece",
   holds: "text",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day missing any of the six lights states no lights.",
     },
   ],

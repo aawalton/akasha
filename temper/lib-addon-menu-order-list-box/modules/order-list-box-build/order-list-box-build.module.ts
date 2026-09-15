@@ -6,13 +6,13 @@ export const orderListBoxBuild = {
   slug: "order-list-box-build",
   definition: "the widget object built from a caller's data, with its scroll list and rows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One scroll list has every row of one order list box.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row has the entry shown rather than the index of the row.",
     },
   ],

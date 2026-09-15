@@ -6,17 +6,17 @@ export const scrollableMenuUtilHiddenContext = {
   slug: "scrollable-menu-util-hidden-context",
   definition: "the part of the mouse-up decision that runs while a context menu is open",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The context-menu arm of the hide decision sits in its own module for length.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every value the arm reads is handed in rather than reached from the caller.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The arm answers whether the open menu should hide.",
     },
   ],

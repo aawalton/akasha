@@ -41,21 +41,21 @@ export const temperCharactersCaptureAddon = {
     "module/character-capture-skill-line-ranks",
     "module/character-capture-skill-map",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A place in these tables is the number a saved build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An entry moved to another place misreads every build hash already saved.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "These tables are committed source, compiled into whichever add-on imports them.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a build hash back.",
     },
   ],

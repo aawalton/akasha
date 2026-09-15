@@ -7,13 +7,13 @@ export const supervisorDeferredRestartProbe = {
   definition: "an idle reading bounded by the tick it is taken in",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A probe past its tick reads busy rather than holding the tick open.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A probe that faults reads busy rather than idle.",
     },
   ],

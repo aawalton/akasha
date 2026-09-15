@@ -7,9 +7,9 @@ export const alanWebApiErrors = {
   definition: "the errors a reader's browser reports",
   code: "ts",
   urlPath: "api/errors",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A report sent from the capacitor shell is answered with cross-origin headers.",
     },
   ],

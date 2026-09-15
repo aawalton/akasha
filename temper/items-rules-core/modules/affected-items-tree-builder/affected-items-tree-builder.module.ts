@@ -6,17 +6,17 @@ export const affectedItemsTreeBuilder = {
   slug: "affected-items-tree-builder",
   definition: "the items a rule reaches, folded into a tree by type or by where they sit",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character's worn items are kept apart from that character's backpack.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A location type with one location is drawn without a level for the location.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A guild is drawn with its own level even where only one guild has items.",
     },
   ],

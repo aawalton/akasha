@@ -8,9 +8,9 @@ export const proxyVersion = {
   definition: "the build of the proxy serving a seat",
   maxLength: 64,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build is named by the digest of the source the build was built from.",
     },
   ],

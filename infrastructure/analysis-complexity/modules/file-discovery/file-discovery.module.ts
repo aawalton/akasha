@@ -6,17 +6,17 @@ export const fileDiscovery = {
   slug: "file-discovery",
   definition: "the TypeScript files a git checkout tracks",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file git ignores is no file here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A declaration file and a generated file are left out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkout git will not name answers with no file at all.",
     },
   ],

@@ -6,9 +6,9 @@ export const asyncGlobal = {
   slug: "async-global",
   definition: "the one global name the game and other addons reach the library by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library table is published under the addon name.",
     },
   ],

@@ -13,13 +13,13 @@ export const storage = {
     "domain/git-repo",
     "domain/object-store",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Durability is off by default in every store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Durability is asked for one thing at a time.",
     },
   ],

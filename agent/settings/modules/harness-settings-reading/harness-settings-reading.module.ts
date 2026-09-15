@@ -6,22 +6,22 @@ export const harnessSettingsReading = {
   slug: "harness-settings-reading",
   definition: "the settings body beside one agent-settings page, read and narrowed to its shape",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where the settings page sits is asked of the index rather than spelled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The settings body is the file beside that page rather than a second path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A settings page nothing is slugged for refuses, and the refusal says what is unknown for want of it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The body is narrowed by the shape its reader hands in rather than by one here.",
     },
   ],

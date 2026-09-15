@@ -7,13 +7,13 @@ export const topicRelated = {
   propertySlug: "related",
   definition: "the topics a topic reaches across to",
   targetPageType: "page-type/all-about-alan-topic",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic reached across to sits under no obligation to reach back.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic already reached through a parent is named here as well.",
     },
   ],

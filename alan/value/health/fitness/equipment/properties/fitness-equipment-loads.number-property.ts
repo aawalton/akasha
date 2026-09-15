@@ -7,17 +7,17 @@ export const fitnessEquipmentLoads = {
   propertySlug: "loads",
   definition: "the weights a piece of kit is available at, in pounds",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The loads are in the order the loads are climbed from lightest to heaviest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A piece whose load is not chosen in steps names no load.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A load is the weight one side carries rather than the weight the pair has.",
     },
   ],

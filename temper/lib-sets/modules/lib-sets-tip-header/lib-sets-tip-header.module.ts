@@ -6,18 +6,18 @@ export const libSetsTipHeader = {
   slug: "lib-sets-tip-header",
   definition: "the localized labels and tooltip controls the rest of the tooltip code reads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The custom pattern is a string of numbered placeholders between double angle brackets.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which placeholders the pattern has is remembered as flags in the shared state.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A pattern with no numbered placeholder is not read as a custom tooltip.",
     },
   ],

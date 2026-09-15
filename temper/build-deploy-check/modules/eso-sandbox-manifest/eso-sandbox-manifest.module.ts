@@ -6,17 +6,17 @@ export const esoSandboxManifest = {
   slug: "eso-sandbox-manifest",
   definition: "what the game's Lua sandbox leaves of the Lua standard library",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A namespace named as wholly stripped names no member the sandbox keeps.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A member absent from its namespace's list is a member the sandbox took away.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This list is read off the game rather than derived from anything here.",
     },
   ],

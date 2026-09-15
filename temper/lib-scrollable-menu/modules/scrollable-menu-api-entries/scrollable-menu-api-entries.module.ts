@@ -6,17 +6,17 @@ export const scrollableMenuApiEntries = {
   slug: "scrollable-menu-api-entries",
   definition: "the typed global wrappers that add one entry of a fixed entry type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each wrapper delegates to the single generic entry-adding global.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Optional arguments are folded into the additional-data table before delegating.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every wrapper returns the added index and the created entry table.",
     },
   ],

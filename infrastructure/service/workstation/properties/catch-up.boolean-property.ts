@@ -6,9 +6,9 @@ export const catchUp = {
   slug: "catch-up",
   propertySlug: "catch-up",
   definition: "whether a timer runs for a time it was down for",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A timer stating false lets a missed time go by.",
     },
   ],

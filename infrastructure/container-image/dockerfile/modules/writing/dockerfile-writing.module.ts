@@ -7,13 +7,13 @@ export const dockerfileWriting = {
   definition: "the Dockerfile written for a built image, from what that image states and imports",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image stating no extensions adds nothing to the Dockerfile written for it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image stating extensions its file is not there for is refused.",
     },
   ],

@@ -6,22 +6,22 @@ export const supervisorInteractiveBootContract = {
   slug: "supervisor-interactive-boot-contract",
   definition: "what a seat's interactive boot is asked for and what it hands back",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here has behaviour.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every export is a type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The boot's answer names the credential subsystem's parts rather than the subsystem.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "A new thing the boot returns is stated here before the boot returns that thing.",
     },
   ],

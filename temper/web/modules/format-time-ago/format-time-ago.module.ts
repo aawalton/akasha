@@ -6,9 +6,9 @@ export const formatTimeAgo = {
   slug: "format-time-ago",
   definition: "an instant written as a phrase saying how long ago it was",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No instant is written as no words rather than as a phrase.",
     },
   ],

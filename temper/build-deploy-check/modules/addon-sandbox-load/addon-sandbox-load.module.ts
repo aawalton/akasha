@@ -6,25 +6,25 @@ export const addonSandboxLoad = {
   slug: "addon-sandbox-load",
   definition: "an emitted bundle run inside a Lua sandbox shaped like the game's",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A bundle that failed to load reports the bundle's state when the load ran.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A traceback longer than ten lines is shortened and says how many lines went.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A string id an add-on's markup consumes at load is asserted registered.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A string id the base game provides is left out of that assertion.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A recorder absent from the sandbox fails the assertion rather than passing.",
     },
   ],

@@ -6,9 +6,9 @@ export const dungeonChampionGlobal = {
   slug: "dungeon-champion-global",
   definition: "the name and version another addon reads off this one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This global is the addon's own name rather than a name the game owns.",
     },
   ],

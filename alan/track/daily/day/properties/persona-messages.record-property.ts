@@ -10,25 +10,25 @@ export const personaMessages = {
     { pageProperty: "relation-property/messaged-persona", required: true, many: false },
     { pageProperty: "number-property/messages-sent", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One persona has one record on a day.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record's count rises as the day runs rather than a record landing per message.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A persona written to on no day has no record on that day.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No record says when in the day a message was written.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here turns a count into points.",
     },
   ],

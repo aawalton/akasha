@@ -6,26 +6,26 @@ export const panelFilterBinding = {
   slug: "panel-filter-binding",
   definition: "the wrapper that hides the inventory rows the active filters reject",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The wrapper keeps the inventory's own filter and narrows the rows that filter passed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An inventory with no active filter value shows every row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row whose item facts cannot be read is shown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The craft bag is wrapped again after each backpack layout.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here draws a control.",
     },
   ],

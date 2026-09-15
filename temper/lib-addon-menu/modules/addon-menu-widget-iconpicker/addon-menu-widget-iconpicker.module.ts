@@ -6,21 +6,21 @@ export const addonMenuWidgetIconpicker = {
   slug: "addon-menu-widget-iconpicker",
   definition: "the icon swatch widget and its handle on the shared picker menu",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One icon picker menu is shared by every iconpicker on every panel.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Duplicate texture paths in the choices list are added once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A beforeShow returning true cancels the opening of the menu.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The default icon size is twenty-eight pixels.",
     },
   ],

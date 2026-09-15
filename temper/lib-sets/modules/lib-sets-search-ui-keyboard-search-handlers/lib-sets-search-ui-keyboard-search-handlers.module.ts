@@ -6,10 +6,10 @@ export const libSetsSearchUiKeyboardSearchHandlers = {
   slug: "lib-sets-search-ui-keyboard-search-handlers",
   definition: "the keyboard top-level window's answers to being created, moved and resized",
   code: "ts",
-  invariants: [
-    { invariantKind: "invariant-kind/constraint", statement: "Each published name is fixed." },
+  decisions: [
+    { decisionKind: "decision-kind/constraint", statement: "Each published name is fixed." },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The window object is made once on the first initialize event.",
     },
   ],

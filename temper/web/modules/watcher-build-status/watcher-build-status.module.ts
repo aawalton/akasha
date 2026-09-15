@@ -7,29 +7,29 @@ export const watcherBuildStatus = {
   definition: "how the build the watcher reports compares with the build it is meant to run",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stamp that cannot be compared reads as a gap rather than as stale.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stamp that is blank or whitespace is no stamp.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Never-reported outranks source-build.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Source-build outranks target-unknown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An instant that cannot be read is unknown rather than the start of the epoch.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A summary states nothing beyond the verdict the summary carries.",
     },
   ],

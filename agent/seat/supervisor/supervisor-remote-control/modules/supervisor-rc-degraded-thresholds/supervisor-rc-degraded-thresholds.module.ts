@@ -8,18 +8,18 @@ export const supervisorRcDegradedThresholds = {
     "the edge count, streaks and windows a seat's remote control is read as degraded against",
   code: "ts",
   testFixtures: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The code states the shape, and the fixtures a set of thresholds answering it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The healthy floor is the idle baseline of the connection signature rather than its active start.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A threshold stated in seconds is in milliseconds.",
     },
   ],

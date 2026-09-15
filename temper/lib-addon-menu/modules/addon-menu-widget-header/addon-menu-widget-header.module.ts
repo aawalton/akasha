@@ -6,17 +6,17 @@ export const addonMenuWidgetHeader = {
   slug: "addon-menu-widget-header",
   definition: "the section title with a rule above it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The header has a fixed height of thirty pixels.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No value is read or written by the header.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A help URL anchors its icon at the right edge of the title.",
     },
   ],

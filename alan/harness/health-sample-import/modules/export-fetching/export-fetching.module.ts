@@ -6,21 +6,21 @@ export const exportFetching = {
   slug: "export-fetching",
   definition: "an export read off this workstation or off the laptop, and parsed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This workstation is looked in before the laptop is asked.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workstation with no export falls through to the laptop.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One script reads either machine.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing is kept on disk between the fetch and the parse.",
     },
   ],

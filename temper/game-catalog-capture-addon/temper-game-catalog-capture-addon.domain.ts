@@ -35,25 +35,25 @@ export const temperGameCatalogCaptureAddon = {
     "module/weapon-type-constants",
     "module/zone-completion-catalog-capture",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each catalog domain is collected by a module of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collector adds itself to the registry in `temper-catalog-core`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The add-on bundling a collector decides whether that collector runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each catalog answers a reader in `temper-game-catalog-capture-host`.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the player's progress.",
     },
   ],

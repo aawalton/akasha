@@ -6,21 +6,21 @@ export const runBatched = {
   slug: "run-batched",
   definition: "a long list of work done a few items at a time so the game keeps its frame rate",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The caller says how many items go in a batch and how long to wait between.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wait is asked of the game's own later-caller.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first batch is done before the caller gets control back.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The closing callback runs once the last item is done.",
     },
   ],

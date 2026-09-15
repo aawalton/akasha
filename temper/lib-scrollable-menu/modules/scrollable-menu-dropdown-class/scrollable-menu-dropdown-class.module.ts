@@ -6,21 +6,21 @@ export const scrollableMenuDropdownClass = {
   slug: "scrollable-menu-dropdown-class",
   definition: "the subclass of ZO_ComboBoxDropdown_Keyboard and its scroll-list construction",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "AddItem and AddItems are overridden to raise an error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each custom entry template claims two scroll type ids at once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The highlight template of a row is resolved through the owning combobox.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The dropdown control is created from a virtual template parented to GuiRoot.",
     },
   ],

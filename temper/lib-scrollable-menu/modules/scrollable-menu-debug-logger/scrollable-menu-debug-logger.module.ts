@@ -6,21 +6,21 @@ export const scrollableMenuDebugLogger = {
   slug: "scrollable-menu-debug-logger",
   definition: "the log sink that resolves a numeric message id and routes it by log type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "LibDebugLogger is an optional dependency.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Output falls back to the chat frame when no logger is loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Verbose messages are dropped entirely when no logger is loaded.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A message whose id has no pattern produces nothing.",
     },
   ],

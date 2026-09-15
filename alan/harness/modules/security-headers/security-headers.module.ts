@@ -6,17 +6,17 @@ export const securityHeaders = {
   slug: "security-headers",
   definition: "the content security policy and the fixed headers built for one response",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every site is served the same headers but for the headers its own policy widens.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A site widens a policy directive and never narrows a policy directive.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A directive a site names nothing for is left out.",
     },
   ],

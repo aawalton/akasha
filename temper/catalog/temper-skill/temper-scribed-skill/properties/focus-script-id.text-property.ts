@@ -8,9 +8,9 @@ export const focusScriptId = {
   definition: "the focus script a scribed skill is written with",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a focus script.",
     },
   ],

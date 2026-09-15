@@ -10,17 +10,17 @@ export const certificateAuthority = {
   properties: [
     { pageProperty: "file-property/authority-certificate", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An authority's certificate is in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An authority's signing key is never beside its certificate.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An authority whose key is gone is a new authority rather than the same authority.",
     },

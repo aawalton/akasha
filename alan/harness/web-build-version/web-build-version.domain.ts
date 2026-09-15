@@ -6,9 +6,9 @@ export const webBuildVersion = {
   slug: "web-build-version",
   definition: "the commit a running web build came from",
   parts: ["module/build-sha", "module/build-sha-define", "module/live-version"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A build that cannot say which commit the build came from says so rather than guessing.",
     },

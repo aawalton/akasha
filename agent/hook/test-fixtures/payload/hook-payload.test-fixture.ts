@@ -6,18 +6,18 @@ export const hookPayload = {
   slug: "hook-payload",
   definition: "a hook payload as the agent sends one, made so a test can hand it to a hook",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where the call was made is carried.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A hook that does not refuse on where the call was made is handed that place anyway.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing in the running system makes a payload.",
     },
   ],

@@ -6,21 +6,21 @@ export const chatEntryText = {
   slug: "chat-entry-text",
   definition: "text written into the chat entry box for the player to send or edit",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The player sends what the box holds, and no add-on sends it for them.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Chat input is opened where the entry box does not already hold the focus.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text is added where the cursor is rather than replacing what is there.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here sends what was written.",
     },
   ],

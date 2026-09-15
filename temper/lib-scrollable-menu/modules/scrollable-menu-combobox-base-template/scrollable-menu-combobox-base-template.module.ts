@@ -6,22 +6,22 @@ export const scrollableMenuComboboxBaseTemplate = {
   slug: "scrollable-menu-combobox-base-template",
   definition: "the default XML row template and highlight template for each entry type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Caller templates are mixed over the defaults per entry type rather than replacing those defaults.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A single highlight template option overrides every entry type at once.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The normal entry row height becomes the base entry height of the menu.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each allowed entry type is registered with the dropdown as a custom template.",
     },
   ],

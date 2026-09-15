@@ -7,22 +7,22 @@ export const watcherFileType = {
   definition: "the kinds of saved-variables file the watcher carries across",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kind is spelled in lower kebab case.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every kind the watcher knows is named in one list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The type of a kind is read off the list of kinds rather than written out beside the list.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here says which file on disk a kind is read from.",
     },
   ],

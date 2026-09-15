@@ -6,9 +6,9 @@ export const subjectCollectionsQuery = {
   slug: "subject-collections-query",
   definition: "the `great-courses-subject` shelves the store has, indexed by title",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row holding no title or no slug is left out of the index.",
     },
   ],

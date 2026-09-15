@@ -6,21 +6,21 @@ export const codePathBetween = {
   slug: "code-path-between",
   definition: "the folder a path sits in, and the way from one folder to a path",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A way from one folder to a path keeps the last segment of that path whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder is answered as the path up to its last separator.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path with no separator sits in no folder rather than in a clipped one.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the disk.",
     },
   ],

@@ -6,17 +6,17 @@ export const healthSampleDay = {
   slug: "health-sample-day",
   definition: "a day's health readings, counted from the moment that day opened",
   parts: ["module/active-calories", "module/opening-window"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a reading down.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day's sleep is read from the entries beside that day's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A day whose sleep was never recorded is refused an opening rather than given one.",
     },

@@ -8,13 +8,13 @@ export const externalTags = {
   definition: "a word the source files a collection under",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tag here is the source's own rather than the person's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tag is written as the source writes the tag rather than as a slug is written.",
     },
   ],

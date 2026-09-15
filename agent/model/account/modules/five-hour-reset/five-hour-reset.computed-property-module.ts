@@ -7,21 +7,21 @@ export const fiveHourReset = {
   definition: "when a five-hour allowance comes back, a spent seven-day window holding it back",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account that has spent its seven-day window has no five-hour reset.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account that has spent its five-hour window has that window's own reset.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account stating no five-hour reset has no five-hour reset.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seven-day window nothing has been read of holds no reset back.",
     },
   ],

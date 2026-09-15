@@ -6,17 +6,17 @@ export const bundleFileScan = {
   slug: "bundle-file-scan",
   definition: "an emitted bundle's text at a path, handed to a scanner along with that path",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bundle is read as UTF-8.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The path a bundle was read from is the file name each finding carries.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here judges what a scanner found.",
     },
   ],

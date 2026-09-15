@@ -6,13 +6,13 @@ export const hudAddonFieldRegistry = {
   slug: "hud-addon-field-registry",
   definition: "the fields the bar shows, kept in the order the bar draws the fields in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field registered twice under one id replaces the earlier field in place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two fields of one order keep the order the two fields were registered in.",
     },
   ],

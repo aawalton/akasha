@@ -6,9 +6,9 @@ export const housingSlash = {
   slug: "housing-slash",
   definition: "what each word after the housing slash command does",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slash command naming no word opens the window.",
     },
   ],

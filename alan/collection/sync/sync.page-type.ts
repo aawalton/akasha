@@ -8,21 +8,21 @@ export const sync = {
   extends: ["page-type/page"],
   parts: ["page-property-entry/sync-runs"],
   properties: [{ pageProperty: "page-property-entry/sync-runs", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sync runs one pull at a time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second pull starting says the first died without saying so.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which pull is in flight is rewritten on every start and finish.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The value with the pull in flight is never committed.",
     },
   ],

@@ -7,9 +7,9 @@ export const completionLoreCollection = {
   definition: "the first lore collection a character has yet to read out",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Collections and books are sorted by name rather than by index.",
     },
   ],

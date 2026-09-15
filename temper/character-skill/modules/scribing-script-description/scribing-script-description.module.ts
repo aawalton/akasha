@@ -6,9 +6,9 @@ export const scribingScriptDescription = {
   slug: "scribing-script-description",
   definition: "the wording a grimoire, a focus script and its variants read out together",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A description joins the skill wording with each chosen script's wording.",
     },
   ],

@@ -8,9 +8,9 @@ export const changeAuthored = {
   runsChecks: true,
   writerOwesReading: true,
   readersOweReading: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An authored change is refused until its required reading is read.",
     },
   ],

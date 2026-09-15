@@ -15,21 +15,21 @@ export const imessage = {
     "module/message-lines",
     "module/typedstream",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No message body is written to a page or a log from here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every read and every send happens on a mac reached over ssh.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The message store is queried through sqlite3 on that mac.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
   ],

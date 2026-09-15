@@ -6,13 +6,13 @@ export const pingRollingAverage = {
   slug: "ping-rolling-average",
   definition: "the count of pings sent over a recent stretch of time",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bucket the current moment falls in is left out of the average.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bucket the clock has passed is zeroed before the next count.",
     },
   ],

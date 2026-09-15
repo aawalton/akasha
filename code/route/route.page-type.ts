@@ -16,21 +16,21 @@ export const route = {
     { pageProperty: "code-file-property/route-test", required: false, many: false },
     { pageProperty: "text-property/url-path", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route is reached by a url rather than by importing that route.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route's code is a page property held in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route states the url path the router serves that route under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The route a router serves at its index states no path.",
     },
   ],

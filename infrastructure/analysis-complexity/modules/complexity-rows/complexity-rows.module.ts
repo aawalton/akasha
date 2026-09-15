@@ -6,17 +6,17 @@ export const complexityRows = {
   slug: "complexity-rows",
   definition: "one row per function or per file holding what that one measured",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file that will not open is passed over rather than counted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row names its file relative to the checkout root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller naming one file measures that file rather than the checkout.",
     },
   ],

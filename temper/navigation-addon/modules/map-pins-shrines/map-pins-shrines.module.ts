@@ -6,9 +6,9 @@ export const mapPinsShrines = {
   slug: "map-pins-shrines",
   definition: "the shrine places by zone",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

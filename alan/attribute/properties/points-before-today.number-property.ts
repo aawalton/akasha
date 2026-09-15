@@ -7,17 +7,17 @@ export const pointsBeforeToday = {
   propertySlug: "points-before-today",
   definition: "the points earned over the days before today",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Today's points are no part of this figure.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This figure and today's points together are the total.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rebuild alone moves this figure on.",
     },
   ],

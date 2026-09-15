@@ -8,14 +8,14 @@ export const anchorReference = {
   definition: "what an anchor is read against",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reference is the chapter's start or the scene before or an absolute date or a named event.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reference to a named event has that event's slug after `named-event:`.",
     },
   ],

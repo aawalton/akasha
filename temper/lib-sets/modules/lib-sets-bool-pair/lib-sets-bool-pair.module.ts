@@ -6,9 +6,9 @@ export const libSetsBoolPair = {
   slug: "lib-sets-bool-pair",
   definition: "a two-entry table the game keys by false and by true",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A Lua table may be keyed by a boolean.",
     },
   ],

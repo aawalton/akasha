@@ -6,9 +6,9 @@ export const seatAction = {
   slug: "seat-action",
   definition: "the action asked of a seat's supervisor, set and then waited on until it clears",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The action set beside the seat names the supervisor-action page it reaches.",
     },
   ],

@@ -6,17 +6,17 @@ export const companionOptimizer = {
   slug: "companion-optimizer",
   definition: "scores a companion build by summing the metrics the build's roles are judged on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The score sums role metrics with tank and support toughness divided by ten.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The skill bar is sanitized of role-invalid skills before every evaluation.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A build with no matching role metric evaluates to zero.",
     },
   ],

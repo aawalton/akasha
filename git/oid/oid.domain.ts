@@ -5,9 +5,9 @@ export const oid = {
   type: "page-type/domain",
   slug: "oid",
   definition: "the name git gives what it stores, worked out from the bytes themselves",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every name for a git object id is `oid` or a scoped form of `oid`.",
     },
   ],

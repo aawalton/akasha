@@ -7,9 +7,9 @@ export const completionPercent = {
   definition: "how far along a count is, as a whole number out of a hundred",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A count part way along never reads as zero.",
     },
   ],

@@ -6,18 +6,18 @@ export const rotationTypes = {
   slug: "rotation-types",
   definition: "the vocabulary a companion rotation simulation is written in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Rotation state is a mutable record the simulator writes through.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The default target armor is read from the dungeon entry of the target armor table.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A rotation skill identifier admits the literal light-attack alongside real skill ids.",
     },

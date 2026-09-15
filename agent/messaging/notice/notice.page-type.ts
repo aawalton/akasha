@@ -12,42 +12,42 @@ export const notice = {
     { pageProperty: "file-property/notice-text", required: true, many: false },
     { pageProperty: "text-property/notice-warrant", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice arrives as a turn of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice's words are written before the moment the notice is sent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice is asked for by its slug rather than by a heading inside a document.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One notice is one page rather than one section of a page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice the supervisor hands to a respawned seat opens with `[supervisor]`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The fleet's hooks tell a composed prompt from Alan at the keyboard by that opening marker.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice that arrives on a message row has no opening marker.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice edited here reaches a seat the next time that seat is resumed.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The notices a seat is resumed with exist as pages under this type.",
     },
   ],

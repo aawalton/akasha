@@ -6,13 +6,13 @@ export const editorLayoutColumns = {
   slug: "editor-layout-columns",
   definition: "the editor's groups and the tabs sitting in them, as a panel reads them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A group is placed by the column that group is in.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the editor.",
     },
   ],

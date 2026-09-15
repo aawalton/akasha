@@ -8,9 +8,9 @@ export const caseAgainst = {
   definition: "what a case's text is judged by",
   maxLength: 2000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A case judging its text against the page the case names states nothing here.",
     },
   ],

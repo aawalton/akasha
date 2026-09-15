@@ -6,21 +6,21 @@ export const sellPricing = {
   slug: "sell-pricing",
   definition: "what to ask for an item, and the key its market price is filed under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The price the item last sold for outranks the price the market says.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The price the market says outranks a multiple of the price the vendor pays.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item's price key is built from the fields its own kind is priced by.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item link that parses to nothing is its own price key.",
     },
   ],

@@ -6,9 +6,9 @@ export const companionsConstants = {
   slug: "companions-constants",
   definition: "the add-on's name and the shape its saved variables start out as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The add-on name is the one key every saved variables read and every event name is built from.",
     },

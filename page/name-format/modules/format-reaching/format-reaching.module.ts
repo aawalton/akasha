@@ -7,22 +7,22 @@ export const formatReaching = {
   definition: "how a name format is reached by slug and its judgement loaded",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A format's judgement is loaded from the code file beside the format's own page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The code is loaded from where its body is on disk rather than from where a change leaves that code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The judgement loaded is the value the slug's export name answers to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each format is loaded once and held.",
     },
   ],

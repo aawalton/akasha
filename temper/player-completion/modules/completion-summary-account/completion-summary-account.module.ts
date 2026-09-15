@@ -6,14 +6,14 @@ export const completionSummaryAccount = {
   slug: "completion-summary-account",
   definition: "the numbers an account's summary card shows, folded from that account's progress",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The progress folded here arrives as separate arguments rather than in one bundle.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a catalog.",
     },
   ],

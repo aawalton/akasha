@@ -6,9 +6,9 @@ export const housingPublish = {
   slug: "housing-publish",
   definition: "the housing add-on's name and version, put where other add-ons read both",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name and version other add-ons may read are published under one global name.",
     },
   ],

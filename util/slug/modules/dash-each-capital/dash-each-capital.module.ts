@@ -6,13 +6,13 @@ export const dashEachCapital = {
   slug: "dash-each-capital",
   definition: "a name rewritten with a dash before every capital it carries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capital opening the name takes a dash before it as any other capital does.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A run of capitals is dashed letter by letter rather than read as one word.",
     },
   ],

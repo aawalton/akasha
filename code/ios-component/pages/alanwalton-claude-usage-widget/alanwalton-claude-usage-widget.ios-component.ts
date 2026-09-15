@@ -6,9 +6,9 @@ export const alanwaltonClaudeUsageWidget = {
   slug: "alanwalton-claude-usage-widget",
   definition: "Alan's tile for Claude account usage",
   swift: "swift",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This file has the bundle Alan's widget extension starts at.",
     },
   ],

@@ -7,9 +7,9 @@ export const wikiKind = {
   propertySlug: "kind",
   definition: "what a wiki entry is about",
   values: ["character", "location", "relationship", "seed", "system"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seed is a thing the story has set up rather than a thing the story has.",
     },
   ],

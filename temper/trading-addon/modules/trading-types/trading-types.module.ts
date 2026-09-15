@@ -6,9 +6,9 @@ export const tradingTypes = {
   slug: "trading-types",
   definition: "the shapes a guild snapshot and a last-sold record are held in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

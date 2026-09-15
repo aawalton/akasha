@@ -6,21 +6,21 @@ export const folderGenerated = {
   slug: "folder-generated",
   propertySlug: "generated",
   definition: "whether a machine rather than an author writes the files under a property's folder",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying nothing here holds a folder an author writes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying so says it of every file beneath its folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No author writes a file under such a folder by hand.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names the machine that writes the folder.",
     },
   ],

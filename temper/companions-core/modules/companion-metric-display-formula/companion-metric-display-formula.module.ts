@@ -7,18 +7,18 @@ export const companionMetricDisplayFormula = {
   definition:
     "converter from a companion metric value to a display formula tree of labeled contributions",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Arithmetic node kinds reaching the leaf converter throw rather than render.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Category contributions follow the order of COMPANION_CATEGORIES rather than source order.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A metric with no formula and no effectType renders as the literal label Simulation Result.",
     },

@@ -6,17 +6,17 @@ export const copFetch = {
   slug: "cop-fetch",
   definition: "the request settings a call through the traffic cop is made with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The request has a deadline of its own rather than the runtime's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The runtime's own idle timeout is turned off.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slow cold model load is waited out.",
     },
   ],

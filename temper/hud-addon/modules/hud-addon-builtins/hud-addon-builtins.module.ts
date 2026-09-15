@@ -6,13 +6,13 @@ export const hudAddonBuiltins = {
   slug: "hud-addon-builtins",
   definition: "the three fields the HUD add-on puts in the bar without another add-on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The session starts again each time the player is activated for the first time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A session that was never started is started as the fields are installed.",
     },
   ],

@@ -6,13 +6,13 @@ export const synthDrift = {
   slug: "synth-drift",
   definition: "how a generated file on disk differs from what its synth file makes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A generated file not on disk drifts rather than matching.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A drift names the first line the two differ at.",
     },
   ],

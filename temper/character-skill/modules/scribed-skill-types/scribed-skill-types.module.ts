@@ -6,9 +6,9 @@ export const scribedSkillTypes = {
   slug: "scribed-skill-types",
   definition: "the four choices that name one scribed skill a character has made",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A scribed skill choice names one grimoire and three scripts.",
     },
   ],

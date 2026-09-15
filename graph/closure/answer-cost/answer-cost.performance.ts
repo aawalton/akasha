@@ -7,25 +7,25 @@ export const answerCost = {
   definition: "how long the graph takes to answer a closure over this checkout",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The closures are measured over this checkout rather than over a scratch world.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where the code a closure is seeded from sits is asked of the index.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A closure going out and a closure coming in are measured apart.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How many files a closure reached is reported beside what that closure took.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No figure here is judged against a limit.",
     },
   ],

@@ -10,9 +10,9 @@ export const scriptureCollection = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/external-id", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book of scripture is named by the key its passages are reached under.",
     },
   ],

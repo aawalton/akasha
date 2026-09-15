@@ -22,18 +22,18 @@ export const monarchHolding = {
     { pageProperty: "number-property/cost-basis", required: true, many: false },
     { pageProperty: "number-property/holding-value", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Monarch reports a holding only for an account that says that account has holdings.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A holding is three figures the daily sync rewrites.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A holding sits in memory.",
     },
   ],

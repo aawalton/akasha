@@ -6,22 +6,22 @@ export const consolidationMigrations = {
   slug: "consolidation-migrations",
   definition: "which addon's saved variables move where when addons are folded together",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A migration runs only for the addon the migration names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The saved variables of an absorbed addon are appended to the absorbing addon's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A migration for an addon that only changed name renames the saved variables in place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every migration here answers to the type the module applying a migration declares.",
     },

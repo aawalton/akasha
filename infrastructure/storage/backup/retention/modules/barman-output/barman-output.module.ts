@@ -6,13 +6,13 @@ export const barmanOutput = {
   slug: "barman-output",
   definition: "what barman's own output states, read into the shapes this package has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Output that does not parse is an error rather than an empty listing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A field barman adds that this package does not read is carried through untouched.",
     },

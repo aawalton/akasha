@@ -16,18 +16,18 @@ export const kept = {
   slug: "kept",
   code: "ts",
   partSlugs: ["module/one"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "departure",
+      decisionKind: "departure",
       statement: "the first",
       workingMemory: "what the first held",
     },
     {
-      invariantKind: "gap",
+      decisionKind: "gap",
       statement: "the second",
     },
     {
-      invariantKind: "gap",
+      decisionKind: "gap",
       statement: "the second",
     },
   ],
@@ -35,7 +35,7 @@ export const kept = {
 `
 
 function named(where: string, is: string, field: string): Named {
-  return { key: "invariants", where, is, field }
+  return { key: "decisions", where, is, field }
 }
 
 function ranOn(one: Named, to: string): Answer {
@@ -72,7 +72,7 @@ test("the passage stated each side is the line the field's value sits on", () =>
 })
 
 test("a record is named by any field of its own", () => {
-  const said = textOn(named("invariantKind", "departure", "statement"), "stated anew")
+  const said = textOn(named("decisionKind", "departure", "statement"), "stated anew")
 
   expect(said).toContain(`statement: "stated anew",`)
 })
@@ -95,15 +95,15 @@ test("text no record states is refused", () => {
   const said = ranOn(named("statement", "the third", "workingMemory"), "x")
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no record under `invariants` states that text under `statement`")
+  expect(said.refused).toBe("no record under `decisions` states that text under `statement`")
 })
 
 test("text more than one record states is refused, and the refusal says how many", () => {
-  const said = ranOn(named("statement", "the second", "invariantKind"), "x")
+  const said = ranOn(named("statement", "the second", "decisionKind"), "x")
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
-    "2 records under `invariants` state that text under `statement`, and one change works one"
+    "2 records under `decisions` state that text under `statement`, and one change works one"
   )
 })
 

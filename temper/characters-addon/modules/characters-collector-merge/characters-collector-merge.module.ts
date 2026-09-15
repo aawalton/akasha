@@ -6,9 +6,9 @@ export const charactersCollectorMerge = {
   slug: "characters-collector-merge",
   definition: "what a collector already stored joined with what it has just read",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A collector never drops a value an earlier read stored and this read cannot see.",
     },
   ],

@@ -6,9 +6,9 @@ export const nextBossColors = {
   slug: "next-boss-colors",
   definition: "the color marks a district's timer is written in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A district still on its timer is red and a district that is up is green.",
     },
   ],

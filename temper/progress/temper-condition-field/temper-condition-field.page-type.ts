@@ -10,21 +10,21 @@ export const temperConditionField = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key is the field an item rule writes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The title is the field a reader is shown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A condition names one field here and the value that field is tested against.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field whose key ends in Op says how another field's number is compared.",
     },
   ],

@@ -6,13 +6,13 @@ export const mainMenuKeyboard = {
   slug: "main-menu-keyboard",
   definition: "the keyboard main menu object the game itself puts up",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game owns the object reached here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every reach for the game's menu goes through this one module.",
     },
   ],

@@ -96,7 +96,7 @@ test("a specifier naming the command's own folder is left alone", () => {
   expect(noCommandSpellingItsOwnCall(at(LEAF_AT, text))).toEqual([])
 })
 
-test("a command's own call spelled in an invariant on its page is refused", () => {
+test("a command's own call spelled in an decision on its page is refused", () => {
   const text = 'export const one = { statement: "a flag `akasha humming deep-song` takes" }\n'
   const said = noCommandSpellingItsOwnCall(at(HUMMED_PAGE_AT, text))
   expect(said).toHaveLength(1)

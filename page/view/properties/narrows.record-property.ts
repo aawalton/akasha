@@ -11,22 +11,22 @@ export const narrows = {
     { pageProperty: "select-property/narrow-comparison", required: true, many: false },
     { pageProperty: "text-property/narrow-values", required: true, many: true, maxCount: 20 },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page is answered where the page passes every narrow.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A query stating no narrow asks of every page of its type and of every type extending that type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two narrows on one key are two entries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A narrow a query cannot read is refused rather than dropped.",
     },
   ],

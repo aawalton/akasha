@@ -8,9 +8,9 @@ export const claudeCodeSessionUuid = {
   definition: "the session an agent in a seat is answering in",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The session the seat answered in before is not kept.",
     },
   ],

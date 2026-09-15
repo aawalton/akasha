@@ -6,9 +6,9 @@ export const companionsTargetBuildInput = {
   slug: "companions-target-build-input",
   definition: "the build hash a player is aiming a companion at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A target build is kept per companion.",
     },
   ],

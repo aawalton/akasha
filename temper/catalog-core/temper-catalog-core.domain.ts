@@ -16,17 +16,17 @@ export const temperCatalogCore = {
     "module/domain-registry",
     "module/saved-variables-accessor",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The catalog add-on and every reader of the add-on's capture agree here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each catalog domain's collector lives in a folder apart from this folder.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the game.",
     },
   ],

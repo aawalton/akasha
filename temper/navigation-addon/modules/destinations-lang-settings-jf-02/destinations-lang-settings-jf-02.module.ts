@@ -6,13 +6,13 @@ export const destinationsLangSettingsJf02 = {
   slug: "destinations-lang-settings-jf-02",
   definition: "one run of the destinations settings strings in Japanese with English fallbacks",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The records here are one unbroken run of the table's order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The run is the add-on's own source rather than a derivation.",
     },
   ],

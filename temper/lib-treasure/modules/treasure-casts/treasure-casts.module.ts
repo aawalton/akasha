@@ -6,9 +6,9 @@ export const treasureCasts = {
   slug: "treasure-casts",
   definition: "what an untyped table the game hands over is taken to be",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

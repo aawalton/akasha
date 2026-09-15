@@ -27,21 +27,21 @@ export const notificationFeed = {
       default: "jsonl",
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A feed sits in a place of its own rather than beside the person's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One person has one feed whatever pushed at that person.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A feed's slug is the slug of the person whose feed that feed is.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The feeds are pages under this type rather than markdown.",
     },
   ],

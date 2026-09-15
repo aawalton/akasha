@@ -7,30 +7,30 @@ export const indexIdentities = {
   definition: "every index a page's identity is filed in, asked of each index in turn",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller filing a page's identity asks here rather than asking each index.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each index is asked through the code beside that index's own page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An index the page states no identifier for answers nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The indexes are asked in the order a page is reached by: id, then type, then scope.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A unique kind no index files is a fault rather than a value filed nowhere.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing is filed here that an index beside its own page does not file.",
     },
   ],

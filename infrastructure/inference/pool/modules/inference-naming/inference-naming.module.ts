@@ -6,9 +6,9 @@ export const inferenceNaming = {
   slug: "inference-naming",
   definition: "the launchd label, conda environment and directory a service is known by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A name is made into a label and an environment and a path here rather than at each caller.",
     },

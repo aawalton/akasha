@@ -7,29 +7,29 @@ export const gitPush = {
   definition: "the command carrying this checkout's commits to the remote its branch tracks",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A push carries the branch this checkout is on to the remote that branch tracks.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A remote refusing the push is reported as a failure.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "`--dry-run` reads how far ahead the branch is without reaching the remote.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkout naming no remote is refused rather than reported as done.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No push is forced in any form.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A push takes no argument naming the branch carried.",
     },
   ],

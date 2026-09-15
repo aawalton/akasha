@@ -10,13 +10,13 @@ export const relationWeights = {
   generated: true,
   runsFileLength: false,
   holdsBytes: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The graph is in the format the runtime already reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The graph is kept outside the commit.",
     },
   ],

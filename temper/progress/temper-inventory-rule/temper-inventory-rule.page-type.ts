@@ -25,28 +25,28 @@ export const temperInventoryRule = {
     { pageProperty: "relation-property/from-template", required: false, many: false },
     { pageProperty: "page-property-entry/destination-chain", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A rule here is a rule a player has adopted rather than a rule offered to a player.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where a rule falls among the rules settles which rule acts first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A chain is read ahead of a destination where a rule states a chain and a destination.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A rule states a destination or a chain of destinations rather than a destination and a chain.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A rule adopted from a template and later edited says the changes that rule made.",
     },
   ],

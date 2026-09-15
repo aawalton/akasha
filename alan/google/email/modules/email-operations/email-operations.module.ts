@@ -6,17 +6,17 @@ export const emailOperations = {
   slug: "email-operations",
   definition: "the email operations of this package gathered behind one lazy load",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The operations are loaded when a caller asks rather than at import.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seven modules gathered here answer as a single object.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A caller reaches the operation a caller wants by the way in naming that operation.",
     },

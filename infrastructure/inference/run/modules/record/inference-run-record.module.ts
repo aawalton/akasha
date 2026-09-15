@@ -6,26 +6,26 @@ export const inferenceRunRecord = {
   slug: "inference-run-record",
   definition: "what is written down when a run starts and what is added when it ends",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run starts as running and ends as completed or failed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A parameter the caller left out is left off the record rather than written as absent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record has the versions the service ran at the moment the run ran.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record has the command line that asked for the run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "That command line is the call the command was handed rather than a name its code spells.",
     },

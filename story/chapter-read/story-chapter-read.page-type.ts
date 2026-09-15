@@ -62,22 +62,22 @@ export const storyChapterRead = {
     { pageProperty: "instant-property/marked-read-at", required: false, many: false },
     { pageProperty: "page-property-entry/chronology-anchors", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter has the words of the chapter's author rather than akasha's own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter is part of the one story the chapter was read in.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The source a chapter came from is the source its story names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter the source took down is kept rather than removed.",
     },
   ],

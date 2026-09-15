@@ -6,9 +6,9 @@ export const frameEdgeToEdge = {
   slug: "frame-edge-to-edge",
   propertySlug: "edge-to-edge",
   definition: "whether a page's body runs to the edges of the screen",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body running to the edges leaves no room for a frame beside that body.",
     },
   ],

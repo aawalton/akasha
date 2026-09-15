@@ -6,9 +6,9 @@ export const libSetsConstAllClassdata = {
   slug: "lib-sets-const-all-classdata",
   definition: "every player class the game knows, with its index, name, icon and color",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The class list is read from the game at load rather than written out here.",
     },
   ],

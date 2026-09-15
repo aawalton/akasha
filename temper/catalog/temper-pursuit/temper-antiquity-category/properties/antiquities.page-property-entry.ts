@@ -12,9 +12,9 @@ export const antiquities = {
     { pageProperty: "number-property/eso-antiquity-set-id", required: true, many: false },
     { pageProperty: "number-property/total-lore-entries", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An antiquity here is an antiquity a player digs up and reads lore from.",
     },
   ],

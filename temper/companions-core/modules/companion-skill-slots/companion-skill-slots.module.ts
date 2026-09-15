@@ -6,9 +6,9 @@ export const companionSkillSlots = {
   slug: "companion-skill-slots",
   definition: "the six places a companion's skill bar has a skill in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the companion pages rather than by hand.",
     },
   ],

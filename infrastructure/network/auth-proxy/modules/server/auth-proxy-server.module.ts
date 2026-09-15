@@ -6,26 +6,26 @@ export const authProxyServer = {
   slug: "auth-proxy-server",
   definition: "every request answered, refused or sent on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A request with an authorization header is passed straight through for the backend to decide.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A few paths answer with a canned empty body rather than a not-found.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path route is looked for before the host's own route is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A browser with no session is sent to sign in and anything else is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Loading this module starts the server.",
     },
   ],

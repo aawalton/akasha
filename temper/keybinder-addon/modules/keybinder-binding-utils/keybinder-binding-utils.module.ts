@@ -6,14 +6,14 @@ export const keybinderBindingUtils = {
   slug: "keybinder-binding-utils",
   definition: "reading an action's keys out of the game and comparing them with a saved set",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A modifier is reduced to the one key that represents that modifier before comparison.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An action is bound when a binding slot of that action has a key.",
     },
   ],

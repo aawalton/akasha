@@ -6,13 +6,13 @@ export const storyEngine = {
   slug: "story-engine",
   definition: "the code a story is played through",
   parts: ["domain/story-engine-core", "page-type/doctrine"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No deployed code names one story or one world.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every word a game master is served changes without a deploy.",
     },
   ],

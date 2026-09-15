@@ -6,9 +6,9 @@ export const libSetsLocRestLocalizationRestIndex = {
   slug: "lib-sets-loc-rest-localization-rest-index",
   definition: "one import that runs the later languages' localization install",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This file has a single import and declares nothing.",
     },
   ],

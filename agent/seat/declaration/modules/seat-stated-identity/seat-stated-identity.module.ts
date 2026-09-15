@@ -6,18 +6,18 @@ export const seatStatedIdentity = {
   slug: "seat-stated-identity",
   definition: "what a starting seat stated, checked against the pages before the seat boots",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat that stated no attribute and no assignment has nothing to check.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A stated identity that cannot be checked refuses the start rather than a seat without that identity.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The caller is told the words the resolving function refused with.",
     },
   ],

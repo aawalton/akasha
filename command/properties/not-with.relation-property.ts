@@ -7,21 +7,21 @@ export const notWith = {
   propertySlug: "not-with",
   definition: "an argument one call never says beside this one",
   targetPageType: "page-type/argument",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A call saying both arguments is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One entry states a pair, and the other entry needs no matching statement.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pair one command may not say together is said together under another command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Which arguments may not be said together belongs to the command rather than to the argument.",
     },

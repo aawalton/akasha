@@ -22,13 +22,13 @@ export const temperSkillKind = {
     "module/target-scopes",
     "module/target-types",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skill itself is named outside this folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every table here is written out from the skill pages rather than by hand.",
     },
   ],

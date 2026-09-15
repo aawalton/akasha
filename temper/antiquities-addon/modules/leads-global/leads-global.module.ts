@@ -6,18 +6,18 @@ export const leadsGlobal = {
   slug: "leads-global",
   definition: "the table the lead window's markup and other add-ons call into",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A key on the global table is spelled as the markup that calls the key spells the key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key keeps the spelling that key had before this add-on came into akasha.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The function a key is bound to is named as akasha names a function.",
     },
   ],

@@ -6,33 +6,33 @@ export const temperInventoryVenueTrace = {
   slug: "temper-inventory-venue-trace",
   definition: "the command giving back a timing trace from one of the addon's vendor sessions",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The ring read here holds every visit the addon traced that was not to a banker.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A call saying no visit reads the most recent trace.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A visit is counted back from the most recent, which is visit one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The answer names every visit kept by its time and the venue it was to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file the addon has written no such visit into is told what would write one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A visit past the ones kept refuses the call.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No move, no phase and no paced dispatch is told, the addon recording none here.",
     },
   ],

@@ -8,10 +8,10 @@ export const build = {
   definition: "the build a version was taken of",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
-    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a build." },
+  decisions: [
+    { decisionKind: "decision-kind/gap", statement: "This property is a relation to a build." },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character build and a companion build are named here alike.",
     },
   ],

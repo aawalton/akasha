@@ -14,13 +14,13 @@ export const temperEquipmentKind = {
     "module/weapon-bars",
     "module/weapon-slots",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every row here answers to a page of the equipment page types.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A gear set is named outside this folder.",
     },
   ],

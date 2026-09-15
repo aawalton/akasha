@@ -6,13 +6,13 @@ export const keybinderDeclarations = {
   slug: "keybinder-declarations",
   definition: "the key-bind shapes only this add-on reaches",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape a second package reaches is declared in the shared game types.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The shapes left here are the shapes the keybinder add-on alone reads.",
     },
   ],

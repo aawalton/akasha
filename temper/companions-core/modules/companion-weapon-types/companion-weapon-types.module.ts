@@ -6,17 +6,17 @@ export const companionWeaponTypes = {
   slug: "companion-weapon-types",
   definition: "every weapon a companion may hold, with whether the weapon takes both hands",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the companion pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A weapon type's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A weapon type moved to another place breaks every build hash saved.",
     },
   ],

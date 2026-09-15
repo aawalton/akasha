@@ -7,9 +7,9 @@ export const mediaPcBackupfontFr = {
   definition: "the fallback fonts a Windows or Mac client loads for French",
   markup: "xml",
   loadedAs: "PC/backupfont_fr.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fallback font is loaded only where the client runs this language.",
     },
   ],

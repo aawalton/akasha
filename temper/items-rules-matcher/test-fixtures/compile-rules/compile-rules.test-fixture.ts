@@ -6,13 +6,13 @@ export const compileRules = {
   slug: "compile-rules",
   definition: "a whole list of saved rules compiled at once for a property test",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each rule compiles on its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order the rules were given is kept.",
     },
   ],

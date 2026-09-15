@@ -12,17 +12,17 @@ export const proseFrame = {
     "prose-frame/placed",
   ],
   extends: ["page-type/domain"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A frame is read off a sentence's tree rather than off the words in order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One word in one sentence is in one frame.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A word no frame here names is no construction Standard Agent English rewrites.",
     },
   ],

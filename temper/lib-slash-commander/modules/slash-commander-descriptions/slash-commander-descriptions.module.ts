@@ -6,21 +6,21 @@ export const slashCommanderDescriptions = {
   slug: "slash-commander-descriptions",
   definition: "what each slash command the game itself carries is described and colored as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A built-in command's description is written here rather than read from the game.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An emote is described by the display name the game gives that emote.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A channel switch whose name changes is described by a call rather than a string.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every command the game has is put into a kind.",
     },
   ],

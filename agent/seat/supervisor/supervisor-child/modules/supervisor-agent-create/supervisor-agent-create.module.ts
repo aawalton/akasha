@@ -6,13 +6,13 @@ export const supervisorAgentCreate = {
   slug: "supervisor-agent-create",
   definition: "the identity a newly seated agent is minted with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's identity is a uuid version 7.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A spawned agent with no parent is refused rather than seated.",
     },
   ],

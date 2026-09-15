@@ -6,9 +6,9 @@ export const frameFocusMode = {
   slug: "frame-focus-mode",
   propertySlug: "focus-mode",
   definition: "whether all but a page's body is put away while the page is read",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The parts put away come back the moment the reader asks for those parts.",
     },
   ],

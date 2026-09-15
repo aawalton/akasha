@@ -7,13 +7,13 @@ export const port = {
   propertySlug: "port",
   definition: "the port a service listens on",
   max: 65535,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service listening states its port.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating no port listens nowhere.",
     },
   ],

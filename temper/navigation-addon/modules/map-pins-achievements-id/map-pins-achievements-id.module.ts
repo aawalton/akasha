@@ -6,9 +6,9 @@ export const mapPinsAchievementsId = {
   slug: "map-pins-achievements-id",
   definition: "the achievement id behind each achievement pin kind",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

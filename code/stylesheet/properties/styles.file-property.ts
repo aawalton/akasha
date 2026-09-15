@@ -8,17 +8,17 @@ export const styles = {
   definition: "the rules a browser dresses a thing by",
   extensions: ["css"],
   toolResolvesPaths: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Rules are written in CSS.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path in a stylesheet is a specifier a bundler resolves rather than a place.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A change moving what such a specifier reaches repoints that specifier.",
     },
   ],

@@ -7,9 +7,9 @@ export const buildCodecIndices = {
   definition: "the small number each of a character build's game constants is packed as",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An id these tables do not carry stops the write rather than taking a number.",
     },
   ],

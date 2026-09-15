@@ -6,9 +6,9 @@ export const addonKeybindsCasts = {
   slug: "addon-keybinds-casts",
   definition: "what a value out of the game's untyped keybinding tables is read as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

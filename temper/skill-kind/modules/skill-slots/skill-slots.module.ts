@@ -6,17 +6,17 @@ export const skillSlots = {
   slug: "skill-slots",
   definition: "the six places a skill sits in on one bar, five active and one ultimate",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill slot's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A skill slot moved to another place breaks every build hash saved.",
     },
   ],

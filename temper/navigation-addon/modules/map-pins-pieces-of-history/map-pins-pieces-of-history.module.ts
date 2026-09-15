@@ -6,9 +6,9 @@ export const mapPinsPiecesOfHistory = {
   slug: "map-pins-pieces-of-history",
   definition: "the pieces-of-history places",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

@@ -7,17 +7,17 @@ export const supervisorAgentActionClear = {
   definition: "the requested action taken off a seat before the supervisor signals its child",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A clear that does not answer within its bound stops holding up the signal.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bound is handed in so a test needs no wait.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A proxy swap happens only after the request that asked for that swap is consumed.",
     },

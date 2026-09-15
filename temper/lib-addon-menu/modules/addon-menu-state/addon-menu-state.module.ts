@@ -6,18 +6,18 @@ export const addonMenuState = {
   slug: "addon-menu-state",
   definition: "the mutable tables and game manager handles shared by every module",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A widget registers only when no equal or newer version of that type exists.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The library object is created empty and filled in by the modules that load after.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Manager handles are captured at load time into two-letter names.",
     },
   ],

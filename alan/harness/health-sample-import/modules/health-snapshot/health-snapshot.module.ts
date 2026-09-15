@@ -6,17 +6,17 @@ export const healthSnapshot = {
   slug: "health-snapshot",
   definition: "a summary of what an export has, and how that summary reads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A metric with no record is summarised as absent rather than as zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A metric counted over a day is totalled by day before the metric is summarised.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A snapshot writes nothing to the store.",
     },
   ],

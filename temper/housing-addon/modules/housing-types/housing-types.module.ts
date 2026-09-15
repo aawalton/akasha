@@ -6,9 +6,9 @@ export const housingTypes = {
   slug: "housing-types",
   definition: "the shapes a saved favourite, visit card, library entry and bought house take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

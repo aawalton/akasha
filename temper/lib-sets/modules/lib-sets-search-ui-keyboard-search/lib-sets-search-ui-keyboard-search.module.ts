@@ -6,9 +6,9 @@ export const libSetsSearchUiKeyboardSearch = {
   slug: "lib-sets-search-ui-keyboard-search",
   definition: "the search terms gathered from the keyboard window's dropdowns and text boxes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Item ids matter only when a gear filter is set.",
     },
   ],

@@ -6,30 +6,30 @@ export const seatInitiative = {
   slug: "seat-initiative",
   definition: "a seat's initiative, found by slug in akasha and read off the assignment it states",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An initiative is found by its slug through the index.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slug reaches one initiative or no initiative.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A seat's initiative is the assignment that seat states addressed as an initiative.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An assignment naming another page type is no initiative.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slug naming no initiative is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The initiatives akasha knows are named back.",
     },
   ],

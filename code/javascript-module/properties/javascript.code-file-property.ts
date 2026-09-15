@@ -7,9 +7,9 @@ export const javascript = {
   propertySlug: "javascript",
   definition: "the JavaScript a page is",
   extensions: ["mjs"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "JavaScript a runtime loads as a module has the `mjs` extension.",
     },
   ],

@@ -7,35 +7,35 @@ export const championsTree = {
   definition: "a tree of domain rows, each hung under the domain it names as its parent",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A domain naming a parent no row answers to is a root rather than left out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A domain naming itself as its parent is a root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A parent's sequence places the children that sequence names ahead of the ones the sequence does not.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A child a second parent also names is hung under the first parent alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A domain no root reaches is named rather than swallowed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A node whose descent reaches no persona names no champion rather than an empty champion.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A child's number is its place among the children rather than its place in the sequence.",
     },

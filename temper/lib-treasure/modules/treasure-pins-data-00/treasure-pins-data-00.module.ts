@@ -6,9 +6,9 @@ export const treasurePinsData00 = {
   slug: "treasure-pins-data-00",
   definition: "part 00 of the pins each map has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These rows are stated by upstream LibTreasure v24.",
     },
   ],

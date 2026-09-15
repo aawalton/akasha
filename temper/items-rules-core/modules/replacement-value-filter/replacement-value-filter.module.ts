@@ -6,9 +6,9 @@ export const replacementValueFilter = {
   slug: "replacement-value-filter",
   definition: "the Replacement Value condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This filter reads and writes the conditions `replacementValue` and `replacementValueOp`.",
     },

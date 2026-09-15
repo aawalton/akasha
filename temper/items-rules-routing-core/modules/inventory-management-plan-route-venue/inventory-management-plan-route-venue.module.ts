@@ -6,17 +6,17 @@ export const inventoryManagementPlanRouteVenue = {
   slug: "inventory-management-plan-route-venue",
   definition: "the places a plan visits, in the order a player goes round them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A venue's place in this list is the order the venues are visited in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A venue moved to another place sends the player round in a different order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A location the player cannot reach has no venue.",
     },
   ],

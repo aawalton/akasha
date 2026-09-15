@@ -7,17 +7,17 @@ export const inboxKeys = {
   definition:
     "the inboxes counted, and the day-page key each count and each clearing is written under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every inbox that is counted is named here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An inbox with no key here is written to the day under a rule of its own.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here counts anything or writes anything.",
     },
   ],

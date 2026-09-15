@@ -15,13 +15,13 @@ export const movie = {
     { pageProperty: "select-property/production-status", required: false, many: false },
     { pageProperty: "number-property/vote-average", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A film states the minutes the film runs to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A film has no parts.",
     },
   ],

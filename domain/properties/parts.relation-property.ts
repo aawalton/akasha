@@ -8,21 +8,21 @@ export const parts = {
   definition: "the domains this one is made of",
   targetPageType: "page-type/domain",
   sorted: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page's parent is this edge inverted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page is named by exactly one parent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A parts list is sorted by the whole `type/slug` a part is written as.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every parts list already written is in that order.",
     },
   ],

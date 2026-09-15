@@ -8,21 +8,21 @@ export const toolReached = {
   definition: "a dependency a tool reaches rather than a body importing it",
   maxLength: 214,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value is spelled as the manifest spells that dependency.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No body is asked to import a dependency named here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A dependency a body already imports is not named here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A package naming nothing here has every dependency reached by a body the package has.",
     },

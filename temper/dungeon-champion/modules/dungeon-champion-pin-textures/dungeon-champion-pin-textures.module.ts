@@ -6,9 +6,9 @@ export const dungeonChampionPinTextures = {
   slug: "dungeon-champion-pin-textures",
   definition: "which icon a champion pin draws, killed or not, in each of the two icon sets",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The two icon sets are numbered to match the saved pin texture type.",
     },
   ],

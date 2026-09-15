@@ -6,9 +6,9 @@ export const libSetsGenSpecialBonusSets = {
   slug: "lib-sets-gen-special-bonus-sets",
   definition: "the sets whose bonuses come at piece counts of their own",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is ported from the upstream library at a pinned commit.",
     },
   ],

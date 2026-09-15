@@ -6,17 +6,17 @@ export const questsEntry = {
   slug: "quests-entry",
   definition: "the order the addon's parts are set going in once the game has loaded it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is set going before the game says the addon has loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The saved variables are reached before any other part of the addon runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global is published as the bundle loads rather than on the loaded event.",
     },
   ],

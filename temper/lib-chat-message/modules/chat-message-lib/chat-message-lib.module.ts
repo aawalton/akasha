@@ -6,17 +6,17 @@ export const chatMessageLib = {
   slug: "chat-message-lib",
   definition: "the library object every caller of the chat message library reaches",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting read before the saved settings load falls back to the default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Registering a custom chat link marks that link type valid for chat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A custom chat link with no reformatter is rebuilt as a plain game link.",
     },
   ],

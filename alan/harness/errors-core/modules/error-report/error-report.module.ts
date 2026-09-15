@@ -6,13 +6,13 @@ export const errorReport = {
   slug: "error-report",
   definition: "the shape a browser's account of one error must have to be taken",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A report naming a key the shape does not have is refused whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every app that may report is named here.",
     },
   ],

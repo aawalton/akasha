@@ -23,23 +23,23 @@ export const storyDecision = {
     { pageProperty: "text-property/decision-effect", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A decision has every option the decision was settled between as well as the option settled on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An option not settled on stays so the fork can be read again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The effect a decision had is stated rather than worked out from the chapters after the decision.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words a decision has are the story's rather than akasha's own.",
     },
   ],

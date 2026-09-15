@@ -6,17 +6,17 @@ export const scrollableMenuDebugIndex = {
   slug: "scrollable-menu-debug-index",
   definition: "the bare import list covering the logger and its slash-command toggle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list of bare imports is used in place of any re-export.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The logger is imported before the toggle that switches the logger.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The file declares no value of its own.",
     },
   ],

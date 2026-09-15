@@ -7,13 +7,13 @@ export const alanWebHome = {
   definition: "the nav item a signed-in reader opens on",
   code: "tsx",
   urlPath: "home",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader who is not signed in is sent to the sign-in route.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A signed-in reader with no home nav item is shown the title alone.",
     },
   ],

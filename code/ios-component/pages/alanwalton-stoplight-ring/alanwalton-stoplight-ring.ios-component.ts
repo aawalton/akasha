@@ -6,26 +6,26 @@ export const alanwaltonStoplightRing = {
   slug: "alanwalton-stoplight-ring",
   definition: "the ring a stoplight reading is drawn on",
   swift: "swift",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Whether a reading past either end of its scale draws its number is read off the reading sent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading saying nothing of that draws no number past either end.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here works out whether a reading past either end draws its number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An arc filling the whole ring is not drawn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading at the end of its band draws that band's own tier.",
     },
   ],

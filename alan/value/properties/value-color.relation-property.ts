@@ -7,9 +7,9 @@ export const valueColor = {
   propertySlug: "color",
   definition: "the color a value is always drawn in",
   targetPageType: "page-type/color",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value is drawn in this color whatever a reading against that value says.",
     },
   ],

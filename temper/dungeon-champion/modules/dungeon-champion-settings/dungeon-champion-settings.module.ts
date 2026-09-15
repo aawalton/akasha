@@ -6,13 +6,13 @@ export const dungeonChampionSettings = {
   slug: "dungeon-champion-settings",
   definition: "the settings panel a player opens with the slash command",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The two icons beside the icon-set dropdown are built once the panel exists.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The control types this panel needs are declared here rather than globally.",
     },
   ],

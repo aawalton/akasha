@@ -7,21 +7,21 @@ export const keybinderShare = {
   definition:
     "carrying an account-wide binding onto the character, and taking a character's binding account-wide",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Synchronising is deferred to the next frame rather than done in place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An action is rebound only where its keys differ from the saved ones.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The toggle clears the shown actions where those actions are already shared.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hidden action is passed over.",
     },
   ],

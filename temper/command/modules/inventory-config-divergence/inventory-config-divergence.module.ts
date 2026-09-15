@@ -7,26 +7,26 @@ export const inventoryConfigDivergence = {
   definition:
     "the rules the records compile to, set against the rules the configuration the addon reads holds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule is set against the rule of the same id the configuration holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The rules compiled here carry the rules automation controls, as the configuration does.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two values hold the same thing whatever order their keys are written in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule on one side and not on the other is a divergence.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rule closing the compiled order carries no id, so nothing is set against it.",
     },
   ],

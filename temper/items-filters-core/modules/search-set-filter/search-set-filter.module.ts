@@ -6,17 +6,17 @@ export const searchSetFilter = {
   slug: "search-set-filter",
   definition: "whether an item belongs to a gear set, narrowed by an in-set or not-in-set toggle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with a set id above zero counts as belonging to a gear set.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No option names an individual gear set.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

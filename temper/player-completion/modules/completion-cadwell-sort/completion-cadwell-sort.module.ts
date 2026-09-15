@@ -7,9 +7,9 @@ export const completionCadwellSort = {
   definition: "Cadwell's Almanac sorted into the order the game shows it in",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two entries sharing an order fall by their identifier.",
     },
   ],

@@ -12,34 +12,34 @@ export const workstationProcessor = {
   drawnAs: "number",
   groups: ["readout-group/workstation"],
   wireKey: "processor",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reading is the share of processor time that was not idle between two takes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Time spent waiting on a disk counts as idle.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Time a guest spent is counted once, under the time its host spent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Two takes between which no processor time passed are no reading rather than zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A counter line that does not parse is no reading rather than zero.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here turns a share into a color.",
     },
   ],

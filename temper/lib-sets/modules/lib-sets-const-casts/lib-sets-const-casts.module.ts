@@ -6,9 +6,9 @@ export const libSetsConstCasts = {
   slug: "lib-sets-const-casts",
   definition: "an unchecked cast onto an array of DLC entries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The cast asserts the type rather than checking that type.",
     },
   ],

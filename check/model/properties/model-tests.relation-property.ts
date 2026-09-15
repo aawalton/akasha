@@ -7,9 +7,9 @@ export const modelTests = {
   propertySlug: "model-tests",
   definition: "the tests a check puts to a model, in the order they are run",
   targetPageType: "page-type/model-test",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One check has the tests that judge one thing from different sides.",
     },
   ],

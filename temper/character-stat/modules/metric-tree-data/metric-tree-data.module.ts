@@ -6,17 +6,17 @@ export const metricTreeData = {
   slug: "metric-tree-data",
   definition: "the character stat display tree, seven categories deep down to single stat leaves",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the metric-tree pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The seven categories are named here in the order the metric-tree pages give.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "The generator for this table reads a row shape the metric-tree pages no longer have.",
     },

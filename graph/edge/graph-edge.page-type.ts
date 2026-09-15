@@ -15,13 +15,13 @@ export const graphEdge = {
       maxCount: null,
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An edge kind names the attributes that edge kind has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An attribute names no edge.",
     },
   ],

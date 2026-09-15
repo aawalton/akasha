@@ -6,13 +6,13 @@ export const equipmentMappings = {
   slug: "equipment-mappings",
   definition: "the small index each armour trait, weapon trait and quality is packed as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A game constant the tables do not name is packed as zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An index here is part of the wire format and never renumbered.",
     },
   ],

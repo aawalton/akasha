@@ -7,17 +7,17 @@ export const holds = {
   propertySlug: "holds",
   definition: "the kind of value a calculation works out",
   values: ["text", "number", "boolean", "instant", "date"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A calculation answering another kind than the kind stated here is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader puts a worked value down as the kind stated here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No calculation states a list.",
     },
   ],

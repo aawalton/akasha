@@ -8,13 +8,13 @@ export const dropSources = {
   definition: "the daily errands a style's motif pages drop from",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a scribing source.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One list has every errand a style drops from.",
     },
   ],

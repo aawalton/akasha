@@ -6,13 +6,13 @@ export const libSetsKbfDlcFilter = {
   slug: "lib-sets-kbf-dlc-filter",
   definition: "the dropdown of DLCs a set can come from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter builds its own scrollable menu instead of taking the shared menu.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Entries sort by name or by release date according to the saved setting.",
     },
   ],

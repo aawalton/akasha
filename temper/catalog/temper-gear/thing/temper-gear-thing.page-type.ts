@@ -24,13 +24,13 @@ export const temperGearThing = {
     { pageProperty: "text-property/item-level", required: false, many: false },
     { pageProperty: "number-property/potion-seconds", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key two gear page types carry is declared here rather than in each page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Which buff a drink grants is a field of the shared effect shape rather than a key here.",
     },

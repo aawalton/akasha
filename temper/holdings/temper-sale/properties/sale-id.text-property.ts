@@ -8,9 +8,9 @@ export const saleId = {
   definition: "what the game calls one sale",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sale carrying no sale id is not kept.",
     },
   ],

@@ -6,13 +6,13 @@ export const asyncLuaTruthy = {
   slug: "async-lua-truthy",
   definition: "whether Lua would read a value as true",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only nil and false are false in Lua.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Zero and the empty string are true.",
     },
   ],

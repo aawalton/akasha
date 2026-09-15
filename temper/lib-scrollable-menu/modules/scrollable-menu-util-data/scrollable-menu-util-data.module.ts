@@ -6,21 +6,21 @@ export const scrollableMenuUtilData = {
   slug: "scrollable-menu-util-data",
   definition: "the readers that resolve a control to its name and to its underlying data table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Control names are memoised in a table keyed by the control itself.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A preventer variable counts down and clears once the count reaches zero.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An unnamed control resolves to the literal string n slash a.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A texture path is judged valid by its dds suffix alone.",
     },
   ],

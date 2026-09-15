@@ -6,14 +6,14 @@ export const libSetsCoreLoadSetsChecktype = {
   slug: "lib-sets-core-load-sets-checktype",
   definition: "sorting each set into its type table and filing where it drops",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A set whose items no longer exist is erased from every preloaded table with that set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Perfected and non-perfected pairs are learned from the game rather than from the data.",
     },

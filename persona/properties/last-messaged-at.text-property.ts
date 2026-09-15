@@ -8,9 +8,9 @@ export const lastMessagedAt = {
   definition: "when Alan last wrote to a persona",
   maxLength: 24,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "No name format exists for an instant.",
     },
   ],

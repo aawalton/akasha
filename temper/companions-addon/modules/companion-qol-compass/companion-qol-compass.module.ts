@@ -6,9 +6,9 @@ export const companionQolCompass = {
   slug: "companion-qol-compass",
   definition: "turning the companion's compass pin off",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pin is faded by alpha rather than unregistered.",
     },
   ],

@@ -7,9 +7,9 @@ export const lowerKebabCase = {
   definition: "a name format joining words with hyphens, all letters lower",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A digit sits inside a word rather than between words.",
     },
   ],

@@ -6,9 +6,9 @@ export const skillPointSourceTypes = {
   slug: "skill-point-source-types",
   definition: "the shape of a place The Elder Scrolls Online hands a character a skill point",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

@@ -6,9 +6,9 @@ export const subclassingSkillMorphsPanelCard = {
   slug: "subclassing-skill-morphs-panel-card",
   definition: "how far an account has taken the morphs of the skills subclassing lends out",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A class line no morph was measured for is left out.",
     },
   ],

@@ -6,9 +6,9 @@ export const inventoryItemClassifier = {
   slug: "inventory-item-classifier",
   definition: "which category tree nodes one captured item falls under, and where the item lies",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item falls under every node the item's own type and traits reach.",
     },
   ],

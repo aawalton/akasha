@@ -30,18 +30,18 @@ export const syncRun = {
     { pageProperty: "number-property/failed-count", required: false, many: false },
     { pageProperty: "text-property/run-error-message", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A run sits beside the sync that run was a pull of rather than in a file of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run reporting no counts failed before reaching anything to count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The runs beside a sync are that sync's entries rather than pages of their own.",
     },
   ],

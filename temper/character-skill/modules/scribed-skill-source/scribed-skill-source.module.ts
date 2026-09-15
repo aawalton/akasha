@@ -6,13 +6,13 @@ export const scribedSkillSource = {
   slug: "scribed-skill-source",
   definition: "a scribed skill read out as a source the formula framework can take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A scribed skill with no matching grimoire and focus answers nothing.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The effects a scribed skill grants are empty here.",
     },
   ],

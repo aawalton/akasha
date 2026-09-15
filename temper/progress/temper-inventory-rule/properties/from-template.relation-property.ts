@@ -7,9 +7,9 @@ export const fromTemplate = {
   propertySlug: "from-template",
   definition: "the template a rule in force was adopted from",
   targetPageType: "page-type/temper-rule-template",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule a player wrote from nothing names no template.",
     },
   ],

@@ -29,23 +29,23 @@ export const idleLiveSeat = {
       definition: "the work reads finished, and a child resident for its own reason is read ahead",
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Whether a seat states an assignment says nothing about whether that seat is idle.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transcript's modification time moves when no work has been done.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The only licence to stop a seat with no initiative row is a claim carried on its own last send.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat can end its turn having narrated an act that seat never took.",
     },
   ],

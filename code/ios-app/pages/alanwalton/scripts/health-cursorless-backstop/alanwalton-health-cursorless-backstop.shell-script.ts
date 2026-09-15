@@ -7,22 +7,22 @@ export const alanwaltonHealthCursorlessBackstop = {
   definition: "the Swift reading a window of samples when no anchor is held",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The backstop is a second reading.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The backstop reads with no cursor and persists nothing at all.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A second anchored read would inherit the very fault the backstop exists to catch.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two readings part a quiet window from a read the app is not allowed to make.",
     },
   ],

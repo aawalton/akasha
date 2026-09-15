@@ -6,17 +6,17 @@ export const scribingAffixScripts = {
   slug: "scribing-affix-scripts",
   definition: "the tertiary scribing scripts, each putting a buff or a debuff on a grimoire",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A affix script's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A affix script moved to another place breaks every build hash saved.",
     },
   ],

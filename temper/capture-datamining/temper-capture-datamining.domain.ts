@@ -6,13 +6,13 @@ export const temperCaptureDatamining = {
   slug: "temper-capture-datamining",
   definition: "the shape a sweep of every item and quest id writes where the game saves it",
   parts: ["module/datamining-descriptor", "module/datamining-payload"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The mining add-on and every reader of the add-on's capture agree here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the game.",
     },
   ],

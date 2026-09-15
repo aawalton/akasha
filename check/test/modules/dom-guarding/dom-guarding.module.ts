@@ -7,17 +7,17 @@ export const domGuarding = {
   definition: "telling a component test that ran without a browser what it is missing",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test naming itself a component test is the test this guards.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that has a document is let through whatever the test is named.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A missing document is said as a boolean rather than thrown.",
     },
   ],

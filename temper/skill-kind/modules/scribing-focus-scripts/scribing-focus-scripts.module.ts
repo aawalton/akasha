@@ -6,17 +6,17 @@ export const scribingFocusScripts = {
   slug: "scribing-focus-scripts",
   definition: "the primary scribing scripts, each saying what a grimoire does",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A focus script's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A focus script moved to another place breaks every build hash saved.",
     },
   ],

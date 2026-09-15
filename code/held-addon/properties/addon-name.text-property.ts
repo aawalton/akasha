@@ -8,13 +8,13 @@ export const addonName = {
   definition: "the name the game loads an addon under",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name is spelled as the addon's own manifest spells it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The addon roster answers with this name for the addon.",
     },
   ],

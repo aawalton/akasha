@@ -12,30 +12,30 @@ export const weeklyEnds = {
   scale: "readout-scale/allowance-hours",
   groups: ["readout-group/claude-usage"],
   wireKey: "weekly-ends",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only an account with weekly allowance left to spend is counted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reading is the soonest window still ahead of the moment asked in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window already behind that moment is left out rather than read as zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No account with a window ahead is no reading rather than a wait of zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The color this reading takes is the color the weekly usage reading is shown in.",
     },
 
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
   ],

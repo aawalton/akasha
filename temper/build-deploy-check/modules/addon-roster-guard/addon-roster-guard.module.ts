@@ -6,9 +6,9 @@ export const addonRosterGuard = {
   slug: "addon-roster-guard",
   definition: "whether the add-on roster a scan would run over has nothing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A scan over an empty roster reports clean without having looked at anything.",
     },
   ],

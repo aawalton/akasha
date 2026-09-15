@@ -6,13 +6,13 @@ export const readingChannel = {
   slug: "reading-channel",
   definition: "a reading written out as one anchored line, with its findings beside it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading's anchored line has no line break.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading's findings are written where a person reads rather than where a caller parses.",
     },

@@ -20,33 +20,33 @@ export const git = {
     "module/holding",
     "module/porcelain-status",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A repository is named to git by `-C` rather than by the folder a caller is in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder a checkout's worktrees share is asked of git rather than spelled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What is under that folder is no page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What akasha left under that folder goes by a sweep rather than by a change.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller wanting a throw and a caller wanting nothing back reach for two names.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The git this repository has run for years sits outside akasha at `repo/git`.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The code `repo/git` holds beyond running a command belongs here.",
     },
   ],

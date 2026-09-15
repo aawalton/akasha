@@ -15,17 +15,17 @@ export const temperCollectibleCategory = {
     { pageProperty: "number-property/eso-category-index", required: false, many: false },
     { pageProperty: "page-property-entry/collectibles", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category stating no parent has the category index the game gives.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category stating a parent hangs beneath the category the parent names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collectible a category has is a line of the file beside the page.",
     },
   ],

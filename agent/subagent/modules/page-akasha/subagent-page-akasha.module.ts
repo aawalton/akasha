@@ -6,9 +6,9 @@ export const subagentPageAkasha = {
   slug: "subagent-page-akasha",
   definition: "where a subagent's akasha page stands, and what it is called",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A sweep of the pages under a seat that was refused answers why those pages did not go.",
     },

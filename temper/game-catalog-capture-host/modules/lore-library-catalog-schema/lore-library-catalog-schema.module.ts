@@ -6,21 +6,21 @@ export const loreLibraryCatalogSchema = {
   slug: "lore-library-catalog-schema",
   definition: "the zod schema reading the lore library catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category has collections that have books.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book has only its name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each level is checked against its shape in `temper-capture-shapes`.",
     },
   ],

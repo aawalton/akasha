@@ -6,13 +6,13 @@ export const supervisorBootStage = {
   slug: "supervisor-boot-stage",
   definition: "how long each stage of a supervisor's boot took",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stage still pending past its notice window says so while that stage waits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stage that throws says how long that stage ran before that stage threw.",
     },
   ],

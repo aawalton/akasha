@@ -7,9 +7,9 @@ export const rescuedExpiresAtMs = {
   propertySlug: "expires-at-ms",
   definition: "the milliseconds since the epoch a rescued access token expires at",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rescued pair is preferred over the committed pair by this number alone.",
     },
   ],

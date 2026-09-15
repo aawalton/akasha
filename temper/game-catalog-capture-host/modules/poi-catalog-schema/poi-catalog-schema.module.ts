@@ -6,17 +6,17 @@ export const poiCatalogSchema = {
   slug: "poi-catalog-schema",
   definition: "the zod schema reading the points of interest catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone has the points of interest found in that zone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone key and a point of interest key are both numbers.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A property outside the named set is refused.",
     },
   ],

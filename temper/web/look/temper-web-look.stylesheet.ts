@@ -6,17 +6,17 @@ export const temperWebLook = {
   slug: "temper-web-look",
   definition: "the look Temper's browser app wears, and the trees its utilities are read from",
   styles: "css",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A source glob names where a file will be rather than where the file is now.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A glob matching nothing emits no utility and raises nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A class no source spells is emitted only by being named inline here.",
     },
   ],

@@ -6,29 +6,29 @@ export const logBoundSaying = {
   slug: "log-bound-saying",
   definition: "what bounded a log result, said in a line and named as a kind",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A result bounded by anything says so rather than reading as the whole log.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty result says that finding nothing is no evidence of absence.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bound that could not be determined is said as undetermined.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty result naming a pod other namespaces hold says those namespaces.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The limit is said before the window.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here fetches a log line.",
     },
   ],

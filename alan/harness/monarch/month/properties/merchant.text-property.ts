@@ -8,13 +8,13 @@ export const merchant = {
   definition: "who or what a transaction was with",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A merchant is Monarch's title for the row rather than the bank's own words.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How the money moved is a merchant where the row's words name no vendor.",
     },
   ],

@@ -6,9 +6,9 @@ export const mapPinsRelicsOfSummerset = {
   slug: "map-pins-relics-of-summerset",
   definition: "the Summerset relic places",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

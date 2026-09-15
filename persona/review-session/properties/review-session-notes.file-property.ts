@@ -7,9 +7,9 @@ export const reviewSessionNotes = {
   propertySlug: "notes",
   definition: "what a persona found when she looked, in her own words",
   extensions: ["txt"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The notes are the persona's own account rather than a summary of that account.",
     },
   ],

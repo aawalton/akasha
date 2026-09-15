@@ -6,9 +6,9 @@ export const tradingTraderKioskInfo = {
   slug: "trading-trader-kiosk-info",
   definition: "what is known of the trader kiosk a player is at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Kiosk facts are read from the game rather than kept between sessions.",
     },
   ],

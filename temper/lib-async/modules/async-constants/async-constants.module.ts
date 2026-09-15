@@ -6,17 +6,17 @@ export const asyncConstants = {
   slug: "async-constants",
   definition: "the frame budget, the stall bounds and the delays the scheduler is tuned by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A frame time is written in seconds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The stall threshold is written in frames per second.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A delay is written in milliseconds.",
     },
   ],

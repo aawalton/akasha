@@ -11,21 +11,21 @@ export const sequence = {
     { pageProperty: "text-property/sequence-order-by", required: true, many: false },
     { pageProperty: "text-property/sequence-direction", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type states here how its pages are grouped and ordered into a run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type stating no sequence takes the sequence the page type above states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type with no sequence here or above stands in no run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Pages with one value under the grouping key stand in one run.",
     },
   ],

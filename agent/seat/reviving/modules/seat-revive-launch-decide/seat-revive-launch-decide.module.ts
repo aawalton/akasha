@@ -7,25 +7,25 @@ export const seatReviveLaunchDecide = {
   definition: "whether a seat coming back up resumes its old session or starts a fresh one",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with no session to resume is spawned rather than revived.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat being spawned falls back to its boot prompt where nothing else is stated.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat being revived is handed no boot prompt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat being revived has already been booted once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a seat resuming a session needs its transcript materialised first.",
     },
   ],

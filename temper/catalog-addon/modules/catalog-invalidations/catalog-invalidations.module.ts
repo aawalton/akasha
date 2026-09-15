@@ -6,13 +6,13 @@ export const catalogInvalidations = {
   slug: "catalog-invalidations",
   definition: "carrying a side file's request to collect named catalogs again into the saved table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A request no newer than the last request seen changes nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The version applied is written back so the same request is not applied twice.",
     },
   ],

@@ -7,22 +7,22 @@ export const audhdalanApiSubscribe = {
   definition: "where a reader gives an address to hear more",
   code: "ts",
   urlPath: "api/subscribe",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Nothing renders an `audhdalan-subscriber` page's body out of the fields the form gives.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An address a reader gives is kept as a subscriber page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route that cannot keep the address a reader gave answers 503 rather than 500.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An address well formed and unkept is told apart from an address refused.",
     },
   ],

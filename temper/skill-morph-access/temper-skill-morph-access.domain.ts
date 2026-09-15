@@ -12,17 +12,17 @@ export const temperSkillMorphAccess = {
     "module/skill-morphs-checker",
     "module/skill-morphs-resolver",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A completion row names the game's own numbers rather than akasha ids.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row with no completion is read as no progress.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skill line the game numbers zero is left out of the maps here.",
     },
   ],

@@ -6,22 +6,22 @@ export const assertSchemaMatchesPayload = {
   slug: "assert-schema-matches-payload",
   definition: "a call refusing to typecheck unless a zod schema infers exactly a payload type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A capture host reads the payload a capture addon saved rather than the running game.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The check here runs in the type system rather than at runtime.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Exact sameness is tested rather than assignability.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mismatch reads as an argument the caller left out.",
     },
   ],

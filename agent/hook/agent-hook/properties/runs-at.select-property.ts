@@ -21,17 +21,17 @@ export const runsAt = {
     "PreCompact",
     "PostCompact",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hook states its harness events.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hook is registered at the events the hook states here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A harness event is written as the harness writes the harness event.",
     },
   ],

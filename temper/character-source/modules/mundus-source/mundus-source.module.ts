@@ -6,13 +6,13 @@ export const mundusSource = {
   slug: "mundus-source",
   definition: "the boon each mundus stone gives a character, and what divines armor adds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A mundus stone's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A mundus stone moved to another place breaks every build hash saved.",
     },
   ],

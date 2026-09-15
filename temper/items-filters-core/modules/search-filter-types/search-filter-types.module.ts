@@ -7,19 +7,19 @@ export const searchFilterTypes = {
   definition:
     "the contract every item search filter satisfies, from editor spec through saved form",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "defineFilter re-narrows the raw value on every call so a matcher never sees a wrong type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A filter declares applyToSearch only when the trader server can narrow on that property.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "createSearchRequestCollector drops a term number already added for that server field.",
     },

@@ -6,13 +6,13 @@ export const armorTraits = {
   slug: "armor-traits",
   definition: "every property a piece of player armor is worked with, and what each is worth",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the trait pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A trait's place in this table is the index a build hash has.",
     },
   ],

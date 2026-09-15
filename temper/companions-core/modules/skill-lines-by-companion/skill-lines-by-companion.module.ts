@@ -6,9 +6,9 @@ export const skillLinesByCompanion = {
   slug: "skill-lines-by-companion",
   definition: "every companion skill line beside the companion owning it, or beside all of them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the companion pages rather than by hand.",
     },
   ],

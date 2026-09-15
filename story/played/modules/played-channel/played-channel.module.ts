@@ -6,29 +6,29 @@ export const playedChannel = {
   slug: "played-channel",
   definition: "the run play left a story, its turns of prose and the beats under them",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn's system windows are drawn inside its prose where its game asks for that.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A ruled line marks the last turn play reached.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn undrawn for want of room is counted above the run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn is followed by a link to the turn's own page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A choice confirmed here is refused, because the play these turns are of is over.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No session divider is drawn, because no played turn states a session.",
     },
   ],

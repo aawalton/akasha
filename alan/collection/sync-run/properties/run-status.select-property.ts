@@ -7,9 +7,9 @@ export const runStatus = {
   propertySlug: "run-status",
   definition: "how a pull ended",
   values: ["running", "success", "failed"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pull left `running` by a process that died is settled as `failed`.",
     },
   ],

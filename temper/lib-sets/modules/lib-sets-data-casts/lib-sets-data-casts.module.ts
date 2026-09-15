@@ -6,9 +6,9 @@ export const libSetsDataCasts = {
   slug: "lib-sets-data-casts",
   definition: "unchecked casts onto the shapes of the preloaded set tables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each cast asserts a shape rather than checking a shape.",
     },
   ],

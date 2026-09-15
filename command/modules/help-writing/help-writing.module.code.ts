@@ -11,11 +11,11 @@ const ARGUMENT = "argument"
 
 const SAID_AS = "saidAs"
 
-const INVARIANTS = "invariants"
+const DECISIONS = "decisions"
 
 const STATEMENT = "statement"
 
-const INVARIANT_KIND = "invariantKind"
+const DECISION_KIND = "decisionKind"
 
 const DIRECTIVES = "directives"
 
@@ -40,7 +40,7 @@ export type Surface = Parted & {
 }
 
 export function statementsIn(page: Record<string, unknown>, notYet: ReadonlySet<string>): Parted {
-  const held = page[INVARIANTS]
+  const held = page[DECISIONS]
   const holds: string[] = []
   const later: string[] = []
   if (!Array.isArray(held)) return { holds, notYet: later }
@@ -49,7 +49,7 @@ export function statementsIn(page: Record<string, unknown>, notYet: ReadonlySet<
     const said = one as Record<string, unknown>
     const stated = said[STATEMENT]
     if (typeof stated !== "string") continue
-    const kind = said[INVARIANT_KIND]
+    const kind = said[DECISION_KIND]
     if (typeof kind === "string" && notYet.has(slugOf(kind))) later.push(stated)
     else holds.push(stated)
   }

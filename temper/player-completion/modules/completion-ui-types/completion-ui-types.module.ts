@@ -6,9 +6,9 @@ export const completionUiTypes = {
   slug: "completion-ui-types",
   definition: "the shapes the completion window shows one player's progress in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

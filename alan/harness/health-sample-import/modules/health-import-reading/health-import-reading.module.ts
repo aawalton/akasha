@@ -6,17 +6,17 @@ export const healthImportReading = {
   slug: "health-import-reading",
   definition: "what an import run says about itself once it is done",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that wrote every record the run read reads as imported.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that lost records reads as lossy and names the records the run lost.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that cannot tell which records the run lost reads as unsettled.",
     },
   ],

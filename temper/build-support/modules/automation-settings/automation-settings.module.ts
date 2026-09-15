@@ -6,22 +6,22 @@ export const automationSettings = {
   slug: "automation-settings",
   definition: "which chores are done for a character or companion without being asked for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A toggle set on one character outranks the same toggle set across all characters.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A toggle set nowhere is off.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character has a toggle for each crafting writ the game gives out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A companion has fewer toggles than a character.",
     },
   ],

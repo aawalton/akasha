@@ -6,9 +6,9 @@ export const zoneGeoData01 = {
   slug: "zone-geo-data-01",
   definition: "part 01 of which point of interest reaches a zone from its geographical parent",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These rows are the rows upstream LibZone v8.98 states.",
     },
   ],

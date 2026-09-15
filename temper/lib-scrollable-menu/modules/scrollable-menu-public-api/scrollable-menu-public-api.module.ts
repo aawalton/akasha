@@ -6,17 +6,17 @@ export const scrollableMenuPublicApi = {
   slug: "scrollable-menu-public-api",
   definition: "the placing of the library object and its constants into the global namespace",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library is published on globalThis under LibScrollableMenu.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every entry-type and highlight name is copied into _G as a separate global.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Update mode constants are published as three separate globals.",
     },
   ],

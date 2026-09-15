@@ -8,9 +8,9 @@ export const schedule = {
   definition: "the times a unit is started at",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating a schedule is started by a timer rather than kept running.",
     },
   ],

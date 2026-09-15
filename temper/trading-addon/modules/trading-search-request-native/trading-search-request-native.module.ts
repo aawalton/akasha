@@ -6,9 +6,9 @@ export const tradingSearchRequestNative = {
   slug: "trading-search-request-native",
   definition: "handing a collected filter set to the game's own guild store search",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game's own search does the narrowing the filters ask for.",
     },
   ],

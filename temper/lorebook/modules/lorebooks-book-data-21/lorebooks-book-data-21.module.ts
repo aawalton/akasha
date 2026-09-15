@@ -6,13 +6,13 @@ export const lorebooksBookData21 = {
   slug: "lorebooks-book-data-21",
   definition: "one run of the Eidetic Memory book table, in the order the whole table names them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These records are one unbroken run of the whole table's order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This run is the add-on's own source rather than anything akasha derives.",
     },
   ],

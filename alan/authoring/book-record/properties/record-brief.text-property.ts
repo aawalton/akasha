@@ -8,13 +8,13 @@ export const recordBrief = {
   definition: "the summary a record carries apart from its text",
   maxLength: 500,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A brief is written outside the text the brief summarises.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A brief says the substance of a record rather than repeating the record's text.",
     },
   ],

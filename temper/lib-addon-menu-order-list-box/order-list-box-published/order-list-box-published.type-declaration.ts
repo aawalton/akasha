@@ -6,17 +6,17 @@ export const orderListBoxPublished = {
   slug: "order-list-box-published",
   definition: "the handler names this widget's XML calls the built Lua back through",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The XML and the name here are spelled the same way.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A handler is unset until the widget builds a row.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

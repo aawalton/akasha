@@ -8,9 +8,9 @@ export const resourceKey = {
   definition: "the key a value sits under inside the resource it belongs to",
   maxLength: 253,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The key is spelled as the resource spells that key rather than as a slug is spelled.",
     },

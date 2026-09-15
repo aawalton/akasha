@@ -6,17 +6,17 @@ export const sender = {
   slug: "sender",
   definition: "the address and domain a From header carries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An address inside angle brackets wins over the text around that address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An address is lowercased before anything compares the address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An address with no separator has an empty domain.",
     },
   ],

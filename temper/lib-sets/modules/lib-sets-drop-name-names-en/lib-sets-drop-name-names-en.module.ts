@@ -6,9 +6,9 @@ export const libSetsDropNameNamesEn = {
   slug: "lib-sets-drop-name-names-en",
   definition: "the English name of each way a gear set drops",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name here may be read from the game's own strings rather than written out.",
     },
   ],

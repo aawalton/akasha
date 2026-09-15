@@ -6,13 +6,13 @@ export const seatConditionsReading = {
   slug: "seat-conditions-reading",
   definition: "what a seat runs under, read off the one seat-conditions page as text and flags",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The conditions are read afresh at each ask rather than held from an earlier one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A read that refuses reaches whoever asked rather than being waited out here.",
     },
   ],

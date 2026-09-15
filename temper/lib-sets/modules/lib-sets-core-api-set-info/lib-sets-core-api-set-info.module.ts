@@ -6,9 +6,9 @@ export const libSetsCoreApiSetInfo = {
   slug: "lib-sets-core-api-set-info",
   definition: "everything known about one set gathered into a single table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Set data asked for in one language and without item ids is cached for later asks.",
     },

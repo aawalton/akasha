@@ -6,13 +6,13 @@ export const searchValueFilter = {
   slug: "search-value-filter",
   definition: "the item value, narrowed by a range from 0 to 1000000 with a comparison operator",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The operator defaults to <= where the saved value names no operator.",
     },
   ],

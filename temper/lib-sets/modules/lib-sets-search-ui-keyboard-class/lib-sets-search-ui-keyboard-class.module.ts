@@ -6,13 +6,13 @@ export const libSetsSearchUiKeyboardClass = {
   slug: "lib-sets-search-ui-keyboard-class",
   definition: "the class the keyboard search window's objects are made from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The class is also placed on the game global as LibSets_SearchUI_Keyboard.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A further view of this class is typed for overriding.",
     },
   ],

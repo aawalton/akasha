@@ -9,9 +9,9 @@ export const changeMechanicalFileContentMove = {
     "change-mechanical-file-content/move-property-value",
     "change-mechanical/move-code-export",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here carries a declaration out of one body and into another body.",
     },
   ],

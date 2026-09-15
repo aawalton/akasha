@@ -22,31 +22,31 @@ export const monarchAccount = {
     { pageProperty: "boolean-property/account-active", required: true, many: false },
     { pageProperty: "boolean-property/account-hidden", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account with no transaction is still an account.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A retirement or brokerage balance moves without a row against that balance.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Monarch reopens a closed account under a second id rather than reviving the first id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two accounts have the same last four digits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An account named by digits alone takes `account-` ahead of those digits for its slug.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A transaction whose account has no page is dropped by the sync without a word.",
     },
   ],

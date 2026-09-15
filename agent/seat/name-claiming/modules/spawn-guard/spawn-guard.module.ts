@@ -6,17 +6,17 @@ export const spawnGuard = {
   slug: "spawn-guard",
   definition: "whether a name may be spawned into, by whether anything has it and can be seen",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal names this module by its slug rather than by its path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page naming no process and a page naming one nobody can read are one answer.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "That answer cannot say which of the two it met, so it names neither.",
     },
   ],

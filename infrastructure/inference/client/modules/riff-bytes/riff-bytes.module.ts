@@ -7,17 +7,17 @@ export const riffBytes = {
   definition: "the bytes a voice service answered, weighed for the header a wav opens with",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A payload no longer than a wav header is no wav.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A payload is weighed by the four bytes that payload opens with.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the sound a payload has past its header.",
     },
   ],

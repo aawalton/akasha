@@ -12,13 +12,13 @@ export const googleOauth = {
     "module/oauth-consent",
     "module/oauth-refresh-token",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No credential is held here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One consent covers calendar, drive and mail, and one token comes of it.",
     },
   ],

@@ -7,17 +7,17 @@ export const ruleFilterTypes = {
   definition:
     "the shape of one condition a rule may carry, as the rule editor offers and clears it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every condition the editor offers is named once in this list of ids.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A filter names the categories the condition suits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A filter's fingerprint tells two rules carrying that condition apart.",
     },
   ],

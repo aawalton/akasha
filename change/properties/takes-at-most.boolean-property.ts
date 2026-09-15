@@ -6,17 +6,17 @@ export const takesAtMost = {
   slug: "takes-at-most",
   propertySlug: "takes-at-most",
   definition: "whether a change takes a ceiling on how many pages one run acts on",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change saying nothing here acts on every page that change reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change saying true takes that ceiling under `at-most`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run handed no ceiling acts on every page the change reaches.",
     },
   ],

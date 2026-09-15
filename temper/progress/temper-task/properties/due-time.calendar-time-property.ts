@@ -6,9 +6,9 @@ export const dueTime = {
   slug: "due-time",
   propertySlug: "due-time",
   definition: "the time of day a task is next wanted",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A task wanted at no stated hour states no due time.",
     },
   ],

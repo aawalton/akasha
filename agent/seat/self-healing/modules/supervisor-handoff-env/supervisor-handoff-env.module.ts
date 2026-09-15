@@ -7,17 +7,17 @@ export const supervisorHandoffEnv = {
   definition: "what a re-executing supervisor passes to itself through the environment",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A handoff missing a single part is ignored rather than half-read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A malformed handoff is said before that handoff is ignored.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A proxy owner absent from the handoff is the session's own agent.",
     },
   ],

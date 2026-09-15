@@ -6,9 +6,9 @@ export const knowledgeCuratedInvalidIds = {
   slug: "knowledge-curated-invalid-ids",
   definition: "the items kept out of the style and chapter tables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An item upstream marks unavailable contributes to no style.",
     },
   ],

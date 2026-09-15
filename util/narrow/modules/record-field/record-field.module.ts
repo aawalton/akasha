@@ -6,9 +6,9 @@ export const recordField = {
   slug: "record-field",
   definition: "what one field holds on a value that may be no record at all",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A value that is no record holds no field.",
     },
   ],

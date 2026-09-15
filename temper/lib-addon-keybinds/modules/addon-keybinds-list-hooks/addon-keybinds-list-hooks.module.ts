@@ -6,25 +6,25 @@ export const addonKeybindsListHooks = {
   slug: "addon-keybinds-list-hooks",
   definition: "the game's keybinding list filtered by which half of the split is chosen",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game's own row setup runs before the callback fired for other addons.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row type lacking a hide callback is given a hide callback.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A keybind is judged standard by the string id named for the action.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A header is held back until a row beneath that header is shown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value read as a number is asked its Lua type first.",
     },
   ],

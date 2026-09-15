@@ -78,18 +78,18 @@ export const strengthExercise = {
     { pageProperty: "boolean-property/trains-lengthened-range", required: true, many: false },
     { pageProperty: "file-property/instructions", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "How a movement is performed is in its own file rather than in a value beside that movement.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A movement with an external id was imported and is refreshed from its source.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A movement Alan wrote himself has no field an external source would fill.",
     },
   ],

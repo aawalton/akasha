@@ -6,9 +6,9 @@ export const charactersCurrentEntry = {
   slug: "characters-current-entry",
   definition: "the saved table row of the character now played, or nothing where the game has none",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Which row the character now played is kept in is worked out in one place.",
     },
   ],

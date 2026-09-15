@@ -6,17 +6,17 @@ export const companionSkillTooltip = {
   slug: "companion-skill-tooltip",
   definition: "a companion skill description with its durations and values filled in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nested synergy or delayed effect contributes its own value slot.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Formula effects are collected in the order the skill declares.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The primary targeting is the first effect with a target.",
     },
   ],

@@ -6,22 +6,22 @@ export const claudeLaunchArgs = {
   slug: "claude-launch-args",
   definition: "the command line a claude child starts under, and the mcp config it is handed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A child is named on its command line for the seat it answers in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name a child is started under is the live name and the durable title both.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A child whose remote control is on names its remote control session for the seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A remote control session left unnamed is named for the machine and two words.",
     },
   ],

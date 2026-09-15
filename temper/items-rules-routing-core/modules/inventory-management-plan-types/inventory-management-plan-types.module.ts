@@ -6,13 +6,13 @@ export const inventoryManagementPlanTypes = {
   slug: "inventory-management-plan-types",
   definition: "the shape of a management plan, of the stops it makes and of the steps at each",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plan is a list of venue stops with the actions taken at that stop.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A character session gathers the venue stops one character makes before the next takes over.",
     },

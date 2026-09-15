@@ -6,22 +6,22 @@ export const sessionIdentity = {
   slug: "session-identity",
   definition: "who a Supabase session cookie proves a request is from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failed check is remembered for a shorter time than a successful check.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A token is remembered no longer than the token itself lasts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A signing key the proxy does not have is fetched once more before the token fails.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here asks the auth server about a token.",
     },
   ],

@@ -6,9 +6,9 @@ export const mapPingCompatibility = {
   slug: "map-ping-compatibility",
   definition: "the older library object an addon written against LibMapPing reaches",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An older caller reaches the same handler through the older global name.",
     },
   ],

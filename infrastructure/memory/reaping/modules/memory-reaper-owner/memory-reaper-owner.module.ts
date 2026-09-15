@@ -7,13 +7,13 @@ export const memoryReaperOwner = {
   definition: "which seat a process about to be killed belongs to",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat is read off a command line rather than looked up anywhere.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent id that is no uuid names no seat.",
     },
   ],

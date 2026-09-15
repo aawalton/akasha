@@ -6,9 +6,9 @@ export const conditionExpr = {
   slug: "condition-expr",
   definition: "a query condition written as an expression the collection runs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A condition on a path is written as no expression and is weighed over the rows.",
     },
   ],

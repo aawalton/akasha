@@ -7,13 +7,13 @@ export const sortedOnce = {
   definition: "values given back in sorted order, each one once",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value given more than once comes back once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order is the one sorting puts the values in rather than the order given.",
     },
   ],

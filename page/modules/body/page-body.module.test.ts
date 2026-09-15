@@ -97,10 +97,10 @@ test("a key inside a value is written bare where TypeScript reads it bare", () =
     pageTypeSlug: "thing",
     slug: "one",
     importFrom: "./thing.page-type.ts",
-    keys: ["invariants"],
-    values: { invariants: [{ invariantKind: "gap", statement: "A key is bare." }] },
+    keys: ["decisions"],
+    values: { decisions: [{ decisionKind: "gap", statement: "A key is bare." }] },
   })
-  expect(said).toContain('  invariants: [{invariantKind:"gap",statement:"A key is bare."}],')
+  expect(said).toContain('  decisions: [{decisionKind:"gap",statement:"A key is bare."}],')
 })
 
 test("a type imported from a path carrying a quote is written so the body still parses", () => {

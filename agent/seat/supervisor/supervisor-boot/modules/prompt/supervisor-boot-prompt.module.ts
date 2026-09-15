@@ -6,21 +6,21 @@ export const supervisorBootPrompt = {
   slug: "supervisor-boot-prompt",
   definition: "the authored prompt a spawning seat is handed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with no agent id spawns with no authored prompt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A composing that throws is caught and the seat spawns without a prompt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A composition that came back empty spawns with no authored prompt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A prompt is renamed into place so no half-written file is ever handed over.",
     },
   ],

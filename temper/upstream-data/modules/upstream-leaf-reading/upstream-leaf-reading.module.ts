@@ -6,26 +6,26 @@ export const upstreamLeafReading = {
   slug: "upstream-leaf-reading",
   definition: "the leaves read off an upstream table and ruled against the leaves of the port",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A table still inside Lua is walked inside Lua.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A table already carried out of Lua is walked as a TypeScript value.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A table with a sequence is carried out of Lua before that table is walked.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An upstream dump with no leaf beside a ported dump with no leaf is refused.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rulings of a library's datasets gather into one ruling for that library.",
     },
   ],

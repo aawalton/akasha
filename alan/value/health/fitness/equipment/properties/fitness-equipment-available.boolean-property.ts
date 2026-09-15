@@ -6,13 +6,13 @@ export const fitnessEquipmentAvailable = {
   slug: "fitness-equipment-available",
   propertySlug: "available",
   definition: "whether Alan can load a movement with this piece today",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A piece Alan means to buy is a page already.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A piece Alan means to buy is not available.",
     },
   ],

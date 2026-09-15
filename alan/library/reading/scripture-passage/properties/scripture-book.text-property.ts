@@ -8,9 +8,9 @@ export const scriptureBook = {
   definition: "the book of scripture a passage is in",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book is written as the book is printed rather than as a slug is written.",
     },
   ],

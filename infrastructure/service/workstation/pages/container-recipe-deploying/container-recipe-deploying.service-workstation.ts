@@ -12,22 +12,22 @@ export const containerRecipeDeploying = {
     jitterSeconds: 10,
     startTimeoutSeconds: 3900,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe's image is built on the cluster's buildkit rather than on this machine.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe whose image the registry holds already is put up without a build.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A tick with every container recipe up to date puts nothing up, so that is no loop without end.",
     },

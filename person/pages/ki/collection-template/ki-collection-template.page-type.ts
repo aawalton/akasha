@@ -7,21 +7,21 @@ export const kiCollectionTemplate = {
   definition: "a collection of Ki's, held apart from Alan's",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every page type of Ki's is under this page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No page type has a collection of Ki's beside a collection of Alan's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Ki scores a collection with a number and grades that collection with a letter.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Whatever is imported for Ki lands on a page type of Ki's own.",
     },
   ],

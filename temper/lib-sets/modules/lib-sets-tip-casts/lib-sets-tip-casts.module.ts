@@ -6,9 +6,9 @@ export const libSetsTipCasts = {
   slug: "lib-sets-tip-casts",
   definition: "the narrowings the tooltip code puts on untyped controls and tables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tooltip control is probed for its methods rather than typed.",
     },
   ],

@@ -6,9 +6,9 @@ export const requiredSkillLinesFilterTypes = {
   slug: "required-skill-lines-filter-types",
   definition: "the shape of the condition asking how far named skill lines have been levelled",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A condition asks that every named line be maxed or that one named line is not.",
     },
   ],

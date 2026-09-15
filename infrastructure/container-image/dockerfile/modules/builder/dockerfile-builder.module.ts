@@ -7,13 +7,13 @@ export const dockerfileBuilder = {
   definition: "the install and copy stages a Next.js build shares",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The image installs against the root manifest the checkout carries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A manifest is copied once.",
     },
   ],

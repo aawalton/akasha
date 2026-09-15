@@ -6,13 +6,13 @@ export const housingChatCapture = {
   slug: "housing-chat-capture",
   definition: "reading a visit card out of a chat line another player sent",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A line is a visit card only when the line has the agreed key word.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which chat channels may have a card is a player setting.",
     },
   ],

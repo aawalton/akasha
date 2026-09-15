@@ -6,18 +6,18 @@ export const checkAddonSandboxSafety = {
   slug: "check-addon-sandbox-safety",
   definition: "the run judging whether an emitted bundle names a symbol the game strips",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The population the run states is the emitted bundles under the build output.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A bundle examined is a bundle whose text was read.",
     },
 
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A bundle that could not be read ends the run with the bundles read so far named.",
     },
   ],

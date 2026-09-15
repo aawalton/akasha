@@ -6,13 +6,13 @@ export const ruleFilterRegistry = {
   slug: "rule-filter-registry",
   definition: "every condition a rule may carry, in the order they are offered",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A filter reaches a rule only by being in this list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order here is the order the rule editor offers the conditions in.",
     },
   ],

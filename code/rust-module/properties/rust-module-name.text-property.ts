@@ -8,25 +8,25 @@ export const rustModuleName = {
   definition: "the name Cargo reads a module's file by",
   maxLength: 100,
   nameFormat: "name-format/lower-snake-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A `mod` line names a module by its module name rather than by its slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seam copies the page's Rust file to the module name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module name is unique within its crate alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slug is unique across the whole of akasha.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The module a crate's run begins in is named `main`.",
     },
   ],

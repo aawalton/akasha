@@ -57,33 +57,33 @@ export const temperAntiquitiesAddon = {
     "type-declaration/leads-window-declarations",
   ],
   interfaces: ["eso-interface/leads-layout"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One add-on has the antiquity tools rather than an add-on for each tool.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The lead window is the first thing the add-on carries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The whole window is declared in markup rather than built in code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The XML document loads after the Lua bundle.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The markup reaches the code by a global table whose keys the markup spells.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Another add-on reads a lead's dig zone through that same table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The pledge tracker is read where that tracker is installed and skipped where that tracker is not.",
     },

@@ -6,17 +6,17 @@ export const stockReconcilePlan = {
   slug: "stock-reconcile-plan",
   definition: "whether a character withdraws or deposits to reach the count it is meant to carry",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shortfall draws no larger amount than the open storage tier can give.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A surplus deposits no more than the open storage tier's cap leaves room for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plan moving zero items names neither withdrawal nor deposit.",
     },
   ],

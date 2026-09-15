@@ -6,13 +6,13 @@ export const leadsZoneName = {
   slug: "leads-zone-name",
   definition: "the name a lead's zone is shown under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A lead spanning two zones is shown under both names joined.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone the game has no id for is named here rather than by the game.",
     },
   ],

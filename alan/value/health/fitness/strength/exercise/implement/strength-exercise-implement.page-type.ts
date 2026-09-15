@@ -20,13 +20,13 @@ export const strengthExerciseImplement = {
     "strength-exercise-implement/medicine-ball",
     "strength-exercise-implement/other",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A movement names one of these rather than naming a piece Alan owns.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A piece Alan owns names the ones that piece answers for.",
     },
   ],

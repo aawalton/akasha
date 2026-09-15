@@ -6,13 +6,13 @@ export const dungeonChampionPins = {
   slug: "dungeon-champion-pins",
   definition: "drawing a champion on the map and on the compass, and the tooltip it has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Pins asked for before the player is in the world wait for the world.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A champion draws as killed only where the game says the criterion is met.",
     },
   ],

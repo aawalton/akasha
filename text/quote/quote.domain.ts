@@ -5,13 +5,13 @@ export const quote = {
   type: "page-type/domain",
   slug: "quote",
   definition: "a link whose text sits in the document it names",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quote's text is written in quotation marks.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quote matches any part of the document's text rather than a whole entry.",
     },
   ],

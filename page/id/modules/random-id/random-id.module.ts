@@ -6,13 +6,13 @@ export const randomId = {
   slug: "random-id",
   definition: "the runtime's random uuid, taken as a string",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No page takes its identity from here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value from here is unpredictable rather than ordered by time.",
     },
   ],

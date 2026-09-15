@@ -6,17 +6,17 @@ export const recipeCatalogCapture = {
   slug: "recipe-catalog-capture",
   definition: "the provisioning recipe lists, read into the add-on's saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The collector adds itself to the catalog registry as the module loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe is keyed by the item id of that recipe.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list with no recipe is left out.",
     },
   ],

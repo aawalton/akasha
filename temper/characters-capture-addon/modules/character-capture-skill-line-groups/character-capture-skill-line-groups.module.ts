@@ -6,9 +6,9 @@ export const characterCaptureSkillLineGroups = {
   slug: "character-capture-skill-line-groups",
   definition: "which skill lines belong to each class, each race, and the base game",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
   ],

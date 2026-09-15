@@ -8,13 +8,13 @@ export const messageBody = {
   definition: "the words a message carries",
   maxLength: 20000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words reach the recipient marked as data rather than as instruction.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words are sent as written rather than filled in as the message sends.",
     },
   ],

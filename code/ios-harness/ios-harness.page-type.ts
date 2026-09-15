@@ -23,29 +23,29 @@ export const iosHarness = {
     { pageProperty: "code-file-property/swift", required: false, many: false },
     { pageProperty: "code-file-property/main", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A harness's Swift is in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A harness's top level statements sit in the file named main.swift.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A harness is never built into an app.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A harness compiles the components the harness draws.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The agent that changed the drawing looks at the image the harness drew.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No blessed image exists to be compared against.",
     },
   ],

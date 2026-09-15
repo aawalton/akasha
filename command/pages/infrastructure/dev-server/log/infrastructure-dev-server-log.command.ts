@@ -9,21 +9,21 @@ export const infrastructureDevServerLog = {
   test: "ts",
   name: "log",
   parts: ["module/last-lines"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seq said as a word and after `--seq` is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The log is answered as the log was when the answer was built.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A log no file is there for is answered against the data rather than the caller.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here follows a log as the log grows.",
     },
   ],

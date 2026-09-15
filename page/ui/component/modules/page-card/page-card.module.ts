@@ -6,22 +6,22 @@ export const pageCard = {
   slug: "page-card",
   definition: "the card one page is shown as, drawn by that page's own page type",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card whose page type has a completion draws a circle where its icon goes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The keys the circle reads and writes come from the page type rather than the card.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type with no completion draws its icon and no circle.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page no page type above it draws takes the card beside page.",
     },
   ],

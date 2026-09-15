@@ -18,22 +18,22 @@ export const chronologyAnchors = {
     { pageProperty: "number-property/anchor-volume", required: false, many: false },
     { pageProperty: "number-property/anchor-beat", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An anchor is one place in one chapter rather than a date the chapter has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An anchor has the words that date the anchor.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An anchor naming nobody who claimed that anchor is an anchor the story itself tells.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every chapter a world's chronology rests on has its anchors here.",
     },
   ],

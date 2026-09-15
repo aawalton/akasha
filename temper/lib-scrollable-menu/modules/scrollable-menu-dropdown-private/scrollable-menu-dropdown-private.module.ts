@@ -6,21 +6,21 @@ export const scrollableMenuDropdownPrivate = {
   slug: "scrollable-menu-dropdown-private",
   definition: "the private helper table of the dropdown class and its automatic-refresh triggers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The private table is registered on the library classes table under its own key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry can declare a data key that raises a refresh of itself and its parents.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Parent rows are refreshed by walking the m_parentControl chain upward.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An icon change fires a library callback even where no refresh follows.",
     },
   ],

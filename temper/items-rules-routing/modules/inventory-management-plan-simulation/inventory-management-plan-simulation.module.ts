@@ -6,13 +6,13 @@ export const inventoryManagementPlanSimulation = {
   slug: "inventory-management-plan-simulation",
   definition: "one character's session run through in advance to see what each step leaves behind",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A simulated step changes only the state the simulation has.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No captured holding is changed by a simulation.",
     },
   ],

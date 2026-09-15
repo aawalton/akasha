@@ -6,9 +6,9 @@ export const assistantEntry = {
   slug: "assistant-entry",
   definition: "what the assistant keybinds do as the game loads them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Keybind names are made again whenever a collectible changes.",
     },
   ],

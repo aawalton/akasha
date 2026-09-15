@@ -6,21 +6,21 @@ export const seatPrincipal = {
   slug: "seat-principal",
   definition: "who a seat answers to, read from its page as a person or as the fleet",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with a person named on its page answers to that person.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with no person but a principal seat name answers to the fleet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with neither value answers to nobody.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The principal seat's id is looked up from the principal seat name.",
     },
   ],

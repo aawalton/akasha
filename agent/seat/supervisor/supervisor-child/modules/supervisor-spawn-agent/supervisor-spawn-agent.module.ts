@@ -6,21 +6,21 @@ export const supervisorSpawnAgent = {
   slug: "supervisor-spawn-agent",
   definition: "the subagent definitions and disallowed tools a launch is given",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The definitions are composed by the compose module rather than here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The compose module is imported from beside this module and its function called.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A launch given no definitions is launched with the delegation tool disallowed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty map is no definitions.",
     },
   ],

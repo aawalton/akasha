@@ -8,13 +8,13 @@ export const personaCoverImage = {
   extends: ["page-type/persona-image"],
   parts: [],
   properties: [{ pageProperty: "number-property/relationship-level", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cover is matched by the persona and the rung together.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cover naming no path is kept in the object store under its own identity.",
     },
   ],

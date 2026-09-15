@@ -6,9 +6,9 @@ export const housingLoad = {
   slug: "housing-load",
   definition: "what the housing add-on does once the game has loaded the add-on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Loading begins the port-to-friend part and nothing else.",
     },
   ],

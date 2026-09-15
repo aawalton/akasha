@@ -8,17 +8,17 @@ export const dashboardLayout = {
   definition: "the panels and queries a dashboard draws",
   extensions: ["json"],
   runsFileLength: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A layout is the JSON a chart server reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chart server writes this JSON rather than an author.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The byte ceiling is not judged over a layout.",
     },
   ],

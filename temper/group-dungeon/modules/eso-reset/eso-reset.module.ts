@@ -6,21 +6,21 @@ export const esoReset = {
   slug: "eso-reset",
   definition: "when the game's day last turned over, counted in whole seconds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day here turns over at six in the morning in New York.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The saving-time rule of today is applied to every year.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Lua compiled for the game reaches no Date and no clock of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every instant here is a whole second rather than a millisecond.",
     },
   ],

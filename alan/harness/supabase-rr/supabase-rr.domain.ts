@@ -29,17 +29,17 @@ export const supabaseRr = {
     "module/sign-up-route",
     "module/supabase-provider",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No key is here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A session is in cookies on the web and in the device's own store on iOS.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A request has the client and the session the request worked out.",
     },
   ],

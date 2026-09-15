@@ -6,21 +6,21 @@ export const promoteKeeps = {
   slug: "promote-keeps",
   definition: "one run bringing the backup store's keep markings to what the windows say",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every marking made is read back off the backup store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A marking the backup store did not take is reported.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run finding any disagreement fails once every action has been tried.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Importing the module starts nothing.",
     },
   ],

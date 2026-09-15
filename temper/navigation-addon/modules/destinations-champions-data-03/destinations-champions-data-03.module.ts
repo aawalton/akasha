@@ -6,13 +6,13 @@ export const destinationsChampionsData03 = {
   slug: "destinations-champions-data-03",
   definition: "one run of the champion (dolmen and world boss) achievement rows by zone",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The records here are one unbroken run of the table's order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The run is the add-on's own source rather than a derivation.",
     },
   ],

@@ -20,20 +20,20 @@ export const domain = {
     "page-type/finding",
     "page-type/initiative",
     "page-type/decision-group",
-    "page-type/invariant-kind",
+    "page-type/decision-kind",
     "page-type/list",
     "page-type/sentence-shape",
     "page-type/taboo-term",
     "record-property/directives",
-    "record-property/invariants",
+    "record-property/decisions",
     "relation-property/directive-kind",
-    "relation-property/invariant-kind",
+    "relation-property/decision-kind",
     "relation-property/page-domain",
     "relation-property/parts",
     "standard-agent-english-property/act",
     "standard-agent-english-property/aids",
     "standard-agent-english-property/definition",
-    "standard-agent-english-property/invariant-statement",
+    "standard-agent-english-property/decision-statement",
     "standard-agent-english-property/warrant",
     "text-property/linked-at",
     "text-property/name",
@@ -44,7 +44,7 @@ export const domain = {
   extends: ["page-type/page"],
   properties: [
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
-    { pageProperty: "record-property/invariants", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/decisions", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/directives", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/expands", required: false, many: false },
     { pageProperty: "relation-property/parts", required: false, many: true, maxCount: null },
@@ -53,47 +53,47 @@ export const domain = {
     { pageProperty: "text-property/linked-at", required: false, many: false },
     { pageProperty: "build-folder-property/output-directory", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page is a domain by its page type rather than by the folder the page sits in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Everything a domain carries could matter to every domain beneath that domain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A domain is never weighed against how many domains there are.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A slug and a definition is a whole domain rather than a stub waiting to be filled in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A domain stays even when nothing needs that domain any more.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A domain goes only when that domain no longer fits the structure.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Everything Alan wants done is a finding or an intent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Context a choice does not need does not reach the agent making that choice.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Agents have the context each choice needs at the time those agents make that choice.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's attributes represent the choices that seat will make.",
     },
   ],
@@ -108,7 +108,7 @@ export const domain = {
         "Approving the initiative is not approving a directive.",
         "A directive replacing an old one still needs approval.",
         "Deleting one is changing it.",
-        "A definition or an invariant needs none.",
+        "A definition or an decision needs none.",
       ],
     },
     {

@@ -6,9 +6,9 @@ export const housingLibraryLookup = {
   slug: "housing-library-lookup",
   definition: "choosing the European or North American community library for this world",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which library answers is decided by the world the player is on.",
     },
   ],

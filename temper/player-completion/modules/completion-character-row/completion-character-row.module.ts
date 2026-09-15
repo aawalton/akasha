@@ -6,9 +6,9 @@ export const completionCharacterRow = {
   slug: "completion-character-row",
   definition: "one character of a player's roster as the completion store keeps it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

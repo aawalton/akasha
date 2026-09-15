@@ -6,13 +6,13 @@ export const antiquityLoreCatalogSchema = {
   slug: "antiquity-lore-catalog-schema",
   definition: "the zod schema reading the antiquity lore catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry with a field the schema does not name is refused.",
     },
   ],

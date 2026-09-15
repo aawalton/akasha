@@ -6,23 +6,23 @@ export const node = {
   slug: "node",
   definition: "one machine in a cluster",
   parts: ["manifest/nvidia-device-plugin"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A node's configuration is declared in code and applied whole rather than changed on the machine.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A node's disks are matched by each disk's own identity rather than by device path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The GPU memory a node can use is measured from the card.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The GPU memory a node can use falls short of the card's nominal size.",
     },
   ],

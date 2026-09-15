@@ -6,13 +6,13 @@ export const markedReadAt = {
   slug: "marked-read-at",
   propertySlug: "marked-read-at",
   definition: "when the source a collection was read from was told the collection had been read",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reading a chapter here and telling the source so are two moments.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collection whose source was never told states no moment of telling.",
     },
   ],

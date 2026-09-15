@@ -7,21 +7,21 @@ export const syncOutcome = {
   definition:
     "an error named by kind, retried where retrying helps, and the tally a run answers with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error is named by kind from the words its own message has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A network error and a rate limit are the two kinds retried.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wait before a retry doubles up to a ceiling.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Tallies add together.",
     },
   ],

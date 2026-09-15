@@ -6,9 +6,9 @@ export const deviceSecretRevokedAt = {
   slug: "device-secret-revoked-at",
   propertySlug: "revoked-at",
   definition: "when a device secret stopped being taken",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A device secret stating no value for this property remains taken.",
     },
   ],

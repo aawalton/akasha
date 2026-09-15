@@ -6,13 +6,13 @@ export const generatedFile = {
   slug: "generated-file",
   definition: "the generated file a synth's output is in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A generated file sits in a `generated` folder beside its synth file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file already with the bytes that would be written is left alone.",
     },
   ],

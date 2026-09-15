@@ -6,9 +6,9 @@ export const monarchUpdatedAt = {
   slug: "monarch-updated-at",
   propertySlug: "monarch-updated-at",
   definition: "the moment Monarch last changed a transaction",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The poll refetches a transaction whose moment has moved past the moment held here.",
     },

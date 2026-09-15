@@ -6,17 +6,17 @@ export const libSetsAutoAutocompletion = {
   slug: "lib-sets-auto-autocompletion",
   definition: "the set-name completions offered under the set-preview slash commands",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Autocompletion only runs when LibSlashCommander is loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set name has its spaces replaced with a middle dot to make one token.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each supported language gets its own set of slash command aliases.",
     },
   ],

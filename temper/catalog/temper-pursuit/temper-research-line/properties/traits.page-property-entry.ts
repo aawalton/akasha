@@ -10,9 +10,9 @@ export const traits = {
     { pageProperty: "number-property/trait-index", required: true, many: false },
     { pageProperty: "text-property/trait-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trait here is a trait a player researches on the item a line names.",
     },
   ],

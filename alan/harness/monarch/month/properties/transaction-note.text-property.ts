@@ -8,17 +8,17 @@ export const transactionNote = {
   definition: "what somebody wrote on a transaction",
   maxLength: 2000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A note is written only where Monarch reports the note empty at that moment.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Monarch keeps no earlier version.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A note replaced and a note nobody wrote read the same.",
     },
   ],

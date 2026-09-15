@@ -6,9 +6,9 @@ export const conditionalActions = {
   slug: "conditional-actions",
   definition: "the actions the game addon takes only where a condition on the item holds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An action here is written for the addon rather than for the web matcher.",
     },
   ],

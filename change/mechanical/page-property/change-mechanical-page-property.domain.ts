@@ -10,17 +10,17 @@ export const changeMechanicalPageProperty = {
     "change-mechanical/remove-page-property",
     "change-mechanical/rename-page-property-property-slug",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here answers the whole scope of one act in one call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here reads the pages carrying the property from the index once.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rung here reaches a rung beneath once for each page.",
     },
   ],

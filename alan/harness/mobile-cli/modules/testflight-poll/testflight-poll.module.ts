@@ -7,42 +7,42 @@ export const testflightPoll = {
   definition: "the polling loop that carries an uploaded build from processing to tester-visible",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "an internalBuildState of MISSING_EXPORT_COMPLIANCE counts as blocked rather than as still waiting",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "a read of App Store Connect that fails is retried at the next interval",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "three read failures in a row raise the error rather than being retried again",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "a read that answers resets the count of failures in a row to zero",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "a build App Store Connect has not yet listed is carried as a state of its own",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "each tick says how long the poll has run and when the poll gives up",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "the processing poll gives up after 30 minutes",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "the tester-visibility poll gives up after 10 minutes",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "a processing failure is emitted as a single-line JSON marker beside its prose message",
     },

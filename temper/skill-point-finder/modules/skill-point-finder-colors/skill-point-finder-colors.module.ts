@@ -6,9 +6,9 @@ export const skillPointFinderColors = {
   slug: "skill-point-finder-colors",
   definition: "text colored by whether what that text names is done",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A color is written into the text as an inline markup tag.",
     },
   ],

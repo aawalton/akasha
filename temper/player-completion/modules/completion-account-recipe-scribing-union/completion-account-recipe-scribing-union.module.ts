@@ -6,9 +6,9 @@ export const completionAccountRecipeScribingUnion = {
   slug: "completion-account-recipe-scribing-union",
   definition: "the recipes and the scribing scripts any one character of an account knows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe or a script one character knows counts as known for the account.",
     },
   ],

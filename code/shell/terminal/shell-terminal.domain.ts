@@ -17,9 +17,9 @@ export const shellTerminal = {
     "module/terminal-seat-marks",
     "module/terminal-seat-stating",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A restart of the editor puts every interactive seat back in the terminal tab that seat held.",
     },

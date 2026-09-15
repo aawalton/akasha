@@ -6,9 +6,9 @@ export const charactersEventsKnowledge = {
   slug: "characters-events-knowledge",
   definition: "what this add-on does when what the played character knows changes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quest leaving the journal unfinished is read as nothing learned.",
     },
   ],

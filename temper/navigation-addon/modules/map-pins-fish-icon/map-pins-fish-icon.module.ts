@@ -6,9 +6,9 @@ export const mapPinsFishIcon = {
   slug: "map-pins-fish-icon",
   definition: "the icon of each fish",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

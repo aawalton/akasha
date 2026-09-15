@@ -6,18 +6,18 @@ export const debugLoggerState = {
   slug: "debug-logger-state",
   definition: "the library table and the internal table every other module reads and fills in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every module reaches the same two tables.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A function on the internal table does nothing until a module fills that function in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The session start time is the timestamp at load less the game time already run.",
     },
   ],

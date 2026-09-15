@@ -7,47 +7,47 @@ export const alanWebApiSmsWebhook = {
   definition: "the inbound text Telnyx hands this app",
   code: "ts",
   urlPath: "api/sms/webhook",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The signed text is read off the request before anything parses that request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A body whose Telnyx signature does not verify is answered 403 and acted on by nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A keyword the carrier answers for itself is recognised here and answered by nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An inbound text becomes a message to the handler seat the sender's relationship names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A sender nobody enrolled is written to the alan seat rather than let go in silence.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A handler target no seat holds becomes a refusal notice to the alan seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A write the pages service refused is answered 503 rather than as a delivered receipt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The enrolled senders are read before the machinery runs, and a list unread answers 503.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every effect the inbound machinery needs is handed in by this route.",
     },
   ],

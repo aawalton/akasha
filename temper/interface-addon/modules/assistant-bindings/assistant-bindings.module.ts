@@ -6,13 +6,13 @@ export const assistantBindings = {
   slug: "assistant-bindings",
   definition: "how a keybind name is made for each assistant the player has unlocked",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A keybind name is made only for an assistant already unlocked.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name already carrying text is left alone.",
     },
   ],

@@ -7,14 +7,14 @@ export const catalogConfigFile = {
   definition: "the one name the catalog add-on's side file is read back into",
   lua: "lua",
   loadedAs: "TemperCatalogConfig.lua",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The name starts out empty and the game fills the name from the saved variables file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The game loads the file before the compiled add-on rather than compiling the two together.",
     },

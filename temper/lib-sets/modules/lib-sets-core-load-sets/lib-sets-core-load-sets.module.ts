@@ -6,17 +6,17 @@ export const libSetsCoreLoadSets = {
   slug: "lib-sets-core-load-sets",
   definition: "building every lookup table the library answers from, in one sweep of the set data",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A load is refused while another load is already running.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every lookup table built here is emptied and rebuilt from scratch on each load.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The type tables are named by strings carried in the set type data.",
     },
   ],

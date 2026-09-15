@@ -6,9 +6,9 @@ export const libSetsLocRestStringsPl = {
   slug: "lib-sets-loc-rest-strings-pl",
   definition: "the library's own interface text in Polish",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text absent here is taken from the English table.",
     },
   ],

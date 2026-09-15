@@ -6,9 +6,9 @@ export const knowledgeBaseData = {
   slug: "knowledge-base-data",
   definition: "the pre-scanned master list that spares a fresh install the datamine",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A master list is read only while its api matches the client's.",
     },
   ],

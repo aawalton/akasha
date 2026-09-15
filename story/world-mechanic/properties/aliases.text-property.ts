@@ -8,9 +8,9 @@ export const aliases = {
   definition: "another name the text writes a thing under",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An alias is written as the text writes the alias rather than as a slug is written.",
     },

@@ -30,25 +30,25 @@ export const temperBuildVersion = {
     },
     { pageProperty: "select-property/base-roles", required: false, many: true, maxCount: null },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A version is kept so an earlier arrangement can be returned to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each version a build takes has the next version number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A version with no checkpoint name was taken as the build changed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Checkpoints are shown before the versions taken as the build changed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A version keeps the build's name, description and roles as declared properties.",
     },
   ],

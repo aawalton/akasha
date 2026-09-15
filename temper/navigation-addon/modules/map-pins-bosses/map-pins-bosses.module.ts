@@ -6,9 +6,9 @@ export const mapPinsBosses = {
   slug: "map-pins-bosses",
   definition: "the world boss places by zone, joined from its runs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the runs joined in order.",
     },
   ],

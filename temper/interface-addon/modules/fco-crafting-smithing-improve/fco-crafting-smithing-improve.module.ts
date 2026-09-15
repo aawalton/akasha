@@ -6,9 +6,9 @@ export const fcoCraftingSmithingImprove = {
   slug: "fco-crafting-smithing-improve",
   definition: "the smithing improvement panel the interface tweaks change",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shared guard is kept for the type each guard here narrows to.",
     },
   ],

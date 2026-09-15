@@ -6,26 +6,26 @@ export const useCompletionProgress = {
   slug: "use-completion-progress",
   definition: "the progress every completion tab is handed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Whether the catalogs have loaded is part of whether this module is loading.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transform gives back zeros against an empty catalog rather than throwing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller reading before the catalogs arrive would show a real-looking zero per cent.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An account ask answers at most one row.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The first body answered with is that account's.",
     },
   ],

@@ -6,9 +6,9 @@ export const companionsCommand = {
   slug: "companions-command",
   definition: "refreshing and clearing every companion's recorded data",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Clearing takes the recorded data and leaves the target builds.",
     },
   ],

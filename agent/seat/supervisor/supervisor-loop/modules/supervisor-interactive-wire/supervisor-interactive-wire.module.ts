@@ -7,29 +7,29 @@ export const supervisorInteractiveWire = {
   definition: "the per-iteration wiring of agent actions and the pre-cliff monitor",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pre-cliff monitor is not started where the cliff age could not be read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A proxy swap clears the requested action before the swap is triggered.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A swap does nothing where the agent id handle is empty.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Settling clears the action handler and cancels the deferred restart.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Settling stops the pre-cliff monitor that iteration started.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An exit the rule could not classify is recorded as unexamined rather than guessed.",
     },

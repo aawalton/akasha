@@ -15,30 +15,30 @@ export const temperLuaRunner = {
     "module/persistent-vm",
     "module/sandboxed-lua-vm",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The interpreter is the `lua5.1` binary on the path rather than a binary bundled here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One subprocess answers many scripts in turn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value crosses back from Lua as JSON.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value crosses into Lua as a Lua literal written out here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The Lua the subprocess loads first is a file beside a page rather than a string.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here compiles TypeScript to Lua.",
     },
   ],

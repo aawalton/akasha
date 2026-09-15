@@ -6,13 +6,13 @@ export const ruleLocked = {
   slug: "rule-locked",
   propertySlug: "locked",
   definition: "whether a rule is held back from being edited or deleted",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A locked rule is carried through a reset to defaults untouched.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Whether a rule is locked is stated rather than worked out from where that rule came.",
     },

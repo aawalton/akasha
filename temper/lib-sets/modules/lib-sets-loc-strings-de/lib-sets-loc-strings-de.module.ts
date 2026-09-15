@@ -6,9 +6,9 @@ export const libSetsLocStringsDe = {
   slug: "lib-sets-loc-strings-de",
   definition: "the library's own interface text in German",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text absent here is taken from the English table.",
     },
   ],

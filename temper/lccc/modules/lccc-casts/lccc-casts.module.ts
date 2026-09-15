@@ -6,9 +6,9 @@ export const lcccCasts = {
   slug: "lccc-casts",
   definition: "what a value the game hands over is taken to be",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

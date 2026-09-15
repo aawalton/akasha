@@ -7,9 +7,9 @@ export const componentTest = {
   propertySlug: "test",
   definition: "what proves a component's code",
   extensions: ["tsx"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test proving code written in TSX is written in TSX too.",
     },
   ],

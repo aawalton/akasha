@@ -6,13 +6,13 @@ export const buildShaDefine = {
   slug: "build-sha-define",
   definition: "the commit a bundler compiles into the build it is making",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The commit the environment states wins over the commit the checkout's head says.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkout that cannot be asked yields an empty string rather than throwing.",
     },
   ],

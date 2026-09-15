@@ -7,23 +7,23 @@ export const checkCrossCharacterCraft = {
   definition:
     "the condition check over whether any character can research a trait or gain crafting inspiration",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Research and inspiration are answered across every character rather than the current character.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One character below the crafting rank cap makes the whole item inspirable.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A trait with no researchable mapping fails the can-research form of the condition.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An item with no inferrable crafting type fails the can-inspire form of the condition.",
     },

@@ -6,9 +6,9 @@ export const claims = {
   slug: "claims",
   definition: "the signed claims a Supabase token has, read into a user or refused",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Claims that do not parse make no user.",
     },
   ],

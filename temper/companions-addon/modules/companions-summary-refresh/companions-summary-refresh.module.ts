@@ -6,9 +6,9 @@ export const companionsSummaryRefresh = {
   slug: "companions-summary-refresh",
   definition: "filling the companion summary table from live gear or from a saved build",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row colours by how near the worn build is to the target build.",
     },
   ],

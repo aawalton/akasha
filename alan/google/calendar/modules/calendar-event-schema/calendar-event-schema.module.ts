@@ -6,29 +6,29 @@ export const calendarEventSchema = {
   slug: "calendar-event-schema",
   definition: "how a calendar event is read off Google and written back to it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A boundary with a date alone makes an all-day event.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An end is an all-day boundary where the start is an all-day boundary.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An end has a time where the start has a time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An all-day event is given no zone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recurrence rule has no second `RRULE:` prefix.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field Google sends that is not asked for is kept rather than dropped.",
     },
   ],

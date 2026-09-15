@@ -40,21 +40,21 @@ export const selectionPolicy = {
     { pageProperty: "number-property/recency-weight", required: true, many: false },
     { pageProperty: "number-property/recency-saturation-days", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One page has the numbers and there is never a second page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every number the selector weighs by is on this page rather than in code.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A number missing here stops the selector rather than coming from somewhere else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each number the selector reads is a property of this page type.",
     },
   ],

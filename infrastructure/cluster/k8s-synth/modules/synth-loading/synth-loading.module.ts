@@ -6,17 +6,17 @@ export const synthLoading = {
   slug: "synth-loading",
   definition: "the manifests a synth file's default export answers with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A synth file answers through its default export alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A default export that is no function refuses the load.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry naming a field the shape does not have is refused.",
     },
   ],

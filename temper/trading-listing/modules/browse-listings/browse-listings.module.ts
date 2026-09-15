@@ -6,17 +6,17 @@ export const browseListings = {
   slug: "browse-listings",
   definition: "how listings gathered from a guild store are merged and ordered by price",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A listing arriving again replaces the listing of the same uid.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Listings at the same unit price fall in uid order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sort answers with a fresh array rather than reordering the array handed in.",
     },
   ],

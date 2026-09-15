@@ -6,9 +6,9 @@ export const id = {
   slug: "id",
   definition: "how a fresh identifier is made",
   parts: ["module/random-id", "module/uuid-version-7"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows the thing an identifier this package makes will name.",
     },
   ],

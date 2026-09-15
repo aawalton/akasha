@@ -7,9 +7,9 @@ export const simulation = {
   propertySlug: "simulation",
   definition: "the computation a model is, written in Python",
   extensions: ["py"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A simulation prints its numbers rather than writing the numbers anywhere.",
     },
   ],

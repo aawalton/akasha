@@ -6,13 +6,13 @@ export const inventoryItemFacts = {
   slug: "inventory-item-facts",
   definition: "the facts a rule walk reads off one item held in a place",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item's key is worked out from the item rather than said by the caller.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with no place named is still read.",
     },
   ],

@@ -6,9 +6,9 @@ export const companionsReverseMappings = {
   slug: "companions-reverse-mappings",
   definition: "turning a codec index back into the game constant and the words a player reads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An index outside the table reads back as the empty entry.",
     },
   ],

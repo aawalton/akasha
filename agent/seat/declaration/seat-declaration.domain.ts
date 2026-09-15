@@ -24,132 +24,132 @@ export const seatDeclaration = {
     "module/seat-whoami",
     "module/state-spawned-seat",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Somebody could have settled a declaration otherwise.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat reading a declaration off its own surroundings has a declaration still.",
     },
-    { invariantKind: "invariant-kind/departure", statement: "A seat's attributes have one store." },
+    { decisionKind: "decision-kind/departure", statement: "A seat's attributes have one store." },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every other place a seat's attributes appear is written from that store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An attribute nobody stated is that attribute's default rather than absent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's charter is the terms the seat was made on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's principal is who the seat's output is produced for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A principal nobody stated is absent rather than a default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's principal does not change when the seat's mode does.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with a terminal attached is interactive.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with no terminal attached is headless.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's flex tells apart two seats stating the same attributes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A flex value is `flex-` followed by a number.",
     },
-    { invariantKind: "invariant-kind/departure", statement: "Only a spawned seat has a flex." },
+    { decisionKind: "decision-kind/departure", statement: "Only a spawned seat has a flex." },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's spawner assigns that seat's flex.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat is on call or sent to a piece of work or both at once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An assignment is set and changed only by the seat's principal.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat whose principal is Alan writes its own assignment at his direction.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An assignment ends when the work the assignment names is done.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An assignment ends when the next to act has been told.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every assignment is stated on the seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A seat on call is there for its principal whether or not the principal is working.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat of either mode can be on call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every seat started in interactive mode is on call for Alan.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat on call is started by that seat's principal.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Being on call names no work to finish.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Being on call ends only where the seat's principal or Alan ends the seat's being on call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Work a principal hands a seat that no task or initiative names is an errand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The prompt a seat was started with is that seat's errand until its principal states a new errand.",
     },
-    { invariantKind: "invariant-kind/absence", statement: "Nothing observable ends an errand." },
-    { invariantKind: "invariant-kind/departure", statement: "A seat is assigned one initiative." },
+    { decisionKind: "decision-kind/absence", statement: "Nothing observable ends an errand." },
+    { decisionKind: "decision-kind/departure", statement: "A seat is assigned one initiative." },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An initiative a persona picked up ends on measurement rather than on delivery.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An assignment that has ended is no longer stated on the seat.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A seat is stopped once the seat's dispatch has ended.",
     },
   ],

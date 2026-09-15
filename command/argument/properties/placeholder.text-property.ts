@@ -8,17 +8,17 @@ export const placeholder = {
   definition: "the word naming what an argument's value is, where that argument is shown",
   maxLength: 40,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The word is written without the angle brackets it is shown in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name of more than one part is hyphenated rather than spaced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An argument carrying no value names no word here.",
     },
   ],

@@ -8,9 +8,9 @@ export const wants = {
   definition: "a unit this unit asks for without depending on",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The unit named failing to start leaves this service starting all the same.",
     },
   ],

@@ -7,17 +7,17 @@ export const nullable = {
   propertySlug: "nullable",
   definition: "whether a page may state nothing under this property rather than a value",
   types: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying nothing here holds a value wherever a page states it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying true here is written as its kind or nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Stating nothing and leaving the key out are two facts.",
     },
   ],

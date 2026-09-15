@@ -7,27 +7,27 @@ export const supervisorProxyAdoptionDecide = {
   definition: "whether a supervisor takes over the OAuth proxy standing or starts its own",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No live proxy is answered with a fresh proxy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A live proxy at the version expected here is taken over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A live proxy at another version is taken over anyway while that proxy is healthy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A live proxy at another version that is unhealthy is replaced rather than taken over.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here starts or stops or reaches a proxy.",
     },
   ],

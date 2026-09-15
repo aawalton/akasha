@@ -20,21 +20,21 @@ export const temperSkillMorph = {
     "module/skill-organization",
     "module/subclassing-morph-progress",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skill morphs only where the game gives that skill a first and a second morph.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skill variant is ranked to four at most.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A morphable skill is worth twelve rank.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skill line the character cannot use is left out of the totals.",
     },
   ],

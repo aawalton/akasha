@@ -6,9 +6,9 @@ export const needsReview = {
   slug: "needs-review",
   propertySlug: "needs-review",
   definition: "whether a transaction is waiting for somebody to settle it",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry stating nothing here states the opposite.",
     },
   ],

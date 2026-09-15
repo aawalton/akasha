@@ -8,9 +8,9 @@ export const sequenceGroupBy = {
   definition: "the key whose value gathers a page type's pages into one run",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key named here that the page type has no property for gathers nothing.",
     },
   ],

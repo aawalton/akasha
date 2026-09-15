@@ -22,30 +22,30 @@ export const temperQuestsAddon = {
     "module/quests-trace",
     "module/quests-trace-buffer",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The options the dialogue offers are read afresh rather than remembered between reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quest option is taken ahead of an option offering something else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An option already taken at one menu is not taken again at that menu.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A menu offering a service the player did not ask for is left alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The addon steps away once nothing in the dialogue is left to do.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game hands one dialogue option at a time rather than a whole menu.",
     },
   ],

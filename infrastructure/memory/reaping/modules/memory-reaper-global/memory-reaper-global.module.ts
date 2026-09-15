@@ -7,29 +7,29 @@ export const memoryReaperGlobal = {
   definition: "what the host gives up when its own memory headroom is gone",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The headroom leg trips only where swap is drained as well as memory.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A host with no swap at all counts as a host whose swap is drained.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The largest supervisor tree goes before any single process is taken.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The largest single process is taken only where no tree has anything.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing else is killed until the recovery window after a kill has elapsed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The window resets the moment the leg reads clear rather than when that window expires.",
     },

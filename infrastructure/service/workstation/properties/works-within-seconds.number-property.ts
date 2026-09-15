@@ -7,21 +7,21 @@ export const worksWithinSeconds = {
   propertySlug: "works-within-seconds",
   definition: "how long a service may go without a round of its work landing",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating nothing here is judged by no round of work.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating a window and having landed no round at all is broken.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window holds room for a round to be missed rather than one round alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A service states a window only where the service writes when a round of work landed.",
     },

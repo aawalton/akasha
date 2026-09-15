@@ -10,25 +10,25 @@ export const removeExportKeyword = {
   definition: "the change dropping the `export` from named values one code file declares",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The names to drop the `export` from are handed in rather than worked out here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A statement declaring a name not handed in keeps its `export`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name this change did not reach is refused rather than passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The space after the keyword goes with the keyword.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which names handed in this change reaches is answered without changing anything.",
     },
   ],

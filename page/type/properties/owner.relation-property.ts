@@ -7,17 +7,17 @@ export const owner = {
   propertySlug: "owner",
   definition: "the property naming the account a page belongs to",
   targetPageType: "page-type/page-property",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type naming no owner has pages the whole repository owns.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type extending another page type takes that page type's owner.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A narrow on who owns a page is lowered onto the property a page type names.",
     },
   ],

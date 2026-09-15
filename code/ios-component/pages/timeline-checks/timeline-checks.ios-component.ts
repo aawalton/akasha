@@ -6,46 +6,46 @@ export const timelineChecks = {
   slug: "timeline-checks",
   definition: "what both harnesses assert of the entries a feed's timeline is made of",
   swift: "swift",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Both apps run these same assertions rather than each carrying its own copy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A harness is handed the name and whether the check held and the reading the check saw.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rule asserted is the one the provider calls rather than a copy of it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A feed stating its own moment and a feed stating none are both asserted.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The provider's own timeline is compiled here and never run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The cost feed asked is the app's own rather than one written again here.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A harness that names no cost widget has no cost feed for these to reach.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a clock.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Every moment is spelled out.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "This component is compiled by the harnesses rather than by either app.",
     },
   ],

@@ -6,9 +6,9 @@ export const mediaGlobal = {
   slug: "media-global",
   definition: "the one global name the game and other addons reach the library by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Loading twice warns in chat rather than replacing the library.",
     },
   ],

@@ -5,9 +5,9 @@ export const log = {
   type: "page-type/domain",
   slug: "log",
   definition: "the lines a program wrote about what it was doing",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A log is kept for days.",
     },
   ],

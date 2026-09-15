@@ -6,13 +6,13 @@ export const stockChainVisit = {
   slug: "stock-chain-visit",
   definition: "what a single visit to a storage chain fills first and where the surplus cascades",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chain naming no by-priority tier answers no visit plan.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tiers below the fill tier are the surplus cascade.",
     },
   ],

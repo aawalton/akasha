@@ -8,9 +8,9 @@ export const headerFields = {
   definition: "the keys of the properties standing above the pages a page gathers",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A header naming keys states those keys in the order those keys stand in.",
     },
   ],

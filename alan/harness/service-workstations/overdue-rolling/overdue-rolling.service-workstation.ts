@@ -11,17 +11,17 @@ export const overdueRolling = {
     catchUp: true,
     startTimeoutSeconds: 600,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The timer fires after the day has opened rather than as the day opens.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Four in the morning in Denver is six in the morning in New York all year.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run missed while the workstation was off runs when the workstation is back.",
     },
   ],

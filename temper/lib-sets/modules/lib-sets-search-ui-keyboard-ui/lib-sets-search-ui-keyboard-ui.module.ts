@@ -6,13 +6,13 @@ export const libSetsSearchUiKeyboardUi = {
   slug: "lib-sets-search-ui-keyboard-ui",
   definition: "what the keyboard search window does when it opens, resets or is moved",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The window's place and size are kept in the saved variables under searchUI.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A saved size is never below the window's minimum width and height.",
     },
   ],

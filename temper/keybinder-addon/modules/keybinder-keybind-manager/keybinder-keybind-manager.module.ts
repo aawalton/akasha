@@ -6,13 +6,13 @@ export const keybinderKeybindManager = {
   slug: "keybinder-keybind-manager",
   definition: "the game's key-bind manager, taken from whichever of its two names is there",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keyboard manager is preferred over the plain manager.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A client offering neither name cannot run this add-on.",
     },
   ],

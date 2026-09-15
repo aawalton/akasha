@@ -16,9 +16,9 @@ export const inferenceHook = {
       default: "jsonl",
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hook here records how far each of its runs got, beside its own page.",
     },
   ],

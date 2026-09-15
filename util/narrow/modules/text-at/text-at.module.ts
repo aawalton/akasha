@@ -7,9 +7,9 @@ export const textAt = {
   definition: "the non-empty text a record holds under a key, or nothing",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record that is not there holds no text under any key.",
     },
   ],

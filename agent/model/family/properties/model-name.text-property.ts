@@ -8,17 +8,17 @@ export const modelName = {
   definition: "the name a call carries to reach this family's model",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name is the model provider's own rather than a name akasha coins.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A family names the one model calls reach today.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "A family names a model the provider still answers for.",
     },
   ],

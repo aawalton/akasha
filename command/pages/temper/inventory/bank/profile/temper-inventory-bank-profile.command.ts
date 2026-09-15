@@ -6,25 +6,25 @@ export const temperInventoryBankProfile = {
   slug: "temper-inventory-bank-profile",
   definition: "the command giving back the profiler capture from the addon's last banking session",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The capture read is the most recent capture.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The capture rolls up cost by source.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The capture names the costliest closures by inclusive time and by self time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Time in Lua is reported apart from time collecting garbage.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file with no capture refuses the call.",
     },
   ],

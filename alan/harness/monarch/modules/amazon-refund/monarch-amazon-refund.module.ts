@@ -6,33 +6,33 @@ export const monarchAmazonRefund = {
   slug: "monarch-amazon-refund",
   definition: "an Amazon refund read out of the refund mail Amazon sends",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A refund names the order that refund is against and the total and the item that refund is for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A mail missing the order number or the total or the returned item is no refund and is passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The item is known by the ASIN in the link Amazon writes rather than by its title.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A stated reason for return is kept where Amazon wrote a reason and is null where Amazon did not.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The refund's day is the day the mail was sent.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Amazon or Gmail.",
     },
   ],

@@ -6,18 +6,18 @@ export const companionArmorBaseValues = {
   slug: "companion-armor-base-values",
   definition: "armor value lookup by companion armor weight and equipment quality",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The table is keyed by EquipmentQualityId while the lookup takes CompanionEquipmentQualityId.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A no-quality or no-weight argument returns zero armor.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The lookup defaults to legendary quality when no quality is passed.",
     },
   ],

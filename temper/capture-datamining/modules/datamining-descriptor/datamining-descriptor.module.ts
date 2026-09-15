@@ -6,21 +6,21 @@ export const dataminingDescriptor = {
   slug: "datamining-descriptor",
   definition: "the name, version and defaults the mining add-on hands the game to save under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game saves the add-on under the name `TemperDataMining_SavedVariables`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The defaults name no field.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The sweep fills each field as the sweep runs.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No load time is kept.",
     },
   ],

@@ -6,17 +6,17 @@ export const alchemyStationTypes = {
   slug: "alchemy-station-types",
   definition: "the shape of a tab a caller adds and of the library the game global has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A descriptor is a number or a string.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tab names four textures for the states of the button.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The control a tab draws into is filled in by the library.",
     },
   ],

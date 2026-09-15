@@ -8,9 +8,9 @@ export const images = {
   definition: "every picture a card has been drawn as",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The picture a card is shown by is drawn from these pictures.",
     },
   ],

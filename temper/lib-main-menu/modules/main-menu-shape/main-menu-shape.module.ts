@@ -6,13 +6,13 @@ export const mainMenuShape = {
   slug: "main-menu-shape",
   definition: "the fields and the methods the published library object holds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every method here takes the library object as its first argument.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here is code the game runs.",
     },
   ],

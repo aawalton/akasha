@@ -6,14 +6,14 @@ export const libSetsCoreLifecycleInventoryContextmenu = {
   slug: "lib-sets-core-lifecycle-inventory-contextmenu",
   definition: "whether the set data has finished loading and is safe to ask about",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The keyboard buttons and the inventory context menu are built from this module too.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A failed readiness check clears the remembered list of inactive set ids.",
     },
   ],

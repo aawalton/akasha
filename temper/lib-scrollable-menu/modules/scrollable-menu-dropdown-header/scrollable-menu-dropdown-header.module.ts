@@ -6,21 +6,21 @@ export const scrollableMenuDropdownHeader = {
   slug: "scrollable-menu-dropdown-header",
   definition: "the numbered header child controls and the anchor sets each one takes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Header children are addressed by integer id rather than by control name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Anchors are declared once as objects and reapplied on every refresh.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A divider row is inserted between header children by an id comparison.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A header with a filter box is widened to the search-header minimum.",
     },
   ],

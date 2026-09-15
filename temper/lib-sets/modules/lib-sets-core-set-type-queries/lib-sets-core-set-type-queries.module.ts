@@ -6,9 +6,9 @@ export const libSetsCoreSetTypeQueries = {
   slug: "lib-sets-core-set-type-queries",
   definition: "the sets of one type, and the drop mechanic names a set carries in each language",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The world map opener is published from this module rather than from navigation.",
     },
   ],

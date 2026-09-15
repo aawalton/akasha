@@ -31,21 +31,21 @@ export const temperLibAddonMenuOrderListBox = {
     "type-declaration/order-list-box-shape",
   ],
   interfaces: ["eso-interface/lam-order-list-box-markup"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "LibAddonMenu-2.0 is loaded before this widget or the widget does nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The widget is offered to LibAddonMenu-2.0 rather than to an addon directly.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row is moved by dragging that row or by the four buttons beside the list.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
   ],

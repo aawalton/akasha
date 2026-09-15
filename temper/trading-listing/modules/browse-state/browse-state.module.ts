@@ -6,21 +6,21 @@ export const browseState = {
   slug: "browse-state",
   definition: "what to search next as each page of guild store listings arrives",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A guild whose pages are exhausted gives way to the next guild in the queue.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page is asked for only once the cooldown says the search may go.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A search already awaiting an answer blocks another search.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty queue finishes the search.",
     },
   ],

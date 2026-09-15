@@ -7,9 +7,9 @@ export const alanWebApiPageWrite = {
   definition: "the page a reader's browser asks to have written",
   code: "ts",
   urlPath: "api/page-write",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This route's action is the only thing this route's code exports.",
     },
   ],

@@ -7,13 +7,13 @@ export const subagentPrompt = {
   propertySlug: "subagent-prompt",
   definition: "what a subagent of one kind is told before its work is handed to it",
   extensions: ["md"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A prompt sits in its own file rather than in a value beside the page.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A prompt says nothing about the work one subagent is given.",
     },
   ],

@@ -6,21 +6,21 @@ export const domRegistering = {
   slug: "dom-registering",
   definition: "putting a document up before a component test runs and taking it away after",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The test runner preloads the module rather than a test importing the module.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The fetch the runtime came with is kept across the document being registered.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The components one test rendered are taken away before the next test runs.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The module declares no name a test reaches for.",
     },
   ],

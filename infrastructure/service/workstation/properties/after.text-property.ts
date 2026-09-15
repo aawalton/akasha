@@ -8,9 +8,9 @@ export const after = {
   definition: "a unit this unit starts after",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A unit named here orders the start without being required to be there.",
     },
   ],

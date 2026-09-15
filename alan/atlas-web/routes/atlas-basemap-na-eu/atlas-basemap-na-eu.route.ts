@@ -7,13 +7,13 @@ export const atlasBasemapNaEu = {
   definition: "the North America and Europe basemap tiles, served a range at a time",
   code: "ts",
   urlPath: "basemap/na-eu.pmtiles",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A request naming no byte range is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A range wider than the cap is refused rather than served.",
     },
   ],

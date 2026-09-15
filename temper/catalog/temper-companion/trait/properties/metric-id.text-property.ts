@@ -8,8 +8,8 @@ export const metricId = {
   definition: "the number an effect moves",
   maxLength: 200,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
-    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a metric." },
+  decisions: [
+    { decisionKind: "decision-kind/gap", statement: "This property is a relation to a metric." },
   ],
   types: "ts",
 } as const satisfies TextProperty

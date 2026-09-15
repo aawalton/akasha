@@ -7,17 +7,17 @@ export const nameOrdering = {
   definition: "names held in the order a locale sorts names by",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Names are ordered by the locale's own comparison rather than by code point.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The list of names handed in is left as that list was handed in.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here drops a name said twice.",
     },
   ],

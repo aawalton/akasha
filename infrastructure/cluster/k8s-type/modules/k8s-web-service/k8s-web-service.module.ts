@@ -6,17 +6,17 @@ export const k8sWebService = {
   slug: "k8s-web-service",
   definition: "the in-cluster Service a web app is reached on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A web app is reached inside the cluster rather than from outside it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every web app answers on one port, named once here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The labels a Service selects on are handed in beside the labels it carries.",
     },
   ],

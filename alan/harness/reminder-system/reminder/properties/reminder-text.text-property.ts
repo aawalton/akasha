@@ -8,9 +8,9 @@ export const reminderText = {
   definition: "the words a reminder sends",
   maxLength: 6000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words are sent as written rather than filled in as the reminder sends.",
     },
   ],

@@ -8,13 +8,13 @@ export const itemName = {
   definition: "what a sweep read an item's name as",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is the text one sweep read where a title is the item's name now.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name and a title part where a sweep read the item before the item was renamed.",
     },
   ],

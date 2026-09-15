@@ -7,22 +7,22 @@ export const watcherTrayTray = {
   definition: "the notification area icon and the menu behind it",
   rust: "rs",
   moduleName: "tray",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The icon is compiled into the binary rather than read at run time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The menu opens the log file and the SavedVariables folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A SavedVariables folder under OneDrive is preferred over the folder under the profile.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Quitting kills the worker before the event loop exits.",
     },
   ],

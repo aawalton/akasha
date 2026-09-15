@@ -6,9 +6,9 @@ export const libSetsKbfFavoritesFilter = {
   slug: "lib-sets-kbf-favorites-filter",
   definition: "the dropdown of favourite categories a set can be marked with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The first entry of the dropdown covers sets marked with no favourite.",
     },
   ],

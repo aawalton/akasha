@@ -7,9 +7,9 @@ export const routeTest = {
   propertySlug: "test",
   definition: "what proves a route's code",
   extensions: ["ts", "tsx"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test proving code written in TSX is written in TSX too.",
     },
   ],

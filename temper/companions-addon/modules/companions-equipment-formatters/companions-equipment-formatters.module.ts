@@ -6,9 +6,9 @@ export const companionsEquipmentFormatters = {
   slug: "companions-equipment-formatters",
   definition: "one line of text for a companion's armor, jewelry or weapon slot",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty slot formats as a dash rather than as blank text.",
     },
   ],

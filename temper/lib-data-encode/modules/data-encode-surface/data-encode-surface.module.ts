@@ -6,17 +6,17 @@ export const dataEncodeSurface = {
   slug: "data-encode-surface",
   definition: "the calls and the alphabet another addon reaches this library by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The surface names the library and the version of the library.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The alphabet and both lookups are handed out for another addon to read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty table is handed out for another addon to keep working notes in.",
     },
   ],

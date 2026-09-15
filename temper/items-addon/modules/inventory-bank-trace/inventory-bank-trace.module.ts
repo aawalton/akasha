@@ -6,45 +6,45 @@ export const inventoryBankTrace = {
   slug: "inventory-bank-trace",
   definition: "the timing traces kept over recent visits to a venue, phase by phase",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The traces of the ten most recent bank sessions are kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The oldest trace goes when a further session opens.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The trace of the session that opened last is kept a second time on its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A closed session takes the settling that follows it for five seconds and no more.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "One venue's visit is traced at a time, and opening a venue ends the visit before.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A merchant and a fence are traced as a banker is, into a ring of their own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A venue with no instrument ends the traced visit rather than taking its settling.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "What a venue's open handler spends is bracketed apart from what settles after it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Neither bucket's brackets are subtracted twice from the unattributed remainder.",
     },
   ],

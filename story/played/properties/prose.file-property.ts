@@ -7,13 +7,13 @@ export const prose = {
   propertySlug: "prose",
   definition: "the text a page carries, however long the text runs",
   extensions: ["txt"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Prose is in a file beside its page rather than in the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page whose text would outrun a description has the text here.",
     },
   ],

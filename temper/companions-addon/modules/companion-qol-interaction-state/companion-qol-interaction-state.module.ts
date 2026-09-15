@@ -6,9 +6,9 @@ export const companionQolInteractionState = {
   slug: "companion-qol-interaction-state",
   definition: "when a companion was dismissed for an interaction and whether to bring it back",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A companion dismissed by the player is told apart from a companion dismissed for an interaction.",
     },

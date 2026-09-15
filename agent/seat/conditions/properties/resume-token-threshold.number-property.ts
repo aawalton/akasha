@@ -7,13 +7,13 @@ export const resumeTokenThreshold = {
   propertySlug: "resume-token-threshold",
   definition: "how many tokens a seat's session has before starting it offers the resume menu",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a headless seat has this threshold.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A threshold no seat reaches is how the resume menu never appears.",
     },
   ],

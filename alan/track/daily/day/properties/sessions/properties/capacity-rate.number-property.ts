@@ -7,17 +7,17 @@ export const capacityRate = {
   propertySlug: "capacity-rate",
   definition: "how much capacity for stress an hour of a stretch gave back or took",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rate is matched by the word Alan writes in a session title.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A session naming several recovery activities credits at the best rate.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A session naming several recovery activities credits at the sum of its rates.",
     },
   ],

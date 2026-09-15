@@ -7,9 +7,9 @@ export const fitnessEquipmentCovers = {
   propertySlug: "covers",
   definition: "the kit a movement names that this piece answers for",
   targetPageType: "page-type/strength-exercise-implement",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A piece answering for no kit a movement names covers nothing.",
     },
   ],

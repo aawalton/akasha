@@ -6,13 +6,13 @@ export const housingUiStrings = {
   slug: "housing-ui-strings",
   definition: "every phrase the housing window shows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A phrase is put on the holder rather than into a game string id.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "English is the only language carried.",
     },
   ],

@@ -6,30 +6,30 @@ export const readoutBody = {
   slug: "readout-body",
   definition: "the shape a reading takes on the wire to the surface drawing it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The wire shape belongs to every readout rather than to the readout that first had that shape.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A surface drawing a reading is held to the keys named here and to no other key.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "One reading is carried at the top of the body rather than under its own name.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A body has as many readings as the group drawing the readings holds.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the store.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names a readout.",
     },
   ],

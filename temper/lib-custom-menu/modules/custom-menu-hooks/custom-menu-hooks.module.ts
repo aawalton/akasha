@@ -6,17 +6,17 @@ export const customMenuHooks = {
   slug: "custom-menu-hooks",
   definition: "the game's menu functions wrapped so custom entries survive",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A wrapper calls the function the wrapper replaced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Clearing a menu releases every pooled row back to its pool.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A held modifier key turns an inventory context menu into a special menu.",
     },
   ],

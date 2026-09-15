@@ -9,9 +9,9 @@ export const targetName = {
   maxLength: 100,
   nameFormat: null,
   unique: "unique-kind/page-type",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name a program is built under is the name the built bundle is named for.",
     },
   ],

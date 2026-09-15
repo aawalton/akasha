@@ -6,9 +6,9 @@ export const companionQolConstants = {
   slug: "companion-qol-constants",
   definition: "the settings the quality-of-life code starts out with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting absent from saved variables takes its value from here.",
     },
   ],

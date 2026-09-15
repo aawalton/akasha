@@ -6,13 +6,13 @@ export const zoneNamesData = {
   slug: "zone-names-data",
   definition: "every zone's name in each language the library has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each language has the zone names of that language alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The Japanese and Polish fall back to English once the library loads.",
     },
   ],

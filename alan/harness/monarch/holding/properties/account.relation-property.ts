@@ -7,9 +7,9 @@ export const account = {
   propertySlug: "account",
   definition: "the account a holding or a transaction sits under",
   targetPageType: "page-type/monarch-account",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A holding sits under exactly one account.",
     },
   ],

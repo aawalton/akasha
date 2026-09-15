@@ -18,9 +18,9 @@ export const temperAntiquityCategory = {
     { pageProperty: "number-property/eso-antiquity-category-id", required: true, many: false },
     { pageProperty: "page-property-entry/antiquities", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category is numbered in a key space of its own rather than by zone.",
     },
   ],

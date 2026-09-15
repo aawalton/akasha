@@ -6,14 +6,14 @@ export const searchTransmutedFilter = {
   slug: "search-transmuted-filter",
   definition: "whether an item trait was transmuted, narrowed by an include or exclude toggle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The transmuted filter reads the transmuted flag through the rule-editor flags checker.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

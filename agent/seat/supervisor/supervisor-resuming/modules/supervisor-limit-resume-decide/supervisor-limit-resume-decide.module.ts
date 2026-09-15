@@ -7,22 +7,22 @@ export const supervisorLimitResumeDecide = {
   definition: "whether a seat whose turn died on a usage limit is nudged back into its work now",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn that did not die on a usage limit decides nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat nudged inside the floor window is not nudged again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An eligible account pool nudges only once the pool has read eligible for the whole eligibility hold.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An exhausted pool nudges once the earliest account reset has arrived.",
     },
   ],

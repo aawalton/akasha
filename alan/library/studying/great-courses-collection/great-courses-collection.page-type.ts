@@ -7,17 +7,17 @@ export const greatCoursesCollection = {
   definition: "one shelf the whole Great Courses catalogue is reached through",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The catalogue's root shelf sits under nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shelf states no length of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The day the catalogue was last read is kept on its root shelf alone.",
     },
   ],

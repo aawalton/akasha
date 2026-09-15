@@ -6,14 +6,14 @@ export const needsSecrets = {
   slug: "needs-secrets",
   propertySlug: "needs-secrets",
   definition: "whether a service is handed the secrets in the home directory",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A service stating true is handed every secret the file has rather than some secrets.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating nothing is handed no secret.",
     },
   ],

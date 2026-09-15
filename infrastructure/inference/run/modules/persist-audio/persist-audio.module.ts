@@ -6,22 +6,22 @@ export const persistAudio = {
   slug: "persist-audio",
   definition: "the audio page a voice or music run lands, and the object it is stored under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a voice-design or voice-clone or music run lands audio.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A music run is recorded as made by ace-step whatever service ran that run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An object store the environment has not configured is raised rather than skipped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The object put is pushed into the caller's `done`.",
     },
   ],

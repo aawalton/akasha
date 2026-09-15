@@ -6,17 +6,17 @@ export const markdownDocument = {
   slug: "markdown-document",
   definition: "the shape a markdown page takes once it is parsed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every part of a parsed document has the span that part was read from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part that could not be read is carried as a span rather than dropped.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here parses or judges anything.",
     },
   ],

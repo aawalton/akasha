@@ -6,9 +6,9 @@ export const skillPointFinderEvents = {
   slug: "skill-point-finder-events",
   definition: "what the skill point window redraws in answer to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A redraw is asked for by a game event rather than by a timer.",
     },
   ],

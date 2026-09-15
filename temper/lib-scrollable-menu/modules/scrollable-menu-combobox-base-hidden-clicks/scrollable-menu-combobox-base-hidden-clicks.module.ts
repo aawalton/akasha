@@ -6,17 +6,17 @@ export const scrollableMenuComboboxBaseHiddenClicks = {
   slug: "scrollable-menu-combobox-base-hidden-clicks",
   definition: "the reading of which header or entry control a click at the context menu landed on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The five click flags are answered together as one multiple return.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A flag reading sits in its own module for length.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A flag is answered only while the context menu is shown.",
     },
   ],

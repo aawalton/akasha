@@ -6,22 +6,22 @@ export const handler = {
   slug: "handler",
   definition: "an agent keeping one person's inbound path, private to them",
   onCall: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A handler's seat states the person the handler serves as its domain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Alan's handler is interactive and stays running.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An inbound from a sender no person's record names reaches no seat and gets no reply.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every person the system can reach is served by a handler of their own.",
     },
   ],

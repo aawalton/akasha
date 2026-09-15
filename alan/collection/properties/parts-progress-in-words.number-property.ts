@@ -7,18 +7,18 @@ export const partsProgressInWords = {
   propertySlug: "parts-progress-in-words",
   definition: "how far through the collections this one has the reading has come, in words",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This value is added up over the collection's parts rather than stated on that collection.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each part's own total progress in words is added up.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A formula cannot yet add a property up over the pages a relation reaches.",
     },
   ],

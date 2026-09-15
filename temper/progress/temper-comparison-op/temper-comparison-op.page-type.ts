@@ -7,13 +7,13 @@ export const temperComparisonOp = {
   definition: "a way of comparing a number an item rule reads",
   extends: ["page-type/temper-progress-thing"],
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key is the operator an item rule writes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The title is the operator a reader is shown.",
     },
   ],

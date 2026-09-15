@@ -8,21 +8,21 @@ export const temperCommunityAddonList = {
     "the command naming each installed third-party game addon beside its newest published version",
   code: "ts",
 
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The installed version is read from the folder on this disk.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The newest version is read from the community site.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A network that will not answer refuses the call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder the deploy pipeline owns is left out.",
     },
   ],

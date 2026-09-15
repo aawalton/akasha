@@ -6,9 +6,9 @@ export const tradingPrune = {
   slug: "trading-prune",
   definition: "dropping the listings that have aged past the expiry",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A listing older than the expiry is no longer among the guild store's listings.",
     },
   ],

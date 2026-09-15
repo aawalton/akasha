@@ -6,9 +6,9 @@ export const itemBrowserTooltipHooks = {
   slug: "item-browser-tooltip-hooks",
   definition: "the game tooltips this add-on attaches its extra lines to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An argument of an unknown kind is narrowed where that argument is read rather than by a helper.",
     },

@@ -11,25 +11,25 @@ export const luaModule = {
     { pageProperty: "code-file-property/lua", required: true, many: false },
     { pageProperty: "text-property/loaded-as", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A Lua module's code is in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here is imported.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The addon loading a Lua module names that module.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module no manifest loads states no name to be loaded by.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Lua a compiler wrote out of TypeScript is no Lua module.",
     },
   ],

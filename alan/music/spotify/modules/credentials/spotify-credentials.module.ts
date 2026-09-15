@@ -7,25 +7,25 @@ export const spotifyCredentials = {
   definition: "the three secrets a Spotify call is made under",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each secret is read from the environment at the moment the secret is wanted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A secret the environment does not have throws.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The token endpoint is authorised by the client id and secret together.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No secret is written to disk here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The header authorising the token endpoint asks for no redirect URI.",
     },
   ],

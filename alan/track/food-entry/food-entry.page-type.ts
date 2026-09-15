@@ -19,22 +19,22 @@ export const foodEntry = {
     { pageProperty: "number-property/estimated-calories", required: false, many: false },
     { pageProperty: "file-property/food-entry-note", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One file has one thing eaten.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The day a food entry counts to is worked out from the instant that entry happened at.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A food entry that contributes no plants has no plant grams rather than a zero.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every food entry Alan logs lands in a file.",
     },
   ],

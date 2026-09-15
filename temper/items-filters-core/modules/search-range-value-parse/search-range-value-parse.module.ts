@@ -7,17 +7,17 @@ export const searchRangeValueParse = {
   definition:
     "the narrowing of an unknown saved value into a number with an optional comparison operator",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "parseRangeValue returns undefined when the raw value has no numeric value field.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The accepted operators are the six comparison operators the rule layer names.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No default operator is supplied here.",
     },
   ],

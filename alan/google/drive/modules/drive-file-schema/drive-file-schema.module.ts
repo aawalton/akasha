@@ -6,9 +6,9 @@ export const driveFileSchema = {
   slug: "drive-file-schema",
   definition: "the shape Drive answers a file's metadata in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field Drive sends that is not asked for is kept rather than dropped.",
     },
   ],

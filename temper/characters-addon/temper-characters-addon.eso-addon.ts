@@ -86,14 +86,14 @@ export const temperCharactersAddon = {
     "type-declaration/characters-config-declarations",
   ],
   interfaces: ["eso-interface/skill-point-finder-layout"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every value this add-on reads out of the game is written to the saved table alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The shape of that saved table is declared by a folder outside this add-on rather than here.",
     },

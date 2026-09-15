@@ -6,9 +6,9 @@ export const knowledgeBaseDataMotifs = {
   slug: "knowledge-base-data-motifs",
   definition: "the pre-scanned item ids upstream ships for motif books",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These ids are the ids upstream BaseData for API 101050 states.",
     },
   ],

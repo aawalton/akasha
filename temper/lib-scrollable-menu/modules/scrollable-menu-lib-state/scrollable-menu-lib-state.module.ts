@@ -6,17 +6,17 @@ export const scrollableMenuLibState = {
   slug: "scrollable-menu-lib-state",
   definition: "the library callback object and the one mutable reference to the context menu",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library object is a ZO_CallbackObject created at module load.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The context menu reference is reached through a getter and a setter.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The reference is undefined until the addon-loaded event fires.",
     },
   ],

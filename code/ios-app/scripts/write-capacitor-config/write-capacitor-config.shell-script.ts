@@ -7,17 +7,17 @@ export const writeCapacitorConfig = {
   definition: "the bundle id and display name put into a shell's Capacitor config",
   shell: "sh",
   sourced: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The config is written at the root of the tree the shell sits in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An app's web directory and native sources are named from that root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The plugins an app takes are the ones its page names rather than the root's whole list.",
     },

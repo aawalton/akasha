@@ -7,9 +7,9 @@ export const charactersProgressTally = {
   definition:
     "how many of a record's entries are done out of all of them, at the depth a path names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Counting done entries against all the entries is written once.",
     },
   ],

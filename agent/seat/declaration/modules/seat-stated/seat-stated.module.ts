@@ -6,29 +6,29 @@ export const seatStated = {
   slug: "seat-stated",
   definition: "all a seat says of itself, gathered in one read and filled from history",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The values a seat says now win over the values its history held.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "History fills only the values a seat no longer says.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat short of any value its page needs is a seat to recover.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's assignment is kept as the page type and the slug both.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each observed key is copied from the page back into the record beside that page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value the seat asks to clear is dropped rather than carried forward.",
     },
   ],

@@ -7,9 +7,9 @@ export const alanwaltonHealthSamplesDrain = {
   definition: "the parts of the health-samples drain, sourced in order",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The part closing the intent's braces is sourced before any part written beside it.",
     },

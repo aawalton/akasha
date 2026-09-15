@@ -7,25 +7,25 @@ export const appIcon = {
   propertySlug: "icon",
   definition: "an app's icon picture, carried as text beside the app's page",
   extensions: ["json"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An app's icon is a picture rather than text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The picture is carried as base64 in json.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The file has no NUL byte.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An app's icon is in akasha rather than outside it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seam building the app writes the picture where Xcode reads that picture.",
     },
   ],

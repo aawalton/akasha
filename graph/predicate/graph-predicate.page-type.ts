@@ -17,13 +17,13 @@ export const graphPredicate = {
     { pageProperty: "relation-property/edges", required: true, many: true, maxCount: null },
     { pageProperty: "text-property/direction", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A predicate names the edge kinds a closure follows and the way each is followed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which nodes a closure takes in is handed to the ask rather than named here.",
     },
   ],

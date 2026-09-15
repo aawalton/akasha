@@ -6,17 +6,17 @@ export const confirmSetTarget = {
   slug: "confirm-set-target",
   definition: "setting a build as a waiting entity's target once the player has confirmed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A confirmation with no entity waiting sets no target.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The entity stops waiting before the target is set.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A target whose arguments could not be worked out is left unset.",
     },
   ],

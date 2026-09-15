@@ -14,9 +14,9 @@ export const temperChampionPoint = {
     "module/warfare-passives",
     "module/warfare-slottables",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A star is reached by its kebab id rather than by the number the game gives that star.",
     },

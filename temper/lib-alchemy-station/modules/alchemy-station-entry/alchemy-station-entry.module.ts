@@ -6,13 +6,13 @@ export const alchemyStationEntry = {
   slug: "alchemy-station-entry",
   definition: "the global the game reads the alchemy tabs from once the addon loads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bundle the transpiler writes starts here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global has the whole library rather than one call at a time.",
     },
   ],

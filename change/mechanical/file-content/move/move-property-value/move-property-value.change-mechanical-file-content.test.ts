@@ -18,17 +18,17 @@ export const kept = {
   definition: "what is kept",
   code: "ts",
   partSlugs: ["module/one", "module/two", "module/three"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "departure",
+      decisionKind: "departure",
       statement: "the first",
     },
     {
-      invariantKind: "gap",
+      decisionKind: "gap",
       statement: "the second",
     },
     {
-      invariantKind: "gap",
+      decisionKind: "gap",
       statement: "the third",
     },
   ],
@@ -70,14 +70,14 @@ test("the rest of the body is left as it is", () => {
 })
 
 test("a record is carried as a value is", () => {
-  const said = textOn("invariants", 3, 1)
+  const said = textOn("decisions", 3, 1)
 
   expect(statementsIn(said)).toEqual(["the third", "the first", "the second"])
 })
 
 test("carrying a value away and back leaves the body as it was", () => {
-  const there = textOn("invariants", 1, 3)
-  const back = movedValue(AT, there, asked("invariants", 3, 1))
+  const there = textOn("decisions", 1, 3)
+  const back = movedValue(AT, there, asked("decisions", 3, 1))
 
   expect(bodyOf(back, (path) => (path === AT ? there : null))).toBe(BODY)
 })
@@ -129,7 +129,7 @@ test("a body exporting no object is refused", () => {
 })
 
 function statedOn(where: string, is: string, to: number): Said {
-  return movedValue(AT, BODY, { at: AT, key: "invariants", where, is, to })
+  return movedValue(AT, BODY, { at: AT, key: "decisions", where, is, to })
 }
 
 test("a record named by a field is carried to the place named", () => {
@@ -156,15 +156,15 @@ test("text no record states under that field is refused", () => {
   const said = statedOn("statement", "the fourth", 1)
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no record under `invariants` states that text under `statement`")
+  expect(said.refused).toBe("no record under `decisions` states that text under `statement`")
 })
 
 test("text more than one record states under that field is refused", () => {
-  const said = statedOn("invariantKind", "gap", 1)
+  const said = statedOn("decisionKind", "gap", 1)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
-    "2 records under `invariants` state that text under `invariantKind`, and one change works one"
+    "2 records under `decisions` state that text under `decisionKind`, and one change works one"
   )
 })
 
@@ -172,11 +172,11 @@ test("a record named by a field already at the place named is refused", () => {
   const said = statedOn("statement", "the first", 1)
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("place 1 of `invariants` is where that value sits already")
+  expect(said.refused).toBe("place 1 of `decisions` is where that value sits already")
 })
 
 function ontoOf(is: string, onto: string): Said {
-  return movedValue(AT, BODY, { at: AT, key: "invariants", where: "statement", is, onto })
+  return movedValue(AT, BODY, { at: AT, key: "decisions", where: "statement", is, onto })
 }
 
 function orderOf(said: Said): readonly string[] {
@@ -211,14 +211,14 @@ test("a move onto a value the body no longer holds is refused", () => {
   const said = ontoOf("the first", "the fourth")
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no record under `invariants` states that text under `statement`")
+  expect(said.refused).toBe("no record under `decisions` states that text under `statement`")
 })
 
 test("a move onto itself is refused", () => {
   const said = ontoOf("the first", "the first")
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("place 1 of `invariants` is where that value sits already")
+  expect(said.refused).toBe("place 1 of `decisions` is where that value sits already")
 })
 
 test("the places are worked out with the value taken out first", () => {

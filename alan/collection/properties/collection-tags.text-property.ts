@@ -8,9 +8,9 @@ export const collectionTags = {
   definition: "a word a person files a collection under",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tag is the person's own rather than the provider's.",
     },
   ],

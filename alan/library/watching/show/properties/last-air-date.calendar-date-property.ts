@@ -6,9 +6,9 @@ export const lastAirDate = {
   slug: "last-air-date",
   propertySlug: "last-air-date",
   definition: "the day a show's last episode aired",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A show still running states no day its last episode aired.",
     },
   ],

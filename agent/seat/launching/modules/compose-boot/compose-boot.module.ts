@@ -7,17 +7,17 @@ export const composeBoot = {
   definition:
     "a seat's system prompt: who it is, and the one read that loads everything it is bound to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A composition states who the seat is and instructs the read that loads the rest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat whose attributes state nothing is told so and is told to read.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A composition has no path.",
     },
   ],

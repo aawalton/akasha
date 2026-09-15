@@ -10,17 +10,17 @@ export const addFilePageProperty = {
   definition: "one page property written at one path, with the keys that property carries judged",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The body is written by the change this change reaches.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here judges the path handed in.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The pages the body names are judged by the change this change reaches.",
     },
   ],

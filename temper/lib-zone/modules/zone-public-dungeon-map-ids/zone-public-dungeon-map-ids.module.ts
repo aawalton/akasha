@@ -6,9 +6,9 @@ export const zonePublicDungeonMapIds = {
   slug: "zone-public-dungeon-map-ids",
   definition: "which maps the game treats as a public dungeon",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These rows are the rows upstream LibZone v8.98 states.",
     },
   ],

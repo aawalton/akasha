@@ -6,9 +6,9 @@ export const valueFilter = {
   slug: "value-filter",
   definition: "the Value condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the conditions `value` and `valueOp`.",
     },
   ],

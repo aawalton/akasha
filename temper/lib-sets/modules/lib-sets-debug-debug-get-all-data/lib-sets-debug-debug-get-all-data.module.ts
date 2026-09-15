@@ -6,17 +6,17 @@ export const libSetsDebugDebugGetAllData = {
   slug: "lib-sets-debug-debug-get-all-data",
   definition: "the whole-client data run that repeats itself once per supported language",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The values come from the live game client rather than a capture.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The run changes the client language setting to reach the next language.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A slash command option is the only thing in the library that starts this run.",
     },
   ],

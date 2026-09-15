@@ -6,9 +6,9 @@ export const agents = {
   slug: "agents",
   definition: "what every agent on this workstation is spawned with",
   harnessSettings: "json",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bash environment and the statusline are resolved by akasha rather than here.",
     },
   ],

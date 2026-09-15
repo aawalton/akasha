@@ -6,17 +6,17 @@ export const companionSkillLineQueries = {
   slug: "companion-skill-line-queries",
   definition: "the companion skill lines a companion's equipped gear opens up",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One-handed weapons pick their skill line from the item in the off hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Class and guild skill lines are available without regard to gear.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An armor skill line opens at five pieces of that weight.",
     },
   ],

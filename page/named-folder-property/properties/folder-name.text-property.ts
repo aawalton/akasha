@@ -8,9 +8,9 @@ export const folderName = {
   definition: "the name a property's folder is under",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This folder name is the whole name rather than a stem.",
     },
   ],

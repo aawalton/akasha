@@ -6,9 +6,9 @@ export const lostTreasureLogger = {
   slug: "lost-treasure-logger",
   definition: "a named log channel for each part of the add-on, over LibDebugLogger",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A log level is the string the logging library uses rather than a number.",
     },
   ],

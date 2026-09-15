@@ -6,17 +6,17 @@ export const registryCa = {
   slug: "registry-ca",
   definition: "the registry CA certificate's path and the bytes at it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where the cluster's authority sits is asked of the index rather than spelled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "That authority is reached by the id its page carries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The certificate's file name is read from the property holding that certificate.",
     },
   ],

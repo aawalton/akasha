@@ -6,9 +6,9 @@ export const leadsWindowDeclarations = {
   slug: "leads-window-declarations",
   definition: "the lead window's controls and the shape of one row of its list",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every name here is declared by the markup rather than by any code.",
     },
   ],

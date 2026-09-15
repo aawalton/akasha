@@ -6,9 +6,9 @@ export const mapPinsMuralMenderFragments = {
   slug: "map-pins-mural-mender-fragments",
   definition: "the mural fragment places",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

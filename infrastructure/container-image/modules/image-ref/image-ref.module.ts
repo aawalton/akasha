@@ -7,17 +7,17 @@ export const imageRef = {
   definition: "the name and tag a built image is pushed and pulled under",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tag is the hash of what the image was built from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image the cluster pulls is named the same way it was pushed.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here builds or pushes an image.",
     },
   ],

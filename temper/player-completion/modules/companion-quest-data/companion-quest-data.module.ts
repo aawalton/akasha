@@ -7,9 +7,9 @@ export const companionQuestData = {
   definition:
     "every companion quest, in the order a player takes it, with the rapport each one asks for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A quest is named by the number the game knows that quest by.",
     },
   ],

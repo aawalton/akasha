@@ -8,13 +8,13 @@ export const cardSlug = {
   definition: "which of the cards this one is, the same name in every player's deck",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every player has a card of every name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A card still locked names the card that card would be without naming the persona.",
     },

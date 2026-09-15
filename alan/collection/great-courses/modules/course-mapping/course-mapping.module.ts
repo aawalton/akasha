@@ -7,13 +7,13 @@ export const courseMapping = {
   definition:
     "the shelves a course sits on, taken from the subjects whose listing names that course",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A course sits on the All Great Courses shelf whatever subjects name that course.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subject shelf the store does not have is warned about rather than refused.",
     },
   ],

@@ -6,13 +6,13 @@ export const traitsFilter = {
   slug: "traits-filter",
   definition: "the Traits condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `traits` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The traits offered are the traits the item family named by the category can have.",
     },

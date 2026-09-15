@@ -7,13 +7,13 @@ export const attribute = {
   propertySlug: "attribute",
   definition: "the attribute whose points a reading counts",
   targetPageType: "page-type/attribute",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A readout counting an attribute's points names that attribute.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A readout counting anything else names no attribute.",
     },
   ],

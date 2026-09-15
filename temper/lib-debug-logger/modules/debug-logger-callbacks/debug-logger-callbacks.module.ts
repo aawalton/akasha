@@ -6,9 +6,9 @@ export const debugLoggerCallbacks = {
   slug: "debug-logger-callbacks",
   definition: "the names a caller registers against to hear the log change",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A callback name is stated once and read from the library table.",
     },
   ],

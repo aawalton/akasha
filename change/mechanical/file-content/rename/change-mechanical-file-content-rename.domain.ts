@@ -12,17 +12,17 @@ export const changeMechanicalFileContentRename = {
     "change-mechanical-file-content/rename-page-property-key",
     "change-mechanical-file-content/rename-property-signature",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here spells a name anew inside a body the caller names.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rung here has a file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The change composing these rungs judges the edges the whole rename leaves.",
     },
   ],

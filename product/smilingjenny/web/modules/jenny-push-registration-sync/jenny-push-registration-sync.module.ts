@@ -6,13 +6,13 @@ export const jennyPushRegistrationSync = {
   slug: "jenny-push-registration-sync",
   definition: "the device token asked of the shell and handed on to what sends notifications",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A permission refused once is not asked for again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A browser outside the native shell registers nothing.",
     },
   ],

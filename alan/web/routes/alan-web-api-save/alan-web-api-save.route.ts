@@ -7,13 +7,13 @@ export const alanWebApiSave = {
   definition: "the idle save a reader's game is kept as",
   code: "ts",
   urlPath: "api/save",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body that parses as an intent to pull is answered with the pull's outcome.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Any other body is taken as the whole save.",
     },
   ],

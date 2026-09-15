@@ -6,9 +6,9 @@ export const companionsInventoryMatcher = {
   slug: "companions-inventory-matcher",
   definition: "finding the best item a companion has for each gear slot a build asks for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item is scored for nearness rather than matched exactly.",
     },
   ],

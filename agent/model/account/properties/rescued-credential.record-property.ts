@@ -11,21 +11,21 @@ export const rescuedCredential = {
     { pageProperty: "text-property/rescued-refresh-token", required: true, many: false },
     { pageProperty: "number-property/rescued-expires-at-ms", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rescued credential is written only where the sops file did not take the pair.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rescued credential is taken away by the push that lands the pair in sops.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rescued credential is a reading rather than a value an account states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The file a rescued credential is written into is narrowed before that write.",
     },
   ],

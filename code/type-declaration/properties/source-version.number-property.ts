@@ -7,14 +7,14 @@ export const sourceVersion = {
   propertySlug: "source-version",
   definition: "the version the source was at when a generated declaration was written",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The version is read from the source rather than chosen by the person running the command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two generated declarations stating different versions are a partial run.",
     },
   ],

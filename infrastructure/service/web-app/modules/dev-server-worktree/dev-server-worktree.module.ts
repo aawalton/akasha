@@ -6,13 +6,13 @@ export const devServerWorktree = {
   slug: "dev-server-worktree",
   definition: "the worktree path a numbered change branch has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change number with no worktree is refused with why.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here makes a worktree.",
     },
   ],

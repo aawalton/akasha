@@ -6,9 +6,9 @@ export const metricsData07 = {
   slug: "metrics-data-07",
   definition: "character stats ha-restore-shock-staff through healing-done-dot",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The stats are named here in the order the gathered table answers its ids in.",
     },
   ],

@@ -7,9 +7,9 @@ export const emailRuleCodeForwardTo = {
   propertySlug: "forward-to",
   definition: "who a piece of mail the rule matches is forwarded to",
   targetPageType: "page-type/person",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Forwarding names a person rather than an address.",
     },
   ],

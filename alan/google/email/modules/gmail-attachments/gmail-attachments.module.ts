@@ -6,17 +6,17 @@ export const gmailAttachments = {
   slug: "gmail-attachments",
   definition: "the files hanging off a mail message, listed, fetched and made",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part is an attachment only where that part has both a filename and an id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nested parts are walked to the bottom.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part naming no type is treated as a stream of bytes.",
     },
   ],

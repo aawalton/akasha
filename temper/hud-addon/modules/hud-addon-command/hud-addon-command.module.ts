@@ -6,18 +6,18 @@ export const hudAddonCommand = {
   slug: "hud-addon-command",
   definition: "the one slash command every Temper add-on reaches its own subcommands through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The slash command with no subcommand lists the subcommands registered.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The listing groups the subcommands under the add-on that registered the subcommand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subcommand with no handler is listed and not dispatched to.",
     },
   ],

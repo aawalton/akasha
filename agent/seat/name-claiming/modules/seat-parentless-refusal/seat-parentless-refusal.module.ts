@@ -7,18 +7,18 @@ export const seatParentlessRefusal = {
   definition: "the refusal a seat working for the fleet meets when it names no agent above it",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat a person opened needs no parent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A seat working for the fleet and naming nobody above the seat is invisible to every tree walk.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A parent stated as an empty string is no parent.",
     },
   ],

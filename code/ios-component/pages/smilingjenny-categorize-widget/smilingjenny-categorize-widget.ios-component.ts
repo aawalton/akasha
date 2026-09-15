@@ -6,17 +6,17 @@ export const smilingjennyCategorizeWidget = {
   slug: "smilingjenny-categorize-widget",
   definition: "Jenny's tile for how many transactions are unreviewed",
   swift: "swift",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This file has the bundle Jenny's widget extension starts at.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Stating that start keeps this component out of the decode harness.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Jenny's categorize tile is compiled by a build to a device and by nothing else.",
     },
   ],

@@ -6,9 +6,9 @@ export const questSchema = {
   slug: "quest-schema",
   definition: "a quest a game is tracking and whether it is still running",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quest stored as offered reads back as active.",
     },
   ],

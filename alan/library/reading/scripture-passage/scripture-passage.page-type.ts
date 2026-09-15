@@ -18,39 +18,39 @@ export const scripturePassage = {
     { pageProperty: "select-property/scripture-translation", required: false, many: false },
     { pageProperty: "file-property/passage-text", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A passage names the book of scripture the passage is in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A passage's verses are a file beside the passage's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A passage catalogued before its verses arrive has no file yet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A passage names a rendering only where the record the passage came from names a rendering.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A passage sits in the folder named for the book of scripture the passage is in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A passage opening its name with a chapter number is slugged for its page type first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A passage takes its unit from its kind rather than stating a unit of its own.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The collection a passage is part of is no page.",
     },
   ],

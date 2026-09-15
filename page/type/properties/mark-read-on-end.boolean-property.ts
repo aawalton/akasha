@@ -6,13 +6,13 @@ export const markReadOnEnd = {
   slug: "mark-read-on-end",
   propertySlug: "mark-read-on-end",
   definition: "whether coming to the end of a page records that page as read",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page recorded as read at its end is recorded as read to its whole length.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page already recorded as read is left as that page stands.",
     },
   ],

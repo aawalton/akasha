@@ -32,21 +32,21 @@ export const namedEvent = {
     { pageProperty: "number-property/seq", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An event's own words for itself are its aliases.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The story names an event by any alias the event has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The chapters an event spans bound every date read against that event.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An event names the world the event happened in.",
     },
   ],

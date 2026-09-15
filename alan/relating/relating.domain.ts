@@ -11,18 +11,18 @@ export const relating = {
     "page-type/relationship-deposit",
     "page-type/relationship-topic",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A relationship is Alan's own record of somebody rather than somebody the system reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A relationship names a person only where the system reaches that person.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A relationship's circle is Alan's own ladder rather than a rung of closeness.",
     },
   ],

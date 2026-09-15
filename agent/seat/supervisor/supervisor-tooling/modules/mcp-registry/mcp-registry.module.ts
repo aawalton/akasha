@@ -6,29 +6,29 @@ export const mcpRegistry = {
   slug: "mcp-registry",
   definition: "the tool servers a seat is launched with, read off the agent settings page",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The servers a seat gets are read from one page rather than written in code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where that page sits is asked of the index rather than spelled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A declaration that does not read as a server declaration is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path stated against the instructions root is resolved against this checkout.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path stated against the home directory is resolved against this account's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A secret named for forwarding is read from the environment at launch.",
     },
   ],

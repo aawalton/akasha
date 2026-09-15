@@ -6,17 +6,17 @@ export const offlineText = {
   slug: "offline-text",
   definition: "a reader's positions kept in a file on the device",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A position is read back from the device file it was written to.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No completion is kept on the device.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "What is kept here reaches the page store.",
     },
   ],

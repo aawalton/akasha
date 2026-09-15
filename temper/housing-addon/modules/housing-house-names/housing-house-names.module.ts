@@ -6,9 +6,9 @@ export const housingHouseNames = {
   slug: "housing-house-names",
   definition: "the name of every house the game sells, keyed by its house id",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

@@ -6,9 +6,9 @@ export const companionsScanUpgrades = {
   slug: "companions-scan-upgrades",
   definition: "which slots a companion could improve from what it already holds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only gear already in the companion's inventory is offered.",
     },
   ],

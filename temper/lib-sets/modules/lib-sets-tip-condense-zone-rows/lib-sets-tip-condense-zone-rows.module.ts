@@ -6,9 +6,9 @@ export const libSetsTipCondenseZoneRows = {
   slug: "lib-sets-tip-condense-zone-rows",
   definition: "folding away zone rows that repeat the same names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row counts as a duplicate only when every name field matches.",
     },
   ],

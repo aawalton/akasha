@@ -6,9 +6,9 @@ export const systemWindowSchema = {
   slug: "system-window-schema",
   definition: "the typed cards the System voice puts on screen",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window stored as a quest offer reads back as a quest added.",
     },
   ],

@@ -12,13 +12,13 @@ export const bonusEffects = {
     { pageProperty: "number-property/effect-value", required: false, many: false },
     { pageProperty: "text-property/buff-id", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry naming a metric names no buff.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry naming a metric also has an effect type and an effect value.",
     },
   ],

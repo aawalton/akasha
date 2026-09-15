@@ -6,25 +6,25 @@ export const filePropertyGroup = {
   slug: "file-property-group",
   definition: "a page property held in a set of files",
   extends: ["page-type/page-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A group's members are the file properties the group's page type declares.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A member's file sits beside the page carrying the group.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No member's file sits beside the group's own page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A member's file is named by the group's slug and then the member's slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A group names no members of its own.",
     },
   ],

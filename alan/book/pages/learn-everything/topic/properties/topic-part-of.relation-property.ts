@@ -7,13 +7,13 @@ export const topicPartOf = {
   propertySlug: "part-of",
   definition: "the topics a topic sits under",
   targetPageType: "page-type/learn-everything-topic",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The topics under a topic are the topics naming that topic here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The whole map sits under nothing.",
     },
   ],

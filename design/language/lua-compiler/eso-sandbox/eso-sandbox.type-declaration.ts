@@ -6,13 +6,13 @@ export const esoSandbox = {
   slug: "eso-sandbox",
   definition: "the Lua standard library the game's sandbox leaves in reach",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The compiler's own runtime library is compiled against the names declared here.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The names the game adds to Lua are apart from the names Lua itself has.",
     },
   ],

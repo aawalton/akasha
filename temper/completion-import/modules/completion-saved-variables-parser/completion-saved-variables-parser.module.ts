@@ -6,30 +6,30 @@ export const completionSavedVariablesParser = {
   slug: "completion-saved-variables-parser",
   definition: "the addon's saved variables file turned into records of what is complete",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The saved table is read as `TemperCharacters_SavedVariables` or as `Temper_SavedVariables`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which companion a definition id names is asked of the caller.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A companion the caller cannot name is counted as skipped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character that will not read is counted as skipped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A lua key written as a number is kept as text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Diagnostics come back alongside the records rather than reaching a log.",
     },
   ],

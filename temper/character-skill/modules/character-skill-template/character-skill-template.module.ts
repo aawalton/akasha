@@ -6,9 +6,9 @@ export const characterSkillTemplate = {
   slug: "character-skill-template",
   definition: "the shape every Elder Scrolls Online skill row carries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill row names one skill line and one skill type.",
     },
   ],

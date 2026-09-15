@@ -6,25 +6,25 @@ export const debugLoggerStartup = {
   slug: "debug-logger-startup",
   definition: "what the library records about the client and the addons at load",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every addon the manager lists is recorded with its version and its folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon the game skipped is recorded with the reason.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A Lua error the game raises is recorded as an error entry.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chat debug message and an alert are recorded as entries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Gathering the client description is wrapped so a failure logs rather than throws.",
     },

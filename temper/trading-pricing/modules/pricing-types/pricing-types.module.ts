@@ -6,17 +6,17 @@ export const pricingTypes = {
   slug: "pricing-types",
   definition: "the shape a Tamriel Trade Centre price dump takes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No field of a price entry is required.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A price is found by walking from item to quality to level to trait.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field name here keeps Tamriel Trade Centre's spelling.",
     },
   ],

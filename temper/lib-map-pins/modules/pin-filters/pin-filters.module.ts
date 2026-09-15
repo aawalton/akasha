@@ -6,21 +6,21 @@ export const pinFilters = {
   slug: "pin-filters",
   definition: "the checkbox a pin type gets on each map filter panel",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pin type already carrying a filter gets no second filter.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Separate saved keys are minted per map group only where asked for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A toggled checkbox writes the compass pin type's saved key as well.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hidden filter checkbox is pulled up by its own height.",
     },
   ],

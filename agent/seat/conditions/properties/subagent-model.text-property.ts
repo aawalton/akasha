@@ -8,9 +8,9 @@ export const subagentModel = {
   definition: "the model a seat's subagents answer on rather than the seat's own",
   maxLength: 40,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subagent whose kind names no model answers on the model named here.",
     },
   ],

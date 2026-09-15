@@ -7,13 +7,13 @@ export const discNumber = {
   propertySlug: "disc-number",
   definition: "which disc of a release a track sits on",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A release of one disc states that disc as the first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A track's place on a release is its disc and its position together.",
     },
   ],

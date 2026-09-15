@@ -46,9 +46,9 @@ export const temperCatalogThing = {
     { pageProperty: "text-property/skill-type", required: false, many: false },
     { pageProperty: "text-property/subcategory-id", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A thing's effect is stated in one shape whatever kind of thing has the effect.",
     },
   ],

@@ -42,21 +42,21 @@ export const locationTrace = {
     { pageProperty: "number-property/trace-longitude", required: true, many: false },
     { pageProperty: "text-property/trace-source", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trace stands as a row on the ESO day the trace was captured in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trace is kept as the device reported that trace.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing recomputes a trace from its neighbours.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every trace Alan's phone sends is kept.",
     },
   ],

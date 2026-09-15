@@ -29,25 +29,25 @@ export const closenessLevel = {
     { pageProperty: "text-property/wardrobe", required: true, many: false },
     { pageProperty: "text-property/pose", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level is reached by points earned rather than chosen.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The points a rung takes are stated here rather than worked out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A persona below the first rung is at level 0.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Level 0 is no page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rungs run from level 1 upward with no level missing between.",
     },
   ],

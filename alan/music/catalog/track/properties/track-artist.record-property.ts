@@ -10,17 +10,17 @@ export const trackArtist = {
     { pageProperty: "text-property/external-id", required: false, many: false },
     { pageProperty: "text-property/artist-name", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A track credits the artists in the order the provider names them.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A track credits an artist the release that track sits on does not credit.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An artist credited here is the artist page naming the same provider id.",
     },
   ],

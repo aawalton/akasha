@@ -7,13 +7,13 @@ export const audioDownloadOffer = {
   definition: "the download a page's audio variants are offered with",
   code: "tsx",
   test: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page with no audio variant is offered no download.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter with no title is offered the download under an empty title.",
     },
   ],

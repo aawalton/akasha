@@ -22,22 +22,22 @@ export const masteryLevel = {
     { pageProperty: "number-property/mastery-rank", required: true, many: false },
     { pageProperty: "text-property/mastery-behaviour", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A rung is an observable interview behaviour rather than facts recalled or time spent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer Alan produced unaided is evidence of a rung.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "An answer Alan agreed with or picked from a list is no evidence of a rung.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A topic Alan derives from the core Alan has scores whether or not Alan studied that topic.",
     },

@@ -6,21 +6,21 @@ export const scrollableMenuApiRefresh = {
   slug: "scrollable-menu-api-refresh",
   definition: "the globals that refresh a live menu and report whether one is shown",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A numeric constant says which menus a refresh redraws.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The default right-click menu for a button group is defined here.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A refresh does nothing while the owning dropdown is hidden.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The button-group menu is drawn with ZO_Menu when a context menu is already open.",
     },
   ],

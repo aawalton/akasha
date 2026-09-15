@@ -22,45 +22,45 @@ export const tabooTerm = {
     },
     { pageProperty: "text-property/kept-senses", required: false, many: true, maxCount: null },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A taboo term is keyed by the word the taboo term bars.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The word is written wherever the word has a sense the term does not bar.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A term names the senses the term keeps as well as the senses the term bars.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A term naming no kept sense permits every other sense by omission alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sense a term bars was written here before the sense was barred.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A taboo term is found by its pattern rather than by its slug.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A taboo term states no warrant for what the taboo term bars.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change adding text a pattern finds is refused until that term has been read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A term reaches inside a camelCase name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A change is judged for a term over the whole body it writes rather than the part it changes.",
     },

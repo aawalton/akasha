@@ -7,9 +7,9 @@ export const replicas = {
   propertySlug: "replicas",
   definition: "how many pods a workload is asked to keep",
   max: 100,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workload asked for no pods is stopped rather than taken away.",
     },
   ],

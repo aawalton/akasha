@@ -10,13 +10,13 @@ export const addFilePage = {
   definition: "one page written at one path, with the pages that page names judged",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The body is written by the change this change reaches.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here judges the path handed in.",
     },
   ],

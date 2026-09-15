@@ -6,9 +6,9 @@ export const companionsFilterTypes = {
   slug: "companions-filter-types",
   definition: "the shapes a companion filter takes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A gear rule the shopping page narrows a query by is no companion filter.",
     },
   ],

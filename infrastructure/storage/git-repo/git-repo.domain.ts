@@ -6,17 +6,17 @@ export const gitRepo = {
   slug: "git-repo",
   definition: "the versioned text stores",
   parts: ["domain/dirty", "page-type/repo"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bare repositories sit on one disk.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mirror to a second host runs after the push returns.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No mirror to a second host runs inside the push.",
     },
   ],

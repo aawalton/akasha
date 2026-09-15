@@ -7,25 +7,25 @@ export const spotifyReleases = {
   definition: "the albums an artist put out, and the tracks one of those albums holds",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Spotify refuses a page of more than ten albums with `Invalid limit`.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Spotify answers 403 to the bulk album read for an app registered now.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An album's length is added up from the tracks that album holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An album an artist only appears on is left out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day an album states only a year or a month for is left as Spotify states it.",
     },
   ],

@@ -6,17 +6,17 @@ export const scribingSignatureScripts = {
   slug: "scribing-signature-scripts",
   definition: "the secondary scribing scripts, each shaping how a grimoire is cast",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A signature script's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A signature script moved to another place breaks every build hash saved.",
     },
   ],

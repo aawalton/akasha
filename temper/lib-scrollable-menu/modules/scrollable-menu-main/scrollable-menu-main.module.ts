@@ -6,17 +6,17 @@ export const scrollableMenuMain = {
   slug: "scrollable-menu-main",
   definition: "the bare import list covering every module in the library",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Load order is expressed as a list of bare imports.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Constants and utilities are imported before every class that reads a constant.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The file declares no value of its own.",
     },
   ],

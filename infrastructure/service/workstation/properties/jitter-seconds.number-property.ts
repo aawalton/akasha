@@ -7,9 +7,9 @@ export const jitterSeconds = {
   propertySlug: "jitter-seconds",
   definition: "how far past its time a timer may start",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each timer stating this property starts at its own moment.",
     },
   ],

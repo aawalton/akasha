@@ -6,46 +6,46 @@ export const appNamespacesSynth = {
   slug: "app-namespaces-synth",
   definition: "the namespaces the cluster has one application in each of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every namespace named here has one application in it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A namespace no workload sits in is not named here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No deploy path prunes a cluster object.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing in this repository deletes a namespace.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A namespace named nowhere here is on the cluster until a hand deletes it.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "`collections` `connect` `design-system` `relationships` and `tracking` are named nowhere here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No page defines the `collections-s3-creds` Secret.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The only copy of what `collections-s3-creds` holds is the one on the cluster.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No workload reads the `collections-secrets` Secret.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A page placing a value into `collections-secrets` places it where nothing reads it.",
     },

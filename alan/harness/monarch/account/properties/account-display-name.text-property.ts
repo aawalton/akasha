@@ -8,13 +8,13 @@ export const accountDisplayName = {
   definition: "the name and masked number a statement calls an account by",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A display name has the last four digits the bank shows.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Two accounts share a display name where the bank reopened an account under a new id.",
     },

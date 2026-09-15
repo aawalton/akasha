@@ -8,10 +8,10 @@ export const validSlots = {
   definition: "the slots a piece of this kind goes into",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
-    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a slot." },
+  decisions: [
+    { decisionKind: "decision-kind/gap", statement: "This property is a relation to a slot." },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One list has every slot a kind fits.",
     },
   ],

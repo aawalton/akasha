@@ -7,25 +7,25 @@ export const emailMessageList = {
   definition: "the command summarising each Gmail message a search matches, the search optional",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A summary carries the id, the thread, from, to, subject, date and the snippet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A listing naming no search matches every message.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A summary is read from headers rather than from a body.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A search read from a file has no line ending.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A listing fetches each message's headers one message at a time.",
     },
   ],

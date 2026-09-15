@@ -6,17 +6,17 @@ export const completionCompanionRow = {
   slug: "completion-companion-row",
   definition: "one companion of a player's roster as the completion store keeps it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A companion row has the same fields a character row has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reader wanting only the companion and its completion takes this row as that row is.",
     },

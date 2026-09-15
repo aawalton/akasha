@@ -6,21 +6,21 @@ export const asyncState = {
   slug: "async-state",
   definition: "the library table, the job list and the scheduler counters every module reads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every module reaches the same library table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job is held under the name of the task.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Logging goes to the debug logger where that library is loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scheduler counters are seeded from the game frame clock.",
     },
   ],

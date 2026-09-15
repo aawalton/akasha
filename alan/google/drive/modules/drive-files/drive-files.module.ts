@@ -6,17 +6,17 @@ export const driveFiles = {
   slug: "drive-files",
   definition: "a Drive file found by id or by URL, and its bytes fetched",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A URL's `id` query parameter is read before the id its path has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A document Google itself has is told apart by the prefix of its mime type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body Drive answers that is not binary is refused.",
     },
   ],

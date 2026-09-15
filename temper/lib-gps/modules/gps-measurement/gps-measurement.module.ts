@@ -6,9 +6,9 @@ export const gpsMeasurement = {
   slug: "gps-measurement",
   definition: "the scale and offset that carry one map's coordinates onto Tamriel's",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A measurement is taken once for a map and kept.",
     },
   ],

@@ -10,13 +10,13 @@ export const filePropertyFile = {
   runsOnRead: true,
   runsOnWrite: true,
   transitive: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page property's file warrants its page and its property's type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property's file warrants its page whatever the file has.",
     },
   ],

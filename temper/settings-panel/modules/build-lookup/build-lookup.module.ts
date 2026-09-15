@@ -6,13 +6,13 @@ export const buildLookup = {
   slug: "build-lookup",
   definition: "the place each choice sits in a list of choices, keyed by the choice",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A choice repeated keeps the last place that choice sits at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A place counts up from the head of the list.",
     },
   ],

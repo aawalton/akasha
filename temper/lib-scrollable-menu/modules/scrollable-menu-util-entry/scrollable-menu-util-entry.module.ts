@@ -6,21 +6,21 @@ export const scrollableMenuUtilEntry = {
   slug: "scrollable-menu-util-entry",
   definition: "the recursive walks over an entry and its nested submenu entries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Recursion is bounded by a counter that aborts after five thousand steps.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The multi-select state of a submenu is recomputed by walking every child entry.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The submenu arrow tint is chosen from whether a nested entry is selected.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Reading up through parent menus stops at a depth of one hundred.",
     },
   ],

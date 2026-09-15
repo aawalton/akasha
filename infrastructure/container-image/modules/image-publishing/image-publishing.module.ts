@@ -7,30 +7,30 @@ export const imagePublishing = {
   definition: "a built image put in the cluster's registry by the cluster's builder",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image the registry already holds under its tag is built again by nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build is refused where an input differs from the commit HEAD is at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The Dockerfile is written outside the checkout, because a build made it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The builder runs in the cluster and the workstation only asks it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Each thing a publish wrote outside the checkout is named as soon as it is written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image already in the registry is named where a later image throws.",
     },
   ],

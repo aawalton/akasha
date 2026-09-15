@@ -6,37 +6,37 @@ export const installNamedAddon = {
   slug: "install-named-addon",
   definition: "one addon named by hand, looked up on ESOUI and laid into the addons directory",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is matched against the ESOUI title or against an install folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name matching nothing on ESOUI is refused as bad input.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry naming no install folder is refused rather than guessed at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry installing a folder the deploy owns is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Forcing is consent to install a third-party addon again.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Forcing is no consent to drop an archive over a folder the deploy owns.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon whose every folder is already there is skipped unless forced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An archive with no folder the caller expected is refused.",
     },
   ],

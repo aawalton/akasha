@@ -11,13 +11,13 @@ export const request = {
     { pageProperty: "text-property/interrupt-message", required: false, many: false },
     { pageProperty: "instant-property/restart-armed-at", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat has one request or no request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A new request takes the place of any request already there.",
     },
   ],

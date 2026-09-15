@@ -6,13 +6,13 @@ export const calendarCredentials = {
   slug: "calendar-credentials",
   definition: "what a calendar client is built with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service account key arrives with its newlines escaped and is restored here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A default calendar id that is empty counts as no id given.",
     },
   ],

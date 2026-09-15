@@ -6,13 +6,13 @@ export const debugLoggerMain = {
   slug: "debug-logger-main",
   definition: "the order the library parts are switched on in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The logger class is ready before anything that makes a logger.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here is exported.",
     },
   ],

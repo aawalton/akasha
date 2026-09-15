@@ -6,9 +6,9 @@ export const canLevelMorphsFilterTypes = {
   slug: "can-level-morphs-filter-types",
   definition: "the shape of the condition asking whether a character can still level a morph",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Levelling a morph is the only sense this condition is asked in.",
     },
   ],

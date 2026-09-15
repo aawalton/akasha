@@ -6,9 +6,9 @@ export const tradingSavedVariables = {
   slug: "trading-saved-variables",
   definition: "what the listings add-on keeps between sessions, and how a session opens it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A guild entry is made on first touch rather than declared up front.",
     },
   ],

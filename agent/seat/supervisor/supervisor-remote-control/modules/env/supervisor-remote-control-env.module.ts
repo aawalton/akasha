@@ -6,9 +6,9 @@ export const supervisorRemoteControlEnv = {
   slug: "supervisor-remote-control-env",
   definition: "the environment a remote-controlled agent is spawned with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A spawn that omits remote control says it omitted remote control.",
     },
   ],

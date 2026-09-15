@@ -10,13 +10,13 @@ export const recipes = {
     { pageProperty: "number-property/recipe-item-id", required: true, many: false },
     { pageProperty: "text-property/recipe-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe here is a recipe a player learns from an item the game names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The recipes of one list are kept in the order the game hands the recipes over.",
     },
   ],

@@ -6,13 +6,13 @@ export const errorsAddonEntry = {
   slug: "errors-addon-entry",
   definition: "what the error add-on does as the game loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Listening begins before saved variables are ready.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Saved variables are opened through the capture writer.",
     },
   ],

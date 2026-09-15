@@ -10,17 +10,17 @@ export const temperRuleGoal = {
     { pageProperty: "text-property/description", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The slug is the goal an item rule writes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A goal earlier in the display order wins where two goals want one item.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A rule wanting the item for nothing states no goal.",
     },
   ],

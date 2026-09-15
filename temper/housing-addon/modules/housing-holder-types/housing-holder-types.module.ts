@@ -6,13 +6,13 @@ export const housingHolderTypes = {
   slug: "housing-holder-types",
   definition: "the shape of the one holder every housing module hangs a function on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "One holder typed in one place is how the ported add-on was written.",
     },
   ],

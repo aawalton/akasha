@@ -6,13 +6,13 @@ export const leadsToggle = {
   slug: "leads-toggle",
   definition: "the sweep over every antiquity that fills the list, and the window's showing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The sweep runs only while the window is hidden and about to be shown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The zone and set menus are filled from the first sweep alone.",
     },
   ],

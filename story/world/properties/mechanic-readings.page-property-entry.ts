@@ -12,9 +12,9 @@ export const mechanicReadings = {
     { pageProperty: "select-property/reading-kind", required: true, many: false },
     { pageProperty: "text-property/mechanic-slug", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading names its mechanic unless the reading's kind is `none` or `unsure`.",
     },
   ],

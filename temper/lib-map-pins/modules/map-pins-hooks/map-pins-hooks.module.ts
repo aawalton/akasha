@@ -6,22 +6,22 @@ export const mapPinsHooks = {
   slug: "map-pins-hooks",
   definition: "the game's map filter panels and pin class reshaped as the game loads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each filter panel is given a scrolling child its controls hang from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The panels are reshaped once the first addon that is not the game's own has loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pin whose layout asks for grayscale is drawn desaturated.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Clearing a pin's data restores that pin's saturation.",
     },
   ],

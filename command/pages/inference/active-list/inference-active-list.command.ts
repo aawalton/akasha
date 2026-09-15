@@ -7,17 +7,17 @@ export const inferenceActiveList = {
   definition: "the command naming the pool services the traffic cop is holding resident",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The resident services are read off the cop.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing resident is an empty answer rather than a refusal.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here changes which services are resident.",
     },
   ],

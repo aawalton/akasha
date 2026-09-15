@@ -6,9 +6,9 @@ export const textColor = {
   slug: "text-color",
   definition: "the greys text is drawn in, by how much of the reader's attention it is owed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text falls towards its surface as the text matters less.",
     },
   ],

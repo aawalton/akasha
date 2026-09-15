@@ -7,18 +7,18 @@ export const searchFilterRegistry = {
   definition:
     "the list of every search filter the filter bar offers, in the order the filter bar shows them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "buildFilterIndex throws when two filters in the list have the same filter id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The filter bar order is the array order in TEMPER_FILTERS rather than an order worked out later.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No filter is added to the registry at run time by code outside this package.",
     },
   ],

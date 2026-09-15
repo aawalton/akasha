@@ -6,18 +6,18 @@ export const companionMetricTree = {
   slug: "companion-metric-tree",
   definition: "the fixed grouping of companion metrics into labeled display categories",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The metric grouping is a module-level literal rather than data assembled from metric records.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An empty role list returns the grouping without an Overall group prepended.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A role absent from ROLE_TOTAL_METRICS is dropped from the Overall group.",
     },
   ],

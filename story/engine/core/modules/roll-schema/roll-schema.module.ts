@@ -6,13 +6,13 @@ export const rollSchema = {
   slug: "roll-schema",
   definition: "the dice a game rolls, what they came up, and the record kept of the throw",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A roll's record has the seed the roll was thrown from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Kept dice are recorded beside the ones that fell away.",
     },
   ],

@@ -7,13 +7,13 @@ export const useDestinationContextBuilder = {
   definition:
     "what an item teaches, and the reader of who already knows it, built from the matcher context",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item teaching nothing has no use key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A master motif is known only where every chapter of the style is known.",
     },
   ],

@@ -6,17 +6,17 @@ export const shifterBoxCursorLabel = {
   slug: "shifter-box-cursor-label",
   definition: "the label the cursor carries while an entry is dragged between the lists",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One top level control carries the label for every shifter box.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The label is sized to the wider of the two texts a dragged entry has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hidden label is emptied and drawn at the lowest tier.",
     },
   ],

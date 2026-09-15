@@ -7,9 +7,9 @@ export const completionMountTrainingCompleteness = {
   definition: "whether a character has trained a mount to its limit",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One of the three mount statistics is asked after by naming that statistic.",
     },
   ],

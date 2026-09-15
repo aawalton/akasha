@@ -7,19 +7,19 @@ export const seatWork = {
   definition: "every initiative with the liveliest state any seat working it is in",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The louder of two seats is decided by the color each is drawn in rather than by its turn state.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Two seats drawn in one color are told apart by the order the turn states are read in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A seat whose turn state named no color to read is quieter than every color the ranking names.",
     },

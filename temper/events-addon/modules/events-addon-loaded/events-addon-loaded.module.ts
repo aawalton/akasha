@@ -6,9 +6,9 @@ export const eventsAddonLoaded = {
   slug: "events-addon-loaded",
   definition: "what starts once the game says this add-on has loaded",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every timer this add-on holds is started from here.",
     },
   ],

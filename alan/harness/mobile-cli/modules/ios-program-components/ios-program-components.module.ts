@@ -6,30 +6,30 @@ export const iosProgramComponents = {
   slug: "ios-program-components",
   definition: "the Swift components and build target an akasha ios-program page names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the Swift to learn the components a program compiles.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The components a program compiles are stated on its akasha ios-program page.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A Swift target names no imports between its own files.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A component list belongs to a program rather than to the app that builds the program.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each component is alone in a directory named for its slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name Xcode builds a program under is read off its ios-program page.",
     },
   ],

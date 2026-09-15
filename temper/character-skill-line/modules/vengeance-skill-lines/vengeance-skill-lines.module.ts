@@ -6,9 +6,9 @@ export const vengeanceSkillLines = {
   slug: "vengeance-skill-lines",
   definition: "the thirty-two vengeance skill lines the alliance war grants",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-line pages rather than by hand.",
     },
   ],

@@ -6,9 +6,9 @@ export const fcoGlobal = {
   slug: "fco-global",
   definition: "the global table other add-ons reach the interface tweaks through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A key on the global table is spelled as the markup that calls the key spells the key.",
     },

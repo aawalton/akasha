@@ -7,9 +7,9 @@ export const accuracySeconds = {
   propertySlug: "accuracy-seconds",
   definition: "how far from its scheduled time a timer's run may be started",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A wider window lets a timer's run fall together with another timer's.",
     },
   ],

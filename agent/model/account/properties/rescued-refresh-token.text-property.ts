@@ -8,9 +8,9 @@ export const rescuedRefreshToken = {
   definition: "the refresh token a rescued credential carries",
   maxLength: 4000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rescued refresh token is the token the sops file did not take.",
     },
   ],

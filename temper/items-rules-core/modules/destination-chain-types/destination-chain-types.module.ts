@@ -6,9 +6,9 @@ export const destinationChainTypes = {
   slug: "destination-chain-types",
   definition: "the shape of one tier in a chain of destinations an item cascades down",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tier names where the items go and how many items the tier takes.",
     },
   ],

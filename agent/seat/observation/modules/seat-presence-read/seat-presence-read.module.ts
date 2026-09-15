@@ -6,25 +6,25 @@ export const seatPresenceRead = {
   slug: "seat-presence-read",
   definition: "whether an agent is present in its seat, answered from akasha's index of seats",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent akasha has no seat page for is absent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent whose seat names no readable process reads as unknown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent is present only where the process its seat names is still live.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The agents akasha has a seat for are listed in sorted order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seat a pid has is found by matching the pid in each seat's process key.",
     },
   ],

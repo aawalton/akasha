@@ -6,34 +6,34 @@ export const seatPageHistory = {
   slug: "seat-page-history",
   definition: "what a seat last said before its page went, read from akasha's history alone",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The values a seat said before are read from akasha's history and from no older store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An attribute recovered from history is the bare slug after the last slash.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The assignment is also kept whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page type the assignment names is not lost.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The initiative is taken from its own field rather than from the attributes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat is answered only where the id on the page matches the agent asked for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat with a parent but no person named takes the fleet as its principal.",
     },
   ],

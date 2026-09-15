@@ -7,21 +7,21 @@ export const spotifyScopes = {
   definition: "what Alan consents to when he authorises this client",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Consent is asked for once and covers every scope at once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Spotify is given the scopes as one space-parted line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scope the consent no longer covers is dropped by asking again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scope no call in this domain needs is not asked for.",
     },
   ],

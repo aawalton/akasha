@@ -8,13 +8,13 @@ export const generatorKind = {
   parts: ["boolean-property/after-checks", "generator-kind/uuid-v7"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "boolean-property/after-checks", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "When a generated value is worked out is stated by its kind.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A generator waiting for the checks works out a value no check sees.",
     },
   ],

@@ -8,17 +8,17 @@ export const attributeStoplights = {
   code: "ts",
   test: "ts",
   urlPath: "api/attribute-stoplights",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The group answered for here is the attributes group.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key each reading travels under is `attribute`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tile shipped against this reads that key as text that is always there.",
     },
   ],

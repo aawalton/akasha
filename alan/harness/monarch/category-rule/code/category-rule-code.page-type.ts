@@ -6,13 +6,13 @@ export const categoryRuleCode = {
   slug: "category-rule-code",
   definition: "a category rule its clauses alone carry out",
   extends: ["page-type/category-rule"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule of this kind is settled by its clauses without anybody reading the row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule of this kind naming no category catches a row for a person to settle.",
     },
   ],

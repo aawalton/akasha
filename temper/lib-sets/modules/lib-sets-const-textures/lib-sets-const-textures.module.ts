@@ -7,9 +7,9 @@ export const libSetsConstTextures = {
   definition:
     "the game's own armour, weapon and Undaunted chest keeper names, gathered per language",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A supported language table that is not English is given the English table as its fallback.",
     },

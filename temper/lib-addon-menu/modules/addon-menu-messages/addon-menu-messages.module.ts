@@ -6,17 +6,17 @@ export const addonMenuMessages = {
   slug: "addon-menu-messages",
   definition: "the queued chat output and the debug logger of the library",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Messages queue until the chat system has a primary container.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every message printed to chat has a LAM2 prefix.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A missing LibDebugLogger yields a logger whose methods do nothing.",
     },
   ],

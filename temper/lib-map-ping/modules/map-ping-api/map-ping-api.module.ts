@@ -6,9 +6,9 @@ export const mapPingApi = {
   slug: "map-ping-api",
   definition: "the ping functions the library object carries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A waypoint is set by world location rather than by map position.",
     },
   ],

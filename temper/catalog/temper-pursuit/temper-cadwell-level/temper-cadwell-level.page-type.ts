@@ -15,9 +15,9 @@ export const temperCadwellLevel = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "page-property-entry/cadwell-stops", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level's display order is the tier number Cadwell gives the level.",
     },
   ],

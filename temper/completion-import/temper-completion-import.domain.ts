@@ -6,18 +6,18 @@ export const temperCompletionImport = {
   slug: "temper-completion-import",
   definition: "the addon's saved variables read back as what a player has completed",
   parts: ["module/completion-input-schema", "module/completion-saved-variables-parser"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field the addon wrote badly falls away rather than failing the whole file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record read here keeps every key the reading does not name.",
     },
 
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No page is written here.",
     },
   ],

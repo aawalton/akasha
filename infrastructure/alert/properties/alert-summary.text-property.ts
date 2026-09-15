@@ -8,17 +8,17 @@ export const alertSummary = {
   definition: "the line shown when an alert is raised",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A summary has the labels of the rule raising the alert.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A summary is written in a template.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unraised alert reads as a template left unfilled.",
     },
   ],

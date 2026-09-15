@@ -21,13 +21,13 @@ export const lifeTheme = {
     { pageProperty: "select-property/life-theme-status", required: true, many: false },
     { pageProperty: "relation-property/life-theme-value", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A life theme is under one value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A life theme is under another life theme or under no life theme.",
     },
   ],

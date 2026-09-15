@@ -31,9 +31,9 @@ export const song = {
     { pageProperty: "file-property/insights", required: false, many: false },
     { pageProperty: "file-property/personal-connections", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A song names one artist.",
     },
   ],

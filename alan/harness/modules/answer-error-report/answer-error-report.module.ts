@@ -6,26 +6,26 @@ export const answerErrorReport = {
   slug: "answer-error-report",
   definition: "the answer a site gives a browser reporting one error",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every site taking error reports over http answers from here rather than from its own copy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The origins a site answers cross-origin are passed in rather than written in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A site naming no shell origin is answered with no cross-origin headers.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A report is filed only once the shape it must have has taken it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A filing that throws is answered rather than left to the router.",
     },
   ],

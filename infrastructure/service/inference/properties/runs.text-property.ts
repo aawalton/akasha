@@ -8,13 +8,13 @@ export const runs = {
   definition: "a command line a service starts",
   maxLength: 500,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The command line names a program on the host and the words handed to it.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No file of this repository is named here.",
     },
   ],

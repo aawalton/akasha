@@ -6,9 +6,9 @@ export const enabled = {
   slug: "enabled",
   propertySlug: "enabled",
   definition: "whether a service is to be running",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating false is installed and stopped rather than left uninstalled.",
     },
   ],

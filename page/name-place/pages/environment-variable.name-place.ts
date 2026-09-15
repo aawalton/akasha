@@ -6,13 +6,13 @@ export const environmentVariable = {
   slug: "environment-variable",
   definition: "the name a value handed to a process from outside is read under",
   nameFormat: "name-format/upper-snake-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value handed in from outside remains fixed for the whole of a run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name akasha reads opens with the name of the system that set that name.",
     },
   ],

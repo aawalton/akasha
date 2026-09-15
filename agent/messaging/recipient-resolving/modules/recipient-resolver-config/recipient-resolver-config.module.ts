@@ -6,21 +6,21 @@ export const recipientResolverConfig = {
   slug: "recipient-resolver-config",
   definition: "the tick interval, revive timeout and dry-run setting read out of the environment",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting the environment states as no positive finite number is the default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seconds the environment states are held as milliseconds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Dry run is on where the environment says `1` or `true` or `yes` or `on`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The value the environment states is read without regard to case or surrounding spaces.",
     },

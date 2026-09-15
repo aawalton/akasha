@@ -6,13 +6,13 @@ export const inferEndpoint = {
   slug: "infer-endpoint",
   definition: "where the voice model answers when nothing else names it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The address is the address the cluster gives the service inside itself.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller naming its own address uses that address instead.",
     },
   ],

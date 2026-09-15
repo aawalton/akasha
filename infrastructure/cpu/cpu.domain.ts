@@ -6,25 +6,25 @@ export const cpu = {
   slug: "cpu",
   definition: "time on a processor while a program has work to do",
   parts: ["domain/cpu-limit", "page-type/cpu-kind"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The processor time a host has is one pool every program on that host draws from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Processor time one program takes is time no other program can have.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A program given less processor time runs slower rather than failing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Processor time nobody takes in a second is gone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A host short of processor time ends nothing.",
     },
   ],

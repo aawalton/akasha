@@ -64,29 +64,29 @@ export const temperHousingAddon = {
     "type-declaration/housing-ptf-publish-declarations",
     "type-declaration/housing-publish-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A port to another player's house asks the game rather than moving the player.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A visit card travels as an ordinary chat line with an agreed key word.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The community library of shared houses is carried with the add-on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every keybind reaches the add-on through one published global holder.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here asks a server outside the game.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The upstream arm asking a player to donate to the author was left behind.",
     },
   ],

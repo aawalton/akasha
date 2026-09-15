@@ -6,13 +6,13 @@ export const masterWritProbeReading = {
   slug: "master-writ-probe-reading",
   definition: "the probe the inventory addon records for the master writs it has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The probe is ruled on whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unknown field refuses the read.",
     },
   ],

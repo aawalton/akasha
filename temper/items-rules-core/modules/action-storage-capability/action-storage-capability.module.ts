@@ -7,13 +7,13 @@ export const actionStorageCapability = {
   definition:
     "whether an action needs the item in the backpack before the action can be carried out",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An action leaving an item in place needs no backpack.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Using an item at a named destination needs no backpack.",
     },
   ],

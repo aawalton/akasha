@@ -22,34 +22,34 @@ export const nameFormat = {
   extends: ["page-type/module"],
   loadedBy: "module/format-reaching",
   properties: [{ pageProperty: "code-file-property/test", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name format judges a name and writes a name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The formats are the pages of this type rather than a list written in a check.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A format has the words of a name unchanged.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A format says only how the words are joined.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Converting between lower-kebab-case and lower-camel-case is owned by their pages alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key in a format akasha defines is lower camel case.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key in a format another system defines is spelled that system's way.",
     },
   ],

@@ -8,13 +8,13 @@ export const workdir = {
   definition: "the folder a service's command runs in",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder is named from the folder the service is provisioned into.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service running in that folder itself states a single dot.",
     },
   ],

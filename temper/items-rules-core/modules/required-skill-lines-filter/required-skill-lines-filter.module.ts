@@ -6,13 +6,13 @@ export const requiredSkillLinesFilter = {
   slug: "required-skill-lines-filter",
   definition: "the Required Skill Lines condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `requiredSkillLines` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A rule whose action is other than `stock` is offered no Required Skill Lines condition.",
     },

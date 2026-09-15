@@ -7,13 +7,13 @@ export const atlasSearch = {
   definition: "the places a reader looks up and keeps",
   code: "tsx",
   urlPath: "search",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The looking up and the keeping happen in the browser.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A place already kept is a link to the location rather than a button.",
     },
   ],

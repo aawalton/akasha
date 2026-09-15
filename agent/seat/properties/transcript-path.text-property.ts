@@ -8,9 +8,9 @@ export const transcriptPath = {
   definition: "where a seat writes what was said in it",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transcript sits on the machine its seat sits on.",
     },
   ],

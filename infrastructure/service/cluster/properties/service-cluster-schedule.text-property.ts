@@ -8,13 +8,13 @@ export const serviceClusterSchedule = {
   definition: "the times the cluster starts a workload",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The times are written as the five cron fields.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workload the cluster starts by hand carries no schedule.",
     },
   ],

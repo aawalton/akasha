@@ -6,21 +6,21 @@ export const computeStockGroups = {
   slug: "compute-stock-groups",
   definition: "the set of item ids each stocking rule matches, gathered under that rule's id",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only rules with allStocked or targetQuantity get a stock group.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Stock conditions are skipped while the stock groups are being computed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule matching no item is left out of the returned map.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A rule without an id cannot key a stock group.",
     },
   ],

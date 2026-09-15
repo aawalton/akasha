@@ -6,22 +6,22 @@ export const scrollableMenuSubmenuClass = {
   slug: "scrollable-menu-submenu-class",
   definition: "the submenu object and the proxy that reads through to its parent combobox",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A submenu is a proxy table with a metatable rather than a plain subclass instance.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A key absent from the exposed table is never read from the parent combobox.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A submenu highlights the opening control for as long as the submenu is open.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Hiding runs an optional onHideDropdownCallback supplied by the caller.",
     },
   ],

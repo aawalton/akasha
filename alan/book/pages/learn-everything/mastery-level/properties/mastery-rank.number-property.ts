@@ -7,9 +7,9 @@ export const masteryRank = {
   propertySlug: "rank",
   definition: "where a rung sits on the scale, nought to seven",
   max: 7,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The arithmetic folding a topic's coverage reads this number.",
     },
   ],

@@ -6,9 +6,9 @@ export const charactersCommand = {
   slug: "characters-command",
   definition: "the slash commands this add-on answers to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reset empties the saved table before reading the game again.",
     },
   ],

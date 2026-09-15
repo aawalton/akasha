@@ -6,13 +6,13 @@ export const hudControls = {
   slug: "hud-controls",
   definition: "the HUD parts that are controls rather than fragments",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part here is hidden by a method called on the control.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every part here belongs to all three HUD scenes.",
     },
   ],

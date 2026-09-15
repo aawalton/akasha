@@ -6,5 +6,5 @@ export const changeMechanicalFileDivide = {
   slug: "change-mechanical-file-divide",
   definition: "a mechanical change laying what one file holds across more than one file",
   parts: ["change-mechanical/divide-file-code", "change-mechanical/divide-file-page-property"],
-  invariants: [],
+  decisions: [],
 } as const satisfies Domain

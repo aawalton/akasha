@@ -6,13 +6,13 @@ export const skillBarFiltering = {
   slug: "skill-bar-filtering",
   definition: "the skills a character may put on one bar, given what it wears and what it is",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A weapon or armour line offers skills only while that line is available.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The werewolf line offers ultimates alone.",
     },
   ],

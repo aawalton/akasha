@@ -6,18 +6,18 @@ export const companionFormulaExtraction = {
   slug: "companion-formula-extraction",
   definition: "the damage and healing components a companion skill template breaks down into",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Trigger frequency is folded into a component's value rather than simulated over time.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A component identifier counts up across one extraction run.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Component values are worked out from base companion stats rather than the build being scored.",
     },

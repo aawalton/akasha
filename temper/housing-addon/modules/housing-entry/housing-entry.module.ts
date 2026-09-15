@@ -6,13 +6,13 @@ export const housingEntry = {
   slug: "housing-entry",
   definition: "the first file the game reaches for the housing add-on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every part of the add-on is reached from here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The add-on waits for the game to name the add-on before loading begins.",
     },
   ],

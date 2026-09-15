@@ -6,13 +6,13 @@ export const minimapStringIds = {
   slug: "minimap-string-ids",
   definition: "the string ids the minimap makes for its settings and key bindings",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A string id here is made at load rather than shipped with the game.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

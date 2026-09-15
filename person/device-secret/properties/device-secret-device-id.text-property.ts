@@ -8,14 +8,14 @@ export const deviceSecretDeviceId = {
   definition: "the device a secret was minted onto",
   maxLength: 36,
   nameFormat: "name-format/upper-uuid",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An iOS device states this value as the identifier that device has for its vendor.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A device uninstalling the app states a new device id.",
     },
   ],

@@ -7,9 +7,9 @@ export const bitsNeeded = {
   definition: "how many bits index one thing out of a count of things",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A count of one or none still takes one bit rather than none.",
     },
   ],

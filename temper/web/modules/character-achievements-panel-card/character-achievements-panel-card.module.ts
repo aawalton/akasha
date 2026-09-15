@@ -6,14 +6,14 @@ export const characterAchievementsPanelCard = {
   slug: "character-achievements-panel-card",
   definition: "the achievements each selected character has earned, by category",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The achievement tally the aggregate view walks is handed in as data rather than imported.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The achievement tally is built from the achievement-category catalog by the caller.",
     },

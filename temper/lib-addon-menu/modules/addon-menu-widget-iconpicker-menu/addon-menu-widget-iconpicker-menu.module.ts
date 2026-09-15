@@ -6,21 +6,21 @@ export const addonMenuWidgetIconpickerMenu = {
   slug: "addon-menu-widget-iconpicker-menu",
   definition: "the pooled grid of selectable icons shown as a floating window",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Icon controls are taken from an object pool and released together.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The menu closes after two global mouse-ups outside its own window.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Icon size is never smaller than twenty-eight pixels.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The menu is a top-level window rather than a child of the picker control.",
     },
   ],

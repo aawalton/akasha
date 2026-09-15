@@ -6,13 +6,13 @@ export const asJson = {
   slug: "as-json",
   definition: "a value called json without being read to see whether it is",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here reads the value this module renames.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller wanting the value read names `is-json` instead.",
     },
   ],

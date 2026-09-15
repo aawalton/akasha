@@ -6,21 +6,21 @@ export const decideLongtail = {
   slug: "decide-longtail",
   definition: "what the slower store is to have and what it is to let go of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A unit is one monthly anchor with the write-ahead log its own range covers.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The month a run falls in has a provisional unit until that month is over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A partial write-ahead log segment is never part of a unit.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here touches either store.",
     },
   ],

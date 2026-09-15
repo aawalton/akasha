@@ -6,9 +6,9 @@ export const itemBrowserTooltipExtension = {
   slug: "item-browser-tooltip-extension",
   definition: "the collection lines this add-on adds under an item's tooltip",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collection slot is typed as an id64 here rather than as a number.",
     },
   ],

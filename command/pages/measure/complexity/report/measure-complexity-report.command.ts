@@ -7,17 +7,17 @@ export const measureComplexityReport = {
   definition: "the command saying every complexity metric by percentile, with the outliers of each",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each metric is answered at p50, p75, p90, p95, p99 and its maximum.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The report is taken over the whole workspace and counts every row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A call saying no count shows ten outliers of each metric.",
     },
   ],

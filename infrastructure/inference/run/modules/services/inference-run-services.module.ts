@@ -7,13 +7,13 @@ export const inferenceRunServices = {
   definition:
     "the services a run is recorded against, the operations they do and the versions they ran",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every service names the versions that service ran.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service that pins nothing names an empty set.",
     },
   ],

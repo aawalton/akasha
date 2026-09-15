@@ -6,39 +6,39 @@ export const skillPointPublicDungeons = {
   slug: "skill-point-public-dungeons",
   definition: "the one skill point each public dungeon hands a character for its group event",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No page has a public dungeon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key here the skill point sources do not name is refused by the compiler.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A public dungeon the sources gain is refused here until it is given a label.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "`EveryPublicDungeonIsLabelled` has that second refusal.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Its default type argument is judged where it is declared rather than where it is read.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Deleting that type takes the refusal away and nothing else fails.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "The order these entries are written in is kept by hand rather than taken from the sources.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A source reordered elsewhere leaves these entries where they are and nothing refuses it.",
     },

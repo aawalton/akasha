@@ -7,17 +7,17 @@ export const libSetsDebugDebugScanData = {
   definition:
     "the zone, map and wayshrine tables read from the client and the reset that clears them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The world map is opened and right-clicked until wayshrine pins appear.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The slash command option for wayshrines names a function this module never sets.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Map names in another language need LibZone loaded.",
     },
   ],

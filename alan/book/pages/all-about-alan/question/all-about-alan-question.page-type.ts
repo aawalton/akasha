@@ -12,21 +12,21 @@ export const allAboutAlanQuestion = {
     { pageProperty: "relation-property/question-topic", required: true, many: false },
     { pageProperty: "text-property/open-question", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A question asks one open thing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A question sits under exactly one topic.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A question goes once the ask is settled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic lists no question open on that topic.",
     },
   ],

@@ -6,9 +6,9 @@ export const isTable = {
   slug: "is-table",
   definition: "whether a value the game handed over is a Lua table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only Lua's own `type` tells a table from userdata.",
     },
   ],

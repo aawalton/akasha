@@ -12,30 +12,30 @@ export const iosAppDeploying = {
     jitterSeconds: 10,
     startTimeoutSeconds: 3900,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An ios deploy builds the app and hands the build to Apple, which nothing undoes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tick may hand a build to Apple without anyone asking, as Alan settled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each ios app states the hour it waits before a tick hands Apple another build.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An ios build wants secrets from Alan's file, so this service reads that file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A tick with every ios app up to date puts nothing up, so that is no loop without end.",
     },

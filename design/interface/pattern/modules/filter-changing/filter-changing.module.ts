@@ -6,17 +6,17 @@ export const filterChanging = {
   slug: "filter-changing",
   definition: "the handler a search box or a sort control hands its change to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A control's change is written as the one value that control names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sort is written as the field and the direction together.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The field a sort is by is a value handed in rather than a set named here.",
     },
   ],

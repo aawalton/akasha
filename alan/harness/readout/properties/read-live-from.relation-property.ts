@@ -7,9 +7,9 @@ export const readLiveFrom = {
   propertySlug: "read-live-from",
   definition: "the outside service a reading is taken from at the moment it is drawn",
   targetPageType: "page-type/domain",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A readout naming a service to read live from is answered by no query.",
     },
   ],

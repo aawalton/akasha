@@ -7,17 +7,17 @@ export const searchEvalAdapter = {
   definition:
     "the synthetic rule and empty environment that let a filter reuse a rule-editor condition checker",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A rule-editor checker takes a compiled rule and item facts and an eval context.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every environment accessor here throws rather than answering.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The synthetic rule names the stock action and the category that matches every item.",
     },

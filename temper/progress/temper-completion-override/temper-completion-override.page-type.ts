@@ -20,13 +20,13 @@ export const temperCompletionOverride = {
     { pageProperty: "number-property/floor", required: true, many: false },
     { pageProperty: "text-property/override-reason", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A count the game reports above the floor is taken as the game reports.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One override answers one item of one card for one character.",
     },
   ],

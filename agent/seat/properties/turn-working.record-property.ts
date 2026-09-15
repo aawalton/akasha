@@ -11,25 +11,25 @@ export const turnWorking = {
     { pageProperty: "number-property/scanned-to", required: true, many: false },
     { pageProperty: "text-property/open-shells", required: true, many: true, maxCount: null },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The answer is read off the seat's transcript rather than off a hook.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transcript shorter than the byte read to was replaced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A replaced transcript is read again from its first byte.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tasks still running are read from the same bytes as the turn.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "New bytes naming no turn of the agent are no answer that the seat is idle.",
     },
   ],

@@ -6,9 +6,9 @@ export const inventoryManagementPlanCollect = {
   slug: "inventory-management-plan-collect",
   definition: "every step of a whole session gathered from the rules and the captured holdings",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A step is gathered only where the rule's items still need moving.",
     },
   ],

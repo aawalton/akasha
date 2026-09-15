@@ -7,9 +7,9 @@ export const skillPointFinderLayout = {
   definition: "the window, table rows and tooltips the skill point finder draws into",
   markup: "xml",
   loadedAs: "USPF.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The markup loads after the compiled Lua bundle.",
     },
   ],

@@ -8,13 +8,13 @@ export const titleKey = {
   definition: "the text a track title and an artist name are matched by",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A title key is a track name and then `|` and then an artist name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A title key has only lowercase letters and digits either side of `|`.",
     },
   ],

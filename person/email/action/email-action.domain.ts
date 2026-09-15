@@ -12,18 +12,18 @@ export const emailAction = {
     "domain/email-action-skip",
     "domain/email-action-unsubscribe",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Archiving and skipping exclude each other.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every action taken on a piece of mail is recorded with whatever took that action and when.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record of an action is written once and never changed.",
     },
   ],

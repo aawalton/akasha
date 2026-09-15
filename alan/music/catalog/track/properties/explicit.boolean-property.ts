@@ -6,9 +6,9 @@ export const explicit = {
   slug: "explicit",
   propertySlug: "explicit",
   definition: "whether a provider marks a recording as explicit",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This is what the provider says rather than what a listener judges.",
     },
   ],

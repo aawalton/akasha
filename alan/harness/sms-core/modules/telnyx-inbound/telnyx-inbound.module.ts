@@ -7,21 +7,21 @@ export const telnyxInbound = {
   definition: "the fields of a Telnyx sms webhook lifted out of its envelope",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field the shape does not name is carried through rather than stripped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A missing text body reads as empty text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A missing direction reads as unknown rather than as inbound.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sender is required where every other field of the payload is optional.",
     },
   ],

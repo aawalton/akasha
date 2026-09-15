@@ -8,9 +8,9 @@ export const emailRuleMatchValues = {
   definition: "what a clause has to weigh a piece of mail against",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value is written as the mail has that value rather than as a title.",
     },
   ],

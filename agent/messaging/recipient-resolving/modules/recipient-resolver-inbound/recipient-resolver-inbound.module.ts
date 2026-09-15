@@ -6,13 +6,13 @@ export const recipientResolverInbound = {
   slug: "recipient-resolver-inbound",
   definition: "the unclaimed messages waiting on an agent, each read as one comms input",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent with no seat name has nothing waiting.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message from nobody has a sender of nothing rather than an empty name.",
     },
   ],

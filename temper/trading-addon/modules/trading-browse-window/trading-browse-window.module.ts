@@ -6,9 +6,9 @@ export const tradingBrowseWindow = {
   slug: "trading-browse-window",
   definition: "the window a player browses guild store results in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The window is built once and refilled rather than rebuilt per search.",
     },
   ],

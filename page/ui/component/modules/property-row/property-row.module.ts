@@ -7,9 +7,9 @@ export const propertyRow = {
   definition:
     "the row one property is shown as, its label with its value, drawn by the page type declaring it",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property no page type above it draws takes the row beside page-property.",
     },
   ],

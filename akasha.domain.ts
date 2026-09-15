@@ -95,10 +95,10 @@ export const akasha = {
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "Alan Over Invariants",
-      act: "Change the invariants Alan's instructions contradict.",
-      warrant: "An invariant is past thinking, which is updated by current thinking.",
-      aids: ["Any invariant can change.", "Changing one needs no approval."],
+      name: "Alan Over Decisions",
+      act: "Change the decisions Alan's instructions contradict.",
+      warrant: "An decision is past thinking, which is updated by current thinking.",
+      aids: ["Any decision can change.", "Changing one needs no approval."],
     },
     {
       directiveKind: "directive-kind/rule",

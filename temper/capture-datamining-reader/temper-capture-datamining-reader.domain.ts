@@ -6,14 +6,14 @@ export const temperCaptureDataminingReader = {
   slug: "temper-capture-datamining-reader",
   definition: "what the datamining addon wrote out, read back and checked",
   parts: ["module/mined-data-parse", "module/saved-variables-schema"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A datamining capture is checked against a zod shape before any reader reads that capture.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No datamining capture is written here.",
     },
   ],

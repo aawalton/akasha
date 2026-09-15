@@ -6,13 +6,13 @@ export const knownFilter = {
   slug: "known-filter",
   definition: "the Known Status condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `known` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A category outside the three roots named in the code is offered no Known Status condition.",
     },

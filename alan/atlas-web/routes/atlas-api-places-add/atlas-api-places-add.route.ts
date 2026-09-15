@@ -7,13 +7,13 @@ export const atlasApiPlacesAdd = {
   definition: "the location page a reader keeps a found place as",
   code: "ts",
   urlPath: "api/alan/collections/places/add",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A file page is refused where the page names no path to sit at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A place whose name yields no slug is refused.",
     },
   ],

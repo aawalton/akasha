@@ -8,19 +8,19 @@ export const secretResource = {
   definition: "the cluster resource a web app's secret values are placed in",
   maxLength: 253,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The resource is named on the page rather than written into the code reaching for its values.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A web app's secret values are the values the secret pages place in this resource.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two web apps may name one resource.",
     },
   ],

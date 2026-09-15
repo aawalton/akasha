@@ -6,9 +6,9 @@ export const fcoCraftingSmithing = {
   slug: "fco-crafting-smithing",
   definition: "the smithing creation panel the interface tweaks change",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shared guard stands behind the guards here.",
     },
   ],

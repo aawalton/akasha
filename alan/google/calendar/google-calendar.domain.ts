@@ -14,13 +14,13 @@ export const googleCalendar = {
     "module/calendar-events",
     "module/send-updates-narrowing",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An event naming no calendar lands on Alan's own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Attendees are emailed unless the caller says otherwise.",
     },
   ],

@@ -5,9 +5,9 @@ export const emailActionArchive = {
   type: "page-type/domain",
   slug: "email-action-archive",
   definition: "taking mail out of a person's inbox",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Mail is archived and never deleted.",
     },
   ],

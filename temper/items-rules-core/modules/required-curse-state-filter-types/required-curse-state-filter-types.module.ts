@@ -6,9 +6,9 @@ export const requiredCurseStateFilterTypes = {
   slug: "required-curse-state-filter-types",
   definition: "the shape of the condition asking that a character be a vampire or a werewolf",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Vampirism and lycanthropy are the two curses this condition asks after.",
     },
   ],

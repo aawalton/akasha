@@ -20,17 +20,17 @@ export const placedFurnishings = {
     { pageProperty: "number-property/suggested-price", required: false, many: false },
     { pageProperty: "number-property/estimated-value", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One line is one furnishing placed in one home.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A price field is absent where the price source priced nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A furnishing is reached by an item link or by a collectible link.",
     },
   ],

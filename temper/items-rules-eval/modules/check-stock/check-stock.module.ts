@@ -7,21 +7,21 @@ export const checkStock = {
   definition:
     "the condition check over how much of a stock group characters and the bank already have",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The all-stocked threshold defaults to 200 units.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item outside any computed stock group is treated as a group of one item id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Stock checks are skipped when the evaluation context sets skipStock.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Bank stock is summed across the whole stock group before the target quantity is compared.",
     },

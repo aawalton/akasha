@@ -6,37 +6,37 @@ export const supervisorIdleRule = {
   slug: "supervisor-idle-rule",
   definition: "the questions about a seat's idleness that are put to the deciding rule",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unreachable rule answers not idle with the reason rule-unreachable.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The safe answer for cmdlines is that no cmdline is ignored.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice is null only where the rule truly decided.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer that fails its shape falls to the safe answer as a failed ask does.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Past cliff asks the same observation with busy children set aside.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "All three questions are asked under the one rule name idleRule.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A verdict's reason is the busyReason the rule states rather than a fixed string.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a process or a port or a page.",
     },
   ],

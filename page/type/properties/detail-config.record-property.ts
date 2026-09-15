@@ -17,23 +17,23 @@ export const detailConfig = {
     { pageProperty: "record-property/collection-header", required: false, many: false },
     { pageProperty: "record-property/child-collection", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page type states here how a page of that type is laid out on a screen of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page type stating no detail config takes the layout the page type above states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type with no detail config here or above is laid out plainly.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page gathering other pages is laid out by the pages that page gathers.",
     },
   ],

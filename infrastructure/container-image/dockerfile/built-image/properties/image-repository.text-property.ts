@@ -8,13 +8,13 @@ export const imageRepository = {
   definition: "the path an image is pushed to in the cluster's registry",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The path carries no tag, because the tag is the hash of the build inputs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image nothing pushes states no repository.",
     },
   ],

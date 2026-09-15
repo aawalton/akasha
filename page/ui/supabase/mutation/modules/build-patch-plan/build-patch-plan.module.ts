@@ -6,13 +6,13 @@ export const buildPatchPlan = {
   slug: "build-patch-plan",
   definition: "how one page write divides into promoted columns and a JSON patch",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key the store has in a column of its own is set on that column.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every other key is set in the attributes.",
     },
   ],

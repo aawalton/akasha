@@ -6,13 +6,13 @@ export const signUpRoute = {
   slug: "sign-up-route",
   definition: "where a reader asking to sign up is sent",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader asking for the sign-up path is sent to signing in.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No account is opened here.",
     },
   ],

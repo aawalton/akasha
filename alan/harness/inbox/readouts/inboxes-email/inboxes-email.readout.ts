@@ -12,31 +12,31 @@ export const inboxesEmail = {
   scale: "readout-scale/lowest-inbox-count",
   groups: ["readout-group/inboxes"],
   wireKey: "email",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reading is the count the day's own page has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reading is how near the inbox came to empty rather than where the inbox is.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No day written down is no reading rather than a count of zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day with no count is no reading rather than a count of zero.",
     },
 
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here turns a count into a color.",
     },
   ],

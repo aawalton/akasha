@@ -10,29 +10,29 @@ export const assignmentItself = {
   runsOnRead: true,
   runsOnWrite: true,
   transitive: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat warrants the assignment the seat states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat stating no assignment warrants no assignment.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An assignment whose page cannot be found is no warrant.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a seat warrants an assignment of the page that seat states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat stating an initiative warrants the domain that initiative names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An assignment is looked up under the page type the assignment is stated under.",
     },
   ],

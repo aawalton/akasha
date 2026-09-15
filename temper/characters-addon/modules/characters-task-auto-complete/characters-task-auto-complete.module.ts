@@ -6,17 +6,17 @@ export const charactersTaskAutoComplete = {
   slug: "characters-task-auto-complete",
   definition: "a task marked complete from the progress already read into the saved table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A task naming no completion card is marked by hand alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mark made before the day's reset counts as no mark.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A task scoped to every character is marked once every character has its own mark.",
     },

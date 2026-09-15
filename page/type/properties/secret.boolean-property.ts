@@ -6,22 +6,22 @@ export const secret = {
   slug: "secret",
   propertySlug: "secret",
   definition: "whether the value a page has for this property is hidden from whoever has the files",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A person who can read the repository can read every other value in that repository from the files.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A secret value is put in through a command that encrypts that value.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No write of the page's own file has a secret value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A secret value is withheld from a read that did not ask for that value.",
     },
   ],

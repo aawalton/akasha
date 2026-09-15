@@ -10,7 +10,7 @@ export const nimueMisc = {
     {
       statement: "What a page states as what must be true of it is named a decision.",
       workingMemory:
-        'Landed: `invariant-group` is `decision-group`, folder and relation property with it, and the check `invariant-earns-its-place` with it. Left: `invariant-kind` to `decision-kind` over 5892 files, the keys `invariants` and `invariantKind`, two check pages, and the prose. That draft takes six minutes and its apply runs every test, and other seats move folders repo-wide inside that window, so it lands only in a quiet repository. Bare `"invariant-kind"` in code is reached by no mechanism.\n',
+        'Landed: `decision-group` is `decision-group`, folder and relation property with it, and the check `decision-earns-its-place` with it. Left: `decision-kind` to `decision-kind` over 5892 files, the keys `decisions` and `decisionKind`, two check pages, and the prose. That draft takes six minutes and its apply runs every test, and other seats move folders repo-wide inside that window, so it lands only in a quiet repository. Bare `"decision-kind"` in code is reached by no mechanism.\n',
     },
   ],
 } as const satisfies Initiative

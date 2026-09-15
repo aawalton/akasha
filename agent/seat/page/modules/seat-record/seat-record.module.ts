@@ -6,29 +6,29 @@ export const seatRecord = {
   slug: "seat-record",
   definition: "one value a seat carries under a key, read from akasha and kept beside the seat",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's value is read from akasha rather than from any other store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty agent name reads nothing and writes nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty value is not written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A write finds the seat's name first and does nothing where that name is missing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failure while writing returns quietly instead of reaching the agent's screen.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A backfill writes only where the key has nothing yet.",
     },
   ],

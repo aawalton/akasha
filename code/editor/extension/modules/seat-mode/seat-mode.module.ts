@@ -6,21 +6,21 @@ export const seatMode = {
   slug: "seat-mode",
   definition: "the two ways a seat runs, and the zod schema admitting one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat mode is interactive or headless.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seat mode type is inferred from the zod schema.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads which mode a seat runs in.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names a mode a seat falls back to.",
     },
   ],

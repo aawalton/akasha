@@ -9,17 +9,17 @@ export const dashboard = {
   parts: ["file-property/dashboard-layout"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "file-property/dashboard-layout", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dashboard is one page and one layout file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dashboard is found by its page type rather than by its file name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A manifest inlines a dashboard rather than a chart server fetching that dashboard.",
     },

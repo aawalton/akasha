@@ -6,18 +6,18 @@ export const housingLibraryDataEu4 = {
   slug: "housing-library-data-eu-4",
   definition: "part 4 of the houses European players have shared with the community",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from an upstream library file rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "An entry's place in this part is the place the gathered list keeps that entry in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An entry moved to another place moves the entry every library row shows.",
     },
   ],

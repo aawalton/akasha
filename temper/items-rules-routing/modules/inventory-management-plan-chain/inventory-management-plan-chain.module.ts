@@ -7,29 +7,29 @@ export const inventoryManagementPlanChain = {
   definition: "one rule's items spread down a chain of destinations, tier by tier",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tier a character is not eligible for gives that character nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What a character already holds counts towards that character's own target first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No character both deposits and withdraws one stocked item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tier takes up to the count the tier names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The items one tier leaves over are offered to the tier below.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The items the last tier leaves over are threaded on to the next rule.",
     },
   ],

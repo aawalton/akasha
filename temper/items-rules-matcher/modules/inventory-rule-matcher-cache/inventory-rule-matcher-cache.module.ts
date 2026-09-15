@@ -7,13 +7,13 @@ export const inventoryRuleMatcherCache = {
   definition:
     "the matched items kept from an earlier run, and the fingerprint saying they still hold",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule whose fingerprint changed is matched again from scratch.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A residue is stored as entries so the cache survives being written out.",
     },
   ],

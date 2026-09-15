@@ -6,21 +6,21 @@ export const memoryReaperConfig = {
   slug: "memory-reaper-config",
   definition: "the ceilings, the headroom margin and the tick the reaper runs under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every ceiling is stated in gibibytes and held in kibibytes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every ceiling the environment states as no positive finite number is a default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A ceiling is read once at load rather than read again each tick.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The reaper says every ceiling that reaper is running under before its first tick.",
     },

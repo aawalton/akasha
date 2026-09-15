@@ -17,22 +17,22 @@ export const proposition = {
     { pageProperty: "select-property/proposition-status", required: true, many: false },
     { pageProperty: "file-property/statement", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A proposition's statement sits in its own file rather than in a value beside that file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An adopted proposition is chosen rather than proved.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An adopted proposition has no proof.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A proposition names no proof that attempts that proposition.",
     },
   ],

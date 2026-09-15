@@ -8,9 +8,9 @@ export const partOf = {
   definition: "the unit this unit stops and restarts along with",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A unit stops when the unit named here stops.",
     },
   ],

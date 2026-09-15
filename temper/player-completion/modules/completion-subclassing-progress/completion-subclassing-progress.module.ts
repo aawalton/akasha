@@ -6,9 +6,9 @@ export const completionSubclassingProgress = {
   slug: "completion-subclassing-progress",
   definition: "how far an account has taken the class skill lines subclassing lends out",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Only a skill line under the class heading is reckoned.",
     },
   ],

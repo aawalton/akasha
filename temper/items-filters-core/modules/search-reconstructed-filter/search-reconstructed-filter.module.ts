@@ -7,13 +7,13 @@ export const searchReconstructedFilter = {
   definition:
     "whether an item was reconstructed from a known set piece, narrowed by an include or exclude toggle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reconstructed filter reads the flag through the rule-editor flags checker.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

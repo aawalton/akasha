@@ -6,17 +6,17 @@ export const supabaseServer = {
   slug: "supabase-server",
   definition: "the Supabase client a server holds, acting as the service role",
   parts: ["module/service-role", "module/throwaway-user"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No key is here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key is read from the environment at the moment a client is made.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing made here is ever handed to a browser.",
     },
   ],

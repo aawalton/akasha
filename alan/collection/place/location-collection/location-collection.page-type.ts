@@ -16,13 +16,13 @@ export const locationCollection = {
     },
     { pageProperty: "text-property/icon", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collection lists no place of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A place names the collection that place is in.",
     },
   ],

@@ -21,21 +21,21 @@ export const bookRecord = {
     { pageProperty: "text-property/kept-by", required: false, many: false },
     { pageProperty: "file-property/writing", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One book has more than one record.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record has the words of the book's keeper rather than akasha's words.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A record is no part of the book the record is kept about.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record a command generates is written whole rather than edited by hand.",
     },
   ],

@@ -6,21 +6,21 @@ export const scrollableMenuComboboxBaseSetupEditbox = {
   slug: "scrollable-menu-combobox-base-setup-editbox",
   definition: "the wiring and re-anchoring of the edit box inside an edit-box row",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Re-anchoring is deferred to the next frame through zo_callLater.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hidden label is collapsed to zero width rather than removed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The right-click handler is registered once per edit box control.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Text type and input length fall back to game-wide defaults when unset.",
     },
   ],

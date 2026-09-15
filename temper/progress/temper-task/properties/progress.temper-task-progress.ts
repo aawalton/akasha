@@ -12,13 +12,13 @@ export const progress = {
     { pageProperty: "number-property/progress-current", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The totals a task states are the totals of these lines added up.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A line names a character by name rather than by a relation to that character.",
     },
   ],

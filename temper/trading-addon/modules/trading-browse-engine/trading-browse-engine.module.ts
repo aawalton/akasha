@@ -6,9 +6,9 @@ export const tradingBrowseEngine = {
   slug: "trading-browse-engine",
   definition: "running a guild store search and holding the results a player is browsing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Results are held as read rather than sorted on arrival.",
     },
   ],

@@ -7,13 +7,13 @@ export const esoAddon = {
   propertySlug: "eso-addon",
   definition: "the addon page the port holds",
   targetPageType: "page-type/eso-addon",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The package an addon's source is under is the folder that addon page sits in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tree move has the package path without an edit here.",
     },
   ],

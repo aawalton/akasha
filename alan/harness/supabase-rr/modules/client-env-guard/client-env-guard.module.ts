@@ -6,9 +6,9 @@ export const clientEnvGuard = {
   slug: "client-env-guard",
   definition: "the Supabase settings a client bundle reads, guarded rather than inlined",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The guard refuses a build rather than the loading of a config.",
     },
   ],

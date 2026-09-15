@@ -26,29 +26,29 @@ export const temperCollectionsAddon = {
     "eso-interface/lost-treasure-map-layout",
     "eso-interface/item-browser-layout",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each tracker the add-on ships is a workspace package of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This add-on starts each tracker and knows nothing else about that tracker.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tracker publishes its own global rather than a member of this add-on's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The three XML documents load after the Lua bundle.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The saved variables of all five trackers are named in the one manifest.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the data a tracker keeps.",
     },
   ],

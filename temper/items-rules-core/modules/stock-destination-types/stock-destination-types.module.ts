@@ -6,13 +6,13 @@ export const stockDestinationTypes = {
   slug: "stock-destination-types",
   definition: "what a stock-destination decision is given to read about a character's holdings",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stock decision reads holdings through the context handed to the decision.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The character priority is the order the characters are offered the stock in.",
     },
   ],

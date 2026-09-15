@@ -8,13 +8,13 @@ export const image = {
   definition: "the container image a workload's pods run",
   maxLength: 253,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The image is named as the cluster's own registry hands the image out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A workload running more than one container states the image of the container the workload is for.",
     },

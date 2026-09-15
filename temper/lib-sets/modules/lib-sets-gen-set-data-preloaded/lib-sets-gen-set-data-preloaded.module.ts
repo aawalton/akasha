@@ -6,14 +6,14 @@ export const libSetsGenSetDataPreloaded = {
   slug: "lib-sets-gen-set-data-preloaded",
   definition:
     "The whole LibSets SET_DATA_PRELOADED record gathered from the parts of its thirteen keys.",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Each key spreads its parts in source order so every array valued key keeps its order.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Nothing checks that the parts of a key stay in source order once a part is moved.",
     },

@@ -8,9 +8,9 @@ export const subscriptionType = {
   definition: "the plan the account is subscribed on",
   maxLength: 50,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The subscription type is answered by the upstream probe rather than chosen here.",
     },
   ],

@@ -7,13 +7,13 @@ export const stringIn = {
   definition: "the string a value holds, or nothing",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value that is no string holds no string.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty string is answered rather than read as nothing.",
     },
   ],

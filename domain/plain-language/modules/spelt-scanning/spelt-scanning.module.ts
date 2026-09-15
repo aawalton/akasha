@@ -6,21 +6,21 @@ export const speltScanning = {
   slug: "spelt-scanning",
   definition: "a backticked name filled with letters of its own length before a sentence is read",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name inside backticks is read as one word rather than as English.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The filler runs the length the name ran.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every offset after the name holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The backticks themselves are kept.",
     },
   ],

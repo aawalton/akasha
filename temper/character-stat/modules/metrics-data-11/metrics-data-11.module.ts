@@ -6,9 +6,9 @@ export const metricsData11 = {
   slug: "metrics-data-11",
   definition: "character stats magicka-maximum through movement-walk-speed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The stats are named here in the order the gathered table answers its ids in.",
     },
   ],

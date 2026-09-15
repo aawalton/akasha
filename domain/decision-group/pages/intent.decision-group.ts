@@ -4,7 +4,7 @@ export const intent = {
   id: "01a04e11-9f98-71e8-b821-77545c6be68e",
   type: "decision-group",
   slug: "intent",
-  definition: "an invariant that does not hold yet",
+  definition: "an decision that does not hold yet",
   directives: [
     {
       directiveKind: "directive-kind/rule",

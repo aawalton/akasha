@@ -7,13 +7,13 @@ export const gmailDrafts = {
   definition: "a mail written and kept unsent",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A draft is built from the same body a sent message would be.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A draft is named as soon as gmail has taken that draft.",
     },
   ],

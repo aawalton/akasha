@@ -6,9 +6,9 @@ export const luaStringContains = {
   slug: "lua-string-contains",
   definition: "whether one text holds another somewhere inside it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The text looked for is matched as plain text rather than as a Lua pattern.",
     },
   ],

@@ -6,9 +6,9 @@ export const libSetsKbfDropFilters = {
   slug: "lib-sets-kbf-drop-filters",
   definition: "the dropdowns naming where a set drops",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A zone id at zero or below names a special zone rather than a game zone.",
     },
   ],

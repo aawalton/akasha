@@ -6,17 +6,17 @@ export const useImportErrorToast = {
   slug: "use-import-error-toast",
   definition: "an import failure named in the query raised as a notice and then cleared",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failure this build does not know is raised in general words.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The query is cleared without adding to the history.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notice raised again under the same id replaces the notice showing.",
     },
   ],

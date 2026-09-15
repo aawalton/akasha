@@ -25,21 +25,21 @@ export const chessProgress = {
     { pageProperty: "boolean-property/active-drill", required: false, many: false },
     { pageProperty: "text-property/icon", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The prose written about a part of Alan's chess is its description.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page of category `motif` names the motif that page is about.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A motif is named by the Lichess theme the puzzle rows have.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The prose here is Alan's coach writing about Alan rather than akasha's own.",
     },
   ],

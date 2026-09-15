@@ -6,17 +6,17 @@ export const ruleTemplateTable = {
   slug: "rule-template-table",
   definition: "the 48 rule templates gathered from the two groups with them, in one order",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the rule-template pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A template's place in this table is the order the rules are tried in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A template moved to another place changes which rule an item matches first.",
     },
   ],

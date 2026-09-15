@@ -6,21 +6,21 @@ export const base64url = {
   slug: "base64url",
   definition: "the sixty-four characters a byte array is carried by, safe inside a URL",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Three bytes are written as four characters.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A last group short of three bytes is written without padding.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The last two characters of the alphabet are the hyphen and the underscore.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character outside the alphabet is read as zero.",
     },
   ],

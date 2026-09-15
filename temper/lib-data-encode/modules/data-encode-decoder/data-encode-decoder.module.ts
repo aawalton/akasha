@@ -6,25 +6,25 @@ export const dataEncodeDecoder = {
   slug: "data-encode-decoder",
   definition: "encoded lines read back into the Lua value the lines were written from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The lines are read as one run of characters across the line breaks.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A control character says which reader takes the characters following.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dictionary header is read before anything else where a header is there.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A global dictionary shorter than the header asks for raises an error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The decoder answers the value and the dictionary the value was read with.",
     },
   ],

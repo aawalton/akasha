@@ -8,13 +8,13 @@ export const errorApp = {
   definition: "the web app whose client met an error",
   maxLength: 32,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The apps that may report are named by the report shape.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One app opens every slug an error of that app is filed under.",
     },
   ],

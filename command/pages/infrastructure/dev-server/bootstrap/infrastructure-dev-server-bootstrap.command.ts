@@ -8,23 +8,23 @@ export const infrastructureDevServerBootstrap = {
   code: "ts",
   test: "ts",
   name: "bootstrap",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seq said as a word and after `--seq` is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The worktree the seq names is the one `WORKTREE_DIR` states where `WORKTREE_DIR` states one.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "Nothing here writes over an `.env.local` already there unless the command is told to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal after the `.env.local` was written says that file was written.",
     },
   ],

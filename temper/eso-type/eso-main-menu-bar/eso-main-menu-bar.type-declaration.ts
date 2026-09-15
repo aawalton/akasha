@@ -6,18 +6,18 @@ export const esoMainMenuBar = {
   slug: "eso-main-menu-bar",
   definition: "the bar the game keeps its main menu categories on, and the tables hanging off it",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An `Lmm` name describes a game table the game itself leaves unnamed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A method takes an explicit `this` parameter so the built Lua calls that method with a colon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A descriptor is spelled out at each use rather than named once.",
     },
   ],

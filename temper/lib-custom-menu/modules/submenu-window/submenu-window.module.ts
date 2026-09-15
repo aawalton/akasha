@@ -6,17 +6,17 @@ export const submenuWindow = {
   slug: "submenu-window",
   definition: "the floating window a sub-menu's rows are drawn in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sub-menu opens to the right of its parent row unless the screen ends first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sub-menu is drawn one level above the menu the sub-menu opened from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sub-menu closes on the second global mouse up outside its own window.",
     },
   ],

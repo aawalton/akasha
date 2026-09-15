@@ -7,22 +7,22 @@ export const addonMenuPanelOptions = {
   definition:
     "the lifecycle of one addon's options panel from widget creation through open and close",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Widgets are created twenty at a time with ten milliseconds between batches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A widget that fails to create is reported to chat rather than aborting the panel.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Two consecutive half-width widgets are reparented into a shared twin container.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Setting a handler on a panel prints a warning naming the callback to use instead.",
     },

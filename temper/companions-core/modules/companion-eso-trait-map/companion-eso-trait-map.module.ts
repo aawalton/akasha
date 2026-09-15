@@ -7,9 +7,9 @@ export const companionEsoTraitMap = {
   definition:
     "which numbered Elder Scrolls Online trait a companion trait answers to, by gear family",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each family of gear numbers the same nine traits differently.",
     },
   ],

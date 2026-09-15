@@ -7,9 +7,9 @@ export const libSetsCoreHelpers = {
   definition:
     "the small conversions shared across this library, from language choice to guarded chat input",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A table handed back to a caller is a shallow copy rather than the library's own table.",
     },

@@ -6,13 +6,13 @@ export const protectedUser = {
   slug: "protected-user",
   definition: "the guard stopping a path from acting as Alan's real account",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a deliberate read-only opt-in reaches the protected user.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path resolving to the protected user without one throws.",
     },
   ],

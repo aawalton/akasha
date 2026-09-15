@@ -6,9 +6,9 @@ export const markdownPageAt = {
   slug: "markdown-page-at",
   definition: "which repository a markdown page is in and where it is inside it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set of roots may name a repository the set of roots is under as its target.",
     },
   ],

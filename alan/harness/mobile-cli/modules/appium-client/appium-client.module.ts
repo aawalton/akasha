@@ -7,21 +7,21 @@ export const appiumClient = {
   definition: "a typed WebDriver client over an Appium server's HTTP endpoints",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "APPIUM_BASE points at the macbook rather than at localhost.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An element reference arrives under the key element-6066-11e4-a52e-4f735466cecf.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "dismissAlert swallows every error dismissAlert meets.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Creating a session is allowed six minutes.",
     },
   ],

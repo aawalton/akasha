@@ -6,9 +6,9 @@ export const worldAndGuildSkillLines = {
   slug: "world-and-guild-skill-lines",
   definition: "the six world skill lines and the six guild skill lines",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-line pages rather than by hand.",
     },
   ],

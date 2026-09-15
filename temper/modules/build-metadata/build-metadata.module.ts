@@ -6,13 +6,13 @@ export const buildMetadata = {
   slug: "build-metadata",
   definition: "a build's name, description and roles read off its state and put back on it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character's metadata and a companion's metadata are read by separate calls.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Metadata put back on a state leaves every other field of that state alone.",
     },
   ],

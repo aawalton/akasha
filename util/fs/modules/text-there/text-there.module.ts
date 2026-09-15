@@ -7,13 +7,13 @@ export const textThere = {
   definition: "the text a path holds, or nothing where the read threw for any reason",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A read that throws for any reason answers that no text is there.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path holding no file and a path that would not open are one answer.",
     },
   ],

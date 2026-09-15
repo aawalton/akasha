@@ -16,43 +16,43 @@ export const learnEverything = {
   description:
     "<!-- Where his model thins — the edge located by the probe that set D. Becomes next session's bites. -->",
   unit: "unit/words",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The outline is the whole of knowledge.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The files on disk are how far into the outline Ali has got.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node's mastery level is judged by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A node with children is scored at a rung of its own just as a node without children is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node's coverage is worked out from the children beneath the node.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic names the topic above rather than sitting in that topic's folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How far Alan has mastered each part of the map is kept with the part.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A topic's mastery level is written to that topic's page and never told to Alan in any form.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The answers Alan got right and the answers Alan got wrong are told to Alan.",
     },
   ],

@@ -6,21 +6,21 @@ export const temperCaptureWriter = {
   slug: "temper-capture-writer",
   definition: "the add-on side of a capture, where the game is asked to save what was gathered",
   parts: ["module/account-wide-vars", "module/capture-writer", "module/run-batched"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An add-on states the capture in a descriptor and nothing more.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capture is saved for the whole account rather than for one character.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This code is compiled to Lua and runs inside the game.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a saved file back.",
     },
   ],

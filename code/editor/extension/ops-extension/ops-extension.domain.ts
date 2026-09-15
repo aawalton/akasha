@@ -6,33 +6,33 @@ export const opsExtension = {
   slug: "ops-extension",
   definition: "the extension this repository gives the editor",
   parts: ["module/extension-entry"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The root manifest names this entry, so no manifest sits here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The editor reaches the repository root by a link and reads the root manifest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel and a command and a menu and a color are stated in the root manifest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The editor reads the manifest before any code here is loaded.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The extension host strips the types, so the entry reaches only erasable syntax.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel's code sits in the `extension` domain rather than here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The extension is identified as `vscode.akasha` wherever the editor keeps its state.",
     },

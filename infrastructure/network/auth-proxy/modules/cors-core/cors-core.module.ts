@@ -6,17 +6,17 @@ export const corsCore = {
   slug: "cors-core",
   definition: "an origin weighed against what is allowed, and the headers saying so",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An origin the list has or a pattern matches is allowed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer to an origin that is not allowed has no header of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer that varies by origin says so.",
     },
   ],

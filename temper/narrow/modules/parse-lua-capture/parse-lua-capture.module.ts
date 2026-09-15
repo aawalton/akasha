@@ -6,9 +6,9 @@ export const parseLuaCapture = {
   slug: "parse-lua-capture",
   definition: "the text a Lua pattern capture holds, or nothing where it caught none",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capture that matched nothing comes back as nil rather than as text.",
     },
   ],

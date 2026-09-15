@@ -6,13 +6,13 @@ export const searchCraftedFilter = {
   slug: "search-crafted-filter",
   definition: "whether an item was crafted by a player, narrowed by an include or exclude toggle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The crafted filter reads the crafted flag through the rule-editor flags checker.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

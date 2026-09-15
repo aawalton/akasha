@@ -6,9 +6,9 @@ export const inferenceSchema = {
   slug: "inference-schema",
   definition: "what a declared inference host holds, and what a host says it is holding",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here shapes a service, which a page type shapes instead.",
     },
   ],

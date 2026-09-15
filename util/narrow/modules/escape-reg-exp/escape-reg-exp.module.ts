@@ -7,13 +7,13 @@ export const escapeRegExp = {
   definition: "a literal escaped so a regular expression matches that literal and nothing else",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every character a pattern would act on is escaped rather than only some.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here builds a pattern.",
     },
   ],

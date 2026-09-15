@@ -18,15 +18,15 @@ export const directives = {
       maxCount: 10,
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One list has every directive.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
-        "A directive needing more aids than that directive may hold has design belonging in an invariant.",
+        "A directive needing more aids than that directive may hold has design belonging in an decision.",
     },
   ],
   types: "ts",

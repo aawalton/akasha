@@ -6,13 +6,13 @@ export const signInForm = {
   slug: "sign-in-form",
   definition: "the form a reader signs in through",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader signed in goes to the target the url asked for or to the root.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Only a host named here is a target the url may ask for.",
     },
   ],

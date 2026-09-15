@@ -6,9 +6,9 @@ export const languageExtensions = {
   slug: "language-extensions",
   definition: "the extensions the Lua compiler adds to TypeScript",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each name here is a name the compiler gives a meaning of its own at a call site.",
     },
   ],

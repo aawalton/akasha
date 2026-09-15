@@ -6,13 +6,13 @@ export const temperAddonLog = {
   slug: "temper-addon-log",
   definition: "the lines an add-on writes about its own working while the game runs",
   parts: ["module/addon-log", "module/library-logger"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Whether an add-on writes these lines is the add-on's own to say.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An add-on names itself to the log library once.",
     },
   ],

@@ -6,13 +6,13 @@ export const useDescendantPages = {
   slug: "use-descendant-pages",
   definition: "the pages of a page type and of every page type beneath it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page type is asked once, and each page beneath it comes back once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A gather that goes wrong carries its reason rather than an empty list of pages.",
     },
   ],

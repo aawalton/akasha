@@ -6,9 +6,9 @@ export const libSetsCoreApiWayshrineDlcSettype = {
   slug: "lib-sets-core-api-wayshrine-dlc-settype",
   definition: "a set's wayshrines, its zones, the DLC it arrived with and the type it is",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Each lookup this module offers is independent of every other lookup.",
     },
   ],

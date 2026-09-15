@@ -6,9 +6,9 @@ export const libSetsConstSettypes = {
   slug: "lib-sets-const-settypes",
   definition: "the fifteen kinds a gear set can be, numbered and named in eight languages",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each set type name is declared as a game global rather than a member of a table.",
     },
   ],

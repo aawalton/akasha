@@ -7,39 +7,39 @@ export const oneOf = {
   propertySlug: "one-of",
   definition: "an argument that answers for this one, where a call says at least one of them",
   targetPageType: "page-type/argument",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A call saying none of the arguments in a group is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One entry states a group, and the others need no matching statement.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Entries naming each other are one group rather than several pairs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One refusal names every argument in a group, however many entries state it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Which arguments answer for each other belongs to the command rather than to the argument.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This narrows a call rather than a property's value, so it is no one-of property.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A group where exactly one is said is this beside `not-with`, and nothing joins the two.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "One group may hold a pair `not-with` forbids and a pair it does not, so no group-wide word fits.",
     },

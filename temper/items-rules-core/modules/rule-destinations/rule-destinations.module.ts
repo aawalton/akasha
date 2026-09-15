@@ -6,9 +6,9 @@ export const ruleDestinations = {
   slug: "rule-destinations",
   definition: "where each rule sends what it matches, gathered as one map from rule to destination",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule sending its items nowhere is absent from this map.",
     },
   ],

@@ -12,17 +12,17 @@ export const claudeUsage = {
     "readout/weekly-usage",
   ],
   sortOrder: "place",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each reading here is drawn as a number rather than as a stoplight.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading here is the pool's rather than one account's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "How much of the allowance is spent and how long the allowance has left are two readings.",
     },

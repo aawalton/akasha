@@ -11,13 +11,13 @@ export const changePagePageProperty = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The passage answered is the lines the key's value sits on rather than the body.",
     },
     {
-      "invariantKind": "invariant-kind/departure",
+      "decisionKind": "decision-kind/departure",
       "statement": "A newline ending the value asked for is dropped.",
     },
   ],

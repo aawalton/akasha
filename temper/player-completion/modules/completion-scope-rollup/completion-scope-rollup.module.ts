@@ -7,17 +7,17 @@ export const completionScopeRollup = {
   definition: "what one scope of completion cards counts, and the three scopes added together",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One fold adds every scope.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card that starts over each day is left out of an account or character scope.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every companion card counts.",
     },
   ],

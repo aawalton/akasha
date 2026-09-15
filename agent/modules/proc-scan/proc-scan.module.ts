@@ -6,14 +6,14 @@ export const procScan = {
   slug: "proc-scan",
   definition: "every process under /proc with an AGENT_ID, with its command line and its parent",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A process names the agent that process acts under as well as the agent that process runs as.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A process naming no acting agent carries no acting agent rather than carrying its own.",
     },

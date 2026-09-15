@@ -6,13 +6,13 @@ export const guiSession = {
   slug: "gui-session",
   definition: "whether a macOS host has a login session launchd can put an agent in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A probe that emits no marker line reads as no session rather than as a session.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A marker with no exit code reads as no session.",
     },
   ],

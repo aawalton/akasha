@@ -8,13 +8,13 @@ export const scopes = {
   definition: "one permission the account's token was granted",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scope is written as the grant spells the scope.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scopes sit in the order the grant returned.",
     },
   ],

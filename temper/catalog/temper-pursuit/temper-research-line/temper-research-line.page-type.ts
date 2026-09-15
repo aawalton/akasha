@@ -12,9 +12,9 @@ export const temperResearchLine = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "page-property-entry/traits", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A research line hangs beneath the craft type the line is researched under.",
     },
   ],

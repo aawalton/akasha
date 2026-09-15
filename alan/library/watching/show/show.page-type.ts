@@ -16,17 +16,17 @@ export const show = {
     { pageProperty: "select-property/production-status", required: false, many: false },
     { pageProperty: "number-property/vote-average", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How many seasons and episodes a show has is counted from its seasons.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A show's day of release is the day its first episode aired.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A show's length is summed from its seasons rather than stated.",
     },
   ],

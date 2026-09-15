@@ -6,17 +6,17 @@ export const supervisorMcp = {
   slug: "supervisor-mcp",
   definition: "the mcp servers an agent is launched with, and the disabled ones cleared away",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dynamic import reaches the browser storage-state export.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tree holding no playwright boots.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A supervisor whose browser MCP cannot be seeded boots without offering that MCP.",
     },
   ],

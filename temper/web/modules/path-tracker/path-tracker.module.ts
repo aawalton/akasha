@@ -6,13 +6,13 @@ export const pathTracker = {
   slug: "path-tracker",
   definition: "the last page a reader was on, kept so signing in returns them to it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An auth page is not kept as the page a reader was last on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The path is tracked by a hook rather than by a component.",
     },
   ],

@@ -7,9 +7,9 @@ export const esoCurseIds = {
   propertySlug: "eso-curse-ids",
   definition: "the abilities The Elder Scrolls Online marks a curse by",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One list has every ability the game marks one curse by.",
     },
   ],

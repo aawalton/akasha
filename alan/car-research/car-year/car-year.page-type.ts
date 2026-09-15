@@ -16,9 +16,9 @@ export const carYear = {
     { pageProperty: "text-property/refresh-notes", required: true, many: false },
     { pageProperty: "relation-property/car-model", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A year names the model above that year and never the trims below.",
     },
   ],

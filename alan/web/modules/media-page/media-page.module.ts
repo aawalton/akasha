@@ -6,21 +6,21 @@ export const mediaPage = {
   slug: "media-page",
   definition: "a page with media, resolved from what a media address names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A media address whose page id is no uuid is refused ahead of any page read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "That refusal is cheap rather than the check on who may reach the media.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A media address carries a page id and no page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The id is looked for under the page types whose media config serves media.",
     },
   ],

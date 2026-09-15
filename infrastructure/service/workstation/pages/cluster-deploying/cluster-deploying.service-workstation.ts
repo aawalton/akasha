@@ -11,18 +11,18 @@ export const clusterDeploying = {
     jitterSeconds: 10,
     startTimeoutSeconds: 3900,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cluster deploy applies the manifests a page states, and nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A tick with every cluster service up to date puts nothing up, so that is no loop without end.",
     },

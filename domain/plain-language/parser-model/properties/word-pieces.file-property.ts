@@ -8,13 +8,13 @@ export const wordPieces = {
   definition: "the pieces a word is encoded against",
   extensions: ["json"],
   generated: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The trained model knows each piece by a number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pieces are kept outside the commit.",
     },
   ],

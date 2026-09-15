@@ -6,29 +6,29 @@ export const companionSkills07 = {
   slug: "companion-skills-07",
   definition: "one run of companion skills, in the order the whole table names them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the companion pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "These bytes are the last good build rather than the generator's output today.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The generator that wrote these bytes cannot run today.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Nothing in akasha reproduces these bytes.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These skills are one unbroken run of the whole table's order.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A skill moved between runs breaks every build hash saved.",
     },
   ],

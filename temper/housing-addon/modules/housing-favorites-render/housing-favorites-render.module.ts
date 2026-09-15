@@ -6,9 +6,9 @@ export const housingFavoritesRender = {
   slug: "housing-favorites-render",
   definition: "drawing one row for each favourite house in the house tab",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Rows are made once and reused as the list changes.",
     },
   ],

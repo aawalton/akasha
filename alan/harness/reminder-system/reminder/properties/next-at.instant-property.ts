@@ -6,14 +6,14 @@ export const nextAt = {
   slug: "next-at",
   propertySlug: "next-at",
   definition: "when a repeating thing next falls due",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The reminders that are due are read from here rather than worked out from the clock alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page with no such instant has never been armed.",
     },
   ],

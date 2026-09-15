@@ -6,13 +6,13 @@ export const learnEverythingCommand = {
   slug: "learn-everything-command",
   definition: "what an agent runs by name over how far Ali and Alan have got through the book",
   parts: [],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here reads the topic pages rather than any folder of books on disk.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic is named by its slug rather than by a path.",
     },
   ],

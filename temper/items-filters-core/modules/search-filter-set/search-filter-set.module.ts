@@ -6,18 +6,18 @@ export const searchFilterSet = {
   slug: "search-filter-set",
   definition: "the conjunction of the active filter values, run against one item's facts",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item survives only where every active filter matches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An active value whose filter id is absent from the index is skipped rather than failed.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

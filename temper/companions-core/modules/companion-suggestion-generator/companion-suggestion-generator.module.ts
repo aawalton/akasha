@@ -6,17 +6,17 @@ export const companionSuggestionGenerator = {
   slug: "companion-suggestion-generator",
   definition: "ranked single-change suggestions that raise a companion build score",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A suggestion is emitted only when the changed build outscores the base build.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "At most ten suggestions are returned.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Legendary quality is offered only for the two ring slots.",
     },
   ],

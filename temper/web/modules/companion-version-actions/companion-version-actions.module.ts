@@ -6,13 +6,13 @@ export const companionVersionActions = {
   slug: "companion-version-actions",
   definition: "the saved versions of one companion build, fetched from a browser",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer that does not narrow is refused rather than passed on part-read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failure comes back as a message rather than as a raised error.",
     },
   ],

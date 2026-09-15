@@ -6,29 +6,29 @@ export const filterBar = {
   slug: "filter-bar",
   definition: "the movable panel a player adds filter rows to while the inventory is open",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A filter row is drawn only once the player picks that filter from the add menu.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Removing a row clears the value that row was holding.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A removed row is hidden and reused rather than rebuilt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panel hides whenever the inventory scene hides.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panel reanchors each time the inventory scene shows.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decides whether an item passes a filter.",
     },
   ],

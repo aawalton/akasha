@@ -6,21 +6,21 @@ export const addonGlobalOwnership = {
   slug: "addon-global-ownership",
   definition: "which Lua globals a port's source writes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Assigning to a global table is a write of that name.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Reading a global table is no write.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A local bound at any depth to a global table is a global table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A write is read off the syntax rather than off a run.",
     },
   ],

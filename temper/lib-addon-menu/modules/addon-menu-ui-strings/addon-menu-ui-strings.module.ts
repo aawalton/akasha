@@ -6,17 +6,17 @@ export const addonMenuUiStrings = {
   slug: "addon-menu-ui-strings",
   definition: "the English display strings of the library, written out as one table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No translation table exists for any other language.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The author label is composed from a game string rather than written out.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Each string is a plain field on one exported table.",
     },
   ],

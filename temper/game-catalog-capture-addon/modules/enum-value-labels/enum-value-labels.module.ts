@@ -7,17 +7,17 @@ export const enumValueLabels = {
   definition:
     "the display text the game client gives each number of one enumeration, gathered under that number",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The caller names the string prefix its enumeration answers to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A number the client gives no text for is left out.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows which enumeration the caller handed in.",
     },
   ],

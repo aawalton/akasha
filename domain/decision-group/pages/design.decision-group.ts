@@ -4,7 +4,7 @@ export const design = {
   id: "01a04e11-9f97-7f4d-b81a-c47eb0d7d43a",
   type: "decision-group",
   slug: "design",
-  definition: "an invariant that holds now",
+  definition: "an decision that holds now",
   directives: [
     {
       directiveKind: "directive-kind/rule",

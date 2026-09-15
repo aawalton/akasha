@@ -6,9 +6,9 @@ export const clearTheWorld = {
   slug: "clear-the-world",
   definition: "a game about clearing landmines from the ground",
   parts: ["page-type/ctw-achievement", "page-type/ctw-team"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every player clears a single shared minefield.",
     },
   ],

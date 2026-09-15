@@ -6,9 +6,9 @@ export const companionQolCore = {
   slug: "companion-qol-core",
   definition: "summoning and dismissing the active companion",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which companion was dismissed is remembered so the same companion comes back.",
     },
   ],

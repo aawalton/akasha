@@ -6,9 +6,9 @@ export const completionProgress = {
   slug: "completion-progress",
   definition: "how far along one part of the game a player is",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A collectibles capture arriving keyed rather than listed is read as the values under those keys.",
     },

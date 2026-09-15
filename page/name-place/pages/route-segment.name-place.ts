@@ -6,17 +6,17 @@ export const routeSegment = {
   slug: "route-segment",
   definition: "a fixed part of a route's path",
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A segment is written as a slug is written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A segment naming a file the route serves has that file's extension.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The part before the dot is the name.",
     },
   ],

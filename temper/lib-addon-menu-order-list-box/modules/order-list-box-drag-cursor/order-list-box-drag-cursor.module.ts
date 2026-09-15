@@ -6,13 +6,13 @@ export const orderListBoxDragCursor = {
   slug: "order-list-box-drag-cursor",
   definition: "the floating label following the pointer and the handlers a drag switches on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The dragged row is shown as a label anchored to the pointer.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A drag ending anywhere off the list puts the row back.",
     },
   ],

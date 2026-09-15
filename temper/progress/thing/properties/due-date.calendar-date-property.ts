@@ -6,9 +6,9 @@ export const dueDate = {
   slug: "due-date",
   propertySlug: "due-date",
   definition: "the day a task is next wanted",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A due date rolls forward to the next round when the task is marked done.",
     },
   ],

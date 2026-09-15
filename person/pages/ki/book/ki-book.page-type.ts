@@ -13,13 +13,13 @@ export const kiBook = {
     { pageProperty: "text-property/publisher", required: false, many: false },
     { pageProperty: "number-property/original-publication-year", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book of Ki's names the one author credited first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book of Ki's names everyone else credited with writing the book.",
     },
   ],

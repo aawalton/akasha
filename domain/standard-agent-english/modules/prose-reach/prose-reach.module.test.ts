@@ -38,23 +38,23 @@ function reachOver(values: readonly Value[]): Reach {
 
 const DEFINITION = { pageTypeSlug: PROSE, slug: "definition", propertySlug: "definition" }
 
-const STATEMENT = { pageTypeSlug: PROSE, slug: "invariant-statement", propertySlug: "statement" }
+const STATEMENT = { pageTypeSlug: PROSE, slug: "decision-statement", propertySlug: "statement" }
 
 const NAME = { pageTypeSlug: "text-property", slug: "name", propertySlug: "name" }
 
 const KIND = {
   pageTypeSlug: "relation-property",
-  slug: "invariant-kind",
-  propertySlug: "invariant-kind",
+  slug: "decision-kind",
+  propertySlug: "decision-kind",
 }
 
-const INVARIANTS = {
+const DECISIONS = {
   pageTypeSlug: RECORD,
-  slug: "invariants",
-  propertySlug: "invariants",
+  slug: "decisions",
+  propertySlug: "decisions",
   properties: [
-    { pagePropertySlug: "relation-property/invariant-kind", required: true, many: false },
-    { pagePropertySlug: `${PROSE}/invariant-statement`, required: true, many: false },
+    { pagePropertySlug: "relation-property/decision-kind", required: true, many: false },
+    { pagePropertySlug: `${PROSE}/decision-statement`, required: true, many: false },
   ],
 }
 
@@ -69,7 +69,7 @@ function typed(slug: string, properties: readonly Value[], above: readonly strin
   return { pageTypeSlug: "page-type", slug, extends: above, properties }
 }
 
-const HELD: readonly Value[] = [DEFINITION, STATEMENT, NAME, KIND, INVARIANTS, NESTED]
+const HELD: readonly Value[] = [DEFINITION, STATEMENT, NAME, KIND, DECISIONS, NESTED]
 
 function proseOn(values: readonly Value[], slug: string) {
   return proseFrom(slug, reachOver([...HELD, ...values]))
@@ -91,16 +91,16 @@ test("a property that is no prose is not reached", () => {
 
 test("a prose field of a record is reached under the record's key", () => {
   const one = typed("one", [
-    { pagePropertySlug: "record-property/invariants", required: false, many: true, maxCount: null },
+    { pagePropertySlug: "record-property/decisions", required: false, many: true, maxCount: null },
   ])
-  expect(proseOn([one], "one")).toEqual([{ key: "invariants", under: ["statement"] }])
+  expect(proseOn([one], "one")).toEqual([{ key: "decisions", under: ["statement"] }])
 })
 
 test("a field of a record that is no prose is not reached", () => {
   const one = typed("one", [
-    { pagePropertySlug: "record-property/invariants", required: false, many: true, maxCount: null },
+    { pagePropertySlug: "record-property/decisions", required: false, many: true, maxCount: null },
   ])
-  expect(proseOn([one], "one").some((at) => at.under.includes("invariantKind"))).toBe(false)
+  expect(proseOn([one], "one").some((at) => at.under.includes("decisionKind"))).toBe(false)
 })
 
 test("a prose property the type above states is reached", () => {

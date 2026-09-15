@@ -6,13 +6,13 @@ export const canSellFilter = {
   slug: "can-sell-filter",
   definition: "the Can Sell to Merchant condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `canSell` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule whose action is not `sell` or `fence-sell` is not offered this condition.",
     },
   ],

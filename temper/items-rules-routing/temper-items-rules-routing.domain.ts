@@ -23,13 +23,13 @@ export const temperItemsRulesRouting = {
     "test-fixture/inventory-management-plan-property-fixtures",
     "test-fixture/inventory-management-plan-test-utils",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plan is built from captured holdings rather than from the game.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

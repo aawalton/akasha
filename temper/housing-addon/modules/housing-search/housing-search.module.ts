@@ -6,13 +6,13 @@ export const housingSearch = {
   slug: "housing-search",
   definition: "matching what a player types against the names the add-on has seen",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Matching begins once the typed text is long enough.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The number of results shown at once is capped.",
     },
   ],

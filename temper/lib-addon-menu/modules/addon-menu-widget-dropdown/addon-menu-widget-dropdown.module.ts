@@ -6,21 +6,21 @@ export const addonMenuWidgetDropdown = {
   slug: "addon-menu-widget-dropdown",
   definition: "the combo box widget, single-select or multi-select, over a fixed list of choices",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Sorting is done in a pre-hook on UpdateItems rather than by the combo box.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Choices and choicesValues must be the same length.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A right click on a multi-select box offers select-all and clear-all menu items.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Tooltip hooks are installed only when the widget data supplies tooltips.",
     },
   ],

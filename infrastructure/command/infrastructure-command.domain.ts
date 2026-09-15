@@ -6,17 +6,17 @@ export const infrastructureCommand = {
   slug: "infrastructure-command",
   definition: "what an agent runs by name over what the system runs on",
   parts: [],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The Talos code a command here works over is in akasha.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The RBAC rules a command here reads are in akasha.",
     },
   ],

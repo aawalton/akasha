@@ -6,13 +6,13 @@ export const leadsReporting = {
   slug: "leads-reporting",
   definition: "the lead last found, and the report of a new location for it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A location is sent to an external site rather than kept here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The player consents to the browser opening before anything is sent.",
     },
   ],

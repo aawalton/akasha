@@ -6,25 +6,25 @@ export const performance = {
   slug: "performance",
   definition: "code that measures how fast something is",
   extends: ["page-type/module"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A performance is run by naming that performance rather than by a check.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A performance run reports the measurement rather than refusing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A performance's test judges that performance's code rather than measuring.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One performance is run at a time.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No ceiling on processor time bounds a performance's run.",
     },
   ],

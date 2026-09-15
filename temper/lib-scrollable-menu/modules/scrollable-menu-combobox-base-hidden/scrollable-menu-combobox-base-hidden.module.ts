@@ -6,21 +6,21 @@ export const scrollableMenuComboboxBaseHidden = {
   slug: "scrollable-menu-combobox-base-hidden",
   definition: "the response to a global mouse up while a menu is open or closed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A preventer variable can swallow one global mouse up entirely.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The preventer accepts either a boolean or a specific mouse button index.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A click inside the owning dropdown never closes that dropdown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A closed menu with a visible container opens on the mouse up instead.",
     },
   ],

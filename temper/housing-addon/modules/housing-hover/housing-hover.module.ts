@@ -6,9 +6,9 @@ export const housingHover = {
   slug: "housing-hover",
   definition: "what a housing row shows while the pointer is over it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A row under the pointer is marked by a backdrop colour rather than by changed text.",
     },

@@ -6,26 +6,26 @@ export const copyLongtail = {
   slug: "copy-longtail",
   definition: "one run bringing the slower store to the units the monthly windows say",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The hasher is proved on bytes of a known hash before any unit is copied.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A unit is complete only once a marker naming the unit's contents is written into that unit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A unit already complete is passed over rather than copied again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run past its share of the disk reports that even where the copies went well.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Importing the module starts nothing.",
     },
   ],

@@ -13,18 +13,18 @@ export const personaWallpaper = {
     { pageProperty: "text-property/eso-day", required: false, many: false },
     { pageProperty: "text-property/value-slug", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A wallpaper is matched by the persona and the rung together.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A wallpaper's slug joins the persona to the rung and to the moment of the drawing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A description here is the persona's own words about her picture.",
     },
   ],

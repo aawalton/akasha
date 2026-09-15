@@ -22,21 +22,21 @@ export const puzzles = {
     { pageProperty: "text-property/opening-tags", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/solved", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A puzzle is a row here rather than a page of its own.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A row nobody has answered has no answer.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A row is taken from the set's source rather than composed here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row is keyed on the id its source gives the puzzle.",
     },
   ],

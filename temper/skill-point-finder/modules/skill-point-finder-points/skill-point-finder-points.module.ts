@@ -6,9 +6,9 @@ export const skillPointFinderPoints = {
   slug: "skill-point-finder-points",
   definition: "how many skill points a character has earned against how many exist",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A count is recomputed from the points the game reports rather than accumulated.",
     },
   ],

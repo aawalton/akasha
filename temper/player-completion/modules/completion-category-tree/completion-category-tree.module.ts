@@ -6,13 +6,13 @@ export const completionCategoryTree = {
   slug: "completion-category-tree",
   definition: "every card the completion window shows, under the tab and the parent that has it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the completion-category pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "The achievement children are hung by `completion-category-tree-composed` rather than here.",
     },

@@ -7,17 +7,17 @@ export const lowerUuid = {
   definition: "a name format joining hex groups with hyphens, all letters lower",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The one shape a uuid is written in is 8-4-4-4-12 hex digits.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Which version or variant a uuid has is not judged here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "`id-is-a-uuid-version-7` judges which version or variant a uuid has.",
     },
   ],

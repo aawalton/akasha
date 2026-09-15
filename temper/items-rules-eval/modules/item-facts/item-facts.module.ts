@@ -6,21 +6,21 @@ export const itemFacts = {
   slug: "item-facts",
   definition: "the per-item signals a compiled inventory rule is evaluated against",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An item facts record requires itemId and itemName and itemLink and nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An absent field means the signal is unknown rather than meaning false.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The category chain arrives already flattened into an array of node ids.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here describes a character or a rule or the wider inventory.",
     },
   ],

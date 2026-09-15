@@ -6,22 +6,22 @@ export const scrollableMenuComboboxBaseData = {
   slug: "scrollable-menu-combobox-base-data",
   definition: "the normalisation of a raw entry table before it enters the combobox",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The original entry is shallow-copied into an _LSM subtable on first touch.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Entry fields given as functions become callbacks re-evaluated on every refresh.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Additional data keys are copied onto the entry only where the entry lacks those keys.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Header font and divider name are forced by a per-entry-type post-setup function.",
     },
   ],

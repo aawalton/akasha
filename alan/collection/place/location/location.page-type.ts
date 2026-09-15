@@ -45,18 +45,18 @@ export const location = {
     { pageProperty: "text-property/location-source", required: false, many: false },
     { pageProperty: "boolean-property/visited", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Where a place came from is stated by its source rather than by the page type that place is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A place kept from a map export has the place id that export gave that place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A place on an itinerary has the hours that place is scheduled between.",
     },
   ],

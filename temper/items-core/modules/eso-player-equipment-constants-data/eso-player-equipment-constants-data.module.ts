@@ -6,13 +6,13 @@ export const esoPlayerEquipmentConstantsData = {
   slug: "eso-player-equipment-constants-data",
   definition: "the numbers the game gives player weapon types, armor weights and qualities",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "These numbers were written out from the player equipment constant pages.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "No vocabulary in akasha names every weapon type and armor weight yet.",
     },
   ],

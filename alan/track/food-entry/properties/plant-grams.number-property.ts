@@ -7,17 +7,17 @@ export const plantGrams = {
   propertySlug: "plant-grams",
   definition: "the grams of whole plant one thing eaten contributes",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plant processed into something else stops counting.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Muesli counts and bread does not.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plant grams figure is captured by judgment.",
     },
   ],

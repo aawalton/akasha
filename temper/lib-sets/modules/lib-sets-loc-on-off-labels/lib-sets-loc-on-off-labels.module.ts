@@ -6,9 +6,9 @@ export const libSetsLocOnOffLabels = {
   slug: "lib-sets-loc-on-off-labels",
   definition: "the game's own ON and OFF words, upper-cased",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keys are the booleans spelled as text rather than booleans.",
     },
   ],

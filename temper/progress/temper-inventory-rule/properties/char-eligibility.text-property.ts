@@ -8,21 +8,21 @@ export const charEligibility = {
   definition: "which characters one leg of a destination chain will send an item to",
   maxLength: 500,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A leg stating nothing here sends to every character the leg reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A leg's test of a character is no test an item condition makes.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The test is written here as text whatever shape the test has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A character test is a field of its own as an item test is.",
     },
   ],

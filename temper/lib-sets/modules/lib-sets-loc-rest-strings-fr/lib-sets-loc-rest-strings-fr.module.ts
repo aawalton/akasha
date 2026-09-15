@@ -6,9 +6,9 @@ export const libSetsLocRestStringsFr = {
   slug: "lib-sets-loc-rest-strings-fr",
   definition: "the library's own interface text in French",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text absent here is taken from the English table.",
     },
   ],

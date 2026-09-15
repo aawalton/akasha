@@ -7,9 +7,9 @@ export const lockState = {
   propertySlug: "lock-state",
   definition: "whether a card has been opened yet",
   values: ["locked", "unlocked"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A locked card is titled by three question marks rather than by its persona.",
     },
   ],

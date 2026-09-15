@@ -6,9 +6,9 @@ export const asyncSavedVars = {
   slug: "async-saved-vars",
   definition: "the stall threshold the game keeps for this library between sessions",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An absent saved value takes the default threshold.",
     },
   ],

@@ -19,35 +19,35 @@ export const provisioning = {
     "shell-script/setup-symlinks",
     "shell-script/wallpaper-black",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file a machine is set up with sits in akasha and is put in place from here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where a file goes is stated by the page rather than by the file's name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A script that sets a machine up names the files that script places rather than holding those files.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file placed by a link under the home is linked there by every landing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A move of the folder such a file sits in is caught by the landing that moves it.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "The scripts still have their table of files to place rather than reading the table from the pages.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A file placed with rights the landing has not is placed by the script alone.",
     },
   ],

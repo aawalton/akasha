@@ -7,9 +7,9 @@ export const lineSet = {
   propertySlug: "line-set",
   definition: "the lines an experiment plays, each with an id and a predicted register",
   extensions: ["json"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A grade is joined back onto a line's id.",
     },
   ],

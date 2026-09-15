@@ -7,13 +7,13 @@ export const drawnAs = {
   propertySlug: "drawn-as",
   definition: "whether a reading is drawn as a stoplight or as a bare number",
   values: ["stoplight", "number"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A readout stating nothing is drawn as a stoplight.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading drawn as a number is drawn without a rung behind the figure.",
     },
   ],

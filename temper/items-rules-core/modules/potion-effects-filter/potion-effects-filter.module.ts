@@ -6,14 +6,14 @@ export const potionEffectsFilter = {
   slug: "potion-effects-filter",
   definition: "the Potion Effects condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This filter reads and writes the conditions `potionEffects` and `potionEffectsMode`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category outside `potions` is offered no Potion Effects condition.",
     },
   ],

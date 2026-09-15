@@ -7,13 +7,13 @@ export const completionCompanionQuestActionability = {
   definition: "the next companion quest a player can take right now",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Companions are gone through in the order of their names.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A quest asking more rapport than a companion holds is not yet takeable.",
     },
   ],

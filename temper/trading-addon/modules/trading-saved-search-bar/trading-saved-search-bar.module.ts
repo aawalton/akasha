@@ -6,9 +6,9 @@ export const tradingSavedSearchBar = {
   slug: "trading-saved-search-bar",
   definition: "the bar a player picks a named search from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The active search is marked in the bar rather than named elsewhere.",
     },
   ],

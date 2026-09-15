@@ -8,17 +8,17 @@ export const difficultyLevel = {
   definition: "how hard what Alan was doing was on him",
   maxLength: 3,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A difficulty level reads as a number and is written as text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A difficulty level does not carry forward from the prior stretch of time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stretch matching no session activity is refused rather than rated zero.",
     },
   ],

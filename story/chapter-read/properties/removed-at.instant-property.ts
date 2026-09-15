@@ -6,9 +6,9 @@ export const removedAt = {
   slug: "removed-at",
   propertySlug: "removed-at",
   definition: "when the source a collection was read from took the collection down",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The pages akasha has of a collection are kept after the source takes the collection down.",
     },

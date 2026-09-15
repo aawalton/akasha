@@ -6,9 +6,9 @@ export const housingTabs = {
   slug: "housing-tabs",
   definition: "the four tabs across the top of the housing window",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which tab opens first is a player setting.",
     },
   ],

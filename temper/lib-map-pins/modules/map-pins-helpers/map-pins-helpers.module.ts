@@ -6,9 +6,9 @@ export const mapPinsHelpers = {
   slug: "map-pins-helpers",
   definition: "the pin type and map filter group lookups the rest of the library reads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pin type named by a string is looked up in the game's global table.",
     },
   ],

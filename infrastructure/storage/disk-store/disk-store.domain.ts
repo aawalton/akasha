@@ -5,13 +5,13 @@ export const diskStore = {
   type: "page-type/domain",
   slug: "disk-store",
   definition: "a node-pinned filesystem other stores rest on",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A store no other store rests on is a disk store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A volume is not backed up by default.",
     },
   ],

@@ -5,13 +5,13 @@ export const statusBar = {
   type: "page-type/domain",
   slug: "status-bar",
   definition: "a strip of readings Alan keeps in view while he works",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each item on the strip has its own source.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The status bar counts nothing.",
     },
   ],

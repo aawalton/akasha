@@ -30,26 +30,26 @@ export const temperSale = {
     { pageProperty: "text-property/buyer-name", required: false, many: false },
     { pageProperty: "instant-property/sold-at", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sale is under the account the seller signed in as.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A sale's slug is the sale id in lower case with each run of other characters a dash.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sale a capture states no price or no tax for reads that value as zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sale carrying no sold-at time is kept with no sold-at value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A title is the name of the item that sold.",
     },
   ],

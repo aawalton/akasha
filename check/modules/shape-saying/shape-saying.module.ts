@@ -6,21 +6,21 @@ export const shapeSaying = {
   slug: "shape-saying",
   definition: "the files a shape means, said by the names they carry inside the folder it judges",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Files are said in the order the shape found the files.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape may cap how many files that shape says.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The files left over are counted rather than dropped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file arrives as a path or as a page the index knows.",
     },
   ],

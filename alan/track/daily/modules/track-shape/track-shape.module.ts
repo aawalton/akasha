@@ -6,17 +6,17 @@ export const trackShape = {
   slug: "track-shape",
   definition: "the names a day page and its two entry sidecars are filed under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day's two jsonl sidecars become entry properties beside the day page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day's page type key names the page type this module states.",
     },
   ],

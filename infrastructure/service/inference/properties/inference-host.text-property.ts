@@ -8,13 +8,13 @@ export const inferenceHost = {
   definition: "the machine outside the cluster a service runs on",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The machines a service can run on are no pages.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a machine.",
     },
   ],

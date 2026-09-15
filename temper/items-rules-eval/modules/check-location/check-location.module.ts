@@ -7,17 +7,17 @@ export const checkLocation = {
   definition:
     "the condition check over an item's inventory location against a rule's allowed locations",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty location list on the rule skips the location check.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with no known location makes the condition indeterminate.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The failing item's location is reported as the failure detail.",
     },
   ],

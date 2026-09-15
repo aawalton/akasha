@@ -11,27 +11,27 @@ export const pythonModule = {
     { pageProperty: "code-file-property/python", required: true, many: false },
     { pageProperty: "build-folder-property/bytecode-directory", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A Python module's code is in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Python runs where a Python runtime sits rather than where TypeScript runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A Python module reaches its siblings by the name a sibling has where that module runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A carry taking a Python module to where that module runs states the name that module lands under.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing in akasha imports a Python module.",
     },
   ],

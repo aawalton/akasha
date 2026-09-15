@@ -6,9 +6,9 @@ export const leadsUndaunted = {
   slug: "leads-undaunted",
   definition: "the undaunted pledge dungeons set for today",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pledge tracker is optional and its absence is not an error.",
     },
   ],

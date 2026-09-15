@@ -6,9 +6,9 @@ export const tradingBrowseWindowRows = {
   slug: "trading-browse-window-rows",
   definition: "the controls one row of the browse window is drawn from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Row heights and widths are fixed numbers rather than measured from content.",
     },
   ],

@@ -8,13 +8,13 @@ export const lowerCamelCase = {
     "a name format joining words with nothing between, every word but the first starting capital",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A capital opens a word and a word may be one letter.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Whether an acronym is one word or many words cannot be read off the name.",
     },
   ],

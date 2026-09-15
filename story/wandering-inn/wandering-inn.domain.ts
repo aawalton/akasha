@@ -13,17 +13,17 @@ export const wanderingInn = {
     "module/syncing",
     "service-workstation/wandering-inn-sync",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter behind patron early access is known by the chapter's title.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes to the site.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the page store over the network.",
     },
   ],

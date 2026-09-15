@@ -6,13 +6,13 @@ export const agentChannel = {
   slug: "agent-channel",
   definition: "which persona's channel a set of recipient headers names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The header values are joined and read as one lowercase string.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first channel address that string has names the handle.",
     },
   ],

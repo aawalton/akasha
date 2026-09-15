@@ -6,9 +6,9 @@ export const zoneTypes = {
   slug: "zone-types",
   definition: "the shapes zone data, the library object and the slash-command library take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The slash-command library is shaped here rather than in the shared game declarations.",
     },

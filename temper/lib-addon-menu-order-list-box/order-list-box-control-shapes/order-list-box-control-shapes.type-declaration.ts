@@ -7,17 +7,17 @@ export const orderListBoxControlShapes = {
   definition:
     "the control and dialog shapes this widget builds that the shared game types leave out",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name here is the game's own or another library's and is never renamed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name the shared game types already declare is left out of this file.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

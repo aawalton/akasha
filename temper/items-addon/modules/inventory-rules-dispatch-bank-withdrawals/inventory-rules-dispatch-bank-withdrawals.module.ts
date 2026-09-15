@@ -6,13 +6,13 @@ export const inventoryRulesDispatchBankWithdrawals = {
   slug: "inventory-rules-dispatch-bank-withdrawals",
   definition: "withdrawing items from the bank by rule, for this character and for others",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every slot of one storage sweep shares the claims.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second copy of a claimable item goes to a second character.",
     },
   ],

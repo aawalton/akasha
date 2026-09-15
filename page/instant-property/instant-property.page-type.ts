@@ -6,13 +6,13 @@ export const instantProperty = {
   slug: "instant-property",
   definition: "a page property with a single point in time",
   extends: ["page-type/page-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An instant is written as ISO 8601 in UTC to the millisecond and closes with `Z`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An instant property's slug closes with `-at`.",
     },
   ],

@@ -6,17 +6,17 @@ export const told = {
   slug: "told",
   propertySlug: "told",
   definition: "whether a persona is told a service is broken",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating nothing is told.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating false is told to nobody, the persona stated instead included.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service stating false is looked at and left a verdict as any service is.",
     },
   ],

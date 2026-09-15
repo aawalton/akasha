@@ -6,17 +6,17 @@ export const companionRotationState = {
   slug: "companion-rotation-state",
   definition: "the starting state a companion rotation is simulated from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skill's heal type is cached across calls in a module-level map.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An ultimate with no stated cost is treated as costing one hundred.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Ground-targeted healing counts fully toward self healing and toward ally healing.",
     },

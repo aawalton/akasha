@@ -6,9 +6,9 @@ export const tradingGlobals = {
   slug: "trading-globals",
   definition: "the names the add-on hangs off the game's global table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the names an outside caller needs are reachable.",
     },
   ],

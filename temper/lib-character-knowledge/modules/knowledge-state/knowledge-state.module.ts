@@ -6,9 +6,9 @@ export const knowledgeState = {
   slug: "knowledge-state",
   definition: "the two tables the library keeps everything else on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library hangs its work off the two tables this module has.",
     },
   ],

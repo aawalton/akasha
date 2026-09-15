@@ -6,9 +6,9 @@ export const tradingSellHelper = {
   slug: "trading-sell-helper",
   definition: "offering a price when a player lists an item for sale",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A suggested price comes from the trade centre where that trade centre has a price.",
     },

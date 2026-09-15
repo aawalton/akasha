@@ -6,25 +6,25 @@ export const requestContext = {
   slug: "request-context",
   definition: "the client and the user a request is carried out as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bearer token is read before the session cookie, and settles the request alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A request carrying no bearer token falls back to its session cookie.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bearer token nobody answers to leaves the request unauthenticated.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A client scoped to a bearer token reaches only what that token reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The headers a session refresh asks for are carried on to the answer.",
     },
   ],

@@ -6,21 +6,21 @@ export const moduleDirectory = {
   slug: "module-directory",
   definition: "the folder a module's own file sits in, as the runtime running it says",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module says where that module is by handing in what its runtime states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder a runtime states outright is taken before any url is read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A runtime stating neither a folder nor a url leaves the folder unknown.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the disk.",
     },
   ],

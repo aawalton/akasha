@@ -6,21 +6,21 @@ export const chapterAlerts = {
   slug: "chapter-alerts",
   definition: "the sound and the notice a story's newest chapter raises for the person reading it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story the person does not follow sounds nothing and asks for no permission.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first frontier seen is recorded rather than raised as a new chapter.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An alert raises only where the newest chapter differs from the one last seen.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The audio waits for a pointer or a key, because a browser starts it suspended.",
     },
   ],

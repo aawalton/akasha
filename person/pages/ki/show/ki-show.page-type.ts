@@ -6,13 +6,13 @@ export const kiShow = {
   slug: "ki-show",
   definition: "a story Ki watches in episodes over seasons",
   extends: ["page-type/ki-collection-template"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A show of Ki's names the seasons that show has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A show of Ki's names the franchise that show belongs to.",
     },
   ],

@@ -6,25 +6,25 @@ export const addonJson = {
   slug: "addon-json",
   definition: "the shape of the `addon.json` an addon in this repository states itself in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon states the name the game loads that addon under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon states the version of that addon as a number the game compares.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon states the saved variables the game keeps for that addon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon states the addons the game loads before that addon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key nothing here names is carried through rather than dropped.",
     },
   ],

@@ -7,13 +7,13 @@ export const writing = {
   propertySlug: "writing",
   definition: "the markdown a page carries, however long the markdown runs",
   extensions: ["md"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Writing is in a file beside its page rather than in the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A document is kept here as the markdown the document was written in.",
     },
   ],

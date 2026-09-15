@@ -6,17 +6,17 @@ export const scrollableMenuLang = {
   slug: "scrollable-menu-lang",
   definition: "the English strings the library registers with the game string table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Strings are registered at load through ZO_CreateStringId.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Translations for other client languages are not present.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Each string is versioned through SafeAddVersion at version 1.",
     },
   ],

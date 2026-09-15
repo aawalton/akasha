@@ -6,13 +6,13 @@ export const mapPingLib = {
   slug: "map-ping-lib",
   definition: "the library object every caller of map pings reaches",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each event registration takes a namespace no earlier registration used.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This module needs LibDebugLogger loaded first.",
     },
   ],

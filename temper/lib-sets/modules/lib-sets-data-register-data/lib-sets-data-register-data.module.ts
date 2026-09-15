@@ -6,13 +6,13 @@ export const libSetsDataRegisterData = {
   slug: "lib-sets-data-register-data",
   definition: "the generated set tables placed onto the library global",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Data for sets of a newer API version is stripped when the live API is older.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The stripping is handed to the library as a function rather than run at load.",
     },
   ],

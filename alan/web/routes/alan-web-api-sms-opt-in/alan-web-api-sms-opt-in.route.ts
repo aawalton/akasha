@@ -7,25 +7,25 @@ export const alanWebApiSmsOptIn = {
   definition: "the written consent a visitor gives to be texted",
   code: "ts",
   urlPath: "api/sms/opt-in",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A visitor whose consent was not written down is told so rather than told yes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body carrying the hidden website field is answered ok and nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A number is taken only as ten US digits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A consent given here is written down as an `sms-consent` page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pages system service places that page and commits it into akasha.",
     },
   ],

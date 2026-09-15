@@ -61,14 +61,14 @@ test("a page naming the arguments it takes has a surface", () => {
   })
 })
 
-test("the invariants a page states are read as their statements alone", () => {
+test("the decisions a page states are read as their statements alone", () => {
   const page = {
-    invariants: [
+    decisions: [
       {
-        invariantKind: "departure",
+        decisionKind: "departure",
         statement: "Unlocking a rule already unlocked changes nothing.",
       },
-      { invariantKind: "absence", statement: "Nothing here writes." },
+      { decisionKind: "absence", statement: "Nothing here writes." },
     ],
   }
   expect(statementsIn(page, NONE)).toEqual({
@@ -77,11 +77,11 @@ test("the invariants a page states are read as their statements alone", () => {
   })
 })
 
-test("an invariant of a kind that does not hold yet is parted from the rest", () => {
+test("an decision of a kind that does not hold yet is parted from the rest", () => {
   const page = {
-    invariants: [
-      { invariantKind: "departure", statement: "Nothing here writes." },
-      { invariantKind: "gap", statement: CENSUS },
+    decisions: [
+      { decisionKind: "departure", statement: "Nothing here writes." },
+      { decisionKind: "gap", statement: CENSUS },
     ],
   }
   expect(statementsIn(page, GAP)).toEqual({
@@ -92,23 +92,23 @@ test("an invariant of a kind that does not hold yet is parted from the rest", ()
 
 test("an entry stating no statement is read as nothing", () => {
   expect(
-    statementsIn({ invariants: [{ invariantKind: "departure" }, "held", null, 1] }, NONE)
+    statementsIn({ decisions: [{ decisionKind: "departure" }, "held", null, 1] }, NONE)
   ).toEqual({ holds: [], notYet: [] })
-  expect(statementsIn({ invariants: "held" }, NONE)).toEqual({ holds: [], notYet: [] })
+  expect(statementsIn({ decisions: "held" }, NONE)).toEqual({ holds: [], notYet: [] })
   expect(statementsIn({}, NONE)).toEqual({ holds: [], notYet: [] })
 })
 
-test("no invariant of its own is read as something a command takes", () => {
+test("no decision of its own is read as something a command takes", () => {
   expect(
     surfaceOf(
-      { invariants: [{ invariantKind: "absence", statement: "Nothing writes." }] },
+      { decisions: [{ decisionKind: "absence", statement: "Nothing writes." }] },
       NONE,
       UNNAMED
     )
   ).toEqual({ taking: [], holds: ["Nothing writes."], notYet: [] })
 })
 
-test("the invariants are written under the arguments", () => {
+test("the decisions are written under the arguments", () => {
   const said = helpOf(
     "akasha held",
     null,
@@ -118,7 +118,7 @@ test("the invariants are written under the arguments", () => {
   expect(said).toEqual(["akasha held", "", "  <id>  the id", "", "Nothing here writes."])
 })
 
-test("an invariant that does not hold yet is written under a heading saying so", () => {
+test("an decision that does not hold yet is written under a heading saying so", () => {
   const said = helpOf(
     "akasha held",
     null,
@@ -141,7 +141,7 @@ test("an invariant that does not hold yet is written under a heading saying so",
   ])
 })
 
-test("a page whose every invariant does not hold yet is written with the heading alone", () => {
+test("a page whose every decision does not hold yet is written with the heading alone", () => {
   const said = helpOf("akasha held", null, { taking: [], holds: [], notYet: [CENSUS] }, [])
   expect(said).toEqual(["akasha held", "", "", "Not yet true:", CENSUS])
 })
@@ -171,7 +171,7 @@ test("a page stating no directive is read as no rule", () => {
   expect(rulesIn({ directives: "held" })).toEqual([])
 })
 
-test("the rules are written under the invariants, each after a blank line", () => {
+test("the rules are written under the decisions, each after a blank line", () => {
   const said = helpOf("akasha held", null, { taking: [], holds: [], notYet: [] }, ["one", "two"])
   expect(said).toEqual(["akasha held", "", "", "one", "", "two"])
 })

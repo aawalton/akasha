@@ -7,26 +7,26 @@ export const chapterTurns = {
   definition: "the chapters of a story somebody else wrote, shaped into the turns a channel draws",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter stating no position sorts after every chapter that states one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter counts as read where that chapter states the moment it was completed.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "A turn carries no prose, because a chapter's prose is read on that chapter's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The span holds the first chapter that has not been read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story with every chapter read has its last chapter for a frontier.",
     },
   ],

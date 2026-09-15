@@ -6,22 +6,22 @@ export const dataminingQuestMiner = {
   slug: "datamining-quest-miner",
   definition: "what the game says about every quest, taken one quest id at a time",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Quest ids are mined in batches rather than in one run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quest id the game names nothing for is counted as a miss.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quest has the name of the zone the quest sits in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A generation count makes stopped mining drop its own queued batch.",
     },
   ],

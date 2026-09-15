@@ -6,17 +6,17 @@ export const catalogApiTest = {
   slug: "catalog-api-test",
   definition: "the one call per catalog that says whether the game answers it at all",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A game call is made inside a protected call so a missing name is caught.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer of zero is a failure.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every group is tried before anything is printed.",
     },
   ],

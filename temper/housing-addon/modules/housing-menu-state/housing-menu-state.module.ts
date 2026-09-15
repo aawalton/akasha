@@ -6,9 +6,9 @@ export const housingMenuState = {
   slug: "housing-menu-state",
   definition: "the settings-panel holder the port-to-friend part registers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panel is described before the settings library is there to read the panel.",
     },
   ],

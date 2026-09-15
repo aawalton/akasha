@@ -6,9 +6,9 @@ export const libSetsTipSettingsState = {
   slug: "lib-sets-tip-settings-state",
   definition: "the settings menu handle and the flag saying it has been built",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The built flag is kept per input mode in a two-key map.",
     },
   ],

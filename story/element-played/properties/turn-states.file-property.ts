@@ -7,17 +7,17 @@ export const turnStates = {
   propertySlug: "turn-states",
   definition: "what an element was at, turn by turn",
   extensions: ["jsonl"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One row is one json object on one line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row states the same five faculties the element's page states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row's position is the position of the turn the row is the state at.",
     },
   ],

@@ -5,21 +5,21 @@ export const elapsed = {
   type: "page-type/cpu-kind",
   slug: "elapsed",
   definition: "time that went by while a program ran",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Elapsed time counts while a program waits as well as while a program runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Elapsed time under burned time means the work ran on more than one processor.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How long a person waited is asked in elapsed time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A ceiling on elapsed time bounds waiting rather than bounding processor time.",
     },
   ],

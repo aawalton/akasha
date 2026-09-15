@@ -6,13 +6,13 @@ export const keepDecision = {
   slug: "keep-decision",
   definition: "the shapes a decision about which backups are kept is stated in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A keep marking is nokeep or standalone or full.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A disagreement names one backup or one period with no backup.",
     },
   ],

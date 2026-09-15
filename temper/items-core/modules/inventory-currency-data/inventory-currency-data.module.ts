@@ -6,18 +6,18 @@ export const inventoryCurrencyData = {
   slug: "inventory-currency-data",
   definition: "every kind of money an account has an amount of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This table was written out from the inventory currency pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The order of this table is the order a balance summary lists currencies in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A currency moved to another place reorders every balance summary shown.",
     },
   ],

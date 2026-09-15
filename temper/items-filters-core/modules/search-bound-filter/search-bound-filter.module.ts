@@ -6,13 +6,13 @@ export const searchBoundFilter = {
   slug: "search-bound-filter",
   definition: "whether an item is bound to the account, narrowed by an include or exclude toggle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bound filter reads the bound flag through the rule-editor flags checker.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

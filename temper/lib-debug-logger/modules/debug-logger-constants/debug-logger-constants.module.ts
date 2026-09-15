@@ -6,17 +6,17 @@ export const debugLoggerConstants = {
   slug: "debug-logger-constants",
   definition: "the log levels, entry field positions and callback names the library is built on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A log level is one letter.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry field is reached by its position counting from the first field.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order of the levels runs from verbose up to error.",
     },
   ],

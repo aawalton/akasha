@@ -6,17 +6,17 @@ export const transportRepos = {
   slug: "transport-repos",
   definition: "the repositories served here, each with its store and the copy it mirrors to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A repository is named by one word rather than by the path of its store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A repository that mirrors nowhere states so rather than leaving the mirror out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name no repository carries throws rather than answering nothing.",
     },
   ],

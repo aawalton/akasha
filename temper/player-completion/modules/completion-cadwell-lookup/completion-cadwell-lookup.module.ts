@@ -7,17 +7,17 @@ export const completionCadwellLookup = {
   definition: "which stop of Cadwell's Almanac a character has finished",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The Cadwell catalog arrives as an argument rather than as an imported table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stop is matched by its zone name and its own name taken together.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level's tier number is the display order its page states.",
     },
   ],

@@ -6,21 +6,21 @@ export const pacedQueue = {
   slug: "paced-queue",
   definition: "runs taken one at a time, each one a stated wait after the one before it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run waits for every run handed over before it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that fails is waited out as long as a run that answers.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A queue paces the runs handed to that queue and no other runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run's answer reaches its caller rather than the wait after it.",
     },
   ],

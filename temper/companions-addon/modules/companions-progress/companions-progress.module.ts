@@ -6,9 +6,9 @@ export const companionsProgress = {
   slug: "companions-progress",
   definition: "recording a companion's experience, rapport and skill line ranks",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Progress is recorded per companion rather than per character.",
     },
   ],

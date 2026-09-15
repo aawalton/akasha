@@ -6,9 +6,9 @@ export const isCallback = {
   slug: "is-callback",
   definition: "whether a value that may be a callback is one rather than a plain value",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Only Lua's own `type` tells a function from a value.",
     },
   ],

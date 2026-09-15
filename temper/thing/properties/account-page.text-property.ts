@@ -8,9 +8,9 @@ export const accountPage = {
   definition: "the account a page belongs to",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to  an account.",
     },
   ],

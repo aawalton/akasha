@@ -5,9 +5,9 @@ export const restart = {
   type: "supervisor-action",
   slug: "restart",
   definition: "a seat's agent started again in the same session between turns",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This action waits for the end of the agent's turn.",
     },
   ],

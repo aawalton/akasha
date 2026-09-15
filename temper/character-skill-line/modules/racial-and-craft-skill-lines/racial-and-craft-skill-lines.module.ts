@@ -6,9 +6,9 @@ export const racialAndCraftSkillLines = {
   slug: "racial-and-craft-skill-lines",
   definition: "the ten racial skill lines and the seven craft skill lines",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-line pages rather than by hand.",
     },
   ],

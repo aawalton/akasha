@@ -6,13 +6,13 @@ export const skillsPanelPoints = {
   slug: "skills-panel-points",
   definition: "what an add-on draws beside the skill points the skills panel shows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What an add-on draws is counted afresh before the panel is hooked.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panel draws its own points before what an add-on adds is drawn.",
     },
   ],

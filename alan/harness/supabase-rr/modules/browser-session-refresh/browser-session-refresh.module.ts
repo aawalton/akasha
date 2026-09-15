@@ -6,25 +6,25 @@ export const browserSessionRefresh = {
   slug: "browser-session-refresh",
   definition: "the Supabase session a browser holds, refreshed in place",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refresh that fails is written to the warning console rather than thrown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The line written carries the message the refresh failed with.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A caller hands in the client whose session is refreshed.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the session a refresh answers with.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decides when a session is refreshed.",
     },
   ],

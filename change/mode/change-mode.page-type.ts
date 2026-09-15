@@ -16,13 +16,13 @@ export const changeMode = {
     "change-mode/change-mode-rename",
   ],
   extends: ["page-type/domain"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change states the mode from the verb its slug opens with.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which sort a change is and which act a change makes are two answers.",
     },
   ],

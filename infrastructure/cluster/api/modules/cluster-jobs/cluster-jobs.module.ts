@@ -6,21 +6,21 @@ export const clusterJobs = {
   slug: "cluster-jobs",
   definition: "work the cluster runs once to completion, and what it wrote while running",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job is watched by polling rather than by a stream.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job neither done nor failed within the ceiling is answered as a timeout.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job's log is read from the first pod that job made.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job that made no pod has an empty log.",
     },
   ],

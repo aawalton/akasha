@@ -6,9 +6,9 @@ export const libSetsCoreApiDropZonesSets = {
   slug: "lib-sets-core-api-drop-zones-sets",
   definition: "which zones and named locations a set drops in, and which sets drop in a given zone",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "An item id whose link the game cannot name is removed from the cache for this API version.",
     },

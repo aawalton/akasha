@@ -6,9 +6,9 @@ export const libSetsGenSetsOfNewerApiVersion = {
   slug: "lib-sets-gen-sets-of-newer-api-version",
   definition: "the set ids that exist only on a newer game API version",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is ported from the upstream library at a pinned commit.",
     },
   ],

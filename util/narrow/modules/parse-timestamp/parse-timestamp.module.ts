@@ -6,9 +6,9 @@ export const parseTimestamp = {
   slug: "parse-timestamp",
   definition: "the moment in milliseconds a value holds, however that value spells one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value spelling no moment reads as the epoch.",
     },
   ],

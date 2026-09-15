@@ -6,13 +6,13 @@ export const mapPinsLib = {
   slug: "map-pins-lib",
   definition: "the library object every caller of the map pin library reaches",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A map change re-reads every filter's saved state.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A map change to the global filter group leaves the filters alone.",
     },
   ],

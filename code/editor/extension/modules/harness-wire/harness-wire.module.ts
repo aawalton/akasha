@@ -6,25 +6,25 @@ export const harnessWire = {
   slug: "harness-wire",
   definition: "the protocol the editor and its bun server speak, and how stale an answer may get",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Both ends read the protocol from here rather than from numbers of their own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The editor's node host imports this module as the bun server does.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches a Bun global.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The module has names and numbers alone.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A stated lease that is not a positive number is the default.",
     },
   ],

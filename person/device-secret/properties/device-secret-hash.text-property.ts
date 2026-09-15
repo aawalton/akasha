@@ -9,9 +9,9 @@ export const deviceSecretHash = {
   maxLength: 64,
   nameFormat: null,
   unique: "unique-kind/page-type",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here is reversible to the secret the hash was taken over.",
     },
   ],

@@ -6,9 +6,9 @@ export const completionCardCheckerTypes = {
   slug: "completion-card-checker-types",
   definition: "the shape of what answers whether one completion card is finished",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

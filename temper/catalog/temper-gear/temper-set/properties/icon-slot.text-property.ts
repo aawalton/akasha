@@ -8,9 +8,9 @@ export const iconSlot = {
   definition: "the piece an icon is shown for",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A star after a colon covers every weight of that piece.",
     },
   ],

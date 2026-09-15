@@ -6,9 +6,9 @@ export const completionAccountUnionProgress = {
   slug: "completion-account-union-progress",
   definition: "the quests any one character or companion of an account has finished",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quest finished by one character counts as finished for the account.",
     },
   ],

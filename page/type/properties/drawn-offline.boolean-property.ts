@@ -6,13 +6,13 @@ export const drawnOffline = {
   slug: "drawn-offline",
   propertySlug: "drawn-offline",
   definition: "whether the component drawing a page type's pages works with no network",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type saying nothing here is drawn plainly while the network is away.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type saying true here is drawn by its own component either way.",
     },
   ],

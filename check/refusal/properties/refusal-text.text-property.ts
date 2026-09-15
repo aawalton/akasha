@@ -8,13 +8,13 @@ export const refusalText = {
   definition: "the words a refusal prints, with holes to fill",
   maxLength: 2000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hole is marked in braces and filled as the words are printed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hole named in the text and handed no value refuses the printing.",
     },
   ],

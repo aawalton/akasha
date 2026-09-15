@@ -6,22 +6,22 @@ export const propertyKey = {
   slug: "property-key",
   definition: "the key a page has one of its values under",
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key is read in code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The property the key names is called by its slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Lowering each capital and setting a dash before that capital gives the slug back.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key and the slug are one name in two formats rather than two spellings.",
     },
   ],

@@ -6,9 +6,9 @@ export const housingFavoritesHelpers = {
   slug: "housing-favorites-helpers",
   definition: "adding, removing and finding a favourite house",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A favourite's place in the saved list is the number a keybind ports to.",
     },
   ],

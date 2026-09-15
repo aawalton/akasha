@@ -6,17 +6,17 @@ export const folderName = {
   slug: "folder-name",
   definition: "the name a folder carries",
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder with one page is named for that page's slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder with the property pages of a page is named `properties`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder with many pages of one type is named `pages`.",
     },
   ],

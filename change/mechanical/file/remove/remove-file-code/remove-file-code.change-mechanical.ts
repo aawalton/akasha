@@ -10,13 +10,13 @@ export const removeFileCode = {
   definition: "one code file taken away, with the imports naming that file judged",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The file is taken away by the change this change reaches.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here judges the path a file is taken away from.",
     },
   ],

@@ -7,13 +7,13 @@ export const pointsToNext = {
   propertySlug: "points-to-next",
   definition: "how many more points the rung after this one takes",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each rung after the first takes three times the points the rung before took.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The last rung states no points.",
     },
   ],

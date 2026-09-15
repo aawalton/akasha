@@ -6,9 +6,9 @@ export const secretChecksum = {
   slug: "secret-checksum",
   definition: "the hash a secret's contents are summed to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dot in a key names the key rather than a field under a field.",
     },
   ],

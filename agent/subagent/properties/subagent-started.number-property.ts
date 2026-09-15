@@ -7,17 +7,17 @@ export const subagentStarted = {
   propertySlug: "started",
   definition: "the moment a subagent's run last began, in milliseconds",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run beginning writes the moment that run began here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A moment later than the stop asked for says the run began again after that stop.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page saying nothing here is taken away by the stop asked for.",
     },
   ],

@@ -6,9 +6,9 @@ export const scribedSkillTemplate = {
   slug: "scribed-skill-template",
   definition: "the shape a scribed skill carries beyond an ordinary skill row",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A scribed skill names one grimoire and one focus script.",
     },
   ],

@@ -6,17 +6,17 @@ export const macbookTarget = {
   slug: "macbook-target",
   definition: "the one macbook's ssh target: its user, its address and its key path",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The host is the fixed address 100.64.0.2 rather than a resolvable name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key path is held with its leading tilde unexpanded.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No page or flag states a different macbook.",
     },
   ],

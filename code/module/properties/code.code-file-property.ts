@@ -7,17 +7,17 @@ export const code = {
   propertySlug: "code",
   definition: "the code a page is",
   extensions: ["ts", "tsx"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Code is written in TypeScript.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Code drawing something for a browser is written in TSX.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "TSX is TypeScript the parser admits JSX into.",
     },
   ],

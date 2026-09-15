@@ -11,13 +11,13 @@ export const craftingLevels = {
     { pageProperty: "number-property/craft-type-id", required: true, many: false },
     { pageProperty: "number-property/crafting-level", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One line is one craft of one character.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A craft a character has not opened still has a line.",
     },
   ],

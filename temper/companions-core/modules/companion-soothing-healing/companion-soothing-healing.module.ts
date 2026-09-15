@@ -6,13 +6,13 @@ export const companionSoothingHealing = {
   slug: "companion-soothing-healing",
   definition: "the healing a companion's soothing-trait gear adds up to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the soothing trait is counted here.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A two-handed weapon has a soothing value of its own.",
     },
   ],

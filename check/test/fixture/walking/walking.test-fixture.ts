@@ -6,13 +6,13 @@ export const walking = {
   slug: "walking",
   definition: "everything under a folder, read back as one sorted list a test can compare",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path is said from the folder walked rather than from the root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body is read as text.",
     },
   ],

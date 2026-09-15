@@ -7,14 +7,14 @@ export const maxLength = {
   propertySlug: "max-length",
   definition: "the most one value may run to, in characters",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A declaration narrows the length its property states by stating a shorter length.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list holds each entry to the length rather than the entries together.",
     },
   ],

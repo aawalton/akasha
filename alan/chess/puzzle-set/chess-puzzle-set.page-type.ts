@@ -26,17 +26,17 @@ export const chessPuzzleSet = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "page-property-entry/puzzles", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set has its puzzles as rows beside the page rather than as pages.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A puzzle is a row here rather than a page a query may ask of.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A row's position in Forsyth-Edwards notation is the position the solver moves from.",
     },

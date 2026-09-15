@@ -6,21 +6,21 @@ export const synthRunning = {
   slug: "synth-running",
   definition: "the synth pass a command line asks for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Asking to check and to write together is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Naming a root more than once is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A package filter matching no synth file is refused rather than answered empty.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run answers a code rather than ending the process itself.",
     },
   ],

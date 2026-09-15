@@ -8,22 +8,22 @@ export const seatUsage = {
   parts: ["module/seat-usage-keep", "module/seat-usage-show", "module/typing-minutes"],
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading is taken from the values the statusline payload states and nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A number the payload states is kept as the text of that number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value the payload does not state is not written over the value that stands.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty string is no reading.",
     },
   ],

@@ -6,17 +6,17 @@ export const firstCapture = {
   slug: "first-capture",
   definition: "the first group a pattern took from text, or nothing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text the pattern did not match at all is nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A match whose first group took part in nothing is nothing rather than an error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty first group is answered rather than read as nothing.",
     },
   ],

@@ -8,17 +8,17 @@ export const extensions = {
   definition: "the endings a page names this property's file with",
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An ending is written without the dot joining it to the name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property whose file goes by more than one ending states each of them.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The type a file property has is the endings that property states.",
     },
   ],

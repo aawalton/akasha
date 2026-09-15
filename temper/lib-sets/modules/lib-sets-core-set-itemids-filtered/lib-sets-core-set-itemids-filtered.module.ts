@@ -6,13 +6,13 @@ export const libSetsCoreSetItemidsFiltered = {
   slug: "lib-sets-core-set-itemids-filtered",
   definition: "keeping only the item ids of a set that match the equip, trait or enchant asked for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An armor type and a weapon type may not both be asked for at once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Matching a filter costs one built item link per item id.",
     },
   ],

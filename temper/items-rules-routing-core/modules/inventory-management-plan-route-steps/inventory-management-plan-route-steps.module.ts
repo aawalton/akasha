@@ -6,13 +6,13 @@ export const inventoryManagementPlanRouteSteps = {
   slug: "inventory-management-plan-route-steps",
   definition: "the steps for handing an item between characters or through shared storage",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item passing between characters goes through storage each character reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hand-off deposits before withdrawing.",
     },
   ],

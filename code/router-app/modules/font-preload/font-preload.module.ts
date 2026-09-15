@@ -6,13 +6,13 @@ export const fontPreload = {
   slug: "font-preload",
   definition: "the link a root document carries to fetch a font before the page is drawn",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A font is fetched without credentials.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The font a root preloads is the address handed in rather than one named here.",
     },
   ],

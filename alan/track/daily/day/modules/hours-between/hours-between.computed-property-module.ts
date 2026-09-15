@@ -7,13 +7,13 @@ export const hoursBetween = {
   definition: "the hours from one instant to another",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The hours are the same whichever instant is handed in first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An end that is no readable instant is no reading rather than zero.",
     },
   ],

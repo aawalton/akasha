@@ -10,7 +10,7 @@ export const aineFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "492 are left, from 512 when this began, with 56 resolved. The work is now two runs. The first goes through every finding alone, drops the ones that are clearly gone, and keeps the rest. The second is taken with Alan over whatever the first kept. Most findings die because what they say stopped being true: the folder went, the page gained the invariant, another lane landed the mend.\n",
+        "492 are left, from 512 when this began, with 56 resolved. The work is now two runs. The first goes through every finding alone, drops the ones that are clearly gone, and keeps the rest. The second is taken with Alan over whatever the first kept. Most findings die because what they say stopped being true: the folder went, the page gained the decision, another lane landed the mend.\n",
     },
   ],
   constraints: [
@@ -22,7 +22,7 @@ export const aineFindingsToZero = {
     "A finding is judged against the tree as it is now rather than against the tree its evidence describes.",
     "A finding that only records how something came to be is dropped, because git holds the history.",
     "A finding is kept only where it names work somebody could do.",
-    "A page stating the invariant a finding wanted does not drop that finding, because the code may not hold to it.",
+    "A page stating the decision a finding wanted does not drop that finding, because the code may not hold to it.",
     "A finding about Alan's own life or notes is left for the run Alan takes.",
     "The second run is taken with Alan, over the kept findings, one at a time.",
     "Alan is given the name, one plain sentence saying what the finding is about, and one proposal.",

@@ -6,18 +6,18 @@ export const craftedFilter = {
   slug: "crafted-filter",
   definition: "the Crafted Status condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `crafted` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A category outside the 8 roots named in the code is offered no Crafted Status condition.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule with the `stolen` condition is offered no Crafted Status condition.",
     },
   ],

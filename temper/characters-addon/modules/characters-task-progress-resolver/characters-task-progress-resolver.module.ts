@@ -6,9 +6,9 @@ export const charactersTaskProgressResolver = {
   slug: "characters-task-progress-resolver",
   definition: "how far one task has got, worked out from the completion card that task names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Which resolver a completion card is answered by is stated in one place.",
     },
   ],

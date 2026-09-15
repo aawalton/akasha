@@ -7,13 +7,13 @@ export const lorebooksShalidorLocations06 = {
   definition:
     "one run of the Shalidor's Library location table, in the order the whole table names it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These records are one unbroken run of the whole table's order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This run is the add-on's own source rather than anything akasha derives.",
     },
   ],

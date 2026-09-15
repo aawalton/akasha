@@ -6,13 +6,13 @@ export const seatForest = {
   slug: "seat-forest",
   definition: "every seat akasha holds, with each seat's principal and parent, as rows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row's mode is the mode observed of the supervisor with that seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat nothing observed a mode of shows the mode that seat was started in.",
     },
   ],

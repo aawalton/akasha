@@ -6,13 +6,13 @@ export const orderListBoxState = {
   slug: "order-list-box-state",
   definition: "the library handles this widget holds and the one cursor control it shares",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every order list box on the panel shares one cursor control.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A widget is counted so each widget is named apart from every other widget.",
     },
   ],

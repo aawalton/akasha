@@ -6,31 +6,31 @@ export const royalRoadPages = {
   slug: "royal-road-pages",
   definition: "a Royal Road fiction page and chapter page read into values",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter list is read off the `window.chapters` array the page has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A fiction's title and author are read off the linked-data Book block the page has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter is not always laid out in paragraph tags.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter with no paragraph tag is read by its line breaks instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A chapter that yields a paragraph is read byte for byte as that chapter was before.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A container that is absent and a container that yields nothing are two readings.",
     },
   ],

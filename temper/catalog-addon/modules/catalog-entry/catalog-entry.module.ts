@@ -6,21 +6,21 @@ export const catalogEntry = {
   slug: "catalog-entry",
   definition: "what the add-on does once the game has loaded it and its saved table is ready",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order the nineteen collectors are imported in is the collection order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The saved table is reachable only after the capture writer hands the table over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A side file request is applied before any collector is offered a run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first collection waits for the player rather than for the add-on load.",
     },
   ],

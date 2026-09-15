@@ -6,13 +6,13 @@ export const keybinderSearchBox = {
   slug: "keybinder-search-box",
   definition: "the search field the add-on adds to the key-bind window",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The field collapses to an icon while the field is empty and unfocused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Escape clears the field and gives up focus.",
     },
   ],

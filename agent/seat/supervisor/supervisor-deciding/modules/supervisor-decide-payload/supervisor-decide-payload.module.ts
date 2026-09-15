@@ -6,13 +6,13 @@ export const supervisorDecidePayload = {
   slug: "supervisor-decide-payload",
   definition: "the questions the deciding command is asked, read out of untyped JSON",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field of the wrong type names its own path in the fault.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decides anything.",
     },
   ],

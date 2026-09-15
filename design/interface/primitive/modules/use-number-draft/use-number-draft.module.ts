@@ -6,13 +6,13 @@ export const useNumberDraft = {
   slug: "use-number-draft",
   definition: "the text a number is edited as, and whether it is being edited",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Editing opens on the number as it is rather than on an empty box.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the text back as a number.",
     },
   ],

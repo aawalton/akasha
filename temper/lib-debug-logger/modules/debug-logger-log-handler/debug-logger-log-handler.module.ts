@@ -6,22 +6,22 @@ export const debugLoggerLogHandler = {
   slug: "debug-logger-log-handler",
   definition: "how a message becomes an entry in the log and how the log is pruned",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A message repeating the message before that message raises a count rather than adding an entry.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A string longer than the save limit is split into parts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The log is pruned once that log runs past the threshold.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failed entry is written as a fallback entry rather than dropped.",
     },
   ],

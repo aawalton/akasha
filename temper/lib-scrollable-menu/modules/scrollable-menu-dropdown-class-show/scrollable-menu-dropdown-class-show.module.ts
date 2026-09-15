@@ -6,21 +6,21 @@ export const scrollableMenuDropdownClassShow = {
   slug: "scrollable-menu-dropdown-class-show",
   definition: "the population of the scroll list and the sizing of the dropdown on show",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every item passes through the filter before reaching the data list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list that matches nothing shows a single no-results row.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Dropdown width is clamped between the minimum and the longest entry text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scroll contents template is swapped by whether the bar is needed.",
     },
   ],

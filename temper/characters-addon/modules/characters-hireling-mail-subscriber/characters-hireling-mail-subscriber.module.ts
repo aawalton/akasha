@@ -6,9 +6,9 @@ export const charactersHirelingMailSubscriber = {
   slug: "characters-hireling-mail-subscriber",
   definition: "the answer always given to a hireling mail being looted",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A loot of nothing or a negative amount is ignored.",
     },
   ],

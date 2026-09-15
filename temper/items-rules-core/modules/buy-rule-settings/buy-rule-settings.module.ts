@@ -7,17 +7,17 @@ export const buyRuleSettings = {
   definition:
     "each way an agent adds, changes, locks, copies or takes away a buy rule in the saved set",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A locked buy rule is changed by nothing until the lock comes off.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A buy rule copied takes a new id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every change stamps the buy rule with the moment of the change.",
     },
   ],

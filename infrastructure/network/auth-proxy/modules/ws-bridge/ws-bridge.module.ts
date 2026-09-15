@@ -6,14 +6,14 @@ export const wsBridge = {
   slug: "ws-bridge",
   definition: "a websocket to the target held open behind the one held to the caller",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The messages the caller sends before the target answers are held and sent on after.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Either side closing closes the far side.",
     },
   ],

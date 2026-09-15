@@ -7,13 +7,13 @@ export const currentBalance = {
   propertySlug: "current-balance",
   definition: "the figure an account was at when the sync last read it",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A balance is in dollars rather than in cents.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A balance is the figure the sync last read rather than the figure any row sums to.",
     },

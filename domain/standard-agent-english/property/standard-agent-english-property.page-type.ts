@@ -6,21 +6,21 @@ export const standardAgentEnglishProperty = {
   slug: "standard-agent-english-property",
   definition: "a text property whose value Standard Agent English judges",
   extends: ["page-type/text-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property of this page type has a value read as English.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property whose page type extends this page type is judged the same way.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property of any other page type is not judged.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property is moved to this page type rather than named in a list.",
     },
   ],

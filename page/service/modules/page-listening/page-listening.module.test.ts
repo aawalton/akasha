@@ -31,7 +31,7 @@ test("what is bound answers a question", async () => {
   try {
     const answered = await fetch(`${at}ask`, {
       method: "POST",
-      body: JSON.stringify({ pageTypeSlug: "invariant-kind", keys: ["slug"] }),
+      body: JSON.stringify({ pageTypeSlug: "decision-kind", keys: ["slug"] }),
     })
     expect(answered.status).toBe(200)
     const held = (await answered.json()) as { rows: readonly Record<string, unknown>[] }
@@ -140,7 +140,7 @@ test("a question is answered while another is still being answered", async () =>
     const wide = Array.from({ length: 6 }, (_, one) =>
       ask({ pageTypeSlug: "module" }, `wide${one}`)
     )
-    const narrow = ask({ pageTypeSlug: "invariant-kind", keys: ["slug"] }, "narrow")
+    const narrow = ask({ pageTypeSlug: "decision-kind", keys: ["slug"] }, "narrow")
     await Promise.all([...wide, narrow])
     expect(order.length).toBe(wide.length + 1)
     expect(order.indexOf("narrow")).toBeLessThan(wide.length)

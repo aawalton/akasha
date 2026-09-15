@@ -6,22 +6,22 @@ export const buildInputSources = {
   slug: "build-input-sources",
   definition: "the two repo-and-paths pairs a mobile build's inputs sit in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The shell side names the same repo paths the sim run tree delivers to the macbook.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The code side names a fixed path list that no app varies.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The files every shell compiles are handed in rather than looked up here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a checkout to find what a build is made from.",
     },
   ],

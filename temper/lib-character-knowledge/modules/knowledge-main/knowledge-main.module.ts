@@ -6,9 +6,9 @@ export const knowledgeMain = {
   slug: "knowledge-main",
   definition: "the wiring the library does as the game loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order these modules are loaded in is the order upstream loads those modules.",
     },
   ],

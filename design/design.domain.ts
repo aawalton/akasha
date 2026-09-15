@@ -6,9 +6,9 @@ export const design = {
   slug: "design",
   definition: "how something is done well",
   parts: ["domain/design-game", "domain/design-interface", "domain/design-language"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A design package reads the router through a context rather than importing the router.",
     },

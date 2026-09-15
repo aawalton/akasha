@@ -6,9 +6,9 @@ export const libSetsSearchUiSearchuiIndex = {
   slug: "lib-sets-search-ui-searchui-index",
   definition: "the ordered side-effect imports of the search window's modules",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The order these modules are loaded in is the order their effects happen.",
     },
   ],

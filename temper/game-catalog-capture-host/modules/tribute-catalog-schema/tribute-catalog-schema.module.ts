@@ -6,21 +6,21 @@ export const tributeCatalogSchema = {
   slug: "tribute-catalog-schema",
   definition: "the zod schema reading the tribute patron catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A patron has the cards that patron gives.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card names its base form and its upgraded form.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each level is checked against its shape in `temper-capture-shapes`.",
     },
   ],

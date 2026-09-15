@@ -6,9 +6,9 @@ export const actionButtonProperty = {
   slug: "action-button-property",
   definition: "a page property drawn as a button running a verb over the page",
   extends: ["page-type/page-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The value of such a property is the button rather than anything the page holds.",
     },
   ],

@@ -6,9 +6,9 @@ export const metricTreeData02 = {
   slug: "metric-tree-data-02",
   definition: "the six character stat display categories that follow damage",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the metric-tree pages rather than by hand.",
     },
   ],

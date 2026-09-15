@@ -10,13 +10,13 @@ export const changeMechanicalPageTypeMove = {
     "change-mechanical-page-type/move-property-on-every-page",
     "change-mechanical-page-type/sort-property-values-on-every-page",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here answers for every page of the page type at once.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rung here moves a file.",
     },
   ],

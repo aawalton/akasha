@@ -6,13 +6,13 @@ export const addonKeybindsEntry = {
   slug: "addon-keybinds-entry",
   definition: "the call putting the keybinds library in place once the addon loads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bundle the transpiler writes starts here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing waits on the caller to ask for the split.",
     },
   ],

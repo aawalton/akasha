@@ -15,21 +15,21 @@ export const alanBook = {
     "alan-book/my-strategy",
   ],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book Alan is writing is read by nobody else while Alan writes that book.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A book Alan writes states nothing a publisher assigns.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book Alan writes is a domain, and its sections are what that domain holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A book Alan writes is a collection, and its sections name it as the one they are in.",
     },

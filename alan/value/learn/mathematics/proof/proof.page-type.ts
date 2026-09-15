@@ -19,21 +19,21 @@ export const proof = {
     { pageProperty: "number-property/attempt", required: true, many: false },
     { pageProperty: "file-property/derivation", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A proof names the proposition the proof attempts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second attempt at one proposition is a second proof rather than an edit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A proof's derivation is in a file of the derivation's own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A derivation justifies every line the derivation numbers.",
     },
   ],

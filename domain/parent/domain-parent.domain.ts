@@ -5,27 +5,27 @@ export const domainParent = {
   type: "page-type/domain",
   slug: "domain-parent",
   definition: "the one domain a domain sits inside",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A domain needed only to read this domain is required reading rather than its parent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A layer a domain is built on is not a parent of that domain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type extending `domain` is not a reason for `domain` to be a parent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page of page type `domain` sits directly in the folder of the page naming it a part.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every domain but `akasha` is named a part by one page, and `akasha` by none.",
     },
   ],

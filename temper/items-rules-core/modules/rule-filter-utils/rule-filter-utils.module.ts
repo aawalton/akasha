@@ -7,13 +7,13 @@ export const ruleFilterUtils = {
   definition:
     "the two readings every condition filter shares, of a threshold and of a category's roots",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A threshold named by key is shown beside the number the key resolves to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A category is judged by the roots above the category rather than by the category id.",
     },

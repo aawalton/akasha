@@ -14,21 +14,21 @@ export const temperNetWorthHour = {
     "page-property-entry/snapshots",
   ],
   properties: [{ pageProperty: "page-property-entry/snapshots", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slug opens with `hour-` ahead of the hour the readings were taken.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An hour is read in UTC.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An hour rather than a day gathers the readings.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account taking a reading in an hour has that reading in that hour's page.",
     },
   ],

@@ -6,17 +6,17 @@ export const libSetsConstBase = {
   slug: "lib-sets-const-base",
   definition: "the library global as it first exists, before any set data fills it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library global is created here rather than imported.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "English is the language every other language falls back to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Japanese is listed among the languages and marked unsupported.",
     },
   ],

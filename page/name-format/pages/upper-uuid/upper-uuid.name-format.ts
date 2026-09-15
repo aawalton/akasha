@@ -7,17 +7,17 @@ export const upperUuid = {
   definition: "a name format joining hex groups with hyphens, all letters capital",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The one shape a uuid is written in is 8-4-4-4-12 hex digits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here is written in upper uuid.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A uuid is written in lower uuid.",
     },
   ],

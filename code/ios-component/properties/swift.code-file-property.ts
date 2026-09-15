@@ -7,9 +7,9 @@ export const swift = {
   propertySlug: "swift",
   definition: "the Swift a page is",
   extensions: ["swift"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A check judges the Swift a landing carries.",
     },
   ],

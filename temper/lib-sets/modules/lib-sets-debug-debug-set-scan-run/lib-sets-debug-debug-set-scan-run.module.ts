@@ -6,14 +6,14 @@ export const libSetsDebugDebugSetScanRun = {
   slug: "lib-sets-debug-debug-set-scan-run",
   definition: "the timed march through item id packages that a full set scan is made of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Each package of item ids is scheduled one second after the package before that package.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The march stops early once a package finds no further items.",
     },
   ],

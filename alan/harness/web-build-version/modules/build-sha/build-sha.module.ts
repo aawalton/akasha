@@ -6,13 +6,13 @@ export const buildSha = {
   slug: "build-sha",
   definition: "the forty hexadecimal characters a commit is named by, read out of one string",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Anything that is not forty lower hexadecimal characters is read as absent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The name the commit is read from is written out in full rather than reached by a key.",
     },

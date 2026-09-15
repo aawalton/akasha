@@ -6,21 +6,21 @@ export const unpackColor = {
   slug: "unpack-color",
   definition: "a color's four numbers handed back as four separate values",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A color is four numbers, in red, green, blue, alpha order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A number a color is missing reads as full.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A red, green or blue the color is missing is handed back as full.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An alpha the color is missing is handed back as nothing.",
     },
   ],

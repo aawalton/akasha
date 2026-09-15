@@ -8,9 +8,9 @@ export const surplusHours = {
   definition: "how much of the night's sleep the day has not spent",
   holds: "number",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day holding neither sleep nor spend states no surplus.",
     },
   ],

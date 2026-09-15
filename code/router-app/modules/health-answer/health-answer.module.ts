@@ -6,9 +6,9 @@ export const healthAnswer = {
   slug: "health-answer",
   definition: "what a router app answers a health check with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A health check is answered without reading anything the app depends on.",
     },
   ],

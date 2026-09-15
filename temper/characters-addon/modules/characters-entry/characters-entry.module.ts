@@ -6,9 +6,9 @@ export const charactersEntry = {
   slug: "characters-entry",
   definition: "what this add-on does as the game loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The whole read of the game waits three seconds after the player is active.",
     },
   ],

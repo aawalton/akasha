@@ -22,25 +22,25 @@ export const references = {
     { pageProperty: "text-property/from-slug", required: false, many: false },
     { pageProperty: "text-property/to-slug", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reference is one place in one chapter rather than a count of places.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wording is the text's own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The mechanic's title need not match the wording.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reference naming no holder is a reference the text attributed to no character.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A quote is carried so a reading can be checked against the text that quote came from.",
     },

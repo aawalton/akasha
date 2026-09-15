@@ -23,8 +23,8 @@
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.ts"}
-{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/invariant-restated-on-a-part-narrows-it/invariant-restated-on-a-part-narrows-it.check-code.ts"}
-{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/invariant-statement-is-plain/invariant-statement-is-plain.check-code.ts"}
+{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.ts"}
+{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.ts"}

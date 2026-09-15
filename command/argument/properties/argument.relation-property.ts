@@ -7,9 +7,9 @@ export const argument = {
   propertySlug: "argument",
   definition: "the argument a command names",
   targetPageType: "page-type/argument",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An argument no page names is refused rather than read.",
     },
   ],

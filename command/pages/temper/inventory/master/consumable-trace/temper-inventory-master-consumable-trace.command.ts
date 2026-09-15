@@ -6,26 +6,26 @@ export const temperInventoryMasterConsumableTrace = {
   slug: "temper-inventory-master-consumable-trace",
   definition: "the command giving back the addon's ring of consumable master-writ traces",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The ring has a bounded count of traces.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The oldest trace goes when a new trace arrives.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trace names the phase it was taken in, resolve or execute.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A trace for alchemy, enchanting or provisioning has that craft's own facts beside the shared ones.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each trace has the writ's outcome.",
     },
   ],

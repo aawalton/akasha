@@ -6,9 +6,9 @@ export const multiSelectProperty = {
   slug: "multi-select-property",
   definition: "the operations implementing the multi-select property type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The options a property declares are read here rather than by each reader.",
     },
   ],

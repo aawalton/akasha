@@ -6,9 +6,9 @@ export const performed = {
   slug: "performed",
   propertySlug: "performed",
   definition: "whether the artist performs the song themselves",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "Every song is performed by its own artist.",
     },
   ],

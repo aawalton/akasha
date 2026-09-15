@@ -11,9 +11,9 @@ export const reposEmptyDirPurge = {
     jitterSeconds: 1800,
     catchUp: true,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The purge leaves `.git` and `node_modules` to git and to the package installer.",
     },
   ],

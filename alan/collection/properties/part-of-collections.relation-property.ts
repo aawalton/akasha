@@ -7,9 +7,9 @@ export const partOfCollections = {
   propertySlug: "part-of-collections",
   definition: "the collections a collection is part of",
   targetPageType: "page-type/collection",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The parts of a collection are the collections naming that collection here.",
     },
   ],

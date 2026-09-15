@@ -7,13 +7,13 @@ export const inventorySettingsTypes = {
   definition:
     "the shape of the inventory settings a player keeps, beside the defaults each falls back on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every setting has a default stated here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A timestamp records when a settings group was last worked out.",
     },
   ],

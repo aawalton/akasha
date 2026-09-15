@@ -6,17 +6,17 @@ export const falseProperty = {
   slug: "false-property",
   definition: "a page property holding false and holding nothing else",
   extends: ["page-type/boolean-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page stating a property of this kind states false.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The type written for such a property is the literal rather than a boolean.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record telling itself from a sibling by one field states that field here.",
     },
   ],

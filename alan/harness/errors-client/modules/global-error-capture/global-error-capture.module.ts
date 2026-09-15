@@ -6,9 +6,9 @@ export const globalErrorCapture = {
   slug: "global-error-capture",
   definition: "the window handlers turning an uncaught error or rejection into a report",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The handlers are installed once however often this module is called.",
     },
   ],

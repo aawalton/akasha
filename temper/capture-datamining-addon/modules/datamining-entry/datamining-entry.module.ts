@@ -6,25 +6,25 @@ export const dataminingEntry = {
   slug: "datamining-entry",
   definition: "where the datamining addon starts and what the addon binds on starting",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Neither miner is running when the addon loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A changed game version clears the mined data.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Mining left unfinished resumes once the player is in the world.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every slash command is registered with the hud addon as well.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slash command the addon does not know answers with the usage line.",
     },
   ],

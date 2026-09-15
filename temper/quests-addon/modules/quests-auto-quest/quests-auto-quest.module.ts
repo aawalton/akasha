@@ -6,31 +6,31 @@ export const questsAutoQuest = {
   slug: "quests-auto-quest",
   definition: "the game's dialogue read into a snapshot, and the decision carried back to the game",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The dialogue is read again on a fixed beat while a dialogue is open.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The beat starts when the game announces a dialogue and stops when the dialogue closes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A menu is told apart from a second menu by the wording of the options the menu offers.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Tracing alone reads the dialogue without answering that dialogue.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Turning the addon off forgets the state the addon remembered.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game returns a dialogue option as a row of values rather than as a record.",
     },
   ],

@@ -8,21 +8,21 @@ export const reachedByPath = {
   definition: "the name a module exports that something reaches by spelling this file's path",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module names here what reaches it by path, rather than a check keeping a list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name declared here is an export of the module declaring it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module saying nothing here is reached by nothing but imports.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reach is what a module declares rather than what a walk of the tree turns up.",
     },
   ],

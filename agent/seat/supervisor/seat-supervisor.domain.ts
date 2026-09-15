@@ -23,9 +23,9 @@ export const seatSupervisor = {
     "domain/supervisor-tooling",
     "page-type/supervisor-action",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each thing a supervisor does is a domain naming the modules that do it.",
     },
   ],

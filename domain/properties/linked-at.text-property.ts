@@ -8,17 +8,17 @@ export const linkedAt = {
   definition: "where outside akasha a link reaches the folder a page owns",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder a link reaches is the folder holding the page stating this.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path opening with a tilde is read under the home of whoever places the link.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page states where its folder is reached rather than a script holding a table.",
     },
   ],

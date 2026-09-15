@@ -6,26 +6,26 @@ export const quoted = {
   slug: "quoted",
   propertySlug: "quoted",
   definition: "whether a property holds words kept as they were said",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A property saying nothing here holds text a mechanical change respells a path in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying true here holds text no mechanical change rewrites.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path inside such text is left as it was said, even where that path has moved.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property whose words sit in a file of their own is read here.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Words held inside a page's own file are respelled all the same.",
     },
   ],

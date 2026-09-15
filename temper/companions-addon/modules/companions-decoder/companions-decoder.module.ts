@@ -6,9 +6,9 @@ export const companionsDecoder = {
   slug: "companions-decoder",
   definition: "turning a companion build hash back into gear and skill indices",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hash of an unknown version reads back as nothing rather than as a guess.",
     },
   ],

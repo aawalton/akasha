@@ -15,21 +15,21 @@ export const commandArguments = {
     { pageProperty: "boolean-property/repeats", required: false, many: false },
     { pageProperty: "text-property/entry-default", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command names an argument rather than spelling that argument again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An argument a command does not name is refused where a call says it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An argument one command needs and another does not is needed here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry naming an argument twice is refused.",
     },
   ],

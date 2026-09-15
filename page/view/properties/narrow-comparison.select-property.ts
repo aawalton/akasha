@@ -7,13 +7,13 @@ export const narrowComparison = {
   propertySlug: "comparison",
   definition: "how one narrow weighs a page's value against what it names",
   values: ["is", "in", "not-in", "has", "contains", "ends-with", "empty", "at-or-after", "before"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A comparison taking one value is given one value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A comparison taking many values is given as many values as that comparison needs.",
     },

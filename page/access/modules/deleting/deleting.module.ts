@@ -6,9 +6,9 @@ export const deleting = {
   slug: "deleting",
   definition: "a page taken away",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A removal takes the page's file rather than raising a flag on that page.",
     },
   ],

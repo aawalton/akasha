@@ -6,13 +6,13 @@ export const seatRegistrationAccount = {
   slug: "seat-registration-account",
   definition: "the account a seat is enrolled under, read from its page",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's account is whatever text its page has under the account key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page with no such text gives no account.",
     },
   ],

@@ -6,33 +6,33 @@ export const playedShell = {
   slug: "played-shell",
   definition: "the display a story played draws over its own play, with the game's panels",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The run drawn is the story's played turns, or its chapters where it has no turn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rows drawn are the rows naming this story and no other.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is drawn until the rows of the story have arrived.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story with no turn and no chapter of its own draws nothing at all.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A game that went unread is said so above the run rather than passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panels sit in a drawer on a narrow screen and beside the run on a wide one.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here polls, and no tagline is drawn, because this play takes no action.",
     },
   ],

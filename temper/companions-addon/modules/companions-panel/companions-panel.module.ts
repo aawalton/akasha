@@ -6,9 +6,9 @@ export const companionsPanel = {
   slug: "companions-panel",
   definition: "the panel showing one companion's key and value rows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Live rows are hidden while no companion is summoned.",
     },
   ],

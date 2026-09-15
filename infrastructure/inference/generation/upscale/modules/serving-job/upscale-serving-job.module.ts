@@ -7,25 +7,25 @@ export const upscaleServingJob = {
   definition: "the cluster job one image is upscaled by on a GPU node",
   code: "ts",
   allowsTmpPaths: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The job runs on a node with at least the stated usable video memory.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The job is never retried.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failure is read rather than hidden by a second attempt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The weights are cached on the node rather than fetched for each job.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The image comes in and goes out through the object store rather than through the job's arguments.",
     },

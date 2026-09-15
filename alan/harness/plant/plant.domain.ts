@@ -10,31 +10,31 @@ export const plant = {
     "readout/upkeep-plants",
     "service-workstation/plants-relay-service",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The grams are read from the food entries the workstation's checkout has.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The window counted over runs from the hour Alan rose to the hour Alan rises next.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every site showing the grams is carried the grams rather than taking the grams.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A carry that fails to one site does not stop the carry to another site.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tile shows the grams Alan's workstation last took.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A day begun with nothing eaten is a reading of zero rather than no signal.",
     },
   ],

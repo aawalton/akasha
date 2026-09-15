@@ -7,9 +7,9 @@ export const policies = {
   propertySlug: "policies",
   definition: "the rulings a game master applies, each named and versioned",
   extensions: ["json"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A policy the pack owns is known by an id opening with doctrine.",
     },
   ],

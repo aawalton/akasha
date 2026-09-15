@@ -7,13 +7,13 @@ export const alanwaltonAtlas = {
   definition: "the deployment and service drawing Alan's map and taking in his phone's locations",
   code: "ts",
   generatedDirectory: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pod template carries the hash of the alanwalton-s3-creds secret.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The keys hashed from the alanwalton-s3-creds secret are access_key and secret_key.",
     },

@@ -8,25 +8,25 @@ export const ambientTypes = {
   definition: "the types a page declares for a compiler to read",
   extensions: ["ts"],
   runsFileLength: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The section is `d`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "TypeScript reads a name ending `.d.ts` as a declaration.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A compiler emits nothing from the types this file has.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A glob never reaches this file, because the page beside it has the same stem.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Compiler settings meaning to read this file name the file rather than a glob.",
     },
   ],

@@ -6,9 +6,9 @@ export const fcoInventory = {
   slug: "fco-inventory",
   definition: "the inventory window behaviour the interface tweaks change",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shared guard could name the type each guard here narrows to.",
     },
   ],

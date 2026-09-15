@@ -6,13 +6,13 @@ export const pageTypeProps = {
   slug: "page-type-props",
   definition: "the shape one property of a page type is declared in for the store",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property naming another page states its target and the back reference.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here declares a property.",
     },
   ],

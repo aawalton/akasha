@@ -21,26 +21,26 @@ export const worldCharacter = {
     { pageProperty: "number-property/first-chapter", required: false, many: false },
     { pageProperty: "number-property/last-chapter", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character belongs to one world.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A character is the story's account of that character rather than a player's creation.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words a character has are the story's rather than akasha's own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A world's character readings name the characters of that world.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every level a story gives a character is beside that character.",
     },
   ],

@@ -7,20 +7,20 @@ export const inventoryPlanCapabilities = {
   definition: "what building an inventory management plan is built from",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The parts a plan run needs are handed over together rather than one by one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Each part is handed over on its own so a run may take only the parts that run needs.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No plan is built here.",
     },
-    { invariantKind: "invariant-kind/absence", statement: "No type is sent on from here." },
+    { decisionKind: "decision-kind/absence", statement: "No type is sent on from here." },
   ],
 } as const satisfies Module

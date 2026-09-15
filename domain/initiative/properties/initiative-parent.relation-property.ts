@@ -7,13 +7,13 @@ export const initiativeParent = {
   propertySlug: "parent",
   definition: "the initiative an initiative sits under",
   targetPageType: "page-type/initiative",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An initiative lists nothing beneath that initiative.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This edge is read inverted.",
     },
   ],

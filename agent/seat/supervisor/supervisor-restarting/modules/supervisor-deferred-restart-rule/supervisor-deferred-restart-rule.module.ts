@@ -6,13 +6,13 @@ export const supervisorDeferredRestartRule = {
   slug: "supervisor-deferred-restart-rule",
   definition: "the deferred-restart readings asked of the deciding command",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unread verdict has the state that verdict was given and does not fire.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Unread defer windows are null rather than a guess at how long to wait.",
     },
   ],

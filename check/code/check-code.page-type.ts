@@ -35,8 +35,8 @@ export const checkCode = {
     "check-code/index-is-level-with-the-pages",
     "check-code/instant-property-slug-closes-with-at",
     "check-code/introduced-property-is-a-part",
-    "check-code/invariant-restated-on-a-part-narrows-it",
-    "check-code/invariant-statement-is-plain",
+    "check-code/decision-restated-on-a-part-narrows-it",
+    "check-code/decision-statement-is-plain",
     "check-code/key-names-one-property",
     "check-code/lint-clean",
     "check-code/manifest-lands-on-a-file",
@@ -94,132 +94,132 @@ export const checkCode = {
     { pageProperty: "boolean-property/runs-on-audit", required: true, many: false },
     { pageProperty: "boolean-property/experimental", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A check is handed the whole change.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A check decides for itself what work the change warrants.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A check takes and gives paths under the root the check was given.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A check states each phase the check runs on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Audit is a phase like the other phases.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A check states whether the check runs there.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A check running on no phase has landed and does not yet judge.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "That landing is how a check states its rule before that check binds anyone.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A check the change turns on does not judge the change turning that check on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The change phase judges only the paths a change has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A check runs at change before the tree's violation count reaches zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Running at change has the count from rising while the rest stay fixed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A file still with a violation is refused at change the next time that file is touched.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "That refusal is the ratchet working rather than the check misfiring.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mortal page is outside that ratchet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A check reads any path by name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A check reads the checkout through the overlay for the paths that check cannot name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A check listing a folder lists it through the overlay, with the change's edits laid over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path the change writes is among the files a check lists.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path the change takes away is left out of the files a check lists.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A check reads the tree through the overlay, which reads it through the module that reads trees.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every check listing a folder lists it through the overlay.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The overlay's listing is reached from the shadow a check is handed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A check reaches every path in the checkout through the shadow that check is handed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reach past that shadow answers from the tree git left rather than the tree the change leaves.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path the change writes is missing from a reach made past the shadow.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path the change takes away is still answered by a reach made past the shadow.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The shadow's listing, its holding and its page reading are the reaches a check may make.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An audit reads the checkout to make the change an overlay is laid over.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A check's decision is handed the shadow wherever that decision lists.",
     },
   ],

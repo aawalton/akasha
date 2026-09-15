@@ -6,17 +6,17 @@ export const checkAddonDependencyCycle = {
   slug: "check-addon-dependency-cycle",
   definition: "the run judging whether the game add-on load graph is acyclic",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The population the run states is the add-ons on the roster.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An add-on examined is an add-on whose manifest was read.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An empty roster ends the run rather than passing that run.",
     },
   ],

@@ -6,21 +6,21 @@ export const checkAddonInlineHandlerDispatch = {
   slug: "check-addon-inline-handler-dispatch",
   definition: "the run judging whether every governed inline markup handler is a single dispatch",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The population the run states is the markup the roster's add-ons hold.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Markup a build wrote is counted and left unjudged.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A run judging no markup still says how much markup the add-ons held.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The run names every namespace the run governs.",
     },
   ],

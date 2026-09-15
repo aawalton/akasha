@@ -9,21 +9,21 @@ export const temperCaptureSalesAddon = {
   addonManifest: "json",
   bundleEntry: "module/sales-addon-entry",
   parts: ["module/sales-addon-entry", "module/sales-addon-name", "module/sales-capture"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The capture is written to the saved variables the addon manifest names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game loads LibHistoire before this add-on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The shape the capture takes is stated in `temper-capture-sales`.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a sale by another seller.",
     },
   ],

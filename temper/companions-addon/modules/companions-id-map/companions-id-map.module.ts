@@ -6,9 +6,9 @@ export const companionsIdMap = {
   slug: "companions-id-map",
   definition: "which index the build codec gives each companion the game knows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A companion's index here is the index a saved build hash carries.",
     },
   ],

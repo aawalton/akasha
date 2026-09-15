@@ -6,17 +6,17 @@ export const markdownPageName = {
   slug: "markdown-page-name",
   definition: "the stem and the page type read off the name of a markdown file",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A markdown page is named stem then page type then `md`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name with no page type names no page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the part after the last slash is read.",
     },
   ],

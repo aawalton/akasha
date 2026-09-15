@@ -6,9 +6,9 @@ export const mapPinsUnknownPoiTexture = {
   slug: "map-pins-unknown-poi-texture",
   definition: "the texture of each unknown point-of-interest kind",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

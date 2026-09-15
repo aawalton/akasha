@@ -7,13 +7,13 @@ export const canListAtGuildTraderFilter = {
   definition:
     "the Can List at Guild Trader condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `canListAtGuildTrader` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A rule whose action is other than `list` is offered no Can List at Guild Trader condition.",
     },

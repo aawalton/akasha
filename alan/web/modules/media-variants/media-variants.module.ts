@@ -6,9 +6,9 @@ export const mediaVariants = {
   slug: "media-variants",
   definition: "the voices and renditions a page's media is held in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The personas with a voice reference are picked out of the rows rather than in the question.",
     },

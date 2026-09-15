@@ -7,21 +7,21 @@ export const categorization = {
   definition: "Alan's unreviewed transactions as the ring their count reaches",
   code: "ts",
   urlPath: "api/categorization",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The readout served is the one thing named here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key the reading travels under is read off that readout's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scale the reading is drawn against is read off that readout's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words for an empty reading are read off that readout's page.",
     },
   ],

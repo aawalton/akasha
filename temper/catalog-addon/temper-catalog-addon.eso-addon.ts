@@ -23,30 +23,30 @@ export const temperCatalogAddon = {
     "module/catalog-side-file-config",
     "type-declaration/catalog-config-global",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The order the collectors are imported in is the order the catalogs are collected.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A catalog already saved is left alone rather than collected a second time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A game version different from the saved one empties every catalog first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Collection starts a delay after the player first becomes active.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Collection starts once for each time the game client loads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collector that fails is skipped with its reason kept beside the catalog.",
     },
   ],

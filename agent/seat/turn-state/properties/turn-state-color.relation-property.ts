@@ -7,9 +7,9 @@ export const turnStateColor = {
   propertySlug: "color",
   definition: "the color a seat in this turn state is drawn in",
   targetPageType: "page-type/color",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This color draws the seat rather than the turn state's own page.",
     },
   ],

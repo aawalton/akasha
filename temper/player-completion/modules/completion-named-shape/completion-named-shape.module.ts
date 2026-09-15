@@ -6,13 +6,13 @@ export const completionNamedShape = {
   slug: "completion-named-shape",
   definition: "whether a stored completion value is the fuller shape with a name",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The caller states which shape a value with a name is.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A completion record is stored in a fuller shape or in a terser shape.",
     },
   ],

@@ -7,22 +7,22 @@ export const lorebooksReportLayout = {
   definition: "the lore library search box and the two report windows the lorebook tracker fills",
   markup: "xml",
   loadedAs: "LoreBooks.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The search box takes its placeholder and its label from a string id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every row of a report is a virtual label the tracker copies.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The Shalidor heading and the Eidetic heading are anchored to the one scroll child.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The copy window has one edit box the player reads rather than writes.",
     },
   ],

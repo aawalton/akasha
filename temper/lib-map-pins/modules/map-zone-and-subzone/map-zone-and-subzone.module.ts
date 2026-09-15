@@ -6,13 +6,13 @@ export const mapZoneAndSubzone = {
   slug: "map-zone-and-subzone",
   definition: "the current map's texture name split into zone and subzone",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The zone name is taken from the map tile texture path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reading the player's position moves the map to the player first.",
     },
   ],

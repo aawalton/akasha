@@ -6,9 +6,9 @@ export const gpsCompatibility = {
   slug: "gps-compatibility",
   definition: "the older library object an addon written against LibGPS2 reaches",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An older caller reaches the same measurements through the older global name.",
     },
   ],

@@ -7,13 +7,13 @@ export const codeEditorTerminal = {
   definition: "a terminal the editor is running",
   extends: ["page-type/page"],
   mortal: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A terminal moves only where Alan's own layout moves that terminal.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A closed terminal's page goes in the hourly sweep rather than as the terminal closes.",
     },

@@ -7,9 +7,9 @@ export const ruleConditionStates = {
   definition:
     "which conditions each category tree node ends up under, given the rules over that tree",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node takes the conditions of the first rule matching the node.",
     },
   ],

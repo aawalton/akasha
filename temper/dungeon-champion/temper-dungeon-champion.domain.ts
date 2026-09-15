@@ -27,21 +27,21 @@ export const temperDungeonChampion = {
     "type-declaration/dungeon-champion-global-declarations",
     "type-declaration/dungeon-champion-saved-vars-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A champion is found by position rather than by name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Whether a champion is killed is asked of the game each time a pin is drawn.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The labels here are English alone.",
     },
   ],

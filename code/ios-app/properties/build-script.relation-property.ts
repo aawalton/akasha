@@ -7,13 +7,13 @@ export const buildScript = {
   propertySlug: "build-script",
   definition: "the script that builds an app",
   targetPageType: "page-type/shell-script",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An app stating no build script is not built by any command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which script builds an app is read from its page rather than walked to.",
     },
   ],

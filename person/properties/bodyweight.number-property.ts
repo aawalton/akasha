@@ -7,17 +7,17 @@ export const bodyweight = {
   propertySlug: "bodyweight",
   definition: "what a body weighs, in pounds",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A person has the weight last measured and a day the weight measured that day.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The weight a movement is counted against is read off the person's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A movement's load factor is the share of this weight that movement has.",
     },
   ],

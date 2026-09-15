@@ -6,9 +6,9 @@ export const targetArmors = {
   slug: "target-armors",
   definition: "the armor a practice target carries, dungeon or overland",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the character pages rather than by hand.",
     },
   ],

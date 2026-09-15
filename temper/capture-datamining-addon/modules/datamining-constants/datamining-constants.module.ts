@@ -6,21 +6,21 @@ export const dataminingConstants = {
   slug: "datamining-constants",
   definition: "the fixed name, batch sizes and delays datamining runs by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Mining stops after a stated run of consecutive empty ids.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Item mining states a batch size of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Quest mining states a batch size of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item is reached by a link built from a template rather than by an api call.",
     },
   ],

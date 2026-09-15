@@ -8,14 +8,14 @@ export const decisionEarnsItsPlace = {
   modelTests: ["model-test/restatement"],
   changeRuns: 0,
   auditRuns: 0,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A statement a change writes or alters is judged rather than every statement the page has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page whose definition a change alters has every departure on that page judged again.",
     },

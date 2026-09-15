@@ -5,13 +5,13 @@ export const bootstrapLayer = {
   type: "page-type/domain",
   slug: "bootstrap-layer",
   definition: "the ordered stages an empty cluster is brought up in",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The toolchain layer reuses exactly two of `prep.workflow`'s steps.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The private CI image `ci-images` builds does not exist before L3.",
     },
   ],

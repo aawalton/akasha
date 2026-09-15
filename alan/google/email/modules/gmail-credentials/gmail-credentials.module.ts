@@ -6,9 +6,9 @@ export const gmailCredentials = {
   slug: "gmail-credentials",
   definition: "the scopes and the refresh token a Gmail client is built with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scopes asked for allow writing as well as reading.",
     },
   ],

@@ -6,9 +6,9 @@ export const companionsSelector = {
   slug: "companions-selector",
   definition: "the dropdown choosing which companion every panel is showing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The chosen companion is kept between sessions.",
     },
   ],

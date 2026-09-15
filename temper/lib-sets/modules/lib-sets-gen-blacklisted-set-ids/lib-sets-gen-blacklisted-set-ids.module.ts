@@ -6,9 +6,9 @@ export const libSetsGenBlacklistedSetIds = {
   slug: "lib-sets-gen-blacklisted-set-ids",
   definition: "the eleven set ids marked blacklisted",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is ported from the upstream library at a pinned commit.",
     },
   ],

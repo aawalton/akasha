@@ -6,9 +6,9 @@ export const raceSource = {
   slug: "race-source",
   definition: "every playable race a character build offers, with the empty choice first",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The empty choice is first among the race sources.",
     },
   ],

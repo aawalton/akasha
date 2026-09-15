@@ -6,21 +6,21 @@ export const scrollableMenuComboboxBaseHighlight = {
   slug: "scrollable-menu-combobox-base-highlight",
   definition: "the choice of highlight template and tint for one row",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Highlight fields on the original entry data win over every computed default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A submenu row that also has a callback is given a distinct template.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row that opens a context menu can take its own template under an option.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A template is written onto the row data only where nothing is already set.",
     },
   ],

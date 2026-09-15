@@ -6,17 +6,17 @@ export const traitResearchCatalogSchema = {
   slug: "trait-research-catalog-schema",
   definition: "the zod schema reading the trait research catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A craft type has research lines that have traits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trait has only its name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
   ],

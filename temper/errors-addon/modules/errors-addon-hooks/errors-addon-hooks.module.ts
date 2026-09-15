@@ -6,21 +6,21 @@ export const errorsAddonHooks = {
   slug: "errors-addon-hooks",
   definition: "listening for the game's Lua error and low memory announcements",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error raised before saved variables are ready is in memory.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A held error is recorded once saved variables are ready.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failure inside recording is swallowed rather than raised back into the game.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game announces a Lua error to every listener registered for that event.",
     },
   ],

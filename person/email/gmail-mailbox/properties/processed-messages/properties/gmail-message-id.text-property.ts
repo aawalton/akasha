@@ -8,9 +8,9 @@ export const gmailMessageId = {
   definition: "the id Gmail gives a message",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The id is spelled as Gmail spells that id rather than as a slug is spelled.",
     },
   ],

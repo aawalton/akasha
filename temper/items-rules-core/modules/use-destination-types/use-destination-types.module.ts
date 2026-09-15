@@ -6,17 +6,17 @@ export const useDestinationTypes = {
   slug: "use-destination-types",
   definition: "the identity of a character and the key of an item a character may learn from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character id is a string held apart from every other string by a brand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item a character learns from is keyed by the kind of knowledge granted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A motif chapter of null names the master book covering every chapter.",
     },
   ],

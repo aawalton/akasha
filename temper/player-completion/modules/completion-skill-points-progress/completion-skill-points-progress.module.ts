@@ -6,9 +6,9 @@ export const completionSkillPointsProgress = {
   slug: "completion-skill-points-progress",
   definition: "every skill point each character has earned, counted against every source",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character with no skill points counted still shows every source at nothing.",
     },
   ],

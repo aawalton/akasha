@@ -7,9 +7,9 @@ export const alanWebSignIn = {
   definition: "the form a reader signs in through",
   code: "tsx",
   urlPath: "sign-in",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A signed-in reader is sent to the home route.",
     },
   ],

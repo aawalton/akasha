@@ -6,21 +6,21 @@ export const scrollableMenuComboboxBaseIcons = {
   slug: "scrollable-menu-combobox-base-icons",
   definition: "the population of a row's multi-icon control from the entry icon data",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A single icon value is wrapped into a one element list before processing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The new-entry icon is added ahead of any icon the entry declares.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Icon height is clamped between the label offset and the parent row height.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Icon tooltips are concatenated into one string held on the multi-icon control.",
     },
   ],

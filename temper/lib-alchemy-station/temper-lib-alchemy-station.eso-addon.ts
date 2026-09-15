@@ -15,25 +15,25 @@ export const temperLibAlchemyStation = {
     "type-declaration/alchemy-station-declarations",
     "type-declaration/alchemy-station-entry-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tab is keyed by the descriptor the caller hands in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One tab is shown at a time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Selecting a tab already selected calls no callback.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game's own alchemy panel is hooked rather than replaced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game reaches every tab through one global name.",
     },
   ],

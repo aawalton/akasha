@@ -7,13 +7,13 @@ export const sectionOf = {
   propertySlug: "section-of",
   definition: "the collection a section is an instalment of",
   targetPageType: "page-type/collection",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section names one collection here and the collections edge names the rest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section's slug is unique among the sections naming the same collection here.",
     },
   ],

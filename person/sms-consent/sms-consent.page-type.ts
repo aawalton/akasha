@@ -23,27 +23,27 @@ export const smsConsent = {
     { pageProperty: "text-property/sms-consent-ip-address", required: false, many: false },
     { pageProperty: "text-property/sms-consent-user-agent", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A consent names the wording the person was shown as well as the terms the person agreed to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The agreement was to the wording.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A consent is written before the visitor is told that visitor is signed up.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A consent's slug is the page type slug, the digits of the number and the day the person agreed.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The consents exist as pages under this type rather than as markdown.",
     },
   ],

@@ -15,9 +15,9 @@ export const designInterface = {
     "domain/design-interface-token",
     "page-type/color",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every design package is in akasha.",
     },
   ],

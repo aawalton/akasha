@@ -6,17 +6,17 @@ export const halstead = {
   slug: "halstead",
   definition: "the measures a function's operator and operand counts work out to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nested function's tokens are left out of its parent's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A type annotation's tokens are left out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A function with no body measures zero throughout.",
     },
   ],

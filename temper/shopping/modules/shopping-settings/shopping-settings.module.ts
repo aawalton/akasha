@@ -6,13 +6,13 @@ export const shoppingSettings = {
   slug: "shopping-settings",
   definition: "what a shopper has settled about a shopping run before the run",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item a shopper marked as not available is keyed by the shopping key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The value against a key is the second the shopper marked the item.",
     },
   ],

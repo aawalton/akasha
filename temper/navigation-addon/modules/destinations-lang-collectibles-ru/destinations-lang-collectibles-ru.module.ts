@@ -6,9 +6,9 @@ export const destinationsLangCollectiblesRu = {
   slug: "destinations-lang-collectibles-ru",
   definition: "the collectible names in Russian",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

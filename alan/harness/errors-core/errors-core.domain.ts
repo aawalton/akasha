@@ -14,13 +14,13 @@ export const errorsCore = {
     "module/throwable-normalizing",
     "page-type/runtime-error",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches a network or a disk.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decides whether an error is worth reporting.",
     },
   ],

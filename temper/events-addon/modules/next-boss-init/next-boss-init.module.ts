@@ -6,22 +6,22 @@ export const nextBossInit = {
   slug: "next-boss-init",
   definition: "the order this tracker's parts are wired up in once the add-on loads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The string ids are made before a module reads a string id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every module filling in the shared table is loaded before the table is used.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The tracker starts idle and the first zone change decides whether the tracker listens.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slash command marks a district dead by its number on the round.",
     },
   ],

@@ -19,17 +19,17 @@ export const temperEquipment = {
     "module/weapon-traits",
     "module/weapon-type-ids",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The generated table of gear sets is outside akasha.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every set id here is written out from the set pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trait moved to another place breaks every build hash saved.",
     },
   ],

@@ -21,22 +21,22 @@ export const changeKind = {
     { pageProperty: "boolean-property/writer-owes-reading", required: true, many: false },
     { pageProperty: "boolean-property/readers-owe-reading", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The checks a change runs and the readings a change owes are read off the change kind's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Whether the checks run and whether the writer owes reading are two answers.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Whether the writer owes reading and whether the readers do are two answers.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No change kind stales its readers without owing its writer reading.",
     },
   ],

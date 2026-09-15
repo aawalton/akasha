@@ -6,13 +6,13 @@ export const libSetsCoreHeader = {
   slug: "lib-sets-core-header",
   definition: "the optional companion libraries this one uses when they are loaded",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "LibScrollableMenu is only taken up when its version is 2.43 or later.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words the slash commands accept are named here per language.",
     },
   ],

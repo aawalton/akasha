@@ -5,14 +5,14 @@ export const alanAttention = {
   type: "page-type/domain",
   slug: "alan-attention",
   definition: "the time Alan can give the system",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Input Alan sends through Remote Control reaches the agent inside its own process.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No input Alan sends reaches an agent as keystrokes on a terminal.",
     },
   ],

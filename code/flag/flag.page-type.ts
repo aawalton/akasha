@@ -6,9 +6,9 @@ export const flag = {
   slug: "flag",
   definition: "a switch held outside the code that reads it",
   extends: ["page-type/domain"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A flag is read at the moment that flag is needed rather than at start-up.",
     },
   ],

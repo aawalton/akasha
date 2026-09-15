@@ -6,9 +6,9 @@ export const mapPinsPublicApi = {
   slug: "map-pins-public-api",
   definition: "the names the map pin library puts in the game's global table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library object is reached through one global name.",
     },
   ],

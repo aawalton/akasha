@@ -26,17 +26,17 @@ export const temperCaptureShape = {
     "module/tribute-catalog",
     "module/zone-completion-catalog",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A catalog here states a shape rather than holding the captured data.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A field name here is the name the addon writes into the saved variables.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing here has code that runs.",
     },
   ],

@@ -8,9 +8,9 @@ export const accessToken = {
   definition: "the token a call to Anthropic carries",
   maxLength: 4000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The access token sits in the page's sops file rather than in the page.",
     },
   ],

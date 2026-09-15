@@ -10,9 +10,9 @@ export const temperPursuitThing = {
   properties: [
     { pageProperty: "number-property/eso-collectible-id", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property more than one pursuit page type has is declared here.",
     },
   ],

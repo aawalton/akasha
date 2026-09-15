@@ -10,26 +10,26 @@ export const sleep = {
     "readout/upkeep-sleep",
     "service-workstation/sleep-relay-service",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The sleep is read from the tracking the workstation's checkout carries.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every site showing the sleep is carried the sleep rather than taking the sleep.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A carry that fails to one site does not stop the carry to another site.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tile shows the sleep Alan's workstation last took.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A sleep nothing can be read for is shown as no signal rather than as a zero.",
     },
   ],

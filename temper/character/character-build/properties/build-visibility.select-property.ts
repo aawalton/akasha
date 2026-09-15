@@ -7,21 +7,21 @@ export const buildVisibility = {
   propertySlug: "visibility",
   definition: "how a build stands to the character with it",
   values: ["live", "target", "private"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A live build is the arrangement the character wears now.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A target build is the arrangement the character is working toward.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A private build is neither worn now nor worked toward.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A private build is there only for its author.",
     },
   ],

@@ -6,37 +6,37 @@ export const supervisorInteractiveIteration = {
   slug: "supervisor-interactive-iteration",
   definition: "one pass of a seat's loop: its agent, its child, and the process record it leaves",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An agent id is created only where no agent id was handed in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A carried name and a pending prompt reach a fresh agent alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A carried name and a pending prompt are cleared once read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reset prompt that fails to deliver is logged and the pass goes on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A session id that fails to write is logged and the pass goes on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Claimed redelivery is reconciled only on a resume that adopted no child.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Redelivery is reconciled without being awaited.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The transcript is kept at the session's file under the project directory.",
     },
   ],

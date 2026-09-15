@@ -6,13 +6,13 @@ export const supervisorConfig = {
   slug: "supervisor-config",
   definition: "the directories, home and log mark a supervisor works from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account's config directory carries symlinks to the shared Claude directories.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A symlink pointing elsewhere is replaced rather than left as the symlink is.",
     },
   ],

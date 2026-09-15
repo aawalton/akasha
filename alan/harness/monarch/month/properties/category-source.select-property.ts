@@ -7,13 +7,13 @@ export const categorySource = {
   propertySlug: "category-source",
   definition: "what settled a transaction's category",
   values: ["monarch", "manual-categorization", "programmatic-categorization"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A source that is not Monarch holds against the category Monarch reports.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transaction stating no source took its category from Monarch untouched.",
     },
   ],

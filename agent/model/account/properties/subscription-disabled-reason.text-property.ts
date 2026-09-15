@@ -8,14 +8,14 @@ export const subscriptionDisabledReason = {
   definition: "what stopped the account's subscription being usable",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An account stating a subscription disabled reason is passed over by every pass that renews a token.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The account is usable again once this reason is taken away.",
     },
   ],

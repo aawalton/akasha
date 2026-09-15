@@ -7,9 +7,9 @@ export const beatSchema = {
   definition: "one entry in a game's log, either narrated prose or a system event",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A beat written to the log has the turn the beat belongs to.",
     },
   ],

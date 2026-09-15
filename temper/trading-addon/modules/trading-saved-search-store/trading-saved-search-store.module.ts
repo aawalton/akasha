@@ -6,9 +6,9 @@ export const tradingSavedSearchStore = {
   slug: "trading-saved-search-store",
   definition: "the searches a player named and keeps, and which of them is active",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Renaming a search leaves its place in the list.",
     },
   ],

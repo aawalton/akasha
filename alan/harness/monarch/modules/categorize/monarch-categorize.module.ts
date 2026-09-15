@@ -6,35 +6,35 @@ export const monarchCategorize = {
   slug: "monarch-categorize",
   definition: "a category set on one transaction, in Monarch and in our copy alike",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category Monarch takes and reports nothing back for is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category is named by a page that exists.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A Monarch id resolving other than exactly one page is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A transaction no month sidecar carries is refused rather than written to Monarch alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The rule that decided is recorded beside the category rather than left to be inferred.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The row is tagged as machine-touched when its category is set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Monarch taking a category while no month file moves is refused.",
     },
   ],

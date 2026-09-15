@@ -6,25 +6,25 @@ export const addonInlineHandlerDispatch = {
   slug: "addon-inline-handler-dispatch",
   definition: "whether an inline markup handler's body is one call to a named global and no more",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A body naming no governed namespace is not judged.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A body mentioning the namespace a second time is no single dispatch.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A body with anything after the closing bracket is no single dispatch.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A body starting anywhere but at the namespace is no single dispatch.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A handler whose body is blank is not judged.",
     },
   ],

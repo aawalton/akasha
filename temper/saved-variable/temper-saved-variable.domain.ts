@@ -6,26 +6,26 @@ export const temperSavedVariable = {
   slug: "temper-saved-variable",
   definition: "the Lua file the game writes an add-on's own state into",
   parts: ["module/account-wide", "module/lua-array", "module/lua-parser", "module/lua-serializer"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A saved-variables file is read here without any Lua being run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game is the only writer of a saved-variables file.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The file the game wrote is taken as written rather than corrected.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A read of a saved-variables file is as old as the game's last write of that file.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The game writes a saved-variables file on a reload or a quit rather than as an addon acts.",
     },

@@ -6,13 +6,13 @@ export const slashCommanderDeclarations = {
   slug: "slash-commander-declarations",
   definition: "the Lua and game names this addon reaches without importing them",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the names the code here reaches are declared.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "This page restates declarations the game keeps outside akasha.",
     },
   ],

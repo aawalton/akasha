@@ -10,17 +10,17 @@ export const generated = {
     { pageProperty: "text-property/written-by", required: true, many: false },
     { pageProperty: "number-property/source-version", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A declaration stating nothing here was written by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page states the command rather than the declaration file's own first lines.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An edit by hand to a generated declaration is lost at the next run.",
     },
   ],

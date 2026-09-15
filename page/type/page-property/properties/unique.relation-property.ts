@@ -7,9 +7,9 @@ export const unique = {
   propertySlug: "unique",
   definition: "the pages this property's value is unique among",
   targetPageType: "page-type/unique-kind",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property stating no `unique` is not unique.",
     },
   ],

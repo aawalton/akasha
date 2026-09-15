@@ -12,27 +12,27 @@ export const manifest = {
     { pageProperty: "code-file-property/manifest-code", required: true, many: false },
     { pageProperty: "build-folder-property/generated-directory", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A manifest is found by its page type rather than by its file name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A manifest's resources are applied to the cluster.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A manifest is generated into YAML before that manifest is applied.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A container told to run start runs in a package stating a start script.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement:
-        "A manifest's checksum annotation sums a secret or config that manifest names in an invariant.",
+        "A manifest's checksum annotation sums a secret or config that manifest names in an decision.",
     },
   ],
   types: "ts",

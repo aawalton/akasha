@@ -6,13 +6,13 @@ export const libSetsCasts = {
   slug: "lib-sets-casts",
   definition: "the narrowings this library uses to read a value the game hands over untyped",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each narrowing here names one shape and answers a value of that shape.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A narrowing here asserts a shape the compiler never sees evidence for.",
     },
   ],

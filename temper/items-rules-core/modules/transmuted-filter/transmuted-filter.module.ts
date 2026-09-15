@@ -6,13 +6,13 @@ export const transmutedFilter = {
   slug: "transmuted-filter",
   definition: "the Transmuted Status condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `transmuted` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category outside `equipment` is offered no Transmuted Status condition.",
     },
   ],

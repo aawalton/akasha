@@ -6,22 +6,22 @@ export const scrollableMenuDropdownHandlerFunctions = {
   slug: "scrollable-menu-dropdown-handler-functions",
   definition: "the per-entry-type handlers for mouse enter, exit and up on a dropdown row",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Handlers are keyed by entry type inside three named tables.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A header or divider handler returns true and does no other work.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Entering a submenu row cancels the pending hide timeout before showing the submenu.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The boolean a handler returns decides whether the ZO_ComboBox behaviour also runs.",
     },

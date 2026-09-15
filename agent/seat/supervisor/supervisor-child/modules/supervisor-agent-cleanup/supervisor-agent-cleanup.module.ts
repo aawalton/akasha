@@ -6,22 +6,22 @@ export const supervisorAgentCleanup = {
   slug: "supervisor-agent-cleanup",
   definition: "what a finished seat process lets go of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A credential push that does not answer within its bound does not hold up the exit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A per-process config directory is removed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shared config directory is pushed back instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every timer and watch the process took is released before the process is freed.",
     },
   ],

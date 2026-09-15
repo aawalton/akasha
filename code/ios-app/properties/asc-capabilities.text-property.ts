@@ -8,17 +8,17 @@ export const ascCapabilities = {
   definition: "the capabilities Apple enables on an app's identifier",
   maxLength: 60,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capability is spelled as App Store Connect spells that capability.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capability newly enabled remakes every App Store profile for that identifier.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A widget's own identifier is given no capability here.",
     },
   ],

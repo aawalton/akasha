@@ -24,29 +24,29 @@ export const temperLibMapPins = {
     "module/pin-types",
     "type-declaration/map-pins-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A custom pin type is registered with the game's own world map pin manager.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A registered pin type is reached by its name or by its number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pin type gets a checkbox on every map filter panel.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A filter checkbox reads and writes the saved variables the caller hands in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The gamepad filter list is rebuilt from the entries this library has.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A caller reaches this library through a game global rather than an import.",
     },
   ],

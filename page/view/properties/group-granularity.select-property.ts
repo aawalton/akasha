@@ -7,9 +7,9 @@ export const groupGranularity = {
   propertySlug: "group-granularity",
   definition: "how wide a stretch of time one group of a view covers",
   values: ["day", "week", "month", "year"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a view gathering by a date states a granularity.",
     },
   ],

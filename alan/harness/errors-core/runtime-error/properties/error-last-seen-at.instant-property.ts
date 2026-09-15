@@ -6,17 +6,17 @@ export const errorLastSeenAt = {
   slug: "error-last-seen-at",
   propertySlug: "last-seen-at",
   definition: "when an error was most recently met",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The moment an error was last met moves whenever the error is met again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The moment an error was last met is kept outside the commit.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An error naming no such moment was last met at an unknown moment.",
     },
   ],

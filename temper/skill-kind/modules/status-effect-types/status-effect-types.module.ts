@@ -6,9 +6,9 @@ export const statusEffectTypes = {
   slug: "status-effect-types",
   definition: "the twelve status effects a skill puts on what it hits",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
   ],

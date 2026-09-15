@@ -6,13 +6,13 @@ export const answersACheckoutRoot = {
   slug: "answers-a-checkout-root",
   propertySlug: "answers-a-checkout-root",
   definition: "whether a module answers a checkout root",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module saying nothing here answers no checkout root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A module that answers where a checkout sits says true here rather than being named elsewhere.",
     },

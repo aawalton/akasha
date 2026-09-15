@@ -47,21 +47,21 @@ export const skillEffects = {
     { pageProperty: "number-property/effect-value", required: false, many: false },
     { pageProperty: "number-property/value-per-piece", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An effect names the kind of thing casting a skill does.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which fields an effect carries beyond its kind follows from that kind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An effect that delays or repeats has an inner effect.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill with no effect states no effect rather than an empty list.",
     },
   ],

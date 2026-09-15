@@ -15,39 +15,39 @@ export const inferenceRun = {
     "module/persist-image",
     "module/persist-media",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run is opened before the model starts and closed as completed or failed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run records where its output was written rather than the output itself.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run that throws is finished as failed rather than left running.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The media a run made is kept as an object and named from the page that object was made under.",
     },
-    { invariantKind: "invariant-kind/absence", statement: "Nothing here reaches a model service." },
+    { decisionKind: "decision-kind/absence", statement: "Nothing here reaches a model service." },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows which host a service is on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run is recorded as a row beside the generation log that run names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What a recording landed is pushed into the caller's `done` as it lands.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recording that threw part way names in its refusal what had landed by then.",
     },
   ],

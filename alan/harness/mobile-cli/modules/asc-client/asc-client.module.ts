@@ -7,44 +7,44 @@ export const ascClient = {
   definition: "the App Store Connect REST client that mints its own ES256 JWT from the local .p8",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "the JWT is signed with WebCrypto ECDSA P-256 rather than with a JWT library",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "an App Store Connect JWT minted here lives for 900 seconds",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "an expired token draws the same 401 from App Store Connect as a key lacking access",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "a poll outliving its token reads back as a permissions failure on the key",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "a long-running read asks the token source for a token per request rather than holding a token",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "a token source re-mints once the held token is within 120 seconds of expiry",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "the .p8 private key is read from the workstation home directory rather than from this code",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "every response schema passes unknown App Store Connect fields through untouched",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "a 401 or 403 from App Store Connect is reported as the key lacking the App Manager role",
     },

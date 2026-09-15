@@ -8,17 +8,17 @@ export const errorMessage = {
   definition: "what an error said when a client met the error",
   maxLength: 2048,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message is kept as the reporting client sent the message.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A message could have whatever a person typed.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Nothing here takes a secret out of a message before the message is committed.",
     },
   ],

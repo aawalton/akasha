@@ -6,17 +6,17 @@ export const scrollableMenuUtilIndex = {
   slug: "scrollable-menu-util-index",
   definition: "the bare import list covering the eight util modules",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list of bare imports is used in place of any re-export.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The data helpers are imported before the modules that read a helper.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The file declares no value of its own.",
     },
   ],

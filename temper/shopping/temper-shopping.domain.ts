@@ -13,21 +13,21 @@ export const temperShopping = {
     "module/ttc-shopping-optimizer",
     "module/ttc-shopping-types",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plan here names the listings to buy rather than buying anything.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A listing at an already chosen kiosk wins a tie on price.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A budget ceiling rises as the market for an item thins.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No price here is asked of the game.",
     },
   ],

@@ -10,9 +10,9 @@ export const groupSorts = {
     { pageProperty: "text-property/sort-key", required: true, many: false },
     { pageProperty: "boolean-property/sort-descending", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a view gathering its pages orders its groups.",
     },
   ],

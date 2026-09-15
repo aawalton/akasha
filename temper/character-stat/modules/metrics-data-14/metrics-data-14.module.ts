@@ -6,9 +6,9 @@ export const metricsData14 = {
   slug: "metrics-data-14",
   definition: "character stats stamina-dodge-cost through sturdy",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The stats are named here in the order the gathered table answers its ids in.",
     },
   ],

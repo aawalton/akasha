@@ -6,29 +6,29 @@ export const rankProperty = {
   slug: "rank-property",
   definition: "a page property with a rung on a ladder of grades",
   extends: ["page-type/select-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The ladder runs from `F` up to `S+`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung above another rung is a better grade.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rank property states the whole ladder as its values.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The ladder is the values a rank property states rather than a second list here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung is read off a rank property's own file.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Nothing refuses a rank property whose values are not the ladder.",
     },
   ],

@@ -6,9 +6,9 @@ export const housingLibraryTab = {
   slug: "housing-library-tab",
   definition: "drawing the community library rows and their port buttons",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row is drawn only for a library entry the current filter admits.",
     },
   ],

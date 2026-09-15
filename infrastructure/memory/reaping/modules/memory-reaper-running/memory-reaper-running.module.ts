@@ -6,21 +6,21 @@ export const memoryReaperRunning = {
   slug: "memory-reaper-running",
   definition: "the reaper's loop, ticking until it is stopped",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reaper's configuration is stated when that reaper starts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tick that throws is reported and the loop goes on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reaper runs until stopped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stop ends the loop at its next boundary.",
     },
   ],

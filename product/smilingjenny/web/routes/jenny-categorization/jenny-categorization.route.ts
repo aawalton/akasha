@@ -8,13 +8,13 @@ export const jennyCategorization = {
   code: "ts",
   test: "ts",
   urlPath: "api/categorization",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The readout served is the one thing named here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Everything else about that readout is read off the readout's own page.",
     },
   ],

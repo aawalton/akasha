@@ -6,25 +6,25 @@ export const sampleRows = {
   slug: "sample-rows",
   definition: "a stored row read back as a health reading",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row naming a metric nobody knows is answered as nothing rather than throwing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row whose value is no finite number is answered as nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value stored as text is read as the number the value spells.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field the row does not have reads as the empty string.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row beside an akasha page spells its keys in camel.",
     },
   ],

@@ -6,17 +6,17 @@ export const ready = {
   slug: "ready",
   definition: "an agent between turns whose role is on call",
   color: "color/purple",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat reading ready is between turns rather than taking a turn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat reading ready is told apart from an idle seat by its role being on call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat already waiting on something of its own is waiting rather than ready.",
     },
   ],

@@ -7,18 +7,18 @@ export const categoryMatch = {
   definition:
     "the answer to whether a compiled rule's category id appears in one item's category chain",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An absent category chain answers unknown rather than answering mismatch.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A match is plain equality between the rule category id and one node id in the chain.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here consults the category tree.",
     },
   ],

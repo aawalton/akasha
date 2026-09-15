@@ -6,9 +6,9 @@ export const passiveQueries = {
   slug: "passive-queries",
   definition: "what a character's slotted skills and worn armour answer about its passives",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The empty slot sentinel counts toward no skill line.",
     },
   ],

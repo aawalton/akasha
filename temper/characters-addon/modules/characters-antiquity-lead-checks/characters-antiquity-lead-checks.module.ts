@@ -7,9 +7,9 @@ export const charactersAntiquityLeadChecks = {
   definition:
     "the antiquity leads a character holds, and which of those are motif, legendary or unfinished",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A lead is a motif lead where the antiquity's name opens with the style's word.",
     },
   ],

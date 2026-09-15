@@ -6,25 +6,25 @@ export const mediaData = {
   slug: "media-data",
   definition: "the fonts, backgrounds, borders and sounds the library ships with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A font table is chosen by the language the client runs in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A font the official language descriptor matches takes the built-in font path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A language with no preset takes the vanilla font paths.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The Japanese and Chinese fonts are added to every language.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sound the client does not name is left out rather than added as empty.",
     },
   ],

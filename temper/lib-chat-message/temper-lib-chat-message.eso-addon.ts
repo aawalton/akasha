@@ -25,30 +25,30 @@ export const temperLibChatMessage = {
     "module/chat-saved-data",
     "type-declaration/chat-message-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A message is printed through the game's chat router rather than a direct chat call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tagged message has the tag of the addon that printed the message.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A time prefix is read from the local clock in whole seconds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Chat history is restored once the player has entered the world.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A restored message keeps the timestamp the message was first stored under.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A caller reaches this library through a game global rather than an import.",
     },
   ],

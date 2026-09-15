@@ -6,9 +6,9 @@ export const mediaMain = {
   slug: "media-main",
   definition: "the entry the game loads the library through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here is exported.",
     },
   ],

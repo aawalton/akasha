@@ -7,9 +7,9 @@ export const mediaConsoleBackupfontZh = {
   definition: "the fallback fonts a console client loads for Chinese",
   markup: "xml",
   loadedAs: "Console/backupfont_zh.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fallback font is loaded only where the client runs this language.",
     },
   ],

@@ -8,23 +8,23 @@ export const trackKey = {
   definition: "the text matching a track to the same track carried on another release",
   maxLength: 400,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A track key is the title, then the artists, then the length in milliseconds, parted by `|`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The title in a track key has only lowercase letters and digits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The artists in a track key are every artist the provider credits, sorted and parted by `,`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two tracks with one track key are one recording carried on two releases.",
     },
   ],

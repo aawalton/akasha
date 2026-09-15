@@ -6,18 +6,18 @@ export const nextBossMenu = {
   slug: "next-boss-menu",
   definition: "the settings panel a player turns this tracker's parts on and off from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A setting takes effect the moment that setting changes rather than on the next reload.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The saved variables are read before the panel is built.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panel names the two authors this tracker was ported from.",
     },
   ],

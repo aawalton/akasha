@@ -10,9 +10,9 @@ export const id = {
   nameFormat: "name-format/lower-uuid",
   unique: "unique-kind/page",
   generator: "generator-kind/uuid-v7",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page being created states no id of its own.",
     },
   ],

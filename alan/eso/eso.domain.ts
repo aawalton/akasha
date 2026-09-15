@@ -6,9 +6,9 @@ export const eso = {
   slug: "eso",
   definition: "Alan's play of The Elder Scrolls Online",
   parts: ["domain/eso-wallpaper"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A persona answers for this domain.",
     },
   ],

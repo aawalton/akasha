@@ -7,17 +7,17 @@ export const seatTurnColor = {
   definition: "the color a seat's turn state is drawn in, read off that state's own page",
   code: "ts",
   testFixtures: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn state's page is reached by that state's name as the page's slug.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No table turns a turn state's name into the name of that state's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The color reads back as the slug alone, whatever page type names it.",
     },
   ],

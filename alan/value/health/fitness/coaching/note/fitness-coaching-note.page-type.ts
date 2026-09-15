@@ -35,9 +35,9 @@ export const fitnessCoachingNote = {
     },
     { pageProperty: "file-property/says", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A note's words are in a file of their own rather than in a value beside that note.",
     },

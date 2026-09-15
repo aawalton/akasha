@@ -6,9 +6,9 @@ export const companionQolInteractionHandlers = {
   slug: "companion-qol-interaction-handlers",
   definition: "the game events that dismiss and resummon a companion around an interaction",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Resummoning after fishing and after crouching each wait a delay a player sets.",
     },
   ],

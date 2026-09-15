@@ -7,9 +7,9 @@ export const deviceTokenIosApp = {
   propertySlug: "ios-app",
   definition: "the app a push reaches on the device with a token",
   targetPageType: "page-type/ios-app",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bundle a push is addressed to is read from the app rather than kept here.",
     },
   ],

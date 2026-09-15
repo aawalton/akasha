@@ -7,18 +7,18 @@ export const addonMenuPublicApi = {
   definition:
     "the global names LibAddonMenu2 and LAMCreateControl assigned once every module has loaded",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every widget module is imported for the side effect of registering its factory.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "An older LibAddonMenu already in memory triggers a one-time compatibility warning.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The two globals are assigned after all imports have run.",
     },
   ],

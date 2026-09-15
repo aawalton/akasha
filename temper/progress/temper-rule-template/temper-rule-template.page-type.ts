@@ -15,9 +15,9 @@ export const temperRuleTemplate = {
     { pageProperty: "boolean-property/active", required: true, many: false },
     { pageProperty: "relation-property/goal", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A template is offered to a reader rather than acted on where the template is off.",
     },

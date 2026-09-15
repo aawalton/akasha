@@ -6,17 +6,17 @@ export const inventoryRuleCompiler = {
   slug: "inventory-rule-compiler",
   definition: "one item rule turned into the compiled form the game addon and the web matcher read",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule compiles to one ordered entry.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A compiled rule's place in the list is the order the rules are tried in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A rule moved to another place changes which rule an item matches first.",
     },
   ],

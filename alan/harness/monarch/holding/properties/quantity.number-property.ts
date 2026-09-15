@@ -7,9 +7,9 @@ export const quantity = {
   propertySlug: "quantity",
   definition: "how many shares of a security an account holds",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quantity runs to fractions of a share.",
     },
   ],

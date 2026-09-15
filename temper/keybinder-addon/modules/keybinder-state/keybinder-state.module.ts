@@ -6,14 +6,14 @@ export const keybinderState = {
   slug: "keybinder-state",
   definition: "what the add-on has while the key-bind window is open",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The saved variables replace the account bindings once the game loads the saved variables.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Leaving the key-bind window forgets that the bindings were synchronised.",
     },
   ],

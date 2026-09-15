@@ -17,25 +17,25 @@ export const manyDeclaration = {
     { pageProperty: "relation-property/unique", required: false, many: false },
     { pageProperty: "relation-property/unique-property", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a declaration with many values states a count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A count left unbounded is stated as nothing rather than left out.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A declaration with many values states no default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A declaration saying many keeps every value in the page file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The true this states is what tells a declaration from its one-valued sibling.",
     },
   ],

@@ -8,17 +8,17 @@ export const modelManifest = {
   definition: "what a trained parser says about itself",
   extensions: ["json"],
   generated: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The manifest names the classes and the relations the model can answer with.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The manifest names the checkpoint the model came from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The manifest is kept outside the commit.",
     },
   ],

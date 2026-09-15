@@ -6,17 +6,17 @@ export const itemBrowserItems = {
   slug: "item-browser-items",
   definition: "every item set the browser knows, gathered in order from three parts",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A row's place in this table is the order the set list is built in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "These rows are a frozen port of an upstream table.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "No program in this repository rebuilds these rows.",
     },
   ],

@@ -6,13 +6,13 @@ export const dashBetweenWords = {
   slug: "dash-between-words",
   definition: "a name rewritten with a dash where one word runs into the next",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capital opening the name is lowered where no letter sits before it to dash.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A run of capitals holds no word break, so nothing is dashed inside it.",
     },
   ],

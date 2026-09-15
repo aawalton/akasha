@@ -6,21 +6,21 @@ export const calendarTimeProperty = {
   slug: "calendar-time-property",
   definition: "a page property with a time of day",
   extends: ["page-type/page-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A time of day is written as an ISO 8601 wall time to the minute.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A time of day has no day.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A time of day has no zone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A moment on a stated day is an instant property rather than a calendar time property.",
     },

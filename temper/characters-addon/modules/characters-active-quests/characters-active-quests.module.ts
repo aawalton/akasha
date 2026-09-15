@@ -6,9 +6,9 @@ export const charactersActiveQuests = {
   slug: "characters-active-quests",
   definition: "the quests in the journal now, each with its name and the hint shown beneath it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A condition the game gives already has its own count in its text.",
     },
   ],

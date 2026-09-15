@@ -6,9 +6,9 @@ export const housingSliders = {
   slug: "housing-sliders",
   definition: "scrolling a housing list by its slider and by the mouse wheel",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list shorter than the frame with the list hides the slider.",
     },
   ],

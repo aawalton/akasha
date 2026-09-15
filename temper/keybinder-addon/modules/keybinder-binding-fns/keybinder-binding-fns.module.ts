@@ -6,17 +6,17 @@ export const keybinderBindingFns = {
   slug: "keybinder-binding-fns",
   definition: "binding and unbinding a key, through the secure call where the game protects it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A protected call is made through the secure wrapper rather than directly.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A call the game keeps private is not made.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The add-on does nothing where neither way of binding is open to the add-on.",
     },
   ],

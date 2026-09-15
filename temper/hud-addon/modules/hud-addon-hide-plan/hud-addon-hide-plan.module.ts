@@ -6,13 +6,13 @@ export const hudAddonHidePlan = {
   slug: "hud-addon-hide-plan",
   definition: "what hiding to carry out, worked out from the catalog and what the player asked for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A registration naming no part in the catalog is left out of the plan.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here touches a game control.",
     },
   ],

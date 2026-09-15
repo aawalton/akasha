@@ -14,5 +14,5 @@ export const changeMechanicalFileMove = {
     "change-mechanical/move-file-page-type",
     "change-mechanical/move-files",
   ],
-  invariants: [],
+  decisions: [],
 } as const satisfies Domain

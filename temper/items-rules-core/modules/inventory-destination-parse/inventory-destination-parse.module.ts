@@ -6,13 +6,13 @@ export const inventoryDestinationParse = {
   slug: "inventory-destination-parse",
   definition: "an action name or a destination read out of the text a saved rule holds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text naming no known action reads as nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text naming no known destination reads as nothing.",
     },
   ],

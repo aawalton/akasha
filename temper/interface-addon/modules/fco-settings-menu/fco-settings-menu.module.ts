@@ -6,9 +6,9 @@ export const fcoSettingsMenu = {
   slug: "fco-settings-menu",
   definition: "the settings panel the interface tweaks register",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shared guard is kept for the type each guard here narrows to.",
     },
   ],

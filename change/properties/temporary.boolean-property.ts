@@ -6,17 +6,17 @@ export const temporary = {
   slug: "temporary",
   propertySlug: "temporary",
   definition: "whether what a change writes is meant to be taken away again",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change saying nothing here writes what is meant to stay.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What a temporary change writes answers to no page of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Whoever writes it takes it away again.",
     },
   ],

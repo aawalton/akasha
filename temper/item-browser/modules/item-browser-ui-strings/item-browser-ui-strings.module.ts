@@ -6,9 +6,9 @@ export const itemBrowserUiStrings = {
   slug: "item-browser-ui-strings",
   definition: "the English text this add-on adds to the game's table of strings",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The text here is English alone.",
     },
   ],

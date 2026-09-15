@@ -6,17 +6,17 @@ export const errorFirstSeenAt = {
   slug: "error-first-seen-at",
   propertySlug: "first-seen-at",
   definition: "when an error was met for the first time",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The moment an error was first met is the moment the error's page was filed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The moment an error was first met never moves.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The moment an error was first met is written into the commit.",
     },
   ],

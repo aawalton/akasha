@@ -6,27 +6,27 @@ export const seatReset = {
   slug: "seat-reset",
   definition: "a new agent sat down in a named seat, with every declaration the seat states",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The ops dispatcher imports this module and calls the default export this module declares.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat resetting itself is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reset ends the turn that asked for the reset.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The declarations the seat states are read back from its last committed page where no page is live.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A seat whose declarations spell no name is refused rather than reset into nothing.",
     },

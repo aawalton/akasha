@@ -6,9 +6,9 @@ export const browserTestEnv = {
   slug: "browser-test-env",
   definition: "the credentials and urls a browser test signs in with, read from the environment",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An environment missing a name yields no environment rather than a partial environment.",
     },

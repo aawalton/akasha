@@ -6,13 +6,13 @@ export const housingContextMenu = {
   slug: "housing-context-menu",
   definition: "adding a send-visit-card entry to the chat and guild-roster right-click menus",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game's own context-menu function is wrapped rather than replaced.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The wrap is put on after a delay the game needs to build a context menu.",
     },
   ],

@@ -10,13 +10,13 @@ export const openCooldowns = {
     { pageProperty: "text-property/cooldown-key", required: true, many: false },
     { pageProperty: "instant-property/ready-at", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One line is one cooldown a reading found.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A cooldown names when that cooldown comes round again rather than how long is left.",
     },

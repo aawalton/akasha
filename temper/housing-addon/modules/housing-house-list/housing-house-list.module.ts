@@ -6,9 +6,9 @@ export const housingHouseList = {
   slug: "housing-house-list",
   definition: "which houses this account has bought, read from the game's collectibles",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A house the account has yet to buy is listed but cannot be ported to.",
     },
   ],

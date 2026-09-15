@@ -6,13 +6,13 @@ export const temperCaptureError = {
   slug: "temper-capture-error",
   definition: "the shape an error raised inside the game takes where the game saves it",
   parts: ["module/errors-descriptor", "module/errors-payload"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The error add-on and every reader of the add-on's capture agree here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the game.",
     },
   ],

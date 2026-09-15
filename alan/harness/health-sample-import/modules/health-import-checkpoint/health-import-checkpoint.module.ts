@@ -6,17 +6,17 @@ export const healthImportCheckpoint = {
   slug: "health-import-checkpoint",
   definition: "how far an import got, kept on disk so the next run carries on from there",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkpoint is keyed by the readings imported rather than by when.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkpoint that will not parse is read as no checkpoint.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A finished import clears its checkpoint.",
     },
   ],

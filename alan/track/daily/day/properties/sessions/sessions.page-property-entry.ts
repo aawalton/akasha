@@ -49,31 +49,31 @@ export const sessions = {
     { pageProperty: "text-property/session-owner", required: false, many: false },
     { pageProperty: "number-property/breathing-sets", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A question about a stretch is identified by a mark minted when the row is written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A question about a stretch is never identified by that stretch's title.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stretch with no end is the stretch running now.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A stretch is a row here rather than a page a query may ask of.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A calculation is handed the rows this file has in place of the extension the page has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row is spelled as the file spells the row.",
     },
   ],

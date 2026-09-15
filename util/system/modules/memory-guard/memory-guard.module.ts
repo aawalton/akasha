@@ -6,22 +6,22 @@ export const memoryGuard = {
   slug: "memory-guard",
   definition: "whether the workstation has memory enough to admit one more process",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Eight gigabytes free is the least the workstation admits a process on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A least read from the environment is used only where that least parses to a positive number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Admitting a spawn asks the inodes as well as the memory.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A meminfo line that does not match refuses rather than reading as zero.",
     },
   ],

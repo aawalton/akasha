@@ -6,25 +6,25 @@ export const inboxCountTick = {
   slug: "inbox-count-tick",
   definition: "one poll of every inbox and one write of what it found, and then the run is over",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tick is a single poll and a single write.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The day polled and the day written are a single ESO day settled once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every inbox that answered nothing is named among the failures the run reports.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run in which a source failed still ends well.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here waits or loops.",
     },
   ],

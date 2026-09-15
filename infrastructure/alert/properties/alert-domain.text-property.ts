@@ -8,17 +8,17 @@ export const alertDomain = {
   definition: "the area a raised alert is owed to",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An area is named here as text rather than reached as a page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An area named here is not always a page in akasha yet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An alert naming a person is owed to that person rather than to an area.",
     },
   ],

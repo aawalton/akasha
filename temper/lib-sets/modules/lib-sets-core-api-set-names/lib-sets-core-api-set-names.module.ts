@@ -6,9 +6,9 @@ export const libSetsCoreApiSetNames = {
   slug: "lib-sets-core-api-set-names",
   definition: "a set's name in one language, in every language, or every set's names at once",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every set's names are built once and held for the rest of the session.",
     },
   ],

@@ -6,17 +6,17 @@ export const referenceBuildData = {
   slug: "reference-build-data",
   definition: "lazily decoded reference companion build and its cached support baseline",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The build decoder is injected at runtime through registerCompanionDecoder.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The reference build code is a fixed literal string.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Decoding throws when no decoder has been registered.",
     },
   ],

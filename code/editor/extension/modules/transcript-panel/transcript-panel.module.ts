@@ -6,25 +6,25 @@ export const transcriptPanel = {
   slug: "transcript-panel",
   definition: "the command that opens a seat's transcript, and the seat it asks Alan to pick",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One command opens a transcript.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command given no seat and no path asks Alan to pick a seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a seat whose transcript file exists is offered.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seats are offered with the most lately written first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A machine with no seat transcript is told so rather than shown a list.",
     },
   ],

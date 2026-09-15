@@ -8,13 +8,13 @@ export const constraints = {
   definition: "a bound the work is done within",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A constraint is never worked and never met.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A constraint that no longer bounds the work is deleted.",
     },
   ],

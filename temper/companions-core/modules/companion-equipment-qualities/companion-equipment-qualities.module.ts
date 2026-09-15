@@ -6,17 +6,17 @@ export const companionEquipmentQualities = {
   slug: "companion-equipment-qualities",
   definition: "every grade a piece of companion equipment is made at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the companion pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A quality's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A quality moved to another place breaks every build hash saved.",
     },
   ],

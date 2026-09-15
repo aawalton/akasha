@@ -11,13 +11,13 @@ export const proxy = {
     { pageProperty: "number-property/proxy-port", required: true, many: false },
     { pageProperty: "text-property/proxy-version", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat reaches one proxy or no proxy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A proxy short of a single field is no proxy at all.",
     },
   ],

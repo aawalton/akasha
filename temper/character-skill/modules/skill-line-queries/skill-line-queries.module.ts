@@ -6,13 +6,13 @@ export const skillLineQueries = {
   slug: "skill-line-queries",
   definition: "which skill lines a character may choose, wear into, or lose on a class change",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A class offers the class lines first while no other slot has a class line.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Five pieces of one armour weight open that weight's line.",
     },
   ],

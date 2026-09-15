@@ -6,9 +6,9 @@ export const skillPointFinderStrings = {
   slug: "skill-point-finder-strings",
   definition: "the wording the skill point window shows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A string is registered under an identifier the markup names.",
     },
   ],

@@ -6,13 +6,13 @@ export const supervisorInteractiveSeams = {
   slug: "supervisor-interactive-seams",
   definition: "the three collaborators a seat's interactive run is handed rather than reaching for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here has behaviour.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seam is a type alone.",
     },
   ],

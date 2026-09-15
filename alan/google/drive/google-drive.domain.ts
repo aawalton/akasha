@@ -12,9 +12,9 @@ export const googleDrive = {
     "module/drive-file-schema",
     "module/drive-files",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes to Drive.",
     },
   ],

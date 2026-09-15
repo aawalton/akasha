@@ -6,13 +6,13 @@ export const runsChecks = {
   slug: "runs-checks",
   propertySlug: "runs-checks",
   definition: "whether checks run on a change of this kind",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change kind whose changes are expected to pass checks runs checks.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change kind whose changes are not expected to pass checks runs no check.",
     },
   ],

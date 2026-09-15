@@ -6,18 +6,18 @@ export const inventoryRuleTypes = {
   slug: "inventory-rule-types",
   definition: "the shape of an item rule and the names of every action a rule may give an item",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An action a rule may give an item is named once here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A currency category is named by a prefix and by the key the currency banks under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The category id `all` reaches every item.",
     },
   ],

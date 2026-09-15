@@ -6,9 +6,9 @@ export const fcoUi = {
   slug: "fco-ui",
   definition: "the promotional event tracker the interface tweaks move",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shared guard is kept for the type each guard here narrows to.",
     },
   ],

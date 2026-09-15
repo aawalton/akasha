@@ -6,21 +6,21 @@ export const contentPagesFs = {
   slug: "content-pages-fs",
   definition: "content pages held in the device's own file system",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which ids are held is answered from the index rather than from the body files.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Reading every body to answer that would read the whole held library each time.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An id the index names has a body that reads back.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A body that does not read back is fetched again rather than reported as held.",
     },
   ],

@@ -8,9 +8,9 @@ export const buildInputTreeHash = {
   definition: "the hash of everything a build reads, which a cut is judged owed against",
   maxLength: 64,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cut with no hash predates the basis cuts are judged by and reads as owed.",
     },
   ],

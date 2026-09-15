@@ -6,13 +6,13 @@ export const saidBy = {
   slug: "said-by",
   definition: "what a thrown thing says",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A thrown thing is read for a message.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A thrown thing is made to speak even where that thing is no Error.",
     },
   ],

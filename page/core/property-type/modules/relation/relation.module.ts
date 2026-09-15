@@ -6,9 +6,9 @@ export const relation = {
   slug: "relation",
   definition: "the operations a relation property supports",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page type a relation points at is read here rather than by each reader.",
     },
   ],

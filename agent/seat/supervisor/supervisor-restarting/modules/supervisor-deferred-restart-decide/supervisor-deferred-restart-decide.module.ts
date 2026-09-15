@@ -7,17 +7,17 @@ export const supervisorDeferredRestartDecide = {
   definition: "whether a deferred restart fires on this tick",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A busy session fires only where the same reason and transcript repeat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A defer past its ceiling fires however busy the session reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An idle streak short of the threshold does not fire.",
     },
   ],

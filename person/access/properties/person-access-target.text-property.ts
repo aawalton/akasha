@@ -8,9 +8,9 @@ export const personAccessTarget = {
   definition: "the one thing of that kind the access reaches, or `all`",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A target of `all` is every target of that kind and is the only pattern an access takes.",
     },

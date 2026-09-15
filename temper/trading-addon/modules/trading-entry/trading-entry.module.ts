@@ -6,9 +6,9 @@ export const tradingEntry = {
   slug: "trading-entry",
   definition: "what the listings add-on does as the game loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Expired listings are dropped before anything is captured.",
     },
   ],

@@ -6,9 +6,9 @@ export const lorebooksBookData = {
   slug: "lorebooks-book-data",
   definition: "the whole Eidetic Memory book table, gathered from its runs in order",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The runs are gathered in the order the whole table names.",
     },
   ],

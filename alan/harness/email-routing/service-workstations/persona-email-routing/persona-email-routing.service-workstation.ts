@@ -13,25 +13,25 @@ export const personaEmailRouting = {
     catchUp: true,
     startTimeoutSeconds: 600,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Declaring an address on a persona page is all anyone does to route it.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rule is taken away or turned off by this service.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run here writes, because a dry run nobody reads routes nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run whose token is refused fails the unit rather than passing quietly.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run over a zone already in step writes nothing, so a daily run costs one read.",
     },
   ],

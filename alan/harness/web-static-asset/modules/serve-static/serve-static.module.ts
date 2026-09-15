@@ -6,14 +6,14 @@ export const serveStatic = {
   slug: "serve-static",
   definition: "which request path is answered from the client build, and under which cache-control",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A path under the assets folder is answered or refused here rather than passed on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The root path is never answered from disk.",
     },
   ],

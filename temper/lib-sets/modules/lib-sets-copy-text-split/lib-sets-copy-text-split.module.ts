@@ -6,9 +6,9 @@ export const libSetsCopyTextSplit = {
   slug: "lib-sets-copy-text-split",
   definition: "cutting a string into fixed-length chunks without breaking a multi-byte character",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The cut point is nudged forward when the cut point lands inside a multi-byte character.",
     },

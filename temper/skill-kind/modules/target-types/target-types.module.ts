@@ -6,9 +6,9 @@ export const targetTypes = {
   slug: "target-types",
   definition: "who a skill effect reaches, from the caster alone to the ground under it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
   ],

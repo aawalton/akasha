@@ -5,9 +5,9 @@ export const surplus = {
   type: "page-type/readout-group",
   slug: "surplus",
   definition: "how much of Alan's night the day has left him",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reading is the hours the night had less the hours the day spent.",
     },
   ],

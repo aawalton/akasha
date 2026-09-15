@@ -6,13 +6,13 @@ export const hudSceneSource = {
   slug: "hud-scene-source",
   definition: "the game file every catalogued HUD part is found in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The path is written from the root of the game's UI source clone.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a file.",
     },
   ],

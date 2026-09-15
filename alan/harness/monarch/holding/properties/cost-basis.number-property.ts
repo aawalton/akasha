@@ -7,9 +7,9 @@ export const costBasis = {
   propertySlug: "cost-basis",
   definition: "what was paid for the shares an account holds",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A holding reports nothing paid where the account never told Monarch the cost basis.",
     },

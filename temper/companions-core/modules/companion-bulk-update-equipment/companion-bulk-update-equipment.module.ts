@@ -6,17 +6,17 @@ export const companionBulkUpdateEquipment = {
   slug: "companion-bulk-update-equipment",
   definition: "bulk replacement of one trait or quality value across companion equipment slots",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The off-hand slot is skipped in the loop and mirrored from main-hand afterward.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Mirroring to off-hand is suppressed when the main-hand weapon is two-handed.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A slot whose current value differs from the old value is left untouched.",
     },
   ],

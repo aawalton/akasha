@@ -10,21 +10,21 @@ export const placements = {
     { pageProperty: "text-property/resource-name", required: true, many: false },
     { pageProperty: "text-property/resource-key", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One value wanted in two resources is one page naming two placements.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A placement says where a value goes rather than holding the value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page naming no placement puts its value nowhere.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two placements naming one resource and one key are one placement written twice.",
     },
   ],

@@ -11,17 +11,17 @@ export const desktopWallpaperSetting = {
     restartDelaySeconds: 5,
     startLimitIntervalSeconds: 0,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The unit running the watch is simple rather than a timer.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Repeated starts are counted over no window.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A watch failing all night keeps on.",
     },
   ],

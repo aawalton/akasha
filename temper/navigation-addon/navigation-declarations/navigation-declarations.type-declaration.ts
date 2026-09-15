@@ -7,17 +7,17 @@ export const navigationDeclarations = {
   definition:
     "the tables this add-on publishes under its four names, and the font and saved variables it makes",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The minimap's table is declared by the members the key bindings reach.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name the game or a library owns is declared in the shared set instead.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

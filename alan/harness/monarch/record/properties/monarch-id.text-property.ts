@@ -8,17 +8,17 @@ export const monarchId = {
   definition: "the identity Monarch gives one of its records",
   maxLength: 40,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A Monarch identity is a run of digits Monarch mints rather than a uuid.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record Alan wrote that Monarch never held has no Monarch identity.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sync matches an existing page by that page's Monarch identity.",
     },
   ],

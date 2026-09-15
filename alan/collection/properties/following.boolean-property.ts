@@ -6,9 +6,9 @@ export const following = {
   slug: "following",
   propertySlug: "following",
   definition: "whether a person is working through a collection as the collection arrives",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collection a person follows is never finished while the collection grows.",
     },
   ],

@@ -6,13 +6,13 @@ export const esoName = {
   slug: "eso-name",
   definition: "a name the game gave, with the game's own grammar suffix cut off",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A suffix the game wrote after a caret is cut from the end of the name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caret anywhere but the end of the name is left alone.",
     },
   ],

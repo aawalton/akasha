@@ -6,25 +6,25 @@ export const composeInputFromArguments = {
   slug: "compose-input-from-arguments",
   definition: "a composition built from the arguments an email command was called with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An address list is split on commas as well as on repeated flags.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty address list is left out rather than carried as an empty list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sender given in angle brackets has the name before the brackets.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Quotation marks around a sender name are dropped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An attachment is read off the disk before the composition is answered.",
     },
   ],

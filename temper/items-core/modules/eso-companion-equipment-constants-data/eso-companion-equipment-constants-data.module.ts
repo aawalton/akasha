@@ -6,13 +6,13 @@ export const esoCompanionEquipmentConstantsData = {
   slug: "eso-companion-equipment-constants-data",
   definition: "the numbers the game gives companion equip types and companion gear qualities",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "These numbers were written out from the companion equipment constant pages.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No name here is taken from the game at runtime.",
     },
   ],

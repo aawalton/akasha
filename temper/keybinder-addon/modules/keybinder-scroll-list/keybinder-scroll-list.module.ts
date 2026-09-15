@@ -6,18 +6,18 @@ export const keybinderScrollList = {
   slug: "keybinder-scroll-list",
   definition: "the account-wide checkbox added to every row of the key-bind list",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row built before the hook was installed is given its checkbox on setup.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The checkbox reads indeterminate where the saved keys differ from the bound keys.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Clearing the checkbox drops the action from the account-wide set.",
     },
   ],

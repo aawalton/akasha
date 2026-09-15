@@ -11,21 +11,21 @@ export const bookSeries = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "select-property/maturity-rating", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A series has books alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The books a series has are the books naming that series.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A series Alan has not graded states no rank.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A series opening its name with a number is slugged for its page type first.",
     },
   ],

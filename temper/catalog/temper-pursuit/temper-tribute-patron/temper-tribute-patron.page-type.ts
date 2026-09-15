@@ -19,9 +19,9 @@ export const temperTributePatron = {
     { pageProperty: "number-property/eso-collectible-id", required: true, many: false },
     { pageProperty: "page-property-entry/cards", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A patron is reached by the collectible the game grants when the patron is won.",
     },
   ],

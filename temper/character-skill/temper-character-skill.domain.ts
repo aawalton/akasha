@@ -116,13 +116,13 @@ export const temperCharacterSkill = {
     "module/skill-bar-filtering",
     "module/skill-line-queries",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every table here is written out from the skill pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill's place in the whole table is the index a build hash has.",
     },
   ],

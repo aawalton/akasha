@@ -7,13 +7,13 @@ export const matchComparison = {
   propertySlug: "comparison",
   definition: "how a clause weighs what it tests against what it holds",
   values: ["is", "is-not", "on-or-after", "is-before"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A clause with several values passes where a single value matches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a clause testing a date compares by `on-or-after` or `is-before`.",
     },
   ],

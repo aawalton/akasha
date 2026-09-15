@@ -6,21 +6,21 @@ export const inventoryResolvedActionRecord = {
   slug: "inventory-resolved-action-record",
   definition: "writing onto a captured item the action and place the rules resolved it to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record is written from inside the run that resolved the item.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here evaluates a rule.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rescan keeps the record where the slot holds the same link and the same count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rescan drops the record where either differs.",
     },
   ],

@@ -6,9 +6,9 @@ export const libSetsSearchUiSearchuiGlobals = {
   slug: "lib-sets-search-ui-searchui-globals",
   definition: "where the live keyboard and gamepad search windows are kept",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window is reached through a global string key rather than an import.",
     },
   ],

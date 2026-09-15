@@ -6,9 +6,9 @@ export const tradingSkipKioskDialog = {
   slug: "trading-skip-kiosk-dialog",
   definition: "passing the trader kiosk confirmation a player would otherwise answer",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the confirmation is passed and the purchase itself is left alone.",
     },
   ],

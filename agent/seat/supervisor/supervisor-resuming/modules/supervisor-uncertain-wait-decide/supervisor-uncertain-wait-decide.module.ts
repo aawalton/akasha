@@ -8,18 +8,18 @@ export const supervisorUncertainWaitDecide = {
     "whether a seat held up by a claimant nobody can read has been held up long enough to escalate",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat no longer blocked forgets how long that seat was blocked for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A block is timed from the first tick that read that block rather than from the seat's start.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One unbroken block escalates once.",
     },
   ],

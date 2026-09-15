@@ -6,13 +6,13 @@ export const personaTargets = {
   slug: "persona-targets",
   definition: "each persona akasha holds, beside the rules by which a message starts her seat",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No persona page states a rule by which a message starts a seat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The empty list is the answer the persona pages give rather than a reading that failed.",
     },

@@ -6,9 +6,9 @@ export const fcoSkills = {
   slug: "fco-skills",
   definition: "the skills window the interface tweaks change",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shared guard could name the type each guard here narrows to.",
     },
   ],

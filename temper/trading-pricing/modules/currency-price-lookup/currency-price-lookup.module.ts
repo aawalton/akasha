@@ -6,17 +6,17 @@ export const currencyPriceLookup = {
   slug: "currency-price-lookup",
   definition: "what a telvar stone, an alliance point and a writ voucher are worth in gold",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rate is read off the gold price of an item that currency buys.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Gold is worth one gold.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A currency with no priced item has no rate.",
     },
   ],

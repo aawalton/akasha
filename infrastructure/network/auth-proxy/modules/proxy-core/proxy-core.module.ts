@@ -6,13 +6,13 @@ export const proxyCore = {
   slug: "proxy-core",
   definition: "a canned body, a bad gateway, and a fetch that falls to one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An upstream that cannot be reached is answered as a bad gateway.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The failure is reported to the caller of the fetch rather than to the client.",
     },
   ],

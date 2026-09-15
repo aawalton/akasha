@@ -6,42 +6,42 @@ export const memoryReaperTick = {
   slug: "memory-reaper-tick",
   definition: "one pass of reading the host, planning the kills and signalling them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process in a container is left out of everything the tick weighs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tick that cannot read the memory the host has free disarms its headroom leg.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tick that cannot read the process table does nothing rather than guessing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Trees are signalled before single processes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tree is signalled from its leaves up to its root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tick that overruns its deadline is abandoned rather than left to run on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kill that throws is said aloud and the rest of the plan still runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A tick first takes away every group a run left under the topmost group the reaper may write in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sweep that throws is said aloud and the tick still weighs the host.",
     },
   ],

@@ -8,13 +8,13 @@ export const selectValues = {
   definition: "one value a select property admits",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The values are page data rather than TypeScript alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order the values are written in is the order the values are offered in.",
     },
   ],

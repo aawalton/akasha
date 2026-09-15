@@ -6,9 +6,9 @@ export const libSetsSearchUiSharedClass = {
   slug: "lib-sets-search-ui-shared-class",
   definition: "the class both search windows take their shared behaviour from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The parent methods are handed out as a second plainly typed view of the class.",
     },
   ],

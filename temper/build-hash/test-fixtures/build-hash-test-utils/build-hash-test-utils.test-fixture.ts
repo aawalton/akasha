@@ -6,9 +6,9 @@ export const buildHashTestUtils = {
   slug: "build-hash-test-utils",
   definition: "a build hash a test makes by stamping a chosen update into bytes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The update a build was written at is the second byte of that build's bytes.",
     },
   ],

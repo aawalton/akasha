@@ -6,9 +6,9 @@ export const entitySchema = {
   slug: "entity-schema",
   definition: "the sheet a game entity keeps of what it is, what it has, and what it can do",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sheet keeps the keys the schema does not name.",
     },
   ],

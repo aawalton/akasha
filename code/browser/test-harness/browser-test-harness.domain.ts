@@ -16,13 +16,13 @@ export const browserTestHarness = {
     "module/target-guard",
     "module/worktree-git-facts",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The browser this drives is an optional dependency.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows the assertion any test the harness has makes.",
     },
   ],

@@ -7,9 +7,9 @@ export const codeEditorGroupTab = {
   definition: "a single open item within a group",
   extends: ["page-type/page"],
   mortal: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The next write takes the page of a tab closed while the tab's window is still open.",
     },

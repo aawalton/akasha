@@ -6,9 +6,9 @@ export const charactersConfig = {
   slug: "characters-config",
   definition: "the character order, the tasks and the completion floors that are in force",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value the Lua table states is preferred to the value the saved table says.",
     },
   ],

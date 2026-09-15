@@ -7,9 +7,9 @@ export const collectionTypeStatus = {
   propertySlug: "collection-type-status",
   definition: "how far a person has got with gathering a kind of thing at all",
   values: ["done", "not-doing", "someday-maybe"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This property says whether the kind is gathered rather than how far one collection has got.",
     },

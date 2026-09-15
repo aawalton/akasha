@@ -6,9 +6,9 @@ export const libSetsPublicApi = {
   slug: "lib-sets-public-api",
   definition: "the ordered load list of this library's modules",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The order these modules are loaded in is the order their effects happen.",
     },
   ],

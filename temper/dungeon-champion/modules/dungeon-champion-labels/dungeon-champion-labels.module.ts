@@ -6,13 +6,13 @@ export const dungeonChampionLabels = {
   slug: "dungeon-champion-labels",
   definition: "every label this addon shows a player, reached by key",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The labels here are English alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key no label answers to reads back as the empty string.",
     },
   ],

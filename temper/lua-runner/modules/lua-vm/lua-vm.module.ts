@@ -6,21 +6,21 @@ export const luaVm = {
   slug: "lua-vm",
   definition: "a Lua subprocess handed out as something to run scripts on and read globals from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A script that fails throws the error Lua gave rather than answering.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A global is read by running a return of that global's name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Stubs the caller hands in are loaded before the caller gets the VM.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Stubs that fail to load close the subprocess rather than leaving the subprocess half set up.",
     },

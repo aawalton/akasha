@@ -5,13 +5,13 @@ export const metric = {
   type: "page-type/domain",
   slug: "metric",
   definition: "a number about the system, recorded over time",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A metric is kept for months.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A metric comes largely from an instrument rather than from the thing measured.",
     },
   ],

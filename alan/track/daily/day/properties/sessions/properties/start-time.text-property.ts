@@ -8,9 +8,9 @@ export const startTime = {
   definition: "when a stretch of time began",
   maxLength: 24,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is an instant rather than text.",
     },
   ],

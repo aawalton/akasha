@@ -6,13 +6,13 @@ export const gpsLibState = {
   slug: "gps-lib-state",
   definition: "the library object and the state every other part of it reads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The logger and the chat channel are made as this module loads.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "LibDebugLogger and LibChatMessage are loaded before this library.",
     },
   ],

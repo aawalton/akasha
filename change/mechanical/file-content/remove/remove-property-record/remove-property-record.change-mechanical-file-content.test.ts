@@ -11,11 +11,11 @@ import {
 
 const AT = "held/one.page-type.ts"
 
-const KEY = "invariants"
+const KEY = "decisions"
 
-const FIRST = `{ invariantKind: "departure", statement: "the first" }`
+const FIRST = `{ decisionKind: "departure", statement: "the first" }`
 
-const SECOND = `{ invariantKind: "gap", statement: "the second" }`
+const SECOND = `{ decisionKind: "gap", statement: "the second" }`
 
 function bodied(held: string): string {
   return `export const one = {
@@ -25,7 +25,7 @@ ${held}
 `
 }
 
-const HOLDING = bodied(`  invariants: [
+const HOLDING = bodied(`  decisions: [
     ${FIRST},
     ${SECOND},
   ],`)
@@ -44,7 +44,7 @@ test("the record a match names is taken out", () => {
 })
 
 test("a record is named by any field of its own", () => {
-  const { world, said } = answering(HOLDING, "invariantKind", "gap")
+  const { world, said } = answering(HOLDING, "decisionKind", "gap")
   const left = bodyOf(said, world.base)
 
   expect(left).toContain(FIRST)
@@ -52,41 +52,41 @@ test("a record is named by any field of its own", () => {
 })
 
 test("a property keeps its key when the last record goes", () => {
-  const one = bodied(`  invariants: [
+  const one = bodied(`  decisions: [
     ${FIRST},
   ],`)
   const { world, said } = answering(one)
 
-  expect(bodyOf(said, world.base)).toContain("invariants: [")
+  expect(bodyOf(said, world.base)).toContain("decisions: [")
 })
 
 test("a key holding no record is refused", () => {
   const { said } = answering(bodied(`  partSlugs: ["one/two"],`))
 
-  expect(refusalOf(said)).toContain("states no records under `invariants`")
+  expect(refusalOf(said)).toContain("states no records under `decisions`")
 })
 
 test("a key holding a list of no records is refused", () => {
-  const { said } = answering(bodied(`  invariants: ["one"],`))
+  const { said } = answering(bodied(`  decisions: ["one"],`))
 
-  expect(refusalOf(said)).toContain("states no records under `invariants`")
+  expect(refusalOf(said)).toContain("states no records under `decisions`")
 })
 
 test("text no record states is refused", () => {
   const { said } = answering(HOLDING, "statement", "the third")
 
-  expect(refusalOf(said)).toBe("no record under `invariants` states that text under `statement`")
+  expect(refusalOf(said)).toBe("no record under `decisions` states that text under `statement`")
 })
 
 test("text more than one record states is refused, and the refusal says how many", () => {
-  const two = bodied(`  invariants: [
+  const two = bodied(`  decisions: [
     ${FIRST},
     ${FIRST},
   ],`)
   const { said } = answering(two)
 
   expect(refusalOf(said)).toBe(
-    "2 records under `invariants` state that text under `statement`, and one change works one"
+    "2 records under `decisions` state that text under `statement`, and one change works one"
   )
 })
 

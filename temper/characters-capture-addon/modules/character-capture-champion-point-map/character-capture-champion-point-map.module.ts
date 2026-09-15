@@ -6,9 +6,9 @@ export const characterCaptureChampionPointMap = {
   slug: "character-capture-champion-point-map",
   definition: "each champion point star's game id against its place in a build hash",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
   ],

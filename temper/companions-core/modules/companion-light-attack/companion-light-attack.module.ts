@@ -6,17 +6,17 @@ export const companionLightAttack = {
   slug: "companion-light-attack",
   definition: "how a companion's light attack resolves",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The strongest active light attack heal buff is the only buff applied on a swing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Expired buffs are pruned from the state as a side effect of reading the buffs.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A next-attack damage buff is consumed by the swing the buff lands on.",
     },
   ],

@@ -8,9 +8,9 @@ export const gameEngine = {
   definition: "the engine a game is run on",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The engine a game names settles how that game's page draws.",
     },
   ],

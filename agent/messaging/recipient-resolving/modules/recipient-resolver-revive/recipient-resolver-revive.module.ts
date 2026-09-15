@@ -6,25 +6,25 @@ export const recipientResolverRevive = {
   slug: "recipient-resolver-revive",
   definition: "a seat resumed under verification, read back as a revive signal",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A revive outrunning the timeout is left running and read as benign.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The resume is called as a function rather than spawned as a command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A revive that outran the timeout is tried again at the next tick.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A revive that did not verify is a seat that was not revived.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A dry run revives nothing.",
     },
   ],

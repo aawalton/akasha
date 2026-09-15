@@ -8,13 +8,13 @@ export const merchantPatterns = {
   definition: "a run of the bank's own words that names a merchant",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pattern is copied from the bank's line exactly including its abbreviations.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pattern matches where the bank's line has that pattern anywhere.",
     },
   ],

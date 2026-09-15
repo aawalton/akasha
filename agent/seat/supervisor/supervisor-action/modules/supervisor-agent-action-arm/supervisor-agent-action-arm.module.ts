@@ -6,17 +6,17 @@ export const supervisorAgentActionArm = {
   slug: "supervisor-agent-action-arm",
   definition: "an idle gate armed to delay a restart until the session is between turns",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A gate whose defer windows could not be read is not armed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A gate already armed is not armed a second time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The child's age is read from its process start rather than counted from arming.",
     },
   ],

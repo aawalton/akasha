@@ -6,13 +6,13 @@ export const windowDuration = {
   slug: "window-duration",
   definition: "a span of time a caller writes as a count and a unit",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A span reaches the caller as a count of milliseconds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A span written in any other shape raises an input error naming the flag.",
     },
   ],

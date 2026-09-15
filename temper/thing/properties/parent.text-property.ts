@@ -8,9 +8,9 @@ export const parent = {
   definition: "the page a page hangs beneath",
   maxLength: 200,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to  the page above.",
     },
   ],

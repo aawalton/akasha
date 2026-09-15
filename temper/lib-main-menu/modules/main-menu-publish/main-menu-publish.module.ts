@@ -6,13 +6,13 @@ export const mainMenuPublish = {
   slug: "main-menu-publish",
   definition: "the library object handed to the game under one global name",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second copy of the library loading later leaves the first copy in place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A console client is handed nothing.",
     },
   ],

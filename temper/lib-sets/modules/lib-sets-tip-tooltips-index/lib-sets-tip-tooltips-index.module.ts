@@ -6,13 +6,13 @@ export const libSetsTipTooltipsIndex = {
   slug: "lib-sets-tip-tooltips-index",
   definition: "the order the tooltip modules are loaded in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The order these modules are loaded in is the order their effects happen.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The hook module loads after every module whose slots the hook module reads.",
     },
   ],

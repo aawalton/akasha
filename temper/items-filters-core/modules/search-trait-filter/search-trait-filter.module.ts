@@ -7,18 +7,18 @@ export const searchTraitFilter = {
   definition:
     "the item trait, narrowed by a multiselect of weapon, armor, jewelry, and companion traits",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The trait filter also adds the ESO numbers for the selected traits to the server request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Trait options are deduplicated by trait id across the four trait lists.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An ESO trait number of zero is left out of the server terms.",
     },
   ],

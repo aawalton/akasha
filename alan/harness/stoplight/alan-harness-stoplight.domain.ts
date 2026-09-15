@@ -5,13 +5,13 @@ export const alanHarnessStoplight = {
   type: "page-type/domain",
   slug: "alan-harness-stoplight",
   definition: "how Alan knows what to do next",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every difference between two readouts is written on those readouts.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "No code names a readout or a readout group.",
     },
   ],

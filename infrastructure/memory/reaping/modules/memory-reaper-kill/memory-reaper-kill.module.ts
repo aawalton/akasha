@@ -6,21 +6,21 @@ export const memoryReaperKill = {
   slug: "memory-reaper-kill",
   definition: "a process or a whole tree asked to end and then made to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process is asked to end before that process is made to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process still alive at the timeout is made to end.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process already gone is no failure.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A whole tree is asked together and waited on together rather than a process at a time.",
     },

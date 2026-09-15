@@ -7,9 +7,9 @@ export const charactersPlayerStats = {
   definition:
     "the name, build hash and curse of the character now played, read into the saved table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A character the saved table does not yet hold is given a row rather than skipped.",
     },

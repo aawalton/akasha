@@ -7,31 +7,31 @@ export const temperCatalogStatus = {
   definition:
     "the command saying which catalog domains are collected and which are owed a collection",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file the call does not name is read from the game's live install.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A domain not collected carries the reason the addon gave for skipping it, where it gave one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each account in the capture is reported over every domain the registry has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A domain is owed a collection where the request is newer than the collection the account last saw.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A request naming no domain asks for every domain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A missing file is read as no capture rather than refusing the call.",
     },
   ],

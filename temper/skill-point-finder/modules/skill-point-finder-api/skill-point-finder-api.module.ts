@@ -6,9 +6,9 @@ export const skillPointFinderApi = {
   slug: "skill-point-finder-api",
   definition: "the skill point window reachable by another add-on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The window is offered as one global object the game loads.",
     },
   ],

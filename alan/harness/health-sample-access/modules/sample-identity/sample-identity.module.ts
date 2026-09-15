@@ -6,22 +6,22 @@ export const sampleIdentity = {
   slug: "sample-identity",
   definition: "what tells one health reading from another",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading's identity is its metric with its source and the span the reading covers.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two instants spelled differently for the same moment match.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An instant that will not parse throws rather than counting as nothing.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The value read is no part of a reading's identity.",
     },
   ],

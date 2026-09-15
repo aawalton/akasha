@@ -7,9 +7,9 @@ export const layout = {
   propertySlug: "layout",
   definition: "the arrangement a view draws its pages in",
   values: ["cards", "gallery", "list", "notes", "table"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A layout is how the answer is shown rather than part of the question.",
     },
   ],

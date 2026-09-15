@@ -6,13 +6,13 @@ export const libSetsCoreSavedVariables = {
   slug: "lib-sets-core-saved-variables",
   definition: "the account-wide settings this library remembers between sessions",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A second load is refused once the saved variables are already in hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A favorite saved under an unknown category is moved to the star category on load.",
     },

@@ -6,26 +6,26 @@ export const segmentClient = {
   slug: "segment-client",
   definition: "an image's foreground parted from its background by the rembg service",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The image is carried as multipart form data named `image`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The service answers a matte or a cutout or a flattened image.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answer whose content type is not `image/png` is at fault.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A sibling output keeps the matte's extension and takes a suffix before that extension.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A matte named with no extension gives its siblings `.png`.",
     },
   ],

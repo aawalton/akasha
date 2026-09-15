@@ -7,13 +7,13 @@ export const supervisorRcDegradedState = {
   definition:
     "the streak and the alert latch a seat's remote control reading is carried between ticks in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A streak counts degraded readings and healthy readings apart from one another.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A latch with no time is a seat nothing has been alerted about.",
     },
   ],

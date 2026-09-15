@@ -7,25 +7,25 @@ export const gatewayTreeVersion = {
   definition: "the gateway's own file closure, hashed, so a supervisor can tell its proxy changed",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file is reached by asking the graph what that file reaches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every module the gateway reaches that way is in the closure.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A member that cannot be read refuses the hash rather than shortening it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every path the hash names is relative to the repository root.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A specifier naming a package is not followed.",
     },
   ],

@@ -7,13 +7,13 @@ export const messageTo = {
   propertySlug: "to",
   definition: "the seat a message is addressed to",
   targetPageType: "page-type/seat",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message addressed to a name no seat has is refused rather than written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipient is one name rather than a path.",
     },
   ],

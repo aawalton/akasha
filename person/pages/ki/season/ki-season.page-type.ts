@@ -6,22 +6,22 @@ export const kiSeason = {
   slug: "ki-season",
   definition: "one run of episodes of a show Ki watches",
   extends: ["page-type/ki-collection-template"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A season of Ki's names the show that season is part of.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A season of Ki's names the episodes that season has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A season of Ki's has its length summed from its episodes rather than written on that season.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A season of Ki's has its progress summed from its episodes rather than written on that season.",
     },

@@ -6,18 +6,18 @@ export const collectionsAddonGlobal = {
   slug: "collections-addon-global",
   definition: "the global another add-on reaches this one by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Another add-on reaches this add-on through the global rather than through an import.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global has this add-on's name and version and nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tracker's own global is published by that tracker's own package.",
     },
   ],

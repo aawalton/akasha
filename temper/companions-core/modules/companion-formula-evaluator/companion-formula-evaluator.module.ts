@@ -6,17 +6,17 @@ export const companionFormulaEvaluator = {
   slug: "companion-formula-evaluator",
   definition: "the number a companion metric's formula tree works out to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Arithmetic nodes are delegated to a shared framework evaluator.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An arithmetic node reaching the leaf evaluator throws.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A metric reference missing from the value map reads as zero.",
     },
   ],

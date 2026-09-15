@@ -8,29 +8,29 @@ export const commandMaxWallSeconds = {
   definition: "how many seconds a command may run before the call is stopped",
   nullable: true,
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command stating no seconds here is allowed the seconds the wrapper names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command stating null here runs under no ceiling.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "These seconds are counted on the wall clock.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A call stopped is ended rather than answered.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command reaching for a slow thing states the seconds that thing takes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Alan settles a raise rather than the agent the ceiling stopped.",
     },
   ],

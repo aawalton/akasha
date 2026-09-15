@@ -7,21 +7,21 @@ export const keptForHours = {
   propertySlug: "kept-for-hours",
   definition: "how long a line beside a page is kept before a sweep takes that line away",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window is stated in hours however long that window is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property stating no window holds a file nothing sweeps.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window reaches every part of a file rather than the last part alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part a sweep empties goes rather than being left holding nothing.",
     },
   ],

@@ -6,14 +6,14 @@ export const viteClient = {
   slug: "vite-client",
   definition: "what the bundler hands a router app's modules beyond the language",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An asset import and the bundler's environment are declared by the bundler itself.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every router app compiles against the same bundler declarations.",
     },
   ],

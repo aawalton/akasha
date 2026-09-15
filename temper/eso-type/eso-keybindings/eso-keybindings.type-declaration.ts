@@ -6,13 +6,13 @@ export const esoKeybindings = {
   slug: "eso-keybindings",
   definition: "the key-bind window the game opens and the calls that rebind a key",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name here is the game's own rather than a library's.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Rebinding is a protected call the game refuses to an untrusted caller.",
     },
   ],

@@ -6,9 +6,9 @@ export const inventoryRuleTestUtils = {
   slug: "inventory-rule-test-utils",
   definition: "the item and the matcher context a test builds when the test cares about neither",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field the test leaves unnamed takes the value stated here.",
     },
   ],

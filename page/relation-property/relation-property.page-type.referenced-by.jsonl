@@ -86,9 +86,9 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/initiative/properties/initiative-parent.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/initiative/properties/initiative-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/initiative/properties/initiative.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/invariant-kind/decision-group/decision-group.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/decision-kind/decision-group/decision-group.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/directive-kind.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/invariant-kind.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/decision-kind.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/page-domain.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/parts.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.ts"}

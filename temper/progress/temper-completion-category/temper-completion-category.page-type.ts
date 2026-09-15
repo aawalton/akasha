@@ -12,17 +12,17 @@ export const temperCompletionCategory = {
     { pageProperty: "text-property/tab", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node stating no parent is a root of the tree.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every root is named by the tab the root heads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node has the tab of the root the node hangs beneath.",
     },
   ],

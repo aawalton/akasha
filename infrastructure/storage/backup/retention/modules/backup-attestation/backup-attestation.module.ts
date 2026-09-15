@@ -6,13 +6,13 @@ export const backupAttestation = {
   slug: "backup-attestation",
   definition: "the hashes a copied backup is attested by, and the probe proving the hasher works",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hasher reporting nothing for a file of known bytes fails the run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every file of a copied unit has a hash line of its own.",
     },
   ],

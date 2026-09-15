@@ -6,21 +6,21 @@ export const mainMenuLibrary = {
   slug: "main-menu-library",
   definition: "the menu entries, categories, scenes and scene groups an addon adds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon reaches this library only through the methods on the published object.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category is named by a descriptor rather than by its position on the bar.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scene group remembers the scene last shown inside that group.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library sets itself up on the first call that needs the bars.",
     },
   ],

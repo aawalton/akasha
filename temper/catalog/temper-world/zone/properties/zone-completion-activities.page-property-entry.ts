@@ -13,9 +13,9 @@ export const zoneCompletionActivities = {
     { pageProperty: "number-property/eso-activity-id", required: true, many: false },
     { pageProperty: "text-property/activity-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An activity here has the label of the completion type the activity falls under.",
     },
   ],

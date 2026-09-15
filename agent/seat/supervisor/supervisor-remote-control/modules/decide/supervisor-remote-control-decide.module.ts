@@ -7,13 +7,13 @@ export const supervisorRemoteControlDecide = {
   definition: "whether a seat spawns under remote control",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat is under remote control exactly where that seat is not headless.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A batch answers each seat under its own question and keeps the seat's name.",
     },
   ],

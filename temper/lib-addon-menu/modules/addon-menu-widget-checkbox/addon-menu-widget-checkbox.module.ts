@@ -6,17 +6,17 @@ export const addonMenuWidgetCheckbox = {
   slug: "addon-menu-widget-checkbox",
   definition: "the boolean on/off widget of the settings panel",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The checked state is rendered as the uppercase word ON or OFF rather than a box.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Clicking anywhere on the row toggles the value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Label color tracks the value even while the control is enabled.",
     },
   ],

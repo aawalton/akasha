@@ -6,22 +6,22 @@ export const addonMenuSettingsWindow = {
   slug: "addon-menu-settings-window",
   definition: "the top-level Addons window and its entry in the game's settings menu",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A console client without keyboard UI support is given no settings menu entry.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The window and its scene fragment are created on first request rather than at load.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel registered before addon loading completes is reported to chat.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The addon list is sorted by name once on the first opening of the panel.",
     },
   ],

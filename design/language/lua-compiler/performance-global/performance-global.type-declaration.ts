@@ -6,9 +6,9 @@ export const performanceGlobal = {
   slug: "performance-global",
   definition: "the clock a compiled program reads the elapsed time from",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global declared here is implemented by the compiler's own runtime library.",
     },
   ],

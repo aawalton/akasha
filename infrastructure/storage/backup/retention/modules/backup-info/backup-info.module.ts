@@ -6,14 +6,14 @@ export const backupInfo = {
   slug: "backup-info",
   definition: "what a backup's own info file states about that backup",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A file missing any field the reader needs is an error rather than a partial read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A line with no equals sign is passed over.",
     },
   ],

@@ -6,17 +6,17 @@ export const collectionsAddonLoaded = {
   slug: "collections-addon-loaded",
   definition: "what starts each tracker once the game says this add-on has loaded",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every tracker this add-on ships is started from here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order the trackers are started in is the order the consolidated add-on used.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No tracker is started twice.",
     },
   ],

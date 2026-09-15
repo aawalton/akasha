@@ -7,25 +7,25 @@ export const messageWarrant = {
   propertySlug: "warrant",
   definition: "what a message claims of the sender while it waits",
   values: ["announce", "blocked"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A blocked warrant claims the sender is waiting.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A blocked warrant claims nothing of anyone but the sender.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An announced message claims nothing of the sender.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An announce is not a reason for its sender to keep running.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The answer to a blocked message reaches the sender's mailbox.",
     },
   ],

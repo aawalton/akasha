@@ -6,13 +6,13 @@ export const pushApps = {
   slug: "push-apps",
   definition: "the bundle and the owner each app registering for push sits under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every app that may register for push is named here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here registers anything.",
     },
   ],

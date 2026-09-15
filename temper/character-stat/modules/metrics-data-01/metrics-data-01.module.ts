@@ -6,9 +6,9 @@ export const metricsData01 = {
   slug: "metrics-data-01",
   definition: "character stats alliance-points-gain through bloodthirsty-weapon-damage",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The stats are named here in the order the gathered table answers its ids in.",
     },
   ],

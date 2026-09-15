@@ -7,9 +7,9 @@ export const destinationsSharedData = {
   definition:
     "the shared achievement rows by zone, and the stables, docks and portals, joined from its runs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the runs joined in order.",
     },
   ],

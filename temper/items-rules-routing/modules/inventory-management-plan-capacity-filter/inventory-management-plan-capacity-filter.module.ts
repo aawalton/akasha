@@ -7,17 +7,17 @@ export const inventoryManagementPlanCapacityFilter = {
   definition: "the items a plan drops because the destination has no room, said with the reason",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item dropped for want of room is recorded against the rule sending the item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An audit names the items dropped as well as the items kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item joining a stack already at the destination takes no slot.",
     },
   ],

@@ -6,13 +6,13 @@ export const messagesAgentId = {
   slug: "messages-agent-id",
   definition: "the agent a message server is running for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The agent is stated in the environment rather than worked out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An environment naming no agent stops the server rather than guessing an agent.",
     },
   ],

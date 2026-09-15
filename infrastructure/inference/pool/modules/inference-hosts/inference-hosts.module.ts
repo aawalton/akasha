@@ -6,9 +6,9 @@ export const inferenceHosts = {
   slug: "inference-hosts",
   definition: "the machines inference services are on and how to reach each one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A host asked for by a name nothing declares raises rather than answering.",
     },
   ],

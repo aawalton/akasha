@@ -6,9 +6,9 @@ export const idlePending = {
   slug: "idle-pending",
   definition: "a turn start the agent arranged is still to come",
   color: "color/blue",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A reminder does not make a turn pending.",
     },
   ],

@@ -6,17 +6,17 @@ export const reducers = {
   slug: "reducers",
   definition: "the effects a view-editing command produces",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two nav items may each have a view of the same name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every key written for a new view is a key the view page type declares.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A view names its nav and its page type by page type and slug.",
     },
   ],

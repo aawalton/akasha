@@ -7,9 +7,9 @@ export const craftingMaterialActions = {
   definition:
     "what becomes of each crafting material, worked out from the rules over the material tree",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A material no rule reaches is left where the material lies.",
     },
   ],

@@ -8,22 +8,22 @@ export const levelName = {
   definition: "the word or words one level of the command tree is reached by",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name carries no part of the name of the level above it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is matched whole against one word of the command line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A command named `list` answers many, and a command named `show` answers one the caller names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A command is named `list` where answering many is its act and named for its own act elsewhere.",
     },

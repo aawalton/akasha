@@ -7,9 +7,9 @@ export const completionLoreLibraryProgress = {
   definition: "the shalidor books each character has read, counted by collection",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book is keyed by three indexes taken together.",
     },
   ],

@@ -7,22 +7,22 @@ export const spotifyPersonalization = {
   definition: "the artists and tracks Alan has heard most over a window",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A window is the last four weeks or the last six months or the account's whole life.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Fifty is the most Spotify gives back for one window.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A read takes one page rather than every page.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here compares two windows.",
     },
   ],

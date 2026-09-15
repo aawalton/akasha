@@ -6,17 +6,17 @@ export const temperDeclaredEffects = {
   slug: "temper-declared-effects",
   definition: "the action verb Temper registers for effects a page declares",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Loading this module is for registering the verb.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The handler does nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The registration takes the verb id alone.",
     },
   ],

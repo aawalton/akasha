@@ -7,9 +7,9 @@ export const companionsDisplayNames = {
   definition:
     "the words and colours a player reads for each armor weight, trait, quality and gear slot",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name is held by codec index rather than by game constant.",
     },
   ],

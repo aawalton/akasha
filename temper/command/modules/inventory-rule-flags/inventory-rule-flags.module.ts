@@ -7,34 +7,34 @@ export const inventoryRuleFlags = {
   definition: "what a rule flag said on the command line has to be to be taken",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value a flag cannot take is refused as input rather than carried on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A refusal names the flag and the value said, and the values that flag takes or where to read them.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The categories a rule may be written against are the item category tree's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The actions a rule may take are the ones the rules package declares.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The sources a buy rule may take are the ones the rules package declares.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A condition and a destination chain arrive as JSON.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "JSON that does not parse and JSON of the wrong shape are refused apart.",
     },
   ],

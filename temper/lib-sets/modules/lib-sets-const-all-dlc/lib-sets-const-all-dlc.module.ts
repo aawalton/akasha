@@ -6,13 +6,13 @@ export const libSetsConstAllDlc = {
   slug: "lib-sets-const-all-dlc",
   definition: "every chapter, DLC and patch the game has shipped, each with its release date",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A DLC's name is read from the game's own collectible and achievement names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each DLC id is declared as a game global rather than a member of a table.",
     },
   ],

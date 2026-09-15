@@ -30,9 +30,9 @@ export const readingKind = {
     "title",
     "unsure",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading whose kind is `unsure` is a reading nobody has ruled on yet.",
     },
   ],

@@ -99,29 +99,29 @@ export const temperLibScrollableMenu = {
     "type-declaration/scrollable-menu-submenu-shapes",
     "type-declaration/scrollable-menu-util-shapes",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller reaches this library through game globals rather than an import.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The menu is a scroll list rather than the game's own fixed dropdown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A menu entry may have a submenu nested to any depth.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One row template for each entry type is declared in this library's own XML.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One context menu object is reused for every context menu the game shows.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game loads this library before every addon that names the library.",
     },
   ],

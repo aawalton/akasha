@@ -6,21 +6,21 @@ export const proseBeside = {
   slug: "prose-beside",
   definition: "the prose filed beside each played turn or chapter a display is about to draw",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The prose read is the prose of the rows handed here and of no other row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A prose property answering its own ending rather than a body reads as unread.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row whose prose went unread is left out rather than given empty prose.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A read for one story's rows is dropped where the rows asked for change.",
     },
   ],

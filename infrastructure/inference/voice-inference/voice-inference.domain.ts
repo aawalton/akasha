@@ -14,17 +14,17 @@ export const voiceInference = {
     "python-module/voice-speech-hls",
     "python-module/voice-speech-mp3",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Both models are loaded before the workload reports itself healthy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One inference runs at a time however many callers are waiting.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The card this package runs on takes int8 weights and not float16 ones.",
     },
   ],

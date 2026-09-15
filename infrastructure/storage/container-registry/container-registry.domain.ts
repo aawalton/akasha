@@ -6,25 +6,25 @@ export const containerRegistry = {
   slug: "container-registry",
   definition: "the store container images live in",
   parts: ["manifest/registry", "manifest/registry-gc", "module/registry-constants"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The registry serves plain HTTP.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A node cannot resolve names inside the cluster.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node reaches the registry at an address rather than by name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the newest images of each family are kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every older image of a family is deleted.",
     },
   ],

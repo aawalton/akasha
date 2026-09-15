@@ -46,29 +46,29 @@ export const inferencePool = {
     "shell-script/segment-rembg-provision",
     "shell-script/traffic-cop-provision",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pool fronts each service on a port of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service is made resident before a request reaches that service.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service is provisioned into a conda environment named for that service.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service whose page says it is not to be running is torn down.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A service on the host that no page names at all is torn down.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The host is reached over ssh rather than by an agent running on that host.",
     },
   ],

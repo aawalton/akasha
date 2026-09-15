@@ -6,13 +6,13 @@ export const knowledgePublicApi = {
   slug: "knowledge-public-api",
   definition: "the names the library puts where every other addon reaches them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name the game reads keeps its upstream spelling on the global table.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Whichever copy of a shared library loads first and is newest is the copy the game uses.",
     },

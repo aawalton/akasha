@@ -26,21 +26,21 @@ export const gbwwReading = {
     { pageProperty: "select-property/gbww-edition-marker", required: true, many: false },
     { pageProperty: "relation-property/gbww-story", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading names the work read and how much of that work is read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading is where the plan puts the reading.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A work read twice on the plan is two readings.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A reading is no record of a day Alan read.",
     },
   ],

@@ -6,13 +6,13 @@ export const searchEquipSlotFilter = {
   slug: "search-equip-slot-filter",
   definition: "the equip slot an item occupies, narrowed by a multiselect of thirteen slot numbers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The equip slot filter also adds the selected slot numbers to the server request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with no equip type fails a non-empty selection.",
     },
   ],

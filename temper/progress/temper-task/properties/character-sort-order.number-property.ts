@@ -7,22 +7,22 @@ export const characterSortOrder = {
   propertySlug: "character-sort-order",
   definition: "the place the character a task falls to takes in Alan's own order",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This value is read off the character the task names rather than stated on that task.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A task falling to no character has no sort order.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A formula cannot yet read a property off the page a relation reaches.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "No property gives a temper character the sort order this value reads.",
     },
   ],

@@ -6,25 +6,25 @@ export const deployRefusedAt = {
   slug: "deploy-refused-at",
   propertySlug: "deploy-refused-at",
   definition: "when the last deploy of a service that refused ended",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A deploy that refused writes this moment and the moment its deploy ended alike.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A deploy that put up writes the moment it ended and leaves this one behind it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The two moments being the same is what says the last deploy refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service whose last deploy refused waits longer than its own cooldown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The moment is kept uncommitted, so no deploy's closure reaches it.",
     },
   ],

@@ -8,9 +8,9 @@ export const title = {
   definition: "the name a thing is shown under",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A title is written as the name is written rather than as a slug is written.",
     },
   ],

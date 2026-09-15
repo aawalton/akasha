@@ -7,25 +7,25 @@ export const supervisorEnv = {
   definition: "the environment a supervisor hands its Claude child",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An inherited Claude session key is stripped rather than passed to the child.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An inherited Anthropic routing key is stripped rather than passed to the child.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An inherited tool timeout wins over the timeout the seat conditions state.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Resume thresholds are handed only to a headless child.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A name the supervisor has that is neither of those keys reaches the child unchanged.",
     },

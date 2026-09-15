@@ -6,21 +6,21 @@ export const jewelryEnchantsData = {
   slug: "jewelry-enchants-data",
   definition: "the table of jewelry glyphs, kept apart from the module that reads the table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the glyph pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is a file of its own.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A glyph's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A glyph moved to another place breaks every build hash saved.",
     },
   ],

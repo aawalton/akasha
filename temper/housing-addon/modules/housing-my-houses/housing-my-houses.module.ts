@@ -6,9 +6,9 @@ export const housingMyHouses = {
   slug: "housing-my-houses",
   definition: "drawing a row for each house this account has bought",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bought house may be ported to inside or at the front door.",
     },
   ],

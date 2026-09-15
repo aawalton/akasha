@@ -6,9 +6,9 @@ export const skillPointFinderMenu = {
   slug: "skill-point-finder-menu",
   definition: "the skill point window's settings inside the game's own add-on menu",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting is held per character rather than per account.",
     },
   ],

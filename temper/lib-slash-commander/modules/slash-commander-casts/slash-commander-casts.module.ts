@@ -6,13 +6,13 @@ export const slashCommanderCasts = {
   slug: "slash-commander-casts",
   definition: "what a value out of the game's chat tables or a caller's hand is read as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cast is made only after the library has checked the value's kind.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

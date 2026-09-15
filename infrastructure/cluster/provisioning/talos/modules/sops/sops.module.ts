@@ -7,17 +7,17 @@ export const sops = {
   definition: "a spawned `sops` decrypting to a temporary file and encrypting back to one",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A decrypted file is written only under `/var/tmp` at mode 0600.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An encrypt that wrote the bundle names that write before the mode is set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "What sops is spawned for and what is written are handed in, so a test drives neither.",
     },

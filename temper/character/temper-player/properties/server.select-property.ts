@@ -7,9 +7,9 @@ export const server = {
   propertySlug: "server",
   definition: "the megaserver a player's account trades on",
   values: ["NA", "EU"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A megaserver has its own trading prices.",
     },
   ],

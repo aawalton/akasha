@@ -5,33 +5,33 @@ export const memoryReaping = {
   type: "page-type/domain",
   slug: "memory-reaping",
   definition: "a process ended for the memory it takes or the memory its host has left",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The reaper sits outside the fleet that reaper polices.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every process running as uid 1000 is weighed, and a supervisor roots a tree.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tree over its ceiling is taken whether or not the host is short of memory.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tree the headroom leg takes is the single largest by subtree total.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The headroom leg takes one tree at a time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A headroom kill is followed by a window in which that leg takes nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reaper takes only what every limit above that reaper let through.",
     },
   ],

@@ -10,13 +10,13 @@ export const backgroundSliceShare = {
   onlyOn: "linux",
   installPath: "~/.config/systemd/user/background.slice.d/10-share.conf",
   reloadWith: "systemctl --user daemon-reload",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The share is the one systemd ships, said here rather than left to a default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The services and the seats hold the same share as each other.",
     },
   ],

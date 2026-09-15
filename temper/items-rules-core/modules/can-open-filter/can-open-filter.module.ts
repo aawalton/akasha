@@ -6,9 +6,9 @@ export const canOpenFilter = {
   slug: "can-open-filter",
   definition: "the Can Open condition a rule may have, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `canOpen` condition alone.",
     },
   ],

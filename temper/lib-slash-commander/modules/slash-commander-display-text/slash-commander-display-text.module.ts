@@ -6,17 +6,17 @@ export const slashCommanderDisplayText = {
   slug: "slash-commander-display-text",
   definition: "the labels kept out of what the game's match scorer answers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A match that is no string is dropped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty string is dropped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order the scorer answered in is kept.",
     },
   ],

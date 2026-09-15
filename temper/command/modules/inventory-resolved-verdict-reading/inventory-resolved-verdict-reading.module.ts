@@ -7,21 +7,21 @@ export const inventoryResolvedVerdictReading = {
   definition: "the verdict an addon run recorded on a captured item, and a fresh one beside it",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fresh verdict takes the routes the addon's own run takes, in that order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route carries a rule index only where an ordered rule resolved the item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item no rule reaches is resolved to nothing rather than to no verdict.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the game, so an allocation the game makes is not mirrored.",
     },
   ],

@@ -7,9 +7,9 @@ export const emailRuleCodeActions = {
   propertySlug: "actions",
   definition: "what is done with mail a rule matches, beyond filing it and forwarding it",
   values: ["notify", "unsubscribe"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An action sits beside the filing rather than in place of that filing.",
     },
   ],

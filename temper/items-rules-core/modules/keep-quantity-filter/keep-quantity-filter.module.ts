@@ -6,17 +6,17 @@ export const keepQuantityFilter = {
   slug: "keep-quantity-filter",
   definition: "the Keep condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `keepQuantity` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule with the `target-quantity` condition is offered no Keep condition.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule whose action leaves an item in place is offered no Keep condition.",
     },
   ],

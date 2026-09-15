@@ -10,9 +10,9 @@ export const collectionHeader = {
     { pageProperty: "boolean-property/header-show-cover", required: false, many: false },
     { pageProperty: "text-property/header-fields", required: true, many: true, maxCount: null },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A header naming no keys stands as the page's own name alone.",
     },
   ],

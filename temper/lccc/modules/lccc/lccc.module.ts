@@ -6,9 +6,9 @@ export const lccc = {
   slug: "lccc",
   definition: "the codes library this add-on carries and leaves in the global table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A copy already loaded at the same version or newer is left alone.",
     },
   ],

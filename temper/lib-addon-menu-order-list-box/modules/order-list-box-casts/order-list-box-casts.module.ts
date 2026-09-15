@@ -6,13 +6,13 @@ export const orderListBoxCasts = {
   slug: "order-list-box-casts",
   definition: "the narrowings from an untyped game value to a shape this widget reads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A narrowing here asserts a shape rather than checking a shape.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller narrowing a game value states which shape the caller expects.",
     },
   ],

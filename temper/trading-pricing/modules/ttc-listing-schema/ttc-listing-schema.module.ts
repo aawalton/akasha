@@ -6,17 +6,17 @@ export const ttcListingSchema = {
   slug: "ttc-listing-schema",
   definition: "what a Tamriel Trade Centre listing must have before a reader believes it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A listing missing a field the parse requires is dropped rather than repaired.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field the parse does not name is carried through untouched.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A garbled page count is read as the first page.",
     },
   ],

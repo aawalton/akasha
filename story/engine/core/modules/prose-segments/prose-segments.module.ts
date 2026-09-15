@@ -7,21 +7,21 @@ export const proseSegments = {
   definition: "prose cut into runs at the markers saying where a system card belongs",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A marker is exactly the word system in double braces.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A marker is alone in its own block.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A block reaching for a marker without being one is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Neighbouring prose blocks are gathered into one run.",
     },
   ],

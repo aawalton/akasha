@@ -6,37 +6,37 @@ export const esoRigImage = {
   slug: "eso-rig-image",
   definition: "the image an X server, a virtual keyboard and Wine run from on a cluster card",
   recipe: "dockerfile",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The base is a plain distro rather than an image with NVIDIA libraries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The base tag fixes the version of every package from that release pocket.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No package from the base pocket has a version of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A version is pinned where the version is a real choice.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The build proves on disk every file the rig cannot start without.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The build proves on disk every binary the rig cannot start without.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No GPU reading is taken at build time.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The builder has no card and no injected driver.",
     },
   ],

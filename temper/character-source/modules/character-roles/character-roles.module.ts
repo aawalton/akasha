@@ -6,9 +6,9 @@ export const characterRoles = {
   slug: "character-roles",
   definition: "the playstyles a build is planned for, from DPS through to solo",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the character pages rather than by hand.",
     },
   ],

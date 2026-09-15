@@ -6,9 +6,9 @@ export const mcpServers = {
   slug: "mcp-servers",
   definition: "the tool servers the client is given",
   harnessSettings: "json",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A `.mcp.json` beside an account or a workspace is never read.",
     },
   ],

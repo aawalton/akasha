@@ -6,9 +6,9 @@ export const inventoryPlanChecklist = {
   slug: "inventory-plan-checklist",
   definition: "a management plan written out as a checklist a player reads while playing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checklist follows the plan's stops in the order the stops are visited.",
     },
   ],

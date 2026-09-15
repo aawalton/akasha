@@ -6,13 +6,13 @@ export const inventoryManagementPlanBuy = {
   slug: "inventory-management-plan-buy",
   definition: "what a buy rule falls short of, put into the plan as a vendor errand",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Buying is planned against a character that is no character.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A buy rule met by the account's holdings adds no errand.",
     },
   ],

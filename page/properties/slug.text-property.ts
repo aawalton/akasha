@@ -9,9 +9,9 @@ export const slug = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   unique: "unique-kind/page-type",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A slug that cannot become a page's export name is no slug.",
     },
   ],

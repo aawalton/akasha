@@ -7,25 +7,25 @@ export const emailMessageModifyLabel = {
   definition: "the command putting label ids on one Gmail message and taking label ids off it",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The message's id and its thread come back beside those labels.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A relabelling naming neither an addition nor a removal is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A label is named by its id rather than by the name that label is shown under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The labels the message has after the change come back.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A relabelling that threw after Gmail took the change says the labels changed.",
     },
   ],

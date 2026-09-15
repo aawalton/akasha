@@ -7,21 +7,21 @@ export const ruleMatcherContextSkillLines = {
   definition: "each character's skill line ranks, compiled into a reader the matcher calls",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character the game gave no progress for is kept out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a rank the game gave as a number is kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A line the character has opened but not advanced answers rank zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skill line the character has not opened answers as nothing.",
     },
   ],

@@ -6,12 +6,12 @@ export const libSetsTipDropMechanicRenderPart = {
   slug: "lib-sets-tip-drop-mechanic-render-part",
   definition: "the one-zone piece of drop text with its mechanics and boss names in brackets",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Which pieces appear follows the tooltip settings unless the text is not for a tooltip.",
     },
-    { invariantKind: "invariant-kind/departure", statement: "The zone name is tinted grey." },
+    { decisionKind: "decision-kind/departure", statement: "The zone name is tinted grey." },
   ],
 } as const satisfies Module

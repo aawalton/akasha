@@ -7,18 +7,18 @@ export const inventorySettingsHandle = {
   definition: "the inventory and automation settings bound to the signed-in player",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Settings are read and written for the signed-in player rather than a named player.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reading and writing are handed over together as one handle.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No setting is shaped or defaulted here.",
     },
   ],

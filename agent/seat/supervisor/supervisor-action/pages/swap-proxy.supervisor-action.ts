@@ -5,9 +5,9 @@ export const swapProxy = {
   type: "supervisor-action",
   slug: "swap-proxy",
   definition: "a seat's proxy replaced with one built from current code",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This action leaves the agent running.",
     },
   ],

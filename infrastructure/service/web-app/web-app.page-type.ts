@@ -38,26 +38,26 @@ export const webApp = {
     { pageProperty: "text-property/secret-resource", required: true, many: false },
     { pageProperty: "number-property/base-port", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A web app's page states everything a deploy of the web app needs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The workload the cluster runs for a web app is stated on the cluster service's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A web app is named by the slug its page carries.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A web app states nothing of the build representing the web app now.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The tunnel is routed from the host names stated here.",
     },
   ],

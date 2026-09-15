@@ -6,9 +6,9 @@ export const libSetsCoreLifecycleSlashCommand = {
   slug: "lib-sets-core-lifecycle-slash-command",
   definition: "the slash commands this library answers to and the chat text each one writes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The /sets and /ls aliases are only taken when no other addon has claimed the aliases.",
     },

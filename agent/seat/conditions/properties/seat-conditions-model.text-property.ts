@@ -8,9 +8,9 @@ export const seatConditionsModel = {
   definition: "the model a seat's agent answers on",
   maxLength: 40,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subagent naming no model of its own answers on this model too.",
     },
   ],

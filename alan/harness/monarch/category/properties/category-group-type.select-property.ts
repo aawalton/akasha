@@ -7,9 +7,9 @@ export const categoryGroupType = {
   propertySlug: "category-group-type",
   definition: "which way money runs through a category's group",
   values: ["expense", "income", "transfer"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transfer moves money the household already holds from one account to another.",
     },
   ],

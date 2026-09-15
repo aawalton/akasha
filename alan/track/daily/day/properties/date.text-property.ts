@@ -8,9 +8,9 @@ export const date = {
   definition: "the day a record is of",
   maxLength: 10,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a day rather than text.",
     },
   ],

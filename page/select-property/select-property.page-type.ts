@@ -10,21 +10,21 @@ export const selectProperty = {
   properties: [
     { pageProperty: "text-property/select-values", required: true, many: true, maxCount: null },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A select property states its values as page data.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A select property's file exports the union of the values the page states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value outside the set is refused rather than kept as text.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A text property with a hand-written union is no select property.",
     },
   ],

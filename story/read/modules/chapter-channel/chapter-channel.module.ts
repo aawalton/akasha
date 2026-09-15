@@ -6,25 +6,25 @@ export const chapterChannel = {
   slug: "chapter-channel",
   definition: "a story's chapters drawn in a run, marked where the newest is and where reading is",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The newest chapter is the last of every chapter rather than the last drawn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter outside the span drawn is counted rather than drawn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How far reading has come counts every chapter rather than the chapters drawn.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter with no page to reach is drawn without a link to follow.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here scrolls the page until the person asks for the unread chapter.",
     },
   ],

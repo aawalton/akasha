@@ -6,17 +6,17 @@ export const bitWriter = {
   slug: "bit-writer",
   definition: "packing numbers into a byte array a chosen number of bits at a time",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value wider than the bits asked for is masked down.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bits go in from the most significant end.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A part-filled last byte is padded on the right at the close.",
     },
   ],

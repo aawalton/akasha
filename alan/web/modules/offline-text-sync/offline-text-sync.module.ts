@@ -6,13 +6,13 @@ export const offlineTextSync = {
   slug: "offline-text-sync",
   definition: "the chapters brought down to the device and the position kept there as Alan reads",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here sends a position or a completion up.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A position written while reading is kept on the device and read back there.",
     },
   ],

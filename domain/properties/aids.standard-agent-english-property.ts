@@ -8,9 +8,9 @@ export const aids = {
   definition: "the rulings on acts a reader is about to take, each for or against",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An aid runs to the length an act or a warrant runs to.",
     },
   ],

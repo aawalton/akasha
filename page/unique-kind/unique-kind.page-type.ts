@@ -7,9 +7,9 @@ export const uniqueKind = {
   definition: "which pages a property's value is unique among",
   parts: ["unique-kind/page", "unique-kind/page-property", "unique-kind/page-type"],
   extends: ["page-type/domain"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Uniqueness names the pages a value is unique among rather than being yes or no.",
     },
   ],

@@ -26,30 +26,30 @@ export const nav = {
     { pageProperty: "number-property/draw-cost", required: false, many: false },
     { pageProperty: "boolean-property/show-count-badge", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav item belongs to one app.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An app's navigation is every nav item naming that app.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav item has the order that nav item sits in among its siblings.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A person reorders and renames nav items from the interface that draws those items.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav item's values are written by the browser rather than authored.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav item is found by slug rather than by a marker key with a constant.",
     },
   ],

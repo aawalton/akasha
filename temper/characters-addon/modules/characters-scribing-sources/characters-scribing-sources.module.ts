@@ -6,13 +6,13 @@ export const charactersScribingSources = {
   slug: "characters-scribing-sources",
   definition: "how far a character is through the runs of content a scribing script is earned from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The nearest unfinished tier of a source is the only tier that source reports.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The motifs a source drops are not counted.",
     },
   ],

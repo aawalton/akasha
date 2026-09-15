@@ -6,17 +6,17 @@ export const seatReviveVerifySignal = {
   slug: "seat-revive-verify-signal",
   definition: "what a verifying revive says became of the seat",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One signal names each way a verifying revive comes back.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat that could not be verified is not a seat that failed.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads an exit code.",
     },
   ],

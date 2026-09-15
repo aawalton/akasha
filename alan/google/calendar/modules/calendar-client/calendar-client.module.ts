@@ -6,9 +6,9 @@ export const calendarClient = {
   slug: "calendar-client",
   definition: "the calendar API bound to an authorised client",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The default calendar id is read when the client is made.",
     },
   ],

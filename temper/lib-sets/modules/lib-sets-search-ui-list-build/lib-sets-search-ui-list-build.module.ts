@@ -6,13 +6,13 @@ export const libSetsSearchUiListBuild = {
   slug: "lib-sets-search-ui-list-build",
   definition: "the row each set becomes in the result list",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "At most five drop locations are shown in one row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The setting can append a set's English name to the set's own name.",
     },
   ],

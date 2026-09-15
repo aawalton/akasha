@@ -6,9 +6,9 @@ export const pageBadge = {
   slug: "page-badge",
   definition: "the chip one page is shown as, drawn by that page's own page type",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page no page type above it draws takes the chip beside page.",
     },
   ],

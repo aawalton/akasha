@@ -7,22 +7,22 @@ export const completionGenericCheckerProgress = {
   definition: "how far along a completion card is, added up over the leaves its picker enumerates",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A total is read from the static catalog rather than from saved data.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A leaf stating its own numbers is taken over counting that leaf as a single whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A leaf detail is read only where the path is already a leaf.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card no checker names returns nothing rather than a count.",
     },
   ],

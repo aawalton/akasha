@@ -6,9 +6,9 @@ export const temperSkillsPanel = {
   slug: "temper-skills-panel",
   definition: "the panel a player spends a character's skill points in",
   parts: ["module/skills-panel-points"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panel is the game's own, and an add-on only adds to what it draws.",
     },
   ],

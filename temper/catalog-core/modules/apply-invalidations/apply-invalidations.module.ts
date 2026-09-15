@@ -8,21 +8,21 @@ export const applyInvalidations = {
     "what a request to collect named catalog domains again takes out of the saved payload",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An invalidation no newer than the last invalidation seen changes nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty domain list asks for every domain again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A named domain the payload does not have is ignored.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Applying an invalidation marks the catalog incomplete.",
     },
   ],

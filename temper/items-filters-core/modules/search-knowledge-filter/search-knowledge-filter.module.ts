@@ -7,18 +7,18 @@ export const searchKnowledgeFilter = {
   definition:
     "whether the recipe or motif an item teaches is learned, narrowed by a known or unknown toggle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Unknown matches only an item the client marks as a knowledge item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The knowledge filter reads item facts directly rather than through a rule-editor checker.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

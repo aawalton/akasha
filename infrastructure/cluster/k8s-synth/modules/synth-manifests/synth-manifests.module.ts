@@ -6,13 +6,13 @@ export const synthManifests = {
   slug: "synth-manifests",
   definition: "every generated manifest in a checkout written or checked against its synth",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkout root is the folder the lockfile is in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pass either writes or checks.",
     },
   ],

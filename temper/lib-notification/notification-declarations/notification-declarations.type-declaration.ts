@@ -6,21 +6,21 @@ export const notificationDeclarations = {
   slug: "notification-declarations",
   definition: "the Lua and game names this addon reaches without importing them",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the names the code here reaches are declared.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file reaching a declared name imports this module for the declaration.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "This module restates declarations the game keeps outside akasha.",
     },
   ],

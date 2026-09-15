@@ -5,9 +5,9 @@ export const domainPurpose = {
   type: "page-type/domain",
   slug: "domain-purpose",
   definition: "something a choice is made to serve",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A thing that only helps another purpose is not a purpose.",
     },
   ],

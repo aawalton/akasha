@@ -6,21 +6,21 @@ export const designInterfaceToken = {
   slug: "design-interface-token",
   definition: "the colors an interface is drawn in, each held as an sRGB tuple",
   parts: ["module/semantic-color", "module/color-shape", "module/text-color"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every color here is mirrored by a custom property `tokens.css` declares.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every tuple here is worked out from the hex a color page states.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No color is written out here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names the use of any color.",
     },
   ],

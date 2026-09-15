@@ -7,14 +7,14 @@ export const minimapAnimations = {
   definition: "the animation the minimap window resizes and moves with",
   markup: "xml",
   loadedAs: "TemperNavigation_Controls.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The document has an animation timeline and no control.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The Lua bundle reaches the timeline by name.",
     },
   ],

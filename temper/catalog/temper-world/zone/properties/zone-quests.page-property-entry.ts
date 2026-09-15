@@ -10,9 +10,9 @@ export const zoneQuests = {
     { pageProperty: "number-property/eso-quest-id", required: true, many: false },
     { pageProperty: "text-property/quest-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quest here is a quest the game counts against the zone that quest is given in.",
     },
   ],

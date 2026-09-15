@@ -6,17 +6,17 @@ export const stringsIn = {
   slug: "strings-in",
   definition: "the strings a value holds, in the order that value holds them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value that is no array holds no strings.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry that is no string is dropped rather than refusing the whole value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty string is an entry rather than read as nothing.",
     },
   ],

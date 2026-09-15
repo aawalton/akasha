@@ -7,9 +7,9 @@ export const ownLength = {
   propertySlug: "own-length",
   definition: "how long a collection is, counted in its own unit",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A length is the collection's own rather than the sum of the parts that collection has.",
     },

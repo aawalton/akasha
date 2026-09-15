@@ -6,17 +6,17 @@ export const oauthClient = {
   slug: "oauth-client",
   definition: "the Google OAuth client built out of the OAuth2 the caller hands in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The OAuth2 handed in is the type the client comes back as.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No `@googleapis` package is reached from here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The refresh token is set on the client before the client is handed back.",
     },
   ],

@@ -8,9 +8,9 @@ export const tagColour = {
   definition: "the colour Monarch draws a tag in",
   maxLength: 7,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A colour is six hex digits behind a hash.",
     },
   ],

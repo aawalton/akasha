@@ -8,14 +8,14 @@ export const noticeWarrant = {
   definition: "which seat a notice goes to and what editing its words costs",
   maxLength: 600,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A notice states which seat that notice goes to rather than leaving that to its sender.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The cost of editing a notice's words sits on the notice.",
     },
   ],

@@ -6,21 +6,21 @@ export const scrollableMenuDropdownHeaderRefresh = {
   slug: "scrollable-menu-dropdown-header-refresh",
   definition: "the refresh that reads options onto each header child and re-runs the anchors",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The header is hidden and zeroed before any child is processed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collapsed header shows its toggle icon and toggle title alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Option values may be plain values or functions returning a value.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A custom header control is accepted only as game userdata.",
     },
   ],

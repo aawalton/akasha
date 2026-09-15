@@ -8,9 +8,9 @@ export const rruleRule = {
   definition: "how often a task comes round again",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recurrence is written as an RFC 5545 RRULE without its `RRULE:` opener.",
     },
   ],

@@ -6,25 +6,25 @@ export const addonKeybindsMenuEntry = {
   slug: "addon-keybinds-menu-entry",
   definition: "the second controls panel the game menu gains for addon keybinds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The new panel takes the next free panel id the game menu has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The standard panel and the addon panel keep separate scroll positions.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Choosing the new panel puts the game's keybindings fragment up.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Leaving the new panel takes that fragment away.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Resetting the menu tree leaves the panel as though unselected.",
     },
   ],

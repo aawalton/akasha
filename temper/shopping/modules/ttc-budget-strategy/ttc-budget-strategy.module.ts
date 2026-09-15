@@ -6,21 +6,21 @@ export const ttcBudgetStrategy = {
   slug: "ttc-budget-strategy",
   definition: "how far above the cheapest listing a buyer should be willing to go",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A market with few entries earns the loosest ceiling.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A narrow spread between the lowest and the highest price earns a tight ceiling.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sale average well under the lowest asking price earns a tight ceiling.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A price the dump says nothing about earns the middle ceiling.",
     },
   ],

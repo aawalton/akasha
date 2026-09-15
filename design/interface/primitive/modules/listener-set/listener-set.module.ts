@@ -6,13 +6,13 @@ export const listenerSet = {
   slug: "listener-set",
   definition: "the callbacks a store tells when the value that store has changes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subscriber is handed back the call that drops that subscriber.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A store has the value and reaches here only for the callbacks.",
     },
   ],

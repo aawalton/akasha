@@ -6,21 +6,21 @@ export const proxy = {
   slug: "proxy",
   definition: "a request sent on to its target, the caller named on it or not",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A request sent on for a known caller has that caller's name in its headers.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A redirect from the target is handed back rather than followed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body is passed on still compressed.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No websocket target is sent on from here.",
     },
   ],

@@ -6,22 +6,22 @@ export const addonMenuUtil = {
   slug: "addon-menu-util",
   definition: "the widget scaffolding and bookkeeping the library publishes as LAM.util",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Half-width controls place the label above the container instead of beside the container.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A help URL becomes a clickable FAQ icon anchored beside the label.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Controls flagged as requiring reload record their value at creation time.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The published util table is filled in at the bottom of the module.",
     },
   ],

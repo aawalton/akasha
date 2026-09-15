@@ -7,22 +7,22 @@ export const ruleConditionEval = {
   definition:
     "the fixed order of condition checkers run against one compiled rule and one item's facts",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The first checker answering neither the passing nor the skip kind ends the condition run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule every checker skips gets the passing result.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The numeric checker runs ahead of every other condition checker.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every checker receives the whole compiled rule rather than one condition field.",
     },
   ],

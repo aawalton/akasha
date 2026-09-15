@@ -7,17 +7,17 @@ export const buildDirectory = {
   definition: "the folder a web tree's build is written into",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build told no folder writes into the folder the pod serves.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build told a folder writes into that folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A folder named as nothing but blanks is no folder.",
     },
   ],

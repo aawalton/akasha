@@ -8,13 +8,13 @@ export const rateLimitTier = {
   definition: "the band the size of the account's allowance is set by",
   maxLength: 50,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rate limit tier is answered by the upstream probe rather than chosen here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tier is written as Anthropic spells that tier.",
     },
   ],

@@ -7,9 +7,9 @@ export const libSetsCoreApiSettypePredicates = {
   definition:
     "which of the library's set categories a given set falls into, asked one category at a time",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each answer here reads a table on the global whose name is a plain string.",
     },
   ],

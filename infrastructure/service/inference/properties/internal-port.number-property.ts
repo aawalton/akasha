@@ -7,13 +7,13 @@ export const internalPort = {
   propertySlug: "internal-port",
   definition: "the port a service listens on behind the port it is fronted at",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service the pool fronts states this port.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A service nothing fronts states no such port.",
     },
   ],

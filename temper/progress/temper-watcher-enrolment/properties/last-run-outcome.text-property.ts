@@ -8,9 +8,9 @@ export const lastRunOutcome = {
   definition: "what a watcher reported of the run it made last",
   maxLength: 20000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A report is held as JSON text rather than as the fields a report carries.",
     },
   ],

@@ -16,22 +16,22 @@ export const generationLog = {
     { pageProperty: "file-property/generation-images", required: false, many: false },
     { pageProperty: "file-property/generation-audios", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A generation log has its runs and their outputs beside the log rather than in pages of their own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A log is reached by the slug the inference commands are pointed at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row is landed by appending one line to the file beside the log.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The log reaches as far as the last run an inference command made.",
     },
   ],

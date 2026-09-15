@@ -6,9 +6,9 @@ export const dungeonChampionLookup = {
   slug: "dungeon-champion-lookup",
   definition: "finding the champions of the open map, by map id first and by zone name second",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A map the tables know nothing of answers with nothing.",
     },
   ],

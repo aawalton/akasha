@@ -6,23 +6,23 @@ export const checkContainer = {
   slug: "check-container",
   definition: "the condition check over a container's cooldown, currency cap, and reward ceiling",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A non-container item fails both container conditions rather than skipping the check.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A transmute crystal container is specialized type 875 with Transmut inside the item name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A container held at the transmute crystal cap fails the can-open condition.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Max rewards fails only when one character knows every script and another does not.",
     },

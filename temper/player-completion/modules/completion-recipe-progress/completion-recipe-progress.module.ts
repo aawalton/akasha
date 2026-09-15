@@ -6,9 +6,9 @@ export const completionRecipeProgress = {
   slug: "completion-recipe-progress",
   definition: "the recipes each character knows, counted by recipe list",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the game.",
     },
   ],

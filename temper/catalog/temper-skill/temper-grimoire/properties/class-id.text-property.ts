@@ -8,9 +8,9 @@ export const classId = {
   definition: "the class a script reads differently for",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a class.",
     },
   ],

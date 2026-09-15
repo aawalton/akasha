@@ -6,17 +6,17 @@ export const housingPorting = {
   slug: "housing-porting",
   definition: "asking the game to travel to a house, inside or at the front door",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A port to another player's house needs that player to be a friend or guild mate.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where a port lands is a player setting rather than a per-house choice.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key bound to a favorite slot holding no house says so.",
     },
   ],

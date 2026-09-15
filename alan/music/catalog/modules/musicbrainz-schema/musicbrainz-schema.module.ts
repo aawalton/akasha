@@ -6,17 +6,17 @@ export const musicbrainzSchema = {
   slug: "musicbrainz-schema",
   definition: "the shape a MusicBrainz answer takes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field MusicBrainz may leave out is read as absent rather than refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list MusicBrainz leaves out is read as empty.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the network.",
     },
   ],

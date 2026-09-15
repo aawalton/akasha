@@ -7,17 +7,17 @@ export const overallSummaryPanelCard = {
   definition: "the account, character and companion scopes as one row apiece, and what they add to",
   code: "tsx",
   test: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The items completed over the three scopes are counted on a row of their own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "That count is a tally of things done rather than a percentage.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The row is left off where no scope has anything to count.",
     },
   ],

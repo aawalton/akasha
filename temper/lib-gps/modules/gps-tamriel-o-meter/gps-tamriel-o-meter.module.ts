@@ -6,13 +6,13 @@ export const gpsTamrielOMeter = {
   slug: "gps-tamriel-o-meter",
   definition: "measuring a map against Tamriel and holding what was measured",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A map already measured is not measured again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Measuring moves the shown map and then puts the original map back.",
     },
   ],

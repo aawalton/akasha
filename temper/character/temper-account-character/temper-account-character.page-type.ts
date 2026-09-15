@@ -23,9 +23,9 @@ export const temperAccountCharacter = {
       maxCount: null,
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character is named by the account the character was rolled on.",
     },
   ],

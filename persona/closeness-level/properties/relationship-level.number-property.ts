@@ -7,17 +7,17 @@ export const relationshipLevel = {
   propertySlug: "relationship-level",
   definition: "the rung of the closeness ladder a record is of",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level here is the level a closeness level states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level is read whether that level is stored as a number or as text.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a closeness level.",
     },
   ],

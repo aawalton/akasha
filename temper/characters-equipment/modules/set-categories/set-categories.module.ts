@@ -6,13 +6,13 @@ export const setCategories = {
   slug: "set-categories",
   definition: "where a gear set is found, and the sets sorted under each",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the set category pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "The generator writes this table outside akasha.",
     },
   ],

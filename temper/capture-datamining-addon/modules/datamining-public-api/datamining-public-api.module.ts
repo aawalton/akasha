@@ -6,13 +6,13 @@ export const dataminingPublicApi = {
   slug: "datamining-public-api",
   definition: "the global another addon reads the mined data through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global is named for the addon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global carries the way to the saved variables and nothing more.",
     },
   ],

@@ -6,17 +6,17 @@ export const targetQuantityFilter = {
   slug: "target-quantity-filter",
   definition: "the Target condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `targetQuantity` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule with the `keep-quantity` condition is offered no Target condition.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule whose action is other than `move-to` is offered no Target condition.",
     },
   ],

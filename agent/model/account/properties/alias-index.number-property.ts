@@ -8,13 +8,13 @@ export const aliasIndex = {
   definition: "the number in the shell alias that opens Claude on this account",
   max: null,
   unique: "unique-kind/page-type",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The alias `c3` opens the account with the alias index 3.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An index freed by a departing account is not handed to another account.",
     },
   ],

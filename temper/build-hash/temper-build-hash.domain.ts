@@ -13,17 +13,17 @@ export const temperBuildHash = {
     "test-fixture/build-hash-test-utils",
     "module/record-from-keys",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bit arithmetic goes through the operators the language gives.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bits go in and come out from the most significant end.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text that is no valid encoding is read as nothing rather than as bytes.",
     },
   ],

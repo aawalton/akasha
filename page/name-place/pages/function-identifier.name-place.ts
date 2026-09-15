@@ -6,9 +6,9 @@ export const functionIdentifier = {
   slug: "function-identifier",
   definition: "the name a function carries in code",
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A function is named for its answer rather than for how the answer is worked out.",
     },
   ],

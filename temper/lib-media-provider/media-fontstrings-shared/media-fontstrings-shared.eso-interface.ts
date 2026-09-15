@@ -7,13 +7,13 @@ export const mediaFontstringsShared = {
   definition: "the font names every language mode shares, each pointing through the font path",
   markup: "xml",
   loadedAs: "fontstrings_shared.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A font name here is built on the font path the platform sets.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This document is read after the two font path documents.",
     },
   ],

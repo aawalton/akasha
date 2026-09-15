@@ -7,13 +7,13 @@ export const alanWebContact = {
   definition: "how a reader reaches Alan Walton",
   code: "tsx",
   urlPath: "contact",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The contact page states the business address the SMS submission declares.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No phone number is stated on the contact page.",
     },
   ],

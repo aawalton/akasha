@@ -6,26 +6,26 @@ export const nextBossEvents = {
   slug: "next-boss-events",
   definition: "what the tracker does when a boss dies, a zone changes or a group member shares",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tracker listens only while the player is inside Imperial City.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The one-second loop keeps running in Cyrodiil so a timer survives a zone change.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A boss counts as dead only where the reticle saw that boss alive in the last minute.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kill shared with the group has the district rather than the boss.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A group broadcast is sent only where LibGroupBroadcast is loaded.",
     },
   ],

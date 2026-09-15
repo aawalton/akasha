@@ -6,13 +6,13 @@ export const mapPinsChests23 = {
   slug: "map-pins-chests-23",
   definition: "one run of the treasure chest places by zone",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The records here are one unbroken run of the table's order.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The run is the add-on's own source rather than a derivation.",
     },
   ],

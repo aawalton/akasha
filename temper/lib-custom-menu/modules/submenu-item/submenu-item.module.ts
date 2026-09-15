@@ -6,9 +6,9 @@ export const submenuItem = {
   slug: "submenu-item",
   definition: "the row that opens a sub-menu when the mouse rests on it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row with a sub-menu shows an arrow at its right edge.",
     },
   ],

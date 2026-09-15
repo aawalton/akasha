@@ -8,13 +8,13 @@ export const changeMechanicalFolder = {
   extends: ["page-type/change-mechanical"],
   parts: ["change-mechanical-folder/move-folder", "change-mechanical-folder/remove-folder"],
   properties: [],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rung here makes a folder.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rung here renames a folder.",
     },
   ],

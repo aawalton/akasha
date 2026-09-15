@@ -6,22 +6,22 @@ export const scheduling = {
   slug: "scheduling",
   definition: "the next day a repeating thing falls due after the one it has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A thing with no rule never advances.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The next occurrence falls after the end of the logical day the reset time names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A thing with no due date yet is anchored at the reset time rather than at the clock.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the day moves when a recurrence advances.",
     },
   ],

@@ -8,9 +8,9 @@ export const resourceKind = {
   definition: "the kind of cluster resource a service is",
   maxLength: 50,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The kind named here has a pod template.",
     },
   ],

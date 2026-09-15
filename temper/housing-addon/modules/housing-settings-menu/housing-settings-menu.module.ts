@@ -6,9 +6,9 @@ export const housingSettingsMenu = {
   slug: "housing-settings-menu",
   definition: "the settings panel the housing add-on registers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting is written to saved variables as the player changes the setting.",
     },
   ],

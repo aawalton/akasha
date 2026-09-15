@@ -6,13 +6,13 @@ export const mainMenuVersion = {
   slug: "main-menu-version",
   definition: "the name and the build number this library answers to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name here is the name the game loads the addon under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The build number rises whenever the published shape changes.",
     },
   ],

@@ -6,21 +6,21 @@ export const ruleVocabulary = {
   slug: "rule-vocabulary",
   definition: "a vocabulary of values with the patterns naming them, and the value a text reads as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A text matching no pattern reads as `unrecognized`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The longest matching pattern wins.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two matching patterns of one length are settled by which sorts first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Where two values claim one pattern, the value listed first wins and nothing reports it.",
     },

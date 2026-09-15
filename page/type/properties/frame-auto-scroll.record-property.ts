@@ -7,9 +7,9 @@ export const frameAutoScroll = {
   propertySlug: "auto-scroll",
   definition: "where a page is carried to on its own rather than by the reader's hand",
   properties: [{ pageProperty: "text-property/load-scroll", required: false, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page is carried on its own only as the page opens.",
     },
   ],

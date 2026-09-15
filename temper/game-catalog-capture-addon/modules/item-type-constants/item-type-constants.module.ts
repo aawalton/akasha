@@ -7,13 +7,13 @@ export const itemTypeConstants = {
   definition:
     "the item type numbers the game client has, each under the name the client spells it with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each number is read out of the client rather than written down here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here turns a number into display text.",
     },
   ],

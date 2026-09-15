@@ -8,13 +8,13 @@ export const buildHash = {
   definition: "the arrangement a version holds, written as one string",
   maxLength: 4000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two versions arranged alike have one hash.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A hash runs longer than a name is allowed to run.",
     },
   ],

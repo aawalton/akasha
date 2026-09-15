@@ -8,13 +8,13 @@ export const hostnames = {
   definition: "a host name a web app is reached at",
   maxLength: 253,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name here is reached from outside the cluster.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A web app states every name reaching the workload the web app runs as.",
     },
   ],

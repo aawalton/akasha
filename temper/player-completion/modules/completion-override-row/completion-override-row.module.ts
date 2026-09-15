@@ -7,9 +7,9 @@ export const completionOverrideRow = {
   definition: "reading one stored override off an untyped row",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A row that is not an override reads as nothing rather than throwing.",
     },
   ],

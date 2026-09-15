@@ -6,17 +6,17 @@ export const maintainability = {
   slug: "maintainability",
   definition: "the maintainability index a source file works out to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file with no function measures one hundred.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An index below zero is answered as zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A source line is a line some token starts on.",
     },
   ],

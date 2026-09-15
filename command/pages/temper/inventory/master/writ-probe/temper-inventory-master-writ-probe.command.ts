@@ -6,25 +6,25 @@ export const temperInventoryMasterWritProbe = {
   slug: "temper-inventory-master-writ-probe",
   definition: "the command giving back the addon's last master-writ journal capture",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The capture read is the most recent capture.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every step and every condition has the raw fields the game gave.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capture is taken in the game by the `/tempermwprobe` slash command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file with no capture refuses the call.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here takes a capture.",
     },
   ],

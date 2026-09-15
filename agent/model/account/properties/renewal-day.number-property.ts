@@ -7,9 +7,9 @@ export const renewalDay = {
   propertySlug: "renewal-day",
   definition: "the day of the month the account's subscription renews on",
   max: 31,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day past the end of a short month renews on that month's last day.",
     },
   ],

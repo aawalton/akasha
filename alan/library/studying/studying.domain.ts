@@ -10,13 +10,13 @@ export const studying = {
     "page-type/great-courses-collection",
     "page-type/great-courses-subject",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A course is counted in the minutes that course runs to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A course sits under every shelf that course belongs to rather than under a single shelf.",
     },

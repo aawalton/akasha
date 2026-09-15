@@ -8,9 +8,9 @@ export const masteryBehaviour = {
   definition: "what Alan does in an interview at a rung",
   maxLength: 400,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One rung is told from the rungs beside that rung by this text alone.",
     },
   ],

@@ -6,17 +6,17 @@ export const transpileTranspile = {
   slug: "transpile-transpile",
   definition: "the printed Lua files and diagnostics one TypeScript program yields",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Whether Lua is written is stated by `no-emit-lua`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A compile stating nothing there writes Lua unless TypeScript emits nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A compile emitting no JavaScript still writes Lua where `no-emit-lua` says so.",
     },
   ],

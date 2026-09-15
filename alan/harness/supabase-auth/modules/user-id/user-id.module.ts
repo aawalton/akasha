@@ -6,9 +6,9 @@ export const userId = {
   slug: "user-id",
   definition: "the user a process acts as, taken from the environment or defaulted",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "Alan's own id is here as the default.",
     },
   ],

@@ -8,13 +8,13 @@ export const topicSettled = {
   definition: "what is worked out about a topic",
   maxLength: 1000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This property has the text that stands rather than the text still open.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A blank line divides one paragraph from the next.",
     },
   ],

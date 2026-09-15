@@ -6,9 +6,9 @@ export const metricsData03 = {
   slug: "metrics-data-03",
   definition: "character stats damage-done-dot through defense-physical-aoe-mitigation",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The stats are named here in the order the gathered table answers its ids in.",
     },
   ],

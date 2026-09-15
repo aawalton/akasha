@@ -27,31 +27,31 @@ export const appearanceExperiment = {
     { pageProperty: "file-property/eye-read", required: true, many: false },
     { pageProperty: "file-property/felt-read", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An experiment is one thing put on rather than a whole day's dress.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An experiment names the persona who read the experiment rather than Alan.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "How a try read to the persona and how that try landed on Alan are kept as two separate readings.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An experiment ends in a verdict of keeping or tweaking or dropping the appearance.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Shaestrel's persona points are counted from these experiments.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Each reading is in a file beside the experiment rather than inside the experiment page.",
     },

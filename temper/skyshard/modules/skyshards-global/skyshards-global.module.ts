@@ -6,9 +6,9 @@ export const skyshardsGlobal = {
   slug: "skyshards-global",
   definition: "the add-on's name and version, put where another add-on can read them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This global is the add-on's own name rather than a name the game owns.",
     },
   ],

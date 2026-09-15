@@ -5,13 +5,13 @@ export const testTsx = {
   type: "page-type/file-purpose",
   slug: "test-tsx",
   definition: "a file of TypeScript source with markup, with tests",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file whose name ends `test.tsx` is of this purpose.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test written with markup is of this purpose rather than of `test-ts`.",
     },
   ],

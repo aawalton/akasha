@@ -6,25 +6,25 @@ export const stateSpawnedSeat = {
   slug: "state-spawned-seat",
   definition: "the attributes a spawned seat is stated with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The stating module is imported from beside this module and its function called.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No command is spawned to state a spawned seat.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No ceiling bounds a stating.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mode or a principal the stating would refuse is refused before anything runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stating's refusal is answered as the refusal's own words.",
     },
   ],

@@ -8,9 +8,9 @@ export const stillPath = {
   definition: "the path to a frame taken from an episode",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A still is a frame from the episode rather than artwork drawn for that episode.",
     },
   ],

@@ -6,9 +6,9 @@ export const libSetsCorePerfectedSets = {
   slug: "lib-sets-core-perfected-sets",
   definition: "which set is the perfected twin of which, and the zone each of the pair drops in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A pair is only recorded when both set ids and both zone ids are known.",
     },
   ],

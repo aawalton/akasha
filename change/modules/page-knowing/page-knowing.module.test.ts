@@ -139,7 +139,7 @@ test("a key falls after the key the pages of its own type put it after", () => {
 test("a key none of those pages write falls after nothing", () => {
   const world = worldOver(routes(1, ["slug", "code", "test", "urlPath"]))
 
-  expect(afterIn(world, ROUTE, "invariants")).toBeNull()
+  expect(afterIn(world, ROUTE, "decisions")).toBeNull()
 })
 
 test("a key the page already writes falls after nothing", () => {

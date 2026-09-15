@@ -6,9 +6,9 @@ export const companionsApplyBuild = {
   slug: "companions-apply-build",
   definition: "equipping and slotting a companion to match a target build",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Skills are slotted before gear is equipped.",
     },
   ],

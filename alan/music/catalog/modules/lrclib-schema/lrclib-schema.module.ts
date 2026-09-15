@@ -6,17 +6,17 @@ export const lrclibSchema = {
   slug: "lrclib-schema",
   definition: "the shape an LRCLIB answer takes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An LRCLIB search answers a bare list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record LRCLIB says nothing about instrumentality for is not instrumental.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the network.",
     },
   ],

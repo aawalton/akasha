@@ -6,13 +6,13 @@ export const swapDecision = {
   slug: "swap-decision",
   definition: "which resident services stop and which starts when one is asked for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service already resident is not started again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A warm service is evicted only for another service that is not warm.",
     },
   ],

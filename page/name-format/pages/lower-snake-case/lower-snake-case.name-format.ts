@@ -7,5 +7,5 @@ export const lowerSnakeCase = {
   definition: "a name format joining words with underscores, all letters lower",
   code: "ts",
   test: "ts",
-  invariants: [],
+  decisions: [],
 } as const satisfies NameFormat

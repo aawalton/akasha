@@ -6,9 +6,9 @@ export const geoapify = {
   slug: "geoapify",
   definition: "the geoapify url a place name's autocomplete is asked for by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A url is built without a request being made.",
     },
   ],

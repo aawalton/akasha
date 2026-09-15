@@ -6,21 +6,21 @@ export const nextBossUiStrings = {
   slug: "next-boss-ui-strings",
   definition: "the words this tracker shows, and the string ids it makes for them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A string id is made at load rather than read from a language file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A district's name opens with the number of its place on the round.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key binding's name is a string id of its own.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here is written in a language other than English.",
     },
   ],

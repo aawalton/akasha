@@ -8,9 +8,9 @@ export const cover = {
   definition: "the image that represents a page",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement:
         "This property has the route a picture is fetched by rather than the picture itself.",
     },

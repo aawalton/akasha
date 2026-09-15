@@ -6,13 +6,13 @@ export const sshTarget = {
   slug: "ssh-target",
   definition: "the machine a script is run on, and the key it is reached with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A target names a key path rather than carrying a key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The options a target is reached with are stated here rather than by each caller.",
     },
   ],

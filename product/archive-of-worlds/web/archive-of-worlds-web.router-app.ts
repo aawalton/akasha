@@ -28,9 +28,9 @@ export const archiveOfWorldsWeb = {
     "stylesheet/archive-of-worlds-web-look",
   ],
   toolReached: ["react-dom"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The four answers a browser asks for about pages come from web-page-answers.",
     },
   ],

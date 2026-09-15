@@ -27,17 +27,17 @@ export const systemd = {
     { pageProperty: "boolean-property/catch-up", required: false, many: false },
     { pageProperty: "text-property/wanted-by", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One record has every option the unit states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The options a timer states sit here beside the options a service states.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement:
         "The exit code preventing a restart is the one option a service states uncarried here.",
     },

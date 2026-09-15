@@ -6,9 +6,9 @@ export const charactersTaskCardMatch = {
   slug: "characters-task-card-match",
   definition: "whether a task names a completion card, and what its item path holds at an index",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Whether a task names a completion card is worked out in one place.",
     },
   ],

@@ -12,18 +12,18 @@ export const healthSampleAccess = {
     "module/sample-shape",
     "module/sample-upsert",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the device a reading came from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading is filed under the ESO day the reading started in rather than the day the reading arrived.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading is read and written as a page akasha has.",
     },
   ],

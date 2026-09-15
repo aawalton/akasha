@@ -7,21 +7,21 @@ export const lostTreasureMapLayout = {
   definition: "the movable treasure map window and the icon a settings row is marked with",
   markup: "xml",
   loadedAs: "LostTreasure.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The map window is dragged by its own texture rather than by a title bar.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Dragging the window calls back into the tracker so the place is kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The window is clamped to the screen.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The close button hides the map window rather than taking the map window away.",
     },
   ],

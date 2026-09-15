@@ -12,22 +12,22 @@ export const context = {
     "module/warranting",
     "page-type/context-warrant",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A warrant applies to the seat changing a file rather than to a seat reading that file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Warrants reach no further than the akasha folder.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every warrant a change owes is stated by a page of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The warrants a change owes are worked out from the warrant pages.",
     },
   ],

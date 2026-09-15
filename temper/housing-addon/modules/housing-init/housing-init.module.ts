@@ -6,13 +6,13 @@ export const housingInit = {
   slug: "housing-init",
   definition: "opening saved variables and building the housing window as the add-on loads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The window is built as the add-on loads rather than when first shown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Saved variables missing a field take the field's default.",
     },
   ],

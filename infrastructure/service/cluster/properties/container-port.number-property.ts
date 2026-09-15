@@ -7,9 +7,9 @@ export const containerPort = {
   propertySlug: "container-port",
   definition: "the port a workload's container listens on",
   max: 65535,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Traffic reaching the container from inside the cluster arrives here.",
     },
   ],

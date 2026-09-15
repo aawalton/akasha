@@ -8,9 +8,9 @@ export const deviceTokenToken = {
   definition: "the value Apple delivers a push to",
   maxLength: 64,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Apple writes a token in upper hexadecimal and the token is kept as given.",
     },
   ],

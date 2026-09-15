@@ -10,17 +10,17 @@ export const royalRoad = {
     "module/royal-road-syncing",
     "service-workstation/royal-road-sync",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page written from Royal Road is written by the syncing module.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every reach out to Royal Road goes through this package.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A chapter is fetched without the account.",
     },
   ],

@@ -6,17 +6,17 @@ export const bankProfileReading = {
   slug: "bank-profile-reading",
   definition: "the Lua profile the inventory addon records over a visit to a banker",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The profile is ruled on whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unknown field refuses the read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bucket the addon left empty is read as an empty list rather than as absent.",
     },
   ],

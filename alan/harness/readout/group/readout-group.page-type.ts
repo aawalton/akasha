@@ -29,9 +29,9 @@ export const readoutGroup = {
     },
     { pageProperty: "boolean-property/figure-off-scale", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The words a group is drawn under are its definition rather than a label of its own.",
     },

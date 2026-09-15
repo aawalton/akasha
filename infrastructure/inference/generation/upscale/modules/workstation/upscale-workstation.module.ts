@@ -6,18 +6,18 @@ export const upscaleWorkstation = {
   slug: "upscale-workstation",
   definition: "upscaling one image on the workstation's own GPU through the seedvr2 scripts",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The scripts are reached at their pages' path rather than where the scripts were once installed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The stack is brought up before an image is written into that stack.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A script that reports success while producing nothing readable is raised as a failure.",
     },

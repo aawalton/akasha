@@ -7,9 +7,9 @@ export const charactersAchievements = {
   definition:
     "every achievement's progress, read into the saved table under the account or the character",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The game says of each achievement whether that achievement is kept per character or per account.",
     },

@@ -6,17 +6,17 @@ export const pledgeRotation = {
   slug: "pledge-rotation",
   definition: "which dungeon each quest giver asks for on the day an instant falls in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rotation is counted in whole days from the giver's own epoch.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day here is the day the game resets on rather than the calendar day.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A giver whose rotation has no dungeon at today's position is refused.",
     },
   ],

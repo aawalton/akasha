@@ -6,34 +6,34 @@ export const slashCommanderChatHooks = {
   slug: "slash-commander-chat-hooks",
   definition: "the game's chat entry hooked so a command's own completions are offered",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keyboard chat and the gamepad chat are hooked the same way.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The command a token belongs to is found by walking down the subcommand aliases.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The text before the token is kept so a chosen completion is put back after that text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game's own completion runs where no command claims the token.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Matches are ordered from the closest to the token down to the furthest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Setting up the chat entry runs one time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second setup does nothing.",
     },
   ],

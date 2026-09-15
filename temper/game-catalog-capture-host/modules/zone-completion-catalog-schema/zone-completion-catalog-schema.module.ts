@@ -6,17 +6,17 @@ export const zoneCompletionCatalogSchema = {
   slug: "zone-completion-catalog-schema",
   definition: "the zod schema reading the zone completion catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone has completion types that have activities.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An activity has an id of its own beside its name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A completion type has activities and nothing else.",
     },
   ],

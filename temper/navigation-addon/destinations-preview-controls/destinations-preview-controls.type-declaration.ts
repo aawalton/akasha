@@ -7,14 +7,14 @@ export const destinationsPreviewControls = {
   definition:
     "the dropdown controls the destinations settings name to show an icon beside each texture choice",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A control here is made by the settings library from a reference the destinations menu passes.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

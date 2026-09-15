@@ -6,18 +6,18 @@ export const indexShape = {
   slug: "index-shape",
   definition: "the shapes a read of the index is answered in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape here names the answer to a read of the index.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reader takes a shape from here rather than from the code that does the reading.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads or writes.",
     },
   ],

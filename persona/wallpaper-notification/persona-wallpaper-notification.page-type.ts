@@ -16,17 +16,17 @@ export const personaWallpaperNotification = {
     },
     { pageProperty: "number-property/relationship-level", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page being there is the whole record.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A persona is told of at a rung once.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No moment is kept of when the word went out.",
     },
   ],

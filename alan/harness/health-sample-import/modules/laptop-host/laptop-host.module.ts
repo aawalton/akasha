@@ -6,9 +6,9 @@ export const laptopHost = {
   slug: "laptop-host",
   definition: "the laptop health readings are taken from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The laptop is reached at its tailnet address rather than by name.",
     },
   ],

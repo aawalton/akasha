@@ -13,17 +13,17 @@ export const temperNarrow = {
     "module/require-numeric-key",
     "module/require-saved-variables",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This code is compiled to Lua and runs inside the game.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A narrowing that reaches no Lua belongs in `@akasha/utils/narrow` instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal here throws the plain error the game's Lua understands.",
     },
   ],

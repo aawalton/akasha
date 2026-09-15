@@ -8,13 +8,13 @@ export const maxCount = {
   definition: "the most entries a list may hold",
   nullable: true,
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a declaration with many values states a count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How long one entry runs is stated as a length rather than as a count.",
     },
   ],

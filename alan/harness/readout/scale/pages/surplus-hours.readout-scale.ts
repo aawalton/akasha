@@ -10,18 +10,18 @@ export const surplusHours = {
   yellowAt: -4,
   greenAt: 0,
   blueAt: 4,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rungs of this scale run below zero as well as above zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading below zero reaches a rung rather than being read as though the scale began at zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A day that has eaten into the night is read against this scale rather than another.",
     },

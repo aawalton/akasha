@@ -6,13 +6,13 @@ export const jewelrySlots = {
   slug: "jewelry-slots",
   definition: "the necklace and the two ring positions a character wears jewelry at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A jewelry slot's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A jewelry slot moved to another place breaks every build hash saved.",
     },
   ],

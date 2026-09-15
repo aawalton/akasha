@@ -6,9 +6,9 @@ export const signOutRoute = {
   slug: "sign-out-route",
   definition: "what ends a reader's session and where that reader is sent",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader asking for the sign-out path without posting is sent to the root.",
     },
   ],

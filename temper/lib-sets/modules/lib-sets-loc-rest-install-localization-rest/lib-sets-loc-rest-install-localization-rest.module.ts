@@ -6,9 +6,9 @@ export const libSetsLocRestInstallLocalizationRest = {
   slug: "lib-sets-loc-rest-install-localization-rest",
   definition: "six later language tables added onto the library's localization",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The localization table already exists when these six are added.",
     },
   ],

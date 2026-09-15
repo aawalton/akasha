@@ -11,13 +11,13 @@ export const snapshotLocations = {
     { pageProperty: "text-property/eso-display-name", required: true, many: false },
     { pageProperty: "instant-property/last-scanned-at", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One line is one bag holder a reading found.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "When a holder was last read is the holder's own moment rather than the reading's.",
     },

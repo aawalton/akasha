@@ -7,17 +7,17 @@ export const inPage = {
   definition: "an address naming a page by a value unique across every page",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This kind answers the unique kind `page`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An address of this kind names the property the value is read by.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "An address of this kind names no page type.",
     },
   ],

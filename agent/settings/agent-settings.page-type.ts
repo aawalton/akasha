@@ -21,36 +21,36 @@ export const agentSettings = {
     { pageProperty: "file-property/harness-settings", required: true, many: false },
     { pageProperty: "module-property-group/telling", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A settings document declares the settings a harness is told rather than deriving that.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The hook registrations are derived from the agent hook pages instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A derived document is merged over this document and written outside the repository.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A running seat watches the derived document rather than this page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page here says the settings one program reads rather than the settings every program reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One path writes a seat's client configuration.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Which command launched a seat does not change the path writing that configuration.",
     },

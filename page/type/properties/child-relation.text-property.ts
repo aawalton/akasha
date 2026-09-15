@@ -8,9 +8,9 @@ export const childRelation = {
   definition: "the key by which a gathered page names the page gathering it",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key named here that the gathered page type does not have gathers nothing.",
     },
   ],

@@ -6,13 +6,13 @@ export const pinState = {
   slug: "pin-state",
   definition: "whether a pin type is drawn, and the checkboxes that state drives",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Enabling a pin type on the global map filter group changes nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Pins are refreshed only where the enabled state changed.",
     },
   ],

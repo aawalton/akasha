@@ -6,21 +6,21 @@ export const scrollableMenuDropdownClassFilter = {
   slug: "scrollable-menu-dropdown-class-filter",
   definition: "the filter edit box of the dropdown header and its saved search history",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The search history keeps the ten latest entries in a combobox.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "History is offered through ZO_Menu rather than through a library menu.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Filter text reaches the combobox through a ten millisecond throttle.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The sort toggle and the edit box and slider change handlers sit alongside.",
     },
   ],

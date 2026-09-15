@@ -6,13 +6,13 @@ export const supervisorChildExitRule = {
   slug: "supervisor-child-exit-rule",
   definition: "the child-exit readings asked of the deciding command",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stop reason the rule and the column disagree on stamps nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unread classification is null rather than a guess at how the child stopped.",
     },
   ],

@@ -6,29 +6,29 @@ export const completionAccountTraitUnion = {
   slug: "completion-account-trait-union",
   definition: "the item traits any one character of an account has researched, counted by line",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trait researched by one character counts as researched for the account.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The craft type catalog and the research line catalog arrive as arguments.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trait is matched across characters by the craft and the line and the number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A craft type is ordered by the game number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A research line is ordered by the display order.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An empty list of character progress answers an empty progress.",
     },
   ],

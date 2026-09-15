@@ -6,22 +6,22 @@ export const decodeHarnessScript = {
   slug: "decode-harness-script",
   definition: "the script that builds an app's decode harness and runs it on a simulator",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One script is written for each app whose page names a decode harness program.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The components the script compiles are those the harness's ios-program page names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file the script names is read from the index rather than spelled here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches a machine.",
     },
   ],

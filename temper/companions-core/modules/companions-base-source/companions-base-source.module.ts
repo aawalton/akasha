@@ -6,13 +6,13 @@ export const companionsBaseSource = {
   slug: "companions-base-source",
   definition: "gatherer data file of the flat base stats every companion starts with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Base health and weapon damage are literal integers rather than formulas.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The single entry companion-base-stats has every base metric effect.",
     },
   ],

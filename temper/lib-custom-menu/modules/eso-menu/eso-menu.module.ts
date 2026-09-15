@@ -6,9 +6,9 @@ export const esoMenu = {
   slug: "eso-menu",
   definition: "the game's own context menu control",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One control has every context menu the game shows.",
     },
   ],

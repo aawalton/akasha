@@ -6,14 +6,14 @@ export const minimapViewTypes = {
   slug: "minimap-view-types",
   definition: "the minimap's loose views of the game tables the minimap reaches into",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A shape here is the members the minimap reads of a game table rather than the game's declaration.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

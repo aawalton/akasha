@@ -7,13 +7,13 @@ export const nextSeq = {
   propertySlug: "next-seq",
   definition: "the number the next page of this page type takes as its seq",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seq is handed out once and the counter moves on whether or not a page lands.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The counter moves under a lock held on the page type file.",
     },
   ],

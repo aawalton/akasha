@@ -7,13 +7,13 @@ export const emailRuleCodeFiling = {
   propertySlug: "filing",
   definition: "whether a piece of mail the rule matches leaves the inbox",
   values: ["archive", "skip"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Archiving and skipping exclude each other.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Skipping is doing nothing to the mail rather than leaving the filing unstated.",
     },
   ],

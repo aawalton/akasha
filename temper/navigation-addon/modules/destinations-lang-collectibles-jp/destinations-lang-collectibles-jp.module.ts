@@ -6,9 +6,9 @@ export const destinationsLangCollectiblesJp = {
   slug: "destinations-lang-collectibles-jp",
   definition: "the collectible names in Japanese",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

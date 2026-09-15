@@ -6,9 +6,9 @@ export const treasurePublicApi = {
   slug: "treasure-public-api",
   definition: "the names the library puts where every other addon reaches them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name the game reads keeps its upstream spelling on the global table.",
     },
   ],

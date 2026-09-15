@@ -6,14 +6,14 @@ export const useCompletion = {
   slug: "use-completion",
   definition: "the completion a browser reads for one player",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A query not naming `completion` under `files` answers that file's ending rather than its body.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A completion that is not an object reads here as no completion.",
     },
   ],

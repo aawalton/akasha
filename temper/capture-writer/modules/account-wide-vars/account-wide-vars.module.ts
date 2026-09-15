@@ -6,17 +6,17 @@ export const accountWideVars = {
   slug: "account-wide-vars",
   definition: "the game's own account-wide saved table, held for as long as the add-on runs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is asked for once and kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Asking for the table before the table was made up is an error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every character on the account sees the one table.",
     },
   ],

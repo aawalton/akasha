@@ -6,9 +6,9 @@ export const charactersEventsWorld = {
   slug: "characters-events-world",
   definition: "what this add-on does when the played character's progress in the world changes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A finished quest counts as a daily writ only where its type is crafting.",
     },
   ],

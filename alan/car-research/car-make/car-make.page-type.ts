@@ -30,9 +30,9 @@ export const carMake = {
     { pageProperty: "text-property/reliability-notes", required: true, many: false },
     { pageProperty: "file-property/trims", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A make names no model that make builds.",
     },
   ],

@@ -6,22 +6,22 @@ export const inferenceSeed = {
   slug: "inference-seed",
   definition: "the seed a run is drawn with where the caller told none",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seed the caller told is answered back unchanged.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A drawn seed is taken from the platform's random bytes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A drawn seed is narrowed to a positive signed 32-bit integer so every service takes that seed.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches a service or reads the bytes a service made of the seed.",
     },
   ],

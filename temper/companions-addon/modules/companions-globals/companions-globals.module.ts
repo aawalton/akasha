@@ -6,9 +6,9 @@ export const companionsGlobals = {
   slug: "companions-globals",
   definition: "the two names the add-on hangs off the game's global table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only refreshing and clearing are reachable from outside.",
     },
   ],

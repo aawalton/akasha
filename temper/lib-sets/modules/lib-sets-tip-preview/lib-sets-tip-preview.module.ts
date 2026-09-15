@@ -6,17 +6,17 @@ export const libSetsTipPreview = {
   slug: "lib-sets-tip-preview",
   definition: "one item chosen for a set and shown in a tooltip on demand",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The slash commands here are only created when LibSlashCommander is absent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The search for an item loosens its criteria twice before giving up.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set is found by name with spaces treated as a middle dot.",
     },
   ],

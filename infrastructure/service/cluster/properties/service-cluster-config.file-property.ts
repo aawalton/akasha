@@ -7,13 +7,13 @@ export const serviceClusterConfig = {
   propertySlug: "config",
   definition: "the settings a workload's own program reads",
   extensions: ["yaml"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The settings are the program's own rather than the cluster's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A cluster service the cluster configures through its manifest alone states no config.",
     },

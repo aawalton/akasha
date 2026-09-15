@@ -8,29 +8,29 @@ export const pagesReady = {
   code: "ts",
   test: "ts",
   urlPath: "api/pages-ready",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This route is asked without a session and answers without any page's content.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Going red here is a report rather than a kill.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Going red at the liveness probe kills the container and pulls the replica out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A read answering no page is red rather than green.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty answer is the shape a broken read makes when the read is not raising.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every red the route can answer is shown by a test seeding that fault.",
     },
   ],

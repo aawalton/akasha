@@ -24,26 +24,26 @@ export const shellScript = {
     { pageProperty: "text-property/install-path", required: false, many: false },
     { pageProperty: "select-property/only-on", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shell script is in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller running a shell script names that script rather than importing that script.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shell script is read by the shell rather than by the page loader.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sourced script reads names set by the script that sourced the sourced script.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A manifest names only a script that runs on its own.",
     },
   ],

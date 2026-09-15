@@ -6,21 +6,21 @@ export const scrollableMenuContextmenuClass = {
   slug: "scrollable-menu-contextmenu-class",
   definition: "the single context-menu object and the way it opens at the mouse",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One context-menu object is created at addon load and never replaced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Entries are appended to a plain list rather than added through the combobox.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The menu anchors to the mouse position rather than to a container control.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Opening while another library menu is visible arms two preventer variables.",
     },
   ],

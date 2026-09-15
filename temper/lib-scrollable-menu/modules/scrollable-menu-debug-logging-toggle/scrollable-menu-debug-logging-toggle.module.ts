@@ -6,17 +6,17 @@ export const scrollableMenuDebugLoggingToggle = {
   slug: "scrollable-menu-debug-logging-toggle",
   definition: "the flip of the debug and verbose-debug switches on the library debug table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The toggle loads the logger on first use rather than at library load.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Verbose logging is reported only while plain debugging is on.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The toggle persists nothing across sessions.",
     },
   ],

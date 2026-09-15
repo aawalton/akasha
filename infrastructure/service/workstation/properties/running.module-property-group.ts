@@ -9,13 +9,13 @@ export const running = {
   slug: "running",
   propertySlug: "running",
   definition: "the code a workstation service runs",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service that runs until stopped never answers from its run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The code a service runs is reached by that service's slug rather than by a path.",
     },
   ],

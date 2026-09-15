@@ -6,13 +6,13 @@ export const canCompanionEquipFilter = {
   slug: "can-companion-equip-filter",
   definition: "the Can Companion Equip condition a rule may have, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `canCompanionEquip` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category outside `equipment` is offered no Can Companion Equip condition.",
     },
   ],

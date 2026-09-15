@@ -6,13 +6,13 @@ export const skillPointGeneralSources = {
   slug: "skill-point-general-sources",
   definition: "the skill points a character earns outside any one zone, and how many each gives",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-point pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A source is named by the key the completion record counts that source under.",
     },
   ],

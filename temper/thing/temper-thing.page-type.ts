@@ -30,9 +30,9 @@ export const temperThing = {
     { pageProperty: "text-property/eso-character-id", required: false, many: false },
     { pageProperty: "text-property/parent", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every page type temper carries extends temper-thing or a page type extending temper-thing.",
     },

@@ -6,13 +6,13 @@ export const dungeonChampionSavedVars = {
   slug: "dungeon-champion-saved-vars",
   definition: "the settings this addon keeps between sessions",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Settings once kept under a character name are moved to the account id once.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Reading the settings before the settings are brought up throws.",
     },
   ],

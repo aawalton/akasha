@@ -6,13 +6,13 @@ export const keybinderConstants = {
   slug: "keybinder-constants",
   definition: "the add-on's names and the actions it shares across the account by default",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The saved-variables name is built from the addon name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An action in the default list is shared the first time the add-on runs.",
     },
   ],

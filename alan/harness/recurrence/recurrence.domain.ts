@@ -6,18 +6,18 @@ export const recurrence = {
   slug: "recurrence",
   definition: "when a repeating thing next falls due",
   parts: ["module/recurrence-shape", "module/scheduling"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recurrence is stored as an rrule string and read back from the rrule string.",
     },
 
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a clock of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The caller states the current time.",
     },
   ],

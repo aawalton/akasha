@@ -6,18 +6,18 @@ export const companionStatsResult = {
   slug: "companion-stats-result",
   definition: "the result shape returned by a companion stat calculation",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The interface sits alone in a module to break the cycle between calculator and optimizer.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The metrics field is a partial record keyed by CompanionMetricId.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The rotation field admits null.",
     },
   ],

@@ -6,17 +6,17 @@ export const oauthHealthLines = {
   slug: "oauth-health-lines",
   definition: "the console lines saying an account's OAuth refresh went terminal or came back",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A terminal refresh failure names the account whose refresh stopped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unrecognised error code is reported as unknown rather than dropped.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes to disk.",
     },
   ],

@@ -6,13 +6,13 @@ export const tableFunctionCasts = {
   slug: "table-function-casts",
   definition: "what an unknown handed to a table helper is read as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A helper takes an unknown so a caller in Lua may hand in anything.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

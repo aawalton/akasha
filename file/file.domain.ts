@@ -6,25 +6,25 @@ export const file = {
   slug: "file",
   definition: "a file in the `akasha` folder",
   parts: ["domain/folder-path", "module/exclusive", "module/git-place", "module/lock-holder"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page's file is named for its slug and its page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page property's file is named for its page and its property.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every file is a page or one page property's own file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file git does not track sits in the folder all the same.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two processes take turns over one file rather than writing it at once.",
     },
   ],

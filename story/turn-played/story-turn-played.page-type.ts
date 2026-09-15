@@ -8,21 +8,21 @@ export const storyTurnPlayed = {
   extends: ["page-type/collection"],
   runsTabooCheck: false,
   properties: [{ pageProperty: "file-property/prose", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn has the prose one exchange of play made.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn is part of the one story the turn was played in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn's slug opens with the story the turn is part of.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A turn's text is kept here alone rather than also in a game's rows.",
     },
   ],

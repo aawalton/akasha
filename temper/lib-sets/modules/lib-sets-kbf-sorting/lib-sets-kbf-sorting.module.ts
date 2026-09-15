@@ -6,9 +6,9 @@ export const libSetsKbfSorting = {
   slug: "lib-sets-kbf-sorting",
   definition: "how a filter dropdown's entries are put in order",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Sorting is offered only on the row fields the sort table names.",
     },
   ],

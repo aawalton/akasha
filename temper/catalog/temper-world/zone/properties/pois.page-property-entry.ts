@@ -12,9 +12,9 @@ export const pois = {
     { pageProperty: "number-property/poi-index", required: true, many: false },
     { pageProperty: "text-property/poi-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A place here has the label of the kind of point of interest the place is.",
     },
   ],

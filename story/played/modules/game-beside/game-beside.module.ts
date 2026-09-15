@@ -6,29 +6,29 @@ export const gameBeside = {
   slug: "game-beside",
   definition: "the game a played story shares a slug with, read with the files beside its page",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game read is the one game whose slug is the played story's own slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file property answering its own ending rather than a body reads as unread.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The state read is the last row of the file, which is the state play left.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body no schema accepts reads as unread rather than throwing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A store that answers nothing is told apart from a story no game names.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here polls, because no game behind these stories is still being played.",
     },
   ],

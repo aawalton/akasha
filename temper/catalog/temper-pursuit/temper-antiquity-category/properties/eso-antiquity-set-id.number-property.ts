@@ -7,13 +7,13 @@ export const esoAntiquitySetId = {
   propertySlug: "eso-antiquity-set-id",
   definition: "the number The Elder Scrolls Online names a set of antiquity leads by",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A lead set is numbered apart from the item set an item belongs to.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Nothing refuses an antiquity row stating `eso-set-id`.",
     },
   ],

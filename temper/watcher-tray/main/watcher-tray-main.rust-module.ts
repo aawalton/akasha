@@ -7,17 +7,17 @@ export const watcherTrayMain = {
   definition: "where the tray program's run begins",
   rust: "rs",
   moduleName: "main",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tray declares every sibling module here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tray that replaced itself exits rather than carrying on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A step that failed is logged and the run carries on.",
     },
   ],

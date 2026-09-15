@@ -7,9 +7,9 @@ export const consoleCapture = {
   definition:
     "what the browser wrote to its console and threw, kept for a run and dumped on demand",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A capture has a bounded number of entries and counts the entries the capture dropped.",
     },

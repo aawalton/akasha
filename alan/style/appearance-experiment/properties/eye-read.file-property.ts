@@ -7,9 +7,9 @@ export const eyeRead = {
   propertySlug: "eye-read",
   definition: "how the try read to the persona watching it",
   extensions: ["txt"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An eye read is the persona's reading rather than Alan's.",
     },
   ],

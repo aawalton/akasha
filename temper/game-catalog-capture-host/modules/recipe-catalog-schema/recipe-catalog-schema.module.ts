@@ -6,17 +6,17 @@ export const recipeCatalogSchema = {
   slug: "recipe-catalog-schema",
   definition: "the zod schema reading the recipe catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe list has the recipes in that list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A recipe has only its name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
   ],

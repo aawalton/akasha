@@ -6,22 +6,22 @@ export const codeRoot = {
   slug: "code-root",
   definition: "the checkout a run walks",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkout named in `CODE_ROOT` answers before akasha's own root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A `CODE_ROOT` naming a directory absent from disk is disregarded rather than honoured.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Walking a tree that is not there reports every check over that tree clean.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The `code` repository is now part of akasha.",
     },
   ],

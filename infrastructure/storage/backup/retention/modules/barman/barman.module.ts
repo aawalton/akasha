@@ -6,13 +6,13 @@ export const barman = {
   slug: "barman",
   definition: "the barman commands the backup store is listed and marked through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command that exits non-zero is an error carrying the words the command said.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A marking is read back from the store rather than assumed from the command.",
     },
   ],

@@ -7,44 +7,44 @@ export const monarchAudibleMigration = {
   definition:
     "the Audible charges already standing, carried onto the budget scheme that replaced them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A charge is transferred or recategorized only or already done.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The outcome is decided before anything is written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A charge already carrying the Audible category is done rather than moved again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A charge is found by the word Audible in its merchant or its statement line or its note.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row this scheme itself wrote is passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A credit and an uncategorized charge and a charge noted as reimbursed are recategorized only.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "History is carried from the first of January two thousand and twenty-five onward and no earlier.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The decider is recorded as this migration rather than as a rule.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run may be narrowed to named rows.",
     },
   ],

@@ -6,9 +6,9 @@ export const companionQolRapport = {
   slug: "companion-qol-rapport",
   definition: "showing rapport as a number on the companion overview",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The label is added to the game's own rapport bar control.",
     },
   ],

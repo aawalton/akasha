@@ -8,9 +8,9 @@ export const nativeShellRepoPath = {
   definition: "where the native shell an app is compiled from is kept",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path carrying no colon names the code repository.",
     },
   ],

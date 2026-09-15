@@ -6,17 +6,17 @@ export const addonKeybindsDeclarations = {
   slug: "addon-keybinds-declarations",
   definition: "the game names and list shapes this add-on reaches without importing them",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the names the code here reaches are declared.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name more than one package reaches is declared in the shared game types.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

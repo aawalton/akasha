@@ -6,14 +6,14 @@ export const naming = {
   slug: "naming",
   definition: "how one idea's name is chosen",
   parts: ["domain/named-for", "module/folder-named"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A folder's word is true of everything under that folder and of nothing outside that folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A word in a folder is paid for by every path under that folder.",
     },
   ],

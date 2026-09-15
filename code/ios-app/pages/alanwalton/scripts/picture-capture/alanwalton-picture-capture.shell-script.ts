@@ -7,41 +7,41 @@ export const alanwaltonPictureCapture = {
   definition: "the Swift of the camera the Take Picture intent shows",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The camera is shown over whatever the app shows, full screen.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tap on the shutter does what a press of the Action Button does.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capture is taken only from a running session, so no blank frame is sent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A press that finds the camera not ready says why on the camera and on a notice.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The picture leaves the phone at most 1600 across as a jpeg.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The camera stays up until the picture is sent, showing what happened.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A send that worked shows what happened, waits a beat, and puts the camera away.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A send that failed holds the reason up rather than putting the camera away.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A press after a send that failed takes a fresh picture rather than sending again.",
     },

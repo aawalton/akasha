@@ -6,21 +6,21 @@ export const slashCommanderMessages = {
   slug: "slash-commander-messages",
   definition: "what a misuse of the library is said to be, and the color of each command kind",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message is English and is not translated.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kind is numbered rather than named.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kind has a color of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A color is written as the game's own inline color markup.",
     },
   ],

@@ -20,27 +20,27 @@ export const bookSection = {
     { pageProperty: "file-property/chapter-text", required: true, many: false },
     { pageProperty: "relation-property/section-of", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section names the book the section is an instalment of.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section's prose is a file beside the section's page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A section sits under the folders the book's own structure puts the section under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A section's name is unique among the sections of the collection the section is part of.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section opening its name with a number is slugged for its page type first.",
     },
   ],

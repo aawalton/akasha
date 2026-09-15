@@ -6,13 +6,13 @@ export const libSetsCoreTextures = {
   slug: "lib-sets-core-textures",
   definition: "the icon for an equip slot, weapon type, armor type or set type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Each icon table is filled from the game the first time an icon is asked for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Game string ids are reached by prefix and index rather than by concatenated name.",
     },

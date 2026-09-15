@@ -6,13 +6,13 @@ export const libSetsTipRender = {
   slug: "lib-sets-tip-render",
   definition: "the set line added to a tooltip control and the check that an item warrants one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A gamepad tooltip gets its own section with a LibSets heading.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing is added when the built text comes back empty.",
     },
   ],

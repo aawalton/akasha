@@ -6,30 +6,30 @@ export const seatPageValues = {
   slug: "seat-page-values",
   definition: "what a seat states now, read from akasha's page for it and from nowhere else",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat's values come from akasha with no fallback to the older store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A subagent with no values of its own is read from the seat above that subagent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The seat above a subagent is found by splitting its id rather than by opening a file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty text value reads as nothing rather than as an empty string.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A number held on the page is answered as its text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value is a flag only where the page has exactly true.",
     },
   ],

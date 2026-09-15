@@ -6,13 +6,13 @@ export const libSetsSearchUiSharedSearch = {
   slug: "lib-sets-search-ui-shared-search",
   definition: "the text matching that decides whether a set answers a typed search",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A term after a minus sign excludes any set the term matches.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A colon in a bonus term limits the match to that bonus line.",
     },
   ],

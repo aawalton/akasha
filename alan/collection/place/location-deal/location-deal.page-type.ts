@@ -32,17 +32,17 @@ export const locationDeal = {
     { pageProperty: "select-property/use-limit", required: true, many: false },
     { pageProperty: "number-property/uses-used", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A deal names every place the deal is redeemable at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A deal with no cap on its uses has `no-limit` rather than a count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A deal struck out on the card is struck out here.",
     },
   ],

@@ -6,9 +6,9 @@ export const housingBuildMyHousesTab = {
   slug: "housing-build-my-houses-tab",
   definition: "building the controls of the my-houses tab",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Controls are built once and hidden rather than made again.",
     },
   ],

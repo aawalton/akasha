@@ -6,13 +6,13 @@ export const comfyGraph = {
   slug: "comfy-graph",
   definition: "the nodes and links a ComfyUI workflow is made of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node is reached by the key the graph has that node under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A link is the node that link comes from paired with the slot that link comes out of.",
     },

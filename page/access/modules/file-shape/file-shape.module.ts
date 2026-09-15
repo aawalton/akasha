@@ -6,17 +6,17 @@ export const fileShape = {
   slug: "file-shape",
   definition: "the shape a file-backed page's page type declares",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A question the pages refuse is dropped rather than held as the answer.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A page type's shape refuses.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A page type's declarations go unread here.",
     },
   ],

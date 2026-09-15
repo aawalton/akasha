@@ -10,9 +10,9 @@ export const changeMechanicalPageTypeRemove = {
     "change-mechanical-page-type/remove-property-from-every-page",
     "change-mechanical-page-type/remove-property-from-page-type",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here answers the whole scope of one act in one answer.",
     },
   ],

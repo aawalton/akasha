@@ -61,9 +61,9 @@ export const temperCharacterStat = {
     "module/pipeline-types",
     "module/source-lookup",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The stat display tree here is written out from the metric-tree pages.",
     },
   ],

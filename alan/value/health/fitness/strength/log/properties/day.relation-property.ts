@@ -7,13 +7,13 @@ export const day = {
   propertySlug: "day",
   definition: "the tracked day a set falls on",
   targetPageType: "page-type/day",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day counts a set by this edge rather than by matching two dates.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The day named is the day the set's own date spells.",
     },
   ],

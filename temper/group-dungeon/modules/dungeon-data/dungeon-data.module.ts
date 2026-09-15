@@ -6,9 +6,9 @@ export const dungeonData = {
   slug: "dungeon-data",
   definition: "every group dungeon and every undaunted quest giver, written out as code",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the dungeon pages rather than by hand.",
     },
   ],

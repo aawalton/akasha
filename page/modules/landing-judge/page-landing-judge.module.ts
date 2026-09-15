@@ -6,17 +6,17 @@ export const pageLandingJudge = {
   slug: "page-landing-judge",
   definition: "the acts that land on a page",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The landing acts are the eight acts named here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An act named nowhere here is no landing act.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here lands anything.",
     },
   ],

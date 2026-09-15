@@ -6,9 +6,9 @@ export const companionsSavedVariables = {
   slug: "companions-saved-variables",
   definition: "what the companion add-on keeps between sessions, and how a session opens it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A companion entry is made on first touch rather than declared up front.",
     },
   ],

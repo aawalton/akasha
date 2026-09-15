@@ -6,17 +6,17 @@ export const addonKeybindsTypes = {
   slug: "addon-keybinds-types",
   definition: "the shape of the library global and of a row in the game's keybinding list",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which half of the split is chosen is one flag on the library global.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row has a type number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A keybind row also has the name of the action bound.",
     },
   ],

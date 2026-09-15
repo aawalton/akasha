@@ -6,29 +6,29 @@ export const slashCommanderSurface = {
   slug: "slash-commander-surface",
   definition: "the calls another addon registers and labels a slash command by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller hands in one alias or a list of aliases.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A registered command becomes a subcommand of the global command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A callable is a function or a table the game may call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A version already loaded keeps a second load of the same file from running.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Chat input is started only where the game permits talking to the target.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A wrapped function is called with the function wrapped as its first argument.",
     },
   ],

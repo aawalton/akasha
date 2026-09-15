@@ -6,30 +6,30 @@ export const dataminingItemMiner = {
   slug: "datamining-item-miner",
   definition: "what the game says about every item, taken one item id at a time",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Item ids are mined in batches rather than in one run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A batch hands the game back to the player before the next batch starts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item id the game names nothing for is counted as a miss.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Completed item mining starts quest mining.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Mining resumes from the last id rather than from the first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A generation count makes stopped mining drop its own queued batch.",
     },
   ],

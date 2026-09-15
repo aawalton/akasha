@@ -7,9 +7,9 @@ export const scriptureTranslation = {
   propertySlug: "translation",
   definition: "the rendering of scripture a passage is read from",
   values: ["book-of-mormon", "web"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book of scripture is read from one rendering.",
     },
   ],

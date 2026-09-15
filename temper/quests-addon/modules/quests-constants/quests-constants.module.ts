@@ -6,13 +6,13 @@ export const questsConstants = {
   slug: "quests-constants",
   definition: "the name the addon loads under and the name its saved variables are kept under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The saved-variables name is built from the addon name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The saved-variables layout has the version the layout was written under.",
     },
   ],

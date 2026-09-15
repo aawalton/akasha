@@ -6,9 +6,9 @@ export const housingVisitCardsView = {
   slug: "housing-visit-cards-view",
   definition: "the control shapes a visit-card row is made of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

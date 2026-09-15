@@ -7,23 +7,23 @@ export const watcherTrayUpdater = {
   definition: "how the tray replaces its own executable from the server",
   rust: "rs",
   moduleName: "updater",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A replacement is triggered where the server's version differs from the built version.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The running executable is renamed aside before the downloaded executable takes that name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The renamed old executable is deleted at the next start.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A replaced tray waits for the next login rather than restarting itself.",
     },
   ],

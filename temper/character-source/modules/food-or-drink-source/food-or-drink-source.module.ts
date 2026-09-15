@@ -6,13 +6,13 @@ export const foodOrDrinkSource = {
   slug: "food-or-drink-source",
   definition: "food and drink gathered into the one table a build picks a single row from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A food or drink's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A food or drink moved to another place breaks every build hash saved.",
     },
   ],

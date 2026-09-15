@@ -7,25 +7,25 @@ export const assignmentSlug = {
   propertySlug: "assignment-slug",
   definition: "the domain or initiative whose work a seat answers to",
   members: ["relation-property/page-domain", "relation-property/initiative"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An assignment naming no page type is looked for under both members.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A person and a persona each extend a domain.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No member of this property admits plain text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A misspelled assignment is refused rather than kept as text.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "A subagent may name an assignment that is no page.",
     },
   ],

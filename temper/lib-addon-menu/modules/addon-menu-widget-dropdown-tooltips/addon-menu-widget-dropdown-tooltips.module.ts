@@ -6,21 +6,21 @@ export const addonMenuWidgetDropdownTooltips = {
   slug: "addon-menu-widget-dropdown-tooltips",
   definition: "the tooltip a combo box row shows while a pointer rests on that row",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row's tooltip is read off the data entry the row carries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The hooks are put on the one keyboard dropdown every combo box shares.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hook shows nothing for a row owned by another combo box.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty tooltip opens no window.",
     },
   ],

@@ -8,18 +8,18 @@ export const loadScroll = {
   definition: "the place in a page the reader is put at as the page opens",
   maxLength: 8,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page opens at its start or its end or its newest part or where reading stopped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type naming no place opens a page at its start.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The places a page can open at do not stand as pages.",
     },
   ],

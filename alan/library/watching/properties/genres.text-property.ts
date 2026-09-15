@@ -8,13 +8,13 @@ export const genres = {
   definition: "a kind the provider files a collection under",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A genre is the provider's classing rather than the person's tag.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A genre is written as the provider writes that genre.",
     },
   ],

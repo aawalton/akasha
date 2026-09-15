@@ -6,9 +6,9 @@ export const inventoryRuleMapping = {
   slug: "inventory-rule-mapping",
   definition: "the game addon's inventory settings written out from the saved rules",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting the rules leave unsaid keeps the value the settings already have.",
     },
   ],

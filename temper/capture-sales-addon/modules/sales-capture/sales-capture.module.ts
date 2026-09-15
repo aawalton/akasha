@@ -6,21 +6,21 @@ export const salesCapture = {
   slug: "sales-capture",
   definition: "the player's own guild store sales, read off the guild history event stream",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sale is recorded only where the seller is the player.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sale is keyed by the guild history event id of that sale.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Sales are read from the trader category of every guild the player belongs to.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The event stream is reached through LibHistoire.",
     },
   ],

@@ -6,21 +6,21 @@ export const addonDependencyFloor = {
   slug: "addon-dependency-floor",
   definition: "whether a version floor a game add-on declares is met by what ships",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A bare provider name declares no floor and is not judged.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A constraint that is no lower bound is not judged.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A provider outside the fleet cannot be judged.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A dependency that is not judged is counted and reported.",
     },
   ],

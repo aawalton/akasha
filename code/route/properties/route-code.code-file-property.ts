@@ -7,13 +7,13 @@ export const routeCode = {
   propertySlug: "code",
   definition: "the code a route is",
   extensions: ["ts", "tsx"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route drawing something for a browser is written in TSX.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route answering with data alone is written in TypeScript.",
     },
   ],

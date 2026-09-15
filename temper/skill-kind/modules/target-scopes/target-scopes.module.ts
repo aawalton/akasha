@@ -6,9 +6,9 @@ export const targetScopes = {
   slug: "target-scopes",
   definition: "the shapes a skill effect reaches over, single or cone or area or line",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
   ],

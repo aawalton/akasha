@@ -7,13 +7,13 @@ export const alanWebPrivacy = {
   definition: "what the Amy messaging service does with a message",
   code: "tsx",
   urlPath: "privacy",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page carries verbatim the sentence a carrier requires on mobile information.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page names every field the opt-in form writes into a consent page.",
     },
   ],

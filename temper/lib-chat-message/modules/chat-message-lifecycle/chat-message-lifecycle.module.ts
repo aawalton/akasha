@@ -6,21 +6,21 @@ export const chatMessageLifecycle = {
   slug: "chat-message-lifecycle",
   definition: "the work the chat message library does once the game has loaded it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Saved settings are reconciled against the defaults on every load.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "History is restored one frame after the player enters the world.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "History older than the maximum age is dropped rather than restored.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Settings are saved under the world and display name of the account.",
     },
   ],

@@ -6,21 +6,21 @@ export const hudAddonBar = {
   slug: "hud-addon-bar",
   definition: "the strip across the top of the screen the registered fields are drawn in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bar is built once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every field is redrawn on a fixed interval.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field registered before the bar is built is drawn once the bar is built.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cell stating no color is drawn in the secondary text color.",
     },
   ],

@@ -8,9 +8,9 @@ export const secretValue = {
   definition: "the secret a page represents",
   maxLength: 100000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The value is read from the sops file rather than from the page's own file.",
     },
   ],

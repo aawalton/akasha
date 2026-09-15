@@ -6,9 +6,9 @@ export const showReadingProgress = {
   slug: "show-reading-progress",
   propertySlug: "show-reading-progress",
   definition: "whether how far through a page the reader has come stands on the screen",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How far through a page the reader has come is read off two named properties.",
     },
   ],

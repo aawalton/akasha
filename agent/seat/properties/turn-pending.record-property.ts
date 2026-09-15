@@ -12,9 +12,9 @@ export const turnPending = {
     { pageProperty: "boolean-property/live-subagent", required: true, many: false },
     { pageProperty: "boolean-property/send-in-flight", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A reminder a seat set for itself is no pending turn start.",
     },
   ],

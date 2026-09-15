@@ -7,29 +7,29 @@ export const completionTransforms = {
   definition: "one reading of a character roster, gathering the per-character tallies beside it",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The trait research catalog arrives as an argument and is handed straight on.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A character read only for roster fields is left out of the tallies.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The roster size counts an unmeasured row beside a measured row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A storage pet the account has raises the bag size a pack upgrade is read from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pack upgrade count is held between zero and the most a bag admits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character of no measured level is given a maximum level of zero.",
     },
   ],

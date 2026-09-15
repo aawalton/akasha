@@ -8,13 +8,13 @@ export const earnedKey = {
   definition: "the fact a reading's source has that earns the scale's earned color",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A readout stating no earned key never earns a color.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The fact the key names is true or false rather than a number.",
     },
   ],

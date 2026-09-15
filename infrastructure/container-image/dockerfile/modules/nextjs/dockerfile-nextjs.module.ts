@@ -6,9 +6,9 @@ export const dockerfileNextjs = {
   slug: "dockerfile-nextjs",
   definition: "the Dockerfile a Next.js app is built from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The source folders copied in are the ones the app's entry files reach.",
     },
   ],

@@ -6,17 +6,17 @@ export const emailMessageFetching = {
   slug: "email-message-fetching",
   definition: "Gmail messages listed and fetched by a caller with no client",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The Gmail client is made for the call rather than handed in by the caller.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The code that reaches Gmail is loaded when a caller asks rather than at import.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows a command line.",
     },
   ],

@@ -6,13 +6,13 @@ export const supervisorPollAgentAction = {
   slug: "supervisor-poll-agent-action",
   definition: "reading the action a seat has been asked to take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The actions a seat can be asked to take are spelled here.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Those actions are read from the pages of the supervisor-action page type.",
     },
   ],

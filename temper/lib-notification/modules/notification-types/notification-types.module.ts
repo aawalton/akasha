@@ -6,17 +6,17 @@ export const notificationTypes = {
   slug: "notification-types",
   definition: "the shape of a notification row and of the providers carrying rows to a panel",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row has whatever else the caller puts on the row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row names a keyboard callback and a gamepad callback apart.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The only call the library offers a caller makes a link table.",
     },
   ],

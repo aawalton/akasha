@@ -6,9 +6,9 @@ export const companionsSkillsPanel = {
   slug: "companions-skills-panel",
   definition: "the panel showing a companion's slotted skills beside the ones a build asks for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skill is drawn as a card with its icon and its rank.",
     },
   ],

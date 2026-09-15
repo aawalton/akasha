@@ -6,13 +6,13 @@ export const temperCharacterRace = {
   slug: "temper-character-race",
   definition: "the playable races an Elder Scrolls Online character is born into",
   parts: ["module/race-icon-url", "module/races"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The race data here is written out from the race pages.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A race is reached by its own id rather than by the race id the game has.",
     },
   ],

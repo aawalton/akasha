@@ -6,17 +6,17 @@ export const hudAddonPublicApi = {
   slug: "hud-addon-public-api",
   definition: "the global another add-on reaches the bar, the commands and the hiding through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global is published as the module is loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The shape of the global is stated in `temper-addon-library-types`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Another add-on reaches the heads-up add-on through the global alone.",
     },
   ],

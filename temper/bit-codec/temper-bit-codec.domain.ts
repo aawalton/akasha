@@ -12,17 +12,17 @@ export const temperBitCodec = {
     "module/bit-writer",
     "module/equipment-mappings",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bit arithmetic goes through the game's own bit functions.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A game constant is mapped to a small index before the packing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The writer and the reader take the bits in the one order.",
     },
   ],

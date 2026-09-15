@@ -6,9 +6,9 @@ export const dungeonChampionNames = {
   slug: "dungeon-champion-names",
   definition: "the addon's own name and version, and the four keys its map pins answer to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The pin keys here are the keys LibMapPins and the compass are told.",
     },
   ],

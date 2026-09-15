@@ -6,9 +6,9 @@ export const lostTreasureMining = {
   slug: "lost-treasure-mining",
   definition: "gathering dig sites the add-on does not know yet",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How long gathering runs is measured by the game's clock rather than by a Date.",
     },
   ],

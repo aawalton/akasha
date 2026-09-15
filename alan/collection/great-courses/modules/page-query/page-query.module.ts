@@ -6,13 +6,13 @@ export const pageQuery = {
   slug: "page-query",
   definition: "a page type's rows read from the store, whole or one page found by its title",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A truncated population is refused rather than answered as the whole population.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty string held at a key reads as nothing rather than as an empty answer.",
     },
   ],

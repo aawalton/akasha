@@ -6,17 +6,17 @@ export const seconds = {
   slug: "seconds",
   definition: "a span of milliseconds written out as whole seconds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A span is written to the nearest whole second.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seconds are followed by an s and nothing else.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A span under half a second is written as no seconds at all.",
     },
   ],

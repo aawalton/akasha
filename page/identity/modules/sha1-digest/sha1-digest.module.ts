@@ -7,18 +7,18 @@ export const sha1Digest = {
   definition: "the sha1 digest of some bytes, worked out in TypeScript and nothing else",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A digest is byte-identical to the digest `node:crypto` answers for the same bytes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A digest is answered rather than promised.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches a crypto library the platform has.",
     },
   ],

@@ -6,17 +6,17 @@ export const collectiblesCatalogSchema = {
   slug: "collectibles-catalog-schema",
   definition: "the zod schema reading the collectibles catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category has sub categories that have collectibles.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A general sub category is optional on a category.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
   ],

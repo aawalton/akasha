@@ -5,9 +5,9 @@ export const narrativeStoryTurnPromotion = {
   type: "page-type/domain",
   slug: "narrative-story-turn-promotion",
   definition: "gathering played turns into a chapter",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn gathered into a chapter is no longer shown to the player as a turn.",
     },
   ],

@@ -6,9 +6,9 @@ export const pageWithProperties = {
   slug: "page-with-properties",
   definition: "a page read as its id beside the properties it has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The page in a list with a given id is found here rather than by each reader.",
     },
   ],

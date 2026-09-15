@@ -8,13 +8,13 @@ export const reminderSchedule = {
   definition: "the times a reminder is sent at, written as systemd states a calendar",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Systemd reads a schedule rather than a parser of our own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A schedule naming one absolute time does not repeat.",
     },
   ],

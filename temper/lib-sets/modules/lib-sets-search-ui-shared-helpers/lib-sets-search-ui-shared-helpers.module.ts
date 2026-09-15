@@ -6,13 +6,13 @@ export const libSetsSearchUiSharedHelpers = {
   slug: "lib-sets-search-ui-shared-helpers",
   definition: "the odd jobs the shared search window keeps outside its class",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The set data is topped up from the library once and never again.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A term reaches the saved history 1500 milliseconds after the last keystroke.",
     },
   ],

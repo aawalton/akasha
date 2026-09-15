@@ -6,9 +6,9 @@ export const resourceLoaderArgsTestUtils = {
   slug: "resource-loader-args-test-utils",
   definition: "the arguments a test hands a resource route's loader for one path",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The path is read against the site the browser would have asked.",
     },
   ],

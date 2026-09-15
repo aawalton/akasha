@@ -6,18 +6,18 @@ export const inventoryRuleCompilerTypes = {
   slug: "inventory-rule-compiler-types",
   definition: "the shape a rule takes once compiled for the game addon and for the web matcher",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A compiled rule has a scope rather than the destination text a saved rule holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The terminal compiled rule closes the list and matches whatever the earlier rules left.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A wanted equipment signature says the gear a build asks for rather than the gear held.",
     },

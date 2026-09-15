@@ -12,43 +12,43 @@ export const temperWatcher = {
     restartDelaySeconds: 5,
     startLimitIntervalSeconds: 0,
   },
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The unit running the worker is a simple unit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change to the worker reaches the workstation when the unit starts again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The worker runs the checkout it was started in and moves that checkout nowhere.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Repeated starts are counted over no window.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A watcher failing all night keeps on.",
     },
-    { invariantKind: "invariant-kind/departure", statement: "One worker runs at a time." },
+    { decisionKind: "decision-kind/departure", statement: "One worker runs at a time." },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Whether the watcher is carrying anything across is judged from outside the watcher.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dead daemon reports nothing about itself.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The watcher runs on the workstation the game writes its files on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The watcher reaches every page over page-service rather than over the checkout.",
     },
   ],

@@ -6,17 +6,17 @@ export const bitReader = {
   slug: "bit-reader",
   definition: "taking numbers back out of a byte array a chosen number of bits at a time",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bits come out from the most significant end.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A read reaching past the last byte gives back the bits already gathered.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How far the reading has got is kept in the reader.",
     },
   ],

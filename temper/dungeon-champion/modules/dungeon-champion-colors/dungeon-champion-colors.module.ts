@@ -7,9 +7,9 @@ export const dungeonChampionColors = {
   definition:
     "a four-number color turned into the shapes the game's color picker and textures take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A color with no fourth number is fully opaque.",
     },
   ],

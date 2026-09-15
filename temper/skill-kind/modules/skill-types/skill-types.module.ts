@@ -6,9 +6,9 @@ export const skillTypes = {
   slug: "skill-types",
   definition: "the three kinds a skill ability is, active or ultimate or passive",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill pages rather than by hand.",
     },
   ],

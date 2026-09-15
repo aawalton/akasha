@@ -6,13 +6,13 @@ export const collectionsAddonEntry = {
   slug: "collections-addon-entry",
   definition: "where the transpiler starts this add-on's Lua bundle",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here runs before the game says this add-on has loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global is published before any tracker is reached.",
     },
   ],

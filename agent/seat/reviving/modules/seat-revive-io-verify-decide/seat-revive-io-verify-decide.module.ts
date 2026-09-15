@@ -7,17 +7,17 @@ export const seatReviveIoVerifyDecide = {
   definition: "whether a seat that was revived has moved since, or is wedged where it was left",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat that has advanced on a single signal has advanced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat whose every signal is silent is wedged rather than unread.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Advancement is movement after the revive rather than movement at all.",
     },
   ],

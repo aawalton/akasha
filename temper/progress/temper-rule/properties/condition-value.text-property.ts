@@ -8,9 +8,9 @@ export const conditionValue = {
   definition: "what one condition of a rule tests against",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "A number or a list is written here as text whatever kind the test wants.",
     },
   ],

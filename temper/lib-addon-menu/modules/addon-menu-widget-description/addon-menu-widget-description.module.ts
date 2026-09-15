@@ -6,17 +6,17 @@ export const addonMenuWidgetDescription = {
   slug: "addon-menu-widget-description",
   definition: "the block of body text, with an optional title above it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Links are inert unless the widget data enables those links.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A supplied link handler replaces the game's default link handling.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The control grows to fit its text rather than holding a fixed height.",
     },
   ],

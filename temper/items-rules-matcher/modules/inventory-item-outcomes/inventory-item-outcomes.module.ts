@@ -6,21 +6,21 @@ export const inventoryItemOutcomes = {
   slug: "inventory-item-outcomes",
   definition: "the outcome each item held reaches over the whole rule chain",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every item held reaches an outcome rather than the items one rule takes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An outcome is reached under the facts and the environment the matcher rules on.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rule here decides what an item resolves to.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

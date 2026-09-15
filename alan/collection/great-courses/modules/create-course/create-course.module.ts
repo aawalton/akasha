@@ -6,17 +6,17 @@ export const createCourse = {
   slug: "create-course",
   definition: "a course written as a `great-course` page",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing renders a `great-course` page's body out of the keys carried here.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "No course becomes a `great-course` page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The refusal comes before the course's detail page is fetched.",
     },
   ],

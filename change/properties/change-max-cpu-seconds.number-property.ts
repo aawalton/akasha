@@ -7,25 +7,25 @@ export const changeMaxCpuSeconds = {
   propertySlug: "max-cpu-seconds",
   definition: "the most processor time one run of a change may spend, in seconds",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change stating no seconds here is allowed the seconds the runner names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "These seconds are counted on the processor rather than on the wall clock.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change past these seconds runs to its end and then keeps nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seconds a change reaches spend count against the change reaching it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Alan settles a raise rather than the agent the ceiling refused.",
     },
   ],

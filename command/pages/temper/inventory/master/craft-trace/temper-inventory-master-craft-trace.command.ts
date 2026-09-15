@@ -6,22 +6,22 @@ export const temperInventoryMasterCraftTrace = {
   slug: "temper-inventory-master-craft-trace",
   definition: "the command giving back the addon's ring of equipment master-writ craft traces",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The ring has a bounded count of traces.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The oldest trace goes when a new trace arrives.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Each trace has the station context, the pattern resolved and what verifying observed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each trace has the craft's outcome.",
     },
   ],

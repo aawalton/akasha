@@ -24,18 +24,18 @@ export const googleEmail = {
     "module/list-unsubscribe",
     "module/mime-message",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A message is reached by the id Gmail gives the message rather than by its Message-ID header.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decides the fate of a message that arrives.",
     },
   ],

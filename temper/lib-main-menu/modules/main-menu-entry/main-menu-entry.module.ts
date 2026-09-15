@@ -6,13 +6,13 @@ export const mainMenuEntry = {
   slug: "main-menu-entry",
   definition: "the module a bundle of this addon is gathered from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module no import chain from here reaches is left out of the bundle.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing is declared here.",
     },
   ],

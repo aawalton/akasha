@@ -6,21 +6,21 @@ export const checkClassification = {
   slug: "check-classification",
   definition: "the condition check over an item's sellability, name, trait, and set source type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item whose merchant value is zero or absent fails the can-sell condition.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Companion equippability is decided by a trait type in the range 34 through 60.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set id with no category mapping is treated as the no-type source type.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "An item with no set id skips the set source type check entirely.",
     },
   ],

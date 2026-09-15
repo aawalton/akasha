@@ -6,13 +6,13 @@ export const esoOptIn = {
   slug: "eso-opt-in",
   definition: "the manifest naming which eso tokens are declared",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where the manifest sits is asked of the index rather than spelled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A manifest naming no function is refused rather than read as a scope naming no function.",
     },

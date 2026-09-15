@@ -6,14 +6,14 @@ export const customMenuLib = {
   slug: "custom-menu-lib",
   definition: "the library object every caller of the custom menu reaches",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A registered category outside the early to late range is clamped into that range.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A special key context menu is registered under its own key rather than a category.",
     },

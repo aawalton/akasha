@@ -6,21 +6,21 @@ export const debugLoggerTaggedLogger = {
   slug: "debug-logger-tagged-logger",
   definition: "a logger object with one tag, its sub-taggings and its level overrides",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A logger has the tag handed in at its making.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sub-logger tag is the parent tag and the new tag parted by a slash.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A logger switched off writes nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty tag is refused.",
     },
   ],

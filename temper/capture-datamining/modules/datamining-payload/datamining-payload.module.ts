@@ -6,26 +6,26 @@ export const dataminingPayload = {
   slug: "datamining-payload",
   definition: "the shape a mined item, a mined quest and the sweep's own progress take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mined item is held under the item id the game gave the item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mined quest is held under the quest id the game gave the quest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The sweep's own progress rides in the payload the sweep fills.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The item sweep and the quest sweep each keep progress apart from the other sweep.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here has code that runs.",
     },
   ],

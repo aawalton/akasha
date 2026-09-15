@@ -6,13 +6,13 @@ export const esoQualityTextClasses = {
   slug: "eso-quality-text-classes",
   definition: "the text class an in-game item quality is shown in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quality is keyed by the number the game gives the quality.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No class here is named for the lowest quality.",
     },
   ],

@@ -6,34 +6,34 @@ export const inventoryTypes = {
   slug: "inventory-types",
   definition: "what an inventory has and the item numbers the game gives",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item carries the game's junk state as `junk` and `junkable`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capture taken before a field was recorded leaves that field off the item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item carries what the addon last resolved it to as four flat fields.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Those four are `resolvedAction`, `resolvedDestination`, `resolvedBy`, `resolvedRuleIndex`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item the addon's rules have not walked carries none of the four.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "`resolvedRuleIndex` is there only where `resolvedBy` is `ordered-rule`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "`resolvedBy` names the route that resolved the item where no index names a rule.",
     },
   ],

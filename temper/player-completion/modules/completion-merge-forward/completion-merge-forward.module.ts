@@ -7,13 +7,13 @@ export const completionMergeForward = {
   definition: "folding a fresh reading of a player's progress into what was already counted",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A count merged forward never falls.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A handful of fields take the fresh reading whole rather than merging.",
     },
   ],

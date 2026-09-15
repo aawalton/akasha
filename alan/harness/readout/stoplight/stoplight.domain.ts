@@ -5,17 +5,17 @@ export const stoplight = {
   type: "page-type/domain",
   slug: "stoplight",
   definition: "one color saying where a reading is now",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stoplight has five colors.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The colors from worst to best are black and red and yellow and green and blue.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Green is good and blue a stretch beyond green.",
     },
   ],

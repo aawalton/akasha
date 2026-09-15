@@ -12,9 +12,9 @@ export const characterReadings = {
     { pageProperty: "select-property/reading-kind", required: true, many: false },
     { pageProperty: "text-property/character-slug", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading names its character only where the reading's kind is `character`.",
     },
   ],

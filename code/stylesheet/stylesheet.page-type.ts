@@ -8,50 +8,50 @@ export const stylesheet = {
   parts: ["file-property/styles", "module/source-globbing"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "file-property/styles", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stylesheet's rules are a page property held in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A stylesheet is its own page rather than a property of the components the stylesheet dresses.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One stylesheet dresses as many components as name the stylesheet's classes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A component is dressed by naming a class rather than by importing a stylesheet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A component imports a stylesheet only to make a bundler emit the stylesheet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stylesheet page names the components its rules dress.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stylesheet is formatted and linted by the run that reads a body of code.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stylesheet is held to the same byte ceiling as any other file.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A stylesheet declares nothing a compiler could type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A comment in a stylesheet is refused as prose in code is.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A specifier naming a stylesheet that is not there is refused by the typechecker.",
     },
   ],

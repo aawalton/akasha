@@ -6,13 +6,13 @@ export const libSetsSetTextDefaultLayout = {
   slug: "lib-sets-set-text-default-layout",
   definition: "the stock arrangement of a set's text parts when no pattern was given",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Traits needed and reconstruction cost share the bracket after the set type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The drop text takes a coloured prefix naming whichever single part is switched on.",
     },

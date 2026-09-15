@@ -8,13 +8,13 @@ export const errorKind = {
   definition: "the way a client came to meet an error",
   maxLength: 32,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The kinds a report may have are named by the report shape.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The kinds are restated nowhere here.",
     },
   ],

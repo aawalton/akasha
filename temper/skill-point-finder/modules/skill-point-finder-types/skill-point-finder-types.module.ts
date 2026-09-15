@@ -6,9 +6,9 @@ export const skillPointFinderTypes = {
   slug: "skill-point-finder-types",
   definition: "the shapes the skill point window has while the game runs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

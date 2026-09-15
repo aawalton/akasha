@@ -6,9 +6,9 @@ export const fcoGuildHistory = {
   slug: "fco-guild-history",
   definition: "the guild history window the interface tweaks page through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No shared guard is kept for the type each guard here narrows to.",
     },
   ],

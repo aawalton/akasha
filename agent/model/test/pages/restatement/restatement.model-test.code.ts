@@ -11,7 +11,7 @@ import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.mod
 export type Judging = {
   readonly slug: string
   readonly definition: string
-  readonly invariants?: readonly { readonly invariantKind: string; readonly statement: string }[]
+  readonly decisions?: readonly { readonly decisionKind: string; readonly statement: string }[]
 }
 
 export type Putting = {
@@ -37,13 +37,13 @@ export function keeping(one: Case, got: readonly Got[]): boolean {
 }
 
 export function restatement(page: Judging): readonly Putting[] {
-  return (page.invariants ?? [])
-    .filter((invariant) => slugOf(invariant.invariantKind) === "departure")
-    .map((invariant) => ({
-      statement: invariant.statement,
+  return (page.decisions ?? [])
+    .filter((decision) => slugOf(decision.decisionKind) === "departure")
+    .map((decision) => ({
+      statement: decision.statement,
       prompt: test.prompt
         .replace("{page}", page.slug)
         .replace("{definition}", page.definition)
-        .replace("{statement}", invariant.statement),
+        .replace("{statement}", decision.statement),
     }))
 }

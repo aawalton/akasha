@@ -10,21 +10,21 @@ export const conditions = {
     { pageProperty: "relation-property/condition-field", required: true, many: false },
     { pageProperty: "text-property/condition-value", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule stating no condition matches every item of its category.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field names a temper-condition-field page with the key the field tests.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key a rule engine reads is held by that page rather than written here.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A field naming a comparison has the key of a temper comparison op.",
     },
   ],

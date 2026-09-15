@@ -7,9 +7,9 @@ export const publicationStatus = {
   propertySlug: "publication-status",
   definition: "how far the source has got with putting a collection out",
   values: ["ongoing", "hiatus", "completed"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A publication status is the source's own state rather than how far the person has got.",
     },

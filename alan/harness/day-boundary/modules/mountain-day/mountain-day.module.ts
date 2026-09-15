@@ -7,17 +7,17 @@ export const mountainDay = {
   definition: "the day an instant falls on for someone living on a Denver clock",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A morning day starts at six in the morning.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An evening day turns at six in the evening rather than at midnight.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day steps back on the wall clock rather than by a whole day of elapsed time.",
     },
   ],

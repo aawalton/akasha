@@ -7,13 +7,13 @@ export const searchMerchantValueFilter = {
   definition:
     "the merchant sale value of an item, narrowed by a range from 0 to 1000000 with an operator",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The operator defaults to <= where the saved value names no operator.",
     },
   ],

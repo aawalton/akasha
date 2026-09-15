@@ -6,13 +6,13 @@ export const completionCardCheckers = {
   slug: "completion-card-checkers",
   definition: "what answers whether a character has finished each completion card",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card the registry does not name has no checker and reads as unmeasured.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card stating no picker is one leaf at the empty path.",
     },
   ],

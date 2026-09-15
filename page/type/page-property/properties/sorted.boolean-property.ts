@@ -7,21 +7,21 @@ export const sorted = {
   propertySlug: "sorted",
   definition: "whether a property's values are kept in the order those values sort in",
   types: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying nothing here keeps its values in the order they were put in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying true here takes a value into the place that order asks for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order is the one the values sort in as they are written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property whose order carries meaning of its own says nothing here.",
     },
   ],

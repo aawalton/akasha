@@ -6,9 +6,9 @@ export const keybinderCasts = {
   slug: "keybinder-casts",
   definition: "every cast this add-on makes, gathered where they can be counted",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cast is written here rather than where the value is used.",
     },
   ],

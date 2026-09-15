@@ -13,25 +13,25 @@ export const objectStore = {
     "module/seaweedfs-config",
     "module/seaweedfs-store",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Durability is a property of each bucket.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Durability is a property of each prefix where one bucket's prefixes differ.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Bytes that cannot be remade are copied where nothing deletes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "That copy is bounded by a declared size.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No age rule reaches the copy of bytes that cannot be remade.",
     },
   ],

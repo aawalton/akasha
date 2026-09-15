@@ -7,21 +7,21 @@ export const inventoryRuleMatcherExclude = {
   definition: "which matched items are set aside, and which already lie where the rule sends them",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where a rule sends an item is read off that rule's action and destination.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item already at its destination is marked rather than moved.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An affected item carries the item, where it lies, and whether it is there.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A container the rule's action cannot open is set aside.",
     },
   ],

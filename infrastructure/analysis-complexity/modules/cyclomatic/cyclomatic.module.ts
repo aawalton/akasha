@@ -6,17 +6,17 @@ export const cyclomatic = {
   slug: "cyclomatic",
   definition: "the count of independent paths through a function",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A function with no body counts one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A branch inside a nested function counts against that function alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An optional chain is a branch.",
     },
   ],

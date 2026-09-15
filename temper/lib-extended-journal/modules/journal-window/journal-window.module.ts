@@ -6,9 +6,9 @@ export const journalWindow = {
   slug: "journal-window",
   definition: "the scene and menu bar the window is built from the first time the window is shown",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The window is built once and kept for as long as the game runs.",
     },
   ],

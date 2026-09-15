@@ -12,14 +12,14 @@ export const storyWritten = {
     { pageProperty: "relation-property/world", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story written was set down chapter by chapter rather than played or read.",
     },
 
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "More than one story written may be of the one world.",
     },
   ],

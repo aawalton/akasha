@@ -6,29 +6,29 @@ export const mediaProvider = {
   slug: "media-provider",
   definition: "the calls another addon makes to add and fetch media",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A media kind is lower-cased before the media kind is keyed on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key already taken is refused rather than replaced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A fetch missing its key falls back to the default for that media kind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A blacklisted font on a console answers the medium font.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The sorted key list for a media kind is rebuilt whenever a key is added.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Adding media fires a callback naming the media kind and the key.",
     },
   ],

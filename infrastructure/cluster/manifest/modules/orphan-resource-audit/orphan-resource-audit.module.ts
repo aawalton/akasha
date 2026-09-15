@@ -6,22 +6,22 @@ export const orphanResourceAudit = {
   slug: "orphan-resource-audit",
   definition: "the live resources a deploy manages that no synth source accounts for",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkout with no synth source at all is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A synth source that will not synthesise ends the sweep rather than being passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a resource a deploy says that deploy manages can be an orphan.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A resource is known by its kind and its namespace and its name together.",
     },
   ],

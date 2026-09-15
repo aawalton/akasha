@@ -8,14 +8,14 @@ export const buildCharacterName = {
   definition: "the name of the character this build was arranged for",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A build carries the character name it was arranged for rather than reading it off a character.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build shared across characters keeps the name it was arranged for.",
     },
   ],

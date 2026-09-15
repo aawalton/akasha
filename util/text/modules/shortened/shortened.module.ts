@@ -7,21 +7,21 @@ export const shortened = {
   definition: "text held to a length, with an ellipsis at the end of text that was longer",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text no longer than the length is written out whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text longer than the length keeps that length and an ellipsis follows it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The ellipsis is the one character rather than three periods.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The length is sixty characters.",
     },
   ],

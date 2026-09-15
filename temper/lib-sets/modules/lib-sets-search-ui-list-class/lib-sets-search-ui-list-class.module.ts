@@ -6,9 +6,9 @@ export const libSetsSearchUiListClass = {
   slug: "lib-sets-search-ui-list-class",
   definition: "the class the result list objects are made from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The class is placed on the game global LibSets_SearchUI_List by assignment.",
     },
   ],

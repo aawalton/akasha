@@ -6,14 +6,14 @@ export const searchWeaponTypeFilter = {
   slug: "search-weapon-type-filter",
   definition: "the weapon type of an item, narrowed by a multiselect of twelve weapon-type numbers",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The weapon type filter also adds the selected weapon numbers to the server request.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "Three weapon-type numbers below the highest offered number are left out of the options.",
     },

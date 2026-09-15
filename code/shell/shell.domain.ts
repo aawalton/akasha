@@ -6,13 +6,13 @@ export const shell = {
   slug: "shell",
   definition: "text a POSIX shell reads as a command",
   parts: ["domain/shell-terminal", "module/quoting"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The native shell an iOS app is built into is not this package.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A value written into a command is written so the shell reads that value as one word.",
     },

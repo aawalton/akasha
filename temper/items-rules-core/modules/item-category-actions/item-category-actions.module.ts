@@ -7,9 +7,9 @@ export const itemCategoryActions = {
   definition:
     "what becomes of each item category, worked out from the rules over the category tree",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category no rule reaches is left as that category was.",
     },
   ],

@@ -8,17 +8,17 @@ export const cloudflared = {
     "the namespace, config and deployment with the tunnel traffic reaches the cluster over",
   code: "ts",
   generatedDirectory: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pod template carries the hash of the cloudflared-creds secret.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key hashed from the cloudflared-creds secret is credentials.json.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pod template carries the hash of the cloudflared-config configmap.",
     },
   ],

@@ -8,13 +8,13 @@ export const buildCorrelationId = {
   definition: "the identity the client minted for a build before the build was kept",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build the client never named has no correlation id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This property is the id the client sent rather than the id the build is reached by.",
     },

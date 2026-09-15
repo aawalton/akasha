@@ -8,17 +8,17 @@ export const emailRuleCodeDelay = {
   definition: "how long after mail arrives before the rule acts on it",
   maxLength: 10,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A delay is a count of minutes or hours.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A delay is written as digits and then `m` or `h`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule stating no delay acts as soon as the mail is read.",
     },
   ],

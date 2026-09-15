@@ -6,17 +6,17 @@ export const vampireStages = {
   slug: "vampire-stages",
   definition: "the five stages of vampirism, each feeding a character more penalty",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the character pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A vampire stage's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A vampire stage moved to another place breaks every build hash saved.",
     },
   ],

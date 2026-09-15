@@ -8,17 +8,17 @@ export const sessionSlug = {
   definition: "the bout of training the set belonged to",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bout is the run of sets Alan performed at one sitting.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two sets of one day naming two bouts were performed at two sittings.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A bout is no page.",
     },
   ],

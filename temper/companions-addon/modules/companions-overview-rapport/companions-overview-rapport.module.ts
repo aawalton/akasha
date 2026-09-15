@@ -6,9 +6,9 @@ export const companionsOverviewRapport = {
   slug: "companions-overview-rapport",
   definition: "the numeric rapport label laid over the game's own companion overview",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game's own rapport bar is left in place and labelled rather than replaced.",
     },
   ],

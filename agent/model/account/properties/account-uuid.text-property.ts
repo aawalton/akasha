@@ -9,13 +9,13 @@ export const accountUuid = {
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
   unique: "unique-kind/page-type",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The account uuid is answered by the upstream probe rather than chosen here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account whose uuid changes is another account under the same slug.",
     },
   ],

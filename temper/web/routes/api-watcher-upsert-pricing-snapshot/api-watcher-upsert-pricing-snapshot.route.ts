@@ -7,13 +7,13 @@ export const apiWatcherUpsertPricingSnapshot = {
   definition: "the pricing snapshot the watcher posts",
   code: "ts",
   urlPath: "api/watcher/upsert-pricing-snapshot",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "No pricing snapshot posted here is kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This route answers 410 once the watcher token is judged.",
     },
   ],

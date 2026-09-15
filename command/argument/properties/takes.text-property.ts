@@ -8,9 +8,9 @@ export const takes = {
   definition: "what one thing a command takes is for",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The takes text sits on one line beside the said text.",
     },
   ],

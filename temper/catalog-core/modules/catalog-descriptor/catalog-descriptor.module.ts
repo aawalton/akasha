@@ -7,17 +7,17 @@ export const catalogDescriptor = {
   definition:
     "the name, version and empty defaults the catalog add-on hands the game to save under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The defaults name every field the payload has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game saves the add-on under the name `TemperCatalog_SavedVariables`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A load time is kept.",
     },
   ],

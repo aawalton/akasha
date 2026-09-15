@@ -6,17 +6,17 @@ export const companionRotationSimulator = {
   slug: "companion-rotation-simulator",
   definition: "the tick loop a companion rotation is played out on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Skills are tried in the order the caller gave rather than by a priority score.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A light attack fills any tick where no skill is ready.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Accumulated ultimate is capped at five hundred.",
     },
   ],

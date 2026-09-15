@@ -6,13 +6,13 @@ export const k8sNamespace = {
   slug: "k8s-namespace",
   definition: "a Kubernetes namespace rendered to YAML",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A namespace is rendered from the name and the labels handed in.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names a namespace of its own.",
     },
   ],

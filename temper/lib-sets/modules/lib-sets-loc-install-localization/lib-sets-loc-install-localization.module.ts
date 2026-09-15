@@ -6,13 +6,13 @@ export const libSetsLocInstallLocalization = {
   slug: "lib-sets-loc-install-localization",
   definition: "the German and English tables made into the library's localization",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The localization table is created here with German and English alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The on and off labels are placed on the fallback language alone.",
     },
   ],

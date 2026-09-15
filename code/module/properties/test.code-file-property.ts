@@ -9,26 +9,26 @@ export const test = {
   extensions: ["ts", "tsx"],
   maxCpuSeconds: 5,
   maxMemoryMb: 512,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test proving code written in TSX is written in TSX too.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This ceiling throttles a test file rather than refusing that file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A test file held under the memory it needs pays the reclaim as its own processor time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This ceiling is above what a test file loading a parser needs to load it.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Nothing refuses a test file for the memory that file peaks at.",
     },
   ],

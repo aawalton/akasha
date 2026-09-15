@@ -6,9 +6,9 @@ export const tradingSellPriceStore = {
   slug: "trading-sell-price-store",
   definition: "what an item last sold for, kept per item so a later sale can start there",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A price is kept per item link rather than per stack.",
     },
   ],

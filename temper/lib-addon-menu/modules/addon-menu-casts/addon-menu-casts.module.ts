@@ -6,17 +6,17 @@ export const addonMenuCasts = {
   slug: "addon-menu-casts",
   definition: "the unchecked conversions from unknown to each typed shape the library handles",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every cast function performs a bare type assertion.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No cast validates the value the cast is handed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Casts are collected in one module rather than written at each call site.",
     },
   ],

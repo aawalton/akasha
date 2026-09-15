@@ -6,9 +6,9 @@ export const verdictShape = {
   slug: "verdict-shape",
   definition: "what a judgement has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here exists at runtime.",
     },
   ],

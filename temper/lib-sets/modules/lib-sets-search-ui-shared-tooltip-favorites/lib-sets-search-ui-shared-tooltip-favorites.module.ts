@@ -6,9 +6,9 @@ export const libSetsSearchUiSharedTooltipFavorites = {
   slug: "lib-sets-search-ui-shared-tooltip-favorites",
   definition: "the tooltips a result row shows for its set",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set's saved favourite categories are added and removed here too.",
     },
   ],

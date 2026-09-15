@@ -13,21 +13,21 @@ export const temperPlayerCompletionState = {
     "module/completion-saved-variables",
     "module/completion-task-progress",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The saved table of the completion addon is declared in one folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon reading that table reaches this folder rather than an addon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape two addons both name is declared here rather than in those addons.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the game's own numbers into akasha ids.",
     },
   ],

@@ -7,18 +7,18 @@ export const inventoryRuleRows = {
   definition: "the columns a rule listing prints and the row one item rule prints as",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A column set is stated once and shared by every listing that prints that column set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item rule prints the fields its columns name and no other field.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rule is read or written here.",
     },
   ],

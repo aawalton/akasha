@@ -17,28 +17,28 @@ export const chessReviewSession = {
     { pageProperty: "instant-property/reviewed-at", required: true, many: false },
     { pageProperty: "file-property/chess-review-session-notes", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One game stepped through with the coach is one session.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A session names the game stepped through rather than the persona who stepped through that game.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A session's notes are a file beside the session rather than inside the session page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A session is marked at the moment of the stepping through rather than at the day.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A session names the persona who coached that session.",
     },
   ],

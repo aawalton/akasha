@@ -6,13 +6,13 @@ export const kiMovie = {
   slug: "ki-movie",
   definition: "a story Ki watches in one sitting",
   extends: ["page-type/ki-collection-template"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A movie of Ki's names the franchise that movie belongs to.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A movie of Ki's belongs to one franchise at most.",
     },
   ],

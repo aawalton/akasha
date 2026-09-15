@@ -6,13 +6,13 @@ export const launchEnv = {
   slug: "launch-env",
   definition: "the environment variables a browser process is started with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here starts a browser.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name outside the allowlist is dropped rather than passed on.",
     },
   ],

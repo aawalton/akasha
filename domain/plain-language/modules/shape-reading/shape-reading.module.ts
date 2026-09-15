@@ -6,17 +6,17 @@ export const shapeReading = {
   slug: "shape-reading",
   definition: "the sentence shapes the index names, read out of their pages",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape is found in the index rather than by walking the pages.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape Alan has not decided reads as nothing rather than as false.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shape that will not load refuses the read.",
     },
   ],

@@ -8,9 +8,9 @@ export const deviceSecretUserId = {
   definition: "the account a device secret was minted for",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This user id is the account a person states rather than that person's slug.",
     },
   ],

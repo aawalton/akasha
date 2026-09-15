@@ -6,9 +6,9 @@ export const rootLoader = {
   slug: "root-loader",
   definition: "what a root route answers once its request is guarded",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The nonce goes back with the headers the guard worked out.",
     },
   ],

@@ -6,9 +6,9 @@ export const companionQolState = {
   slug: "companion-qol-state",
   definition: "the one holder the companion quality-of-life code keeps its settings in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every quality-of-life module reads its settings from this one holder.",
     },
   ],

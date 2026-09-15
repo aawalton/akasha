@@ -6,13 +6,13 @@ export const addonRemovedRefsManifest = {
   slug: "addon-removed-refs-manifest",
   definition: "the globals of third-party add-ons this suite no longer depends on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every global named here states the add-on the global belonged to.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every global named here states the remedy that took the removed add-on's place.",
     },
   ],

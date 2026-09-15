@@ -7,33 +7,33 @@ export const esoRigProbe = {
   definition: "the measurements the rig's acceptance cannot make in shell",
   python: "py",
   bytecodeDirectory: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The virtual keyboard exists only while this module's process lives.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The X server starts after the event node appears.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Creating the device and injecting on the device are separate commands.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The event node is found by walking devtmpfs rather than by asking evdev.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A capture that is uniformly one color is a blank frame reporting success.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The frame comparison is a count of differing pixels rather than a boolean.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each subcommand prints one line of key and value pairs on standard output.",
     },
   ],

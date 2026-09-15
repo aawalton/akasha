@@ -17,13 +17,13 @@ export const seatNameClaiming = {
     "module/skill-token-guard",
     "module/spawn-guard",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name already on the seat's row is the name that seat comes back under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A revive is refused where the seat's row names that seat nothing.",
     },
   ],

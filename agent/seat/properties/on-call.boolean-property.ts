@@ -6,17 +6,17 @@ export const onCall = {
   slug: "on-call",
   propertySlug: "on-call",
   definition: "whether this is ready for work sent to it",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page not on call states false.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page cleared of this property is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat whose role is on call starts on call.",
     },
   ],

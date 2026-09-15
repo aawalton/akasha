@@ -45,9 +45,9 @@ export const code = {
     "page-type/type-declaration",
     "page-type/workspace",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A spawned child has the environment its parent started with unless the spawn states `env`.",
     },

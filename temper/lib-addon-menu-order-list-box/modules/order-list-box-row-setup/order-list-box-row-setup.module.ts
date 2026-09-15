@@ -6,13 +6,13 @@ export const orderListBoxRowSetup = {
   slug: "order-list-box-row-setup",
   definition: "the row template and the reads of what a caller asked the widget to show",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row takes the height and the font the caller states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A disabled list takes no drag and no button press.",
     },
   ],

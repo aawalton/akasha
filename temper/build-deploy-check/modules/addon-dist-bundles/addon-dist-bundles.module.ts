@@ -6,17 +6,17 @@ export const addonDistBundles = {
   slug: "addon-dist-bundles",
   definition: "the emitted Lua bundles a post-build gate has to examine",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A build output that is no directory is an empty population rather than an error.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A gate finding no bundle refuses rather than certifying the add-ons clean.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The refusal names the build command that would fill the population.",
     },
   ],

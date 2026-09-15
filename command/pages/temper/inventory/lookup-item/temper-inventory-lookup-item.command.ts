@@ -7,21 +7,21 @@ export const temperInventoryLookupItem = {
   definition: "the command finding an item in the captured holdings and saying what it is",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item is classified by the node ids the capture has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item the capture does not hold refuses the call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Both the junk the game holds and the junk the game would allow are said.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capture recording neither says `not captured` rather than saying false.",
     },
   ],

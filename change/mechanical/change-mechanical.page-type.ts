@@ -15,26 +15,26 @@ export const changeMechanical = {
     "page-type/change-mechanical-page-type",
   ],
   properties: [],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mechanical change is reached by another change rather than by a command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mechanical change runs no check of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mechanical change is filed under the sub-type naming the thing acted on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A mechanical change acting on a page property answers for every page carrying that property.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A mechanical change acting on a page type answers for every page filed under that page type.",
     },

@@ -6,13 +6,13 @@ export const setsRowsFirst = {
   slug: "sets-rows-first",
   definition: "the first sixty-two numbered set parts gathered into one list",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The parts are spread in the order their numbers run.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No row is keyed by its id here.",
     },
   ],

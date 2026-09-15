@@ -7,9 +7,9 @@ export const gbwwEditionMarker = {
   propertySlug: "edition-marker",
   definition: "which editions of the set have a reading",
   values: ["common", "ed2-only"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading is in the plan whether or not the edition Alan has carries that reading.",
     },

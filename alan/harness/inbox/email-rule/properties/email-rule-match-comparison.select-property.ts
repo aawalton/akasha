@@ -16,17 +16,17 @@ export const emailRuleMatchComparison = {
     "contains",
     "does-not-contain",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A clause with several values passes where a value matches.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each comparison sits beside its negation rather than beside a flag.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A comparison a text field takes sits here whether or not a rule names that comparison yet.",
     },

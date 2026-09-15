@@ -47,21 +47,21 @@ export const stacks = {
     { pageProperty: "number-property/furniture-subcategory-id", required: false, many: false },
     { pageProperty: "boolean-property/is-container", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One line is one slot with one item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slot with nothing has no line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which further fields a line states is settled by the sort of item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A price field is absent where the price source priced nothing.",
     },
   ],

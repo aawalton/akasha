@@ -10,13 +10,13 @@ export const direction = {
   definition: "the way along an edge a predicate follows that edge",
   maxLength: 3,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An edge followed to the node it reaches is followed out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An edge followed to the node it comes from is followed in.",
     },
   ],

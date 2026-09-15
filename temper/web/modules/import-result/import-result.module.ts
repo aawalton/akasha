@@ -6,9 +6,9 @@ export const importResult = {
   slug: "import-result",
   definition: "what a whole-account import did to the account, its characters and its companions",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section the import did not know is counted rather than named.",
     },
   ],

@@ -7,13 +7,13 @@ export const graphNode = {
   definition: "a thing the graph can name",
   parts: ["graph-node/file"],
   extends: ["page-type/domain"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A node is a path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page is a node with a page type rather than a node of its own.",
     },
   ],

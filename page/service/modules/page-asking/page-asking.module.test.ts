@@ -19,7 +19,7 @@ import {
 
 test("a page type naming one above it reads the owner that climb carries", () => {
   expect(ownerFor(root, new Map(), "temper-catalog-thing")).toBe("account-page")
-  expect(ownerFor(root, new Map(), "invariant-kind")).toBeNull()
+  expect(ownerFor(root, new Map(), "decision-kind")).toBeNull()
 })
 
 test("the owner is read from the second page type above where the first states none", () => {
@@ -59,26 +59,26 @@ test("a page type above that nothing holds stops no other climb", () => {
 })
 
 test("every page of a type is answered", () => {
-  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind" }))
+  const rows = rowsOf(asking(root, { pageTypeSlug: "decision-kind" }))
   const slugs = rows.map((one) => one.slug)
   expect(slugs).toContain("departure")
   expect(slugs).toContain("gap")
 })
 
 test("a row holds only the keys the question names", () => {
-  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys: ["slug"] }))
+  const rows = rowsOf(asking(root, { pageTypeSlug: "decision-kind", keys: ["slug"] }))
   expect(rows.length).toBeGreaterThan(0)
   for (const one of rows) expect(Object.keys(one)).toEqual(["slug"])
 })
 
 test("a question naming no key is answered with every key", () => {
-  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind" }))
+  const rows = rowsOf(asking(root, { pageTypeSlug: "decision-kind" }))
   expect(Object.keys(rows[0] ?? {}).length).toBeGreaterThan(1)
 })
 
 test("where narrows to what matches", () => {
   const rows = rowsOf(
-    asking(root, { pageTypeSlug: "invariant-kind", where: { slug: { is: "gap" } }, keys: ["slug"] })
+    asking(root, { pageTypeSlug: "decision-kind", where: { slug: { is: "gap" } }, keys: ["slug"] })
   )
   expect(rows).toEqual([{ slug: "gap" }])
 })
@@ -120,9 +120,9 @@ test("a row carries the page type its own page states rather than the one named"
 })
 
 test("a page type nothing extends answers its own pages alone", () => {
-  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys: ["type"] }))
+  const rows = rowsOf(asking(root, { pageTypeSlug: "decision-kind", keys: ["type"] }))
   expect(rows.length).toBe(6)
-  for (const one of rows) expect(one.type).toBe("invariant-kind")
+  for (const one of rows) expect(one.type).toBe("decision-kind")
 })
 
 test("a calculation the page type named declares is worked out over a page of a type under it", () => {
@@ -139,7 +139,7 @@ test("a name that is no page type is refused rather than answered empty", () => 
 
 test("rows are ordered by the key the question sorts on", () => {
   const rows = rowsOf(
-    asking(root, { pageTypeSlug: "invariant-kind", sortBy: "slug", keys: ["slug"] })
+    asking(root, { pageTypeSlug: "decision-kind", sortBy: "slug", keys: ["slug"] })
   )
   const said = rows.map((one) => one.slug)
   expect(said).toEqual([...said].sort())
@@ -147,11 +147,11 @@ test("rows are ordered by the key the question sorts on", () => {
 
 test("descending turns the order around", () => {
   const up = rowsOf(
-    asking(root, { pageTypeSlug: "invariant-kind", sortBy: "slug", keys: ["slug"] })
+    asking(root, { pageTypeSlug: "decision-kind", sortBy: "slug", keys: ["slug"] })
   )
   const down = rowsOf(
     asking(root, {
-      pageTypeSlug: "invariant-kind",
+      pageTypeSlug: "decision-kind",
       sortBy: "slug",
       descending: true,
       keys: ["slug"],
@@ -162,11 +162,11 @@ test("descending turns the order around", () => {
 
 test("what is skipped is skipped before what is taken is taken", () => {
   const every = rowsOf(
-    asking(root, { pageTypeSlug: "invariant-kind", sortBy: "slug", keys: ["slug"] })
+    asking(root, { pageTypeSlug: "decision-kind", sortBy: "slug", keys: ["slug"] })
   )
   const some = rowsOf(
     asking(root, {
-      pageTypeSlug: "invariant-kind",
+      pageTypeSlug: "decision-kind",
       sortBy: "slug",
       keys: ["slug"],
       offset: 1,
@@ -177,9 +177,9 @@ test("what is skipped is skipped before what is taken is taken", () => {
 })
 
 test("the count answered is every page matching rather than every row taken", () => {
-  const every = asking(root, { pageTypeSlug: "invariant-kind", sortBy: "slug", keys: ["slug"] })
+  const every = asking(root, { pageTypeSlug: "decision-kind", sortBy: "slug", keys: ["slug"] })
   const some = asking(root, {
-    pageTypeSlug: "invariant-kind",
+    pageTypeSlug: "decision-kind",
     sortBy: "slug",
     keys: ["slug"],
     offset: 1,
@@ -193,12 +193,12 @@ test("the count answered is every page matching rather than every row taken", ()
 })
 
 test("a limit below nothing is refused rather than taken as none", () => {
-  const asked = asking(root, { pageTypeSlug: "invariant-kind", limit: -1 })
+  const asked = asking(root, { pageTypeSlug: "decision-kind", limit: -1 })
   expect("refused" in asked && asked.refused).toContain("limit")
 })
 
 test("an offset that is not whole is refused", () => {
-  const asked = asking(root, { pageTypeSlug: "invariant-kind", offset: 1.5 })
+  const asked = asking(root, { pageTypeSlug: "decision-kind", offset: 1.5 })
   expect("refused" in asked && asked.refused).toContain("offset")
 })
 
@@ -221,7 +221,7 @@ test("a where holding only the tests already taken answers as it did", () => {
   expect(slugsOf(over({ slug: { is: "gap" } }))).toEqual(["gap"])
   expect(slugsOf(over({ slug: { in: ["gap", "absence"] } }))).toEqual(["absence", "gap"])
   expect(slugsOf(over({ slug: { empty: true } }))).toEqual([])
-  expect(slugsOf(over({ invariants: { has: "nothing at all" } }))).toEqual([])
+  expect(slugsOf(over({ decisions: { has: "nothing at all" } }))).toEqual([])
 })
 
 test("starts-with keeps the slugs beginning with what is stated", () => {
@@ -282,47 +282,47 @@ test("a test stating nothing is refused rather than narrowing nothing", () => {
 
 test("a where naming a key the page type declares nothing for is refused", () => {
   const asked = asking(root, {
-    pageTypeSlug: "invariant-kind",
+    pageTypeSlug: "decision-kind",
     where: { "not-a-key": { is: "gap" } },
   })
   expect("refused" in asked && asked.refused).toContain("`where` names `not-a-key`")
 })
 
 test("a sortBy naming a key the page type declares nothing for is refused", () => {
-  const asked = asking(root, { pageTypeSlug: "invariant-kind", sortBy: "not-a-key" })
+  const asked = asking(root, { pageTypeSlug: "decision-kind", sortBy: "not-a-key" })
   expect("refused" in asked && asked.refused).toContain("`sortBy` names `not-a-key`")
 })
 
 test("a keys entry naming a key the page type declares nothing for is refused", () => {
-  const asked = asking(root, { pageTypeSlug: "invariant-kind", keys: ["slug", "not-a-key"] })
+  const asked = asking(root, { pageTypeSlug: "decision-kind", keys: ["slug", "not-a-key"] })
   expect("refused" in asked && asked.refused).toContain("`keys` names `not-a-key`")
 })
 
 test("a refusal names the keys the page type does declare", () => {
-  const asked = asking(root, { pageTypeSlug: "invariant-kind", sortBy: "not-a-key" })
+  const asked = asking(root, { pageTypeSlug: "decision-kind", sortBy: "not-a-key" })
   expect("refused" in asked && asked.refused).toContain("slug")
-  expect("refused" in asked && asked.refused).toContain("invariants")
+  expect("refused" in asked && asked.refused).toContain("decisions")
 })
 
 test("a key spelt as its property slug rather than its own key is refused", () => {
-  const asked = asking(root, { pageTypeSlug: "invariant-kind", keys: ["invariant-group-slug"] })
-  expect("refused" in asked && asked.refused).toContain("invariant-group-slug")
+  const asked = asking(root, { pageTypeSlug: "decision-kind", keys: ["decision-group-slug"] })
+  expect("refused" in asked && asked.refused).toContain("decision-group-slug")
 })
 
 test("a declared key no page of the type carries is answered rather than refused", () => {
-  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys: ["cover"] }))
+  const rows = rowsOf(asking(root, { pageTypeSlug: "decision-kind", keys: ["cover"] }))
   expect(rows.length).toBeGreaterThan(0)
   for (const one of rows) expect(one.cover).toBeUndefined()
 })
 
 test("a key a type above declares is a key of the type below", () => {
   const keys = ["slug", "definition", "decisionGroup"]
-  expect(rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys })).length).toBeGreaterThan(0)
+  expect(rowsOf(asking(root, { pageTypeSlug: "decision-kind", keys })).length).toBeGreaterThan(0)
 })
 
 test("what a query asks for is every key it names, each under where it named it", () => {
   const wanted = askedFor({
-    pageTypeSlug: "invariant-kind",
+    pageTypeSlug: "decision-kind",
     where: { slug: { is: "gap" } },
     sortBy: "slug",
     keys: ["slug", "definition"],
@@ -341,7 +341,7 @@ test("a property slug is titled with its words spaced and each word opening capi
 })
 
 test("a declaration is titled by its own property slug rather than by the definition", () => {
-  const shaped = shaping(root, "invariant-kind")
+  const shaped = shaping(root, "decision-kind")
   const declarations = "shape" in shaped ? (shaped.shape?.declarations ?? []) : []
   const found = declarations.find((one) => one.key === "decision-group")
   expect(found?.title).toBe("Decision Group")

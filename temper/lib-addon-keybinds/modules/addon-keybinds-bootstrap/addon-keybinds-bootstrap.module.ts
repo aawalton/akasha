@@ -6,21 +6,21 @@ export const addonKeybindsBootstrap = {
   slug: "addon-keybinds-bootstrap",
   definition: "the library put on the globals and the wait for the game's keybinding screen",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second load returns without touching the library already in place.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keyboard keybinding manager is preferred over the shared keybinding manager.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A missing keybinding manager is an error rather than a quiet return.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wait is dropped before being set up again.",
     },
   ],

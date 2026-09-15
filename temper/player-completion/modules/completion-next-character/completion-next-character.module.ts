@@ -7,25 +7,25 @@ export const completionNextCharacter = {
   definition: "which character a card of next-character scope falls to for its current turn",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The character picked is the first by sort order that has not finished the card.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character naming no sort order is ordered last.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two characters at one sort order are ordered by name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item path is judged by the card's item check rather than by its card check.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pick is empty where the card is finished throughout the roster.",
     },
   ],

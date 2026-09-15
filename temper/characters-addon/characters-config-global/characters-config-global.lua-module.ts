@@ -7,9 +7,9 @@ export const charactersConfigGlobal = {
   definition: "the one name the characters add-on's saved variables are read back into",
   lua: "lua",
   loadedAs: "TemperCharactersConfig.lua",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The name starts out empty and the game fills the name from the saved variables file.",
     },

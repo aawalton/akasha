@@ -6,30 +6,30 @@ export const useCompletionBodies = {
   slug: "use-completion-bodies",
   definition: "the completion bodies one view asks for, keyed by the page each body is beside",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A body is asked for by the view that reads the body rather than held for every view.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A query naming `files` is the only query a body comes back on.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "`/ask` is a POST.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body arriving as its own ending is refused rather than read as no completion.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rows a listing draws are read apart from the bodies those rows have.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "One account's character bodies run to about six megabytes.",
     },
   ],

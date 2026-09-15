@@ -6,21 +6,21 @@ export const chessPageWriting = {
   slug: "chess-page-writing",
   definition: "a chess page composed from the values a command worked out, and landed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page is written through the change working out what kind of path it is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file the page no longer fills is taken away in the same landing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page that could not be composed is refused as a fault in the data.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No check runs over a body landed here.",
     },
   ],

@@ -7,9 +7,9 @@ export const inventoryRulesCoreInspire = {
   definition:
     "whether deconstructing an item is useful to a character, and which crafting levels say so",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A trait is matched by name without regard to case.",
     },
   ],

@@ -6,42 +6,42 @@ export const dayOpening = {
   slug: "day-opening",
   definition: "which day an instant falls in, counted from the moment Alan's day opens",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The moment a day opened is read from the opening window rather than worked out here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An instant before its ESO day's recorded opening counts to the day before.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An instant at or after the next day's recorded opening counts to the day after.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only an opening read from a sleep block moves an instant off its ESO day.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No hour on a clock moves an instant off its ESO day.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a sleep block.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window that refuses and a window that falls back to the ESO day are two calls.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller counting a figure a day page stores takes the window that refuses.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A day that will not parse answers a window at the epoch to the caller taking the other call.",
     },

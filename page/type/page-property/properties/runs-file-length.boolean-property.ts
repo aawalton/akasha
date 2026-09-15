@@ -6,17 +6,17 @@ export const runsFileLength = {
   slug: "runs-file-length",
   propertySlug: "runs-file-length",
   definition: "whether the byte ceiling is judged over the files a property has",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying nothing here is judged.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No file of a property saying false is judged.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property exempts every file that property has rather than one file named here.",
     },
   ],

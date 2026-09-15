@@ -6,21 +6,21 @@ export const notificationRowOverrides = {
   slug: "notification-row-overrides",
   definition: "the game's own notification row setup replaced so a row may have its own look",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row lacking an icon falls back to the icon the game gives the row's type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row lacking a heading falls back to the heading the game gives the row's type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An icon may be a texture path or a function answering a texture path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keyboard row setup is replaced only where the keyboard panel is loaded.",
     },
   ],

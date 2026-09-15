@@ -6,13 +6,13 @@ export const pageHolding = {
   slug: "page-holding",
   definition: "the paths a test's page and its code sit at, and the body of that code",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The body imports a path named here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path is said from the repository root.",
     },
   ],

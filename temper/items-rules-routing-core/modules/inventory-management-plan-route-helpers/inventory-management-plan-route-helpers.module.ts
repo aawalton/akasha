@@ -7,13 +7,13 @@ export const inventoryManagementPlanRouteHelpers = {
   definition:
     "the readings a route needs of an item's value, of storage keys and of character names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character absent from the captured holdings is named by its id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item with no captured value contributes nothing to a total.",
     },
   ],

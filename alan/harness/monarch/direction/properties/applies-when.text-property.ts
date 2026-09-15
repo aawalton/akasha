@@ -8,9 +8,9 @@ export const appliesWhen = {
   definition: "the shape of transaction a direction reaches",
   maxLength: 400,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A direction reaches no transaction outside the shape that direction applies to.",
     },
   ],

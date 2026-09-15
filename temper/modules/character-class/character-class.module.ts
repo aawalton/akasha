@@ -6,13 +6,13 @@ export const characterClass = {
   slug: "character-class",
   definition: "every character class the game offers, with its icon and its game id",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A class's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A class moved to another place breaks every build hash saved.",
     },
   ],

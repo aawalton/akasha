@@ -6,17 +6,17 @@ export const scrollableMenuDebugLogMessagePatterns = {
   slug: "scrollable-menu-debug-log-message-patterns",
   definition: "the numbered format strings the debug log looks up by message id",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Log text is addressed by integer rather than by name.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The table is a flat map from number to format string.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every id from 1 to 197 names a pattern.",
     },
   ],

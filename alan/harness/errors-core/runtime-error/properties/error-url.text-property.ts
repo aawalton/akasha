@@ -8,13 +8,13 @@ export const errorUrl = {
   definition: "where a client was when a client met an error",
   maxLength: 2048,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A url is the url the reporting client was reading.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A url could have a token a query string has.",
     },
   ],

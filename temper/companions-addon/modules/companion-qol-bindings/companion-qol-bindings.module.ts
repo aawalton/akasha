@@ -6,9 +6,9 @@ export const companionQolBindings = {
   slug: "companion-qol-bindings",
   definition: "the keybind names the quality-of-life code adds to the game",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A keybind name is added as a game string rather than declared in the manifest.",
     },
   ],

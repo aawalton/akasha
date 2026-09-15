@@ -6,13 +6,13 @@ export const catalogConfigGlobal = {
   slug: "catalog-config-global",
   definition: "the global a side file leaves the catalog add-on its next request in",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game loads the side file before the compiled add-on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty side file leaves the name with nothing.",
     },
   ],

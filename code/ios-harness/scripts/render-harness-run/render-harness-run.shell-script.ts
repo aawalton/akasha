@@ -7,13 +7,13 @@ export const renderHarnessRun = {
   definition: "what draws an app's tiles on a simulator",
   shell: "sh",
   sourced: false,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A workstation that is not a mac hands the run to a workstation that is a mac.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The mac leg compiles the Swift sent to the mac leg rather than reading akasha.",
     },
   ],

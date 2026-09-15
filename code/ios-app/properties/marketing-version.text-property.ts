@@ -8,17 +8,17 @@ export const marketingVersion = {
   definition: "the version of an app a person reads on the App Store",
   maxLength: 20,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A version is up to three numbers parted by dots.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A version is unchanged by an upload.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A build gives an app the version its page states.",
     },
   ],

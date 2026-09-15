@@ -7,30 +7,30 @@ export const uniqueProperty = {
   propertySlug: "unique-property",
   definition: "the property whose value a unique value is unique within",
   targetPageType: "page-type/page-property",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property naming one here is unique within that property's value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The property named here is declared on the same page type as the property naming it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The property named here is required.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The property named here has one value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Naming a property makes the unique kind `page-property` rather than `page-type`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property naming none is unique across the whole of the kind it states.",
     },
   ],

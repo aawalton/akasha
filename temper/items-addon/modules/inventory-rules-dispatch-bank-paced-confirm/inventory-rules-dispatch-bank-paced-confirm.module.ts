@@ -6,9 +6,9 @@ export const inventoryRulesDispatchBankPacedConfirm = {
   slug: "inventory-rules-dispatch-bank-paced-confirm",
   definition: "whether a paced bank move landed, judged by the stack left behind",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A move landed where the stack left behind is no more than what the move was to leave.",
     },

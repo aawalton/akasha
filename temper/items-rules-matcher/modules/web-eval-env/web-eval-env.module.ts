@@ -7,13 +7,13 @@ export const webEvalEnv = {
   definition:
     "the evaluation environment the web build hands the matcher, drawn from captured holdings",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every reader here answers from the captured holdings rather than from the game.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

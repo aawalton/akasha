@@ -8,17 +8,17 @@ export const colorSlug = {
   definition: "the color a reading is always drawn in",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A readout stating a color takes that color whatever the reading is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A readout stating a color needs no scale.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The color a readout names is a page rather than a name held as text.",
     },
   ],

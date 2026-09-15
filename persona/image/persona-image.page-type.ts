@@ -17,21 +17,21 @@ export const personaImage = {
     { pageProperty: "text-property/image-path", required: false, many: false },
     { pageProperty: "text-property/image-root", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A picture is one persona's.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The picture itself is outside this repository.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record naming no path keeps its picture under the record's own identity.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No page of this type is on its own.",
     },
   ],

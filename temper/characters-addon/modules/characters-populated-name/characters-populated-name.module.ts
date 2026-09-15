@@ -6,9 +6,9 @@ export const charactersPopulatedName = {
   slug: "characters-populated-name",
   definition: "the freshly read name where the game gave one, and the stored name otherwise",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Which of a stored and a freshly read name wins is settled here.",
     },
   ],

@@ -15,22 +15,22 @@ export const storyWikiEntry = {
     { pageProperty: "number-property/chapter-number", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An entry says the truths the story has established rather than the truths the design intends.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry is true as of the chapter the entry names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry about a setup not yet paid off is a seed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words an entry has are the story's rather than akasha's own.",
     },
   ],

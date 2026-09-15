@@ -18,14 +18,14 @@ export const temperLoreCollection = {
     { pageProperty: "number-property/eso-collection-index", required: true, many: false },
     { pageProperty: "page-property-entry/books", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A collection is numbered inside its lore category rather than across all the lore categories.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Shalidor's Library is lore category 1.",
     },
   ],

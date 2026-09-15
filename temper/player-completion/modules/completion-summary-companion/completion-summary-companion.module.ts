@@ -7,13 +7,13 @@ export const completionSummaryCompanion = {
   definition: "one line per companion card, counting what an account has of what there is",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller naming companions is counted on the companions the caller named.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A companion of no known level counts toward no level total.",
     },
   ],

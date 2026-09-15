@@ -6,17 +6,17 @@ export const checkAddonDependencyFloor = {
   slug: "check-addon-dependency-floor",
   definition: "the run judging whether every checkable game add-on version floor is met",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The population the run states is the add-ons on the roster.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An add-on examined is an add-on whose manifest was read.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The add-ons the run declined to judge are reported beside the add-ons the run judged.",
     },

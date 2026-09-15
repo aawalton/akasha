@@ -6,21 +6,21 @@ export const browserCommand = {
   slug: "browser-command",
   definition: "what an agent runs by name over a site it drives a browser against",
   parts: ["module/verify-render-plan"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command here drives the harness rather than launching a browser of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The user a command here signs in as is checked against the protected user.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows the purpose of any page this package looks at.",
     },
   ],

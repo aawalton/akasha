@@ -6,17 +6,17 @@ export const libSetsDebugDebugNames = {
   slug: "lib-sets-debug-debug-names",
   definition: "the names the running client reports for one language and the set ids new to it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Nothing is read here when the client language is not an official one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The dungeon finder window is opened when its rows have not been built yet.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every name is stored under the client language in which the name was read.",
     },
   ],

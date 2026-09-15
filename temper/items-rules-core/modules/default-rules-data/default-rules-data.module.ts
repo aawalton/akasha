@@ -7,13 +7,13 @@ export const defaultRulesData = {
   definition:
     "the rule set a player starts from, which is the rule templates in the order they are given",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The starting rules are the rule templates and nothing besides.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A starting rule is switched off until the player switches the rule on.",
     },
   ],

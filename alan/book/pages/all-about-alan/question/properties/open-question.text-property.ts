@@ -8,13 +8,13 @@ export const openQuestion = {
   definition: "what is still open about a topic, put as one question",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An ask is written as a question rather than as a note naming a gap.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An ask has no paragraph break.",
     },
   ],

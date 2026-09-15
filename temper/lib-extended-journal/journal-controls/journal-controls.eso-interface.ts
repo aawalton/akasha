@@ -7,9 +7,9 @@ export const journalControls = {
   definition: "the fonts, labels and tooltip sections the journal window is drawn from",
   markup: "xml",
   loadedAs: "Controls.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The XML loads before the Lua bundle.",
     },
   ],

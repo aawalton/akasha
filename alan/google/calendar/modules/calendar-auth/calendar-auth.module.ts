@@ -6,9 +6,9 @@ export const calendarAuth = {
   slug: "calendar-auth",
   definition: "the client a calendar call is made through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a call made as Alan himself can answer an invitation.",
     },
   ],

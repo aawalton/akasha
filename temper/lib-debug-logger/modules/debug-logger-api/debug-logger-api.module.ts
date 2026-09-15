@@ -6,18 +6,18 @@ export const debugLoggerApi = {
   slug: "debug-logger-api",
   definition: "the functions the library hands to every other addon",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Calling the library table itself makes a logger.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller may hand the library table in as the first argument or leave the argument out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The API version this states is two.",
     },
   ],

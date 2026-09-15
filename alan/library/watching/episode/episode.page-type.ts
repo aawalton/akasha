@@ -13,21 +13,21 @@ export const episode = {
     { pageProperty: "text-property/still-path", required: false, many: false },
     { pageProperty: "number-property/vote-average", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An episode is watched or not.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An episode's season number is read from the season the episode is part of.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An episode's number is its position among the episodes of its season.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An episode states the minutes the episode runs to.",
     },
   ],

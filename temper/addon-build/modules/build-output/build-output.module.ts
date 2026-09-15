@@ -6,21 +6,21 @@ export const buildOutput = {
   slug: "build-output",
   definition: "the folder the addon build writes into",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The index answers where the domain page sits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder sits beside that page under the name the build folder property gives.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The path answered is relative to the repository root.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An index naming no such domain is an error rather than a guessed path.",
     },
   ],

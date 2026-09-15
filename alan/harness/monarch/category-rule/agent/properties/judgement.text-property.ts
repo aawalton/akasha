@@ -8,13 +8,13 @@ export const judgement = {
   definition: "what an agent catching a transaction is told to do with it",
   maxLength: 2000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A judgement opens with the act.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A judgement then says why that act is worth an agent.",
     },
   ],

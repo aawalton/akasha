@@ -6,13 +6,13 @@ export const asyncMain = {
   slug: "async-main",
   definition: "the order the library parts are loaded in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The task class is loaded before any module adding a method to the task class.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The public name is published last.",
     },
   ],

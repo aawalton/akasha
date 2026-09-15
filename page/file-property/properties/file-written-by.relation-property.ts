@@ -7,17 +7,17 @@ export const fileWrittenBy = {
   propertySlug: "written-by",
   definition: "the module property group whose code writes a property's file",
   targetPageType: "page-type/module-property-group",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property naming a group has that group's code write the property's file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two properties never name one group.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property naming no group says nothing about what writes the property's file.",
     },
   ],

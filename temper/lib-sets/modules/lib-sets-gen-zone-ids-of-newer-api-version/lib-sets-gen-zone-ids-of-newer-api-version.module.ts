@@ -6,13 +6,13 @@ export const libSetsGenZoneIdsOfNewerApiVersion = {
   slug: "lib-sets-gen-zone-ids-of-newer-api-version",
   definition: "the zone ids that exist only on a newer game API version",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is ported from the upstream library at a pinned commit.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The table is empty at the pinned commit.",
     },
   ],

@@ -6,9 +6,9 @@ export const skillPointGroupDungeons = {
   slug: "skill-point-group-dungeons",
   definition: "the one skill point each group dungeon hands a character for its quest",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The dungeons and their labels are read off the dungeon data rather than copied.",
     },
   ],

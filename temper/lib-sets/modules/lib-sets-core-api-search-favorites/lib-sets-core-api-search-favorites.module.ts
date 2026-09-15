@@ -6,9 +6,9 @@ export const libSetsCoreApiSearchFavorites = {
   slug: "lib-sets-core-api-search-favorites",
   definition: "the favorite categories a set search result can be starred into",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "No addon adds a second search results context menu entry.",
     },
   ],

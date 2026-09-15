@@ -6,9 +6,9 @@ export const companionQolUiStrings = {
   slug: "companion-qol-ui-strings",
   definition: "the words the quality-of-life settings menu reads as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every string is added under an id the settings menu names.",
     },
   ],

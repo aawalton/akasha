@@ -6,17 +6,17 @@ export const audio = {
   slug: "audio",
   definition: "one sound the system has",
   extends: ["page-type/page"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An audio's bytes sit in the object store under the audio's own id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An audio's bytes sit on disk where the audio says those bytes were written.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An audio records where its bytes are rather than the bytes.",
     },
   ],

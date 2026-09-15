@@ -7,13 +7,13 @@ export const voiceInfer = {
   definition: "the speech workload, its namespace and the way in to it",
   code: "ts",
   generatedDirectory: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pod template carries the hash of the voice-infer-s3-creds secret.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keys hashed from it are access_key and secret_key.",
     },
   ],

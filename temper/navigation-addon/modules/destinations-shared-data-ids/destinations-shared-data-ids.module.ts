@@ -6,9 +6,9 @@ export const destinationsSharedDataIds = {
   slug: "destinations-shared-data-ids",
   definition: "the achievement and collectible ids the destination rows name",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

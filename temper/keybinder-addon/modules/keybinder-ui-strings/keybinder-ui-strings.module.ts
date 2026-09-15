@@ -6,9 +6,9 @@ export const keybinderUiStrings = {
   slug: "keybinder-ui-strings",
   definition: "the words the add-on shows in the key-bind window",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key the table does not have reads as the empty string.",
     },
   ],

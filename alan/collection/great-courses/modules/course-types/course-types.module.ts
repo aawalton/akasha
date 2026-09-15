@@ -6,9 +6,9 @@ export const courseTypes = {
   slug: "course-types",
   definition: "a course, a subject, and the listings the catalogue hands them over in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every field the catalogue hands over is read-only.",
     },
   ],

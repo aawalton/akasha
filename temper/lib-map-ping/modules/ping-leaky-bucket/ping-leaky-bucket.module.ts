@@ -6,13 +6,13 @@ export const pingLeakyBucket = {
   slug: "ping-leaky-bucket",
   definition: "the token budget a group ping is spent from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A token count is refilled from the time passed at each read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A take succeeds only above a safety threshold.",
     },
   ],

@@ -7,17 +7,17 @@ export const yamlLines = {
   definition: "the lines a YAML body holds, with the blank lines at the end dropped",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A body is parted at each newline.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A blank line at the end of a body is dropped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A blank line inside a body is kept.",
     },
   ],

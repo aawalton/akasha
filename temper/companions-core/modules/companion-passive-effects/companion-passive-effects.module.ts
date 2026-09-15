@@ -6,13 +6,13 @@ export const companionPassiveEffects = {
   slug: "companion-passive-effects",
   definition: "the metric effects a companion's passive skill grants",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The passive effect's modifier type is carried over as the metric effect type.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill that is not passive yields no effects.",
     },
   ],

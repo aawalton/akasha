@@ -6,17 +6,17 @@ export const verdictReading = {
   slug: "verdict-reading",
   definition: "how something is, with what was covered and what was found",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading names the subject that reading is of.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A reading never reads as passing or failing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A coverage whose denominator was not worked out says so rather than sitting at zero.",
     },

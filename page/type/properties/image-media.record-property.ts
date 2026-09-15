@@ -7,9 +7,9 @@ export const imageMedia = {
   propertySlug: "image",
   definition: "the image a page type's pages are rendered as",
   properties: [{ pageProperty: "text-property/media-renderer", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An image is rendered from the whole page rather than from one property.",
     },
   ],

@@ -6,9 +6,9 @@ export const inventoryTraceSaying = {
   slug: "inventory-trace-saying",
   definition: "a number a Temper trace carried, written out for a line of a report",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field the trace carried no number for is written as `nil`.",
     },
   ],

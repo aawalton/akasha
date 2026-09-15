@@ -34,9 +34,9 @@ export const alanwaltonDecodeHarness = {
     "ios-component/timeline-checks",
     "ios-component/cost-ring",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every tile this program compiles has a decode assertion.",
     },
   ],

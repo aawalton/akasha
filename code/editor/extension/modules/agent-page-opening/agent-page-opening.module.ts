@@ -6,25 +6,25 @@ export const agentPageOpening = {
   slug: "agent-page-opening",
   definition: "the page akasha has for a row, opened from the row that already had its path",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The command is offered on every row and refuses the rows with no page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row with no page is told about rather than passed over silently.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path is taken off the row rather than composed from anything here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page opens as a preview rather than as a pinned editor.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here composes a path for a row that has no path.",
     },
   ],

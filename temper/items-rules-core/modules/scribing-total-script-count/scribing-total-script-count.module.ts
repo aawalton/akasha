@@ -6,9 +6,9 @@ export const scribingTotalScriptCount = {
   slug: "scribing-total-script-count",
   definition: "how many scribing scripts the game holds across focus, signature and affix",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This count is written out from the scribing script pages rather than by hand.",
     },
   ],

@@ -6,9 +6,9 @@ export const jsonValue = {
   slug: "json-value",
   definition: "what a JSON value is, said as a type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This module names nothing.",
     },
   ],

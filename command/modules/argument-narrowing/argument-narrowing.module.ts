@@ -6,13 +6,13 @@ export const argumentNarrowing = {
   slug: "argument-narrowing",
   definition: "a value from outside read as the type a command needs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value of the wrong type ends the command.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal names the place the value is in.",
     },
   ],

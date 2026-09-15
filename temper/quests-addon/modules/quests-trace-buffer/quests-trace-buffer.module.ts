@@ -7,21 +7,21 @@ export const questsTraceBuffer = {
   definition: "how many trace entries are kept, and which one goes when a new one arrives",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The buffer has the number of entries the cap names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The oldest entry goes first when the buffer is full.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Appending returns a new list rather than changing the list handed in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The shape of an entry is stated where the trace is read back.",
     },
   ],

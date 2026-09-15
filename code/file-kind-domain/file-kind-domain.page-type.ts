@@ -7,17 +7,17 @@ export const fileKindDomain = {
   definition: "one kind of file, told by the name a file has",
   extends: ["page-type/domain"],
   properties: [],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kind reaches a file wherever in a repository that file sits.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kind is told from a file's name rather than from the bytes the file has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "The pattern and the bytes and the splitting a kind states have no property here yet.",
     },

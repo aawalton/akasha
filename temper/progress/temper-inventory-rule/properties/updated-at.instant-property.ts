@@ -6,14 +6,14 @@ export const updatedAt = {
   slug: "updated-at",
   propertySlug: "updated-at",
   definition: "when a rule was last changed by the player who holds it",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The game is told when a rule changed so the game knows which rules the game has already seen.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This instant is the moment the player changed the rule rather than the moment the rule landed.",
     },

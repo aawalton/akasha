@@ -6,13 +6,13 @@ export const salesAddonEntry = {
   slug: "sales-addon-entry",
   definition: "what the sales add-on does once the game has loaded that add-on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The saved variables have the account name the sales were captured under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Capture begins once the writer has handed over its saved variables.",
     },
   ],

@@ -7,21 +7,21 @@ export const normalize = {
   definition: "the words the channel shows for a message it carried or would not carry",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A refusal notice has no part of the message the notice refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message with nothing but space in the message is shown as having no body.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The account a message acts for is written into the surface a seat reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sender is lower-cased before the sender is matched.",
     },
   ],

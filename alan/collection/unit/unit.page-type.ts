@@ -15,13 +15,13 @@ export const unit = {
   ],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "number-property/words", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A unit says its worth in words.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Words are the unit every other unit is weighed against.",
     },
   ],

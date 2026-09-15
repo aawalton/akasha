@@ -6,9 +6,9 @@ export const characterCaptureScribingMap = {
   slug: "character-capture-scribing-map",
   definition: "each grimoire and script name against its place in a build hash",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
   ],

@@ -6,9 +6,9 @@ export const housingBuildWindow = {
   slug: "housing-build-window",
   definition: "building the housing window itself, with its header and its body",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where the window sits is kept in saved variables.",
     },
   ],

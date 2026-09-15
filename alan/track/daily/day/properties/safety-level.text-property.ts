@@ -8,13 +8,13 @@ export const safetyLevel = {
   definition: "how safe Alan was over a stretch of time",
   maxLength: 3,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A safety level reads as a number and is written as text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A safety level carries forward from the prior stretch of time.",
     },
   ],

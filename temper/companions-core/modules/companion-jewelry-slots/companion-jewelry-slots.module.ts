@@ -6,9 +6,9 @@ export const companionJewelrySlots = {
   slug: "companion-jewelry-slots",
   definition: "every place on a companion a piece of jewelry is worn",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the companion pages rather than by hand.",
     },
   ],

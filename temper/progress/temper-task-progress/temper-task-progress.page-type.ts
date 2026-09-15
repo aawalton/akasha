@@ -6,17 +6,17 @@ export const temperTaskProgress = {
   slug: "temper-task-progress",
   definition: "a page property whose lines say how far each character has come",
   extends: ["page-type/page-property-entry"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A line counts from the fields ending in current and total.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A line is labelled by that line's one text field.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Lines are ordered by display-order.",
     },
   ],

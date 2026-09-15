@@ -6,9 +6,9 @@ export const serviceHash = {
   slug: "service-hash",
   definition: "one hash folding a service's source files together with what it is told to run",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A changed command or port or working directory changes the hash even where no source file changed.",
     },

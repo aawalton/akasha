@@ -7,26 +7,26 @@ export const alanwaltonPictureIntent = {
   definition: "the Swift of the Take Picture app intent",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "iOS opens no camera for an app that is not in the foreground.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The intent opens the app rather than running headless.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One press shows the camera, and the next press takes the picture and sends it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Which press is which is read off whether the camera is on screen and ready rather than off a flag.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A press after a picture was sent starts a fresh capture.",
     },
   ],

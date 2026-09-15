@@ -6,13 +6,13 @@ export const alanwaltonDeviceSecretReader = {
   slug: "alanwalton-device-secret-reader",
   definition: "the read of the device secret out of the keychain",
   swift: "swift",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two keychain items for one device are refused rather than picked between.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Why a read answered nothing is named in words short enough for a tile to carry.",
     },
   ],

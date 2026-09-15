@@ -6,17 +6,17 @@ export const registerPanel = {
   slug: "register-panel",
   definition: "an add-on's panel and its options handed to the add-on menu library",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A panel is registered before its options are.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The control the library hands back is passed straight through.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library's own types are left to the caller to name.",
     },
   ],

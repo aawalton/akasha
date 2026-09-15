@@ -6,13 +6,13 @@ export const oauthAppCredentials = {
   slug: "oauth-app-credentials",
   definition: "the client id and secret the Google desktop app is reached with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No refresh token is read here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pair is read from the environment at the moment the pair is asked for.",
     },
   ],

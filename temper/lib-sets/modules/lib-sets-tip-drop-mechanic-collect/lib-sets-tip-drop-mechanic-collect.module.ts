@@ -6,17 +6,17 @@ export const libSetsTipDropMechanicCollect = {
   slug: "lib-sets-tip-drop-mechanic-collect",
   definition: "the zone and mechanic names for one set gathered into the shared scratch tables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Zone ids repeated within one set are gathered into groups keyed by zone id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A named list of set ids is exempt from the missing-zone-data complaint.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The computed grouping is written back onto the given set data.",
     },
   ],

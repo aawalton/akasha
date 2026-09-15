@@ -7,13 +7,13 @@ export const colorFrom = {
   propertySlug: "color-from",
   definition: "the reading whose color this one takes",
   targetPageType: "page-type/readout",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A readout taking another's color is read against that other's scale.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The figure stays the reading this readout took.",
     },
   ],

@@ -6,13 +6,13 @@ export const errorsAddonLimits = {
   slug: "errors-addon-limits",
   definition: "how many error entries are kept and how long a recorded callstack may grow",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Fifty distinct errors are kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A callstack beyond 1900 characters ends in an ellipsis.",
     },
   ],

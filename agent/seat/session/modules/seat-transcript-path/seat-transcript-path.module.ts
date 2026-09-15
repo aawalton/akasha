@@ -6,21 +6,21 @@ export const seatTranscriptPath = {
   slug: "seat-transcript-path",
   definition: "where a seat's transcript file sits, kept beside its page and read back",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The record beside the page is read before the page's own value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path is taken as given with no check on its shape.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty text is no transcript path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Neither a record nor a page value leaves a seat with no transcript.",
     },
   ],

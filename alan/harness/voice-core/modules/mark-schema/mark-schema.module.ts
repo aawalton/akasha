@@ -6,9 +6,9 @@ export const markSchema = {
   slug: "mark-schema",
   definition: "the shape of a mark saying which sentence starts and how far into the audio it does",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mark with a field the shape does not name is refused.",
     },
   ],

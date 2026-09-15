@@ -6,9 +6,9 @@ export const alanwaltonRefusedView = {
   slug: "alanwalton-refused-view",
   definition: "the drawing standing in for a feed that refused the credential",
   swift: "swift",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The tile names why the credential was refused rather than only that the credential was refused.",
     },

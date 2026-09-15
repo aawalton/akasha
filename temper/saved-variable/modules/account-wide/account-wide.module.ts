@@ -6,21 +6,21 @@ export const accountWide = {
   slug: "account-wide",
   definition: "the part of a saved-variables table every character on one account shares",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An account key begins with an at sign.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first account with an account-wide table is taken.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A key the schema does not name is carried through rather than dropped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file with no account-wide table reads as nothing rather than as a failure.",
     },
   ],

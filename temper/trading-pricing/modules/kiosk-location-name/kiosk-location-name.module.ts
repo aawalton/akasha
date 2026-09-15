@@ -6,13 +6,13 @@ export const kioskLocationName = {
   slug: "kiosk-location-name",
   definition: "the zone and the city each guild kiosk id names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the guild trader pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A kiosk id no guild trader page claims answers with its own number.",
     },
   ],

@@ -6,13 +6,13 @@ export const customMenuMain = {
   slug: "custom-menu-main",
   definition: "the wiring the custom menu library does as the game loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The hooks go in once the first addon that is not the game's own has loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The guild roster is hooked later than the other social lists.",
     },
   ],

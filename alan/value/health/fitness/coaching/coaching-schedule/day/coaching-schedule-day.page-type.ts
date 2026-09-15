@@ -12,13 +12,13 @@ export const coachingScheduleDay = {
     { pageProperty: "select-property/day-of-week", required: true, many: false },
     { pageProperty: "select-property/focus", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day states the weekday that day falls on and the focus that day trains.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A day names no rotation the day belongs to.",
     },
   ],

@@ -7,26 +7,26 @@ export const deploysAfter = {
   propertySlug: "deploys-after",
   definition: "a service this one is never deployed ahead of",
   targetPageType: "page-type/service",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A service names another here only where being deployed past that one's commit would break.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two services that reach each other and bear the skew name each other by nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This edge is a version one service holds another to rather than a reach.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service naming one still wanting a deploy is held back until that one has it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service a person deploys by hand is held back by nothing here.",
     },
   ],

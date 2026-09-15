@@ -6,9 +6,9 @@ export const libSetsCoreApiSetItemids = {
   slug: "lib-sets-core-api-set-itemids",
   definition: "the item ids of a set, narrowed by equip, trait, armor, weapon or enchant type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "GetSetFirstItemId is the same function as GetSetItemId under another published key.",
     },

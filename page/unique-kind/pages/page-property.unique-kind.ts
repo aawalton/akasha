@@ -5,18 +5,18 @@ export const pageProperty = {
   type: "page-type/unique-kind",
   slug: "page-property",
   definition: "the value is unique among the pages with one value of a property",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The property scoping the value is named under `uniqueProperty`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "That property is declared on the same page type and is required and has one value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scope a page is filed under is the value that property has.",
     },
   ],

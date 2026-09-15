@@ -6,17 +6,17 @@ export const changeBranchWorktree = {
   slug: "change-branch-worktree",
   definition: "where a numbered change branch's worktree is on disk",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A worktree WORKTREE_DIR names is taken over the numbered worktree.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A worktree that is not on disk is refused with why.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here makes a worktree.",
     },
   ],

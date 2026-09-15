@@ -6,13 +6,13 @@ export const seatResumeGuard = {
   slug: "seat-resume-guard",
   definition: "whether a seat may be restarted while subagents are working under it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat nothing is present in is restarted whatever is recorded under it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every way of restarting a seat asks this before restarting that seat.",
     },
   ],

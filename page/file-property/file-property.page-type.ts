@@ -26,39 +26,39 @@ export const fileProperty = {
     { pageProperty: "boolean-property/append-only", required: false, many: false },
     { pageProperty: "number-property/kept-for-hours", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file property's value is beside its page rather than in the page's own file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file property's value goes when its page goes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file property's value is loaded only where that value is asked for by name.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No gate reading a page as prose reaches a file property's value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The page claiming a file is read from that file's own name against the page types' declarations.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A file landing through a change is listed by the settle that works its page's claims out again.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A file written or taken away outside a change reaches the listing at the next settle over its page.",
     },
-    { invariantKind: "invariant-kind/gap", statement: "A file property declares one extension." },
+    { decisionKind: "decision-kind/gap", statement: "A file property declares one extension." },
   ],
   types: "ts",
   schema: "jsonl",

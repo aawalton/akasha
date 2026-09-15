@@ -6,13 +6,13 @@ export const ttcQualityTextClasses = {
   slug: "ttc-quality-text-classes",
   definition: "the text class a Tamriel Trade Centre item quality is shown in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quality is keyed by the number Tamriel Trade Centre gives the quality.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No class here is named for the lowest quality.",
     },
   ],

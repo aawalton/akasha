@@ -8,21 +8,21 @@ export const changeMaxMemoryMb = {
   definition:
     "the most memory one run of a change may hold before the kernel reclaims, in megabytes",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change stating no megabytes here is allowed the megabytes the runner names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change past these megabytes is slowed by reclaiming rather than stopped.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The megabytes a change reaches hold count against the change reaching it.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Alan settles a raise rather than the agent the ceiling slowed.",
     },
   ],

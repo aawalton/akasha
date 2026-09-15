@@ -16,17 +16,17 @@ export const monarchMerchant = {
       maxCount: 20,
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "How the money moved is a merchant here for rows whose words name no vendor.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A merchant a rule names is a merchant here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row matching no merchant is read as `unstated`.",
     },
   ],

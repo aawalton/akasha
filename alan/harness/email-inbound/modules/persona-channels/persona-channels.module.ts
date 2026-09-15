@@ -7,13 +7,13 @@ export const personaChannels = {
   definition: "each persona's own email address against the persona that address names",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A persona stating no email address is on no channel.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An address is lowercased before anything matches a header against it.",
     },
   ],

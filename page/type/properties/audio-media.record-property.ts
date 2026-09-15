@@ -11,13 +11,13 @@ export const audioMedia = {
     { pageProperty: "text-property/media-renderer", required: true, many: false },
     { pageProperty: "text-property/media-variant-axis", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Audio is rendered from one property the page has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page type saying its pages have audio names the property the audio is made from.",
     },

@@ -6,17 +6,17 @@ export const recipeData = {
   slug: "recipe-data",
   definition: "every crafting recipe the game knows, under the recipe list that has it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is captured from the game rather than written by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game's report order sets a recipe's place in this table.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A recipe moved to another place drifts from the index the game has.",
     },
   ],

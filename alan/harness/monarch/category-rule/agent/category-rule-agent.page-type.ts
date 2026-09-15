@@ -8,13 +8,13 @@ export const categoryRuleAgent = {
   extends: ["page-type/category-rule"],
   parts: ["text-property/judgement"],
   properties: [{ pageProperty: "text-property/judgement", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule of this kind narrows the rows and leaves the answer to a reader.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A handful of rows a year settled by hand is cheaper than a rule overruling the person who knows.",
     },

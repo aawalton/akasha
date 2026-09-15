@@ -6,9 +6,9 @@ export const companionsSkillMap = {
   slug: "companions-skill-map",
   definition: "which index the build codec gives each companion ability the game knows",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An ability's index here is the index a saved build hash has.",
     },
   ],

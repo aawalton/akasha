@@ -6,9 +6,9 @@ export const libSetsCoreApiNav = {
   slug: "lib-sets-core-api-nav",
   definition: "the world map opened on a zone or panned to a wayshrine",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The item link builder every other module calls is published from this module.",
     },
   ],

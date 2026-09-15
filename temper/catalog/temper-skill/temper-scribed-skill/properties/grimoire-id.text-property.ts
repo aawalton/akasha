@@ -8,9 +8,9 @@ export const grimoireId = {
   definition: "the grimoire a scribed skill is scribed from",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a grimoire.",
     },
   ],

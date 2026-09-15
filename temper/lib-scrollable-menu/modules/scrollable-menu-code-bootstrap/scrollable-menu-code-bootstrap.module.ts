@@ -6,21 +6,21 @@ export const scrollableMenuCodeBootstrap = {
   slug: "scrollable-menu-code-bootstrap",
   definition: "the addon-loaded hook and the XML handlers the row templates call into",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Saved variables are created only once the addon-loaded event fires.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Scene changes and ZO_Menu openings are hooked to close any open library menu.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two slash commands are registered for the debug toggles.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An XML handler resolves its target through the control's owning window.",
     },
   ],

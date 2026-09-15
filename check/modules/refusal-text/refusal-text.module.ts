@@ -6,13 +6,13 @@ export const refusalText = {
   slug: "refusal-text",
   definition: "a refusal's words, read from its page and filled at every hole",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A hole the body marks and no value fills refuses rather than printing the brace.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value handed over that the body marks no hole for refuses.",
     },
   ],

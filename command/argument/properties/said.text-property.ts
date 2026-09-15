@@ -8,13 +8,13 @@ export const said = {
   definition: "how one thing a command takes is spelled on the command line",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The text here is typed as that text is.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value a flag has is named in angle brackets after the flag.",
     },
   ],

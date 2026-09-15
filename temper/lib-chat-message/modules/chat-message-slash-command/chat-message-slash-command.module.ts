@@ -6,13 +6,13 @@ export const chatMessageSlashCommand = {
   slug: "chat-message-slash-command",
   definition: "the slash command a player changes the chat message settings through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unrecognized command prints the usage text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command given no argument reports the current setting.",
     },
   ],

@@ -22,23 +22,23 @@ export const mobileCut = {
     { pageProperty: "text-property/build-input-tree-hash", required: false, many: false },
     { pageProperty: "instant-property/cut-at", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cut is named for its app and its build number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A cut made before the build input tree hash was recorded has no hash and reads as owed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Which cut is newest is settled by its build number rather than by when its file landed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cut names the app that cut is of rather than repeating that app's values.",
     },
   ],

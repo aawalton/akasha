@@ -25,13 +25,13 @@ export const temperItemsRulesMatcher = {
     "module/web-item-facts",
     "test-fixture/inventory-rule-matcher-property-fixtures",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A matcher answers which items each rule takes and how many items.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

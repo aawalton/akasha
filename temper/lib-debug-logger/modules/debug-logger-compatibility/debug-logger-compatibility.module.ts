@@ -6,13 +6,13 @@ export const debugLoggerCompatibility = {
   slug: "debug-logger-compatibility",
   definition: "the names an older release of the library answered to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library answers to an older name as well as to the current name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here is reached by code written against the current names.",
     },
   ],

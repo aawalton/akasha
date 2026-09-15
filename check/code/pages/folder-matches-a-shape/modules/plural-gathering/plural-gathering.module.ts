@@ -6,21 +6,21 @@ export const pluralGathering = {
   slug: "plural-gathering",
   definition: "the page types gathering their pages under each plural name",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type gathers its pages under the plural that page type states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type stating no plural gathers its pages under no name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "More than one page type gathers its pages under one name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type is read as the change leaves that page type.",
     },
   ],

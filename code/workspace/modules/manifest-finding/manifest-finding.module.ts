@@ -6,25 +6,25 @@ export const manifestFinding = {
   slug: "manifest-finding",
   definition: "which manifests are in the tree, and the folder each one sits in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A package's folder is the folder its page sits in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page at the repository root has the root itself for its folder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type the index files no page under is answered as no packages.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name a manifest is held under is asked of the index.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An index naming no such file throws rather than answering no manifest.",
     },
   ],

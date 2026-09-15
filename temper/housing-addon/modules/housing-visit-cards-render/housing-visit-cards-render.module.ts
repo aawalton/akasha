@@ -6,9 +6,9 @@ export const housingVisitCardsRender = {
   slug: "housing-visit-cards-render",
   definition: "drawing one row for each received visit card",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A received card is kept in saved variables until the player removes that card.",
     },
   ],

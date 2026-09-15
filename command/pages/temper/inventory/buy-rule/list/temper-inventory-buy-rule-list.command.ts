@@ -6,17 +6,17 @@ export const temperInventoryBuyRuleList = {
   slug: "temper-inventory-buy-rule-list",
   definition: "the command naming every buy rule beside how far short of its target it falls",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each rule has the quantity held now.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The account the quantity is read from is Alan's unless `USER_ID` names another.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each rule has the shortfall against its target.",
     },
   ],

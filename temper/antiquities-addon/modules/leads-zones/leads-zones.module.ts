@@ -6,9 +6,9 @@ export const leadsZones = {
   slug: "leads-zones",
   definition: "the zones a lead is grouped under, the game's own and the invented ones",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An invented zone id sits above the highest id the game itself uses.",
     },
   ],

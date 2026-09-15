@@ -7,13 +7,13 @@ export const atlasPageDetail = {
   definition: "one page, drawn with its properties",
   code: "tsx",
   urlPath: ":pageTypeSlug/:pageHrefParam",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav page is drawn as the page that nav item points at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type reaching no page is looked for again among that type's descendants.",
     },
   ],

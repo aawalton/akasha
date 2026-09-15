@@ -6,9 +6,9 @@ export const companionsEquipmentRows = {
   slug: "companions-equipment-rows",
   definition: "the controls one gear section of the equipment panel is drawn from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Column positions are fixed numbers rather than measured from content.",
     },
   ],

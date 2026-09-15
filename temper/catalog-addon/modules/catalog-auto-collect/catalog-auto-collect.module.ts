@@ -6,13 +6,13 @@ export const catalogAutoCollect = {
   slug: "catalog-auto-collect",
   definition: "collecting on login whichever catalogs the saved table is still missing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing missing means the catalog is marked complete without any collector run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game version is written back only once the run is over.",
     },
   ],

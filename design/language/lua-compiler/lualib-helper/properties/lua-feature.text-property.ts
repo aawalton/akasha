@@ -8,13 +8,13 @@ export const luaFeature = {
   definition: "the lualib feature a helper is emitted as",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page stating no feature takes the feature its Lua export names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page states a feature where the export name that page would take is another page's.",
     },

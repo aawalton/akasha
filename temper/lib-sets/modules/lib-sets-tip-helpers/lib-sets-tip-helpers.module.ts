@@ -6,13 +6,13 @@ export const libSetsTipHelpers = {
   slug: "lib-sets-tip-helpers",
   definition: "the small text builders the set info line is assembled out of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each text is built once with icons and once without.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Favourite categories show as icons alone with no words.",
     },
   ],

@@ -6,22 +6,22 @@ export const scrollableMenuComboboxHeader = {
   slug: "scrollable-menu-combobox-header",
   definition: "the collapsible header of a dropdown and its remembered collapsed state",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The collapsed state is saved per combobox name in the account-wide saved variables.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A supplied collapsed option overrides and suppresses the saved state.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A combobox inside a scroll control is keyed by its parent's name instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Refreshing the header re-runs the width and height computation.",
     },
   ],

@@ -6,21 +6,21 @@ export const zimageExploreBatch = {
   slug: "zimage-explore-batch",
   definition: "a batch of prompt files rendered one after another",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A graph is posted straight at the daemon rather than through the command line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A prompt file names the image the render of that file lands as.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seed a render was drawn with is written beside the image.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A render answering no image before the deadline ends the batch.",
     },
   ],

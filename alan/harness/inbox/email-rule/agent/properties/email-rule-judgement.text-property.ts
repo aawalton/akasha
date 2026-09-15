@@ -8,13 +8,13 @@ export const emailRuleJudgement = {
   definition: "what an agent reaching a rule's mail is told to do with it",
   maxLength: 500,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A judgement opens with the act.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words after the act are why that act is worth an agent.",
     },
   ],

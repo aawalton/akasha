@@ -7,17 +7,17 @@ export const lokiManifests = {
   definition: "the namespace, configuration, deployment and service manifests Loki runs as",
   code: "ts",
   allowsTmpPaths: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pod template carries the hash of the loki-s3-creds secret.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keys hashed from the loki-s3-creds secret are access_key and secret_key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The pod template carries the hash of the loki-config configmap.",
     },
   ],

@@ -6,9 +6,9 @@ export const companionTypes = {
   slug: "companion-types",
   definition: "everything one saved companion build holds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A build names an equipped piece by slot rather than by a list of pieces.",
     },
   ],

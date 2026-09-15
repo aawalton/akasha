@@ -7,17 +7,17 @@ export const supervisorWaitResumeDecide = {
   definition: "whether a seat whose turn keeps dying is nudged now, and how long the next wait is",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A turn that did not end in a death decides nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat that died and was never nudged is nudged without waiting.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The wait doubles with each death past the second and stops at the maximum wait.",
     },
   ],

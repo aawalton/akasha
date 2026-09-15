@@ -6,13 +6,13 @@ export const componentIdentifier = {
   slug: "component-identifier",
   definition: "the name a view component carries in code",
   nameFormat: "name-format/upper-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A component is written where a type would be read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The file with a component is named in lower kebab like every other file.",
     },
   ],

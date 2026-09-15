@@ -6,14 +6,14 @@ export const dockerfileExtensions = {
   slug: "dockerfile-extensions",
   definition: "what an image adds to the Dockerfile written for it, read off the file beside it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "No reader here reaches `text-at`, because each answers undefined rather than nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reader here keeps empty text as empty text.",
     },
   ],

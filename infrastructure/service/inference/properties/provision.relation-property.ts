@@ -7,17 +7,17 @@ export const provision = {
   propertySlug: "provision",
   definition: "the script that builds the environment a service runs in",
   targetPageType: "page-type/shell-script",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folder that script sits in is the folder handed to the host.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two services provisioned the same way name one script.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The host runs that script with the service's name, its python and its folder.",
     },
   ],

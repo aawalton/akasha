@@ -6,9 +6,9 @@ export const queryShapes = {
   slug: "query-shapes",
   definition: "the little bit of armour and weapon shape a skill query needs to read",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A skill query reads the weight or the weapon type off a slot.",
     },
   ],

@@ -8,9 +8,9 @@ export const nodeId = {
   definition: "the name a node answers to inside its own tree",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a node of the same tree.",
     },
   ],

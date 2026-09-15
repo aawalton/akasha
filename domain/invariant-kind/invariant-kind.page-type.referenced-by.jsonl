@@ -1,8 +1,0 @@
-{"propertySlug":"import","fileName":"invariant-kind.page-type.types.ts","path":"domain/invariant-kind/pages/absence.invariant-kind.ts"}
-{"propertySlug":"import","fileName":"invariant-kind.page-type.types.ts","path":"domain/invariant-kind/pages/constraint.invariant-kind.ts"}
-{"propertySlug":"import","fileName":"invariant-kind.page-type.types.ts","path":"domain/invariant-kind/pages/departure.invariant-kind.ts"}
-{"propertySlug":"import","fileName":"invariant-kind.page-type.types.ts","path":"domain/invariant-kind/pages/gap.invariant-kind.ts"}
-{"propertySlug":"import","fileName":"invariant-kind.page-type.types.ts","path":"domain/invariant-kind/pages/stopgap.invariant-kind.ts"}
-{"propertySlug":"import","fileName":"invariant-kind.page-type.types.ts","path":"domain/invariant-kind/pages/upkeep.invariant-kind.ts"}
-{"propertySlug":"parts","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
-{"propertySlug":"target-page-type","path":"domain/properties/invariant-kind.relation-property.ts","id":"01a04d66-767b-740d-a958-1f84e5858ad0"}

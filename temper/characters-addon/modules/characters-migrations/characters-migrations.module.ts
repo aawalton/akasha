@@ -7,13 +7,13 @@ export const charactersMigrations = {
   definition:
     "the one-off repairs made to the saved table, each with the version it lifts a domain to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A repair runs once per domain and the version reached is written down.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A domain the saved table gives no version to counts as being at nought.",
     },
   ],

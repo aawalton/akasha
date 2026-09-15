@@ -6,17 +6,17 @@ export const wakeCommsInput = {
   slug: "wake-comms-input",
   definition: "a stored message row shaped as the input the wake rules read",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message from an agent is sent by the agent prefix and its id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message from anything else is sent by its source.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decides whether the message wakes anyone.",
     },
   ],

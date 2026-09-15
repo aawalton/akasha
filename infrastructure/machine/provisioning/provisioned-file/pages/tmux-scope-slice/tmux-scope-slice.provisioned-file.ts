@@ -10,17 +10,17 @@ export const tmuxScopeSlice = {
   onlyOn: "linux",
   installPath: "~/.config/systemd/user/tmux-.scope.d/10-seats.conf",
   reloadWith: "systemctl --user daemon-reload",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "tmux states app.slice on every scope tmux makes, and this states another.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name is the run of dashes systemd reads a drop-in for every tmux scope at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scope already running keeps the control group that scope was made in.",
     },
   ],

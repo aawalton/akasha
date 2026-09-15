@@ -6,13 +6,13 @@ export const renderHarness = {
   slug: "render-harness",
   definition: "the program that draws an app's tiles on a simulator",
   main: "swift",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which components the harness compiles is read from the app the harness is given.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An app naming no components draws nothing.",
     },
   ],

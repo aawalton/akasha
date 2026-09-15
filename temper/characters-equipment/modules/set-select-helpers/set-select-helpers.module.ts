@@ -7,9 +7,9 @@ export const setSelectHelpers = {
   definition:
     "the gear set picker's own list of choices, grouped by category and searchable by name",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The no-set choice is the first choice the picker offers.",
     },
   ],

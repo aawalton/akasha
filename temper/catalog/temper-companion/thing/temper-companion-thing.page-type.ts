@@ -8,9 +8,9 @@ export const temperCompanionThing = {
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/equip-type"],
   properties: [{ pageProperty: "number-property/equip-type", required: false, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every place a companion wears a thing is named by one number.",
     },
   ],

@@ -6,25 +6,25 @@ export const monarchAmazonLines = {
   slug: "monarch-amazon-lines",
   definition: "the Amazon movements in our copy that are still waiting for a note",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A movement is Amazon's where the merchant name says so.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row already carrying a note is passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Rows before the day this project began reading Amazon are passed over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which direction is wanted is asked of the caller.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Gmail or Monarch.",
     },
   ],

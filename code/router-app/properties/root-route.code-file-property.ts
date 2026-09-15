@@ -8,9 +8,9 @@ export const rootRoute = {
   definition: "the route every other route renders inside",
   extensions: ["tsx"],
   fileName: "root.tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Whether the root route shows a stack is read from `import.meta.env`, not from `process.env`.",
     },

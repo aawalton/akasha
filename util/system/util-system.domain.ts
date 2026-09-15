@@ -6,9 +6,9 @@ export const utilSystem = {
   slug: "util-system",
   definition: "what the Linux kernel says about the workstation, read from the files it says it in",
   parts: ["module/inode-guard", "module/landing-admission", "module/memory-guard"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Everything here reads a file only Linux has.",
     },
   ],

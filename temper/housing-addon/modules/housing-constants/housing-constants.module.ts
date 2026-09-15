@@ -6,9 +6,9 @@ export const housingConstants = {
   slug: "housing-constants",
   definition: "the tab, sort, filter and port-mode numbers the housing window works by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A number saved under a player's settings keeps the meaning that number had.",
     },
   ],

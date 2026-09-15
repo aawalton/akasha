@@ -6,9 +6,9 @@ export const mapDataPublicApi = {
   slug: "map-data-public-api",
   definition: "the names the library puts where every other add-on reaches them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name the game reads keeps its upstream spelling on the global table.",
     },
   ],

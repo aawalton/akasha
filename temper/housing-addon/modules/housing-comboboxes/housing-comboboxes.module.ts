@@ -6,9 +6,9 @@ export const housingComboboxes = {
   slug: "housing-comboboxes",
   definition: "the drop-downs listing a player's favourite houses",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A favourite chosen in a drop-down ports without a further click.",
     },
   ],

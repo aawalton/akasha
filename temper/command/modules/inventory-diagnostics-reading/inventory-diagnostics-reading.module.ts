@@ -8,36 +8,36 @@ export const inventoryDiagnosticsReading = {
     "one diagnostic the inventory addon left in its saved variables, found by walking the accounts",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The account the diagnostic sits under is found by walking rather than named by the caller.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first account with the diagnostic answers and the rest go unread.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A file that is absent or unreadable or missing its Default table is refused as data.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller rules on one account's own table rather than on the whole file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The refusal names the diagnostic looked for and the reader's steps to make that diagnostic exist.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller wanting absence as an answer picks rather than reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Picking and reading differ in nothing but what an absent diagnostic does.",
     },
   ],

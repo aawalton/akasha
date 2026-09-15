@@ -6,17 +6,17 @@ export const searchLevelFilter = {
   slug: "search-level-filter",
   definition: "the item level, narrowed by a range from 1 to 66 with a comparison operator",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The level filter also sets a level band on the server request.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The operator defaults to <= where the saved value names no operator.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level threshold with the != operator sets no server band.",
     },
   ],

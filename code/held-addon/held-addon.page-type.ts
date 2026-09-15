@@ -29,25 +29,25 @@ export const heldAddon = {
     { pageProperty: "boolean-property/ti-clean", required: false, many: false },
     { pageProperty: "text-property/ti-clean-blocked-reason", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon is a page here once the port has taken that addon over.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon the port has not taken over is no page here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key this page type does not declare is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name a page here states is judged against the addon manifests the tree has.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every addon the temper port has is a page here.",
     },
   ],

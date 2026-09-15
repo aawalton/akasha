@@ -6,18 +6,18 @@ export const pagesUnheld = {
   slug: "pages-unheld",
   definition: "a page read and a page written where nothing is held between calls",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page type the pages system does not hold is refused rather than read as nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal takes the shape its caller can carry.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement:
         "Nothing answers zero or null or the empty set for a page type the pages system cannot see.",
     },

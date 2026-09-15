@@ -7,17 +7,17 @@ export const supervisorSaying = {
   definition: "a line a supervisor says where the console will not take it",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A line the console throws over is written to standard error instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A line standard error throws over is dropped rather than thrown on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every line a saying says carries the mark that saying was made with.",
     },
   ],

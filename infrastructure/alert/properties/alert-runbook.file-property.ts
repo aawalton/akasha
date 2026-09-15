@@ -7,13 +7,13 @@ export const alertRunbook = {
   propertySlug: "runbook",
   definition: "what to check once an alert is raised",
   extensions: ["txt"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A runbook is prose rather than a rule anything runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A runbook outlives the deployment gap the alert that runbook belongs to sits in.",
     },
   ],

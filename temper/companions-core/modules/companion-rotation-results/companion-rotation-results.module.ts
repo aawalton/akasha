@@ -6,15 +6,15 @@ export const companionRotationResults = {
   slug: "companion-rotation-results",
   definition: "the totals a finished companion rotation adds up to",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Damage is totalled from extracted formula components rather than from timeline events.",
     },
-    { invariantKind: "invariant-kind/gap", statement: "The returned timeline is always empty." },
+    { decisionKind: "decision-kind/gap", statement: "The returned timeline is always empty." },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Uptime past the end of the cycle is trimmed off before the ratio is taken.",
     },
   ],

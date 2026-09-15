@@ -7,17 +7,17 @@ export const inventoryRuleControlled = {
   definition:
     "the rules the automation settings write for the player rather than the player writing them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A controlled rule is known by the shape of its id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A controlled rule is rewritten from the automation settings on every build.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A saved rule set with an older controlled rule is migrated to the current shape.",
     },
   ],

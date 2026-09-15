@@ -6,21 +6,21 @@ export const verdict = {
   slug: "verdict",
   definition: "a judgement on something measured, with what it covered and what it found",
   parts: ["module/reading-channel", "module/verdict-shape", "module/verdict-text"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failing judgement has at least one finding.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A judgement states the moment the judgement was observed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A finding naming no place reads as unattributed.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here measures anything.",
     },
   ],

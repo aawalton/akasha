@@ -6,21 +6,21 @@ export const chatDb = {
   slug: "chat-db",
   definition: "the questions asked of the message store and the rows that answer them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here opens the message store itself.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message whose text is empty is read from its typedstream body instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row whose message was already read is left out of the answer.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Unread counts only messages carried to Alan's own number within thirty days.",
     },
   ],

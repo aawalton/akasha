@@ -6,14 +6,14 @@ export const libSetsCoreSetChecking = {
   slug: "lib-sets-core-set-checking",
   definition: "whether a set id still exists in the game at the API version now running",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A set is judged to exist only when an item id of that set builds a link the game names.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A set id found inactive is remembered as inactive until the caches are cleared.",
     },
   ],

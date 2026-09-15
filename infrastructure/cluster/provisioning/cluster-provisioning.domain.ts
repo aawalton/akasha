@@ -11,13 +11,13 @@ export const clusterProvisioning = {
     "domain/talos",
     "shell-script/generate-certs",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "`pipeline-orchestrator` is not in the chain.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "`pipeline-orchestrator` ships as steps in the main pipeline's `preparation` workflow.",
     },

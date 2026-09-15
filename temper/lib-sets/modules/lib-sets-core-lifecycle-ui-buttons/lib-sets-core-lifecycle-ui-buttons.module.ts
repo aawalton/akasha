@@ -6,13 +6,13 @@ export const libSetsCoreLifecycleUiButtons = {
   slug: "lib-sets-core-lifecycle-ui-buttons",
   definition: "the extra button added to the set collections book's filter row",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The button is only built when the saved variables ask for the button.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The same function is published under a public key and an internal key.",
     },
   ],

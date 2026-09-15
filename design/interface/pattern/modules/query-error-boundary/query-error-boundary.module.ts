@@ -6,21 +6,21 @@ export const queryErrorBoundary = {
   slug: "query-error-boundary",
   definition: "the boundary showing a failed query's error where its content would be",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The boundary is a class.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "React offers no function form of an error boundary.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing is logged where an error is caught.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Trying again clears the error the boundary has.",
     },
   ],

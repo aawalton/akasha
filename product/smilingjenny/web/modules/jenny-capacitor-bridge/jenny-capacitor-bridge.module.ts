@@ -6,13 +6,13 @@ export const jennyCapacitorBridge = {
   slug: "jenny-capacitor-bridge",
   definition: "the push-notification plugin the native shell puts on the window",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plugin is read back only where the shell has every call this page states.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A plugin the shell does not have is read back as null rather than thrown over.",
     },
   ],

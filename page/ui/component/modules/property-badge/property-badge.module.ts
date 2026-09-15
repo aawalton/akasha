@@ -6,9 +6,9 @@ export const propertyBadge = {
   slug: "property-badge",
   definition: "the badge one property is shown as, drawn by the page type declaring it",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property no page type above it draws takes the badge beside page-property.",
     },
   ],

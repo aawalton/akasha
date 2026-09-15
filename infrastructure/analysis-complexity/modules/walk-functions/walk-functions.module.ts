@@ -6,13 +6,13 @@ export const walkFunctions = {
   slug: "walk-functions",
   definition: "every function a source file has, with the name and line each one is at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A function nested inside another is walked as a function of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A function with no name of its own is named by where that function is.",
     },
   ],

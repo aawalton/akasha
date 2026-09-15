@@ -6,9 +6,9 @@ export const leadsUnitList = {
   slug: "leads-unit-list",
   definition: "the sortable, filtered list of leads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The row this list draws is a virtual control the markup declares.",
     },
   ],

@@ -6,9 +6,9 @@ export const geoIo = {
   slug: "geo-io",
   definition: "a place on the earth looked for by name",
   parts: ["module/geoapify"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here has an api key.",
     },
   ],

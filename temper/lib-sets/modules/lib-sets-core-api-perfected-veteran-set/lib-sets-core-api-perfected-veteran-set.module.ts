@@ -6,9 +6,9 @@ export const libSetsCoreApiPerfectedVeteranSet = {
   slug: "lib-sets-core-api-perfected-veteran-set",
   definition: "whether a set is perfected, veteran, or outside the game's own set ids",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The published key GetPerfectedSetId is assigned again with a different function.",
     },
   ],

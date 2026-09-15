@@ -7,14 +7,14 @@ export const proseFrame = {
   propertySlug: "frame",
   definition: "the construction a replacement pair is written for",
   targetPageType: "page-type/prose-frame",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The plain word `frame` names what a screen draws in rather than what a word sits in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The frame a pair names is the frame a reader of the sentence's tree answers.",
     },
   ],

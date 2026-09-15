@@ -7,13 +7,13 @@ export const topicParents = {
   propertySlug: "parents",
   definition: "the topics a topic sits under",
   targetPageType: "page-type/all-about-alan-topic",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic lists nothing standing beneath that topic.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This edge is read inverted.",
     },
   ],

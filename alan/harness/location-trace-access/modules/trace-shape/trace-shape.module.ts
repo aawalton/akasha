@@ -6,18 +6,18 @@ export const traceShape = {
   slug: "trace-shape",
   definition: "what one recorded place carries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A trace states the phone the trace came from and the count that phone gave the trace.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Everything beyond the place and the moment is optional.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here exists at runtime.",
     },
   ],

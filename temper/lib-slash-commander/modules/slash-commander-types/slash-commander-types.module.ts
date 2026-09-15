@@ -6,17 +6,17 @@ export const slashCommanderTypes = {
   slug: "slash-commander-types",
   definition: "the shape of a command, a completion provider and the library global",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A class and the instances of that class are shaped apart.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A command has its subcommands in a set and its aliases in a map.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Finding the command for a token answers the command beside the token.",
     },
   ],

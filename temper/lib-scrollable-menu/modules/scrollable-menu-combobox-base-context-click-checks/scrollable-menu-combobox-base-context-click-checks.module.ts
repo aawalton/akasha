@@ -6,21 +6,21 @@ export const scrollableMenuComboboxBaseContextClickChecks = {
   slug: "scrollable-menu-combobox-base-context-click-checks",
   definition: "the two suppression checks around a click that lands outside the context menu",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The two checks are published on the library object rather than on a class.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A context menu click sets a preventer variable instead of returning a decision.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkbox or radio entry sets the suppression counter to two clicks.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Clicking away from the context menu clears the menu before the click is handled.",
     },
   ],

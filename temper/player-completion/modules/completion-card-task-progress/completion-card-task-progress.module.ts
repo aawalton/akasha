@@ -6,25 +6,25 @@ export const completionCardTaskProgress = {
   slug: "completion-card-task-progress",
   definition: "how far along one completion card is for one character, card by card",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card counted its own way is answered here before the generic count is reached.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card only a daily task names is unmeasured.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skill line a character cannot use is unmeasured for that character.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The antiquity-lore catalog is handed in rather than imported.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The antiquity-lore card is unanswered here.",
     },
   ],

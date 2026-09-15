@@ -7,13 +7,13 @@ export const configChecksum = {
   definition: "the hash a config the same code emits is summed to",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The hash is worked out from the config rather than asked of the cluster.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order the keys are written in leaves the hash the same hash.",
     },
   ],

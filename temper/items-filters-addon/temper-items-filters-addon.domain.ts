@@ -7,21 +7,21 @@ export const temperItemsFiltersAddon = {
   definition:
     "the filter panel a player narrows the inventory with, and the binding that narrows the rows",
   parts: ["module/filter-bar", "module/filter-bar-controls", "module/panel-filter-binding"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The filters offered here are the ones registered in `temper-items-filters-core`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The panel remembers the position the player dragged the window to.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decides whether an item passes a filter.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads an item off the guild trader.",
     },
   ],

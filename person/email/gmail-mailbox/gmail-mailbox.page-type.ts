@@ -12,17 +12,17 @@ export const gmailMailbox = {
     { pageProperty: "email-address-property/email-address", required: true, many: false },
     { pageProperty: "page-property-entry/processed-messages", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mailbox is named for the account rather than for the address.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every message a mailbox has been through sits beside that mailbox.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "The address sits under the address a person sends and receives at rather than a key of its own.",
     },

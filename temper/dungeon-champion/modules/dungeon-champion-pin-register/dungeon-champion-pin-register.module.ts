@@ -6,9 +6,9 @@ export const dungeonChampionPinRegister = {
   slug: "dungeon-champion-pin-register",
   definition: "telling LibMapPins and the compass what a champion pin looks like",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A compass pin shrinks as the compass pin moves away from the center.",
     },
   ],

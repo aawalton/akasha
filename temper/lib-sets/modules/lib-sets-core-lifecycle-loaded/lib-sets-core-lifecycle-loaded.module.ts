@@ -6,18 +6,18 @@ export const libSetsCoreLifecycleLoaded = {
   slug: "lib-sets-core-lifecycle-loaded",
   definition: "what happens once the game announces this add-on has loaded",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The live API version is whatever the client reports unless the constants already name a version.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Saved variables are loaded before any set data is read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A debug scan left running across a reload holds back the rest of the load.",
     },
   ],

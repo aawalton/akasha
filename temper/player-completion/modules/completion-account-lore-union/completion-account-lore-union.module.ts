@@ -6,9 +6,9 @@ export const completionAccountLoreUnion = {
   slug: "completion-account-lore-union",
   definition: "the shalidor books any one character of an account has read",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book read by one character counts as read for the account.",
     },
   ],

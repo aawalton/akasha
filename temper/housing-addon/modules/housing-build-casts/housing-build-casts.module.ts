@@ -6,13 +6,13 @@ export const housingBuildCasts = {
   slug: "housing-build-casts",
   definition: "the control shapes the housing window builders name",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here runs.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "A cast is how the ported add-on reaches a control the game types loosely.",
     },
   ],

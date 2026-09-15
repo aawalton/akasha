@@ -65,37 +65,37 @@ export const temperLibHistoire = {
     "type-declaration/lib-histoire-controls",
   ],
   interfaces: ["eso-interface/histoire-guild-history-cache-controls"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every event the game hands over is written to the saved variables.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category is linked only where its cached history reaches the present.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An add-on reads the cached events through a processor of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The older listener shape is kept reachable on top of the newer processor.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Cached events are worked through in the background rather than in one frame.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This library needs LibDebugLogger loaded first.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This library needs LibAsync loaded first.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This library needs LibAddonMenu-2.0 loaded first.",
     },
   ],

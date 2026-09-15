@@ -6,9 +6,9 @@ export const pagesByRelationContent = {
   slug: "pages-by-relation-content",
   definition: "a page type's pages, filtered and sorted, shown as a listing",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A listing whose filter went unasked says so in place of the pages.",
     },
   ],

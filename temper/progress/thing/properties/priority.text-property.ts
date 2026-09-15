@@ -8,12 +8,12 @@ export const priority = {
   definition: "how soon a task is wanted against its siblings",
   maxLength: 4,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A priority is written `p` before its number.",
     },
-    { invariantKind: "invariant-kind/departure", statement: "A lower number is wanted sooner." },
+    { decisionKind: "decision-kind/departure", statement: "A lower number is wanted sooner." },
   ],
   types: "ts",
 } as const satisfies TextProperty

@@ -6,17 +6,17 @@ export const cadwellCatalogSchema = {
   slug: "cadwell-catalog-schema",
   definition: "the zod schema reading the Cadwell completion catalog out of saved variables",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level has zones that have points of interest.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A zone has an order number.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A point of interest has an order number.",
     },
   ],

@@ -6,17 +6,17 @@ export const hudAddonTypes = {
   slug: "hud-addon-types",
   definition: "the shapes a HUD field, a HUD cell, a Temper command and the saved variables take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field states the order that field sits in the bar at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cell has its own color and its own transparency.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here calls a game function.",
     },
   ],

@@ -7,25 +7,25 @@ export const inFlightKeys = {
   definition:
     "keys each held by one claim at a time, a later claim refused until the key is let go",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A claim on a key nobody holds is taken, and a claim on a held key is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key let go is claimable again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Letting go a key nobody holds does nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each set of keys is its own, so one caller's claim never refuses another's.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Nothing lets a claim go on its own, so a holder that never lets go holds forever.",
     },

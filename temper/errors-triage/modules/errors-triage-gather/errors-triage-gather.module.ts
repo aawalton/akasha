@@ -6,22 +6,22 @@ export const errorsTriageGather = {
   slug: "errors-triage-gather",
   definition: "the deployed build ids an error is judged against, read off the addons folder",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A build id is read from the build-id file the addon build leaves beside an addon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon folder read for one error is not read again for a later error.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An addon folder with no readable build id is remembered as carrying no build id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error the game attributed reads only the attributed addon's build id.",
     },
   ],

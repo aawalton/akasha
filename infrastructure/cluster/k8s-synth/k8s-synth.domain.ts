@@ -13,13 +13,13 @@ export const k8sSynth = {
     "module/synth-manifests",
     "module/synth-running",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A generated manifest is written by the synth run rather than committed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A synth file is the code file of a `manifest` page the index answers.",
     },
   ],

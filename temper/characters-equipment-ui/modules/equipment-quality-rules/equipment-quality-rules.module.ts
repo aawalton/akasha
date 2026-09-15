@@ -6,13 +6,13 @@ export const equipmentQualityRules = {
   slug: "equipment-quality-rules",
   definition: "one equipment quality as a reader picks it and reads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quality a reader cannot pick is not offered.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The absence of a quality is shown muted rather than as a quality.",
     },
   ],

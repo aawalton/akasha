@@ -19,9 +19,9 @@ export const temperCharacterSkillActivation = {
     { pageProperty: "text-property/description-template", required: true, many: false },
     { pageProperty: "page-property-entry/activation-effects", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The slug of an activation is the skill the activation is of.",
     },
   ],

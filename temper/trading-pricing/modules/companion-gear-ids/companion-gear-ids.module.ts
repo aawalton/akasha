@@ -6,13 +6,13 @@ export const companionGearIds = {
   slug: "companion-gear-ids",
   definition: "the trait and the quality a piece of companion equipment is named by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every id here names one page under `temper-companions`.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "`@akasha/temper-companions-core` has a second table of these same ids.",
     },
   ],

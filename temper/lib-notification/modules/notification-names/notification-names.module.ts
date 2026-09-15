@@ -6,13 +6,13 @@ export const notificationNames = {
   slug: "notification-names",
   definition: "the two global names the game reads this library from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second load is refused on the plural name.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The singular name is kept for older addons asking by that name.",
     },
   ],

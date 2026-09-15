@@ -164,23 +164,23 @@ export const temper = {
     "rust-crate/watcher-tray",
     "service-workstation/temper-watcher",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Where a thing falls among its siblings is stated by `display-order` and by no other property.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type temper carries is worked out from the page types its pages state.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A property more than one page type carries is declared by a page type above those page types.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Every need a player has outside The Elder Scrolls Online is met by Temper.",
     },
   ],

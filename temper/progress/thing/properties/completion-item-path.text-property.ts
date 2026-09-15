@@ -8,9 +8,9 @@ export const completionItemPath = {
   definition: "one step of the way down a completion card to the item counted",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path is read in the order the page states each step.",
     },
   ],

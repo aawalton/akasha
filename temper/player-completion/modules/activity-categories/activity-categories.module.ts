@@ -6,17 +6,17 @@ export const activityCategories = {
   slug: "activity-categories",
   definition: "the kinds of thing there is to do in The Elder Scrolls Online",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from the activity-category pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Where a category falls in this table is the order the identifiers are read in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "Nothing proves the order of this table against the activity-category pages.",
     },
   ],

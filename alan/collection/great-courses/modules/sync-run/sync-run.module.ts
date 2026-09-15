@@ -6,17 +6,17 @@ export const syncRun = {
   slug: "sync-run",
   definition: "a run of a sync, failing as a unit where any item in the run failed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One item failing makes the whole run fail.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "No `sync-run` row is opened or settled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The run happens and is said aloud rather than refused for holding no row.",
     },
   ],

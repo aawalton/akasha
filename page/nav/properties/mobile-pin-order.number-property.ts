@@ -7,9 +7,9 @@ export const mobilePinOrder = {
   propertySlug: "mobile-pin-order",
   definition: "where a nav item sits among the few a phone pins",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A nav item stating nothing is not pinned.",
     },
   ],

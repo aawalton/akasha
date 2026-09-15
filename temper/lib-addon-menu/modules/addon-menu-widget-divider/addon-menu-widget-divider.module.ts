@@ -6,25 +6,25 @@ export const addonMenuWidgetDivider = {
   slug: "addon-menu-widget-divider",
   definition: "the horizontal rule widget of the settings panel",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Height is clamped between ten and fifty pixels.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Alpha defaults to one quarter when the widget data omits alpha.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No label belongs to the divider.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No tooltip belongs to the divider.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No value belongs to the divider.",
     },
   ],

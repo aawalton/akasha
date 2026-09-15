@@ -7,21 +7,21 @@ export const watcherTraySupervisor = {
   definition: "the worker process the tray spawns and spawns again",
   rust: "rs",
   moduleName: "supervisor",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A worker that exited on its own is spawned again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A worker the tray killed is left dead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The worker is looked at every five hundred milliseconds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The worker runs with no console window of its own.",
     },
   ],

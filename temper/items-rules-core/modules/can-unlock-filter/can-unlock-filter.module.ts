@@ -6,9 +6,9 @@ export const canUnlockFilter = {
   slug: "can-unlock-filter",
   definition: "the Can Unlock condition a rule may have, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `canUnlock` condition alone.",
     },
   ],

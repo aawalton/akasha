@@ -7,21 +7,21 @@ export const readerShell = {
   definition:
     "the reader a story read draws over its own chapters, with its alerts and its channel",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The chapters drawn are the chapters naming this story and no other.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is drawn until the chapters of the story have arrived.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story with no chapter of its own draws nothing at all.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No chapter's prose is fetched here, so the shell costs one row a chapter.",
     },
   ],

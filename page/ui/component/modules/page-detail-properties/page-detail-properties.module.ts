@@ -6,17 +6,17 @@ export const pageDetailProperties = {
   slug: "page-detail-properties",
   definition: "the property rows shown down the side of one page",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rows are drawn in the order their titles read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The order a page type declares its properties in is not read here.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No row here is dragged into an order of its own.",
     },
   ],

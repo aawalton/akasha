@@ -7,17 +7,17 @@ export const inventoryRuleConditionsShape = {
   definition: "the shape a rule's conditions hold, stated once for every reader of a rule",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every condition field a rule may state is named here with the shape it holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field this shape does not name is carried through rather than refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field this shape names is refused where its value is the wrong shape.",
     },
   ],

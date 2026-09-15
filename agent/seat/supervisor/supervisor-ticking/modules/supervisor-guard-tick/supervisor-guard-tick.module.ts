@@ -7,17 +7,17 @@ export const supervisorGuardTick = {
   definition: "a timer tick whose fault is handed to a handler rather than thrown",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tick that throws and a tick that rejects reach the same handler.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tick never rejects.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The timer that called a tick survives.",
     },
   ],

@@ -6,25 +6,25 @@ export const seatResolve = {
   slug: "seat-resolve",
   definition: "finding the page behind each slug a seat is given, or refusing with what is there",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A domain is found by its address first and by its bare slug after.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bare slug names whichever page claimed that slug first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slot stated twice is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The default a slot takes is read from the seat page type in akasha.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One refusal anywhere means nothing at all is assigned.",
     },
   ],

@@ -6,17 +6,17 @@ export const authProxyConfig = {
   slug: "auth-proxy-config",
   definition: "the settings the proxy reads out of its environment",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Loading this module reads the environment once and never again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting the environment does not name takes a stated default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A setting the environment spells wrongly stops the proxy from starting.",
     },
   ],

@@ -6,9 +6,9 @@ export const skyshardsData = {
   slug: "skyshards-data",
   definition: "every zone the add-on knows a skyshard in, gathered from three runs in order",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The runs are gathered in the order the whole table names.",
     },
   ],

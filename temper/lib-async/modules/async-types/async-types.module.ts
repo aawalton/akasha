@@ -6,13 +6,13 @@ export const asyncTypes = {
   slug: "async-types",
   definition: "the shapes a task, the task class and the library table take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A task has a callstack rather than a Lua coroutine.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every method on a task answers the task so calls chain.",
     },
   ],

@@ -6,9 +6,9 @@ export const destinationsLangSettingsFr = {
   slug: "destinations-lang-settings-fr",
   definition: "the destinations settings strings in French, joined from its runs",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the runs joined in order.",
     },
   ],

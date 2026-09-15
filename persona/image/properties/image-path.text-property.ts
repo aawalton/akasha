@@ -8,13 +8,13 @@ export const imagePath = {
   definition: "where a picture is, read against the root it names",
   maxLength: 300,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path already absolute is read as that path is rather than against a root.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path is written as the file is named rather than as a slug is written.",
     },
   ],

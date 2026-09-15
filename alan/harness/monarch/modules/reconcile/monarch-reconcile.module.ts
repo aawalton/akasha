@@ -7,32 +7,32 @@ export const monarchReconcile = {
   definition:
     "our copy weighed against what Monarch listed, and what Monarch no longer lists retired",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A row Monarch no longer lists is retired on the fetched window rather than on a missing id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reconciliation retiring more than a twentieth of the rows weighed is refused.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Nothing is retired where the ceiling is passed rather than the first rows being taken.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A window is cut by the day a transaction fell on rather than by the month its page has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pending row Monarch no longer lists is cleared.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The scope reconciled against is named in the refusal.",
     },
   ],

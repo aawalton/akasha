@@ -6,13 +6,13 @@ export const libSetsDebugDebugIndex = {
   slug: "lib-sets-debug-debug-index",
   definition: "the order the debug modules are loaded in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The order these modules are loaded in is the order their effects happen.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This file has imports and nothing else.",
     },
   ],

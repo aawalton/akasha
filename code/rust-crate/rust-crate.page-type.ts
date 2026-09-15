@@ -23,33 +23,33 @@ export const rustCrate = {
     { pageProperty: "code-file-property/cargo-build-script", required: false, many: false },
     { pageProperty: "file-property/crate-icon", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A crate states what Cargo reads about that crate in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A crate names every module that crate compiles.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A module named by more than one crate is a shared module.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A module no crate names is compiled into nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A crate Cargo prepares states the script Cargo runs first.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seam copies a crate's files to the names Cargo reads.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A crate's icon is carried as text and written out by that same seam.",
     },
   ],

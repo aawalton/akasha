@@ -6,17 +6,17 @@ export const conditionEvaluator = {
   slug: "condition-evaluator",
   definition: "how a companion skill's conditions are resolved during a rotation",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An unrecognised condition type is treated as satisfied.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A health threshold's uptime is estimated from the enemy's starting health.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Health-threshold conditions are the only kind contributing to the effective multiplier.",
     },

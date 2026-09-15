@@ -6,9 +6,9 @@ export const coursesQuery = {
   slug: "courses-query",
   definition: "the `great-course` pages the store holds, indexed by the catalogue id each has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row holding no id or no slug is left out of the index.",
     },
   ],

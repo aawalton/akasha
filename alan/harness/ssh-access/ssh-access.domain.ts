@@ -6,13 +6,13 @@ export const sshAccess = {
   slug: "ssh-access",
   definition: "how a script is run on another machine over ssh and its output read back",
   parts: ["module/ssh-reach", "module/ssh-target"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every machine reached from here is reached the one way.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows the purpose of any script this package has.",
     },
   ],

@@ -24,9 +24,9 @@ export const singability = {
     "S",
     "S+",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A singability is graded on the ladder a rank is graded on.",
     },
   ],

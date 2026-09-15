@@ -6,9 +6,9 @@ export const companionRoles = {
   slug: "companion-roles",
   definition: "every combination of duties a companion is built to cover",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This table is written out from the companion pages rather than by hand.",
     },
   ],

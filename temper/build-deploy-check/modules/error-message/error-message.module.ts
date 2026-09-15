@@ -6,9 +6,9 @@ export const errorMessage = {
   slug: "error-message",
   definition: "the message read off a thrown value of any shape",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A thrown value that renders to nothing still answers with a message.",
     },
   ],

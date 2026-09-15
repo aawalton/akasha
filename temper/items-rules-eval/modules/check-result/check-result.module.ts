@@ -8,18 +8,18 @@ export const checkResult = {
     "the result kinds one condition checker may return, being the condition results plus skip",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checker's skip kind is distinct from the passing kind.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A list condition holding what is no list answers the misshapen kind naming what it held.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every non-skip kind comes unchanged from the shared condition result type.",
     },
   ],

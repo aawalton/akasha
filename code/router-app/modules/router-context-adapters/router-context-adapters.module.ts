@@ -6,18 +6,18 @@ export const routerContextAdapters = {
   slug: "router-context-adapters",
   definition: "the React Router pathname, query and link handed to the framework-free contexts",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The layout context and the pages-ui context are filled from the same host router.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A router app mounts these adapters rather than filling either context itself.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names an app or a route.",
     },
   ],

@@ -18,14 +18,14 @@ export const intentStack = {
       many: false,
     },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An intent says only a thing that is not yet so.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "An intent is a gap rather than stating which kind of invariant that intent is.",
+      decisionKind: "decision-kind/departure",
+      statement: "An intent is a gap rather than stating which kind of decision that intent is.",
     },
   ],
   types: "ts",

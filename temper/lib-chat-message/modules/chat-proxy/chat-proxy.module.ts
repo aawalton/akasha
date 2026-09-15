@@ -6,17 +6,17 @@ export const chatProxy = {
   slug: "chat-proxy",
   definition: "the handle an addon prints tagged chat messages through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tag color is cleared once the tag carrying that color has been built.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Calling the library object itself makes a new proxy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A disabled proxy prints nothing.",
     },
   ],

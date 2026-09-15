@@ -6,9 +6,9 @@ export const grimoireTemplate = {
   slug: "grimoire-template",
   definition: "the shape a scribing grimoire carries with its compatible scripts",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A grimoire names every script that may combine into a scribed skill.",
     },
   ],

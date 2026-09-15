@@ -7,21 +7,21 @@ export const codeEditorWindow = {
   definition: "one open window of the editor",
   extends: ["page-type/page"],
   mortal: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window's page is made by the first write of that window.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A closed window's page goes in the hourly sweep rather than at once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window's page goes by its slug naming a process that is gone.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No page is written for a window's groups or for a window's tabs.",
     },
   ],

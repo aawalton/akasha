@@ -8,29 +8,29 @@ export const measureComplexityHalstead = {
     "the command saying each function's token counts, and the volume, difficulty, effort, time and bugs",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Halstead counts a function's distinct and total operators and operands.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Volume, difficulty, effort, time and bugs follow from those four counts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A type annotation and a comment are outside the counts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row is one function, and the rows are ordered by volume, highest first.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here refuses a body for being complex.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cutoff keeps the rows whose volume is at or over it.",
     },
   ],

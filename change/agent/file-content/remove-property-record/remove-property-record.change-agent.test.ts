@@ -20,9 +20,9 @@ const AT = "change/modules/held/held.module.ts"
 
 const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
 
-const FIRST = '{ invariantKind: "departure", statement: "the first" }'
+const FIRST = '{ decisionKind: "departure", statement: "the first" }'
 
-const SECOND = '{ invariantKind: "gap", statement: "the second" }'
+const SECOND = '{ decisionKind: "gap", statement: "the second" }'
 
 const BODY = `import type { Module } from "@akasha/code/module"
 
@@ -31,7 +31,7 @@ export const held = {
   pageTypeSlug: "module",
   slug: "held",
   code: "ts",
-  invariants: [
+  decisions: [
     ${FIRST},
     ${SECOND},
   ],
@@ -44,7 +44,7 @@ function worldTold(): World {
   return worldFor(PAGE, BODY, running)
 }
 
-const ASKED = { at: AT, key: "invariants", where: "statement", is: "the first" }
+const ASKED = { at: AT, key: "decisions", where: "statement", is: "the first" }
 
 test("the record a match names is taken out", async () => {
   const said = await removePropertyRecord(worldTold(), ASKED)
@@ -59,11 +59,11 @@ test("text no record states is refused", async () => {
   const said = await removePropertyRecord(worldTold(), { ...ASKED, is: "the third" })
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toMatch(/no record under `invariants` states that text/)
+  expect(said.refused ?? "").toMatch(/no record under `decisions` states that text/)
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {
-  const said = await runChange(worldTold(), { at: AT, key: "invariants", where: "statement" })
+  const said = await runChange(worldTold(), { at: AT, key: "decisions", where: "statement" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`is` names what this change is handed/)

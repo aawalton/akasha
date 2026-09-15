@@ -6,21 +6,21 @@ export const authoring = {
   slug: "authoring",
   definition: "the books Alan writes with a persona",
   parts: ["page-type/book-record"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book here is built in sessions between Alan and a persona.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every page kept here is kept about a book rather than inside the book.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A book Alan writes is not a book Alan reads.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The books themselves are outside akasha.",
     },
   ],

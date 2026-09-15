@@ -6,17 +6,17 @@ export const compareKey = {
   slug: "compare-key",
   definition: "text lowered to letters and digits parted by single spaces, for comparing against",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A run of anything but a letter or a digit becomes one space.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key carries no space at either end.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A letter outside the English alphabet is no letter here.",
     },
   ],

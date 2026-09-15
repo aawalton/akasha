@@ -17,17 +17,17 @@ export const temperAchievementCategory = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "page-property-entry/achievements", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A heading stating a parent is a subcategory of the heading the parent names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A heading has the achievements the game files directly under that heading.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The category tells apart the account tally from the character tally.",
     },
   ],

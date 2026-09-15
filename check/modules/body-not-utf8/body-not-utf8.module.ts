@@ -6,9 +6,9 @@ export const bodyNotUtf8 = {
   slug: "body-not-utf8",
   definition: "the words refusing a body whose bytes are not utf8, with what was read of them",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The refusal names the source the command read and how many bytes were there and the leading bytes.",
     },

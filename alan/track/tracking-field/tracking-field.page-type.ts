@@ -6,21 +6,21 @@ export const trackingField = {
   slug: "tracking-field",
   definition: "one aspect of Alan that takes a value each time it is observed",
   extends: ["page-type/page-property"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field is observed rather than set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each value a field has is one observation.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "How a field's values come to exist is a capture the field names.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No property here declares the capture a field names.",
     },
   ],

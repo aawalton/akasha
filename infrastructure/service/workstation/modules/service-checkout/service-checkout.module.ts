@@ -6,13 +6,13 @@ export const serviceCheckout = {
   slug: "service-checkout",
   definition: "the checkout a workstation service's run reads and writes under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The checkout is the one the environment a unit states names.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A run the environment names no checkout for works under the directory that run started in.",
     },

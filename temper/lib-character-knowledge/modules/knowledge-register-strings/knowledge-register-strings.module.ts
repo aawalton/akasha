@@ -6,9 +6,9 @@ export const knowledgeRegisterStrings = {
   slug: "knowledge-register-strings",
   definition: "the text put where the game reads it, in the client's tongue",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tongue the library has no text for falls back to English.",
     },
   ],

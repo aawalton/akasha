@@ -6,21 +6,21 @@ export const fileBacking = {
   slug: "file-backing",
   definition: "which page types are kept in files rather than in the database",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The roster names the page types kept in files and no other page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type the roster does not name is answered unknown rather than database.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A road to a page type's pages is never guessed.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The backing of a page type the roster leaves out is read from somewhere.",
     },
   ],

@@ -24,17 +24,17 @@ export const temperRule = {
     { pageProperty: "text-property/destination", required: false, many: false },
     { pageProperty: "select-property/stock-scope", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property both a template and a rule in force carries is declared here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a rule whose action moves an item states a destination.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A rule's action on an item is done outside these pages.",
     },
   ],

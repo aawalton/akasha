@@ -7,13 +7,13 @@ export const eligibilityPredicateComposer = {
   definition:
     "one test of whether a character suits a rule, made from every character condition it has",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character failing one condition fails the whole test.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A condition whose reader the context lacks is passed over.",
     },
   ],

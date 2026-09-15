@@ -6,9 +6,9 @@ export const companionQualityRules = {
   slug: "companion-quality-rules",
   definition: "the variant and text class a companion equipment quality is drawn in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A quality that is no quality is drawn muted and has no text class.",
     },
   ],

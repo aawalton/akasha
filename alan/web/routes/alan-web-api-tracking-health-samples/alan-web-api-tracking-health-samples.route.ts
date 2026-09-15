@@ -7,9 +7,9 @@ export const alanWebApiTrackingHealthSamples = {
   definition: "the health samples a device sends in",
   code: "ts",
   urlPath: "api/tracking/health-samples",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sender is known by its device secret rather than by a session.",
     },
   ],

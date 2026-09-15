@@ -8,21 +8,21 @@ export const pluralSlug = {
   definition: "the name many pages of a page type are gathered under",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type states this where many of its pages are gathered under one name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The plural is stated here rather than worked out from the slug.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type whose pages are gathered nowhere states nothing here.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A folder shape naming a page type's plural still spells that plural itself.",
     },
   ],

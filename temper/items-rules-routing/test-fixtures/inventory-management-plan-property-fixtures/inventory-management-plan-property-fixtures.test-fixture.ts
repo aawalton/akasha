@@ -6,13 +6,13 @@ export const inventoryManagementPlanPropertyFixtures = {
   slug: "inventory-management-plan-property-fixtures",
   definition: "the generated holdings and rules the plan's property tests are built from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scenario puts every affected item on the same character's backpack.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A capacity scenario fills the bank to a stated number of free slots.",
     },
   ],

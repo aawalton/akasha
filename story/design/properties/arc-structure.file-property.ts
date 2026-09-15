@@ -7,14 +7,14 @@ export const arcStructure = {
   propertySlug: "arc-structure",
   definition: "the arcs a story is planned to run through",
   extensions: ["md"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An arc structure is a document beside its design rather than a line in the design.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An arc structure names every arc the story is planned to run through.",
     },
   ],

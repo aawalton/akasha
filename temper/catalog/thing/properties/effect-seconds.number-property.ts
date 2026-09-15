@@ -7,9 +7,9 @@ export const effectSeconds = {
   propertySlug: "seconds",
   definition: "how long an effect lasts",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An effect stating no seconds lasts as long as the thing carrying the effect.",
     },
   ],

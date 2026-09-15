@@ -56,29 +56,29 @@ export const chessGame = {
     { pageProperty: "select-property/chess-outcome", required: false, many: false },
     { pageProperty: "file-property/pgn", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A game's moves are beside the page rather than in the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A game Alan played names the side Alan took and how the game went for Alan.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A game nobody here played names the source the game was taken from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A drawn game names `draw` as its winner.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A game opening from a position rather than the first rank names that position.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The names and prose here are the record's rather than akasha's own.",
     },
   ],

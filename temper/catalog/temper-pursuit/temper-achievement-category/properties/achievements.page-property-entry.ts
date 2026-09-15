@@ -12,14 +12,14 @@ export const achievements = {
     { pageProperty: "number-property/achievement-points", required: true, many: false },
     { pageProperty: "number-property/total-steps", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An achievement here is an achievement the game files under the heading with the line.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The lines run in ascending order of the achievement id.",
     },
   ],

@@ -6,13 +6,13 @@ export const warm = {
   slug: "warm",
   propertySlug: "warm",
   definition: "whether the pool holds a service up before anything asks for it",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A service saying nothing here comes up when it is first asked for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only a service the pool fronts is held up this way.",
     },
   ],

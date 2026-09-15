@@ -7,9 +7,9 @@ export const directiveKind = {
   definition: "which sort one directive is",
   parts: ["directive-kind/principle", "directive-kind/rule"],
   extends: ["page-type/domain"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every kind of directive is the same four lines and differs in that kind's definition.",
     },

@@ -6,9 +6,9 @@ export const completionCardId = {
   slug: "completion-card-id",
   definition: "the identity of a completion card, counting the five that only a daily task names",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Five task identifiers are named here that the category tree never holds.",
     },
   ],

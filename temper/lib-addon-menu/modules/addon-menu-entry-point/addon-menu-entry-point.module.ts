@@ -6,13 +6,13 @@ export const addonMenuEntryPoint = {
   slug: "addon-menu-entry-point",
   definition: "the sole import that names the published surface",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code runs here beyond the import itself.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The file is one line long.",
     },
   ],

@@ -11,13 +11,13 @@ export const monarchTag = {
     { pageProperty: "text-property/tag-colour", required: true, many: false },
     { pageProperty: "number-property/tag-place", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tag is made in Monarch by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here creates a tag.",
     },
   ],

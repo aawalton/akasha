@@ -6,13 +6,13 @@ export const orderListBoxDragMethods = {
   slug: "order-list-box-drag-methods",
   definition: "the methods a row's drag runs from mouse down through to mouse up",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A drag past the top or the foot of the list scrolls the list.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A mouse up outside the list aborts the drag rather than dropping.",
     },
   ],

@@ -6,9 +6,9 @@ export const select = {
   slug: "select",
   definition: "the property type storing a single choice from a list of options",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The options a property declares are read here rather than by each reader.",
     },
   ],

@@ -11,26 +11,26 @@ export const monarchCategory = {
     { pageProperty: "text-property/category-group", required: false, many: false },
     { pageProperty: "select-property/category-group-type", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A category is partly a choice of budget rather than only a fact about the purchase.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An archived category takes no rule.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category is named as Monarch titles it.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A merge or a rename in Monarch warns nobody here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category with no group is a category Alan wrote and Monarch never had.",
     },
   ],

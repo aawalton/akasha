@@ -253,21 +253,21 @@ export const temperLibSets = {
     "eso-interface/lib-sets-search-ui-shared-xml",
     "eso-interface/lib-sets-search-ui-keyboard-xml",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A caller reaches this library through a game global rather than an import.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Set data is taken from the upstream library at a pinned commit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A set is looked up by its numeric set id.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Japanese is not among the languages the library counts as supported.",
     },
   ],

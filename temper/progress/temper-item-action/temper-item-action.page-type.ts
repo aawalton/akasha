@@ -7,13 +7,13 @@ export const temperItemAction = {
   definition: "one thing an item rule does to an item the rule matches",
   extends: ["page-type/temper-progress-thing"],
   properties: [{ pageProperty: "text-property/description", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The slug is the action an item rule writes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The title is the action a reader is shown.",
     },
   ],

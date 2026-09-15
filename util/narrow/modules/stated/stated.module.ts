@@ -6,17 +6,17 @@ export const stated = {
   slug: "stated",
   definition: "text as it was written, or nothing where nothing was written",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text written as nothing at all is nothing rather than empty text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text already nothing stays nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Text carrying a space is text, because a space was written.",
     },
   ],

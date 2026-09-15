@@ -21,32 +21,32 @@ export const spotify = {
     "module/spotify-token-store",
     "module/spotify-tracks",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An unpaced sweep of the Web API bans the account for about a day.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every call to the Web API goes through one paced queue.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The token and the consent handoff are kept outside the repository.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Consent is given once at a terminal rather than by a running callback server.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here decides the use made of the Web API's answers.",
     },
-    { invariantKind: "invariant-kind/departure", statement: "Every module here has a test." },
+    { decisionKind: "decision-kind/departure", statement: "Every module here has a test." },
   ],
   directives: [
     {

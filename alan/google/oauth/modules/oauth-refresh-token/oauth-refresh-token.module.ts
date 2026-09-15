@@ -6,21 +6,21 @@ export const oauthRefreshToken = {
   slug: "oauth-refresh-token",
   definition: "the credentials a Google call is made with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One consent mints one token, and calendar, drive and mail all read that token.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A token minted for one product alone is read where the shared token is unset.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The token is read from the environment at the moment the token is asked for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The app's own id and secret are answered beside the token as one credential set.",
     },
   ],

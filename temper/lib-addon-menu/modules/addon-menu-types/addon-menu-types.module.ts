@@ -6,21 +6,21 @@ export const addonMenuTypes = {
   slug: "addon-menu-types",
   definition: "the declared shape of every widget's data table and of the control it becomes",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Any widget field may be a value or a function returning that value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One control interface has the fields of every widget type as optional.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Value-bearing widgets require both a getFunc and a setFunc.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No declaration in this file emits Lua.",
     },
   ],

@@ -16,21 +16,21 @@ export const temperErrorsAddon = {
     "module/errors-addon-record",
     "module/errors-addon-traceback",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error raised before the add-on loads is recorded once loading finishes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two errors sharing one callstack are kept as one entry under a count.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error is blamed on the add-on folder its callstack names.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the recorded errors back.",
     },
   ],

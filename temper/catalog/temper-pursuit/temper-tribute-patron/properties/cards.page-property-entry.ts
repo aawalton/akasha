@@ -11,9 +11,9 @@ export const cards = {
     { pageProperty: "text-property/base-card-name", required: true, many: false },
     { pageProperty: "text-property/upgrade-card-name", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A card here is a card a patron lets a player upgrade.",
     },
   ],

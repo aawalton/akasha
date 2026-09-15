@@ -10,22 +10,22 @@ export const childCollection = {
     { pageProperty: "relation-property/child-type", required: true, many: false },
     { pageProperty: "text-property/child-relation", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page gathers pages of one page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The gathered page names the page gathering that gathered page rather than the other way about.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "Each key here repeats this record's name.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The reader outside names that key so.",
     },
   ],

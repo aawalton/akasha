@@ -12,25 +12,25 @@ export const namedExtensionProperty = {
     { pageProperty: "boolean-property/holds-bytes", required: false, many: false },
     { pageProperty: "boolean-property/runs-file-length", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The property speaks for every file beside the page with that extension.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A file under a folder beside the page is left to the folder's own property.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page beside those files claims them, so nothing names each file one at a time.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying these files hold bytes says so of every one of them.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A property saying these files are judged for no length says so of each of them.",
     },
   ],

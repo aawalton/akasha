@@ -6,9 +6,9 @@ export const asyncCasts = {
   slug: "async-casts",
   definition: "the assertions handing an untyped Lua value to TypeScript as a named shape",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A cast here changes no value.",
     },
   ],

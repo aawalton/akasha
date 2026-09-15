@@ -6,17 +6,17 @@ export const sessionWatch = {
   slug: "session-watch",
   definition: "a live transcript found and recorded, and streamed as it is written",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transcript is found whether or not an object store is configured.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transcript found is recorded on the seat before anything is streamed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transcript is streamed only where an object store is configured.",
     },
   ],

@@ -6,9 +6,9 @@ export const mapDataIndex02 = {
   slug: "map-data-index-02",
   definition: "part 02 of what each map index names by texture, zone and subzone",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "These rows are the rows upstream LibMapData v1.21 states.",
     },
   ],

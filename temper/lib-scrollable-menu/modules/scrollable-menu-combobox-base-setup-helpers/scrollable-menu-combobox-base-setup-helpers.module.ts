@@ -6,21 +6,21 @@ export const scrollableMenuComboboxBaseSetupHelpers = {
   slug: "scrollable-menu-combobox-base-setup-helpers",
   definition: "the per-part builders that attach an icon, arrow, divider, label or button to a row",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A named child control is found once and then cached on the row.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A radio or checkbox button joins a group keyed by entry type and group index.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A checkbox without a right-click callback is given the library default callback.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A button group is created only where the entry declares a numeric group index.",
     },
   ],

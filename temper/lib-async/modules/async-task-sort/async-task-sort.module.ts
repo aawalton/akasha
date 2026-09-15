@@ -6,17 +6,17 @@ export const asyncTaskSort = {
   slug: "async-task-sort",
   definition: "a quicksort broken into steps a task runs across frames",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A partition runs as its own step.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The smaller side is sorted before the larger side.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A comparison that never settles raises an error.",
     },
   ],

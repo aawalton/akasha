@@ -6,17 +6,17 @@ export const dataEncodeRuntime = {
   slug: "data-encode-runtime",
   definition: "whether the library is logging and where a log line is sent",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A log line is sent to the debug logger addon where that addon is loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A log line goes nowhere where the library is not in debug.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "Debug is on for a single named account and for no other account.",
     },
   ],

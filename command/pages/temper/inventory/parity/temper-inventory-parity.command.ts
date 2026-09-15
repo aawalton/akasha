@@ -7,17 +7,17 @@ export const temperInventoryParity = {
   definition: "the command ruling whether the addon's trace of an item matches a fresh evaluation",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The inputs are compared before the walks.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The character the trace was captured from is named on the call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stored trace for another item refuses the call.",
     },
   ],

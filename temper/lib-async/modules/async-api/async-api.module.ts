@@ -6,21 +6,21 @@ export const asyncApi = {
   slug: "async-api",
   definition: "the functions the library hands to every other addon",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller with no task of its own runs on the default task.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The default task cannot be cancelled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The default task takes no finally step and no error step.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stall threshold set by slash command is bounded at both ends.",
     },
   ],

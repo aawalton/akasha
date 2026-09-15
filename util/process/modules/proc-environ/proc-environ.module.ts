@@ -6,17 +6,17 @@ export const procEnviron = {
   slug: "proc-environ",
   definition: "one environment variable read off one process by its pid",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A process whose environ will not open answers null rather than refusing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The value is split off the environ the way proc-reading splits that environ.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows an environment variable's meaning.",
     },
   ],

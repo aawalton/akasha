@@ -6,14 +6,14 @@ export const libSetsConstDropmechanics = {
   slug: "lib-sets-const-dropmechanics",
   definition: "the forty ways a gear set can drop, each given a number",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Each drop mechanic name is declared as a game global rather than a member of a table.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library declares zone ids the game does not have.",
     },
   ],

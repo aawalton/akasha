@@ -7,9 +7,9 @@ export const componentCode = {
   propertySlug: "code",
   definition: "the code a component is",
   extensions: ["tsx"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written in TSX.",
     },
   ],

@@ -8,21 +8,21 @@ export const inboxStoplights = {
   code: "ts",
   test: "ts",
   urlPath: "api/inbox-stoplights",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key each reading travels under is `inbox` rather than `habit`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The tile shipped against this reads that key as text that is always there.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every readout the inboxes group admits answers a ring of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Both inbox scales fall rather than climb.",
     },
   ],

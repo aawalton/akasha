@@ -7,9 +7,9 @@ export const specializedItemTypeConstants = {
   definition:
     "the specialized item type numbers the game client has, each under the client's own name",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each number is read out of the client rather than written down here.",
     },
   ],

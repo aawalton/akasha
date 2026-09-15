@@ -6,9 +6,9 @@ export const mapPinsFishingBugFix = {
   slug: "map-pins-fishing-bug-fix",
   definition: "the fishing holes the game misplaces, corrected",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

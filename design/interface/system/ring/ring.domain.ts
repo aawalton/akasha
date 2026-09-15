@@ -6,34 +6,34 @@ export const ring = {
   slug: "ring",
   definition: "a reading drawn as an arc around the figure it reads",
   parts: ["domain/budget-ring", "domain/completion-ring", "domain/stoplight-ring"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A ring is one of two sizes.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The small ring is the size three small rings span a small tile at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The large ring fills a small tile alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every arc starts at twelve o'clock and sweeps clockwise.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The figure sits inside the ring and the label below that ring.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A ring leaves slack above its label rather than taking every point the label does not.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The emoji a ring draws in place of itself is drawn at the size the ring draws rather than is given.",
     },

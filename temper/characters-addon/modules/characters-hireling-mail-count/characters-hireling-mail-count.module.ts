@@ -6,9 +6,9 @@ export const charactersHirelingMailCount = {
   slug: "characters-hireling-mail-count",
   definition: "a day's tally of hireling mails looted, and the tally a day is done at",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A tally with yesterday's date counts as nothing looted today.",
     },
   ],

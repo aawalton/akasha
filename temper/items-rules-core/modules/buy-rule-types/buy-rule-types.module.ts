@@ -6,13 +6,13 @@ export const buyRuleTypes = {
   slug: "buy-rule-types",
   definition: "the shape of a rule saying how many of one item to keep bought",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A buy rule names one item and one target quantity.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A merchant is the only source a buy rule buys from.",
     },
   ],

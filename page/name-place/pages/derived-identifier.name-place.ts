@@ -6,13 +6,13 @@ export const derivedIdentifier = {
   slug: "derived-identifier",
   definition: "the name a value carries inside the function working it out",
   nameFormat: "name-format/lower-camel-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name inside a function belongs to one call rather than to the file.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A parameter the body does not read opens with an underscore.",
     },
   ],

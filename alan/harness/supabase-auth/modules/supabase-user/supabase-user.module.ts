@@ -6,9 +6,9 @@ export const supabaseUser = {
   slug: "supabase-user",
   definition: "who Supabase says a user is, narrowed to the id and the address",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing Supabase holds about a user beyond these two is carried.",
     },
   ],

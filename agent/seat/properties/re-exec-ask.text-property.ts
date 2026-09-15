@@ -8,17 +8,17 @@ export const reExecAsk = {
   definition: "the standing of a seat's request to re-exec its supervisor",
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An ask that has been taken up is kept rather than cleared.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat that has asked for nothing states nothing here.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The standings an ask can be in are no pages.",
     },
   ],

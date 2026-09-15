@@ -6,13 +6,13 @@ export const isPriceEntry = {
   slug: "is-price-entry",
   definition: "whether a branch of a price dump is a price rather than a further branch",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A branch with a price field is a price.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every lookup asks here rather than asking the same question its own way.",
     },
   ],

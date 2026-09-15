@@ -6,21 +6,21 @@ export const setIds = {
   slug: "set-ids",
   definition: "every Elder Scrolls Online gear set a character may wear, named as one type",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This union is written out from the set pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This union names exactly the set keys the set pages have.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "One module with all 707 set ids would pass the byte ceiling.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A set page added while this union is left alone cannot be named in typed code.",
     },
   ],

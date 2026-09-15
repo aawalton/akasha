@@ -6,13 +6,13 @@ export const inventoryManagementPlanCapacity = {
   slug: "inventory-management-plan-capacity",
   definition: "how many free slots each place holds and which stacks merge into each other",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two stacks of one item merge only where the game lets that item stack.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A place absent from the captured holdings has no free slots.",
     },
   ],

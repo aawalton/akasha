@@ -6,21 +6,21 @@ export const workTreeIds = {
   slug: "work-tree-ids",
   definition: "the strings the editor knows the work tree's view and its commands by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The names here are the names the extension manifest has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every command's name opens with the view's name.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here makes the view or the commands these names reach.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here names a row of the work tree.",
     },
   ],

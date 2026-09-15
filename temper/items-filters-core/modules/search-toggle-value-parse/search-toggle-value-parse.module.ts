@@ -7,13 +7,13 @@ export const searchToggleValueParse = {
   definition:
     "an include-or-exclude toggle value read out of whatever a saved search or an editor handed in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The parser answers undefined where the value is not include and is not exclude.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Every toggle filter in the package reads a toggle value through the one shared module.",
     },

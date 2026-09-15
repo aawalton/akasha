@@ -7,9 +7,9 @@ export const toolTimeout = {
   propertySlug: "tool-timeout",
   definition: "how long a seat waits on a tool over the model context protocol before giving up",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The agent harness reads this number as milliseconds.",
     },
   ],

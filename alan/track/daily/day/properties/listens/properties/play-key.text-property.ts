@@ -8,9 +8,9 @@ export const playKey = {
   definition: "the text one listen is told apart from every other listen by",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A play key is a Spotify track id and then `@` and then when the play finished.",
     },
   ],

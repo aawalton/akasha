@@ -6,13 +6,13 @@ export const keybinderEntry = {
   slug: "keybinder-entry",
   definition: "the order the add-on's parts are set going in once the game has loaded it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is set going where the game will let neither binding call through.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global is published as the bundle loads rather than on the loaded event.",
     },
   ],

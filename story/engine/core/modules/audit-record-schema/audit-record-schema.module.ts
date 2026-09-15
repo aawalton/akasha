@@ -7,13 +7,13 @@ export const auditRecordSchema = {
   definition:
     "the shape of a roll or a combat resolution as it is written into a game's audit trail",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A record has the hash of the record before that record.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The whole rulebook in force is stored inside a resolution record.",
     },
   ],

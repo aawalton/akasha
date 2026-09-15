@@ -7,22 +7,22 @@ export const secrets = {
   propertySlug: "secrets",
   definition: "a secret a workload reads",
   targetPageType: "page-type/secret",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The secret is named by its slug rather than by the resource carrying that secret.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The resources a workload reads are the placements of the secrets named here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A resource a workload reads under many keys is named one secret per key.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A resource a controller in the cluster writes is named by no secret here.",
     },
   ],

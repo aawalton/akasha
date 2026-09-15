@@ -7,40 +7,40 @@ export const alanwaltonHealthIntentAnchoredDrain = {
   definition: "the Swift draining one metric from its anchor",
   shell: "sh",
   sourced: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The empty-page branch of the drain leaves the anchor where the anchor was.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An anchor advanced over an empty page puts every sample behind that anchor out of reach for good.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A failed upload leaves the anchor where the anchor was.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every sample in a batch the server refused is fetched again by the next run.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The seed window bounds a read only where there is no anchor to bound that read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A date window beside an anchor drops the samples a run after a long outage would recover.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A metric that sent nothing routes into the backstop before the run reports on that metric.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing new to send is never reported on the anchored read's word alone.",
     },
   ],

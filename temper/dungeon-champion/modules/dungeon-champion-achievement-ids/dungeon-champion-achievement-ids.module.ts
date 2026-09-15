@@ -6,9 +6,9 @@ export const dungeonChampionAchievementIds = {
   slug: "dungeon-champion-achievement-ids",
   definition: "every achievement id a dungeon champion kill counts toward",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A pin refreshes only for an achievement id named here.",
     },
   ],

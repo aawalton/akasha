@@ -6,13 +6,13 @@ export const tableFunctionsEntry = {
   slug: "table-functions-entry",
   definition: "the global the game reads the table helpers from once the addon loads",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The bundle the transpiler writes starts here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global has the whole library rather than one helper at a time.",
     },
   ],

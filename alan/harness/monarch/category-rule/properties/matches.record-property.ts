@@ -11,25 +11,25 @@ export const matches = {
     { pageProperty: "select-property/match-comparison", required: true, many: false },
     { pageProperty: "text-property/match-values", required: true, many: true, maxCount: 20 },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transaction is caught where the transaction passes every clause.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule with no clause catches nothing.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every rule tests a merchant.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule's remaining keys narrow from the merchant.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two clauses on one key are two entries.",
     },
   ],

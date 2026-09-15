@@ -7,13 +7,13 @@ export const useCompletePageOptimistic = {
   definition:
     "Marks one task done in the local store, then sends every key that marking touches as one patch.",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The stamp and the next due date land in one commit.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Taking a completion back clears the key that said the task was done.",
     },
   ],

@@ -6,9 +6,9 @@ export const webItemFacts = {
   slug: "web-item-facts",
   definition: "the facts a rule reads, gathered for the web build from the captured holdings",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

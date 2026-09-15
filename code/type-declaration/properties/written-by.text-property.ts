@@ -8,9 +8,9 @@ export const writtenBy = {
   definition: "the command a generated declaration is written again by",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The command is spelled as a reader would say the command on a command line.",
     },
   ],

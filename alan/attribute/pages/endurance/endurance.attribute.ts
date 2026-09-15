@@ -8,17 +8,17 @@ export const endurance = {
   pointUnit: "200 active calories burned",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two hundred calories burned moving is one point.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The points are the active calories the tracking day carries turned into points.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day with no active calories earns nothing rather than an endurance of zero.",
     },
   ],

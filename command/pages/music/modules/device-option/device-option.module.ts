@@ -7,18 +7,18 @@ export const deviceOption = {
   definition: "the Spotify device a music command acts on, as the call names it",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A call naming no device leaves the option empty, so Spotify takes the active one.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A device named is carried into the option and into what the report says.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Spotify.",
     },
   ],

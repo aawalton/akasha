@@ -6,25 +6,25 @@ export const pidSignal = {
   slug: "pid-signal",
   definition: "whether a process id still answers, read by signalling it with nothing",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A pid another user owns is a pid that is there.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only ESRCH proves a process is gone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An errno that is neither ESRCH nor EPERM reads as unknown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every caller folds unknown its own way and says why in the fold.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The reading itself has no answer of alive or dead.",
     },
   ],

@@ -7,23 +7,23 @@ export const scrollableMenuComboboxBaseSort = {
   definition:
     "the sorting and filtering behaviour a menu falls back to when no option overrides it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The default filter is a case-insensitive substring match on the entry name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Filtering and sorting are both disabled on the base class and enabled by subclasses.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A custom sort button overrides the texture or the dimensions or the anchor alone.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A sort container widens itself to fit an oversized custom button.",
     },
   ],

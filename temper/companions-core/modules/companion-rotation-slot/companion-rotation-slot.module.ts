@@ -6,19 +6,19 @@ export const companionRotationSlot = {
   slug: "companion-rotation-slot",
   definition: "per-slot damage, healing and toughness breakdown of a simulated companion rotation",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Shield formula evaluation is inlined here rather than shared with the rotation metric pass.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Slot data is emitted for every id in companionSkillSlots even when the slot has no skill.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "Resolve buffs assume a fixed armor divisor of fifty thousand instead of the metric divisor.",
     },

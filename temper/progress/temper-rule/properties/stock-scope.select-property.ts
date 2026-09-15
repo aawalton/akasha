@@ -7,9 +7,9 @@ export const stockScope = {
   propertySlug: "stock-scope",
   definition: "how widely a stocking rule counts what is already held",
   values: ["current-character", "any-character"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule counting the current character alone stocks each character apart.",
     },
   ],

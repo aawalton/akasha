@@ -21,9 +21,9 @@ export const nestedEffect = {
     { pageProperty: "number-property/duration", required: false, many: false },
     { pageProperty: "one-of-property/carried-effect", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An inner effect names the same kinds an outer effect names.",
     },
   ],

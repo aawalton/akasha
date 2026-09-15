@@ -44,21 +44,21 @@ export const iosComponent = {
   ],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "code-file-property/swift", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An iOS component's Swift is in a file beside the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here is imported.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Xcode compiles the Swift.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A shell's seam copies the components an app names into the extension the seam builds.",
     },

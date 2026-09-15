@@ -13,17 +13,17 @@ export const car = {
     { pageProperty: "text-property/sources", required: false, many: false },
     { pageProperty: "text-property/exclusion-reason", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every page type naming a level of a maker's catalogue builds on this page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A level names the level above that level and never the levels below.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No page is a car itself.",
     },
   ],

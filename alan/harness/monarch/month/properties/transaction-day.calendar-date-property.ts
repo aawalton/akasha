@@ -6,9 +6,9 @@ export const transactionDay = {
   slug: "transaction-day",
   propertySlug: "transaction-day",
   definition: "the day money moved",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A transaction sits beside the month its day falls in.",
     },
   ],

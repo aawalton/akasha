@@ -6,18 +6,18 @@ export const messagesConsoleStdoutGuard = {
   slug: "messages-console-stdout-guard",
   definition: "standard output kept clear of logging where the protocol itself is spoken there",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A log written to standard output goes to standard error instead.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "This module is loaded for the effect of loading rather than anything this module exports.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This module is loaded before anything that might log.",
     },
   ],

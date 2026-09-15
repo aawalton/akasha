@@ -6,13 +6,13 @@ export const inboundDecision = {
   slug: "inbound-decision",
   definition: "what becomes of an arriving email",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message on a persona channel from anyone but the watched account is discarded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message on no persona channel is surfaced.",
     },
   ],

@@ -28,27 +28,27 @@ export const temperKeybinderAddon = {
     "module/keybinder-ui-strings",
     "type-declaration/keybinder-declarations",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A binding the player shares is kept for the user profile rather than the character.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Which actions are shared is chosen per action rather than for the whole set.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A shared binding is written onto a character the first time that character logs in.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The key-bind window gains a search field the game does not supply.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The game protects rebinding.",
     },
   ],

@@ -6,27 +6,27 @@ export const dayReading = {
   slug: "day-reading",
   definition: "one of Alan's days, read off the akasha page that day is kept on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Keys are asked in camel and a row is answered in kebab.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A key naming an entry answers that entry's rows rather than the file's extension.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An answered row's `at` is the day's slug rather than a file path.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller reducing a day in the kebab spelling takes the values rather than the page.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A key the day page type declares nothing for is refused rather than answered as absent.",
     },

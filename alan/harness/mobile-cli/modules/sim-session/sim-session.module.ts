@@ -7,25 +7,25 @@ export const simSession = {
   definition: "the state of the one live sim session, persisted to a file in the home directory",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The session record is at one fixed path in the home directory.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The session file is written with mode 0600.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A session file with an unrecognised field parses as null.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "XCUITest reports the app's WKWebView under the bundle id process-App.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The banner-tap capabilities are the sim capabilities with the bundle id dropped.",
     },
   ],

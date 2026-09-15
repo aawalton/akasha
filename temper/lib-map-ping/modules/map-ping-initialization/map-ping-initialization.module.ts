@@ -6,9 +6,9 @@ export const mapPingInitialization = {
   slug: "map-ping-initialization",
   definition: "the one handler the library makes as the game loads it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reaching the handler before initialization is an error.",
     },
   ],

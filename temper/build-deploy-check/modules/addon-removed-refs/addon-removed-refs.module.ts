@@ -6,17 +6,17 @@ export const addonRemovedRefs = {
   slug: "addon-removed-refs",
   definition: "the references an emitted bundle keeps to a third-party add-on that is gone",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A reference inside a string literal is masked before the line is scanned.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every finding names the add-on the global belonged to and the remedy.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A global is matched whole rather than as part of a longer name.",
     },
   ],

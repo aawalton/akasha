@@ -6,18 +6,18 @@ export const stolenFilter = {
   slug: "stolen-filter",
   definition: "the Stolen Status condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `stolen` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A category under the two roots named in the code is offered no Stolen Status condition.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rule with the `crafted` condition is offered no Stolen Status condition.",
     },
   ],

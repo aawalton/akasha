@@ -6,9 +6,9 @@ export const lostTreasureNotifications = {
   slug: "lost-treasure-notifications",
   definition: "an offer to report a new dig site, shown in the notification list",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A notification is offered in three languages alone.",
     },
   ],

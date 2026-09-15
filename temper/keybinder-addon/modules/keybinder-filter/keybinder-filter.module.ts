@@ -6,22 +6,22 @@ export const keybinderFilter = {
   slug: "keybinder-filter",
   definition: "narrowing the key-bind list to the actions whose names match what was typed",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The list is rebuilt a fifth of a second after the last keystroke rather than on every keystroke.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A category whose own name matches is kept whole.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An uppercased action name is remembered rather than uppercased again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Filtering applies only while the master list is being built.",
     },
   ],

@@ -6,17 +6,17 @@ export const checkContainerFixtures = {
   slug: "check-container-fixtures",
   definition: "the stub environment the container condition tests are built from",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every stub environment lookup answers unknown until a test overrides the lookup.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A test context is built by spreading overrides over the stub environment.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The stub context has no claim map and no stock groups.",
     },
   ],

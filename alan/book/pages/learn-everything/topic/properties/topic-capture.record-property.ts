@@ -11,9 +11,9 @@ export const topicCapture = {
     { pageProperty: "number-property/capture-through-line", required: true, many: false },
     { pageProperty: "instant-property/capture-through-at", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A topic scored from Alan's own words in the room states no capture.",
     },
   ],

@@ -6,13 +6,13 @@ export const mediaTypes = {
   slug: "media-types",
   definition: "the shapes a media table, a media kind and the shared library take",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A media kind is named by a lower-case word.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key on the shared table is the name another addon reads.",
     },
   ],

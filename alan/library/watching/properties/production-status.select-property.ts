@@ -7,9 +7,9 @@ export const productionStatus = {
   propertySlug: "production-status",
   definition: "how far along the making of a show or a film is",
   values: ["ended", "released"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "The values are the ones the record has rather than every value the provider answers with.",
     },

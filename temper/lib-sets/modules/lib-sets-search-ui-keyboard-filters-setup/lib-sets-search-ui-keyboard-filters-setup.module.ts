@@ -6,13 +6,13 @@ export const libSetsSearchUiKeyboardFiltersSetup = {
   slug: "lib-sets-search-ui-keyboard-filters-setup",
   definition: "the shared build steps behind every keyboard filter dropdown",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Multi-select is only turned on when the combo box class offers multi-select.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Mouse-over callbacks are only set when the combo box class offers mouse-over callbacks.",
     },

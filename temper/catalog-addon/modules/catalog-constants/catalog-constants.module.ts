@@ -6,17 +6,17 @@ export const catalogConstants = {
   slug: "catalog-constants",
   definition: "the add-on's name and the delays its collection run is paced by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The name here is the name the game loads the add-on under.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The start delay leaves the game time to settle before the first collector runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A collector answering nothing within the timeout is given up on.",
     },
   ],

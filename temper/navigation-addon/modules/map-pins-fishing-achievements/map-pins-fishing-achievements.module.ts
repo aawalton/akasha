@@ -6,9 +6,9 @@ export const mapPinsFishingAchievements = {
   slug: "map-pins-fishing-achievements",
   definition: "the achievement behind each fishing zone",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The table is the add-on's own source rather than a derivation.",
     },
   ],

@@ -6,17 +6,17 @@ export const panelControlsCreated = {
   slug: "panel-controls-created",
   definition: "what runs once the add-on menu has built a panel's controls",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The callback manager is handed in rather than reached as a global.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "What was handed in runs for the panel it was given and for no other.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A registration is dropped as what was handed in runs.",
     },
   ],

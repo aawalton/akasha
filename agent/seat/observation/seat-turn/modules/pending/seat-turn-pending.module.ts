@@ -6,9 +6,9 @@ export const seatTurnPending = {
   slug: "seat-turn-pending",
   definition: "the things a seat may be waiting on, kept beside it in akasha and read back",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A write that threw says why, rather than reading as a write that changed nothing.",
     },

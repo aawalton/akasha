@@ -9,9 +9,9 @@ export const recipes = {
   properties: [
     { pageProperty: "text-property/reagent-names", required: true, many: true, maxCount: null },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every reagent set brews the same drink.",
     },
   ],

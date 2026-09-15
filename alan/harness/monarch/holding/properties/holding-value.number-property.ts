@@ -7,9 +7,9 @@ export const holdingValue = {
   propertySlug: "holding-value",
   definition: "what the shares an account holds are worth in dollars",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value is carried as the sync read that value rather than rounded to the cent.",
     },
   ],

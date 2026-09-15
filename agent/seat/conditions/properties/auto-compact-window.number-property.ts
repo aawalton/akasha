@@ -7,14 +7,14 @@ export const autoCompactWindow = {
   propertySlug: "auto-compact-window",
   definition: "the token count a seat's agent is compacted at",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "The harness has this count between one hundred thousand and one million whatever value is stated.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat on a model with a smaller context window compacts at that window instead.",
     },
   ],

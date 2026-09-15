@@ -6,9 +6,9 @@ export const dungeonChampionSlash = {
   slug: "dungeon-champion-slash",
   definition: "two slash commands that print where the player is on the open map",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A position prints as hundredths of a percent.",
     },
   ],

@@ -15,14 +15,14 @@ export const temperRecipeList = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "page-property-entry/recipes", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A list is keyed by the name the game shows rather than by the index the game keeps.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name more than one list carries is made a slug by adding the game's index.",
     },
   ],

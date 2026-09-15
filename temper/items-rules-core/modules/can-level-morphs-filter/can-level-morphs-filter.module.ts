@@ -6,13 +6,13 @@ export const canLevelMorphsFilter = {
   slug: "can-level-morphs-filter",
   definition: "the Can Level Morphs condition a rule may have, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `canLevelMorphs` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A rule whose action is other than `stock` is offered no Can Level Morphs condition.",
     },

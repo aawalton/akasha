@@ -7,17 +7,17 @@ export const companionFactory = {
   definition:
     "factory for new and empty companion build states with role-derived default equipment",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Default weapons for a damage role are drawn at random rather than fixed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An empty companion has armor items of no-weight rather than empty slots.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Every role-derived equipment piece is created at epic quality.",
     },
   ],

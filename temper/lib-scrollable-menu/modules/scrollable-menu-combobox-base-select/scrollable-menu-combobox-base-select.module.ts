@@ -6,22 +6,22 @@ export const scrollableMenuComboboxBaseSelect = {
   slug: "scrollable-menu-combobox-base-select",
   definition: "the selection of an entry in single-select and multi-select menus",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Clicking a no-results row is detected and suppressed before any callback runs.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A disabled entry cannot be selected.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Exceeding the selection limit raises a game alert unless a callback intercepts the alert.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Single-select selection closes the dropdown while multi-select leaves the dropdown open.",
     },

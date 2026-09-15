@@ -6,17 +6,17 @@ export const esoOptionsMenu = {
   slug: "eso-options-menu",
   definition: "the game's settings menu names that more than one add-on reaches",
   d: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name here keeps the spelling the game gives that name.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "One declaration here serves every package reaching the name.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A compiler emits nothing from this file.",
     },
   ],

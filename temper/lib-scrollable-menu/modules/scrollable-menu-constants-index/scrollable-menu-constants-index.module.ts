@@ -6,17 +6,17 @@ export const scrollableMenuConstantsIndex = {
   slug: "scrollable-menu-constants-index",
   definition: "the bare import list covering the three constant modules",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A list of bare imports is used in place of any re-export.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The order of the imports is the order the constant tables are built in.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "The file declares no value of its own.",
     },
   ],

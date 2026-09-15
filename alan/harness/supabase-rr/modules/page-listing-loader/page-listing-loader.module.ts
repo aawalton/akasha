@@ -6,9 +6,9 @@ export const pageListingLoader = {
   slug: "page-listing-loader",
   definition: "the page type a slug in a url names, with the query beside it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slug reaching no page type is answered 404.",
     },
   ],

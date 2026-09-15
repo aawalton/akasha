@@ -6,30 +6,30 @@ export const commandDeclaring = {
   slug: "command-declaring",
   definition: "the shapes a command and the dispatcher reaching it share",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A command declares the arguments the command takes rather than parsing the arguments.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One reader parses the declaration and one printer prints the declaration.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A flag carrying a value names the value and says what shape the value has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A flag with no value names no value label.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The words reaching a command and the code the command loads are one entry.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A command page has this declaration as data rather than as prose.",
     },
   ],

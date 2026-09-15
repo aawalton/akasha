@@ -6,14 +6,14 @@ export const inventoryManagementPlanRoute = {
   slug: "inventory-management-plan-route",
   definition: "the route one item takes from where the item lies to where a rule sends it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A route is worked out from where the item lies and from where the rule sends that item.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An item already where the rule sends that item needs no route.",
     },
   ],

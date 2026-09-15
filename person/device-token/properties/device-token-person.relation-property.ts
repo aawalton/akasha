@@ -7,9 +7,9 @@ export const deviceTokenPerson = {
   propertySlug: "person",
   definition: "the person whose device has a token",
   targetPageType: "page-type/person",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The account a person signed in under is read from that person rather than kept here.",
     },

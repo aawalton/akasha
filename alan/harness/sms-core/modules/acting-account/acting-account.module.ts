@@ -7,17 +7,17 @@ export const actingAccount = {
   definition: "which account a seat is acting for, read back off the surface the channel wrote",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Only the text after the last channel footer is trusted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A sender quoting the footer cannot reach past the footer the channel wrote.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The account is answered in lower case.",
     },
   ],

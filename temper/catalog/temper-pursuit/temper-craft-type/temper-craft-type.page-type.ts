@@ -8,9 +8,9 @@ export const temperCraftType = {
   extends: ["page-type/temper-pursuit-thing"],
   parts: ["number-property/eso-craft-type-id"],
   properties: [{ pageProperty: "number-property/eso-craft-type-id", required: true, many: false }],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A craft type gathers the research lines one crafting skill covers.",
     },
   ],

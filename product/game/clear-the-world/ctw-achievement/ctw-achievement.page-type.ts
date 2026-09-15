@@ -14,21 +14,21 @@ export const ctwAchievement = {
     { pageProperty: "text-property/metric", required: true, many: false },
     { pageProperty: "number-property/threshold", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An achievement is earned when its metric reaches its threshold.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A scope says whose count the metric is read from.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A description tells the real mine action the mark is named for.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The prose here is quoted from the world rather than written to the taboo terms.",
     },
   ],

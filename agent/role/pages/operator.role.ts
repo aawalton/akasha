@@ -6,9 +6,9 @@ export const operator = {
   slug: "operator",
   definition: "an agent keeping one domain's conditions true",
   onCall: true,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An operator asks their principal when the operator is not sure what act to take.",
     },
   ],

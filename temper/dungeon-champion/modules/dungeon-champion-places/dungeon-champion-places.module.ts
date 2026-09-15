@@ -6,22 +6,22 @@ export const dungeonChampionPlaces = {
   slug: "dungeon-champion-places",
   definition: "every champion position gathered, reached by zone name or by map id",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The byte ceiling is why the zones arrive in two groups rather than in a single table.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The groups are spread in the order the source table had the zones.",
     },
     {
-      invariantKind: "invariant-kind/upkeep",
+      decisionKind: "decision-kind/upkeep",
       statement: "A zone belongs to one group of places alone.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "A zone named in both groups would lose the earlier group's entries without a word.",
     },

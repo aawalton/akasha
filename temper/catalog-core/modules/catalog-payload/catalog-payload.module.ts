@@ -6,17 +6,17 @@ export const catalogPayload = {
   slug: "catalog-payload",
   definition: "the shape of everything the catalog add-on saves out of the game's reference data",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A field name here is the name the add-on writes into the saved variables.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every catalog field is empty until that catalog is collected.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here has code that runs.",
     },
   ],

@@ -7,17 +7,17 @@ export const pointsToHere = {
   propertySlug: "points-to-here",
   definition: "how many points it takes to reach this rung",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung counts every point earned rather than the points past the rung below.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Points short of the first rung are level 0.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Everyone starts at level 0.",
     },
   ],

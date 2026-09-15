@@ -28,13 +28,13 @@ export const storyPlayed = {
     { pageProperty: "relation-property/world", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story played was made in play rather than written before the play.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A story played heads its page with its title, over the run play left it.",
     },
   ],

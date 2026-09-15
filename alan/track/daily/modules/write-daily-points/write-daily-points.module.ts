@@ -6,14 +6,14 @@ export const writeDailyPoints = {
   slug: "write-daily-points",
   definition: "one recomputed reading, landed on the day it is a reading of",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading the day already carries is answered unchanged rather than landed again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading answered unchanged is an outcome rather than a reading that failed.",
     },
   ],

@@ -8,9 +8,9 @@ export const matchValues = {
   definition: "what a clause holds to weigh a transaction against",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A value is written in the words the vocabulary has rather than in a title.",
     },
   ],

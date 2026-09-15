@@ -11,9 +11,9 @@ export const temperHoldingsThing = {
     { pageProperty: "instant-property/captured-at", required: false, many: false },
     { pageProperty: "number-property/total-value", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading states an account's worth at one moment.",
     },
   ],

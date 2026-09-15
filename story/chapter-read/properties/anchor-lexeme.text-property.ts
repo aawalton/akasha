@@ -8,9 +8,9 @@ export const anchorLexeme = {
   definition: "the words in the chapter that do the dating",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A lexeme is the chapter's own words rather than a reading of those words.",
     },
   ],

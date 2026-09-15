@@ -9,23 +9,23 @@ export const akashaLauncher = {
   shell: "sh",
   sourced: false,
   scripting: {},
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A name set on the line naming the call names the directory a run writes a CPU profile into.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The profiler is switched by a name set on the line rather than by a file the machine holds.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A name set to what is no directory profiles nothing and says so.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A run with that name unset carries no profiling flag.",
     },
   ],

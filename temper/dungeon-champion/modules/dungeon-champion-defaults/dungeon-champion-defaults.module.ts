@@ -6,9 +6,9 @@ export const dungeonChampionDefaults = {
   slug: "dungeon-champion-defaults",
   definition: "what a player who has changed no setting sees",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A filter is on until a player turns the filter off.",
     },
   ],

@@ -6,17 +6,17 @@ export const tableFunctionTypes = {
   slug: "table-function-types",
   definition: "the shape of the table helpers the game global carries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every helper is called as a method.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The self a helper takes is the library.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The library states a version number.",
     },
   ],

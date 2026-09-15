@@ -7,13 +7,13 @@ export const neededForTargetCompanionBuildFilter = {
   definition:
     "the Needed for Target Companion Build condition a rule may carry, as the rule editor offers it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `isTargetCompanionEquip` condition alone.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A category outside `companion` is offered no Needed for Target Companion Build condition.",
     },

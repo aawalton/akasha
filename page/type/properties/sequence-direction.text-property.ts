@@ -8,13 +8,13 @@ export const sequenceDirection = {
   definition: "whether a run of pages is sorted upward or downward",
   maxLength: 4,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page type naming no direction has its run sorted upward.",
     },
     {
-      invariantKind: "invariant-kind/stopgap",
+      decisionKind: "decision-kind/stopgap",
       statement: "The two directions a run can take do not stand as pages.",
     },
   ],

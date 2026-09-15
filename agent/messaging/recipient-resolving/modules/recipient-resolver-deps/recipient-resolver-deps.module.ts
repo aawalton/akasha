@@ -7,25 +7,25 @@ export const recipientResolverDeps = {
   definition:
     "the effects a resolver tick calls: seat lookup, inbound reading, presence, revive and report",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat whose presence cannot be established is taken as present.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A seat is told about at most once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A later tick finding the same seat unrevivable tells nobody again.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Alan is told where the seat that did not come back is the harness lead itself.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A dry run tells nobody and marks nothing as told.",
     },
   ],

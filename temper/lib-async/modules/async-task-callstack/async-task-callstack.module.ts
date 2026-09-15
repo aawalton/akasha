@@ -6,17 +6,17 @@ export const asyncTaskCallstack = {
   slug: "async-task-callstack",
   definition: "how a step is put onto a task's callstack",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A step called runs before the steps already waiting.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A step chained runs after the steps already waiting.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A step added to the running task goes in beside the step now running.",
     },
   ],

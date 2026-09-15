@@ -6,13 +6,13 @@ export const hudAddonFormat = {
   slug: "hud-addon-format",
   definition: "the words a bar cell reads a rate, a delay and a span in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reading below zero is shown as zero.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A span under an hour drops the hour.",
     },
   ],

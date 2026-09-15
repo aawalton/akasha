@@ -7,13 +7,13 @@ export const scrollableMenuControls = {
   definition: "the row, header and dropdown controls every menu of this library is built from",
   markup: "xml",
   loadedAs: "XML/LibScrollableMenu.xml",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One virtual control is declared for each entry type a menu row may take.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row handler calls back into the library through the LibScrollableMenu global.",
     },
   ],

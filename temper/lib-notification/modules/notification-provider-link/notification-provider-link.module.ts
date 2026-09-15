@@ -6,21 +6,21 @@ export const notificationProviderLink = {
   slug: "notification-provider-link",
   definition: "the table a caller puts notifications into and the providers reading that table",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One link table has the notifications both panels read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keyboard provider is made only where the keyboard panel is loaded.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The gamepad provider is always made.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Asking for an update pushes both providers.",
     },
   ],

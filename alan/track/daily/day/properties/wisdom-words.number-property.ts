@@ -7,14 +7,14 @@ export const wisdomWords = {
   propertySlug: "wisdom-words",
   definition: "the words Alan added to the pages about himself on a day",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A day whose commits left Alan's topic pages untouched reads zero rather than unread.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No day before 2026-09-06 has this reading.",
     },
   ],

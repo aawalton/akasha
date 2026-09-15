@@ -6,13 +6,13 @@ export const keybinderKeybindEvents = {
   slug: "keybinder-keybind-events",
   definition: "the game announcing a key bound or cleared, written back into what the add-on holds",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A change is recorded only while the key-bind window is open.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The add-on synchronises on the frame after the game announces the bindings.",
     },
   ],

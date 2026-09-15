@@ -8,9 +8,9 @@ export const posterPath = {
   definition: "the path to the artwork representing a collection",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path is read against the provider's image host rather than against akasha.",
     },
   ],

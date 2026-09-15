@@ -6,9 +6,9 @@ export const chatLinks = {
   slug: "chat-links",
   definition: "the custom chat links this library rewrites as a message is formatted",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A link of a type no addon registered is rewritten as an unknown link.",
     },
   ],

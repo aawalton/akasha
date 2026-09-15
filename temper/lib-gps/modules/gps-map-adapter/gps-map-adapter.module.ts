@@ -6,13 +6,13 @@ export const gpsMapAdapter = {
   slug: "gps-map-adapter",
   definition: "the game's map changing functions wrapped so a change can be measured",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The game's own function is called first and its result is kept.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A function the game does not define is left unwrapped.",
     },
   ],

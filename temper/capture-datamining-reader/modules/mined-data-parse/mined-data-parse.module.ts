@@ -8,13 +8,13 @@ export const minedDataParse = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row the zod shape turns away is counted as a failure rather than thrown on.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A caller learns from the diagnostics whether every row was read.",
     },
   ],

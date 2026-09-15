@@ -6,17 +6,17 @@ export const supervisorClaimedReconcile = {
   slug: "supervisor-claimed-reconcile",
   definition: "messages a seat claimed and ended without consuming, released again",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message the transcript shows was injected is held rather than released.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Redelivery waits for its window before anything is read as unconsumed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A reconcile that faults does not stop the resume that reconcile runs under.",
     },
   ],

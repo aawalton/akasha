@@ -6,17 +6,17 @@ export const searchItemNameFilter = {
   slug: "search-item-name-filter",
   definition: "the item name, narrowed by a text pattern typed into the filter bar",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A blank or whitespace-only pattern matches every item.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "Pattern matching is delegated to itemNameMatchesPattern in game-items-core.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
   ],

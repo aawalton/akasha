@@ -6,17 +6,17 @@ export const putting = {
   slug: "putting",
   definition: "a file put where a test wants it in a tree it set up, and whether one is there",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The folders a path names are made on the way.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A path is said from the root handed in rather than from where the test runs.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Where the file landed is handed back.",
     },
   ],

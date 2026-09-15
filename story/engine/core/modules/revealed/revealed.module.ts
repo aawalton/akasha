@@ -7,13 +7,13 @@ export const revealed = {
   definition: "the part of an entity's sheet a player may see",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key the code does not name can never be revealed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Narrowing a sheet is checked against the schema again before the narrowing is handed back.",
     },

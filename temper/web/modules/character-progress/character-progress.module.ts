@@ -6,25 +6,25 @@ export const characterProgress = {
   slug: "character-progress",
   definition: "each character's progress worked out from the catalogs and the saved data",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The catalog files its character-side tree under the `character` category.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The progress transforms filter on the same word.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The two catalogs are passed ahead of the account collectibles.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every argument to the character transform is written out.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Misplacing an argument is a type error rather than a silent rebinding.",
     },
   ],

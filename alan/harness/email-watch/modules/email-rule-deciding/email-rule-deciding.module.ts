@@ -6,13 +6,13 @@ export const emailRuleDeciding = {
   slug: "email-rule-deciding",
   definition: "which of a person's email rules claims a piece of mail",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first rule whose every clause has is the rule that claims the message.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message no rule claims is answered as no rule rather than as a rule.",
     },
   ],

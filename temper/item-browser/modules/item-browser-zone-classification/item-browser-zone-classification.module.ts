@@ -6,13 +6,13 @@ export const itemBrowserZoneClassification = {
   slug: "item-browser-zone-classification",
   definition: "which kind of content a zone is, so a set can be filtered by where it drops",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "These rows are a frozen port of an upstream table.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "No program in this repository rebuilds these rows.",
     },
   ],

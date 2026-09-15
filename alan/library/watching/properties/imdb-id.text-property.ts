@@ -8,9 +8,9 @@ export const imdbId = {
   definition: "the id IMDb gives a show or a film",
   maxLength: 20,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An IMDb id sits beside the id of the provider the page was read from.",
     },
   ],

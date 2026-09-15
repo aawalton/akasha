@@ -6,17 +6,17 @@ export const locationTraceAccess = {
   slug: "location-trace-access",
   definition: "the shape one recorded place is carried in, and the refusal a batch of places meets",
   parts: ["module/trace-insert", "module/trace-shape"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the phone a trace came from.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a trace back out.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here keeps a location trace.",
     },
   ],

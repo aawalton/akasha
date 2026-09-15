@@ -7,17 +7,17 @@ export const alanWebIdle = {
   definition: "the permanent redirect onto the page carrying the idle game",
   code: "ts",
   urlPath: "idle",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The page the redirect points at is the `idle-game` page slugged `idle`.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The address is built from that page's own id rather than spelled here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The host idle.alanwalton.com is sent here by the server.",
     },
   ],

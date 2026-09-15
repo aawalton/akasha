@@ -14,28 +14,28 @@ export const reviewSession = {
     { pageProperty: "file-property/review-session-notes", required: true, many: false },
     { pageProperty: "text-property/icon", required: false, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A persona looking on a day has a single review session.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A session names the persona who looked rather than the part of Alan's life that persona looked at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A session's slug joins the part of Alan's life looked over to the day of the looking.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A session's notes are a file beside the session rather than inside the session page.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "A session names the part of Alan's life the session passed over.",
     },
   ],

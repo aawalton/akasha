@@ -6,17 +6,17 @@ export const equipmentSignatureCompiler = {
   slug: "equipment-signature-compiler",
   definition: "a build's wanted gear written as the numbers the game states items by",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A slot with no trait yields no signature.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A shield is read as an off-hand with an armor trait.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A two-handed main hand leaves the off-hand unread.",
     },
   ],

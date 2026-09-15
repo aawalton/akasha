@@ -6,25 +6,25 @@ export const errorsCrashSignatures = {
   slug: "errors-crash-signatures",
   definition: "the known crashes an error is matched against to name the addon at fault",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A signature is matched against the message and the traceback read as one text.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The first signature that matches names the addon at fault.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error matching no signature names no addon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An error is keyed with every number in the message written as one mark.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key is drawn from the first traceback frame naming an addon folder.",
     },
   ],

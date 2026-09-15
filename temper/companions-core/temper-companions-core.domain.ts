@@ -93,13 +93,13 @@ export const temperCompanionsCore = {
     "module/rotation-types",
     "module/skill-lines-by-companion",
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Every table here is written out from the companion pages rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The generator that writes these tables outside akasha reads the same companion pages.",
     },

@@ -6,13 +6,13 @@ export const keybinderPublicApi = {
   slug: "keybinder-public-api",
   definition: "the global the key binding in the markup calls the toggle through",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global is named for the addon.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The global has the one toggle and nothing more.",
     },
   ],

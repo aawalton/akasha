@@ -6,17 +6,17 @@ export const craftCookingLists = {
   slug: "craft-cooking-lists",
   definition: "the recipe rows a cooking category or a search fills the food panel with",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A row reaches the panel through the shared row builder.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A search covers every recipe list rather than the category shown.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The favourites categories are read off the character.",
     },
   ],

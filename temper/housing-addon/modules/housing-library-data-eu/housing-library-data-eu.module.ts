@@ -6,17 +6,17 @@ export const housingLibraryDataEu = {
   slug: "housing-library-data-eu",
   definition: "the European community library, gathered from its six parts in turn",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "This code is written out from an upstream library file rather than by hand.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "An entry's place in this list is the place the library tab shows that entry in.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "An entry moved to another place moves the entry every library row shows.",
     },
   ],

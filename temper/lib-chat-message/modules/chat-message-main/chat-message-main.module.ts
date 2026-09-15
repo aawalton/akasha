@@ -6,9 +6,9 @@ export const chatMessageMain = {
   slug: "chat-message-main",
   definition: "the order the chat message library installs its parts in",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The public global is put in place before the formatters install.",
     },
   ],

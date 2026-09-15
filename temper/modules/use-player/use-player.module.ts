@@ -6,17 +6,17 @@ export const usePlayer = {
   slug: "use-player",
   definition: "the signed-in player's row, read and written",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A player row is keyed by the user id its title has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A player with no row yet is written by upsert rather than patch.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Profile metadata a player never set has no key.",
     },
   ],

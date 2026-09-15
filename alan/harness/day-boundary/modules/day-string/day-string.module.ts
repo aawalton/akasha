@@ -6,17 +6,17 @@ export const dayString = {
   slug: "day-string",
   definition: "a day written as a dashed date, read back off one, and stepped by one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dashed date is read in UTC whatever zone settled the dashed date.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day is stepped from noon rather than from midnight.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A day that will not parse is handed back unchanged rather than refused.",
     },
   ],

@@ -6,21 +6,21 @@ export const padTwo = {
   slug: "pad-two",
   definition: "a number written to two characters, filled out with a leading zero",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here knows the thing the number this package fills out counts.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The width counts every character a number is written with.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The width is a contract rather than a courtesy.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A shorter answer breaks a caller that parses back the answer this package writes.",
     },

@@ -6,18 +6,18 @@ export const upscaleCluster = {
   slug: "upscale-cluster",
   definition: "upscaling one image on a cluster GPU by running a job and reading the object back",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "Credentials the environment lacks are named in the refusal rather than left to fail at the store.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The input is stored before the job is created.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A job that does not succeed is raised with the tail of its pod's log.",
     },
   ],

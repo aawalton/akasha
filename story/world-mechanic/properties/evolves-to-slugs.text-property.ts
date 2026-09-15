@@ -8,13 +8,13 @@ export const evolvesToSlugs = {
   definition: "every mechanic this one reaches",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a mechanic of the same page type.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An evolution names a mechanic of the kind the mechanic evolving is.",
     },
   ],

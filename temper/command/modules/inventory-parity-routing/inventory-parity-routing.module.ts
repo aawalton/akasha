@@ -6,21 +6,21 @@ export const inventoryParityRouting = {
   slug: "inventory-parity-routing",
   definition: "where an item would go on each side, and whether the two sides agree",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A destination the game resolves by priority is not comparable off the game.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A skew is claimed only where both sides matched.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A route shown with one side missing is said to be informational.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Two routes agree where their steps agree in order.",
     },
   ],

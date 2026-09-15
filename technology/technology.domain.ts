@@ -6,9 +6,9 @@ export const technology = {
   slug: "technology",
   definition: "how outside systems should be used",
   parts: ["domain/mcp", "domain/technology-definition"],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A system's terms change without notice.",
     },
   ],

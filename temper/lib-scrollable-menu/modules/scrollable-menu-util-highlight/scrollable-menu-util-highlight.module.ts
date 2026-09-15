@@ -6,21 +6,21 @@ export const scrollableMenuUtilHighlight = {
   slug: "scrollable-menu-util-highlight",
   definition: "the highlight animation applied to a hovered submenu or context-menu row",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The animation control is created once and cached on the row under a field name.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Unhighlighting clears the breadcrumb name from the row.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "The screen's usable dropdown height is the GuiRoot height less one hundred.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A row whose highlight template is not a string falls back to the library default.",
     },

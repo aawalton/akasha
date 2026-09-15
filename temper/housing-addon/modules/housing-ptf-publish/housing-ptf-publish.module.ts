@@ -6,9 +6,9 @@ export const housingPtfPublish = {
   slug: "housing-ptf-publish",
   definition: "the port-to-friend holder, put where other add-ons and keybinds read it",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The keybinds the add-on declares reach the holder by one global name.",
     },
   ],

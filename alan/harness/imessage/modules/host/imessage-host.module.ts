@@ -6,9 +6,9 @@ export const imessageHost = {
   slug: "imessage-host",
   definition: "the machine Alan's iMessage history is on",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "One machine has the message history every read here goes to.",
     },
   ],

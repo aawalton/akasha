@@ -6,13 +6,13 @@ export const operatorClassification = {
   slug: "operator-classification",
   definition: "the class a TypeScript token counts as",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A token is an operator or an operand or uncounted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Trivia and the end of a file are counted as neither an operator nor an operand.",
     },
   ],

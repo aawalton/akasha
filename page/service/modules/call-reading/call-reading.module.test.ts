@@ -17,7 +17,7 @@ function written(body: Record<string, unknown>): Written {
 
 test("a whole question is read off the body", () => {
   const read = queryIn({
-    pageTypeSlug: "invariant-kind",
+    pageTypeSlug: "decision-kind",
     where: { slug: { is: "gap" } },
     keys: ["slug"],
     sortBy: "slug",
@@ -25,7 +25,7 @@ test("a whole question is read off the body", () => {
     limit: 2,
     offset: 1,
   })
-  expect("query" in read && read.query.pageTypeSlug).toBe("invariant-kind")
+  expect("query" in read && read.query.pageTypeSlug).toBe("decision-kind")
   expect("query" in read && read.query.descending).toBe(true)
 })
 
@@ -35,18 +35,18 @@ test("a question that is not an object is refused", () => {
 })
 
 test("a test given what it cannot take is refused by name", () => {
-  const read = queryIn({ pageTypeSlug: "invariant-kind", where: { slug: { in: "gap" } } })
+  const read = queryIn({ pageTypeSlug: "decision-kind", where: { slug: { in: "gap" } } })
   expect("refused" in read && read.refused).toContain("where.slug.in")
 })
 
 test("an ordering test given a list is refused by name", () => {
-  const read = queryIn({ pageTypeSlug: "invariant-kind", where: { at: { before: ["x"] } } })
+  const read = queryIn({ pageTypeSlug: "decision-kind", where: { at: { before: ["x"] } } })
   expect("refused" in read && read.refused).toContain("where.at.before")
 })
 
 test("a test the pages run is read off the body", () => {
   const read = queryIn({
-    pageTypeSlug: "invariant-kind",
+    pageTypeSlug: "decision-kind",
     where: { slug: { "starts-with": "de" }, at: { "at-or-after": 7 } },
   })
   expect("query" in read && read.query.where?.slug?.["starts-with"]).toBe("de")
@@ -54,7 +54,7 @@ test("a test the pages run is read off the body", () => {
 })
 
 test("a test stating nothing is refused by the key it is under", () => {
-  const read = queryIn({ pageTypeSlug: "invariant-kind", where: { slug: {} } })
+  const read = queryIn({ pageTypeSlug: "decision-kind", where: { slug: {} } })
   expect("refused" in read && read.refused).toContain("where.slug")
 })
 

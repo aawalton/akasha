@@ -6,25 +6,25 @@ export const playerSettings = {
   slug: "player-settings",
   definition: "the logging, safety and shopping settings a player keeps, read and written",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each section is narrowed before the section is read.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section that does not narrow reads as its default.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A write has the whole blob rather than the section that changed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "These three sections read the copy hooks-inventory-settings has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A section this module leaves alone survives a write from this module.",
     },
   ],

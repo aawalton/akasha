@@ -6,9 +6,9 @@ export const pageRowCells = {
   slug: "page-row-cells",
   definition: "the cells one page is shown as in a table, drawn by that page's own page type",
   code: "tsx",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A page no page type above it draws takes the cells beside page.",
     },
   ],

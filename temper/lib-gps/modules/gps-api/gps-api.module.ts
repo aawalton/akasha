@@ -6,9 +6,9 @@ export const gpsApi = {
   slug: "gps-api",
   definition: "the coordinate functions the library object carries",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Reaching a function before the library is initialized is an error.",
     },
   ],

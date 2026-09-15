@@ -14,21 +14,21 @@ export const changeMechanicalPageType = {
     "domain/change-mechanical-page-type-remove",
   ],
   properties: [],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here answers the whole scope of one act in one call.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here reads the pages of the page type from the index once.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A rung here takes the shortcuts knowing the whole act allows.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No rung here reaches a rung beneath once for each page.",
     },
   ],

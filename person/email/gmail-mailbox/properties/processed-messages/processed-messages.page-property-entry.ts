@@ -18,25 +18,25 @@ export const processedMessages = {
     { pageProperty: "text-property/gmail-message-id", required: true, many: false },
     { pageProperty: "instant-property/gmail-processed-at", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A message is written here once the decision about that message is settled.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A second pass over the same mailbox skips a message already written here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A processed message sits beside the mailbox that message was read from.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "A processed message sits in no row of its own.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An entry is slugged by the id Gmail gives the message.",
     },
   ],

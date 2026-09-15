@@ -5,17 +5,17 @@ export const stall = {
   type: "page-type/cpu-kind",
   slug: "stall",
   definition: "time work waited for a processor that work could have used",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Stall is the kind that says whether a shortage hurt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A host fully busy with nothing waiting stalls none.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The kernel keeps stall for each cgroup as well as for the host.",
     },
   ],

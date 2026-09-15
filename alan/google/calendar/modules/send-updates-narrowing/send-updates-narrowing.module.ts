@@ -6,13 +6,13 @@ export const sendUpdatesNarrowing = {
   slug: "send-updates-narrowing",
   definition: "the three values a send-updates choice takes, and a raw value read as one",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A send-updates value outside the three is refused rather than defaulted.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Saying nothing about send-updates is not asking for `none`.",
     },
   ],

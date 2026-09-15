@@ -6,31 +6,31 @@ export const filterBarControls = {
   slug: "filter-bar-controls",
   definition: "one drawn editor per filter editor kind, laid out left to right",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An editor builder returns the x offset the next control starts at.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An emptied editor clears its filter rather than setting an empty value.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A dropdown has an entry meaning the filter is off.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "An editor registers a reset with the bar context so the clear button can reach that reset.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A control name is built from the filter id with every non-word character replaced.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here places a row within the panel.",
     },
   ],

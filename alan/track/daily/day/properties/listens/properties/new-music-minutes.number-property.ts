@@ -7,9 +7,9 @@ export const newMusicMinutes = {
   propertySlug: "new-music-minutes",
   definition: "the minutes a first play of a track scores",
   max: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A play that is no first listen scores no new music minutes.",
     },
   ],

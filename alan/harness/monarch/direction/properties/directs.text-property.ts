@@ -8,13 +8,13 @@ export const directs = {
   definition: "what an agent settling a transaction is told to weigh",
   maxLength: 1000,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A direction says the things to weigh.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A direction never says the decision to make.",
     },
   ],

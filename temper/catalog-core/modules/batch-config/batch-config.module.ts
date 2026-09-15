@@ -6,17 +6,17 @@ export const batchConfig = {
   slug: "batch-config",
   definition: "how many entries a collector reads at once, and how long it waits after each batch",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A batch reads a hundred entries.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The next batch begins a hundred milliseconds later.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the game.",
     },
   ],

@@ -8,8 +8,8 @@ export const buffId = {
   definition: "the helpful effect a thing puts on whoever uses it",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [
-    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a buff." },
+  decisions: [
+    { decisionKind: "decision-kind/gap", statement: "This property is a relation to a buff." },
   ],
   types: "ts",
 } as const satisfies TextProperty

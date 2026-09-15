@@ -7,13 +7,13 @@ export const apiPageWrite = {
   definition: "a page a browser writes",
   code: "ts",
   urlPath: "api/page-write",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "This route exports `action` alone.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement:
         "React Router strips only `loader` and `action` and `middleware` and `headers` from the browser.",
     },

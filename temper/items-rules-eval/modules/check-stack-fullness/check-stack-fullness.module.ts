@@ -7,17 +7,17 @@ export const checkStackFullness = {
   definition:
     "the condition check over an item's stack count against the item's maximum stack size",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A stack at or above the maximum stack size counts as full.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An absent stack count or maximum stack size makes the condition indeterminate.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "The rule chooses between the full form and the partial form of the condition.",
     },
   ],

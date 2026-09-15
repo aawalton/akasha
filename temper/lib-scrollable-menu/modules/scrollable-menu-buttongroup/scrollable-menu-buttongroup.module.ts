@@ -6,21 +6,21 @@ export const scrollableMenuButtongroup = {
   slug: "scrollable-menu-buttongroup",
   definition: "the subclass of ZO_RadioButtonGroup the checkbox and radio rows share",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "Each button's original OnClicked handler is stored and restored on removal.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A radio button alone has its click handler replaced.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A bulk check or invert is carried out by driving each button's original handler.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A click is checked against the context menu before the group handles the click.",
     },
   ],

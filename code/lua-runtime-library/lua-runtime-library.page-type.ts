@@ -11,22 +11,22 @@ export const luaRuntimeLibrary = {
     { pageProperty: "file-property/universal-config", required: true, many: false },
     { pageProperty: "file-property/lua50-config", required: true, many: false },
   ],
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A source tree here is compiled as one program rather than imported module by module.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A function compiled here takes a hidden receiver.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "No config here turns implicit self off.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A callback-typed property here declares its own this parameter.",
     },
   ],

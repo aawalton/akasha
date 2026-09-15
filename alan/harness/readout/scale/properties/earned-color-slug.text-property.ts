@@ -8,18 +8,18 @@ export const earnedColorSlug = {
   definition: "the color a reading takes when the reading is earned rather than measured",
   maxLength: 100,
   nameFormat: null,
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "An earned color is a color a rung has.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "A scale states a single earned color whatever readouts are read against that scale.",
     },
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "The color a scale names is a page rather than a name held as text.",
     },
   ],

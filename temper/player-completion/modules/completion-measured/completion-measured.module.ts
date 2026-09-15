@@ -7,9 +7,9 @@ export const completionMeasured = {
   definition: "whether a character, an account or a companion has been read at all",
   code: "ts",
   test: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A character with only roster fields counts as unread.",
     },
   ],

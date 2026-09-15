@@ -6,9 +6,9 @@ export const priceCache = {
   slug: "price-cache",
   definition: "a price held for a while so a source is asked once",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A held price is dropped five minutes after the last drop.",
     },
   ],

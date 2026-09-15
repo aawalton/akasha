@@ -6,22 +6,22 @@ export const supervisorAccountConfig = {
   slug: "supervisor-account-config",
   definition: "the model, effort, timeouts and windows a seat spawns under",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement:
         "The settings a seat spawns under are read from the seat conditions rather than the environment.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A model the vocabulary does not name is refused rather than passed through.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A window that cannot be read leaves the setting unset rather than throwing.",
     },
     {
-      invariantKind: "invariant-kind/absence",
+      decisionKind: "decision-kind/absence",
       statement: "No account is consulted for whether the long context window may be asked for.",
     },
   ],
