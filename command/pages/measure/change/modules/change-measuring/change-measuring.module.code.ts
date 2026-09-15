@@ -36,7 +36,7 @@ const COMMAND = "command"
 
 const CHANGED = "change-agent"
 
-export function limitsFor(root: string, ran: string): Limits {
+function limitsFor(root: string, ran: string): Limits {
   const one = listedAt(root, CHANGED, ran)[0]
   if (one === undefined) return NO_LIMITS
   const value = valueByPath(root, one.path)

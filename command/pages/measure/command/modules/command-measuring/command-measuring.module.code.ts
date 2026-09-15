@@ -75,7 +75,7 @@ export function heldIn(root: string): Reading {
   return { runs, unread, torn }
 }
 
-export function limitsFor(root: string, ran: string): Limits {
+function limitsFor(root: string, ran: string): Limits {
   const one = listedAt(root, COMMAND, ran)[0]
   if (one === undefined) return NO_LIMITS
   return { cpu: null, wall: secondsIn(valueByPath(root, one.path)), mem: null }

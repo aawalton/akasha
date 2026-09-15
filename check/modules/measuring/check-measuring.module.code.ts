@@ -95,7 +95,7 @@ export interface Limits {
 
 export const NO_LIMITS: Limits = { cpu: null, wall: null, mem: null }
 
-export function limitsIn(held: unknown): Limits {
+function limitsIn(held: unknown): Limits {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return NO_LIMITS
   const said = held as Value
   return {
