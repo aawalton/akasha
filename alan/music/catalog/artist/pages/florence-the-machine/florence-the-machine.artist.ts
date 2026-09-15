@@ -2,23 +2,23 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const florenceTheMachine = {
   id: "01a06803-676b-7010-814c-1bf9cae3ee99",
-  type: "page-type/artist",
+  type: "artist",
   slug: "florence-the-machine",
-  title: "Florence + The Machine",
-  partOfCollections: ["artist-collection/artists"],
-  position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "unit/minutes",
-  status: "following",
+  partOfCollections: ["artist-collection/artists"],
+  position: 0,
   rank: "B",
+  status: "following",
+  tags: ["Indie Pop Storyteller"],
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
       externalId: "1moxjboGR7GNWYIMWsRjgG",
       externalLink: "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG",
-      lastSyncedAt: "2026-02-14",
+      lastSyncedAt: "2026-09-15",
     },
   ],
-  tags: ["Indie Pop Storyteller"],
+  title: "Florence + The Machine",
 } as const satisfies Artist
