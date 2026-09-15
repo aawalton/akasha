@@ -204,9 +204,10 @@ const SELL_EVERYTHING: InventoryRuleSettings = {
   rules: [{ id: "sell-all", categoryId: "all", action: "sell" }],
 }
 
-test("an account holding no inventory settings at all is answered an empty rule set", () => {
+test("settings holding no rules at all are answered an empty rule set", () => {
   expect(toRuleSettings(undefined)).toEqual(EMPTY_SETTINGS)
   expect(toRuleSettings(null)).toEqual(EMPTY_SETTINGS)
+  expect(toRuleSettings({ version: 2 })).toEqual(EMPTY_SETTINGS)
 })
 
 test("settings marked version 2 are answered with every rule they carry", () => {
@@ -233,7 +234,7 @@ test("settings the shape refuses raise naming the field at fault", () => {
 })
 
 test("nothing the guard refuses is ever answered as an empty rule set", () => {
-  for (const refused of ["nope", [], { version: 1, rules: [] }, { version: 2 }]) {
+  for (const refused of ["nope", [], { version: 1, rules: [] }, { version: 2, rules: {} }]) {
     expect(() => toRuleSettings(refused)).toThrow()
   }
 })

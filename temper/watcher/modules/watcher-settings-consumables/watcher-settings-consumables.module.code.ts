@@ -105,7 +105,8 @@ function saidWrong(
 
 export function toRuleSettings(value: unknown): InventoryRuleSettings {
   if (value == null) return { version: 2, rules: [] }
-  const read = InventoryRuleSettingsShape.safeParse(value)
+  const blob = typeof value === "object" && !Array.isArray(value) ? { rules: [], ...value } : value
+  const read = InventoryRuleSettingsShape.safeParse(blob)
   if (read.success) return read.data
   throw new Error(
     `the inventory settings this account holds are no version 2 rule set, so they are neither ` +

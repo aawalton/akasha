@@ -71,5 +71,9 @@ export const watcherSettingsConsumables = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Settings carrying no rules are read as an empty rule set, the rules being pages.",
+    },
   ],
 } as const satisfies Module
