@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { noneOfTypeFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   assertSafeSiblingName,
   readSiblingAddonNames,
@@ -28,6 +29,7 @@ function addonDir(slug: string | null): Held {
   const root = scratch.rootFor("temper-sibling-")
   const dir = join(root, UNDER)
   mkdirSync(dir, { recursive: true })
+  noneOfTypeFiled(root, ESO_ADDON)
   valueAlsoFiled(
     root,
     ESO_ADDON,
