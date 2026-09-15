@@ -7,5 +7,6 @@ export const outputDirectory = {
   propertySlug: "output-directory",
   definition: "what a domain's build writes",
   folderName: "dist",
+  generated: true,
   types: "ts",
 } as const satisfies BuildFolderProperty

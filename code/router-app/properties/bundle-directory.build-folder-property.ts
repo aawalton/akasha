@@ -7,5 +7,6 @@ export const bundleDirectory = {
   propertySlug: "bundle-directory",
   definition: "the client and server bundles a build makes for an app",
   folderName: "build",
+  generated: true,
   types: "ts",
 } as const satisfies BuildFolderProperty

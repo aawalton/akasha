@@ -7,5 +7,6 @@ export const bytecodeDirectory = {
   propertySlug: "bytecode-directory",
   definition: "the bytecode Python writes for a module",
   folderName: "__pycache__",
+  generated: true,
   types: "ts",
 } as const satisfies BuildFolderProperty

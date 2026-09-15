@@ -7,5 +7,6 @@ export const webDirectory = {
   propertySlug: "web-directory",
   definition: "the site a build makes for an app",
   folderName: "www",
+  generated: true,
   types: "ts",
 } as const satisfies BuildFolderProperty

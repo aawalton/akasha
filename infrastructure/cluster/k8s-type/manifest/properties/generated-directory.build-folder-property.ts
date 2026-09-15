@@ -7,5 +7,6 @@ export const generatedDirectory = {
   propertySlug: "generated-directory",
   definition: "the YAML a synth writes from a manifest",
   folderName: "generated",
+  generated: true,
   types: "ts",
 } as const satisfies BuildFolderProperty

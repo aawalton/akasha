@@ -7,5 +7,6 @@ export const routeTypesDirectory = {
   propertySlug: "route-types-directory",
   definition: "the route types a typegen writes for an app",
   folderName: ".react-router",
+  generated: true,
   types: "ts",
 } as const satisfies BuildFolderProperty

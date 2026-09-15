@@ -7,5 +7,6 @@ export const declarationDirectory = {
   propertySlug: "declaration-directory",
   definition: "the type declarations a compile writes for an app",
   folderName: "dist",
+  generated: true,
   types: "ts",
 } as const satisfies BuildFolderProperty
