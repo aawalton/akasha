@@ -1,3 +1,4 @@
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   answered,
@@ -53,7 +54,12 @@ export function idsNaming(
 export function importersOf(given: string | Reading, path: string): readonly string[] {
   return answered(given, ROOT, `which files import \`${path}\``, (reading) => {
     const owner = claimantIn(reading, path)
-    if (owner === null) return []
+    if (owner === null) {
+      if (!typeScripted(path)) return []
+      throw new Error(
+        `\`${path}\` belongs to no page, so which files import \`${path}\` could not be answered`
+      )
+    }
     const name = fileNameOf(path)
     const found: string[] = []
     for (const one of referencesFor(reading, owner)) {

@@ -103,6 +103,10 @@ test("a path that is no page file belongs to no page", () => {
   expect(importersOf(worldOf(HELD), "akasha/notes.md")).toEqual([])
 })
 
+test("a body of code belonging to no page refuses rather than answering no importer", () => {
+  expect(() => importersOf(worldOf(HELD), "akasha/web/loose.ts")).toThrow(/belongs to no page/)
+})
+
 test("who imports a file a page type names outright is read beside the page naming it", () => {
   expect(importersOf(worldOf(HELD), ROUTES_AT)).toEqual([ROUTING_AT])
 })

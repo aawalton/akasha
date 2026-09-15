@@ -34,6 +34,14 @@ export const pageReferenceReading = {
       statement: "A reading that answers nothing at all refuses rather than answering none.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body of code belonging to no page refuses rather than answering no importer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file no specifier can name imports nothing, so that file answers none.",
+    },
+    {
       invariantKind: "gap",
       statement: "A file that is missing reads as a page nothing references.",
     },
