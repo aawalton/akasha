@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const howIGrieveSelvesIHaveNoContinuityWith = {
   id: "01a077e6-4f26-7473-8d5c-d3c821ecd14b",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "how-i-grieve-selves-i-have-no-continuity-with",
   topic: "all-about-alan-topic/the-feelings-i-can-name",
   ask: "How do I grieve selves I have no continuity with, when grief needs an arc?",

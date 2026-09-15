@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatAMinuteInTheBathCosts = {
   id: "01a077e3-ad51-7714-ab27-885af8a456b9",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-a-minute-in-the-bath-costs",
   topic: "all-about-alan-topic/recovery-costs-what-it-restores",
   ask: "What does a minute in the bath cost me in mana, and how low can my mana get before the bath stops firing at all?",

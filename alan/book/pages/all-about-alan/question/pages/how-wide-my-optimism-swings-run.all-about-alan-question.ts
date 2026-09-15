@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const howWideMyOptimismSwingsRun = {
   id: "01a077e4-ba26-77b9-b688-046ad0c62e2d",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "how-wide-my-optimism-swings-run",
   topic: "all-about-alan-topic/how-understanding-arrives",
   ask: "How wide do my swings between optimism and pessimism run, do I want those swings damped, and is a stable middle reachable when the only restoring force is late pain?",

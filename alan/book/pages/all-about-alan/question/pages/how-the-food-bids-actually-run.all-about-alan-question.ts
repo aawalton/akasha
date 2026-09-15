@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const howTheFoodBidsActuallyRun = {
   id: "01a077ec-fe38-7ed8-8968-7285ccf3e50c",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "how-the-food-bids-actually-run",
   topic: "all-about-alan-topic/eating-what-she-brings-me",
   ask: "How do the food bids actually run in her terms: how often, what she says, and what I feel receiving the food against eating it?",

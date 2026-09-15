@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const howFastEachSafetyLeverRuns = {
   id: "01a077ef-7e97-7420-b12f-83e017618fe4",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "how-fast-each-safety-lever-runs",
   topic: "all-about-alan-topic/how-safety-climbs",
   ask: "The three speeds are not pinned. What duration does each lever run at: slow surplus, faster repair with Jen, and a daily health shock?",

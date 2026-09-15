@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const howMuchMarginIActuallyHave = {
   id: "01a077e3-14c5-7b5a-b95e-00cbc12b2bbe",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "how-much-margin-i-actually-have",
   topic: "all-about-alan-topic/having-no-margin",
   ask: "How much margin do I actually have, and is margin worth measuring apart from what I can do at all?",

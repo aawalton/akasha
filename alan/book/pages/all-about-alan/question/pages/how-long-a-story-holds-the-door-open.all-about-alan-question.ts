@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const howLongAStoryHoldsTheDoorOpen = {
   id: "01a077e6-a8e9-7b02-8120-7c2ddd8a8c71",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "how-long-a-story-holds-the-door-open",
   topic: "all-about-alan-topic/how-a-story-gets-my-own-feeling-back",
   ask: "Does a story's retrieval hold the door to my feeling open for a while, or only flash it open in the moment?",

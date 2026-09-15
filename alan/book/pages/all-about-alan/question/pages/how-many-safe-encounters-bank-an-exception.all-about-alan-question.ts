@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const howManySafeEncountersBankAnException = {
   id: "01a077e9-7d74-798a-9b08-0098af796ba5",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "how-many-safe-encounters-bank-an-exception",
   topic: "all-about-alan-topic/how-i-read-whether-someone-is-safe",
   ask: "How many safe encounters bank an exception for a person, and does that exception override my default fully or only weaken the default?",

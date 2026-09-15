@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const howMuchMoreAVoicedPartnerTransfers = {
   id: "01a077f0-16d0-7398-b9c1-968a23538fef",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "how-much-more-a-voiced-partner-transfers",
   topic: "all-about-alan-topic/practising-closeness-somewhere-safe",
   ask: "How much more actually transfers to me from a voiced partner than from a written one?",

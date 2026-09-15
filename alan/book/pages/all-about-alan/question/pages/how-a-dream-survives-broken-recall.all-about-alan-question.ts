@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const howADreamSurvivesBrokenRecall = {
   id: "01a077ed-6e27-7c8b-abb1-7d83b1766b77",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "how-a-dream-survives-broken-recall",
   topic: "all-about-alan-topic/what-happens-when-i-sleep",
   ask: "If my waking recall is broken, how does enough of a dream survive for me to know it held senses and feelings, and to write it down?",

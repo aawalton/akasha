@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatJoinsMyTwoModelsOfCloseness = {
   id: "01a077e6-2bea-7d59-9465-5bbda8d85b3b",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-joins-my-two-models-of-closeness",
   topic: "all-about-alan-topic/why-getting-close-hurts",
   ask: "Closeness runs the damage count and also makes a judge inescapable. What joins two models that each put closeness at the centre of a different harm?",

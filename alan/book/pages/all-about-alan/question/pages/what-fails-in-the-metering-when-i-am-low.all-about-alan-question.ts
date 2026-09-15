@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatFailsInTheMeteringWhenIAmLow = {
   id: "01a077ef-d2c0-776c-ac7f-eac3e19b6179",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-fails-in-the-metering-when-i-am-low",
   topic: "all-about-alan-topic/why-too-much-and-too-little-swap-over",
   ask: "What actually fails in the metering when I am low on resources?",
