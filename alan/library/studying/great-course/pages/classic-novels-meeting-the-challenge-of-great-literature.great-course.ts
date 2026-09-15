@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const classicNovelsMeetingTheChallengeOfGreatLiterature = {
   id: "019db533-f39e-7a03-af73-b7489fed1912",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "classic-novels-meeting-the-challenge-of-great-literature",
   title: "Classic Novels: Meeting the Challenge of Great Literature",
   status: "not-started",

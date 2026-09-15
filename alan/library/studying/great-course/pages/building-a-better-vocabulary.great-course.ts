@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const buildingABetterVocabulary = {
   id: "019db533-f39e-78d6-bee3-6578e8ed08b6",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "building-a-better-vocabulary",
   title: "Building a Better Vocabulary",
   status: "completed",

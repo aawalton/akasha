@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const chamberMusicOfMozart = {
   id: "019db533-f3a0-757f-979d-f90dfcd8832a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "chamber-music-of-mozart",
   title: "Chamber Music of Mozart",
   status: "not-started",

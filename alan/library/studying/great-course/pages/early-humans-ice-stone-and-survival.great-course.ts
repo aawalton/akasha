@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const earlyHumansIceStoneAndSurvival = {
   id: "019db533-f39f-7ee1-bacc-b50da475fdf7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "early-humans-ice-stone-and-survival",
   title: "Early Humans: Ice, Stone, and Survival",
   status: "not-started",

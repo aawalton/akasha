@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const democracyAndItsAlternatives = {
   id: "019db533-f3a0-719c-b59e-7cf0c8a58cc3",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "democracy-and-its-alternatives",
   title: "Democracy and Its Alternatives",
   status: "completed",

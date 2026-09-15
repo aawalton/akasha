@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const aHistoryOfBritishIndia = {
   id: "019db533-f3a0-7043-bd28-d2eabb90ff9f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "a-history-of-british-india",
   title: "A History of British India",
   status: "completed",

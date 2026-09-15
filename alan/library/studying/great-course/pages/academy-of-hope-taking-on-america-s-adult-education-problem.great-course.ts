@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const academyOfHopeTakingOnAmericaSAdultEducationProblem = {
   id: "019db533-f39e-751e-9906-dfe0bbb55d20",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "academy-of-hope-taking-on-america-s-adult-education-problem",
   title: "Academy of Hope: Taking On America’s Adult Education Problem",
   status: "completed",

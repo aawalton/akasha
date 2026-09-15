@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const beingHumanLifeLessonsFromTheFrontiersOfScience = {
   id: "019db533-f39f-7289-b158-c442290ac393",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "being-human-life-lessons-from-the-frontiers-of-science",
   title: "Being Human: Life Lessons from the Frontiers of Science",
   status: "completed",

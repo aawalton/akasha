@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const aBrandCalledYou = {
   id: "019db533-f39e-72f9-9792-73a20df2e75c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "a-brand-called-you",
   title: "A Brand Called You",
   status: "completed",

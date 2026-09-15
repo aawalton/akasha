@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const biblicalWisdomLiterature = {
   id: "019db533-f39e-7aca-b9d8-2eb4fb60f78e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "biblical-wisdom-literature",
   title: "Biblical Wisdom Literature",
   status: "completed",

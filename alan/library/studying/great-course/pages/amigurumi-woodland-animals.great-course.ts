@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const amigurumiWoodlandAnimals = {
   id: "019db533-f39e-768c-a22b-b8ac0d8b25df",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "amigurumi-woodland-animals",
   title: "Amigurumi: Woodland Animals",
   status: "completed",

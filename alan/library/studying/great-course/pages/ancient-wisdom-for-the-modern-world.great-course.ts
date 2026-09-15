@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const ancientWisdomForTheModernWorld = {
   id: "019db533-f3a0-79b8-baa7-27d8e45a1d51",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "ancient-wisdom-for-the-modern-world",
   title: "Ancient Wisdom for the Modern World",
   status: "completed",

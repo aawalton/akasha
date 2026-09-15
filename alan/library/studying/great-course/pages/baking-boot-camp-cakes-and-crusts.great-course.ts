@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const bakingBootCampCakesAndCrusts = {
   id: "019db533-f398-73f1-942a-42b89c2ef96e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "baking-boot-camp-cakes-and-crusts",
   title: "Baking Boot Camp: Cakes & Crusts",
   status: "completed",

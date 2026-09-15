@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const elevateYourEverydayCookingWithCurtisStone = {
   id: "019db533-f39f-79de-ad6d-2c7849746eed",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "elevate-your-everyday-cooking-with-curtis-stone",
   title: "Elevate Your Everyday Cooking with Curtis Stone",
   status: "completed",

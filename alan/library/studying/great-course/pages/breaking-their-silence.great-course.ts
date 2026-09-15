@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const breakingTheirSilence = {
   id: "019db533-f3a0-714a-9471-163bb5dbee64",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "breaking-their-silence",
   title: "Breaking Their Silence",
   status: "completed",

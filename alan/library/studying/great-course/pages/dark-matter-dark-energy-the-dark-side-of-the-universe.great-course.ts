@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const darkMatterDarkEnergyTheDarkSideOfTheUniverse = {
   id: "019db533-f39f-70bf-b694-00e02f724f1d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "dark-matter-dark-energy-the-dark-side-of-the-universe",
   title: "Dark Matter, Dark Energy: The Dark Side of the Universe",
   status: "not-started",

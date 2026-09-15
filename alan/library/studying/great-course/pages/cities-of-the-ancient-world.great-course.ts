@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const citiesOfTheAncientWorld = {
   id: "019db533-f39f-7ea2-a01f-5b5c5d899b6a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "cities-of-the-ancient-world",
   title: "Cities of the Ancient World",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const booksThatMatterTheHistoryOfTheDeclineAndFallOfTheRomanEmp = {
   id: "019db533-f3a0-71a1-a119-24a61435fdb7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "books-that-matter-the-history-of-the-decline-and-fall-of-the-roman-emp",
   title: "Books That Matter: The History of the Decline and Fall of the Roman Empire",
   status: "completed",

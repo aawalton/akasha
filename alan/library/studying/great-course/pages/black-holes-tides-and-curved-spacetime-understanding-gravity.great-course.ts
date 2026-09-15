@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const blackHolesTidesAndCurvedSpacetimeUnderstandingGravity = {
   id: "019db533-f39f-7060-b4a0-bf4927f156e7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "black-holes-tides-and-curved-spacetime-understanding-gravity",
   title: "Black Holes, Tides, and Curved Spacetime: Understanding Gravity",
   status: "not-started",

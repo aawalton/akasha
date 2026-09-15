@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const anEconomicHistoryOfTheWorldSince1400 = {
   id: "019db533-f39f-7f77-9f71-12d44a192519",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "an-economic-history-of-the-world-since-1400",
   title: "An Economic History of the World since 1400",
   status: "completed",

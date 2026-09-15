@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const celebrateWithCookies19FavoriteDesigns = {
   id: "019db533-f39f-7b3e-a4cb-d0c6cd816cab",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "celebrate-with-cookies-19-favorite-designs",
   title: "Celebrate With Cookies: 19 Favorite Designs",
   status: "completed",

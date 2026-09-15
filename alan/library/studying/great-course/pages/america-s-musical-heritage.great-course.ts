@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const americaSMusicalHeritage = {
   id: "019db533-f3a0-756a-aca4-8d58d6952e5b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "america-s-musical-heritage",
   title: "America's Musical Heritage",
   status: "completed",

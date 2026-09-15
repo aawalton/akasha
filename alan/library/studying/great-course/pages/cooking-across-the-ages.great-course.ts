@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const cookingAcrossTheAges = {
   id: "019db533-f39f-7a1e-8c5c-ae144817e45e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "cooking-across-the-ages",
   title: "Cooking across the Ages",
   status: "completed",

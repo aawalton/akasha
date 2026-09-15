@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const didYouKnow = {
   id: "019db533-f39e-763e-8359-11be06a56c45",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "did-you-know",
   title: "Did You Know?",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const americanSignLanguageForEveryone = {
   id: "019db533-f39e-77e3-a05a-6cdba52ef750",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "american-sign-language-for-everyone",
   title: "American Sign Language for Everyone",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const concertMasterworks = {
   id: "019db533-f3a0-751f-b1f7-80b3fc502c44",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "concert-masterworks",
   title: "Concert Masterworks",
   status: "not-started",

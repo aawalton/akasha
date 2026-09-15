@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const decorateLikeADesignerWithJonathanAdler = {
   id: "019db533-f39e-762f-ab54-b5ddce005736",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "decorate-like-a-designer-with-jonathan-adler",
   title: "Decorate like a Designer, with Jonathan Adler",
   status: "not-started",

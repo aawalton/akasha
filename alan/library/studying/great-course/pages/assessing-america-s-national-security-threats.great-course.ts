@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const assessingAmericaSNationalSecurityThreats = {
   id: "019db533-f39f-7e62-a4de-d08253eb0ae8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "assessing-america-s-national-security-threats",
   title: "Assessing America’s National Security Threats",
   status: "completed",

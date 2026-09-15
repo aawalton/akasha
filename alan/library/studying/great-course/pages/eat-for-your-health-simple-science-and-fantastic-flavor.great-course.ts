@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const eatForYourHealthSimpleScienceAndFantasticFlavor = {
   id: "019db533-f39f-7a48-b0b7-ce87f9ccb2fd",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "eat-for-your-health-simple-science-and-fantastic-flavor",
   title: "Eat for Your Health: Simple Science and Fantastic Flavor",
   status: "completed",

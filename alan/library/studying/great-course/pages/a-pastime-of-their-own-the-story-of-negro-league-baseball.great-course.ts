@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const aPastimeOfTheirOwnTheStoryOfNegroLeagueBaseball = {
   id: "019db533-f39f-7b93-8d76-88933c843e82",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "a-pastime-of-their-own-the-story-of-negro-league-baseball",
   title: "A Pastime of Their Own: The Story of Negro League Baseball",
   status: "completed",

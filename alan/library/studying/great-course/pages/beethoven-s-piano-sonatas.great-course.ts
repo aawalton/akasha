@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const beethovenSPianoSonatas = {
   id: "019db533-f3a0-75b4-906c-ce25e8c0d85d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "beethoven-s-piano-sonatas",
   title: "Beethoven's Piano Sonatas",
   status: "completed",

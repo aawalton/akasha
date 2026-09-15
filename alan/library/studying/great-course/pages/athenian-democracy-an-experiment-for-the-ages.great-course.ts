@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const athenianDemocracyAnExperimentForTheAges = {
   id: "019db533-f3a0-717a-8177-e72ec18e0f79",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "athenian-democracy-an-experiment-for-the-ages",
   title: "Athenian Democracy: An Experiment for the Ages",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const booksThatHaveMadeHistoryBooksThatCanChangeYourLife = {
   id: "019db533-f39e-779c-bd59-e5bbc74486ac",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "books-that-have-made-history-books-that-can-change-your-life",
   title: "Books That Have Made History: Books That Can Change Your Life",
   status: "not-started",

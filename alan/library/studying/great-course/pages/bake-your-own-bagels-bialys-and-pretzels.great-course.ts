@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const bakeYourOwnBagelsBialysAndPretzels = {
   id: "019db533-f39f-7b08-a2e8-fa4f09ab801c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "bake-your-own-bagels-bialys-and-pretzels",
   title: "Bake Your Own Bagels, Bialys & Pretzels",
   status: "completed",

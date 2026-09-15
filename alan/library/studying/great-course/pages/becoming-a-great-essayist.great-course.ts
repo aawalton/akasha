@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const becomingAGreatEssayist = {
   id: "019db533-f39e-7784-a3ca-6d5c15ee1402",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "becoming-a-great-essayist",
   title: "Becoming a Great Essayist",
   status: "completed",

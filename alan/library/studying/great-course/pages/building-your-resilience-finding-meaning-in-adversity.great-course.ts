@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const buildingYourResilienceFindingMeaningInAdversity = {
   id: "019db533-f39e-747c-8f06-1b43fe81932c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "building-your-resilience-finding-meaning-in-adversity",
   title: "Building Your Resilience: Finding Meaning in Adversity",
   status: "not-started",

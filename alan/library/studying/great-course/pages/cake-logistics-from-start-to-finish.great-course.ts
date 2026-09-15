@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const cakeLogisticsFromStartToFinish = {
   id: "019db533-f39f-7afe-a6f6-c54d7777f2bd",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "cake-logistics-from-start-to-finish",
   title: "Cake Logistics From Start to Finish",
   status: "completed",

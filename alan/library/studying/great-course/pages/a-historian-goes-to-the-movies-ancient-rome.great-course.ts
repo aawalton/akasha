@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const aHistorianGoesToTheMoviesAncientRome = {
   id: "019db533-f3a0-723b-8734-66eb38075085",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "a-historian-goes-to-the-movies-ancient-rome",
   title: "A Historian Goes to the Movies: Ancient Rome",
   status: "completed",

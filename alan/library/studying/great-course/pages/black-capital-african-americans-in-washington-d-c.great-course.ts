@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const blackCapitalAfricanAmericansInWashingtonDC = {
   id: "019db533-f39f-7ef6-8655-d1c5ada0843f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "black-capital-african-americans-in-washington-d-c",
   title: "Black Capital: African Americans in Washington, D.C.",
   status: "completed",

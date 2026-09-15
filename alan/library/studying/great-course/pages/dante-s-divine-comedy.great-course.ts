@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const danteSDivineComedy = {
   id: "019db533-f39e-79bd-8a93-288adcdf5817",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "dante-s-divine-comedy",
   title: "Dante's Divine Comedy",
   status: "not-started",

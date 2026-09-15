@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const biblicalHebrewLearningASacredLanguage = {
   id: "019db533-f3a0-7167-8ccc-e9d2e0a90d0b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "biblical-hebrew-learning-a-sacred-language",
   title: "Biblical Hebrew: Learning a Sacred Language",
   status: "completed",

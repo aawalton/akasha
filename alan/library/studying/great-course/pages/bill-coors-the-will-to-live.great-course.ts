@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const billCoorsTheWillToLive = {
   id: "019db533-f3a0-7a4e-8a64-be099e3476f1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "bill-coors-the-will-to-live",
   title: "Bill Coors: The Will to Live",
   status: "completed",

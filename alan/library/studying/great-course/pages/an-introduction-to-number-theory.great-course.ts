@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const anIntroductionToNumberTheory = {
   id: "019db533-f3a0-7a38-bde8-bfebfea94124",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "an-introduction-to-number-theory",
   title: "An Introduction to Number Theory",
   status: "completed",

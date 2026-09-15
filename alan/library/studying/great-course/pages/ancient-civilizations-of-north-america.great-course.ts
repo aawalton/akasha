@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const ancientCivilizationsOfNorthAmerica = {
   id: "019db533-f39f-7ec2-a174-a2a3b62d3f4f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "ancient-civilizations-of-north-america",
   title: "Ancient Civilizations of North America",
   status: "completed",

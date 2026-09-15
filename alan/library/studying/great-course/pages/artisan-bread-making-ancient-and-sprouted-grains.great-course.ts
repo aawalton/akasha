@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const artisanBreadMakingAncientAndSproutedGrains = {
   id: "019db533-f398-73d2-b13e-8ad42476e326",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "artisan-bread-making-ancient-and-sprouted-grains",
   title: "Artisan Bread Making: Ancient & Sprouted Grains",
   status: "completed",

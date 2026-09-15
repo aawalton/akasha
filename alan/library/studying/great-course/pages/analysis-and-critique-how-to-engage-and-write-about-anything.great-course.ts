@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const analysisAndCritiqueHowToEngageAndWriteAboutAnything = {
   id: "019db533-f39e-77db-87ca-2f445353e23c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "analysis-and-critique-how-to-engage-and-write-about-anything",
   title: "Analysis and Critique: How to Engage and Write about Anything",
   status: "completed",

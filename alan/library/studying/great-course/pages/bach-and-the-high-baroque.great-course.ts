@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const bachAndTheHighBaroque = {
   id: "019db533-f3a0-7594-b15d-f69138bdbddf",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "bach-and-the-high-baroque",
   title: "Bach and the High Baroque",
   status: "in-progress",

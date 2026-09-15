@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const buddhism = {
   id: "019db533-f39e-7d14-9215-c9c103499e84",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "buddhism",
   title: "Buddhism",
   status: "in-progress",

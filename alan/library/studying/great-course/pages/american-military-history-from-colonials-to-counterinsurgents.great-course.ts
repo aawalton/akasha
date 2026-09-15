@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const americanMilitaryHistoryFromColonialsToCounterinsurgents = {
   id: "019db533-f3a0-7154-adff-3606e3b664fc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "american-military-history-from-colonials-to-counterinsurgents",
   title: "American Military History: From Colonials to Counterinsurgents",
   status: "completed",

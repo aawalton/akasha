@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const discoveringWestAfricaGhanaSenegalCameroon = {
   id: "019db533-f39f-72a9-8d72-7ec5db3cd4de",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "discovering-west-africa-ghana-senegal-cameroon",
   title: "Discovering West Africa: Ghana, Senegal, Cameroon",
   status: "completed",

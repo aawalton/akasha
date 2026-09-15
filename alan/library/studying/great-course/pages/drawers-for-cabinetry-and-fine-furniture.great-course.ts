@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const drawersForCabinetryAndFineFurniture = {
   id: "019db533-f39e-7684-ba6d-594d07a816d2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "drawers-for-cabinetry-and-fine-furniture",
   title: "Drawers for Cabinetry & Fine Furniture",
   status: "completed",

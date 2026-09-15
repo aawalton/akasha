@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const askADogTrainer = {
   id: "019db533-f39e-766d-ba4b-560e1cccbac1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "ask-a-dog-trainer",
   title: "Ask a Dog Trainer",
   status: "completed",

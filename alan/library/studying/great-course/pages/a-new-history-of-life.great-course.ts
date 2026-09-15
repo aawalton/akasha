@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const aNewHistoryOfLife = {
   id: "019db533-f39f-7425-ab63-63a4812c350b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "a-new-history-of-life",
   title: "A New History of Life",
   status: "completed",

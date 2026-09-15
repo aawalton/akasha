@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const doItYourselfEngineering = {
   id: "019db533-f39f-7312-81f0-f0ff4860a84a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "do-it-yourself-engineering",
   title: "Do-It-Yourself Engineering",
   status: "not-started",

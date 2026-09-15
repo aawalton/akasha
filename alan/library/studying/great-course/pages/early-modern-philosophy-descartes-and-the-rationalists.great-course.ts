@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const earlyModernPhilosophyDescartesAndTheRationalists = {
   id: "019db533-f39e-7cdd-b34a-94894bc767de",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "early-modern-philosophy-descartes-and-the-rationalists",
   title: "Early Modern Philosophy: Descartes and the Rationalists",
   status: "not-started",

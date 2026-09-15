@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const cardmakingEssentialsThankYouCards = {
   id: "019db533-f39f-7635-a292-7cd2e0d3e00e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "cardmaking-essentials-thank-you-cards",
   title: "Cardmaking Essentials: Thank You Cards",
   status: "completed",

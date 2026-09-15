@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const charlemagneFatherOfEurope = {
   id: "019db533-f39f-7e43-8bea-c547a5f7f45f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "charlemagne-father-of-europe",
   title: "Charlemagne: Father of Europe",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const airFryerEssentials = {
   id: "019db533-f398-73fe-977f-d16feccbc07d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "air-fryer-essentials",
   title: "Air Fryer Essentials",
   status: "completed",

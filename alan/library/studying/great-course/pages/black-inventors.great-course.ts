@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const blackInventors = {
   id: "019db533-f3a0-74ff-82df-7bb550784d87",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "black-inventors",
   title: "Black Inventors",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const biochemistryAndMolecularBiologyHowLifeWorks = {
   id: "019db533-f39f-70d4-aae7-39198481b873",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "biochemistry-and-molecular-biology-how-life-works",
   title: "Biochemistry and Molecular Biology: How Life Works",
   status: "in-progress",

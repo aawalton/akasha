@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const crochetInTheRoundBasicsAndBeyond = {
   id: "019db533-f39e-77c4-a768-8cef51a4b381",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "crochet-in-the-round-basics-and-beyond",
   title: "Crochet in the Round: Basics & Beyond",
   status: "completed",

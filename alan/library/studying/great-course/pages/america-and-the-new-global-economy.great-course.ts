@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const americaAndTheNewGlobalEconomy = {
   id: "019db533-f3a0-7162-916c-9845b4cb45c0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "america-and-the-new-global-economy",
   title: "America and the New Global Economy",
   status: "completed",

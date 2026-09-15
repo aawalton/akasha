@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const effectiveEditingHowToTakeYourWritingToTheNextLevel = {
   id: "019db533-f39e-78f4-b58c-6b83b6062eaa",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "effective-editing-how-to-take-your-writing-to-the-next-level",
   title: "Effective Editing: How to Take Your Writing to the Next Level",
   status: "not-started",

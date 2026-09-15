@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const cookingBetterWithScience = {
   id: "019db533-f39f-7a3e-b69b-1b0bfacdd1cd",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "cooking-better-with-science",
   title: "Cooking Better with Science",
   status: "completed",

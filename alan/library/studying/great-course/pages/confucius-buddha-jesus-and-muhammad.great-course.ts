@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const confuciusBuddhaJesusAndMuhammad = {
   id: "019db533-f39e-7b01-a400-5a467c3d47a8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "confucius-buddha-jesus-and-muhammad",
   title: "Confucius, Buddha, Jesus, and Muhammad",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const creationStoriesOfTheAmericas = {
   id: "019db533-f389-712d-9e05-67c928da8d45",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "creation-stories-of-the-americas",
   title: "Creation Stories of the Americas",
   status: "not-started",

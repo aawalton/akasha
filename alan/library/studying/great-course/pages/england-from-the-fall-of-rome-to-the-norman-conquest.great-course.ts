@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const englandFromTheFallOfRomeToTheNormanConquest = {
   id: "019db533-f3a0-714f-8e4e-eff718023b65",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "england-from-the-fall-of-rome-to-the-norman-conquest",
   title: "England: From the Fall of Rome to the Norman Conquest",
   status: "completed",

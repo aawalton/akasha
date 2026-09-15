@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const artJournalingWithWatercolorInkAndMore = {
   id: "019db533-f39f-75f5-9e8a-b90930e10f7e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "art-journaling-with-watercolor-ink-and-more",
   title: "Art Journaling With Watercolor, Ink & More",
   status: "completed",

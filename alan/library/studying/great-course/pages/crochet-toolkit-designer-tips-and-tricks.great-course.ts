@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const crochetToolkitDesignerTipsAndTricks = {
   id: "019db533-f39e-7694-88d1-709d48f167da",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "crochet-toolkit-designer-tips-and-tricks",
   title: "Crochet Toolkit: Designer Tips & Tricks",
   status: "completed",

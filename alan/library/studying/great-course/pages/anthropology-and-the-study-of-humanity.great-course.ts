@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const anthropologyAndTheStudyOfHumanity = {
   id: "019db533-f39f-7f62-802a-4a787423b9f0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "anthropology-and-the-study-of-humanity",
   title: "Anthropology and the Study of Humanity",
   status: "completed",

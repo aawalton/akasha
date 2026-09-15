@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const americaSLongStruggleAgainstSlavery = {
   id: "019db533-f39f-7b88-9413-6f230148a679",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "america-s-long-struggle-against-slavery",
   title: "America’s Long Struggle against Slavery",
   status: "completed",

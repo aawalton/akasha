@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const archaeologyAnIntroductionToTheWorldSGreatestSites = {
   id: "019db533-f3a0-7197-aac1-6835c1aef092",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "archaeology-an-introduction-to-the-world-s-greatest-sites",
   title: "Archaeology: An Introduction to the World's Greatest Sites",
   status: "completed",

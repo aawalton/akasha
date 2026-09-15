@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const afterThePlague = {
   id: "019db533-f3a0-75bf-ad96-a046b48bb8c0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "after-the-plague",
   title: "After the Plague",
   status: "completed",

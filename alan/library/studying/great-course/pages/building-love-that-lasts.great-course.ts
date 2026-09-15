@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const buildingLoveThatLasts = {
   id: "019db533-f39e-7774-bb14-9dff48d0323d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "building-love-that-lasts",
   title: "Building Love That Lasts",
   status: "not-started",

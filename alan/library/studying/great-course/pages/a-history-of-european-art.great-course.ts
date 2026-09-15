@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const aHistoryOfEuropeanArt = {
   id: "019db533-f39f-765f-a190-3940beffa014",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "a-history-of-european-art",
   title: "A History of European Art",
   status: "completed",

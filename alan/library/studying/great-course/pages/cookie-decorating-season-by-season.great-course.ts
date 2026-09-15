@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const cookieDecoratingSeasonBySeason = {
   id: "019db533-f39f-7a13-9e39-cea41e8b8c9d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "cookie-decorating-season-by-season",
   title: "Cookie Decorating Season by Season",
   status: "completed",

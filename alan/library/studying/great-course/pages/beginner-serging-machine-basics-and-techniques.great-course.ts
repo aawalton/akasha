@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const beginnerSergingMachineBasicsAndTechniques = {
   id: "019db533-f39e-77cb-acc6-68c033a63b68",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "beginner-serging-machine-basics-and-techniques",
   title: "Beginner Serging: Machine Basics and Techniques",
   status: "completed",

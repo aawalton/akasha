@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const anIntroductionToInfectiousDiseases = {
   id: "019db533-f3a0-7964-8394-f6ffcfb7b7f9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "an-introduction-to-infectious-diseases",
   title: "An Introduction to Infectious Diseases",
   status: "completed",

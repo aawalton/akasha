@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const classicCakesFromBakedBakery = {
   id: "019db533-f389-715b-879d-7fa013c9e1f3",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "classic-cakes-from-baked-bakery",
   title: "Classic Cakes From Baked Bakery",
   status: "completed",

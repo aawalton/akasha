@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const adobePhotoshopCcTheCompleteGuide = {
   id: "019db533-f39e-750f-a43b-1e90172e91a9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "adobe-photoshop-cc-the-complete-guide",
   title: "Adobe Photoshop CC: The Complete Guide",
   status: "completed",
