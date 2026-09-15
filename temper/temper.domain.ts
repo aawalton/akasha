@@ -32,7 +32,7 @@ export const temper = {
     "domain/temper-catalog-core",
     "domain/temper-catalog-host",
     "domain/temper-catalog-side-file",
-    "domain/temper-champion-points",
+    "domain/temper-champion-point",
     "domain/temper-character",
     "domain/temper-character-build",
     "domain/temper-character-skills",

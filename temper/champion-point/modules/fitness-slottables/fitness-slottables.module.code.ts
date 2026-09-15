@@ -1,4 +1,4 @@
-import type { ChampionPointTemplate } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
+import type { ChampionPointTemplate } from "akasha/temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import { createDataFile } from "akasha/util/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const FITNESS_SLOTTABLE_CHAMPION_POINTS = {

@@ -372,7 +372,7 @@
 {"propertySlug":"invariant-kind","path":"temper/capture-writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
-{"propertySlug":"invariant-kind","path":"temper/champion-points/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
+{"propertySlug":"invariant-kind","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
 {"propertySlug":"invariant-kind","path":"temper/character-skills/modules/character-skill-template/character-skill-template.module.ts","id":"01a0617a-2c70-7581-9900-cbdb1ccbe478"}
 {"propertySlug":"invariant-kind","path":"temper/character-skills/modules/character-skills-00/character-skills-00.module.ts","id":"01a06182-7818-7e29-abd6-c2963db70f64"}
 {"propertySlug":"invariant-kind","path":"temper/character-skills/modules/character-skills-01/character-skills-01.module.ts","id":"01a06182-7819-71e6-858d-af00abb1471b"}

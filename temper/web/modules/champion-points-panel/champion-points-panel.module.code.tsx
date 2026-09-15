@@ -1,7 +1,7 @@
 "use client"
 
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import type { ChampionPointId } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
+import type { ChampionPointId } from "akasha/temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { ConstellationPanelCard } from "akasha/temper/web/modules/constellation-panel-card/constellation-panel-card.module.code.tsx"
 
