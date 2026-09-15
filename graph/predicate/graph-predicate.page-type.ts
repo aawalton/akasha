@@ -6,7 +6,12 @@ export const graphPredicate = {
   slug: "graph-predicate",
   definition: "a rule saying which nodes and edges a closure takes in",
   extends: ["page-type/domain"],
-  parts: ["relation-property/edges", "text-property/direction"],
+  parts: [
+    "graph-predicate/importers",
+    "graph-predicate/imports",
+    "relation-property/edges",
+    "text-property/direction",
+  ],
   properties: [
     { pageProperty: "relation-property/edges", required: true, many: true, maxCount: null },
     { pageProperty: "text-property/direction", required: true, many: false },
