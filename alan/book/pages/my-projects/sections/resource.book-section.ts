@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const resource = {
   id: "01a06594-c68d-7002-82b7-c6c949575efb",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "resource",
   title: "Solar Resource at Provo",
   sectionOf: "book-section/solar-power/efficiency-factors",

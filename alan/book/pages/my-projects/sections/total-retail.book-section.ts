@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const totalRetail = {
   id: "01a06594-c68e-7003-8dca-ddfdf606eb5f",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "total-retail",
   title: "Total Retail $/W",
   sectionOf: "book-section/solar-power/pricing",

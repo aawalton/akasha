@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const bookChapter006TheDependencyGraph = {
   id: "01a06594-c68f-7006-aec2-1519277b41ee",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "book-chapter-006-the-dependency-graph",
   title: "The dependency graph",
   sectionOf: "alan-book/my-strategy",

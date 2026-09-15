@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const waterAndAppliances = {
   id: "01a06594-c68d-700a-b663-386fa4f16d24",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "water-and-appliances",
   title: "Domestic Hot Water + Appliances",
   sectionOf: "book-section/solar-power/energy-demand",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const regional = {
   id: "01a06594-c68d-7017-8b1c-cb1325796bdc",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "regional",
   title: "Regional Installers",
   sectionOf: "book-section/solar-power/installers",

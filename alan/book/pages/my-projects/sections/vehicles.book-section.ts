@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const vehicles = {
   id: "01a06594-c68d-7009-a047-54f198e92b0a",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "vehicles",
   title: "Two Electric Vehicles",
   sectionOf: "book-section/solar-power/energy-demand",

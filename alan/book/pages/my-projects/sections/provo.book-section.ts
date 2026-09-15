@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const provo = {
   id: "01a06594-c68d-7001-bb47-b48d44e07fa5",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "provo",
   title: "Provo-Specific Anchor Numbers",
   sectionOf: "book-section/solar-power/efficiency-factors",

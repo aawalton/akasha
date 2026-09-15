@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const sizing = {
   id: "01a06594-c68e-700c-9a9c-c6e3f9ee0198",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "sizing",
   title: "Sizing",
   sectionOf: "book-section/my-projects/solar-power",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const specialCategory = {
   id: "01a06594-c68b-7012-a169-8a5c0f88db74",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "special-category",
   title: "Special Category",
   sectionOf: "book-section/other-residency/other-residency-australia",

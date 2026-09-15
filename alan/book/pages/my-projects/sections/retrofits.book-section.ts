@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const retrofits = {
   id: "01a06594-c68d-7010-a5b4-7dfb20d24956",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "retrofits",
   title: "Retrofit Packages — Leverage Ranking",
   sectionOf: "book-section/solar-power/envelope",

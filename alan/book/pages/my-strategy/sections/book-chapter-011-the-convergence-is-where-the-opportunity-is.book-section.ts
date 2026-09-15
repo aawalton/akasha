@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const bookChapter011TheConvergenceIsWhereTheOpportunityIs = {
   id: "01a06594-c68f-700b-ae1a-a74471119a44",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "book-chapter-011-the-convergence-is-where-the-opportunity-is",
   title: "The convergence is where the opportunity is",
   sectionOf: "alan-book/my-strategy",
