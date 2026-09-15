@@ -44,9 +44,11 @@ test("a title and notes the rule holds as nothing are left off the page", () => 
   expect("description" in page).toBe(false)
 })
 
-test("a condition key is written as the field slug it names", () => {
+test("a condition key is written by the page type and slug naming the field", () => {
   const held = pageFromRule({ ...RULE, conditions: { maxQuality: 1 } }, ACCOUNT, 0)
-  expect(held.conditions).toEqual([{ conditionField: "max-quality", conditionValue: "1" }])
+  expect(held.conditions).toEqual([
+    { conditionField: "temper-condition-field/max-quality", conditionValue: "1" },
+  ])
 })
 
 test("text no JSON reader would take is written as the text it is", () => {

@@ -31,6 +31,10 @@ export const inventoryRuleToPages = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A condition field is written by the page type and slug naming the field.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A rule saying nothing about when the rule changed is written as the epoch.",
     },
     {

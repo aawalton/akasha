@@ -12,7 +12,7 @@ const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
 const AN_INSTANT = "1970-01-01T00:00:00.000Z"
 
-const A_ROW = { conditionField: "known", conditionValue: "known" }
+const A_ROW = { conditionField: "temper-condition-field/known", conditionValue: "known" }
 
 function ruleOf(id: string, over: Partial<CategoryRule> = {}): CategoryRule {
   return { id, categoryId: "scripts", action: "sell", ...over }

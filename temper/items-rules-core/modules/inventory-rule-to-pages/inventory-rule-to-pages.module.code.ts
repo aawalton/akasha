@@ -13,6 +13,8 @@ const ITEM_ACTION = "temper-item-action"
 
 const RULE_GOAL = "temper-rule-goal"
 
+const CONDITION_FIELD = "temper-condition-field"
+
 function slugOf(key: string): string {
   let out = ""
   for (const letter of key) {
@@ -45,7 +47,10 @@ function conditionsOf(rule: CategoryRule): readonly ConditionEntry[] {
   const out: ConditionEntry[] = []
   for (const [key, value] of Object.entries(held)) {
     if (value === undefined) continue
-    out.push({ conditionField: slugOf(key), conditionValue: spelling(value) })
+    out.push({
+      conditionField: namedAs(CONDITION_FIELD, slugOf(key), null),
+      conditionValue: spelling(value),
+    })
   }
   return out
 }
