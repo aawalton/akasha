@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const ram15002025 = {
   id: "019e4af6-fe9d-7092-933c-e8f493b9ed2e",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "ram-1500-2025",
   title: "2025",
   modelYear: 2025,

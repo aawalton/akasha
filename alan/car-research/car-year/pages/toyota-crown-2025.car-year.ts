@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const toyotaCrown2025 = {
   id: "019e4b05-5307-7266-ad49-f39c2a5e8992",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "toyota-crown-2025",
   title: "2025",
   modelYear: 2025,

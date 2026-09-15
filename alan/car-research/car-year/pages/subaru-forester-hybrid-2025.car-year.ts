@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const subaruForesterHybrid2025 = {
   id: "019e4af8-208e-7478-99c8-ad7ab732ba80",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "subaru-forester-hybrid-2025",
   title: "2025",
   modelYear: 2025,

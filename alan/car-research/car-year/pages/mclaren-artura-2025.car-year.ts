@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const mclarenArtura2025 = {
   id: "019e4aec-a467-7c6f-8d86-e4355d39d773",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "mclaren-artura-2025",
   title: "2025",
   modelYear: 2025,

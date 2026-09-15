@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const volvoS602025 = {
   id: "019e4aff-30e8-722e-ab20-eb78d168f5fc",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "volvo-s60-2025",
   title: "2025",
   modelYear: 2025,

@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const subaruUncharted2026 = {
   id: "019e4af8-a37b-742e-92e6-1dabdda12d09",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "subaru-uncharted-2026",
   title: "2026",
   modelYear: 2026,

@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const toyota4runnerHybrid2026 = {
   id: "019e4b11-00ba-7d0c-beca-4d05ad63c3b5",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "toyota-4runner-hybrid-2026",
   title: "2026",
   modelYear: 2026,

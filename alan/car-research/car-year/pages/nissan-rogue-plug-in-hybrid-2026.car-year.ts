@@ -2,7 +2,7 @@ import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-ty
 
 export const nissanRoguePlugInHybrid2026 = {
   id: "019e4af2-ae2c-7ca6-9afe-18535a3afd94",
-  type: "car-year",
+  type: "page-type/car-year",
   slug: "nissan-rogue-plug-in-hybrid-2026",
   title: "2026",
   modelYear: 2026,
