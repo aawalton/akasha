@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const infrastructureServiceStop = {
   id: "01a09408-a1a1-7e96-9e19-38cfb6a5715e",
-  type: "command",
+  type: "page-type/command",
   slug: "infrastructure-service-stop",
   definition: "the command asking systemd to end one service's unit",
   code: "ts",

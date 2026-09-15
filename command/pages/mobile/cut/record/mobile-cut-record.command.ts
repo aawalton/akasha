@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const mobileCutRecord = {
   id: "01a0685d-ceae-7002-b932-ab750606b438",
-  type: "command",
+  type: "page-type/command",
   slug: "mobile-cut-record",
   definition: "the command filing what a TestFlight build already at Apple was cut from",
   code: "ts",

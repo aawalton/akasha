@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperErrorList = {
   id: "01a0603c-c1cd-7e91-9eb8-0b6cf8d8b9e5",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-error-list",
   definition: "the command naming the game's Lua errors the errors addon captured",
   code: "ts",

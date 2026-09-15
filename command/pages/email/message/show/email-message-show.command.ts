@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const emailMessageShow = {
   id: "01a06810-cf11-79cf-8583-56ab486a6b70",
-  type: "command",
+  type: "page-type/command",
   slug: "email-message-show",
   definition: "the command fetching one Gmail message whole, its plain-text body decoded",
   code: "ts",

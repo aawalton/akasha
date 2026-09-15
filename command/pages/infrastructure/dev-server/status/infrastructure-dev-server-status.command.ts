@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const infrastructureDevServerStatus = {
   id: "01a09404-18a4-709b-8039-58c3e580da98",
-  type: "command",
+  type: "page-type/command",
   slug: "infrastructure-dev-server-status",
   definition: "the command reading whether an app's dev server is running or stopped",
   code: "ts",

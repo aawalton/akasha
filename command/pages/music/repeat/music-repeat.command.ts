@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicRepeat = {
   id: "01a0a029-748e-779a-a462-6cd1bf166536",
-  type: "command",
+  type: "page-type/command",
   slug: "music-repeat",
   definition: "the command putting a Spotify device on playing the track or the queue again",
   code: "ts",

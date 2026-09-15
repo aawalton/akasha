@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceActivate = {
   id: "01a0685e-fd50-7dbf-9d25-99f97c25cd78",
-  type: "command",
+  type: "page-type/command",
   slug: "inference-activate",
   definition: "the command making one pool service the resident the traffic cop serves",
   code: "ts",

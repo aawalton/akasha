@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const mobileTestflightStatus = {
   id: "01a0685d-ceae-7005-b619-65388a8bde61",
-  type: "command",
+  type: "page-type/command",
   slug: "mobile-testflight-status",
   definition: "the command saying how far App Store Connect has got with the newest build",
   code: "ts",

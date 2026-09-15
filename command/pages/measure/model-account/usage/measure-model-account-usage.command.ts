@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measureModelAccountUsage = {
   id: "01a0796e-6118-7440-9744-e4d725a51a0a",
-  type: "command",
+  type: "page-type/command",
   slug: "measure-model-account-usage",
   definition: "the command saying what each account has spent of its two windows",
   code: "ts",

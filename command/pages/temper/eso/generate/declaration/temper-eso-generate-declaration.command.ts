@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperEsoGenerateDeclaration = {
   id: "01a0685d-f8fa-7755-9f01-412ee9b28025",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-eso-generate-declaration",
   definition: "the command writing the game's API declarations from the game's own documentation",
   code: "ts",

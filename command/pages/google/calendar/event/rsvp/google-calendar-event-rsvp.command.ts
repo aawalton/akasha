@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const googleCalendarEventRsvp = {
   id: "01a08cf6-67b1-7524-ab4b-2d55fdf0d2cb",
-  type: "command",
+  type: "page-type/command",
   slug: "google-calendar-event-rsvp",
   definition: "the command setting Alan's own response on one event",
   code: "ts",

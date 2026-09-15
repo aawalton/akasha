@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperAddonGenerateLoadOrder = {
   id: "01a0603c-c1c9-7ee8-bee7-dc59bf99a048",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-addon-generate-load-order",
   definition:
     "the command writing an addon's load-order manifest and build stamp into its build output",

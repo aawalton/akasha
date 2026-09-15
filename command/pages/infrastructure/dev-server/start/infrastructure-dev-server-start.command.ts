@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const infrastructureDevServerStart = {
   id: "01a09403-25b7-766e-92a9-4834be618b75",
-  type: "command",
+  type: "page-type/command",
   slug: "infrastructure-dev-server-start",
   definition: "the command spawning one app's dev server and recording where it is",
   code: "ts",

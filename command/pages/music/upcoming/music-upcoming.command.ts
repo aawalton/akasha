@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicUpcoming = {
   id: "01a0a02b-2231-768e-9e62-b714e56d0aed",
-  type: "command",
+  type: "page-type/command",
   slug: "music-upcoming",
   definition: "the command naming the track Spotify plays now and the tracks queued behind it",
   code: "ts",

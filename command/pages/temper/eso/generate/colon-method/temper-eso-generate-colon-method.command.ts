@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperEsoGenerateColonMethod = {
   id: "01a0685d-f8fa-7dc8-bf64-5a62864e6dbb",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-eso-generate-colon-method",
   definition: "the command staging the census of the method names the base game defines on a class",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const alanTracking = {
   id: "01a06057-f714-707b-acab-a560208ffcd3",
-  type: "command",
+  type: "page-type/command",
   slug: "alan-tracking",
   definition:
     "the command landing the pages and row files of Alan's tracking that a program composed",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const changeDrop = {
   id: "01a08175-75cb-75dc-a288-942c054573f9",
-  type: "command",
+  type: "page-type/command",
   slug: "change-drop",
   definition: "the command taking kept edits away without landing any of them",
   code: "ts",

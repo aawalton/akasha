@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const googleDriveFetch = {
   id: "01a08cdb-485a-7511-90c8-8b12ad2e1662",
-  type: "command",
+  type: "page-type/command",
   slug: "google-drive-fetch",
   definition:
     "the command writing one file out of Alan's Google Drive to disk under its Drive name",

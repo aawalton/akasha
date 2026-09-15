@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperAddonTypecheck = {
   id: "01a0603c-c1cb-7d74-ac42-cf9ae26b02f5",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-addon-typecheck",
   definition:
     "the command typechecking each addon against its own compiler settings with nothing emitted",

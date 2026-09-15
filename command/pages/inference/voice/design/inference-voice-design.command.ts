@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceVoiceDesign = {
   id: "01a0685e-fd50-7904-a9a9-f7caf17947c0",
-  type: "command",
+  type: "page-type/command",
   slug: "inference-voice-design",
   definition: "the command speaking text in a voice made up from a description of it",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const agentTurnColorList = {
   id: "01a0693c-9b24-7a22-8c27-03b9194b117e",
-  type: "command",
+  type: "page-type/command",
   slug: "agent-turn-color-list",
   definition:
     "the command answering the color each named agent, or each named turn state, is drawn in",

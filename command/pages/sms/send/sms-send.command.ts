@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const smsSend = {
   id: "01a0685f-c8ed-7008-b892-0bc284782555",
-  type: "command",
+  type: "page-type/command",
   slug: "sms-send",
   definition: "the command putting one text message out over the toll-free number",
   code: "ts",

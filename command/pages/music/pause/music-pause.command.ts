@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicPause = {
   id: "01a0a018-8937-77ed-a694-31b894b07058",
-  type: "command",
+  type: "page-type/command",
   slug: "music-pause",
   definition: "the command holding where it is the track Spotify is playing",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const emailMessageList = {
   id: "01a06810-cf11-7ea4-b544-6691871388cf",
-  type: "command",
+  type: "page-type/command",
   slug: "email-message-list",
   definition: "the command summarising each Gmail message a search matches, the search optional",
   code: "ts",

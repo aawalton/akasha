@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicVolume = {
   id: "01a0a024-06ab-7ffa-baff-52d236353a00",
-  type: "command",
+  type: "page-type/command",
   slug: "music-volume",
   definition: "the command setting how loud a Spotify device plays",
   code: "ts",

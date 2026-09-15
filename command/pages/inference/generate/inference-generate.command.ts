@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceGenerate = {
   id: "01a0685e-fd50-7a4c-ba59-ae4e2497a4c5",
-  type: "command",
+  type: "page-type/command",
   slug: "inference-generate",
   definition: "the command rendering one image off a prompt through an image pool service",
   code: "ts",

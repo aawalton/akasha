@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const pageTree = {
   id: "01a06936-e303-7910-8ed1-f5ea8e762847",
-  type: "command",
+  type: "page-type/command",
   slug: "page-tree",
   definition: "the command answering the page type and property rows a page tree is assembled from",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicBack = {
   id: "01a0a01f-0b1f-7e5a-a12f-24d76abe10ed",
-  type: "command",
+  type: "page-type/command",
   slug: "music-back",
   definition: "the command carrying Spotify back to the track before the one playing",
   code: "ts",

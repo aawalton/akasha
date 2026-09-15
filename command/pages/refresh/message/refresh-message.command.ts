@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const refreshMessage = {
   id: "01a082fe-341d-7593-8cfd-8216a7e94c2c",
-  type: "command",
+  type: "page-type/command",
   slug: "refresh-message",
   definition: "the command counting again what Alan wrote each persona on each day",
   code: "ts",

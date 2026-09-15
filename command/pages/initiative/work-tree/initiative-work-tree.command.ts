@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const initiativeWorkTree = {
   id: "01a06866-8b85-79cd-a698-d3fa3f18a57b",
-  type: "command",
+  type: "page-type/command",
   slug: "initiative-work-tree",
   definition: "the command drawing each initiative under the one above it, and the intents it has",
   code: "ts",

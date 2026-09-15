@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const infrastructureServiceRestart = {
   id: "01a09408-da19-7177-908e-7197c74583a4",
-  type: "command",
+  type: "page-type/command",
   slug: "infrastructure-service-restart",
   definition: "the command asking systemd to run one service's unit afresh",
   code: "ts",

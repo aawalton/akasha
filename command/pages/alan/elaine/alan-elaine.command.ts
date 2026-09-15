@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const alanElaine = {
   id: "01a06809-250b-7e17-b028-ed7c9e003f14",
-  type: "command",
+  type: "page-type/command",
   slug: "alan-elaine",
   definition: "the command reading what Apple Health recorded about Alan's body",
   code: "ts",

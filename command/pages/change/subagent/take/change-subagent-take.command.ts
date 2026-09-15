@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const changeSubagentTake = {
   id: "01a09cec-a352-7ed6-beaf-24fa8359fc60",
-  type: "command",
+  type: "page-type/command",
   slug: "change-subagent-take",
   definition: "the command taking records a seat keeps into the edits this agent keeps",
   code: "ts",

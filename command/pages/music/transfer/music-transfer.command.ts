@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicTransfer = {
   id: "01a0a02c-b833-7d5a-8f9c-f4ad8bddc830",
-  type: "command",
+  type: "page-type/command",
   slug: "music-transfer",
   definition: "the command moving Spotify playback onto the devices a call names",
   code: "ts",

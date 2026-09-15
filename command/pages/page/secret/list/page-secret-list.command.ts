@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const pageSecretList = {
   id: "01a06812-3ce8-715d-a904-1eb88e02bd62",
-  type: "command",
+  type: "page-type/command",
   slug: "page-secret-list",
   definition: "the command naming which secrets a page holds, none of them decrypted",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceWanExtend = {
   id: "01a093fb-0896-7f06-b8ca-489590932fe3",
-  type: "command",
+  type: "page-type/command",
   slug: "inference-wan-extend",
   definition: "the command rendering fresh frames before or after a clip",
   code: "ts",

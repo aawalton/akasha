@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceActiveList = {
   id: "01a0685e-fd50-7513-8357-2d89b53ef8b1",
-  type: "command",
+  type: "page-type/command",
   slug: "inference-active-list",
   definition: "the command naming the pool services the traffic cop is holding resident",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperInventoryBankProfile = {
   id: "01a0603c-c1ce-74dd-8c14-84a8dc5bd418",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-inventory-bank-profile",
   definition: "the command giving back the profiler capture from the addon's last banking session",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const chessPuzzlesImport = {
   id: "01a0a054-c910-7cde-b634-a0f85f3d49a6",
-  type: "command",
+  type: "page-type/command",
   slug: "chess-puzzles-import",
   definition: "the command streaming the Lichess puzzle database into the rows of a puzzle set",
   code: "ts",

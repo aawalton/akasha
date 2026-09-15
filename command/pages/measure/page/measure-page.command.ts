@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measurePage = {
   id: "01a0796e-60c4-70a1-bcfe-f3dffb873f7e",
-  type: "command",
+  type: "page-type/command",
   slug: "measure-page",
   definition: "the command counting the checkout's files by page type rather than by file type",
   code: "ts",

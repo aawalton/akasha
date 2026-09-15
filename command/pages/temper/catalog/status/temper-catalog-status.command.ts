@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperCatalogStatus = {
   id: "01a0603c-c1cc-7a60-8387-08c112165535",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-catalog-status",
   definition:
     "the command saying which catalog domains are collected and which are owed a collection",

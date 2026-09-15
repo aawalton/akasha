@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const changeShow = {
   id: "01a0814d-f6a9-7747-970b-4b441ff35d5a",
-  type: "command",
+  type: "page-type/command",
   slug: "change-show",
   definition: "the command answering the body a path would have once this agent's kept edits land",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measureLearning = {
   id: "01a077fb-4ca8-7027-80b1-85c446d6786a",
-  type: "command",
+  type: "page-type/command",
   slug: "measure-learning",
   definition: "the command saying how far through Learn Everything Alan has got, part by part",
   code: "ts",

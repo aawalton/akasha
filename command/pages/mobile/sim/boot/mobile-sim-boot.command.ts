@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const mobileSimBoot = {
   id: "01a0685d-ceae-7006-9cff-358159094688",
-  type: "command",
+  type: "page-type/command",
   slug: "mobile-sim-boot",
   definition: "the command booting a simulator and starting the Appium server it is driven through",
   code: "ts",

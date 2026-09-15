@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const agentSubagentSweep = {
   id: "01a072c2-eed8-7f35-9595-65c72afdc7aa",
-  type: "command",
+  type: "page-type/command",
   slug: "agent-subagent-sweep",
   definition:
     "the command judging every subagent page on disk and taking the stale ones away when told",

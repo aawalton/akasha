@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const gitPush = {
   id: "01a06cce-9280-7c22-afc1-5cfcba8a5ac4",
-  type: "command",
+  type: "page-type/command",
   slug: "git-push",
   definition: "the command carrying this checkout's commits to the remote its branch tracks",
   code: "ts",

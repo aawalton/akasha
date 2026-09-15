@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicArtistList = {
   id: "01a09b87-8def-7c15-a542-ef8c973a057d",
-  type: "command",
+  type: "page-type/command",
   slug: "music-artist-list",
   definition:
     "the command listing the artists Alan keeps, what he graded each and how far he is in",

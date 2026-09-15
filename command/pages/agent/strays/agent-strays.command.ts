@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const agentStrays = {
   id: "01a09cd6-14dc-7b7c-830c-2f44dc2f73c3",
-  type: "command",
+  type: "page-type/command",
   slug: "agent-strays",
   definition: "the command naming every live process left running by a subagent that has returned",
   code: "ts",

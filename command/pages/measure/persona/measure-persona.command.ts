@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measurePersona = {
   id: "01a082e9-18fb-7213-bd29-f105c8f9dd20",
-  type: "command",
+  type: "page-type/command",
   slug: "measure-persona",
   definition: "the command saying each persona's relationship level and the total behind it",
   code: "ts",

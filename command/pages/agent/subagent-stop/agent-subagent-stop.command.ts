@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const agentSubagentStop = {
   id: "01a09c5f-3b45-7a00-b0e7-238c94f217aa",
-  type: "command",
+  type: "page-type/command",
   slug: "agent-subagent-stop",
   definition: "the command stopping a subagent by refusing the model turns that subagent asks for",
   code: "ts",

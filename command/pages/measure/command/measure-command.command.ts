@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measureCommand = {
   id: "01a080df-5446-793b-a0e0-ea1f3b757ca8",
-  type: "command",
+  type: "page-type/command",
   slug: "measure-command",
   definition: "the command saying what a command's own run cost in processor time and memory",
   code: "ts",

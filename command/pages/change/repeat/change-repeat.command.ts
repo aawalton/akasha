@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const changeRepeat = {
   id: "01a091e2-0bc2-799b-9f8f-d9a05bfc3696",
-  type: "command",
+  type: "page-type/command",
   slug: "change-repeat",
   definition: "the command applying one change batch after batch until a batch lands nothing",
   code: "ts",

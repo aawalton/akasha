@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const gitRestore = {
   id: "01a07267-f795-738d-90c6-a5e16e277228",
-  type: "command",
+  type: "page-type/command",
   slug: "git-restore",
   definition:
     "the command putting named paths back to what HEAD says, in the working tree and the git index",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measureGuard = {
   id: "01a09bab-b70c-74dd-9daa-6859cb57c2c4",
-  type: "command",
+  type: "page-type/command",
   slug: "measure-guard",
   definition: "the command saying what a guard over a tool call cost in processor time and memory",
   code: "ts",

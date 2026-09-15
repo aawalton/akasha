@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const mobileSimType = {
   id: "01a0685d-ceae-700f-89c3-712a8a6e7252",
-  type: "command",
+  type: "page-type/command",
   slug: "mobile-sim-type",
   definition: "the command typing text into the simulator's webview",
   code: "ts",

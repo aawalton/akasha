@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceWanFrame = {
   id: "01a093fb-2ee0-78a1-878b-af3bc16c19c1",
-  type: "command",
+  type: "page-type/command",
   slug: "inference-wan-frame",
   definition: "the command writing a clip's frames out as numbered PNGs",
   code: "ts",

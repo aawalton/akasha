@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const modelAccountAdd = {
   id: "01a06861-b463-721b-87be-fcc7f5294e4b",
-  type: "command",
+  type: "page-type/command",
   slug: "model-account-add",
   definition:
     "the command filing a page for a model account and giving it the next free alias slot",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicCapture = {
   id: "01a063b0-cb34-7001-99b2-fd47783030fb",
-  type: "command",
+  type: "page-type/command",
   slug: "music-capture",
   definition: "the command filing what Alan played on Spotify onto the days he played it in",
   code: "ts",

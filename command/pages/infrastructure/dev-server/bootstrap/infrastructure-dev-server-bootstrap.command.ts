@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const infrastructureDevServerBootstrap = {
   id: "01a09404-cdd0-7681-995a-00232cd57b1c",
-  type: "command",
+  type: "page-type/command",
   slug: "infrastructure-dev-server-bootstrap",
   definition: "the command writing an app's `.env.local` from the app's secret pages",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const modelTest = {
   id: "01a09176-d8fc-77c3-bb9e-482aec38916d",
-  type: "command",
+  type: "page-type/command",
   slug: "model-test",
   definition: "the command putting a model test's labelled cases to its model and scoring them",
   code: "ts",

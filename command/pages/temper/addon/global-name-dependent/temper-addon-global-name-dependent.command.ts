@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperAddonGlobalNameDependent = {
   id: "01a0603c-c1ca-77a6-9408-76d7485c7dcf",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-addon-global-name-dependent",
   definition:
     "the command naming what depends on an addon global and ruling whether renaming it is safe",

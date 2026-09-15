@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measureDeploy = {
   id: "01a09b9b-f7ff-78b8-b3dd-42885b24bb30",
-  type: "command",
+  type: "page-type/command",
   slug: "measure-deploy",
   definition: "the command saying what putting a thing up cost in processor time and memory",
   code: "ts",

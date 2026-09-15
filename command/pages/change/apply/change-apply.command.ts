@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const changeApply = {
   id: "01a08179-6ebf-724c-8698-aa6e02645d0e",
-  type: "command",
+  type: "page-type/command",
   slug: "change-apply",
   definition: "the command landing every edit kept, answering one change first where one is named",
   code: "ts",

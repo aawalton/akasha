@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const imessageSend = {
   id: "01a0685f-c8ed-7004-8926-65ffc06d2862",
-  type: "command",
+  type: "page-type/command",
   slug: "imessage-send",
   definition: "the command handing one message to the Messages app on the mac",
   code: "ts",

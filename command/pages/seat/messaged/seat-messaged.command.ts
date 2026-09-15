@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const seatMessaged = {
   id: "01a0780e-7f14-71fd-ac09-b12de342c207",
-  type: "command",
+  type: "page-type/command",
   slug: "seat-messaged",
   definition: "the command counting a message Alan wrote to the persona at a seat",
   code: "ts",

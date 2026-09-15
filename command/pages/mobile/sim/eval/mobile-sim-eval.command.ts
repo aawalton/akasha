@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const mobileSimEval = {
   id: "01a0685d-ceae-7007-b4f3-e21611c10292",
-  type: "command",
+  type: "page-type/command",
   slug: "mobile-sim-eval",
   definition:
     "the command running JavaScript inside the simulator's webview and giving back what it returned",

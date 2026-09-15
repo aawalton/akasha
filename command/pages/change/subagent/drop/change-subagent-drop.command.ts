@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const changeSubagentDrop = {
   id: "01a09c36-3d50-7a79-bd0e-4dc4c5770224",
-  type: "command",
+  type: "page-type/command",
   slug: "change-subagent-drop",
   definition: "the command taking away records a seat keeps without landing any of them",
   code: "ts",

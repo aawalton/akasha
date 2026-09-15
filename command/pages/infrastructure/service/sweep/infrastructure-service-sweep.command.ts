@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const infrastructureServiceSweep = {
   id: "01a09409-1cc5-728a-ba59-c959fa5540ed",
-  type: "command",
+  type: "page-type/command",
   slug: "infrastructure-service-sweep",
   definition: "the command taking away every unit of ours no page accounts for",
   code: "ts",

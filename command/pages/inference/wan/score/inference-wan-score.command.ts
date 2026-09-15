@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceWanScore = {
   id: "01a093fb-9d2a-7ffc-a042-a59588f4a83d",
-  type: "command",
+  type: "page-type/command",
   slug: "inference-wan-score",
   definition: "the command measuring each frame's cosine against a reference identity",
   code: "ts",

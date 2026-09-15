@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const read = {
   id: "01a04bec-10b4-7e86-aeae-ed252396f186",
-  type: "command",
+  type: "page-type/command",
   slug: "read",
   definition:
     "the command returning each akasha file it is named, whole or as what changed since the agent read it",

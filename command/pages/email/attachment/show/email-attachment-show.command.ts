@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const emailAttachmentShow = {
   id: "01a06810-cf11-75ef-84b0-74beeb5d5383",
-  type: "command",
+  type: "page-type/command",
   slug: "email-attachment-show",
   definition: "the command fetching one attachment's bytes by id, with its size beside them",
   code: "ts",

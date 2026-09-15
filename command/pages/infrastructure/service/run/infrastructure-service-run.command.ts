@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const infrastructureServiceRun = {
   id: "01a09409-a29d-7ec7-b7aa-eebfad2ce2ad",
-  type: "command",
+  type: "page-type/command",
   slug: "infrastructure-service-run",
   definition: "the command running one service's own code in this process",
   code: "ts",

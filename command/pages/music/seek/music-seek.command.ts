@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicSeek = {
   id: "01a0a021-9251-7e44-81d1-54a35f38c12c",
-  type: "command",
+  type: "page-type/command",
   slug: "music-seek",
   definition: "the command moving the playing track to a point counted from its opening",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const changeList = {
   id: "01a0816b-f0ae-7c9a-88cc-25ed0222c61f",
-  type: "command",
+  type: "page-type/command",
   slug: "change-list",
   definition: "the command naming the edits an agent keeps and has not landed",
   code: "ts",

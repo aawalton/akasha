@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const modelAccountReEnable = {
   id: "01a06861-b463-71ad-922e-5b006cdebd6f",
-  type: "command",
+  type: "page-type/command",
   slug: "model-account-re-enable",
   definition:
     "the command putting one model account back in the pool its subscription shut it out of",

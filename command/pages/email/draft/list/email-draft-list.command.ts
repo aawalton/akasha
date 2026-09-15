@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const emailDraftList = {
   id: "01a06810-cf11-711a-abf5-acd61e55baac",
-  type: "command",
+  type: "page-type/command",
   slug: "email-draft-list",
   definition: "the command naming the id, message and thread of each draft in the mailbox",
   code: "ts",

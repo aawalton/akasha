@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const domainDeclarationList = {
   id: "01a07c03-ab2b-79aa-bfa7-3e62543a4164",
-  type: "command",
+  type: "page-type/command",
   slug: "domain-declaration-list",
   definition: "the command handing over every domain and persona page whole, as JSON",
   code: "ts",

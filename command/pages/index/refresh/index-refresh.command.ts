@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const indexRefresh = {
   id: "01a04de1-13fa-7331-979e-d443758eefad",
-  type: "command",
+  type: "page-type/command",
   slug: "index-refresh",
   definition: "the command repairing the index against the pages the repository has",
   code: "ts",

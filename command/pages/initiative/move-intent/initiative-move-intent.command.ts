@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const initiativeMoveIntent = {
   id: "01a081e5-4603-78f0-8295-3ee2947edb01",
-  type: "command",
+  type: "page-type/command",
   slug: "initiative-move-intent",
   definition:
     "the command carrying one intent onto the place another intent of its initiative holds",

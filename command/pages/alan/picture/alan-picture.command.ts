@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const alanPicture = {
   id: "01a09c65-6c45-74f6-9f46-fbb5c1eb8702",
-  type: "command",
+  type: "page-type/command",
   slug: "alan-picture",
   definition: "the command bringing a picture Alan's phone sent to a file on this machine",
   code: "ts",

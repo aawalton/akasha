@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const initiativeAssign = {
   id: "01a0a57f-05fc-7d7e-ba15-9645284ba946",
-  type: "command",
+  type: "page-type/command",
   slug: "initiative-assign",
   definition: "the command handing an initiative to the seat that initiative's name opens with",
   code: "ts",

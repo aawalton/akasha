@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const temperAddonCopyMetadata = {
   id: "01a0603c-c1c9-7aeb-a484-f4b4517ed141",
-  type: "command",
+  type: "page-type/command",
   slug: "temper-addon-copy-metadata",
   definition:
     "the command copying an addon's manifest, markup, assets and siblings into its build output",

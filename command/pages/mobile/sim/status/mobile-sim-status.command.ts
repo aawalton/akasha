@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const mobileSimStatus = {
   id: "01a0685d-ceae-700c-9489-e7e3a1062803",
-  type: "command",
+  type: "page-type/command",
   slug: "mobile-sim-status",
   definition: "the command saying what simulator session is there",
   code: "ts",

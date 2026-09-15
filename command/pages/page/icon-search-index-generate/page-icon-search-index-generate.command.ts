@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const pageIconSearchIndexGenerate = {
   id: "01a06862-06c8-7004-83db-2d1d50b06017",
-  type: "command",
+  type: "page-type/command",
   slug: "page-icon-search-index-generate",
   definition: "the command building the icon search index from a lucide release, staged as bodies",
   code: "ts",

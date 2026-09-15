@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const imessageUnreadList = {
   id: "01a0685f-c8ed-7005-84fd-d9365b175452",
-  type: "command",
+  type: "page-type/command",
   slug: "imessage-unread-list",
   definition: "the command giving back the unread messages that came to Alan",
   code: "ts",

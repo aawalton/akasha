@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceWanGenerate = {
   id: "01a093fa-cf48-7c82-9dc2-020adb45aa53",
-  type: "command",
+  type: "page-type/command",
   slug: "inference-wan-generate",
   definition: "the command rendering one clip conditioned on a first frame, a last frame, or both",
   code: "ts",

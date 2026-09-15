@@ -2,7 +2,7 @@ import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measureCall = {
   id: "01a09c03-14dc-7bde-8003-e7a2d36ad350",
-  type: "command",
+  type: "page-type/command",
   slug: "measure-call",
   definition: "the command saying what a bash call cost in processor time and memory",
   code: "ts",
