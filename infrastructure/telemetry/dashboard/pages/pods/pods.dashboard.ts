@@ -2,7 +2,7 @@ import type { Dashboard } from "akasha/infrastructure/telemetry/dashboard/dashbo
 
 export const pods = {
   id: "01a07c67-c792-7942-ba2f-031531a70cfa",
-  type: "dashboard",
+  type: "page-type/dashboard",
   slug: "pods",
   definition: "what a chart server draws over the pods",
   layout: "json",
