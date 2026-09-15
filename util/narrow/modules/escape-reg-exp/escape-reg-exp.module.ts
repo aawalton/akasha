@@ -9,11 +9,11 @@ export const escapeRegExp = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every character a pattern would act on is escaped rather than only some.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here builds a pattern.",
     },
   ],

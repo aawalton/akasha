@@ -8,7 +8,7 @@ export const tradingTraderKioskInfo = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Kiosk facts are read from the game rather than kept between sessions.",
     },
   ],

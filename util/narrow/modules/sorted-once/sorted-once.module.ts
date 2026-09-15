@@ -9,11 +9,11 @@ export const sortedOnce = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value given more than once comes back once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The order is the one sorting puts the values in rather than the order given.",
     },
   ],

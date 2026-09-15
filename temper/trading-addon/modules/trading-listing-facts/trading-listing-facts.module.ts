@@ -8,7 +8,7 @@ export const tradingListingFacts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row the game cannot describe is read as nothing rather than as a guess.",
     },
   ],

@@ -9,23 +9,23 @@ export const inFlightKeys = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A claim on a key nobody holds is taken, and a claim on a held key is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key let go is claimable again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Letting go a key nobody holds does nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each set of keys is its own, so one caller's claim never refuses another's.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "Nothing lets a claim go on its own, so a holder that never lets go holds forever.",
     },

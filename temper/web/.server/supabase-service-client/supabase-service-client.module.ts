@@ -8,11 +8,11 @@ export const supabaseServiceClient = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The address inside the cluster is taken over the address a browser reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The address is read at the first call rather than at load.",
     },
   ],

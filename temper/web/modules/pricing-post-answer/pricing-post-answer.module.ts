@@ -8,11 +8,11 @@ export const pricingPostAnswer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body of the shape the caller names is answered 410 rather than kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body of another shape is refused before the watcher token is read.",
     },
   ],

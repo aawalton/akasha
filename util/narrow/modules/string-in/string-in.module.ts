@@ -9,11 +9,11 @@ export const stringIn = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value that is no string holds no string.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty string is answered rather than read as nothing.",
     },
   ],

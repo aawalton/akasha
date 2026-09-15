@@ -8,15 +8,15 @@ export const base64Url = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text handed in is read as its UTF-8 bytes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Plus becomes minus and slash becomes underscore.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The padding base64 ends in is struck.",
     },
   ],

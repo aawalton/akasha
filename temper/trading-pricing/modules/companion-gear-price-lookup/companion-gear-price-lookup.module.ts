@@ -8,19 +8,19 @@ export const companionGearPriceLookup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An equipment slot Tamriel Trade Centre prices no item for answers with nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An average over the market weighs each entry by the sale count that entry has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry no sale backs is left out of the average.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A price is read from the level Tamriel Trade Centre files companion equipment under.",
     },

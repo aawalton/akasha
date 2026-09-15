@@ -8,11 +8,11 @@ export const zoneEsoStubs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stub answers whatever lets the data file finish loading.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stub's answer is never read as game data.",
     },
   ],

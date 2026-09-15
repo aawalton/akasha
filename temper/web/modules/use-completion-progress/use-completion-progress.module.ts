@@ -8,24 +8,24 @@ export const useCompletionProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whether the catalogs have loaded is part of whether this module is loading.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transform gives back zeros against an empty catalog rather than throwing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A caller reading before the catalogs arrive would show a real-looking zero per cent.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An account ask answers at most one row.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The first body answered with is that account's.",
     },
   ],

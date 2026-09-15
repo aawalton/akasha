@@ -8,7 +8,7 @@ export const watcherDir = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A folder named relative is taken against the folder the server runs in.",
     },
   ],

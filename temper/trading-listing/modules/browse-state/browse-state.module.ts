@@ -8,19 +8,19 @@ export const browseState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A guild whose pages are exhausted gives way to the next guild in the queue.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page is asked for only once the cooldown says the search may go.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A search already awaiting an answer blocks another search.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty queue finishes the search.",
     },
   ],

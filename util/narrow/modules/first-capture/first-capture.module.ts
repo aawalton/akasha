@@ -8,15 +8,15 @@ export const firstCapture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text the pattern did not match at all is nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A match whose first group took part in nothing is nothing rather than an error.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty first group is answered rather than read as nothing.",
     },
   ],

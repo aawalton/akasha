@@ -9,20 +9,20 @@ export const libcMapping = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The C library is named by the object this process already has mapped.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name a loader would search for names no library here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A mapping the loader has already deleted is named by the path that mapping came from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A process with no C library mapped is refused rather than guessed at.",
     },
   ],

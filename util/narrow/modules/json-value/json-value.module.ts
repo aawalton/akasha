@@ -8,7 +8,7 @@ export const jsonValue = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This module names nothing.",
     },
   ],

@@ -8,11 +8,11 @@ export const companionGearIds = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every id here names one page under `temper-companions`.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "`@akasha/temper-companions-core` has a second table of these same ids.",
     },
   ],

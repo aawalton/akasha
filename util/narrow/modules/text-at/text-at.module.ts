@@ -9,7 +9,7 @@ export const textAt = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A record that is not there holds no text under any key.",
     },
   ],

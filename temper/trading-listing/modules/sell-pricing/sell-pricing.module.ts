@@ -8,19 +8,19 @@ export const sellPricing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The price the item last sold for outranks the price the market says.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The price the market says outranks a multiple of the price the vendor pays.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item's price key is built from the fields its own kind is priced by.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item link that parses to nothing is its own price key.",
     },
   ],

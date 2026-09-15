@@ -8,7 +8,7 @@ export const importResult = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A section the import did not know is counted rather than named.",
     },
   ],

@@ -8,7 +8,7 @@ export const tradingSearchRequestNative = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game's own search does the narrowing the filters ask for.",
     },
   ],

@@ -8,11 +8,11 @@ export const readingChannel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading's anchored line has no line break.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reading's findings are written where a person reads rather than where a caller parses.",
     },

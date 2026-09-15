@@ -8,7 +8,7 @@ export const tradingSellPriceStore = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A price is kept per item link rather than per stack.",
     },
   ],

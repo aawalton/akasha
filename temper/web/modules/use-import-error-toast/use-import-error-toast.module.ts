@@ -8,15 +8,15 @@ export const useImportErrorToast = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A failure this build does not know is raised in general words.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The query is cleared without adding to the history.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A notice raised again under the same id replaces the notice showing.",
     },
   ],

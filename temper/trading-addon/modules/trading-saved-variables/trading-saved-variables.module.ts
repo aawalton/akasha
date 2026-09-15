@@ -8,7 +8,7 @@ export const tradingSavedVariables = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A guild entry is made on first touch rather than declared up front.",
     },
   ],

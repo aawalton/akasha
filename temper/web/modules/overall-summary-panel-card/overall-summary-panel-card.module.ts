@@ -9,15 +9,15 @@ export const overallSummaryPanelCard = {
   test: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The items completed over the three scopes are counted on a row of their own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That count is a tally of things done rather than a percentage.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The row is left off where no scope has anything to count.",
     },
   ],

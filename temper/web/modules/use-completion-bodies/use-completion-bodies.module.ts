@@ -8,28 +8,28 @@ export const useCompletionBodies = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A body is asked for by the view that reads the body rather than held for every view.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A query naming `files` is the only query a body comes back on.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "`/ask` is a POST.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body arriving as its own ending is refused rather than read as no completion.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rows a listing draws are read apart from the bodies those rows have.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "One account's character bodies run to about six megabytes.",
     },
   ],

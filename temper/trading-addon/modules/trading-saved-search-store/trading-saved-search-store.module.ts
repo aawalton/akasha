@@ -8,7 +8,7 @@ export const tradingSavedSearchStore = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Renaming a search leaves its place in the list.",
     },
   ],

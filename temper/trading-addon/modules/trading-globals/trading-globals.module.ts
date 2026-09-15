@@ -8,7 +8,7 @@ export const tradingGlobals = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the names an outside caller needs are reachable.",
     },
   ],

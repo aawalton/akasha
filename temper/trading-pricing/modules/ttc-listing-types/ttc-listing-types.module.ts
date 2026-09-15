@@ -8,15 +8,15 @@ export const ttcListingTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A search asks for one page of listings at a time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field name here keeps Tamriel Trade Centre's spelling.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A listing older than the age the search names is left out.",
     },
   ],

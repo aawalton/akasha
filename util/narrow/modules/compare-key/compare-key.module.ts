@@ -8,15 +8,15 @@ export const compareKey = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run of anything but a letter or a digit becomes one space.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key carries no space at either end.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A letter outside the English alphabet is no letter here.",
     },
   ],

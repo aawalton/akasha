@@ -8,7 +8,7 @@ export const tradingSavedSearchBar = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The active search is marked in the bar rather than named elsewhere.",
     },
   ],

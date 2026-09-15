@@ -8,20 +8,20 @@ export const inodeGuard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Two hundred thousand free inodes is the floor unless the environment names another floor.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mount reporting no inodes is left out rather than read as full.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mount that cannot be read leaves the whole reading indeterminate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An indeterminate reading admits rather than refuses.",
     },
   ],

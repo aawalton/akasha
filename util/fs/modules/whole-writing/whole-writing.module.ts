@@ -9,26 +9,26 @@ export const wholeWriting = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A write carrying part of the bytes is followed by a write of the bytes left over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A destination refusing bytes for now is written to again rather than dropping the bytes left over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A destination refusing bytes for any other reason raises rather than being written to again.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Writing sets no length on the destination beforehand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run of no bytes is written nowhere.",
     },
   ],

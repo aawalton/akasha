@@ -8,7 +8,7 @@ export const deleteRecordKey = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Lua compiled from this code empties a table key by assigning nothing.",
     },
   ],

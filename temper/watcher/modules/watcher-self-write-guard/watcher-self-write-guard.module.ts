@@ -9,15 +9,15 @@ export const watcherSelfWriteGuard = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Content is compared by its sha256 rather than by its bytes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A write-back never recorded is no reason to skip anything.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads or writes a file.",
     },
   ],

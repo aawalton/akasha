@@ -8,15 +8,15 @@ export const procEnviron = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A process whose environ will not open answers null rather than refusing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The value is split off the environ the way proc-reading splits that environ.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows an environment variable's meaning.",
     },
   ],

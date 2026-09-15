@@ -8,11 +8,11 @@ export const readStdinOrFile = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path of one dash names standard input.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file this module cannot read raises an input error.",
     },
   ],

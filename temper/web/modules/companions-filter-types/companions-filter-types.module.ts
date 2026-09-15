@@ -8,7 +8,7 @@ export const companionsFilterTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A gear rule the shopping page narrows a query by is no companion filter.",
     },
   ],

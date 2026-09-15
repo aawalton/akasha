@@ -8,7 +8,7 @@ export const parseTimestamp = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value spelling no moment reads as the epoch.",
     },
   ],

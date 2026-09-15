@@ -8,35 +8,35 @@ export const housingUpstreamPort = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The filter constants the upstream file reads are seeded before the file runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The EU list and the NA list are built by calling upstream's own builders.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry is refused where any field that entry has is not the shape expected.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A list longer than a part's ceiling is written as numbered parts and a barrel.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every generated file already there is removed before the new ones are written.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The package the ported data lands in is read from the library's own naming.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The checkout the ported files land in is named by the caller.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "What a run has cleared and written is named to the caller as each of them happens.",
     },

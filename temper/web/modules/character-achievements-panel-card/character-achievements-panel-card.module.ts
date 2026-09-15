@@ -8,12 +8,12 @@ export const characterAchievementsPanelCard = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The achievement tally the aggregate view walks is handed in as data rather than imported.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The achievement tally is built from the achievement-category catalog by the caller.",
     },

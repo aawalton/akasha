@@ -8,12 +8,12 @@ export const useTemperImport = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An import merges forward against the completion already counted rather than writing over it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A completion that could not be read stops the import rather than reading as absent.",
     },

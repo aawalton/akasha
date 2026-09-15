@@ -8,7 +8,7 @@ export const servedWatcherVersion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stamp file that is absent or empty reads as no version served.",
     },
   ],

@@ -8,11 +8,11 @@ export const pathTracker = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An auth page is not kept as the page a reader was last on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The path is tracked by a hook rather than by a component.",
     },
   ],

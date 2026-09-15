@@ -8,11 +8,11 @@ export const temperPagesResolver = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The seven temper page types are named here rather than worked out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The whole set is loading while any one type is loading.",
     },
   ],

@@ -9,11 +9,11 @@ export const stripXmlComments = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A comment becomes blanks rather than going, so a position still names its place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A newline inside a comment is kept, so a line number still names its line.",
     },
   ],

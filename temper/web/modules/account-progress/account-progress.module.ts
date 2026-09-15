@@ -8,7 +8,7 @@ export const accountProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The zone completion union reads the per-character progress alone and takes no catalog.",
     },

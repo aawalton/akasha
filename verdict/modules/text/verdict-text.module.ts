@@ -8,7 +8,7 @@ export const verdictText = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A coverage with no denominator says the denominator was not computed.",
     },
   ],

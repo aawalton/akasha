@@ -8,15 +8,15 @@ export const stringsIn = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value that is no array holds no strings.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry that is no string is dropped rather than refusing the whole value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty string is an entry rather than read as nothing.",
     },
   ],

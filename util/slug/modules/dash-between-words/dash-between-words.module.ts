@@ -8,11 +8,11 @@ export const dashBetweenWords = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capital opening the name is lowered where no letter sits before it to dash.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A run of capitals holds no word break, so nothing is dashed inside it.",
     },
   ],

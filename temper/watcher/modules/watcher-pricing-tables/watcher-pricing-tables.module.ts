@@ -9,32 +9,32 @@ export const watcherPricingTables = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "Both tables come back empty.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every run says the tables are empty rather than saying once that the tables are empty.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words said go to the watcher log rather than to the console.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller may hand in the log the words go to.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The rates come from the currency price lookup the pricing package has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The costs come from the crown consumable price lookup that package has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A crown consumable with no price is left out rather than valued at nothing.",
     },
   ],

@@ -8,7 +8,7 @@ export const expandTilde = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A tilde anywhere but the front of a path is left unchanged.",
     },
   ],

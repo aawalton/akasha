@@ -9,23 +9,23 @@ export const watcherSyncStatus = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A link being there is not data arriving.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Data without a link is a manual import rather than a watcher.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Data is stale once contact outruns capture by more than an hour.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A source with no capture instant reports no staleness.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An instant that cannot be read is passed over rather than returned.",
     },
   ],

@@ -8,11 +8,11 @@ export const listingEntrySchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field the shape does not name makes the parse fail.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parse and the listing shape are held equal at typecheck.",
     },
   ],

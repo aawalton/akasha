@@ -8,11 +8,11 @@ export const pageTypeProps = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property naming another page states its target and the back reference.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here declares a property.",
     },
   ],

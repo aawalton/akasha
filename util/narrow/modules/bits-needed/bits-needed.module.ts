@@ -9,7 +9,7 @@ export const bitsNeeded = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A count of one or none still takes one bit rather than none.",
     },
   ],

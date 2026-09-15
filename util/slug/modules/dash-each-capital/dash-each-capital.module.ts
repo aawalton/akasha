@@ -8,11 +8,11 @@ export const dashEachCapital = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capital opening the name takes a dash before it as any other capital does.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A run of capitals is dashed letter by letter rather than read as one word.",
     },
   ],

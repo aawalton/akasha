@@ -8,11 +8,11 @@ export const kioskLocationName = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the guild trader pages rather than by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A kiosk id no guild trader page claims answers with its own number.",
     },
   ],

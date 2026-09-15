@@ -8,7 +8,7 @@ export const stringAt = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty string is answered rather than read as nothing.",
     },
   ],

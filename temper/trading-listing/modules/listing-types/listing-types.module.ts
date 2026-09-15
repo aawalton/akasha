@@ -8,11 +8,11 @@ export const listingTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A listing has the price for the stack and the price for one item.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A listing has the second of capture.",
     },
   ],

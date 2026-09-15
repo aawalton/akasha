@@ -8,15 +8,15 @@ export const ttcListingSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A listing missing a field the parse requires is dropped rather than repaired.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field the parse does not name is carried through untouched.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A garbled page count is read as the first page.",
     },
   ],

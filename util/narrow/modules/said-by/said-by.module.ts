@@ -8,11 +8,11 @@ export const saidBy = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A thrown thing is read for a message.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A thrown thing is made to speak even where that thing is no Error.",
     },
   ],

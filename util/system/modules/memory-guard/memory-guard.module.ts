@@ -8,20 +8,20 @@ export const memoryGuard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Eight gigabytes free is the least the workstation admits a process on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A least read from the environment is used only where that least parses to a positive number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Admitting a spawn asks the inodes as well as the memory.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A meminfo line that does not match refuses rather than reading as zero.",
     },
   ],

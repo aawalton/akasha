@@ -8,15 +8,15 @@ export const currencyPriceLookup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rate is read off the gold price of an item that currency buys.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Gold is worth one gold.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A currency with no priced item has no rate.",
     },
   ],

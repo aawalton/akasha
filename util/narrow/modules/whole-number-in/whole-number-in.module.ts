@@ -9,19 +9,19 @@ export const wholeNumberIn = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A whole number is digits alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sign, a point or a space makes the text no whole number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Digits running past the largest number there is are no whole number.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Digits naming a number past the last exact one are answered rounded.",
     },
   ],

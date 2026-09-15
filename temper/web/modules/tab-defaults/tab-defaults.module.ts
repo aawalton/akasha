@@ -8,7 +8,7 @@ export const tabDefaults = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path matching no prefix opens on no tab.",
     },
   ],

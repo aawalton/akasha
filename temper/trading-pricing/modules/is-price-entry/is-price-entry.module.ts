@@ -8,11 +8,11 @@ export const isPriceEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A branch with a price field is a price.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every lookup asks here rather than asking the same question its own way.",
     },
   ],

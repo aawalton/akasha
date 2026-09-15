@@ -8,7 +8,7 @@ export const formatTimeAgo = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No instant is written as no words rather than as a phrase.",
     },
   ],

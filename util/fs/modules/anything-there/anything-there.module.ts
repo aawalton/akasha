@@ -8,15 +8,15 @@ export const anythingThere = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The path itself is read rather than whatever a link at it reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A link reaching nothing is something there.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A read that throws for any reason answers that nothing is there.",
     },
   ],

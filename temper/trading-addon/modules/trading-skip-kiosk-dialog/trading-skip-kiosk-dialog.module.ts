@@ -8,7 +8,7 @@ export const tradingSkipKioskDialog = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the confirmation is passed and the purchase itself is left alone.",
     },
   ],

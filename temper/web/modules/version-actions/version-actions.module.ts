@@ -8,11 +8,11 @@ export const versionActions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An answer that does not narrow is refused rather than passed on part-read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A failure comes back as a message rather than as a raised error.",
     },
   ],

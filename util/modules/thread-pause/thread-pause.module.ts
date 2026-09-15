@@ -8,15 +8,15 @@ export const threadPause = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The wait reaches no `Bun` global.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The thread is held rather than a later turn taken.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "How long a caller waits in all is bounded by that caller.",
     },
   ],

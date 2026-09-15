@@ -9,11 +9,11 @@ export const textThere = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A read that throws for any reason answers that no text is there.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path holding no file and a path that would not open are one answer.",
     },
   ],

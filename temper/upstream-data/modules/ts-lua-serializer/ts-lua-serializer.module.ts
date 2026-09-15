@@ -8,19 +8,19 @@ export const tsLuaSerializer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The serializer is Lua source held in TypeScript rather than a Lua file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Keys are written in a settled order so a rerun writes the same bytes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A number is written in the shortest spelling that reads back as the same number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value the serializer has no spelling for stops the run.",
     },
   ],

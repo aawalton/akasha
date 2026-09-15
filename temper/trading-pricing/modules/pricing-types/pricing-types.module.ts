@@ -8,15 +8,15 @@ export const pricingTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No field of a price entry is required.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A price is found by walking from item to quality to level to trait.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field name here keeps Tamriel Trade Centre's spelling.",
     },
   ],

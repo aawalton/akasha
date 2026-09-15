@@ -8,23 +8,23 @@ export const libsetsUpstreamPin = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The upstream is pinned to a single commit rather than to a branch.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pinned release is stated as the AddOnVersion the upstream manifest carries.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The files a copy needs are named in the order upstream loads the files.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The files are named in the order upstream loads the files.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Moving the pin to a later commit is a hand-made change.",
     },
   ],

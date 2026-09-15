@@ -8,7 +8,7 @@ export const tradingSellHelper = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A suggested price comes from the trade centre where that trade centre has a price.",
     },
