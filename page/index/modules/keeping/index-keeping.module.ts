@@ -47,6 +47,14 @@ export const indexKeeping = {
     },
     {
       invariantKind: "departure",
+      statement: "A filing beside a page is answered under its own path rather than the index's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a filing leaves a file holding is worked out here for a write and a read.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An entry file a filing names is written by laying that filing over what is there.",
     },

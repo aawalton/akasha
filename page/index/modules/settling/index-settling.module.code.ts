@@ -19,6 +19,7 @@ import {
   pageTypesIn,
   uniquePropertiesAt,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import { bodiesBeside } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import {
   type Body,
   bodiesAt,
@@ -46,6 +47,11 @@ import {
 } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import { type Rowing, rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  importedFrom,
+  NOTHING_FILED as NOTHING_REFERENCED,
+  namedFrom,
+} from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -121,6 +127,7 @@ export type Moving = {
 export type Settling = {
   readonly reading: Reading
   readonly filings: readonly Filing[]
+  readonly references: readonly Filing[]
   readonly noted: readonly string[]
   readonly refusedBefore: readonly string[]
   readonly refused: readonly string[]
@@ -294,10 +301,58 @@ export function settlingOver(
     now.flatMap((one) => one.entries)
   )
 
+  const referencedWas = [
+    ...held.map((one) =>
+      one.was === null
+        ? NOTHING_REFERENCED
+        : namedFrom(
+            one.was,
+            one.path,
+            wasKnown,
+            repo,
+            rowsFor(one.path, one.was, wasKnown, wasBody)
+          )
+    ),
+    ...refiling.map((one) =>
+      namedFrom(
+        one.value,
+        one.path,
+        wasKnown,
+        repo,
+        rowsFor(one.path, one.value, wasKnown, wasBody)
+      )
+    ),
+  ]
+  const referencedNow = [
+    ...held.map((one) =>
+      one.now === null
+        ? NOTHING_REFERENCED
+        : namedFrom(one.now, one.path, known, repo, rowsFor(one.path, one.now, known, nowBody))
+    ),
+    ...refiling.map((one) =>
+      namedFrom(one.value, one.path, known, repo, rowsFor(one.path, one.value, known, nowBody))
+    ),
+  ]
+  const references = filingOf(
+    [
+      ...referencedWas.flatMap((one) => one.entries),
+      ...importing.flatMap((one) =>
+        one.before === null ? [] : importedFrom(one.before, one.path, repo, wasNaming)
+      ),
+    ],
+    [
+      ...referencedNow.flatMap((one) => one.entries),
+      ...importing.flatMap((one) =>
+        one.after === null ? [] : importedFrom(one.after, one.path, repo, naming)
+      ),
+    ]
+  )
+
   const filings = [...imported, ...ruled, ...identity, ...edge, ...shaping, ...carrying]
   return {
-    reading: overlaidOn(given, filings, wrote),
+    reading: overlaidOn(given, filings, new Map([...wrote, ...bodiesBeside(reading, references)])),
     filings,
+    references,
     noted,
     refusedBefore: was.flatMap((one) => one.refused),
     refused: now.flatMap((one) => one.refused),

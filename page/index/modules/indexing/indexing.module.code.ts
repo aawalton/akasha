@@ -45,6 +45,10 @@ import {
   shapesIn,
 } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import { rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
+import {
+  importedFrom,
+  namedFrom,
+} from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -141,6 +145,20 @@ export function refreshedFrom(
   drift.push(reconcile(imported, root, put, done))
   const ruled = [...walked.flatMap((one) => ruleIn(one.body, one.path, repo)), readerIn()]
   drift.push(reconcile(ruled, root, put, done))
+  const referenced = held.map((one) =>
+    namedFrom(
+      one.value,
+      one.path,
+      known,
+      repo,
+      rowsOver(under(repo, one.path), one.value, known.entriedIn(one.value), beside)
+    )
+  )
+  const references = [
+    ...referenced.flatMap((one) => one.entries),
+    ...walked.flatMap((one) => importedFrom(one.body, one.path, repo, naming)),
+  ]
+  drift.push(reconcile(references, repo, put, done))
   const every = [...identity, ...shaped, ...carrying, ...edge, ...imported, ...ruled]
   const went = takenAway(every, root, put, done)
   if (put) keepBuilt(root)
@@ -171,6 +189,10 @@ function filedInto(root: string, filings: readonly Filing[]): undefined {
   for (const one of filings) keepDelta(join(root, one.at), one, root)
 }
 
+function besideInto(repo: string, filings: readonly Filing[]): undefined {
+  for (const one of filings) keepDelta(join(repo, one.at), one, repo)
+}
+
 export function keepingIn(repo: string): Indexing {
   return indexingAt(indexIn(repo), repo)
 }
@@ -197,6 +219,7 @@ export function indexingAt(root: string, repo: string): Indexing {
         valueAt(path, repo)
       )
       filedInto(root, found.filings)
+      besideInto(repo, found.references)
       return [...found.noted, ...found.refusedBefore, ...found.refused]
     },
   }

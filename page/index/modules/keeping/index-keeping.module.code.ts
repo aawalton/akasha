@@ -60,8 +60,7 @@ export function keepWhole(at: string, lines: readonly string[], root: string): u
   renameSync(near, at)
 }
 
-export function keepDelta(at: string, one: Filing, root: string): undefined {
-  const was = textThere(at)
+export function linesLaid(was: string | null, one: Filing): readonly string[] {
   const gone = new Set(one.went)
   const coming = new Set(one.came)
   const said: string[] = []
@@ -70,7 +69,24 @@ export function keepDelta(at: string, one: Filing, root: string): undefined {
     said.push(line)
   }
   for (const line of coming) said.push(line)
-  const lines = said.sort()
+  return said.sort()
+}
+
+export function bodiesBeside(
+  reading: Reading,
+  filings: readonly Filing[]
+): ReadonlyMap<string, string | null> {
+  const held = new Map<string, string | null>()
+  for (const one of filings) {
+    const lines = linesLaid(reading.read(one.at), one)
+    held.set(one.at, lines.length === 0 ? null : wholeOf(lines))
+  }
+  return held
+}
+
+export function keepDelta(at: string, one: Filing, root: string): undefined {
+  const was = textThere(at)
+  const lines = linesLaid(was, one)
   if (was === (lines.length === 0 ? null : wholeOf(lines))) return
   keepWhole(at, lines, root)
 }

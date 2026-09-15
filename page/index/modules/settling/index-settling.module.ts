@@ -114,6 +114,18 @@ export const indexSettling = {
       statement: "A filing answers the lines that came and the lines that went.",
     },
     {
+      invariantKind: "departure",
+      statement: "The references beside the pages are answered apart from the index's own files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reference filing names a path against the repository rather than the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reading a settle leaves has the references that settle files.",
+    },
+    {
       invariantKind: "absence",
       statement: "No entry file is read to work a filing out.",
     },

@@ -9,7 +9,10 @@ import {
   type Answering,
   answeringOver,
 } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
-import { bodiesFrom } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import {
+  bodiesBeside,
+  bodiesFrom,
+} from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { settlingOver } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -244,7 +247,12 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
     const index = answeringOver(reading, pageOf)
     let bodies: ReadonlyMap<string, string | null> | null = null
     const filed = (): ReadonlyMap<string, string | null> => {
-      if (bodies === null) bodies = bodiesFrom(reading, settled.filings)
+      if (bodies === null) {
+        bodies = new Map([
+          ...bodiesFrom(reading, settled.filings),
+          ...bodiesBeside(was, settled.references),
+        ])
+      }
       return bodies
     }
     const left = leftOver(settled.refusedBefore, settled.refused)
