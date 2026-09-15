@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const scriptureCollection1John = {
   id: "01a06808-34d9-7002-acff-80fbbfd44341",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "scripture-collection-1-john",
   title: "1 John",
   partOfCollections: ["scripture-collection/new-testament"],

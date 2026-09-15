@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const matthew = {
   id: "01a06808-34da-7015-93bd-3161bc1ed364",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "matthew",
   title: "Matthew",
   partOfCollections: ["scripture-collection/new-testament"],

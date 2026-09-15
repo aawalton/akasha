@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const wordsOfMormon = {
   id: "01a06808-34da-702f-82f9-dc2503bb8e4e",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "words-of-mormon",
   title: "Words of Mormon",
   partOfCollections: ["scripture-collection/book-of-mormon"],

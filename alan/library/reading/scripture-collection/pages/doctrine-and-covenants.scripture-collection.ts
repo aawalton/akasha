@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const doctrineAndCovenants = {
   id: "01a06808-34d9-701e-9ee4-67982860a898",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "doctrine-and-covenants",
   title: "Doctrine and Covenants",
   partOfCollections: ["scripture-collection/scriptures"],

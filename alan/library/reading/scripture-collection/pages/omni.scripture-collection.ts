@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const omni = {
   id: "01a06808-34da-7022-b317-aa602ba087c3",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "omni",
   title: "Omni",
   partOfCollections: ["scripture-collection/book-of-mormon"],

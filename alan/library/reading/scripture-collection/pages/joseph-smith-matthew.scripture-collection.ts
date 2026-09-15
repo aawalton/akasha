@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const josephSmithMatthew = {
   id: "01a06808-34da-700c-b0da-15810660bbe8",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "joseph-smith-matthew",
   title: "Joseph Smith--Matthew",
   partOfCollections: ["scripture-collection/pearl-of-great-price"],

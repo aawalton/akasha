@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const james = {
   id: "01a06808-34da-7004-a9a8-5253de1ead2e",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "james",
   title: "James",
   partOfCollections: ["scripture-collection/new-testament"],

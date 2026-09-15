@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const psalms = {
   id: "01a06808-34da-7027-80e9-dc53fe1226ed",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "psalms",
   title: "Psalms",
   partOfCollections: ["scripture-collection/old-testament"],

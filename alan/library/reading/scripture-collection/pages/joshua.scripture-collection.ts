@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const joshua = {
   id: "01a06808-34da-700d-a0ee-8f3f8962418b",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "joshua",
   title: "Joshua",
   partOfCollections: ["scripture-collection/old-testament"],

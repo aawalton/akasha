@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const obadiah = {
   id: "01a06808-34da-701f-a36e-8d92085c59c3",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "obadiah",
   title: "Obadiah",
   partOfCollections: ["scripture-collection/old-testament"],

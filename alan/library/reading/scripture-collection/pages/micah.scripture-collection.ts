@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const micah = {
   id: "01a06808-34da-7016-9f97-74cf00b2d2f9",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "micah",
   title: "Micah",
   partOfCollections: ["scripture-collection/old-testament"],

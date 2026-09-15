@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const philemon = {
   id: "01a06808-34da-7024-96fc-ff82f42e4155",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "philemon",
   title: "Philemon",
   partOfCollections: ["scripture-collection/new-testament"],

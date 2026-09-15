@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const revelation = {
   id: "01a06808-34da-7028-adda-87d0a417c500",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "revelation",
   title: "Revelation",
   partOfCollections: ["scripture-collection/new-testament"],

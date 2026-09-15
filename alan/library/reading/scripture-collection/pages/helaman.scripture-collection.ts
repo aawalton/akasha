@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const helaman = {
   id: "01a06808-34da-7000-b029-3cb33ba310e4",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "helaman",
   title: "Helaman",
   partOfCollections: ["scripture-collection/book-of-mormon"],

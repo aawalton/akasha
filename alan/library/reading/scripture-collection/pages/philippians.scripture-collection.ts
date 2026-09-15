@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const philippians = {
   id: "01a06808-34da-7025-b8ef-3e8523900dfe",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "philippians",
   title: "Philippians",
   partOfCollections: ["scripture-collection/new-testament"],

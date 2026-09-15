@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const nahum = {
   id: "01a06808-34da-701b-b662-9fd2e2947a7a",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "nahum",
   title: "Nahum",
   partOfCollections: ["scripture-collection/old-testament"],

@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const ecclesiastes = {
   id: "01a06808-34d9-701f-839a-802bb73ec407",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "ecclesiastes",
   title: "Ecclesiastes",
   partOfCollections: ["scripture-collection/old-testament"],

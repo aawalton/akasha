@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const isaiah = {
   id: "01a06808-34da-7002-91e7-4f028553eed1",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "isaiah",
   title: "Isaiah",
   partOfCollections: ["scripture-collection/old-testament"],

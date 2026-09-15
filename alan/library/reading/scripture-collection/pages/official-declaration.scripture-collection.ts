@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const officialDeclaration = {
   id: "01a06808-34da-7020-8f84-83cebda4e275",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "official-declaration",
   title: "Official Declaration",
   position: 2,

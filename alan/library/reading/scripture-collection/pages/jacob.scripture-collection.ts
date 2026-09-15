@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const jacob = {
   id: "01a06808-34da-7003-90a2-16493eee971d",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "jacob",
   title: "Jacob",
   partOfCollections: ["scripture-collection/book-of-mormon"],

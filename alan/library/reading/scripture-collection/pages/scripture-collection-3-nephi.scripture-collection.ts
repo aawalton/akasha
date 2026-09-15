@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const scriptureCollection3Nephi = {
   id: "01a06808-34d9-7013-bdc6-cddeae67f2df",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "scripture-collection-3-nephi",
   title: "3 Nephi",
   partOfCollections: ["scripture-collection/book-of-mormon"],

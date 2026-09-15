@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const zephaniah = {
   id: "01a06808-34da-7031-87df-ffb6b7c4f9f7",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "zephaniah",
   title: "Zephaniah",
   partOfCollections: ["scripture-collection/old-testament"],

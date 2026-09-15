@@ -2,7 +2,7 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const malachi = {
   id: "01a06808-34da-7013-963c-1a8ed20a325e",
-  type: "scripture-collection",
+  type: "page-type/scripture-collection",
   slug: "malachi",
   title: "Malachi",
   partOfCollections: ["scripture-collection/old-testament"],
