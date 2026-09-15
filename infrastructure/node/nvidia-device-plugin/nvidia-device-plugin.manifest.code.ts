@@ -1,7 +1,8 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { nvidiaDevicePlugin } from "akasha/infrastructure/service/cluster/pages/nvidia-device-plugin/nvidia-device-plugin.service-cluster.ts"
 
-const NVIDIA_NAMESPACE = "kube-system"
-const NVIDIA_DAEMONSET_NAME = "nvidia-device-plugin-daemonset"
+const NVIDIA_NAMESPACE = nvidiaDevicePlugin.namespace
+const NVIDIA_DAEMONSET_NAME = nvidiaDevicePlugin.resourceName
 const NVIDIA_DS_LABEL = "nvidia-device-plugin-ds"
 const NVIDIA_RUNTIME_CLASS_NAME = "nvidia"
 
@@ -51,7 +52,7 @@ function nvidiaDaemonsetYaml(): string {
           containers: [
             {
               name: "nvidia-device-plugin-ctr",
-              image: "nvcr.io/nvidia/k8s-device-plugin:v0.14.5",
+              image: nvidiaDevicePlugin.image,
               env: [{ name: "FAIL_ON_INIT_ERROR", value: "false" }],
               securityContext: {
                 allowPrivilegeEscalation: false,
