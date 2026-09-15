@@ -265,11 +265,12 @@ function valuedFor(
   root: string,
   read: readonly Valued[],
   carried: readonly Carried[],
-  files: readonly string[]
+  files: readonly string[],
+  entries: ReadonlySet<string> | null
 ): readonly Valued[] {
   return read.map((one) => {
     const beside = wholeValue(root, one.path, one.value)
-    const entried = entriedValue(root, one.path, beside, carried)
+    const entried = entriedValue(root, one.path, beside, carried, entries)
     const whole = filedValue(root, one.path, entried, carried, files)
     return whole === one.value ? one : { path: one.path, value: whole }
   })
@@ -280,7 +281,8 @@ export function gatheredFor(
   pageTypeSlug: string,
   carried: readonly Carried[],
   files: readonly string[] = [],
-  reading: Reading = readingIn(root)
+  reading: Reading = readingIn(root),
+  entries: ReadonlySet<string> | null = null
 ): readonly Counting[] {
   const counting: Counting[] = []
   for (const kind of kindsFor(reading, pageTypeSlug)) {
@@ -288,7 +290,7 @@ export function gatheredFor(
     if (read.length === 0) continue
     const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind)
     const computed = computedFor(root, own)
-    for (const row of valuedFor(root, read, own, files)) counting.push({ row, computed })
+    for (const row of valuedFor(root, read, own, files, entries)) counting.push({ row, computed })
   }
   return counting
 }

@@ -119,11 +119,13 @@ export function entriedValue(
   root: string,
   page: string,
   value: Value,
-  declared: Iterable<Entried>
+  declared: Iterable<Entried>,
+  wanted: ReadonlySet<string> | null = null
 ): Value {
   const held: Record<string, unknown> = {}
   let turned = false
   for (const one of entriedAmong(declared)) {
+    if (wanted !== null && !wanted.has(one.key)) continue
     const said = value[one.key]
     if (typeof said !== "string") continue
     const read = entriesAt(root, page, one.propertySlug, said, one.uncommitted)

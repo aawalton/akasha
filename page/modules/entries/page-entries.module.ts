@@ -80,6 +80,15 @@ export const pageEntries = {
       statement: "A body a caller hands in that holds no JSON object is passed over there.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A caller naming which properties it wants has the files of no other property read.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A caller naming no properties has every entry property's files read.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads the index.",
     },

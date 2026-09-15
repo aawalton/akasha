@@ -302,6 +302,14 @@ function carriesWorked(query: Query, worked: ReadonlySet<string>): boolean {
   return keys.some((key) => worked.has(key))
 }
 
+function entriesWanted(query: Query, worked: ReadonlySet<string>): ReadonlySet<string> | null {
+  if (query.keys === undefined || worked.size > 0) return null
+  const wanted = new Set<string>(query.keys)
+  for (const key of Object.keys(query.where ?? {})) wanted.add(key)
+  if (query.sortBy !== undefined) wanted.add(query.sortBy)
+  return wanted
+}
+
 function orderedIn(query: Query, held: readonly Valued[]): readonly Valued[] {
   const sortBy = query.sortBy
   const sorted = [...held].sort(byPath)
@@ -390,8 +398,15 @@ export function asking(root: string, query: Query): Asked {
   const unnamed = unkeyed(query, carried)
   if (unnamed !== null) return { refused: unnamed }
   try {
-    const counting = gatheredFor(root, query.pageTypeSlug, carried, query.files ?? [], reading)
     const worked = workedIn(carried)
+    const counting = gatheredFor(
+      root,
+      query.pageTypeSlug,
+      carried,
+      query.files ?? [],
+      reading,
+      entriesWanted(query, worked)
+    )
     if (narrowsOn(query, worked)) return countedFirst(root, query, counting)
     return narrowedFirst(root, query, counting, carriesWorked(query, worked))
   } catch (thrown) {
