@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const timeCursedKnightTimeLoopPostApoc0068Chapter68FormationSchool = {
   id: "01a06730-55d3-77a0-8375-718785e28d40",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0068-chapter-68-formation-school",
   title: "Chapter 68: Formation School",
   story: "story-read/time-cursed-knight-time-loop-post-apoc",

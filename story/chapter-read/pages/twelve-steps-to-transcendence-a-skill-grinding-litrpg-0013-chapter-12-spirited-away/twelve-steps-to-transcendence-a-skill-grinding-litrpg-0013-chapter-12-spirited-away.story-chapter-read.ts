@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0013Chapter12SpiritedAway = {
   id: "01a06585-ef10-72c3-984e-f1a93bf9d86e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0013-chapter-12-spirited-away",
   title: "Chapter 12: Spirited Away",
   story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",

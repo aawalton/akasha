@@ -3,7 +3,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0049Chapter48ASystemRecognizedConstruct =
   {
     id: "01a097a8-dfc7-7293-9b5d-af8cf3b057b3",
-    type: "story-chapter-read",
+    type: "page-type/story-chapter-read",
     slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0049-chapter-48-a-system-recognized-construct",
     position: 49,
     publishedAt: "2026-09-12",

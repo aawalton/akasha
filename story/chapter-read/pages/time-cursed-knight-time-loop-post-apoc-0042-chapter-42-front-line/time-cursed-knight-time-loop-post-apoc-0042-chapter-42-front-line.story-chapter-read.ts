@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const timeCursedKnightTimeLoopPostApoc0042Chapter42FrontLine = {
   id: "01a06730-55c2-78a1-ab91-cccab9e3157a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0042-chapter-42-front-line",
   title: "Chapter 42: Front Line",
   story: "story-read/time-cursed-knight-time-loop-post-apoc",

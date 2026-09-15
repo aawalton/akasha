@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0037Chapter36LittleBird = {
   id: "01a06585-ef13-708e-9b12-8679b0b07731",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0037-chapter-36-little-bird",
   title: "Chapter 36: Little Bird",
   story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",

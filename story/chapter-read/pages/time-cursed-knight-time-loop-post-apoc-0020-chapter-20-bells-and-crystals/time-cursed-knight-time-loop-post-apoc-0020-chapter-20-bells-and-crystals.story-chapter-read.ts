@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const timeCursedKnightTimeLoopPostApoc0020Chapter20BellsAndCrystals = {
   id: "01a06730-55b1-71e6-86b8-c0a612393f13",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0020-chapter-20-bells-and-crystals",
   title: "Chapter 20: Bells and Crystals",
   story: "story-read/time-cursed-knight-time-loop-post-apoc",

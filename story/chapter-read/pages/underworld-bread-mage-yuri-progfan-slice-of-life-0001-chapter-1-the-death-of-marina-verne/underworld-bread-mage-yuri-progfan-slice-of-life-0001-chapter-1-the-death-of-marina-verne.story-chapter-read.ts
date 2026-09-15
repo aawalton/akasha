@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const underworldBreadMageYuriProgfanSliceOfLife0001Chapter1TheDeathOfMarinaVerne = {
   id: "01a06730-4f12-7fb5-9a9f-d2fecf54817e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0001-chapter-1-the-death-of-marina-verne",
   title: "Chapter 1: The Death of Marina Verne",
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",

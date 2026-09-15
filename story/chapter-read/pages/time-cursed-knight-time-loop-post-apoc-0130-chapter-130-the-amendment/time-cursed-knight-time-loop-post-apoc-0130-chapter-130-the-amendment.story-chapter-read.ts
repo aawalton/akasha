@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const timeCursedKnightTimeLoopPostApoc0130Chapter130TheAmendment = {
   id: "01a0a0df-ee1b-7b8b-9d85-de38f6fe5e24",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0130-chapter-130-the-amendment",
   position: 130,
   publishedAt: "2026-09-14",

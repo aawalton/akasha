@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const timeCursedKnightTimeLoopPostApoc0077Chapter77SoftUnderneath = {
   id: "01a06730-55d6-7dc0-84cf-54685ac3d37b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0077-chapter-77-soft-underneath",
   title: "Chapter 77: Soft Underneath",
   story: "story-read/time-cursed-knight-time-loop-post-apoc",

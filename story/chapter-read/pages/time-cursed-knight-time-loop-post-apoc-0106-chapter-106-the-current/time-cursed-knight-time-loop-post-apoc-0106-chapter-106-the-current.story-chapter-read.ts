@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const timeCursedKnightTimeLoopPostApoc0106Chapter106TheCurrent = {
   id: "01a06730-55de-7940-a476-732e288f97e5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0106-chapter-106-the-current",
   title: "Chapter 106: The Current",
   story: "story-read/time-cursed-knight-time-loop-post-apoc",

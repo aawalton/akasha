@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0051Chapter50Event = {
   id: "01a0a1f4-cc6c-7927-b268-5af62a4673a0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0051-chapter-50-event",
   position: 51,
   publishedAt: "2026-09-14",
