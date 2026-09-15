@@ -2,7 +2,7 @@ import type { TemperJewelryType } from "akasha/temper/catalog/temper-gear/temper
 
 export const necklace = {
   id: "019e46b4-42ab-7172-b0cb-06555bd2abb6",
-  type: "temper-jewelry-type",
+  type: "page-type/temper-jewelry-type",
   slug: "necklace",
   title: "Necklace",
   key: "necklace",
