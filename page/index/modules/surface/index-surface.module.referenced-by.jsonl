@@ -7,6 +7,8 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/modules/change-walking/change-walking.module.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/folder-clearing/folder-clearing.module.code.ts"}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/folder-clearing/folder-clearing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}

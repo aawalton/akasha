@@ -1,5 +1,6 @@
 import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 const PARTED_BY = "/"
 
@@ -22,6 +23,7 @@ export function wouldClear(root: string, gone: readonly string[]): readonly stri
   const emptied = new Set<string>()
   const said: string[] = []
   for (const dir of emptiedBy(gone)) {
+    if (dir === INDEX_AT) continue
     const at = join(root, dir)
     try {
       if (!existsSync(at)) continue

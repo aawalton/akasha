@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
+import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   clearedOff,
   clearedUnder,
@@ -9,10 +10,7 @@ import {
   isFolder,
   wouldClear,
 } from "akasha/command/modules/folder-clearing/folder-clearing.module.code.ts"
-import {
-  put,
-  there,
-} from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { INDEX_AT, indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -24,6 +22,12 @@ const DEEP = "akasha/one/deep/held.module.ts"
 const KEPT = "akasha/two/kept.module.ts"
 
 const SOLO = "solo/one/held.module.ts"
+
+const EDGE = "edge"
+
+const UNDER_EDGE = "page"
+
+const INDEXED = indexAt(EDGE, UNDER_EDGE, "one.jsonl")
 
 const BODY = "export const held = 1\n"
 
@@ -42,6 +46,16 @@ test("the folders a change could empty climb from what went up to the repository
     "temper",
   ])
   expect(emptiedBy(["held.ts"])).toEqual([])
+})
+
+test("the index is left where it is, however little the change leaves in it", () => {
+  const root = world(INDEXED)
+  rmSync(join(root, INDEXED))
+  const swept = [indexAt(EDGE, UNDER_EDGE), indexAt(EDGE)]
+  expect(wouldClear(root, [INDEXED])).toEqual(swept)
+  expect(clearedOff(root, [INDEXED])).toEqual(swept)
+  expect(there(root, indexAt(EDGE))).toBe(false)
+  expect(there(root, INDEX_AT)).toBe(true)
 })
 
 test("a folder at the top of the repository goes where the change leaves it holding nothing", () => {

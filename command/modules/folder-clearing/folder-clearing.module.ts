@@ -52,6 +52,14 @@ export const folderClearing = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "The index is left where it is, however little a change leaves in it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A folder inside the index is taken as any other folder is.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "One rule answers the folders a change would empty and the folders a change did empty.",
     },
