@@ -1,9 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { runChange } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import {
+  ADDRESSED_CARRIED,
+  ADDRESSED_PAGE,
+  addressedAt,
   HOLDER_CHILD,
   HOLDER_KEPT,
   HOLDER_PAGE,
+  heldAt,
   KEPT_ENTRIES,
   KEPT_LANDS,
   KEPT_LANDS_ENTRIES,
@@ -19,12 +23,18 @@ import {
   OWNED_UNDER,
   otherAt,
   pagesAt,
+  READER_CODE,
   RUNS,
+  readerBody,
   SEATED_PAGE,
   SEATED_SLUG,
   SECOND_PAGE,
   SHARED_CODE,
   SHARED_PAGE,
+  SPELLER_CODE,
+  TYPED_LANDS,
+  TYPED_PAGE,
+  typedAt,
   WARDED_CODE,
   WARDED_LANDS,
   WARDED_LANDS_CODE,
@@ -55,10 +65,8 @@ import {
   HELD_PAGE,
   HELD_SLUG,
   idOf,
-  indexedRepo,
   NAMER_CODE,
   NAMER_PAGE,
-  pageOf,
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
@@ -75,39 +83,9 @@ const HELD_REFS = "akasha/one/held.module.referenced-by.jsonl"
 
 const CARRIED_REFS = "akasha/carried/carried.module.referenced-by.jsonl"
 
-const TYPED_SLUG = "typed-one"
+const HELD_CARRIED = "akasha/one/held.module.carried.jsonl"
 
-const TYPED_PAGE = "akasha/five/typed-one.module.ts"
-
-const TYPED_LANDS = "akasha/carried/carried.module.ts"
-
-const READER_PAGE = "akasha/six/reader.module.ts"
-
-const READER_CODE = "akasha/six/reader.module.code.ts"
-
-const TYPED_VALUE = { id: idOf("d"), pageTypeSlug: "module", slug: TYPED_SLUG }
-
-const READER_VALUE = { id: idOf("e"), pageTypeSlug: "module", slug: "reader", code: "ts" }
-
-function readerBody(named: string, at: string): string {
-  return `import type { ${named} } from "${at}"\n\nexport const reader: ${named} = "one"\n`
-}
-
-const typedAt: string = indexedRepo({
-  [TYPED_PAGE]: `export type TypedOne = string\n\n${pageOf(TYPED_VALUE)}`,
-
-  [READER_PAGE]: pageOf(READER_VALUE),
-  [READER_CODE]: readerBody("TypedOne", `../five/${TYPED_SLUG}.module.ts`),
-})
-
-const SPELLER_PAGE = "akasha/eight/speller.module.ts"
-
-const SPELLER_CODE = "akasha/eight/speller.module.code.ts"
-
-const heldAt: string = indexedRepo({
-  [SPELLER_PAGE]: pageOf({ id: idOf("c"), pageTypeSlug: "module", slug: "speller", code: "ts" }),
-  [SPELLER_CODE]: `export const at = "module/${HELD_SLUG}"\n`,
-})
+const CARRIED_CARRIED = "akasha/carried/carried.module.carried.jsonl"
 
 const heldWas = textIn(heldAt)
 
@@ -183,6 +161,7 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
+    [HELD_CARRIED, CARRIED_CARRIED],
     [HELD_REFS, CARRIED_REFS],
   ])
   expect(bodies.get(CARRIED_PAGE)).toBe(
@@ -219,6 +198,7 @@ test("a caller having restated every address already has no address restated her
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
+    [HELD_CARRIED, CARRIED_CARRIED],
     [HELD_REFS, CARRIED_REFS],
   ])
   expect(bodies.get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
@@ -240,6 +220,7 @@ test("a beside file is carried whichever kind of property holds that file", asyn
     [WIDE_CODE, CARRIED_CODE],
     [WIDE_SESSIONS, "akasha/carried/carried.module.sessions.jsonl"],
     [WIDE_FIXTURES, "akasha/carried/carried.module.test-fixtures.ts"],
+    ["akasha/four/wide.module.carried.jsonl", CARRIED_CARRIED],
   ])
 })
 
@@ -261,6 +242,10 @@ test("a page carries the uncommitted file its type declares though the page stat
   expect(movesOf(said)).toEqual([
     [KEPT_PAGE, KEPT_LANDS],
     [KEPT_ENTRIES, KEPT_LANDS_ENTRIES],
+    [
+      "akasha/kepts/first/first.kept.carried.jsonl",
+      "akasha/kepts/carried/carried.kept.carried.jsonl",
+    ],
   ])
 })
 
@@ -287,6 +272,7 @@ test("a page owning its folder carries what sits under that folder, each file on
   expect(movesOf(said)).toEqual([
     [OWNED_PAGE, CARRIED_PAGE],
     [OWNED_CODE, CARRIED_CODE],
+    ["akasha/owned/owned.module.carried.jsonl", CARRIED_CARRIED],
     [OWNED_UNDER, OWNED_LANDS],
   ])
 })
@@ -295,7 +281,10 @@ test("a page alone in its folder with no file beside it carries that folder too"
   const root = otherAt
   const said = await runChange(worldIn(root, textIn(root)), { at: LONE_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
-  expect(movesOf(said)).toEqual([[LONE_PAGE, CARRIED_PAGE]])
+  expect(movesOf(said)).toEqual([
+    [LONE_PAGE, CARRIED_PAGE],
+    ["akasha/eleven/lone-one.module.carried.jsonl", CARRIED_CARRIED],
+  ])
 })
 
 test("a folder under the one renamed is named again by what the new slug says", async () => {
@@ -304,7 +293,16 @@ test("a folder under the one renamed is named again by what the new slug says", 
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [HOLDER_PAGE, "akasha/holder/holder.module.ts"],
+    ["akasha/holders/holders.module.carried.jsonl", "akasha/holder/holder.module.carried.jsonl"],
+    [
+      "akasha/holders/modules/holder-one/holder-one.module.carried.jsonl",
+      "akasha/holder/modules/one/holder-one.module.carried.jsonl",
+    ],
     [HOLDER_CHILD, "akasha/holder/modules/one/holder-one.module.ts"],
+    [
+      "akasha/holders/pages/only-one.module.carried.jsonl",
+      "akasha/holder/pages/only-one.module.carried.jsonl",
+    ],
     [HOLDER_KEPT, "akasha/holder/pages/only-one.module.ts"],
   ])
 })
@@ -316,6 +314,10 @@ test("a page carrying the slug asked for is carried into the folder that slug na
   expect(movesOf(said)).toEqual([
     [OTHER_PAGE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.ts`],
     [OTHER_CODE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.code.ts`],
+    [
+      "akasha/three/other-one.module.carried.jsonl",
+      `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.carried.jsonl`,
+    ],
   ])
 })
 
@@ -348,6 +350,7 @@ test("a page renamed over a ledger is carried once rather than a second time", a
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
+    [HELD_CARRIED, CARRIED_CARRIED],
     [HELD_REFS, CARRIED_REFS],
   ])
   expect(bodiesIn(said, was).get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
@@ -398,19 +401,12 @@ test("a way named for the old slug is named for the new slug", async () => {
   )
 })
 
-const ADDRESSED_PAGE = "akasha/twelve/addressed-one.module.ts"
-
-const addressedAt: string = indexedRepo({
-  [ADDRESSED_PAGE]: pageOf({
-    id: idOf("b"),
-    pageTypeSlug: "module",
-    slug: "addressed-one",
-  }).replace('"pageTypeSlug": "module"', '"type": "page-type/module"'),
-})
-
 test("a page stating its page type as an address is named by the slug that address holds", async () => {
   const root = addressedAt
   const said = await runChange(worldIn(root, textIn(root)), { at: ADDRESSED_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
-  expect(movesOf(said)).toEqual([[ADDRESSED_PAGE, CARRIED_PAGE]])
+  expect(movesOf(said)).toEqual([
+    [ADDRESSED_PAGE, CARRIED_PAGE],
+    [ADDRESSED_CARRIED, CARRIED_CARRIED],
+  ])
 })

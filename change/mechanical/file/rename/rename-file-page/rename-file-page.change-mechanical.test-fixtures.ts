@@ -8,6 +8,7 @@ import { running } from "akasha/change/runner/pages/test-change-running/test-cha
 import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
+  HELD_SLUG,
   idOf,
   indexedRepo,
   pageOf,
@@ -240,6 +241,54 @@ export const otherAt: string = indexedRepo({
   [HOLDER_PAGE]: pageOf({ id: idOf("2"), pageTypeSlug: "module", slug: "holders" }),
   [HOLDER_CHILD]: pageOf({ id: idOf("3"), pageTypeSlug: "module", slug: "holder-one" }),
   [HOLDER_KEPT]: pageOf({ id: idOf("4"), pageTypeSlug: "module", slug: "only-one" }),
+})
+
+export const TYPED_SLUG = "typed-one"
+
+export const TYPED_PAGE = "akasha/five/typed-one.module.ts"
+
+export const TYPED_LANDS = "akasha/carried/carried.module.ts"
+
+export const READER_PAGE = "akasha/six/reader.module.ts"
+
+export const READER_CODE = "akasha/six/reader.module.code.ts"
+
+export function readerBody(named: string, at: string): string {
+  return `import type { ${named} } from "${at}"\n\nexport const reader: ${named} = "one"\n`
+}
+
+export const typedAt: string = indexedRepo({
+  [TYPED_PAGE]: `export type TypedOne = string\n\n${pageOf({
+    id: idOf("d"),
+    pageTypeSlug: "module",
+    slug: TYPED_SLUG,
+  })}`,
+  [READER_PAGE]: pageOf({ id: idOf("e"), pageTypeSlug: "module", slug: "reader", code: "ts" }),
+  [READER_CODE]: readerBody("TypedOne", `../five/${TYPED_SLUG}.module.ts`),
+})
+
+export const SPELLER_CODE = "akasha/eight/speller.module.code.ts"
+
+export const heldAt: string = indexedRepo({
+  "akasha/eight/speller.module.ts": pageOf({
+    id: idOf("c"),
+    pageTypeSlug: "module",
+    slug: "speller",
+    code: "ts",
+  }),
+  [SPELLER_CODE]: `export const at = "module/${HELD_SLUG}"\n`,
+})
+
+export const ADDRESSED_PAGE = "akasha/twelve/addressed-one.module.ts"
+
+export const ADDRESSED_CARRIED = "akasha/twelve/addressed-one.module.carried.jsonl"
+
+export const addressedAt: string = indexedRepo({
+  [ADDRESSED_PAGE]: pageOf({
+    id: idOf("b"),
+    pageTypeSlug: "module",
+    slug: "addressed-one",
+  }).replace('"pageTypeSlug": "module"', '"type": "page-type/module"'),
 })
 
 export const RUNS: Reaching = running

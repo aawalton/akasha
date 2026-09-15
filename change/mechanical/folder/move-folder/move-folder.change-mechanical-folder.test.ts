@@ -50,8 +50,11 @@ const HELD: Readonly<Record<string, string>> = {
 }
 
 const BESIDE: readonly string[] = [
+  `${FROM}/alpha.module.carried.jsonl`,
   `${FROM}/alpha.module.referenced-by.jsonl`,
+  `${FROM}/beta.module.carried.jsonl`,
   `${FROM}/beta.module.referenced-by.jsonl`,
+  `${FROM}/deep/gamma.module.carried.jsonl`,
   `${FROM}/deep/gamma.module.referenced-by.jsonl`,
 ]
 
