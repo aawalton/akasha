@@ -10,7 +10,7 @@ export const akashaFolderShape = {
     {
       statement: "Every relation value in akasha is a page address of one of the three kinds.",
       workingMemory:
-        "A relation a page states is an address, in its body, in a record, and in an entry file beside it. A page's own `type` is what remains. Every reader of a stated type now reads it as an address, the index builders through one helper, and two directive kinds qualified left the index and all 31 shape files byte for byte as they were. Then the sweep over the rest, the writers that mint a type, and `relation-resolves` refusing a bare name.\n",
+        "Every page states its own `type` as an address, and every other relation was one already. Eight live writers minted a bare type from a constant, invisible to a literal search; the sweep could not converge while they ran. Counting page types off the index rather than my own list found sixty-nine unswept. What remains is the fixtures that mint a bare name on purpose, and `relation-resolves` refusing one in its own judge, not in `reaches`, which the sweep calls to qualify.\n",
     },
     {
       statement: "The folder shapes are the fewest patterns that allow every folder in akasha.",
