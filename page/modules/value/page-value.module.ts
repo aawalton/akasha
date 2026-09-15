@@ -134,5 +134,9 @@ export const pageValue = {
       decisionKind: "decision-kind/departure",
       statement: "The bodies held that way are bounded, and the whole lot goes at the bound.",
     },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "Holding a body costs a fifth of what reading that body now costs.",
+    },
   ],
 } as const satisfies Module

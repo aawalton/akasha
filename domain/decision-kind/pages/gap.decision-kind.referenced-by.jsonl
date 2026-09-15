@@ -354,6 +354,7 @@
 {"propertySlug":"decision-kind","path":"page/modules/reference-reading/page-reference-reading.module.ts","id":"01a0a2f5-8283-7825-bfc3-faab9dc94d51"}
 {"propertySlug":"decision-kind","path":"page/modules/shadow/shadow.module.ts","id":"01a053a5-3240-7a15-81e0-042ef50c4d89"}
 {"propertySlug":"decision-kind","path":"page/modules/uncommitted/page-uncommitted.module.ts","id":"01a05010-1cbe-76ec-a6bf-c455bdde23b5"}
+{"propertySlug":"decision-kind","path":"page/modules/value/page-value.module.ts","id":"01a0592a-2e05-7e6a-941f-9dfd06790615"}
 {"propertySlug":"decision-kind","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/lower-camel-case/lower-camel-case.name-format.ts","id":"01a04eba-7459-7514-a7a9-88538edfa887"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/sentence-case/sentence-case.name-format.ts","id":"01a04eba-7459-7eaf-808c-edc6d257bb1c"}
