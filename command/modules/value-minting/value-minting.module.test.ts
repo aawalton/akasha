@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   identified,
   identifiedOver,
@@ -18,7 +19,6 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -104,10 +104,10 @@ function rooted(generator: string | null): string {
   const root = scratch.rootFor("akasha-minting-")
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, "seed"), "held\n")
-  property(root, "id", generator, "page")
-  property(root, "slug", null, "page-type")
   kind(root, "uuid-v7", false)
   kind(root, "held", true)
+  property(root, "id", generator, "page")
+  property(root, "slug", null, "page-type")
   listedFiled(root, "page-type", "thing", [{ path: "akasha/thing.page-type.ts", id: HELD_ID }])
   put(root, PAGE_TYPE_AT, PAGE_TYPE_BODY)
   listedFiled(root, "page-type", "page-type", [{ path: PAGE_TYPE_AT, id: TYPE_ID }])
