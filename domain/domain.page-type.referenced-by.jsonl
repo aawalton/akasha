@@ -255,7 +255,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/mechanical/file-content/remove/change-mechanical-file-content-remove.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/mechanical/file-content/rename/change-mechanical-file-content-rename.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/mechanical/file/add/change-mechanical-file-add.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/mechanical/file/change/change-mechanical-file-change.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/mechanical/file/divide/change-mechanical-file-divide.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/mechanical/file/move/change-mechanical-file-move.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/mechanical/file/remove/change-mechanical-file-remove.domain.ts"}

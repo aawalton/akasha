@@ -18,6 +18,10 @@ export const changePagePageType = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
+      statement: "One page is handed in here, and every file beside that page is answered for.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The page type a page moves to is named by the path of that page type's page.",
     },
     {

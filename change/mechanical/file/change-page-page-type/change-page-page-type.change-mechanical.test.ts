@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange } from "akasha/change/mechanical/file/change/change-page-page-type/change-page-page-type.change-mechanical.code.ts"
+import { runChange } from "akasha/change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,

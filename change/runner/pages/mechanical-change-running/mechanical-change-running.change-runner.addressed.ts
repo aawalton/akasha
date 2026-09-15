@@ -156,7 +156,7 @@ export type Changes = {
     typeof import("akasha/change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/change-page-page-type": Parameters<
-    typeof import("akasha/change/mechanical/file/change/change-page-page-type/change-page-page-type.change-mechanical.code.ts")["runChange"]
+    typeof import("akasha/change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/change-prose-pattern": Parameters<
     typeof import("akasha/change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts")["runChange"]

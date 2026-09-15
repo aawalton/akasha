@@ -102,8 +102,8 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/change/change-page-page-type/change-page-page-type.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/change/change-page-page-type/change-page-page-type.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/divide/divide-file-code/divide-file-code.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/divide/divide-file-page-property/divide-file-page-property.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"}
@@ -308,7 +308,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/file/add/add-file-page/add-file-page.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/file/add/add-file/add-file.change-mechanical-file.test.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/file/change/change-page-page-type/change-page-page-type.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/file/divide/divide-file-code/divide-file-code.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/file/divide/divide-file-page-property/divide-file-page-property.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.types.ts","path":"change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"}

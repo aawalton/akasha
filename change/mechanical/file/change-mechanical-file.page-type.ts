@@ -8,8 +8,8 @@ export const changeMechanicalFile = {
   extends: ["page-type/change-mechanical"],
   parts: [
     "change-mechanical-file/add-if-not-present-file",
+    "change-mechanical/change-page-page-type",
     "domain/change-mechanical-file-add",
-    "domain/change-mechanical-file-change",
     "domain/change-mechanical-file-divide",
     "domain/change-mechanical-file-move",
     "domain/change-mechanical-file-remove",
