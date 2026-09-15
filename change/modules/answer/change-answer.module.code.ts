@@ -146,11 +146,13 @@ export function splicedIn(
   text: string,
   spots: readonly Splice[]
 ): readonly FileChange[] {
-  const seen = new Set<number>()
+  const opened = new Map<number, boolean>()
   const held: Splice[] = []
   for (const one of [...spots].sort((here, there) => here.from - there.from)) {
-    if (seen.has(one.from)) continue
-    seen.add(one.from)
+    const was = opened.get(one.from)
+    const takes = one.from !== one.to
+    if (was !== undefined && (was || takes)) continue
+    opened.set(one.from, takes)
     held.push(one)
   }
   return splicing(path, text, held)

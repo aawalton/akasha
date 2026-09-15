@@ -344,11 +344,29 @@ test("spots handed in out of order are worked in the order they sit in the body"
   ])
 })
 
-test("two spots opening at one place answer one splice rather than two", () => {
+test("two spots opening at one place and replacing nothing are both put in, in order", () => {
   const said = splicedIn(AT, MANY, [
     { from: 7, to: 7, put: "!" },
     { from: 7, to: 7, put: "?" },
   ])
 
-  expect(said).toEqual([{ kind: "replace", path: AT, contentFrom: "two", contentTo: "two!" }])
+  expect(said).toEqual([{ kind: "replace", path: AT, contentFrom: "two", contentTo: "two!?" }])
+})
+
+test("a spot replacing characters where another opens is dropped", () => {
+  const said = splicedIn(AT, MANY, [
+    { from: 4, to: 4, put: "!" },
+    { from: 4, to: 7, put: "?" },
+  ])
+
+  expect(said).toEqual([{ kind: "replace", path: AT, contentFrom: "two", contentTo: "!two" }])
+})
+
+test("of two spots replacing characters at one place the later is dropped", () => {
+  const said = splicedIn(AT, MANY, [
+    { from: 4, to: 7, put: "!" },
+    { from: 4, to: 5, put: "?" },
+  ])
+
+  expect(said).toEqual([{ kind: "replace", path: AT, contentFrom: "two", contentTo: "!" }])
 })

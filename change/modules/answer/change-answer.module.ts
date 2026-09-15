@@ -132,7 +132,12 @@ export const changeAnswer = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "Of two splices opening at one place the splice handed in later is dropped rather than joined.",
+        "Two splices opening at one place and replacing nothing are joined in the order handed in.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "Of two splices opening at one place, one replacing characters is dropped rather than joined.",
     },
     {
       invariantKind: "invariant-kind/departure",
