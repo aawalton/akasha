@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0534Chapter534BackInFullCapacity = {
   id: "01a0672c-ecf7-7002-920f-45b8a0950659",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0534-chapter-534-back-in-full-capacity",
   title: "Chapter 534 - Back in Full Capacity",
   story: "story-read/mythrans-master-of-all-continued-completed",

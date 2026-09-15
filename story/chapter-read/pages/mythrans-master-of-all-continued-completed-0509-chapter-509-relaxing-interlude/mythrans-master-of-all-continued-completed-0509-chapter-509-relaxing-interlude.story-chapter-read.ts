@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0509Chapter509RelaxingInterlude = {
   id: "01a0672c-ecec-7000-a203-748ca5c65af5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0509-chapter-509-relaxing-interlude",
   title: "Chapter 509 - Relaxing Interlude",
   story: "story-read/mythrans-master-of-all-continued-completed",

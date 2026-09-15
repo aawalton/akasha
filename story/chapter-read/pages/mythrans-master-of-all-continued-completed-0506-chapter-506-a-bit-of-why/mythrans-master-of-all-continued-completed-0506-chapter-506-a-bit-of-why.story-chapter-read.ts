@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0506Chapter506ABitOfWhy = {
   id: "01a0672c-ece9-7000-bd8d-bab6b6aefeb2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0506-chapter-506-a-bit-of-why",
   title: "Chapter 506 - A Bit Of Why",
   story: "story-read/mythrans-master-of-all-continued-completed",

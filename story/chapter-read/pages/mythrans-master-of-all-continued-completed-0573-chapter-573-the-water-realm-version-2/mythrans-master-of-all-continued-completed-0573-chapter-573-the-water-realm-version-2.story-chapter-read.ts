@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0573Chapter573TheWaterRealmVersion2 = {
   id: "01a0672c-ed0f-7001-a631-5bec4ac80b5e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0573-chapter-573-the-water-realm-version-2",
   title: "Chapter 573 - The Water Realm Version 2",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0622Chapter622IssacsShopAgain = {
   id: "01a0672c-ed2b-7001-8f40-d40b8caf9c70",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0622-chapter-622-issacs-shop-again",
   title: "Chapter 622 - Issac's Shop Again",
   story: "story-read/mythrans-master-of-all-continued-completed",

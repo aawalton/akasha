@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0535Chapter535ShareShareAlike = {
   id: "01a0672c-ecf8-7000-b689-687fa3efd80e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0535-chapter-535-share-share-alike",
   title: "Chapter 535 - Share, Share Alike",
   story: "story-read/mythrans-master-of-all-continued-completed",

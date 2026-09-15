@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0447Chapter448LightShinesNotSoBrightly = {
   id: "01a0672c-ecb8-7000-96ba-1ade229b85fa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0447-chapter-448-light-shines-not-so-brightly",
   title: "Chapter 448 - Light Shines Not So Brightly",
   story: "story-read/mythrans-master-of-all-continued-completed",

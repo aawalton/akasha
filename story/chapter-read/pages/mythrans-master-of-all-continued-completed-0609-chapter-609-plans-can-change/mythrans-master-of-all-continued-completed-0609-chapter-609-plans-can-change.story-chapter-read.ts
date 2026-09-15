@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0609Chapter609PlansCanChange = {
   id: "01a0672c-ed23-7001-93fc-dd55c8191658",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0609-chapter-609-plans-can-change",
   title: "Chapter 609 - Plans Can Change",
   story: "story-read/mythrans-master-of-all-continued-completed",

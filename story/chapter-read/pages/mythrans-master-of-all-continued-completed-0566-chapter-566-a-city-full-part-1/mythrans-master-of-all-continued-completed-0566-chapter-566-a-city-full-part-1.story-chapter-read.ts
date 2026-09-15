@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0566Chapter566ACityFullPart1 = {
   id: "01a0672c-ed0c-7000-a3fc-fd9fa0346ba6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0566-chapter-566-a-city-full-part-1",
   title: "Chapter 566 - A City Full: Part 1",
   story: "story-read/mythrans-master-of-all-continued-completed",

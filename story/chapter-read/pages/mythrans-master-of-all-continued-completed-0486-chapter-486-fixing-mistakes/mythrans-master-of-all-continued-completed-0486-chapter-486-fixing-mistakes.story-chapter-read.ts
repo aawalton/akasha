@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0486Chapter486FixingMistakes = {
   id: "01a0672c-ecd8-7000-953e-d2a638a04e4d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0486-chapter-486-fixing-mistakes",
   title: "Chapter 486 - Fixing Mistakes",
   story: "story-read/mythrans-master-of-all-continued-completed",

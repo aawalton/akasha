@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0485Chapter485IntoTheUnderworld = {
   id: "01a0672c-ecd6-7001-854f-97a55b754853",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0485-chapter-485-into-the-underworld",
   title: "Chapter 485 - Into The Underworld",
   story: "story-read/mythrans-master-of-all-continued-completed",

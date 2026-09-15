@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0488Chapter488ADishBestServedCold = {
   id: "01a0672c-ecd9-7001-b0ce-ad5fe1b79238",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0488-chapter-488-a-dish-best-served-cold",
   title: "Chapter 488 - A Dish Best Served Cold",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0592Chapter592AsTheWaterChurns = {
   id: "01a0672c-ed19-7000-b1c9-a31dfcdc7a1c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0592-chapter-592-as-the-water-churns",
   title: "Chapter 592 - As The Water Churns",
   story: "story-read/mythrans-master-of-all-continued-completed",

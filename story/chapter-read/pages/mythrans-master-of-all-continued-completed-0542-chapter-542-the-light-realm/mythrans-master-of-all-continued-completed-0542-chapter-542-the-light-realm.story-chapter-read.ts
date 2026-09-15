@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0542Chapter542TheLightRealm = {
   id: "01a0672c-ecfe-7000-bf5a-8ac05aff5168",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0542-chapter-542-the-light-realm",
   title: "Chapter 542 - The Light Realm",
   story: "story-read/mythrans-master-of-all-continued-completed",

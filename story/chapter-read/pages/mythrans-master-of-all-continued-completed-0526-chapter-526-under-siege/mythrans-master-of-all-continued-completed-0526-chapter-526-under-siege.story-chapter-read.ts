@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0526Chapter526UnderSiege = {
   id: "01a0672c-ecf5-7005-8eb5-1649c307d05c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0526-chapter-526-under-siege",
   title: "Chapter 526 - Under Siege!",
   story: "story-read/mythrans-master-of-all-continued-completed",

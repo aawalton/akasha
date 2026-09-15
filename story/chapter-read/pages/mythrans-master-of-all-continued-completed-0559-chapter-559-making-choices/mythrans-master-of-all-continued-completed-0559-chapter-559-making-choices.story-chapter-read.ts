@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0559Chapter559MakingChoices = {
   id: "01a0672c-ed08-7000-855d-ef003ae1be0e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0559-chapter-559-making-choices",
   title: "Chapter 559 - Making Choices",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0638Chapter637ALooseEnd = {
   id: "01a0672c-ed34-7001-92c2-1d4c1ab4d481",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0638-chapter-637-a-loose-end",
   title: "Chapter 637 - A Loose End",
   story: "story-read/mythrans-master-of-all-continued-completed",

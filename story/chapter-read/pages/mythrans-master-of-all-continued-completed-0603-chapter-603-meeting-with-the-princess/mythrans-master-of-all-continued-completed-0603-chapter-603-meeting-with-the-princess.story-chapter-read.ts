@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0603Chapter603MeetingWithThePrincess = {
   id: "01a0672c-ed20-7000-86e8-e452216f8e71",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0603-chapter-603-meeting-with-the-princess",
   title: "Chapter 603 - Meeting With The Princess",
   story: "story-read/mythrans-master-of-all-continued-completed",

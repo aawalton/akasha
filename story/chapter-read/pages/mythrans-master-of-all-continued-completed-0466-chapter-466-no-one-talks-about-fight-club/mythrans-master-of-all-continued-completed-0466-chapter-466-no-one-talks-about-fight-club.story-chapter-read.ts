@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0466Chapter466NoOneTalksAboutFightClub = {
   id: "01a0672c-ecc7-7000-a2fe-1da59c620b6e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0466-chapter-466-no-one-talks-about-fight-club",
   title: "Chapter 466 - No One Talks About Fight Club",
   story: "story-read/mythrans-master-of-all-continued-completed",

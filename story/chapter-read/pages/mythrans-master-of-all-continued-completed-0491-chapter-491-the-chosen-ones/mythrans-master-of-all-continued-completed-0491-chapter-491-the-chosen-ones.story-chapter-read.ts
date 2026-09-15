@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0491Chapter491TheChosenOnes = {
   id: "01a0672c-ecdc-7000-9a5f-626b01fc17a2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0491-chapter-491-the-chosen-ones",
   title: "Chapter 491 - The Chosen Ones",
   story: "story-read/mythrans-master-of-all-continued-completed",

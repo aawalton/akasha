@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0595Chapter595UnlessYouSwim = {
   id: "01a0672c-ed19-7003-b1d3-5e2eef0005b3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0595-chapter-595-unless-you-swim",
   title: "Chapter 595 - Unless You Swim",
   story: "story-read/mythrans-master-of-all-continued-completed",

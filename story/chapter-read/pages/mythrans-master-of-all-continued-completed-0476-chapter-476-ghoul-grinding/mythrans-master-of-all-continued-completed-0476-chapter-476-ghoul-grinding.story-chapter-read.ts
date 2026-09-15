@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0476Chapter476GhoulGrinding = {
   id: "01a0672c-ecd0-7000-bad7-c22a3a46d840",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0476-chapter-476-ghoul-grinding",
   title: "Chapter 476 - Ghoul Grinding",
   story: "story-read/mythrans-master-of-all-continued-completed",

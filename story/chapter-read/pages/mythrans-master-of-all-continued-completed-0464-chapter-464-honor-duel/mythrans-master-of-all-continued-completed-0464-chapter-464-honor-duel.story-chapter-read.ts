@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0464Chapter464HonorDuel = {
   id: "01a0672c-ecc4-7001-8147-503d44bc7aba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0464-chapter-464-honor-duel",
   title: "Chapter 464 - Honor Duel",
   story: "story-read/mythrans-master-of-all-continued-completed",

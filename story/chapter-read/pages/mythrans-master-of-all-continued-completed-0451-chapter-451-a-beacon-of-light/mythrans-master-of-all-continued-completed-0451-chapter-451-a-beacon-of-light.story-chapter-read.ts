@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0451Chapter451ABeaconOfLight = {
   id: "01a0672c-ecba-7001-9471-e86c48c8e76a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0451-chapter-451-a-beacon-of-light",
   title: "Chapter 451 - A Beacon Of Light",
   story: "story-read/mythrans-master-of-all-continued-completed",

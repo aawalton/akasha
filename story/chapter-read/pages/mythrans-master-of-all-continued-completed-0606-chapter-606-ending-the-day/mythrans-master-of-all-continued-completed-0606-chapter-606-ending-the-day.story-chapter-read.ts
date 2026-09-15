@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0606Chapter606EndingTheDay = {
   id: "01a0672c-ed21-7001-a118-9df6d64c39ba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0606-chapter-606-ending-the-day",
   title: "Chapter 606 - Ending The Day",
   story: "story-read/mythrans-master-of-all-continued-completed",

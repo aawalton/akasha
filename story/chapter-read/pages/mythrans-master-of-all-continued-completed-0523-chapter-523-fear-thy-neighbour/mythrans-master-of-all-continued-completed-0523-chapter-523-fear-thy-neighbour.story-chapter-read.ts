@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0523Chapter523FearThyNeighbour = {
   id: "01a0672c-ecf5-7002-ada1-a6f9c44afe89",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0523-chapter-523-fear-thy-neighbour",
   title: "Chapter 523 - Fear Thy Neighbour",
   story: "story-read/mythrans-master-of-all-continued-completed",

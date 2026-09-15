@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0590Chapter590FightBecauseYoureRight = {
   id: "01a0672c-ed18-7000-9200-1ef238055852",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0590-chapter-590-fight-because-youre-right",
   title: "Chapter 590 - Fight Because You're Right",
   story: "story-read/mythrans-master-of-all-continued-completed",

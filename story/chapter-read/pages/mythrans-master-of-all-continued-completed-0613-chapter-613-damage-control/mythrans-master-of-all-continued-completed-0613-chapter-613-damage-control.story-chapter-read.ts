@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0613Chapter613DamageControl = {
   id: "01a0672c-ed24-7002-acde-edb69ab3e76e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0613-chapter-613-damage-control",
   title: "Chapter 613 - Damage Control",
   story: "story-read/mythrans-master-of-all-continued-completed",

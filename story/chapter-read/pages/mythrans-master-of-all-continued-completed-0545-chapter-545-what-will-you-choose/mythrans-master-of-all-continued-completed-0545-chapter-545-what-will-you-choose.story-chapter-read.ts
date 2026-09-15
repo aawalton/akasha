@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0545Chapter545WhatWillYouChoose = {
   id: "01a0672c-ed02-7000-9a3d-2f061bcfb5d5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0545-chapter-545-what-will-you-choose",
   title: "Chapter 545 - What Will You Choose?",
   story: "story-read/mythrans-master-of-all-continued-completed",
