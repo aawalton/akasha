@@ -314,9 +314,16 @@ function mapFor(moved: Readonly<Record<string, string>>): ReadonlyMap<string, st
   return made
 }
 
-function landingFor(given: Given): Landing {
+function hasPath(names: Known, path: string): boolean {
+  return names(path.endsWith(UNDER) ? path.slice(0, -1) : path)
+}
+
+function landingFor(world: World, given: Given): Landing {
   const carried = given.carried
-  if (carried !== undefined) return (path) => landedAt(path, carried.from, carried.to)
+  if (carried !== undefined) {
+    const names = world.names ?? NAMES_NOTHING
+    return (path) => (hasPath(names, path) ? landedAt(path, carried.from, carried.to) : null)
+  }
   const moved = mapFor(given.moved ?? NOTHING_MOVED)
   return (path) => moved.get(path) ?? null
 }
@@ -325,7 +332,7 @@ export function repointed(world: World, given: Given): Said {
   const held = world.bodyOf(given.now) ?? world.bodyOf(given.was)
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
-  const landing = landingFor(given)
+  const landing = landingFor(world, given)
   const known = world.names ?? NAMES_NOTHING
   if (CODE.has(extname(given.now))) {
     return changeImports(given.was, given.now, held, landing, known)

@@ -286,8 +286,20 @@ const RAN = `. "$AKASHA_ROOT/code-system/ios-apps/stage/stage.module.code.ts"\n`
 
 const RAN_AT = `. "$AKASHA_ROOT/code/ios-apps/stage/stage.module.code.ts"\n`
 
+const HELD_BODY = `export const one = 1\n`
+
+const UNDER_MOVED: Readonly<Record<string, string>> = {
+  "code-system/ios-apps/held.module.code.ts": HELD_BODY,
+  "code-system/ios-apps/stage/stage.module.code.ts": HELD_BODY,
+  "code-system/one.ts": HELD_BODY,
+  "code-system/one/one.module.code.ts": HELD_BODY,
+  "code-system/router-apps/held/held.component.code.tsx": HELD_BODY,
+}
+
 function carriedOver(at: string, text: string): Answer {
-  return gathered([repointed(worldOf({ [at]: text }), { was: at, now: at, carried: MOVING })])
+  const world = worldOf({ ...UNDER_MOVED, [at]: text })
+
+  return gathered([repointed(world, { was: at, now: at, carried: MOVING })])
 }
 
 function carriedBody(at: string, text: string): string {
@@ -390,6 +402,18 @@ test("a run that is a path this repository has is left alone though its ending m
 
 test("a URL holding the folder's name is left alone", () => {
   const text = `export const at = "https://www.ford.com/code-system/one"\n`
+
+  expect(carriedOver(TABLE, text).edits).toEqual([])
+})
+
+test("a reading landing under the folder that moved is left alone where no such path is here", () => {
+  const text = `export const at = "code-system/nowhere/held.module.code.ts"\n`
+
+  expect(carriedOver(TABLE, text).edits).toEqual([])
+})
+
+test("a term in prose reading as a path under that folder is left alone too", () => {
+  const text = `export const said = "sorted by the whole \`code-system/slug\` it is written as"\n`
 
   expect(carriedOver(TABLE, text).edits).toEqual([])
 })

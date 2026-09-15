@@ -57,6 +57,19 @@ export const importRepointing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A reading landing under that folder is a path this repository has, or is left alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading closing on a separator is asked of the repository without it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path the paths that moved name is one this repository has already.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name with no separator is a name rather than a path naming that folder.",
     },
     {
