@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heavenPiercingGiraffeOpMcXianxia0016Chapter16LivingWithATribe = {
   id: "01a06731-b11d-700c-86e3-e2cdcd0a9371",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0016-chapter-16-living-with-a-tribe",
   title: "Chapter 16: Living with a Tribe",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",

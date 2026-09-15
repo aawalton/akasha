@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0305305ASmallFavor = {
   id: "01a06731-adfe-700a-858c-7eaa5857d388",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0305-305-a-small-favor",
   title: "305. A Small Favor",
   story: "story-read/god-of-trash",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0055Chapter988IfYouCanTKeepUp = {
   id: "01a06731-ade1-7001-a43f-983bf8f0e34c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0055-chapter-988-if-you-can-t-keep-up",
   title: "Chapter 988: If You Can’t Keep Up",
   story: "story-read/he-who-fights-with-monsters",

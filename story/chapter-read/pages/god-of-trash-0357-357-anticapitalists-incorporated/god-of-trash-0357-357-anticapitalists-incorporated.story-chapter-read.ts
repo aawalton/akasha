@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0357357AnticapitalistsIncorporated = {
   id: "01a06731-ae06-700e-a3ae-1c893f4cefda",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0357-357-anticapitalists-incorporated",
   title: "357. Anticapitalists Incorporated",
   story: "story-read/god-of-trash",

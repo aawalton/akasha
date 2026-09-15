@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0085Chapter1015AFightShesAlreadyWon = {
   id: "01a06731-adfe-7000-b232-fb87f076f646",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0085-chapter-1015-a-fight-shes-already-won",
   title: "Chapter 1015: A Fight She’s Already Won",
   story: "story-read/he-who-fights-with-monsters",

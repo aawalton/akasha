@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0287287PullingAllTheThreadsAtOnce = {
   id: "01a06731-adfc-7004-a5ac-be4d2fd86e86",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0287-287-pulling-all-the-threads-at-once",
   title: "287. Pulling All the Threads at Once",
   story: "story-read/god-of-trash",

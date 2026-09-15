@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0094Chapter1024TheNextTimeWeMeet = {
   id: "01a06731-ae06-7000-85c1-267ca0c2f480",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0094-chapter-1024-the-next-time-we-meet",
   title: "Chapter 1024: The Next Time We Meet",
   story: "story-read/he-who-fights-with-monsters",

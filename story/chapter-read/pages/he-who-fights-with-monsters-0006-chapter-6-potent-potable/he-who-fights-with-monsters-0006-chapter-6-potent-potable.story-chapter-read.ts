@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0006Chapter6PotentPotable = {
   id: "01a06731-adbd-7000-b87b-c6ce575bd893",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0006-chapter-6-potent-potable",
   title: "Chapter 6: Potent Potable",
   story: "story-read/he-who-fights-with-monsters",

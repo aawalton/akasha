@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heavenPiercingGiraffeOpMcXianxia0014Chapter14GroundLevel = {
   id: "01a06731-b11d-700a-8f9c-4debb1978433",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0014-chapter-14-ground-level",
   title: "Chapter 14: Ground Level",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",

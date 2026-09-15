@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heavenPiercingGiraffeOpMcXianxia0020Chapter20CreaturesOfTheAbyss = {
   id: "01a06731-b11d-7010-9870-54d107eab0f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0020-chapter-20-creatures-of-the-abyss",
   title: "Chapter 20: Creatures of the Abyss",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",

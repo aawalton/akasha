@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heavenPiercingGiraffeOpMcXianxia0003Chapter3BrokenInADifferentWay = {
   id: "01a06731-b11c-7002-9a63-8f62e98dbdbe",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0003-chapter-3-broken-in-a-different-way",
   title: "Chapter 3: Broken in a Different Way",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",

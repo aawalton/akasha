@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0054Chapter987ConsistentAgentOfChaos = {
   id: "01a06731-ade1-7000-886f-0ffcba070910",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0054-chapter-987-consistent-agent-of-chaos",
   title: "Chapter 987: Consistent Agent of Chaos",
   story: "story-read/he-who-fights-with-monsters",

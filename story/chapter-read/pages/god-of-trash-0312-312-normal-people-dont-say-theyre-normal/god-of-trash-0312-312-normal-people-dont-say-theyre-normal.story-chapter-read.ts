@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0312312NormalPeopleDontSayTheyreNormal = {
   id: "01a06731-ae01-7001-a44a-e1a37b975557",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0312-312-normal-people-dont-say-theyre-normal",
   title: "312. Normal People Don't Say They're Normal",
   story: "story-read/god-of-trash",

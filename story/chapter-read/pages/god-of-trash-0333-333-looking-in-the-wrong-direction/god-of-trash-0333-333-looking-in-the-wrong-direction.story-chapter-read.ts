@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0333333LookingInTheWrongDirection = {
   id: "01a06731-ae05-7000-acf8-3d18122add74",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0333-333-looking-in-the-wrong-direction",
   title: "333. Looking in the Wrong Direction",
   story: "story-read/god-of-trash",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0354354IfYouEncounterResistanceYoureGoingThe = {
   id: "01a06731-ae06-700b-8be6-d136d624bfde",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0354-354-if-you-encounter-resistance-youre-going-the",
   title: "354. If You Encounter Resistance, You’re Going The Right Way (to Die)",
   story: "story-read/god-of-trash",

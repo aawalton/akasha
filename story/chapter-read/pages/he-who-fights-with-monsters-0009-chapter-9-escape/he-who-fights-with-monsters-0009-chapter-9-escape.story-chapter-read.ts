@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0009Chapter9Escape = {
   id: "01a06731-adbd-7003-aea9-4895ab58da5f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0009-chapter-9-escape",
   title: "Chapter 9: Escape",
   story: "story-read/he-who-fights-with-monsters",

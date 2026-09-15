@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0035Chapter968ABriefButFirmReminder = {
   id: "01a06731-adcc-7000-871c-824d83d32ab7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0035-chapter-968-a-brief-but-firm-reminder",
   title: "Chapter 968: A Brief but Firm Reminder",
   story: "story-read/he-who-fights-with-monsters",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0022Chapter955TheUnadulteratedJason = {
   id: "01a06731-adc2-7001-9753-caee22c3c7b0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0022-chapter-955-the-unadulterated-jason",
   title: "Chapter 955: The Unadulterated Jason",
   story: "story-read/he-who-fights-with-monsters",

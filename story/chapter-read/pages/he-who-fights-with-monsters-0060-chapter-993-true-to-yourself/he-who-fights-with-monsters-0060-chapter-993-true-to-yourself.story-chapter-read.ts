@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0060Chapter993TrueToYourself = {
   id: "01a06731-ade4-7002-b66a-2011ef5cbcdd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0060-chapter-993-true-to-yourself",
   title: "Chapter 993: True to Yourself",
   story: "story-read/he-who-fights-with-monsters",

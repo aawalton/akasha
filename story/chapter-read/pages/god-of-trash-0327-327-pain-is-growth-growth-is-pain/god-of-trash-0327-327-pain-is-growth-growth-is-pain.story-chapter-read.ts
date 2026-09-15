@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0327327PainIsGrowthGrowthIsPain = {
   id: "01a06731-ae04-7001-b85e-7782257e1381",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0327-327-pain-is-growth-growth-is-pain",
   title: "327. Pain is Growth. Growth is Pain",
   story: "story-read/god-of-trash",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0069Chapter1001ItSAllQuiteAustralian = {
   id: "01a06731-adec-7001-a36f-f736441761a7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0069-chapter-1001-it-s-all-quite-australian",
   title: "Chapter 1001: It’s All Quite Australian",
   story: "story-read/he-who-fights-with-monsters",

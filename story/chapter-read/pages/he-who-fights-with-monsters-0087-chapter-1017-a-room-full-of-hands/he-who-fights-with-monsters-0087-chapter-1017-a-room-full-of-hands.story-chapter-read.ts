@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0087Chapter1017ARoomFullOfHands = {
   id: "01a06731-adff-7001-94a2-e8a9d66e351f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0087-chapter-1017-a-room-full-of-hands",
   title: "Chapter 1017: A Room Full of Hands",
   story: "story-read/he-who-fights-with-monsters",

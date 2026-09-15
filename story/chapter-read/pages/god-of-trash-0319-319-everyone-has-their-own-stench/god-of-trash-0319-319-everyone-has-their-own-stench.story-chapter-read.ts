@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0319319EveryoneHasTheirOwnStench = {
   id: "01a06731-ae02-7003-af90-84364857fd4a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0319-319-everyone-has-their-own-stench",
   title: "319. Everyone Has Their Own Stench",
   story: "story-read/god-of-trash",

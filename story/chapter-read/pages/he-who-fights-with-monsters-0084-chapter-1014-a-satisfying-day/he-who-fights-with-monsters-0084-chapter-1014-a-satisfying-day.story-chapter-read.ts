@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0084Chapter1014ASatisfyingDay = {
   id: "01a06731-adf7-7000-916b-c7ded6d62a82",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0084-chapter-1014-a-satisfying-day",
   title: "Chapter 1014: A Satisfying Day",
   story: "story-read/he-who-fights-with-monsters",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0073Chapter1005ADistantGod = {
   id: "01a06731-adf0-7001-9bd2-29a313c2bfa7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0073-chapter-1005-a-distant-god",
   title: "Chapter 1005: A Distant God",
   story: "story-read/he-who-fights-with-monsters",

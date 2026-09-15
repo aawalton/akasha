@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0040Chapter973ACrueltyOrAMercy = {
   id: "01a06731-add1-7002-bcde-0993d96d40c3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0040-chapter-973-a-cruelty-or-a-mercy",
   title: "Chapter 973: A Cruelty or a Mercy",
   story: "story-read/he-who-fights-with-monsters",

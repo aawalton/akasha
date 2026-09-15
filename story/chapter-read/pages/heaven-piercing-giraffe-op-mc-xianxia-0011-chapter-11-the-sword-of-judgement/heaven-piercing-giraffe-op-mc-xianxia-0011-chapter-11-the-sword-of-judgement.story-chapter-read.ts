@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heavenPiercingGiraffeOpMcXianxia0011Chapter11TheSwordOfJudgement = {
   id: "01a06731-b11d-7007-b8e8-d9bb373698ba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0011-chapter-11-the-sword-of-judgement",
   title: "Chapter 11: The Sword of Judgement",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",

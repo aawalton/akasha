@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0024Chapter957WhenTheScreamingBegan = {
   id: "01a06731-adc4-7001-b6d9-55b8b4113d48",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0024-chapter-957-when-the-screaming-began",
   title: "Chapter 957: When the Screaming Began",
   story: "story-read/he-who-fights-with-monsters",

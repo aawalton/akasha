@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heavenPiercingGiraffeOpMcXianxia0008Chapter8Deadline = {
   id: "01a06731-b11d-7004-a53c-fe85419e4224",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0008-chapter-8-deadline",
   title: "Chapter 8: Deadline",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",

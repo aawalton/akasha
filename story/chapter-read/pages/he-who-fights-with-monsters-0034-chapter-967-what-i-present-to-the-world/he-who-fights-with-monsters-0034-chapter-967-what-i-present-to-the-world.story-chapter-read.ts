@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0034Chapter967WhatIPresentToTheWorld = {
   id: "01a06731-adca-7001-8442-7db85aacbad0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0034-chapter-967-what-i-present-to-the-world",
   title: "Chapter 967: What I Present to the World",
   story: "story-read/he-who-fights-with-monsters",

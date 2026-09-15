@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heavenPiercingGiraffeOpMcXianxia0021Chapter21TheHeavensDivinePunishmentGodOf = {
   id: "01a06731-b11d-7011-8978-dba48d565ee5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0021-chapter-21-the-heavens-divine-punishment-god-of",
   title: "Chapter 21: The Heavens' Divine Punishment (God of Beasts' POV)",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",

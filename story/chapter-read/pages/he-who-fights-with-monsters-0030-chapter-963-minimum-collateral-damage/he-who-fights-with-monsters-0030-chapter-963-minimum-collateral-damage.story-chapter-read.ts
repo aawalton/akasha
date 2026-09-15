@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0030Chapter963MinimumCollateralDamage = {
   id: "01a06731-adc7-7000-8171-a94f0052a899",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0030-chapter-963-minimum-collateral-damage",
   title: "Chapter 963: Minimum Collateral Damage",
   story: "story-read/he-who-fights-with-monsters",

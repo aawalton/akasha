@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heWhoFightsWithMonsters0008Chapter8DarkMagic = {
   id: "01a06731-adbd-7002-91b2-e00e5b3f0bd1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0008-chapter-8-dark-magic",
   title: "Chapter 8: Dark Magic",
   story: "story-read/he-who-fights-with-monsters",
