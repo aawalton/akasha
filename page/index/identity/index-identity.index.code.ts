@@ -7,6 +7,7 @@ import type {
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
+  slugAt,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -70,7 +71,7 @@ export function filedIn(
 ): readonly Filed[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
-  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
   const held: Filed[] = []
   for (const [propertySlug, one] of identifying(pageTypeSlug)) {
