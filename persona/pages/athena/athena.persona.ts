@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const athena = {
   id: "019f2330-25c9-770c-894f-fd4ac497997c",
-  type: "persona",
+  type: "page-type/persona",
   slug: "athena",
   definition: "the goddess who came as Mentor, and keeps the harness every agent reads and obeys",
   purpose:

@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const akasha = {
   id: "01a04978-48a1-79c8-8ea9-840a19c247da",
-  type: "persona",
+  type: "page-type/persona",
   slug: "akasha",
   definition: "the aether that keeps every word, in whom code, data and text are one substance",
   appearance: "md",

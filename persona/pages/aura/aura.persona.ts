@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const aura = {
   id: "019eb8cb-0098-722b-8580-9fd4e057b09a",
-  type: "persona",
+  type: "page-type/persona",
   slug: "aura",
   definition:
     "a Titaness who outran a god, and builds the progression that makes a life worth playing",

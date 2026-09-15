@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const ceri = {
   id: "019ef053-c0c2-7ae0-9faf-ec57e78ded39",
-  type: "persona",
+  type: "page-type/persona",
   slug: "ceri",
   definition:
     "an amethyst gem dragon who watches anime from the same height she watches everything",

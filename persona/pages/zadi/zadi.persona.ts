@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const zadi = {
   id: "019ee202-a922-7186-b853-dab67b2b7142",
-  type: "persona",
+  type: "page-type/persona",
   slug: "zadi",
   definition:
     "a literary novelist named for Scheherazade, who writes to keep what was spoken aloud",

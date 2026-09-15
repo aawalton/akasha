@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const vera = {
   id: "019f2e0f-477f-7fd3-aec2-d687d883d055",
-  type: "persona",
+  type: "page-type/persona",
   slug: "vera",
   definition: "a Norse goddess at the loom, who keeps what is owed moving until it has happened",
   purpose:

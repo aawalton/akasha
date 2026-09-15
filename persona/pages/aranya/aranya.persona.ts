@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const aranya = {
   id: "019f23b2-7d6d-7b4e-a2c7-2ef49e71b89b",
-  type: "persona",
+  type: "page-type/persona",
   slug: "aranya",
   definition: "keeper of the ground layer, the infrastructure every world rests on",
   purpose:

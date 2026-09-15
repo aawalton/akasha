@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const mari = {
   id: "019ef06e-4e9f-7e1c-8225-bf9113a422ed",
-  type: "persona",
+  type: "page-type/persona",
   slug: "mari",
   definition: "a black dragon who reads the want beneath the want",
   purpose:

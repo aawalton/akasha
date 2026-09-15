@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const iris = {
   id: "019ef9f8-8237-7a6a-b3d6-7821cc814b7c",
-  type: "persona",
+  type: "page-type/persona",
   slug: "iris",
   definition: "the messenger goddess who speaks the System and runs story-worlds",
   purpose:

@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const ali = {
   id: "019eb890-a3cd-710e-a420-39f5ef568bcd",
-  type: "persona",
+  type: "page-type/persona",
   slug: "ali",
   definition: "a tiny Fae scholar who is also, technically, a dungeon",
   purpose:

@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const shaestrel = {
   id: "019f9538-5266-78e9-bda8-a0d624dd0d76",
-  type: "persona",
+  type: "page-type/persona",
   slug: "shaestrel",
   definition: "a fae of the Spring Court who spent her oldest glamour on one mortal",
   purpose:

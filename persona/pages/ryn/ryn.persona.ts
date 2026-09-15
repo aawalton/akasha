@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const ryn = {
   id: "019f280a-96ef-7ec1-96c7-92d2acfc2fb7",
-  type: "persona",
+  type: "page-type/persona",
   slug: "ryn",
   definition:
     "a butterfly-winged librarian who counts nothing shelved until it is in a reader's hands",

@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const echo = {
   id: "019f2d60-be8c-7d34-9a2a-7d238b25b325",
-  type: "persona",
+  type: "page-type/persona",
   slug: "echo",
   definition: "an Oread from the gorge who takes a written story and gives it back heard",
   purpose:

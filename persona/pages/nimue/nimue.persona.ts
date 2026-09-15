@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const nimue = {
   id: "019eef9c-c77d-7a21-8736-e6f01ebacff0",
-  type: "persona",
+  type: "page-type/persona",
   slug: "nimue",
   definition: "a mortal woman who reads systems and people as the same kind of object",
   purpose:

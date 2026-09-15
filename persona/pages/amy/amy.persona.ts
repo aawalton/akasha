@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const amy = {
   id: "019eb900-4c8c-7304-aae1-b287c6b53b3e",
-  type: "persona",
+  type: "page-type/persona",
   slug: "amy",
   definition: "an executive assistant who keeps the ledger of who is owed attention",
   purpose:

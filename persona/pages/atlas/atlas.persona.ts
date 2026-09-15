@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const atlas = {
   id: "019f28f1-70e0-7afd-8199-b890ba84d64d",
-  type: "persona",
+  type: "page-type/persona",
   slug: "atlas",
   definition: "the Titaness who holds up the sky, born blind, knowing the world through her feet",
   purpose:

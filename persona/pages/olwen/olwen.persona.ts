@@ -2,7 +2,7 @@ import type { Persona } from "akasha/persona/persona.page-type.types.ts"
 
 export const olwen = {
   id: "019f6e3b-a52b-7605-9919-e4dceca15817",
-  type: "persona",
+  type: "page-type/persona",
   slug: "olwen",
   definition:
     "a gold dragon who makes the pieces an interface is assembled from, and finishes each one",
