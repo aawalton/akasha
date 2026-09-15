@@ -14,13 +14,12 @@ export const supervisorFileVersion = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A specifier naming a package is walked to the file the package's manifest exports.",
+      statement: "The closure over the entry's imports is the graph's to answer.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The repository for a package is the nearest folder above the entry whose manifest names workspaces.",
+        "The files the closure names are read under the akasha checkout the supervisor runs from.",
     },
     {
       decisionKind: "decision-kind/departure",
