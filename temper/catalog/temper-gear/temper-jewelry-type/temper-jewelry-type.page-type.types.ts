@@ -1,4 +1,4 @@
-import type { ValidSlots } from "akasha/temper/catalog/temper-gear/properties/valid-slots.text-property.types.ts"
+import type { ValidSlots } from "akasha/temper/catalog/temper-gear/thing/properties/valid-slots.text-property.types.ts"
 import type { TemperGearThing } from "akasha/temper/catalog/temper-gear/thing/temper-gear-thing.page-type.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 
