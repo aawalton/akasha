@@ -1,8 +1,8 @@
 import { createHash } from "node:crypto"
 import { join } from "node:path"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import type { ImageBuild } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const COPY_AT = "COPY "
 const FROM_FLAG = "--from="

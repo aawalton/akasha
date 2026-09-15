@@ -19,13 +19,13 @@ import { keepTranscript } from "akasha/agent/seat/session/modules/seat-transcrip
 import { keepSession } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   ownRepoRoot,
   resolveRoots,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const MODULE = "module"
 

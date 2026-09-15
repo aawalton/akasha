@@ -1,4 +1,4 @@
-import { bytes, NO_CODE } from "akasha/util/run/modules/running/running.module.code.ts"
+import { bytes, NO_CODE } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 export type GitResult = {
   readonly code: number

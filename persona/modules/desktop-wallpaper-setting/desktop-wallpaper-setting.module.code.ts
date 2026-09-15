@@ -1,6 +1,11 @@
 import { existsSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, isAbsolute, join } from "node:path"
+import {
+  NO_CODE,
+  ran,
+  type Said,
+} from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { followWithin } from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -12,7 +17,6 @@ import {
   orderedWallpaperSlugs,
   type WallpaperRow,
 } from "akasha/persona/modules/wallpaper-order/wallpaper-order.module.code.ts"
-import { NO_CODE, ran, type Said } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const PERSONA = "persona"
 

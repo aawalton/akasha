@@ -31,7 +31,7 @@ export const noRunOutsideTheRunner = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which folder that is is read from the folder's name rather than its whole path.",
+      statement: "Which folder that is is the whole path that folder sits at.",
     },
     {
       decisionKind: "decision-kind/departure",

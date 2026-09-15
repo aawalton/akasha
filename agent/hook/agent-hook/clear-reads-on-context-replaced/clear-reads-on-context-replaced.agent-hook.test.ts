@@ -31,7 +31,7 @@ import {
   UNDER_OTHER,
   UNDER_TOO,
 } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "clear-reads-on-context-replaced.agent-hook.code.ts")
 

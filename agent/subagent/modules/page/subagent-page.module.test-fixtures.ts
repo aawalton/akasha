@@ -8,6 +8,7 @@ import {
   RETURNED,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
+import { said as outOf } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,
@@ -19,7 +20,6 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
-import { said as outOf } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 

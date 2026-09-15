@@ -14,6 +14,7 @@ export const code = {
     "domain/code-process",
     "domain/code-reading",
     "domain/code-running",
+    "domain/code-spawning",
     "domain/editor",
     "domain/shell",
     "domain/type",

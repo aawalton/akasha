@@ -6,6 +6,7 @@ import type { Judged, Judging } from "akasha/check/modules/judging/judging.modul
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { excludingIndex } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
+import { said as saying } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Stated } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import {
   NO_TEXT,
@@ -34,7 +35,6 @@ import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { said as saying } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 

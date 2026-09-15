@@ -312,6 +312,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/shell-script/shell-script.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/shell/shell.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/shell/terminal/shell-terminal.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/spawning/code-spawning.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/stylesheet/stylesheet.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type-declaration/type-declaration.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type/import/type-import.domain.ts"}
@@ -604,7 +605,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/fs/util-fs.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/narrow/util-narrow.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/run/util-run.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/slug/util-slug.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/sync/util-sync.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/text/util-text.domain.ts"}

@@ -3,6 +3,7 @@ import { dirname, join } from "node:path"
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/check/modules/judging/judging.module.code.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   idFiled,
@@ -17,7 +18,6 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

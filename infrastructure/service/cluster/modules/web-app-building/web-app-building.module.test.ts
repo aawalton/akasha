@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { said as saying } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   alreadyBuilt,
   type BuildEnv,
@@ -25,7 +26,6 @@ import type {
   Manifest,
   Plan,
 } from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
-import { said as saying } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const WORLD = seededWorld()
 

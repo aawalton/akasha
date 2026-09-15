@@ -1,11 +1,11 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { secretAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   NO_CODE,
   ran as running,
   type Said,
-} from "akasha/util/run/modules/running/running.module.code.ts"
+} from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { secretAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 export type Secrets = ReadonlyMap<string, string>
 

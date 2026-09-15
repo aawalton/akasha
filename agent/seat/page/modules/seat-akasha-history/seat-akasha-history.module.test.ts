@@ -5,9 +5,9 @@ import {
   akashaSeatNamedInHistory,
   akashaSeatsInHistory,
 } from "akasha/agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"
+import { said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { said } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const scratch = scratchWorld()
 

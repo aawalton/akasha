@@ -1,10 +1,10 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { gitPush } from "akasha/command/pages/git/push/git-push.command.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const scratch = scratchWorld()
 

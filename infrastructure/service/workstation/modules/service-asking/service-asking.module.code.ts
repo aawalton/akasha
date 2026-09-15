@@ -1,6 +1,6 @@
+import { NO_CODE } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import type { Ran } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
-import { NO_CODE } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export type Running = (args: readonly string[]) => Ran
 

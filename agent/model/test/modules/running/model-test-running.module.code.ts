@@ -1,9 +1,9 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { endsYes } from "akasha/agent/model/modules/answer/model-answer.module.code.ts"
+import { ran as spawned } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { ran as spawned } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const FAMILY = "model-family"
 

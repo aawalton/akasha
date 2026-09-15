@@ -1,15 +1,11 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
-import {
-  markedLine,
-  markingIn,
-  pipedIn,
-} from "akasha/command/modules/piping/piping.module.code.ts"
+import { markedLine, markingIn, pipedIn } from "akasha/command/modules/piping/piping.module.code.ts"
 import { TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const SAYING = {
   bare: (path: string) => `nothing is piped in for ${path}`,

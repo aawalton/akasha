@@ -6,7 +6,7 @@ import type {
 import { lineOf } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
-const RUNNER_UNDER = "util/run/"
+const RUNNER_UNDER = "code/spawning/"
 
 const RUNNER_IN = "/running/"
 

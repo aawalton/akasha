@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 export const BINARY = "node_modules/.bin/biome"
 

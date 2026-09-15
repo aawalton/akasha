@@ -2,14 +2,14 @@ import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { checkReachesAPathThroughTheIndex } from "akasha/check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.audit.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { tracked } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import {
   scratch,
   staged,
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 afterAll(scratch.sweep)
 

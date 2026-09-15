@@ -2,9 +2,9 @@ import { rgPath } from "@vscode/ripgrep"
 import { leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedSpelled } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const BYTES = new TextEncoder()
 

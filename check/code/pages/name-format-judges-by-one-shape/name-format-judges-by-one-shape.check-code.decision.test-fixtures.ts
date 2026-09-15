@@ -6,6 +6,7 @@ import {
 } from "akasha/check/code/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.check-code.decision.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { change } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -14,7 +15,6 @@ import {
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const AT = "akasha/f/lower-kebab-case.name-format.code.ts"
 

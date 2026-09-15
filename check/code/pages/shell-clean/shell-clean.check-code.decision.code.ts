@@ -1,5 +1,6 @@
 import { mirroredOf } from "akasha/check/modules/change-mirror/change-mirror.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { pathsOf } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -8,7 +9,6 @@ import {
   textAt,
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const SH = ".sh"
 

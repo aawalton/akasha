@@ -1,4 +1,7 @@
-import { type Asked, said as saying } from "akasha/util/run/modules/running/running.module.code.ts"
+import {
+  type Asked,
+  said as saying,
+} from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 export type Wanted = {
   readonly timeout?: number

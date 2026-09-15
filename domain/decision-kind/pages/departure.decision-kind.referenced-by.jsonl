@@ -1812,6 +1812,7 @@
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.ts","id":"01a0785c-fa03-739c-823f-27b2ea6fc501"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-seat-stating/terminal-seat-stating.module.ts","id":"01a0680a-fa30-7f40-a5ba-c3374e395ecb"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/shell-terminal.domain.ts","id":"01a0884d-5f98-745e-bc9f-ced0318936eb"}
+{"propertySlug":"decision-kind","path":"code/spawning/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/modules/source-globbing/source-globbing.module.ts","id":"01a08293-ce34-754b-8be5-2829fd5fb36e"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/properties/styles.file-property.ts","id":"01a05b01-48b2-7b95-9b72-f48b799f4e5c"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
@@ -5284,7 +5285,6 @@
 {"propertySlug":"decision-kind","path":"util/narrow/modules/text-at/text-at.module.ts","id":"01a05c94-2c02-7dc2-a598-544061815ac8"}
 {"propertySlug":"decision-kind","path":"util/narrow/modules/text-in/text-in.module.ts","id":"01a08e33-143b-7941-8a84-9fab0085e396"}
 {"propertySlug":"decision-kind","path":"util/narrow/modules/whole-number-in/whole-number-in.module.ts","id":"01a08dfa-83ab-7057-b41a-60b238c8d728"}
-{"propertySlug":"decision-kind","path":"util/run/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
 {"propertySlug":"decision-kind","path":"util/slug/modules/camelize-key/camelize-key.module.ts","id":"01a090e5-14b5-76c8-a2aa-3fc1519a8db3"}
 {"propertySlug":"decision-kind","path":"util/slug/modules/dash-between-words/dash-between-words.module.ts","id":"01a08e73-15cd-74c8-9abf-c1974f4b4e89"}
 {"propertySlug":"decision-kind","path":"util/slug/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}

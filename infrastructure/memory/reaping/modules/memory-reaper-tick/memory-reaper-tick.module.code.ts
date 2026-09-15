@@ -1,3 +1,4 @@
+import { leftSweptHere } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { readMemInfoKb } from "akasha/infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"
 import {
   GLOBAL_MIN_AVAIL_KB,
@@ -27,7 +28,6 @@ import {
   readUserPidSnapshots,
 } from "akasha/infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.code.ts"
 import { withTickDeadline } from "akasha/infrastructure/service/workstation/modules/tick-deadline/tick-deadline.module.code.ts"
-import { leftSweptHere } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export type ReaperState = { lastGlobalKillAtMs: number | null }
 

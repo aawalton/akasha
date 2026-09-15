@@ -1,10 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   declaring,
   founded,
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -15,9 +17,7 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Formatting } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export const allows: Formatting = () => (): boolean => true
 

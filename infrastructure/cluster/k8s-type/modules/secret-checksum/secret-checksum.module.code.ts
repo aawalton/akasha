@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 export function secretChecksum(namespace: string, secret: string, keys: readonly string[]): string {
   const jsonpath = keys.map((key) => `{.data.${key.replaceAll(".", "\\.")}}`).join("")

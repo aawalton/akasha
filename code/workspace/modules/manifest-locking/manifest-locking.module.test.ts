@@ -6,6 +6,7 @@ import type {
   Moving,
   Removing,
 } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   carriesLock,
   installedIn,
@@ -23,7 +24,6 @@ import { baseOf } from "akasha/command/modules/landing-change-composing/landing-
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { anythingThere as linkThere } from "akasha/util/fs/modules/anything-there/anything-there.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const scratch = scratchWorld()
 

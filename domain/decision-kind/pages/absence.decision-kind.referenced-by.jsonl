@@ -940,6 +940,7 @@
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.ts","id":"01a0680a-fa30-7c2d-9713-6347088773b7"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-reload/terminal-reload.module.ts","id":"01a0680a-fa30-773e-a23e-fcd5bda782a7"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.ts","id":"01a0785c-fa03-739c-823f-27b2ea6fc501"}
+{"propertySlug":"decision-kind","path":"code/spawning/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/modules/source-globbing/source-globbing.module.ts","id":"01a08293-ce34-754b-8be5-2829fd5fb36e"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
 {"propertySlug":"decision-kind","path":"code/type-declaration/type-declaration.page-type.ts","id":"01a0605a-98f4-7c54-8030-4fec48465bda"}
@@ -1911,7 +1912,6 @@
 {"propertySlug":"decision-kind","path":"util/modules/thread-pause/thread-pause.module.ts","id":"01a08e0b-3619-7b50-b734-15e0787219e1"}
 {"propertySlug":"decision-kind","path":"util/narrow/modules/escape-reg-exp/escape-reg-exp.module.ts","id":"01a08ddd-31b1-78ff-9e8a-a1d35a2b4530"}
 {"propertySlug":"decision-kind","path":"util/narrow/modules/record-field/record-field.module.ts","id":"01a08e04-e54a-7ebc-acbf-ba372a5763fe"}
-{"propertySlug":"decision-kind","path":"util/run/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
 {"propertySlug":"decision-kind","path":"util/slug/modules/camelize-key/camelize-key.module.ts","id":"01a090e5-14b5-76c8-a2aa-3fc1519a8db3"}
 {"propertySlug":"decision-kind","path":"util/slug/modules/dash-between-words/dash-between-words.module.ts","id":"01a08e73-15cd-74c8-9abf-c1974f4b4e89"}
 {"propertySlug":"decision-kind","path":"util/slug/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}

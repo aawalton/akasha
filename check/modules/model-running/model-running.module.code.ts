@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { opensYes } from "akasha/agent/model/modules/answer/model-answer.module.code.ts"
 import { PAGES } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/check/modules/judging/judging.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   everyOfType,
   typeSlugOf,
@@ -12,7 +13,6 @@ import { exportedAs } from "akasha/page/modules/export-name/page-export-name.mod
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const CHECK_MODEL_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
 

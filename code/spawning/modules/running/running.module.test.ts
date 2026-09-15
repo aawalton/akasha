@@ -11,7 +11,7 @@ import {
   ownAt,
   ran,
   said,
-} from "akasha/util/run/modules/running/running.module.code.ts"
+} from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 const CODE = `${import.meta.dir}/running.module.code.ts`
 

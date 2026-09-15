@@ -61,6 +61,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/shell/modules/quoting/quoting.module.test.ts"}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"code/spawning/modules/running/running.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/modules/change-ceiling/change-ceiling.module.code.ts"}
@@ -104,5 +105,4 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/upstream-data/modules/libsets-upstream-fetch/libsets-upstream-fetch.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/watcher/modules/watcher-unit/watcher-unit.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.code.ts"}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"util/run/modules/running/running.module.test.ts"}
-{"propertySlug":"parts","path":"util/run/util-run.domain.ts","id":"01a05d20-8005-763f-8c3e-b80bd06da1d2"}
+{"propertySlug":"parts","path":"code/spawning/code-spawning.domain.ts","id":"01a05d20-8005-763f-8c3e-b80bd06da1d2"}

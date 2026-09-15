@@ -5,6 +5,7 @@ import {
   sweptAll,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { change } from "akasha/command/argument/pages/change.argument.ts"
 import {
@@ -22,7 +23,6 @@ import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const CHANGE_AGENT = "change-agent"
 

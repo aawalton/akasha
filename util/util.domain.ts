@@ -9,7 +9,6 @@ export const util = {
   parts: [
     "domain/util-fs",
     "domain/util-narrow",
-    "domain/util-run",
     "domain/util-slug",
     "domain/util-sync",
     "domain/util-text",

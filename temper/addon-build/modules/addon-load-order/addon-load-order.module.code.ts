@@ -1,5 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   numberAt,
@@ -19,7 +20,6 @@ import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { safeFolderName } from "akasha/temper/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const BUILD_ID_FILE = "build-id.lua"
 
