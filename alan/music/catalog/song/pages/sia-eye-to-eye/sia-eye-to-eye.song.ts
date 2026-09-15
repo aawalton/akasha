@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaEyeToEye = {
   id: "019ea4c5-bed3-7231-a84a-6802f9bb28dc",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-eye-to-eye",
   title: "Eye to Eye",
   artist: "artist/sia",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaStandingOnTheSunRemix = {
   id: "019ea4ce-8c36-7443-8c28-82a1c98fe532",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-standing-on-the-sun-remix",
   title: "Standing on the Sun Remix",
   artist: "artist/sia",

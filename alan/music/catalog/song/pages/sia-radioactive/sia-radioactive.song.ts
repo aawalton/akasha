@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaRadioactive = {
   id: "019ea4cd-2520-7386-ba53-bfa6a1f41e35",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-radioactive",
   title: "Radioactive",
   artist: "artist/sia",

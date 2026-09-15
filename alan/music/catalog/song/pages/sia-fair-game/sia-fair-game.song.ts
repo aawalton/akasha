@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaFairGame = {
   id: "019ea4c6-516e-758b-a354-44dcfec3cc00",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-fair-game",
   title: "Fair Game",
   artist: "artist/sia",

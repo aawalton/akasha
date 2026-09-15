@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaHurtingMeNow = {
   id: "019ea4c8-e7f4-774a-9d8a-e9d2b3820604",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-hurting-me-now",
   title: "Hurting Me Now",
   artist: "artist/sia",

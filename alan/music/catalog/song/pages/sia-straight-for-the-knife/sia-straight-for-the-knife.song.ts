@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaStraightForTheKnife = {
   id: "019ea4cc-0f6a-75b1-9188-2f9b8c51b027",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-straight-for-the-knife",
   title: "Straight for the Knife",
   artist: "artist/sia",

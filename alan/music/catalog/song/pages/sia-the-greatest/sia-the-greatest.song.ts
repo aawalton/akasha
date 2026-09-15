@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaTheGreatest = {
   id: "019ea4cc-6e18-7271-ba7f-cec0ee4756ab",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-the-greatest",
   title: "The Greatest",
   artist: "artist/sia",

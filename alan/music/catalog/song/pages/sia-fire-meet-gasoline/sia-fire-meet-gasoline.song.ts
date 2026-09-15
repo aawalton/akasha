@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaFireMeetGasoline = {
   id: "019ea4c6-bb5e-7385-bc6e-d6b3fa3c07fb",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-fire-meet-gasoline",
   title: "Fire Meet Gasoline",
   artist: "artist/sia",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaFameWonTLoveYou = {
   id: "019ea4c3-44ec-7e80-a148-2ec6648573cd",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-fame-won-t-love-you",
   title: "Fame Won’t Love You",
   artist: "artist/sia",

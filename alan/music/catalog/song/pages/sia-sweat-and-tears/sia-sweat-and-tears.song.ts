@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaSweatAndTears = {
   id: "019ea4ce-6e8a-74c6-9731-6b1e412d5af0",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-sweat-and-tears",
   title: "Sweat and Tears",
   artist: "artist/sia",

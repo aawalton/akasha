@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaHealingIsDifficult = {
   id: "019ea4c8-c291-7f7e-ae81-2ebf8ac8ca1d",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-healing-is-difficult",
   title: "Healing Is Difficult",
   artist: "artist/sia",

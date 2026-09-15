@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaNeverGiveUp = {
   id: "019ea4c8-952e-7364-968f-e9803ccfc0b8",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-never-give-up",
   title: "Never Give Up",
   artist: "artist/sia",

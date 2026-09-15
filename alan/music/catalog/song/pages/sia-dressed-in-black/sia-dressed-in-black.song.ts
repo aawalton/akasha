@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaDressedInBlack = {
   id: "019ea4c3-e267-73a0-84d9-78fb42464e77",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-dressed-in-black",
   title: "Dressed in Black",
   artist: "artist/sia",

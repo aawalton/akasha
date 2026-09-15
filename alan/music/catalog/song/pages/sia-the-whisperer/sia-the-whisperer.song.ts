@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaTheWhisperer = {
   id: "019ea4cb-b2a8-765c-b772-14bcb8ce0d5c",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-the-whisperer",
   title: "The Whisperer",
   artist: "artist/sia",

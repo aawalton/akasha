@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaEverydayIsChristmas = {
   id: "019ea4c5-7b55-76e0-827f-d0fca75beedc",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-everyday-is-christmas",
   title: "Everyday Is Christmas",
   artist: "artist/sia",

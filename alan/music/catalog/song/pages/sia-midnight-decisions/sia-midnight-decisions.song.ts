@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaMidnightDecisions = {
   id: "019ea4c8-d5fb-7439-a556-26f9b14c1fba",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-midnight-decisions",
   title: "Midnight Decisions",
   artist: "artist/sia",

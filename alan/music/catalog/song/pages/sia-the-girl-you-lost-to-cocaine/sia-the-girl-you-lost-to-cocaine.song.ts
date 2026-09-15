@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaTheGirlYouLostToCocaine = {
   id: "019ea4ca-e93d-7b7d-8409-946f31533b6f",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-the-girl-you-lost-to-cocaine",
   title: "The Girl You Lost to Cocaine",
   artist: "artist/sia",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaLetYourTearsFall = {
   id: "019ea4ad-f94c-7d85-802c-0bc8c4a16185",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-let-your-tears-fall",
   title: "Let Your Tears Fall",
   artist: "artist/sia",

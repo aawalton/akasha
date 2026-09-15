@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaThePageantOfTheBizarre = {
   id: "019ea4cd-c7ae-7f05-9418-e354290279ec",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-the-pageant-of-the-bizarre",
   title: "The Pageant of the Bizarre",
   artist: "artist/sia",

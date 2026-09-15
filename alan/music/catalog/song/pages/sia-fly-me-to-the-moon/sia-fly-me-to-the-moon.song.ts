@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaFlyMeToTheMoon = {
   id: "019ea4c7-3696-7740-b5ff-e0552ff0bebf",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-fly-me-to-the-moon",
   title: "Fly Me to the Moon",
   artist: "artist/sia",

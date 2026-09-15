@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaImmortalQueen = {
   id: "019ea4c9-a61a-7af5-a3a8-b4dd73a3a5e6",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-immortal-queen",
   title: "Immortal Queen",
   artist: "artist/sia",

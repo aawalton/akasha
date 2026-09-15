@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaHoHoHo = {
   id: "019ea4c7-10f9-7aa6-8fa8-7d3be094cc7c",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-ho-ho-ho",
   title: "Ho Ho Ho",
   artist: "artist/sia",

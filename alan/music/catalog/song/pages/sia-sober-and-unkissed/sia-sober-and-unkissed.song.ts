@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaSoberAndUnkissed = {
   id: "019ea4cc-42a2-7d3c-8b09-8c126b21555c",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-sober-and-unkissed",
   title: "Sober and Unkissed",
   artist: "artist/sia",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaMakingTheMostOfTheNight = {
   id: "019ea4c8-fb14-777b-9e8c-2e5140fb29b1",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-making-the-most-of-the-night",
   title: "Making the Most of the Night",
   artist: "artist/sia",

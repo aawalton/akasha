@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaNowhereToBe = {
   id: "019ea4c9-9fdd-78c4-8923-303601cafe52",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-nowhere-to-be",
   title: "Nowhere to Be",
   artist: "artist/sia",

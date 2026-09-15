@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaOblivion = {
   id: "019ea4c9-8d07-74ea-9912-305a3c82346a",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-oblivion",
   title: "Oblivion",
   artist: "artist/sia",

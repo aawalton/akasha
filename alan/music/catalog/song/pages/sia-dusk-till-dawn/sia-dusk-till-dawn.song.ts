@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaDuskTillDawn = {
   id: "019ea4c4-0188-7839-b7e7-743573ddc7c7",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-dusk-till-dawn",
   title: "Dusk Till Dawn",
   artist: "artist/sia",

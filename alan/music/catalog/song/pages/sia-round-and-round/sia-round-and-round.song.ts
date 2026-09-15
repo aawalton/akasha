@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaRoundAndRound = {
   id: "019ea4cd-5dc4-7ff5-abb9-024a8f60f124",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-round-and-round",
   title: "Round and Round",
   artist: "artist/sia",

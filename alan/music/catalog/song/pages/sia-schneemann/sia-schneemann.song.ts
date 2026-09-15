@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaSchneemann = {
   id: "019ea4ca-84e6-7142-b0ee-d8fd9a8425b6",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-schneemann",
   title: "Schneemann",
   artist: "artist/sia",

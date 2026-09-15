@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaKillAndRun = {
   id: "019ea4c9-09a2-771a-b8bd-0692735cf9ae",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-kill-and-run",
   title: "Kill and Run",
   artist: "artist/sia",

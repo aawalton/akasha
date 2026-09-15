@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaSaltedWound = {
   id: "019ea4cc-9989-75e5-a4a4-f3a66bf615d5",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-salted-wound",
   title: "Salted Wound",
   artist: "artist/sia",

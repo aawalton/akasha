@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaSantaSComingForUs = {
   id: "019ea4cc-298e-7339-bfe4-d2f2d0992a68",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-santa-s-coming-for-us",
   title: "Santa’s Coming for Us",
   artist: "artist/sia",

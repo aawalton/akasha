@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaSheWolfFallingToPieces = {
   id: "019ea4ce-a41a-702e-93dc-4908cc77ac39",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-she-wolf-falling-to-pieces",
   title: "She Wolf (Falling to Pieces)",
   artist: "artist/sia",

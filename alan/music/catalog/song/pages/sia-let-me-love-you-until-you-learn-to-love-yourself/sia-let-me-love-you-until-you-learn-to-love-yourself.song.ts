@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaLetMeLoveYouUntilYouLearnToLoveYourself = {
   id: "019ea4c9-7aaf-76e2-a85b-046858577d20",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-let-me-love-you-until-you-learn-to-love-yourself",
   title: "Let Me Love You (Until You Learn to Love Yourself)",
   artist: "artist/sia",

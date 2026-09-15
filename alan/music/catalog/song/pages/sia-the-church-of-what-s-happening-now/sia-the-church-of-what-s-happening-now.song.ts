@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaTheChurchOfWhatSHappeningNow = {
   id: "019ea4cc-7986-7fc9-b02e-ab4fcf4995cc",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-the-church-of-what-s-happening-now",
   title: "The Church of What’s Happening Now",
   artist: "artist/sia",

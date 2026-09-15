@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaStrongerThanEver = {
   id: "019ea4cd-4598-7bab-95e7-e080ccccc47e",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-stronger-than-ever",
   title: "Stronger Than Ever",
   artist: "artist/sia",

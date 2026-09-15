@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaHeavenCanWait = {
   id: "019ea4ca-3760-7564-9cef-106dcbbcdf0b",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-heaven-can-wait",
   title: "Heaven Can Wait",
   artist: "artist/sia",

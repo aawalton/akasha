@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaWeAreOneOleOla = {
   id: "019ea4ca-8ad7-7af9-ad45-7c5dbdf3861a",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-we-are-one-ole-ola",
   title: "We Are One (Ole Ola)",
   artist: "artist/sia",

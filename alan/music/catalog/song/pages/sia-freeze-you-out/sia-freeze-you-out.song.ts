@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaFreezeYouOut = {
   id: "019ea4c9-1f06-7f2b-b088-0a74ed5ad509",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-freeze-you-out",
   title: "Freeze You Out",
   artist: "artist/sia",

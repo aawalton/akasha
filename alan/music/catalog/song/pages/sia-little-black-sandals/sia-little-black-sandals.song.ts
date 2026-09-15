@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaLittleBlackSandals = {
   id: "019ea4c6-dfef-78ea-9465-896e4449f979",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-little-black-sandals",
   title: "Little Black Sandals",
   artist: "artist/sia",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaIfICanTHaveYou = {
   id: "019ea4c8-6882-78ef-aea0-89ce9f77ff58",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-if-i-can-t-have-you",
   title: "If I Can’t Have You",
   artist: "artist/sia",

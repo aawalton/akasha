@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaNoNewFriends = {
   id: "019ea4c6-cb25-7152-b074-5bf743023162",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-no-new-friends",
   title: "No New Friends",
   artist: "artist/sia",

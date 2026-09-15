@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaIfYouSaySo = {
   id: "019ea4c9-46a6-7b3c-976d-992f3779c1d9",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-if-you-say-so",
   title: "If You Say So",
   artist: "artist/sia",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaPlayDumb = {
   id: "019ea4ce-1b16-76bf-a312-7d97fdfb5448",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-play-dumb",
   title: "Play Dumb",
   artist: "artist/sia",

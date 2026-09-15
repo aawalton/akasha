@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaLikeARiverRuns = {
   id: "019ea4c6-c413-7842-818a-922baa3fb42e",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-like-a-river-runs",
   title: "Like a River Runs",
   artist: "artist/sia",

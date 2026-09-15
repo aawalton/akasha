@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaFloatingThroughSpace = {
   id: "019ea4c7-81f5-77fe-9baf-7197c661f681",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-floating-through-space",
   title: "Floating Through Space",
   artist: "artist/sia",

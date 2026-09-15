@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaPuppiesAreForever = {
   id: "019ea4ce-43e3-76cb-ae3e-14c5ffb9d1ef",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-puppies-are-forever",
   title: "Puppies Are Forever",
   artist: "artist/sia",

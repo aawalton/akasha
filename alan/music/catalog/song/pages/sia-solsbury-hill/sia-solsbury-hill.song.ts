@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const siaSolsburyHill = {
   id: "019ea4ca-ccef-700f-b7bf-ee9320a7888e",
-  type: "song",
+  type: "page-type/song",
   slug: "sia-solsbury-hill",
   title: "Solsbury Hill",
   artist: "artist/sia",
