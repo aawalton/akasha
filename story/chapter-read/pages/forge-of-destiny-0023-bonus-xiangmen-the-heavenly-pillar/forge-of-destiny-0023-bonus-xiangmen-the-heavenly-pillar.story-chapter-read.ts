@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0023BonusXiangmenTheHeavenlyPillar = {
   id: "01a0672c-eb0f-7001-b0bb-8320dc41ff7f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0023-bonus-xiangmen-the-heavenly-pillar",
   title: "Bonus: Xiangmen, the Heavenly Pillar",
   story: "story-read/forge-of-destiny",

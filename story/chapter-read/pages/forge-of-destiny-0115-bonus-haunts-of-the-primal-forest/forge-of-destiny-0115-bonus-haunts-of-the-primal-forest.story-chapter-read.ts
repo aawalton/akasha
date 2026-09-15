@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0115BonusHauntsOfThePrimalForest = {
   id: "01a0672c-eb30-7001-8fd4-06a8f5f57006",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0115-bonus-haunts-of-the-primal-forest",
   title: "Bonus: haunts of the Primal Forest",
   story: "story-read/forge-of-destiny",

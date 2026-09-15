@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0039InterludeTheCobblerAndTheViper = {
   id: "01a0672c-eb16-7003-8b9e-d45294939975",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0039-interlude-the-cobbler-and-the-viper",
   title: "Interlude: The Cobbler and the Viper",
   story: "story-read/forge-of-destiny",

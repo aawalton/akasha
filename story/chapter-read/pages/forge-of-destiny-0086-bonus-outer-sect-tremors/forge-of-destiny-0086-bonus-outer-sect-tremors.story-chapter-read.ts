@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0086BonusOuterSectTremors = {
   id: "01a0672c-eb27-7002-b287-e61418a0fb42",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0086-bonus-outer-sect-tremors",
   title: "Bonus: Outer Sect Tremors",
   story: "story-read/forge-of-destiny",

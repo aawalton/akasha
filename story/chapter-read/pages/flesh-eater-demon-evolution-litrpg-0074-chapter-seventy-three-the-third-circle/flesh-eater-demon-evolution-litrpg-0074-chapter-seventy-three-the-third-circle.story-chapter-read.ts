@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fleshEaterDemonEvolutionLitrpg0074ChapterSeventyThreeTheThirdCircle = {
   id: "01a06731-af60-7001-b561-fae3ba465c62",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0074-chapter-seventy-three-the-third-circle",
   title: "Chapter Seventy-Three: The Third Circle",
   story: "story-read/flesh-eater-demon-evolution-litrpg",

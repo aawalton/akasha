@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0069BonusCharacterSheet = {
   id: "01a0672c-eb23-7001-aec8-e66f3226da66",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0069-bonus-character-sheet",
   title: "Bonus: Character Sheet",
   story: "story-read/forge-of-destiny",

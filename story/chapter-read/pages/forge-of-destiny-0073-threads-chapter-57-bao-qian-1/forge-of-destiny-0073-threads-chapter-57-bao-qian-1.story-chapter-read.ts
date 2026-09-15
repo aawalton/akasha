@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0073ThreadsChapter57BaoQian1 = {
   id: "01a0672c-eb24-7001-bfdc-016b78ed1c8b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0073-threads-chapter-57-bao-qian-1",
   title: "Threads Chapter 57-Bao Qian 1",
   story: "story-read/forge-of-destiny",

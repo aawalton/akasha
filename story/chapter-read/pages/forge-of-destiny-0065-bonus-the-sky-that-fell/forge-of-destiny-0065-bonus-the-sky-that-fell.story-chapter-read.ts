@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0065BonusTheSkyThatFell = {
   id: "01a0672c-eb22-7002-8d2f-bd6afca3d1d5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0065-bonus-the-sky-that-fell",
   title: "Bonus: The Sky that Fell",
   story: "story-read/forge-of-destiny",

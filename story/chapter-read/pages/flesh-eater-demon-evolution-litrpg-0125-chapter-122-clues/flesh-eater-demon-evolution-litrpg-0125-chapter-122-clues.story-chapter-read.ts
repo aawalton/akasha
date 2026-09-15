@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fleshEaterDemonEvolutionLitrpg0125Chapter122Clues = {
   id: "01a08534-943e-762b-ae8b-a09fcbebc062",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0125-chapter-122-clues",
   position: 125,
   publishedAt: "2026-09-09",
