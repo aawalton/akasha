@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const soloAStarWarsStory = {
   id: "01a06802-6d99-7035-815d-052f70d6fc36",
-  type: "movie",
+  type: "page-type/movie",
   slug: "solo-a-star-wars-story",
   title: "Solo: A Star Wars Story",
   partOfCollections: ["fandom/star-wars-2"],

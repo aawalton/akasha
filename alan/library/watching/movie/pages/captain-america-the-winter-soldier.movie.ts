@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const captainAmericaTheWinterSoldier = {
   id: "01a06802-6d98-701f-af8d-f78433374dd4",
-  type: "movie",
+  type: "page-type/movie",
   slug: "captain-america-the-winter-soldier",
   title: "Captain America: The Winter Soldier",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

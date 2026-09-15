@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const attackOfTheClones = {
   id: "01a06802-6d98-7008-b6d6-f18e7c93f5d0",
-  type: "movie",
+  type: "page-type/movie",
   slug: "attack-of-the-clones",
   title: "Attack of the Clones",
   partOfCollections: ["fandom/star-wars-2"],

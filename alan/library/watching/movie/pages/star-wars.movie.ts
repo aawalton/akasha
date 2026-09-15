@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const starWars = {
   id: "01a06802-6d99-7047-b6be-3831a5c72559",
-  type: "movie",
+  type: "page-type/movie",
   slug: "star-wars",
   title: "Star Wars",
   partOfCollections: ["fandom/star-wars-2"],

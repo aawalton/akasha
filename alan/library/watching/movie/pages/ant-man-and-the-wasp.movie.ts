@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const antManAndTheWasp = {
   id: "01a06802-6d98-7004-bae3-4d930222318a",
-  type: "movie",
+  type: "page-type/movie",
   slug: "ant-man-and-the-wasp",
   title: "Ant-Man and the Wasp",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

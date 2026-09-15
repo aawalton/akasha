@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theRiseOfSkywalker = {
   id: "01a06802-6d9a-701d-b0d9-00363490c3a6",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-rise-of-skywalker",
   title: "The Rise of Skywalker",
   partOfCollections: ["fandom/star-wars-2"],

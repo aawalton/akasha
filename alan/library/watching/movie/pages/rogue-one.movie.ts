@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const rogueOne = {
   id: "01a06802-6d99-7031-a726-e734a5930178",
-  type: "movie",
+  type: "page-type/movie",
   slug: "rogue-one",
   title: "Rogue One",
   partOfCollections: ["fandom/star-wars-2"],

@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const stargateContinuum = {
   id: "01a06802-6d9a-7001-84b1-99481254bff9",
-  type: "movie",
+  type: "page-type/movie",
   slug: "stargate-continuum",
   title: "Stargate: Continuum",
   partOfCollections: ["fandom/stargate-2"],

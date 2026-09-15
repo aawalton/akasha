@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theIncredibleHulk = {
   id: "01a06802-6d9a-7014-b204-130db86e5202",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-incredible-hulk",
   title: "The Incredible Hulk",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

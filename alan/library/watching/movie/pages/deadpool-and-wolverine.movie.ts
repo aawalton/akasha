@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const deadpoolAndWolverine = {
   id: "01a06802-6d99-7002-b74c-ffbabe0ef2c8",
-  type: "movie",
+  type: "page-type/movie",
   slug: "deadpool-and-wolverine",
   title: "Deadpool & Wolverine",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

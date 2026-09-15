@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const doctorStrange = {
   id: "01a06802-6d99-7003-9f76-cf12992a5882",
-  type: "movie",
+  type: "page-type/movie",
   slug: "doctor-strange",
   title: "Doctor Strange",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

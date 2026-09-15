@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const barbie = {
   id: "01a06802-6d98-700f-9c28-4201cb5539e6",
-  type: "movie",
+  type: "page-type/movie",
   slug: "barbie",
   title: "Barbie",
   partOfCollections: ["show-collection/award-winning-movies"],

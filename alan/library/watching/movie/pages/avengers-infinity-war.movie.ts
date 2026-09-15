@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const avengersInfinityWar = {
   id: "01a06802-6d98-700b-bda0-f62e07bf230a",
-  type: "movie",
+  type: "page-type/movie",
   slug: "avengers-infinity-war",
   title: "Avengers: Infinity War",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

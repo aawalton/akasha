@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const thorRagnarok = {
   id: "01a06802-6d9a-7025-8362-25495e35bd89",
-  type: "movie",
+  type: "page-type/movie",
   slug: "thor-ragnarok",
   title: "Thor: Ragnarok",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

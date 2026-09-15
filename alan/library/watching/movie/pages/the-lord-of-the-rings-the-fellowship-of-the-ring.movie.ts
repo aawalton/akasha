@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theLordOfTheRingsTheFellowshipOfTheRing = {
   id: "01a06802-6d9a-7017-a755-69fbe41ecbc7",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-lord-of-the-rings-the-fellowship-of-the-ring",
   title: "The Lord of the Rings: The Fellowship of the Ring",
   partOfCollections: ["show-collection/the-lord-of-the-rings-shows"],

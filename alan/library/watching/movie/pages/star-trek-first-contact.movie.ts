@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const starTrekFirstContact = {
   id: "01a06802-6d99-703b-9e2d-7805a60e7a11",
-  type: "movie",
+  type: "page-type/movie",
   slug: "star-trek-first-contact",
   title: "Star Trek: First Contact",
   partOfCollections: ["fandom/star-trek-3"],

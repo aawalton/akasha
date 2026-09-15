@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const guardiansOfTheGalaxyVol3 = {
   id: "01a06802-6d99-7014-af61-e8447a4160da",
-  type: "movie",
+  type: "page-type/movie",
   slug: "guardians-of-the-galaxy-vol-3",
   title: "Guardians of the Galaxy Vol. 3",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

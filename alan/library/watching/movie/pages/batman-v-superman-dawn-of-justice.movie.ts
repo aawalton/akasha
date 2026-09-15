@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const batmanVSupermanDawnOfJustice = {
   id: "01a06802-6d98-7010-8789-495f72a67e9c",
-  type: "movie",
+  type: "page-type/movie",
   slug: "batman-v-superman-dawn-of-justice",
   title: "Batman v Superman: Dawn of Justice",
   partOfCollections: ["fandom/dc-extended-universe"],

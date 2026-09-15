@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const manOfSteel = {
   id: "01a06802-6d99-7024-84d1-c5212876b772",
-  type: "movie",
+  type: "page-type/movie",
   slug: "man-of-steel",
   title: "Man of Steel",
   partOfCollections: ["fandom/dc-extended-universe"],

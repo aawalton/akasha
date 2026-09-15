@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theGuardiansOfTheGalaxyHolidaySpecial = {
   id: "01a06802-6d9a-7010-a71a-5d02448bde2b",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-guardians-of-the-galaxy-holiday-special",
   title: "The Guardians of the Galaxy Holiday Special",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

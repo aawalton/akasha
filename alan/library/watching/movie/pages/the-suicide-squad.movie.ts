@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theSuicideSquad = {
   id: "01a06802-6d9a-701f-ba01-385227d6de03",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-suicide-squad",
   title: "The Suicide Squad",
   partOfCollections: ["fandom/dc-extended-universe"],

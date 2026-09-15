@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const aquamanAndTheLostKingdom = {
   id: "01a06802-6d98-7007-89cb-c3f07e0157af",
-  type: "movie",
+  type: "page-type/movie",
   slug: "aquaman-and-the-lost-kingdom",
   title: "Aquaman and the Lost Kingdom",
   partOfCollections: ["fandom/dc-extended-universe"],

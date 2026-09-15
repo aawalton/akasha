@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const starTrekIiiTheSearchForSpock = {
   id: "01a06802-6d99-703e-803c-8a74b076b334",
-  type: "movie",
+  type: "page-type/movie",
   slug: "star-trek-iii-the-search-for-spock",
   title: "Star Trek III: The Search for Spock",
   partOfCollections: ["fandom/star-trek-3"],

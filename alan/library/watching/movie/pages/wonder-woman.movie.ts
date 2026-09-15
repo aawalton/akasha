@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const wonderWoman = {
   id: "01a06802-6d9a-702b-8808-130bc01891b4",
-  type: "movie",
+  type: "page-type/movie",
   slug: "wonder-woman",
   title: "Wonder Woman",
   partOfCollections: ["fandom/dc-extended-universe"],

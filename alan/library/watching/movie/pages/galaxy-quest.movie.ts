@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const galaxyQuest = {
   id: "01a06802-6d99-7010-b9dc-96d3aaedc854",
-  type: "movie",
+  type: "page-type/movie",
   slug: "galaxy-quest",
   title: "Galaxy Quest",
   partOfCollections: ["show-collection/science-fiction-shows"],

@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const planetOfTheApes2001 = {
   id: "01a06802-6d99-702c-b4f6-e4e016e08ae7",
-  type: "movie",
+  type: "page-type/movie",
   slug: "planet-of-the-apes-2001",
   title: "Planet of the Apes (2001)",
   partOfCollections: ["fandom/planet-of-the-apes-2"],

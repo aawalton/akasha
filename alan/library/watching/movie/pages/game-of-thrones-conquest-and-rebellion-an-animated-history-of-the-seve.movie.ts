@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const gameOfThronesConquestAndRebellionAnAnimatedHistoryOfTheSeve = {
   id: "01a06802-6d99-7011-8b7a-7ca6ef3c07b4",
-  type: "movie",
+  type: "page-type/movie",
   slug: "game-of-thrones-conquest-and-rebellion-an-animated-history-of-the-seve",
   title: "Game of Thrones Conquest & Rebellion: An Animated History of the Seven Kingdoms",
   partOfCollections: ["fandom/game-of-thrones-2"],

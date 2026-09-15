@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const aquaman = {
   id: "01a06802-6d98-7006-a27f-42e531aae5d1",
-  type: "movie",
+  type: "page-type/movie",
   slug: "aquaman",
   title: "Aquaman",
   partOfCollections: ["fandom/dc-extended-universe"],

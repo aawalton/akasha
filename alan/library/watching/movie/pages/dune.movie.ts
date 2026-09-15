@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const dune = {
   id: "01a06802-6d99-7006-839b-7568e9b4f4af",
-  type: "movie",
+  type: "page-type/movie",
   slug: "dune",
   title: "Dune",
   partOfCollections: ["fandom/dune-2"],

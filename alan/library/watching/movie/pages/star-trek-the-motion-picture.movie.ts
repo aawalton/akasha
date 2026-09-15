@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const starTrekTheMotionPicture = {
   id: "01a06802-6d99-7044-8561-4ee453e5da9d",
-  type: "movie",
+  type: "page-type/movie",
   slug: "star-trek-the-motion-picture",
   title: "Star Trek: The Motion Picture",
   partOfCollections: ["fandom/star-trek-3"],

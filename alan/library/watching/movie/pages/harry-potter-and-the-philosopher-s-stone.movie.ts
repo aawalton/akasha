@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const harryPotterAndThePhilosopherSStone = {
   id: "01a06802-6d99-701b-bdb4-6f265e1776ba",
-  type: "movie",
+  type: "page-type/movie",
   slug: "harry-potter-and-the-philosopher-s-stone",
   title: "Harry Potter and the Philosopher's Stone",
   partOfCollections: ["show-collection/harry-potter-movie-series"],

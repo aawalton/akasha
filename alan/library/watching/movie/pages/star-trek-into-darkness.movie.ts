@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const starTrekIntoDarkness = {
   id: "01a06802-6d99-7040-a682-4e1eb61da267",
-  type: "movie",
+  type: "page-type/movie",
   slug: "star-trek-into-darkness",
   title: "Star Trek Into Darkness",
   partOfCollections: ["fandom/star-trek-3"],

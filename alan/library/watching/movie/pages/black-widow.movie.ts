@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const blackWidow = {
   id: "01a06802-6d98-701a-af5a-d8dd203e317b",
-  type: "movie",
+  type: "page-type/movie",
   slug: "black-widow",
   title: "Black Widow",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const blackAdam = {
   id: "01a06802-6d98-7017-938c-bdec9e87e6c6",
-  type: "movie",
+  type: "page-type/movie",
   slug: "black-adam",
   title: "Black Adam",
   partOfCollections: ["fandom/dc-extended-universe"],

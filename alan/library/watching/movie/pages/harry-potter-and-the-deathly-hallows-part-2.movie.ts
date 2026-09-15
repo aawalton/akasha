@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const harryPotterAndTheDeathlyHallowsPart2 = {
   id: "01a06802-6d99-7017-b277-00fdec1b9aeb",
-  type: "movie",
+  type: "page-type/movie",
   slug: "harry-potter-and-the-deathly-hallows-part-2",
   title: "Harry Potter and the Deathly Hallows – Part 2",
   partOfCollections: ["show-collection/harry-potter-movie-series"],

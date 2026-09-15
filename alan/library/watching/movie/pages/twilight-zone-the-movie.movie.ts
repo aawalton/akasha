@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const twilightZoneTheMovie = {
   id: "01a06802-6d9a-7028-abb8-5c4b50fc7594",
-  type: "movie",
+  type: "page-type/movie",
   slug: "twilight-zone-the-movie",
   title: "Twilight Zone: The Movie",
   partOfCollections: ["show-collection/the-twilight-zone"],

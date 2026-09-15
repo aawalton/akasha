@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theRiverOfSouls = {
   id: "01a06802-6d9a-701e-b9d0-4d7b39caa1fa",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-river-of-souls",
   title: "The River of Souls",
   partOfCollections: ["fandom/babylon-5-2"],

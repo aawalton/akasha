@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const stargate = {
   id: "01a06802-6d9a-7000-afd7-7e8a9474eaec",
-  type: "movie",
+  type: "page-type/movie",
   slug: "stargate",
   title: "Stargate",
   partOfCollections: ["fandom/stargate-2"],

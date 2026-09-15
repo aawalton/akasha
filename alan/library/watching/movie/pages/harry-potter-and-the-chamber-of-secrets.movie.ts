@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const harryPotterAndTheChamberOfSecrets = {
   id: "01a06802-6d99-7015-912c-433476ecfeed",
-  type: "movie",
+  type: "page-type/movie",
   slug: "harry-potter-and-the-chamber-of-secrets",
   title: "Harry Potter and the Chamber of Secrets",
   partOfCollections: ["show-collection/harry-potter-movie-series"],

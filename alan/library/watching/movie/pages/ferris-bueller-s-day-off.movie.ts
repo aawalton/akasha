@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const ferrisBuellerSDayOff = {
   id: "01a06802-6d99-700f-a94e-2e1edaa6a0cb",
-  type: "movie",
+  type: "page-type/movie",
   slug: "ferris-bueller-s-day-off",
   title: "Ferris Bueller's Day Off",
   partOfCollections: ["show-collection/cultural-literacy"],

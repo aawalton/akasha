@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const stargateTheArkOfTruth = {
   id: "01a06802-6d9a-7002-a600-9f55cf5ac006",
-  type: "movie",
+  type: "page-type/movie",
   slug: "stargate-the-ark-of-truth",
   title: "Stargate: The Ark of Truth",
   partOfCollections: ["fandom/stargate-2"],

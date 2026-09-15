@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theHobbitTheBattleOfTheFiveArmies = {
   id: "01a06802-6d9a-7012-83d5-4ff0dbb6f889",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-hobbit-the-battle-of-the-five-armies",
   title: "The Hobbit: The Battle of the Five Armies",
   partOfCollections: ["show-collection/the-lord-of-the-rings-shows"],

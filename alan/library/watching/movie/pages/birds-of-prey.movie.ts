@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const birdsOfPrey = {
   id: "01a06802-6d98-7016-95b1-ce42bddfa537",
-  type: "movie",
+  type: "page-type/movie",
   slug: "birds-of-prey",
   title: "Birds of Prey",
   partOfCollections: ["fandom/dc-extended-universe"],

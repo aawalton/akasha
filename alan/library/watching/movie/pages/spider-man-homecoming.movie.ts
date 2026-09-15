@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const spiderManHomecoming = {
   id: "01a06802-6d99-7037-9cf9-9bbc5f009f55",
-  type: "movie",
+  type: "page-type/movie",
   slug: "spider-man-homecoming",
   title: "Spider-Man: Homecoming",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const eternals = {
   id: "01a06802-6d99-700b-89b6-e4b87dc9ffa7",
-  type: "movie",
+  type: "page-type/movie",
   slug: "eternals",
   title: "Eternals",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

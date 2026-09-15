@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theXFiles1998 = {
   id: "01a06802-6d9a-7020-951c-6789e463beaa",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-x-files-1998",
   title: "The X Files (1998)",
   partOfCollections: ["show-collection/x-files"],

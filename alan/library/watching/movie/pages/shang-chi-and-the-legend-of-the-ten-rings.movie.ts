@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const shangChiAndTheLegendOfTheTenRings = {
   id: "01a06802-6d99-7032-aa50-43bf5c51bc9a",
-  type: "movie",
+  type: "page-type/movie",
   slug: "shang-chi-and-the-legend-of-the-ten-rings",
   title: "Shang-Chi and the Legend of the Ten Rings",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

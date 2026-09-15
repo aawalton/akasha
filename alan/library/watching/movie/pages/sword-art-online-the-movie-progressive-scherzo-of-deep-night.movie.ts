@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const swordArtOnlineTheMovieProgressiveScherzoOfDeepNight = {
   id: "019ea442-9fc0-7afc-ab04-0592c0063f61",
-  type: "movie",
+  type: "page-type/movie",
   slug: "sword-art-online-the-movie-progressive-scherzo-of-deep-night",
   title: "Sword Art Online the Movie – Progressive – Scherzo of Deep Night",
   description:

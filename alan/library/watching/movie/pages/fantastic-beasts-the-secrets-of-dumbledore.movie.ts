@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const fantasticBeastsTheSecretsOfDumbledore = {
   id: "01a06802-6d99-700e-8d92-99782a929ec1",
-  type: "movie",
+  type: "page-type/movie",
   slug: "fantastic-beasts-the-secrets-of-dumbledore",
   title: "Fantastic Beasts: The Secrets of Dumbledore",
   partOfCollections: ["show-collection/fantastic-beasts-movie-series"],

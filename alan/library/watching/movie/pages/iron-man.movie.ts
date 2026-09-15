@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const ironMan = {
   id: "01a06802-6d99-701e-8b66-b530336fc1b0",
-  type: "movie",
+  type: "page-type/movie",
   slug: "iron-man",
   title: "Iron Man",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const aCallToArms = {
   id: "01a06802-6d98-7000-b9ae-02f3ef8b4c25",
-  type: "movie",
+  type: "page-type/movie",
   slug: "a-call-to-arms",
   title: "A Call to Arms",
   partOfCollections: ["fandom/babylon-5-2"],

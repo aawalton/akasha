@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theEmpireStrikesBack = {
   id: "01a06802-6d9a-7009-bb63-9e92fb5e64f7",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-empire-strikes-back",
   title: "The Empire Strikes Back",
   partOfCollections: ["fandom/star-wars-2"],

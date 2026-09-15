@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theLordOfTheRingsTheWarOfTheRohirrim = {
   id: "01a06802-6d9a-701a-b500-f43d789bf451",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-lord-of-the-rings-the-war-of-the-rohirrim",
   title: "The Lord of the Rings: The War of the Rohirrim",
   partOfCollections: ["show-collection/the-lord-of-the-rings-shows"],

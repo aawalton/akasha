@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const blueBeetle = {
   id: "01a06802-6d98-701b-93ae-a8fe3f83ab91",
-  type: "movie",
+  type: "page-type/movie",
   slug: "blue-beetle",
   title: "Blue Beetle",
   partOfCollections: ["fandom/dc-extended-universe"],

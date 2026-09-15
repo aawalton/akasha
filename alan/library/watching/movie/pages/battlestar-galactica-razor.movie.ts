@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const battlestarGalacticaRazor = {
   id: "01a06802-6d98-7013-9f31-69c9f37c1c10",
-  type: "movie",
+  type: "page-type/movie",
   slug: "battlestar-galactica-razor",
   title: "Battlestar Galactica: Razor",
   partOfCollections: ["fandom/battlestar-galactica"],

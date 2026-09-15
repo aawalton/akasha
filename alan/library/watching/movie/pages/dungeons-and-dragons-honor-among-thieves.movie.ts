@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const dungeonsAndDragonsHonorAmongThieves = {
   id: "01a06802-6d99-7009-8389-daa3f275e31c",
-  type: "movie",
+  type: "page-type/movie",
   slug: "dungeons-and-dragons-honor-among-thieves",
   title: "Dungeons & Dragons: Honor Among Thieves",
   partOfCollections: ["show-collection/dungeons-and-dragons-shows"],

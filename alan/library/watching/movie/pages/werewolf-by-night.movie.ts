@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const werewolfByNight = {
   id: "01a06802-6d9a-702a-8707-17dc42f33ae9",
-  type: "movie",
+  type: "page-type/movie",
   slug: "werewolf-by-night",
   title: "Werewolf by Night",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

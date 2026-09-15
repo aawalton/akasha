@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const starTrekNemesis = {
   id: "01a06802-6d99-7042-b914-166a8fc58ed2",
-  type: "movie",
+  type: "page-type/movie",
   slug: "star-trek-nemesis",
   title: "Star Trek: Nemesis",
   partOfCollections: ["fandom/star-trek-3"],

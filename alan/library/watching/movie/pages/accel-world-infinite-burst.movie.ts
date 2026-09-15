@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const accelWorldInfiniteBurst = {
   id: "01a06802-6d98-7001-a153-516c48badd59",
-  type: "movie",
+  type: "page-type/movie",
   slug: "accel-world-infinite-burst",
   title: "Accel World: Infinite Burst",
   partOfCollections: ["fandom/accel-world"],

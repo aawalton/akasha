@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theFlash = {
   id: "01a06802-6d9a-700b-85a7-4014f03333d0",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-flash",
   title: "The Flash",
   partOfCollections: ["fandom/dc-extended-universe"],

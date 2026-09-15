@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theGodfather = {
   id: "01a06802-6d9a-700d-b07c-75977e72b187",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-godfather",
   title: "The Godfather",
   partOfCollections: ["show-collection/the-godfather-2"],

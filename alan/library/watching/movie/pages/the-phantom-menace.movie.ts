@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const thePhantomMenace = {
   id: "01a06802-6d9a-701c-b11d-a9128b154673",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-phantom-menace",
   title: "The Phantom Menace",
   partOfCollections: ["fandom/star-wars-2"],

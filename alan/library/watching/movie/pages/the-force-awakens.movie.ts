@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theForceAwakens = {
   id: "01a06802-6d9a-700c-ad8c-b836092ac513",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-force-awakens",
   title: "The Force Awakens",
   partOfCollections: ["fandom/star-wars-2"],

@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const shazamFuryOfTheGods = {
   id: "01a06802-6d99-7034-ab73-068993bf1621",
-  type: "movie",
+  type: "page-type/movie",
   slug: "shazam-fury-of-the-gods",
   title: "Shazam! Fury of the Gods",
   partOfCollections: ["fandom/dc-extended-universe"],

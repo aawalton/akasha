@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const harryPotterAndThePrisonerOfAzkaban = {
   id: "01a06802-6d99-701c-901f-964b9d13db0b",
-  type: "movie",
+  type: "page-type/movie",
   slug: "harry-potter-and-the-prisoner-of-azkaban",
   title: "Harry Potter and the Prisoner of Azkaban",
   partOfCollections: ["show-collection/harry-potter-movie-series"],

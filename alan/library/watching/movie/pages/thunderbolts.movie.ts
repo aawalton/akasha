@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const thunderbolts = {
   id: "01a06802-6d9a-7027-b64e-b240b822f2d8",
-  type: "movie",
+  type: "page-type/movie",
   slug: "thunderbolts",
   title: "Thunderbolts*",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

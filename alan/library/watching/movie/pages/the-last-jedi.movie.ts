@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theLastJedi = {
   id: "01a06802-6d9a-7015-995b-fd0f898496a8",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-last-jedi",
   title: "The Last Jedi",
   partOfCollections: ["fandom/star-wars-2"],

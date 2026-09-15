@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const captainAmericaCivilWar = {
   id: "01a06802-6d98-701d-a02a-5eafbb8df036",
-  type: "movie",
+  type: "page-type/movie",
   slug: "captain-america-civil-war",
   title: "Captain America: Civil War",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const inTheBeginning = {
   id: "01a06802-6d99-701d-b11c-b4c330b79a85",
-  type: "movie",
+  type: "page-type/movie",
   slug: "in-the-beginning",
   title: "In the Beginning",
   partOfCollections: ["fandom/babylon-5-2"],

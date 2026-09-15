@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const starTrekViTheUndiscoveredCountry = {
   id: "01a06802-6d99-7046-b502-49ed685dc5b2",
-  type: "movie",
+  type: "page-type/movie",
   slug: "star-trek-vi-the-undiscovered-country",
   title: "Star Trek VI: The Undiscovered Country",
   partOfCollections: ["fandom/star-trek-3"],

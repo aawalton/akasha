@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const blackPantherWakandaForever = {
   id: "01a06802-6d98-7019-92ee-3843296de5d0",
-  type: "movie",
+  type: "page-type/movie",
   slug: "black-panther-wakanda-forever",
   title: "Black Panther: Wakanda Forever",
   partOfCollections: ["fandom/marvel-cinematic-universe"],

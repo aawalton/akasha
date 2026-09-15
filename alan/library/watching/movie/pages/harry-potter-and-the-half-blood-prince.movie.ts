@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const harryPotterAndTheHalfBloodPrince = {
   id: "01a06802-6d99-7019-937a-77cfb12138da",
-  type: "movie",
+  type: "page-type/movie",
   slug: "harry-potter-and-the-half-blood-prince",
   title: "Harry Potter and the Half-Blood Prince",
   partOfCollections: ["show-collection/harry-potter-movie-series"],

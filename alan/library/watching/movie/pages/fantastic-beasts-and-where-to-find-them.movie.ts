@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const fantasticBeastsAndWhereToFindThem = {
   id: "01a06802-6d99-700c-a344-55c632c48af2",
-  type: "movie",
+  type: "page-type/movie",
   slug: "fantastic-beasts-and-where-to-find-them",
   title: "Fantastic Beasts and Where to Find Them",
   partOfCollections: ["show-collection/fantastic-beasts-movie-series"],

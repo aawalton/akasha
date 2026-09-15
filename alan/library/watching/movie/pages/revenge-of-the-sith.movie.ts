@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const revengeOfTheSith = {
   id: "01a06802-6d99-702e-b0e0-16a68e153cdf",
-  type: "movie",
+  type: "page-type/movie",
   slug: "revenge-of-the-sith",
   title: "Revenge of the Sith",
   partOfCollections: ["fandom/star-wars-2"],

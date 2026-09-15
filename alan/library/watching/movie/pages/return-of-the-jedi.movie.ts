@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const returnOfTheJedi = {
   id: "01a06802-6d99-702d-9b83-569f384394e3",
-  type: "movie",
+  type: "page-type/movie",
   slug: "return-of-the-jedi",
   title: "Return of the Jedi",
   partOfCollections: ["fandom/star-wars-2"],

@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theLegendOfTheRangersToLiveAndDieInStarlight = {
   id: "01a06802-6d9a-7016-ade6-7488670d88af",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-legend-of-the-rangers-to-live-and-die-in-starlight",
   title: "The Legend of the Rangers: To Live and Die in Starlight",
   partOfCollections: ["fandom/babylon-5-2"],

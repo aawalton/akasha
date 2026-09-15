@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const theLordOfTheRingsTheTwoTowers = {
   id: "01a06802-6d9a-7019-8a1d-2f99b19056bb",
-  type: "movie",
+  type: "page-type/movie",
   slug: "the-lord-of-the-rings-the-two-towers",
   title: "The Lord of the Rings: The Two Towers",
   partOfCollections: ["show-collection/the-lord-of-the-rings-shows"],

@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const robinHoodMenInTights = {
   id: "01a06802-6d99-7030-a34d-86f8bdd40529",
-  type: "movie",
+  type: "page-type/movie",
   slug: "robin-hood-men-in-tights",
   title: "Robin Hood: Men in Tights",
   partOfCollections: ["show-collection/cultural-literacy"],

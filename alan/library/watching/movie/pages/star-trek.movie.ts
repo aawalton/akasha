@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const starTrek = {
   id: "01a06802-6d99-7039-9c20-77ef3cc8bc00",
-  type: "movie",
+  type: "page-type/movie",
   slug: "star-trek",
   title: "Star Trek",
   partOfCollections: ["fandom/star-trek-3"],

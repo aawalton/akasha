@@ -2,7 +2,7 @@ import type { Movie } from "akasha/alan/library/watching/movie/movie.page-type.t
 
 export const kpopDemonHuntersMovie = {
   id: "01a06802-6d99-7023-9671-e081f4f31703",
-  type: "movie",
+  type: "page-type/movie",
   slug: "kpop-demon-hunters-movie",
   title: "KPop Demon Hunters Movie",
   partOfCollections: ["fandom/kpop-demon-hunters"],
