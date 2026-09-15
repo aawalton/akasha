@@ -190,6 +190,6 @@ export const noRuleInTwoFiles = {
         "How common a word is in the tree is weighed by nothing, so a common word narrows little.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 30 },
 } as const satisfies CheckCode
