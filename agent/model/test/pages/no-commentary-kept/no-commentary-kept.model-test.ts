@@ -2,7 +2,7 @@ import type { ModelTest } from "akasha/agent/model/test/model-test.page-type.typ
 
 export const noCommentaryKept = {
   id: "01a095e1-52fe-7c09-8409-3361be998962",
-  type: "model-test",
+  type: "page-type/model-test",
   slug: "no-commentary-kept",
   definition: "whether what an agent wrote to Alan hands him news he needs nothing from",
   modelFamily: "model-family/haiku",

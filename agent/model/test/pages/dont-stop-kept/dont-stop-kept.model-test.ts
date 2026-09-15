@@ -2,7 +2,7 @@ import type { ModelTest } from "akasha/agent/model/test/model-test.page-type.typ
 
 export const dontStopKept = {
   id: "01a09b94-9b66-732f-856d-537698610004",
-  type: "model-test",
+  type: "page-type/model-test",
   slug: "dont-stop-kept",
   definition: "whether a turn names the work it is about to take up and ends there instead",
   modelFamily: "model-family/haiku",

@@ -2,7 +2,7 @@ import type { ModelTest } from "akasha/agent/model/test/model-test.page-type.typ
 
 export const goingOnKept = {
   id: "01a09c24-25e7-75cb-a19a-a7019ca572cd",
-  type: "model-test",
+  type: "page-type/model-test",
   slug: "going-on-kept",
   definition: "whether a turn asks Alan leave to carry on with work already settled",
   modelFamily: "model-family/haiku",

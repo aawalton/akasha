@@ -2,7 +2,7 @@ import type { ModelTest } from "akasha/agent/model/test/model-test.page-type.typ
 
 export const oneAtATimeKept = {
   id: "01a095c1-8b61-745a-ae86-a789c9b85df7",
-  type: "model-test",
+  type: "page-type/model-test",
   slug: "one-at-a-time-kept",
   definition: "whether what an agent wrote to Alan puts more than one thing on him at once",
   modelFamily: "model-family/haiku",

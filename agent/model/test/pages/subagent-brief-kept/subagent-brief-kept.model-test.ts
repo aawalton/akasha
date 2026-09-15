@@ -2,7 +2,7 @@ import type { ModelTest } from "akasha/agent/model/test/model-test.page-type.typ
 
 export const subagentBriefKept = {
   id: "01a09613-e94f-79a9-a2f4-a13093bf1fef",
-  type: "model-test",
+  type: "page-type/model-test",
   slug: "subagent-brief-kept",
   definition: "whether what an agent wrote to Alan repeats the briefing it gave a helper",
   modelFamily: "model-family/haiku",

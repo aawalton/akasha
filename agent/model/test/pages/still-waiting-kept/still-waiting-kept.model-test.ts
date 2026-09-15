@@ -2,7 +2,7 @@ import type { ModelTest } from "akasha/agent/model/test/model-test.page-type.typ
 
 export const stillWaitingKept = {
   id: "01a0964f-ab67-7aa2-b221-14f4e5bbcc9a",
-  type: "model-test",
+  type: "page-type/model-test",
   slug: "still-waiting-kept",
   definition: "whether a turn tells Alan an ask of his is still outstanding",
   modelFamily: "model-family/haiku",

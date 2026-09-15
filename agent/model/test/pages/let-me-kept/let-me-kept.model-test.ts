@@ -2,7 +2,7 @@ import type { ModelTest } from "akasha/agent/model/test/model-test.page-type.typ
 
 export const letMeKept = {
   id: "01a09c2e-c64a-7bce-94f0-2e7929d54f55",
-  type: "model-test",
+  type: "page-type/model-test",
   slug: "let-me-kept",
   definition: "whether a turn announces an act the agent was free to perform and ends there",
   modelFamily: "model-family/haiku",
