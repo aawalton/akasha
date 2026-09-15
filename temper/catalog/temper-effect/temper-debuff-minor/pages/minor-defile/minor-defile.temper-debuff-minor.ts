@@ -2,7 +2,7 @@ import type { TemperDebuffMinor } from "akasha/temper/catalog/temper-effect/temp
 
 export const minorDefile = {
   id: "01a05fc6-42c3-76b9-ba94-9d01803ece96",
-  type: "temper-debuff-minor",
+  type: "page-type/temper-debuff-minor",
   slug: "minor-defile",
   title: "Minor Defile",
   key: "minor-defile",

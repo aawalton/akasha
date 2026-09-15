@@ -2,7 +2,7 @@ import type { TemperDebuffMinor } from "akasha/temper/catalog/temper-effect/temp
 
 export const minorBrittle = {
   id: "01a05fc6-42c3-744b-a88f-35d6354c5588",
-  type: "temper-debuff-minor",
+  type: "page-type/temper-debuff-minor",
   slug: "minor-brittle",
   title: "Minor Brittle",
   key: "minor-brittle",

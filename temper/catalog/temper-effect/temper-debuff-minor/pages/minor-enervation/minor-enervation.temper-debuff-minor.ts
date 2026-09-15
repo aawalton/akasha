@@ -2,7 +2,7 @@ import type { TemperDebuffMinor } from "akasha/temper/catalog/temper-effect/temp
 
 export const minorEnervation = {
   id: "01a05fc6-42c4-76bc-bee9-88b621b2df71",
-  type: "temper-debuff-minor",
+  type: "page-type/temper-debuff-minor",
   slug: "minor-enervation",
   title: "Minor Enervation",
   key: "minor-enervation",

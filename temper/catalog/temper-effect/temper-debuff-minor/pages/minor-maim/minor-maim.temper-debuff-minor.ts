@@ -2,7 +2,7 @@ import type { TemperDebuffMinor } from "akasha/temper/catalog/temper-effect/temp
 
 export const minorMaim = {
   id: "01a05fc6-42c5-7e88-880a-fe6da59ba896",
-  type: "temper-debuff-minor",
+  type: "page-type/temper-debuff-minor",
   slug: "minor-maim",
   title: "Minor Maim",
   key: "minor-maim",

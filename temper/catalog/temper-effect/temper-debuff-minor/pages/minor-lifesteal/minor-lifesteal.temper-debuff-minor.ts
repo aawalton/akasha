@@ -2,7 +2,7 @@ import type { TemperDebuffMinor } from "akasha/temper/catalog/temper-effect/temp
 
 export const minorLifesteal = {
   id: "01a05fc6-42c4-777f-a74f-98f58996b458",
-  type: "temper-debuff-minor",
+  type: "page-type/temper-debuff-minor",
   slug: "minor-lifesteal",
   title: "Minor Lifesteal",
   key: "minor-lifesteal",

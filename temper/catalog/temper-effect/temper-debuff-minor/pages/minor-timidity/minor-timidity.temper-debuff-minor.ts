@@ -2,7 +2,7 @@ import type { TemperDebuffMinor } from "akasha/temper/catalog/temper-effect/temp
 
 export const minorTimidity = {
   id: "01a05fc6-42c5-7b79-ac23-5c85cf83d00f",
-  type: "temper-debuff-minor",
+  type: "page-type/temper-debuff-minor",
   slug: "minor-timidity",
   title: "Minor Timidity",
   key: "minor-timidity",
