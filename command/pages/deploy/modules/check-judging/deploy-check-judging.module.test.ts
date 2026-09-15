@@ -13,26 +13,28 @@ const NOWHERE = "no-commit-this-checkout-holds"
 
 const BUILT = new Set(["one.ts", "two.ts"])
 
+const FRESH = changeFrom(ROOT, null, "HEAD", BUILT)
+
+const NAMED = changeFrom(ROOT, "HEAD", "HEAD", BUILT, ["three.ts"])
+
 test("a service no deploy has finished for is judged over every file it is built from", () => {
-  expect([...changeFrom(ROOT, null, "HEAD", BUILT).changed].sort()).toEqual(["one.ts", "two.ts"])
+  expect([...FRESH.changed].sort()).toEqual(["one.ts", "two.ts"])
 })
 
 test("a service no deploy has finished for is a change nothing moved in", () => {
-  const change = changeFrom(ROOT, null, "HEAD", BUILT)
-  expect(change.before).toBe(change.after)
+  expect(FRESH.before).toBe(FRESH.after)
 })
 
 test("the change carries the root it is judged in", () => {
-  expect(changeFrom(ROOT, null, "HEAD", BUILT).root).toBe(ROOT)
+  expect(FRESH.root).toBe(ROOT)
 })
 
 test("a file the deploy names to be judged joins the diff, changed or not", () => {
-  const change = changeFrom(ROOT, "HEAD", "HEAD", BUILT, ["three.ts"])
-  expect([...change.changed]).toEqual(["three.ts"])
+  expect([...NAMED.changed]).toEqual(["three.ts"])
 })
 
 test("the change carries every file the deploy is built from", () => {
-  const carried = changeFrom(ROOT, "HEAD", "HEAD", BUILT, ["three.ts"]).carried ?? []
+  const carried = NAMED.carried ?? []
   expect(carried).toContain("one.ts")
   expect(carried).toContain("two.ts")
 })
