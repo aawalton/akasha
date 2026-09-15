@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonIGoDancingFeatEllaHendersonJoelCorryRemix = {
   id: "01a0676a-d721-701d-a81f-ca0eef241514",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-i-go-dancing-feat-ella-henderson-joel-corry-remix",
   title: "I Go Dancing (feat. Ella Henderson) [Joel Corry Remix]",
   partOfCollections: ["artist/ella-henderson"],

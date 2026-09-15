@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ElvisAsRecordedAtMadisonSquareGardenLive = {
   id: "01a0676a-d71c-7068-8150-b94c3569f974",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-elvis-as-recorded-at-madison-square-garden-live",
   title: "Elvis: As Recorded at Madison Square Garden (Live)",
   partOfCollections: ["artist/elvis-presley"],

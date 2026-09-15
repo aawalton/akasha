@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2GIBlues = {
   id: "01a0676a-d71e-704b-b336-586c3b0b27a8",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-g-i-blues",
   title: "G.I. Blues",
   partOfCollections: ["artist/elvis-presley"],

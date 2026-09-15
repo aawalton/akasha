@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ChristmasWithElvisAndTheRoyalPhilharmonicOrchestraDeluxe = {
   id: "01a0676a-d71a-7048-b176-a77308b36aed",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-christmas-with-elvis-and-the-royal-philharmonic-orchestra-deluxe",
   title: "Christmas with Elvis and the Royal Philharmonic Orchestra (Deluxe)",
   partOfCollections: ["artist/elvis-presley"],

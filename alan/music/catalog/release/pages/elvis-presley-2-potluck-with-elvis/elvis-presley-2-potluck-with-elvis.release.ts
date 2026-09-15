@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2PotluckWithElvis = {
   id: "01a0676a-d727-7012-a6ae-a76269481c98",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-potluck-with-elvis",
   title: "Potluck with Elvis",
   partOfCollections: ["artist/elvis-presley"],

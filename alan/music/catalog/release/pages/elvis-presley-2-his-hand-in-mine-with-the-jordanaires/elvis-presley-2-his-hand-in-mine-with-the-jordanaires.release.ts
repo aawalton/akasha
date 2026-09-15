@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2HisHandInMineWithTheJordanaires = {
   id: "01a0676a-d720-7042-9f11-b41ee2a261ec",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-his-hand-in-mine-with-the-jordanaires",
   title: "His Hand in Mine (With the Jordanaires)",
   partOfCollections: ["artist/elvis-presley"],

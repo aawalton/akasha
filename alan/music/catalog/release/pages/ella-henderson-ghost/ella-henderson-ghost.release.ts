@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonGhost = {
   id: "01a0676a-d71e-7056-aa54-1db5e9567bbe",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-ghost",
   title: "Ghost",
   partOfCollections: ["artist/ella-henderson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonLifelineFeatEllaHenderson = {
   id: "01a0676a-d723-702c-866e-151f971f33e0",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-lifeline-feat-ella-henderson",
   title: "Lifeline (feat. Ella Henderson)",
   partOfCollections: ["artist/ella-henderson"],

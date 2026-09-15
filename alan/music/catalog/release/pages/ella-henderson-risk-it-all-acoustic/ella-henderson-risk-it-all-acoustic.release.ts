@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonRiskItAllAcoustic = {
   id: "01a0676a-d728-700f-83b9-a4fc6cc8aa74",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-risk-it-all-acoustic",
   title: "Risk It All (Acoustic)",
   partOfCollections: ["artist/ella-henderson"],

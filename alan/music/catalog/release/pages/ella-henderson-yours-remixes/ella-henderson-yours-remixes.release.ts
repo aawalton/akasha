@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonYoursRemixes = {
   id: "01a0676a-d732-7026-b31f-edaf0be72dd2",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-yours-remixes",
   title: "Yours (Remixes)",
   partOfCollections: ["artist/ella-henderson"],

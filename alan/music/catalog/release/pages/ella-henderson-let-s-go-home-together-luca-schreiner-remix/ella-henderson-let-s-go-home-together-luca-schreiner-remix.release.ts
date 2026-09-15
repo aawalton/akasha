@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonLetSGoHomeTogetherLucaSchreinerRemix = {
   id: "01a0676a-d723-7015-9146-1a33c0e3bb8e",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-let-s-go-home-together-luca-schreiner-remix",
   title: "Let’s Go Home Together (Luca Schreiner Remix)",
   partOfCollections: ["artist/ella-henderson"],

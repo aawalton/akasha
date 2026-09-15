@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonUglyMadismRemix = {
   id: "01a0676a-d72f-702b-a671-c7f689bf5df8",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-ugly-madism-remix",
   title: "Ugly (Madism Remix)",
   partOfCollections: ["artist/ella-henderson"],

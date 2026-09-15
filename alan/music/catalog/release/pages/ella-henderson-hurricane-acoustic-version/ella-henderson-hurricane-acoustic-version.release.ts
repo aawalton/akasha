@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonHurricaneAcousticVersion = {
   id: "01a0676a-d720-7076-be1d-316d49382a1d",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-hurricane-acoustic-version",
   title: "Hurricane (Acoustic Version)",
   partOfCollections: ["artist/ella-henderson"],

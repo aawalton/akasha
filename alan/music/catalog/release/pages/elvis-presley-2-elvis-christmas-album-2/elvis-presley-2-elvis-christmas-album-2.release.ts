@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ElvisChristmasAlbum2 = {
   id: "01a0676a-d71c-706c-93fa-8eb78736a6c9",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-elvis-christmas-album-2",
   title: "Elvis` Christmas Album",
   partOfCollections: ["artist/elvis-presley"],

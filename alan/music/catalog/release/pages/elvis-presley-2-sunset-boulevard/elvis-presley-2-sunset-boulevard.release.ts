@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2SunsetBoulevard = {
   id: "01a0676a-d72a-7048-8a86-487b905ff615",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-sunset-boulevard",
   title: "Sunset Boulevard",
   partOfCollections: ["artist/elvis-presley"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2YouLlNeverWalkAlone = {
   id: "01a0676a-d732-700e-87dd-8d75b92b7dfa",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-you-ll-never-walk-alone",
   title: "You'll Never Walk Alone",
   partOfCollections: ["artist/elvis-presley"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonLetSGoHomeTogetherMotiExtendedRemix = {
   id: "01a0676a-d723-701a-8773-d999d3c4997f",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-let-s-go-home-together-moti-extended-remix",
   title: "Let’s Go Home Together (MOTi Extended Remix)",
   partOfCollections: ["artist/ella-henderson"],

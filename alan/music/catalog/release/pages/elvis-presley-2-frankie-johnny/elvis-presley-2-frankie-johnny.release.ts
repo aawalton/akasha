@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2FrankieJohnny = {
   id: "01a0676a-d71e-7032-8f82-f428c49e5c32",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-frankie-johnny",
   title: "Frankie & Johnny",
   partOfCollections: ["artist/elvis-presley"],

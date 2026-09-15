@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonHurricaneLodatoRemix = {
   id: "01a0676a-d720-7077-a56c-3e6f0c120d35",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-hurricane-lodato-remix",
   title: "Hurricane (LODATO Remix)",
   partOfCollections: ["artist/ella-henderson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonHeartstringsAcoustic = {
   id: "01a0676a-d720-700f-a3ed-12e5849fcaa1",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-heartstrings-acoustic",
   title: "Heartstrings (Acoustic)",
   partOfCollections: ["artist/ella-henderson"],

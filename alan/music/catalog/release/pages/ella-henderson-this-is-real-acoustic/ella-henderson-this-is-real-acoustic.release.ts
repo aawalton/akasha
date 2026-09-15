@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonThisIsRealAcoustic = {
   id: "01a0676a-d72e-702e-bbad-0c53e2f249b2",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-this-is-real-acoustic",
   title: "This Is Real (Acoustic)",
   partOfCollections: ["artist/ella-henderson"],

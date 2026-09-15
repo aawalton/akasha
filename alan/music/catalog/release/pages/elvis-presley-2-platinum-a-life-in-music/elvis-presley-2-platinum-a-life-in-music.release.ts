@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2PlatinumALifeInMusic = {
   id: "01a0676a-d726-7082-9df3-6f092bab8091",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-platinum-a-life-in-music",
   title: "Platinum - A Life In Music",
   partOfCollections: ["artist/elvis-presley"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2RoustaboutOriginalSoundtrack = {
   id: "01a0676a-d728-7024-9bc2-ff3f2c7db7d7",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-roustabout-original-soundtrack",
   title: "Roustabout (Original Soundtrack)",
   partOfCollections: ["artist/elvis-presley"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ElvisInPersonLive = {
   id: "01a0676a-d71c-7076-8850-293fd932e6d5",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-elvis-in-person-live",
   title: "Elvis In Person (Live)",
   partOfCollections: ["artist/elvis-presley"],

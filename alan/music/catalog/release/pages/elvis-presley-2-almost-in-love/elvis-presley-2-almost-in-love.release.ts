@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2AlmostInLove = {
   id: "01a0676a-d716-702d-ae3e-92823b29bdd7",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-almost-in-love",
   title: "Almost in Love",
   partOfCollections: ["artist/elvis-presley"],

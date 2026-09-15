@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2FromTheVaults60s = {
   id: "01a0676a-d71e-703d-a927-0f93f6e0fc98",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-from-the-vaults-60s",
   title: "From The Vaults -'60s",
   partOfCollections: ["artist/elvis-presley"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2RarestInterviews = {
   id: "01a0676a-d727-7049-a846-3dc722be987b",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-rarest-interviews",
   title: "Rarest Interviews",
   partOfCollections: ["artist/elvis-presley"],

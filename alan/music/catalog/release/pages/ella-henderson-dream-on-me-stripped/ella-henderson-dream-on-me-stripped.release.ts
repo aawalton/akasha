@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonDreamOnMeStripped = {
   id: "01a0676a-d71c-7036-86e5-f7ddb1c83b18",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-dream-on-me-stripped",
   title: "Dream On Me (Stripped)",
   partOfCollections: ["artist/ella-henderson"],

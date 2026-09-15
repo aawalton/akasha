@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ParadiseHawaiianStyle = {
   id: "01a0676a-d726-705d-8e3f-1b960e2e022a",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-paradise-hawaiian-style",
   title: "Paradise, Hawaiian Style",
   partOfCollections: ["artist/elvis-presley"],

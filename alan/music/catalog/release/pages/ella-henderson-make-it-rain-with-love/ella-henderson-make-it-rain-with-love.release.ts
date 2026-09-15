@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonMakeItRainWithLove = {
   id: "01a0676a-d724-702e-9bf9-1abcff906e5d",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-make-it-rain-with-love",
   title: "Make It Rain With Love",
   partOfCollections: ["artist/ella-henderson"],

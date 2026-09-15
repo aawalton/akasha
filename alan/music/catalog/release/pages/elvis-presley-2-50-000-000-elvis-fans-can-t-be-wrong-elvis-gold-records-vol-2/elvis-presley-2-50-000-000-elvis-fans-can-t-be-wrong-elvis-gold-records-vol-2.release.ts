@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley250000000ElvisFansCanTBeWrongElvisGoldRecordsVol2 = {
   id: "01a0676a-d715-700e-999e-99da352e5c2f",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-50-000-000-elvis-fans-can-t-be-wrong-elvis-gold-records-vol-2",
   title: "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
   partOfCollections: ["artist/elvis-presley"],

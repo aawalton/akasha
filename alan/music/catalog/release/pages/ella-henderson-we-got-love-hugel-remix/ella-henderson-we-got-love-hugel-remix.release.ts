@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonWeGotLoveHugelRemix = {
   id: "01a0676a-d730-7032-a630-241d5529962a",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-we-got-love-hugel-remix",
   title: "We Got Love (HUGEL Remix)",
   partOfCollections: ["artist/ella-henderson"],

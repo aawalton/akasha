@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2GirlsGirlsGirlsOriginalSoundtrack = {
   id: "01a0676a-d71e-706a-932d-5a8763abdf5d",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-girls-girls-girls-original-soundtrack",
   title: "Girls! Girls! Girls! (Original Soundtrack)",
   partOfCollections: ["artist/elvis-presley"],

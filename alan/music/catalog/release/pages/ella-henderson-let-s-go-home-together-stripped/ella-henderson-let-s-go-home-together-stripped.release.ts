@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonLetSGoHomeTogetherStripped = {
   id: "01a0676a-d723-701c-be95-8d753e4288c2",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-let-s-go-home-together-stripped",
   title: "Let’s Go Home Together (Stripped)",
   partOfCollections: ["artist/ella-henderson"],

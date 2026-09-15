@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonOneDoorClosesFeatBreland = {
   id: "01a0676a-d726-702a-b8f3-0d54ed705b86",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-one-door-closes-feat-breland",
   title: "One Door Closes (feat. Breland)",
   partOfCollections: ["artist/ella-henderson"],

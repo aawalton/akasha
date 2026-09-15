@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonLikeIUsedToExtendedMix = {
   id: "01a0676a-d723-7033-8422-3cd9912902c7",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-like-i-used-to-extended-mix",
   title: "Like I Used To (Extended Mix)",
   partOfCollections: ["artist/ella-henderson"],

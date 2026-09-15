@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonUnderTheSunAcoustic = {
   id: "01a0676a-d72f-7036-83a5-240e45d6966f",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-under-the-sun-acoustic",
   title: "Under The Sun (Acoustic)",
   partOfCollections: ["artist/ella-henderson"],

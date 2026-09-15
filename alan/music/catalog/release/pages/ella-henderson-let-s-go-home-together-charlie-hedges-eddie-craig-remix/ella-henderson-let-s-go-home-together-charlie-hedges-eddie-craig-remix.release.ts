@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonLetSGoHomeTogetherCharlieHedgesEddieCraigRemix = {
   id: "01a0676a-d723-7013-b1b9-8592f6104e19",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-let-s-go-home-together-charlie-hedges-eddie-craig-remix",
   title: "Let’s Go Home Together (Charlie Hedges & Eddie Craig Remix)",
   partOfCollections: ["artist/ella-henderson"],

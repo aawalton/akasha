@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonTakeCareOfYouWilsonRemix = {
   id: "01a0676a-d72b-7011-8bd4-a9385b862d35",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-take-care-of-you-wilson-remix",
   title: "Take Care of You (Wilson Remix)",
   partOfCollections: ["artist/ella-henderson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonRiskItAllJustKiddinVipMix = {
   id: "01a0676a-d728-7010-ab2f-1be3b873bb10",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-risk-it-all-just-kiddin-vip-mix",
   title: "Risk It All (Just Kiddin VIP Mix)",
   partOfCollections: ["artist/ella-henderson"],

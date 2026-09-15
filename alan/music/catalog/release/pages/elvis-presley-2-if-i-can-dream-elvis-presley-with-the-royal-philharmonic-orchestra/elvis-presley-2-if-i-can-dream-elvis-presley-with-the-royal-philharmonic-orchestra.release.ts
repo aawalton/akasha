@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2IfICanDreamElvisPresleyWithTheRoyalPhilharmonicOrchestra = {
   id: "01a0676a-d721-7051-bbf8-6c1d1b97d3e2",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-if-i-can-dream-elvis-presley-with-the-royal-philharmonic-orchestra",
   title: "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
   partOfCollections: ["artist/elvis-presley"],

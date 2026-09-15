@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonEverythingIDidnTSayAndMore = {
   id: "01a0676a-d71d-703f-bc07-5fc0528005e5",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-everything-i-didn-t-say-and-more",
   title: "Everything I Didn’t Say And More",
   partOfCollections: ["artist/ella-henderson"],

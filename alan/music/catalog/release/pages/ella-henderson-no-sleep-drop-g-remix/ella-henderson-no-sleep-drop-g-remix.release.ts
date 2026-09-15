@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonNoSleepDropGRemix = {
   id: "01a0676a-d725-7069-960a-9f0ba3698391",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-no-sleep-drop-g-remix",
   title: "No Sleep (Drop G Remix)",
   partOfCollections: ["artist/ella-henderson"],

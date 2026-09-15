@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonRestOfOurDaysLiveFromLondon = {
   id: "01a0676a-d727-706e-a121-cf8899cdcd28",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-rest-of-our-days-live-from-london",
   title: "Rest Of Our Days (Live From London)",
   partOfCollections: ["artist/ella-henderson"],

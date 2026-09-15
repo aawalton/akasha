@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonFilthyRichJayDixieRemix = {
   id: "01a0676a-d71d-7077-961d-44fbd189919a",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-filthy-rich-jay-dixie-remix",
   title: "Filthy Rich (Jay Dixie Remix)",
   partOfCollections: ["artist/ella-henderson"],

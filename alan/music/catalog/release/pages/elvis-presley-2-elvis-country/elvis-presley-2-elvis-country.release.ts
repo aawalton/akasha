@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ElvisCountry = {
   id: "01a0676a-d71c-706e-a77c-ea779ef85219",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-elvis-country",
   title: "Elvis Country",
   partOfCollections: ["artist/elvis-presley"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2NbcTvSpecialLive = {
   id: "01a0676a-d725-7040-ac95-da31885b1d88",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-nbc-tv-special-live",
   title: "NBC-TV Special (Live)",
   partOfCollections: ["artist/elvis-presley"],

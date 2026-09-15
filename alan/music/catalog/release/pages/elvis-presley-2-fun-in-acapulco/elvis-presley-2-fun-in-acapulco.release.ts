@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2FunInAcapulco = {
   id: "01a0676a-d71e-7046-afba-3160beb154aa",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-fun-in-acapulco",
   title: "Fun in Acapulco",
   partOfCollections: ["artist/elvis-presley"],

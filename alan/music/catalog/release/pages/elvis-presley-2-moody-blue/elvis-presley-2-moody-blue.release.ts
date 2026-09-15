@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2MoodyBlue = {
   id: "01a0676a-d724-7082-b273-44c28bd58276",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-moody-blue",
   title: "Moody Blue",
   partOfCollections: ["artist/elvis-presley"],

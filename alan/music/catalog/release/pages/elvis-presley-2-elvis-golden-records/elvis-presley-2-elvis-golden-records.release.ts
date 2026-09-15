@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ElvisGoldenRecords = {
   id: "01a0676a-d71c-7072-82ff-f6cd7b69389d",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-elvis-golden-records",
   title: "Elvis' Golden Records",
   partOfCollections: ["artist/elvis-presley"],

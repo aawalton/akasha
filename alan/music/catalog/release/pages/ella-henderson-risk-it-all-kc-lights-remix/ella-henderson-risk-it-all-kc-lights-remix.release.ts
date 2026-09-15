@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonRiskItAllKcLightsRemix = {
   id: "01a0676a-d728-7012-8c4e-65fd21608b6b",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-risk-it-all-kc-lights-remix",
   title: "Risk It All (KC Lights Remix)",
   partOfCollections: ["artist/ella-henderson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonIGoDancingFeatEllaHendersonAcoustic = {
   id: "01a0676a-d721-701c-b1a9-58b303c6ec65",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-i-go-dancing-feat-ella-henderson-acoustic",
   title: "I Go Dancing (feat. Ella Henderson) [Acoustic]",
   partOfCollections: ["artist/ella-henderson"],

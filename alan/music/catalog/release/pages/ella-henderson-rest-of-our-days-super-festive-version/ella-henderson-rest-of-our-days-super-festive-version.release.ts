@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonRestOfOurDaysSuperFestiveVersion = {
   id: "01a0676a-d727-706f-ad30-8e7740b50e4b",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-rest-of-our-days-super-festive-version",
   title: "Rest Of Our Days (Super Festive Version)",
   partOfCollections: ["artist/ella-henderson"],

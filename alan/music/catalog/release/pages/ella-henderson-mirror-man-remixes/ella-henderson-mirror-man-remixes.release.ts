@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonMirrorManRemixes = {
   id: "01a0676a-d724-7073-b064-f9a73fb513fa",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-mirror-man-remixes",
   title: "Mirror Man (Remixes)",
   partOfCollections: ["artist/ella-henderson"],

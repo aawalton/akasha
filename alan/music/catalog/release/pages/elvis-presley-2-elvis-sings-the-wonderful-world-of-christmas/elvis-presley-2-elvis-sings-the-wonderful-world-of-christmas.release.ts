@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ElvisSingsTheWonderfulWorldOfChristmas = {
   id: "01a0676a-d71d-7008-b0f5-6b69bb89d4f7",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-elvis-sings-the-wonderful-world-of-christmas",
   title: "Elvis Sings the Wonderful World of Christmas",
   partOfCollections: ["artist/elvis-presley"],

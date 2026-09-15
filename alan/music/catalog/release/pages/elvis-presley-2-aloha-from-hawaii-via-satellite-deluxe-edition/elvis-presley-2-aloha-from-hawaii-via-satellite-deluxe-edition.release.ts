@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2AlohaFromHawaiiViaSatelliteDeluxeEdition = {
   id: "01a0676a-d716-7031-8e4a-f3eb3f95ee6b",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-aloha-from-hawaii-via-satellite-deluxe-edition",
   title: "Aloha From Hawaii Via Satellite (Deluxe Edition)",
   partOfCollections: ["artist/elvis-presley"],

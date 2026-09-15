@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonWeGotLoveAcoustic = {
   id: "01a0676a-d730-7031-8c58-cf3210a98d12",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-we-got-love-acoustic",
   title: "We Got Love (Acoustic)",
   partOfCollections: ["artist/ella-henderson"],

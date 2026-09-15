@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2Sunrise = {
   id: "01a0676a-d72a-7047-98bd-28c590d61d07",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-sunrise",
   title: "Sunrise",
   partOfCollections: ["artist/elvis-presley"],

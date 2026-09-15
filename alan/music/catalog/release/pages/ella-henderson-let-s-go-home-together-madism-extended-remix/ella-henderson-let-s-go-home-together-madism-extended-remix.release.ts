@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonLetSGoHomeTogetherMadismExtendedRemix = {
   id: "01a0676a-d723-7016-b207-c8cb0ce402f4",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-let-s-go-home-together-madism-extended-remix",
   title: "Let’s Go Home Together (Madism Extended Remix)",
   partOfCollections: ["artist/ella-henderson"],

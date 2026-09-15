@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ItHappenedAtTheWorldSFair = {
   id: "01a0676a-d722-7005-8750-f74959e54b4d",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-it-happened-at-the-world-s-fair",
   title: "It Happened at the World's Fair",
   partOfCollections: ["artist/elvis-presley"],

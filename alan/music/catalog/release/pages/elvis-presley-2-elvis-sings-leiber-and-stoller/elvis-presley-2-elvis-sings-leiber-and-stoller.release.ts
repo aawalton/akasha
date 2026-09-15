@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ElvisSingsLeiberAndStoller = {
   id: "01a0676a-d71d-7007-8e4c-09d6a462ab3a",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-elvis-sings-leiber-and-stoller",
   title: "Elvis Sings Leiber and Stoller",
   partOfCollections: ["artist/elvis-presley"],

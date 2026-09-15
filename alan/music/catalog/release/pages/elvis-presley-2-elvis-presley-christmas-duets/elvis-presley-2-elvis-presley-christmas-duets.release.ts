@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const elvisPresley2ElvisPresleyChristmasDuets = {
   id: "01a0676a-d71d-7004-97fc-84b7a3d7bb87",
-  type: "release",
+  type: "page-type/release",
   slug: "elvis-presley-2-elvis-presley-christmas-duets",
   title: "Elvis Presley Christmas Duets",
   partOfCollections: ["artist/elvis-presley"],

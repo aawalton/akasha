@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonHoldMeCloseFeatEllaHenderson = {
   id: "01a0676a-d720-7046-88c7-6798331de9d1",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-hold-me-close-feat-ella-henderson",
   title: "Hold Me Close (feat. Ella Henderson)",
   partOfCollections: ["artist/ella-henderson"],

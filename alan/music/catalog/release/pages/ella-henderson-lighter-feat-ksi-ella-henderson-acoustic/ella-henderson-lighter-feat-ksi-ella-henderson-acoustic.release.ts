@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonLighterFeatKsiEllaHendersonAcoustic = {
   id: "01a0676a-d723-702f-b00c-4ebb89d1b325",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-lighter-feat-ksi-ella-henderson-acoustic",
   title: "Lighter (feat. KSI & Ella Henderson) [Acoustic]",
   partOfCollections: ["artist/ella-henderson"],

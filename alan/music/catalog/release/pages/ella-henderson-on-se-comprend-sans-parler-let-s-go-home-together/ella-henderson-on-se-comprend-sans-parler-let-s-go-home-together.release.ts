@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonOnSeComprendSansParlerLetSGoHomeTogether = {
   id: "01a0676a-d726-7026-81bf-ce525a5f2199",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-on-se-comprend-sans-parler-let-s-go-home-together",
   title: "On se comprend sans parler (Let's Go Home Together)",
   partOfCollections: ["artist/ella-henderson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ellaHendersonReactTeedeeRemix = {
   id: "01a0676a-d727-704d-b672-331d2418c95b",
-  type: "release",
+  type: "page-type/release",
   slug: "ella-henderson-react-teedee-remix",
   title: "REACT (TeeDee Remix)",
   partOfCollections: ["artist/ella-henderson"],
