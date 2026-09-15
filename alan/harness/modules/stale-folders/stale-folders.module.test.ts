@@ -4,7 +4,7 @@ import { join } from "node:path"
 import {
   discoverStaleFolders,
   knownDirsFromFileList,
-} from "akasha/alan/harness/workspace-path/modules/stale-folders/stale-folders.module.code.ts"
+} from "akasha/alan/harness/modules/stale-folders/stale-folders.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()

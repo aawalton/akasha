@@ -748,6 +748,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts","id":"01a0795a-2cb4-7d47-b7d6-2b120f641fd4"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts","id":"01a082eb-4f25-7bd5-b488-a5c24903072e"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/security-headers/security-headers.module.ts","id":"01a05c48-deeb-7008-8b99-8ccaf9ccafa6"}
+{"propertySlug":"invariant-kind","path":"alan/harness/modules/stale-folders/stale-folders.module.ts","id":"01a0683d-3c17-7dd8-991b-d05270ddec1f"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/user-client/user-client.module.ts","id":"01a05c91-61cd-7ca0-84dc-81d150423884"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/account/monarch-account.page-type.ts","id":"01a0680a-1a00-7008-8d64-7a3b9e1f1109"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/account/properties/account-display-name.text-property.ts","id":"01a0680a-1a00-7002-9c37-8a1d4e6f1103"}
@@ -972,8 +973,6 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts","id":"01a08db3-6723-70df-8ccd-9abb25c56c16"}
 {"propertySlug":"invariant-kind","path":"alan/harness/web-static-asset/modules/serve-static/serve-static.module.ts","id":"01a05c48-deeb-7006-8e9c-b8c5539dd296"}
 {"propertySlug":"invariant-kind","path":"alan/harness/web-static-asset/web-static-asset.domain.ts","id":"01a05c48-deeb-7005-87e8-e99206ff06ca"}
-{"propertySlug":"invariant-kind","path":"alan/harness/workspace-path/modules/stale-folders/stale-folders.module.ts","id":"01a0683d-3c17-7dd8-991b-d05270ddec1f"}
-{"propertySlug":"invariant-kind","path":"alan/harness/workspace-path/workspace-path.domain.ts","id":"01a05c48-deeb-700a-a48e-da9f2becaa1d"}
 {"propertySlug":"invariant-kind","path":"alan/library/library.domain.ts","id":"01a06574-0291-7000-bfeb-0932b2156cac"}
 {"propertySlug":"invariant-kind","path":"alan/library/reading/book-section/book-section.page-type.ts","id":"01a0658d-fe50-7001-976d-fd0d35660d1d"}
 {"propertySlug":"invariant-kind","path":"alan/library/reading/book-section/properties/section-of.relation-property.ts","id":"01a08189-6150-743e-b860-1baeba37171d"}
