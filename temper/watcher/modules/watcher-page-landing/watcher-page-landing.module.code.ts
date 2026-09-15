@@ -1,8 +1,11 @@
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   readFiles,
   type readPages,
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
+
+const PAGE_TYPE = "page-type"
 
 export const PAGE_LANDING_WRITER = "temper watcher <watcher@alanwalton.com>"
 
@@ -160,7 +163,7 @@ export function pageBodyFor(
     "",
     `export const ${exportNameFor(slug)} = {`,
     `  id: ${JSON.stringify(id)},`,
-    `  type: ${JSON.stringify(pageTypeSlug)},`,
+    `  type: ${JSON.stringify(namedAs(PAGE_TYPE, pageTypeSlug, null))},`,
     `  slug: ${JSON.stringify(slug)},`,
   ]
   for (const [key, value] of keys) lines.push(`  ${key}: ${JSON.stringify(value)},`)
