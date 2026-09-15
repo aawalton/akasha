@@ -43,14 +43,16 @@ interface VersionHistoryDialogProps {
   onOpenChange: (open: boolean) => void
   buildId: BuildId
   buildPageTypeSlug: "character-build" | "companion-build"
+  buildHash: string
+  buildMetadata: Record<string, unknown>
   loadVersions: (
     buildId: BuildId
   ) => Promise<{ versions: readonly BuildVersion[] } | { error: string }>
   onVersionRestored?: () => void
 }
 
-function asJson(value: Record<string, unknown>): Json {
-  return value as Json
+function asProperties(value: Record<string, unknown>): Record<string, Json> {
+  return value as Record<string, Json>
 }
 
 export function VersionHistoryDialog({
@@ -58,6 +60,8 @@ export function VersionHistoryDialog({
   onOpenChange,
   buildId,
   buildPageTypeSlug,
+  buildHash,
+  buildMetadata,
   loadVersions,
   onVersionRestored,
 }: VersionHistoryDialogProps) {
@@ -73,13 +77,15 @@ export function VersionHistoryDialog({
         properties: {
           build: args.buildId,
           accountPage: userId,
+          buildHash,
           isCheckpoint: "true",
           checkpointName: args.checkpointName,
           versionNumber: Date.now(),
+          ...asProperties(buildMetadata),
         },
       })
     },
-    [optimisticCreate, userId]
+    [optimisticCreate, userId, buildHash, buildMetadata]
   )
   const restoreFromHashMutation = useCallback(
     async (args: {
@@ -92,7 +98,7 @@ export function VersionHistoryDialog({
         where: [{ key: "id", eq: args.buildId }],
         set: {
           buildHash: args.buildHash,
-          buildMetadata: asJson(args.buildMetadata),
+          ...asProperties(args.buildMetadata),
         },
       })
     },

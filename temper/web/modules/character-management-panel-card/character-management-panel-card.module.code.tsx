@@ -38,7 +38,15 @@ export function CharacterManagementPanelCard({
   const [showDeleteDialog, setShowDeleteDialog] = useState(false)
   const [showVersionHistory, setShowVersionHistory] = useState(false)
   const [isDeleting, setIsDeleting] = useState(false)
-  const { deleteBuild } = useCharacter(buildId)
+  const { deleteBuild, buildHash, buildMetadata } = useCharacter(buildId)
+
+  const versionMetadata = {
+    title: buildMetadata?.name ?? "",
+    description: buildMetadata?.description ?? "",
+    characterName: buildMetadata?.characterName ?? "",
+    ...(buildMetadata?.baseRoles ? { roles: [...buildMetadata.baseRoles] } : {}),
+    ...(buildMetadata?.targetCount != null ? { targetCount: buildMetadata.targetCount } : {}),
+  }
 
   const handleDelete = async () => {
     setIsDeleting(true)
@@ -79,6 +87,8 @@ export function CharacterManagementPanelCard({
         onOpenChange={setShowVersionHistory}
         buildId={buildId}
         buildPageTypeSlug="character-build"
+        buildHash={buildHash ?? ""}
+        buildMetadata={versionMetadata}
         loadVersions={getCharacterVersions}
         onVersionRestored={handleVersionRestored}
       />

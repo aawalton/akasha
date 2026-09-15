@@ -55,7 +55,6 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
           : typeof createdAtRaw === "string"
             ? Date.parse(createdAtRaw)
             : 0
-      const buildMetadata = row.buildMetadata
       return {
         id: typeof row.id === "string" ? row.id : "",
         versionNumber: typeof row.versionNumber === "number" ? row.versionNumber : 0,
@@ -63,12 +62,12 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
         checkpointName: typeof row.checkpointName === "string" ? row.checkpointName : null,
         createdAt: new Date(createdAtMs).toISOString(),
         buildHash: typeof row.buildHash === "string" ? row.buildHash : "",
-        buildMetadata:
-          buildMetadata !== null &&
-          typeof buildMetadata === "object" &&
-          !Array.isArray(buildMetadata)
-            ? buildMetadata
-            : {},
+        buildMetadata: {
+          title: typeof row.title === "string" ? row.title : "",
+          description: typeof row.description === "string" ? row.description : "",
+          ...(Array.isArray(row.baseRoles) ? { baseRoles: row.baseRoles } : {}),
+          ...(typeof row.targetCount === "number" ? { targetCount: row.targetCount } : {}),
+        },
       }
     })
 

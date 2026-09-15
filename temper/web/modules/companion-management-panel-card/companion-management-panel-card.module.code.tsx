@@ -38,7 +38,14 @@ export function CompanionManagementPanelCard({
   const [showDeleteDialog, setShowDeleteDialog] = useState(false)
   const [showVersionHistory, setShowVersionHistory] = useState(false)
   const [isDeleting, setIsDeleting] = useState(false)
-  const { deleteBuild } = useCompanion(buildId)
+  const { deleteBuild, buildHash, buildMetadata } = useCompanion(buildId)
+
+  const versionMetadata = {
+    title: buildMetadata?.name ?? "",
+    description: buildMetadata?.description ?? "",
+    ...(buildMetadata?.baseRoles ? { baseRoles: [...buildMetadata.baseRoles] } : {}),
+    ...(buildMetadata?.targetCount != null ? { targetCount: buildMetadata.targetCount } : {}),
+  }
 
   const handleDelete = async () => {
     setIsDeleting(true)
@@ -79,6 +86,8 @@ export function CompanionManagementPanelCard({
         onOpenChange={setShowVersionHistory}
         buildId={buildId}
         buildPageTypeSlug="companion-build"
+        buildHash={buildHash ?? ""}
+        buildMetadata={versionMetadata}
         loadVersions={getCompanionVersions}
         onVersionRestored={handleVersionRestored}
       />
