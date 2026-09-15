@@ -222,6 +222,14 @@ export const folderMatchesAShape = {
       invariantKind: "departure",
       statement: "A folder a change leaves holding no file and no folder is judged by no shape.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A file a generator writes shapes no folder, so no shape is shown that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file beside a page leaves that page in the folder that page sat in.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 45 },

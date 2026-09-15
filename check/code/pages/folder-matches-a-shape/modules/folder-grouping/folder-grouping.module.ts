@@ -59,6 +59,14 @@ export const folderGrouping = {
       statement: "An answer is held for the folder that answer was asked about.",
     },
     {
+      invariantKind: "departure",
+      statement: "A file a generator writes sits in no folder here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a generator writes is answered by the caller rather than worked out here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges a folder.",
     },

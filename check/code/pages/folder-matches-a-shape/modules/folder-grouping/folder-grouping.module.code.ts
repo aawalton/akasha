@@ -31,7 +31,12 @@ export type Grouped = {
   readonly foldersIn: (folder: string) => readonly string[]
 }
 
-export function groupedOver(change: Change): Grouped {
+const NOTHING_GENERATED = (): boolean => false
+
+export function groupedOver(
+  change: Change,
+  generated: (path: string) => boolean = NOTHING_GENERATED
+): Grouped {
   const base = change.base ?? null
   const added = new Map<string, Set<string>>()
   const gone = new Map<string, Set<string>>()
@@ -59,7 +64,7 @@ export function groupedOver(change: Change): Grouped {
       const held = new Set<string>(filesIn(change.root, folder, base))
       for (const one of added.get(folder) ?? []) held.add(one)
       for (const one of gone.get(folder) ?? []) held.delete(one)
-      const made = [...held].sort()
+      const made = [...held].sort().filter((one) => !generated(one))
       files.set(folder, made)
       return made
     },

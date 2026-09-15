@@ -23,6 +23,10 @@ import {
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { edgesIn } from "akasha/page/index/import/index-import.index.code.ts"
 import { reachingOf } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
+import {
+  facingOn,
+  generatedIn,
+} from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
@@ -78,7 +82,8 @@ export function foldersJudgedBy(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const grouped = groupedOver(change)
+  const facing = facingOn(change.root)
+  const grouped = groupedOver(change, (path) => generatedIn(facing, path))
   const judging = judgingOver({ root: change.root, shadow, grouped })
   const stated = shadow.index.fileKeysAt()
   const naming = reachingOf(shadow.index.manifestsBeside(stated), (path) => textIn(change, path))
