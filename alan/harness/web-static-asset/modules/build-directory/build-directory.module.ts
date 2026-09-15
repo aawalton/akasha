@@ -9,15 +9,15 @@ export const buildDirectory = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build told no folder writes into the folder the pod serves.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build told a folder writes into that folder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A folder named as nothing but blanks is no folder.",
     },
   ],

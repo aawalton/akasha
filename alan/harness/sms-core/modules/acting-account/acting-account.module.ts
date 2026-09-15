@@ -9,15 +9,15 @@ export const actingAccount = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the text after the last channel footer is trusted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sender quoting the footer cannot reach past the footer the channel wrote.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The account is answered in lower case.",
     },
   ],

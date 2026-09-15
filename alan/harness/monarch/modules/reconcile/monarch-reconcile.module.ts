@@ -9,30 +9,30 @@ export const monarchReconcile = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A row Monarch no longer lists is retired on the fetched window rather than on a missing id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reconciliation retiring more than a twentieth of the rows weighed is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Nothing is retired where the ceiling is passed rather than the first rows being taken.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A window is cut by the day a transaction fell on rather than by the month its page has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pending row Monarch no longer lists is cleared.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The scope reconciled against is named in the refusal.",
     },
   ],

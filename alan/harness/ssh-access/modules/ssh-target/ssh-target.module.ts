@@ -8,11 +8,11 @@ export const sshTarget = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target names a key path rather than carrying a key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The options a target is reached with are stated here rather than by each caller.",
     },
   ],

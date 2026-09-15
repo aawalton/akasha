@@ -8,7 +8,7 @@ export const claims = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Claims that do not parse make no user.",
     },
   ],

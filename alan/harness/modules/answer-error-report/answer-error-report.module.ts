@@ -8,24 +8,24 @@ export const answerErrorReport = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Every site taking error reports over http answers from here rather than from its own copy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The origins a site answers cross-origin are passed in rather than written in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A site naming no shell origin is answered with no cross-origin headers.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A report is filed only once the shape it must have has taken it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A filing that throws is answered rather than left to the router.",
     },
   ],

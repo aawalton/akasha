@@ -8,19 +8,19 @@ export const alanAppShell = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Signing out happens in the browser rather than as a form POST.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This shell is shipped inside the native WebView as well as served to a browser.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Signing out clears the session wherever the auth mode keeps the session.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where a person lands after a session ends is decided by the auth provider alone.",
     },
   ],

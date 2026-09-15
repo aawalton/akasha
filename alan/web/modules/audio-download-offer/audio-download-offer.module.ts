@@ -9,11 +9,11 @@ export const audioDownloadOffer = {
   test: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page with no audio variant is offered no download.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chapter with no title is offered the download under an empty title.",
     },
   ],

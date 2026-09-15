@@ -8,11 +8,11 @@ export const offlineTextSync = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here sends a position or a completion up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A position written while reading is kept on the device and read back there.",
     },
   ],

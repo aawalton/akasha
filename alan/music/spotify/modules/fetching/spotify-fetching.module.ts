@@ -9,19 +9,19 @@ export const spotifyFetching = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A test that reaches the live Spotify API risks the ban an unpaced sweep earns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call over HTTP is this module's answer until something replaces the answer.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A replacement holds until the call over HTTP is put back.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads a Spotify URL.",
     },
   ],

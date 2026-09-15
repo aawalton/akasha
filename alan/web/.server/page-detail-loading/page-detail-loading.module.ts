@@ -8,7 +8,7 @@ export const pageDetailLoading = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key is asked of a page type only where that page type declares the key.",
     },
   ],

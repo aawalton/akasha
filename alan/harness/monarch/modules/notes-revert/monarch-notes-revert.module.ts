@@ -9,35 +9,35 @@ export const monarchNotesRevert = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The before-picture is taken once and never taken again over itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A run leaves an already standing snapshot alone and says how many rows postdate that snapshot.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A row already standing as that row was snapshotted is passed over rather than rewritten.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A revert says the changes that revert would make before being asked to make the changes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Notes and tags are both put back.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The live row is read on its own day before that row is judged rather than from our copy.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The snapshot stands in one file under $HOME rather than as a page.",
     },
   ],

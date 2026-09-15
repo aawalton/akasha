@@ -8,19 +8,19 @@ export const ruleVocabulary = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A text matching no pattern reads as `unrecognized`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The longest matching pattern wins.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two matching patterns of one length are settled by which sorts first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Where two values claim one pattern, the value listed first wins and nothing reports it.",
     },

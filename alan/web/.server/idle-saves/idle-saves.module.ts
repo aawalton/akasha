@@ -8,15 +8,15 @@ export const idleSaves = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "`idle-save` is held as a page type, but reading and writing a save is unbuilt.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A save that went unread is refused rather than answered as absent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A save that did not land is refused rather than answered as written.",
     },
   ],

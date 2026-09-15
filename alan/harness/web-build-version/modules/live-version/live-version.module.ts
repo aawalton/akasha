@@ -8,11 +8,11 @@ export const liveVersion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The answer is never cached.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build with no commit answers with the reason rather than with nothing.",
     },
   ],

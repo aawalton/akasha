@@ -8,12 +8,12 @@ export const serveStatic = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A path under the assets folder is answered or refused here rather than passed on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The root path is never answered from disk.",
     },
   ],

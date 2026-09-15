@@ -8,11 +8,11 @@ export const homeDni = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The home screen opens on the nav item this module's constant names.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Nothing refuses taking away the nav page that constant names.",
     },
   ],

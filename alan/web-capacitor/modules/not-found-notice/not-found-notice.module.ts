@@ -8,15 +8,15 @@ export const notFoundNotice = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every route drawing nothing found draws the same notice.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The notice says the page was not found rather than why it was not found.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here answers with a status, because a route here draws in the browser.",
     },
   ],

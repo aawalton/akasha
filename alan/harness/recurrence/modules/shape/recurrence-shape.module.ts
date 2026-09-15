@@ -8,15 +8,15 @@ export const recurrenceShape = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rule a repeating thing has may be absent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An advanced due date always names a day.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An advanced due date names a time only where a time was already held.",
     },
   ],

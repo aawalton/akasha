@@ -8,11 +8,11 @@ export const offlineTextCache = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing writes an index of the chapters the device holds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A position store under the older shape carries fractions forward as progress.",
     },
   ],

@@ -8,7 +8,7 @@ export const pageListingLoader = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slug reaching no page type is answered 404.",
     },
   ],

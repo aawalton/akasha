@@ -8,11 +8,11 @@ export const buildSha = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Anything that is not forty lower hexadecimal characters is read as absent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The name the commit is read from is written out in full rather than reached by a key.",
     },

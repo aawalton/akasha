@@ -8,7 +8,7 @@ export const markSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mark with a field the shape does not name is refused.",
     },
   ],

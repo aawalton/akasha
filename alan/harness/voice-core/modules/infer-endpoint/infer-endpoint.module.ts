@@ -8,11 +8,11 @@ export const inferEndpoint = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The address is the address the cluster gives the service inside itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller naming its own address uses that address instead.",
     },
   ],

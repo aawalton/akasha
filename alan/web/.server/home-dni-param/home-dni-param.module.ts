@@ -8,16 +8,16 @@ export const homeDniParam = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A question the service refused is thrown rather than answered as no home item.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Null is answered only where the service answered and no row carried the home slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The home slug is matched over the rows rather than narrowed in the question.",
     },
   ],

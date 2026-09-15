@@ -9,19 +9,19 @@ export const alanAuthProvider = {
   test: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A session ending clears the account every component below this provider reads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A module replaced under test is spelled as the code under test spells it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The account is cleared in a render of its own before the route changes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Signing out lands on the signed-out route carrying where the person was.",
     },
   ],

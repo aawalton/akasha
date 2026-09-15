@@ -8,7 +8,7 @@ export const supabaseUser = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing Supabase holds about a user beyond these two is carried.",
     },
   ],

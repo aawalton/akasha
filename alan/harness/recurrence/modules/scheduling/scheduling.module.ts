@@ -8,20 +8,20 @@ export const scheduling = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A thing with no rule never advances.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The next occurrence falls after the end of the logical day the reset time names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A thing with no due date yet is anchored at the reset time rather than at the clock.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the day moves when a recurrence advances.",
     },
   ],

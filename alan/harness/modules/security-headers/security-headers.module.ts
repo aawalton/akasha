@@ -8,15 +8,15 @@ export const securityHeaders = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every site is served the same headers but for the headers its own policy widens.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A site widens a policy directive and never narrows a policy directive.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A directive a site names nothing for is left out.",
     },
   ],

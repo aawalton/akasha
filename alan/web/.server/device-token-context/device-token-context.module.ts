@@ -8,15 +8,15 @@ export const deviceTokenContext = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A bearer token naming a user settles the account and the session is not read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A bearer token naming nobody leaves the session to settle the account.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A request carrying no bearer token is read from its session alone.",
     },
   ],

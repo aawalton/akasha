@@ -9,19 +9,19 @@ export const normalize = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A refusal notice has no part of the message the notice refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message with nothing but space in the message is shown as having no body.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The account a message acts for is written into the surface a seat reads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sender is lower-cased before the sender is matched.",
     },
   ],

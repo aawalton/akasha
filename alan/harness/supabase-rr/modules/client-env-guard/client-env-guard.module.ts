@@ -8,7 +8,7 @@ export const clientEnvGuard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The guard refuses a build rather than the loading of a config.",
     },
   ],

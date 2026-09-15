@@ -8,7 +8,7 @@ export const signOutRoute = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader asking for the sign-out path without posting is sent to the root.",
     },
   ],

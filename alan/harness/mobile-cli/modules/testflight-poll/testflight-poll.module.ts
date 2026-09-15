@@ -9,40 +9,40 @@ export const testflightPoll = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "an internalBuildState of MISSING_EXPORT_COMPLIANCE counts as blocked rather than as still waiting",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "a read of App Store Connect that fails is retried at the next interval",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "three read failures in a row raise the error rather than being retried again",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "a read that answers resets the count of failures in a row to zero",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "a build App Store Connect has not yet listed is carried as a state of its own",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "each tick says how long the poll has run and when the poll gives up",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "the processing poll gives up after 30 minutes",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "the tester-visibility poll gives up after 10 minutes",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "a processing failure is emitted as a single-line JSON marker beside its prose message",
     },

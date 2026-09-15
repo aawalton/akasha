@@ -8,11 +8,11 @@ export const signInForm = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader signed in goes to the target the url asked for or to the root.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Only a host named here is a target the url may ask for.",
     },
   ],

@@ -8,11 +8,11 @@ export const buildShaDefine = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The commit the environment states wins over the commit the checkout's head says.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkout that cannot be asked yields an empty string rather than throwing.",
     },
   ],

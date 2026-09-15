@@ -8,25 +8,25 @@ export const dayReading = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Keys are asked in camel and a row is answered in kebab.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A key naming an entry answers that entry's rows rather than the file's extension.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An answered row's `at` is the day's slug rather than a file path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A caller reducing a day in the kebab spelling takes the values rather than the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A key the day page type declares nothing for is refused rather than answered as absent.",
     },

@@ -8,7 +8,7 @@ export const userId = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "Alan's own id is here as the default.",
     },
   ],

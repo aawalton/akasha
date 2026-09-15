@@ -9,23 +9,23 @@ export const spotifyReleases = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Spotify refuses a page of more than ten albums with `Invalid limit`.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Spotify answers 403 to the bulk album read for an app registered now.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An album's length is added up from the tracks that album holds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An album an artist only appears on is left out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day an album states only a year or a month for is left as Spotify states it.",
     },
   ],

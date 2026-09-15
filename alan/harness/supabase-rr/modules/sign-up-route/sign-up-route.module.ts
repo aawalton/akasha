@@ -8,11 +8,11 @@ export const signUpRoute = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader asking for the sign-up path is sent to signing in.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No account is opened here.",
     },
   ],

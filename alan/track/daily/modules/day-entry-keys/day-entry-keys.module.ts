@@ -8,17 +8,17 @@ export const dayEntryKeys = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A query guards a key against a page type rather than against the keys of an entry.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A key no entry declares is refused rather than answered as absent from every row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reading a key absent from every row would state silence as a measurement.",
     },
   ],

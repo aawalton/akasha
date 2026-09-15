@@ -8,12 +8,12 @@ export const writeDailyPoints = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reading the day already carries is answered unchanged rather than landed again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading answered unchanged is an outcome rather than a reading that failed.",
     },
   ],

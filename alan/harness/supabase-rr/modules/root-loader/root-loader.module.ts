@@ -8,7 +8,7 @@ export const rootLoader = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The nonce goes back with the headers the guard worked out.",
     },
   ],

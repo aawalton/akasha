@@ -9,23 +9,23 @@ export const simSession = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The session record is at one fixed path in the home directory.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The session file is written with mode 0600.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A session file with an unrecognised field parses as null.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "XCUITest reports the app's WKWebView under the bundle id process-App.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The banner-tap capabilities are the sim capabilities with the bundle id dropped.",
     },
   ],

@@ -8,23 +8,23 @@ export const serviceRole = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The URL is read from the environment when the caller names no URL.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key is read from the environment when the caller names no key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A request outrunning its timeout is aborted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An error body that is not JSON comes back summarised rather than whole.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A request is given thirty seconds unless the caller says otherwise.",
     },
   ],

@@ -8,11 +8,11 @@ export const appLayoutLoading = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The layout loads the nav items rather than the shell fetching those items first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The sidebar is drawn on the first frame rather than after hydration.",
     },
   ],

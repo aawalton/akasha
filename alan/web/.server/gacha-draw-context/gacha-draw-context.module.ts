@@ -8,16 +8,16 @@ export const gachaDrawContext = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "`persona-cover-image` is held as a page type, but reading a draw's images is unbuilt.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A draw reads an empty pool as a persona with nothing to show.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A draw context whose images went unread is refused rather than answered empty.",
     },
   ],

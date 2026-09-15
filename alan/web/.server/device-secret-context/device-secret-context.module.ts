@@ -8,12 +8,12 @@ export const deviceSecretContext = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A secret refused and a store that did not answer are two outcomes rather than one outcome.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The route answers each of the three outcomes with a status of its own.",
     },
   ],

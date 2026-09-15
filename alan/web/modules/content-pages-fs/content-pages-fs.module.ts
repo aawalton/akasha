@@ -8,19 +8,19 @@ export const contentPagesFs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which ids are held is answered from the index rather than from the body files.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Reading every body to answer that would read the whole held library each time.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "An id the index names has a body that reads back.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A body that does not read back is fetched again rather than reported as held.",
     },
   ],

@@ -8,11 +8,11 @@ export const protectedUser = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a deliberate read-only opt-in reaches the protected user.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path resolving to the protected user without one throws.",
     },
   ],

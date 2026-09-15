@@ -8,19 +8,19 @@ export const mediaPage = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A media address whose page id is no uuid is refused ahead of any page read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That refusal is cheap rather than the check on who may reach the media.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A media address carries a page id and no page type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The id is looked for under the page types whose media config serves media.",
     },
   ],

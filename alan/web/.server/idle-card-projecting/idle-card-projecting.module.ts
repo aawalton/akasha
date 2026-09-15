@@ -8,16 +8,16 @@ export const idleCardProjecting = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "`idle-persona-card` is held as a page type, but writing a roster into it is unbuilt.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A roster that went unwritten is refused rather than answered as no cards.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A save lands even where the roster projection does not.",
     },
   ],

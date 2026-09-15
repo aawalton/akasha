@@ -8,7 +8,7 @@ export const mediaVariants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The personas with a voice reference are picked out of the rows rather than in the question.",
     },
