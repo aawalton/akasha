@@ -2,7 +2,7 @@ import type { StoryChapterWritten } from "akasha/story/chapter-written/story-cha
 
 export const towerOfNimue001TheFirstHour = {
   id: "01a06599-c380-7eff-8fad-2ae24c0f8377",
-  type: "story-chapter-written",
+  type: "page-type/story-chapter-written",
   slug: "tower-of-nimue-001-the-first-hour",
   title: "The First Hour",
   story: "story-written/tower-of-nimue",

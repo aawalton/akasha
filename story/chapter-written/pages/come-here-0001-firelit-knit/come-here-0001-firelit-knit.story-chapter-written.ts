@@ -2,7 +2,7 @@ import type { StoryChapterWritten } from "akasha/story/chapter-written/story-cha
 
 export const comeHere0001FirelitKnit = {
   id: "01a06599-c380-718c-b4a1-f0158c2f1bba",
-  type: "story-chapter-written",
+  type: "page-type/story-chapter-written",
   slug: "come-here-0001-firelit-knit",
   title: "Firelit Knit",
   story: "story-written/come-here",

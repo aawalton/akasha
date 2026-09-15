@@ -2,7 +2,7 @@ import type { StoryChapterWritten } from "akasha/story/chapter-written/story-cha
 
 export const cornerstone001BlindGround = {
   id: "01a06599-c37f-7cfe-a3a9-cb46c5f0e624",
-  type: "story-chapter-written",
+  type: "page-type/story-chapter-written",
   slug: "cornerstone-001-blind-ground",
   title: "Blind Ground",
   story: "story-written/cornerstone",

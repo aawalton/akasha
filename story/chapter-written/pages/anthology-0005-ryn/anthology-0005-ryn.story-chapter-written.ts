@@ -2,7 +2,7 @@ import type { StoryChapterWritten } from "akasha/story/chapter-written/story-cha
 
 export const anthology0005Ryn = {
   id: "01a06599-c380-7717-9c1c-3cf7bcc6704b",
-  type: "story-chapter-written",
+  type: "page-type/story-chapter-written",
   slug: "anthology-0005-ryn",
   title: "Ryn",
   story: "story-written/anthology",

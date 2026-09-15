@@ -2,7 +2,7 @@ import type { StoryChapterWritten } from "akasha/story/chapter-written/story-cha
 
 export const bathhouseConfession0001WhereTheSteamSettles = {
   id: "01a06599-c37e-7573-85f6-e7faf0bb4ff1",
-  type: "story-chapter-written",
+  type: "page-type/story-chapter-written",
   slug: "bathhouse-confession-0001-where-the-steam-settles",
   title: "Where the Steam Settles",
   story: "story-written/bathhouse-confession",

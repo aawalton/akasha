@@ -2,7 +2,7 @@ import type { StoryChapterWritten } from "akasha/story/chapter-written/story-cha
 
 export const theBeholder002Prettier = {
   id: "01a06599-c380-7311-90ef-e83199a8f25b",
-  type: "story-chapter-written",
+  type: "page-type/story-chapter-written",
   slug: "the-beholder-002-prettier",
   title: "Prettier",
   story: "story-written/the-beholder",

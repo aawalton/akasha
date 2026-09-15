@@ -2,7 +2,7 @@ import type { StoryChapterWritten } from "akasha/story/chapter-written/story-cha
 
 export const theBeholder001SomethingBorrowed = {
   id: "01a06599-c380-72e5-b406-7f61665724fa",
-  type: "story-chapter-written",
+  type: "page-type/story-chapter-written",
   slug: "the-beholder-001-something-borrowed",
   title: "Something Borrowed",
   story: "story-written/the-beholder",
