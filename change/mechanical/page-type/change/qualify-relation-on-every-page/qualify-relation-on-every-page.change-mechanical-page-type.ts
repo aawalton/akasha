@@ -26,6 +26,11 @@ export const qualifyRelationOnEveryPage = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
+        "Which values a key's entries beside the page carry is read from that file rather than the index.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
         "The pages written are the pages of that page type and of every page type beneath it.",
     },
     {
@@ -43,7 +48,8 @@ export const qualifyRelationOnEveryPage = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "One page's property is answered by one edit over that property.",
+      statement:
+        "One page's property is answered by one edit over each file that property's values sit in.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -84,15 +90,29 @@ export const qualifyRelationOnEveryPage = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "What a field declares is read off the record property the key names.",
+      statement:
+        "What a field declares is read off the record property or the entry shape the key names.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A field the record property declares nowhere is refused.",
+      statement: "A field the record property or the entry shape declares nowhere is refused.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement: "A run naming no field writes the key's own value.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A key whose values sit in a file beside the page is written there, and the page's body is not.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every part of that file is written.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A row whose field holds no text is passed over.",
     },
     {
       invariantKind: "invariant-kind/absence",
@@ -105,6 +125,14 @@ export const qualifyRelationOnEveryPage = {
     {
       invariantKind: "invariant-kind/absence",
       statement: "No name is written with a scope.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "A key of the same name inside a value a row states is left as it is.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "A row's keys are left as they are.",
     },
   ],
   changeKind: "change-kind/change-mechanical",

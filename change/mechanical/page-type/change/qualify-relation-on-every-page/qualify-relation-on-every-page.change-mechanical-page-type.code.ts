@@ -8,28 +8,38 @@ import type {
   Said,
   Splice,
 } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { valuesWrittenAnewInEntries } from "akasha/change/modules/json-entries/json-entries.module.code.ts"
 import {
   keyOf,
   listIn,
   statedIn,
   valuesIn,
 } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
+import { entriesBeside } from "akasha/change/modules/page-property-carrying/page-property-carrying.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
   eachTarget,
   filedById,
   type Known,
   reaches,
+  type Shaped,
   type Wanted,
 } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { entriesIn } from "akasha/page/modules/entries/page-entries.module.code.ts"
+import {
+  besideAt,
+  partedIn,
+  uncommittedBesideAt,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   recordsIn,
   slugOf,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Carried as Declared } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import ts from "typescript"
 
 const BARE = "bare"
@@ -45,6 +55,7 @@ export type Naming = {
   readonly wanted: Wanted
   readonly known: Known
   readonly pageTypeOf: (id: string) => string | null
+  readonly entried: Declared | null
 }
 
 export function pageTypeIn(known: Known, id: string): string | null {
@@ -52,9 +63,15 @@ export function pageTypeIn(known: Known, id: string): string | null {
   return one === null ? null : (partedIn(one.path)?.pageType ?? null)
 }
 
+export type Beside = {
+  readonly at: string
+  readonly text: string
+}
+
 export type Carried = {
   readonly path: string
   readonly spelled: ReadonlyMap<string, string>
+  readonly beside: readonly Beside[] | null
 }
 
 export function bareIn(held: unknown): readonly string[] {
@@ -77,6 +94,10 @@ export function saidOf(given: Asked): string {
   return `\`${field}\` in a \`${given.key}\` entry on a \`${given.pageType}\``
 }
 
+function fieldSlugIn(known: Shaped, beside: boolean, under: string, field: string): string | null {
+  return beside ? known.rowFieldOfKey(under, field) : known.fieldOfKey(under, field)
+}
+
 export function namingFor(world: World, given: Asked): Naming | string {
   const carried = world.index.propertiesIfNamed(given.pageType)
   if (carried === null) return `\`${given.pageType}\` names no page type`
@@ -85,13 +106,14 @@ export function namingFor(world: World, given: Asked): Naming | string {
   const known = world.index.knownIn()
   const under = slugOf(held.pagePropertySlug)
   const field = given.field ?? null
-  const slug = field === null ? under : known.fieldOfKey(under, field)
+  const entried = held.pageTypeSlug === ENTRY_PROPERTY ? held : null
+  const slug = field === null ? under : fieldSlugIn(known, entried !== null, under, field)
   if (slug === null) return `a \`${given.key}\` entry has no field under \`${field}\``
   const wanted = known.targetOf(slug)
   if (eachTarget(wanted).length === 0) {
     return `${saidOf(given)} declares no page type to reach`
   }
-  return { wanted, known, pageTypeOf: (id) => pageTypeIn(known, id) }
+  return { wanted, known, pageTypeOf: (id) => pageTypeIn(known, id), entried }
 }
 
 export function qualifiedBy(naming: Naming, named: string): string | { readonly refused: string } {
@@ -114,6 +136,59 @@ export function bareOn(value: Value, given: Asked): readonly string[] {
   return found
 }
 
+function partNamed(page: string, one: Declared, held: string): string {
+  const at = one.uncommitted
+    ? uncommittedBesideAt(page, one.propertySlug, held)
+    : besideAt(page, one.propertySlug, held)
+  return at ?? page
+}
+
+export type Found = {
+  readonly beside: readonly Beside[] | null
+  readonly from: ReadonlyMap<string, string>
+}
+
+export function foundBeside(
+  world: World,
+  entried: Declared,
+  path: string,
+  value: Value,
+  given: Asked
+): Found | string {
+  const held = value[given.key]
+  if (typeof held !== "string") return { beside: [], from: new Map() }
+  const parts = entriesBeside(world, path, held, entried.propertySlug, entried.uncommitted)
+  if (parts.length === 0) return `\`${partNamed(path, entried, held)}\` could not be read`
+  const beside: Beside[] = []
+  const from = new Map<string, string>()
+  for (const at of parts) {
+    const text = world.textOf(at) ?? ""
+    const read = entriesIn(at, text)
+    if ("refused" in read) return read.refused
+    beside.push({ at, text })
+    for (const row of read.entries) {
+      for (const one of bareIn(row[underIn(given)])) {
+        if (!from.has(one)) from.set(one, at)
+      }
+    }
+  }
+  return { beside, from }
+}
+
+export function foundOn(
+  world: World,
+  naming: Naming,
+  path: string,
+  value: Value,
+  given: Asked
+): Found | string {
+  const entried = naming.entried
+  if (entried !== null) return foundBeside(world, entried, path, value, given)
+  const from = new Map<string, string>()
+  for (const one of bareOn(value, given)) from.set(one, path)
+  return { beside: null, from }
+}
+
 export function spelledOver(
   world: World,
   naming: Naming,
@@ -125,17 +200,18 @@ export function spelledOver(
   for (const kind of world.index.kindsUnder(given.pageType)) {
     for (const [path, value] of world.index.valuesByPath(kind)) {
       if (atMost !== null && found.length >= atMost) return found
-      const bare = bareOn(value, given)
-      if (bare.length === 0) continue
+      const held = foundOn(world, naming, path, value, given)
+      if (typeof held === "string") return held
+      if (held.from.size === 0) continue
       const spelled = new Map<string, string>()
-      for (const one of bare) {
+      for (const [one, at] of held.from) {
         const said = qualifiedBy(naming, one)
         if (typeof said !== "string") {
-          return `\`${path}\` states \`${under}\`, and ${said.refused}`
+          return `\`${at}\` states \`${under}\`, and ${said.refused}`
         }
         spelled.set(one, said)
       }
-      found.push({ path, spelled })
+      found.push({ path, spelled, beside: held.beside })
     }
   }
   return found
@@ -167,7 +243,21 @@ export function literalsIn(source: ts.SourceFile, given: Asked): readonly ts.Str
   return valuesIn(source, given.key).flatMap((entry) => fieldLiteralsIn(entry, field))
 }
 
+function besideEdits(
+  field: string,
+  spelled: ReadonlyMap<string, string>,
+  beside: readonly Beside[]
+): readonly FileChange[] {
+  const edits: FileChange[] = []
+  for (const one of beside) {
+    const spots = valuesWrittenAnewInEntries(one.at, one.text, field, spelled)
+    edits.push(...splicedIn(one.at, one.text, spots))
+  }
+  return edits
+}
+
 export function editsFor(world: World, given: Asked, one: Carried): readonly FileChange[] | string {
+  if (one.beside !== null) return besideEdits(underIn(given), one.spelled, one.beside)
   const text = world.textOf(one.path)
   if (text === null) return `\`${one.path}\` could not be read`
   const source = parsedAs(one.path, text)

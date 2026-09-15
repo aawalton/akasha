@@ -42,6 +42,26 @@ export const ONE_AT = "alan/book/one.book-section.ts"
 
 export const TWO_AT = "alan/book/two.book-section.ts"
 
+export const ENTRY_KEY = "conditions"
+
+export const ROW_FIELD = "collection"
+
+const ENTRY_SLUG = "book-conditions"
+
+const ROW_FIELD_SLUG = "book-row-collection"
+
+export const ENTRY_AT = "alan/book/rows.book-section.ts"
+
+export const ROWS_AT = "alan/book/rows.book-section.conditions.jsonl"
+
+export const PART_TWO_AT = "alan/book/rows.book-section.conditions.part2.jsonl"
+
+export const UNCOMMITTED_AT = "alan/book/rows.book-section.conditions.uncommitted.jsonl"
+
+export const MORE_AT = "alan/book/more.book-section.ts"
+
+export const MORE_ROWS_AT = "alan/book/more.book-section.conditions.jsonl"
+
 export type Reached = {
   readonly pageTypeSlug: string
   readonly slug: string
@@ -74,6 +94,7 @@ const TARGETED: ReadonlySet<string> = new Set([
   "book-section-of",
   "book-part-of-collections",
   FIELD_SLUG,
+  ROW_FIELD_SLUG,
 ])
 
 function listedOf(one: Reached): Listed {
@@ -127,12 +148,32 @@ function declaringRecord(): Declared {
   }
 }
 
+function declaringEntry(uncommitted: boolean): Declared {
+  return {
+    pagePropertySlug: `page-property-entry/${ENTRY_SLUG}`,
+    pageTypeSlug: "page-property-entry",
+    propertySlug: ENTRY_KEY,
+    key: ENTRY_KEY,
+    unique: null,
+    declaredBy: TYPE,
+    required: false,
+    many: true,
+    maxCount: null,
+    maxLength: null,
+    uncommitted,
+    secret: false,
+  }
+}
+
 export const DECLARED: readonly Declared[] = [
   declaring(ONE_KEY, "book-section-of", "section-of", false),
   declaring(LIST_KEY, "book-part-of-collections", "part-of-collections", true),
   declaring(TEXT_KEY, "definition", "definition", false),
   declaringRecord(),
+  declaringEntry(false),
 ]
+
+export const BESIDE_UNCOMMITTED: readonly Declared[] = [declaringEntry(true)]
 
 export function sectionAt(slug: string, one: string, held: readonly string[]): string {
   const values = held.map((each) => JSON.stringify(each)).join(", ")
@@ -202,6 +243,8 @@ export function worldFor(
     filed: filedIn(pages),
     fieldOfKey: (propertySlug, key) =>
       propertySlug === RECORD_SLUG && key === FIELD_KEY ? FIELD_SLUG : null,
+    rowFieldOfKey: (slug, key) =>
+      slug === ENTRY_SLUG && key === ROW_FIELD ? ROW_FIELD_SLUG : null,
   })
   const index = {
     kindsUnder: () => new Set([TYPE]),
@@ -216,3 +259,39 @@ export function worldFor(
 
 export const NOTHING_BARE =
   "no `book-section` names a page by a bare name under `partOfCollections`"
+
+export function entriedAt(slug: string): string {
+  return `export const ${slug} = {
+  pageTypeSlug: "book-section",
+  slug: "${slug}",
+  ${ENTRY_KEY}: "jsonl",
+} as const satisfies BookSection
+`
+}
+
+export function rowsOf(rows: readonly Value[]): string {
+  return `${rows.map((one) => JSON.stringify(one)).join("\n")}\n`
+}
+
+const ENTRY_PAGES: Files = {
+  [ENTRY_AT]: entriedAt("rows"),
+  [MORE_AT]: entriedAt("more"),
+}
+
+export const ENTRY_VALUES = valued({ [ENTRY_AT]: { [ENTRY_KEY]: "jsonl" } })
+
+export const TWO_ENTRY_VALUES = valued({
+  [ENTRY_AT]: { [ENTRY_KEY]: "jsonl" },
+  [MORE_AT]: { [ENTRY_KEY]: "jsonl" },
+})
+
+export const BESIDE_ASKED = { pageType: TYPE, key: ENTRY_KEY, field: ROW_FIELD }
+
+export function besideWorld(
+  files: Files,
+  values: ReadonlyMap<string, Value> = ENTRY_VALUES,
+  pages: readonly Reached[] = PAGES,
+  carried: readonly Declared[] = DECLARED
+): World {
+  return worldFor({ ...ENTRY_PAGES, ...files }, values, pages, carried)
+}

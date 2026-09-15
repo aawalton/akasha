@@ -27,6 +27,10 @@ export const qualifyRelationOnEveryPage = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "Those entries sit in the page's own body or in the entry file beside the page.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A run naming no field writes the key's own value.",
     },
     {
