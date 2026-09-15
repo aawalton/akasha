@@ -264,6 +264,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.ts","id":"01a064f6-a793-7d40-b075-7d7a7f1f133a"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-cooldown/state-cooldown.module.ts","id":"01a0725a-758c-7335-9600-2a7c8c1391a4"}
+{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.ts","id":"01a0a682-3acc-7b55-b488-e7b96ed58cac"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.ts","id":"01a072b8-a766-7b44-b1e8-c0c04920e385"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.ts","id":"01a09ca3-cbe9-7489-b97b-135b73b4be8a"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/status-bar-composing/status-bar-composing.module.ts","id":"01a0789c-53c4-7eae-9e56-7aa7e07e6e06"}
@@ -980,7 +981,6 @@
 {"propertySlug":"decision-kind","path":"command/modules/complexity-rowing/complexity-rowing.module.ts","id":"01a08ccb-ef46-7d67-8b4e-cc41cae3762e"}
 {"propertySlug":"decision-kind","path":"command/modules/draft-keeping/draft-keeping.module.ts","id":"01a094e0-4979-7d5e-af22-aa331354d3bf"}
 {"propertySlug":"decision-kind","path":"command/modules/during-call/during-call.module.ts","id":"01a05cb3-7cca-7613-8b60-5d8a19e74370"}
-{"propertySlug":"decision-kind","path":"command/modules/editor-state-landing/editor-state-landing.module.ts","id":"01a09ca7-7d86-7447-bd3f-e5e996e940ef"}
 {"propertySlug":"decision-kind","path":"command/modules/edits-landing/edits-landing.module.ts","id":"01a08132-ea7c-7ba6-972a-e1a6c95b5b76"}
 {"propertySlug":"decision-kind","path":"command/modules/fault-saying/fault-saying.module.ts","id":"01a04fea-ace5-7d39-9830-e4793edb0b2c"}
 {"propertySlug":"decision-kind","path":"command/modules/file-arguing/file-arguing.module.ts","id":"01a07bd4-e969-7d84-be28-cfc9777fb405"}

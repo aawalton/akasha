@@ -22,14 +22,6 @@ export const stateWriting = {
       statement: "The file written first is named for the process writing that file.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The pictures a landing writes are the pictures made from committed pages alone.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A landing writes those pictures whatever that landing changed.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here holds a picture between one write and the next.",
     },
@@ -37,6 +29,9 @@ export const stateWriting = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here watches a file or reads a clock.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here draws a picture, and no landing reaches this.",
+    },
   ],
-  reachedByPath: ["statesLanded"],
 } as const satisfies Module

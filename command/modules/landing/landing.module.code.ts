@@ -25,7 +25,7 @@ import {
   type Drafting,
   draftedBy,
 } from "akasha/command/modules/draft-keeping/draft-keeping.module.code.ts"
-import { editorStateLoading } from "akasha/command/modules/editor-state-landing/editor-state-landing.module.code.ts"
+
 import {
   clearedUnder,
   isFolder,
@@ -341,7 +341,6 @@ export async function landing(
   }
   allowedThrough()
   const keeping = await indexingLoaded()
-  const drawing = await editorStateLoading(root)
   return holding(root, () => {
     const base = baseOf(root)
     const paths = edits.map((one) => one.path)
@@ -387,7 +386,7 @@ export async function landing(
           const untracked = [...new Set([...aside.took, ...ignoredGone.took])].sort()
           aside.done()
           const gone = [...put.took, ...then.took, ...moves.map((one) => one.from), ...untracked]
-          const finished = finishedOver(root, gone, moves, homedir(), drawing)
+          const finished = finishedOver(root, gone, moves, homedir())
           return { ...finished, base, commit, wrote, took, noted, untracked }
         } catch (failed) {
           aside.back()

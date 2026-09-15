@@ -189,5 +189,14 @@ export const changePreparing = {
       decisionKind: "decision-kind/departure",
       statement: "Those answers are worked out over a change carrying every generated body.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The editor's pictures of the pages are drawn over that same change before the hold is taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture is a file the change carries rather than a file a landing writes.",
+    },
   ],
 } as const satisfies Module

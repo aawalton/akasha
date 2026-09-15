@@ -22,6 +22,7 @@ export const codeEditorDataInterface = {
     "module/page-tree-assemble",
     "module/service-tree-assemble",
     "module/state-cooldown",
+    "module/state-drawing",
     "module/state-reading",
     "module/state-writing",
     "module/status-bar-composing",
@@ -44,7 +45,11 @@ export const codeEditorDataInterface = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A landing writes the file of every picture made from committed pages alone.",
+      statement: "A landing carries the file of every picture made from committed pages alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a picture is drawn while the change is prepared rather than under the hold.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -41,7 +41,6 @@ export const command = {
     "module/complexity-rowing",
     "module/draft-keeping",
     "module/during-call",
-    "module/editor-state-landing",
     "module/edits-landing",
     "module/fault-saying",
     "module/file-arguing",

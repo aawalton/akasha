@@ -492,6 +492,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/state-cooldown/state-cooldown.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/status-bar-composing/status-bar-composing.module.ts"}
@@ -1171,7 +1172,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/declaring/command-declaring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/draft-keeping/draft-keeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/during-call/during-call.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/editor-state-landing/editor-state-landing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/edits-landing/edits-landing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/failing/command-failing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/fault-saying/fault-saying.module.ts"}

@@ -1,3 +1,4 @@
+import { drawnFor } from "akasha/alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"
 import { leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type {
   Adding,
@@ -150,7 +151,8 @@ export function preparing(
   ]
   const whole = made.length === 0 ? change : changeOf(root, base, [...rows, ...made])
   const carried = filingsFor(whole)
-  const added = [...made, ...carried.edits]
+  const drawn = drawnFor(whole)
+  const added = [...made, ...carried.edits, ...drawn.edits]
   return {
     formatting,
     authored: rows,
@@ -162,6 +164,7 @@ export function preparing(
       ...typed.said,
       ...written.said,
       ...carried.said,
+      ...drawn.said,
     ],
     over: added.length === 0 ? change : null,
   }

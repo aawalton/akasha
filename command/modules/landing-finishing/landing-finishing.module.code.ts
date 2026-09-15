@@ -1,8 +1,3 @@
-import {
-  type Drawing,
-  editorStateLanded,
-  NOTHING_DRAWN,
-} from "akasha/command/modules/editor-state-landing/editor-state-landing.module.code.ts"
 import { clearedOff } from "akasha/command/modules/folder-clearing/folder-clearing.module.code.ts"
 import {
   type Linking,
@@ -18,7 +13,6 @@ export type Finished = {
   readonly linked: Linking
   readonly placed: Linking
   readonly units: Linking
-  readonly drawn: Linking
 }
 
 export const NOTHING_FINISHED: Finished = {
@@ -26,20 +20,17 @@ export const NOTHING_FINISHED: Finished = {
   linked: NOTHING_LINKED,
   placed: NOTHING_LINKED,
   units: NOTHING_LINKED,
-  drawn: NOTHING_LINKED,
 }
 
 export function finishedOver(
   root: string,
   gone: readonly string[],
   moves: readonly FileMove[],
-  home: string,
-  drawing: Drawing = NOTHING_DRAWN
+  home: string
 ): Finished {
   const cleared = clearedOff(root, gone)
   const linked = linkedOver(root, moves, home)
   const placed = linkedInPlace(root, home)
   const units = unitsLanded(root, home)
-  const drawn = editorStateLanded(root, drawing)
-  return { cleared, linked, placed, units, drawn }
+  return { cleared, linked, placed, units }
 }

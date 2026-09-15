@@ -6,12 +6,11 @@ import {
   NOW,
 } from "akasha/agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts"
 import { colorOfState } from "akasha/agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"
-import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"
-import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
 import {
   assembleServiceTree,
   type ServiceNode,
 } from "akasha/alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.code.ts"
+import { wholePath } from "akasha/alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"
 import {
   ALAN,
   assembleForest,
@@ -19,23 +18,8 @@ import {
   subagentKey,
 } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { readSeatPlaces } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
-import { championTree } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 import { treeIn } from "akasha/command/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
-import { pageAnswers } from "akasha/command/pages/page/tree/page-tree.command.code.ts"
-import { domainRowsIn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
-import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-
-function wholePath(root: string, at: string | null | undefined): string | null {
-  if (at === undefined || at === null || at === "") return null
-  return at.startsWith("/") ? at : join(root, at)
-}
-
-function pathAfterRepo(root: string, at: string | null): string | null {
-  if (at === null) return null
-  const mark = at.indexOf(":")
-  return wholePath(root, mark === -1 ? at : at.slice(mark + 1))
-}
 
 type WorkNode = {
   readonly kind: WorkTreeRow["kind"]
@@ -76,61 +60,6 @@ export function workTreeLine(root: string): string {
     },
   ]
   return JSON.stringify({ roots } satisfies WorkTreeState)
-}
-
-type DomainNode = {
-  readonly slug: string
-  readonly relPath: string | null
-  readonly persona: string | null
-  readonly position: number | null
-  readonly children: readonly DomainNode[]
-}
-
-function domainRow(root: string, node: DomainNode): DomainTreeRow {
-  return {
-    key: node.slug,
-    label: node.slug,
-    at: wholePath(root, node.relPath),
-    color: null,
-    persona: node.persona,
-    position: node.position,
-    children: node.children.map((child) => domainRow(root, child)),
-  }
-}
-
-export function domainTreeLine(root: string, given: string | Reading = root): string {
-  const built = championTree(domainRowsIn(given))
-  return JSON.stringify({
-    roots: built.roots.map((node) => domainRow(root, node as DomainNode)),
-    unreached: built.unreached,
-  } satisfies DomainTreeState)
-}
-
-type PageNode = {
-  readonly id: string
-  readonly label: string
-  readonly at: string | null
-  readonly detail: string | null
-  readonly children: readonly PageNode[]
-}
-
-function pageRow(root: string, node: PageNode): PageTreeRow {
-  return {
-    key: node.id,
-    label: node.label,
-    at: pathAfterRepo(root, node.at),
-    color: null,
-    detail: node.detail,
-    children: node.children.map((child) => pageRow(root, child)),
-  }
-}
-
-export function pageTreeLine(root: string, given: string | Reading = root): string {
-  const built = assemblePageTree(pageAnswers(given), root)
-  return JSON.stringify({
-    roots: built.roots.map((node) => pageRow(root, node as PageNode)),
-    unreached: built.unreached,
-  } satisfies PageTreeState)
 }
 
 type AgentNodeIn = {
@@ -225,47 +154,6 @@ export function agentTreeLine(root: string): string {
     runningCount: countRunning(under),
     unreadSeats: 0,
   } satisfies AgentTreeState)
-}
-
-type CommandNode = {
-  readonly key: string
-  readonly label: string
-  readonly called: string
-  readonly kind: CommandTreeRow["kind"]
-  readonly at: string | null
-  readonly detail: string | null
-  readonly children: readonly CommandNode[]
-}
-
-function commandRow(root: string, node: CommandNode): CommandTreeRow {
-  return {
-    key: node.key,
-    label: node.label,
-    at: wholePath(root, node.at),
-    color: null,
-    kind: node.kind,
-    called: node.called,
-    detail: node.detail,
-    children: node.children.map((child) => commandRow(root, child)),
-  }
-}
-
-export function commandTreeLine(root: string, given: string | Reading = root): string {
-  const built = assembleCommandTree(given)
-  const under = built.roots.map((node) => commandRow(root, node))
-  const roots: readonly CommandTreeRow[] = [
-    {
-      kind: "root",
-      key: "root",
-      label: "commands",
-      called: "akasha",
-      at: null,
-      color: null,
-      detail: null,
-      children: under,
-    },
-  ]
-  return JSON.stringify({ roots, unreached: built.unreached } satisfies CommandTreeState)
 }
 
 function serviceRow(root: string, node: ServiceNode): ServiceTreeRow {

@@ -18,13 +18,8 @@ export const landingFinishing = {
       statement: "The units are kept after the links are placed.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The editor's pictures of the pages are written after the units are kept.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A picture that could not be written is answered rather than refusing the landing.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here draws a picture for the editor.",
     },
     {
       decisionKind: "decision-kind/departure",

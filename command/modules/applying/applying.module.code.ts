@@ -381,15 +381,8 @@ export async function applied(
       ...ended.linked.said,
       ...ended.placed.said,
       ...ended.units.said,
-      ...ended.drawn.said,
     ],
-    wrong: [
-      ...put.wrong,
-      ...ended.linked.wrong,
-      ...ended.placed.wrong,
-      ...ended.units.wrong,
-      ...ended.drawn.wrong,
-    ],
+    wrong: [...put.wrong, ...ended.linked.wrong, ...ended.placed.wrong, ...ended.units.wrong],
     commit: ended.commit,
     untracked: ended.untracked,
   }
