@@ -33,6 +33,10 @@ export const pageReferenceReading = {
       statement: "An answer comes back in one order.",
     },
     {
+      invariantKind: "departure",
+      statement: "A reading that answers nothing at all refuses rather than answering none.",
+    },
+    {
       invariantKind: "gap",
       statement: "A file that is missing reads as a page nothing references.",
     },

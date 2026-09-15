@@ -65,12 +65,14 @@ export function idsNaming(
 }
 
 export function importersOf(given: string | Reading, path: string): readonly string[] {
-  const owner = ownerOf(path)
-  if (owner === null) return []
-  const name = fileNameOf(path)
-  const found: string[] = []
-  for (const one of referencesFor(given, owner)) {
-    if (one.propertySlug === IMPORT && one.fileName === name) found.push(one.path)
-  }
-  return found.sort()
+  return answered(given, ROOT, `which files import \`${path}\``, (reading) => {
+    const owner = ownerOf(path)
+    if (owner === null) return []
+    const name = fileNameOf(path)
+    const found: string[] = []
+    for (const one of referencesFor(reading, owner)) {
+      if (one.propertySlug === IMPORT && one.fileName === name) found.push(one.path)
+    }
+    return found.sort()
+  })
 }
