@@ -2,7 +2,7 @@ import type { EsoOptInList } from "akasha/temper/eso-declaration/eso-opt-in-list
 
 export const declaredTokens = {
   id: "01a081b2-4fd7-7ffc-980f-4e10f179b9cd",
-  type: "eso-opt-in-list",
+  type: "page-type/eso-opt-in-list",
   slug: "declared-tokens",
   definition: "the eso api tokens the game's generated declarations carry",
   tokens: "json",
