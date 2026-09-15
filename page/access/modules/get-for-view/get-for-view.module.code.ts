@@ -1,8 +1,5 @@
 import type { PageCursor, PageOrder } from "akasha/page/access/modules/types/types.module.code.ts"
-import type {
-  Page,
-  PageWhere,
-} from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import type { Page, PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 
 export type GetPagesForViewArgs = {
   pageTypeId: string
