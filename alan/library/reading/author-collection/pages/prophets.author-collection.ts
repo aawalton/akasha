@@ -2,7 +2,7 @@ import type { AuthorCollection } from "akasha/alan/library/reading/author-collec
 
 export const prophets = {
   id: "01a06808-06b4-7008-9b38-b83cb9147f22",
-  type: "author-collection",
+  type: "page-type/author-collection",
   slug: "prophets",
   title: "Prophets",
   partOfCollections: ["author-collection/faith-authors"],
