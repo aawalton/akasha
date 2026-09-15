@@ -2,7 +2,7 @@ import type { TemperCompanionProgress } from "akasha/temper/character/temper-com
 
 export const ember = {
   id: "019dda20-e6b9-7e98-a576-7447b5f442f5",
-  type: "temper-companion-progress",
+  type: "page-type/temper-companion-progress",
   slug: "ember",
   title: "Ember",
   companionId: "ember",
