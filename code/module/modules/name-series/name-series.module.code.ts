@@ -98,7 +98,6 @@ export interface SeriesSpec {
   readonly names: readonly string[]
   readonly runDefinition: string
   readonly aggregateDefinition: string
-  readonly provenance: readonly string[]
 }
 
 export interface SeriesPage {
@@ -179,10 +178,6 @@ function renderAggregate(root: string, spec: SeriesSpec, runs: number, width: nu
       const at = importedFrom(codeRelOf(spec, slug))
       return `import { ${runBinding(spec.binding, i, width)} } from "${at}"`
     }),
-    "",
-    `export const ${spec.binding}_PROVENANCE: readonly string[] = [`,
-    ...spec.provenance.map((line) => `  ${JSON.stringify(line)},`),
-    "]",
     "",
     `export const ${spec.binding}: ReadonlySet<string> = new Set<string>([`,
     ...each((i) => `  ...${runBinding(spec.binding, i, width)},`),

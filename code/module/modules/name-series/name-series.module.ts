@@ -60,6 +60,10 @@ export const nameSeries = {
     },
     {
       invariantKind: "invariant-kind/absence",
+      statement: "The aggregate carries no note of where the census was read from.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
       statement: "An empty census renders nothing rather than a clean answer.",
     },
     {

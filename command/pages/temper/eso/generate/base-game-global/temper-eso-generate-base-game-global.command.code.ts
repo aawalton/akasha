@@ -32,10 +32,7 @@ import {
   saidShort,
   stagingAt,
 } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
-import {
-  esoCloneHeaderLines,
-  parseEsoDocApiVersion,
-} from "akasha/temper/eso-path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { parseEsoDocApiVersion } from "akasha/temper/eso-path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiSourceDir } from "akasha/temper/eso-path/modules/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-path/modules/lua-files/lua-files.module.code.ts"
 
@@ -70,7 +67,7 @@ export function temperEsoGenerateBaseGameGlobal(
   return staging(argv, given)
 }
 
-function staged(done: string[], taken: Taken, given: Given): Answer {
+function staged(done: string[], taken: Taken): Answer {
   const namedCheckout = taken.codeRoot
 
   let checkout: string
@@ -126,7 +123,7 @@ function staged(done: string[], taken: Taken, given: Given): Answer {
     apiVersion = parseEsoDocApiVersion(readFileSync(esoDocPathForLuaRoot(esoRoot), "utf8"))
   } catch (thrown) {
     return refused(
-      `the clone at ${esoRoot} states no API version, so a staged body would carry no stamp for the freshness audit to weigh — ${saidShort(thrown)}`,
+      `the clone at ${esoRoot} states no API version, so the landing would not say which version the census was read at — ${saidShort(thrown)}`,
       DATA
     )
   }
@@ -139,7 +136,6 @@ function staged(done: string[], taken: Taken, given: Given): Answer {
     runDefinition: "one run of the string ids the base game provides, in the whole census's order",
     aggregateDefinition:
       "every string id the base game provides, gathered from the runs holding them",
-    provenance: [...esoCloneHeaderLines(given.calledAs, apiVersion)],
   }
 
   const pages = renderSeries(checkout, spec)

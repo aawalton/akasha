@@ -181,7 +181,7 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
     apiVersion = parseEsoDocApiVersion(doc)
   } catch (thrown) {
     return refused(
-      `${docPath} states no API version, so a written declaration would carry no stamp for the freshness audit to weigh — ${saidShort(thrown)}`,
+      `${docPath} states no API version, so a written declaration would carry no stamp saying which version it was built from — ${saidShort(thrown)}`,
       DATA
     )
   }

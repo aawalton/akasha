@@ -1551,6 +1551,7 @@
 {"propertySlug":"invariant-kind","path":"temper/addons-resolve/modules/sibling-addons/sibling-addons.module.ts","id":"01a06060-ec40-72c6-b3e3-bb2631d6b18c"}
 {"propertySlug":"invariant-kind","path":"temper/addons-resolve/temper-addons-resolve.domain.ts","id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}
 {"propertySlug":"invariant-kind","path":"temper/build-deploy-check/modules/bundle-file-scan/bundle-file-scan.module.ts","id":"01a090a1-d412-774a-bbde-41fd710f05a3"}
+{"propertySlug":"invariant-kind","path":"temper/build-deploy-check/modules/eso-base-game-string-ids/eso-base-game-string-ids.module.ts","id":"01a06372-72ff-7026-81c6-4b3dcc1fde65"}
 {"propertySlug":"invariant-kind","path":"temper/build-deploy-check/modules/repo-root/repo-root.module.ts","id":"01a06287-7841-7b94-a9bc-853c9c556746"}
 {"propertySlug":"invariant-kind","path":"temper/build-support/modules/import-redirect/import-redirect.module.ts","id":"01a09097-3491-7938-9cab-3a376e69de9f"}
 {"propertySlug":"invariant-kind","path":"temper/build-support/temper-build-support.domain.ts","id":"01a0609f-53f7-7460-afb2-168bb75adada"}
