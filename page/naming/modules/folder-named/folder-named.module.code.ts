@@ -61,15 +61,18 @@ export function foldersUnder(
   root: string,
   from: string,
   to: string,
-  slug: string,
+  was: string,
+  now: string,
   paths: readonly string[]
 ): ReadonlyMap<string, string> {
   const found = new Map<string, string>([[from, to]])
   for (const folder of underFolders(paths, from)) {
     const above = found.get(dirname(folder)) ?? dirname(folder)
     const named = namingIn(filesIn(root, folder))
-    const under = named === null ? null : strippedOf(named, namesAbove(root, folder, from, slug))
-    found.set(folder, join(above, under ?? basename(folder)))
+    const before = named === null ? null : strippedOf(named, namesAbove(root, folder, from, was))
+    const after = named === null ? null : strippedOf(named, namesAbove(root, folder, from, now))
+    const takes = before === basename(folder) && after !== null ? after : basename(folder)
+    found.set(folder, join(above, takes))
   }
   return found
 }

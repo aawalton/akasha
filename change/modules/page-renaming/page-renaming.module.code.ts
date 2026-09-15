@@ -168,11 +168,12 @@ function underIn(
   world: World,
   from: string,
   to: string,
-  slug: string,
+  held: Held,
+  given: Asked,
   moved: ReadonlySet<string>
 ): readonly Move[] {
   const paths = world.under(from)
-  const folders = foldersUnder(world.root, from, to, slug, paths)
+  const folders = foldersUnder(world.root, from, to, held.slug, given.to, paths)
   const found: Move[] = []
   for (const path of paths) {
     if (moved.has(path)) continue
@@ -326,7 +327,7 @@ export function pageRenamed(world: World, given: Asked): Answer {
   const nowFolder = dirname(lands)
   if (nowFolder !== wasFolder) {
     moves.push(
-      ...underIn(world, wasFolder, nowFolder, given.to, new Set(moves.map((one) => one.from)))
+      ...underIn(world, wasFolder, nowFolder, held, given, new Set(moves.map((one) => one.from)))
     )
   }
   const moved = new Map(moves.map((one) => [one.from, one.to]))
