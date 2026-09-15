@@ -25,8 +25,12 @@ export const dockerfileImports = {
       statement: "The service's own folder is left out.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A reach that lands on no file refuses.",
+      decisionKind: "decision-kind/departure",
+      statement: "A reach landing on no file is left out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The graph answers what a service's entry files reach.",
     },
   ],
 } as const satisfies Module

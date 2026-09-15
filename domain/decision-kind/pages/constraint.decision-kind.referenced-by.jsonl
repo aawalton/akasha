@@ -275,7 +275,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/cluster-reach-synth/cluster-reach-synth.manifest.ts","id":"01a091dd-3f89-71f8-8712-76e7c7de9a53"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/provisioning/talos/modules/sops/sops.module.ts","id":"01a06813-7b0f-715d-8205-05e5a2b14b85"}
-{"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.ts","id":"01a06865-abff-7004-9336-61c7231edee3"}
 {"propertySlug":"decision-kind","path":"infrastructure/eso-rig/entrypoint/eso-rig-entrypoint.shell-script.ts","id":"01a06866-58f8-7ecd-b4cb-5a4541c4ce02"}
 {"propertySlug":"decision-kind","path":"infrastructure/eso-rig/eso-rig.domain.ts","id":"01a06866-58f8-7e5f-853a-325ce7e59667"}
 {"propertySlug":"decision-kind","path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.ts","id":"01a06866-58f8-7e1d-aa92-5be1e93a86f2"}

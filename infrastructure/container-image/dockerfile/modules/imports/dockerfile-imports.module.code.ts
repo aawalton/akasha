@@ -1,23 +1,14 @@
-import { existsSync, readFileSync, statSync } from "node:fs"
-import { dirname, join, relative, resolve } from "node:path"
+import { existsSync, statSync } from "node:fs"
+import { dirname, join } from "node:path"
+import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
+import { bodiesAt } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { Glob } from "bun"
 
 const SOURCE_GLOB = new Glob("**/*.{ts,tsx,mts,js,jsx,mjs}")
 const SOURCE_EXTENSIONS = [".ts", ".tsx", ".mts", ".js", ".jsx", ".mjs"] as const
-const RESOLVE_SUFFIXES = [
-  "",
-  ".ts",
-  ".tsx",
-  ".mts",
-  ".js",
-  ".jsx",
-  ".mjs",
-  "/index.ts",
-  "/index.tsx",
-  "/index.js",
-] as const
-const ROOT_PACKAGE = "akasha"
 
 function isTestOrDeclaration(relPath: string): boolean {
   return relPath.endsWith(".d.ts") || /\.test\.tsx?$/.test(relPath)
@@ -41,56 +32,21 @@ export function listEntryRoots(appDir: string): readonly string[] {
   for (const match of SOURCE_GLOB.scanSync({ cwd: absRoot, dot: false })) {
     if (match.includes("node_modules/")) continue
     if (isTestOrDeclaration(match)) continue
-    roots.push(join(absRoot, match))
+    roots.push(join(rootDir, match))
   }
   return roots.sort()
 }
 
-function resolveFilePath(base: string): string | null {
-  for (const suffix of RESOLVE_SUFFIXES) {
-    const candidate = base + suffix
-    if (existsSync(candidate) && statSync(candidate).isFile()) return candidate
-  }
-  if (base.endsWith(".js")) {
-    const swapped = `${base.slice(0, -3)}.ts`
-    if (existsSync(swapped)) return swapped
-  }
-  return null
+function heldAt(path: string): boolean {
+  return statSync(join(ROOT, path), { throwIfNoEntry: false })?.isFile() === true
 }
 
-function splitBareSpecifier(specifier: string): { name: string; subpath: string } {
-  const parts = specifier.split("/")
-  if (specifier.startsWith("@")) {
-    return { name: parts.slice(0, 2).join("/"), subpath: parts.slice(2).join("/") }
-  }
-  return { name: parts[0] ?? specifier, subpath: parts.slice(1).join("/") }
-}
-
-const transpilers = new Map<string, Bun.Transpiler>()
-
-function transpilerFor(file: string): Bun.Transpiler {
-  const loader = file.endsWith(".tsx")
-    ? "tsx"
-    : file.endsWith(".jsx")
-      ? "jsx"
-      : file.endsWith(".js") || file.endsWith(".mjs")
-        ? "js"
-        : "ts"
-  let transpiler = transpilers.get(loader)
-  if (transpiler == null) {
-    transpiler = new Bun.Transpiler({ loader })
-    transpilers.set(loader, transpiler)
-  }
-  return transpiler
-}
-
-function foldedDirs(files: ReadonlySet<string>, appDir: string): readonly string[] {
-  const appAt = join(ROOT, appDir)
+function foldedDirs(files: readonly string[], appDir: string): readonly string[] {
   const held = new Set<string>()
   for (const file of files) {
-    if (file === appAt || file.startsWith(`${appAt}/`)) continue
-    const at = relative(ROOT, dirname(file))
-    if (at === "" || at.startsWith("..")) continue
+    if (file.startsWith(`${appDir}/`)) continue
+    const at = dirname(file)
+    if (at === ".") continue
     held.add(at)
   }
   const every = [...held]
@@ -100,52 +56,10 @@ function foldedDirs(files: ReadonlySet<string>, appDir: string): readonly string
 }
 
 export function collectExecutedDeps(appDir: string): readonly string[] {
-  const visited = new Set<string>()
-  const queue = [...listEntryRoots(appDir)]
-
-  while (queue.length > 0) {
-    const file = queue.pop()
-    if (file === undefined) break
-    if (visited.has(file)) continue
-    visited.add(file)
-
-    let source: string
-    try {
-      source = readFileSync(file, "utf-8")
-    } catch {
-      continue
-    }
-
-    let specifiers: readonly { readonly path: string }[]
-    try {
-      specifiers = transpilerFor(file).scanImports(source)
-    } catch (cause) {
-      throw new Error(`Cannot scan imports of ${file}`, { cause })
-    }
-
-    for (const { path: specifier } of specifiers) {
-      if (specifier.startsWith("node:") || specifier === "bun" || specifier.startsWith("bun:")) {
-        continue
-      }
-      if (specifier.startsWith(".")) {
-        const target = resolveFilePath(resolve(dirname(file), specifier))
-        if (target != null && isSourceFile(target)) queue.push(target)
-        continue
-      }
-
-      const { name, subpath } = splitBareSpecifier(specifier)
-      if (name === ROOT_PACKAGE) {
-        const held = resolveFilePath(join(ROOT, subpath))
-        if (held == null) {
-          throw new Error(
-            `${file} imports "${specifier}", which the root package answers by path, and ${join(ROOT, subpath)} is not there. ` +
-              `The image would carry the folder and still fail to resolve it.`
-          )
-        }
-        if (isSourceFile(held)) queue.push(held)
-      }
-    }
-  }
-
-  return foldedDirs(visited, appDir)
+  const reached = closureOf(imports, listEntryRoots(appDir), {
+    index: shadowAt(ROOT).index,
+    bodyAt: bodiesAt(ROOT),
+    through: (one) => isSourceFile(one) && heldAt(one),
+  })
+  return foldedDirs(reached, appDir)
 }
