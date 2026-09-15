@@ -8,11 +8,11 @@ export const rootNonceLoader = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A root route names this loader rather than spelling a loader of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The nonce answered is the one the app's server put on the load context.",
     },
   ],
