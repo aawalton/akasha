@@ -110,6 +110,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/permission-denied/permission-denied.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/proxy-headers/proxy-headers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/proxy-process/proxy-process.module.ts"}

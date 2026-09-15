@@ -38,6 +38,7 @@ export const modelGateway = {
     "module/permission-denied",
     "module/permission-denied-rebind",
     "module/pre-forward-queue",
+    "module/provider-upstream",
     "module/proxy-entry",
     "module/proxy-headers",
     "module/proxy-process",

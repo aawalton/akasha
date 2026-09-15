@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/account/modules/making/model-account-making.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/account/modules/usage/model-account-usage.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
