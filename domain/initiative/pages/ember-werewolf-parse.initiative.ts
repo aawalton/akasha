@@ -8,11 +8,6 @@ export const emberWerewolfParse = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "Three-Color Stalker's parse gear is enchanted.",
-      workingMemory:
-        "The seven armour pieces each take a gold Glyph of Stamina. All three jewellery slots take a gold Glyph of Increase Physical Harm, the Shattered Paths Signet included, which ships with a Reduce Prismatic Cost enchantment worth overwriting. The main-hand mace takes a Glyph of Poison and the off-hand mace a Glyph of Flame.\n",
-    },
-    {
       statement: "Three-Color Stalker wears the full Update 50 Savage Werewolf parse setup.",
       workingMemory:
         "The twelve slots are a Medium Divines Slimecraw head, Medium Divines Savage Werewolf shoulders, five Light Divines Order's Wrath body pieces, an Infused Savage Werewolf necklace and ring, the Shattered Paths Signet, and two Charged Savage Werewolf maces. The gold Slimecraw mask and the Signet are already in the ESO Plus bank. This is the guide's No Trial Gear variant, which sims 176.7k. An inventory capture after equipping shows this done; the last is from 29 August.\n",
