@@ -2,7 +2,7 @@ import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-comp
 
 export const armorLight = {
   id: "01a05fce-c49d-7c29-aa65-daaf2026a17e",
-  type: "temper-companion-skill-line",
+  type: "page-type/temper-companion-skill-line",
   slug: "armor-light",
   key: "armor-light",
   title: "Light Armor",

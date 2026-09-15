@@ -2,7 +2,7 @@ import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-comp
 
 export const companionEmberMischievousCaster = {
   id: "01a05fce-c4a1-7248-babc-2a6c02f272ec",
-  type: "temper-companion-skill-line",
+  type: "page-type/temper-companion-skill-line",
   slug: "companion-ember-mischievous-caster",
   key: "companion-ember-mischievous-caster",
   title: "Mischievous Caster",

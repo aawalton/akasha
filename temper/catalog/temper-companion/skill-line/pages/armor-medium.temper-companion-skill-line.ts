@@ -2,7 +2,7 @@ import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-comp
 
 export const armorMedium = {
   id: "01a05fce-c49d-71db-9336-0988f8347a1d",
-  type: "temper-companion-skill-line",
+  type: "page-type/temper-companion-skill-line",
   slug: "armor-medium",
   key: "armor-medium",
   title: "Medium Armor",

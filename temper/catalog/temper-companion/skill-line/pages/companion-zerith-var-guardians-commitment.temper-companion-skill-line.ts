@@ -2,7 +2,7 @@ import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-comp
 
 export const companionZerithVarGuardiansCommitment = {
   id: "01a05fce-c4a8-7997-a800-4bc29998ae53",
-  type: "temper-companion-skill-line",
+  type: "page-type/temper-companion-skill-line",
   slug: "companion-zerith-var-guardians-commitment",
   key: "companion-zerith-var-guardians-commitment",
   title: "Guardian's Commitment",

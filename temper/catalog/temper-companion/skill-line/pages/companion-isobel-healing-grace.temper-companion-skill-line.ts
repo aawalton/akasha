@@ -2,7 +2,7 @@ import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-comp
 
 export const companionIsobelHealingGrace = {
   id: "01a05fce-c4a3-7b1d-b45f-dc2c86c50684",
-  type: "temper-companion-skill-line",
+  type: "page-type/temper-companion-skill-line",
   slug: "companion-isobel-healing-grace",
   key: "companion-isobel-healing-grace",
   title: "Healing Grace",

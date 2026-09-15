@@ -2,7 +2,7 @@ import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-comp
 
 export const companionSharpAsNightBeastsOfTheHunt = {
   id: "01a05fce-c4a5-7e03-a0cc-0290376bb018",
-  type: "temper-companion-skill-line",
+  type: "page-type/temper-companion-skill-line",
   slug: "companion-sharp-as-night-beasts-of-the-hunt",
   key: "companion-sharp-as-night-beasts-of-the-hunt",
   title: "Beasts of the Hunt",
