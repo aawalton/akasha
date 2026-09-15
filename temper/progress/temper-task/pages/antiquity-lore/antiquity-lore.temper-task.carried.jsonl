@@ -2,11 +2,11 @@
 {"character":"erin-solstice"}
 {"completionCardId":"antiquity-lore"}
 {"displayOrder":0}
-{"dueDate":"2026-09-15"}
+{"dueDate":"2026-09-22"}
 {"effectiveCharacter":"erin-solstice"}
 {"esoCharacterId":"8796093022338107"}
 {"id":"019db533-f381-762c-874e-b381b6005239"}
-{"lastCompletedAt":"2026-09-10T20:54:04.739Z"}
+{"lastCompletedAt":"2026-09-15T22:23:12.878Z"}
 {"priority":"p2"}
 {"rruleAnchorFromCompletion":false}
 {"rruleRule":"FREQ=WEEKLY"}
