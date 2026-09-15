@@ -17,10 +17,10 @@ import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/n
 import { characterUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { classes } from "akasha/temper/character-class/modules/character-class/character-class.module.code.ts"
+import { type RaceId, races } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import { getRoleName } from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
 import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
-import { type RaceId, races } from "akasha/temper/races/modules/races/races.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { FolderOpen } from "lucide-react"
 

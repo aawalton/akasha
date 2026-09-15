@@ -93,7 +93,7 @@ export const temper = {
     "domain/temper-player-profile",
     "domain/temper-progress",
     "domain/temper-quests-trace",
-    "domain/temper-races",
+    "domain/temper-character-race",
     "domain/temper-saved-variables",
     "domain/temper-saved-vars-migration",
     "domain/temper-settings-panel",

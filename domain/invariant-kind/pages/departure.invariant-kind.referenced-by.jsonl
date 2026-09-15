@@ -3368,6 +3368,8 @@
 {"propertySlug":"invariant-kind","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
 {"propertySlug":"invariant-kind","path":"temper/champion-point/temper-champion-point.domain.ts","id":"01a06076-1b64-7dfd-b35b-f6c86003f6c1"}
 {"propertySlug":"invariant-kind","path":"temper/character-build/modules/race-source/race-source.module.ts","id":"01a061a7-9bb3-769a-973c-5b550c916d32"}
+{"propertySlug":"invariant-kind","path":"temper/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
+{"propertySlug":"invariant-kind","path":"temper/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skills-00/character-skills-00.module.ts","id":"01a06182-7818-7e29-abd6-c2963db70f64"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skills-01/character-skills-01.module.ts","id":"01a06182-7819-71e6-858d-af00abb1471b"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skills-02/character-skills-02.module.ts","id":"01a06182-781a-7fd3-a2e9-7faf720efdcc"}
@@ -5022,8 +5024,6 @@
 {"propertySlug":"invariant-kind","path":"temper/quests-addon/temper-quests-addon.eso-addon.ts","id":"01a0635f-391c-765a-af94-26f3ecd9702f"}
 {"propertySlug":"invariant-kind","path":"temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
 {"propertySlug":"invariant-kind","path":"temper/quests-trace/temper-quests-trace.domain.ts","id":"01a06098-98a2-7c25-8f77-066842973eb3"}
-{"propertySlug":"invariant-kind","path":"temper/races/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
-{"propertySlug":"invariant-kind","path":"temper/races/temper-races.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
 {"propertySlug":"invariant-kind","path":"temper/saved-variables/modules/account-wide/account-wide.module.ts","id":"01a06053-3636-700a-9f99-a7c1b8442ab7"}
 {"propertySlug":"invariant-kind","path":"temper/saved-variables/modules/lua-array/lua-array.module.ts","id":"01a06053-3636-7157-ade2-a72c0d19b41c"}
 {"propertySlug":"invariant-kind","path":"temper/saved-variables/modules/lua-parser/lua-parser.module.ts","id":"01a06053-3635-710f-8f31-18095cf8a395"}

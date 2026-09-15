@@ -2771,6 +2771,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-build/modules/build-types/build-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-build/modules/race-source/race-source.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-class/modules/character-class/character-class.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-race/modules/race-icon-url/race-icon-url.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-race/modules/races/races.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-skill/modules/character-skill-template/character-skill-template.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-skill/modules/character-skills-00/character-skills-00.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-skill/modules/character-skills-01/character-skills-01.module.ts"}
@@ -6040,8 +6042,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-trace-buffer/quests-trace-buffer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-trace/quests-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/races/modules/race-icon-url/race-icon-url.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/races/modules/races/races.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variables/modules/account-wide/account-wide.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variables/modules/lua-array/lua-array.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variables/modules/lua-parser/lua-parser.module.ts"}

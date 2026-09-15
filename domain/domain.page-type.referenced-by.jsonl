@@ -554,6 +554,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/champion-point/temper-champion-point.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-build/temper-character-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-class/temper-character-class.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-race/temper-character-race.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-skill/temper-character-skill.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-source/temper-character-source.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-stat/temper-character-stat.domain.ts"}
@@ -613,7 +614,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-profile/temper-player-profile.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/progress/temper-progress.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/quests-trace/temper-quests-trace.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/races/temper-races.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/saved-variables/temper-saved-variables.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/settings-panel/temper-settings-panel.domain.ts"}
