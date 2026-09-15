@@ -2,7 +2,7 @@ import type { RouterApp } from "akasha/code/router-app/router-app.page-type.type
 
 export const smilingjennyWeb = {
   id: "01a06558-c2cc-700f-95e8-f8ba5ccafe1e",
-  type: "router-app",
+  type: "page-type/router-app",
   slug: "smilingjenny-web",
   definition: "the routes Jenny's site serves to a browser",
   tunnelRoutes: "ts",
