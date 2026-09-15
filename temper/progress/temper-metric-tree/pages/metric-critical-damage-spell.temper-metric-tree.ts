@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricCriticalDamageSpell = {
   id: "019e2fcd-597a-70c8-9fbb-f4969e37d3ee",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-critical-damage-spell",
   title: "Critical Damage Spell",
   nodeId: "critical-damage-spell",

@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricHaOverload = {
   id: "019e2fcd-59c3-7365-9c25-46f62160810b",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-ha-overload",
   title: "Ha Overload",
   nodeId: "ha-overload",

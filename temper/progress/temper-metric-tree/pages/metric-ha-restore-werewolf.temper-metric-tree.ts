@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricHaRestoreWerewolf = {
   id: "019e2fcd-5a12-703f-a38c-b68836517d0b",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-ha-restore-werewolf",
   title: "Ha Restore Werewolf",
   nodeId: "ha-restore-werewolf",

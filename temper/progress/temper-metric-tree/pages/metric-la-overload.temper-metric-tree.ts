@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricLaOverload = {
   id: "019e2fcd-59a0-77ae-b3fd-7e0b8c38f051",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-la-overload",
   title: "La Overload",
   nodeId: "la-overload",

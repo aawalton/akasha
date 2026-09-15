@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricHaBow = {
   id: "019e2fcd-59ba-7cbc-9512-2e65587b7eaf",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-ha-bow",
   title: "Ha Bow",
   nodeId: "ha-bow",

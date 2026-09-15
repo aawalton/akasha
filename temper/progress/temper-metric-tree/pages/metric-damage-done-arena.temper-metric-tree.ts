@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricDamageDoneArena = {
   id: "019e2fcd-596b-7f1f-b0bb-3355eaffe9f5",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-damage-done-arena",
   title: "Damage Done Arena",
   nodeId: "damage-done-arena",

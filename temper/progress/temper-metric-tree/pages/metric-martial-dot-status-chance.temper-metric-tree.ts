@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricMartialDotStatusChance = {
   id: "019e2fcd-59e5-707d-85c7-32f36dcf9e32",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-martial-dot-status-chance",
   title: "Martial Dot Status Chance",
   nodeId: "martial-dot-status-chance",

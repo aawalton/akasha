@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricBreakFreeDuration = {
   id: "019e2fcd-5ac1-77c9-841e-68ef3b30fe01",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-break-free-duration",
   title: "Break Free Duration",
   nodeId: "break-free-duration",

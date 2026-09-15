@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const categoryMobility = {
   id: "019e2fcd-5a73-7595-9423-c9217b1f0516",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "category-mobility",
   title: "Mobility",
   nodeId: "mobility",

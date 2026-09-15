@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricHealingEffectiveSelfPower = {
   id: "019e2fcd-5a61-7189-908d-45583abcc2bc",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-healing-effective-self-power",
   title: "Healing Effective Self Power",
   nodeId: "healing-effective-self-power",

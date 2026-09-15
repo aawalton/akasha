@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricDefenseCritDmg = {
   id: "019e2fcd-5a42-7a67-9457-5588e44370b9",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-defense-crit-dmg",
   title: "Defense Crit Dmg",
   nodeId: "defense-crit-dmg",

@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricBlockCostReduction = {
   id: "019e2fcd-5a83-78bb-b7e6-668af06796e2",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-block-cost-reduction",
   title: "Block Cost Reduction",
   nodeId: "block-cost-reduction",

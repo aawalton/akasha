@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricFearDuration = {
   id: "019e2fcd-5ac2-7c06-9ff2-06054e039944",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-fear-duration",
   title: "Fear Duration",
   nodeId: "fear-duration",

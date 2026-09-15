@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricHaRestoreFireFrostStaff = {
   id: "019e2fcd-5a0d-718b-a247-6d8a9b84eb76",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-ha-restore-fire-frost-staff",
   title: "Ha Restore Fire Frost Staff",
   nodeId: "ha-restore-fire-frost-staff",

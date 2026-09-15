@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricEffectiveHealthPhysical = {
   id: "019e2fcd-5a1a-7b1c-acfb-b2973d49c013",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-effective-health-physical",
   title: "Effective Health Physical",
   nodeId: "effective-health-physical",

@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricBlockMitigation = {
   id: "019e2fcd-5a84-7c29-a2f2-552f18ee26f4",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-block-mitigation",
   title: "Block Mitigation",
   nodeId: "block-mitigation",

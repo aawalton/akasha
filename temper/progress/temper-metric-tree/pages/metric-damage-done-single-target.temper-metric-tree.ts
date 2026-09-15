@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricDamageDoneSingleTarget = {
   id: "019e2fcd-5974-71a3-8297-b3631b07592e",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-damage-done-single-target",
   title: "Damage Done Single Target",
   nodeId: "damage-done-single-target",

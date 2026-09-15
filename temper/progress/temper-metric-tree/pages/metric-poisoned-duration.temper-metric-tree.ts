@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricPoisonedDuration = {
   id: "019e2fcd-59ce-7fa7-a05c-55a69e9e04e1",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-poisoned-duration",
   title: "Poisoned Duration",
   nodeId: "poisoned-duration",

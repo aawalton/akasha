@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricHealthRestore = {
   id: "019e2fcd-5a1f-7587-a6af-18ac8a86f60a",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-health-restore",
   title: "Health Restore",
   nodeId: "health-restore",

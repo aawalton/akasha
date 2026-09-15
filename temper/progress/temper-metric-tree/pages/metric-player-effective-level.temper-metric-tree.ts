@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricPlayerEffectiveLevel = {
   id: "019e2fcd-5ac4-706c-82e6-df145309463e",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-player-effective-level",
   title: "Player Effective Level",
   nodeId: "player-effective-level",

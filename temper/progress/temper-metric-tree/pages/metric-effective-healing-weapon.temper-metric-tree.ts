@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricEffectiveHealingWeapon = {
   id: "019e2fcd-5a5e-7ac8-b301-c686225810d5",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-effective-healing-weapon",
   title: "Effective Healing Weapon",
   nodeId: "effective-healing-weapon",

@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const categorySustain = {
   id: "019e2fcd-59ef-7191-962f-232e3227f80b",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "category-sustain",
   title: "Sustain",
   nodeId: "sustain",

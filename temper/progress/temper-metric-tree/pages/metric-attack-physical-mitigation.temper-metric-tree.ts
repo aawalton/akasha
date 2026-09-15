@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricAttackPhysicalMitigation = {
   id: "019e2fcd-59e9-7a35-950f-8cfd173471f9",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-attack-physical-mitigation",
   title: "Attack Physical Mitigation",
   nodeId: "attack-physical-mitigation",

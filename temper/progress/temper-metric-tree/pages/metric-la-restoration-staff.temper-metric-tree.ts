@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricLaRestorationStaff = {
   id: "019e2fcd-59a1-7810-9c2a-a675499ecf3f",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-la-restoration-staff",
   title: "La Restoration Staff",
   nodeId: "la-restoration-staff",

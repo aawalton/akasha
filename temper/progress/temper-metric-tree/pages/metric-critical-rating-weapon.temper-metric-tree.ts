@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricCriticalRatingWeapon = {
   id: "019e2fcd-597d-7fa7-b954-d99b295e3d3c",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-critical-rating-weapon",
   title: "Critical Rating Weapon",
   nodeId: "critical-rating-weapon",

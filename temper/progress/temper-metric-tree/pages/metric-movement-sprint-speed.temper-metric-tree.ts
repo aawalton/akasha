@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricMovementSprintSpeed = {
   id: "019e2fcd-5a79-7d6a-90f8-63dfdd43cf19",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-movement-sprint-speed",
   title: "Movement Sprint Speed",
   nodeId: "movement-sprint-speed",

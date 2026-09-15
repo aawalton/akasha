@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricBloodthirstySpellDamage = {
   id: "019e2fcd-59ec-7e2b-a73f-1c44fafcf76a",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-bloodthirsty-spell-damage",
   title: "Bloodthirsty Spell Damage",
   nodeId: "bloodthirsty-spell-damage",

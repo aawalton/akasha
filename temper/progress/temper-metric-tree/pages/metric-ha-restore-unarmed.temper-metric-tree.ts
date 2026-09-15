@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricHaRestoreUnarmed = {
   id: "019e2fcd-5a10-788f-9e73-a1aa4742b514",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-ha-restore-unarmed",
   title: "Ha Restore Unarmed",
   nodeId: "ha-restore-unarmed",

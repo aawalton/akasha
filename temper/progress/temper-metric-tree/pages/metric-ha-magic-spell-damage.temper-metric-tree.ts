@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricHaMagicSpellDamage = {
   id: "019e2fcd-59b0-744e-b0c2-455da81dc4cb",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-ha-magic-spell-damage",
   title: "Ha Magic Spell Damage",
   nodeId: "ha-magic-spell-damage",

@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricHaRestoreDw = {
   id: "019e2fcd-5a0b-7f6a-b505-abb72805fc3e",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-ha-restore-dw",
   title: "Ha Restore Dw",
   nodeId: "ha-restore-dw",

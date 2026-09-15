@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricMountedRunSpeed = {
   id: "019e2fcd-5a7e-7b37-8fff-31c0db7636e9",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-mounted-run-speed",
   title: "Mounted Run Speed",
   nodeId: "mounted-run-speed",

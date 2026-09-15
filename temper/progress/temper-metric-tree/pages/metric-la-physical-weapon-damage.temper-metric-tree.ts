@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricLaPhysicalWeaponDamage = {
   id: "019e2fcd-5997-7549-8fb6-178aaf9218da",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-la-physical-weapon-damage",
   title: "La Physical Weapon Damage",
   nodeId: "la-physical-weapon-damage",
