@@ -2,7 +2,7 @@ import type { RoyalRoadAccount } from "akasha/alan/collection/royal-road-account
 
 export const alan = {
   id: "01a01257-3e4f-7000-a256-37b02dd285cb",
-  type: "royal-road-account",
+  type: "page-type/royal-road-account",
   slug: "alan",
   email: "aawalton@gmail.com",
 } as const satisfies RoyalRoadAccount
