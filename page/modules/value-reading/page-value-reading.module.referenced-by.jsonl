@@ -145,6 +145,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/modules/change-walking/change-walking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/modules/measuring/check-measuring.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/modules/refusal-text/refusal-text.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/editor/extension/modules/palette/palette.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/editor/extension/modules/palette/palette.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/ios-app/modules/app-building/app-building.module.code.ts"}

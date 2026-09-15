@@ -1,6 +1,7 @@
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { generatorKind } from "akasha/page/generator-kind/generator-kind.page-type.ts"
 import { uuidV7 } from "akasha/page/generator-kind/pages/uuid-v7.generator-kind.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
@@ -16,7 +17,7 @@ type Named = {
 function pagesUnder(folder: string, values: readonly Named[]): Readonly<Record<string, string>> {
   const found: Record<string, string> = {}
   for (const value of values) {
-    found[`${folder}/${value.slug}.${value.type}.ts`] =
+    found[`${folder}/${value.slug}.${slugOf(value.type)}.ts`] =
       `export const it = ${JSON.stringify(value)} as const\n`
   }
   return found

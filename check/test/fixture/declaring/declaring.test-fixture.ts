@@ -46,5 +46,10 @@ export const declaring = {
       invariantKind: "invariant-kind/departure",
       statement: "A world is served the same way whichever set of pages that world asks for.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A page naming its type by an address is filed under the slug that address ends in.",
+    },
   ],
 } as const satisfies TestFixture
