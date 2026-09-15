@@ -1,5 +1,5 @@
-import type { DropsScripts } from "akasha/temper/catalog/temper-world/properties/drops-scripts.boolean-property.types.ts"
-import type { IsDlc } from "akasha/temper/catalog/temper-world/properties/is-dlc.boolean-property.types.ts"
+import type { DropsScripts } from "akasha/temper/catalog/temper-world/temper-zone/properties/drops-scripts.boolean-property.types.ts"
+import type { IsDlc } from "akasha/temper/catalog/temper-world/temper-zone/properties/is-dlc.boolean-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 
 export type TemperZone = TemperCatalogThing & {

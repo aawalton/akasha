@@ -1,5 +1,5 @@
-import type { AltName } from "akasha/temper/catalog/temper-world/properties/alt-name.text-property.types.ts"
-import type { EsoRaceId } from "akasha/temper/catalog/temper-world/properties/eso-race-id.number-property.types.ts"
+import type { AltName } from "akasha/temper/catalog/temper-world/temper-race/properties/alt-name.text-property.types.ts"
+import type { EsoRaceId } from "akasha/temper/catalog/temper-world/temper-race/properties/eso-race-id.number-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 
