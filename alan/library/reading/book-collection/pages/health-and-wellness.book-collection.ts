@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const healthAndWellness = {
   id: "01a06808-148e-7025-b58e-99fcf9f280bf",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "health-and-wellness",
   title: "Health & Wellness",
   partOfCollections: ["book-collection/audible"],

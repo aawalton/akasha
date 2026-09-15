@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const harryPotterBooks = {
   id: "01a06808-148e-7024-a2c4-b2920bc5e366",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "harry-potter-books",
   title: "Harry Potter Books",
   partOfCollections: ["fandom/harry-potter"],

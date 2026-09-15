@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const humanxCommonwealth = {
   id: "01a06808-148e-702b-8521-f2e9220a813f",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "humanx-commonwealth",
   title: "Humanx Commonwealth",
   partOfCollections: ["author/alan-dean-foster"],

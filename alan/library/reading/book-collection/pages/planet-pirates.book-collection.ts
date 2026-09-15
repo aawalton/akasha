@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const planetPirates = {
   id: "01a06808-148f-700a-9aee-37b9d1f40bd1",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "planet-pirates",
   title: "Planet Pirates",
   partOfCollections: ["author/anne-mccaffrey"],

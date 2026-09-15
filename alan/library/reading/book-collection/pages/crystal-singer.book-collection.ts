@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const crystalSinger = {
   id: "01a06808-148e-7014-b195-e0cc3f7ef599",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "crystal-singer",
   title: "Crystal Singer",
   partOfCollections: ["author/anne-mccaffrey"],

@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theTreasonOfIsengard = {
   id: "01a06808-148f-7033-9838-a48808f0ddeb",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "the-treason-of-isengard",
   title: "The Treason of Isengard",
   partOfCollections: ["book-collection/the-history-of-middle-earth"],

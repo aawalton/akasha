@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const cytoverse = {
   id: "01a06808-148e-7015-9a3d-1fd2381f8643",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "cytoverse",
   title: "Cytoverse",
   partOfCollections: ["book-collection/brandon-sanderson-s-non-cosmere-books"],

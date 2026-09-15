@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const freedomCatteni = {
   id: "01a06808-148e-7023-8d44-713d7b834054",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "freedom-catteni",
   title: "Freedom (Catteni)",
   partOfCollections: ["author/anne-mccaffrey"],

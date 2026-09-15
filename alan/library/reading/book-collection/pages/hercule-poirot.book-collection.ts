@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const herculePoirot = {
   id: "01a06808-148e-7026-afbc-eb1b805c9113",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "hercule-poirot",
   title: "Hercule Poirot",
   partOfCollections: ["author/agatha-christie"],

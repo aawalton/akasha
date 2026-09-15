@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theCollectedWordsOfNealAMaxwellVolume6 = {
   id: "01a06808-148f-7020-ab66-5a93fac9a214",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "the-collected-words-of-neal-a-maxwell-volume-6",
   title: "The Collected Words of Neal A. Maxwell Volume 6",
   partOfCollections: ["book-collection/the-collected-words-of-neal-a-maxwell"],

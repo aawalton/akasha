@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theSilmarillion = {
   id: "01a06808-148f-7031-9c8e-d2682eebe32b",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "the-silmarillion",
   title: "The Silmarillion",
   partOfCollections: ["book-collection/the-lord-of-the-rings-books"],

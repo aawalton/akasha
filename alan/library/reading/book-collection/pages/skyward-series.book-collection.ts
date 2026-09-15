@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const skywardSeries = {
   id: "01a06808-148f-7011-a229-80513c4bc717",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "skyward-series",
   title: "Skyward Series",
   partOfCollections: ["book-collection/cytoverse"],

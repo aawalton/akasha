@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theFoundersConstitution = {
   id: "01a06808-148f-7023-9561-14566d950ca7",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "the-founders-constitution",
   title: "The Founders Constitution",
   partOfCollections: ["book-collection/commentaries"],

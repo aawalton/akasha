@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theThirteenProblems = {
   id: "01a06808-148f-7032-8669-ea78f52cb1c9",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "the-thirteen-problems",
   title: "The Thirteen Problems",
   partOfCollections: ["book-collection/miss-marple"],

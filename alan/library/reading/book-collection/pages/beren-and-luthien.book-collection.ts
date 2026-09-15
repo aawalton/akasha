@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const berenAndLuthien = {
   id: "01a06808-148e-7005-910b-18b3952cff69",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "beren-and-luthien",
   title: "Beren and Lúthien",
   partOfCollections: ["book-collection/the-lord-of-the-rings-books"],

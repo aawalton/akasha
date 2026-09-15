@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const talent = {
   id: "01a06808-148f-7014-be21-6a7b03ee73ff",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "talent",
   title: "Talent",
   partOfCollections: ["author/anne-mccaffrey"],

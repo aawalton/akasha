@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theHistoryOfMiddleEarth = {
   id: "01a06808-148f-7025-988b-c8b1e697b6e3",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "the-history-of-middle-earth",
   title: "The History of Middle-earth",
   partOfCollections: ["book-collection/the-lord-of-the-rings-books"],

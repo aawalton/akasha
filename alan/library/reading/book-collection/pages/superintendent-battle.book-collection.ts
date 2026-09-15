@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const superintendentBattle = {
   id: "01a06808-148f-7012-aadf-3a0e057b5585",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "superintendent-battle",
   title: "Superintendent Battle",
   partOfCollections: ["author/agatha-christie"],

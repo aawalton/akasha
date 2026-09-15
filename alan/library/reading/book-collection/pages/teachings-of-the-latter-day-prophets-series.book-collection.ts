@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const teachingsOfTheLatterDayProphetsSeries = {
   id: "01a06808-148f-7016-b602-2e01b72a30f3",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "teachings-of-the-latter-day-prophets-series",
   title: "Teachings of the Latter-day Prophets Series",
   partOfCollections: ["book-collection/faith-collections"],

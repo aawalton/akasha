@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theWarOfTheJewels = {
   id: "01a06808-148f-7035-a84d-c92a89c89a4a",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "the-war-of-the-jewels",
   title: "The War of the Jewels",
   partOfCollections: ["book-collection/the-history-of-middle-earth"],

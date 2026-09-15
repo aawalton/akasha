@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const jamesETalmage = {
   id: "01a06808-148f-7000-99b0-789b675a67cf",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "james-e-talmage",
   title: "James E. Talmage",
   partOfCollections: ["author-collection/apostles"],

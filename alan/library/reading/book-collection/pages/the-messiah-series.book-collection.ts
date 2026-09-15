@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const theMessiahSeries = {
   id: "01a06808-148f-702b-8318-e07f0375d06f",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "the-messiah-series",
   title: "The Messiah Series",
   partOfCollections: ["book-collection/bruce-r-mcconkie"],

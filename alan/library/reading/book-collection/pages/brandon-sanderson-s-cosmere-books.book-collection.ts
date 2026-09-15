@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const brandonSandersonSCosmereBooks = {
   id: "01a06808-148e-700b-bf2a-18fe855b306e",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "brandon-sanderson-s-cosmere-books",
   title: "Brandon Sanderson’s Cosmere Books",
   partOfCollections: ["book-collection/brandon-sanderson"],

@@ -2,7 +2,7 @@ import type { BookCollection } from "akasha/alan/library/reading/book-collection
 
 export const discoursesOfPresidentGordonBHinckley = {
   id: "01a06808-148e-7019-8b7a-c04424d4acc3",
-  type: "book-collection",
+  type: "page-type/book-collection",
   slug: "discourses-of-president-gordon-b-hinckley",
   title: "Discourses of President Gordon B. Hinckley",
   partOfCollections: ["author/gordon-b-hinckley"],
