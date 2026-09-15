@@ -2,7 +2,7 @@ import type { Franchise } from "akasha/alan/library/watching/franchise/franchise
 
 export const swordArtOnline = {
   id: "019ea442-6507-7cad-9c65-3c053f1ee123",
-  type: "franchise",
+  type: "page-type/franchise",
   slug: "sword-art-online",
   title: "Sword Art Online",
   externalIdentity: [
