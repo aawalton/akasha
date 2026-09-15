@@ -238,7 +238,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/fitness.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/flexibility/flexibility.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/selection/strength-exercise-selection.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/strength/strength.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/learn/mathematics/mathematics.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/value.page-type.types.ts"}

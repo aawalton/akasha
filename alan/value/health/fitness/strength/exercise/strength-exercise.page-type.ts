@@ -10,7 +10,6 @@ export const strengthExercise = {
     "boolean-property/is-ballistic",
     "boolean-property/trains-lengthened-range",
     "calendar-date-property/exercise-last-synced-at",
-    "domain/strength-exercise-selection",
     "file-property/instructions",
     "number-property/implement-count",
     "number-property/load-factor",
