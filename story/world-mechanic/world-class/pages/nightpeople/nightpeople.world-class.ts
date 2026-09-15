@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const nightpeople = {
   id: "01a0657e-0234-7b60-8d48-2525a0314257",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "nightpeople",
   title: "Nightpeople",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const mirmilinEsHivuleSekururu = {
   id: "01a0657e-13a2-7e90-bfb0-af76deb9f580",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "mirmilin-es-hivule-sekururu",
   title: "Mirmilin Es’hivule Sekururu",
   world: "world/the-wandering-inn",

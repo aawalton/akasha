@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const mintLordOfTheNewEra = {
   id: "01a0657e-13a2-7a5c-845f-86903680d804",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "mint-lord-of-the-new-era",
   title: "Mint-Lord of the New Era",
   world: "world/the-wandering-inn",

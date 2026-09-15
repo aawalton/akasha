@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const necromancersOfFlesh = {
   id: "01a0657e-0234-7504-bdf1-090a7f2b9d54",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "necromancers-of-flesh",
   title: "Necromancers of Flesh",
   world: "world/the-wandering-inn",
