@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const allTheSkillsADeckbuildingLitrpg0015Book6Chapter8ADebtOwed = {
   id: "01a06585-ef17-79a4-9bdd-d0b33ab1b5a8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0015-book-6-chapter-8-a-debt-owed",
   title: "Book 6 Chapter 8: A Debt Owed",
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",

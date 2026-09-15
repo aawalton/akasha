@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const alexaThymeFormerlyAlexithymia0003PrologueIi = {
   id: "01a06585-ef14-7826-9a0c-3cfd1ffce36e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0003-prologue-ii",
   title: "Prologue II",
   story: "story-read/alexa-thyme-formerly-alexithymia",

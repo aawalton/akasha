@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const allTheSkillsADeckbuildingLitrpg0029AtsB6Ch22TheTrustedFew = {
   id: "01a06585-ef18-75c0-bd42-11e5939c42bb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0029-ats-b6-ch22-the-trusted-few",
   title: "ATS B6 Ch22: The Trusted Few",
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",

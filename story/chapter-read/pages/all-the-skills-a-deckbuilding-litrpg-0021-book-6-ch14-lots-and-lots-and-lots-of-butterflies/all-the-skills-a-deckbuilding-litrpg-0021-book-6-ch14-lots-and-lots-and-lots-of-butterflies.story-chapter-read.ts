@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const allTheSkillsADeckbuildingLitrpg0021Book6Ch14LotsAndLotsAndLotsOfButterflies = {
   id: "01a06585-ef17-7fde-8d07-dd7177ec8090",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0021-book-6-ch14-lots-and-lots-and-lots-of-butterflies",
   title: "Book 6 Ch14: Lots and Lots and Lots of Butterflies",
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",

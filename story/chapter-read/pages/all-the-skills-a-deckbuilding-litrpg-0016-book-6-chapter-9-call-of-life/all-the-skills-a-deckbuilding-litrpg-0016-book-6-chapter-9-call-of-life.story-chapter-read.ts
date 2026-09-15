@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const allTheSkillsADeckbuildingLitrpg0016Book6Chapter9CallOfLife = {
   id: "01a06585-ef17-7717-9959-1eaac4f58eab",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0016-book-6-chapter-9-call-of-life",
   title: "Book 6 Chapter 9: Call of Life",
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",

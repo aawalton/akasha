@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const alexaThymeFormerlyAlexithymia0011AlexaThymeBook4BlackMassAudibleDrop = {
   id: "01a06585-ef15-739a-aa29-93db1a45b92e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0011-alexa-thyme-book-4-black-mass-audible-drop",
   title: "Alexa Thyme Book 4  Black Mass Audible Drop",
   story: "story-read/alexa-thyme-formerly-alexithymia",

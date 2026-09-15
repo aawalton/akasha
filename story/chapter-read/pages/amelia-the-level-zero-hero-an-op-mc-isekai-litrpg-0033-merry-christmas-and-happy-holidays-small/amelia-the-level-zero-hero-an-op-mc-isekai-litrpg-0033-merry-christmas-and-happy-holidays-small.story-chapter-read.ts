@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0033MerryChristmasAndHappyHolidaysSmall = {
   id: "01a06585-ef24-71ab-a49b-f4cb95a1f377",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0033-merry-christmas-and-happy-holidays-small",
   title: "Merry Christmas and Happy Holidays! + Small Update",
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const allTheSkillsADeckbuildingLitrpg0007Book6Chapter1AccessToASecretPlace = {
   id: "01a06585-ef16-7976-ba39-b2882f2e3b2d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0007-book-6-chapter-1-access-to-a-secret-place",
   title: "Book 6 Chapter 1: Access To A Secret Place",
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",

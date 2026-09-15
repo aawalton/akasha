@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const allTheSkillsADeckbuildingLitrpg0004Book4Ch1FabergeMan = {
   id: "01a06585-ef16-7ef3-9ada-1ceb8622f919",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0004-book-4-ch-1-faberge-man",
   title: "Book 4 Ch 1: Faberge Man",
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",

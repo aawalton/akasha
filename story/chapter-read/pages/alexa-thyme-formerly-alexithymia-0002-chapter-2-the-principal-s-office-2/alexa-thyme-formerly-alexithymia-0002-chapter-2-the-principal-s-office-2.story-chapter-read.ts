@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const alexaThymeFormerlyAlexithymia0002Chapter2ThePrincipalSOffice2 = {
   id: "01a06585-ef14-7577-abbb-9712f3a2ead8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0002-chapter-2-the-principal-s-office-2",
   title: "Chapter 2  The Principal’s Office (2)",
   story: "story-read/alexa-thyme-formerly-alexithymia",

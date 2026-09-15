@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const allTheSkillsADeckbuildingLitrpg0031B6Ch24AGoodUseOfShards = {
   id: "01a06585-ef18-78ac-b9d3-37f622424339",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0031-b6-ch24-a-good-use-of-shards",
   title: "B6 Ch24: A Good (?) Use of Shards",
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",

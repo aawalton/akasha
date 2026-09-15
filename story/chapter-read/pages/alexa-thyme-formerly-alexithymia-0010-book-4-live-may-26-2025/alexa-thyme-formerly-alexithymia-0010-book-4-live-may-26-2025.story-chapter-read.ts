@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const alexaThymeFormerlyAlexithymia0010Book4LiveMay262025 = {
   id: "01a06585-ef15-76af-9a02-3977f689c559",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0010-book-4-live-may-26-2025",
   title: "Book 4 Live May 26, 2025.",
   story: "story-read/alexa-thyme-formerly-alexithymia",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const allTheSkillsADeckbuildingLitrpg0019Book6Chapter12SnowMoon = {
   id: "01a06585-ef17-7464-bd45-5fd088bf3db9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0019-book-6-chapter-12-snow-moon",
   title: "Book 6 Chapter 12: Snow Moon",
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",

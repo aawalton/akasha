@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0034TheLevelZeroHeroChapter193StartOf = {
   id: "01a06585-ef24-7c22-a185-c770b2283876",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0034-the-level-zero-hero-chapter-193-start-of",
   title: "The Level Zero Hero Chapter 193 (Start of Book 4)",
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
