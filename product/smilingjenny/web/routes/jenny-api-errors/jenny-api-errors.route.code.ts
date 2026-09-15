@@ -1,7 +1,7 @@
 import {
   answerErrorPreflight,
   answerErrorReport,
-} from "akasha/alan/harness/error-report-answer/modules/answer-error-report/answer-error-report.module.code.ts"
+} from "akasha/alan/harness/modules/answer-error-report/answer-error-report.module.code.ts"
 
 const SHELL_ORIGINS: readonly string[] = ["https://smilingjenny.me", "capacitor://localhost"]
 

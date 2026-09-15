@@ -9,6 +9,15 @@ export const answerErrorReport = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "Every site taking error reports over http answers from here rather than from its own copy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The origins a site answers cross-origin are passed in rather than written in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A site naming no shell origin is answered with no cross-origin headers.",
     },
     {
