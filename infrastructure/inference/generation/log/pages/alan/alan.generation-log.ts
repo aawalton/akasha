@@ -2,7 +2,7 @@ import type { GenerationLog } from "akasha/infrastructure/inference/generation/l
 
 export const alan = {
   id: "01a01d18-285a-7000-81e8-0b46a3c77d27",
-  type: "generation-log",
+  type: "page-type/generation-log",
   slug: "alan",
   runs: "jsonl",
   images: "jsonl",
