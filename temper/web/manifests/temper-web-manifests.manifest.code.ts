@@ -17,10 +17,11 @@ import {
   ORCHESTRATOR_CACHE_REPO_PATH,
   TEMPER_WEB_CACHE,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { temperWeb } from "akasha/infrastructure/service/cluster/pages/temper-web/temper-web.service-cluster.ts"
 import { ADDON_BUNDLE_IMAGE } from "akasha/temper/web/deploy/addon-bundle-image.ts"
 
-const NAMESPACE = "temper"
-const APP_NAME = "web"
+const NAMESPACE = temperWeb.namespace
+const APP_NAME = temperWeb.resourceName
 const SECRET_NAME = "temper-secrets"
 
 const TEMPER_WATCHER_IMAGE =
@@ -127,7 +128,7 @@ function webDeploymentYaml(): string {
     kind: "Deployment",
     metadata: { name: APP_NAME, namespace: NAMESPACE, labels: RESOURCE_LABELS },
     spec: {
-      replicas: 1,
+      replicas: temperWeb.replicas,
       strategy: {
         type: "RollingUpdate",
         rollingUpdate: { maxSurge: 1, maxUnavailable: 0 },
@@ -154,13 +155,13 @@ function webDeploymentYaml(): string {
               imagePullPolicy: "IfNotPresent",
               workingDir: orchestratorCacheEntrypointPath("temper/web"),
               command: ["bun", "run", "server.ts"],
-              ports: [{ containerPort: 3000, protocol: "TCP" }],
+              ports: [{ containerPort: temperWeb.containerPort, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
               env: [
                 { name: "NODE_ENV", value: "production" },
                 { name: "AKASHA_ROOT", value: ORCHESTRATOR_CACHE_REPO_PATH },
                 { name: "HOST", value: "0.0.0.0" },
-                { name: "PORT", value: "3000" },
+                { name: "PORT", value: `${temperWeb.containerPort}` },
                 { name: "PAGE_WRITER", value: "temper-web" },
                 { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
                 { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".tempereso.com" },
@@ -190,14 +191,14 @@ function webDeploymentYaml(): string {
                 capabilities: { drop: ["ALL"] },
               },
               livenessProbe: {
-                httpGet: { path: "/api/watcher/version", port: 3000 },
+                httpGet: { path: "/api/watcher/version", port: temperWeb.containerPort },
                 initialDelaySeconds: 15,
                 periodSeconds: 10,
                 failureThreshold: 6,
                 timeoutSeconds: 5,
               },
               readinessProbe: {
-                httpGet: { path: "/api/watcher/version", port: 3000 },
+                httpGet: { path: "/api/watcher/version", port: temperWeb.containerPort },
                 initialDelaySeconds: 5,
                 periodSeconds: 5,
                 failureThreshold: 12,
