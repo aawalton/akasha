@@ -4,10 +4,13 @@ import {
   blockFor,
   bodyWith,
   isEntry,
-  reachedFrom,
   rolledTo,
   spelledFrom,
 } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"
+import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
+import { reachingOutOf } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const ENTRY = "one/app/app-look/app-look.stylesheet.styles.css"
 
@@ -22,9 +25,13 @@ const BODIES: Record<string, string> = {
 
 const KNOWN = new Set(Object.keys(BODIES))
 
-const NAMING = new Map<string, string>()
+const INDEX = shadowAt(codeRoot()).index
 
 const bodyAt = (path: string): string | null => BODIES[path] ?? null
+
+function reachedFrom(seeds: readonly string[]): ReadonlySet<string> {
+  return new Set(reachingOutOf(seeds, [importEdge.slug], INDEX, bodyAt, (one) => KNOWN.has(one)))
+}
 
 test("a stylesheet whose rules import Tailwind is an entry and one that does not is not", () => {
   expect(isEntry('@import "tailwindcss";\n')).toBe(true)
@@ -46,7 +53,7 @@ test("a folder a glob names is rolled up to two folders below the root", () => {
 })
 
 test("what an app reaches is followed through its imports rather than through the manifests", () => {
-  const found = reachedFrom(["one/app/root.tsx"], bodyAt, NAMING, KNOWN)
+  const found = reachedFrom(["one/app/root.tsx"])
   expect([...found].sort()).toEqual([
     "design/look/deep/deep.tsx",
     "design/look/look.module.code.tsx",
@@ -55,12 +62,12 @@ test("what an app reaches is followed through its imports rather than through th
 })
 
 test("a name landing on no file in the repository is reached by nothing", () => {
-  const found = reachedFrom(["design/look/deep/deep.tsx"], bodyAt, NAMING, KNOWN)
+  const found = reachedFrom(["design/look/deep/deep.tsx"])
   expect(found.has("nowhere/gone.tsx")).toBe(false)
 })
 
 test("a glob names where a reached tsx sits, and the app's own tree names none", () => {
-  const found = reachedFrom(["one/app/root.tsx"], bodyAt, NAMING, KNOWN)
+  const found = reachedFrom(["one/app/root.tsx"])
   expect(blockFor(ENTRY, "one/app", found)).toBe('@source "../../../design/look/**/*.{ts,tsx}";')
 })
 

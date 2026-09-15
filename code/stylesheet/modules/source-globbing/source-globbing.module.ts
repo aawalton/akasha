@@ -28,7 +28,7 @@ export const sourceGlobbing = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A file is reached through the imports rather than through the manifests.",
+      statement: "A file is reached by asking the graph what that file reaches.",
     },
     {
       invariantKind: "invariant-kind/departure",

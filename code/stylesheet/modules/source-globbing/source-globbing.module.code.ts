@@ -2,17 +2,16 @@ import type { Replacing } from "akasha/change/modules/answer/change-answer.modul
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
-import { importsIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
-import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import {
-  manifestsAmong,
-  reachingOf,
-} from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
+import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
+import { reachingOutOf } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const MANIFEST = "package.json"
+
+const IMPORT = importEdge.slug
 
 const STYLESHEET = "stylesheet"
 
@@ -69,26 +68,6 @@ export function rolledTo(path: string): string {
   const folder = folderOf(path)
   const parts = folder.split("/")
   return parts.length <= DEPTH ? folder : parts.slice(0, DEPTH).join("/")
-}
-
-export function reachedFrom(
-  seeds: readonly string[],
-  bodyAt: (path: string) => string | null,
-  naming: Naming,
-  known: ReadonlySet<string>
-): ReadonlySet<string> {
-  const found = new Set<string>(seeds)
-  const waiting = [...seeds]
-  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
-    const body = bodyAt(one)
-    if (body === null) continue
-    for (const there of importsIn(body, one, naming)) {
-      if (found.has(there) || !known.has(there)) continue
-      found.add(there)
-      if (typeScripted(there)) waiting.push(there)
-    }
-  }
-  return found
 }
 
 export function spelledFrom(from: string, to: string): string {
@@ -157,7 +136,7 @@ function globbedOver(change: Change): Globbed {
   const roots = new Set(
     every.filter((one) => one.endsWith(VITE_ENDING)).map((one) => folderOf(one))
   )
-  const naming = reachingOf(manifestsAmong(every, MANIFEST), bodyAt)
+  const index = shadowAt(change.root).index
   const edits: Replacing[] = []
   const said: string[] = []
   for (const at of every.filter((one) => styledName(one))) {
@@ -166,7 +145,8 @@ function globbedOver(change: Change): Globbed {
     const app = appFor(at, roots)
     if (app === null) continue
     const seeds = every.filter((one) => typeScripted(one) && one.startsWith(`${app}/`))
-    const block = blockFor(at, app, reachedFrom(seeds, bodyAt, naming, known))
+    const reached = reachingOutOf(seeds, [IMPORT], index, bodyAt, (one) => known.has(one))
+    const block = blockFor(at, app, new Set(reached))
     const body = bodyWith(css, block)
     if (body === css) continue
     const many = block === "" ? 0 : block.split("\n").length
