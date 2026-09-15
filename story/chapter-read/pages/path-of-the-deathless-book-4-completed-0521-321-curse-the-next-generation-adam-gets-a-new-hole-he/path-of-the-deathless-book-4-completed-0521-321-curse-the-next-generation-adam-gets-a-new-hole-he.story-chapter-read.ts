@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathOfTheDeathlessBook4Completed0521321CurseTheNextGenerationAdamGetsANewHoleHe = {
   id: "01a06730-4ed6-74ee-abc0-97df5a783c18",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0521-321-curse-the-next-generation-adam-gets-a-new-hole-he",
   title: "321 Curse: The Next Generation (Adam gets a new hole he doesn’t want)",
   story: "story-read/path-of-the-deathless-book-4-completed",

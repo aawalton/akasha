@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathOfTheDeathlessBook4Completed0551346HarbingerIi = {
   id: "01a06730-4eef-7a52-bd0a-8bb02944dd8c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0551-346-harbinger-ii",
   title: "346 Harbinger [II]",
   story: "story-read/path-of-the-deathless-book-4-completed",

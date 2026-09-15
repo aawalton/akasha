@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathOfTheDeathlessBook4Completed0521404AsWithinSoWithoutI = {
   id: "01a06730-4ed9-778e-b054-0bff299f6ee2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0521-404-as-within-so-without-i",
   title: "404 As Within, So Without [I]",
   story: "story-read/path-of-the-deathless-book-4-completed",
