@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const museumPieces = {
   id: "01a05fcf-f82f-768b-bf0d-6becdfabc22c",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "museum-pieces",
   title: "Museum Pieces",
   parent: "tasks",

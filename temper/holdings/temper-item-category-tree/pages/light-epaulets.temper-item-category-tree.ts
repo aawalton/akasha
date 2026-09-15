@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const lightEpaulets = {
   id: "01a05fcf-f827-7026-a23c-c4c0ead87666",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "light-epaulets",
   title: "Epaulets",
   parent: "light-armor",

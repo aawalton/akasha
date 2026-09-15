@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const potions = {
   id: "01a05fcf-f831-7324-a22d-c91221d0b896",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "potions",
   title: "Potions",
   parent: "consumables",

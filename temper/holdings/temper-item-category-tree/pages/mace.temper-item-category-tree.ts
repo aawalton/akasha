@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const mace = {
   id: "01a05fcf-f82a-7721-ac93-f75a3cceb0ba",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "mace",
   title: "Mace",
   parent: "one-handed",

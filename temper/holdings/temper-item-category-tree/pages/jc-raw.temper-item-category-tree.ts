@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const jcRaw = {
   id: "01a05fcf-f824-7b31-978f-1b4480b01aef",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "jc-raw",
   title: "Raw Materials",
   parent: "jewelry-crafting",

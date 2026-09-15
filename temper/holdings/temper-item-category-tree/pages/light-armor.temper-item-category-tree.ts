@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const lightArmor = {
   id: "01a05fcf-f826-74c2-9b85-d6d3b26d1006",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "light-armor",
   title: "Light Armor",
   parent: "armor",

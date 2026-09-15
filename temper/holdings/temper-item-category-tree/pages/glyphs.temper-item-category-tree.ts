@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const glyphs = {
   id: "01a05fcf-f81d-72a3-90ae-0a574bee4120",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "glyphs",
   title: "Glyphs",
   parent: "consumables",

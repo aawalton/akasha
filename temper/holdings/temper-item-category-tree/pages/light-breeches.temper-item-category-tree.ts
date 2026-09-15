@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const lightBreeches = {
   id: "01a05fcf-f826-7184-b53d-bb130bc1c7ad",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "light-breeches",
   title: "Breeches",
   parent: "light-armor",

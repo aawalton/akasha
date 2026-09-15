@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const infernoStaff = {
   id: "01a05fcf-f822-7703-bf9c-976bcc064779",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "inferno-staff",
   title: "Inferno Staff",
   parent: "destruction-staff",

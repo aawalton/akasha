@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const jcFurnMat = {
   id: "01a05fcf-f823-7a33-b37c-92b8fc0497fe",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "jc-furn-mat",
   title: "Furnishing Materials",
   parent: "jewelry-crafting",

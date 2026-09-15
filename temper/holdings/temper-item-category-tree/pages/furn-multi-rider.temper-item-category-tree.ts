@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnMultiRider = {
   id: "01a05fcf-f803-73ae-8e6c-95b5724615ff",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-multi-rider",
   title: "Multi-Rider",
   parent: "furn-mounts",

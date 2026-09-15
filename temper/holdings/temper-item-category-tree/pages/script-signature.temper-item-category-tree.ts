@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const scriptSignature = {
   id: "01a05fcf-f83a-74c5-9622-96ed9eb6f078",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "script-signature",
   title: "Signature",
   parent: "scripts",

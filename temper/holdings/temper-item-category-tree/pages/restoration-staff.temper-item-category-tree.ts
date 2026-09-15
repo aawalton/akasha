@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const restorationStaff = {
   id: "01a05fcf-f838-778e-a9b5-94194af49d0f",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "restoration-staff",
   title: "Restoration Staff",
   parent: "weapons",

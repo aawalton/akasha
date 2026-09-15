@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const masterWrits = {
   id: "01a05fcf-f82a-72f2-9920-aafdfcddddd9",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "master-writs",
   title: "Master Writs",
   parent: "tasks",

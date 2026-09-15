@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnVvardvarks = {
   id: "01a05fcf-f81a-7b67-b9ac-4be2682c674d",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-vvardvarks",
   title: "Vvardvarks",
   parent: "furn-mounts",

@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnTimeOfDay = {
   id: "01a05fcf-f814-7e3d-8968-3fc230d4fe2b",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-time-of-day",
   title: "Time of Day Control",
   parent: "furn-services",

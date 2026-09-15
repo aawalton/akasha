@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnWelwas = {
   id: "01a05fcf-f81b-723e-9f34-5cd52a02a314",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-welwas",
   title: "Welwas",
   parent: "furn-mounts",

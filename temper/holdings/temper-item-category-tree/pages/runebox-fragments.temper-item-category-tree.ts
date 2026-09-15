@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const runeboxFragments = {
   id: "01a05fcf-f839-7ff7-9262-62be12b1842b",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "runebox-fragments",
   title: "Runebox Fragments",
   parent: "knowledge-collectibles",

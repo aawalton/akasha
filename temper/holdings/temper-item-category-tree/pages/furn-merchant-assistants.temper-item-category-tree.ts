@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnMerchantAssistants = {
   id: "01a05fcf-f802-742e-92d7-347b06f10381",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-merchant-assistants",
   title: "Merchant Assistants",
   parent: "furn-services",

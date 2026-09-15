@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const heavyGirdle = {
   id: "01a05fcf-f820-7ed4-96d2-02b50a30403a",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "heavy-girdle",
   title: "Girdle",
   parent: "heavy-armor",

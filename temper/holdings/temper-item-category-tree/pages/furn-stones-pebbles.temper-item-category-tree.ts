@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnStonesPebbles = {
   id: "01a05fcf-f810-7e3a-9a7c-b24967a85ab7",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-stones-pebbles",
   title: "Stones and Pebbles",
   parent: "furn-conservatory",

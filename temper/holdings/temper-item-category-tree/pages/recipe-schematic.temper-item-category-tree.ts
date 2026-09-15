@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const recipeSchematic = {
   id: "01a05fcf-f837-76fc-9ba3-beb5c18d1042",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "recipe-schematic",
   title: "Schematics (Enchanting)",
   parent: "furnishing-recipes",

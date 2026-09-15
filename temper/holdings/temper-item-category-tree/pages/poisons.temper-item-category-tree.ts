@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const poisons = {
   id: "01a05fcf-f830-714c-b4a6-b3c97658d357",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "poisons",
   title: "Poisons",
   parent: "consumables",

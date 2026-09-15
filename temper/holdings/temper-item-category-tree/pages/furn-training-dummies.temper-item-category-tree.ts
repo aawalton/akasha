@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnTrainingDummies = {
   id: "01a05fcf-f815-729e-a615-498b60c633ac",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-training-dummies",
   title: "Training Dummies",
   parent: "furn-services",

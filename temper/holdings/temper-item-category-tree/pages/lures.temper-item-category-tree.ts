@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const lures = {
   id: "01a05fcf-f829-7137-b4cb-ef1ef9aa7525",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "lures",
   title: "Lures",
   parent: "fishing",

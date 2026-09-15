@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const jcRefined = {
   id: "01a05fcf-f824-7c07-bce0-b96eb710f5f2",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "jc-refined",
   title: "Refined Materials",
   parent: "jewelry-crafting",

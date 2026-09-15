@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const mediumBracers = {
   id: "01a05fcf-f82c-7a09-8035-ab832491ca0c",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "medium-bracers",
   title: "Bracers",
   parent: "medium-armor",

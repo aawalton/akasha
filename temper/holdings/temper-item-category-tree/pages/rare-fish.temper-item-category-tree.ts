@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const rareFish = {
   id: "01a05fcf-f832-715c-82e8-cffc41f00b6c",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "rare-fish",
   title: "Rare Fish",
   parent: "treasures",

@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnRugsCarpets = {
   id: "01a05fcf-f80b-775c-a7ef-b9e6cb7a33f1",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-rugs-carpets",
   title: "Rugs and Carpets",
   parent: "furn-parlor",

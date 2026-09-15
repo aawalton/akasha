@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const siegeTrebuchet = {
   id: "01a05fcf-f83e-7a2e-81c1-7f6c6c2fcfb8",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "siege-trebuchet",
   title: "Trebuchet",
   parent: "siege-equipment",

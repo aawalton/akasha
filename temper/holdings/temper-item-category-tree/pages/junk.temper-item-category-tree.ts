@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const junk = {
   id: "01a05fcf-f825-724e-b83b-dbe6d4b2a4ae",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "junk",
   title: "Junk",
   parent: "miscellaneous",

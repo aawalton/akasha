@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnPipesMechanisms = {
   id: "01a05fcf-f807-758b-b38e-9c82f4112d67",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-pipes-mechanisms",
   title: "Pipes and Mechanisms",
   parent: "furn-workshop",

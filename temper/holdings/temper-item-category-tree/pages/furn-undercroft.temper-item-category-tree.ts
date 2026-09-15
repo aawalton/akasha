@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnUndercroft = {
   id: "01a05fcf-f817-7e76-bef6-fa01ef91ef6a",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-undercroft",
   title: "Undercroft",
   parent: "furnishings",

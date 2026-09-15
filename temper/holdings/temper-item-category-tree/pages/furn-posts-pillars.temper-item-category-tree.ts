@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnPostsPillars = {
   id: "01a05fcf-f808-709e-9abc-83680e6b3f23",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-posts-pillars",
   title: "Posts and Pillars",
   parent: "furn-courtyard",

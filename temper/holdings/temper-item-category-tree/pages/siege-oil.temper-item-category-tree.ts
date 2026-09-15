@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const siegeOil = {
   id: "01a05fcf-f83e-7498-8606-b7fbed83b6ea",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "siege-oil",
   title: "Boiling Oil",
   parent: "siege-equipment",

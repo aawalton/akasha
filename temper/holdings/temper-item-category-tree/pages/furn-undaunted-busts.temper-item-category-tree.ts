@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const furnUndauntedBusts = {
   id: "01a05fcf-f817-7158-bd89-6b9fea4ad100",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "furn-undaunted-busts",
   title: "Undaunted Busts",
   parent: "furn-gallery",
