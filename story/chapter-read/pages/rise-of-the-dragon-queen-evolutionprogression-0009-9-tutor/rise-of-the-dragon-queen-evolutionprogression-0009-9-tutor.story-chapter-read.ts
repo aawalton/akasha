@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheDragonQueenEvolutionprogression00099Tutor = {
   id: "01a06730-4e06-7b5f-bf5f-fe573163125c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0009-9-tutor",
   title: "9 - Tutor",
   story: "story-read/rise-of-the-dragon-queen-evolutionprogression",

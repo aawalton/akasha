@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0101Chapter631WeaponOfWar = {
   id: "01a06730-4e0f-7b6f-a61d-c12af05f97f7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0101-chapter-631-weapon-of-war",
   title: "Chapter 631: Weapon of War",
   story: "story-read/rise-of-the-living-forge",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0112Chapter546EsmereldaSRules = {
   id: "01a06730-4e10-7893-ab9c-6f5745ed3324",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0112-chapter-546-esmerelda-s-rules",
   title: "Chapter 546: Esmerelda's Rules",
   story: "story-read/rise-of-the-living-forge",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0120Book5IsOutOnAmazon = {
   id: "01a06730-4e10-7df5-950c-dcb691bc0366",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0120-book-5-is-out-on-amazon",
   title: "BOOK 5 IS OUT ON AMAZON!",
   story: "story-read/rise-of-the-living-forge",

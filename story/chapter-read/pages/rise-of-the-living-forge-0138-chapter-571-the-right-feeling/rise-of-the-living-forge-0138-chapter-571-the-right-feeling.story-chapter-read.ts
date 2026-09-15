@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0138Chapter571TheRightFeeling = {
   id: "01a06730-4e10-7dbd-b7e8-8033842b5139",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0138-chapter-571-the-right-feeling",
   title: "Chapter 571: The Right Feeling",
   story: "story-read/rise-of-the-living-forge",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0029Chapter461And462LikeOilAndWater = {
   id: "01a06730-4e09-70c8-b2dc-2a5fc7215cf5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0029-chapter-461-and-462-like-oil-and-water",
   title: "Chapter 461 & 462: Like oil and water",
   story: "story-read/rise-of-the-living-forge",

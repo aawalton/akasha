@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0009Chapter267MoreThanMetal = {
   id: "01a06730-4e07-7ecf-b668-cad8ab44c648",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0009-chapter-267-more-than-metal",
   title: "Chapter 267: More than metal",
   story: "story-read/rise-of-the-living-forge",

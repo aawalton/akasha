@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0109Chapter639GoodReasons = {
   id: "01a06730-4e0f-7af0-a07a-47a78fd72dee",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0109-chapter-639-good-reasons",
   title: "Chapter 639: Good Reasons",
   story: "story-read/rise-of-the-living-forge",

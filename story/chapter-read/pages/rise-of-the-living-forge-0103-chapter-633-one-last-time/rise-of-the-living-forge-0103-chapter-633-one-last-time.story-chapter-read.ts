@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0103Chapter633OneLastTime = {
   id: "01a06730-4e0f-727f-805a-de77738cacea",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0103-chapter-633-one-last-time",
   title: "Chapter 633: One last time",
   story: "story-read/rise-of-the-living-forge",

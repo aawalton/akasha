@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheDragonQueenEvolutionprogression00022SurvivalistExtraordinaire = {
   id: "01a06730-4e05-7a9c-af72-78ffd2702b3e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0002-2-survivalist-extraordinaire",
   title: "2 - Survivalist Extraordinaire",
   story: "story-read/rise-of-the-dragon-queen-evolutionprogression",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0113Chapter547CleanedAndReady = {
   id: "01a06730-4e10-7409-be62-5b0b66af270e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0113-chapter-547-cleaned-and-ready",
   title: "Chapter 547: Cleaned and ready",
   story: "story-read/rise-of-the-living-forge",

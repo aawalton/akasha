@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0119Chapter553ThreatsOfANewKind = {
   id: "01a06730-4e10-7fe5-b382-df9d25b6d8c1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0119-chapter-553-threats-of-a-new-kind",
   title: "Chapter 553: Threats of a new kind",
   story: "story-read/rise-of-the-living-forge",

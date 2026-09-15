@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0116Chapter550VixSFate = {
   id: "01a06730-4e10-7fb3-b936-537cb1fc3c2f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0116-chapter-550-vix-s-fate",
   title: "Chapter 550: Vix's Fate",
   story: "story-read/rise-of-the-living-forge",

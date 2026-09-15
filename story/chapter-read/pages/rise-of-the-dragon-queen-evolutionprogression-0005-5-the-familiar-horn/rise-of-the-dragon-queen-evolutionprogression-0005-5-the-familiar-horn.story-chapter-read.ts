@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheDragonQueenEvolutionprogression00055TheFamiliarHorn = {
   id: "01a06730-4e05-7c09-ba82-569a0239ef47",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0005-5-the-familiar-horn",
   title: "5 - The Familiar Horn",
   story: "story-read/rise-of-the-dragon-queen-evolutionprogression",

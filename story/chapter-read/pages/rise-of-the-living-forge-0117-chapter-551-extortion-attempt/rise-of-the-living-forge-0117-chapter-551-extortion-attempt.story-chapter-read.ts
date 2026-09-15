@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0117Chapter551ExtortionAttempt = {
   id: "01a06730-4e10-7378-869f-151ee263c508",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0117-chapter-551-extortion-attempt",
   title: "Chapter 551: Extortion Attempt",
   story: "story-read/rise-of-the-living-forge",

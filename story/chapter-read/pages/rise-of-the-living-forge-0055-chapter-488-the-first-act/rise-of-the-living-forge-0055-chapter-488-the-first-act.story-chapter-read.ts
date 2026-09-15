@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0055Chapter488TheFirstAct = {
   id: "01a06730-4e0b-7f03-9a01-18e6f1b37565",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0055-chapter-488-the-first-act",
   title: "Chapter 488: The First Act",
   story: "story-read/rise-of-the-living-forge",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheDragonQueenEvolutionprogression001313ExtraSpecialIngredient = {
   id: "01a06730-4e07-7a12-a4bc-a67cc82f5ca3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0013-13-extra-special-ingredient",
   title: "13 - Extra Special Ingredient",
   story: "story-read/rise-of-the-dragon-queen-evolutionprogression",

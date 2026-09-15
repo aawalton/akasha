@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0044Chapter477TheWorst = {
   id: "01a06730-4e0b-73ce-8177-eb27efbfee72",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0044-chapter-477-the-worst",
   title: "Chapter 477: The Worst",
   story: "story-read/rise-of-the-living-forge",

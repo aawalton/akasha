@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0137Chapter570NotNearlyEnough = {
   id: "01a06730-4e10-7728-89ea-b7f1f0a91fa8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0137-chapter-570-not-nearly-enough",
   title: "Chapter 570: Not nearly Enough",
   story: "story-read/rise-of-the-living-forge",

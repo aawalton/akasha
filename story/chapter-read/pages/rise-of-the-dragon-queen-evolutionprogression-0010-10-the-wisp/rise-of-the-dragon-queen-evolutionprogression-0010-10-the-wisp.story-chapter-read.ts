@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheDragonQueenEvolutionprogression001010TheWisp = {
   id: "01a06730-4e06-73cf-beb8-e912e7106780",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0010-10-the-wisp",
   title: "10 - The Wisp",
   story: "story-read/rise-of-the-dragon-queen-evolutionprogression",

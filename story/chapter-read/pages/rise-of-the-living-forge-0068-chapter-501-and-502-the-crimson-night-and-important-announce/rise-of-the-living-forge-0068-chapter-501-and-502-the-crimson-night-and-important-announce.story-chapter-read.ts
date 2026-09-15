@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0068Chapter501And502TheCrimsonNightAndImportantAnnounce = {
   id: "01a06730-4e0c-7bf3-8cd1-55ae68295057",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0068-chapter-501-and-502-the-crimson-night-and-important-announce",
   title: "Chapter 501 & 502: The Crimson Night & IMPORTANT ANNOUNCEMENT!",
   story: "story-read/rise-of-the-living-forge",

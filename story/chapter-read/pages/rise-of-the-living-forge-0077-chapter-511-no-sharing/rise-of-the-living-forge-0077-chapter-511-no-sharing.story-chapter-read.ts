@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const riseOfTheLivingForge0077Chapter511NoSharing = {
   id: "01a06730-4e0d-72da-87bb-5fa820b4d8c1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0077-chapter-511-no-sharing",
   title: "Chapter 511: No sharing",
   story: "story-read/rise-of-the-living-forge",
