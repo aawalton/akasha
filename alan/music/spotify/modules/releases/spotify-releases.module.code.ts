@@ -26,8 +26,16 @@ export const albumSchema = z
 export type Album = z.infer<typeof albumSchema>
 
 const albumTrackSchema = z
-  .object({ id: z.string(), name: z.string(), duration_ms: z.number() })
+  .object({
+    id: z.string(),
+    name: z.string(),
+    duration_ms: z.number(),
+    track_number: z.number(),
+    external_urls: z.object({ spotify: z.string() }).passthrough(),
+  })
   .passthrough()
+
+export type AlbumTrack = z.infer<typeof albumTrackSchema>
 
 export const albumWithTracksSchema = albumSchema.extend({
   tracks: z.object({ items: z.array(albumTrackSchema) }).passthrough(),

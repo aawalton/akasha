@@ -102,8 +102,20 @@ test("an album's length is added up from the tracks that album holds", () => {
     ...ALBUM,
     tracks: {
       items: [
-        { id: "a", name: "A", duration_ms: 90_000 },
-        { id: "b", name: "B", duration_ms: 30_000 },
+        {
+          id: "a",
+          name: "A",
+          duration_ms: 90_000,
+          track_number: 1,
+          external_urls: { spotify: "https://open.spotify.com/track/a" },
+        },
+        {
+          id: "b",
+          name: "B",
+          duration_ms: 30_000,
+          track_number: 2,
+          external_urls: { spotify: "https://open.spotify.com/track/b" },
+        },
       ],
     },
   })

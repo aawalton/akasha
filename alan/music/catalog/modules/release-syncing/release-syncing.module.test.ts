@@ -37,7 +37,15 @@ function album(id: string, name: string, day = "2026-02-27", precision = "day"):
 function whole(one: Album, ms: readonly number[]): AlbumWithTracks {
   return {
     ...one,
-    tracks: { items: ms.map((at, nth) => ({ id: `t${nth}`, name: `T${nth}`, duration_ms: at })) },
+    tracks: {
+      items: ms.map((at, nth) => ({
+        id: `t${nth}`,
+        name: `T${nth}`,
+        duration_ms: at,
+        track_number: nth + 1,
+        external_urls: { spotify: `https://open.spotify.com/track/t${nth}` },
+      })),
+    },
   }
 }
 
