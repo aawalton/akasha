@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const earnedKey = {
   id: "01a06230-b155-73b6-8478-2a373c60f343",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "earned-key",
   propertySlug: "earned-key",
   definition: "the fact a reading's source has that earns the scale's earned color",

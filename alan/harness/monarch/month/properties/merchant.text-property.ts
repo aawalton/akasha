@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const merchant = {
   id: "01a0680b-2b00-7004-a836-4c9d2b7e2105",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "merchant",
   propertySlug: "merchant",
   definition: "who or what a transaction was with",

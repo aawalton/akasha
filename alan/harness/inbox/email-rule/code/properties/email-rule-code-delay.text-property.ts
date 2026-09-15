@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const emailRuleCodeDelay = {
   id: "01a06860-54a0-7230-bcc6-36683850bf02",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "email-rule-code-delay",
   propertySlug: "delay",
   definition: "how long after mail arrives before the rule acts on it",

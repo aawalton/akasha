@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const date = {
   id: "01a05fd8-c30e-7ae3-b3f5-528afcf00bbe",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "date",
   propertySlug: "date",
   definition: "the day a record is of",

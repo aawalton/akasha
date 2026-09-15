@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const subscriptionDisabledReason = {
   id: "01a054d8-1d39-7c38-bbf0-00a17589572e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "subscription-disabled-reason",
   propertySlug: "subscription-disabled-reason",
   definition: "what stopped the account's subscription being usable",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const lesson = {
   id: "01a06582-bd62-7222-ae5c-1f8e31015884",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "lesson",
   propertySlug: "lesson",
   definition: "what one game teaches",

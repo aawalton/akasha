@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const nacsAdoption = {
   id: "01a0659e-e27e-784d-a99b-e23ec274b8fc",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "nacs-adoption",
   propertySlug: "nacs-adoption",
   definition: "how far the make has taken up the North American Charging Standard",

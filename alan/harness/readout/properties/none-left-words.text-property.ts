@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const noneLeftWords = {
   id: "01a05446-e766-78e0-84fe-1fd54f474a7f",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "none-left-words",
   propertySlug: "none-left-words",
   definition: "what is shown in place of a reading of nothing",

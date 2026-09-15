@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const apiKey = {
   id: "01a0a21e-187f-7ae6-9485-f180900a5191",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "api-key",
   propertySlug: "api-key",
   definition: "the key a request to a provider is authorised by",

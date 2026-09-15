@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const subscriptionType = {
   id: "01a054d8-1d39-7f29-a8c5-64ad5c76a3c3",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "subscription-type",
   propertySlug: "subscription-type",
   definition: "the plan the account is subscribed on",

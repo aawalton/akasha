@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const label = {
   id: "01a05446-e761-77bb-8bfc-c48892a1b249",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "label",
   propertySlug: "label",
   definition: "the name a reading is shown under",

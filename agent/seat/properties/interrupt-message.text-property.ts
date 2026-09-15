@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const interruptMessage = {
   id: "01a0542c-d18d-7082-98e2-c660a96a4136",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "interrupt-message",
   propertySlug: "message",
   definition: "what a seat is told when a request interrupts it",

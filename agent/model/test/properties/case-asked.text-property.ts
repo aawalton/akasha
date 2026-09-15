@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const caseAsked = {
   id: "01a09143-46a2-7724-a00b-8b09746c6af2",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "case-asked",
   propertySlug: "asked",
   definition: "what a case has the person say before the words the case puts to a model",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const locationCategory = {
   id: "01a06583-acfb-7a3d-91c8-953aeac38361",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "location-category",
   propertySlug: "location-category",
   definition: "what kind of place it is",

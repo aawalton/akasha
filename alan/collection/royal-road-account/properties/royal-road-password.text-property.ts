@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const royalRoadPassword = {
   id: "01a0685d-b81f-7541-8732-e260a40fbd41",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "royal-road-password",
   propertySlug: "password",
   definition: "what authorises a Royal Road account's sign-in",

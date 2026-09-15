@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const tagColour = {
   id: "01a0680a-1a00-700d-8c31-5d9e4f6a110d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "tag-colour",
   propertySlug: "tag-colour",
   definition: "the colour Monarch draws a tag in",

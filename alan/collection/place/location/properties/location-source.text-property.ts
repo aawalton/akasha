@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const locationSource = {
   id: "01a06583-acfb-7733-9a33-3707ae3ee5fa",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "location-source",
   propertySlug: "location-source",
   definition: "where the place came from",

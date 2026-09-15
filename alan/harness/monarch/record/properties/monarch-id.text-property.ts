@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const monarchId = {
   id: "01a0680a-1a00-7000-9d21-4f0b6a3d1101",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "monarch-id",
   propertySlug: "monarch-id",
   definition: "the identity Monarch gives one of its records",

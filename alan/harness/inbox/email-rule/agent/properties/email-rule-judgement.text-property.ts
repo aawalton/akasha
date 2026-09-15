@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const emailRuleJudgement = {
   id: "01a06863-4147-764f-8400-158d7917527a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "email-rule-judgement",
   propertySlug: "judgement",
   definition: "what an agent reaching a rule's mail is told to do with it",

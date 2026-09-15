@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const dispatchedAs = {
   id: "01a05978-f2e3-737b-8b65-7a65013f5626",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "dispatched-as",
   propertySlug: "dispatched-as",
   definition: "the kind of agent a subagent was run as",

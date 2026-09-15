@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const directs = {
   id: "01a0680a-1a00-7018-9b56-4f7a3d8c1118",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "directs",
   propertySlug: "directs",
   definition: "what an agent settling a transaction is told to weigh",

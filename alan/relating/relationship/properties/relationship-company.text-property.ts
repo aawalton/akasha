@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const relationshipCompany = {
   id: "01a06594-c6e2-72a2-bb5c-b44fd3a7898b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "relationship-company",
   propertySlug: "relationship-company",
   definition: "where this person does that work",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const transactionNote = {
   id: "01a0680b-2b00-7007-9e41-3f7b6c5a2108",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "transaction-note",
   propertySlug: "transaction-note",
   definition: "what somebody wrote on a transaction",

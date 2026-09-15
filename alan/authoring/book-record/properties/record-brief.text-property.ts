@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const recordBrief = {
   id: "01a0657d-b91d-7300-bbfd-a4142a6e47e4",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "record-brief",
   propertySlug: "brief",
   definition: "the summary a record carries apart from its text",

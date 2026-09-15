@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const matchValues = {
   id: "01a0680c-3c00-7002-8e94-3c6a7d1f3103",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "match-values",
   propertySlug: "values",
   definition: "what a clause holds to weigh a transaction against",

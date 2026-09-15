@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const rescuedRefreshToken = {
   id: "01a0637b-78bb-75b3-997f-1bd076da5799",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "rescued-refresh-token",
   propertySlug: "refresh-token",
   definition: "the refresh token a rescued credential carries",

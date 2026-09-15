@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const drmPolicy = {
   id: "01a0659e-e27d-7584-b388-217e54a89d2b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "drm-policy",
   propertySlug: "drm-policy",
   definition: "what the make locks behind its own software",

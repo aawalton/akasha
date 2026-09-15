@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const openingTags = {
   id: "01a06582-bd62-7e85-9506-8eadb3cb2fb7",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "opening-tags",
   propertySlug: "opening-tags",
   definition: "an opening a puzzle came out of",

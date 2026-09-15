@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const dailyTracking = {
   id: "01a05fd8-c30f-7127-badb-476efde0211e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "daily-tracking",
   propertySlug: "daily-tracking",
   definition: "the day a stretch of time was part of",

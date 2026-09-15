@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const images = {
   id: "01a06596-f0d5-700a-afd0-623e8cd3d142",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "images",
   propertySlug: "images",
   definition: "every picture a card has been drawn as",

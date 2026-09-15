@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const isbn = {
   id: "01a06741-dd0f-7000-9c5c-b35b1ae14f1c",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "isbn",
   propertySlug: "isbn",
   definition: "the ten-character number an edition was catalogued under",

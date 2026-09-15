@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const openingEco = {
   id: "01a06582-bd62-76e4-a5bc-0723ebe3799a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "opening-eco",
   propertySlug: "opening-eco",
   definition: "the ECO code of an opening",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const accessToken = {
   id: "01a054d8-1d39-7ce5-b138-6d39609810b0",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "access-token",
   propertySlug: "access-token",
   definition: "the token a call to Anthropic carries",

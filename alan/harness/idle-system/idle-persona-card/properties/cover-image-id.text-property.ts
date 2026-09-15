@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const coverImageId = {
   id: "01a06596-f0d5-7009-9355-444abe7abd10",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "cover-image-id",
   propertySlug: "cover-image-id",
   definition: "the picture a card is shown by",

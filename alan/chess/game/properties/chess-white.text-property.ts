@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const chessWhite = {
   id: "01a06582-bd62-76ba-82e2-041212687bdc",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "chess-white",
   propertySlug: "white",
   definition: "who played the white pieces",

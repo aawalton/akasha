@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const masteryBehaviour = {
   id: "01a0784a-cdba-7f44-8b2a-45ca64505638",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "mastery-behaviour",
   propertySlug: "behaviour",
   definition: "what Alan does in an interview at a rung",

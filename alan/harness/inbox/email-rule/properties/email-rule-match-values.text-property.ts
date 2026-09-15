@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const emailRuleMatchValues = {
   id: "01a06860-549f-7515-8899-efaf83c51fbe",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "email-rule-match-values",
   propertySlug: "values",
   definition: "what a clause has to weigh a piece of mail against",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const agentId = {
   id: "01a062c8-99b7-7bd3-91ac-676da441cf14",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "agent-id",
   propertySlug: "agent-id",
   definition: "the id an agent acts under",

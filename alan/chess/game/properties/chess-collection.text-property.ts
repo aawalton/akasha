@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const chessCollection = {
   id: "01a06582-bd62-7684-a6cb-b0074eea56fd",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "chess-collection",
   propertySlug: "collection",
   definition: "the set of games a game belongs to",

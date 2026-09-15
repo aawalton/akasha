@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const stillPath = {
   id: "01a06599-ee09-7009-8856-62cef5cf1699",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "still-path",
   propertySlug: "still-path",
   definition: "the path to a frame taken from an episode",

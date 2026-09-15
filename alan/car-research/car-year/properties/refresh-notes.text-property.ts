@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const refreshNotes = {
   id: "01a0659d-2433-793a-b935-c2e9affcdf56",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "refresh-notes",
   propertySlug: "refresh-notes",
   definition: "what changed from the model year before",

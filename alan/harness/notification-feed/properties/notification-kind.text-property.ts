@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const notificationKind = {
   id: "01a06861-e7cd-7e83-8908-2e79da801f95",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "notification-kind",
   propertySlug: "kind",
   definition: "what sort of thing a notification tells a person",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const chargingNetworkAccess = {
   id: "01a0659e-e27d-7692-bf6e-f1040e3a10bf",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "charging-network-access",
   propertySlug: "charging-network-access",
   definition: "which charging networks the make's cars can use",

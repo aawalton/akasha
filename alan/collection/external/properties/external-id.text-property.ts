@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const externalId = {
   id: "01a063de-2c60-701c-a29a-210d22f0ac68",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "external-id",
   propertySlug: "external-id",
   definition: "the id the source gives a collection",

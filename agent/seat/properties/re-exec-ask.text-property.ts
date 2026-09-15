@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const reExecAsk = {
   id: "01a05810-00ac-7843-9198-1c1fed82fd40",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "re-exec-ask",
   propertySlug: "re-exec-ask",
   definition: "the standing of a seat's request to re-exec its supervisor",

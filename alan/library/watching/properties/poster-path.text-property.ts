@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const posterPath = {
   id: "01a06599-ee09-7008-9531-f53ecb8ff93d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "poster-path",
   propertySlug: "poster-path",
   definition: "the path to the artwork representing a collection",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const buildInputTreeHash = {
   id: "01a0685d-b81f-7f70-8ae2-8933a7780ba3",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "build-input-tree-hash",
   propertySlug: "build-input-tree-hash",
   definition: "the hash of everything a build reads, which a cut is judged owed against",

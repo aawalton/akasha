@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const errorReleaseSha = {
   id: "01a05f3f-e3e0-7d68-b1de-729068552c64",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "error-release-sha",
   propertySlug: "release-sha",
   definition: "the build a client was running when a client met an error",

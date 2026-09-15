@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const toDoSlug = {
   id: "01a05fd8-c30f-7596-9f3a-87a4dbea614a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "to-do-slug",
   propertySlug: "to-do-slug",
   definition: "the to-do a round finished",

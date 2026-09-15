@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const safetyLevel = {
   id: "01a05fd8-c30f-757c-bda6-861e73844e8b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "safety-level",
   propertySlug: "safety-level",
   definition: "how safe Alan was over a stretch of time",

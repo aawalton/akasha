@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const parentCorporation = {
   id: "01a0659e-e27e-75d6-b668-b62aac3a3430",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "parent-corporation",
   propertySlug: "parent-corporation",
   definition: "the group the make belongs to",

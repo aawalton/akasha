@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const caseAgainst = {
   id: "01a090dc-6a68-7d53-96a4-6a504d4d4e74",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "case-against",
   propertySlug: "against",
   definition: "what a case's text is judged by",

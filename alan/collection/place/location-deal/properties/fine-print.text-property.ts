@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const finePrint = {
   id: "01a06585-5fc5-7feb-a38e-a2e80bb553df",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "fine-print",
   propertySlug: "fine-print",
   definition: "what the offer does not cover",

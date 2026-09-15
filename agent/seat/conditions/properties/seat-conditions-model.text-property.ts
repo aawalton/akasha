@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const seatConditionsModel = {
   id: "01a0687a-3d99-79f8-990a-c6349cc5ffba",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "seat-conditions-model",
   propertySlug: "model",
   definition: "the model a seat's agent answers on",

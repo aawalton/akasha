@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const statementLine = {
   id: "01a0680b-2b00-7006-b917-5d4a8e2f2107",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "statement-line",
   propertySlug: "statement-line",
   definition: "the words the bank put on a row",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const trackName = {
   id: "01a06240-340f-7008-a8a3-bad46ed077b9",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "track-name",
   propertySlug: "track-name",
   definition: "the name Spotify gives a track",

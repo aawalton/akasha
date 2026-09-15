@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const difficultyLevel = {
   id: "01a05fd8-c30f-7785-9331-9f5fa8347452",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "difficulty-level",
   propertySlug: "difficulty-level",
   definition: "how hard what Alan was doing was on him",

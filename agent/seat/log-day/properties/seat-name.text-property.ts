@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const seatName = {
   id: "01a0657c-cb14-7705-a95e-4fca37cc48c2",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "seat-name",
   propertySlug: "seat-name",
   definition: "the name of the seat whose processes wrote a day of lines",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const messageBody = {
   id: "01a06818-107b-7003-af7a-fe09cd6ace6c",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "message-body",
   propertySlug: "body",
   definition: "the words a message carries",

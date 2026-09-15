@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const providerModel = {
   id: "01a0a58f-cc4a-7894-a509-4e7368942ded",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "provider-model",
   propertySlug: "provider-model",
   definition: "the model akasha asks a provider for by the provider's own name",

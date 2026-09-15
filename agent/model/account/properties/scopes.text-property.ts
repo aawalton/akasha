@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const scopes = {
   id: "01a054d8-1d39-7232-855e-3f83e6fed615",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "scopes",
   propertySlug: "scopes",
   definition: "one permission the account's token was granted",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const version = {
   id: "01a05fd8-c30e-725c-ab9a-c6711e453753",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "version",
   propertySlug: "version",
   definition: "which shape of a record was written",

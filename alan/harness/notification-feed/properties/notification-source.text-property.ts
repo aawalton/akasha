@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const notificationSource = {
   id: "01a06861-e7cd-7e4f-abcb-e800a07e4427",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "notification-source",
   propertySlug: "source",
   definition: "what pushed a notification",

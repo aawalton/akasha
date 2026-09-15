@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const sourceGameId = {
   id: "01a06582-bd62-7860-929a-ca713a01c46e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "source-game-id",
   propertySlug: "source-game-id",
   definition: "the id a source gives a game",

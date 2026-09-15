@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const scriptureBook = {
   id: "01a0658d-fe50-7003-842b-538187e1ae93",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "scripture-book",
   propertySlug: "book",
   definition: "the book of scripture a passage is in",

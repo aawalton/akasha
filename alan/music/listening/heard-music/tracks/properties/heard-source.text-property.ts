@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const heardSource = {
   id: "01a06240-340f-700e-a486-9e430bc408b2",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "heard-source",
   propertySlug: "heard-source",
   definition: "where a heard track was learned from",

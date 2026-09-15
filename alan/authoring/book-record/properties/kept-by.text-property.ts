@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const keptBy = {
   id: "01a0657d-b91d-7200-a73d-8b8122726299",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "kept-by",
   propertySlug: "kept-by",
   definition: "what keeps a record current",

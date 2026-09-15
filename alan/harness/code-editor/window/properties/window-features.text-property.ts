@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const windowFeatures = {
   id: "01a0a158-a6b7-7389-9d78-445ec2c88b62",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "window-features",
   propertySlug: "features",
   definition: "the document holding what a window last observed of each of its features",

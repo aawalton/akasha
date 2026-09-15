@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const titleKey = {
   id: "01a06240-340f-700c-8b23-d85323898292",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "title-key",
   propertySlug: "title-key",
   definition: "the text a track title and an artist name are matched by",

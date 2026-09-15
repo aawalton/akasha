@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const bodyStyle = {
   id: "01a0659a-4bc5-7022-a7fc-eb2d3bb23b11",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "body-style",
   propertySlug: "body-style",
   definition: "the shape of the body",

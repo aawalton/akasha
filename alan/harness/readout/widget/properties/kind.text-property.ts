@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const kind = {
   id: "01a05480-1c88-782b-99a4-ae4cc4ac019e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "kind",
   propertySlug: "kind",
   definition: "the name a placed tile is bound to on the device",

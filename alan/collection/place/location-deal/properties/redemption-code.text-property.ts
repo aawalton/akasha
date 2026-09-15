@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const redemptionCode = {
   id: "01a06585-5fc5-776e-b99f-aefd3a1f5ffe",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "redemption-code",
   propertySlug: "redemption-code",
   definition: "what to give to claim the offer",

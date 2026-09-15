@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const rateLimitTier = {
   id: "01a054d8-1d39-7f41-9807-f31d695573c1",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "rate-limit-tier",
   propertySlug: "rate-limit-tier",
   definition: "the band the size of the account's allowance is set by",

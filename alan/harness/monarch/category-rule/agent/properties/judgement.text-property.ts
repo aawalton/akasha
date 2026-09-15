@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const judgement = {
   id: "01a0680c-3c00-7006-b482-7d1f5a8c3107",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "judgement",
   propertySlug: "judgement",
   definition: "what an agent catching a transaction is told to do with it",

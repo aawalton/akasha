@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const errorMessage = {
   id: "01a05f3f-e3e0-7450-8ae9-c82bf3ef1359",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "error-message",
   propertySlug: "message",
   definition: "what an error said when a client met the error",

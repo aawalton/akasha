@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const dealKey = {
   id: "01a06585-5fc5-743b-a66b-aa44d040b918",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "deal-key",
   propertySlug: "deal-key",
   definition: "what the source calls the offer",

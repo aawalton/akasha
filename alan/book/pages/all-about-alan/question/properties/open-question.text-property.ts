@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const openQuestion = {
   id: "01a077d9-ec58-7954-9180-8711659f84bd",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "open-question",
   propertySlug: "ask",
   definition: "what is still open about a topic, put as one question",

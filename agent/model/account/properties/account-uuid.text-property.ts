@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const accountUuid = {
   id: "01a054d8-1d39-7b26-b3d7-5857ea15a1b4",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "account-uuid",
   propertySlug: "account-uuid",
   definition: "the identity Anthropic knows the account by",

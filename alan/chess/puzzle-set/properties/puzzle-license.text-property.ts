@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const puzzleLicense = {
   id: "01a06582-bd62-786a-a2c2-a8e5939869a4",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "puzzle-license",
   propertySlug: "license",
   definition: "the licence a puzzle is published under",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const transcriptPath = {
   id: "01a053f0-366d-7612-bbb6-6be4383f12b7",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "transcript-path",
   propertySlug: "transcript-path",
   definition: "where a seat writes what was said in it",

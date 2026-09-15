@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const colorSlug = {
   id: "01a063bd-a526-78ae-ab87-fd2bf86d9fad",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "color-slug",
   propertySlug: "color-slug",
   definition: "the color a reading is always drawn in",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const motifId = {
   id: "01a06582-bd62-7e31-83b4-f252d4b9e91c",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "motif-id",
   propertySlug: "motif-id",
   definition: "the Lichess theme a motif is named by",

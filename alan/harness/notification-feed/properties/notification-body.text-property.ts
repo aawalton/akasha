@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const notificationBody = {
   id: "01a06861-e7cd-7f02-b4fd-2b9ffca4ccae",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "notification-body",
   propertySlug: "body",
   definition: "the words under a notification's title",

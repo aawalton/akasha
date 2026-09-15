@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const topicSettled = {
   id: "01a0655a-b2b5-7a06-9305-be9592eba1ec",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "topic-settled",
   propertySlug: "settled",
   definition: "what is worked out about a topic",

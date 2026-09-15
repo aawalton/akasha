@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const sourceName = {
   id: "01a060fb-040f-7e46-8cbb-1cc3db787009",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "source-name",
   propertySlug: "source-name",
   definition: "what recorded a reading",

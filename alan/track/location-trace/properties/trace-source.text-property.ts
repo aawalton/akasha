@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const traceSource = {
   id: "01a06935-68b5-768c-abad-bcf6356b4cfe",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "trace-source",
   propertySlug: "source",
   definition: "what put this trace in the store",

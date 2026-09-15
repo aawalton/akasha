@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const registrationAccount = {
   id: "01a05397-7f9b-783b-b5ec-f0b163957fdf",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "registration-account",
   propertySlug: "registration-account",
   definition: "the account an agent in a seat signs in as",

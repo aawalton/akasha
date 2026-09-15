@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const errorFingerprint = {
   id: "01a05f3f-e3e0-7721-9fec-e8292e22a4da",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "error-fingerprint",
   propertySlug: "fingerprint",
   definition: "the hash telling one error apart from another",

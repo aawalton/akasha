@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const effortLevel = {
   id: "01a06861-f664-75ef-9d6e-47a09eef368b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "effort-level",
   propertySlug: "effort-level",
   definition: "how much reasoning a seat spends before it answers",
