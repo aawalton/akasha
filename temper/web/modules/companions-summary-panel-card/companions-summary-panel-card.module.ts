@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionsSummaryPanelCard = {
   id: "01a06421-f74b-78d4-a5e8-7585a0c50020",
-  type: "module",
+  type: "page-type/module",
   slug: "companions-summary-panel-card",
   definition: "each companion-scope card as one row of count against total",
   code: "tsx",

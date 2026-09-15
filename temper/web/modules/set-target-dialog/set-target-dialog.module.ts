@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setTargetDialog = {
   id: "01a06429-76ff-7b98-9350-f3aedb167a1a",
-  type: "module",
+  type: "page-type/module",
   slug: "set-target-dialog",
   definition: "the list a build is pointed at one character or companion from",
   code: "tsx",

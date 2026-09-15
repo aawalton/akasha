@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const poiProgressPanelCard = {
   id: "01a06421-f74b-7495-9d7c-97bbda0a0031",
-  type: "module",
+  type: "page-type/module",
   slug: "poi-progress-panel-card",
   definition: "the points of interest each selected character has discovered, by zone",
   code: "tsx",

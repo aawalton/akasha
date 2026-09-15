@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const wholeWriting = {
   id: "01a09429-a77b-7673-8ae4-d384444c7b7a",
-  type: "module",
+  type: "page-type/module",
   slug: "whole-writing",
   definition: "a run of bytes written to a destination until every byte of it is gone",
   code: "ts",

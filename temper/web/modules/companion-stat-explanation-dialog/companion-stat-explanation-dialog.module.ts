@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionStatExplanationDialog = {
   id: "01a0642f-8c33-75e7-82a4-35f9043c93a5",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-stat-explanation-dialog",
   definition: "the dialog saying how a companion stat is worked out",
   code: "tsx",

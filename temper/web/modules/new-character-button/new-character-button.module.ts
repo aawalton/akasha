@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const newCharacterButton = {
   id: "01a0642c-5b9c-748d-9111-0b2a062c4a0c",
-  type: "module",
+  type: "page-type/module",
   slug: "new-character-button",
   definition: "the button making a new character",
   code: "tsx",

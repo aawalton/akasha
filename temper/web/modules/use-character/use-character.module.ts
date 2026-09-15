@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useCharacter = {
   id: "01a0642c-5b99-71e1-bde9-d4fe6fc74a10",
-  type: "module",
+  type: "page-type/module",
   slug: "use-character",
   definition: "the hook reading one character",
   code: "ts",

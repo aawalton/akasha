@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const temperPagesResolver = {
   id: "01a0640f-8510-7c72-8ea7-ff3cbcdf74b3",
-  type: "module",
+  type: "page-type/module",
   slug: "temper-pages-resolver",
   definition: "every temper page a browser holds, gathered into one list beside the page types",
   code: "ts",

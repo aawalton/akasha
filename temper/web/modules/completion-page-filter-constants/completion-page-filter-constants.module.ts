@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionPageFilterConstants = {
   id: "01a06421-f74b-7781-8fbc-50d8d5c90026",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-page-filter-constants",
   definition: "the tabs, statuses, skill types and sort options the completion page admits",
   code: "ts",

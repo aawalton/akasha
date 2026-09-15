@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const statsFiltering = {
   id: "01a0642c-5bbf-732d-9839-5952186d77f9",
-  type: "module",
+  type: "page-type/module",
   slug: "stats-filtering",
   definition: "what filters a character's stats",
   code: "ts",

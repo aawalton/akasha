@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fileSize = {
   id: "01a08182-0997-7171-8a4f-afaacaf31310",
-  type: "module",
+  type: "page-type/module",
   slug: "file-size",
   definition: "how many bytes a file has, and none where no file is there",
   code: "ts",

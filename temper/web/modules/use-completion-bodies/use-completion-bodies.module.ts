@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useCompletionBodies = {
   id: "01a076b9-598a-7c82-b905-b629a56a823f",
-  type: "module",
+  type: "page-type/module",
   slug: "use-completion-bodies",
   definition: "the completion bodies one view asks for, keyed by the page each body is beside",
   code: "ts",

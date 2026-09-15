@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionAccountTab = {
   id: "01a06421-f74b-7a4c-b82f-b33ca8d80021",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-account-tab",
   definition: "the completion page's account tab, its toolbar and its cards",
   code: "tsx",

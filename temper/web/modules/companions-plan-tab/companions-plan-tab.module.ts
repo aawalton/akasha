@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionsPlanTab = {
   id: "01a06421-2528-72ff-bdf2-df35b8e3aa96",
-  type: "module",
+  type: "page-type/module",
   slug: "companions-plan-tab",
   definition: "the tab a companion plan is worked in",
   code: "tsx",

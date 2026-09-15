@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const expandTilde = {
   id: "01a05c4c-9442-70c2-948c-b1d7ad5a033f",
-  type: "module",
+  type: "page-type/module",
   slug: "expand-tilde",
   definition: "a path spelled from home read as the path it is at",
   code: "ts",

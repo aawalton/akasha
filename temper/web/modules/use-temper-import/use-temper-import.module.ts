@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useTemperImport = {
   id: "01a06432-b190-775e-b337-08bc9a817717",
-  type: "module",
+  type: "page-type/module",
   slug: "use-temper-import",
   definition: "the import a browser runs, from the file chosen to the result held",
   code: "ts",

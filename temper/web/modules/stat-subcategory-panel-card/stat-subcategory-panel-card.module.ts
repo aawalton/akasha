@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const statSubcategoryPanelCard = {
   id: "01a0642c-5bb7-7f56-9e1c-3a255f82812a",
-  type: "module",
+  type: "page-type/module",
   slug: "stat-subcategory-panel-card",
   definition: "a panel card with one stat subcategory",
   code: "tsx",

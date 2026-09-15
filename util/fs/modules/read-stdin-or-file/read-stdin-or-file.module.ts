@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readStdinOrFile = {
   id: "01a069da-b9b3-7442-87a9-339906b70ec3",
-  type: "module",
+  type: "page-type/module",
   slug: "read-stdin-or-file",
   definition: "text read from a named file or from standard input",
   code: "ts",

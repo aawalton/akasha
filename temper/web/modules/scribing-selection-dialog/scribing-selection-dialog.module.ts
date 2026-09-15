@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scribingSelectionDialog = {
   id: "01a0642c-5ba8-76f0-8d13-0dc1889af9a0",
-  type: "module",
+  type: "page-type/module",
   slug: "scribing-selection-dialog",
   definition: "the dialog selecting a grimoire to scribe",
   code: "tsx",

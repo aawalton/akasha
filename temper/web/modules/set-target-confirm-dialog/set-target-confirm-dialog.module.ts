@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setTargetConfirmDialog = {
   id: "01a06429-76ff-7de4-95e8-3c9c7552751b",
-  type: "module",
+  type: "page-type/module",
   slug: "set-target-confirm-dialog",
   definition: "the question asked before a hand-edited target build is overwritten",
   code: "tsx",

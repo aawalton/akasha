@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const loreLibraryPanelCard = {
   id: "01a06421-f74b-7373-9a5c-c7e2f302002c",
-  type: "module",
+  type: "page-type/module",
   slug: "lore-library-panel-card",
   definition: "the lore books the account has collected, by category and collection",
   code: "tsx",

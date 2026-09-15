@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const armedTimer = {
   id: "01a090ab-acc0-7541-a3a9-a1241d1ee505",
-  type: "module",
+  type: "page-type/module",
   slug: "armed-timer",
   definition: "the one timeout a caller has pending, armed again or stopped",
   code: "ts",

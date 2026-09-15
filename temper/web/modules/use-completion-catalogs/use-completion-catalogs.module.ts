@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useCompletionCatalogs = {
   id: "01a06421-f74b-780d-8790-490781880039",
-  type: "module",
+  type: "page-type/module",
   slug: "use-completion-catalogs",
   definition: "the catalogs a completion tab reads its totals from",
   code: "ts",

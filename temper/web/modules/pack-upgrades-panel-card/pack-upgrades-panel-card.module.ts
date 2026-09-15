@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const packUpgradesPanelCard = {
   id: "01a06421-f74b-7e32-bfcc-89e562840030",
-  type: "module",
+  type: "page-type/module",
   slug: "pack-upgrades-panel-card",
   definition: "each selected character's inventory slots against the most there are",
   code: "tsx",

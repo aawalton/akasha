@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pricingPostAnswer = {
   id: "01a090c4-43b0-786e-815e-1f7e9f75944e",
-  type: "module",
+  type: "page-type/module",
   slug: "pricing-post-answer",
   definition: "the answer a watcher's pricing post is given where none is kept",
   code: "ts",

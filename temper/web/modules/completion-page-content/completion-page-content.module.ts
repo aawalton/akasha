@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionPageContent = {
   id: "01a06421-f74b-752c-aa6e-fc3008690024",
-  type: "module",
+  type: "page-type/module",
   slug: "completion-page-content",
   definition: "the completion page's tabs and what each tab is handed to draw",
   code: "tsx",

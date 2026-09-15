@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useCompanionSuggestions = {
   id: "01a0641f-8bec-7494-8de4-af5227c3f0e5",
-  type: "module",
+  type: "page-type/module",
   slug: "use-companion-suggestions",
   definition: "what a companion could change, worked out from its build",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scratching = {
   id: "01a04e38-e129-7fb0-90d9-b552acc212d8",
-  type: "module",
+  type: "page-type/module",
   slug: "scratching",
   definition:
     "the scratch root a test sets up, the bodies it puts there, and the sweep that takes it",

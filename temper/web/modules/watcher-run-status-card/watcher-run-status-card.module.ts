@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherRunStatusCard = {
   id: "01a06432-b190-77c4-a0e2-46c923c46a0e",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-run-status-card",
   definition: "the card telling what the watcher is running and how far along it is",
   code: "tsx",

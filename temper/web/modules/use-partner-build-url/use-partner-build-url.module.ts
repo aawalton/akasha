@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const usePartnerBuildUrl = {
   id: "01a0642c-5ba0-7e65-954a-519b5a74107a",
-  type: "module",
+  type: "page-type/module",
   slug: "use-partner-build-url",
   definition: "the hook reading a partner build's url",
   code: "ts",

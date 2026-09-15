@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherBuildStatusCard = {
   id: "01a06432-b190-7d94-813e-11eb504fe26c",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-build-status-card",
   definition: "the card telling what the watcher last built and how that build went",
   code: "tsx",

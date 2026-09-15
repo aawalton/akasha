@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dungeonsTab = {
   id: "01a06432-b190-7747-916a-01f0593a3621",
-  type: "module",
+  type: "page-type/module",
   slug: "dungeons-tab",
   definition: "the dungeons tab of the catalog",
   code: "tsx",
