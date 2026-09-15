@@ -2,7 +2,7 @@ import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effect/temper
 
 export const majorBerserk = {
   id: "01a05fc5-f6b7-7ec9-992e-57834ce2780d",
-  type: "temper-buff-major",
+  type: "page-type/temper-buff-major",
   slug: "major-berserk",
   title: "Major Berserk",
   key: "major-berserk",

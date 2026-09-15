@@ -2,7 +2,7 @@ import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effect/temper
 
 export const majorFortitude = {
   id: "01a05fc5-f6b9-7b48-829b-343e32458dad",
-  type: "temper-buff-major",
+  type: "page-type/temper-buff-major",
   slug: "major-fortitude",
   title: "Major Fortitude",
   key: "major-fortitude",

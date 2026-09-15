@@ -2,7 +2,7 @@ import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effect/temper
 
 export const majorSorcery = {
   id: "01a05fc5-f6bc-7edc-a10c-5353f828d187",
-  type: "temper-buff-major",
+  type: "page-type/temper-buff-major",
   slug: "major-sorcery",
   title: "Major Sorcery",
   key: "major-sorcery",

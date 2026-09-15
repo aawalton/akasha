@@ -2,7 +2,7 @@ import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effect/temper
 
 export const majorProphecy = {
   id: "01a05fc5-f6ba-7d80-ae6d-744402fa840f",
-  type: "temper-buff-major",
+  type: "page-type/temper-buff-major",
   slug: "major-prophecy",
   title: "Major Prophecy",
   key: "major-prophecy",

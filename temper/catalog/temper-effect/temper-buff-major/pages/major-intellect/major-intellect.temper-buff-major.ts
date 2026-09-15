@@ -2,7 +2,7 @@ import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effect/temper
 
 export const majorIntellect = {
   id: "01a05fc5-f6ba-7dbb-8217-e5518c164545",
-  type: "temper-buff-major",
+  type: "page-type/temper-buff-major",
   slug: "major-intellect",
   title: "Major Intellect",
   key: "major-intellect",

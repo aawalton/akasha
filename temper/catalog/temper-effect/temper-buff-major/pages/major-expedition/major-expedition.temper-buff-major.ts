@@ -2,7 +2,7 @@ import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effect/temper
 
 export const majorExpedition = {
   id: "01a05fc5-f6b8-76fe-a2ed-ed6749cdb7e9",
-  type: "temper-buff-major",
+  type: "page-type/temper-buff-major",
   slug: "major-expedition",
   title: "Major Expedition",
   key: "major-expedition",
