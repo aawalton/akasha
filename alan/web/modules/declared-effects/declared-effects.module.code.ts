@@ -3,7 +3,7 @@ import {
   type ActionVerbContext,
   type ActionVerbHandler,
   registerActionVerb,
-} from "akasha/page/ui/action-verbs/modules/action-verb-registry/action-verb-registry.module.code.ts"
+} from "akasha/page/ui/action-verb/modules/action-verb-registry/action-verb-registry.module.code.ts"
 
 const declaredEffectsHandler: ActionVerbHandler = (_ctx: ActionVerbContext) => {}
 

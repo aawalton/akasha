@@ -8,7 +8,7 @@ import {
   type ActionPresentation,
   type ActionVerbContext,
   registerActionVerb,
-} from "akasha/page/ui/action-verbs/modules/action-verb-registry/action-verb-registry.module.code.ts"
+} from "akasha/page/ui/action-verb/modules/action-verb-registry/action-verb-registry.module.code.ts"
 import { z } from "zod"
 
 const train10CardSchema = z.object({

@@ -8,7 +8,7 @@ export const pageUi = {
 
   parts: [
     "domain/components",
-    "domain/page-ui-action-verbs",
+    "domain/page-ui-action-verb",
     "domain/page-ui-app-version",
     "domain/page-ui-block-editor",
     "domain/page-ui-cache",

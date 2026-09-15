@@ -11,7 +11,7 @@ import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.
 import {
   getActionVerb,
   getActionVerbPresentation,
-} from "akasha/page/ui/action-verbs/modules/action-verb-registry/action-verb-registry.module.code.ts"
+} from "akasha/page/ui/action-verb/modules/action-verb-registry/action-verb-registry.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { type MouseEvent, useEffect } from "react"
