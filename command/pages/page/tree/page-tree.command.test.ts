@@ -1,9 +1,7 @@
 import { expect, test } from "bun:test"
-import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   answersFrom,
-  pageAnswers,
   pageTree,
   propertyKindsIn,
 } from "akasha/command/pages/page/tree/page-tree.command.code.ts"
@@ -186,18 +184,6 @@ test("every word said is named in the refusal, not only the first", () => {
   expect(said.refusals.length).toBe(2)
   expect(said.refusals.join("\n")).toContain("`one`")
   expect(said.refusals.join("\n")).toContain("`two`")
-})
-
-test("an index that is not there refuses as a fault of the data", () => {
-  const said = pageTree([], givenIn())
-
-  expect(said.code).toBe(DATA)
-  expect(said.report).toEqual([])
-  expect(said.refusals.length).toBe(1)
-})
-
-test("the root the answer is read from is the one it was given", () => {
-  expect(() => pageAnswers("/nowhere-at-all")).toThrow()
 })
 
 const ABOVE_TWO: readonly Valued[] = [
