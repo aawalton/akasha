@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const especiallyForYouEfyEfy1998JoyInTheJourney = {
   id: "01a0676a-d71c-7053-8a62-35a15b89a06e",
-  type: "release",
+  type: "page-type/release",
   slug: "especially-for-you-efy-efy-1998-joy-in-the-journey",
   title: "Efy 1998 - Joy in the Journey",
   partOfCollections: ["release-collection/especially-for-you-efy"],

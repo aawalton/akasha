@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaPortraitShortVersion = {
   id: "01a0676a-d727-7008-953b-cb99b489988c",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-portrait-short-version",
   title: "Portrait (Short Version)",
   partOfCollections: ["artist/enya"],

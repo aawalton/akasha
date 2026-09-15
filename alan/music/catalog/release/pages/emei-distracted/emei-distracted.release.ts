@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emeiDistracted = {
   id: "01a0676a-d71c-7015-994f-0024a278a7cc",
-  type: "release",
+  type: "page-type/release",
   slug: "emei-distracted",
   title: "Distracted",
   partOfCollections: ["artist/emei"],

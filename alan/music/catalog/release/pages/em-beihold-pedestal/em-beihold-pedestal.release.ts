@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emBeiholdPedestal = {
   id: "01a0676a-d726-706a-8bbf-100004e11a77",
-  type: "release",
+  type: "page-type/release",
   slug: "em-beihold-pedestal",
   title: "Pedestal",
   partOfCollections: ["artist/em-beihold"],

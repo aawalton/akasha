@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineWhatKindOfManLiveFromDermotOlearysSaturdaySessions2016 = {
   id: "01a0a5cd-4532-74bc-9803-faa6a3684008",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-what-kind-of-man-live-from-dermot-olearys-saturday-sessions-2016",
   ownLength: 4.050433333333333,
   ownProgress: 0,

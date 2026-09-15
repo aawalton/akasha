@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHall = {
   id: "01a0676a-d72b-700c-9f8e-141029c59493",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall",
   title: "Symphony of Lungs - BBC Proms at the Royal Albert Hall",
   partOfCollections: ["artist/florence-the-machine"],

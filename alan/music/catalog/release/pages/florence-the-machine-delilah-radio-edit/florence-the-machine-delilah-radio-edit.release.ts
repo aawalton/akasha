@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineDelilahRadioEdit = {
   id: "01a0676a-d71c-7007-82c6-e244ba9f4311",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-delilah-radio-edit",
   title: "Delilah (Radio Edit)",
   partOfCollections: ["artist/florence-the-machine"],

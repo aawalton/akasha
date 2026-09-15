@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const especiallyForYouEfyAMoreExcellentWayEfy2005 = {
   id: "01a0676a-d715-7033-92ea-3444ab37a3c4",
-  type: "release",
+  type: "page-type/release",
   slug: "especially-for-you-efy-a-more-excellent-way-efy-2005",
   title: "A More Excellent Way: Efy 2005",
   partOfCollections: ["release-collection/especially-for-you-efy"],

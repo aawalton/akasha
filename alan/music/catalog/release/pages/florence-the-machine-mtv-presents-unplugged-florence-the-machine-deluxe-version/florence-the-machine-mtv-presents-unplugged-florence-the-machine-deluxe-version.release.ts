@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersion = {
   id: "01a0676a-d725-7015-b40a-c4177dfb9c0c",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-deluxe-version",
   title: "MTV Presents Unplugged: Florence + The Machine (Deluxe Version)",
   partOfCollections: ["artist/florence-the-machine"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineEverybodyScream2 = {
   id: "01a0676a-d71d-7036-9363-30a56f568092",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-everybody-scream-2",
   title: "Everybody Scream",
   partOfCollections: ["artist/florence-the-machine"],

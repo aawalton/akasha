@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const girlInRedIfICouldMakeItGoQuiet = {
   id: "01a0676a-d721-7052-ba45-b0b82628b0f3",
-  type: "release",
+  type: "page-type/release",
   slug: "girl-in-red-if-i-could-make-it-go-quiet",
   title: "if i could make it go quiet",
   partOfCollections: ["artist/girl-in-red"],

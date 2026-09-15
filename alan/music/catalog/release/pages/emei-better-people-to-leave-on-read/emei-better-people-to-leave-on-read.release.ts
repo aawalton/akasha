@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emeiBetterPeopleToLeaveOnRead = {
   id: "01a0676a-d718-704e-af7a-1b120aed71f6",
-  type: "release",
+  type: "page-type/release",
   slug: "emei-better-people-to-leave-on-read",
   title: "Better People To Leave On Read",
   partOfCollections: ["artist/emei"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineLightOfLove = {
   id: "01a0676a-d723-702e-9f36-92cafbd4b58c",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-light-of-love",
   title: "Light Of Love",
   partOfCollections: ["artist/florence-the-machine"],

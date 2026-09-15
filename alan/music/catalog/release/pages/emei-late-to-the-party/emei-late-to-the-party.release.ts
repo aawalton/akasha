@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emeiLateToTheParty = {
   id: "01a0676a-d722-705f-8786-cdb9e10427e6",
-  type: "release",
+  type: "page-type/release",
   slug: "emei-late-to-the-party",
   title: "Late to the Party",
   partOfCollections: ["artist/emei"],

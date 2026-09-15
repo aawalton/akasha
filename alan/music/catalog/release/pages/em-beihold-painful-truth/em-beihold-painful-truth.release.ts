@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emBeiholdPainfulTruth = {
   id: "01a0676a-d726-7058-a970-e5a2986b0e34",
-  type: "release",
+  type: "page-type/release",
   slug: "em-beihold-painful-truth",
   title: "Painful Truth",
   partOfCollections: ["artist/em-beihold"],

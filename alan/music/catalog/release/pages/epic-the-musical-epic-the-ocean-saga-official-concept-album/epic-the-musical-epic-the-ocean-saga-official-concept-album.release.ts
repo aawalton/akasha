@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const epicTheMusicalEpicTheOceanSagaOfficialConceptAlbum = {
   id: "01a0676a-d71d-701b-8610-9503c5ea2111",
-  type: "release",
+  type: "page-type/release",
   slug: "epic-the-musical-epic-the-ocean-saga-official-concept-album",
   title: "EPIC: The Ocean Saga (Official Concept Album)",
   partOfCollections: ["artist/epic-the-musical"],

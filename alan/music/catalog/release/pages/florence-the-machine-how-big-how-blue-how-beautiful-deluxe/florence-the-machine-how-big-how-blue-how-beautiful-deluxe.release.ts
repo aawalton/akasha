@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineHowBigHowBlueHowBeautifulDeluxe = {
   id: "01a0676a-d720-706b-9a46-568cbc31adf4",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-how-big-how-blue-how-beautiful-deluxe",
   title: "How Big, How Blue, How Beautiful (Deluxe)",
   partOfCollections: ["artist/florence-the-machine"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const girlInRedTwoQueensInAKingSizedBed = {
   id: "01a0676a-d72f-7029-8e25-4ad8fe4e9c7f",
-  type: "release",
+  type: "page-type/release",
   slug: "girl-in-red-two-queens-in-a-king-sized-bed",
   title: "two queens in a king sized bed",
   partOfCollections: ["artist/girl-in-red"],

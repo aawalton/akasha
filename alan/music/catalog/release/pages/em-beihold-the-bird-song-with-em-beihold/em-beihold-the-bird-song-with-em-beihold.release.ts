@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emBeiholdTheBirdSongWithEmBeihold = {
   id: "01a0676a-d72c-7032-a15f-60dfcfdd73d4",
-  type: "release",
+  type: "page-type/release",
   slug: "em-beihold-the-bird-song-with-em-beihold",
   title: "The Bird Song (with Em Beihold)",
   partOfCollections: ["artist/em-beihold"],

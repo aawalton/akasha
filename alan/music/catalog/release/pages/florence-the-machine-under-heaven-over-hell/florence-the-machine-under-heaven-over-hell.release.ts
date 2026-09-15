@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineUnderHeavenOverHell = {
   id: "01a0676a-d72f-7032-b383-1a46fd1c0b9e",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-under-heaven-over-hell",
   title: "Under Heaven Over Hell",
   partOfCollections: ["artist/florence-the-machine"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineALotOfLoveALotOfBlood2 = {
   id: "01a0676a-d715-702e-9d0a-3e5b5942fc69",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-a-lot-of-love-a-lot-of-blood-2",
   title: "A Lot of Love....a Lot of Blood",
   partOfCollections: ["artist/florence-the-machine"],

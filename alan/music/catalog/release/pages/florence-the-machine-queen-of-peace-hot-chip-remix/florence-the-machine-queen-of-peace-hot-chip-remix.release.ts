@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineQueenOfPeaceHotChipRemix = {
   id: "01a0676a-d727-7038-86df-be145664b6c8",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-queen-of-peace-hot-chip-remix",
   title: "Queen Of Peace (Hot Chip Remix)",
   partOfCollections: ["artist/florence-the-machine"],

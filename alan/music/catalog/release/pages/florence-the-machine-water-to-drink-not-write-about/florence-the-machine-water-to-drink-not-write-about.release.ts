@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineWaterToDrinkNotWriteAbout = {
   id: "01a0676a-d730-701b-ab4b-7577f5fcf0e7",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-water-to-drink-not-write-about",
   title: "Water To Drink Not Write About",
   partOfCollections: ["artist/florence-the-machine"],

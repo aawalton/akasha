@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emeiGingerTea = {
   id: "01a0676a-d71e-7065-a4a0-5c265dce825d",
-  type: "release",
+  type: "page-type/release",
   slug: "emei-ginger-tea",
   title: "Ginger Tea",
   partOfCollections: ["artist/emei"],

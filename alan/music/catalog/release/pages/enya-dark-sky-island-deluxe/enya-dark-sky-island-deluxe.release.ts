@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaDarkSkyIslandDeluxe = {
   id: "01a0676a-d71b-7069-93f8-187cbc6b8436",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-dark-sky-island-deluxe",
   title: "Dark Sky Island (Deluxe)",
   partOfCollections: ["artist/enya"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineHeavenIsHere = {
   id: "01a0676a-d720-7021-83b7-9992e6b965aa",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-heaven-is-here",
   title: "Heaven Is Here",
   partOfCollections: ["artist/florence-the-machine"],

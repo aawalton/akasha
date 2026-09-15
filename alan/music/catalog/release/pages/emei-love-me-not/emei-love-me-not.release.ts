@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emeiLoveMeNot = {
   id: "01a0676a-d723-7075-aef9-0aef5eee6f81",
-  type: "release",
+  type: "page-type/release",
   slug: "emei-love-me-not",
   title: "Love Me Not",
   partOfCollections: ["artist/emei"],

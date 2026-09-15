@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emBeiholdPhone = {
   id: "01a0676a-d726-7075-81ed-791914d0ba26",
-  type: "release",
+  type: "page-type/release",
   slug: "em-beihold-phone",
   title: "Phone",
   partOfCollections: ["artist/em-beihold"],

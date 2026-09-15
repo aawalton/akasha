@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineWhatKindOfManNicolasJaarRemix = {
   id: "01a0676a-d730-7049-abbf-eacb5dec8e00",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-what-kind-of-man-nicolas-jaar-remix",
   title: "What Kind Of Man (Nicolas Jaar Remix)",
   partOfCollections: ["artist/florence-the-machine"],

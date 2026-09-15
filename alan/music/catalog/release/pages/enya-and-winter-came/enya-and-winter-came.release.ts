@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaAndWinterCame = {
   id: "01a0676a-d717-701b-8a70-4aabaff9c0fa",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-and-winter-came",
   title: "And Winter Came...",
   partOfCollections: ["artist/enya"],

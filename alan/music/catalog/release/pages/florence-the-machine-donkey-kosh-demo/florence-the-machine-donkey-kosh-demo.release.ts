@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineDonkeyKoshDemo = {
   id: "01a0676a-d71c-7029-9d18-e9147fca128c",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-donkey-kosh-demo",
   title: "Donkey Kosh (Demo)",
   partOfCollections: ["artist/florence-the-machine"],

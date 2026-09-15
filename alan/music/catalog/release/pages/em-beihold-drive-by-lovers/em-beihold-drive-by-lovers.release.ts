@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emBeiholdDriveByLovers = {
   id: "01a0676a-d71c-703a-9082-33ecb610152b",
-  type: "release",
+  type: "page-type/release",
   slug: "em-beihold-drive-by-lovers",
   title: "Drive by Lovers",
   partOfCollections: ["artist/em-beihold"],

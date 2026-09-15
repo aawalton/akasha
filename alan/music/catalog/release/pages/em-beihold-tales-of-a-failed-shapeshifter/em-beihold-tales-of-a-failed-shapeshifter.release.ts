@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emBeiholdTalesOfAFailedShapeshifter = {
   id: "01a0676a-d72b-701c-afba-a2005f8fc8cb",
-  type: "release",
+  type: "page-type/release",
   slug: "em-beihold-tales-of-a-failed-shapeshifter",
   title: "Tales of a Failed Shapeshifter",
   partOfCollections: ["artist/em-beihold"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineSayMyNameExtendedRemix = {
   id: "01a0676a-d728-704c-b2a4-23912121f20e",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-say-my-name-extended-remix",
   title: "Say My Name (Extended Remix)",
   partOfCollections: ["artist/florence-the-machine"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineDanceFeverLiveAtMadisonSquareGarden = {
   id: "01a0676a-d71b-7057-bc6c-2e0db4cb5613",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-dance-fever-live-at-madison-square-garden",
   title: "Dance Fever (Live At Madison Square Garden)",
   partOfCollections: ["artist/florence-the-machine"],

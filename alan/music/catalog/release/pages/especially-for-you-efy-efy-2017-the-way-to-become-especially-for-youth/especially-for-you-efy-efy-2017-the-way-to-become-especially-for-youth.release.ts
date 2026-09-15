@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const especiallyForYouEfyEfy2017TheWayToBecomeEspeciallyForYouth = {
   id: "01a0676a-d71c-705e-9e37-623cfff66851",
-  type: "release",
+  type: "page-type/release",
   slug: "especially-for-you-efy-efy-2017-the-way-to-become-especially-for-youth",
   title: "EFY 2017 The Way to Become (Especially for Youth)",
   partOfCollections: ["release-collection/especially-for-you-efy"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emBeiholdEggInTheBackseat = {
   id: "01a0676a-d71c-7060-8732-bfbaad3e437b",
-  type: "release",
+  type: "page-type/release",
   slug: "em-beihold-egg-in-the-backseat",
   title: "Egg in the Backseat",
   partOfCollections: ["artist/em-beihold"],

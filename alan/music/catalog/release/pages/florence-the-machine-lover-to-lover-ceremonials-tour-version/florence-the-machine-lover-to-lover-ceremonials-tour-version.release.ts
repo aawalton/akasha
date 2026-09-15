@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineLoverToLoverCeremonialsTourVersion = {
   id: "01a0676a-d724-700d-abdd-1c0951316ab2",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-lover-to-lover-ceremonials-tour-version",
   title: "Lover To Lover (Ceremonials Tour Version)",
   partOfCollections: ["artist/florence-the-machine"],

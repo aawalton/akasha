@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineLungsDeluxeEdition = {
   id: "01a0676a-d724-7018-985f-ca05d32778c0",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-lungs-deluxe-edition",
   title: "Lungs (Deluxe Edition)",
   partOfCollections: ["artist/florence-the-machine"],

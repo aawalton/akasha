@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaMayItBe = {
   id: "01a0676a-d724-703d-916f-09dd3954c07a",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-may-it-be",
   title: "May It Be",
   partOfCollections: ["artist/enya"],

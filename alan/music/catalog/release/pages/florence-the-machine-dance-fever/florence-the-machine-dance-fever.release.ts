@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineDanceFever = {
   id: "01a0676a-d71b-7054-b0e8-610924c3e1f3",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-dance-fever",
   title: "Dance Fever",
   partOfCollections: ["artist/florence-the-machine"],

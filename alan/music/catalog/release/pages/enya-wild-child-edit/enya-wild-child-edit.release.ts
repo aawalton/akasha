@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaWildChildEdit = {
   id: "01a0676a-d731-701d-9420-780e08790610",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-wild-child-edit",
   title: "Wild Child (Edit)",
   partOfCollections: ["artist/enya"],

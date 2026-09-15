@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const especiallyForYouEfyEfy2006TheGreatestGift = {
   id: "01a0676a-d71c-7059-b63f-0695149ba82f",
-  type: "release",
+  type: "page-type/release",
   slug: "especially-for-you-efy-efy-2006-the-greatest-gift",
   title: "Efy 2006 - The Greatest Gift",
   partOfCollections: ["release-collection/especially-for-you-efy"],

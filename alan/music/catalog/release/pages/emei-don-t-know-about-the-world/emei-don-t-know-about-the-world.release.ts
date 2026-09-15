@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emeiDonTKnowAboutTheWorld = {
   id: "01a0676a-d71c-7021-8c2a-1de193d8efa0",
-  type: "release",
+  type: "page-type/release",
   slug: "emei-don-t-know-about-the-world",
   title: "Don't Know About The World",
   partOfCollections: ["artist/emei"],

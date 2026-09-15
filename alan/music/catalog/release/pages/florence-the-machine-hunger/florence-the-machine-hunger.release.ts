@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineHunger = {
   id: "01a0676a-d720-7073-bcd1-7aa29fcac86f",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-hunger",
   title: "Hunger",
   partOfCollections: ["artist/florence-the-machine"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emeiScatterbrain = {
   id: "01a0676a-d728-7054-9244-2e2006b40ea4",
-  type: "release",
+  type: "page-type/release",
   slug: "emei-scatterbrain",
   title: "Scatterbrain",
   partOfCollections: ["artist/emei"],

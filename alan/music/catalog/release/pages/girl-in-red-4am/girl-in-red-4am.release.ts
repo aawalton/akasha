@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const girlInRed4am = {
   id: "01a0676a-d715-700c-86a8-695aa262e8ff",
-  type: "release",
+  type: "page-type/release",
   slug: "girl-in-red-4am",
   title: "4am",
   partOfCollections: ["artist/girl-in-red"],

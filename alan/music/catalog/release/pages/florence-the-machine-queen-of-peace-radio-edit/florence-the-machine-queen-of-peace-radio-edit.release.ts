@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineQueenOfPeaceRadioEdit = {
   id: "01a0676a-d727-7039-950e-15d467d82204",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-queen-of-peace-radio-edit",
   title: "Queen Of Peace (Radio Edit)",
   partOfCollections: ["artist/florence-the-machine"],

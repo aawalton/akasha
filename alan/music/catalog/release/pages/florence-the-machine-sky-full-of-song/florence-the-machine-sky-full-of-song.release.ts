@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineSkyFullOfSong = {
   id: "01a0676a-d729-701d-a997-ae6deb053899",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-sky-full-of-song",
   title: "Sky Full Of Song",
   partOfCollections: ["artist/florence-the-machine"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emeiAllTheseKids = {
   id: "01a0676a-d716-7027-ae55-99e44823186a",
-  type: "release",
+  type: "page-type/release",
   slug: "emei-all-these-kids",
   title: "ALL THESE KIDS",
   partOfCollections: ["artist/emei"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineMyFavoriteGhosts = {
   id: "01a0676a-d725-7029-a7e6-1c9a5a824faf",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-my-favorite-ghosts",
   title: "My Favorite Ghosts",
   partOfCollections: ["artist/florence-the-machine"],

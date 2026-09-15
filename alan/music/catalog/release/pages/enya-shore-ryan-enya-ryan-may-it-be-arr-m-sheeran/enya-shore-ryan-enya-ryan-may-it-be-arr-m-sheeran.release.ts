@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaShoreRyanEnyaRyanMayItBeArrMSheeran = {
   id: "01a0676a-d728-7075-973a-413a92e36cd5",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-shore-ryan-enya-ryan-may-it-be-arr-m-sheeran",
   title: "Shore, Ryan, Enya, Ryan: May it be (Arr. M. Sheeran)",
   partOfCollections: ["artist/enya"],

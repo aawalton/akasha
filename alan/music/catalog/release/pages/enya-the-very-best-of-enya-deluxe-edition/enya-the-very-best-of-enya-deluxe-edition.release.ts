@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaTheVeryBestOfEnyaDeluxeEdition = {
   id: "01a0676a-d72e-701b-a797-580b13c83186",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-the-very-best-of-enya-deluxe-edition",
   title: "The Very Best of Enya (Deluxe Edition)",
   partOfCollections: ["artist/enya"],

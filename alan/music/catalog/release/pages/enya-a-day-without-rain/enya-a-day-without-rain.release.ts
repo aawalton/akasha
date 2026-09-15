@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaADayWithoutRain = {
   id: "01a0676a-d715-7021-9dde-65dc7acc3eba",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-a-day-without-rain",
   title: "A Day Without Rain",
   partOfCollections: ["artist/enya"],

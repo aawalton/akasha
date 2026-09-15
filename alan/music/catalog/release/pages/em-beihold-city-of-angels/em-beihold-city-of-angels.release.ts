@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emBeiholdCityOfAngels = {
   id: "01a0676a-d71a-7051-a24d-34cd25adc1d4",
-  type: "release",
+  type: "page-type/release",
   slug: "em-beihold-city-of-angels",
   title: "City of Angels",
   partOfCollections: ["artist/em-beihold"],

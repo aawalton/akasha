@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const especiallyForYouEfyEfy1994ServingWithStrength = {
   id: "01a0676a-d71c-7052-93b8-6a15505dd897",
-  type: "release",
+  type: "page-type/release",
   slug: "especially-for-you-efy-efy-1994-serving-with-strength",
   title: "Efy 1994: Serving with Strength",
   partOfCollections: ["release-collection/especially-for-you-efy"],

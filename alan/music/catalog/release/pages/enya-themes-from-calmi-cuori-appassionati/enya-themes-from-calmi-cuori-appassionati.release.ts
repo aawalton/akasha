@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaThemesFromCalmiCuoriAppassionati = {
   id: "01a0676a-d72e-7022-9224-21da55c9e165",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-themes-from-calmi-cuori-appassionati",
   title: 'Themes From "Calmi Cuori Appassionati"',
   partOfCollections: ["artist/enya"],

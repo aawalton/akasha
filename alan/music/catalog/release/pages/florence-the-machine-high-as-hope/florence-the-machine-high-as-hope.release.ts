@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineHighAsHope = {
   id: "01a0676a-d720-7039-9f7b-1c9ed86fc645",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-high-as-hope",
   title: "High As Hope",
   partOfCollections: ["artist/florence-the-machine"],

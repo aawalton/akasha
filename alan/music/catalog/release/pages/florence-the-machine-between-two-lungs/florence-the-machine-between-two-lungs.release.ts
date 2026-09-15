@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineBetweenTwoLungs = {
   id: "01a0676a-d718-7052-85a9-f40284b4d043",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-between-two-lungs",
   title: "Between Two Lungs",
   partOfCollections: ["artist/florence-the-machine"],

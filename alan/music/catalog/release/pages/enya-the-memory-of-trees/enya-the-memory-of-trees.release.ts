@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const enyaTheMemoryOfTrees = {
   id: "01a0676a-d72d-7041-ba20-6fe9b23e142a",
-  type: "release",
+  type: "page-type/release",
   slug: "enya-the-memory-of-trees",
   title: "The Memory of Trees",
   partOfCollections: ["artist/enya"],

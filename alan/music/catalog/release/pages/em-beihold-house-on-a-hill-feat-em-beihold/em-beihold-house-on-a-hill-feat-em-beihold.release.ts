@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emBeiholdHouseOnAHillFeatEmBeihold = {
   id: "01a0676a-d720-7067-a259-3a4e8eb41aaa",
-  type: "release",
+  type: "page-type/release",
   slug: "em-beihold-house-on-a-hill-feat-em-beihold",
   title: "House on a Hill (feat. Em Beihold)",
   partOfCollections: ["artist/em-beihold"],

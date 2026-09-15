@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const emeiRegrets = {
   id: "01a0676a-d727-7061-af04-ced7663cd0c4",
-  type: "release",
+  type: "page-type/release",
   slug: "emei-regrets",
   title: "Regrets",
   partOfCollections: ["artist/emei"],

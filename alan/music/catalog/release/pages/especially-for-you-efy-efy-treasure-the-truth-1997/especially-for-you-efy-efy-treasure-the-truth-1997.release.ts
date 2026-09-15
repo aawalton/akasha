@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const especiallyForYouEfyEfyTreasureTheTruth1997 = {
   id: "01a0676a-d71c-705f-a83d-ec263925d752",
-  type: "release",
+  type: "page-type/release",
   slug: "especially-for-you-efy-efy-treasure-the-truth-1997",
   title: "Efy Treasure the Truth 1997",
   partOfCollections: ["release-collection/especially-for-you-efy"],

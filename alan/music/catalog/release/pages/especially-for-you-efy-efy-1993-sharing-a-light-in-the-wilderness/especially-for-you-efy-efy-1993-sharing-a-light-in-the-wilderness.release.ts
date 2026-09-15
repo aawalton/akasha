@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const especiallyForYouEfyEfy1993SharingALightInTheWilderness = {
   id: "01a0676a-d71c-7051-b8ae-ca083bd65950",
-  type: "release",
+  type: "page-type/release",
   slug: "especially-for-you-efy-efy-1993-sharing-a-light-in-the-wilderness",
   title: "Efy 1993: Sharing a Light in the Wilderness",
   partOfCollections: ["release-collection/especially-for-you-efy"],

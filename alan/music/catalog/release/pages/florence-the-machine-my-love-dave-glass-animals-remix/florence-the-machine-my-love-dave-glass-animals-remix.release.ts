@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const florenceTheMachineMyLoveDaveGlassAnimalsRemix = {
   id: "01a0676a-d725-7030-9dd8-8c0f314c0703",
-  type: "release",
+  type: "page-type/release",
   slug: "florence-the-machine-my-love-dave-glass-animals-remix",
   title: "My Love (Dave Glass Animals Remix)",
   partOfCollections: ["artist/florence-the-machine"],
