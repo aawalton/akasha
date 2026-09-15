@@ -6,12 +6,12 @@ import type {
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
+  answeredWith,
   DATA,
   OPERATIONAL,
   refusedBy,
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import type { Committing } from "akasha/command/modules/landing/landing.module.code.ts"
@@ -127,8 +127,8 @@ const BEFORE_STOPPING =
   "was committed before this stopped, so read that commit rather than running this again"
 
 function answered(landed: Awaited<ReturnType<Landing>>, did: string): Answer {
-  const wrong = refusalsIn(landed)
-  if (wrong.length > 0) return refusedBy(wrong, OPERATIONAL)
+  if ("refusals" in landed) return refusedBy(landed.refusals, OPERATIONAL)
+  if (landed.wrong.length > 0) return answeredWith([did], landed.wrong, OPERATIONAL)
   return told([did])
 }
 

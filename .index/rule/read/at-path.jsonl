@@ -125,14 +125,11 @@
 {"path":"agent/messaging/message/pages/message-03693107e4e3.message.uncommitted.ts"}
 {"path":"agent/messaging/message/pages/message-16c49027d387.message.ts"}
 {"path":"agent/messaging/message/pages/message-16d605198c35.message.ts"}
-{"path":"agent/messaging/message/pages/message-1a2b67b85ead.message.ts"}
 {"path":"agent/messaging/message/pages/message-1a2b67b85ead.message.uncommitted.ts"}
 {"path":"agent/messaging/message/pages/message-282756b003a3.message.ts"}
 {"path":"agent/messaging/message/pages/message-282756b003a3.message.uncommitted.ts"}
 {"path":"agent/messaging/message/pages/message-2c4be06fd5c4.message.ts"}
-{"path":"agent/messaging/message/pages/message-3235d6b10be4.message.ts"}
 {"path":"agent/messaging/message/pages/message-3fc522d9f9fa.message.ts"}
-{"path":"agent/messaging/message/pages/message-407423b1240c.message.ts"}
 {"path":"agent/messaging/message/pages/message-407423b1240c.message.uncommitted.ts"}
 {"path":"agent/messaging/message/pages/message-452afbe42405.message.ts"}
 {"path":"agent/messaging/message/pages/message-452afbe42405.message.uncommitted.ts"}
@@ -157,7 +154,6 @@
 {"path":"agent/messaging/message/pages/message-85bdee0e4b4f.message.ts"}
 {"path":"agent/messaging/message/pages/message-8e0eff810c6c.message.ts"}
 {"path":"agent/messaging/message/pages/message-8e0eff810c6c.message.uncommitted.ts"}
-{"path":"agent/messaging/message/pages/message-912c909f7d97.message.ts"}
 {"path":"agent/messaging/message/pages/message-924c4734cfd9.message.ts"}
 {"path":"agent/messaging/message/pages/message-92ea7dba52c6.message.ts"}
 {"path":"agent/messaging/message/pages/message-991870b6a7b1.message.ts"}
@@ -184,7 +180,6 @@
 {"path":"agent/messaging/message/pages/message-d8b2853b54f6.message.uncommitted.ts"}
 {"path":"agent/messaging/message/pages/message-da25c59bafda.message.ts"}
 {"path":"agent/messaging/message/pages/message-dc56b8dcab6a.message.ts"}
-{"path":"agent/messaging/message/pages/message-dcd786173bbb.message.ts"}
 {"path":"agent/messaging/message/pages/message-dcd786173bbb.message.uncommitted.ts"}
 {"path":"agent/messaging/message/pages/message-ea39a0ca1177.message.ts"}
 {"path":"agent/messaging/message/pages/message-eb175765141c.message.ts"}
@@ -879,6 +874,7 @@
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-amy-2026-09-12/oauth-proxy-console-amy-2026-09-12.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-amy-2026-09-13/oauth-proxy-console-amy-2026-09-13.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-amy-2026-09-14/oauth-proxy-console-amy-2026-09-14.seat-log-day.ts"}
+{"path":"agent/seat/log-day/pages/oauth-proxy-console-amy-2026-09-15/oauth-proxy-console-amy-2026-09-15.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-aranya-2026-09-07/oauth-proxy-console-aranya-2026-09-07.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-aranya-2026-09-08/oauth-proxy-console-aranya-2026-09-08.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-aranya-2026-09-09/oauth-proxy-console-aranya-2026-09-09.seat-log-day.ts"}
@@ -895,6 +891,7 @@
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-astra-2026-09-12/oauth-proxy-console-astra-2026-09-12.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-astra-2026-09-13/oauth-proxy-console-astra-2026-09-13.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-astra-2026-09-14/oauth-proxy-console-astra-2026-09-14.seat-log-day.ts"}
+{"path":"agent/seat/log-day/pages/oauth-proxy-console-astra-2026-09-15/oauth-proxy-console-astra-2026-09-15.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-athena-2026-09-07/oauth-proxy-console-athena-2026-09-07.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-athena-2026-09-08/oauth-proxy-console-athena-2026-09-08.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-athena-2026-09-09/oauth-proxy-console-athena-2026-09-09.seat-log-day.ts"}
@@ -920,6 +917,7 @@
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-dalla-2026-09-12/oauth-proxy-console-dalla-2026-09-12.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-dalla-2026-09-13/oauth-proxy-console-dalla-2026-09-13.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-dalla-2026-09-14/oauth-proxy-console-dalla-2026-09-14.seat-log-day.ts"}
+{"path":"agent/seat/log-day/pages/oauth-proxy-console-dalla-2026-09-15/oauth-proxy-console-dalla-2026-09-15.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-elaine-2026-09-08/oauth-proxy-console-elaine-2026-09-08.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-elaine-2026-09-14/oauth-proxy-console-elaine-2026-09-14.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-elin-2026-09-09/oauth-proxy-console-elin-2026-09-09.seat-log-day.ts"}
@@ -973,6 +971,7 @@
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-thea-2026-09-13/oauth-proxy-console-thea-2026-09-13.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-thea-2026-09-14/oauth-proxy-console-thea-2026-09-14.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/oauth-proxy-console-vera-2026-09-14/oauth-proxy-console-vera-2026-09-14.seat-log-day.ts"}
+{"path":"agent/seat/log-day/pages/oauth-proxy-console-vera-2026-09-15/oauth-proxy-console-vera-2026-09-15.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-09-07/supervisor-console-aelwyn-2026-09-07.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-09-08/supervisor-console-aelwyn-2026-09-08.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-aelwyn-2026-09-09/supervisor-console-aelwyn-2026-09-09.seat-log-day.ts"}
@@ -1011,6 +1010,7 @@
 {"path":"agent/seat/log-day/pages/supervisor-console-amy-2026-09-12/supervisor-console-amy-2026-09-12.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-amy-2026-09-13/supervisor-console-amy-2026-09-13.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-amy-2026-09-14/supervisor-console-amy-2026-09-14.seat-log-day.ts"}
+{"path":"agent/seat/log-day/pages/supervisor-console-amy-2026-09-15/supervisor-console-amy-2026-09-15.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-aranya-2026-09-07/supervisor-console-aranya-2026-09-07.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-aranya-2026-09-08/supervisor-console-aranya-2026-09-08.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-aranya-2026-09-09/supervisor-console-aranya-2026-09-09.seat-log-day.ts"}
@@ -1027,6 +1027,7 @@
 {"path":"agent/seat/log-day/pages/supervisor-console-astra-2026-09-12/supervisor-console-astra-2026-09-12.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-astra-2026-09-13/supervisor-console-astra-2026-09-13.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-astra-2026-09-14/supervisor-console-astra-2026-09-14.seat-log-day.ts"}
+{"path":"agent/seat/log-day/pages/supervisor-console-astra-2026-09-15/supervisor-console-astra-2026-09-15.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-athena-2026-09-07/supervisor-console-athena-2026-09-07.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-athena-2026-09-08/supervisor-console-athena-2026-09-08.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-athena-2026-09-09/supervisor-console-athena-2026-09-09.seat-log-day.ts"}
@@ -1052,6 +1053,7 @@
 {"path":"agent/seat/log-day/pages/supervisor-console-dalla-2026-09-12/supervisor-console-dalla-2026-09-12.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-dalla-2026-09-13/supervisor-console-dalla-2026-09-13.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-dalla-2026-09-14/supervisor-console-dalla-2026-09-14.seat-log-day.ts"}
+{"path":"agent/seat/log-day/pages/supervisor-console-dalla-2026-09-15/supervisor-console-dalla-2026-09-15.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-elaine-2026-09-08/supervisor-console-elaine-2026-09-08.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-elaine-2026-09-14/supervisor-console-elaine-2026-09-14.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-elin-2026-09-09/supervisor-console-elin-2026-09-09.seat-log-day.ts"}
@@ -1106,6 +1108,7 @@
 {"path":"agent/seat/log-day/pages/supervisor-console-thea-2026-09-13/supervisor-console-thea-2026-09-13.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-thea-2026-09-14/supervisor-console-thea-2026-09-14.seat-log-day.ts"}
 {"path":"agent/seat/log-day/pages/supervisor-console-vera-2026-09-14/supervisor-console-vera-2026-09-14.seat-log-day.ts"}
+{"path":"agent/seat/log-day/pages/supervisor-console-vera-2026-09-15/supervisor-console-vera-2026-09-15.seat-log-day.ts"}
 {"path":"agent/seat/log-day/properties/lines.file-property.ts"}
 {"path":"agent/seat/log-day/properties/lines.file-property.types.ts"}
 {"path":"agent/seat/log-day/properties/log-source.relation-property.ts"}
@@ -1772,7 +1775,7 @@
 {"path":"agent/subagent/modules/recovering/subagent-recovering.module.test-fixtures.ts"}
 {"path":"agent/subagent/modules/recovering/subagent-recovering.module.test.ts"}
 {"path":"agent/subagent/modules/recovering/subagent-recovering.module.ts"}
-{"path":"agent/subagent/pages/ryn-a66d126e86a37ca9a/ryn-a66d126e86a37ca9a.subagent.ts"}
+{"path":"agent/subagent/pages/astra-a82347cccf2b404d0/astra-a82347cccf2b404d0.subagent.ts"}
 {"path":"agent/subagent/pages/ryn-a66d126e86a37ca9a/ryn-a66d126e86a37ca9a.subagent.uncommitted.ts"}
 {"path":"agent/subagent/pages/ryn-a7f7f9726f727536c/ryn-a7f7f9726f727536c.subagent.ts"}
 {"path":"agent/subagent/pages/ryn-a7f7f9726f727536c/ryn-a7f7f9726f727536c.subagent.uncommitted.ts"}

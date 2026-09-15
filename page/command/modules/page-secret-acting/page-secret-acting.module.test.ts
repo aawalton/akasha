@@ -166,10 +166,11 @@ test("a landing that refuses is answered by what that landing refused", async ()
   })
 })
 
-test("a landing answering something wrong is answered by what went wrong", async () => {
-  const fake = reaching({ ...LANDED, wrong: ["the check refused"] })
+test("a landing that committed and then found something wrong says what it did and what went wrong", async () => {
+  const fake = reaching({ ...LANDED, wrong: ["no workstation unit was weighed"] })
   const said = await landedWith(givenIn(NOWHERE), SAID, TARGET, "clear", new Map(), fake.landing)
-  expect(said).toEqual({ report: [], refusals: ["the check refused"], code: OPERATIONAL })
+  expect(said).toMatchObject({ refusals: ["no workstation unit was weighed"], code: OPERATIONAL })
+  expect("report" in said ? said.report.length : 0).toBe(1)
 })
 
 test("a message the caller spells reaches the landing rather than the one composed", async () => {
