@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0395InterludeARoamingRaccoonsReasonable = {
   id: "01a06730-4e4c-7aa5-83c1-3291ac0e1359",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0395-interlude-a-roaming-raccoons-reasonable",
   title: "Interlude - A Roaming Raccoon's Reasonable Relationships [Part One]",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0505ChapterEightWhatsAMetaphor = {
   id: "01a06730-4e5b-7189-a2d4-54e445b089f6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0505-chapter-eight-whats-a-metaphor",
   title: "Chapter Eight - What's a Metaphor?",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

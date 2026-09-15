@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0425MagicalGirlMercenaryForHireChapterOne = {
   id: "01a06730-4e4d-7613-8964-27a44ac6a6bb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0425-magical-girl-mercenary-for-hire-chapter-one",
   title: "Magical Girl Mercenary For Hire - Chapter One",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

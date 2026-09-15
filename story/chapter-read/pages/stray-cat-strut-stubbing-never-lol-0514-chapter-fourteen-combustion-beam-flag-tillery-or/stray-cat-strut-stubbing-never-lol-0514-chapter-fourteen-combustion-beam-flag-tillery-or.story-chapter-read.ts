@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0514ChapterFourteenCombustionBeamFlagTilleryOr = {
   id: "01a06730-4e8e-7642-b341-535c777fcfe7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0514-chapter-fourteen-combustion-beam-flag-tillery-or",
   title: "Chapter Fourteen - Combustion Beam Flag-tillery OR; Flying Disco Balls of Death",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

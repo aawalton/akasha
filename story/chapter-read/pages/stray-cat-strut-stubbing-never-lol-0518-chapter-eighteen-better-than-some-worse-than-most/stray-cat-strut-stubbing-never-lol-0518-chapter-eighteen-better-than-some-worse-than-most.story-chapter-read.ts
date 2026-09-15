@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0518ChapterEighteenBetterThanSomeWorseThanMost = {
   id: "01a06730-4e8e-7313-b12c-cad7bde2ccbb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0518-chapter-eighteen-better-than-some-worse-than-most",
   title: "Chapter Eighteen - Better Than Some, Worse Than Most",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0424ChapterTwentyNineUnConventIonalInterior = {
   id: "01a06730-4e4d-70ec-a1ff-d553499a9623",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0424-chapter-twenty-nine-un-convent-ional-interior",
   title: "Chapter Twenty-Nine - Un-convent-ional Interior Design",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

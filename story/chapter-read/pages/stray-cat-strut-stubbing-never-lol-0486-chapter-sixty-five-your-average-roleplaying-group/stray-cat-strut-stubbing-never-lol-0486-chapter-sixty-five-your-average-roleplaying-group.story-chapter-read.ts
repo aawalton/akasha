@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0486ChapterSixtyFiveYourAverageRoleplayingGroup = {
   id: "01a06730-4e5b-7f04-877e-cc2cbaae98f2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0486-chapter-sixty-five-your-average-roleplaying-group",
   title: "Chapter Sixty-Five - Your Average Roleplaying Group",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

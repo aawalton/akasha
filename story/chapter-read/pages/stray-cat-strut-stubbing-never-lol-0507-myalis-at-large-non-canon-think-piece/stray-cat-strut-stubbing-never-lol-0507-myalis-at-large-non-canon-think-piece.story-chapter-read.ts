@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0507MyalisAtLargeNonCanonThinkPiece = {
   id: "01a06730-4e5c-74d9-ba3a-4f10515b0076",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0507-myalis-at-large-non-canon-think-piece",
   title: "Myalis at Large [Non-Canon Think Piece]",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

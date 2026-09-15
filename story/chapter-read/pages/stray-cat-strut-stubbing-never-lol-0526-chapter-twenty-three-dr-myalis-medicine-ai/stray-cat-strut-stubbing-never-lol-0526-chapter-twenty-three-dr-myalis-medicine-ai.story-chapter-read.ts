@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0526ChapterTwentyThreeDrMyalisMedicineAi = {
   id: "01a06730-4e8e-72fa-a7b7-b2adc7d24628",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0526-chapter-twenty-three-dr-myalis-medicine-ai",
   title: "Chapter Twenty-Three - Dr. Myalis, Medicine AI",
   story: "story-read/stray-cat-strut-stubbing-never-lol",
