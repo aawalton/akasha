@@ -30,7 +30,7 @@ export const astraIndexCleanup = {
       statement:
         "Every file a page's code imports belongs to a page, and a check refuses a new one that does not.",
       workingMemory:
-        "341 of 10,935 import targets belong to no page: 312 under `.react-router/types/`, 27 under `+types/`, and two tracked files, `alan/web/routes.ts` and `temper/web/deploy/addon-bundle-image.ts`. A references file sits beside a page, so for these nothing answers who imports them. `alan/web/routes.ts` is imported by `alan/web/routes/no-such-route/no-such-route.route.test.ts` and by nothing else.",
+        "339 of 10,935 import targets belong to no page: 312 under `.react-router/types/` and 27 under `+types/`, both written by a tool and held out of git. The two tracked ones, `alan/web/routes.ts` and `temper/web/deploy/addon-bundle-image.ts`, do belong to pages through a declared `fileName`, and what missed them was the reader rather than the pages.",
     },
   ],
 } as const satisfies Initiative
