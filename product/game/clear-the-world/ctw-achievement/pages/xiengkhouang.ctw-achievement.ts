@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const xiengkhouang = {
   id: "019dbb6d-c672-70c3-b9a9-403c189de084",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "xiengkhouang",
   title: "Xiengkhouang",
   scope: "team",

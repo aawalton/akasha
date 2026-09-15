@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const herat = {
   id: "019dbb6d-7b0f-734c-9d77-18fe186348e5",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "herat",
   title: "Herat",
   scope: "profile",

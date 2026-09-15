@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const generationalWork = {
   id: "019dbb6d-c145-7d7a-b854-6df7f6cee1ab",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "generational-work",
   title: "Generational Work",
   scope: "profile",

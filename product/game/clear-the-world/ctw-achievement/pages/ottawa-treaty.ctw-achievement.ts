@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const ottawaTreaty = {
   id: "019dbb6d-fa11-7b4b-b76e-672546d9c0af",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "ottawa-treaty",
   title: "Ottawa Treaty",
   scope: "team",

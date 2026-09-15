@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const oneTwentyTwo = {
   id: "019dbb6e-30f3-7962-bb30-405f29744fb0",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "one-twenty-two",
   title: "One Twenty-Two",
   scope: "global",

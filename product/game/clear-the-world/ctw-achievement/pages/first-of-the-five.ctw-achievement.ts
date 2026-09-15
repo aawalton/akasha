@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const firstOfTheFive = {
   id: "019dbb6e-1c51-7ad5-be87-3833c606f894",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "first-of-the-five",
   title: "First of the Five",
   scope: "global",

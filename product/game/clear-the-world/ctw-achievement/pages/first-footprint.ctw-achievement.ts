@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const firstFootprint = {
   id: "019dbb6d-9f3c-7e1b-b9f3-732d208447f8",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "first-footprint",
   title: "First Footprint",
   scope: "profile",

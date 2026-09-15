@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const continuedClearance = {
   id: "019dbb6d-bbfe-7117-8927-a08c32d1f81c",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "continued-clearance",
   title: "Continued Clearance",
   scope: "profile",

@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const mineActionCannotWait = {
   id: "019dbb6e-2bd9-75c4-9abc-d32e77df6c46",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "mine-action-cannot-wait",
   title: "Mine Action Cannot Wait",
   scope: "global",

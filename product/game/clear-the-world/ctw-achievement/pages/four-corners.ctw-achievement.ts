@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const fourCorners = {
   id: "019dbb6d-a452-7beb-ad6f-5234ab51d3e4",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "four-corners",
   title: "Four Corners",
   scope: "profile",

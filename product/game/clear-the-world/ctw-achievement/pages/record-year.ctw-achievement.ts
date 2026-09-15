@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const recordYear = {
   id: "019dbb6e-0ce2-7eab-83c0-b9aebe11d8f8",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "record-year",
   title: "Record Year",
   scope: "global",

@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const quangTri = {
   id: "019dbb6d-7da3-73bf-bd74-c071a509c413",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "quang-tri",
   title: "Quang Tri",
   scope: "profile",

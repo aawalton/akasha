@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const fivePillars = {
   id: "019dbb6d-de12-7770-bce0-12c7964a46ee",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "five-pillars",
   title: "Five Pillars",
   scope: "team",

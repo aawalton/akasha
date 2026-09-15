@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const belowFiveThousand = {
   id: "019dbb6e-295b-729a-addc-95701753fb41",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "below-five-thousand",
   title: "Below Five Thousand",
   scope: "global",

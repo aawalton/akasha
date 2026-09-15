@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const explosiveOrdnanceDisposal = {
   id: "019dbb6d-9a33-773f-bc6b-ec2174b215fd",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "explosive-ordnance-disposal",
   title: "Explosive Ordnance Disposal",
   scope: "profile",

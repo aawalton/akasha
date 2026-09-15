@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const dragonsTooth = {
   id: "019dbb6d-8322-7a14-bad4-aa8807331813",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "dragons-tooth",
   title: "Dragon’s Tooth",
   scope: "profile",

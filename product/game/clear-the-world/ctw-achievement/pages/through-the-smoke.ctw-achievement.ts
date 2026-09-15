@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const throughTheSmoke = {
   id: "019dbb6d-a1cd-704d-8f46-649da7982c47",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "through-the-smoke",
   title: "Through the Smoke",
   scope: "profile",

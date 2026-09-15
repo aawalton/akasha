@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const safeLane = {
   id: "019dbb6d-929f-776f-b9b7-cd5f05210f33",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "safe-lane",
   title: "Safe Lane",
   scope: "profile",

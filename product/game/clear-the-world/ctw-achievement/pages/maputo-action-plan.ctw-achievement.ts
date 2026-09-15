@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const maputoActionPlan = {
   id: "019dbb6d-ff8d-7fc2-8447-893cdb5151d4",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "maputo-action-plan",
   title: "Maputo Action Plan",
   scope: "team",

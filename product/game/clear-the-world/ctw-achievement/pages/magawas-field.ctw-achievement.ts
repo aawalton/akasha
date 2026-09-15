@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const magawasField = {
   id: "019dbb6d-b415-7d2c-bd70-4e4b1c25434d",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "magawas-field",
   title: "Magawa’s Field",
   scope: "profile",

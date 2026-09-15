@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const fastestTreaty = {
   id: "019dbb6e-3df8-75db-83a6-c598b6531840",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "fastest-treaty",
   title: "Fastest Treaty",
   scope: "global",

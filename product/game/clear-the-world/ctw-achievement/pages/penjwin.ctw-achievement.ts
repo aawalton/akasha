@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const penjwin = {
   id: "019dbb6d-c919-707c-b32e-85fc229bfd48",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "penjwin",
   title: "Penjwin",
   scope: "team",

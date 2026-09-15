@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const oneBillion = {
   id: "019dbb6e-42e7-7898-8b50-9715e1e6ca69",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "one-billion",
   title: "One Billion",
   scope: "global",

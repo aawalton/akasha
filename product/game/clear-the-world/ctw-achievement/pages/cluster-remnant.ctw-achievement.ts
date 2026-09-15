@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const clusterRemnant = {
   id: "019dbb6d-8ad5-7962-b2e1-ff2b3c020382",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "cluster-remnant",
   title: "Cluster Remnant",
   scope: "profile",

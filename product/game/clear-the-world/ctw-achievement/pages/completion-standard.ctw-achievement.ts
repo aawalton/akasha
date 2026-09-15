@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const completionStandard = {
   id: "019dbb6d-efbe-7fb7-bb82-ef89f8836145",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "completion-standard",
   title: "Completion Standard",
   scope: "team",

@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const yellowParrot = {
   id: "019dbb6d-85c7-7407-9eb3-661f84a67965",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "yellow-parrot",
   title: "Yellow Parrot",
   scope: "profile",

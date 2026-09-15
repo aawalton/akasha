@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const fifteenProvinces = {
   id: "019dbb6d-eac0-7816-b6d2-b9bbdb385f17",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "fifteen-provinces",
   title: "Fifteen Provinces",
   scope: "team",

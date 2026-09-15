@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const pmn2 = {
   id: "019dbb6d-884f-7a55-9d53-8d092e2d0eec",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "pmn-2",
   title: "PMN-2",
   scope: "profile",

@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const cartagenaDeclaration = {
   id: "019dbb6e-0243-78a0-9503-4ec2aedb9683",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "cartagena-declaration",
   title: "Cartagena Declaration",
   scope: "team",

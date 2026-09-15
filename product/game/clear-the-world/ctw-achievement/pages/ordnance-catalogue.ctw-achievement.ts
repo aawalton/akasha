@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const ordnanceCatalogue = {
   id: "019dbb6d-9009-70af-8976-812ed1b2c671",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "ordnance-catalogue",
   title: "Ordnance Catalogue",
   scope: "profile",

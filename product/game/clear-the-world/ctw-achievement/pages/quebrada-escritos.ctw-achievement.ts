@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const quebradaEscritos = {
   id: "019dbb6d-d10d-7e9b-802d-ac0b3316bb95",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "quebrada-escritos",
   title: "Quebrada Escritos",
   scope: "team",

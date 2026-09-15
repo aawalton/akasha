@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const nairobiActionPlan = {
   id: "019dbb6d-fce1-7a02-8bf0-0c30b78e6431",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "nairobi-action-plan",
   title: "Nairobi Action Plan",
   scope: "team",

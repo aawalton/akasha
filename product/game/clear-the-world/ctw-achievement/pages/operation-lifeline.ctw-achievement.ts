@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const operationLifeline = {
   id: "019dbb6d-aee1-75c7-9c8f-0ebb3d5a31d4",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "operation-lifeline",
   title: "Operation Lifeline",
   scope: "profile",

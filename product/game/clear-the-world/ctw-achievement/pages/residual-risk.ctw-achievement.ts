@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const residualRisk = {
   id: "019dbb6d-ed3e-775b-ba18-91c3bf38c6e8",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "residual-risk",
   title: "Residual Risk",
   scope: "team",

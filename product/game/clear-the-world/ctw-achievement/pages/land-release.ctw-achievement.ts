@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const landRelease = {
   id: "019dbb6d-97a4-725d-85d9-21c13cc2dac7",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "land-release",
   title: "Land Release",
   scope: "profile",

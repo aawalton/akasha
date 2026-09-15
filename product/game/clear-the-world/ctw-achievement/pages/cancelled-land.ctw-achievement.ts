@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const cancelledLand = {
   id: "019dbb6d-d8d2-7dd0-981f-1a6851c0b732",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "cancelled-land",
   title: "Cancelled Land",
   scope: "team",

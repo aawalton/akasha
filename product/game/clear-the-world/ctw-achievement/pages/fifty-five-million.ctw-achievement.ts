@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const fiftyFiveMillion = {
   id: "019dbb6e-11ea-7ffe-a5c0-cfdc25758d97",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "fifty-five-million",
   title: "Fifty-Five Million",
   scope: "global",

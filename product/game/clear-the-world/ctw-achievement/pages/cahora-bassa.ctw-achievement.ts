@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const cahoraBassa = {
   id: "019dbb6d-cba4-78c1-8390-71a6ebd5fc8f",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "cahora-bassa",
   title: "Cahora Bassa",
   scope: "team",

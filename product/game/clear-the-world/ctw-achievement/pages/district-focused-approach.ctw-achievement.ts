@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const districtFocusedApproach = {
   id: "019dbb6d-db74-76b9-8b83-56b6db938b38",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "district-focused-approach",
   title: "District Focused Approach",
   scope: "team",

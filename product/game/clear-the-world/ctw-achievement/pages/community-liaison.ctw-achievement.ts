@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const communityLiaison = {
   id: "019dbb6d-d392-73db-a76d-53718806fa5f",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "community-liaison",
   title: "Community Liaison",
   scope: "team",

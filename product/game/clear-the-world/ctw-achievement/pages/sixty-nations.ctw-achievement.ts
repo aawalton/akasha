@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const sixtyNations = {
   id: "019dbb6e-19b7-7bd5-a689-60717763f5fb",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "sixty-nations",
   title: "Sixty Nations",
   scope: "global",

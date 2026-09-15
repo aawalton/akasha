@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const theWalk = {
   id: "019dbb6e-3b3d-7a99-abf6-0ca2e81d6c95",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "the-walk",
   title: "The Walk",
   scope: "global",

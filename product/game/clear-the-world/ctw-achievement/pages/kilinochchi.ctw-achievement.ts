@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const kilinochchi = {
   id: "019dbb6d-c3e8-7070-9f07-1abdbc5d5f58",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "kilinochchi",
   title: "Kilinochchi",
   scope: "team",

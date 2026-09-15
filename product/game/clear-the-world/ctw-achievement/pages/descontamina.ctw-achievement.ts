@@ -2,7 +2,7 @@ import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-ach
 
 export const descontamina = {
   id: "019dbb6d-e5b2-7aad-98ab-21615b721f3a",
-  type: "ctw-achievement",
+  type: "page-type/ctw-achievement",
   slug: "descontamina",
   title: "Descontamina",
   scope: "team",
