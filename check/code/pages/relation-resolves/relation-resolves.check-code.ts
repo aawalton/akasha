@@ -30,6 +30,14 @@ export const relationResolves = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A name naming no page type is refused rather than looked for under each target.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal holds whether or not the name would have reached a page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name narrowing to more than one page is refused rather than taken as reached.",
     },
     {
