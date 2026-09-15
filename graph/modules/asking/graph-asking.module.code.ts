@@ -244,24 +244,30 @@ export function edgesInto(
   return settledOf(found)
 }
 
-function edgesOut(
-  path: string,
-  kinds: readonly string[],
-  index: Answering,
-  bodyAt: Body,
-  naming: Naming
-): readonly Edge[] {
-  if (kinds.length === 0) return []
-  const asked = reachedFor(path, kinds)
-  const found: Edge[] = []
-  for (const kind of new Set(kinds)) {
+type Asked = {
+  readonly asking: Asking
+  readonly naming: Naming
+}
+
+function askedOut(kinds: readonly string[], index: Answering, bodyAt: Body): readonly Asked[] {
+  const asked = `what a file reaches as ${namedIn(kinds)}`
+  const naming = namingFor(index, bodyAt)
+  return [...new Set(kinds)].map((kind) => {
     const asking = askingFor(index, kind, asked)
-    if (kind === IMPORT_EDGE) found.push(...importsOutOf(path, asking, asked, bodyAt, naming))
-    else {
+    if (kind !== IMPORT_EDGE) {
       throw new Error(
         `the \`${kind}\` edge is not yet read out of a node, so ${asked} could not be answered`
       )
     }
+    return { asking, naming }
+  })
+}
+
+function edgesOut(path: string, over: readonly Asked[], bodyAt: Body): readonly Edge[] {
+  const found: Edge[] = []
+  for (const one of over) {
+    const asked = reachedFor(path, [one.asking.kind])
+    found.push(...importsOutOf(path, one.asking, asked, bodyAt, one.naming))
   }
   return settledOf(found)
 }
@@ -273,7 +279,7 @@ export function edgesOutOf(
   bodyAt: Body
 ): readonly Edge[] {
   if (kinds.length === 0) return []
-  return edgesOut(path, kinds, index, bodyAt, namingFor(index, bodyAt))
+  return edgesOut(path, askedOut(kinds, index, bodyAt), bodyAt)
 }
 
 export function reachingInto(
@@ -292,8 +298,7 @@ export function reachingOutOf(
   bodyAt: Body,
   through: (path: string) => boolean = () => true
 ): readonly string[] {
-  const naming = namingFor(index, bodyAt)
-  return closedOver(paths, through, (one) =>
-    edgesOut(one, kinds, index, bodyAt, naming).map((edge) => edge.to)
-  )
+  if (kinds.length === 0) return [...new Set(paths.filter((one) => through(one)))].sort()
+  const over = askedOut(kinds, index, bodyAt)
+  return closedOver(paths, through, (one) => edgesOut(one, over, bodyAt).map((edge) => edge.to))
 }
