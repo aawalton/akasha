@@ -7,7 +7,7 @@ export const alanHarness = {
   definition: "how Alan does things",
   parts: [
     "domain/alan-harness-agents",
-    "domain/alan-harness-stoplights",
+    "domain/alan-harness-stoplight",
     "domain/alan-readouts",
     "domain/alanwalton-ios-notification",
     "domain/attributes",
