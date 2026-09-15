@@ -13,7 +13,7 @@ export const storyRead = {
       fields: [],
     },
     childCollection: {
-      childType: "story-chapter-read",
+      childType: "page-type/story-chapter-read",
       childRelation: "story",
     },
   },
