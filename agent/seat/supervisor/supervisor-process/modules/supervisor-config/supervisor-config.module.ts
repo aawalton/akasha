@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorConfig = {
   id: "01a0683e-3dbe-7014-bf13-b392ad858c1e",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-config",
   definition: "the directories, home and log mark a supervisor works from",
   code: "ts",

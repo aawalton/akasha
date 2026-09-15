@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorLimitResumeEffects = {
   id: "01a06838-5a84-7006-be45-2e23ffbbeeca",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-limit-resume-effects",
   definition: "a rate-limit death read out of a transcript, and the decide module asked about it",
   code: "ts",

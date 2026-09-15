@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorAgentSettings = {
   id: "01a069bf-b8ea-7512-b82f-c386bd4270c4",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-agent-settings",
   definition: "the settings document a seat spawns on, with the hooks akasha declares merged in",
   code: "ts",

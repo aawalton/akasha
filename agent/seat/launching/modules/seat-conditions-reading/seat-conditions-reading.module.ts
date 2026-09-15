@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatConditionsReading = {
   id: "01a069bd-bdc5-709f-ba6f-cf8c3abe15bb",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-conditions-reading",
   definition: "what a seat runs under, read off the one seat-conditions page as text and flags",
   code: "ts",

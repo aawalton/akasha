@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatComingBack = {
   id: "01a0a502-1586-777f-84c7-0d2a1f147ede",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-coming-back",
   definition: "a seat composed again from what its page said before that page was taken away",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorDeferredRestart = {
   id: "01a0683e-3dbe-701a-a109-8a13a6084415",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-deferred-restart",
   definition: "a restart held until the session is idle, wedged or past its ceiling",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorHeartbeatBeat = {
   id: "01a06871-3115-7000-88a3-356a4726a3a1",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-heartbeat-beat",
   definition: "the seat page writes a supervisor makes through the seat page beat",
   code: "ts",

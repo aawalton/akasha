@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatReviveLaunchDecide = {
   id: "01a0686d-9d5e-700b-a38f-fbe2284f5f2d",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-revive-launch-decide",
   definition: "whether a seat coming back up resumes its old session or starts a fresh one",
   code: "ts",

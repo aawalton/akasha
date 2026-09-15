@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorSelfHealInstall = {
   id: "01a06876-abda-7010-b833-f472fa23d6e8",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-self-heal-install",
   definition: "running the install a self-heal needs, one flight at a time",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorLogSweeping = {
   id: "01a0686a-7a57-7a62-bfba-385af928123a",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-log-sweeping",
   definition: "the log directory of every departed supervisor taken away",
   code: "ts",

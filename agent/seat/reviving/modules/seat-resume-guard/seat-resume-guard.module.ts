@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatResumeGuard = {
   id: "01a09c3b-ef86-751f-a701-2b8b1f05245f",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-resume-guard",
   definition: "whether a seat may be restarted while subagents are working under it",
   code: "ts",

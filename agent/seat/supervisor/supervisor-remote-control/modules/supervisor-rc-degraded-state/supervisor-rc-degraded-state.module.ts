@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorRcDegradedState = {
   id: "01a0686d-9d5e-7001-9ae5-1b049c3d76dc",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-rc-degraded-state",
   definition:
     "the streak and the alert latch a seat's remote control reading is carried between ticks in",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const workTreeDrawn = {
   id: "01a06966-501e-74ec-85ca-90de74b884d1",
-  type: "module",
+  type: "page-type/module",
   slug: "work-tree-drawn",
   definition:
     "each initiative rendered for drawing from the liveliest state a seat working it is in",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorBootStage = {
   id: "01a0683e-3dbe-700d-8afe-952b34ffad1a",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-boot-stage",
   definition: "how long each stage of a supervisor's boot took",
   code: "ts",

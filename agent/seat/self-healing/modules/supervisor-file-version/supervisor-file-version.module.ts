@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorFileVersion = {
   id: "01a0683e-3dbe-7021-a398-c5d697666940",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-file-version",
   definition: "the hash of every file a running supervisor was built from",
   code: "ts",

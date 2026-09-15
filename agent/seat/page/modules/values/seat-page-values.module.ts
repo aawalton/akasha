@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatPageValues = {
   id: "01a06949-b281-7930-babe-566948d7b200",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-page-values",
   definition: "what a seat states now, read from akasha's page for it and from nowhere else",
   code: "ts",

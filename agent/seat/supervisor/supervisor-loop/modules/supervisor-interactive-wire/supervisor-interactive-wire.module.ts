@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorInteractiveWire = {
   id: "01a06871-3115-7009-a94c-1cccc05f925d",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-interactive-wire",
   definition: "the per-iteration wiring of agent actions and the pre-cliff monitor",
   code: "ts",

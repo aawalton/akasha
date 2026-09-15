@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const resumeSeat = {
   id: "01a0695a-d2ea-735a-9483-a00a8cf935b6",
-  type: "module",
+  type: "page-type/module",
   slug: "resume-seat",
   definition: "a stopped seat relaunched under its own name once nothing live has it",
   code: "ts",

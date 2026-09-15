@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorArgs = {
   id: "01a0683e-3dbe-700a-81ce-5968abd14734",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-args",
   definition: "the command line a supervisor is started with and restarts itself with",
   code: "ts",

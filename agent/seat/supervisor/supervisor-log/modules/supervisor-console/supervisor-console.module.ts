@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorConsole = {
   id: "01a0683e-3dbe-7015-b25d-4d947ec851f0",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-console",
   definition:
     "console lines sent to a seat's log page, and to a file until that page can take them",

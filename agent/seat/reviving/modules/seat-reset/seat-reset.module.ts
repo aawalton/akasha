@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatReset = {
   id: "01a069cb-0380-715a-9d83-e8177fb074e2",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-reset",
   definition: "a new agent sat down in a named seat, with every declaration the seat states",
   code: "ts",

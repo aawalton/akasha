@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pendingMaintaining = {
   id: "01a0686a-7a57-7e87-825d-ae7e67bf9301",
-  type: "module",
+  type: "page-type/module",
   slug: "pending-maintaining",
   definition: "every seat's pending components kept true as the stores behind them change",
   code: "ts",

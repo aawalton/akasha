@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatBeside = {
   id: "01a06949-b281-7c3a-b172-8f45292e9e17",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-beside",
   definition: "what is observed of a seat, carried into akasha under the names declared there",
   code: "ts",

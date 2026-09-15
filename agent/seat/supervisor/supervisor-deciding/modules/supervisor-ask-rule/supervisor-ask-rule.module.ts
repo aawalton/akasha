@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorAskRule = {
   id: "01a0683e-3dbe-700b-947c-d3d4194c1ae8",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-ask-rule",
   definition: "a rule asked of the deciding command",
   code: "ts",

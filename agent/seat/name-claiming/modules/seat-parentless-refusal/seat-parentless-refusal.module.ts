@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatParentlessRefusal = {
   id: "01a0686d-9d5e-7014-b9a1-392193b1b6a8",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-parentless-refusal",
   definition: "the refusal a seat working for the fleet meets when it names no agent above it",
   code: "ts",

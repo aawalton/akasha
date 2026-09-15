@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const spawnSeat = {
   id: "01a06983-278f-7aef-a9d5-646b542b1d97",
-  type: "module",
+  type: "page-type/module",
   slug: "spawn-seat",
   definition: "a child seat minted and launched",
   code: "ts",

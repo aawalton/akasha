@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const composeSeatName = {
   id: "01a06949-b281-7447-ab77-9ecbb5f9f139",
-  type: "module",
+  type: "page-type/module",
   slug: "compose-seat-name",
   definition: "the name a seat goes by, spelled from the attributes the seat has",
   code: "ts",

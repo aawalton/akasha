@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorAccountConfig = {
   id: "01a0683e-3dbe-7000-8023-4fb6336e3734",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-account-config",
   definition: "the model, effort, timeouts and windows a seat spawns under",
   code: "ts",

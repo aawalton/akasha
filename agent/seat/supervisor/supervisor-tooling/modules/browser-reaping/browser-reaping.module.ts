@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const browserReaping = {
   id: "01a0a0f4-a63b-7e62-b70f-6eaed2299de7",
-  type: "module",
+  type: "page-type/module",
   slug: "browser-reaping",
   definition: "the browser a seat's tool server opened, let go once no call reaches that server",
   code: "ts",

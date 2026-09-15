@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorShutdownProcs = {
   id: "01a06876-abda-7016-9688-db83f6e02cc2",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-shutdown-procs",
   definition: "killing the processes a supervisor owns as it shuts down",
   code: "ts",

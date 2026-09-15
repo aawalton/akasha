@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatTranscriptPath = {
   id: "01a06949-b281-7c83-952b-22f6213b7460",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-transcript-path",
   definition: "where a seat's transcript file sits, kept beside its page and read back",
   code: "ts",

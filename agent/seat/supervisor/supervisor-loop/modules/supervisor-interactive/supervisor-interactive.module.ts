@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorInteractive = {
   id: "01a06871-3115-700a-b93f-c32bdd8735c6",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-interactive",
   definition: "a seat's run as a repeated loop of Claude children, one iteration at a time",
   code: "ts",

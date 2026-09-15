@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatFlex = {
   id: "01a06949-b281-72df-a9c3-507005e3dfd2",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-flex",
   definition: "a seat's flex, read out of its name, with the rules for refusing one",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorDecide = {
   id: "01a06938-eca6-7c73-bee3-f66766ef7dfc",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-decide",
   definition: "the decisions a supervisor asks for, read off JSON on stdin and answered as JSON",
   code: "ts",

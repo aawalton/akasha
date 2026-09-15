@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorLogPath = {
   id: "01a06838-5a84-7007-ad97-0d2824c6293d",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-log-path",
   definition: "where a supervisor's own files are while that supervisor runs",
   code: "ts",

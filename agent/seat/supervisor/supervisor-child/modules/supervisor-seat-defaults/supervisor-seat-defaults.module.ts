@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorSeatDefaults = {
   id: "01a06876-abda-700e-b7c6-fdaa53c08fc1",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-seat-defaults",
   definition: "the mode, stating and slots a seat declares as its defaults",
   code: "ts",

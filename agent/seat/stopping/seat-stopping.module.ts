@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatStopping = {
   id: "01a05d02-889b-7880-9ab9-c72cdc79dc5c",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-stopping",
   definition: "a seat brought to an end, and the pages it held taken with it",
   parts: ["module/kill-target-plan", "module/stop-seat", "module/takeover-seat"],

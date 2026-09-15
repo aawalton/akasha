@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatProcKey = {
   id: "01a068a4-60f0-7000-bffe-694978e0a342",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-proc-key",
   definition:
     "a pid held together with the tick its process started at, so a reused pid reads as gone",

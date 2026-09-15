@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorRestartNoticeDecide = {
   id: "01a0686d-9d5e-7007-a87f-ae0387e800f7",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-restart-notice-decide",
   definition:
     "what a restarting seat is told, and whether it is told on the spawn line or the rail",

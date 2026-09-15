@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatStart = {
   id: "01a069cb-0380-743c-a13d-87b9feb0bbf1",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-start",
   definition: "a seat created under a name and launched where the caller asks",
   code: "ts",

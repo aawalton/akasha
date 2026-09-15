@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatRecovery = {
   id: "01a0687e-5361-7000-b809-2c591fc15c79",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-recovery",
   definition: "the process trees a restarted seat left behind, reaped before the seat runs again",
   code: "ts",

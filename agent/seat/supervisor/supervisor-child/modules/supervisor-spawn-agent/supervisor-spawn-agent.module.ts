@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorSpawnAgent = {
   id: "01a06876-abda-7017-a0af-8bbe92c1bb1b",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-spawn-agent",
   definition: "the subagent definitions and disallowed tools a launch is given",
   code: "ts",

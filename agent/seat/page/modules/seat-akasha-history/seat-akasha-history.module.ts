@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatAkashaHistory = {
   id: "01a06949-b281-7b6f-900b-fa221e76dbd9",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-akasha-history",
   definition: "what a seat last said, read back out of git after its page in akasha is gone",
   code: "ts",

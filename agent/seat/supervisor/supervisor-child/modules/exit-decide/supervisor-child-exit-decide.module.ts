@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorChildExitDecide = {
   id: "01a0683e-3dbe-700e-bc70-8aac8a65c77d",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-child-exit-decide",
   definition: "what a child's wait status says about how the child stopped",
   code: "ts",

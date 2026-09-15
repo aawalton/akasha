@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatGrouping = {
   id: "01a09320-5e3c-7f72-9939-3532cd8aac0f",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-grouping",
   definition: "the group a seat's own processes sit in, apart from the runs that seat starts",
   code: "ts",

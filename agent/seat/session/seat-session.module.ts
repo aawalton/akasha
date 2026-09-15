@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatSession = {
   id: "01a06949-b281-709f-96f4-45790933cf1e",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-session",
   definition: "the session a seat is bound to and the transcript that session writes",
   parts: [

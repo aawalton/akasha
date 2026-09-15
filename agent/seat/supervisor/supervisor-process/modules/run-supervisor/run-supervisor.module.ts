@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const runSupervisor = {
   id: "01a069c8-f654-7d87-acd6-65d71f1132ff",
-  type: "module",
+  type: "page-type/module",
   slug: "run-supervisor",
   definition:
     "the program a seat's supervisor is launched as, wiring the live session watch and rebind into it",

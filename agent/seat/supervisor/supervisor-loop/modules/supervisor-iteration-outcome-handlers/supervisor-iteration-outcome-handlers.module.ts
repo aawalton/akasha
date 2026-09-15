@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorIterationOutcomeHandlers = {
   id: "01a06871-3115-700b-b125-962ed5e09687",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-iteration-outcome-handlers",
   definition: "what a restart-now action asks of the loop once the child has gone",
   code: "ts",

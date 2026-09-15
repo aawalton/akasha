@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatEntryPaths = {
   id: "01a08b87-db08-7b4d-8019-f88e7fd39f19",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-entry-paths",
   definition: "the files under the checkout a seat is started by running",
   code: "ts",

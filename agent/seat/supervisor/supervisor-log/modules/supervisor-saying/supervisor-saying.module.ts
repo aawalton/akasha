@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorSaying = {
   id: "01a0a170-307b-76c6-967a-d03906eaf880",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-saying",
   definition: "a line a supervisor says where the console will not take it",
   code: "ts",

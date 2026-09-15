@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatRecord = {
   id: "01a06949-b281-7a28-8dc0-ad7ecff7be76",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-record",
   definition: "one value a seat carries under a key, read from akasha and kept beside the seat",
   code: "ts",

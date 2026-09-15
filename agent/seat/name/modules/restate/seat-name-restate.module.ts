@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatNameRestate = {
   id: "01a06983-278f-7baa-bea1-b6acc672aeb1",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-name-restate",
   definition: "a seat's name rebound to another one",
   code: "ts",
