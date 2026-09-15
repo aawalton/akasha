@@ -20,7 +20,6 @@ import {
 import {
   everythingFiled,
   fileWhereTheIndexIs,
-  importUnreadableFiled,
   listedFiledIn,
   listedTakenFrom,
   listedUnreadableFiled,
@@ -144,9 +143,10 @@ test("the word the namespace already carries is no argument this takes", () => {
   expect(held.refusals[0]).toBe(`\`refresh\` ${TAKES}`)
 })
 
-test("a word this takes none of is refused", () => {
+test("a word this takes none of is refused as the caller's trouble", () => {
   const held = indexRefresh(["verify"], givenAt("/nowhere"))
   expect(held.refusals[0]).toBe(`\`verify\` ${TAKES}`)
+  expect(held.code).toBe(INPUT)
 })
 
 test("a flag belonging to a command that writes is refused rather than ignored", () => {
@@ -183,7 +183,6 @@ test("a damaged index is put back to what a fresh refresh writes", () => {
   const wanted = wantedFor(root)
   listedTakenFrom(root, "domain", "a")
   listedUnreadableFiled(root, "domain", "gone")
-  importUnreadableFiled(root, "a.domain.ts")
   const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(everythingFiled(root)).toEqual(wanted)
@@ -249,11 +248,6 @@ test("a root git does not hold is refused as the command's trouble, not the call
   expect(answer.code).toBe(OPERATIONAL)
   expect(answer.refusals[0]).toContain("no commit could be read")
   expect(answer.refusals[answer.refusals.length - 1]).toContain("the index stands as it did")
-})
-
-test("a word this takes none of is the caller's trouble", () => {
-  const root = repoAt()
-  expect(indexRefresh(["verify"], givenAt(root)).code).toBe(INPUT)
 })
 
 test("the files the index differed in are named rather than only counted", () => {

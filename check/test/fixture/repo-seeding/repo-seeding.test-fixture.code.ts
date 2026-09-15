@@ -29,10 +29,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import {
-  noImportersFiled,
-  pageFiled,
-} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
@@ -89,7 +86,6 @@ function builtAt(root: string, named: Readonly<Record<string, string>>): string 
     { path: SEAT_AT, value: { id: AGENT, pageTypeSlug: SEAT, slug: TESTER } },
   ])
   listedFiled(root, COMMAND, CHANGE_APPLY_SLUG, [{ path: APPLY_AT, id: APPLY_ID }])
-  noImportersFiled(root)
   for (const [path, body] of Object.entries(named)) {
     recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1, carriedOid: null })
   }

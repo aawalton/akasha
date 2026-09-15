@@ -342,10 +342,8 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/modules/checking/checking.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/modules/measuring/check-measuring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/apply-running/apply-running.module.test.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/applying/applying.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/calling/calling.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/calling/calling.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/change-costing/change-costing.module.test.ts"}

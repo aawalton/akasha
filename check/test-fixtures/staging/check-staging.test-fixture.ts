@@ -22,7 +22,7 @@ export const checkStaging = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The pages the import index and its edge are sit in the checkout too.",
+      statement: "The page the import edge is sits in the checkout too.",
     },
     {
       invariantKind: "invariant-kind/departure",

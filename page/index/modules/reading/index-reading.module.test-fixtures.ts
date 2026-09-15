@@ -6,8 +6,6 @@ import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-f
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
-import { indexImport } from "akasha/page/index/import/index-import.index.ts"
-import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -50,8 +48,6 @@ const ID = "id"
 const SLUG = "slug"
 
 const PAGE_PROPERTY = "page-property"
-
-const AT_PATH = "path"
 
 const NOT_JSON = "{ this is not json\n"
 
@@ -300,24 +296,12 @@ export function importFiled(root: string, path: string, lines: readonly unknown[
   )
 }
 
-export function importUnreadableFiled(root: string, path: string): undefined {
-  unreadable(root, join(indexImport.name, AT_PATH, `${path}${ENDING}`))
-}
-
 export function nothingFiled(root: string): undefined {
   foldering(root, "")
 }
 
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
   foldering(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG))
-}
-
-export function noImportersFiled(root: string): undefined {
-  foldering(root, join(indexImport.name, AT_PATH))
-}
-
-export function entriesFiled(root: string, entries: readonly Entry[]): undefined {
-  for (const one of entries) appendFileSync(making(root, one.at), `${one.line}\n`)
 }
 
 export function linesFiled(root: string, at: string, lines: readonly unknown[]): undefined {
@@ -401,8 +385,6 @@ export function fileWhereTheIndexIs(root: string, text: string): undefined {
 
 const TREE = "akasha"
 
-const IMPORTS_NONE = "akasha/one/imports-none.module.ts"
-
 function moduleTyped(root: string): undefined {
   const at = `${TREE}/module.page-type.ts`
   const id = "01a04bed-1450-7000-8000-0000000000ff"
@@ -412,7 +394,6 @@ function moduleTyped(root: string): undefined {
 function pagesRebuilt(root: string): string {
   refreshedIn(root, TREE)
   moduleTyped(root)
-  importFiled(root, IMPORTS_NONE, [])
   admitting(root)
   return root
 }

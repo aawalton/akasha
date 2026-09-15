@@ -9,7 +9,6 @@ import {
   staged,
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
-import { indexImport } from "akasha/page/index/import/index-import.index.ts"
 import {
   indexThere,
   listedAt,
@@ -43,7 +42,7 @@ const SLUG = "held"
 
 const ID = "01a08e16-827d-7f4d-bb26-5724ed027609"
 
-const GRAPHED = [importEdge, indexImport]
+const GRAPHED = [importEdge]
 
 function said(bytes: Uint8Array | null): string | null {
   if (bytes === null) return null
@@ -66,7 +65,7 @@ test("what a body the checkout is asked for imports is filed beside the page imp
   expect(importersBeside(root, IMPORTER_AT)).toEqual([])
 })
 
-test("the pages the import index and its edge are sit in the checkout too", () => {
+test("the page the import edge is sits in the checkout too", () => {
   const root = staged({})
   for (const one of GRAPHED) {
     const [listed] = listedAt(root, one.type, one.slug)

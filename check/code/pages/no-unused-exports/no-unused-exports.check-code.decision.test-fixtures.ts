@@ -8,7 +8,6 @@ import {
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import {
   importFiled,
-  noImportersFiled,
   pageFilingFrom,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
@@ -194,7 +193,6 @@ export function rooted(): string {
   typed(root, "performance", "domain")
   typed(root, "model-test", "domain")
   typed(root, "page-type", "domain")
-  noImportersFiled(root)
   return root
 }
 

@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   applied,
   applying,
@@ -28,7 +29,6 @@ import {
   scratch,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
-import { noImportersFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 const AGENT = "01a05f00-0000-7000-8000-000000000001"
 
@@ -55,7 +55,6 @@ afterAll(() => {
 async function indexed(): Promise<string> {
   const root = repoWith({ "seed.txt": "held" })
   await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
-  noImportersFiled(root)
   await landing(root, rowsIn(root, [{ path: PAGE, body: bytes(A) }]), "held", ADMITS)
   agentPaged(root, AGENT)
   return root
@@ -266,7 +265,7 @@ test("a landing that committed is taken as landed whatever went wrong after that
 })
 
 test("a landing refused answers its refusals", () => {
-  expect(refusalsIn({ refusals: ["another landing held the lock"], code: 1 })).toEqual([
+  expect(refusalsIn({ refusals: ["another landing held the lock"], code: INPUT })).toEqual([
     "another landing held the lock",
   ])
 })

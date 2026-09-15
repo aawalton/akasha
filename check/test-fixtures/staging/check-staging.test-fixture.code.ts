@@ -3,14 +3,8 @@ import { dirname, join } from "node:path"
 import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { module as modulePage } from "akasha/code/module/module.page-type.ts"
 import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
-import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
-import { indexImport } from "akasha/page/index/import/index-import.index.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { idFiled, listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import {
-  entriesFiled,
-  noImportersFiled,
-} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { importedFrom } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import { referencesEach } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
@@ -19,8 +13,6 @@ import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.modul
 import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
-
-const INDEX_PAGE_AT = "graph/index-import.index.ts"
 
 const MODULE_TYPE_AT = "code/module.page-type.ts"
 
@@ -58,9 +50,7 @@ function besided(root: string, entries: readonly Entry[]): undefined {
 }
 
 function reaching(root: string, files: Readonly<Record<string, string>>): undefined {
-  noImportersFiled(root)
   for (const [at, body] of Object.entries(files)) {
-    entriesFiled(root, importIn(body, at, root))
     besided(root, importedFrom(root, body, at, root))
   }
 }
@@ -76,9 +66,7 @@ function pageTyped(root: string): undefined {
 
 function graphed(root: string): undefined {
   paged(root, EDGE_PAGE_AT, importEdge)
-  paged(root, INDEX_PAGE_AT, indexImport)
   named(root, EDGE_PAGE_AT, importEdge.type, importEdge.slug, importEdge.id)
-  named(root, INDEX_PAGE_AT, indexImport.type, indexImport.slug, indexImport.id)
 }
 
 export function staged(files: Readonly<Record<string, string>>): string {

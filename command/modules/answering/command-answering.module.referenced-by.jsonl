@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/apply-running/apply-running.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/applying/applying.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/calendar-eventing/calendar-eventing.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/calendar-eventing/calendar-eventing.module.test.ts"}
