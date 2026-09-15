@@ -8,7 +8,7 @@ export const luaStringContains = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The text looked for is matched as plain text rather than as a Lua pattern.",
     },
   ],

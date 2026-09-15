@@ -8,15 +8,15 @@ export const requireNumericKey = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A Lua table hands every key over as text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key that is no number is refused rather than given back as zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The refusal names the key and the label the caller handed in.",
     },
   ],

@@ -8,11 +8,11 @@ export const mapPinsFishingNodes04 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The records here are one unbroken run of the table's order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The run is the add-on's own source rather than a derivation.",
     },
   ],

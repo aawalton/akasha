@@ -8,7 +8,7 @@ export const lostTreasureNotifications = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A notification is offered in three languages alone.",
     },
   ],

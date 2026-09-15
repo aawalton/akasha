@@ -8,31 +8,31 @@ export const ttcListingClient = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A listing here is Tamriel Trade Centre's answer right now.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Tamriel Trade Centre is asked no faster than the pace the caller sets.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A search waits its turn before asking.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller setting no pace gets one request per six seconds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A listing failing the parse is dropped rather than failing the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Three failures in a row across a batch are thrown rather than swallowed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A demand for reCAPTCHA is reported as live search being unavailable.",
     },
   ],

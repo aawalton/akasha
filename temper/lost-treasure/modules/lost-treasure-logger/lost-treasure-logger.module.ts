@@ -8,7 +8,7 @@ export const lostTreasureLogger = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log level is the string the logging library uses rather than a number.",
     },
   ],

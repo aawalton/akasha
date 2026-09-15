@@ -8,7 +8,7 @@ export const isTable = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only Lua's own `type` tells a table from userdata.",
     },
   ],

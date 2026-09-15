@@ -8,15 +8,15 @@ export const usePlayer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A player row is keyed by the user id its title has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A player with no row yet is written by upsert rather than patch.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Profile metadata a player never set has no key.",
     },
   ],

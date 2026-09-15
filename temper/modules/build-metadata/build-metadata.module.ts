@@ -8,11 +8,11 @@ export const buildMetadata = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character's metadata and a companion's metadata are read by separate calls.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Metadata put back on a state leaves every other field of that state alone.",
     },
   ],

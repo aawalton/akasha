@@ -8,7 +8,7 @@ export const destinationsLangSettingsJp = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The table is the runs joined in order.",
     },
   ],

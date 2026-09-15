@@ -8,11 +8,11 @@ export const reloadUi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The interface is loaded again with the player still in the world.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing is handed back, because the interface goes before the next line runs.",
     },
   ],

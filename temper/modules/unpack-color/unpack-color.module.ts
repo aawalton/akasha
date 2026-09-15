@@ -8,19 +8,19 @@ export const unpackColor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A color is four numbers, in red, green, blue, alpha order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A number a color is missing reads as full.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A red, green or blue the color is missing is handed back as full.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An alpha the color is missing is handed back as nothing.",
     },
   ],

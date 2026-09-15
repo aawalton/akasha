@@ -8,7 +8,7 @@ export const isCallback = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Only Lua's own `type` tells a function from a value.",
     },
   ],

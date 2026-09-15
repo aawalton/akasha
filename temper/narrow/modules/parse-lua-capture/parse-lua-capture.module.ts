@@ -8,7 +8,7 @@ export const parseLuaCapture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capture that matched nothing comes back as nil rather than as text.",
     },
   ],

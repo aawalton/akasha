@@ -8,19 +8,19 @@ export const luaVm = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A script that fails throws the error Lua gave rather than answering.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A global is read by running a return of that global's name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Stubs the caller hands in are loaded before the caller gets the VM.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Stubs that fail to load close the subprocess rather than leaving the subprocess half set up.",
     },

@@ -8,7 +8,7 @@ export const lostTreasureMining = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How long gathering runs is measured by the game's clock rather than by a Date.",
     },
   ],

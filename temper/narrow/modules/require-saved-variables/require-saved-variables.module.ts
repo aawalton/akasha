@@ -8,7 +8,7 @@ export const requireSavedVariables = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A read before the session opens the table is a refusal rather than an empty table.",
     },

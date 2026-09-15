@@ -8,19 +8,19 @@ export const chatEntryText = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The player sends what the box holds, and no add-on sends it for them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Chat input is opened where the entry box does not already hold the focus.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text is added where the cursor is rather than replacing what is there.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here sends what was written.",
     },
   ],

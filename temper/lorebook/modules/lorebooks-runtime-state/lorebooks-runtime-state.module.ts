@@ -8,7 +8,7 @@ export const lorebooksRuntimeState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The LibGPS3 handle every map reading here goes through is taken once, here.",
     },
   ],
