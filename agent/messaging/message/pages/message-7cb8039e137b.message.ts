@@ -2,7 +2,7 @@ import type { Message } from "akasha/agent/messaging/message/message.page-type.t
 
 export const message7cb8039e137b = {
   id: "01a0a580-00be-7000-9e51-7cb8039e137b",
-  type: "message",
+  type: "page-type/message",
   slug: "message-7cb8039e137b",
   to: "seat/alan",
   from: "service-watching",
