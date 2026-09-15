@@ -1,9 +1,9 @@
+import { fetchPlantGrams } from "akasha/alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.reading.code.ts"
 import type { Asking } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
 import {
   keepReading,
   readoutPage,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
-import { fetchPlantGrams } from "akasha/alan/harness/readout/pages/upkeep-plants/upkeep-plants.readout.reading.code.ts"
 import {
   openedDayOf,
   openedDayWindow,

@@ -4,7 +4,7 @@ import {
   capacityIn,
   costFor,
   recoveryFor,
-} from "akasha/alan/harness/readout/pages/upkeep-capacity/upkeep-capacity.readout.reading.code.ts"
+} from "akasha/alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.reading.code.ts"
 
 const held = (capacity: unknown) => ({ values: { "health-capacity-hours": capacity } })
 

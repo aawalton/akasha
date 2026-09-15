@@ -257,6 +257,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts","id":"01a069bc-1aa3-790c-bb5e-db2397ad19ed"}
 {"propertySlug":"invariant-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
 {"propertySlug":"invariant-kind","path":"alan/harness/capacity/modules/reading/capacity-reading.module.ts","id":"01a069ba-b018-7b6b-b9a6-18cd82bd54b3"}
+{"propertySlug":"invariant-kind","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts","id":"01a06230-614a-7c46-9fba-3be28e181ca4"}
 {"propertySlug":"invariant-kind","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.ts","id":"01a07c93-3aad-7d0a-87f2-3f002f5aad39"}
 {"propertySlug":"invariant-kind","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.ts","id":"01a07266-d474-7296-bd8e-10c7667fe6b6"}
 {"propertySlug":"invariant-kind","path":"alan/harness/code-editor/data-interface/modules/group-stoplights/group-stoplights.module.ts","id":"01a064e4-627c-717e-bcf8-2ad1f41c1222"}
@@ -368,6 +369,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.ts","id":"01a069b6-bb6b-7ec9-bdcf-8f130bb46a4d"}
 {"propertySlug":"invariant-kind","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.ts","id":"019f4a1f-0ecc-7d45-8f43-7b424b5f0477"}
 {"propertySlug":"invariant-kind","path":"alan/harness/plant/modules/plants-reading/plants-reading.module.ts","id":"01a069bc-1aa2-7813-a0df-1f5eed5e0196"}
+{"propertySlug":"invariant-kind","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.ts","id":"01a06221-d65f-79f1-86c6-ac9568df5717"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/asking/readout-asking.module.ts","id":"01a061c0-e7cc-7ec9-b512-033fcde733e7"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/body/readout-body.module.ts","id":"01a05e63-1c18-7baa-a113-890ebfb04463"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/credential/readout-credential.module.ts","id":"01a054d9-d41f-796f-a2ff-b2c0fa9863a0"}
@@ -383,10 +385,6 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.ts","id":"01a078a8-b96f-765d-99ff-5703d9b2edd3"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.ts","id":"01a078a5-b8d4-7914-bdf7-41f482a36806"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/five-hour-back/five-hour-back.readout.ts","id":"01a063bd-a526-7d2a-b1f5-8375b86d19ff"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/upkeep-capacity/upkeep-capacity.readout.ts","id":"01a06230-614a-7c46-9fba-3be28e181ca4"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/upkeep-plants/upkeep-plants.readout.ts","id":"01a06221-d65f-79f1-86c6-ac9568df5717"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/upkeep-safety/upkeep-safety.readout.ts","id":"01a05f42-92f5-7004-9179-75f0f75b02e9"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/upkeep-sleep/upkeep-sleep.readout.ts","id":"01a06220-ef8c-700d-ad60-4cf3f17ae1e3"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/upkeep-surplus/upkeep-surplus.readout.ts","id":"01a05fc3-145a-78a6-902f-ea39b8165c39"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/weekly-back/weekly-back.readout.ts","id":"01a063bd-a526-795d-b845-b6fb54c9ef34"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/weekly-ends/weekly-ends.readout.ts","id":"01a063bd-a526-7623-8e91-2865d3976acc"}
@@ -402,7 +400,9 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/rules-engine/modules/rule-partition/rule-partition.module.ts","id":"01a0657b-9adc-7005-95a5-a56941403096"}
 {"propertySlug":"invariant-kind","path":"alan/harness/rules-engine/rules-engine.domain.ts","id":"01a0657b-9adc-7003-a1af-d02c5457d479"}
 {"propertySlug":"invariant-kind","path":"alan/harness/safety/modules/reading/safety-reading.module.ts","id":"01a069bc-9375-7eee-b662-6f844c8880b6"}
+{"propertySlug":"invariant-kind","path":"alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.ts","id":"01a05f42-92f5-7004-9179-75f0f75b02e9"}
 {"propertySlug":"invariant-kind","path":"alan/harness/sleep/modules/reading/sleep-reading.module.ts","id":"01a069b3-8f5a-7bff-bb12-ccc087280c99"}
+{"propertySlug":"invariant-kind","path":"alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.ts","id":"01a06220-ef8c-700d-ad60-4cf3f17ae1e3"}
 {"propertySlug":"invariant-kind","path":"alan/harness/sms-core/modules/normalize/normalize.module.ts","id":"01a05b6f-999d-7245-878b-3293cdfb33fb"}
 {"propertySlug":"invariant-kind","path":"alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.ts","id":"01a05b6f-999d-731e-a182-ed95ac7ecc35"}
 {"propertySlug":"invariant-kind","path":"alan/harness/sms-core/modules/verify-signature/verify-signature.module.ts","id":"01a05b6f-999d-7522-a55b-564a85f90c43"}

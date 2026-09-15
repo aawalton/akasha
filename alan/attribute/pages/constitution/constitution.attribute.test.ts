@@ -4,11 +4,11 @@ import {
   fetchConstitutionPoints,
   GRAMS_TO_THE_POINT,
 } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
+import { ate } from "akasha/alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.reading.test-fixtures.ts"
 import {
   answering,
   refusing,
 } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.test-fixtures.ts"
-import { ate } from "akasha/alan/harness/readout/pages/upkeep-plants/upkeep-plants.readout.reading.test-fixtures.ts"
 
 const FROM = "2026-09-01T13:00:00.000Z"
 

@@ -2,7 +2,7 @@ import {
   keepReading,
   readoutPage,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
-import { sleepIn } from "akasha/alan/harness/readout/pages/upkeep-sleep/upkeep-sleep.readout.reading.code.ts"
+import { sleepIn } from "akasha/alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.reading.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
