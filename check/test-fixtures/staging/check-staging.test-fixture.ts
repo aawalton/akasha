@@ -52,7 +52,16 @@ export const checkStaging = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "The checkout names the page type its pages are, so what a file belongs to is answered.",
+        "The checkout has the page type its pages are, so what a file belongs to is answered.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "That page type is the page itself rather than a page the fixture invents.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "That page sits outside the tree a check reads, so no check is handed a file more.",
     },
   ],
 } as const satisfies TestFixture

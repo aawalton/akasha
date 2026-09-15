@@ -1,6 +1,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { module as modulePage } from "akasha/code/module/module.page-type.ts"
 import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
 import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
 import { indexImport } from "akasha/page/index/import/index-import.index.ts"
@@ -21,13 +22,7 @@ const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
 const INDEX_PAGE_AT = "graph/index-import.index.ts"
 
-const MODULE_TYPE_AT = "akasha/module.page-type.ts"
-
-const MODULE_TYPE_ID = "01a0a3d6-0000-7000-8000-00000000000a"
-
-const PAGE_TYPE = "page-type"
-
-const MODULE = "module"
+const MODULE_TYPE_AT = "code/module.page-type.ts"
 
 export const scratch = scratchWorld()
 
@@ -75,7 +70,8 @@ function paged(root: string, at: string, held: unknown): undefined {
 }
 
 function pageTyped(root: string): undefined {
-  named(root, MODULE_TYPE_AT, PAGE_TYPE, MODULE, MODULE_TYPE_ID)
+  paged(root, MODULE_TYPE_AT, modulePage)
+  named(root, MODULE_TYPE_AT, modulePage.type, modulePage.slug, modulePage.id)
 }
 
 function graphed(root: string): undefined {

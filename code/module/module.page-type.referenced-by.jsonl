@@ -14,6 +14,7 @@
 {"propertySlug":"extends-type","path":"page/computed-property-module/computed-property-module.page-type.ts","id":"01a08202-ae3b-7dad-afcb-d0ad4adc1214"}
 {"propertySlug":"extends-type","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}
 {"propertySlug":"extends-type","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.ts"}
