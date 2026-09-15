@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash006262EmissaryToTheRats = {
   id: "01a0672c-edbd-7002-9cf9-0792fabb5bcf",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0062-62-emissary-to-the-rats",
   title: "62. Emissary to the Rats",
   story: "story-read/god-of-trash",

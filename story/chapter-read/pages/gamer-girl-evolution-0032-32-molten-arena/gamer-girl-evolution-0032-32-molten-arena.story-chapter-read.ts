@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution003232MoltenArena = {
   id: "01a06731-b0dd-7011-9f04-657541f80f96",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0032-32-molten-arena",
   title: "32 - Molten Arena",
   story: "story-read/gamer-girl-evolution",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution003131SecretStage = {
   id: "01a06731-b0dd-7010-a974-bf4a13f304f7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0031-31-secret-stage",
   title: "31 - Secret Stage?",
   story: "story-read/gamer-girl-evolution",

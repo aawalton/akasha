@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution003737TheEmpressOfTheNight = {
   id: "01a06731-b0dd-7016-bb4e-ced95bcc1b66",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0037-37-the-empress-of-the-night",
   title: "37 - The Empress of the Night",
   story: "story-read/gamer-girl-evolution",

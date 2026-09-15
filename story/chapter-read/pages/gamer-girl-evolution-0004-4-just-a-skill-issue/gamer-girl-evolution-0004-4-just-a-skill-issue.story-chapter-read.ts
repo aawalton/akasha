@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution00044JustASkillIssue = {
   id: "01a06731-b0db-7015-aea2-58b6e17d4f31",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0004-4-just-a-skill-issue",
   title: "4 – Just a Skill Issue",
   story: "story-read/gamer-girl-evolution",

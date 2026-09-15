@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution00022FirstClear = {
   id: "01a06731-b0db-7013-9364-4107a60a6992",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0002-2-first-clear",
   title: "2 - First Clear",
   story: "story-read/gamer-girl-evolution",

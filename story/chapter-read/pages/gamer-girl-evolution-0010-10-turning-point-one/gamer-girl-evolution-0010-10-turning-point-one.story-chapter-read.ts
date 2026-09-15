@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution001010TurningPointOne = {
   id: "01a06731-b0dc-7001-8a4f-bffbaa80a36e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0010-10-turning-point-one",
   title: "10 – Turning Point One",
   story: "story-read/gamer-girl-evolution",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution002828SnappedSwordVsTheRiftToad2 = {
   id: "01a06731-b0dd-700d-8267-6e2c5d1756c3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0028-28-snapped-sword-vs-the-rift-toad-2",
   title: "28 - Snapped Sword vs The Rift Toad (2) ",
   story: "story-read/gamer-girl-evolution",

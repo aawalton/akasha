@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution004545TheEonianKing = {
   id: "01a06731-b0de-7001-a7e0-a5f46b9c6812",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0045-45-the-eonian-king",
   title: "45 - The Eonian King",
   story: "story-read/gamer-girl-evolution",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution00055NoPartyMembersRequired = {
   id: "01a06731-b0db-7016-a447-129a0a0ad65e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0005-5-no-party-members-required",
   title: "5 – No Party Members Required",
   story: "story-read/gamer-girl-evolution",

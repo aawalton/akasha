@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution004242AquaRiftCore = {
   id: "01a06731-b0dd-701b-9fef-e18bbd53e471",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0042-42-aqua-rift-core",
   title: "42 - Aqua Rift-Core",
   story: "story-read/gamer-girl-evolution",

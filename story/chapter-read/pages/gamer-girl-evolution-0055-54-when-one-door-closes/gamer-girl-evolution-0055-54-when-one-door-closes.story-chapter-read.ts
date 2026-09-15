@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution005554WhenOneDoorCloses = {
   id: "01a06731-b0df-7004-8df4-a245148f4d5e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0055-54-when-one-door-closes",
   title: "54 - When One Door Closes...",
   story: "story-read/gamer-girl-evolution",

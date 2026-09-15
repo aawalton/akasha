@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution003636OneShot = {
   id: "01a06731-b0dd-7015-b81e-b2999f6a20b5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0036-36-one-shot",
   title: "36 - One-Shot?",
   story: "story-read/gamer-girl-evolution",

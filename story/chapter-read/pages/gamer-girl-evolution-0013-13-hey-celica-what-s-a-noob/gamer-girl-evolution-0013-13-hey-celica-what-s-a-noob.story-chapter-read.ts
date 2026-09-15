@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution001313HeyCelicaWhatSANoob = {
   id: "01a06731-b0dc-7004-903f-a17f9e6741ff",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0013-13-hey-celica-what-s-a-noob",
   title: "13 - Hey Celica... What's a Noob?",
   story: "story-read/gamer-girl-evolution",

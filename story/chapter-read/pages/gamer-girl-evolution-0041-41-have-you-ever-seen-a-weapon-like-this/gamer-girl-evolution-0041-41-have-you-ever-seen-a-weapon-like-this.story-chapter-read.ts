@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution004141HaveYouEverSeenAWeaponLikeThis = {
   id: "01a06731-b0dd-701a-a6a6-44bc0d45986c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0041-41-have-you-ever-seen-a-weapon-like-this",
   title: "41 - Have You Ever Seen A Weapon Like This?",
   story: "story-read/gamer-girl-evolution",

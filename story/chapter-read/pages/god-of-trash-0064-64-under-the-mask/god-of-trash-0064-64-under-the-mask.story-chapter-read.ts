@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash006464UnderTheMask = {
   id: "01a0672c-edbe-7001-87da-da99d3bcac72",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0064-64-under-the-mask",
   title: "64. Under the Mask",
   story: "story-read/god-of-trash",

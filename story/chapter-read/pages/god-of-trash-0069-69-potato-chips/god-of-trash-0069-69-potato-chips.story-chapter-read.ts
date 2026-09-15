@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash006969PotatoChips = {
   id: "01a0672c-edc0-7000-9fc3-0db7596e4f47",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0069-69-potato-chips",
   title: "69. Potato Chips",
   story: "story-read/god-of-trash",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution004444TrainWreck = {
   id: "01a06731-b0de-7000-a022-029af1134b76",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0044-44-train-wreck",
   title: "44 - Train Wreck?",
   story: "story-read/gamer-girl-evolution",

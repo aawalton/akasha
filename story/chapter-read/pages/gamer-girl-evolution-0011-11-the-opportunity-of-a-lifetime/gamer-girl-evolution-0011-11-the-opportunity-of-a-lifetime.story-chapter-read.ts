@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution001111TheOpportunityOfALifetime = {
   id: "01a06731-b0dc-7002-a694-7da333559bfb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0011-11-the-opportunity-of-a-lifetime",
   title: "11 - The Opportunity of a Lifetime",
   story: "story-read/gamer-girl-evolution",

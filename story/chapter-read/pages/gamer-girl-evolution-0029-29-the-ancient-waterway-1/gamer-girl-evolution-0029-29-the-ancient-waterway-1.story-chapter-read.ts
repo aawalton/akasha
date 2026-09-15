@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution002929TheAncientWaterway1 = {
   id: "01a06731-b0dd-700e-b4f2-72c39f4f569b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0029-29-the-ancient-waterway-1",
   title: "29 - The Ancient Waterway (1)",
   story: "story-read/gamer-girl-evolution",

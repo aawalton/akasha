@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution00033BlingBlingMaxing = {
   id: "01a06731-b0db-7014-8e4a-aa78c42912c3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0003-3-bling-bling-maxing",
   title: "3 – Bling Bling Maxing",
   story: "story-read/gamer-girl-evolution",

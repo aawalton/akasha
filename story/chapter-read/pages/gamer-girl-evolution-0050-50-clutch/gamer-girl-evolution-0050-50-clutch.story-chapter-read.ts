@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const gamerGirlEvolution005050Clutch = {
   id: "01a06731-b0de-7006-b518-c891a7fad16c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0050-50-clutch",
   title: "50 - Clutch",
   story: "story-read/gamer-girl-evolution",
