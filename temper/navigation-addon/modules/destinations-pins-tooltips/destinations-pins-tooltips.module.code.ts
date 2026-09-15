@@ -1,4 +1,4 @@
-import { gamepadBodyStyle } from "akasha/temper/gamepad-tooltip/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
+import { gamepadBodyStyle } from "akasha/temper/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/navigation-addon/modules/destinations-names/destinations-names.module.code.ts"
 import {
   DESTINATIONS_PIN_TYPE_CRAFTING,

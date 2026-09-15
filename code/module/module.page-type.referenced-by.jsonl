@@ -3942,7 +3942,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/game-catalog-capture-host/modules/trait-research-catalog-schema/trait-research-catalog-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/game-catalog-capture-host/modules/tribute-catalog-schema/tribute-catalog-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/game-catalog-capture-host/modules/zone-completion-catalog-schema/zone-completion-catalog-schema.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/gamepad-tooltip/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/group-dungeon/modules/dungeon-data/dungeon-data.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/group-dungeon/modules/dungeon-registry/dungeon-registry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/group-dungeon/modules/eso-reset/eso-reset.module.ts"}
@@ -5500,6 +5499,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/descriptor/descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/explain-walk/explain-walk.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}

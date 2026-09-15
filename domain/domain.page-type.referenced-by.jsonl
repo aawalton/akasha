@@ -564,7 +564,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/formula-framework/temper-formula-framework.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/game-catalog-capture-host/temper-game-catalog-capture-host.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/gamepad-tooltip/temper-gamepad-tooltip.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/group-dungeon/temper-group-dungeon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/holdings/temper-holdings.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/hud-component/temper-hud-component.domain.ts"}
