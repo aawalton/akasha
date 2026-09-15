@@ -397,3 +397,20 @@ test("a way named for the old slug is named for the new slug", async () => {
     `"./${CARRIED}": "./${CARRIED}/${CARRIED}.module.code.ts"`
   )
 })
+
+const ADDRESSED_PAGE = "akasha/twelve/addressed-one.module.ts"
+
+const addressedAt: string = indexedRepo({
+  [ADDRESSED_PAGE]: pageOf({
+    id: idOf("b"),
+    pageTypeSlug: "module",
+    slug: "addressed-one",
+  }).replace('"pageTypeSlug": "module"', '"type": "page-type/module"'),
+})
+
+test("a page stating its page type as an address is named by the slug that address holds", async () => {
+  const root = addressedAt
+  const said = await runChange(worldIn(root, textIn(root)), { at: ADDRESSED_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([[ADDRESSED_PAGE, CARRIED_PAGE]])
+})

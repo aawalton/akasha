@@ -102,7 +102,7 @@ function readIn(at: string, text: string): Read {
   return {
     held: {
       slug: slug.text,
-      pageTypeSlug: pageTypeSlug.text,
+      pageTypeSlug: slugIn(pageTypeSlug.text) ?? pageTypeSlug.text,
       said: new Map([...said].map(([key, one]) => [key, one.text])),
     },
   }

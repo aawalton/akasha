@@ -90,5 +90,10 @@ export const pageRenaming = {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches a change.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A page stating its page type as an address is read by the slug that address holds.",
+    },
   ],
 } as const satisfies Module
