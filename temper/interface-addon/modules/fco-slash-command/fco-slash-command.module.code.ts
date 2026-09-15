@@ -1,4 +1,4 @@
-import { reloadUI } from "akasha/temper/ui-reload/modules/reload-ui/reload-ui.module.code.ts"
+import { reloadUI } from "akasha/temper/modules/reload-ui/reload-ui.module.code.ts"
 
 export function slashCommands(this: void): undefined {
   const leaveGroup = (): undefined => {

@@ -5503,6 +5503,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/guild-store-poster/guild-store-poster.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/movable-window/movable-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/reload-ui/reload-ui.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/ttc-listing-client/ttc-listing-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
@@ -6219,7 +6220,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-pricing/modules/pricing-types/pricing-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-pricing/modules/ttc-listing-schema/ttc-listing-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/trading-pricing/modules/ttc-listing-types/ttc-listing-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/ui-reload/modules/reload-ui/reload-ui.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/upstream-data/modules/leaf-dump/leaf-dump.module.ts"}
