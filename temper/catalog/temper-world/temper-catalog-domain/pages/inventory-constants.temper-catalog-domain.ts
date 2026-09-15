@@ -2,13 +2,13 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const inventoryConstants = {
   id: "01a05fc5-7430-762e-87e8-3acee57f3719",
-  type: "temper-catalog-domain",
+  type: "page-type/temper-catalog-domain",
   slug: "inventory-constants",
   title: "Inventory Constants",
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-15T17:21:37.422Z",
+  capturedAt: "2026-09-15T17:43:38.704Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
