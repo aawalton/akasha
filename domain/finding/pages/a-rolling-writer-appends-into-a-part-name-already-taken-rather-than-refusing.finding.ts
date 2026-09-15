@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aRollingWriterAppendsIntoAPartNameAlreadyTakenRatherThanRefusing = {
   id: "01a0973e-0f8c-7c21-b88c-e75fc91a3b58",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-rolling-writer-appends-into-a-part-name-already-taken-rather-than-refusing",
   domain: "page-type/page",
   claim:

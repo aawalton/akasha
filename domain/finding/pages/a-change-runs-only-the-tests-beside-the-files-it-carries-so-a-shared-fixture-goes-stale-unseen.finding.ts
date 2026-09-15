@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aChangeRunsOnlyTheTestsBesideTheFilesItCarriesSoASharedFixtureGoesStaleUnseen = {
   id: "01a0963a-2ac2-7547-b518-2352c5be9c90",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-change-runs-only-the-tests-beside-the-files-it-carries-so-a-shared-fixture-goes-stale-unseen",
   domain: "page-type/change",
   claim:

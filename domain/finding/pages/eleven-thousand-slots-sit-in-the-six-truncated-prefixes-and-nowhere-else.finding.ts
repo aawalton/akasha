@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const elevenThousandSlotsSitInTheSixTruncatedPrefixesAndNowhereElse = {
   id: "01a0675a-8cc6-7bb2-ae6a-046c96267289",
-  type: "finding",
+  type: "page-type/finding",
   slug: "eleven-thousand-slots-sit-in-the-six-truncated-prefixes-and-nowhere-else",
   domain: "domain/temper-holdings",
   claim:

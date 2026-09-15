@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const foldingAPackageIntoTheRootPurgesTheUtilitiesOnlyItsTreeUsed = {
   id: "01a088de-91fd-7690-b80a-9faad2772858",
-  type: "finding",
+  type: "page-type/finding",
   slug: "folding-a-package-into-the-root-purges-the-utilities-only-its-tree-used",
   domain: "domain/design",
   claim:

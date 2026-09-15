@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aHandedOverEditIsFoldedIntoTheNextApplyRatherThanWaitingToBeTaken = {
   id: "01a08df1-4203-71ef-9f1f-9948e896c86c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-handed-over-edit-is-folded-into-the-next-apply-rather-than-waiting-to-be-taken",
   domain: "page-type/change",
   claim:

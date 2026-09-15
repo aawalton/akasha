@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aDozenRedTestFilesIsTheOrdinaryStateRatherThanARegression = {
   id: "01a095d8-87d6-727e-ae8c-3b6ef530cf84",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-dozen-red-test-files-is-the-ordinary-state-rather-than-a-regression",
   domain: "domain/test",
   claim:

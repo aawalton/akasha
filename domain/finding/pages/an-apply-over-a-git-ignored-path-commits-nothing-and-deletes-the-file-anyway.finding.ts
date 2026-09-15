@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const anApplyOverAGitIgnoredPathCommitsNothingAndDeletesTheFileAnyway = {
   id: "01a09cc4-3fcd-7d79-8603-a19fab22a021",
-  type: "finding",
+  type: "page-type/finding",
   slug: "an-apply-over-a-git-ignored-path-commits-nothing-and-deletes-the-file-anyway",
   domain: "page-type/change",
   claim:

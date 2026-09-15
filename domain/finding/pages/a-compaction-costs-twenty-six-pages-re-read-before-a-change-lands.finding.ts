@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aCompactionCostsTwentySixPagesReReadBeforeAChangeLands = {
   id: "01a094fb-f7d6-7cdc-9524-0b499eceed36",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-compaction-costs-twenty-six-pages-re-read-before-a-change-lands",
   domain: "domain/hook",
   claim:

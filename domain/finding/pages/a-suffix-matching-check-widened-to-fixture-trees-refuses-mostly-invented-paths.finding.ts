@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aSuffixMatchingCheckWidenedToFixtureTreesRefusesMostlyInventedPaths = {
   id: "01a09897-10c5-754b-89d4-b1a32611c0c7",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-suffix-matching-check-widened-to-fixture-trees-refuses-mostly-invented-paths",
   domain: "domain/check",
   claim:

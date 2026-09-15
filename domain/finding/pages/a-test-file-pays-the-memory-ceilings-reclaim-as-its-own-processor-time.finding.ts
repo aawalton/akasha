@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aTestFilePaysTheMemoryCeilingsReclaimAsItsOwnProcessorTime = {
   id: "01a09824-c557-7919-b565-78406ee1f249",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-test-file-pays-the-memory-ceilings-reclaim-as-its-own-processor-time",
   domain: "domain/memory-limit",
   claim:

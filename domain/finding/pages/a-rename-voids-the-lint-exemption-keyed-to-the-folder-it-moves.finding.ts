@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aRenameVoidsTheLintExemptionKeyedToTheFolderItMoves = {
   id: "01a0a383-95f4-717c-9139-7b4abbe8910e",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-rename-voids-the-lint-exemption-keyed-to-the-folder-it-moves",
   domain: "page-type/change",
   claim:

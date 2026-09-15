@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aReminderScheduleIsJudgedWhenItIsSentRatherThanWhenItIsWritten = {
   id: "01a05f71-8d3b-7000-8ec1-ace3d075aedf",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written",
   domain: "domain/reminder-system",
   claim:

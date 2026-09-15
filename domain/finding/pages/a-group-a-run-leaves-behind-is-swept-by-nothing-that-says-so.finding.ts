@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aGroupARunLeavesBehindIsSweptByNothingThatSaysSo = {
   id: "01a09323-b132-7a2f-ac97-f3494d8fd663",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-group-a-run-leaves-behind-is-swept-by-nothing-that-says-so",
   domain: "domain/cpu-limit",
   claim:

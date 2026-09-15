@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const everyCeilingTheReaperHoldsSitsAboveWhatARunawayAgentReaches = {
   id: "01a09109-a87b-7df7-a4ba-3d992bbea915",
-  type: "finding",
+  type: "page-type/finding",
   slug: "every-ceiling-the-reaper-holds-sits-above-what-a-runaway-agent-reaches",
   domain: "domain/memory-reaping",
   claim:

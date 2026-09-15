@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const landingAManifestUnderAkashaWasSeenToOverwriteTheRootManifest = {
   id: "01a06471-8a2f-7000-b6c4-3d05e8a71b29",
-  type: "finding",
+  type: "page-type/finding",
   slug: "landing-a-manifest-under-akasha-was-seen-to-overwrite-the-root-manifest",
   domain: "page-type/change",
   claim:

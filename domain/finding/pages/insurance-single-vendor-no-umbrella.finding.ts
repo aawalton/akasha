@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const insuranceSingleVendorNoUmbrella = {
   id: "01a06555-9f3e-7c92-836d-6356c432945c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "insurance-single-vendor-no-umbrella",
   domain: "domain/all-about-alan",
   claim:

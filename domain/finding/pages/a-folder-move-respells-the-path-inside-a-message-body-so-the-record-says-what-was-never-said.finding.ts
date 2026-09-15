@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aFolderMoveRespellsThePathInsideAMessageBodySoTheRecordSaysWhatWasNeverSaid = {
   id: "01a095e9-b047-7ef0-991d-4ac9167cd5a9",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-folder-move-respells-the-path-inside-a-message-body-so-the-record-says-what-was-never-said",
   domain: "page-type/change",
   claim:

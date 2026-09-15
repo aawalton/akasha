@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aSubagentAbsentFromItsSeatsTranscriptIsReapedAsDoneAndTwoInThreeComeBack = {
   id: "01a09645-1535-736d-b730-da27832d6360",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-subagent-absent-from-its-seats-transcript-is-reaped-as-done-and-two-in-three-come-back",
   domain: "page-type/agent",
   claim:

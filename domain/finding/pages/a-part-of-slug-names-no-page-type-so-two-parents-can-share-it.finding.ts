@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aPartOfSlugNamesNoPageTypeSoTwoParentsCanShareIt = {
   id: "01a06748-3c02-7000-9b5e-41f7a0c8d233",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-part-of-slug-names-no-page-type-so-two-parents-can-share-it",
   domain: "domain/page-edge",
 

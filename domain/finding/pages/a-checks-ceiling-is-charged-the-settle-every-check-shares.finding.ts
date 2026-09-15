@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aChecksCeilingIsChargedTheSettleEveryCheckShares = {
   id: "01a0a4f1-b6b8-7c55-bb02-f89a1b2348b9",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-checks-ceiling-is-charged-the-settle-every-check-shares",
   domain: "page-type/check-code",
   claim:

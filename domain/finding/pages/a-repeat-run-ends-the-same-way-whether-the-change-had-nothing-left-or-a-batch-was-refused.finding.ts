@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aRepeatRunEndsTheSameWayWhetherTheChangeHadNothingLeftOrABatchWasRefused = {
   id: "01a0961e-eeca-73e8-a979-d0db0198aa76",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-repeat-run-ends-the-same-way-whether-the-change-had-nothing-left-or-a-batch-was-refused",
   domain: "page-type/change",
   claim:

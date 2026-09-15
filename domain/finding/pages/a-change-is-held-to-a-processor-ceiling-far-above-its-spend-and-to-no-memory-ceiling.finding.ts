@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aChangeIsHeldToAProcessorCeilingFarAboveItsSpendAndToNoMemoryCeiling = {
   id: "01a0933e-c961-7cf9-a599-f0d9cff91bf3",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-change-is-held-to-a-processor-ceiling-far-above-its-spend-and-to-no-memory-ceiling",
   domain: "domain/cpu-limit",
   claim:

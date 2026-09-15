@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aPlanWhoseEveryAddressResolvesTodayIsTheBrokenPlan = {
   id: "01a088a7-84db-7129-958c-4b29a14b04fb",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-plan-whose-every-address-resolves-today-is-the-broken-plan",
   domain: "domain/change-agent-file-content",
   claim:

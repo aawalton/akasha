@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aFolderMoveRewritesATestFixtureLiteralThatNamesARealPath = {
   id: "01a092e1-8c1c-758d-a953-aa238b449db3",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-folder-move-rewrites-a-test-fixture-literal-that-names-a-real-path",
   domain: "page-type/change",
   claim:

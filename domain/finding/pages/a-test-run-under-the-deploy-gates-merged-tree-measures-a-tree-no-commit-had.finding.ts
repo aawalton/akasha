@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aTestRunUnderTheDeployGatesMergedTreeMeasuresATreeNoCommitHad = {
   id: "01a0963d-781c-7350-9c9c-c7329124d1dc",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-test-run-under-the-deploy-gates-merged-tree-measures-a-tree-no-commit-had",
   domain: "page-type/service",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const anAgentChangeDropsTheArgumentsThatChangeDoesNotRead = {
   id: "01a08dc1-bf0c-76d3-91d4-9e0e2032c85d",
-  type: "finding",
+  type: "page-type/finding",
   slug: "an-agent-change-drops-the-arguments-that-change-does-not-read",
   domain: "domain/change-agent-file-content",
   claim:

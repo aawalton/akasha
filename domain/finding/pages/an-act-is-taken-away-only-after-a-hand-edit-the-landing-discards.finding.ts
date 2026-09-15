@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const anActIsTakenAwayOnlyAfterAHandEditTheLandingDiscards = {
   id: "01a0876f-357e-7549-9ed7-a05754deba39",
-  type: "finding",
+  type: "page-type/finding",
   slug: "an-act-is-taken-away-only-after-a-hand-edit-the-landing-discards",
   domain: "domain/change-agent-file",
   claim:

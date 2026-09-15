@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aServiceWhoseWorkIsNotInstantaneousIsStarvedByRestartsItCannotOutrun = {
   id: "01a09459-ee24-74cc-b626-9496de9ece11",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-service-whose-work-is-not-instantaneous-is-starved-by-restarts-it-cannot-outrun",
   domain: "page-type/service",
   claim:

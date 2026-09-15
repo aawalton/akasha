@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aLintAuditFallsShortWhenALandingMovesAPathWhileTheLinterWalks = {
   id: "01a095f1-b21b-7d0d-9178-763b3175d66b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-lint-audit-falls-short-when-a-landing-moves-a-path-while-the-linter-walks",
   domain: "domain/check",
   claim:

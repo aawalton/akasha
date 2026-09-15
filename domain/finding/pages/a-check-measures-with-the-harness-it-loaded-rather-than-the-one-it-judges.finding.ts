@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aCheckMeasuresWithTheHarnessItLoadedRatherThanTheOneItJudges = {
   id: "01a0964c-71ea-70be-83a3-c708c48651ad",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-check-measures-with-the-harness-it-loaded-rather-than-the-one-it-judges",
   domain: "domain/check",
   claim:

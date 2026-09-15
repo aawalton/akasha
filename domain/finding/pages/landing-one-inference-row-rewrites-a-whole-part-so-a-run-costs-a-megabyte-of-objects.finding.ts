@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const landingOneInferenceRowRewritesAWholePartSoARunCostsAMegabyteOfObjects = {
   id: "01a09607-85f9-7001-bcba-a3f5a487d4f1",
-  type: "finding",
+  type: "page-type/finding",
   slug: "landing-one-inference-row-rewrites-a-whole-part-so-a-run-costs-a-megabyte-of-objects",
   domain: "page-type/inference-run",
   claim:

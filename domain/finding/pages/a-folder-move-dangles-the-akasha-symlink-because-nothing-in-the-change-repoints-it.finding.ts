@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aFolderMoveDanglesTheAkashaSymlinkBecauseNothingInTheChangeRepointsIt = {
   id: "01a0921c-aa69-78ba-9005-8bdae25a6a1f",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-folder-move-dangles-the-akasha-symlink-because-nothing-in-the-change-repoints-it",
   domain: "page-type/service",
   claim:

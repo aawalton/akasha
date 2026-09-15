@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aWholeFileLandingRevertsASiblingWorkersLinesWithCodeZero = {
   id: "01a06867-7fc9-7002-8637-7ac5005a541f",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-whole-file-landing-reverts-a-sibling-workers-lines-with-code-zero",
   domain: "domain/page-storage",
   claim:

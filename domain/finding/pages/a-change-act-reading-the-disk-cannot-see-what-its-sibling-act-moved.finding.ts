@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aChangeActReadingTheDiskCannotSeeWhatItsSiblingActMoved = {
   id: "01a0a383-95f4-7298-8a91-134a2015072f",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-change-act-reading-the-disk-cannot-see-what-its-sibling-act-moved",
   domain: "page-type/change",
   claim:

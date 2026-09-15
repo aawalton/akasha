@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aCitationsLineNumberGoesStaleWithinHoursAndARepointDoesNothingForIt = {
   id: "01a09666-1ee6-710c-aa9b-78efed47ae79",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-citations-line-number-goes-stale-within-hours-and-a-repoint-does-nothing-for-it",
   domain: "page-type/change",
   claim:

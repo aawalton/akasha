@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aChecksVerdictDependsOnWhichUncommittedFilesSitInTheCheckout = {
   id: "01a0a1bc-b5b3-76ac-b49d-5936a90a563c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-checks-verdict-depends-on-which-uncommitted-files-sit-in-the-checkout",
   domain: "domain/check",
   claim:

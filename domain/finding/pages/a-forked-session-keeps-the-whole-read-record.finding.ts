@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aForkedSessionKeepsTheWholeReadRecord = {
   id: "01a094fc-832a-796b-a2ce-07af3cfb4e68",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-forked-session-keeps-the-whole-read-record",
   domain: "domain/hook",
   claim:

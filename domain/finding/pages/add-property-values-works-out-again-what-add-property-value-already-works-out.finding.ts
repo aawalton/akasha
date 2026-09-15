@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const addPropertyValuesWorksOutAgainWhatAddPropertyValueAlreadyWorksOut = {
   id: "01a08d14-85bc-7b36-909d-d8f5fac25516",
-  type: "finding",
+  type: "page-type/finding",
   slug: "add-property-values-works-out-again-what-add-property-value-already-works-out",
   domain: "domain/change-agent-file-content",
   claim:

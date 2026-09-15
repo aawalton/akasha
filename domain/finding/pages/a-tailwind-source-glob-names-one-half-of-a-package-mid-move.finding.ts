@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aTailwindSourceGlobNamesOneHalfOfAPackageMidMove = {
   id: "01a05ce2-aa22-747b-86da-e31f3931e820",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-tailwind-source-glob-names-one-half-of-a-package-mid-move",
   domain: "router-app/alan-web",
   claim:

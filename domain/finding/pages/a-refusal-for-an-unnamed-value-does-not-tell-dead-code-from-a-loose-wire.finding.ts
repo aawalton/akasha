@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aRefusalForAnUnnamedValueDoesNotTellDeadCodeFromALooseWire = {
   id: "01a0a1d4-afa9-7dca-99cc-519e1690192c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-refusal-for-an-unnamed-value-does-not-tell-dead-code-from-a-loose-wire",
   domain: "domain/check",
   claim:

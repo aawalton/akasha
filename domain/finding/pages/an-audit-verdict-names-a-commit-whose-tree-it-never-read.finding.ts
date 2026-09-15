@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const anAuditVerdictNamesACommitWhoseTreeItNeverRead = {
   id: "01a095d9-9b7a-702e-a69c-12941d77811a",
-  type: "finding",
+  type: "page-type/finding",
   slug: "an-audit-verdict-names-a-commit-whose-tree-it-never-read",
   domain: "domain/check",
   claim:

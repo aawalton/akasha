@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aPageQueryHoldsTheLoopWhileItReads = {
   id: "01a05ab8-fce9-7775-97fa-12c758702008",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-page-query-holds-the-loop-while-it-reads",
   domain: "page-type/page",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const archivistExperimentHeldForAlan = {
   id: "01a06555-9f3d-7ce0-9823-779d456afe96",
-  type: "finding",
+  type: "page-type/finding",
   slug: "archivist-experiment-held-for-alan",
   domain: "domain/all-about-alan",
   claim:

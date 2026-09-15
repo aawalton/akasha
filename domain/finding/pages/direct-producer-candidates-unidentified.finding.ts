@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const directProducerCandidatesUnidentified = {
   id: "01a06555-9f3d-70dd-9336-c3af6ad4a294",
-  type: "finding",
+  type: "page-type/finding",
   slug: "direct-producer-candidates-unidentified",
   domain: "domain/all-about-alan",
   claim:

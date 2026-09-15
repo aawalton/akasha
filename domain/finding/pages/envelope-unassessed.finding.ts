@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const envelopeUnassessed = {
   id: "01a06555-9f3d-7608-a08d-7f239ca9d12b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "envelope-unassessed",
   domain: "domain/all-about-alan",
   claim:

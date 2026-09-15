@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aMoveLeavesThePinnedTreeEveryUnitRunsFromBehindIncludingTheDeploy = {
   id: "01a09b1c-f249-709c-8f4f-2e1fc430ae18",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-move-leaves-the-pinned-tree-every-unit-runs-from-behind-including-the-deploy",
   domain: "domain/infrastructure",
   evidence:

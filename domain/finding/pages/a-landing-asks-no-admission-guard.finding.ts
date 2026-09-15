@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aLandingAsksNoAdmissionGuard = {
   id: "01a09ccf-8583-7f07-9e63-592768f27224",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-landing-asks-no-admission-guard",
   domain: "domain/memory-limit",
   claim:

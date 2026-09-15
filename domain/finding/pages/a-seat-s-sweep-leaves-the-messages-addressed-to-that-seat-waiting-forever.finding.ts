@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aSeatSSweepLeavesTheMessagesAddressedToThatSeatWaitingForever = {
   id: "01a0a19d-a026-7676-9a2e-35bdaf1f84ad",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-seat-s-sweep-leaves-the-messages-addressed-to-that-seat-waiting-forever",
   domain: "domain/messaging",
   claim:

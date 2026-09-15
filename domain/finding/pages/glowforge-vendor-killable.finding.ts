@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const glowforgeVendorKillable = {
   id: "01a06555-9f3e-729c-80f2-e83bc616820f",
-  type: "finding",
+  type: "page-type/finding",
   slug: "glowforge-vendor-killable",
   domain: "domain/all-about-alan",
   claim:

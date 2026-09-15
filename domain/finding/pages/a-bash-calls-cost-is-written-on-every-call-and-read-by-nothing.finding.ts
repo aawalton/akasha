@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aBashCallsCostIsWrittenOnEveryCallAndReadByNothing = {
   id: "01a09512-beaf-7b7b-bdf9-7954669ae8fc",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-bash-calls-cost-is-written-on-every-call-and-read-by-nothing",
   domain: "domain/cpu-limit",
   claim:

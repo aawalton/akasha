@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aLiveWriterAppendsASeatsLogLinesUnderTheRootThoseLinesWereMovedOutOf = {
   id: "01a09591-b374-75fb-9354-d734a8c435d8",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-live-writer-appends-a-seats-log-lines-under-the-root-those-lines-were-moved-out-of",
   domain: "page-type/seat",
   claim:

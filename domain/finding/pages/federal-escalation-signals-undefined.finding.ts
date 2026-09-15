@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const federalEscalationSignalsUndefined = {
   id: "01a06555-9f3e-768a-b74c-282f02f8e83b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "federal-escalation-signals-undefined",
   domain: "domain/all-about-alan",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const findingsCarryAnUnsourcedDate = {
   id: "01a06555-9f3e-7e99-b8af-ba7ef9334c58",
-  type: "finding",
+  type: "page-type/finding",
   slug: "findings-carry-an-unsourced-date",
   domain: "domain/all-about-alan",
   claim:

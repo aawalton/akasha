@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aLandingRefusesOnATestOverlayThatCarriedNoneOfTheChangesBodies = {
   id: "01a09c03-d18f-777e-ab1d-a01f4a83c66d",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-landing-refuses-on-a-test-overlay-that-carried-none-of-the-changes-bodies",
   domain: "domain/check",
   claim:

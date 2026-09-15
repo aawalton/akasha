@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aGroupThatCannotLoadLeavesItsDerivedFileStaleAndTheLandingCommits = {
   id: "01a092e2-de3f-7e48-ae06-0eec06340a0d",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-group-that-cannot-load-leaves-its-derived-file-stale-and-the-landing-commits",
   domain: "page-type/command",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aPinnedWorktreePinsEveryModuleItsEntryImports = {
   id: "01a0a07f-5211-7be4-be0b-56b02fdc9259",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-pinned-worktree-pins-every-module-its-entry-imports",
   domain: "domain/infrastructure",
   claim:

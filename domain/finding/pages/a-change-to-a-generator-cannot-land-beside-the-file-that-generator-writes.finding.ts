@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aChangeToAGeneratorCannotLandBesideTheFileThatGeneratorWrites = {
   id: "01a08dfd-2a4d-798e-a026-98515dd78249",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-change-to-a-generator-cannot-land-beside-the-file-that-generator-writes",
   domain: "page-type/change",
   claim:

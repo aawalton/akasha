@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aCheckThatCouldNotRunIsCountedAsARefusalInItsOwnCostLog = {
   id: "01a0961f-a1e6-7843-ba3c-d594d46c1668",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-check-that-could-not-run-is-counted-as-a-refusal-in-its-own-cost-log",
   domain: "domain/check",
   claim:

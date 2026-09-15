@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const emailUnsubscribeLostItsDryRunWhenItCarriedIntoAkasha = {
   id: "01a06864-e359-7001-a1c4-4175fb6d05c3",
-  type: "finding",
+  type: "page-type/finding",
   slug: "email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha",
   domain: "command/email-unsubscribe",
   claim:

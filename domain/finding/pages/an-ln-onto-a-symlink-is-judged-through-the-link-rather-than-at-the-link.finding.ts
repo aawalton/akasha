@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const anLnOntoASymlinkIsJudgedThroughTheLinkRatherThanAtTheLink = {
   id: "01a09114-34c8-7a73-9336-715fc2b0c900",
-  type: "finding",
+  type: "page-type/finding",
   slug: "an-ln-onto-a-symlink-is-judged-through-the-link-rather-than-at-the-link",
   domain: "domain/hook",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aWebPodWithNoBuildCannotBecomeReadyAndOnlyARunningPodIsBuiltIn = {
   id: "01a08220-887b-7fbc-adc7-740f4ab217f8",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-web-pod-with-no-build-cannot-become-ready-and-only-a-running-pod-is-built-in",
   domain: "router-app/alan-web",
   claim:

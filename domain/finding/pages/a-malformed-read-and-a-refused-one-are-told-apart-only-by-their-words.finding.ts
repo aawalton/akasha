@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aMalformedReadAndARefusedOneAreToldApartOnlyByTheirWords = {
   id: "01a05bd2-dd42-769e-a5b9-31df5dcfe3ee",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words",
   domain: "page-type/page",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aCensusGeneratorRendersPathsItsPagesLeftWhenModulesWereNested = {
   id: "01a0a1f3-b0b2-7af7-9c24-7f818de50dd0",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-census-generator-renders-paths-its-pages-left-when-modules-were-nested",
   domain: "domain/temper",
   claim:

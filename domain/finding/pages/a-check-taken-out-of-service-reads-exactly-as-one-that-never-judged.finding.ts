@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aCheckTakenOutOfServiceReadsExactlyAsOneThatNeverJudged = {
   id: "01a0962d-d2d6-7107-b6ae-72a8e370c896",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-check-taken-out-of-service-reads-exactly-as-one-that-never-judged",
   domain: "domain/check",
   claim:

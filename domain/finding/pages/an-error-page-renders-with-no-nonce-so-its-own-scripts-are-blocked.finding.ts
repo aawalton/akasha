@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const anErrorPageRendersWithNoNonceSoItsOwnScriptsAreBlocked = {
   id: "01a09b3f-60b5-7a37-811f-aed84564b79a",
-  type: "finding",
+  type: "page-type/finding",
   slug: "an-error-page-renders-with-no-nonce-so-its-own-scripts-are-blocked",
   domain: "domain/alan-harness",
   evidence:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aPageCannotLandInTheSameCommitAsItsOwnPageType = {
   id: "01a05fc7-f922-7efb-abb1-26f1072e3dd3",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-page-cannot-land-in-the-same-commit-as-its-own-page-type",
   domain: "page-type/change",
   claim:

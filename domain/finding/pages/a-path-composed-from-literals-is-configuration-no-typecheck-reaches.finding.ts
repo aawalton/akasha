@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aPathComposedFromLiteralsIsConfigurationNoTypecheckReaches = {
   id: "01a09612-6d82-7000-b284-de56ac29cd0c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-path-composed-from-literals-is-configuration-no-typecheck-reaches",
   domain: "domain/code",
   claim:

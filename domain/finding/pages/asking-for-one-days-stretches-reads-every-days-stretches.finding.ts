@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const askingForOneDaysStretchesReadsEveryDaysStretches = {
   id: "01a08c20-9217-719b-9e83-0022fe71d53e",
-  type: "finding",
+  type: "page-type/finding",
   slug: "asking-for-one-days-stretches-reads-every-days-stretches",
   domain: "domain/track-daily",
   claim:

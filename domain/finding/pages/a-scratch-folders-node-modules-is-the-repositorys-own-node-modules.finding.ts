@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aScratchFoldersNodeModulesIsTheRepositorysOwnNodeModules = {
   id: "01a09112-5923-7b71-add8-ffc2e60c1021",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-scratch-folders-node-modules-is-the-repositorys-own-node-modules",
   domain: "page-type/agent",
   claim:

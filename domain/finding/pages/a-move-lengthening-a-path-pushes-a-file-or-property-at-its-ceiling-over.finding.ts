@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aMoveLengtheningAPathPushesAFileOrPropertyAtItsCeilingOver = {
   id: "01a09825-4801-78a3-b76d-c06947c7c613",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-move-lengthening-a-path-pushes-a-file-or-property-at-its-ceiling-over",
   domain: "page-type/change",
   claim:

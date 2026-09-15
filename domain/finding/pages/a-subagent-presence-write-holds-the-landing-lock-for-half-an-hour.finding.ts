@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aSubagentPresenceWriteHoldsTheLandingLockForHalfAnHour = {
   id: "01a09cca-4322-7b5a-81f7-166077c9d14b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-subagent-presence-write-holds-the-landing-lock-for-half-an-hour",
   domain: "page-type/agent",
   claim:

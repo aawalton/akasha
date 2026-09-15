@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const defensiveFramingOutdated = {
   id: "01a06555-9f3d-79a4-b1f7-d145343bcb74",
-  type: "finding",
+  type: "page-type/finding",
   slug: "defensive-framing-outdated",
   domain: "domain/all-about-alan",
   claim:

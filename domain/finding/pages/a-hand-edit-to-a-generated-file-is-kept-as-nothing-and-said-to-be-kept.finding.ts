@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aHandEditToAGeneratedFileIsKeptAsNothingAndSaidToBeKept = {
   id: "01a08a3f-4c21-7b64-9f2e-6d3a5c81e7b0",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-hand-edit-to-a-generated-file-is-kept-as-nothing-and-said-to-be-kept",
   domain: "page-type/change",
   claim:

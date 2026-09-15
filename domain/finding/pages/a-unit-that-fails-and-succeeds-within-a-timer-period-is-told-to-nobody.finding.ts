@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aUnitThatFailsAndSucceedsWithinATimerPeriodIsToldToNobody = {
   id: "01a095f0-c2e1-72dc-8f86-8146fd57c1a9",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-unit-that-fails-and-succeeds-within-a-timer-period-is-told-to-nobody",
   domain: "page-type/service",
   claim:

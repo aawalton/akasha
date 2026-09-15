@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aRetirementOrphansProseAndTheRepairIsARewriteNotARepoint = {
   id: "01a06441-182f-779a-b3e8-4290fd9f837a",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-retirement-orphans-prose-and-the-repair-is-a-rewrite-not-a-repoint",
   domain: "page-type/change",
   claim:

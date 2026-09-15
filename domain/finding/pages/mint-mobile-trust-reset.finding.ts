@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const mintMobileTrustReset = {
   id: "01a06555-9f3e-748f-adc5-1eceb2baf3f3",
-  type: "finding",
+  type: "page-type/finding",
   slug: "mint-mobile-trust-reset",
   domain: "domain/all-about-alan",
   claim:

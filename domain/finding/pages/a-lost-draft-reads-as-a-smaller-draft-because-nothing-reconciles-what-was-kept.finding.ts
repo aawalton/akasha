@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aLostDraftReadsAsASmallerDraftBecauseNothingReconcilesWhatWasKept = {
   id: "01a09b69-7611-7871-8ec4-a091c85474cb",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-lost-draft-reads-as-a-smaller-draft-because-nothing-reconciles-what-was-kept",
   domain: "page-type/change",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aValueNothingNamesInTheSeatSystemIsAsOftenALooseWireAsDeadCode = {
   id: "01a09d25-47eb-72a6-96c3-41c511e2a09b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-value-nothing-names-in-the-seat-system-is-as-often-a-loose-wire-as-dead-code",
   domain: "page-type/agent",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aPageRemovalIsRefusedByTheFolderShapeCheckOverAFolderItEmpties = {
   id: "01a09cc3-9ef2-7266-b192-e4b542f312cc",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-page-removal-is-refused-by-the-folder-shape-check-over-a-folder-it-empties",
   domain: "page-type/change",
   claim:

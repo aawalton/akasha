@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aProcessorCeilingIsStatedByChecksAndByAlmostNothingElse = {
   id: "01a091a8-e3ec-75e7-8c87-160bdf2f42ee",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-processor-ceiling-is-stated-by-checks-and-by-almost-nothing-else",
   domain: "domain/cpu-limit",
   claim:

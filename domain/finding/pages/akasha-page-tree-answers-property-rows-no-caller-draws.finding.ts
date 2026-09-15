@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const akashaPageTreeAnswersPropertyRowsNoCallerDraws = {
   id: "01a08dd6-5274-72a5-ab0d-41eff4603f45",
-  type: "finding",
+  type: "page-type/finding",
   slug: "akasha-page-tree-answers-property-rows-no-caller-draws",
   domain: "page-type/page",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aRenameMissesAPageNamedThroughAnAmbiguousRecordKey = {
   id: "01a082e2-f6b5-7b4b-ac40-84fe805a8b9b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-rename-misses-a-page-named-through-an-ambiguous-record-key",
   domain: "module/slug-renaming",
   claim:

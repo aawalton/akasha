@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aScratchRootOutlivesTheRunThatMadeItWheneverThatRunIsKilled = {
   id: "01a08d03-48b2-79c5-89ce-04ffcc468554",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-scratch-root-outlives-the-run-that-made-it-whenever-that-run-is-killed",
   domain: "domain/infrastructure",
   claim:

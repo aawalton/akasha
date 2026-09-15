@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const landingConcurrencyNeedsAReadSet = {
   id: "01a04fc9-9152-7cc7-b6ab-d0ec7eef28db",
-  type: "finding",
+  type: "page-type/finding",
   slug: "landing-concurrency-needs-a-read-set",
   domain: "page-type/change",
   claim:

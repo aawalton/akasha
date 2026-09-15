@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aPageOfAPageTypeIntroducedInOneChangeGetsNoMintedId = {
   id: "01a06271-8a44-7001-9e02-4b7c15d8a339",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-page-of-a-page-type-introduced-in-one-change-gets-no-minted-id",
   domain: "page-type/change",
   claim:

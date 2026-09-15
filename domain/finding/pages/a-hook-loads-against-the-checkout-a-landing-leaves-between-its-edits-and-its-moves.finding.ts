@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aHookLoadsAgainstTheCheckoutALandingLeavesBetweenItsEditsAndItsMoves = {
   id: "01a09641-4f95-7824-93ef-74728268e524",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-hook-loads-against-the-checkout-a-landing-leaves-between-its-edits-and-its-moves",
   domain: "domain/hook",
   claim:

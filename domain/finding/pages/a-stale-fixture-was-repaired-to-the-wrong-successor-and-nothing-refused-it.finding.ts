@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aStaleFixtureWasRepairedToTheWrongSuccessorAndNothingRefusedIt = {
   id: "01a0769d-6a4e-74b4-ba80-15c571cf537b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-stale-fixture-was-repaired-to-the-wrong-successor-and-nothing-refused-it",
   domain: "domain/page-query",
   claim:

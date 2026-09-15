@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aDeployThatRefusesIsJudgedOverMoreTheNextTime = {
   id: "01a09620-63a9-77e2-82e5-03ad26951eac",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-deploy-that-refuses-is-judged-over-more-the-next-time",
   domain: "domain/infrastructure",
   claim:

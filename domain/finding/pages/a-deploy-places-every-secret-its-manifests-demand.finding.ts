@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aDeployPlacesEverySecretItsManifestsDemand = {
   id: "01a0683e-687e-75c1-bc1c-c1ce4c45dc1b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-deploy-places-every-secret-its-manifests-demand",
   domain: "page-type/secret",
   claim:

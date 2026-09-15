@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aWorkstationServicesRunsPathIsNeverCheckedAgainstTheCheckout = {
   id: "01a06358-546d-7476-bdea-920a8b70bea6",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-workstation-services-runs-path-is-never-checked-against-the-checkout",
   domain: "page-type/service",
   claim:

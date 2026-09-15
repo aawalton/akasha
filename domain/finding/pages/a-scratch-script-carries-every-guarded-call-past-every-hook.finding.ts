@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aScratchScriptCarriesEveryGuardedCallPastEveryHook = {
   id: "01a076dd-7f97-774a-991d-50a92cd4d22b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-scratch-script-carries-every-guarded-call-past-every-hook",
   domain: "domain/hook",
   claim:

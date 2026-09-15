@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aCutAwayCapabilityLeavesAThrowingStubThatTypechecksAtEveryCallSite = {
   id: "01a09636-3a98-7000-845b-d78c91d0cd79",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-cut-away-capability-leaves-a-throwing-stub-that-typechecks-at-every-call-site",
   domain: "domain/page-access",
   claim:

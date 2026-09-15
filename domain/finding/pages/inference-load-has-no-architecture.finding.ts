@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const inferenceLoadHasNoArchitecture = {
   id: "01a06555-9f3e-70df-9343-8b1dd47a3388",
-  type: "finding",
+  type: "page-type/finding",
   slug: "inference-load-has-no-architecture",
   domain: "domain/all-about-alan",
   claim:

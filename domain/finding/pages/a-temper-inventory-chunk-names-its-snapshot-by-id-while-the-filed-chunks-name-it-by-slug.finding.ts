@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aTemperInventoryChunkNamesItsSnapshotByIdWhileTheFiledChunksNameItBySlug = {
   id: "01a0a163-7b03-71a7-94e0-17f6eac31fc0",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-temper-inventory-chunk-names-its-snapshot-by-id-while-the-filed-chunks-name-it-by-slug",
   domain: "domain/temper",
   claim:

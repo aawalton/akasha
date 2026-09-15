@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aNamePlaceCheckReachesTheVendoredLuaRuntime = {
   id: "01a07772-7a74-7f62-aa32-acacb074280a",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-name-place-check-reaches-the-vendored-lua-runtime",
   domain: "domain/check",
   claim:

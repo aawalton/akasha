@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aKeptRecordCannotSayWhetherItsWorkIsStillWantedAndOnlyATakeEverAsks = {
   id: "01a0a5e7-58ff-718a-a79f-5a57befed35b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-kept-record-cannot-say-whether-its-work-is-still-wanted-and-only-a-take-ever-asks",
   domain: "page-type/change",
   claim:

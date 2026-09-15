@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aPageRenameAndTheFolderMoveItsSlugAsksForRefuseApartAndRefuseTogether = {
   id: "01a0a59c-8b00-7000-8590-c3d328505bdd",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-page-rename-and-the-folder-move-its-slug-asks-for-refuse-apart-and-refuse-together",
   domain: "page-type/change",
   claim:

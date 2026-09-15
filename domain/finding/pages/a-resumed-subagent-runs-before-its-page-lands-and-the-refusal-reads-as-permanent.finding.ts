@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aResumedSubagentRunsBeforeItsPageLandsAndTheRefusalReadsAsPermanent = {
   id: "01a0914c-261e-768e-978f-ed20b3c7333b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-resumed-subagent-runs-before-its-page-lands-and-the-refusal-reads-as-permanent",
   domain: "page-type/seat",
   claim:

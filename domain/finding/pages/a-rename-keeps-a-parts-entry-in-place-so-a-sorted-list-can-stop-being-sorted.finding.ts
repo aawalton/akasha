@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aRenameKeepsAPartsEntryInPlaceSoASortedListCanStopBeingSorted = {
   id: "01a09601-23fc-7e75-95ff-2bf11c2c2be7",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-rename-keeps-a-parts-entry-in-place-so-a-sorted-list-can-stop-being-sorted",
   domain: "module/address-restating",
   claim:

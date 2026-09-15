@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const interconnectionCapExceeded = {
   id: "01a06555-9f3e-74ad-83c0-152fd14a42ff",
-  type: "finding",
+  type: "page-type/finding",
   slug: "interconnection-cap-exceeded",
   domain: "domain/all-about-alan",
   claim:

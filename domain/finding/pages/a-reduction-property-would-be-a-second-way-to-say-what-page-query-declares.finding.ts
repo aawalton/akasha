@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aReductionPropertyWouldBeASecondWayToSayWhatPageQueryDeclares = {
   id: "01a06987-867a-7e1b-a00c-15dcfd86d270",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-reduction-property-would-be-a-second-way-to-say-what-page-query-declares",
   domain: "domain/track-daily",
 

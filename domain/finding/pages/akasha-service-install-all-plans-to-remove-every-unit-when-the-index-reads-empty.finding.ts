@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const akashaServiceInstallAllPlansToRemoveEveryUnitWhenTheIndexReadsEmpty = {
   id: "01a0687d-883f-7001-a150-b9ed1b85868b",
-  type: "finding",
+  type: "page-type/finding",
   slug: "akasha-service-install-all-plans-to-remove-every-unit-when-the-index-reads-empty",
   domain: "page-type/service",
   claim:

@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aChecksCeilingFiresOnABusyMachineRatherThanOnACheckThatSlowed = {
   id: "01a0a04e-2924-7e2c-ab3f-f39d03ca8f72",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-checks-ceiling-fires-on-a-busy-machine-rather-than-on-a-check-that-slowed",
   domain: "domain/cpu-limit",
   claim:

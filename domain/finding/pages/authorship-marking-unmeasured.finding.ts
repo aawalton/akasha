@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const authorshipMarkingUnmeasured = {
   id: "01a06555-9f3d-7b16-a297-d243f8012e6e",
-  type: "finding",
+  type: "page-type/finding",
   slug: "authorship-marking-unmeasured",
   domain: "domain/all-about-alan",
   claim:

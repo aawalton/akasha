@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aGeneratedTypeCannotBeWrittenPartlyAndTheDangerIsTheWholeOneThatUnderComputes = {
   id: "01a09669-46f6-7158-bf2f-868751228e96",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-generated-type-cannot-be-written-partly-and-the-danger-is-the-whole-one-that-under-computes",
   domain: "page-type/change",
   claim:

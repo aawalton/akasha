@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aMarkdownPagesIdIsDerivedAndATypescriptPagesIdIsMinted = {
   id: "01a0612e-dead-7d4f-b2fc-b2eb111e10ae",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-markdown-pages-id-is-derived-and-a-typescript-pages-id-is-minted",
   domain: "page-type/page",
   claim:

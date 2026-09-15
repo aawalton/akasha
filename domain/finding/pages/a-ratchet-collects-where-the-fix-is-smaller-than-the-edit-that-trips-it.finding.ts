@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aRatchetCollectsWhereTheFixIsSmallerThanTheEditThatTripsIt = {
   id: "01a095fd-7f52-7927-8d9f-047862cd5960",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-ratchet-collects-where-the-fix-is-smaller-than-the-edit-that-trips-it",
   domain: "domain/check",
   claim:

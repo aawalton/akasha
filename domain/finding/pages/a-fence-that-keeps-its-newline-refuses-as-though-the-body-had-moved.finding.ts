@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aFenceThatKeepsItsNewlineRefusesAsThoughTheBodyHadMoved = {
   id: "01a08886-2a5f-7c15-a047-8f2314a85b01",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-fence-that-keeps-its-newline-refuses-as-though-the-body-had-moved",
   domain: "page-type/change",
   claim:

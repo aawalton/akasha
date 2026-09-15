@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aKilledCheckNamesNoSenderSoItsOwnCeilingReadsAsTheMemoryReaper = {
   id: "01a0a192-0d73-7d93-a679-0497284e4ef5",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-killed-check-names-no-sender-so-its-own-ceiling-reads-as-the-memory-reaper",
   domain: "domain/check",
   claim:

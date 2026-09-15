@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aFolderMoveLeavesARunningWriterAppendingToThePathItAlreadyResolved = {
   id: "01a095f4-f451-7783-a5e4-3784ffd267fe",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-folder-move-leaves-a-running-writer-appending-to-the-path-it-already-resolved",
   domain: "page-type/change",
   claim:

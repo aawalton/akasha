@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const emailAnchorMigrationUnplanned = {
   id: "01a06555-9f3d-7e69-8f62-ab59579ae82d",
-  type: "finding",
+  type: "page-type/finding",
   slug: "email-anchor-migration-unplanned",
   domain: "domain/all-about-alan",
   claim:
