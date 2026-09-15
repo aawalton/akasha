@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const scrollableMenuDebugShapes = {
   id: "01a06275-c447-7034-9b77-7373e56d6a86",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "scrollable-menu-debug-shapes",
   definition: "the logging library shape the debug sink writes through",
   d: "ts",

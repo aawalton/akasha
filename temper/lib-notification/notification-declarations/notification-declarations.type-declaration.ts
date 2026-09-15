@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const notificationDeclarations = {
   id: "01a0620a-a166-7152-bc6c-c9ce7bb3739c",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "notification-declarations",
   definition: "the Lua and game names this addon reaches without importing them",
   d: "ts",

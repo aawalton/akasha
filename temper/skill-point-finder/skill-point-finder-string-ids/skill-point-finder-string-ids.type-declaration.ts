@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const skillPointFinderStringIds = {
   id: "01a060ec-5849-7b7f-bf01-8186efdbf0a6",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "skill-point-finder-string-ids",
   definition: "the string identifiers the skill point window's markup leaves in reach",
   d: "ts",

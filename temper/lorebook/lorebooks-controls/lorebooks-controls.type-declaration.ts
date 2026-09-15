@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const lorebooksControls = {
   id: "01a06176-9c44-7cd2-928b-f214456214e1",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lorebooks-controls",
   definition: "the controls this add-on's markup creates",
   d: "ts",

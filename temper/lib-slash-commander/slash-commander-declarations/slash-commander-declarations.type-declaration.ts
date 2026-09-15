@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const slashCommanderDeclarations = {
   id: "01a06066-8404-79a4-bfb3-28f543c2cd7a",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "slash-commander-declarations",
   definition: "the Lua and game names this addon reaches without importing them",
   d: "ts",

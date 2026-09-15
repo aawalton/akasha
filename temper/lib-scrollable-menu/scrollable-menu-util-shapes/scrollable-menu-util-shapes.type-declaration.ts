@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const scrollableMenuUtilShapes = {
   id: "01a06275-c449-7af0-bde8-07f14f0dac73",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "scrollable-menu-util-shapes",
   definition: "the game manager and control shapes the util modules reach",
   d: "ts",

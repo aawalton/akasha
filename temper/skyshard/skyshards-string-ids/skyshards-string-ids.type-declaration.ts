@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const skyshardsStringIds = {
   id: "01a061a8-9c6c-77af-ab8d-fc301a1713ff",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "skyshards-string-ids",
   definition: "the string identifiers this add-on has its own English text under",
   d: "ts",

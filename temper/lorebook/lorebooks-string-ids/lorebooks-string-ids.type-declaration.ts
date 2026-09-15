@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const lorebooksStringIds = {
   id: "01a06176-9c43-7d61-914f-8fa115636dec",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lorebooks-string-ids",
   definition: "the string identifiers this add-on registers its own English text under",
   d: "ts",

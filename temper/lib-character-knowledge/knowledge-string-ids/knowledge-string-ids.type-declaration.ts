@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const knowledgeStringIds = {
   id: "01a061fa-8033-7d1b-afcf-3554a831c45d",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "knowledge-string-ids",
   definition: "the names this library alone declares, its text and its saved record",
   d: "ts",

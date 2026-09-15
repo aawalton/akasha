@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const journalControlNames = {
   id: "01a0617d-544e-7598-b70e-384e1fa3d4fc",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "journal-control-names",
   definition: "the controls this library's own markup leaves in reach",
   d: "ts",

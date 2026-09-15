@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const orderListBoxPublished = {
   id: "01a06207-bdf6-7c8f-8f0c-3a655587329d",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "order-list-box-published",
   definition: "the handler names this widget's XML calls the built Lua back through",
   d: "ts",

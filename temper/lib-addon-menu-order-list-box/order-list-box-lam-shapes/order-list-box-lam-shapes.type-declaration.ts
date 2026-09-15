@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const orderListBoxLamShapes = {
   id: "01a06207-bdf5-7baa-a829-0e6f87895d8c",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "order-list-box-lam-shapes",
   definition: "what this widget adds to the menu library it plugs into",
   d: "ts",

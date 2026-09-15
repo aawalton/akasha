@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const chatMessageDeclarations = {
   id: "01a06240-f50b-7a74-8290-6e39edbca41a",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "chat-message-declarations",
   definition: "the Lua and game names this addon reaches without importing them",
   d: "ts",

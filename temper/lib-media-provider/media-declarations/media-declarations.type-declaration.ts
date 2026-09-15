@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const mediaDeclarations = {
   id: "01a0620a-a168-770b-99ab-0f8790dd4a01",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "media-declarations",
   definition: "the Lua and game names this library reaches without importing them",
   d: "ts",

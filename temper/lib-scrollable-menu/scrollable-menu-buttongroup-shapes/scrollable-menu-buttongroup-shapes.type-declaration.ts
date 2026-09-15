@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const scrollableMenuButtongroupShapes = {
   id: "01a06275-c443-75c3-92f8-eefa0420d5ae",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "scrollable-menu-buttongroup-shapes",
   definition: "the control shapes a checkbox or radio row's button group reads",
   d: "ts",

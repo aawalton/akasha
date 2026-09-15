@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const alchemyStationEntryDeclarations = {
   id: "01a06256-e004-763b-aa18-118c96a85733",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "alchemy-station-entry-declarations",
   definition: "the global name the game reaches every alchemy tab through",
   d: "ts",

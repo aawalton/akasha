@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const dataEncodeEntryDeclarations = {
   id: "01a0625f-6d05-7e06-8e3b-65b368ffecc0",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "data-encode-entry-declarations",
   definition: "the global name another add-on encodes and decodes through",
   d: "ts",

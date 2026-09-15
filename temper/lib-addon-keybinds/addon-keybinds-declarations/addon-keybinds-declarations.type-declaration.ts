@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const addonKeybindsDeclarations = {
   id: "01a06259-bfbc-7d5e-8b4b-5bbe42c3459a",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "addon-keybinds-declarations",
   definition: "the game names and list shapes this add-on reaches without importing them",
   d: "ts",

@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const libSetsConstantShapes = {
   id: "01a061b8-4f5a-7273-bf11-601892ad16a4",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "lib-sets-constant-shapes",
   definition: "the record shapes lib-sets keeps its constants and helper libraries in",
   d: "ts",

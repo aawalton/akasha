@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const skyshardsControls = {
   id: "01a061a8-9c63-7306-b811-d279c8fcb30f",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "skyshards-controls",
   definition: "the control the add-on's settings menu creates by reference name",
   d: "ts",

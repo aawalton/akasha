@@ -2,7 +2,7 @@ import type { TypeDeclaration } from "akasha/code/type-declaration/type-declarat
 
 export const keybinderDeclarations = {
   id: "01a06381-67c1-7169-bc94-c11e7fb0d171",
-  type: "type-declaration",
+  type: "page-type/type-declaration",
   slug: "keybinder-declarations",
   definition: "the key-bind shapes only this add-on reaches",
   d: "ts",
