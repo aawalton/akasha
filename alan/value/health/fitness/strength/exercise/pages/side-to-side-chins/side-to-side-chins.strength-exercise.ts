@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sideToSideChins = {
   id: "019ebc78-641a-7ac7-8b12-56be86615061",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "side-to-side-chins",
   title: "Side To Side Chins",
   exerciseCategory: "strength",

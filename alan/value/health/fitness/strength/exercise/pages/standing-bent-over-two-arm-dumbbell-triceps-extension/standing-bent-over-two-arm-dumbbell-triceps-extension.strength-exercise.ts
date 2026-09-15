@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingBentOverTwoArmDumbbellTricepsExtension = {
   id: "019ebc78-8232-7623-8b54-9365ec6f7647",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-bent-over-two-arm-dumbbell-triceps-extension",
   title: "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
   exerciseCategory: "strength",

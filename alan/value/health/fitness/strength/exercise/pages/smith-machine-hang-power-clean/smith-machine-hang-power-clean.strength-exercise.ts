@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const smithMachineHangPowerClean = {
   id: "019ebc78-6cee-7f11-86cb-83a10d9cfb3a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "smith-machine-hang-power-clean",
   title: "Smith Machine Hang Power Clean",
   exerciseCategory: "strength",

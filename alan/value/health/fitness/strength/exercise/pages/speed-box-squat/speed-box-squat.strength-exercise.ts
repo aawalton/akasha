@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const speedBoxSquat = {
   id: "019ebc78-7cc5-7dbf-bba3-88c74fdb9a56",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "speed-box-squat",
   title: "Speed Box Squat",
   exerciseCategory: "powerlifting",

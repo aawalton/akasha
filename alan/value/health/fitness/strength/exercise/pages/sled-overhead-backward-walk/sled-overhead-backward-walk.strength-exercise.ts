@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sledOverheadBackwardWalk = {
   id: "019ebc78-6996-7024-81fa-072609c95555",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "sled-overhead-backward-walk",
   title: "Sled Overhead Backward Walk",
   exerciseCategory: "strength",

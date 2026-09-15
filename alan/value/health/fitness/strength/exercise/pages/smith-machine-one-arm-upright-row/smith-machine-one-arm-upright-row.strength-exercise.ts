@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const smithMachineOneArmUprightRow = {
   id: "019ebc78-6e03-78ad-917d-6d892b45220d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "smith-machine-one-arm-upright-row",
   title: "Smith Machine One-Arm Upright Row",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedDumbbellInnerBicepsCurl = {
   id: "019ebc78-5694-7698-9905-06257ee0d87c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-dumbbell-inner-biceps-curl",
   title: "Seated Dumbbell Inner Biceps Curl",
   exerciseCategory: "strength",

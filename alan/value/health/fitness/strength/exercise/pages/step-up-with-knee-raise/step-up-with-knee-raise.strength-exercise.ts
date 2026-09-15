@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const stepUpWithKneeRaise = {
   id: "019ebc78-a2cd-71ee-b673-c9627cbd5d18",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "step-up-with-knee-raise",
   title: "Step-up with Knee Raise",
   exerciseCategory: "strength",

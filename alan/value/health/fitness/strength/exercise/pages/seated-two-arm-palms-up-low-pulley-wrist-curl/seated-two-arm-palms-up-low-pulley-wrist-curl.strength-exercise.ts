@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedTwoArmPalmsUpLowPulleyWristCurl = {
   id: "019ebc78-5fc2-78e7-b16e-08a6a5d9e463",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-two-arm-palms-up-low-pulley-wrist-curl",
   title: "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
   exerciseCategory: "strength",

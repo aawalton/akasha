@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const roundTheWorldShoulderStretch = {
   id: "019ebc77-d2e2-7309-baff-8c3ecb5986b3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "round-the-world-shoulder-stretch",
   title: "Round The World Shoulder Stretch",
   exerciseCategory: "stretching",

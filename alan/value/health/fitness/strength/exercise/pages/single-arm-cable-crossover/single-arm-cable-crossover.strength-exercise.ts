@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const singleArmCableCrossover = {
   id: "019ebc78-64dc-7140-93c6-c4bb909a63df",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "single-arm-cable-crossover",
   title: "Single-Arm Cable Crossover",
   exerciseCategory: "strength",

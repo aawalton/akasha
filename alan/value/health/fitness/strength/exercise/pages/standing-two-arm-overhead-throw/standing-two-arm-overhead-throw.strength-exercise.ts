@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingTwoArmOverheadThrow = {
   id: "019ebc78-a225-7e30-ab6a-e08ca19cd63b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-two-arm-overhead-throw",
   title: "Standing Two-Arm Overhead Throw",
   exerciseCategory: "plyometrics",

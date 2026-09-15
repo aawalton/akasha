@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const smithSingleLegSplitSquat = {
   id: "019ebc78-73cc-7bf6-8ff4-cdf0a0521a93",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "smith-single-leg-split-squat",
   title: "Smith Single-Leg Split Squat",
   exerciseCategory: "strength",

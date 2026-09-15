@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const smithMachineCalfRaise = {
   id: "019ebc78-6c22-73b5-bf0e-529789c2c017",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "smith-machine-calf-raise",
   title: "Smith Machine Calf Raise",
   exerciseCategory: "strength",

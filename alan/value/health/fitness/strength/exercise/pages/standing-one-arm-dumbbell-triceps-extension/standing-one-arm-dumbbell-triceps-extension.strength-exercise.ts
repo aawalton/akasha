@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingOneArmDumbbellTricepsExtension = {
   id: "019ebc78-9f98-78bd-919e-b2c7aed10795",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-one-arm-dumbbell-triceps-extension",
   title: "Standing One-Arm Dumbbell Triceps Extension",
   exerciseCategory: "strength",

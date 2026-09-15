@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const ropeCrunch = {
   id: "019ebc77-d217-7fd6-a0eb-cb5e2c368647",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "rope-crunch",
   title: "Rope Crunch",
   exerciseCategory: "strength",

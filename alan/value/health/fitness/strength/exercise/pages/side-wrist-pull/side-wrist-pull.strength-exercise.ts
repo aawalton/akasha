@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sideWristPull = {
   id: "019ebc78-645d-70f4-aa16-5ce4c3aab70a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "side-wrist-pull",
   title: "Side Wrist Pull",
   exerciseCategory: "stretching",

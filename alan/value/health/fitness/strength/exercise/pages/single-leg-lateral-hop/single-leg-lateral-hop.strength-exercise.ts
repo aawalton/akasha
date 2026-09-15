@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const singleLegLateralHop = {
   id: "019ebc78-6668-7eba-a769-b4206322dc3a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "single-leg-lateral-hop",
   title: "Single-Leg Lateral Hop",
   exerciseCategory: "plyometrics",

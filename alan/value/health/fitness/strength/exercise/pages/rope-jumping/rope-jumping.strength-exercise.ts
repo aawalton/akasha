@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const ropeJumping = {
   id: "019ebc77-d25d-7dd1-a226-290cb7e54d01",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "rope-jumping",
   title: "Rope Jumping",
   exerciseCategory: "cardio",

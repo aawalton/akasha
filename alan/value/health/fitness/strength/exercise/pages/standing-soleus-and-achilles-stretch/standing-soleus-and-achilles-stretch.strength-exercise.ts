@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingSoleusAndAchillesStretch = {
   id: "019ebc78-a160-7641-bbc7-d74d722df1f3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-soleus-and-achilles-stretch",
   title: "Standing Soleus And Achilles Stretch",
   exerciseCategory: "stretching",

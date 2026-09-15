@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sandbagLoad = {
   id: "019ebc77-d436-7720-b0b8-1b64ae6e5096",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "sandbag-load",
   title: "Sandbag Load",
   exerciseCategory: "strongman",

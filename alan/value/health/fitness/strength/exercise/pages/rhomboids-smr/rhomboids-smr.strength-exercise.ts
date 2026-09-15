@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const rhomboidsSmr = {
   id: "019ebc77-cf9e-74b9-84ea-fc53ab5317ba",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "rhomboids-smr",
   title: "Rhomboids-SMR",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sledOverheadTricepsExtension = {
   id: "019ebc78-69d2-7bfe-981d-1d3782e64f7c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "sled-overhead-triceps-extension",
   title: "Sled Overhead Triceps Extension",
   exerciseCategory: "strength",

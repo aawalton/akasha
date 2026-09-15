@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingLateralStretch = {
   id: "019ebc78-89de-739c-977f-8556ff996b76",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-lateral-stretch",
   title: "Standing Lateral Stretch",
   exerciseCategory: "stretching",

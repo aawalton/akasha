@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedFlatBenchLegPullIn = {
   id: "019ebc78-5790-7013-9810-89fe148fd9eb",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-flat-bench-leg-pull-in",
   title: "Seated Flat Bench Leg Pull-In",
   exerciseCategory: "strength",

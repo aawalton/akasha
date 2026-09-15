@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const smithMachineCloseGripBenchPress = {
   id: "019ebc78-6c67-72eb-bee1-56bb4f1294e0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "smith-machine-close-grip-bench-press",
   title: "Smith Machine Close-Grip Bench Press",
   exerciseCategory: "strength",

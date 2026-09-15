@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const singleLegGluteBridge = {
   id: "019ebc78-67a4-79ea-92f2-e9de4ac56d75",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "single-leg-glute-bridge",
   title: "Single Leg Glute Bridge",
   exerciseCategory: "strength",

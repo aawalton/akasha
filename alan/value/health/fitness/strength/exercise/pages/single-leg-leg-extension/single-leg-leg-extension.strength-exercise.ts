@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const singleLegLegExtension = {
   id: "019ebc78-66aa-73dc-8b9c-f35d4d21e8e2",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "single-leg-leg-extension",
   title: "Single-Leg Leg Extension",
   exerciseCategory: "strength",

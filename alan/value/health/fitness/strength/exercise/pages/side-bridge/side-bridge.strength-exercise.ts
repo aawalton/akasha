@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sideBridge = {
   id: "019ebc78-61f1-7569-92a5-f0695297fd32",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "side-bridge",
   title: "Side Bridge",
   exerciseCategory: "strength",

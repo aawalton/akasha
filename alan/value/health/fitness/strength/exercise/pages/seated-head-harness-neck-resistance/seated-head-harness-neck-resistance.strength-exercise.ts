@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedHeadHarnessNeckResistance = {
   id: "019ebc78-5c6e-7311-9159-c6b162efc5e9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-head-harness-neck-resistance",
   title: "Seated Head Harness Neck Resistance",
   exerciseCategory: "strength",

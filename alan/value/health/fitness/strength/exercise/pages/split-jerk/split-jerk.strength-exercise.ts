@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const splitJerk = {
   id: "019ebc78-7e80-7a14-972e-ef170de78750",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "split-jerk",
   title: "Split Jerk",
   exerciseCategory: "olympic-weightlifting",

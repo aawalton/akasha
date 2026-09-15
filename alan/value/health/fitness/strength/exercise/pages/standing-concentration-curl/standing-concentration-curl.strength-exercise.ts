@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingConcentrationCurl = {
   id: "019ebc78-8440-7630-8d3f-bde19b26790c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-concentration-curl",
   title: "Standing Concentration Curl",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedFloorHamstringStretch = {
   id: "019ebc78-57cb-7b40-8846-9cb9d097df93",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-floor-hamstring-stretch",
   title: "Seated Floor Hamstring Stretch",
   exerciseCategory: "stretching",

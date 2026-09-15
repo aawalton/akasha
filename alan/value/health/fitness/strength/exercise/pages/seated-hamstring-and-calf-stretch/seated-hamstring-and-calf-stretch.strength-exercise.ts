@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedHamstringAndCalfStretch = {
   id: "019ebc78-5c0f-7942-b43f-66b6a8be573b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-hamstring-and-calf-stretch",
   title: "Seated Hamstring and Calf Stretch",
   exerciseCategory: "stretching",

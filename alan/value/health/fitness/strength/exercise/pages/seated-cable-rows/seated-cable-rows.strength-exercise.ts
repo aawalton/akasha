@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedCableRows = {
   id: "019ebc78-54ea-7e41-83bc-c7579ad6c143",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-cable-rows",
   title: "Seated Cable Rows",
   exerciseCategory: "strength",

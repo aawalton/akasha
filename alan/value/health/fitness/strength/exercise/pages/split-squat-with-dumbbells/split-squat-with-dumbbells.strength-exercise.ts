@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const splitSquatWithDumbbells = {
   id: "019ebc78-7f4e-7297-95fe-5257c67f037a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "split-squat-with-dumbbells",
   title: "Split Squat with Dumbbells",
   exerciseCategory: "strength",

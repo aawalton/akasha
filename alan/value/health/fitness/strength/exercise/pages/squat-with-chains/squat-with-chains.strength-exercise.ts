@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const squatWithChains = {
   id: "019ebc78-803c-7bf7-9a2a-6aaba1ea2406",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "squat-with-chains",
   title: "Squat with Chains",
   exerciseCategory: "powerlifting",

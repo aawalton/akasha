@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingFrontBarbellRaiseOverHead = {
   id: "019ebc78-863a-7b98-b181-c13aa4396869",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-front-barbell-raise-over-head",
   title: "Standing Front Barbell Raise Over Head",
   exerciseCategory: "strength",

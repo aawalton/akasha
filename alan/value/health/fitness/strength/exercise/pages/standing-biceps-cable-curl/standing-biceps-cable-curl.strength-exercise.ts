@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingBicepsCableCurl = {
   id: "019ebc78-8273-7b83-924b-73fa2e571861",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-biceps-cable-curl",
   title: "Standing Biceps Cable Curl",
   exerciseCategory: "strength",

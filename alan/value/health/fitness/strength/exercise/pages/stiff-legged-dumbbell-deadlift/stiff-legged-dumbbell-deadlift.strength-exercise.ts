@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const stiffLeggedDumbbellDeadlift = {
   id: "019ebc78-a395-7aac-b9df-5cc74b97a2c1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "stiff-legged-dumbbell-deadlift",
   title: "Stiff-Legged Dumbbell Deadlift",
   exerciseCategory: "strength",

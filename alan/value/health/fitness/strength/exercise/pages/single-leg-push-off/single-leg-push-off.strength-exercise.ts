@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const singleLegPushOff = {
   id: "019ebc78-67e2-791d-b4d0-c5b934e202c8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "single-leg-push-off",
   title: "Single Leg Push-off",
   exerciseCategory: "plyometrics",

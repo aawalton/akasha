@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const stepMill = {
   id: "019ebc78-a310-7217-a4ca-1a4855cc6e82",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "step-mill",
   title: "Step Mill",
   exerciseCategory: "cardio",

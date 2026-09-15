@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const smithMachineInclineBenchPress = {
   id: "019ebc78-6d77-7403-9da5-acac52dec42f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "smith-machine-incline-bench-press",
   title: "Smith Machine Incline Bench Press",
   exerciseCategory: "strength",

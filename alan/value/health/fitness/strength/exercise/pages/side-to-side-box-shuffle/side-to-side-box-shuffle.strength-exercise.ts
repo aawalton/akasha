@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sideToSideBoxShuffle = {
   id: "019ebc78-649b-7cf7-a64b-d1f10290ea33",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "side-to-side-box-shuffle",
   title: "Side to Side Box Shuffle",
   exerciseCategory: "plyometrics",

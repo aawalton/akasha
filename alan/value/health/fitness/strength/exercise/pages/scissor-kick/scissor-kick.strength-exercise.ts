@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const scissorKick = {
   id: "019ebc77-d4b2-7965-ac19-9efa692a29ea",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "scissor-kick",
   title: "Scissor Kick",
   exerciseCategory: "stretching",

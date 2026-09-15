@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const stiffLegBarbellGoodMorning = {
   id: "019ebc78-a3db-7113-92f4-4dbbceaad39b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "stiff-leg-barbell-good-morning",
   title: "Stiff Leg Barbell Good Morning",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedDumbbellPress = {
   id: "019ebc78-574e-7f4e-a74f-ab9ef0e85f95",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-dumbbell-press",
   title: "Seated Dumbbell Press",
   exerciseCategory: "strength",

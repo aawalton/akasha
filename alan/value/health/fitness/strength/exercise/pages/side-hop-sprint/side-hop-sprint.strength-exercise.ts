@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sideHopSprint = {
   id: "019ebc78-622f-79be-91d6-0e89e9db6431",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "side-hop-sprint",
   title: "Side Hop-Sprint",
   exerciseCategory: "plyometrics",

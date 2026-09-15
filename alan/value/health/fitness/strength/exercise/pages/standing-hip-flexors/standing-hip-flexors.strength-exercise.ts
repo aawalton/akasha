@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingHipFlexors = {
   id: "019ebc78-8958-74cf-b70d-dbd265fdead8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-hip-flexors",
   title: "Standing Hip Flexors",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedBarbellTwist = {
   id: "019ebc78-53ae-72d2-9cd8-1da4747e1f62",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-barbell-twist",
   title: "Seated Barbell Twist",
   exerciseCategory: "strength",

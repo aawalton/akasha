@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedLegTucks = {
   id: "019ebc78-5cf0-7155-8e24-a67a412156ac",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-leg-tucks",
   title: "Seated Leg Tucks",
   exerciseCategory: "strength",

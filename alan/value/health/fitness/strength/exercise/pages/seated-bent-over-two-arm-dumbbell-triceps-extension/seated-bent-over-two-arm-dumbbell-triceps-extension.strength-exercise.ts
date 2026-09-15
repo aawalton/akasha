@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedBentOverTwoArmDumbbellTricepsExtension = {
   id: "019ebc78-5465-7bda-bbcf-8f7837bb7c27",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-bent-over-two-arm-dumbbell-triceps-extension",
   title: "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
   exerciseCategory: "strength",

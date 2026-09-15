@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const shotgunRow = {
   id: "019ebc78-6062-7947-8c77-bf2f8d9eb893",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "shotgun-row",
   title: "Shotgun Row",
   exerciseCategory: "strength",

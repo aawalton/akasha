@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const smithMachineBentOverRow = {
   id: "019ebc78-6bdc-7841-b99f-8a8ec8e730f0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "smith-machine-bent-over-row",
   title: "Smith Machine Bent Over Row",
   exerciseCategory: "strength",

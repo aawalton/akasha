@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const rocketJump = {
   id: "019ebc77-d0a3-7684-af83-7ea14ca532f5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "rocket-jump",
   title: "Rocket Jump",
   exerciseCategory: "plyometrics",

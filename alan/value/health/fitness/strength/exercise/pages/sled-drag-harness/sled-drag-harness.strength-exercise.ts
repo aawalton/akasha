@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sledDragHarness = {
   id: "019ebc78-6956-7b2b-8705-af9aa39c74ff",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "sled-drag-harness",
   title: "Sled Drag - Harness",
   exerciseCategory: "strongman",

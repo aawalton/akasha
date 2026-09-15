@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const singleDumbbellRaise = {
   id: "019ebc78-6728-7124-beb1-1a9389814abb",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "single-dumbbell-raise",
   title: "Single Dumbbell Raise",
   exerciseCategory: "strength",

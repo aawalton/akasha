@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const splitJump = {
   id: "019ebc78-7ebe-78a0-a3a8-dae1230db910",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "split-jump",
   title: "Split Jump",
   exerciseCategory: "plyometrics",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const rowingStationary = {
   id: "019ebc77-d334-7120-9e10-e07b93b85b41",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "rowing-stationary",
   title: "Rowing, Stationary",
   exerciseCategory: "cardio",

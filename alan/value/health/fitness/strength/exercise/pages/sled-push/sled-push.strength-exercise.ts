@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sledPush = {
   id: "019ebc78-6a14-7646-be38-e679a54bf3c0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "sled-push",
   title: "Sled Push",
   exerciseCategory: "strongman",

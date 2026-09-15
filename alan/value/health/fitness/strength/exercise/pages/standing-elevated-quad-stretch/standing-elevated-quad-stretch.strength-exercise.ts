@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingElevatedQuadStretch = {
   id: "019ebc78-85fa-7d97-87e4-8e744428dcaa",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-elevated-quad-stretch",
   title: "Standing Elevated Quad Stretch",
   exerciseCategory: "stretching",

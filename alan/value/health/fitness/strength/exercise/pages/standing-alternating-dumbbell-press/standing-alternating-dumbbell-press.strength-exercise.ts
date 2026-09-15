@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingAlternatingDumbbellPress = {
   id: "019ebc78-813a-790a-8dc6-8d32a76cf006",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-alternating-dumbbell-press",
   title: "Standing Alternating Dumbbell Press",
   exerciseCategory: "strength",

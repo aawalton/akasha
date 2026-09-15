@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingBarbellPressBehindNeck = {
   id: "019ebc78-81b7-7224-a646-1638f2bd6a6c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-barbell-press-behind-neck",
   title: "Standing Barbell Press Behind Neck",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sideStandingLongJump = {
   id: "019ebc78-63e0-7199-9d27-3cd5c98f72e1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "side-standing-long-jump",
   title: "Side Standing Long Jump",
   exerciseCategory: "plyometrics",

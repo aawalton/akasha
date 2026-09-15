@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sledgehammerSwings = {
   id: "019ebc78-6ae2-7d09-8b36-e88bc6934b67",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "sledgehammer-swings",
   title: "Sledgehammer Swings",
   exerciseCategory: "plyometrics",

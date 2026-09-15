@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedOneArmCablePulleyRows = {
   id: "019ebc78-5dee-7fa2-873a-b80282940ffb",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-one-arm-cable-pulley-rows",
   title: "Seated One-arm Cable Pulley Rows",
   exerciseCategory: "strength",

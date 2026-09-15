@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const splitSnatch = {
   id: "019ebc78-7efc-7a42-a2bb-86de506add51",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "split-snatch",
   title: "Split Snatch",
   exerciseCategory: "olympic-weightlifting",

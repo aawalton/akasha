@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const ringDips = {
   id: "019ebc77-d063-7458-be62-6abfe6165cd1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "ring-dips",
   title: "Ring Dips",
   exerciseCategory: "strength",

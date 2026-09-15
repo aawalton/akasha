@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const smithMachinePistolSquat = {
   id: "019ebc78-6e78-7381-a144-c1d5b19fbd80",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "smith-machine-pistol-squat",
   title: "Smith Machine Pistol Squat",
   exerciseCategory: "strength",

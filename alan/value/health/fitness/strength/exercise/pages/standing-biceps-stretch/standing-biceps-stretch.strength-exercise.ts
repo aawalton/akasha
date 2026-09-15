@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingBicepsStretch = {
   id: "019ebc78-82b5-7ff6-8f84-2f3db20a60ba",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-biceps-stretch",
   title: "Standing Biceps Stretch",
   exerciseCategory: "stretching",

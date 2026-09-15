@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const splitSquats = {
   id: "019ebc78-7f92-75bf-969a-7109af470036",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "split-squats",
   title: "Split Squats",
   exerciseCategory: "stretching",

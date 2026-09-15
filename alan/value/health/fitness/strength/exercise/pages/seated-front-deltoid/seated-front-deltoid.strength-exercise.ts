@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedFrontDeltoid = {
   id: "019ebc78-5819-7479-934f-2d770e1e26e0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-front-deltoid",
   title: "Seated Front Deltoid",
   exerciseCategory: "stretching",

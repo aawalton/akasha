@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedTricepsPress = {
   id: "019ebc78-5f81-73a5-b460-999f154c90b1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-triceps-press",
   title: "Seated Triceps Press",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sideLyingFloorStretch = {
   id: "019ebc78-61b1-7154-acdb-8106fbce0cb8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "side-lying-floor-stretch",
   title: "Side-Lying Floor Stretch",
   exerciseCategory: "stretching",

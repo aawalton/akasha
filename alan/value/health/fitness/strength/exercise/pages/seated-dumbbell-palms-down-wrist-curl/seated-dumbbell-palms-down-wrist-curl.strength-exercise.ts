@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedDumbbellPalmsDownWristCurl = {
   id: "019ebc78-56d6-7109-a6d9-60e2c986cd0a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-dumbbell-palms-down-wrist-curl",
   title: "Seated Dumbbell Palms-Down Wrist Curl",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const shoulderPressWithBands = {
   id: "019ebc78-60f0-7098-af12-1c8ce388e20c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "shoulder-press-with-bands",
   title: "Shoulder Press - With Bands",
   exerciseCategory: "strength",

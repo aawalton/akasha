@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingHipCircles = {
   id: "019ebc78-8913-706a-a32d-5432ff11282a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-hip-circles",
   title: "Standing Hip Circles",
   exerciseCategory: "stretching",

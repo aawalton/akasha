@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const smithMachineDeclinePress = {
   id: "019ebc78-6ca9-76f6-b1fa-dc9838dd6b95",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "smith-machine-decline-press",
   title: "Smith Machine Decline Press",
   exerciseCategory: "strength",

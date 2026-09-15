@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const singleArmLinearJammer = {
   id: "019ebc78-651c-7e5b-a597-8ccfab2f946f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "single-arm-linear-jammer",
   title: "Single-Arm Linear Jammer",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const spiderCurl = {
   id: "019ebc78-7dba-7cf3-b1f6-98707de696c8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "spider-curl",
   title: "Spider Curl",
   exerciseCategory: "strength",

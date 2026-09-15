@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedGlute = {
   id: "019ebc78-585d-7501-ba48-fb391609d0ff",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-glute",
   title: "Seated Glute",
   exerciseCategory: "stretching",

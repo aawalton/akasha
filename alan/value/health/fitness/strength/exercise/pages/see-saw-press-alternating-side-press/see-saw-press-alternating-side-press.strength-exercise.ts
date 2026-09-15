@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seeSawPressAlternatingSidePress = {
   id: "019ebc78-6002-7275-b4b0-ebc9d1293f52",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "see-saw-press-alternating-side-press",
   title: "See-Saw Press (Alternating Side Press)",
   exerciseCategory: "strength",

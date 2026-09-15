@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingLowPulleyDeltoidRaise = {
   id: "019ebc78-8a97-7aff-ac87-bc25be1a8037",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-low-pulley-deltoid-raise",
   title: "Standing Low-Pulley Deltoid Raise",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const splitClean = {
   id: "019ebc78-7e3c-78c7-9fbd-81b6beb5da82",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "split-clean",
   title: "Split Clean",
   exerciseCategory: "olympic-weightlifting",

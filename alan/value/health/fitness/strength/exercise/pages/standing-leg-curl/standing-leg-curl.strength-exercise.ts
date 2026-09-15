@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingLegCurl = {
   id: "019ebc78-8a1d-7aca-b57c-f29ce92866c3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-leg-curl",
   title: "Standing Leg Curl",
   exerciseCategory: "strength",

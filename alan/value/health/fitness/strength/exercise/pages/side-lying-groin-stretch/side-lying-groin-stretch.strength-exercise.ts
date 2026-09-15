@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sideLyingGroinStretch = {
   id: "019ebc78-6361-711d-b3e4-c7971e36dcb6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "side-lying-groin-stretch",
   title: "Side Lying Groin Stretch",
   exerciseCategory: "stretching",

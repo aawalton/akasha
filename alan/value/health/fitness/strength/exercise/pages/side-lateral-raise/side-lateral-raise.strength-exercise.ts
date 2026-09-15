@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const sideLateralRaise = {
   id: "019ebc78-62a7-78bb-b731-145b9717e3ff",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "side-lateral-raise",
   title: "Side Lateral Raise",
   exerciseCategory: "strength",

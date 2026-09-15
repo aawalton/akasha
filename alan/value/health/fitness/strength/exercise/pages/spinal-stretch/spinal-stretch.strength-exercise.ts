@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const spinalStretch = {
   id: "019ebc78-7dfd-7d29-89ce-991eaa26f499",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "spinal-stretch",
   title: "Spinal Stretch",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const starJump = {
   id: "019ebc78-a283-76c1-b411-85ef22ff41cb",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "star-jump",
   title: "Star Jump",
   exerciseCategory: "plyometrics",

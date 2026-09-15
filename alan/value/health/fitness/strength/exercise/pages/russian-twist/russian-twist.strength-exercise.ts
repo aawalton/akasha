@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const russianTwist = {
   id: "019ebc77-d3f6-7ddb-90c5-ba5ad7c781d7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "russian-twist",
   title: "Russian Twist",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const stairmaster = {
   id: "019ebc78-80fa-709e-9f2a-8fa2cd479d76",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "stairmaster",
   title: "Stairmaster",
   exerciseCategory: "cardio",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const seatedDumbbellCurl = {
   id: "019ebc78-564c-79c5-a9a5-92e3c7bb9dbe",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "seated-dumbbell-curl",
   title: "Seated Dumbbell Curl",
   exerciseCategory: "strength",

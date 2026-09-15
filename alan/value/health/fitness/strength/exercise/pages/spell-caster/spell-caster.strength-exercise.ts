@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const spellCaster = {
   id: "019ebc78-7d41-7444-b592-6c41302334f0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "spell-caster",
   title: "Spell Caster",
   exerciseCategory: "strength",

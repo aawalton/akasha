@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const standingOlympicPlateHandSqueeze = {
   id: "019ebc78-8b54-7b68-8006-c1f7f7be0912",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "standing-olympic-plate-hand-squeeze",
   title: "Standing Olympic Plate Hand Squeeze",
   exerciseCategory: "strength",
