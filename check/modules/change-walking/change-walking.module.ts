@@ -117,16 +117,19 @@ export const changeWalking = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A file outside git's tree is walked only where its name has the reserved section `uncommitted`.",
+      statement: "Which files those are is `tree-searching`'s listing rather than a walk of git's.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An installed dependency is walked by nothing.",
+      statement: "That listing answers the paths git answers, and answers them sooner.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement: "A root that is no tree refuses the walk rather than taking nothing.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A root no file sits under is what that refusal rests on.",
     },
     {
       invariantKind: "invariant-kind/departure",
