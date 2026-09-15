@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import {
   dayAfter,
   openingInstantFromBlocks,
-  openingWindowIn,
+  openingInstantOn,
   sleepBlocksOn,
   spannedWindowIn,
 } from "akasha/alan/harness/health-samples-day/modules/opening-window/opening-window.module.code.ts"
@@ -152,24 +152,21 @@ test("the stretches of time a day held are read off the file beside its page", (
   expect((blocks as readonly unknown[]).length).toBe(SLEPT_ROWS.length)
 })
 
-test("a day whose sleep is recorded answers a window from one opening to the next", () => {
+test("a day whose sleep is recorded opens at the first sleep block beside its page", () => {
   const root = worldFiled("akasha-wake-window-")
-  expect(openingWindowIn(root, SLEPT)).toEqual({
-    from: "2026-07-04T04:00:00.000Z",
-    to: "2026-07-05T04:00:00.000Z",
-  })
+  expect(openingInstantOn(root, SLEPT)).toEqual(new Date("2026-07-04T04:00:00.000Z"))
 })
 
 test("a day whose stretches of time were never written refuses", () => {
   const root = worldFiled("akasha-wake-unwritten-")
   dayFiled(root, SLEPT, null)
-  expect(refusalIn(openingWindowIn(root, SLEPT))).toContain("nothing is there")
+  expect(refusalIn(sleepBlocksOn(root, SLEPT))).toContain("nothing is there")
 })
 
 test("a day holding stretches of time and no sleep refuses", () => {
   const root = worldFiled("akasha-wake-nosleep-")
   dayFiled(root, SLEPT, [SLEPT_ROWS[1]])
-  expect(refusalIn(openingWindowIn(root, SLEPT))).toContain("when the day opened is not recorded")
+  expect(refusalIn(openingInstantOn(root, SLEPT))).toContain("when the day opened is not recorded")
 })
 
 test("a day with no sleep at all is spanned from six the previous evening in Utah", () => {
@@ -199,18 +196,12 @@ test("the day being lived closes at the moment it is read rather than at six tha
   })
 })
 
-test("a day whose next day has no recorded opening refuses, the window having no end", () => {
-  const root = worldFiled("akasha-wake-noend-")
-  dayFiled(root, NEXT, null)
-  expect(refusalIn(openingWindowIn(root, SLEPT))).toContain("it closes when the next day opened")
-})
-
 test("a day the index names no page for refuses", () => {
   const root = worldFiled("akasha-wake-unfiled-")
-  expect(refusalIn(openingWindowIn(root, "2026-01-01"))).toContain("a day is one page")
+  expect(refusalIn(sleepBlocksOn(root, "2026-01-01"))).toContain("a day is one page")
 })
 
 test("what is no day at all refuses", () => {
   const root = worldFiled("akasha-wake-noday-")
-  expect(refusalIn(openingWindowIn(root, "not-a-day"))).toContain("is no day")
+  expect(refusalIn(spannedWindowIn(root, "not-a-day"))).toContain("is no day")
 })

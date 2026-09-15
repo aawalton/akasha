@@ -17,7 +17,8 @@ export const healthSamplesDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A day whose sleep was never recorded is refused rather than given a window.",
+      statement:
+        "A day whose sleep was never recorded is refused an opening rather than given one.",
     },
   ],
 } as const satisfies Domain

@@ -148,18 +148,6 @@ export function openingInstantOn(root: string, dayStr: string): Date | Refused {
   return opening
 }
 
-export function openingWindowIn(root: string, dayStr: string): DayWindow | Refused {
-  const from = openingInstantOn(root, dayStr)
-  if ("refused" in from) return { refused: `${dayStr} has no window: ${from.refused}` }
-  const to = openingInstantOn(root, dayAfter(dayStr))
-  if ("refused" in to) {
-    return {
-      refused: `${dayStr} has no window: it closes when the next day opened, and ${to.refused}`,
-    }
-  }
-  return { from: from.toISOString(), to: to.toISOString() }
-}
-
 function closingWithoutNext(dayStr: string, now: Date): Date {
   const closed = eveningOf(dayStr)
   const latest = eveningOf(dayAfter(dayStr))

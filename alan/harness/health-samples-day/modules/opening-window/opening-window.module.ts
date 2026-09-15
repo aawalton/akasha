@@ -51,10 +51,7 @@ export const openingWindow = {
       invariantKind: "departure",
       statement: "A window closes at the moment the day after opened.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A window refuses rather than reading as the ESO day's own.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A day with no recorded opening refuses as a value rather than raising.",
