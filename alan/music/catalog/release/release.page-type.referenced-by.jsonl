@@ -2351,6 +2351,7 @@
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-alive/sia-alive.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-angel-by-the-wings/sia-angel-by-the-wings.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-audio-cid-remix/sia-audio-cid-remix.release.ts"}
+{"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-awake-tonight.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-beautiful-people-afrojack-amel-remix/sia-beautiful-people-afrojack-amel-remix.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-beautiful-people-casso-remix/sia-beautiful-people-casso-remix.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-beautiful-people-d-o-d-remix/sia-beautiful-people-d-o-d-remix.release.ts"}
@@ -2384,6 +2385,7 @@
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-dance-alone-remixes/sia-dance-alone-remixes.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-dance-alone/sia-dance-alone.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-diamond-eyes-feat-sia/sia-diamond-eyes-feat-sia.release.ts"}
+{"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-disguise.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-distractions/sia-distractions.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-dusk-till-dawn-feat-sia-radio-edit/sia-dusk-till-dawn-feat-sia-radio-edit.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-dusk-till-dawn-the-remixes-feat-sia/sia-dusk-till-dawn-the-remixes-feat-sia.release.ts"}
@@ -2415,6 +2417,7 @@
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-gimme-christmas-sleep-soundscape/sia-gimme-christmas-sleep-soundscape.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-gimme-christmas/sia-gimme-christmas.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-gimme-love-armin-van-buuren-remix/sia-gimme-love-armin-van-buuren-remix.release.ts"}
+{"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-gimme-love-orchestra.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-gimme-love-reasonable-woman-version/sia-gimme-love-reasonable-woman-version.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-gimme-love-sentinel-remix/sia-gimme-love-sentinel-remix.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-gimme-love-sofiane-pamart-remix/sia-gimme-love-sofiane-pamart-remix.release.ts"}
@@ -2461,6 +2464,7 @@
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-one-million-bullets/sia-one-million-bullets.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-original-from-dolittle/sia-original-from-dolittle.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-perfect/sia-perfect.release.ts"}
+{"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-ranjha.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-reaper/sia-reaper.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-reasonable-remixes-1/sia-reasonable-remixes-1.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/sia-reasonable-remixes-2/sia-reasonable-remixes-2.release.ts"}
