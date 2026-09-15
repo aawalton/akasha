@@ -1,9 +1,6 @@
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { akashaSeatRecordOf } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
-import {
-  dropBeside,
-  keepBeside,
-} from "akasha/agent/seat/page/modules/seat-beside/seat-beside.module.code.ts"
+import { keepBeside } from "akasha/agent/seat/page/modules/seat-beside/seat-beside.module.code.ts"
 
 function whereToWrite(agent: string): string | null {
   return seatNameForAgent(agent)
@@ -39,15 +36,4 @@ export function backfillSeatRecord(agent: string, key: string, held: string | nu
   if (held === null || held === "") return
   if (seatRecordOf(agent, key) !== null) return
   keepSeatRecord(agent, key, held)
-}
-
-export function dropSeatRecord(agent: string, key: string): undefined {
-  if (agent === "") return
-  try {
-    const page = whereToWrite(agent)
-    if (page === null) return
-    dropBeside(page, [key])
-  } catch {
-    return
-  }
 }
