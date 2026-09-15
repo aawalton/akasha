@@ -1,0 +1,17 @@
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/activation-buff/temper-companion-activation-buff.page-type.ts","id":"01a05fcd-41a7-7f50-b3d4-a62fb6c122e1"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/armor-slot/temper-companion-armor-slot.page-type.ts","id":"01a05fcd-aece-70c8-8784-e3afaec07950"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/base-role/temper-companion-base-role.page-type.ts","id":"01a05fce-1851-7d9f-9f36-f8f9bf8792ea"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/equipment-quality/temper-companion-equipment-quality.page-type.ts","id":"01a05fcd-aed0-75bf-9fe4-d95291c165fb"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/jewelry-slot/temper-companion-jewelry-slot.page-type.ts","id":"01a05fcd-aecf-75d4-9252-0fa9f6ad750b"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/passive-metric/temper-companion-passive-metric.page-type.ts","id":"01a05fcd-41a8-7a56-ac2f-218a9b9953da"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/role/temper-companion-role.page-type.ts","id":"01a05fcd-41a8-7cf6-b803-033e5142d8cf"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/skill-line/temper-companion-skill-line.page-type.ts","id":"01a05fce-1854-7d72-872a-0e22ce5c84c5"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/skill-slot/temper-companion-skill-slot.page-type.ts","id":"01a05fcd-41a9-75e4-9a61-ca49c001eb2d"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/skill/temper-companion-skill.page-type.ts","id":"01a05fcf-90fc-73a8-ad6a-e3869228a309"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.page-type.ts","id":"01a05fcf-2469-71b2-b9b1-9c8803c95d71"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/temper-eso-companion/temper-eso-companion.page-type.ts","id":"01a05fcf-2466-7bcb-9ec1-3f0fd467d879"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/trait/temper-companion-trait.page-type.ts","id":"01a05fce-1854-7c89-a767-43b54ae4cefa"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/weapon-role/temper-companion-weapon-role.page-type.ts","id":"01a05fcd-aed1-7e12-be73-72bd7b05ba15"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/weapon-slot/temper-companion-weapon-slot.page-type.ts","id":"01a05fcd-41a9-7114-8636-28bd59dc4a76"}
+{"propertySlug":"extends-type","path":"temper/catalog/temper-companion/weapon-type/temper-companion-weapon-type.page-type.ts","id":"01a05fcd-aed1-71b0-8b8c-2b74e9a2d662"}
+{"propertySlug":"parts","path":"temper/catalog/temper-companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}

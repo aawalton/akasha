@@ -3322,11 +3322,11 @@
 {"propertySlug":"invariant-kind","path":"temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.ts","id":"01a060ce-b8cb-776b-b2b7-0589a741c9c4"}
 {"propertySlug":"invariant-kind","path":"temper/catalog-side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-catalog.domain.ts","id":"01a05fac-7580-7d88-a660-0f4eff1ab95e"}
-{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/carried-effect.one-of-property.ts","id":"01a08ece-d396-7735-b4e0-bbe153126211"}
-{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
-{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/nested-effect.record-property.ts","id":"01a06196-037c-704b-a0d5-349064c3a709"}
-{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
-{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
+{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companion/skill/properties/carried-effect.one-of-property.ts","id":"01a08ece-d396-7735-b4e0-bbe153126211"}
+{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
+{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companion/skill/properties/nested-effect.record-property.ts","id":"01a06196-037c-704b-a0d5-349064c3a709"}
+{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
+{"propertySlug":"invariant-kind","path":"temper/catalog/temper-companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-effects/temper-curse/properties/eso-curse-ids.number-property.ts","id":"01a05fc5-94cd-7c97-9330-6c78011127fa"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-gear/temper-motif-style/properties/drop-sources.text-property.ts","id":"01a05fd1-d439-7027-bdca-1804e14d6caf"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-gear/temper-potion-crafted/properties/reagent-names.text-property.ts","id":"01a05fd1-d43d-7249-ac3e-8dcf8869e271"}

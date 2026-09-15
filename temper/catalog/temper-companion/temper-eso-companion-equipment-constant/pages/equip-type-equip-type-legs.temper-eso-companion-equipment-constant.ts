@@ -1,0 +1,13 @@
+import type { TemperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/temper-companion/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.page-type.types.ts"
+
+export const equipTypeEquipTypeLegs = {
+  id: "01a05fcf-5922-790f-9d66-9d7600466a8e",
+  type: "temper-eso-companion-equipment-constant",
+  slug: "equip-type-equip-type-legs",
+  key: "equip-type:EQUIP_TYPE_LEGS",
+  title: "Equip Type Legs",
+  kind: "equip-type",
+  keyText: "EQUIP_TYPE_LEGS",
+  valueNum: 9,
+  displayOrder: 9,
+} as const satisfies TemperEsoCompanionEquipmentConstant

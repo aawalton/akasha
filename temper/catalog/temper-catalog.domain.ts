@@ -6,7 +6,7 @@ export const temperCatalog = {
   slug: "temper-catalog",
   definition: "what The Elder Scrolls Online itself has, mirrored",
   parts: [
-    "domain/temper-companions",
+    "domain/temper-companion",
     "domain/temper-effects",
     "domain/temper-gear",
     "domain/temper-pursuits",

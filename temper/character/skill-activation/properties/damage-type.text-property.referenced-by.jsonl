@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"damage-type.text-property.types.ts","path":"temper/catalog/temper-companion/skill/properties/nested-effect.record-property.types.ts"}
+{"propertySlug":"page-property","path":"temper/catalog/temper-companion/skill/properties/nested-effect.record-property.ts","id":"01a06196-037c-704b-a0d5-349064c3a709"}
+{"propertySlug":"page-property","path":"temper/catalog/temper-companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
+{"propertySlug":"page-property","path":"temper/character/skill-activation/properties/activation-effects.page-property-entry.ts","id":"01a05fcd-f548-76d2-9bca-20e59187c7a2"}
+{"propertySlug":"parts","path":"temper/character/skill-activation/temper-character-skill-activation.page-type.ts","id":"01a05fcd-f54a-7717-a057-2b49e5aeaa04"}
