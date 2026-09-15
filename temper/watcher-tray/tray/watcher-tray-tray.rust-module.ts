@@ -2,7 +2,7 @@ import type { RustModule } from "akasha/code/rust-module/rust-module.page-type.t
 
 export const watcherTrayTray = {
   id: "01a06034-87f2-76b4-8069-614fc1aa1871",
-  type: "rust-module",
+  type: "page-type/rust-module",
   slug: "watcher-tray-tray",
   definition: "the notification area icon and the menu behind it",
   rust: "rs",

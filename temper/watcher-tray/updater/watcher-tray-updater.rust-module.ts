@@ -2,7 +2,7 @@ import type { RustModule } from "akasha/code/rust-module/rust-module.page-type.t
 
 export const watcherTrayUpdater = {
   id: "01a06034-87f3-7066-9d50-14fe57f95672",
-  type: "rust-module",
+  type: "page-type/rust-module",
   slug: "watcher-tray-updater",
   definition: "how the tray replaces its own executable from the server",
   rust: "rs",

@@ -2,7 +2,7 @@ import type { RustModule } from "akasha/code/rust-module/rust-module.page-type.t
 
 export const watcherTrayInstaller = {
   id: "01a06034-87f4-7908-a23a-069bdb5b09be",
-  type: "rust-module",
+  type: "page-type/rust-module",
   slug: "watcher-tray-installer",
   definition: "what the tray puts in place on a machine before it runs",
   rust: "rs",
