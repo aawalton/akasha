@@ -7,14 +7,15 @@ import {
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { tunnelConfigData } from "akasha/infrastructure/cluster/manifest/modules/tunnel-config/tunnel-config.module.code.ts"
+import { cloudflared } from "akasha/infrastructure/service/cluster/pages/cloudflared/cloudflared.service-cluster.ts"
 
-const NAMESPACE = "cloudflared"
-const APP_NAME = "cloudflared"
-const INSTANCE_NAME = "cloudflared"
+const NAMESPACE = cloudflared.namespace
+const APP_NAME = cloudflared.resourceName
+const INSTANCE_NAME = cloudflared.resourceName
 const COMPONENT = "tunnel"
-const PART_OF = "cloudflared"
+const PART_OF = cloudflared.slug
 const MANAGED_BY = "deploy-script"
-const CLOUDFLARED_IMAGE = "cloudflare/cloudflared:2026.3.0"
+const CLOUDFLARED_IMAGE = cloudflared.image
 const CONFIG_NAME = "cloudflared-config"
 const CREDS_NAME = "cloudflared-creds"
 const CREDS_KEYS = ["credentials.json"]
@@ -55,12 +56,12 @@ function deploymentYaml(data: Readonly<Record<string, string>>): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "cloudflared",
+      name: cloudflared.resourceName,
       namespace: NAMESPACE,
       labels: DEPLOYMENT_LABELS,
     },
     spec: {
-      replicas: 2,
+      replicas: cloudflared.replicas,
       strategy: {
         type: "RollingUpdate",
         rollingUpdate: {
@@ -92,7 +93,7 @@ function deploymentYaml(data: Readonly<Record<string, string>>): string {
               name: "cloudflared",
               image: CLOUDFLARED_IMAGE,
               args: ["tunnel", "--config", "/etc/cloudflared/config/config.yaml", "run"],
-              ports: [{ containerPort: 2000, protocol: "TCP" }],
+              ports: [{ containerPort: cloudflared.containerPort, protocol: "TCP" }],
               volumeMounts: [
                 { name: "config", mountPath: "/etc/cloudflared/config", readOnly: true },
                 { name: "creds", mountPath: "/etc/cloudflared/creds", readOnly: true },
@@ -109,7 +110,7 @@ function deploymentYaml(data: Readonly<Record<string, string>>): string {
                 capabilities: { drop: ["ALL"] },
               },
               readinessProbe: {
-                httpGet: { path: "/ready", port: 2000 },
+                httpGet: { path: "/ready", port: cloudflared.containerPort },
                 initialDelaySeconds: 10,
                 periodSeconds: 15,
                 timeoutSeconds: 5,
@@ -121,7 +122,7 @@ function deploymentYaml(data: Readonly<Record<string, string>>): string {
                 },
               },
               livenessProbe: {
-                httpGet: { path: "/ready", port: 2000 },
+                httpGet: { path: "/ready", port: cloudflared.containerPort },
                 initialDelaySeconds: 10,
                 periodSeconds: 15,
                 timeoutSeconds: 5,
