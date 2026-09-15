@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const smilingjennySecretsAlanwaltonRingDeviceSecret = {
   id: "01a076d8-38bf-7f57-8efc-a545a986068a",
-  type: "secret",
+  type: "page-type/secret",
   slug: "smilingjenny-secrets-alanwalton-ring-device-secret",
   placements: [
     { resourceName: "smilingjenny-secrets", resourceKey: "ALANWALTON_RING_DEVICE_SECRET" },

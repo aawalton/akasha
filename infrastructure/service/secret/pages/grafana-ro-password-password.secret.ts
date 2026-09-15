@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const grafanaRoPasswordPassword = {
   id: "01a0769a-a7e7-7c45-adb1-ad104f4a8ca0",
-  type: "secret",
+  type: "page-type/secret",
   slug: "grafana-ro-password-password",
   placements: [
     { resourceName: "grafana-ro-password", resourceKey: "password" },

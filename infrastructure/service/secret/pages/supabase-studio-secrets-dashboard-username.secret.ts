@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const supabaseStudioSecretsDashboardUsername = {
   id: "01a06832-cf2d-75b6-aff3-8a71163f401c",
-  type: "secret",
+  type: "page-type/secret",
   slug: "supabase-studio-secrets-dashboard-username",
   placements: [{ resourceName: "supabase-studio-secrets", resourceKey: "DASHBOARD_USERNAME" }],
 } as const satisfies Secret

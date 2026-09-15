@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const collectionsSecretsJwtSecret = {
   id: "01a076b6-9349-7b5a-b8f8-d780de29be90",
-  type: "secret",
+  type: "page-type/secret",
   slug: "collections-secrets-jwt-secret",
   placements: [
     { resourceName: "alanwalton-secrets", resourceKey: "JWT_SECRET" },

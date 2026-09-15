@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const supabaseStudioSecretsPgMetaCryptoKey = {
   id: "01a06832-cf2d-7c5c-b559-60f87900de9e",
-  type: "secret",
+  type: "page-type/secret",
   slug: "supabase-studio-secrets-pg-meta-crypto-key",
   placements: [{ resourceName: "supabase-studio-secrets", resourceKey: "PG_META_CRYPTO_KEY" }],
 } as const satisfies Secret

@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const supabaseAuthAdminSecretsSupabaseAuthAdminPassword = {
   id: "01a07697-c5f2-7a37-b06c-e4346fc595fa",
-  type: "secret",
+  type: "page-type/secret",
   slug: "supabase-auth-admin-secrets-supabase-auth-admin-password",
   placements: [
     { resourceName: "supabase-auth-admin-secrets", resourceKey: "SUPABASE_AUTH_ADMIN_PASSWORD" },

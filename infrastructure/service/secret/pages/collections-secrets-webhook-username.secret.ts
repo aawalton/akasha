@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const collectionsSecretsWebhookUsername = {
   id: "01a076b8-60fb-700b-bf69-142fb3ce0222",
-  type: "secret",
+  type: "page-type/secret",
   slug: "collections-secrets-webhook-username",
   placements: [{ resourceName: "collections-secrets", resourceKey: "WEBHOOK_USERNAME" }],
 } as const satisfies Secret

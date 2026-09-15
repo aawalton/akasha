@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const collectionsSecretsSupabaseServiceRoleKey = {
   id: "01a076b8-deab-718f-82c2-1ca92e06fdf7",
-  type: "secret",
+  type: "page-type/secret",
   slug: "collections-secrets-supabase-service-role-key",
   placements: [
     { resourceName: "alanwalton-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },

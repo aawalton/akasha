@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const collectionsSecretsNextPublicSupabaseAnonKey = {
   id: "01a076b6-a686-738e-b5d6-c8b2e80ecb84",
-  type: "secret",
+  type: "page-type/secret",
   slug: "collections-secrets-next-public-supabase-anon-key",
   placements: [
     { resourceName: "alanwalton-secrets", resourceKey: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },

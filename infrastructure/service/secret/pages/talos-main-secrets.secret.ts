@@ -2,6 +2,6 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const talosMainSecrets = {
   id: "01a0a04a-9321-7ea4-b7c6-7ccf320394ba",
-  type: "secret",
+  type: "page-type/secret",
   slug: "talos-main-secrets",
 } as const satisfies Secret

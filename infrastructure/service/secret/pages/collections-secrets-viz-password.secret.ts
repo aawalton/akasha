@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const collectionsSecretsVizPassword = {
   id: "01a076b8-24c9-7848-9ee9-ea947f547cee",
-  type: "secret",
+  type: "page-type/secret",
   slug: "collections-secrets-viz-password",
   placements: [{ resourceName: "collections-secrets", resourceKey: "VIZ_PASSWORD" }],
 } as const satisfies Secret

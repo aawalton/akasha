@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const postgresCnpgSuperuserPassword = {
   id: "01a0769a-6254-759e-9884-a843873f27e9",
-  type: "secret",
+  type: "page-type/secret",
   slug: "postgres-cnpg-superuser-password",
   placements: [
     { resourceName: "postgres-cnpg-superuser", resourceKey: "password" },

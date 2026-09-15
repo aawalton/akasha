@@ -2,7 +2,7 @@ import type { Secret } from "akasha/infrastructure/service/secret/secret.page-ty
 
 export const collectionsSecretsSeaweedfsS3Endpoint = {
   id: "01a076b7-a4ae-75e1-abb3-9bace8258839",
-  type: "secret",
+  type: "page-type/secret",
   slug: "collections-secrets-seaweedfs-s3-endpoint",
   placements: [{ resourceName: "collections-secrets", resourceKey: "SEAWEEDFS_S3_ENDPOINT" }],
 } as const satisfies Secret
