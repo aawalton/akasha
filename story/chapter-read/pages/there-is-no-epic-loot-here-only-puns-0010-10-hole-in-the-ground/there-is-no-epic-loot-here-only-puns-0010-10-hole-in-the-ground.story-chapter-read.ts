@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns001010HoleInTheGround = {
   id: "01a06730-4f4c-7e2f-9764-a9eb402e31ec",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0010-10-hole-in-the-ground",
   title: "10: Hole in the Ground",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

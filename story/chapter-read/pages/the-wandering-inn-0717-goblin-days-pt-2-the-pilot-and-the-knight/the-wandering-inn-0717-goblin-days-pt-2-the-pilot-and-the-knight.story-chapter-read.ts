@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theWanderingInn0717GoblinDaysPt2ThePilotAndTheKnight = {
   id: "01a0659c-7eaa-791b-b9cc-f1da698572d9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-wandering-inn-0717-goblin-days-pt-2-the-pilot-and-the-knight",
   title: "Goblin Days (Pt. 2) -- The Pilot and the Knight",
   story: "story-read/the-wandering-inn",

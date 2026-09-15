@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theWanderingInn0721GoblinDaysPt6OfDragons = {
   id: "01a0659c-7eb3-7c24-9f31-10c154559c33",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-wandering-inn-0721-goblin-days-pt-6-of-dragons",
   title: "Goblin Days (Pt. 6) - Of Dragons",
   story: "story-read/the-wandering-inn",

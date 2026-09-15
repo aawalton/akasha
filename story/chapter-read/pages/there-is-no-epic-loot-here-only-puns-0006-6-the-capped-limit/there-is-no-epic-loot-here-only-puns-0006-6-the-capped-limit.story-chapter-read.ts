@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns00066TheCappedLimit = {
   id: "01a06730-4f4b-78fc-98dd-aca53b724ef8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0006-6-the-capped-limit",
   title: "6: The Capped Limit",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

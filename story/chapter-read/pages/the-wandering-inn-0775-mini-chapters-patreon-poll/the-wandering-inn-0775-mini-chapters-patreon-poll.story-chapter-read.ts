@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theWanderingInn0775MiniChaptersPatreonPoll = {
   id: "01a0659e-1814-7797-adde-a52aacbea647",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-wandering-inn-0775-mini-chapters-patreon-poll",
   title: "Mini-Chapters - Patreon Poll",
   story: "story-read/the-wandering-inn",

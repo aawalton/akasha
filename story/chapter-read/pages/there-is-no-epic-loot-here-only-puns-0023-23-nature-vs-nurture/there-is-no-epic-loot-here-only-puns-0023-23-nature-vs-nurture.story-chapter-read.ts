@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns002323NatureVsNurture = {
   id: "01a06730-4f7a-776b-96d4-c61a052ccb91",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0023-23-nature-vs-nurture",
   title: "23: Nature vs Nurture",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

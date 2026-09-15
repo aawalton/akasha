@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns004040SeeingTheMushroomForTheForest = {
   id: "01a06730-4f89-71b1-ab3c-4796bc5d22cb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0040-40-seeing-the-mushroom-for-the-forest",
   title: "40: Seeing the Mushroom for the Forest",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

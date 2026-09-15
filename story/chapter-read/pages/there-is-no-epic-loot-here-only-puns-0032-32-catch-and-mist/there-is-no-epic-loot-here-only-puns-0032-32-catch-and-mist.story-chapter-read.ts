@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns003232CatchAndMist = {
   id: "01a06730-4f7b-7110-8e9a-39029584857f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0032-32-catch-and-mist",
   title: "32: Catch and Mist",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

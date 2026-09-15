@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns003838BigShowdownInLittleDungeon = {
   id: "01a06730-4f89-7245-8813-f83fc4b4a14a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0038-38-big-showdown-in-little-dungeon",
   title: "38: Big Showdown in little Dungeon",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

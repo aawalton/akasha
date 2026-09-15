@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns00055TheHumanTouch = {
   id: "01a06730-4f4b-7b47-b41e-da625cdafe75",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0005-5-the-human-touch",
   title: "5: The Human Touch",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

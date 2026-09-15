@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns004645NuPointOfView = {
   id: "01a06730-4f8a-7725-a5ba-a43098fbc92d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0046-45-nu-point-of-view",
   title: "45: Nu point of view",
   story: "story-read/there-is-no-epic-loot-here-only-puns",
