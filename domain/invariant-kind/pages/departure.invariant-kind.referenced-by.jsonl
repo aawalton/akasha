@@ -3,7 +3,6 @@
 {"propertySlug":"invariant-kind","path":"agent/claude-code/session/claude-code-session.domain.ts","id":"01a065b0-2102-7c58-b7e0-4a3346b7301a"}
 {"propertySlug":"invariant-kind","path":"agent/claude-code/session/modules/session-watch/session-watch.module.ts","id":"01a06983-278f-7765-a092-a4267cf79118"}
 {"propertySlug":"invariant-kind","path":"agent/claude-code/session/store/claude-code-session-store.domain.ts","id":"01a065b0-2103-7e19-a5cb-8f425124086c"}
-{"propertySlug":"invariant-kind","path":"agent/claude-code/session/store/path/claude-code-session-store-path.domain.ts","id":"01a065b0-2104-7f7d-be86-1cd42797ac84"}
 {"propertySlug":"invariant-kind","path":"agent/hook/agent-hook/agent-hook.page-type.ts","id":"01a04e0a-f8fa-7fb8-a730-0e27c83701be"}
 {"propertySlug":"invariant-kind","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.ts","id":"01a04e17-0958-7be5-9b50-5a856c02c5a6"}
 {"propertySlug":"invariant-kind","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.ts","id":"01a04eb3-0e18-748c-9e7f-ae84d9254e02"}

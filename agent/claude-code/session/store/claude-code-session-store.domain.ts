@@ -5,7 +5,6 @@ export const claudeCodeSessionStore = {
   type: "domain",
   slug: "claude-code-session-store",
   definition: "where session files are kept",
-  parts: ["domain/claude-code-session-store-path"],
   invariants: [
     {
       invariantKind: "departure",
@@ -31,6 +30,38 @@ export const claudeCodeSessionStore = {
     {
       invariantKind: "departure",
       statement: "The file and the directory travel together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder is named for a working directory resolved through its symlinks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each `/` in that name is written as `-`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder's name records where a session began.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing reads that name back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A session file opens from wherever the file is put.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder outlives the directory the folder is named for.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing takes an old folder away.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing here works out where a session's file is from a working directory.",
     },
   ],
 } as const satisfies Domain
