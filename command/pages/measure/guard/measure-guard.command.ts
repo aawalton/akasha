@@ -59,10 +59,6 @@ export const measureGuard = {
       statement: "The runs are gathered under the guard that ran.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "The refusals counted are the calls that guard blocked.",
-    },
-    {
       invariantKind: "invariant-kind/gap",
       statement: "The seconds recorded are the dispatcher's child seconds and so the guard's.",
     },
@@ -93,10 +89,6 @@ export const measureGuard = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "The total draws its memory as `-`.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The total's refusals are the refusals of every record read added together.",
     },
     {
       invariantKind: "invariant-kind/departure",

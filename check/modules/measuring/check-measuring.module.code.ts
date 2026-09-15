@@ -37,7 +37,7 @@ const DAY_MS = 86400000
 
 const FORMS = `\`${LAST} <count>\` names runs and \`${LAST} <count>{m|h|d}\` names a period`
 
-const HEADED: readonly string[] = ["runs", "cpu", "mem", "paths", "refusals"]
+const HEADED: readonly string[] = ["runs", "cpu", "mem"]
 
 const UNREAD = "these were not read, and count no runs:"
 
@@ -56,8 +56,6 @@ export interface Run {
   readonly ranAt: number
   readonly cpu: number
   readonly mem: number | null
-  readonly paths: number
-  readonly refusals: number
 }
 
 export interface Held {
@@ -87,15 +85,11 @@ export interface CheckCost {
   readonly runs: number
   readonly cpu: number | null
   readonly mem: number | null
-  readonly paths: number
-  readonly refusals: number
 }
 
 export interface Total {
   readonly runs: number
   readonly cpu: number | null
-  readonly paths: number
-  readonly refusals: number
 }
 
 export interface Costs {
@@ -124,8 +118,6 @@ function runIn(row: string): Run {
     ranAt: Date.parse(String(one["ranAt"] ?? "")),
     cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
     mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
-    paths: Number(one["pathsChanged"] ?? 0),
-    refusals: Number(one["refusals"] ?? 0),
   }
 }
 
@@ -222,38 +214,19 @@ function addedOf(runs: readonly Run[], what: (one: Run) => number): number {
   return runs.reduce((total, one) => total + what(one), 0)
 }
 
-function pathsOf(runs: readonly Run[]): number {
-  const byRun = new Map<string, number>()
-  let loose = 0
-  for (const one of runs) {
-    if (one.runId === null) loose += one.paths
-    else byRun.set(one.runId, one.paths)
-  }
-  return [...byRun.values()].reduce((total, one) => total + one, loose)
-}
-
 export function costOf(check: string, runs: readonly Run[]): CheckCost {
   return {
     check,
     runs: runs.length,
     cpu: meanOf(runs.map((one) => one.cpu)),
     mem: meanOf(memoryOf(runs)),
-    paths: addedOf(runs, (one) => one.paths),
-    refusals: addedOf(runs, (one) => one.refusals),
   }
 }
 
 export function totalOf(runs: readonly Run[]): Total {
-  const paths = pathsOf(runs)
-  const refusals = addedOf(runs, (one) => one.refusals)
   const count = latestOf(runs).size
-  if (count === 0) return { runs: 0, cpu: null, paths, refusals }
-  return {
-    runs: count,
-    cpu: addedOf(runs, (one) => one.cpu) / count,
-    paths,
-    refusals,
-  }
+  if (count === 0) return { runs: 0, cpu: null }
+  return { runs: count, cpu: addedOf(runs, (one) => one.cpu) / count }
 }
 
 export function byCpu(a: CheckCost, b: CheckCost): number {
@@ -379,20 +352,11 @@ function rowOf(one: CheckCost): readonly string[] {
     String(one.runs),
     one.cpu === null ? ABSENT : secondsAs(one.cpu),
     one.mem === null ? ABSENT : bytesAs(one.mem),
-    String(one.paths),
-    String(one.refusals),
   ]
 }
 
 function totalRowOf(total: Total): readonly string[] {
-  return [
-    TOTAL,
-    String(total.runs),
-    total.cpu === null ? ABSENT : secondsAs(total.cpu),
-    ABSENT,
-    String(total.paths),
-    String(total.refusals),
-  ]
+  return [TOTAL, String(total.runs), total.cpu === null ? ABSENT : secondsAs(total.cpu), ABSENT]
 }
 
 export function linesOf(costs: Costs, named: string = CHECK): readonly string[] {

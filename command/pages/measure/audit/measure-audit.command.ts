@@ -124,18 +124,6 @@ export const measureAudit = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The paths and the refusals are added up rather than shared out over the runs.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The total counts a run's paths once.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The total's refusals are the refusals of every record read added together.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "Checks are ordered by what their runs took on average.",
     },
     {

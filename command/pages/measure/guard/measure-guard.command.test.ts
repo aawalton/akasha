@@ -6,6 +6,7 @@ import {
   sinceNow,
   TWO,
 } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
 import { runWindow } from "akasha/command/argument/pages/run-window.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
@@ -17,7 +18,6 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure guard"
@@ -167,16 +167,4 @@ test("an inference hook is dispatched the same way and is read here too", () => 
 
   expect(said).toContain("tooling-guard")
   expect(said).toContain("asking-guard")
-})
-
-test("the refusals counted are the calls that guard blocked", () => {
-  const said = saidOver({
-    [HOOK_ROWS]: [
-      { ran: "blocking-guard", refusals: 1 },
-      { runId: TWO, ran: "blocking-guard", refusals: 1 },
-    ],
-  })
-  const row = said.split("\n").find((one) => one.startsWith("blocking-guard")) ?? ""
-
-  expect(row.trim().split(/\s+/).at(-1)).toBe("2")
 })

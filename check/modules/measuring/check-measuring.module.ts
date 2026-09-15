@@ -176,10 +176,6 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A change run judges the paths that change has.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "An audit run judges every page.",
     },
     {
@@ -205,30 +201,6 @@ export const checkMeasuring = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "The total draws its memory as absent.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "Paths and refusals are added up rather than shared out over the runs.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A check's paths are the paths every run of that check judged added together.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A check's refusals are the refusals every run of that check made added together.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The total counts a run's paths once however many checks judged that run.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A record belonging to no run carries its own paths into the total.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The total's refusals are the refusals of every record read added together.",
     },
     {
       invariantKind: "invariant-kind/departure",

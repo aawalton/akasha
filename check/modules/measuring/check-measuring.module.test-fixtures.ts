@@ -3,12 +3,12 @@ import type {
   Chosen,
   Costs,
 } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 export const ENTRIES = "entries"
@@ -134,7 +134,7 @@ export function tornInto(root: string, check: string): string {
 }
 
 export function costsOf(checks: readonly CheckCost[]): Costs {
-  return { checks, total: { runs: 0, cpu: null, paths: 0, refusals: 0 }, unread: [], torn: [] }
+  return { checks, total: { runs: 0, cpu: null }, unread: [], torn: [] }
 }
 
 export function spacedOnce(said: string | undefined): string {

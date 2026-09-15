@@ -216,7 +216,7 @@ test("one run's runs are the runs of every check that run judged", () => {
   const costs = costsIn(root, NOW, LAST_RUN)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["two", "one"])
-  expect(costs.total).toEqual({ runs: 1, cpu: 5, paths: 1, refusals: 0 })
+  expect(costs.total).toEqual({ runs: 1, cpu: 5 })
 })
 
 test("the total shares the processor time over the distinct runs read", () => {
@@ -228,30 +228,23 @@ test("the total shares the processor time over the distinct runs read", () => {
     ].join("\n")
   ).runs
 
-  expect(totalOf(runs)).toEqual({ runs: 2, cpu: 5, paths: 2, refusals: 0 })
+  expect(totalOf(runs)).toEqual({ runs: 2, cpu: 5 })
 })
 
 test("no run at all totals no processor time rather than a time of zero", () => {
   expect(totalOf(runsRead(lineOf({ phase: "change", runId: ONE })).runs)).toEqual({
     runs: 1,
     cpu: 0,
-    paths: 1,
-    refusals: 0,
   })
-  expect(totalOf([])).toEqual({ runs: 0, cpu: null, paths: 0, refusals: 0 })
+  expect(totalOf([])).toEqual({ runs: 0, cpu: null })
 })
 
 test("the total sits beneath the table with its memory drawn absent", () => {
   const cost = costOf("one", runsRead(lineOf({ phase: "change", cpuSeconds: 2 })).runs)
-  const said = linesOf({
-    checks: [cost],
-    total: { runs: 1, cpu: 2, paths: 1, refusals: 0 },
-    unread: [],
-    torn: [],
-  })
+  const said = linesOf({ checks: [cost], total: { runs: 1, cpu: 2 }, unread: [], torn: [] })
 
   expect(spacedOnce(said[2])).toBe("")
-  expect(spacedOnce(said[3])).toBe("total 1 2.000s - 1 0")
+  expect(spacedOnce(said[3])).toBe("total 1 2.000s -")
 })
 
 test("how many runs a check holds is counted beside its averages", () => {
@@ -289,15 +282,15 @@ test("a check no run was judged at carries no average rather than an average of 
   expect(cost.mem).toBe(null)
   const said = linesOf(costsOf([cost]))[1] ?? ""
 
-  expect(spacedOnce(said)).toBe("one 0 - - 0 0")
+  expect(spacedOnce(said)).toBe("one 0 - -")
 })
 
 test("the table carries one set of columns for the group read", () => {
   const cost = costOf("one", runsRead(lineOf({ phase: "change", cpuSeconds: 0 })).runs)
   const said = linesOf(costsOf([cost]))
 
-  expect(spacedOnce(said[0])).toBe("check runs cpu mem paths refusals")
-  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0 B 1 0")
+  expect(spacedOnce(said[0])).toBe("check runs cpu mem")
+  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0 B")
 })
 
 test("checks are ordered by what their runs took, and equal times by name", () => {
@@ -423,7 +416,7 @@ test("a root holding no checks answers no check rather than throwing", () => {
 
   expect(costsIn(root, NOW, LAST_RUN)).toEqual({
     checks: [],
-    total: { runs: 0, cpu: null, paths: 0, refusals: 0 },
+    total: { runs: 0, cpu: null },
     unread: [],
     torn: [],
   })

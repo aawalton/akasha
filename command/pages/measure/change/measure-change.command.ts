@@ -68,10 +68,6 @@ export const measureChange = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The paths and the refusals are added up rather than shared out over the runs.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "Changes are ordered by what their runs took on average.",
     },
     {

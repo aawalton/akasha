@@ -12,6 +12,7 @@ import {
   NOW,
   spacedOnce,
 } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   costsIn,
   heldIn,
@@ -28,7 +29,6 @@ import {
   THREE,
   TWO,
 } from "akasha/command/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -155,12 +155,12 @@ test("a period names every row stamped within that period", () => {
 })
 
 test("the rows are drawn by the rule the check measuring draws its rows by", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [{ cpuSeconds: 2, pathsChanged: 3 }])
+  const root = rowsInto(rootFor(), CHANGE_AT, [{ cpuSeconds: 2 }])
 
   const said = linesOf(costsIn(root, NOW, DAY_BACK), "change")
 
-  expect(spacedOnce(said[0])).toBe("change runs cpu mem paths refusals")
-  expect(spacedOnce(said[1])).toBe("change-file 1 2.000s 0 B 3 0")
+  expect(spacedOnce(said[0])).toBe("change runs cpu mem")
+  expect(spacedOnce(said[1])).toBe("change-file 1 2.000s 0 B")
 })
 
 test("a row naming the change phase or the apply phase is read, and no other row is", () => {

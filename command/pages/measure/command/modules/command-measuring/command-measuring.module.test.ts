@@ -7,6 +7,7 @@ import {
   NOW,
   spacedOnce,
 } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   costsIn,
   foundIn,
@@ -20,7 +21,6 @@ import {
   THREE,
   TWO,
 } from "akasha/command/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -142,6 +142,6 @@ test("the rows are drawn by the rule the check measuring draws its rows by", () 
 
   const said = linesOf(costsIn(root, NOW, LAST_ONE), "command")
 
-  expect(spacedOnce(said[0])).toBe("command runs cpu mem paths refusals")
-  expect(spacedOnce(said[1])).toBe("read 1 1.000s 0 B 0 0")
+  expect(spacedOnce(said[0])).toBe("command runs cpu mem")
+  expect(spacedOnce(said[1])).toBe("read 1 1.000s 0 B")
 })

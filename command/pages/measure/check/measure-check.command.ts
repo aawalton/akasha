@@ -104,10 +104,6 @@ export const measureCheck = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A change run judges the paths that change carries.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A run's processor time is that run's own together with the children it reaped.",
     },
     {
@@ -129,18 +125,6 @@ export const measureCheck = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "How many runs a check holds is said before that check's averages.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The paths and the refusals are added up rather than shared out over the runs.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The total counts a run's paths once.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The total's refusals are the refusals of every record read added together.",
     },
     {
       invariantKind: "invariant-kind/departure",
