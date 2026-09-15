@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2SweetBabyJames2019Remaster = {
   id: "01a0676a-d72a-704d-8e54-99517925d313",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-sweet-baby-james-2019-remaster",
   title: "Sweet Baby James (2019 Remaster)",
   partOfCollections: ["artist/james-taylor"],

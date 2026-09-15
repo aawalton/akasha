@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2LiveAtTheTroubadour = {
   id: "01a0676a-d723-7048-a21f-e512425a0d51",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-live-at-the-troubadour",
   title: "Live At The Troubadour",
   partOfCollections: ["artist/james-taylor"],

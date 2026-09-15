@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2ComingBackToYou = {
   id: "01a0676a-d71b-701e-aca8-ca7b3d89ecf1",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-coming-back-to-you",
   title: "Coming Back To You",
   partOfCollections: ["artist/james-taylor"],

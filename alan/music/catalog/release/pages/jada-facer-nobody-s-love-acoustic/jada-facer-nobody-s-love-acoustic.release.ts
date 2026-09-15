@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerNobodySLoveAcoustic = {
   id: "01a0676a-d725-706e-aafb-6e5aa455bc8a",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-nobody-s-love-acoustic",
   title: "Nobody's Love (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

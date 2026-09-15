@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerHeavenIsAPlaceOnEarth = {
   id: "01a0676a-d720-7020-ae75-bdd65bc2437e",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-heaven-is-a-place-on-earth",
   title: "Heaven Is A Place On Earth",
   partOfCollections: ["artist/jada-facer"],

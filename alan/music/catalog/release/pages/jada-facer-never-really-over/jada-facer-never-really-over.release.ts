@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerNeverReallyOver = {
   id: "01a0676a-d725-704a-a93f-7ee71dce4085",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-never-really-over",
   title: "Never Really Over",
   partOfCollections: ["artist/jada-facer"],

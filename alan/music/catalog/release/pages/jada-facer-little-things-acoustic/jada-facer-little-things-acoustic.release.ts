@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerLittleThingsAcoustic = {
   id: "01a0676a-d723-703a-aedf-c1c34f93af04",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-little-things-acoustic",
   title: "Little Things (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

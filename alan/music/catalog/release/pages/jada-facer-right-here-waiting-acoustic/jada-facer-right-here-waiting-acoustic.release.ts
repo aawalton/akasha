@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerRightHereWaitingAcoustic = {
   id: "01a0676a-d728-7009-b98c-928df58bff8c",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-right-here-waiting-acoustic",
   title: "Right Here Waiting (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

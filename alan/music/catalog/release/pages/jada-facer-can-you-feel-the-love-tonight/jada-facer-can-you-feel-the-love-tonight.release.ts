@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerCanYouFeelTheLoveTonight = {
   id: "01a0676a-d719-705e-9a29-db9c916235dc",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-can-you-feel-the-love-tonight",
   title: "Can You Feel The Love Tonight",
   partOfCollections: ["artist/jada-facer"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerBeMyMistakeAcoustic = {
   id: "01a0676a-d718-701f-8fb8-e968e87f792f",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-be-my-mistake-acoustic",
   title: "Be My Mistake (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

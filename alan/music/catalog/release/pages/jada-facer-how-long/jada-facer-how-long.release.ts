@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerHowLong = {
   id: "01a0676a-d720-7071-87ac-b8e040ea9f64",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-how-long",
   title: "How Long",
   partOfCollections: ["artist/jada-facer"],

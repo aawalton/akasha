@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerIWillFollowYouIntoTheDark = {
   id: "01a0676a-d721-7048-a855-e64397466be5",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-i-will-follow-you-into-the-dark",
   title: "I Will Follow You Into The Dark",
   partOfCollections: ["artist/jada-facer"],

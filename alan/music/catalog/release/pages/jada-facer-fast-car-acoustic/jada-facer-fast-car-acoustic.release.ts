@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerFastCarAcoustic = {
   id: "01a0676a-d71d-7064-acad-5d8644b09ac3",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-fast-car-acoustic",
   title: "Fast Car (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

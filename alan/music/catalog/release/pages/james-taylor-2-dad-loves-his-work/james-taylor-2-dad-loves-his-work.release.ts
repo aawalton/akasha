@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2DadLovesHisWork = {
   id: "01a0676a-d71b-704a-ac44-8fe01820d76f",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-dad-loves-his-work",
   title: "Dad Loves His Work",
   partOfCollections: ["artist/james-taylor"],

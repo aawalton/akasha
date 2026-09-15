@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerYoungDumbBroke = {
   id: "01a0676a-d732-7022-a8af-f3eb66b40293",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-young-dumb-broke",
   title: "Young Dumb & Broke",
   partOfCollections: ["artist/jada-facer"],

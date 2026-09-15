@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerLetItSnow = {
   id: "01a0676a-d723-700a-b7af-aca45cd9de21",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-let-it-snow",
   title: "Let It Snow",
   partOfCollections: ["artist/jada-facer"],

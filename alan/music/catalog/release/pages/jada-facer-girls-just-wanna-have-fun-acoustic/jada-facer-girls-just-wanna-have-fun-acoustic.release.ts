@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerGirlsJustWannaHaveFunAcoustic = {
   id: "01a0676a-d71e-706b-8cfe-615f4e20b2a7",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-girls-just-wanna-have-fun-acoustic",
   title: "Girls Just Wanna Have Fun (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

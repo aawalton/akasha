@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerVivaLaVida = {
   id: "01a0676a-d730-7007-b55c-358e865661f3",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-viva-la-vida",
   title: "Viva La Vida",
   partOfCollections: ["artist/jada-facer"],

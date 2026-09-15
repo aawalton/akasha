@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerIDonTCare = {
   id: "01a0676a-d721-7012-aa94-cc418e45b4e6",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-i-don-t-care",
   title: "I Don't Care",
   partOfCollections: ["artist/jada-facer"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerSnowOnTheBeachAcoustic = {
   id: "01a0676a-d729-703b-9588-74be9702b513",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-snow-on-the-beach-acoustic",
   title: "Snow On The Beach (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

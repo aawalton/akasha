@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerWishYouWereSoberAcoustic = {
   id: "01a0676a-d731-702b-a8a9-e435ee481477",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-wish-you-were-sober-acoustic",
   title: "Wish You Were Sober (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

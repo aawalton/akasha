@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2Hourglass = {
   id: "01a0676a-d720-7066-8171-6d8c552cf60d",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-hourglass",
   title: "Hourglass",
   partOfCollections: ["artist/james-taylor"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2FollowTheMoneyFeatJamesTaylor = {
   id: "01a0676a-d71e-701f-bbdf-a0cf0d811953",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-follow-the-money-feat-james-taylor",
   title: "Follow The Money (feat. James Taylor)",
   partOfCollections: ["artist/james-taylor"],

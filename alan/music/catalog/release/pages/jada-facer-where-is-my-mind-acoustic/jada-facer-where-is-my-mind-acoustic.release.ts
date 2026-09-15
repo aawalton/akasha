@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerWhereIsMyMindAcoustic = {
   id: "01a0676a-d731-700d-ae9e-073ff28d91a8",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-where-is-my-mind-acoustic",
   title: "Where Is My Mind? (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

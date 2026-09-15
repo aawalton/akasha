@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerOceansWhereFeetMayFailAcoustic = {
   id: "01a0676a-d726-7015-9385-908565bad1c2",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-oceans-where-feet-may-fail-acoustic",
   title: "Oceans (Where Feet May Fail) [Acoustic]",
   partOfCollections: ["artist/jada-facer"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerWithoutMeSpedUpVersion = {
   id: "01a0676a-d731-702f-b178-1e27e9c96c1e",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-without-me-sped-up-version",
   title: "Without Me (Sped Up Version)",
   partOfCollections: ["artist/jada-facer"],

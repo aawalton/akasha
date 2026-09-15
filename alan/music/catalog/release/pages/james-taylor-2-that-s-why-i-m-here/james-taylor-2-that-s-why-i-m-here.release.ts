@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2ThatSWhyIMHere = {
   id: "01a0676a-d72c-701e-b1fb-569fc0bce200",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-that-s-why-i-m-here",
   title: "That's Why I'm Here",
   partOfCollections: ["artist/james-taylor"],

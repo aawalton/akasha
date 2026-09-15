@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerYouBrokeMeFirstAcoustic = {
   id: "01a0676a-d732-7003-a508-b36dd9023556",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-you-broke-me-first-acoustic",
   title: "you broke me first (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

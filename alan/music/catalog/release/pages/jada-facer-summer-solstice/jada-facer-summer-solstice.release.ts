@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerSummerSolstice = {
   id: "01a0676a-d72a-7042-bc32-62dafb9783ae",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-summer-solstice",
   title: "Summer Solstice",
   partOfCollections: ["artist/jada-facer"],

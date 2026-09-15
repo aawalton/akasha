@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerYouReStillTheOneAcoustic = {
   id: "01a0676a-d732-7017-a99d-28fe5b0a7092",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-you-re-still-the-one-acoustic",
   title: "You're Still the One (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

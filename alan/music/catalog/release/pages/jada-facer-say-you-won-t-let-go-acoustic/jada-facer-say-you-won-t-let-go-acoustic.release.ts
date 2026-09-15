@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerSayYouWonTLetGoAcoustic = {
   id: "01a0676a-d728-7050-a104-5967a6c75d15",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-say-you-won-t-let-go-acoustic",
   title: "Say You Won't Let Go (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

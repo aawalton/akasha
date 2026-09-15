@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2Flag = {
   id: "01a0676a-d71e-700a-862e-2fe1a9c9d79f",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-flag",
   title: "Flag",
   partOfCollections: ["artist/james-taylor"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerBrokenLooksBeautiful = {
   id: "01a0676a-d719-703b-8c0d-fa194f4afc9a",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-broken-looks-beautiful",
   title: "Broken Looks Beautiful",
   partOfCollections: ["artist/jada-facer"],

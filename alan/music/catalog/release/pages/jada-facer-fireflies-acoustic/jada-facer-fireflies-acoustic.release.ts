@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerFirefliesAcoustic = {
   id: "01a0676a-d71d-707d-8049-69bfc80b491d",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-fireflies-acoustic",
   title: "Fireflies (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

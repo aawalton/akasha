@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerVanillaTwilightAcoustic = {
   id: "01a0676a-d72f-705e-87d3-217e469bf498",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-vanilla-twilight-acoustic",
   title: "Vanilla Twilight (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

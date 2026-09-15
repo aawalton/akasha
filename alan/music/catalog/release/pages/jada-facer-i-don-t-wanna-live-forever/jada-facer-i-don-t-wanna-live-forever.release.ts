@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerIDonTWannaLiveForever = {
   id: "01a0676a-d721-7017-a32a-131c4b32779a",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-i-don-t-wanna-live-forever",
   title: "I Don't Wanna Live Forever",
   partOfCollections: ["artist/jada-facer"],

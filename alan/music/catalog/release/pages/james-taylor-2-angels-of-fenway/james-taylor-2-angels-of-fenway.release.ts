@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2AngelsOfFenway = {
   id: "01a0676a-d717-701e-a98a-43c797965998",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-angels-of-fenway",
   title: "Angels Of Fenway",
   partOfCollections: ["artist/james-taylor"],

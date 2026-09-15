@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2InThePocket2019Remaster = {
   id: "01a0676a-d721-706b-a3a3-f366f346dff8",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-in-the-pocket-2019-remaster",
   title: "In the Pocket (2019 Remaster)",
   partOfCollections: ["artist/james-taylor"],

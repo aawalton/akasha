@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerSweaterWeatherAcoustic = {
   id: "01a0676a-d72a-704b-9b1f-c30c9b9de2ce",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-sweater-weather-acoustic",
   title: "Sweater Weather (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

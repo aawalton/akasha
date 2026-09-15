@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2BeforeThisWorld = {
   id: "01a0676a-d718-7034-895c-520d3228af3d",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-before-this-world",
   title: "Before This World",
   partOfCollections: ["artist/james-taylor"],

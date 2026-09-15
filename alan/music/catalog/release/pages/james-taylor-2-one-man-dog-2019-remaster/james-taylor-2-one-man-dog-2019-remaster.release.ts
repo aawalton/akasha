@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2OneManDog2019Remaster = {
   id: "01a0676a-d726-702d-8627-ddeeda6a1105",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-one-man-dog-2019-remaster",
   title: "One Man Dog (2019 Remaster)",
   partOfCollections: ["artist/james-taylor"],

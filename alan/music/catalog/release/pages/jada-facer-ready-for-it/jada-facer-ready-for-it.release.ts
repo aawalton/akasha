@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerReadyForIt = {
   id: "01a0676a-d727-704e-b631-6b6ab3af9ca1",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-ready-for-it",
   title: "...Ready For It?",
   partOfCollections: ["artist/jada-facer"],

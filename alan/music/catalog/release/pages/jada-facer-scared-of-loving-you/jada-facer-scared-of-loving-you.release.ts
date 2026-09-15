@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerScaredOfLovingYou = {
   id: "01a0676a-d728-7052-bb73-a91861004e01",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-scared-of-loving-you",
   title: "Scared Of Loving You",
   partOfCollections: ["artist/jada-facer"],

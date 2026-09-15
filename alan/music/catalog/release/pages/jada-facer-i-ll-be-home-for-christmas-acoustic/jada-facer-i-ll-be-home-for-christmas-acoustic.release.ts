@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerILlBeHomeForChristmasAcoustic = {
   id: "01a0676a-d721-702a-aade-e9fe1843af74",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-i-ll-be-home-for-christmas-acoustic",
   title: "I'll Be Home for Christmas (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

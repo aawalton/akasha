@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerComeAsYouAreAcoustic = {
   id: "01a0676a-d71b-7015-984f-862da8d22066",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-come-as-you-are-acoustic",
   title: "Come As You Are (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

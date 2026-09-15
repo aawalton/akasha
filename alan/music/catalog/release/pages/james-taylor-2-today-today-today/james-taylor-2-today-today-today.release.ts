@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2TodayTodayToday = {
   id: "01a0676a-d72f-7009-857b-ba4a7060fe02",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-today-today-today",
   title: "Today Today Today",
   partOfCollections: ["artist/james-taylor"],

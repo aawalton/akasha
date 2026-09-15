@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerWhenIWasYourManAcoustic = {
   id: "01a0676a-d730-7056-be12-67a8da4153d4",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-when-i-was-your-man-acoustic",
   title: "When I Was Your Man (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

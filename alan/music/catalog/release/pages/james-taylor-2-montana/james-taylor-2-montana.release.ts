@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jamesTaylor2Montana = {
   id: "01a0676a-d724-7081-83c1-b776c07c8510",
-  type: "release",
+  type: "page-type/release",
   slug: "james-taylor-2-montana",
   title: "Montana",
   partOfCollections: ["artist/james-taylor"],

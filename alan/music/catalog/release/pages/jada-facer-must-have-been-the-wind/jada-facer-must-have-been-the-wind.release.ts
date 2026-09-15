@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerMustHaveBeenTheWind = {
   id: "01a0676a-d725-7021-a832-4b39bfb2abe6",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-must-have-been-the-wind",
   title: "Must Have Been The Wind",
   partOfCollections: ["artist/jada-facer"],

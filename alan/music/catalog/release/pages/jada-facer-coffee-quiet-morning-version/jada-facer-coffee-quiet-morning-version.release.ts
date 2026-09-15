@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerCoffeeQuietMorningVersion = {
   id: "01a0676a-d71b-7008-bd47-e265403b33ee",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-coffee-quiet-morning-version",
   title: "Coffee (quiet morning version)",
   partOfCollections: ["artist/jada-facer"],

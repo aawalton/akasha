@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerLetMeDownSlowlyAcoustic = {
   id: "01a0676a-d723-700d-9a19-208b1ee0e961",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-let-me-down-slowly-acoustic",
   title: "Let Me Down Slowly (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

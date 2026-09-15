@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerTimeAfterTimeAcoustic = {
   id: "01a0676a-d72e-7044-8701-51f9d5914025",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-time-after-time-acoustic",
   title: "Time After Time (Acoustic)",
   partOfCollections: ["artist/jada-facer"],

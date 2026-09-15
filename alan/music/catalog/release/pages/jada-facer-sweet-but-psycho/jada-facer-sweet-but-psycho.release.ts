@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerSweetButPsycho = {
   id: "01a0676a-d72b-7000-afff-07cace21ac72",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-sweet-but-psycho",
   title: "Sweet but Psycho",
   partOfCollections: ["artist/jada-facer"],

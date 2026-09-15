@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerLookWhatYouMadeMeDo = {
   id: "01a0676a-d723-7061-b042-137c47758c1c",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-look-what-you-made-me-do",
   title: "Look What You Made Me Do",
   partOfCollections: ["artist/jada-facer"],

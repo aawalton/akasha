@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jadaFacerShoutOutToMyExAcousticVersion = {
   id: "01a0676a-d728-707a-8acb-50510eb96a71",
-  type: "release",
+  type: "page-type/release",
   slug: "jada-facer-shout-out-to-my-ex-acoustic-version",
   title: "Shout Out to My Ex (Acoustic Version)",
   partOfCollections: ["artist/jada-facer"],
