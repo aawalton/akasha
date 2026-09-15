@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const rkindaleft = {
   id: "01a06165-cbbf-7000-b607-fd9687ad80e0",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "rkindaleft",
   title: "Rkindaleft",
   zoneQuests: "jsonl",

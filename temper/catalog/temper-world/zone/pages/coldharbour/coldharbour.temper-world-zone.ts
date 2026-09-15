@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const coldharbour = {
   id: "01a06165-cbbc-7009-8df2-25124ca40e78",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "coldharbour",
   title: "Coldharbour",
   esoZoneId: 347,

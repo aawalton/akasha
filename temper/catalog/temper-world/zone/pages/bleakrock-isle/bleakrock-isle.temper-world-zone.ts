@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const bleakrockIsle = {
   id: "01a06165-cbbc-7005-89ae-75c570941290",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "bleakrock-isle",
   title: "Bleakrock Isle",
   esoZoneId: 280,

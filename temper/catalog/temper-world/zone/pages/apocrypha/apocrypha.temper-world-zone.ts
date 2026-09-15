@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const apocrypha = {
   id: "01a06165-cbbb-7001-9f73-4e7be86af69d",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "apocrypha",
   title: "Apocrypha",
   esoZoneId: 1413,

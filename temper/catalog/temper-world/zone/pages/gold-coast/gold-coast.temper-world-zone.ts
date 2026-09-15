@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const goldCoast = {
   id: "01a06165-cbbd-7006-85bf-02e5e947caeb",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "gold-coast",
   title: "Gold Coast",
   esoZoneId: 823,

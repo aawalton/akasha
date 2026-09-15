@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const theValleyOfBlades = {
   id: "01a06165-cbc0-7006-8693-d515671cddc0",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "the-valley-of-blades",
   title: "The Valley of Blades",
   zoneQuests: "jsonl",

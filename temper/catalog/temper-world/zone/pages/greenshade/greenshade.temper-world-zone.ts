@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const greenshade = {
   id: "01a06165-cbbd-7008-baea-0df5d538d11a",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "greenshade",
   title: "Greenshade",
   esoZoneId: 108,

@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const blackwood = {
   id: "01a06165-cbbc-7004-a17c-e3842c8ead50",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "blackwood",
   title: "Blackwood",
   esoZoneId: 1261,

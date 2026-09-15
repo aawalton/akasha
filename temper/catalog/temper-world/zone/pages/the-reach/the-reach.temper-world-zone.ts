@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const theReach = {
   id: "01a06165-cbc0-7003-a383-0977307031e7",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "the-reach",
   title: "The Reach",
   esoZoneId: 1207,

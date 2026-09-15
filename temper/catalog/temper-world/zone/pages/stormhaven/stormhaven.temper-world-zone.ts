@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const stormhaven = {
   id: "01a06165-cbbf-7009-8d94-bf3df8416ce4",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "stormhaven",
   title: "Stormhaven",
   esoZoneId: 19,

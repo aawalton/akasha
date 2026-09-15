@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const betnikh = {
   id: "01a06165-cbbc-7002-96d9-b150587b97a9",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "betnikh",
   title: "Betnikh",
   esoZoneId: 535,

@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const northernElsweyr = {
   id: "01a06165-cbbe-700c-a971-c9cbf7ae9d1a",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "northern-elsweyr",
   title: "Northern Elsweyr",
   esoZoneId: 1086,

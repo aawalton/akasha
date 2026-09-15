@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const nightMarket = {
   id: "01a06165-cbbe-700b-9254-283da1ea6832",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "night-market",
   title: "Night Market",
   zoneQuests: "jsonl",

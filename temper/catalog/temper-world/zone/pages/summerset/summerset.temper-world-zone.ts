@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const summerset = {
   id: "01a06165-cbbf-700b-84af-a901d4278eaf",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "summerset",
   title: "Summerset",
   esoZoneId: 1011,

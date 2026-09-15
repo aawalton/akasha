@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const wrothgar = {
   id: "01a06165-cbc0-700c-a29c-f6827b8f8e53",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "wrothgar",
   title: "Wrothgar",
   esoZoneId: 684,

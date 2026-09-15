@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const galen = {
   id: "01a06165-cbbd-7004-bb82-16f8665461c5",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "galen",
   title: "Galen",
   esoZoneId: 1383,

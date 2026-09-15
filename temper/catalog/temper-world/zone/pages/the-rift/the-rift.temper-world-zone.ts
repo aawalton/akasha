@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const theRift = {
   id: "01a06165-cbc0-7004-b257-a8ba4ad8f236",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "the-rift",
   title: "The Rift",
   esoZoneId: 103,

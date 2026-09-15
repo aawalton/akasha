@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const auridon = {
   id: "01a06165-cbbb-7002-aaf9-a2ac80894b3d",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "auridon",
   title: "Auridon",
   esoZoneId: 381,

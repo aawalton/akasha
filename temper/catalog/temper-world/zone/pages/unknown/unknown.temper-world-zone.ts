@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const unknown = {
   id: "01a06165-cbc0-7008-8bff-4ddf3737f68e",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "unknown",
   title: "Unknown",
   zoneQuests: "jsonl",

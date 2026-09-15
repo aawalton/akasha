@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const theHallsOfTorment = {
   id: "01a06165-cbc0-7001-af5d-5d307e274898",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "the-halls-of-torment",
   title: "The Halls of Torment",
   zoneQuests: "jsonl",

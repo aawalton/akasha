@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const craglorn = {
   id: "01a06165-cbbc-700a-8370-35ccfba742ef",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "craglorn",
   title: "Craglorn",
   esoZoneId: 888,

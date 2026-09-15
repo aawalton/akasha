@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const murkmire = {
   id: "01a06165-cbbe-700a-8ee5-87c48e13b373",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "murkmire",
   title: "Murkmire",
   esoZoneId: 726,

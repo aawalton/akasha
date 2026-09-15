@@ -2,7 +2,7 @@ import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/te
 
 export const theScholarium = {
   id: "01a06165-cbc0-7005-bd68-4bf08054a036",
-  type: "temper-world-zone",
+  type: "page-type/temper-world-zone",
   slug: "the-scholarium",
   title: "The Scholarium",
   zoneQuests: "jsonl",
