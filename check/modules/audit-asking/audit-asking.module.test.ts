@@ -5,13 +5,10 @@ import {
   asked,
   refusalsIn,
   unrunIn,
+  type Verdicts,
 } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import { requestsIn } from "akasha/check/modules/audit-request/audit-request.module.code.ts"
-import {
-  type Verdict,
-  type Verdicts,
-  verdictsWrite,
-} from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
+import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
@@ -24,6 +21,10 @@ const NOW = "2026-09-11T00:00:00.000Z"
 const CLEAN: Verdict = { commit: "a", ranAt: NOW, refusals: [], unrun: false }
 
 const ONE = ["typecheck"]
+
+function holding(verdict?: Verdict): Map<string, Verdict> {
+  return verdict === undefined ? new Map() : new Map([["typecheck", verdict]])
+}
 
 async function repoOf(commits: number): Promise<{ root: string; made: readonly string[] }> {
   const root = scratch.rootFor("akasha-audit-asking-")
@@ -42,14 +43,14 @@ async function repoOf(commits: number): Promise<{ root: string; made: readonly s
 
 test("a check every verdict already answers for is owed no round", async () => {
   const { root, made } = await repoOf(1)
-  const home = scratch.rootFor("akasha-audit-asking-home-")
-  verdictsWrite(home, { typecheck: { ...CLEAN, commit: made[0] ?? "" } })
+  const held = holding({ ...CLEAN, commit: made[0] ?? "" })
   let rounds = 0
   const told = await asked({
     root,
-    home,
+    home: scratch.rootFor("akasha-audit-asking-home-"),
     checks: ONE,
     commit: made[0] ?? "",
+    verdicts: () => held,
     round: () => {
       rounds += 1
       return null
@@ -61,14 +62,14 @@ test("a check every verdict already answers for is owed no round", async () => {
 
 test("a verdict at an ancestor of the commit asked answers for nothing", async () => {
   const { root, made } = await repoOf(2)
-  const home = scratch.rootFor("akasha-audit-asking-home-")
-  verdictsWrite(home, { typecheck: { ...CLEAN, commit: made[0] ?? "" } })
+  const held = holding({ ...CLEAN, commit: made[0] ?? "" })
   let rounds = 0
   const told = await asked({
     root,
-    home,
+    home: scratch.rootFor("akasha-audit-asking-home-"),
     checks: ONE,
     commit: made[1] ?? "",
+    verdicts: () => held,
     round: () => {
       rounds += 1
       return null
@@ -80,18 +81,17 @@ test("a verdict at an ancestor of the commit asked answers for nothing", async (
 
 test("a round whose verdict answers ends the asking", async () => {
   const { root, made } = await repoOf(1)
-  const home = scratch.rootFor("akasha-audit-asking-home-")
+  const held = holding()
   let rounds = 0
   const told = await asked({
     root,
-    home,
+    home: scratch.rootFor("akasha-audit-asking-home-"),
     checks: ONE,
     commit: made[0] ?? "",
+    verdicts: () => held,
     round: () => {
       rounds += 1
-      verdictsWrite(home, {
-        typecheck: { ...CLEAN, commit: made[0] ?? "", refusals: ["one.ts — no"] },
-      })
+      held.set("typecheck", { ...CLEAN, commit: made[0] ?? "", refusals: ["one.ts — no"] })
       return null
     },
   })
@@ -109,6 +109,7 @@ test("a round that would not start leaves every check it was owed unanswered", a
     home,
     checks: ONE,
     commit: made[0] ?? "",
+    verdicts: holding,
     round: () => {
       rounds += 1
       return "the unit would not start"
@@ -122,15 +123,17 @@ test("a round that would not start leaves every check it was owed unanswered", a
 test("a check owed a round is asked for by name before that round starts", async () => {
   const { root, made } = await repoOf(1)
   const home = scratch.rootFor("akasha-audit-asking-home-")
+  const held = holding()
   let asking: readonly string[] = []
   await asked({
     root,
     home,
     checks: ONE,
     commit: made[0] ?? "",
+    verdicts: () => held,
     round: () => {
       asking = requestsIn(home)
-      verdictsWrite(home, { typecheck: { ...CLEAN, commit: made[0] ?? "" } })
+      held.set("typecheck", { ...CLEAN, commit: made[0] ?? "" })
       return null
     },
   })
@@ -146,6 +149,7 @@ test("a name that is no check slug leaves the round unasked", async () => {
     home,
     checks: ["Not A Slug"],
     commit: made[0] ?? "",
+    verdicts: holding,
     round: () => {
       rounds += 1
       return null
@@ -158,17 +162,17 @@ test("a name that is no check slug leaves the round unasked", async () => {
 
 async function threwAfter(turns: number): Promise<readonly string[]> {
   const { root, made } = await repoOf(2)
-  const home = scratch.rootFor("akasha-audit-asking-home-")
-  verdictsWrite(home, { typecheck: { ...CLEAN, commit: made[0] ?? "" } })
+  const held = holding({ ...CLEAN, commit: made[0] ?? "" })
   const done: string[] = []
   let rounds = 0
   await expect(
     asked({
       root,
-      home,
+      home: scratch.rootFor("akasha-audit-asking-home-"),
       checks: ONE,
       commit: made[1] ?? "",
       done,
+      verdicts: () => held,
       round: () => {
         rounds += 1
         if (rounds > turns) throw new Error("the unit died mid-round")
@@ -179,6 +183,18 @@ async function threwAfter(turns: number): Promise<readonly string[]> {
   return done
 }
 
+test("a round handed no reading reads each check's own audit log", async () => {
+  const told = await asked({
+    root: process.cwd(),
+    home: scratch.rootFor("akasha-audit-asking-home-"),
+    checks: [],
+    commit: "HEAD",
+    round: () => "no round starts here",
+  })
+  expect(told.broken).toBeNull()
+  expect(told.unanswered).toEqual([])
+})
+
 test("a round that ran is named on the list the caller hands in", async () => {
   expect(await threwAfter(1)).toEqual(["typecheck"])
 })
@@ -188,10 +204,10 @@ test("a fault before any round started names nothing on that list", async () => 
 })
 
 test("a refusal is named with the check that refused it and the commit it is at", () => {
-  const verdicts: Verdicts = {
-    typecheck: { ...CLEAN, refusals: ["one.ts — no"] },
-    "lint-clean": { ...CLEAN, refusals: ["two.ts — no"] },
-  }
+  const verdicts: Verdicts = new Map([
+    ["typecheck", { ...CLEAN, refusals: ["one.ts — no"] }],
+    ["lint-clean", { ...CLEAN, refusals: ["two.ts — no"] }],
+  ])
   expect(refusalsIn(verdicts, ["typecheck", "lint-clean"])).toEqual([
     "typecheck at a — one.ts — no",
     "lint-clean at a — two.ts — no",
@@ -199,9 +215,9 @@ test("a refusal is named with the check that refused it and the commit it is at"
 })
 
 test("a check that could not run is named apart from a check that refused", () => {
-  const verdicts: Verdicts = {
-    typecheck: { ...CLEAN, refusals: ["one.ts — no"] },
-    "lint-clean": { ...CLEAN, unrun: true },
-  }
+  const verdicts: Verdicts = new Map([
+    ["typecheck", { ...CLEAN, refusals: ["one.ts — no"] }],
+    ["lint-clean", { ...CLEAN, unrun: true }],
+  ])
   expect(unrunIn(verdicts, ["typecheck", "lint-clean"])).toEqual(["lint-clean"])
 })

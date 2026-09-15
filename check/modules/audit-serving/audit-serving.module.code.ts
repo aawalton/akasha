@@ -11,12 +11,10 @@ import {
   commitHeld,
   measured,
   type Verdict,
-  verdictKept,
+  verdictAnswered,
+  verdictLogged,
   verdictOver,
   verdictRecorded,
-  verdictsAt,
-  verdictsRead,
-  verdictsWrite,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
@@ -109,7 +107,8 @@ const REFUSING = "newly refusing"
 
 const NOTHING_MEASURED = "nothing measured"
 
-const WHOLE = "holds what each of them answered, whole."
+const WHOLE =
+  "what each of them answered is on the newest row of the audit log beside that check's page."
 
 const underway = new Map<string, Promise<Ran>>()
 
@@ -292,14 +291,20 @@ export function keyFor(given: Asking): string {
   return [given.home, given.check.slug, given.over.commit].join(PARTED)
 }
 
+export function verdictFor(given: Asking): Verdict | null {
+  return verdictLogged(given.root, given.check.page, AUDIT_LOGS)
+}
+
+function verdictPut(given: Asking, verdict: Verdict): undefined {
+  verdictAnswered(given.root, given.check.page, given.check.slug, verdict, AUDIT_LOGS)
+}
+
 async function ranFor(given: Asking): Promise<Ran> {
   const run = given.run ?? gated
   const slug = given.check.slug
   const answered = async (): Promise<Verdict | null> => {
-    const verdicts = verdictsRead(given.home)
-    const held = verdicts[slug]
-    if (held === undefined) return null
-    return (await cleanAt(given.root, verdicts, slug, given.asked)) ? held : null
+    const held = verdictFor(given)
+    return (await cleanAt(given.root, held, given.asked)) ? held : null
   }
   const already = await answered()
   if (already !== null) return { check: slug, verdict: already, ran: false }
@@ -309,15 +314,15 @@ async function ranFor(given: Asking): Promise<Ran> {
     async (): Promise<Ran> => {
       const taken = await answered()
       if (taken !== null) return { check: slug, verdict: taken, ran: false }
-      const last = verdictsRead(given.home)[slug]
-      const carried = last === undefined ? null : await carriedOn(given, last)
+      const last = verdictFor(given)
+      const carried = last === null ? null : await carriedOn(given, last)
       if (carried !== null) {
-        verdictsWrite(given.home, verdictKept(verdictsRead(given.home), slug, carried))
+        verdictPut(given, carried)
         return { check: slug, verdict: carried, ran: false }
       }
       const found = await run(given.check, given.over.change)
       const verdict = verdictOf(found, given.over, new Date().toISOString())
-      verdictsWrite(given.home, verdictKept(verdictsRead(given.home), slug, verdict))
+      if (verdictFor(given)?.commit !== verdict.commit) verdictPut(given, verdict)
       return { check: slug, verdict, ran: true }
     },
     WAITED
@@ -342,9 +347,9 @@ function refusalPath(said: string): string {
   return at === -1 ? said : said.slice(0, at)
 }
 
-export function refusalsNew(before: Verdict | undefined, after: Verdict): readonly string[] {
+export function refusalsNew(before: Verdict | null, after: Verdict): readonly string[] {
   if (cleanly(after)) return []
-  if (before === undefined) return after.refusals
+  if (before === null) return after.refusals
   const had = new Set(before.refusals.map(refusalPath))
   return after.refusals.filter((one) => !had.has(refusalPath(one)))
 }
@@ -369,13 +374,13 @@ function saidOf(one: Ran): readonly string[] {
   ]
 }
 
-export function bodyFor(red: readonly Ran[], commit: string, home: string): string {
+export function bodyFor(red: readonly Ran[], commit: string): string {
   const refused = red.filter((one) => measured(one.verdict))
   const unmeasured = red.filter((one) => !measured(one.verdict))
   return [
     headFor(commit, refused.length, unmeasured.length),
     ...heldTo([...refused, ...unmeasured].flatMap(saidOf), BODY_CEILING),
-    `${verdictsAt(home)} ${WHOLE}`,
+    WHOLE,
   ].join("\n")
 }
 
@@ -405,15 +410,9 @@ export async function serving(given: Serving): Promise<Told> {
   const ran: Ran[] = []
   const red: Ran[] = []
   for (const one of roundOver(checksIn(given.root), asked)) {
-    const before = verdictsRead(given.home)[one.slug]
-    const said = await auditOne({
-      ...given,
-      check: one,
-      over,
-      asked: over.commit,
-      moved,
-      shadow,
-    })
+    const asking: Asking = { ...given, check: one, over, asked: over.commit, moved, shadow }
+    const before = verdictFor(asking)
+    const said = await auditOne(asking)
     ran.push(said)
     const fresh = refusalsNew(before, said.verdict)
     if (fresh.length > 0) red.push({ ...said, verdict: { ...said.verdict, refusals: fresh } })
@@ -422,7 +421,7 @@ export async function serving(given: Serving): Promise<Told> {
   const turned = red.map((one) => one.check)
   if (red.length === 0) return { ran, turned, refused: [] }
   const to = given.to ?? championOf(given.root)
-  const why = await telling(send, to, bodyFor(red, over.commit, given.home))
+  const why = await telling(send, to, bodyFor(red, over.commit))
   return { ran, turned, refused: why === null ? [] : [why] }
 }
 

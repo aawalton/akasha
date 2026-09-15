@@ -18,6 +18,22 @@ export const auditAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A check's verdict is read from the audit log beside that check's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page a check's slug names is read from the index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check the index names no page for has no verdict, so it goes unanswered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller may hand over a reading of its own in place of that one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A verdict at the commit asked or at a descendant of it answers for that commit.",
     },
     {

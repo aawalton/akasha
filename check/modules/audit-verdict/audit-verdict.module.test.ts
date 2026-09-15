@@ -7,16 +7,13 @@ import {
   cleanly,
   commitHeld,
   measured,
-  verdictIn,
-  verdictKept,
+  verdictAnswered,
+  verdictLogged,
   verdictOver,
   verdictRecorded,
-  verdictsAt,
-  verdictsIn,
-  verdictsRead,
-  verdictsWrite,
+  verdictRowIn,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
-import type { Cost } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import { type Cost, recordCost } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
@@ -77,27 +74,33 @@ async function repoOf(commits: number): Promise<{ root: string; made: readonly s
   return { root, made }
 }
 
-test("a verdict written is read back whole", () => {
-  const home = scratch.rootFor("akasha-audit-verdict-home-")
-  verdictsWrite(home, { typecheck: CLEAN })
-  expect(verdictsRead(home)).toEqual({ typecheck: CLEAN })
+test("a row naming no commit carries no verdict", () => {
+  expect(verdictRowIn("{ this is no json")).toBeNull()
+  expect(verdictRowIn(JSON.stringify({ ranAt: "now", refused: [] }))).toBeNull()
+  expect(verdictRowIn(JSON.stringify({ commit: "", ranAt: "now", refused: [] }))).toBeNull()
 })
 
-test("a home with no file yet holds no verdict", () => {
-  expect(verdictsRead(scratch.rootFor("akasha-audit-verdict-home-"))).toEqual({})
+test("a row recording a cost alone carries no verdict", () => {
+  expect(verdictRowIn(JSON.stringify({ ...COST, ran: "typecheck" }))).toBeNull()
 })
 
-test("a file that will not parse holds no verdict rather than throwing", () => {
-  const home = scratch.rootFor("akasha-audit-verdict-home-")
-  verdictsWrite(home, {})
-  writeFileSync(verdictsAt(home), "{ this is no json", "utf8")
-  expect(verdictsRead(home)).toEqual({})
+test("a row recording a verdict is read back whole", () => {
+  const said = JSON.stringify({ commit: "a", ranAt: CLEAN.ranAt, refused: ["one.ts — no"] })
+  expect(verdictRowIn(said)).toEqual({ ...CLEAN, refusals: ["one.ts — no"] })
 })
 
-test("an entry naming no commit is dropped rather than carried", () => {
-  expect(verdictIn({ ranAt: "now", refusals: [], unrun: false })).toBeNull()
-  expect(verdictIn({ commit: "", ranAt: "now", refusals: [] })).toBeNull()
-  expect(verdictsIn({ one: CLEAN, two: { ranAt: "now" } })).toEqual({ one: CLEAN })
+test("the verdict a log holds is the one on its newest verdict-bearing row", () => {
+  const root = pageIn()
+  verdictAnswered(root, PAGE, "typecheck", { ...CLEAN, refusals: ["one.ts — no"] }, LOGS)
+  verdictRecorded(root, PAGE, COST, { ...CLEAN, commit: "b" }, LOGS)
+  recordCost(root, PAGE, COST, LOGS)
+  const found = verdictLogged(root, PAGE, LOGS)
+  expect(found?.commit).toBe("b")
+  expect(found?.refusals).toEqual([])
+})
+
+test("a page whose log is not there yet holds no verdict", () => {
+  expect(verdictLogged(pageIn(), PAGE, LOGS)).toBeNull()
 })
 
 test("a verdict is clean where the check ran and refused nothing", () => {
@@ -112,12 +115,6 @@ test("a verdict is measured where the check ran, whatever that check refused", (
   expect(measured({ ...CLEAN, unrun: true })).toBe(false)
 })
 
-test("keeping a verdict leaves the verdicts beside it as they were", () => {
-  const held = verdictKept({ one: CLEAN }, "two", { ...CLEAN, commit: "b" })
-  expect(held.one).toEqual(CLEAN)
-  expect(held.two?.commit).toBe("b")
-})
-
 test("a commit is at or after itself and at or after every commit it descends from", async () => {
   const { root, made } = await repoOf(3)
   const [first, , last] = made
@@ -129,17 +126,17 @@ test("a commit is at or after itself and at or after every commit it descends fr
 test("a clean verdict answers for the commit it ran at and every ancestor of it", async () => {
   const { root, made } = await repoOf(2)
   const [first, last] = made
-  const verdicts = { typecheck: { ...CLEAN, commit: last ?? "" } }
-  expect(await cleanAt(root, verdicts, "typecheck", first ?? "")).toBe(true)
-  expect(await cleanAt(root, verdicts, "typecheck", last ?? "")).toBe(true)
-  expect(await cleanAt(root, verdicts, "lint-clean", first ?? "")).toBe(false)
+  const held = { ...CLEAN, commit: last ?? "" }
+  expect(await cleanAt(root, held, first ?? "")).toBe(true)
+  expect(await cleanAt(root, held, last ?? "")).toBe(true)
+  expect(await cleanAt(root, null, first ?? "")).toBe(false)
 })
 
 test("a verdict that refused answers for no commit at all", async () => {
   const { root, made } = await repoOf(1)
   const [only] = made
-  const verdicts = { typecheck: { ...CLEAN, commit: only ?? "", refusals: ["one refused"] } }
-  expect(await cleanAt(root, verdicts, "typecheck", only ?? "")).toBe(false)
+  const held = { ...CLEAN, commit: only ?? "", refusals: ["one refused"] }
+  expect(await cleanAt(root, held, only ?? "")).toBe(false)
 })
 
 test("a verdict over what a check judged names each path and says whether it ran", () => {
@@ -183,9 +180,16 @@ test("a refusal too long for a row is shortened rather than written whole", () =
 
 test("more refusals than a row holds are left off, and the row says how many there were", () => {
   const root = pageIn()
-  const many = Array.from({ length: 400 }, (_, at) => `akasha/${at}.ts — ${"no ".repeat(90)}`)
+  const many = Array.from({ length: 1000 }, (_, at) => `akasha/${at}.ts — ${"no ".repeat(90)}`)
   verdictRecorded(root, PAGE, COST, { ...CLEAN, refusals: many }, LOGS)
   const refused = rowIn(root)["refused"] as readonly string[]
   expect(refused.length).toBeLessThan(many.length)
-  expect(refused[refused.length - 1]).toContain("400 refusals in all")
+  expect(refused[refused.length - 1]).toContain("1000 refusals in all")
+})
+
+test("every refusal a check with hundreds of them found is on the row", () => {
+  const root = pageIn()
+  const many = Array.from({ length: 200 }, (_, at) => `akasha/${at}.ts — ${"no ".repeat(60)}`)
+  verdictRecorded(root, PAGE, COST, { ...CLEAN, refusals: many }, LOGS)
+  expect((rowIn(root)["refused"] as readonly string[]).length).toBe(many.length)
 })

@@ -43,33 +43,11 @@ export const auditVerdict = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A verdict is kept outside the repository whose audits take it.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A home has one verdicts file, and its checkouts sit at different commits.",
+      statement: "A verdict is kept in the repository whose audits take it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A verdict missing a field its reader expects is dropped whole rather than in part.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Changing what a verdict states is a migration over every checkout rather than an edit.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The verdicts are kept beside the units as the outages are.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A file that will not parse is read as holding no verdict rather than throwing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An entry naming no commit is dropped rather than carried.",
+      statement: "A check's verdict is kept beside that check's page rather than beside the rest.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,16 +56,68 @@ export const auditVerdict = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A row states the refusal texts under `refused` beside their count under `refusals`.",
+        "A check's verdict is the one on the newest row of its audit log stating a commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row stating no commit is a cost alone, and the reader walks past it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row that will not parse is read as no verdict rather than throwing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The newest numbered file of the log is read first, and the one before it after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A verdict no run took states the commit it answers for and no elapsed time.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A refusal text is held to four thousand characters and the texts to twenty-four thousand bytes.",
+        "A row states the refusal texts under `refused` beside their count under `refusals`.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "An audit log is appended to and swept on a window, so an unbounded row fills it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal text is held to four thousand characters.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row's refusal texts are held to a hundred and twenty thousand bytes.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "One check now holds two hundred and twelve thousand bytes in one refusal.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Another holds forty-three thousand bytes over a hundred and seventy-one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The texts ceiling is above what every check now refusing produces.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal left off the row would read as new again every round after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A text cut short says how many characters and lines went.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row that left refusals off says how many there were in all.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No answer drawn from a row reads as whole where that row cut something.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -65,6 +65,14 @@ export const checkMeasuring = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A row stating no elapsed time records no run, and is read as no record at all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a row is a verdict an audit reached without running the check.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A record's run is the run id that record has.",
     },
     {

@@ -1,5 +1,5 @@
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import { type Cost, recorded } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
@@ -8,13 +8,17 @@ import {
 } from "akasha/check/modules/refusal-holding/refusal-holding.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
+import { FIRST_PART } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 import { textOnDisk } from "akasha/util/fs/modules/text-on-disk/text-on-disk.module.code.ts"
-
-const KEPT = ".local/state/workstation-services/audit-verdicts.json"
 
 const REFUSAL_CEILING = 4000
 
-const REFUSED_CEILING = 24000
+const REFUSED_CEILING = 120000
+
+const HELD = "jsonl"
+
+const PHASE = "audit"
 
 export type Verdict = {
   readonly commit: string
@@ -23,55 +27,49 @@ export type Verdict = {
   readonly unrun: boolean
 }
 
-export type Verdicts = Readonly<Record<string, Verdict>>
-
-export function verdictsAt(home: string): string {
-  return join(home, KEPT)
-}
-
-export function verdictIn(held: unknown): Verdict | null {
+export function verdictRowIn(line: string): Verdict | null {
+  let held: unknown
+  try {
+    held = JSON.parse(line)
+  } catch {
+    return null
+  }
   if (held === null || typeof held !== "object" || Array.isArray(held)) return null
   const said = held as Record<string, unknown>
   const commit = said.commit
   const ranAt = said.ranAt
+  const refused = said.refused
   if (typeof commit !== "string" || commit === "") return null
-  if (typeof ranAt !== "string") return null
-  const refusals = Array.isArray(said.refusals)
-    ? said.refusals.filter((one): one is string => typeof one === "string")
-    : []
-  return { commit, ranAt, refusals, unrun: said.unrun === true }
-}
-
-export function verdictsIn(held: unknown): Verdicts {
-  if (held === null || typeof held !== "object" || Array.isArray(held)) return {}
-  const kept: Record<string, Verdict> = {}
-  for (const [slug, one] of Object.entries(held as Record<string, unknown>)) {
-    const said = verdictIn(one)
-    if (said !== null) kept[slug] = said
+  if (typeof ranAt !== "string" || !Array.isArray(refused)) return null
+  return {
+    commit,
+    ranAt,
+    refusals: refused.filter((one): one is string => typeof one === "string"),
+    unrun: said.unrun === true,
   }
-  return kept
 }
 
-export function verdictsRead(home: string): Verdicts {
-  const text = textOnDisk(verdictsAt(home))
-  if (text === null) return {}
-  let held: unknown
-  try {
-    held = JSON.parse(text)
-  } catch {
-    return {}
+function partsThere(root: string, page: string, under: string): readonly string[] {
+  const found: string[] = []
+  for (let part = FIRST_PART; ; part += 1) {
+    const at = uncommittedPartAt(page, under, HELD, part)
+    if (at === null || !existsSync(join(root, at))) return found
+    found.push(at)
   }
-  return verdictsIn(held)
 }
 
-export function verdictsWrite(home: string, verdicts: Verdicts): undefined {
-  const at = verdictsAt(home)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, `${JSON.stringify(verdicts, null, 2)}\n`)
-}
-
-export function verdictKept(verdicts: Verdicts, check: string, verdict: Verdict): Verdicts {
-  return { ...verdicts, [check]: verdict }
+export function verdictLogged(root: string, page: string, under: string): Verdict | null {
+  const parts = partsThere(root, page, under)
+  for (let part = parts.length - 1; part >= 0; part -= 1) {
+    const text = textOnDisk(join(root, parts[part] ?? ""))
+    if (text === null) continue
+    const lines = text.split("\n")
+    for (let line = lines.length - 1; line >= 0; line -= 1) {
+      const said = verdictRowIn(lines[line] ?? "")
+      if (said !== null) return said
+    }
+  }
+  return null
 }
 
 export function measured(verdict: Verdict): boolean {
@@ -89,13 +87,11 @@ export async function atOrAfter(root: string, asked: string, ran: string): Promi
 
 export async function cleanAt(
   root: string,
-  verdicts: Verdicts,
-  check: string,
+  verdict: Verdict | null,
   asked: string
 ): Promise<boolean> {
-  const held = verdicts[check]
-  if (held === undefined || !cleanly(held)) return false
-  return await atOrAfter(root, asked, held.commit)
+  if (verdict === null || !cleanly(verdict)) return false
+  return await atOrAfter(root, asked, verdict.commit)
 }
 
 export function verdictOver(found: readonly Judged[], commit: string, ranAt: string): Verdict {
@@ -141,4 +137,22 @@ export function verdictRecorded(
   under: string
 ): string | null {
   return recorded(root, page, `${JSON.stringify(loggedOf(cost, verdict))}\n`, under)
+}
+
+export function verdictAnswered(
+  root: string,
+  page: string,
+  ran: string,
+  verdict: Verdict,
+  under: string
+): string | null {
+  const said = {
+    ran,
+    phase: PHASE,
+    ranAt: verdict.ranAt,
+    commit: verdict.commit,
+    refused: refusedHeld(verdict.refusals),
+    unrun: verdict.unrun,
+  }
+  return recorded(root, page, `${JSON.stringify(said)}\n`, under)
 }

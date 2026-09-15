@@ -7,6 +7,7 @@ export const auditServing = {
   definition: "one check's audit run under a turn of its own, and the round running them all",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -154,7 +155,7 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message names the file holding what each check answered, whole.",
+      statement: "A message names where what each check answered is kept.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -169,6 +170,22 @@ export const auditServing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A verdict is written as each check is judged rather than once the round is over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A verdict is read from the audit log beside the check's own page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The process that judged a check writes that check's verdict.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A verdict is written here only where the log holds none at the commit asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A carried verdict is written here, no process having run to write it.",
     },
     {
       decisionKind: "decision-kind/departure",

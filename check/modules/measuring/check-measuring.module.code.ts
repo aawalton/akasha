@@ -173,8 +173,9 @@ function rowsIn(body: string): readonly string[] {
   return body.split("\n").filter((one) => one.trim() !== "")
 }
 
-function runIn(row: string): Run {
+function runIn(row: string): Run | null {
   const one = JSON.parse(row) as Record<string, unknown>
+  if (one["wallMs"] === undefined) return null
   const said = one["runId"]
   return {
     runId: typeof said === "string" && said !== "" ? said : null,
@@ -197,7 +198,8 @@ function rowsRead(rows: readonly string[]): Rows {
   let torn = 0
   for (const one of rows) {
     try {
-      runs.push(runIn(one))
+      const found = runIn(one)
+      if (found !== null) runs.push(found)
     } catch {
       torn += 1
     }

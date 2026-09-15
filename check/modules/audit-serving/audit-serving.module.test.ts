@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { existsSync } from "node:fs"
 import {
   auditOne,
   bodyFor,
@@ -20,61 +19,26 @@ import {
   verdictOf,
 } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import {
+  CLEAN,
+  checked,
+  gathered,
+  LOGS,
+  NOTHING,
+  NOW,
+  repoOf,
+  scratch,
+  taking,
+} from "akasha/check/modules/audit-serving/audit-serving.module.test-fixtures.ts"
+import {
   type Verdict,
-  verdictsRead,
-  verdictsWrite,
+  verdictAnswered,
+  verdictLogged,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
-import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-
-const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-const NOW = "2026-09-11T00:00:00.000Z"
-
-const CLEAN: Verdict = { commit: "a", ranAt: NOW, refusals: [], unrun: false }
-
-const NOTHING: Change = {
-  root: "/nowhere",
-  changed: [],
-  before: () => null,
-  after: () => null,
-}
-
-function gathered(slug: string, root: string): Gathered {
-  return {
-    slug,
-    page: `check/code/pages/${slug}/${slug}.check-code.ts`,
-    root,
-    runsOn: ["audit"],
-    isInput: null,
-    run: () => [],
-  }
-}
-
-function taking(slug: string, root: string, ending: string): Gathered {
-  return { ...gathered(slug, root), isInput: (path) => path.endsWith(ending) }
-}
-
-async function repoOf(commits: number): Promise<{ root: string; made: readonly string[] }> {
-  const root = scratch.rootFor("akasha-audit-serving-")
-  await runGit(["init", "-q", "-b", "main"], root)
-  await runGit(["config", "user.email", "serving@example.com"], root)
-  await runGit(["config", "user.name", "serving"], root)
-  const made: string[] = []
-  for (let at = 0; at < commits; at += 1) {
-    writeFileSync(join(root, "one.txt"), `${at}\n`, "utf8")
-    await runGit(["add", "one.txt"], root)
-    await runGit(["commit", "-q", "-m", `${at}`], root)
-    made.push((await runGit(["rev-parse", "HEAD"], root)).stdout)
-  }
-  return { root, made }
-}
 
 test("the commit a run answers for is the commit the repository is at", async () => {
   const { root, made } = await repoOf(2)
@@ -106,7 +70,7 @@ test("a run that refused nothing leaves a clean verdict", () => {
 test("a refusal a check did not have before is new, and one it had is not", () => {
   const red: Verdict = { ...CLEAN, refusals: ["one.ts — no"] }
   const both: Verdict = { ...CLEAN, refusals: ["one.ts — no", "two.ts — no"] }
-  expect(refusalsNew(undefined, red)).toEqual(["one.ts — no"])
+  expect(refusalsNew(null, red)).toEqual(["one.ts — no"])
   expect(refusalsNew(red, red)).toEqual([])
   expect(refusalsNew(red, both)).toEqual(["two.ts — no"])
   expect(refusalsNew(red, { ...CLEAN, refusals: ["one.ts — at one"] })).toEqual([])
@@ -212,13 +176,12 @@ test("two askers join one run only where check, home and commit all agree", () =
 test("what the one told reads names every check that turned and what each refused", () => {
   const said = bodyFor(
     [{ check: "typecheck", verdict: { ...CLEAN, refusals: ["one.ts — no"] }, ran: true }],
-    "abc",
-    "/h"
+    "abc"
   )
   expect(said).toContain("typecheck")
   expect(said).toContain("one.ts — no")
   expect(said).toContain("abc")
-  expect(said).toContain("/h/.local/state/workstation-services/audit-verdicts.json")
+  expect(said).toContain("the audit log beside that check's page")
   expect(said).toContain("1 check newly refusing.")
 })
 
@@ -226,12 +189,12 @@ test("a check nothing measured is told and counted apart from one that refused",
   const killed = { ...CLEAN, refusals: ["two.ts — died on SIGKILL apart"], unrun: true }
   const two = { check: "no-re-export", verdict: killed, ran: true }
   const one = { check: "typecheck", verdict: { ...CLEAN, refusals: ["one.ts — no"] }, ran: true }
-  const said = bodyFor([one, two], "abc", "/h")
+  const said = bodyFor([one, two], "abc")
   expect(said).toContain("found 1 check newly refusing and 1 check nothing measured.")
   expect(said).toContain("`typecheck` refused 1 time:")
   expect(said).toContain("`no-re-export` went unmeasured:")
   expect(said).toContain("died on SIGKILL apart")
-  const alone = bodyFor([two], "abc", "/h")
+  const alone = bodyFor([two], "abc")
   expect(alone).toContain("the audit at abc found 1 check nothing measured.")
   expect(alone).not.toContain("refus")
 })
@@ -240,8 +203,7 @@ test("a refusal too long for a message is shortened to say how much of it went",
   const whole = `68 test files failed:\n${"a/b.test.ts\n".repeat(400)}`
   const said = bodyFor(
     [{ check: "tests-pass", verdict: { ...CLEAN, refusals: [whole] }, ran: true }],
-    "abc",
-    "/h"
+    "abc"
   )
   expect(said).toContain("68 test files failed:")
   expect(said).toContain("lines more)")
@@ -255,36 +217,37 @@ test("a message is held to the words a message page carries", () => {
     verdict: { ...CLEAN, refusals: [one] },
     ran: true,
   }))
-  const said = bodyFor(red, "abc", "/h")
+  const said = bodyFor(red, "abc")
   expect(new TextEncoder().encode(said).length).toBeLessThan(20000)
-  expect(said).toContain("audit-verdicts.json")
+  expect(said).toContain("the audit log beside that check's page")
 })
 
 test("a check with no verdict yet is run, and the verdict is kept", async () => {
   const { root, made } = await repoOf(1)
-  const home = scratch.rootFor("akasha-audit-serving-home-")
+  const one = checked("typecheck", root)
   const over: Over = { change: NOTHING, commit: made[0] ?? "" }
   const ran = await auditOne({
     root,
-    home,
-    check: gathered("typecheck", root),
+    home: scratch.rootFor("akasha-audit-serving-home-"),
+    check: one,
     over,
     asked: over.commit,
     run: async () => [],
   })
   expect(ran.ran).toBe(true)
   expect(ran.verdict.commit).toBe(over.commit)
-  expect(verdictsRead(home).typecheck?.refusals).toEqual([])
+  expect(verdictLogged(root, one.page, LOGS)?.commit).toBe(over.commit)
+  expect(verdictLogged(root, one.page, LOGS)?.refusals).toEqual([])
 })
 
 test("an asker whose check is clean at the asker's commit starts no run", async () => {
   const { root, made } = await repoOf(2)
-  const home = scratch.rootFor("akasha-audit-serving-home-")
-  verdictsWrite(home, { typecheck: { ...CLEAN, commit: made[1] ?? "" } })
+  const one = checked("typecheck", root)
+  verdictAnswered(root, one.page, one.slug, { ...CLEAN, commit: made[1] ?? "" }, LOGS)
   const ran = await auditOne({
     root,
-    home,
-    check: gathered("typecheck", root),
+    home: scratch.rootFor("akasha-audit-serving-home-"),
+    check: one,
     over: { change: NOTHING, commit: made[1] ?? "" },
     asked: made[0] ?? "",
     run: async () => {
@@ -296,28 +259,48 @@ test("an asker whose check is clean at the asker's commit starts no run", async 
 
 test("an asker at a commit after the verdict is run again", async () => {
   const { root, made } = await repoOf(2)
-  const home = scratch.rootFor("akasha-audit-serving-home-")
-  verdictsWrite(home, { typecheck: { ...CLEAN, commit: made[0] ?? "" } })
+  const one = checked("typecheck", root)
+  verdictAnswered(root, one.page, one.slug, { ...CLEAN, commit: made[0] ?? "" }, LOGS)
   const ran = await auditOne({
     root,
-    home,
-    check: gathered("typecheck", root),
+    home: scratch.rootFor("akasha-audit-serving-home-"),
+    check: one,
     over: { change: NOTHING, commit: made[1] ?? "" },
     asked: made[1] ?? "",
     run: async () => [{ path: "one.ts", reason: "one refused" }],
   })
   expect(ran.ran).toBe(true)
   expect(ran.verdict.refusals).toEqual(["one.ts — one refused"])
+  expect(verdictLogged(root, one.page, LOGS)?.refusals).toEqual(["one.ts — one refused"])
+})
+
+test("a check whose input never moved is carried onto the newer commit in its log", async () => {
+  const { root, made } = await repoOf(2)
+  const one = { ...checked("shell-clean", root), isInput: (path: string) => path.endsWith(".sh") }
+  verdictAnswered(root, one.page, one.slug, { ...CLEAN, commit: made[0] ?? "" }, LOGS)
+  const ran = await auditOne({
+    root,
+    home: scratch.rootFor("akasha-audit-serving-home-"),
+    check: one,
+    over: { change: NOTHING, commit: made[1] ?? "" },
+    asked: made[1] ?? "",
+    moved: movedIn(root, made[1] ?? ""),
+    shadow: shadowAsked(NOTHING),
+    run: async () => {
+      throw new Error("this check was run where its verdict could be carried")
+    },
+  })
+  expect(ran.ran).toBe(false)
+  expect(verdictLogged(root, one.page, LOGS)?.commit).toBe(made[1] ?? "")
 })
 
 test("many askers at one commit are answered by one run", async () => {
   const { root, made } = await repoOf(1)
-  const home = scratch.rootFor("akasha-audit-serving-home-")
   let runs = 0
   const asking = {
     root,
-    home,
-    check: gathered("typecheck", root),
+    home: scratch.rootFor("akasha-audit-serving-home-"),
+    check: checked("typecheck", root),
     over: { change: NOTHING, commit: made[0] ?? "" },
     asked: made[0] ?? "",
     run: async (): Promise<readonly Judged[]> => {
