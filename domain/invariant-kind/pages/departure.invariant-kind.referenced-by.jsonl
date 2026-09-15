@@ -676,8 +676,8 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-import/modules/health-snapshot/health-snapshot.module.ts","id":"01a05c14-b11a-7001-878a-9f73d85a1b3a"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-import/modules/laptop-host/laptop-host.module.ts","id":"01a05c14-b119-7003-ac6e-29f5219a020b"}
 {"propertySlug":"invariant-kind","path":"alan/harness/health-samples-import/modules/verdict-reading/verdict-reading.module.ts","id":"01a05c14-b119-7000-9120-df7558499051"}
-{"propertySlug":"invariant-kind","path":"alan/harness/icloud-photos/icloud-photos.domain.ts","id":"01a06585-5f39-7952-9837-205f11953eba"}
-{"propertySlug":"invariant-kind","path":"alan/harness/icloud-photos/modules/album-pulling/album-pulling.module.ts","id":"01a06585-5f39-70a6-bafc-9a2c3771bb19"}
+{"propertySlug":"invariant-kind","path":"alan/harness/icloud-photo/icloud-photo.domain.ts","id":"01a06585-5f39-7952-9837-205f11953eba"}
+{"propertySlug":"invariant-kind","path":"alan/harness/icloud-photo/modules/album-pulling/album-pulling.module.ts","id":"01a06585-5f39-70a6-bafc-9a2c3771bb19"}
 {"propertySlug":"invariant-kind","path":"alan/harness/idle-system/idle-persona-card/idle-persona-card.page-type.ts","id":"01a06596-f0d5-700c-a792-6d23205f3082"}
 {"propertySlug":"invariant-kind","path":"alan/harness/idle-system/idle-persona-card/properties/card-slug.text-property.ts","id":"01a06596-f0d5-7008-953b-4006bde89bad"}
 {"propertySlug":"invariant-kind","path":"alan/harness/idle-system/idle-persona-card/properties/images.text-property.ts","id":"01a06596-f0d5-700a-afd0-623e8cd3d142"}

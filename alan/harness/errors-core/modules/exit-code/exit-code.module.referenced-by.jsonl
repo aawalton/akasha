@@ -27,7 +27,7 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/oauth/modules/oauth-callback/oauth-callback.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/google/oauth/modules/oauth-consent/oauth-consent.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/errors-core/modules/exit-code/exit-code.module.test.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/icloud-photos/modules/album-pulling/album-pulling.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/icloud-photo/modules/album-pulling/album-pulling.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/inbox/modules/tracking-polling/inbox-tracking-polling.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"alan/harness/mobile-cli/modules/altool/altool.module.code.ts"}

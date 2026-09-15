@@ -177,7 +177,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-samples-access/health-samples-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-samples-day/health-samples-day.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-samples-import/health-samples-import.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/icloud-photos/icloud-photos.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/icloud-photo/icloud-photo.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/idle-system/idle-system.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/imessage/imessage.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/inbox/inbox.domain.ts"}

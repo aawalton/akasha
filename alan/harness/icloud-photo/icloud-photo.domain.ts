@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const icloudPhotos = {
+export const icloudPhoto = {
   id: "01a06585-5f39-7952-9837-205f11953eba",
   type: "domain",
-  slug: "icloud-photos",
+  slug: "icloud-photo",
   definition: "the photos an iCloud shared album holds, read out of Apple's CloudKit",
   parts: ["module/album-pulling"],
   invariants: [

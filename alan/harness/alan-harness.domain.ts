@@ -25,7 +25,7 @@ export const alanHarness = {
     "domain/health-samples-access",
     "domain/health-samples-day",
     "domain/health-samples-import",
-    "domain/icloud-photos",
+    "domain/icloud-photo",
     "domain/idle-system",
     "domain/imessage",
     "domain/inbox",
