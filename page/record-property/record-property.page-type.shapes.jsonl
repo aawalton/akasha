@@ -3,6 +3,7 @@
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"child-collection","propertySlug":"child-collection","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"collection-header","propertySlug":"header","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"command-arguments","propertySlug":"arguments","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"decisions","propertySlug":"decisions","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"detail-config","propertySlug":"detail-config","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"detail-frame","propertySlug":"frame","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"directives","propertySlug":"directives","fileName":null,"folderName":null,"sorted":false}
@@ -19,7 +20,6 @@
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"group-sorts","propertySlug":"group-sorts","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"image-media","propertySlug":"image","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"intent-stack","propertySlug":"intent-stack","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"decisions","propertySlug":"decisions","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"list-members","propertySlug":"members","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"many-declaration","propertySlug":"many-declaration","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"matches","propertySlug":"matches","fileName":null,"folderName":null,"sorted":false}

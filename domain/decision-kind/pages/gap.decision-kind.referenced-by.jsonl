@@ -169,9 +169,6 @@
 {"propertySlug":"decision-kind","path":"alan/track/tracking-field/tracking-field.page-type.ts","id":"01a06827-ec0c-79f7-864d-da0cf491975e"}
 {"propertySlug":"decision-kind","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
 {"propertySlug":"decision-kind","path":"alan/web-capacitor/alan-web-capacitor.router-app.ts","id":"01a06582-324d-7c85-97b1-23c659bd7d23"}
-{"propertySlug":"decision-kind","path":"alan/web/.server/gacha-draw-context/gacha-draw-context.module.ts","id":"01a0655e-d39a-7d78-92a5-0e8f9375946d"}
-{"propertySlug":"decision-kind","path":"alan/web/.server/idle-card-projecting/idle-card-projecting.module.ts","id":"01a0655e-d39a-72dd-abce-5eb2011bcc76"}
-{"propertySlug":"decision-kind","path":"alan/web/.server/idle-saves/idle-saves.module.ts","id":"01a0655e-d39b-7622-a70b-508466de5c7c"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/content-pages-fs/content-pages-fs.module.ts","id":"01a0655d-daa6-7fba-9667-d8a69380ce58"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.ts","id":"01a0655d-dab8-7c58-8569-1c6e3295591b"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/home-dni/home-dni.module.ts","id":"01a0655d-daa7-7945-ac04-32daf772c01c"}
@@ -190,9 +187,9 @@
 {"propertySlug":"decision-kind","path":"check/code/check-code.page-type.ts","id":"01a04bc4-7e86-7beb-8dfb-3666785dd3d5"}
 {"propertySlug":"decision-kind","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.ts","id":"01a0824b-5ca1-7150-a799-fd2189f44fe4"}
 {"propertySlug":"decision-kind","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.ts","id":"01a09518-e34b-711d-97f3-8664b5b48363"}
+{"propertySlug":"decision-kind","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.ts","id":"01a05407-306d-7b50-85c4-bf43575aa786"}
 {"propertySlug":"decision-kind","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.ts","id":"01a0500d-f968-74e7-b9a7-8394faa7a890"}
 {"propertySlug":"decision-kind","path":"check/code/pages/index-answers-are-level-with-the-change/index-answers-are-level-with-the-change.check-code.ts","id":"01a09ba5-5f5f-7ff3-9aec-c905e4d224ba"}
-{"propertySlug":"decision-kind","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.ts","id":"01a05407-306d-7b50-85c4-bf43575aa786"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.ts","id":"01a0827e-df53-7d03-80a4-b3305001f92e"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.ts","id":"01a09577-1c6e-70ac-9225-958238aed3c2"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-serving/audit-serving.module.ts","id":"01a091e9-689c-7001-a9f4-f25090091be1"}

@@ -480,7 +480,6 @@
 {"propertySlug":"decision-kind","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
 {"propertySlug":"decision-kind","path":"alan/web-capacitor/alan-web-capacitor.router-app.ts","id":"01a06582-324d-7c85-97b1-23c659bd7d23"}
 {"propertySlug":"decision-kind","path":"alan/web-capacitor/modules/not-found-notice/not-found-notice.module.ts","id":"01a08e04-ae95-7615-b97a-27cdf8ec5cda"}
-{"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.ts","id":"01a063c9-03ff-7eb7-8909-d39430301bb3"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.ts","id":"01a0655d-daa6-7fdf-b1e7-5b58892ba09c"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/offline-text-cache/offline-text-cache.module.ts","id":"01a0655d-daab-74e1-ab68-7d53cf730d46"}
@@ -668,6 +667,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.ts","id":"01a08d69-0b2e-7025-abd3-c4abe10799be"}
 {"propertySlug":"decision-kind","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.ts","id":"01a09518-e34b-711d-97f3-8664b5b48363"}
 {"propertySlug":"decision-kind","path":"check/code/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.check-code.ts","id":"01a0952b-e27f-7c8d-97ee-d208aac7ceb3"}
+{"propertySlug":"decision-kind","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.ts","id":"01a0959b-4249-7000-a2fe-cb9db9273952"}
 {"propertySlug":"decision-kind","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.ts","id":"01a04d5f-c731-7000-9066-3abf317a1d58"}
 {"propertySlug":"decision-kind","path":"check/code/pages/email-address-is-well-formed/email-address-is-well-formed.check-code.ts","id":"01a058ff-b65d-7ee3-a34f-8bb41d52b52d"}
 {"propertySlug":"decision-kind","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.ts","id":"01a08bad-b6e5-7ef8-a15c-48d03c50fc1c"}
@@ -696,7 +696,6 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.check-code.ts","id":"01a091e9-689c-7003-b37b-c2bee87ff75b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.check-code.ts","id":"01a058fe-c486-7dda-9fda-4e08c8681e57"}
 {"propertySlug":"decision-kind","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.ts","id":"01a04f09-8646-7461-b69d-e026cd6561bf"}
-{"propertySlug":"decision-kind","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.ts","id":"01a0959b-4249-7000-a2fe-cb9db9273952"}
 {"propertySlug":"decision-kind","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.ts","id":"01a05424-3456-7724-8023-7e085329bffc"}
 {"propertySlug":"decision-kind","path":"check/code/pages/lint-clean/lint-clean.check-code.ts","id":"01a04eec-d235-7000-9f19-d65076b0c634"}
 {"propertySlug":"decision-kind","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.ts","id":"01a05d75-de6d-726c-b07d-520ab5bfd098"}

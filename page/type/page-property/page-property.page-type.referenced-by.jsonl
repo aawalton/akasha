@@ -79,8 +79,8 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/initiative/properties/intent-stack.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/list/properties/list-members.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/aids.standard-agent-english-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/directives.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/decisions.record-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/directives.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/parts.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/term/banned-term/properties/replacement-patterns.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/term/properties/variants.text-property.types.ts"}
