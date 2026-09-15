@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const eryn = {
   id: "019db533-f382-760a-ac20-62caa1650dd6",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "eryn",
   title: "Eryn",
   relationshipCommitment: 3,

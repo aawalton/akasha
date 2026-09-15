@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const gregWeisbrod = {
   id: "019db533-f384-743f-966d-ea58c7e1d07e",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "greg-weisbrod",
   title: "Greg Weisbrod",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/grw25",

@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const faizMohamedHaneef = {
   id: "019db533-f384-720f-8a9d-6360a9138b4b",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "faiz-mohamed-haneef",
   title: "Faiz Mohamed Haneef",
   relationshipCurrentCircle: "affiliates",

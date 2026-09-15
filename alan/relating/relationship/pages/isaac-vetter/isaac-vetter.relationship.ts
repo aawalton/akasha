@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const isaacVetter = {
   id: "019db533-f383-7b3a-a880-08b903d22acc",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "isaac-vetter",
   title: "Isaac Vetter",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/isaacvetter",

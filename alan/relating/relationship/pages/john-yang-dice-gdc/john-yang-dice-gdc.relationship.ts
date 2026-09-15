@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const johnYangDiceGdc = {
   id: "019db533-f384-790f-818f-9615196b4703",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "john-yang-dice-gdc",
   title: "John Yang 🔜 Dice / Gdc",
   relationshipCurrentCircle: "affiliates",

@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const jamesMcallister = {
   id: "019db533-f384-72be-9db5-08e282b4ee9c",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "james-mcallister",
   title: "James Mcallister",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/jamestmcallister",

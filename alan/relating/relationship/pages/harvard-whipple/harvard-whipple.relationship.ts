@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const harvardWhipple = {
   id: "019db533-f383-755b-ac41-156107697bd2",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "harvard-whipple",
   title: "Harvard Whipple",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/harvardwhipple",

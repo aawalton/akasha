@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const joelEregitano = {
   id: "019db533-f384-76a8-b7a1-35a390d35740",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "joel-eregitano",
   title: "Joel Eregitano",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/joel-eregitano-19477926",

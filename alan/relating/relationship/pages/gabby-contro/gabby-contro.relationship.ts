@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const gabbyContro = {
   id: "019db533-f383-76fa-a870-05ab43865dc8",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "gabby-contro",
   title: "Gabby Contro",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/gabbycontro",

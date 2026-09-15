@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const joelMckaySmith = {
   id: "019db533-f382-7eaf-b47f-ed9604272856",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "joel-mckay-smith",
   title: "⚡joel Mckay Smith",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/joelmckaysmith",

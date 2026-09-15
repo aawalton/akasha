@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const garyWu = {
   id: "019db533-f384-75b3-9c61-2aaf6869be99",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "gary-wu",
   title: "Gary Wu",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/gary-wu-39837b99",

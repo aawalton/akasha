@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const edgarBitencourt = {
   id: "019db533-f384-7196-8879-8b96f4fa287b",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "edgar-bitencourt",
   title: "Edgar Bitencourt",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/edgarbitencourt",

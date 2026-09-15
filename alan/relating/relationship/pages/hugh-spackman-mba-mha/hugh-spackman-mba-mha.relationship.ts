@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const hughSpackmanMbaMha = {
   id: "019db533-f384-7c90-a988-a12e9fa6abab",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "hugh-spackman-mba-mha",
   title: "Hugh Spackman, Mba, Mha",
   relationshipCurrentCircle: "acquaintances",

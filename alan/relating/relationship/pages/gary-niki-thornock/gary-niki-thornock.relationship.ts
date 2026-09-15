@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const garyNikiThornock = {
   id: "019db533-f385-7052-ac24-9776ebde0add",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "gary-niki-thornock",
   title: "Gary + Niki Thornock",
   relationshipCommitment: 3,
