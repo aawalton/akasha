@@ -33,5 +33,7 @@ export const rynFileStructure = {
     "A folder named `.server` keeps that name, because React Router reads that name and no other.",
     "A folder a page above claims is named by that page, and a folder under a claimed folder is named by whatever writes it.",
     "A part edge is measured over every page whose page type extends domain, not over domain pages alone.",
+    "A page type whose one page holds many of a thing keeps that plural in its slug.",
+    "A proper name a plural is part of is left as it is spelled outside akasha.",
   ],
 } as const satisfies Initiative
