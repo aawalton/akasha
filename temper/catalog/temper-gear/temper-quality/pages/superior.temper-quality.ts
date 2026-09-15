@@ -2,7 +2,7 @@ import type { TemperQuality } from "akasha/temper/catalog/temper-gear/temper-qua
 
 export const superior = {
   id: "019e2fc4-de16-7b96-aecb-4c8af4cf242a",
-  type: "temper-quality",
+  type: "page-type/temper-quality",
   slug: "superior",
   title: "Superior",
   key: "superior",

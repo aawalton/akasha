@@ -2,7 +2,7 @@ import type { TemperQuality } from "akasha/temper/catalog/temper-gear/temper-qua
 
 export const legendary = {
   id: "019e2fc4-de1c-764e-8434-e02224db4355",
-  type: "temper-quality",
+  type: "page-type/temper-quality",
   slug: "legendary",
   title: "Legendary",
   key: "legendary",

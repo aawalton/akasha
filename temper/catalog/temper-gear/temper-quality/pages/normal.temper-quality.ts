@@ -2,7 +2,7 @@ import type { TemperQuality } from "akasha/temper/catalog/temper-gear/temper-qua
 
 export const normal = {
   id: "019e2fc4-de11-7612-823a-5adf6684ab21",
-  type: "temper-quality",
+  type: "page-type/temper-quality",
   slug: "normal",
   title: "Normal",
   key: "normal",
