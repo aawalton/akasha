@@ -5,6 +5,7 @@ export const serviceInference = {
   type: "page-type/page-type",
   slug: "service-inference",
   definition: "a service a model runs behind, on a machine outside the cluster",
+  pluralSlug: "service-inferences",
   extends: ["page-type/service"],
   parts: [
     "boolean-property/warm",

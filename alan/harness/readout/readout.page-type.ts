@@ -5,6 +5,7 @@ export const readout = {
   type: "page-type/page-type",
   slug: "readout",
   definition: "one reading a person is shown",
+  pluralSlug: "readouts",
   parts: [
     "boolean-property/readout-enabled",
     "domain/readout-color",

@@ -5,6 +5,7 @@ export const dashboard = {
   type: "page-type/page-type",
   slug: "dashboard",
   definition: "what a chart server draws over one subject",
+  pluralSlug: "dashboards",
   parts: ["file-property/dashboard-layout"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "file-property/dashboard-layout", required: true, many: false }],
