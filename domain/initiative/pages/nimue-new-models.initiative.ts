@@ -8,11 +8,6 @@ export const nimueNewModels = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every model provider akasha reaches is a page.",
-      workingMemory:
-        'Nothing in akasha names a provider. The gateway forwards to `UPSTREAM_BASE = "https://api.anthropic.com"`, written into `forward.module.code.ts` and already stated there as a gap. A provider page carries the base a request goes to and the wire shape that provider speaks.',
-    },
-    {
       statement: "Every account akasha holds with a model provider is a model-account.",
       workingMemory:
         "`model-account` is one Anthropic subscription that calls are made on. Its body states email, alias index, subscription type, rate limit tier, renewal day and scopes; its credential is an oauth pair in sops; its two windows are marks beside the page, and eligibility is computed from them. What generalizes is the provider, the credential and eligibility. `oauth-effects` is the one seam the gateway reaches accounts through.",

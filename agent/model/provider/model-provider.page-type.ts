@@ -21,6 +21,14 @@ export const modelProvider = {
       invariantKind: "invariant-kind/constraint",
       statement: "A gateway sends the Anthropic wire shape, so a provider takes that shape.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every provider akasha reaches is a page.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The base a call goes to is read from the provider's page rather than from code.",
+    },
   ],
   types: "ts",
   properties: [{ pageProperty: "url-property/api-base", required: true, many: false }],
