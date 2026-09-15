@@ -2,7 +2,7 @@ import type { TemperItemAction } from "akasha/temper/progress/temper-item-action
 
 export const companionEquip = {
   id: "01a071f0-4c83-7121-afdc-587d911a55ed",
-  type: "temper-item-action",
+  type: "page-type/temper-item-action",
   slug: "companion-equip",
   title: "Equip on companion",
   description: "Equips the item on the companion the rule names.",

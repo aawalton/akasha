@@ -2,7 +2,7 @@ import type { TemperItemAction } from "akasha/temper/progress/temper-item-action
 
 export const destroy = {
   id: "01a071f0-4c84-7cab-b3ea-39919d0728c9",
-  type: "temper-item-action",
+  type: "page-type/temper-item-action",
   slug: "destroy",
   title: "Destroy",
   description: "Destroys the item outright.",

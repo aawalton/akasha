@@ -2,7 +2,7 @@ import type { TemperItemAction } from "akasha/temper/progress/temper-item-action
 
 export const open = {
   id: "01a071f0-4c85-7ee8-b672-ae4b86c4dedf",
-  type: "temper-item-action",
+  type: "page-type/temper-item-action",
   slug: "open",
   title: "Open",
   description: "Opens the container.",
