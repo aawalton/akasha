@@ -24,8 +24,6 @@ import {
   FORMAT_TEXT,
   GENERATOR_AT,
   GENERATOR_TEXT,
-  GUARD_AT,
-  GUARD_TEXT,
   grouped,
   HELD_TEXT,
   importedAt,
@@ -284,15 +282,6 @@ test("the export a page file is named for is spared and another beside it is jud
 
 test("the value a page's uncommitted body holds is spared and another beside it is judged", () => {
   const said = judging(landing(rooted(), { [BESIDE_AT]: bytesOf(BESIDE_TEXT) })).map(
-    (one) => one.reason
-  )
-
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`spare`")
-})
-
-test("the `runGuard` a change guard's code exports is spared", () => {
-  const said = judging(landing(rooted(), { [GUARD_AT]: bytesOf(GUARD_TEXT) })).map(
     (one) => one.reason
   )
 

@@ -186,10 +186,6 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The `runGuard` a change guard's code exports is reached by the change loader.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement:
         "The `runChange` and `takes` a change's code exports are reached by the change loader.",
     },

@@ -47,10 +47,6 @@ export const COMMAND_AT = "akasha/held-thing.command.code.ts"
 export const COMMAND_TEXT =
   "export function heldThing(): number {\n  return 1\n}\n\nexport const spare = 2\n"
 
-export const GUARD_AT = "akasha/held.change-guard.code.ts"
-
-export const GUARD_TEXT = "export const runGuard = (): number => 1\n\nexport const spare = 2\n"
-
 export const SERVICE_AT = "akasha/held.service-workstation.running.code.ts"
 
 export const SERVICE_TEXT = "export const runService = (): number => 1\n\nexport const spare = 2\n"
@@ -185,7 +181,7 @@ export function rooted(): string {
   typed(root, "lualib-helper", "domain")
   typed(root, "command", "domain", [], "module/calling")
   typed(root, "computed-property", "domain")
-  typed(root, "change-guard", "domain")
+
   typed(root, "service-workstation", "domain")
   typed(root, "test-fixture", "domain")
   typed(root, "check-code", "domain", [], "module/checking")
