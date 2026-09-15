@@ -81,5 +81,23 @@ export const modelGateway = {
       invariantKind: "invariant-kind/departure",
       statement: "No account left to choose is written about as `no-viable-account`.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A gateway with no account left to choose sends the call to the fallback provider.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The fallback is reached before the queue re-probes and before the 429 is handed back.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Those two answer only where the fallback provider itself refuses.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every seat's gateway falls back this way.",
+    },
   ],
 } as const satisfies Domain
