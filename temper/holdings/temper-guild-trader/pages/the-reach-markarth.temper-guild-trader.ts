@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const theReachMarkarth = {
   id: "019e2fc6-526c-7760-b19d-c0d5b5f0153b",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "the-reach-markarth",
   title: "The Reach: Markarth",
   kioskId: 96,

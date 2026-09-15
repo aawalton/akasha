@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const fargraveFargraveOutlawsRefuge = {
   id: "019e2fc6-5270-7bb6-bbed-c52cd3f6d685",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "fargrave-fargrave-outlaws-refuge",
   title: "Fargrave: Fargrave Outlaws Refuge",
   kioskId: 101,

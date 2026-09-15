@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const summersetAlinor = {
   id: "019e2fc6-5263-7a31-b2da-8b4b984b6707",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "summerset-alinor",
   title: "Summerset: Alinor",
   kioskId: 86,

@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const eastmarchWindhelmOutlawsRefuge = {
   id: "019e2fc6-5246-76e2-97d6-c14c92d0bdb9",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "eastmarch-windhelm-outlaws-refuge",
   title: "Eastmarch: Windhelm Outlaws Refuge",
   kioskId: 53,

@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const stormhavenFirebrandKeep = {
   id: "019e2fc6-5239-7c5d-b08e-e506961a86a5",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "stormhaven-firebrand-keep",
   title: "Stormhaven: Firebrand Keep",
   kioskId: 40,

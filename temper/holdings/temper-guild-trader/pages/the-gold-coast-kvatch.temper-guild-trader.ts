@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const theGoldCoastKvatch = {
   id: "019e2fc6-525a-7e5f-ba82-82f108413503",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "the-gold-coast-kvatch",
   title: "The Gold Coast: Kvatch",
   kioskId: 76,

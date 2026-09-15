@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const alikrDesertMorwhasBounty = {
   id: "019e2fc6-5232-7bfb-8ba1-89374f52772c",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "alikr-desert-morwhas-bounty",
   title: "Alik'r Desert: Morwha's Bounty",
   kioskId: 32,

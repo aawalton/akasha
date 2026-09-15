@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const glenumbraLionGuardRedoubt = {
   id: "019e2fc6-523d-78c3-8e31-4a4b0a1bf098",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "glenumbra-lion-guard-redoubt",
   title: "Glenumbra: Lion Guard Redoubt",
   kioskId: 44,

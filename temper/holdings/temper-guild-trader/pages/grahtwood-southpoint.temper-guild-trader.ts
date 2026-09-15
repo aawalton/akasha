@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const grahtwoodSouthpoint = {
   id: "019e2fc6-5227-7b97-baa5-02fc9356b77d",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "grahtwood-southpoint",
   title: "Grahtwood: Southpoint",
   kioskId: 20,

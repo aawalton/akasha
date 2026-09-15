@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const bangkoraiEvermoreOutlawsRefuge = {
   id: "019e2fc6-522e-7187-978c-f1006be38154",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "bangkorai-evermore-outlaws-refuge",
   title: "Bangkorai: Evermore Outlaws Refuge",
   kioskId: 27,

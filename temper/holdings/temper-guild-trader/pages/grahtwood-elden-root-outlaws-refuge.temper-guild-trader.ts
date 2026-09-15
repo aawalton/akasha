@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const grahtwoodEldenRootOutlawsRefuge = {
   id: "019e2fc6-5225-7dac-aa42-ece67d9ca139",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "grahtwood-elden-root-outlaws-refuge",
   title: "Grahtwood: Elden Root Outlaws Refuge",
   kioskId: 18,

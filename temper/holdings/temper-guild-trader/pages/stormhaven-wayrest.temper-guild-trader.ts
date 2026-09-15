@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const stormhavenWayrest = {
   id: "019e2fc6-5238-70e1-9f22-09a5ccc20d21",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "stormhaven-wayrest",
   title: "Stormhaven: Wayrest",
   kioskId: 38,

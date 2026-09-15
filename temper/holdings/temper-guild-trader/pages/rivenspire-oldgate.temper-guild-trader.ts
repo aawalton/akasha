@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const rivenspireOldgate = {
   id: "019e2fc6-5237-725f-8590-67263d8300fd",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "rivenspire-oldgate",
   title: "Rivenspire: Oldgate",
   kioskId: 37,

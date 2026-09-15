@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const westWealdSkingradOutlawsRefuge = {
   id: "019e2fc6-5277-7bb6-8141-11148f8a67b6",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "west-weald-skingrad-outlaws-refuge",
   title: "West Weald: Skingrad Outlaws Refuge",
   kioskId: 109,

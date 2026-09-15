@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const galenAndYffelonVastyr = {
   id: "019e2fc6-5273-7663-87cf-2bd0e2460429",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "galen-and-yffelon-vastyr",
   title: "Galen and Y'ffelon: Vastyr",
   kioskId: 104,

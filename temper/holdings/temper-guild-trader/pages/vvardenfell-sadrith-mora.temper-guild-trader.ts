@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const vvardenfellSadrithMora = {
   id: "019e2fc6-525e-76a2-b035-3e5a52597e2e",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "vvardenfell-sadrith-mora",
   title: "Vvardenfell: Sadrith Mora",
   kioskId: 80,

@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const reapersMarchRawlkha = {
   id: "019e2fc6-5215-7e9d-99f7-267db01466b8",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "reapers-march-rawlkha",
   title: "Reaper's March: Rawl'kha",
   kioskId: 5,

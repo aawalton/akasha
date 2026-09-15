@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const bangkoraiHallinsStand = {
   id: "019e2fc6-522f-7cf1-a0e9-b74b15b73eb1",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "bangkorai-hallins-stand",
   title: "Bangkorai: Hallin's Stand",
   kioskId: 29,

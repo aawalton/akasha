@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const alikrDesertBergama = {
   id: "019e2fc6-5233-7a0c-a01c-5cf509dc5150",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "alikr-desert-bergama",
   title: "Alik'r Desert: Bergama",
   kioskId: 33,

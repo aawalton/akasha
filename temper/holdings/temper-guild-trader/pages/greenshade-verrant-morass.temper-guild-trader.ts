@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const greenshadeVerrantMorass = {
   id: "019e2fc6-5223-726f-91eb-3afd16fbbc57",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "greenshade-verrant-morass",
   title: "Greenshade: Verrant Morass",
   kioskId: 15,

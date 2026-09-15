@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const westernSkyrimSolitude = {
   id: "019e2fc6-526a-79e0-9513-3f2a6d2fa83d",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "western-skyrim-solitude",
   title: "Western Skyrim: Solitude",
   kioskId: 94,

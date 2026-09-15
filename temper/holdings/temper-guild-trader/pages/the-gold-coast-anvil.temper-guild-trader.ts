@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const theGoldCoastAnvil = {
   id: "019e2fc6-525a-70b9-9e00-a5608e76a4b5",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "the-gold-coast-anvil",
   title: "The Gold Coast: Anvil",
   kioskId: 75,

@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const auridonVulkhelGuard = {
   id: "019e2fc6-522a-77b4-ad38-85c9f9d05244",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "auridon-vulkhel-guard",
   title: "Auridon: Vulkhel Guard",
   kioskId: 23,

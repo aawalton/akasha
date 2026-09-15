@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const highIsleAndAmenosGonfalonBay = {
   id: "019e2fc6-5271-79a7-815a-c7af4ae9ff4a",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "high-isle-and-amenos-gonfalon-bay",
   title: "High Isle and Amenos: Gonfalon Bay",
   kioskId: 102,

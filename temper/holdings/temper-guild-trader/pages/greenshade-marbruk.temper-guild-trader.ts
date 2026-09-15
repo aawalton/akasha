@@ -2,7 +2,7 @@ import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trad
 
 export const greenshadeMarbruk = {
   id: "019e2fc6-5220-787b-ad2c-a253e3f1d27f",
-  type: "temper-guild-trader",
+  type: "page-type/temper-guild-trader",
   slug: "greenshade-marbruk",
   title: "Greenshade: Marbruk",
   kioskId: 13,
