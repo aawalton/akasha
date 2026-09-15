@@ -2,7 +2,7 @@ import type { ReadoutScale } from "akasha/alan/harness/readout/scale/readout-sca
 
 export const safetyLevel = {
   id: "01a05f42-92f5-7002-8664-c64ed3b1dcd2",
-  type: "readout-scale",
+  type: "page-type/readout-scale",
   slug: "safety-level",
   definition: "how safe things are, counted in levels",
   redAt: 1,

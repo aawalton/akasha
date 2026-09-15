@@ -2,7 +2,7 @@ import type { ReadoutScale } from "akasha/alan/harness/readout/scale/readout-sca
 
 export const sleepHours = {
   id: "01a06220-ef8b-737b-89a5-e91e27b8e1cb",
-  type: "readout-scale",
+  type: "page-type/readout-scale",
   slug: "sleep-hours",
   definition: "how long a night was, counted in hours",
   redAt: 6,

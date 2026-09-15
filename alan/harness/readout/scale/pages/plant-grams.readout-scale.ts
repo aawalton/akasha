@@ -2,7 +2,7 @@ import type { ReadoutScale } from "akasha/alan/harness/readout/scale/readout-sca
 
 export const plantGrams = {
   id: "01a06221-d65f-7b82-a0e5-2678b1cfb844",
-  type: "readout-scale",
+  type: "page-type/readout-scale",
   slug: "plant-grams",
   definition: "how many grams of whole plants a day has taken in",
   redAt: 40,
