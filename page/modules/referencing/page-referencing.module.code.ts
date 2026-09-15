@@ -58,7 +58,7 @@ export function referencesEach(lines: Iterable<string>): readonly Reference[] {
   return found
 }
 
-function lineOf(one: Reference): string {
+export function lineOf(one: Reference): string {
   const said: Record<string, string> = { propertySlug: one.propertySlug }
   if (one.fileName !== null) said.fileName = one.fileName
   said.path = one.path
