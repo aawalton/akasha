@@ -58,6 +58,7 @@ export const fileProperty = {
       statement:
         "A file written or taken away outside a change reaches the listing at the next settle over its page.",
     },
+    { invariantKind: "invariant-kind/gap", statement: "A file property declares one extension." },
   ],
   types: "ts",
   schema: "jsonl",
