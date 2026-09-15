@@ -1010,6 +1010,7 @@
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/release/release.page-type.ts","id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/song/properties/singability.rank-property.ts","id":"01a06243-144b-700b-83e8-f1b91786511f"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
+{"propertySlug":"invariant-kind","path":"alan/music/catalog/track/track.page-type.ts","id":"01a0a57b-23fe-7c3a-92e1-06b28a781b17"}
 {"propertySlug":"invariant-kind","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.ts","id":"01a06281-4d9d-7002-aee3-ff60658dc599"}
 {"propertySlug":"invariant-kind","path":"alan/music/choosing/modules/rating-ladder/rating-ladder.module.ts","id":"01a06281-4d9d-7001-9db5-f9ea87db3f71"}
 {"propertySlug":"invariant-kind","path":"alan/music/choosing/modules/track-candidate/track-candidate.module.ts","id":"01a06281-4d9d-7003-a5cb-de0f475a7e60"}

@@ -20,6 +20,7 @@ export const musicCatalog = {
     "page-type/release",
     "page-type/release-collection",
     "page-type/song",
+    "page-type/track",
     "service-workstation/spotify-sync",
   ],
   invariants: [
