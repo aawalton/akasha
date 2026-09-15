@@ -54,6 +54,7 @@
 {"propertySlug":"invariant-kind","path":"agent/model/gateway/modules/transport-log/transport-log.module.ts","id":"01a062be-c8b4-7000-b087-7fa57405121c"}
 {"propertySlug":"invariant-kind","path":"agent/model/modules/asking/model-asking.module.ts","id":"01a05a43-f8db-71c8-8c89-8850c6e1b851"}
 {"propertySlug":"invariant-kind","path":"agent/model/provider/model-provider.page-type.ts","id":"01a0a20a-0678-73be-983a-777f3d76d8bb"}
+{"propertySlug":"invariant-kind","path":"agent/model/provider/modules/reading/model-provider-reading.module.ts","id":"01a0a534-b50b-7f9a-ac9b-140bd34880b7"}
 {"propertySlug":"invariant-kind","path":"agent/model/provider/pages/deepseek/deepseek.model-provider.ts","id":"01a0a21a-3c53-76c5-b51f-a92017d82a1d"}
 {"propertySlug":"invariant-kind","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}
 {"propertySlug":"invariant-kind","path":"agent/model/test/pages/directive-kept/directive-kept.model-test.ts","id":"01a090df-c459-79c2-bac7-09cee98c125b"}

@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/account/modules/reading/model-account-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/account/modules/upkeep-stall/model-account-upkeep-stall.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/account/modules/upkeep-stall/model-account-upkeep-stall.module.test.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/test/pages/restatement/restatement.model-test.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-principal/seat-principal.module.code.ts"}

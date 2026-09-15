@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"agent/model/account/modules/reading/model-account-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"agent/model/account/modules/renewing/model-account-renewing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"agent/settings/pages/mcp-servers/mcp-servers.agent-settings.telling.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.test.ts"}

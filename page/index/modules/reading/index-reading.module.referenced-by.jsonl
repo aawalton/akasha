@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/modules/read-record/read-record.module.code.ts"}

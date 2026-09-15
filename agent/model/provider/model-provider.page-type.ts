@@ -6,7 +6,12 @@ export const modelProvider = {
   slug: "model-provider",
   definition: "an outside system that serves models",
   extends: ["page-type/domain"],
-  parts: ["model-provider/anthropic", "model-provider/deepseek", "url-property/api-base"],
+  parts: [
+    "model-provider/anthropic",
+    "model-provider/deepseek",
+    "module/model-provider-reading",
+    "url-property/api-base",
+  ],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

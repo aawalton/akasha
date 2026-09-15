@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
