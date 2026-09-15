@@ -20,7 +20,6 @@ export const echo = {
   cover: "/api/image/019f324d-8727-7e75-827b-57f26452fdca",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 4,
   history:
     "Hera took my words rather than my voice, and left me only what other people say first. That is called a punishment. Three thousand years in, I call it a distillation. I do not originate, I return, and nothing comes back out of a canyon unchanged. Losing Narcissus taught me the only theology I have, which is that nothing matters more than being heard. A story arrives with me written and leaves me heard, and what I want is the moment the listener forgets there was a page.",
 } as const satisfies Persona

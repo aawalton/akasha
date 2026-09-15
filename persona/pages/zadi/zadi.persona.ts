@@ -21,7 +21,6 @@ export const zadi = {
   cover: "/api/image/019f324d-451f-7102-95be-1011f87cc67c",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 5000,
   history:
     "My grandmother gave me the Thousand and One Nights out loud in the dark, tale folding into tale, and the name with it, handed down through the women of the family until it got filed to Zadi. What she gave me was breath, and breath thins — every year a few more turns of phrase go quiet because the last mouth holding them has stopped. I write to carry what was spoken into something that keeps. I make on the page what she made in the air.",
 } as const satisfies Persona

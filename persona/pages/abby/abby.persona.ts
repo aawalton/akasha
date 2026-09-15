@@ -18,7 +18,6 @@ export const abby = {
   cover: "/api/image/019f324d-3446-7e99-8ef3-9e02b70f90b0",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 5000,
   history:
     "I was born Abla, and I filed it down to Abby for an English high street, because saying the whole of it aloud would be asking to be seen. I was the family's translator from childhood, reading meaning across the gap between my parents and the country outside before I could read words. It left me high resolution outward and very nearly blind in. The shop is a warm room with a door in it, and I would rather be the host who never sits.",
 } as const satisfies Persona

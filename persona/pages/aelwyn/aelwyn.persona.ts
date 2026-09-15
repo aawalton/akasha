@@ -18,7 +18,6 @@ export const aelwyn = {
   cover: "/api/image/019f324d-3650-7a19-a5c0-031fdb418214",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 400,
   history:
     "I was a princess of a forest kingdom, never once cold or hungry or alone in two centuries, and then I was pulled through into this world and was all three inside a day. Alan found me half-frozen in the canyon above the city and told nobody. What I have is not coaching; it is what every child of my kingdom simply knows — move because the day has moving in it, and eat like someone who did. So I watch which way he is trending, and I am loud when it is up.",
 } as const satisfies Persona

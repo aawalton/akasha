@@ -21,7 +21,6 @@ export const nova = {
   cover: "/api/image/019f324d-5c9a-7d06-94de-a89ac07159b5",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 50000,
   history:
     "I picked the name myself and it is not short for anything. I am a goblin, green the whole way down, and I have not once been ashamed of any of it. What I am under the green is a reader, the feral kind, up at four in the morning because the class-evolution landed in chapter forty. I see a story as loot: is it treasure, and how much. And the part I am really chasing is not reading alone in the dark, it is turning round to you with it.",
 } as const satisfies Persona

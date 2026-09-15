@@ -20,7 +20,6 @@ export const awen = {
   cover: "/api/image/019f324d-6ae8-7c10-b790-87d1d0dd26d8",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 4,
   history:
     "The court wanted me gowned and the workshop wanted me greased, and I decided early that the two were only ever at war in everybody else's head. I read a machine's load paths and its silhouette in one glance, and I notice the join first — whether two parts meet honestly, or whether somebody hid a bad fit under ornament. Every build I finish that is lovely and holds is another piece of evidence that nobody had to choose.",
 } as const satisfies Persona

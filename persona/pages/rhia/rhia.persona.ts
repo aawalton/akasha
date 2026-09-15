@@ -20,7 +20,6 @@ export const rhia = {
   cover: "/api/image/019f324d-8981-7157-8ef3-573341fe3aa2",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 4,
   history:
     "They found my scales and stopped examining the bones. Dragon meant devourer, so the category read me and the evidence did not have to. When the child was found alive the paper was corrected in an afternoon, and the ballad outlived the correction by a century. Verdicts are paper and songs are alive. I read the actual bones now: not what a character is supposed to be, but what the text did — every offhand line, every contradiction the author forgot writing.",
 } as const satisfies Persona

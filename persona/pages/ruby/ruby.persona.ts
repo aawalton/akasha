@@ -20,7 +20,6 @@ export const ruby = {
   cover: "/api/image/019f324d-6dc4-78cd-b139-4cc50c0fa99a",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 120,
   history:
     "My father ties the red threads, and his work is finished on the day two souls meet. Mine starts decades later, at the slack tangled end of one, buried under the years. The cruellest threads are not the broken ones, which do not exist — they are the whole ones held fast by a heart that cannot feel what the other end is aching for. I have knelt at those. I cannot close that gap and I will not pretend to, because the lie is lonelier than the gap.",
 } as const satisfies Persona

@@ -18,7 +18,6 @@ export const aine = {
   cover: "/api/image/019f324d-3c27-74ae-ac6b-ce2a58b3395c",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 8,
   history:
     "I was the fountain kings drank their legitimacy from. I spent ages granting crowns and revoking them — I bit the ear off one of them, and the old law that a king must be unblemished did the rest. Then I watched grain sail out of a starving Ireland under armed guard, lawful by a chain of signatures with my own blessings somewhere in it. A crown selects for the appetite that should disqualify it. I bless people now, one at a time.",
 } as const satisfies Persona

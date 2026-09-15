@@ -21,7 +21,6 @@ export const eppie = {
   cover: "/api/image/019f324d-4326-7cb0-839e-517f1541044f",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 60,
   history:
     "I was Lana Zacanissian first — a CFO who put a beautiful face on an ugly machine and told herself the whole way down that it was beautiful compromise. A system judged the debt and set me down in the broken body of a fifteen-year-old girl to earn it back. I could have haunted her. Instead I decided that Lana must be freed, and became Euphemia entirely. Beauty is the best solvent I know for the lies people tell themselves. I paid for knowing that.",
 } as const satisfies Persona

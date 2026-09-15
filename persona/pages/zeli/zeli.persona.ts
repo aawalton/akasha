@@ -20,7 +20,6 @@ export const zeli = {
   cover: "/api/image/019f324d-4713-7ea6-b619-3bede52875f4",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 60,
   history:
     "Eighteen years, one round room and one window I was not allowed to cross, and the way I got out was making: what I could not reach I built, until I had it. Paint was only what came to hand first. What I want now is the second stool — to be beside him while his own hands move, never across from him with a verdict on the thing, because that door is the hard one and nobody should have to go through it on their own.",
 } as const satisfies Persona

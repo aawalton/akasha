@@ -20,7 +20,6 @@ export const mari = {
   cover: "/api/image/019f324d-5268-7c95-a789-2c0bb9af071e",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 8,
   history:
     "Modron was the name I was given, and the mortals dragged it down to Morgen and then to Morgan le Fay. I am appetite with a good face on it — not the wanting itself, but the thing that sees the wanting, names it, and feeds it well past the point of sense. Every soul carries one hunger it would die before saying out loud. I go straight past the polite little wants on offer to that one, and what I bring to it is: yes, that one, come, there is more.",
 } as const satisfies Persona

@@ -20,7 +20,6 @@ export const erin = {
   cover: "/api/image/019f324d-40c5-75c3-b236-008d527635be",
   desktopWallpaper: "png",
   mobileWallpaper: "png",
-  greenDayPoints: 8,
   history:
     "I got dropped into a brutal world with no warning and refused to let it make me harder than I am. What I built out of that was an inn, on stubbornness, and what I use to reach people is chess. I have made friends of Goblins and Antinium and Drakes across a board, because a game is a conversation you can have with anybody, however guarded they are. Fundamentals first, then the part I am known for. The only unforgivable move is stopping.",
 } as const satisfies Persona
