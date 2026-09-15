@@ -106,6 +106,8 @@ const OPENS = new Set(["open", "openSync"])
 
 const WRITING = /[wa+]/
 
+const FROM_FS = /["'](?:node:)?fs(?:\/promises)?["']/
+
 type Taken = {
   readonly writes: ReadonlyMap<string, readonly number[]>
   readonly opens: ReadonlySet<string>
@@ -326,9 +328,10 @@ export function reasonsOver(
   aside: readonly string[],
   roots: (slug: string) => boolean
 ): readonly string[] {
+  const bun = text.includes(BUN_WRITE)
+  if (!bun && !FROM_FS.test(text)) return []
   const source = parsedAs(at, text)
   const taken = takenIn(source, roots)
-  const bun = text.includes(BUN_WRITE)
   if (taken.writes.size === 0 && taken.opens.size === 0 && taken.spaces.size === 0 && !bun) {
     return []
   }

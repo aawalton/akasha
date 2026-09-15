@@ -47,6 +47,11 @@ export const repositoryIsWrittenByAChange = {
     {
       invariantKind: "departure",
       statement:
+        "A file whose text names neither `fs` nor `Bun.write` is passed over before it is parsed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The argument judged is the argument a write lands on rather than the argument a write reads.",
     },
     {
