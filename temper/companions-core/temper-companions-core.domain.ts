@@ -21,7 +21,6 @@ export const temperCompanionsCore = {
     "module/companion-equipment-icons",
     "module/companion-equipment-qualities",
     "module/companion-equipment-quality-rules",
-    "module/companion-equipment-slots",
     "module/companion-eso-trait-map",
     "module/companion-factory",
     "module/companion-formula-evaluator",

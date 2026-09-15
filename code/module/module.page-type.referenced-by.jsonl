@@ -3457,7 +3457,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-equipment-slots/companion-equipment-slots.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-factory/companion-factory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.ts"}
