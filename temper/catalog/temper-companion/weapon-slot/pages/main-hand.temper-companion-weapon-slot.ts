@@ -2,7 +2,7 @@ import type { TemperCompanionWeaponSlot } from "akasha/temper/catalog/temper-com
 
 export const mainHand = {
   id: "01a05fcd-7102-7610-bc02-6367188268dd",
-  type: "temper-companion-weapon-slot",
+  type: "page-type/temper-companion-weapon-slot",
   slug: "main-hand",
   key: "main-hand",
   title: "Main Hand",
