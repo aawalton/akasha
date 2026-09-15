@@ -36,7 +36,7 @@ export const MAIN_NODES: Readonly<Record<string, NodeIntent>> = {
       {
         name: "git-transport",
         diskSelector: "!system_disk && disk.size > 100u * GiB",
-        minSize: "5GB",
+        minSize: "100GB",
         grow: false,
         filesystem: "xfs",
       },

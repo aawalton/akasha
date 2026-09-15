@@ -15,7 +15,7 @@ function pvYaml(): string {
     kind: "PersistentVolume",
     metadata: { name: "git-transport-data", labels: RESOURCE_LABELS },
     spec: {
-      capacity: { storage: "5Gi" },
+      capacity: { storage: "100Gi" },
       volumeMode: "Filesystem",
       accessModes: ["ReadWriteOnce"],
       persistentVolumeReclaimPolicy: "Retain",
@@ -43,7 +43,7 @@ function pvcYaml(): string {
       accessModes: ["ReadWriteOnce"],
       storageClassName: "",
       volumeName: "git-transport-data",
-      resources: { requests: { storage: "5Gi" } },
+      resources: { requests: { storage: "100Gi" } },
     },
   })
 }
