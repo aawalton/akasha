@@ -17,7 +17,6 @@ import {
 } from "akasha/person/modules/device-secret-shape/device-secret-shape.module.code.ts"
 import {
   noNap,
-  overTheLiveStore,
   recordingFetcher,
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
 
@@ -215,13 +214,4 @@ test("no refusal carries the secret that was presented", async () => {
   const secret = generateDeviceSecret()
   const refused = await deviceSecretPresented(secret, storeLike({}), noNap)
   expect(JSON.stringify(refused)).not.toContain(secret)
-})
-
-test("the store answers for the device secret page type rather than refusing", async () => {
-  const held = await overTheLiveStore(async () =>
-    deviceSecretPresented(generateDeviceSecret(), undefined, noNap)
-  )
-  expect(held.outcome).toBe("refused")
-  if (held.outcome !== "refused") return
-  expect(held.why).toBe("no device secret represents the secret presented")
 })

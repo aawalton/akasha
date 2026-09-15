@@ -2,9 +2,7 @@ import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { personSlugForAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import {
-  accountStatedBy,
   noNap,
-  overTheLiveStore,
   recordingFetcher,
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
 
@@ -24,14 +22,12 @@ function refusing(status: number): Fetcher {
 }
 
 test("the account a person states is read back to that person", async () => {
-  const read = await overTheLiveStore(async () =>
-    personSlugForAccount(await accountStatedBy("alan"))
-  )
+  const read = await personSlugForAccount("an-account", answering([{ slug: "alan" }]), noNap)
   expect(read).toEqual({ ok: true, personSlug: "alan" })
 })
 
 test("an account no person states is nobody", async () => {
-  const read = await overTheLiveStore(async () => personSlugForAccount(ACCOUNT_NOBODY_STATES))
+  const read = await personSlugForAccount(ACCOUNT_NOBODY_STATES, answering([]), noNap)
   expect(read.ok).toBe(false)
   if (read.ok) return
   expect(read.unread).toBe(false)

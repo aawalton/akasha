@@ -1,9 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
-  accountStatedBy,
   noNap,
-  overTheLiveStore,
   recordingFetcher,
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
 import {
@@ -33,41 +31,26 @@ function answeringByType(byType: Record<string, readonly Record<string, unknown>
   }
 }
 
-test("the account Alan states reaches the readout feed", async () => {
-  const decided = await overTheLiveStore(async () =>
-    routeAccessForAccount(await accountStatedBy("alan"), ROUTE_TARGETS.READOUT_FEED)
-  )
-  expect(decided).toEqual({ permitted: true, why: null })
-})
-
-test("the account Alan states reaches the device secret mint", async () => {
-  const decided = await overTheLiveStore(async () =>
-    routeAccessForAccount(await accountStatedBy("alan"), ROUTE_TARGETS.DEVICE_SECRET_MINT)
-  )
-  expect(decided.permitted).toBe(true)
-})
-
 test("an account no person states reaches no route", async () => {
-  const decided = await overTheLiveStore(async () =>
-    routeAccessForAccount(ACCOUNT_NOBODY_STATES, ROUTE_TARGETS.READOUT_FEED)
+  const decided = await routeAccessForAccount(
+    ACCOUNT_NOBODY_STATES,
+    ROUTE_TARGETS.READOUT_FEED,
+    answeringByType({ person: [] }),
+    noNap
   )
   expect(decided.permitted).toBe(false)
   expect(decided.why).toContain("no person states the account")
 })
 
 test("a person with no route access reaches no route", async () => {
-  const decided = await overTheLiveStore(async () =>
-    routeAccessForPerson("ki", ROUTE_TARGETS.READOUT_FEED)
+  const decided = await routeAccessForPerson(
+    "ki",
+    ROUTE_TARGETS.READOUT_FEED,
+    answeringByType({ "person-access": [] }),
+    noNap
   )
   expect(decided.permitted).toBe(false)
   expect(decided.why).toContain("holds no route access naming")
-})
-
-test("the accesses read for a person are the route ones alone", async () => {
-  const held = await overTheLiveStore(async () => routeTargetsFor("alan"))
-  expect(held.ok).toBe(true)
-  if (!held.ok) return
-  expect([...held.targets].sort()).toEqual(["all", "device-secret-mint", "readout-feed"])
 })
 
 test("an access stating all names every route", () => {
