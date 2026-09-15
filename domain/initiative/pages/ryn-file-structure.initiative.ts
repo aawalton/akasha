@@ -11,9 +11,6 @@ export const rynFileStructure = {
       statement: "A folder is named in the singular.",
     },
     {
-      statement: "A folder's name is worked out from the page type of what that folder holds.",
-    },
-    {
       statement: "No slug is plural.",
     },
     {
