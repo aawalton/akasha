@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/agent-hook/weigh-bash-call/weigh-bash-call.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/modules/links/hook-links.module.test.ts"}
@@ -220,7 +219,6 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/service/modules/deploy-subject-listing/deploy-subject-listing.module.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/service/secret/modules/workstation-secrets/workstation-secrets.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test.ts"}
@@ -262,6 +260,8 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/community-addon/modules/installed-addons/installed-addons.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"util/fs/modules/scratching/scratching.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"util/fs/modules/whole-writing/whole-writing.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"util/fs/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"util/fs/test-fixtures/kept-scratch/kept-scratch.test-fixture.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/modules/read-record/read-record.module.test.ts"}

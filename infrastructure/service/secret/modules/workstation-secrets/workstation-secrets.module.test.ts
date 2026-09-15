@@ -6,7 +6,7 @@ import {
   SECRETS_FILE,
   saveWorkstationSecret,
 } from "akasha/infrastructure/service/secret/modules/workstation-secrets/workstation-secrets.module.code.ts"
-import { keptAt } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { keptAt } from "akasha/util/fs/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
 
 const NAME = "GOOGLE_OAUTH_REFRESH_TOKEN"
 

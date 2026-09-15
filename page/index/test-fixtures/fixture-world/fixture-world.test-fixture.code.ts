@@ -21,8 +21,9 @@ import {
   shapesFiledAt,
   shapesIn,
 } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
-import { keptAt, scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
+import { keptAt } from "akasha/util/fs/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
 
 export type Held = Record<string, unknown>
 

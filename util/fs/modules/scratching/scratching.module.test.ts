@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { dirname } from "node:path"
 import {
-  keptAt,
   SCRATCH_AT,
   scratchWorld,
 } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
@@ -34,22 +33,6 @@ test("a sweep takes every root the world handed out", () => {
   const two = held.rootFor(PREFIX)
   held.sweep()
   expect([existsSync(one), existsSync(two)]).toEqual([false, false])
-})
-
-test("a kept root is left as it was by the sweep of any world a test file holds", () => {
-  const held = scratchWorld()
-  held.rootFor(PREFIX)
-  const root = keptAt(PREFIX)
-  held.sweep()
-  expect(existsSync(root)).toBe(true)
-})
-
-test("the kept world is swept by one handler the end of the process runs", () => {
-  const root = keptAt(PREFIX)
-  const swept = process.listeners("exit").filter((one) => one.name === "sweep")
-  expect(swept.length).toBe(1)
-  swept[0]?.(0)
-  expect(existsSync(root)).toBe(false)
 })
 
 test("a sweep asked twice is no trouble the second time", () => {
