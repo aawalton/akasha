@@ -1,16 +1,16 @@
 import type { RuntimeError } from "akasha/alan/harness/errors-core/runtime-error/runtime-error.page-type.types.ts"
 
-export const alanwalton62f9a0bf95e8a830 = {
-  id: "01a0a72f-4437-7ca6-ae53-1a3485745d39",
+export const alanwaltonFb6867e395fe978f = {
+  id: "01a0a72f-679a-7576-93c2-e625ec35d8b6",
   type: "page-type/runtime-error",
-  slug: "alanwalton-62f9a0bf95e8a830",
-  fingerprint: "62f9a0bf95e8a830",
+  slug: "alanwalton-fb6867e395fe978f",
+  fingerprint: "fb6867e395fe978f",
   app: "alanwalton",
-  kind: "unhandledrejection",
+  kind: "error",
   message:
-    "patchPage: this page type's pages are files, and /api/page-write gave no answer, so the write did not land (TypeError: Load failed)",
+    "[pages-ui-store] a write landed on the server and never came back, so the screen is dropping the edit it is showing for row 019e0394-18d8-7034-bda0-e7cc372eb80d",
   url: "https://alanwalton.com/nav/tasks-a7242626",
   userAgent:
     "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-  firstSeenAt: "2026-09-15T22:28:07.759Z",
+  firstSeenAt: "2026-09-15T22:28:07.751Z",
 } as const satisfies RuntimeError
