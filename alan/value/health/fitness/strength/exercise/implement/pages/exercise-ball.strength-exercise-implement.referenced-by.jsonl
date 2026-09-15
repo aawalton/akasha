@@ -1,0 +1,13 @@
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/ball-crunch/ball-crunch.strength-exercise.ts","id":"019ebc77-2f5c-7cf9-ae5c-c07d61af041e"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/ball-leg-curl/ball-leg-curl.strength-exercise.ts","id":"019ebc76-1ea1-7f45-9153-20d74d5e6c8e"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/ball-pull-in/ball-pull-in.strength-exercise.ts","id":"019ebc77-2fa3-7753-89cb-bf44112719b2"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/chest-stretch-on-stability-ball/chest-stretch-on-stability-ball.strength-exercise.ts","id":"019ebc76-cf8e-75d8-8553-0081bbb698b2"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/downward-facing-balance/downward-facing-balance.strength-exercise.ts","id":"019ebc77-010a-7ba0-9ce5-209f536bd2b6"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/hug-a-ball/hug-a-ball.strength-exercise.ts","id":"019ebc77-76c3-74a4-ad4b-d956ff625132"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/physioball-hip-bridge/physioball-hip-bridge.strength-exercise.ts","id":"019ebc77-c06e-72b2-ba12-cf7810020637"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/push-ups-with-feet-on-an-exercise-ball/push-ups-with-feet-on-an-exercise-ball.strength-exercise.ts","id":"019ebc77-c774-7543-bb4a-64d008e7795c"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/pyramid/pyramid.strength-exercise.ts","id":"019ebc77-c8ef-7e5a-b5cc-ea201e8b72d3"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/torso-rotation/torso-rotation.strength-exercise.ts","id":"019ebc78-aac7-7795-aa3c-e0c14970a013"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/weighted-ball-hyperextension/weighted-ball-hyperextension.strength-exercise.ts","id":"019ebc78-b50f-78a4-b525-12cc716845bc"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/weighted-ball-side-bend/weighted-ball-side-bend.strength-exercise.ts","id":"019ebc78-b554-78f4-9eaa-9e06d5fd7b66"}
+{"propertySlug":"parts","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts","id":"01a09412-00c5-7bbd-ba9c-61f0608a646c"}

@@ -1,0 +1,7 @@
+{"propertySlug":"extends-type","path":"persona/anchor-image/persona-anchor-image.page-type.ts","id":"01a0655b-4a9b-700a-b7af-04be2a9c0df4"}
+{"propertySlug":"extends-type","path":"persona/cover-image/persona-cover-image.page-type.ts","id":"01a0655b-4a9b-700b-a9cc-a60c8e139737"}
+{"propertySlug":"extends-type","path":"persona/wallpaper/persona-wallpaper.page-type.ts","id":"01a0655b-4a9b-700c-8243-c78f27e30dd7"}
+{"propertySlug":"import","fileName":"persona-image.page-type.types.ts","path":"persona/anchor-image/persona-anchor-image.page-type.types.ts"}
+{"propertySlug":"import","fileName":"persona-image.page-type.types.ts","path":"persona/cover-image/persona-cover-image.page-type.types.ts"}
+{"propertySlug":"import","fileName":"persona-image.page-type.types.ts","path":"persona/wallpaper/persona-wallpaper.page-type.types.ts"}
+{"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}

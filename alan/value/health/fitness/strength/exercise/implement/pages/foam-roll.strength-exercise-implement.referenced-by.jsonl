@@ -1,0 +1,12 @@
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/adductor/adductor.strength-exercise.ts","id":"019ebc75-7b1f-7c79-bd5e-9b5a9919ce97"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/brachialis-smr/brachialis-smr.strength-exercise.ts","id":"019ebc76-b04d-7a6e-b9c6-40df32c9af0a"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/calves-smr/calves-smr.strength-exercise.ts","id":"019ebc76-cb28-72e8-8c83-6fa9c85581fa"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/hamstring-smr/hamstring-smr.strength-exercise.ts","id":"019ebc77-4ba1-70d6-a3ad-67d032364f73"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/iliotibial-tract-smr/iliotibial-tract-smr.strength-exercise.ts","id":"019ebc77-7875-7cd0-abf5-1d795e89eb68"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/latissimus-dorsi-smr/latissimus-dorsi-smr.strength-exercise.ts","id":"019ebc77-8c2e-7161-af7b-216717da419d"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/lower-back-smr/lower-back-smr.strength-exercise.ts","id":"019ebc77-9209-7d4a-b9ed-39d0c21bcb1a"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/peroneals-smr/peroneals-smr.strength-exercise.ts","id":"019ebc77-bff8-7680-a81a-e0e2431a4544"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/piriformis-smr/piriformis-smr.strength-exercise.ts","id":"019ebc77-c0eb-7a1a-bf33-46bae63712f4"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/quadriceps-smr/quadriceps-smr.strength-exercise.ts","id":"019ebc77-c966-7356-b156-267fb0a6d84d"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/rhomboids-smr/rhomboids-smr.strength-exercise.ts","id":"019ebc77-cf9e-74b9-84ea-fc53ab5317ba"}
+{"propertySlug":"parts","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts","id":"01a09412-00c5-7bbd-ba9c-61f0608a646c"}

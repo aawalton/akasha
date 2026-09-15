@@ -1,0 +1,7 @@
+{"propertySlug":"import","fileName":"chat-message-types.module.code.ts","path":"temper/lib-chat-message/modules/chat-history/chat-history.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-types.module.code.ts","path":"temper/lib-chat-message/modules/chat-message-casts/chat-message-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-types.module.code.ts","path":"temper/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-types.module.code.ts","path":"temper/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-types.module.code.ts","path":"temper/lib-chat-message/modules/chat-message-slash-command/chat-message-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-types.module.code.ts","path":"temper/lib-chat-message/modules/chat-proxy/chat-proxy.module.code.ts"}
+{"propertySlug":"parts","path":"temper/lib-chat-message/temper-lib-chat-message.eso-addon.ts","id":"01a06060-0d13-746b-9617-c8f4b7d288ce"}

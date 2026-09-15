@@ -1,0 +1,14 @@
+{"propertySlug":"import","fileName":"index-identity.index.code.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.code.ts","path":"page/address-kind/in-page-property/in-page-property.page-address-kind.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.code.ts","path":"page/address-kind/in-page-type/in-page-type.page-address-kind.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.code.ts","path":"page/address-kind/in-page/in-page.page-address-kind.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.code.ts","path":"page/index/identity/index-identity.index.test.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.code.ts","path":"page/index/modules/settling/index-settling.module.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.code.ts","path":"page/modules/address/page-address.module.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.ts","path":"page/index/identity/index-identity.index.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.ts","path":"page/index/modules/entries/index-entries.module.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.ts","path":"page/index/modules/filing/index-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.ts","path":"page/index/modules/reading/index-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"index-identity.index.ts","path":"page/index/modules/reading/index-reading.module.test-fixtures.ts"}
+{"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

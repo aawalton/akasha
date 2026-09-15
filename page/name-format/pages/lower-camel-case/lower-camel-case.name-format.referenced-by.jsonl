@@ -1,0 +1,14 @@
+{"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/name-format/pages/lower-camel-case/lower-camel-case.name-format.test.ts"}
+{"propertySlug":"name-format","path":"page/name-place/pages/derived-identifier.name-place.ts","id":"01a04fc9-2ad9-76c1-9144-cbcca3d44196"}
+{"propertySlug":"name-format","path":"page/name-place/pages/function-identifier.name-place.ts","id":"01a04fc9-2ad7-7c2a-aab9-6def70b88cca"}
+{"propertySlug":"name-format","path":"page/name-place/pages/property-key.name-place.ts","id":"01a04fed-2fbf-7545-aff5-168ae23e9052"}
+{"propertySlug":"name-format","path":"page/name-place/pages/route-parameter.name-place.ts","id":"01a04fd4-3d74-7647-b787-d329d989e09e"}
+{"propertySlug":"name-format","path":"page/type/properties/body-property-id.text-property.ts","id":"01a0683a-620a-7bd1-9f9f-26882ff5531b"}
+{"propertySlug":"name-format","path":"page/type/properties/child-relation.text-property.ts","id":"01a0683a-620a-74d3-99e4-844f9991c615"}
+{"propertySlug":"name-format","path":"page/type/properties/header-fields.text-property.ts","id":"01a0683a-620a-7905-b43d-ad803b4fae71"}
+{"propertySlug":"name-format","path":"page/type/properties/length-property-id.text-property.ts","id":"01a0683a-620a-7c9f-8c62-ed7e2e10a9ca"}
+{"propertySlug":"name-format","path":"page/type/properties/progress-property-id.text-property.ts","id":"01a0683a-620a-7e65-a95a-efdc99a80eaa"}
+{"propertySlug":"name-format","path":"page/type/properties/sequence-group-by.text-property.ts","id":"01a062de-2001-7001-8470-331eaddff9ce"}
+{"propertySlug":"name-format","path":"page/type/properties/sequence-order-by.text-property.ts","id":"01a062de-2001-7002-8dd0-f44937908528"}
+{"propertySlug":"parts","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}

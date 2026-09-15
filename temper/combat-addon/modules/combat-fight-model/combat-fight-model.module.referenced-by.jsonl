@@ -1,0 +1,9 @@
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/combat-addon/modules/combat-analysis/combat-analysis.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/combat-addon/modules/combat-finalize-buffs/combat-finalize-buffs.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/combat-addon/modules/combat-finalize/combat-finalize.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/combat-addon/modules/combat-process-log-damage/combat-process-log-damage.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/combat-addon/modules/combat-process-log-effects/combat-process-log-effects.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/combat-addon/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/combat-addon/modules/combat-unit-stats/combat-unit-stats.module.code.ts"}
+{"propertySlug":"parts","path":"temper/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

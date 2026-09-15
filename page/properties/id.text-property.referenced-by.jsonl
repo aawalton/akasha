@@ -1,0 +1,10 @@
+{"propertySlug":"import","fileName":"id.text-property.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"id.text-property.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"id.text-property.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
+{"propertySlug":"import","fileName":"id.text-property.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"id.text-property.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"id.text-property.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"id.text-property.types.ts","path":"page/address-kind/in-page/in-page.page-address-kind.code.ts"}
+{"propertySlug":"import","fileName":"id.text-property.types.ts","path":"page/page.page-type.types.ts"}
+{"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
+{"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

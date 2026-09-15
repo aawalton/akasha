@@ -237,10 +237,10 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/workspace/properties/tool-reached.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"command/argument/properties/argument-default.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"command/argument/properties/placeholder.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"command/argument/properties/said.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"command/argument/properties/takes.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"command/properties/entry-default.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"command/properties/level-name.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"command/properties/said.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"command/properties/takes.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"design/game/drive/properties/octalysis-definition.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"design/game/drive/properties/octalysis-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"design/interfaces/color/properties/hex.text-property.ts"}

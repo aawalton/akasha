@@ -1,0 +1,9 @@
+{"propertySlug":"import","fileName":"eso-trait-constant-name.text-property.types.ts","path":"temper/catalog/temper-gear/temper-armor-trait/temper-armor-trait.page-type.types.ts"}
+{"propertySlug":"import","fileName":"eso-trait-constant-name.text-property.types.ts","path":"temper/catalog/temper-gear/temper-jewelry-trait/temper-jewelry-trait.page-type.types.ts"}
+{"propertySlug":"import","fileName":"eso-trait-constant-name.text-property.types.ts","path":"temper/catalog/temper-gear/temper-weapon-trait/temper-weapon-trait.page-type.types.ts"}
+{"propertySlug":"import","fileName":"eso-trait-constant-name.text-property.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts"}
+{"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-armor-trait/temper-armor-trait.page-type.ts","id":"01a05fb0-3ceb-7229-9089-127418274d52"}
+{"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts","id":"01a05fd1-d433-7c53-933e-ed171c6f7cf9"}
+{"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","id":"01a05fd1-d442-7175-b5e4-f7ef9e21a36c"}
+{"propertySlug":"page-property","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
+{"propertySlug":"parts","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}

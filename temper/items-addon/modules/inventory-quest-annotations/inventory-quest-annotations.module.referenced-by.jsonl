@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"inventory-quest-annotations.module.code.ts","path":"temper/items-addon/modules/inventory-entry/inventory-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-quest-annotations.module.code.ts","path":"temper/items-addon/modules/inventory-events/inventory-events.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-quest-annotations.module.code.ts","path":"temper/items-addon/modules/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-quest-annotations.module.code.ts","path":"temper/items-addon/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"}
+{"propertySlug":"parts","path":"temper/items-addon/temper-items-addon.eso-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

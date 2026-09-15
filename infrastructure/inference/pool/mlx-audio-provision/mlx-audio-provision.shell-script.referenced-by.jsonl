@@ -1,0 +1,8 @@
+{"propertySlug":"parts","path":"infrastructure/inference/pool/inference-pool.domain.ts","id":"01a06815-9efd-7015-b82a-e620372e1e32"}
+{"propertySlug":"provision","path":"infrastructure/service/inference/pages/csm.service-inference.ts","id":"01a090a2-71a8-79b2-a532-b27c27e05122"}
+{"propertySlug":"provision","path":"infrastructure/service/inference/pages/higgs-audio.service-inference.ts","id":"01a090a2-4671-73bf-9c7f-1581d427b5b9"}
+{"propertySlug":"provision","path":"infrastructure/service/inference/pages/kokoro.service-inference.ts","id":"01a090a2-5c24-724d-b01c-a733d03553e2"}
+{"propertySlug":"provision","path":"infrastructure/service/inference/pages/moss-tts.service-inference.ts","id":"01a090a1-e663-7f41-809c-ef0e35c0a233"}
+{"propertySlug":"provision","path":"infrastructure/service/inference/pages/qwen3-tts.service-inference.ts","id":"01a090a2-9e6d-7775-b13e-e20d48ca33a2"}
+{"propertySlug":"provision","path":"infrastructure/service/inference/pages/voxcpm2.service-inference.ts","id":"01a090a2-b487-7840-b3dd-d4aec75b2e38"}
+{"propertySlug":"provision","path":"infrastructure/service/inference/pages/whisper-stt.service-inference.ts","id":"01a090a2-876d-7ca6-b85d-4fd1d602345f"}

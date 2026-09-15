@@ -1,0 +1,9 @@
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/service/workstation/pages/dcgm-exporter/dcgm-exporter.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/service/workstation/pages/dcgm-exporter/dcgm-exporter.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/service/workstation/pages/node-exporter/node-exporter.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/service/workstation/pages/node-exporter/node-exporter.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/service/workstation/pages/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/service/workstation/pages/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/service/workstation/pages/ttc-client/ttc-client.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/service/workstation/pages/ttc-client/ttc-client.service-workstation.running.test.ts"}
+{"propertySlug":"parts","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

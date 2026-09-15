@@ -1,0 +1,15 @@
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"agent/hook/agent-hook/weigh-bash-call/weigh-bash-call.agent-hook.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/checking/checking.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/checking/checking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/cost/check-cost.module.test.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"command/modules/calling/calling.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"command/modules/change-ceiling/change-ceiling.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"page/service/modules/page-appending/page-appending.module.code.ts"}
+{"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

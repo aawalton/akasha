@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"character-roles.relation-property.types.ts","path":"temper/character/character-build/character-build.page-type.types.ts"}
+{"propertySlug":"import","fileName":"character-roles.relation-property.types.ts","path":"temper/character/temper-account-character/temper-account-character.page-type.types.ts"}
+{"propertySlug":"page-property","path":"temper/character/character-build/character-build.page-type.ts","id":"01a06835-fae8-7243-8c39-219aa5e07daf"}
+{"propertySlug":"page-property","path":"temper/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
+{"propertySlug":"parts","path":"temper/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}

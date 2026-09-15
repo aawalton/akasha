@@ -1,0 +1,15 @@
+{"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
+{"propertySlug":"person-access-person","path":"person/access/pages/ki-page-type-ki-author.person-access.ts","id":"01a05433-f103-7b4d-92d3-cbfa2bd44eee"}
+{"propertySlug":"person-access-person","path":"person/access/pages/ki-page-type-ki-book-series.person-access.ts","id":"01a05433-f103-740e-8a49-dbe3f9a58d53"}
+{"propertySlug":"person-access-person","path":"person/access/pages/ki-page-type-ki-book.person-access.ts","id":"01a05433-f103-7f79-9e4d-114269ff0b41"}
+{"propertySlug":"person-access-person","path":"person/access/pages/ki-page-type-ki-collection-template.person-access.ts","id":"01a05433-f104-7af1-9306-c61c5767839a"}
+{"propertySlug":"person-access-person","path":"person/access/pages/ki-page-type-ki-episode.person-access.ts","id":"01a05433-f104-721c-acb4-2e62a1cdd395"}
+{"propertySlug":"person-access-person","path":"person/access/pages/ki-page-type-ki-franchise.person-access.ts","id":"01a05433-f104-7bfb-b13d-3cf4c46cd143"}
+{"propertySlug":"person-access-person","path":"person/access/pages/ki-page-type-ki-movie.person-access.ts","id":"01a05433-f104-769b-a1be-2612f5f674a0"}
+{"propertySlug":"person-access-person","path":"person/access/pages/ki-page-type-ki-season.person-access.ts","id":"01a05433-f105-761b-baed-d61da7f3de85"}
+{"propertySlug":"person-access-person","path":"person/access/pages/ki-page-type-ki-show.person-access.ts","id":"01a05433-f105-759f-a560-e569a07c586c"}
+{"propertySlug":"person-authority-person","path":"person/authority/pages/ki-feature-request-archiveofworlds.person-authority.ts","id":"01a05433-f107-75d2-bd48-a5e1960f21e0"}
+{"propertySlug":"person-authority-person","path":"person/authority/pages/ki-feature-request-pages.person-authority.ts","id":"01a05433-f108-7b93-99c4-02790705abeb"}
+{"propertySlug":"person-authority-person","path":"person/authority/pages/ki-page-data-ki.person-authority.ts","id":"01a05433-f108-759f-9f3e-02d7fefd2a74"}
+{"propertySlug":"person-authority-person","path":"person/authority/pages/ki-page-schema-ki.person-authority.ts","id":"01a05433-f108-7b3e-b96e-bf32f9bf688f"}
+{"propertySlug":"relationship-sms-handler-target","path":"alan/relating/relationship/pages/ki-goff/ki-goff.relationship.ts","id":"019db533-f382-78a6-bdb3-e611dc025c4d"}
