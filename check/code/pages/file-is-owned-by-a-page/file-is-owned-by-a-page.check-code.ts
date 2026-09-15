@@ -57,4 +57,6 @@ export const fileIsOwnedByAPage = {
       statement: "No list in this check names a file let through.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CheckCode
