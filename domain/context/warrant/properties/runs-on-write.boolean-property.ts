@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const runsOnWrite = {
   id: "01a04f56-55c4-7002-abdd-9a2cdc30e5bf",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "runs-on-write",
   propertySlug: "runs-on-write",
   definition: "whether a change is refused where this warrant is unanswered",

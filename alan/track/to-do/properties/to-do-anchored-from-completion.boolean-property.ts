@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const toDoAnchoredFromCompletion = {
   id: "01a065a1-49b7-7591-afc7-de41dfe5e026",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "to-do-anchored-from-completion",
   propertySlug: "to-do-anchored-from-completion",
   definition:

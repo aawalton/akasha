@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const inboxTasksClearedToday = {
   id: "01a05fd8-c30f-7ce6-a65b-6c330789f699",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "inbox-tasks-cleared-today",
   propertySlug: "inbox-tasks-cleared-today",
   definition: "whether the tasks reached empty on a day",

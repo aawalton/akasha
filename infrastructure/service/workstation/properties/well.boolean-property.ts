@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const well = {
   id: "01a08c77-7bb7-706c-8b79-08bbd7620c7a",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "well",
   propertySlug: "well",
   definition: "whether a service was running as it should when last looked at",

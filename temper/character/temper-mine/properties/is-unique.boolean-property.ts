@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const isUnique = {
   id: "01a05fcd-f54f-7e52-9fe0-e33a56ea82cc",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "is-unique",
   propertySlug: "is-unique",
   definition: "whether only one of an item may be owned",

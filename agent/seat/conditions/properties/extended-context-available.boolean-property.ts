@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const extendedContextAvailable = {
   id: "01a06861-f664-7047-91d7-8edb290cef14",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "extended-context-available",
   propertySlug: "extended-context-available",
   definition: "whether a seat may take the longer context window",

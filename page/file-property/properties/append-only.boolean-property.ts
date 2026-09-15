@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const appendOnly = {
   id: "01a09270-0077-7f10-a44b-f637833f8549",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "append-only",
   propertySlug: "append-only",
   definition: "whether a file is only ever added to at its end",

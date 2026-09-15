@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const isPositive = {
   id: "01a05fd1-d43c-78a4-ae87-1501c6ab4f40",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "is-positive",
   propertySlug: "is-positive",
   definition: "whether an alchemy effect helps whoever drinks it",

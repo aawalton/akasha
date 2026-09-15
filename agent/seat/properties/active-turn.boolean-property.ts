@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const activeTurn = {
   id: "01a06c75-5eaa-731c-a8c6-a080637acf50",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "active-turn",
   propertySlug: "active-turn",
   definition: "whether a seat is between a prompt and the end of its answer",

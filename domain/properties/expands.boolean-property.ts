@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const expands = {
   id: "01a06935-8f86-79b8-8340-79e19f47b548",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "expands",
   propertySlug: "expands",
   definition: "whether the domains a domain names arrive with it when another document has it",

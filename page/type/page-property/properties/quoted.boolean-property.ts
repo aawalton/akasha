@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const quoted = {
   id: "01a0a582-6d43-7000-85c8-30cfde1eba32",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "quoted",
   propertySlug: "quoted",
   definition: "whether a property holds words kept as they were said",

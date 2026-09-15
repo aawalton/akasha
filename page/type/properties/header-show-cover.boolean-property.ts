@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const headerShowCover = {
   id: "01a0683a-620a-7466-933d-d87085842034",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "header-show-cover",
   propertySlug: "show-cover",
   definition: "whether a page's cover stands above the pages that page gathers",

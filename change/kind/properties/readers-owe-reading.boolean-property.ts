@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const readersOweReading = {
   id: "01a076e3-dd57-7ac5-97e1-dba882addf78",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "readers-owe-reading",
   propertySlug: "readers-owe-reading",
   definition: "whether a change of this kind leaves every other agent owing the reading again",

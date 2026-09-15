@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const subagentStopped = {
   id: "01a09c51-0af1-7b79-8b0d-282cd0e95b9d",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "subagent-stopped",
   propertySlug: "stopped",
   definition: "whether a subagent was stopped from the agents panel",

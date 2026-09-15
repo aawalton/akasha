@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const split = {
   id: "01a0680b-2b00-700d-a462-7c3e8d5f210e",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "split",
   propertySlug: "split",
   definition: "whether a transaction was broken into parts",

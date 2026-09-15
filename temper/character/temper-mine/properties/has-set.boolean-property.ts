@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const hasSet = {
   id: "01a05fcd-f54f-71b0-a87e-a05b0a786f0d",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "has-set",
   propertySlug: "has-set",
   definition: "whether an item belongs to a set",

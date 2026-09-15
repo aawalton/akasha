@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const drawnOffline = {
   id: "01a0a06e-5560-76fc-acd9-668e1cebe18b",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "drawn-offline",
   propertySlug: "drawn-offline",
   definition: "whether the component drawing a page type's pages works with no network",

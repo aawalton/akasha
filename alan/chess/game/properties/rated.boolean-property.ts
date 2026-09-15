@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const rated = {
   id: "01a06582-bd62-736a-8a46-0cfcfa56cab8",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "rated",
   propertySlug: "rated",
   definition: "whether a game counted toward a rating",

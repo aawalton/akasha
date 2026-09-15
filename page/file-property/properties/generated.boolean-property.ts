@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const generated = {
   id: "01a06d4d-c32a-73c2-8814-5b8f1754297f",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "generated",
   propertySlug: "generated",
   definition: "whether a machine rather than an author writes the files a property has",

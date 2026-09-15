@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const enabled = {
   id: "01a05a3f-b42c-74ff-9a06-c83e54d1ff04",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "enabled",
   propertySlug: "enabled",
   definition: "whether a service is to be running",

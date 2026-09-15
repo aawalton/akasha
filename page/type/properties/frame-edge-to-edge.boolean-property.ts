@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const frameEdgeToEdge = {
   id: "01a0683a-620a-782d-98a8-24d1f80e3ef8",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "frame-edge-to-edge",
   propertySlug: "edge-to-edge",
   definition: "whether a page's body runs to the edges of the screen",

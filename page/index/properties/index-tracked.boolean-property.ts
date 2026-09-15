@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const indexTracked = {
   id: "01a09b79-526b-785f-9360-742045f67544",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "index-tracked",
   propertySlug: "tracked",
   definition: "whether git holds the answers an index files",

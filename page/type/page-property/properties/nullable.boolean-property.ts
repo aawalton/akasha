@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const nullable = {
   id: "01a08d70-c263-7e18-b970-543a49a8397c",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "nullable",
   propertySlug: "nullable",
   definition: "whether a page may state nothing under this property rather than a value",

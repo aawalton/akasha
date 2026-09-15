@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const recurring = {
   id: "01a0680b-2b00-700e-9358-2b7d4a6e210f",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "recurring",
   propertySlug: "recurring",
   definition: "whether a transaction is one Monarch expects again",

@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const folderGenerated = {
   id: "01a0a5c3-393c-7cac-a156-052b3bc74e92",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "folder-generated",
   propertySlug: "generated",
   definition: "whether a machine rather than an author writes the files under a property's folder",

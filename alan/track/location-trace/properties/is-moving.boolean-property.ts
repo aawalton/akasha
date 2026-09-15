@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const isMoving = {
   id: "01a06935-68b4-7f5d-893a-b0b243026714",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "is-moving",
   propertySlug: "is-moving",
   definition: "whether the device judged itself in motion",

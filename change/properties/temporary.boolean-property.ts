@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const temporary = {
   id: "01a08be4-8304-781b-9ab3-9259cf4cdafd",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "temporary",
   propertySlug: "temporary",
   definition: "whether what a change writes is meant to be taken away again",

@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const visited = {
   id: "01a06583-acfb-7283-afd9-4e61dda0b062",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "visited",
   propertySlug: "visited",
   definition: "whether the person has been",

@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const following = {
   id: "01a063de-2c60-700a-b99a-430529589ec1",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "following",
   propertySlug: "following",
   definition: "whether a person is working through a collection as the collection arrives",

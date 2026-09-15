@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const isMovable = {
   id: "01a06193-6cb0-7371-9915-23f0c0df1da7",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "is-movable",
   propertySlug: "is-movable",
   definition: "whether a test holds only while the target can be moved",

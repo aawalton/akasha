@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const sorted = {
   id: "01a0958e-49df-77de-8741-a211bb75d609",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "sorted",
   propertySlug: "sorted",
   definition: "whether a property's values are kept in the order those values sort in",

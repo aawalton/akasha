@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const claimed = {
   id: "01a06558-a991-7120-bee3-994201ef685e",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "claimed",
   propertySlug: "claimed",
   definition: "whether a holder is read out of the text rather than stated by it",

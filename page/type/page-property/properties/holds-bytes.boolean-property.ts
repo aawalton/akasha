@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const holdsBytes = {
   id: "01a0783e-bc03-787d-b886-e4476954adbe",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "holds-bytes",
   propertySlug: "holds-bytes",
   definition: "whether the files a property has are bytes rather than text",

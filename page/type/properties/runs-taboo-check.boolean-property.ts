@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const runsTabooCheck = {
   id: "01a063ce-6216-7009-b70d-d16728945271",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "runs-taboo-check",
   propertySlug: "runs-taboo-check",
   definition: "whether the taboo terms are judged over the pages of a page type",

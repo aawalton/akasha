@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const experimental = {
   id: "01a08ced-e365-7000-bdb0-9acbc5810934",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "experimental",
   propertySlug: "experimental",
   definition: "whether a check has landed and does not yet judge",

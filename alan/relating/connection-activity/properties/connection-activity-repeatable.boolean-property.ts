@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const connectionActivityRepeatable = {
   id: "01a0658e-c30e-7e5a-a8ac-ce8fb0ff0309",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "connection-activity-repeatable",
   propertySlug: "connection-activity-repeatable",
   definition: "whether it keeps paying when he does it again",

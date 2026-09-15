@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const trainsLengthenedRange = {
   id: "01a0657e-2bc0-7519-942f-92178841ec74",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "trains-lengthened-range",
   propertySlug: "trains-lengthened-range",
   definition: "whether the movement loads the muscle at its longest",

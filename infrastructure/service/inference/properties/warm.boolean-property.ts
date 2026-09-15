@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const warm = {
   id: "01a09098-2cd1-75ad-a4bc-9be7316e752e",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "warm",
   propertySlug: "warm",
   definition: "whether the pool holds a service up before anything asks for it",

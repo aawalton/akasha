@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const toolResolvesPaths = {
   id: "01a08de9-864d-748a-a2c0-0a5be50709bf",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "tool-resolves-paths",
   propertySlug: "tool-resolves-paths",
   definition: "whether a tool rather than the index resolves the paths in the files a property has",

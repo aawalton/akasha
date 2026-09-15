@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const isOffHandOnly = {
   id: "01a05fcd-aed1-7aee-a94b-06283cd02728",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "is-off-hand-only",
   propertySlug: "is-off-hand-only",
   definition: "whether a weapon is in the off hand alone",

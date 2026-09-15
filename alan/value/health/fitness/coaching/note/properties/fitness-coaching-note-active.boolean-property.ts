@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const fitnessCoachingNoteActive = {
   id: "01a0657a-fe00-736c-907b-2cb955431927",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "fitness-coaching-note-active",
   propertySlug: "active",
   definition: "whether the note still holds",

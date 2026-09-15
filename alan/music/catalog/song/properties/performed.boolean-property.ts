@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const performed = {
   id: "01a06243-144b-7008-8401-2cea9948eac0",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "performed",
   propertySlug: "performed",
   definition: "whether the artist performs the song themselves",

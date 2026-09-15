@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const needsSecrets = {
   id: "01a05a3f-b42c-7a21-9e12-f4819b25195b",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "needs-secrets",
   propertySlug: "needs-secrets",
   definition: "whether a service is handed the secrets in the home directory",

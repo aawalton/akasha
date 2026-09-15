@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const mortal = {
   id: "01a04db0-5818-7000-9db8-d72ace0c1877",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "mortal",
   propertySlug: "mortal",
   definition: "whether a page type's pages are expected to be deleted",

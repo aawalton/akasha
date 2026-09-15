@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const runsOnDeploy = {
   id: "01a04e26-4527-7678-b006-a173a188ea5d",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "runs-on-deploy",
   propertySlug: "runs-on-deploy",
   definition: "whether a check judges a set of changes at deploy",

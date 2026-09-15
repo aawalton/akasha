@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const repeats = {
   id: "01a093fd-5112-7f98-883b-01d434b2b228",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "repeats",
   propertySlug: "repeats",
   definition: "whether one call says an argument more than once",

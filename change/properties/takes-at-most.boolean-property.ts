@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const takesAtMost = {
   id: "01a091db-ef1e-7d59-82ae-b2fbcb028c53",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "takes-at-most",
   propertySlug: "takes-at-most",
   definition: "whether a change takes a ceiling on how many pages one run acts on",

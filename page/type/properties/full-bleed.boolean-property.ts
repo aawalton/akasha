@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const fullBleed = {
   id: "01a0683a-620a-7435-8338-a09996d02130",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "full-bleed",
   propertySlug: "full-bleed",
   definition: "whether a page is drawn with no margin held around it",

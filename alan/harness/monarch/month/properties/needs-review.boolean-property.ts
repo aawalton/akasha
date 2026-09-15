@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const needsReview = {
   id: "01a0680b-2b00-700f-b721-6d1f5c8a2110",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "needs-review",
   propertySlug: "needs-review",
   definition: "whether a transaction is waiting for somebody to settle it",

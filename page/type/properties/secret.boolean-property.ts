@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const secret = {
   id: "01a0547c-6ae7-7000-897a-83b3e0d40bc4",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "secret",
   propertySlug: "secret",
   definition: "whether the value a page has for this property is hidden from whoever has the files",

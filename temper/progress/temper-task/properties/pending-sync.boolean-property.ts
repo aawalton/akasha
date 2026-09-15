@@ -2,7 +2,7 @@ import type { BooleanProperty } from "akasha/page/boolean-property/boolean-prope
 
 export const pendingSync = {
   id: "01a06d85-7b22-7be6-8897-ac848f243c69",
-  type: "boolean-property",
+  type: "page-type/boolean-property",
   slug: "pending-sync",
   propertySlug: "pending-sync",
   definition: "whether a task has changed since the watcher last carried it out to the game",
