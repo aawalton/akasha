@@ -8,12 +8,12 @@ export const personHandlers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A person nobody answers is warned about and left out rather than refusing the list.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here resolves a recipient.",
     },
   ],
