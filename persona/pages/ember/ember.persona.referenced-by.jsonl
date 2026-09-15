@@ -7,3 +7,4 @@
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/ember-werewolf-parse.initiative.ts","id":"01a090d2-f75d-7a2d-98e2-136f0cae87ed"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-07-02.persona-craft-day.ts","id":"019f2306-5f52-7eda-9346-dcdeb0a1e350"}
+{"propertySlug":"seat-persona","path":"agent/seat/pages/ember/ember.seat.ts","id":"01a0a533-f22b-7000-bf0d-dbed0323e9b0"}
