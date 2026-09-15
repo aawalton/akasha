@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0095Chapter94BattleOfTheSteamVents = {
   id: "01a0672c-eb66-7000-a99e-6c5269f4b3dc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0095-chapter-94-battle-of-the-steam-vents",
   title: "Chapter 94: Battle of the Steam Vents",
   story: "story-read/dungeon-of-knowledge-complete",

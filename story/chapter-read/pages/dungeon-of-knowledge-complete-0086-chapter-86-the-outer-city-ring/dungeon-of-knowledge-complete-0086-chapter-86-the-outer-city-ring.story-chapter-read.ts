@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0086Chapter86TheOuterCityRing = {
   id: "01a0672c-eb60-7001-ab1b-a82b91d22918",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0086-chapter-86-the-outer-city-ring",
   title: "Chapter 86: The Outer City Ring",
   story: "story-read/dungeon-of-knowledge-complete",

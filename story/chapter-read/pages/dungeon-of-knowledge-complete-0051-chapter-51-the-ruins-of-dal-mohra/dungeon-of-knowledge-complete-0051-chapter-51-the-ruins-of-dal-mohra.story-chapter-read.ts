@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0051Chapter51TheRuinsOfDalMohra = {
   id: "01a0672c-eb43-7001-80ea-3e828d3561b2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0051-chapter-51-the-ruins-of-dal-mohra",
   title: "Chapter 51: The Ruins of Dal’mohra",
   story: "story-read/dungeon-of-knowledge-complete",

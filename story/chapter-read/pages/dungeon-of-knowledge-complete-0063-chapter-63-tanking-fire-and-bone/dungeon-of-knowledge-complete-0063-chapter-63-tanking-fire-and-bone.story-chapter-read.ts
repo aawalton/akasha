@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0063Chapter63TankingFireAndBone = {
   id: "01a0672c-eb4c-7001-be52-8c39ae0f52bb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0063-chapter-63-tanking-fire-and-bone",
   title: "Chapter 63: Tanking Fire and Bone",
   story: "story-read/dungeon-of-knowledge-complete",

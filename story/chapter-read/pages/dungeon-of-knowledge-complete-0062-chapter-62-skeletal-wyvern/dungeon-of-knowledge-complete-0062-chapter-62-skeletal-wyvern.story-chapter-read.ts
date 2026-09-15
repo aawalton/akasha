@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0062Chapter62SkeletalWyvern = {
   id: "01a0672c-eb4c-7000-b333-e815ba81c768",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0062-chapter-62-skeletal-wyvern",
   title: "Chapter 62: Skeletal Wyvern",
   story: "story-read/dungeon-of-knowledge-complete",

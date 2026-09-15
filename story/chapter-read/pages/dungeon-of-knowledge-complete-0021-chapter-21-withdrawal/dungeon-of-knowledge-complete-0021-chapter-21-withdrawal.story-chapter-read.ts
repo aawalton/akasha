@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0021Chapter21Withdrawal = {
   id: "01a0672c-eb25-7000-8d1e-58bebb9c6447",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0021-chapter-21-withdrawal",
   title: "Chapter 21: Withdrawal",
   story: "story-read/dungeon-of-knowledge-complete",

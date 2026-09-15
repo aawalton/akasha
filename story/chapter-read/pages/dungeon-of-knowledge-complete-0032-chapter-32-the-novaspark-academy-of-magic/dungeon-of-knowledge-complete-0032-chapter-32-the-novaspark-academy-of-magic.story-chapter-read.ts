@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0032Chapter32TheNovasparkAcademyOfMagic = {
   id: "01a0672c-eb33-7000-ab82-d948e599d658",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0032-chapter-32-the-novaspark-academy-of-magic",
   title: "Chapter 32: The Novaspark Academy of Magic",
   story: "story-read/dungeon-of-knowledge-complete",

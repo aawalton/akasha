@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0028Chapter28AWalkThroughTheForest = {
   id: "01a0672c-eb2f-7000-9ffd-5f5b9cd96628",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0028-chapter-28-a-walk-through-the-forest",
   title: "Chapter 28: A Walk Through the Forest",
   story: "story-read/dungeon-of-knowledge-complete",

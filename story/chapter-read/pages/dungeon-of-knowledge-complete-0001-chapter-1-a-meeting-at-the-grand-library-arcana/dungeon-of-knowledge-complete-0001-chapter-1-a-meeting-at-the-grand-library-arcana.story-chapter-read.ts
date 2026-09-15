@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0001Chapter1AMeetingAtTheGrandLibraryArcana = {
   id: "01a0672c-eb04-7000-8075-7470cf6cb498",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0001-chapter-1-a-meeting-at-the-grand-library-arcana",
   title: "Chapter 1: A Meeting at the Grand Library Arcana",
   story: "story-read/dungeon-of-knowledge-complete",

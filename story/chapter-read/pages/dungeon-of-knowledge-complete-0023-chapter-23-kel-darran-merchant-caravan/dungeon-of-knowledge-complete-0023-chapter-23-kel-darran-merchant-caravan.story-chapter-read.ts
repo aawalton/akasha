@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0023Chapter23KelDarranMerchantCaravan = {
   id: "01a0672c-eb26-7001-96a6-de8ac12c0fb9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0023-chapter-23-kel-darran-merchant-caravan",
   title: "Chapter 23: Kel’darran Merchant Caravan",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0052Chapter52BoneSpitterDrone = {
   id: "01a0672c-eb44-7000-9914-06d233b93c4c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0052-chapter-52-bone-spitter-drone",
   title: "Chapter 52: Bone Spitter Drone",
   story: "story-read/dungeon-of-knowledge-complete",

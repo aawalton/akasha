@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0029Chapter29GoblinBugbears = {
   id: "01a0672c-eb30-7000-8f57-ec06dbea384e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0029-chapter-29-goblin-bugbears",
   title: "Chapter 29: Goblin Bugbears",
   story: "story-read/dungeon-of-knowledge-complete",

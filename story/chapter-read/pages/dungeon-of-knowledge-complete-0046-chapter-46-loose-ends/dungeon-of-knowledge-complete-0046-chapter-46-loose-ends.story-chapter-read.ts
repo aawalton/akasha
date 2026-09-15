@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0046Chapter46LooseEnds = {
   id: "01a0672c-eb3f-7000-a82e-547aa6403766",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0046-chapter-46-loose-ends",
   title: "Chapter 46: Loose Ends",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0087Chapter87BoneAndDeathTwinWights = {
   id: "01a0672c-eb61-7000-a26d-99082e909e93",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0087-chapter-87-bone-and-death-twin-wights",
   title: "Chapter 87: Bone and Death: Twin Wights",
   story: "story-read/dungeon-of-knowledge-complete",
