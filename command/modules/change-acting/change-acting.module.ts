@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const changeActing = {
   id: "01a07c62-0a71-737e-8955-3410b4a608bf",
-  type: "module",
+  type: "page-type/module",
   slug: "change-acting",
   definition: "the acts run over the edits kept rather than over a change",
   code: "ts",

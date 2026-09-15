@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const terminalReload = {
   id: "01a0680a-fa30-773e-a23e-fcd5bda782a7",
-  type: "module",
+  type: "page-type/module",
   slug: "terminal-reload",
   definition: "the bounded reload a launcher runs over itself before it dispatches",
   code: "ts",

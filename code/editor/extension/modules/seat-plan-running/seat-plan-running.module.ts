@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatPlanRunning = {
   id: "01a0686b-bfe9-72a1-aae1-064e9d606367",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-plan-running",
   definition: "an act taken on a seat, from the row it was invoked on to the read that follows it",
   code: "ts",

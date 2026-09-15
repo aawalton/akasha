@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatObservations = {
   id: "01a0680d-8b1a-7000-abf8-16f7ab595a99",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-observations",
   definition: "what each feature was last seen doing, and the key saying two readings differ",
   code: "ts",

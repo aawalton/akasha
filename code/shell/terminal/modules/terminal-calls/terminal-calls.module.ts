@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const terminalCalls = {
   id: "01a0950e-c46b-7001-9da6-533a75125803",
-  type: "module",
+  type: "page-type/module",
   slug: "terminal-calls",
   definition: "the calls a terminal's shell makes, composed from the pages that name their levels",
   code: "ts",

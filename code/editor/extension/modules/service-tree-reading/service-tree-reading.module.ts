@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceTreeReading = {
   id: "01a09c1e-c132-7ac7-99be-352e386c4030",
-  type: "module",
+  type: "page-type/module",
   slug: "service-tree-reading",
   definition: "how many rows a service tree holds and how many of them are services",
   code: "ts",

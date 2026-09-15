@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const commandServerClient = {
   id: "01a064ea-f958-7000-98c8-4e49f2868f5f",
-  type: "module",
+  type: "page-type/module",
   slug: "command-server-client",
   definition: "the ask written to a held-open bun process and the answer or refusal the ask meets",
   code: "ts",

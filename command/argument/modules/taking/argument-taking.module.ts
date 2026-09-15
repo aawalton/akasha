@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const argumentTaking = {
   id: "01a09419-fb82-7d05-a756-3f0e001dff28",
-  type: "module",
+  type: "page-type/module",
   slug: "argument-taking",
   definition: "a command page's arguments read from a call through the words it says",
   code: "ts",

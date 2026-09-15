@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentReading = {
   id: "01a0686b-bfe9-77b0-aecf-6c31f4ae928a",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-reading",
   definition:
     "the subagents running under each seat, folded out of the bytes each transcript gained",

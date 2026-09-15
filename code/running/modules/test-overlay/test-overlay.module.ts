@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const testOverlay = {
   id: "01a081dc-ed7c-73ff-9f22-31e2a97f4710",
-  type: "module",
+  type: "page-type/module",
   slug: "test-overlay",
   definition: "a change's bodies mounted over the checkout, so a run reads the tree it would make",
   code: "ts",

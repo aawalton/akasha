@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mechanicalFiling = {
   id: "01a07bdb-21d1-719a-b4d8-4208b5776792",
-  type: "module",
+  type: "page-type/module",
   slug: "mechanical-filing",
   definition: "the files a command line names, landed with no gate run over the bodies",
   code: "ts",

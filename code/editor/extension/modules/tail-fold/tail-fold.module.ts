@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tailFold = {
   id: "01a064f0-734e-7895-96ab-58a7eeeeee3b",
-  type: "module",
+  type: "page-type/module",
   slug: "tail-fold",
   definition:
     "the lines a growing file gained since the last fold and the offset that fold ends at",

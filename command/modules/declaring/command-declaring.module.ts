@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const commandDeclaring = {
   id: "01a06958-32a2-7c06-9b74-f48fe681a5bd",
-  type: "module",
+  type: "page-type/module",
   slug: "command-declaring",
   definition: "the shapes a command and the dispatcher reaching it share",
   code: "ts",

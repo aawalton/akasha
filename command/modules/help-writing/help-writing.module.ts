@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const helpWriting = {
   id: "01a093f7-d398-7512-8b9c-b2446f05e2d3",
-  type: "module",
+  type: "page-type/module",
   slug: "help-writing",
   definition: "what a command's page states, written down for a caller",
   code: "ts",

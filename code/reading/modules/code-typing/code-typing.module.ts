@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const codeTyping = {
   id: "01a058ec-4a71-7000-9c3e-6b1f0a2d4e55",
-  type: "module",
+  type: "page-type/module",
   slug: "code-typing",
   definition: "a program built over the pages",
   code: "ts",

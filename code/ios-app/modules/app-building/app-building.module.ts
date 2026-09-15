@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const appBuilding = {
   id: "01a059b8-3354-76d3-b596-b5329132b15d",
-  type: "module",
+  type: "page-type/module",
   slug: "app-building",
   definition: "what building one iOS app takes, read from that app's page",
   code: "ts",

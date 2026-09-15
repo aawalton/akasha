@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const statusBarSlotTypes = {
   id: "01a0655b-ae42-766d-a390-829beb9775ea",
-  type: "module",
+  type: "page-type/module",
   slug: "status-bar-slot-types",
   definition: "the kinds of thing the status bar draws in a slot",
   code: "ts",

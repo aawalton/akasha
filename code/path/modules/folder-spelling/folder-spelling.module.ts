@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const folderSpelling = {
   id: "01a091d9-3205-7ee2-80c5-6583ff907541",
-  type: "module",
+  type: "page-type/module",
   slug: "folder-spelling",
   definition: "a path-shaped string read against a folder",
   code: "ts",

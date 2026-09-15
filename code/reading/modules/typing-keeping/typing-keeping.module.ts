@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const typingKeeping = {
   id: "01a06364-1679-7d55-a520-c4515ba15f89",
-  type: "module",
+  type: "page-type/module",
   slug: "typing-keeping",
   definition: "the version a body is known by, and how a file a program writes lands",
   code: "ts",

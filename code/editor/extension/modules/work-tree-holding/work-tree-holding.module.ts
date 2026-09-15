@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const workTreeHolding = {
   id: "01a08c6d-8191-7d5c-b5f6-f8cb8476d6e0",
-  type: "module",
+  type: "page-type/module",
   slug: "work-tree-holding",
   definition:
     "what the work panel draws for an initiative until the file the service writes has it",

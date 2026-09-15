@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const landingReading = {
   id: "01a06dc1-7f50-78ab-b4c7-e9d9290ad691",
-  type: "module",
+  type: "page-type/module",
   slug: "landing-reading",
   definition:
     "what a landing carries in the read record onto the bodies that landing left, and what it drops",

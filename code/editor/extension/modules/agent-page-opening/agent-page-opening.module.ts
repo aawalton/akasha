@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const agentPageOpening = {
   id: "01a0686b-bfe9-782e-86e6-c23e6ef21f33",
-  type: "module",
+  type: "page-type/module",
   slug: "agent-page-opening",
   definition: "the page akasha has for a row, opened from the row that already had its path",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const installLinking = {
   id: "01a09247-d31a-7256-813e-77eef6451d1b",
-  type: "module",
+  type: "page-type/module",
   slug: "install-linking",
   definition: "the file a page holds linked where that page says the file is reached from",
   code: "ts",

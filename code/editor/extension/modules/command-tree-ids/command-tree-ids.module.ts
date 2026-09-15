@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const commandTreeIds = {
   id: "01a07c93-698e-7ff9-8d61-dad8d2cd54f0",
-  type: "module",
+  type: "page-type/module",
   slug: "command-tree-ids",
   definition: "the strings the editor knows the command tree's view and refresh command by",
   code: "ts",

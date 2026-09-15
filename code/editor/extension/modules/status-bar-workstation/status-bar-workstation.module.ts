@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const statusBarWorkstation = {
   id: "01a0a06d-c7bc-75e2-b14d-994b4e770155",
-  type: "module",
+  type: "page-type/module",
   slug: "status-bar-workstation",
   definition: "the processor and memory figures the status bar draws of the workstation's load",
   code: "ts",

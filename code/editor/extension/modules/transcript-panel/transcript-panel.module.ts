@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const transcriptPanel = {
   id: "01a06811-01d3-7004-8ef9-96ac6599463f",
-  type: "module",
+  type: "page-type/module",
   slug: "transcript-panel",
   definition: "the command that opens a seat's transcript, and the seat it asks Alan to pick",
   code: "ts",

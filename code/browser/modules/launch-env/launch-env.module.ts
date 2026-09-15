@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const launchEnv = {
   id: "01a05c48-deeb-7004-ae00-696bc1c422ae",
-  type: "module",
+  type: "page-type/module",
   slug: "launch-env",
   definition: "the environment variables a browser process is started with",
   code: "ts",

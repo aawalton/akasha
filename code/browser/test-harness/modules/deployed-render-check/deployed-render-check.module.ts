@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployedRenderCheck = {
   id: "01a05ca9-d802-795d-ac6f-ca68611372b6",
-  type: "module",
+  type: "page-type/module",
   slug: "deployed-render-check",
   definition:
     "whether a rendered page passed, failed or could not be told apart from an empty shell",

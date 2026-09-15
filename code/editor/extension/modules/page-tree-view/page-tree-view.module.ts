@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageTreeView = {
   id: "01a06867-dbcb-7925-ac63-840ba36e4dce",
-  type: "module",
+  type: "page-type/module",
   slug: "page-tree-view",
   definition: "the rows the editor asks for of the page tree and what each row is drawn as",
   code: "ts",

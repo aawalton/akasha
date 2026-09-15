@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const agentForest = {
   id: "01a0686b-bfe9-798c-9d61-ea31258cd97c",
-  type: "module",
+  type: "page-type/module",
   slug: "agent-forest",
   definition: "the seats and the subagents under them hung into the tree the panel draws",
   code: "ts",

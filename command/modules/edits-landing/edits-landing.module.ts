@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const editsLanding = {
   id: "01a08132-ea7c-7ba6-972a-e1a6c95b5b76",
-  type: "module",
+  type: "page-type/module",
   slug: "edits-landing",
   definition: "the bodies a landing takes, worked out from the answer a change gave",
   code: "ts",

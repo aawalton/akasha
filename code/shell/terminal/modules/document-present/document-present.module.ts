@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const documentPresent = {
   id: "01a0680a-fa30-7f0d-89f4-80ea9c4f2e25",
-  type: "module",
+  type: "page-type/module",
   slug: "document-present",
   definition: "whether a persona's or a person's document is there, asked in shell by its slug",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const terminalMarks = {
   id: "01a06491-1a8d-7b02-a92e-48083598a4b9",
-  type: "module",
+  type: "page-type/module",
   slug: "terminal-marks",
   definition:
     "what the renamer last put on each terminal, and the name it puts on one with no process id",

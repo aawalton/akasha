@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const statusBarUsage = {
   id: "01a0655b-ae42-784d-bd36-ba69482649b6",
-  type: "module",
+  type: "page-type/module",
   slug: "status-bar-usage",
   definition: "the session and weekly figures the status bar draws of the fleet's spend",
   code: "ts",

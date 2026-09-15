@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const verifyRenderPlan = {
   id: "01a0691b-4f64-7cae-bd86-446992c33c41",
-  type: "module",
+  type: "page-type/module",
   slug: "verify-render-plan",
   definition:
     "what a render check decides before it drives the browser, from the flags it was given",

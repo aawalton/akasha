@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const workTreeAssigning = {
   id: "01a0a582-5ba1-718f-b298-f2395686421a",
-  type: "module",
+  type: "page-type/module",
   slug: "work-tree-assigning",
   definition:
     "the initiative Alan assigns in the work tree named to the command and to the panel holding it",

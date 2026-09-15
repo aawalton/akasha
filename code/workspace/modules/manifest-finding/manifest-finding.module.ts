@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const manifestFinding = {
   id: "01a0a04a-15a8-7799-bdf2-4db67b297cd0",
-  type: "module",
+  type: "page-type/module",
   slug: "manifest-finding",
   definition: "which manifests are in the tree, and the folder each one sits in",
   code: "ts",

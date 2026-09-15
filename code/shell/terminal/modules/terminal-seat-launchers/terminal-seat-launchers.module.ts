@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const terminalSeatLaunchers = {
   id: "01a0680a-fa30-755d-8c2b-8b46724afdcd",
-  type: "module",
+  type: "page-type/module",
   slug: "terminal-seat-launchers",
   definition: "the shell starting a fresh seat or resuming one, attached in the terminal typed in",
   code: "ts",

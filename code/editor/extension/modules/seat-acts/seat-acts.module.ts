@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatActs = {
   id: "01a0686b-bfe9-770c-b16a-b99c4d15eec7",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-acts",
   definition: "the seat command and terminals a planned step is carried out as, one seat at a time",
   code: "ts",

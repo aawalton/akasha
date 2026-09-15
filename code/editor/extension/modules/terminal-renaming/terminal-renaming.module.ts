@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const terminalRenaming = {
   id: "01a06811-01d3-7008-a808-17b815c1fd1f",
-  type: "module",
+  type: "page-type/module",
   slug: "terminal-renaming",
   definition: "the naming that puts every terminal on its seat, and what sets one going",
   code: "ts",

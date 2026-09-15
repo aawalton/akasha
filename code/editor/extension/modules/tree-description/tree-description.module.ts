@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const treeDescription = {
   id: "01a081eb-4c68-74d1-b315-5777eb9c2046",
-  type: "module",
+  type: "page-type/module",
   slug: "tree-description",
   definition: "what a panel says beside its title of how many rows that panel drew",
   code: "ts",

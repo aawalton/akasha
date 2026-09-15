@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const spacingStepping = {
   id: "01a08277-ba81-7b7f-97c0-84c028b4447a",
-  type: "module",
+  type: "page-type/module",
   slug: "spacing-stepping",
   definition: "the spacing steps a stylesheet states, written again as Swift",
   code: "ts",

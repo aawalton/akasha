@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const argumentNarrowing = {
   id: "01a069da-b9b3-7c68-b5aa-1d269342aa9e",
-  type: "module",
+  type: "page-type/module",
   slug: "argument-narrowing",
   definition: "a value from outside read as the type a command needs",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const browserTestEnv = {
   id: "01a05ca9-d802-7492-b412-add2b3935750",
-  type: "module",
+  type: "page-type/module",
   slug: "browser-test-env",
   definition: "the credentials and urls a browser test signs in with, read from the environment",
   code: "ts",

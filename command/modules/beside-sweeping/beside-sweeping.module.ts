@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const besideSweeping = {
   id: "01a09497-3f38-7f42-8d3d-b4b296f80bea",
-  type: "module",
+  type: "page-type/module",
   slug: "beside-sweeping",
   definition: "the uncommitted files beside a page, gone with the page rather than left behind",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const codeRule = {
   id: "01a04ea7-b2ea-74df-8173-b596f1d191cc",
-  type: "module",
+  type: "page-type/module",
   slug: "code-rule",
   definition: "what a function does, read so that renaming it or what it binds says nothing new",
   code: "ts",

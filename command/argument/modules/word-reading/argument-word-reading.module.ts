@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const argumentWordReading = {
   id: "01a09600-4b21-7a3e-9f08-2c7d41e6b905",
-  type: "module",
+  type: "page-type/module",
   slug: "argument-word-reading",
   definition: "a call's words read against the narrowings handed in",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatTerminalOpenLine = {
   id: "01a09c58-2398-7392-b878-1c1491cab780",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-terminal-open-line",
   definition: "the key opening a line in a seat's terminal, sent with the prefix it carries",
   code: "ts",

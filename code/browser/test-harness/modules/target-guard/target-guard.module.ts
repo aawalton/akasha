@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const targetGuard = {
   id: "01a05ca9-d804-71ee-aeea-ce444d2f6275",
-  type: "module",
+  type: "page-type/module",
   slug: "target-guard",
   definition: "the warning that a deployed target does not carry this branch's commits",
   code: "ts",

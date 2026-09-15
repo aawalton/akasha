@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const codeFormat = {
   id: "01a04edc-5281-769c-8ba8-522d8f569095",
-  type: "module",
+  type: "page-type/module",
   slug: "code-format",
   definition:
     "putting a body through the formatter this repo stands on, and taking back only what can be trusted",

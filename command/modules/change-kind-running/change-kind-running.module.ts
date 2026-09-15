@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const changeKindRunning = {
   id: "01a06315-8aa2-7993-a0d0-9ec51066ecaf",
-  type: "module",
+  type: "page-type/module",
   slug: "change-kind-running",
   definition: "what a run of a change kind does about the checks and the readings owed",
   code: "ts",

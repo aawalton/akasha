@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const folderLinking = {
   id: "01a08e0f-1a66-7dc0-8cec-1028a7c33ae9",
-  type: "module",
+  type: "page-type/module",
   slug: "folder-linking",
   definition: "the folder a page owns linked where that page says the folder is reached from",
   code: "ts",

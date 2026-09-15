@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const groupWriting = {
   id: "01a08dd3-479a-794b-bdd2-2b24e59840c6",
-  type: "module",
+  type: "page-type/module",
   slug: "group-writing",
   definition: "the file a page's module property group writes beside that page",
   code: "ts",

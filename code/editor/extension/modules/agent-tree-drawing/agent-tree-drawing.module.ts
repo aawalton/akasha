@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const agentTreeDrawing = {
   id: "01a0686b-bfe9-706d-8295-b8bf933d18de",
-  type: "module",
+  type: "page-type/module",
   slug: "agent-tree-drawing",
   definition:
     "how a row of the agent tree draws, what it opens, and the color a decoration gives it",

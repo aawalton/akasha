@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const championsTree = {
   id: "01a06584-9bf3-7000-a10f-f23c6429fe58",
-  type: "module",
+  type: "page-type/module",
   slug: "champions-tree",
   definition: "a tree of domain rows, each hung under the domain it names as its parent",
   code: "ts",

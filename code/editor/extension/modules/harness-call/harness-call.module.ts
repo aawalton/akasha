@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const harnessCall = {
   id: "01a064f0-734d-7459-91b7-33e6eb60021d",
-  type: "module",
+  type: "page-type/module",
   slug: "harness-call",
   definition: "the harness command run under bun and the whole answer that command gives",
   code: "ts",

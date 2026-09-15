@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatTerminalEnter = {
   id: "01a07810-d1a0-7a18-9605-db774e7b7fc2",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-terminal-enter",
   definition: "the submit key pressed in a seat's terminal, passed on and marked as a message",
   code: "ts",

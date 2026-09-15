@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const landingFinishing = {
   id: "01a094e6-a05f-7213-aac0-264169fdd44c",
-  type: "module",
+  type: "page-type/module",
   slug: "landing-finishing",
   definition: "the work a landing does once its commit has landed",
   code: "ts",

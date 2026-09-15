@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const changeRunning = {
   id: "01a0818f-bf8a-746c-8cff-6a16f214e396",
-  type: "module",
+  type: "page-type/module",
   slug: "change-running",
   definition: "one mechanical change run for the edits it answers",
   code: "ts",

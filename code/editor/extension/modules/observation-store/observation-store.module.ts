@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const observationStore = {
   id: "01a0680d-8b48-7000-aaf0-e6ce2670d86b",
-  type: "module",
+  type: "page-type/module",
   slug: "observation-store",
   definition:
     "each feature's last observation held for one window, and the settled write that lands it",

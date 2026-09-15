@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceTreeView = {
   id: "01a09c1e-87d4-7555-af5b-31f08996ea13",
-  type: "module",
+  type: "page-type/module",
   slug: "service-tree-view",
   definition: "the rows the editor asks for of the service tree and the color each row is drawn in",
   code: "ts",

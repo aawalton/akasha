@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const newestWins = {
   id: "01a07350-1dd6-7dae-968b-4ba076e8b62b",
-  type: "module",
+  type: "page-type/module",
   slug: "newest-wins",
   definition: "one run at a time, with the newest ask run after the run in flight",
   code: "ts",

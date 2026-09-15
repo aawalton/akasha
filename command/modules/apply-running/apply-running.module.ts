@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const applyRunning = {
   id: "01a081bf-3b4f-7261-8bf7-fae03d26357a",
-  type: "module",
+  type: "page-type/module",
   slug: "apply-running",
   definition: "the edits an agent has answered folded into one change and landed",
   code: "ts",

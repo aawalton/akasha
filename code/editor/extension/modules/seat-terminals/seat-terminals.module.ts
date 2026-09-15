@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatTerminals = {
   id: "01a0686b-bfe9-73ac-9c09-182376783320",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-terminals",
   definition:
     "which of this window's terminals a seat is working in, and which column each sits in",

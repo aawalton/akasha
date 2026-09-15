@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const manifestLocking = {
   id: "01a0628d-2f09-7f63-8d3a-27494e9ec287",
-  type: "module",
+  type: "page-type/module",
   slug: "manifest-locking",
   definition:
     "the lockfile a landing's manifests warrant, and the install pointing the workspace at them",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const transcriptDrawing = {
   id: "01a06811-01d3-7002-bee9-dca9b509d3d2",
-  type: "module",
+  type: "page-type/module",
   slug: "transcript-drawing",
   definition: "the html a transcript's entries are drawn as",
   code: "ts",

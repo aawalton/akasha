@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const folderClearing = {
   id: "01a05ece-94d1-7000-ab86-b582eaade3f1",
-  type: "module",
+  type: "page-type/module",
   slug: "folder-clearing",
   definition: "a folder a change leaves holding nothing, taken off the disk innermost first",
   code: "ts",

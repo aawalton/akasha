@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const argumentReading = {
   id: "01a077ef-5905-7fba-b8f0-ebffbf6d80d8",
-  type: "module",
+  type: "page-type/module",
   slug: "argument-reading",
   definition: "the arguments a change is handed, read from what a caller wrote on standard input",
   code: "ts",

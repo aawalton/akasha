@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const workTreePanel = {
   id: "01a06867-dbcc-7879-ad46-099350c0a109",
-  type: "module",
+  type: "page-type/module",
   slug: "work-tree-panel",
   definition: "the Work panel brought up, and the initiatives drawn into it from one file",
   code: "ts",

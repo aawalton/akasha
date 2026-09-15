@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sharedBuildFiles = {
   id: "01a08d67-2fb9-78c4-b9ea-4808b713a611",
-  type: "module",
+  type: "page-type/module",
   slug: "shared-build-files",
   definition: "the files of the pages every iOS app build compiles",
   code: "ts",

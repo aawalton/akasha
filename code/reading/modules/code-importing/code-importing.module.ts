@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const codeImporting = {
   id: "01a0a320-782d-7fad-b1c1-54479f994857",
-  type: "module",
+  type: "page-type/module",
   slug: "code-importing",
   definition: "the paths inside the repository a TypeScript body imports",
   code: "ts",

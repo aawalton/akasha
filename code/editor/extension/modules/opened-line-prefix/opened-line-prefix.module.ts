@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const openedLinePrefix = {
   id: "01a09c52-8d87-74ad-91e7-06ebd71239d7",
-  type: "module",
+  type: "page-type/module",
   slug: "opened-line-prefix",
   definition: "the prefix a line opened under another line carries from it",
   code: "ts",

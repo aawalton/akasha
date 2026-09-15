@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const moduleDirectory = {
   id: "01a090e7-b183-7f2e-be5d-4b8f5a4f0ab2",
-  type: "module",
+  type: "page-type/module",
   slug: "module-directory",
   definition: "the folder a module's own file sits in, as the runtime running it says",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const shellNaming = {
   id: "01a072c8-44bf-7715-ac61-a04e16e5f422",
-  type: "module",
+  type: "page-type/module",
   slug: "shell-naming",
   definition: "the name of the program a pid is running",
   code: "ts",

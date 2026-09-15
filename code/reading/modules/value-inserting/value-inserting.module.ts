@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const valueInserting = {
   id: "01a07be9-0fe1-71dc-a802-443ecc56fe31",
-  type: "module",
+  type: "page-type/module",
   slug: "value-inserting",
   definition: "a value put into the object literal a body declares",
   code: "ts",

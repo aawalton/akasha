@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const domainTreeIds = {
   id: "01a064c8-9a9c-76e0-a025-5d952e3be0ea",
-  type: "module",
+  type: "page-type/module",
   slug: "domain-tree-ids",
   definition: "the strings the editor knows the domain tree's view and refresh command by",
   code: "ts",

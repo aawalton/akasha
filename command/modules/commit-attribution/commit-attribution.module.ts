@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const commitAttribution = {
   id: "01a09c10-91c9-7a57-80f8-b3c2ffe0962c",
-  type: "module",
+  type: "page-type/module",
   slug: "commit-attribution",
   definition: "the lines a commit message ends with naming the model and the session that wrote it",
   code: "ts",

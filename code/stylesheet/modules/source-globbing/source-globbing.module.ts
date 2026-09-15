@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sourceGlobbing = {
   id: "01a08293-ce34-754b-8be5-2829fd5fb36e",
-  type: "module",
+  type: "page-type/module",
   slug: "source-globbing",
   definition:
     "the trees a Tailwind entry stylesheet reads utilities from, worked out from what its app imports",

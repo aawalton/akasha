@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const codeSource = {
   id: "01a05026-bc17-76c6-8a84-242b988bdd57",
-  type: "module",
+  type: "page-type/module",
   slug: "code-source",
   definition: "a body read as TypeScript, and where in that reading a thing is",
   code: "ts",

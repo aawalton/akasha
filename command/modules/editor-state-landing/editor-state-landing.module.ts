@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const editorStateLanding = {
   id: "01a09ca7-7d86-7447-bd3f-e5e996e940ef",
-  type: "module",
+  type: "page-type/module",
   slug: "editor-state-landing",
   definition: "the editor's pictures of the pages written again once a landing has committed",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const codeTokens = {
   id: "01a06558-3a63-729e-8295-2e17302585fe",
-  type: "module",
+  type: "page-type/module",
   slug: "code-tokens",
   definition:
     "the strings, templates and call arguments a body holds, and that body with them blanked",

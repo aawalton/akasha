@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const changeCosting = {
   id: "01a080c6-8416-7379-b588-57f7c3f59557",
-  type: "module",
+  type: "page-type/module",
   slug: "change-costing",
   definition: "what one run of a change or an apply cost, appended beside that command's page",
   code: "ts",

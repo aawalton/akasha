@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const editorGroup = {
   id: "01a064d3-f9f9-7a0f-bdd7-95ee76ccf31e",
-  type: "module",
+  type: "page-type/module",
   slug: "editor-group",
   definition: "the column a seat's terminal opens in and the reason that column was chosen",
   code: "ts",

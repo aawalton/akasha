@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const auditAnswering = {
   id: "01a09240-d563-7000-8504-881721a6fe23",
-  type: "module",
+  type: "page-type/module",
   slug: "audit-answering",
   definition: "the answer an audit gives, held to what one answer carries",
   code: "ts",

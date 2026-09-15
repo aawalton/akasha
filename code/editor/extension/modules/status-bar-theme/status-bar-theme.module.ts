@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const statusBarTheme = {
   id: "01a064c8-9a9c-7a35-9db1-b8f1d3cbf839",
-  type: "module",
+  type: "page-type/module",
   slug: "status-bar-theme",
   definition:
     "the colors the status bar's figure slots take and the color and glyph a separator takes",

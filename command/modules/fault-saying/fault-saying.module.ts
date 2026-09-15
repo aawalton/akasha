@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const faultSaying = {
   id: "01a04fea-ace5-7d39-9830-e4793edb0b2c",
-  type: "module",
+  type: "page-type/module",
   slug: "fault-saying",
   definition: "what a thrown thing says, for a refusal to carry",
   code: "ts",

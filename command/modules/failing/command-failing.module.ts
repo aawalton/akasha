@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const commandFailing = {
   id: "01a069da-b9b3-70b0-a181-941ada376275",
-  type: "module",
+  type: "page-type/module",
   slug: "command-failing",
   definition: "the line a command writes and the code it exits on when its caller is at fault",
   code: "ts",

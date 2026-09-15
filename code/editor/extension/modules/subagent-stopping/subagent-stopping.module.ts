@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentStopping = {
   id: "01a09c6d-a6d5-79aa-aa3b-6c3d88456b4c",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-stopping",
   definition: "a subagent stopped from the agents panel, confirmed and then asked of the harness",
   code: "ts",

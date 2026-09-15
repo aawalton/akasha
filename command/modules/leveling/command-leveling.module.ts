@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const commandLeveling = {
   id: "01a09474-4bf8-7c98-8646-9020174ecb0f",
-  type: "module",
+  type: "page-type/module",
   slug: "command-leveling",
   definition: "the levels of the command tree, as the index carries what each level states",
   code: "ts",

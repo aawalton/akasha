@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const agentTreeIds = {
   id: "01a064d3-f9f8-7c48-8cd9-1747ef827506",
-  type: "module",
+  type: "page-type/module",
   slug: "agent-tree-ids",
   definition: "the strings the editor knows the agent tree's view and commands by",
   code: "ts",

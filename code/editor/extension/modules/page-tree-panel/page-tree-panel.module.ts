@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageTreePanel = {
   id: "01a06867-dbcb-79af-8a3f-3679e67742a9",
-  type: "module",
+  type: "page-type/module",
   slug: "page-tree-panel",
   definition: "the Pages panel brought up, and the pages drawn into it from one file",
   code: "ts",

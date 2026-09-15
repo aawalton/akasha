@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const terminalEntryPoints = {
   id: "01a0680a-fa30-7c2d-9713-6347088773b7",
-  type: "module",
+  type: "page-type/module",
   slug: "terminal-entry-points",
   definition: "the paths a terminal's bash spells to reach akasha",
   code: "ts",

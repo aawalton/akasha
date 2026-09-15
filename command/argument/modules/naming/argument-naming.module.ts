@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const argumentNaming = {
   id: "01a09485-388d-7043-baf2-c88abca4e33e",
-  type: "module",
+  type: "page-type/module",
   slug: "argument-naming",
   definition: "the argument pages a command names, as the index carries what each one states",
   code: "ts",

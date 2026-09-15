@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const calling = {
   id: "01a04bdd-596d-7b89-a6ed-1d12396208f3",
-  type: "module",
+  type: "page-type/module",
   slug: "calling",
   definition: "a name from the command line answered by the command that has it",
   code: "ts",

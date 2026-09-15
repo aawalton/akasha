@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const terminalSeatMarks = {
   id: "01a0785c-fa03-739c-823f-27b2ea6fc501",
-  type: "module",
+  type: "page-type/module",
   slug: "terminal-seat-marks",
   definition: "the seat a terminal is attached to, stated by the shell attaching it",
   code: "ts",

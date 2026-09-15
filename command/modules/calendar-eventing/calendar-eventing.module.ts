@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const calendarEventing = {
   id: "01a08cf3-9ae4-7945-85d6-5e525ca7e8cf",
-  type: "module",
+  type: "page-type/module",
   slug: "calendar-eventing",
   definition: "what an act on a calendar event takes, and the call that act makes",
   code: "ts",

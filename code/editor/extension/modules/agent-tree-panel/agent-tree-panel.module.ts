@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const agentTreePanel = {
   id: "01a0686b-bfe9-7a38-b901-76035639ad29",
-  type: "module",
+  type: "page-type/module",
   slug: "agent-tree-panel",
   definition: "the fleet Alan watches, read from the file the service writes, and acted on",
   code: "ts",

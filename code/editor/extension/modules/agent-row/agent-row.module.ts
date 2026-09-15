@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const agentRow = {
   id: "01a0686b-bfe9-7005-a82e-21c216ec82ea",
-  type: "module",
+  type: "page-type/module",
   slug: "agent-row",
   definition: "the shape of a row the agent tree draws, and the shape a click on a seat carries",
   code: "ts",

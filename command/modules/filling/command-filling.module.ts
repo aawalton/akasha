@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const commandFilling = {
   id: "01a07c81-8c23-70b6-81d9-34ffaac1e749",
-  type: "module",
+  type: "page-type/module",
   slug: "command-filling",
   definition: "what a command was told at a flag or in the file a flag names",
   code: "ts",
