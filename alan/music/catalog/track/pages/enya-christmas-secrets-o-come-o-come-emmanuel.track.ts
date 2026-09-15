@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaChristmasSecretsOComeOComeEmmanuel = {
   id: "01a0a5b0-0a3d-75fb-89f2-416b676039bf",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-christmas-secrets-o-come-o-come-emmanuel",
   ownLength: 3.669766666666667,
   ownProgress: 0,

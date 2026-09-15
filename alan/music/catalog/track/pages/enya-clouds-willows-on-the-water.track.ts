@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCloudsWillowsOnTheWater = {
   id: "01a0a5b0-2b2b-7b22-bd09-4081e17fc4d8",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-clouds-willows-on-the-water",
   ownLength: 3.0422166666666666,
   ownProgress: 0,

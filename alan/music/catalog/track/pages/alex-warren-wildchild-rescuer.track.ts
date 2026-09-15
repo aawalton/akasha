@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenWildchildRescuer = {
   id: "01a0a59d-c79a-7ac6-9c5e-c38120f2027c",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-wildchild-rescuer",
   ownLength: 3.3194333333333335,
   ownProgress: 0,

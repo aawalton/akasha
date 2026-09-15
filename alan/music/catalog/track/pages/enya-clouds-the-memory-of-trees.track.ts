@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCloudsTheMemoryOfTrees = {
   id: "01a0a5b0-2b88-7a3a-8975-656ea0e2fcbe",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-clouds-the-memory-of-trees",
   ownLength: 4.278883333333333,
   ownProgress: 0,

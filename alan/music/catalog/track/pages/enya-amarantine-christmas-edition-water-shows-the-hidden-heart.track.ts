@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaAmarantineChristmasEditionWaterShowsTheHiddenHeart = {
   id: "01a0a5b0-12a2-79b1-b2fd-76221d9e6bca",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-amarantine-christmas-edition-water-shows-the-hidden-heart",
   ownLength: 4.689316666666667,
   ownProgress: 0,

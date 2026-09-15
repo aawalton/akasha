@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenWildchildSameStars = {
   id: "01a0a59d-c751-7c4e-b3e1-e3a828a6cbf2",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-wildchild-same-stars",
   ownLength: 3.330966666666667,
   ownProgress: 0,

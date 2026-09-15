@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaChristmasSecretsAmidTheFallingSnow = {
   id: "01a0a5b0-0a5f-7d83-b234-00df810376ec",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-christmas-secrets-amid-the-falling-snow",
   ownLength: 3.6351,
   ownProgress: 0,

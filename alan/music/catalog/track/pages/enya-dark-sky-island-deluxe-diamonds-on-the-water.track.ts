@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaDarkSkyIslandDeluxeDiamondsOnTheWater = {
   id: "01a0a5b0-0dab-737c-a726-7c06595bd669",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-dark-sky-island-deluxe-diamonds-on-the-water",
   ownLength: 3.5897666666666668,
   ownProgress: 0,

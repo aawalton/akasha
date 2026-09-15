@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCloudsMarchOfTheCelts = {
   id: "01a0a5b0-2a4f-7495-b099-775a61745b31",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-clouds-march-of-the-celts",
   ownLength: 3.25955,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaChristmasSecretsTheSpiritOfChristmasPast = {
   id: "01a0a5b0-0aa1-74d6-ba2e-1680bf2f0493",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-christmas-secrets-the-spirit-of-christmas-past",
   ownLength: 4.3011,
   ownProgress: 0,

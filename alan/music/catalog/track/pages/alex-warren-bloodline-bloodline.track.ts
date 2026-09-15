@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenBloodlineBloodline = {
   id: "01a0a59d-d002-7987-a713-a7be7805f215",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-bloodline-bloodline",
   ownLength: 3.0334666666666665,
   ownProgress: 0,

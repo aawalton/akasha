@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenWildchildLastTime = {
   id: "01a0a59d-c8b5-712a-b4bb-dc0e8c771a98",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-wildchild-last-time",
   ownLength: 3.2809,
   ownProgress: 0,

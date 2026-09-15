@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaChristmasSecretsWhiteIsInTheWinterNight = {
   id: "01a0a5b0-09ae-7aba-aeab-1060e3c9557d",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-christmas-secrets-white-is-in-the-winter-night",
   ownLength: 3.002883333333333,
   ownProgress: 0,

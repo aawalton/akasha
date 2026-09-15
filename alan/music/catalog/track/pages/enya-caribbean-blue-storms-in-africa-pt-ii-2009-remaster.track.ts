@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCaribbeanBlueStormsInAfricaPtIi2009Remaster = {
   id: "01a0a5b0-2540-7cf8-ab99-807118eebac5",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-caribbean-blue-storms-in-africa-pt-ii-2009-remaster",
   ownLength: 3.0782166666666666,
   ownProgress: 0,

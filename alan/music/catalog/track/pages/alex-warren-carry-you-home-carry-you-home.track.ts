@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenCarryYouHomeCarryYouHome = {
   id: "01a0a59d-d154-79c4-a014-54e9d5daa9dc",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-carry-you-home-carry-you-home",
   ownLength: 2.7813333333333334,
   ownProgress: 0,

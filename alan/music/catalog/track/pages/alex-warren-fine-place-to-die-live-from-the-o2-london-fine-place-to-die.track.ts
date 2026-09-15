@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenFinePlaceToDieLiveFromTheO2LondonFinePlaceToDie = {
   id: "01a0a59d-ca03-77f6-bdb0-82eafb082581",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-fine-place-to-die-live-from-the-o2-london-fine-place-to-die",
   ownLength: 3.1237166666666667,
   ownProgress: 0,

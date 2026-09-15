@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenHowCouldYouBeOkGiveYouLove = {
   id: "01a0a59d-d2ff-737d-8c18-94d896ceeb87",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-how-could-you-be-ok-give-you-love",
   ownLength: 3.05665,
   ownProgress: 0,

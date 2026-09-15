@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenWildchildFinePlaceToDie = {
   id: "01a0a59d-c7de-7828-b1d6-cf2c5ec1f5f3",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-wildchild-fine-place-to-die",
   ownLength: 3.1237166666666667,
   ownProgress: 0,

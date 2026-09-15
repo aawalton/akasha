@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenOrdinaryFeatLukeCombsLiveFromLollapaloozaOrdinaryFeatLukeCombsLiveFrom = {
   id: "01a0a59d-cf91-7c83-86d0-bf0c39e92517",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-ordinary-feat-luke-combs-live-from-lollapalooza-ordinary-feat-luke-combs-live-from",
   ownLength: 3.42445,
   ownProgress: 0,

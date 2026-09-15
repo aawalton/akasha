@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaAmarantineChristmasEditionTheRiverSings = {
   id: "01a0a5b0-11b5-744c-b296-3b643132ac11",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-amarantine-christmas-edition-the-river-sings",
   ownLength: 2.8359833333333335,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenTroubledWatersTroubledWaters = {
   id: "01a0a59d-d10e-7217-89c9-622efdb18ad9",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-troubled-waters-troubled-waters",
   ownLength: 3.29625,
   ownProgress: 0,

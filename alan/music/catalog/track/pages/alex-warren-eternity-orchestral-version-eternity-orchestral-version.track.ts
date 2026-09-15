@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenEternityOrchestralVersionEternityOrchestralVersion = {
   id: "01a0a59d-cf61-7c8b-8f30-b8e5c5ea8c5e",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-eternity-orchestral-version-eternity-orchestral-version",
   ownLength: 3.41855,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenOrdinaryWeddingVersionOrdinaryWeddingVersion = {
   id: "01a0a59d-d023-79d4-9e39-ffe246b88535",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-ordinary-wedding-version-ordinary-wedding-version",
   ownLength: 3.1160666666666668,
   ownProgress: 0,

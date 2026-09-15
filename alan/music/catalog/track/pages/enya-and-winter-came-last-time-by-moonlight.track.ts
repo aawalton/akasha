@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaAndWinterCameLastTimeByMoonlight = {
   id: "01a0a5b0-0ed3-76b7-8519-4752dce8b1ba",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-and-winter-came-last-time-by-moonlight",
   ownLength: 3.9617666666666667,
   ownProgress: 0,

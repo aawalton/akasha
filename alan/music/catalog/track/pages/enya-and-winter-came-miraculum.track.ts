@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaAndWinterCameMiraculum = {
   id: "01a0a5b0-0f95-7846-83fa-b8a1db317963",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-and-winter-came-miraculum",
   ownLength: 3.89615,
   ownProgress: 0,

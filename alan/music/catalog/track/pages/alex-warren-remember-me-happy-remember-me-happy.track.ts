@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenRememberMeHappyRememberMeHappy = {
   id: "01a0a59d-d524-74d7-96b9-0a687a8d89b7",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-remember-me-happy-remember-me-happy",
   ownLength: 2.3516,
   ownProgress: 0,

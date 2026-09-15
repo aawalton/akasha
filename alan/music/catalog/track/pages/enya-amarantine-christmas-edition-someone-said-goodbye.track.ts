@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaAmarantineChristmasEditionSomeoneSaidGoodbye = {
   id: "01a0a5b0-121a-7f61-844d-e6bb09b3a69d",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-amarantine-christmas-edition-someone-said-goodbye",
   ownLength: 4.01155,
   ownProgress: 0,

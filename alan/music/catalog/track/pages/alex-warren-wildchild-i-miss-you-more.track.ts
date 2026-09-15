@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenWildchildIMissYouMore = {
   id: "01a0a59d-c825-75ee-a755-54c721662f40",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-wildchild-i-miss-you-more",
   ownLength: 3.07085,
   ownProgress: 0,

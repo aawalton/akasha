@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCloudsShepherdMoons = {
   id: "01a0a5b0-2a30-72cf-a996-e5ff0982bcde",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-clouds-shepherd-moons",
   ownLength: 3.67,
   ownProgress: 0,

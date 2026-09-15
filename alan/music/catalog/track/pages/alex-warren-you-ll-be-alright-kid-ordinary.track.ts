@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenYouLlBeAlrightKidOrdinary = {
   id: "01a0a59d-cb8b-7a8f-9cdf-7e7d21c4b0e5",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-you-ll-be-alright-kid-ordinary",
   ownLength: 3.1160666666666668,
   ownProgress: 0,

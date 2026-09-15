@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCloudsNoHollyForMissQuinn = {
   id: "01a0a5b0-2b6a-7775-a0af-e39a143a3826",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-clouds-no-holly-for-miss-quinn",
   ownLength: 2.6971,
   ownProgress: 0,

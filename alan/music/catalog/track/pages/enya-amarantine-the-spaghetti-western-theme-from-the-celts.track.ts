@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaAmarantineTheSpaghettiWesternThemeFromTheCelts = {
   id: "01a0a5b0-22ba-71f3-b45b-9de9ef45690c",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-amarantine-the-spaghetti-western-theme-from-the-celts",
   ownLength: 1.97555,
   ownProgress: 0,

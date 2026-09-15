@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCloudsPortraitOutOfTheBlue = {
   id: "01a0a5b0-29f1-710b-bc1f-7999686c0c04",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-clouds-portrait-out-of-the-blue",
   ownLength: 3.19555,
   ownProgress: 0,

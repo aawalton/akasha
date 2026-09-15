@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenWildchildAreYouHavingFunAlex = {
   id: "01a0a59d-c800-7a91-b08d-71e6867440a8",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-wildchild-are-you-having-fun-alex",
   ownLength: 1.4431833333333333,
   ownProgress: 0,

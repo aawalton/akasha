@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenChasingShadowsAcousticChasingShadows = {
   id: "01a0a59d-d406-7303-b651-bf76d9b38a57",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-chasing-shadows-acoustic-chasing-shadows",
   ownLength: 2.7337833333333332,
   ownProgress: 0,

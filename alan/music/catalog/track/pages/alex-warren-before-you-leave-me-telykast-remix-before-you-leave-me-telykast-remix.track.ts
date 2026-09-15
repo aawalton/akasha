@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenBeforeYouLeaveMeTelykastRemixBeforeYouLeaveMeTelykastRemix = {
   id: "01a0a59d-d199-7a14-ab76-39c55f4bd374",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-before-you-leave-me-telykast-remix-before-you-leave-me-telykast-remix",
   ownLength: 2.79365,
   ownProgress: 0,

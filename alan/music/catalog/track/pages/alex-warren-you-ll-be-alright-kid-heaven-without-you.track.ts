@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenYouLlBeAlrightKidHeavenWithoutYou = {
   id: "01a0a59d-cce8-7e20-a29e-ea0189dc54cf",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-you-ll-be-alright-kid-heaven-without-you",
   ownLength: 3.3739,
   ownProgress: 0,

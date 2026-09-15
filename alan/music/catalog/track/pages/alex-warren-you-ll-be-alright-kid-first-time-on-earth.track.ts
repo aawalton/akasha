@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenYouLlBeAlrightKidFirstTimeOnEarth = {
   id: "01a0a59d-cb1a-7cd4-9649-644dca6cc8bb",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-you-ll-be-alright-kid-first-time-on-earth",
   ownLength: 2.6842,
   ownProgress: 0,

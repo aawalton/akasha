@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenChasingShadowsMkjRemixChasingShadowsMkjRemix = {
   id: "01a0a59d-d429-78db-87f2-df9c40fdea63",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-chasing-shadows-mkj-remix-chasing-shadows-mkj-remix",
   ownLength: 2.783333333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCloudsOrielWindow = {
   id: "01a0a5b0-2ace-754e-8437-99c1a4f7ef0d",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-clouds-oriel-window",
   ownLength: 2.374433333333333,
   ownProgress: 0,

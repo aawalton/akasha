@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMeLive = {
   id: "01a0a5ae-d0c5-7d90-8955-2e3cafa41bc8",
-  type: "track",
+  type: "page-type/track",
   slug: "ariana-grande-santa-can-t-you-hear-me-live-santa-cant-you-hear-me-live",
   ownLength: 3.7596333333333334,
   ownProgress: 0,

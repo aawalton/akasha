@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenScreamingUnderwaterScreamingUnderwater = {
   id: "01a0a59d-d546-72cb-bb78-623063aa2bbc",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-screaming-underwater-screaming-underwater",
   ownLength: 2.4348833333333335,
   ownProgress: 0,

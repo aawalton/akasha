@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaAmarantineAmarantine = {
   id: "01a0a5b0-2274-7879-91fd-4d8f8c081de2",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-amarantine-amarantine",
   ownLength: 3.124433333333333,
   ownProgress: 0,

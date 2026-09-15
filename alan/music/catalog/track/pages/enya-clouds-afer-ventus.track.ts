@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCloudsAferVentus = {
   id: "01a0a5b0-2aae-7f4f-bf7f-6a03fc14bbee",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-clouds-afer-ventus",
   ownLength: 4.119983333333334,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenBurningDownWithJoeJonasBurningDownWithJoeJonas = {
   id: "01a0a59d-d072-78dc-b21f-4159cf0b8c5b",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-burning-down-with-joe-jonas-burning-down-with-joe-jonas",
   ownLength: 2.9906166666666665,
   ownProgress: 0,

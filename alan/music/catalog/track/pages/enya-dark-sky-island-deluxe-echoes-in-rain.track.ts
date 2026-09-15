@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaDarkSkyIslandDeluxeEchoesInRain = {
   id: "01a0a5b0-0cef-7e35-af95-b6966c0b1aac",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-dark-sky-island-deluxe-echoes-in-rain",
   ownLength: 3.590883333333333,
   ownProgress: 0,

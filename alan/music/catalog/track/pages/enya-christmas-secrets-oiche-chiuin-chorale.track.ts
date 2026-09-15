@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaChristmasSecretsOicheChiuinChorale = {
   id: "01a0a5b0-0ae5-7a48-ac9c-03354223f62c",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-christmas-secrets-oiche-chiuin-chorale",
   ownLength: 3.826,
   ownProgress: 0,

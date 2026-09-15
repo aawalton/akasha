@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaChristmasSecretsTheMagicOfTheNight = {
   id: "01a0a5b0-0a81-78a2-8770-ba6e2a41dbae",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-christmas-secrets-the-magic-of-the-night",
   ownLength: 3.5688833333333334,
   ownProgress: 0,

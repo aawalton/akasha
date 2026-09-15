@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenBurningDownBurningDown = {
   id: "01a0a59d-d0dc-7beb-92e2-dd59608bdc38",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-burning-down-burning-down",
   ownLength: 2.9906166666666665,
   ownProgress: 0,

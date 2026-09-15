@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaCloudsLothlorien = {
   id: "01a0a5b0-2a70-7b41-9c61-1f68b52ab494",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-clouds-lothlorien",
   ownLength: 2.1348833333333332,
   ownProgress: 0,

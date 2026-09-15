@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaChristmasSecretsDreamsAreMorePrecious = {
   id: "01a0a5b0-0ac3-7bff-90a9-519db09fccfa",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-christmas-secrets-dreams-are-more-precious",
   ownLength: 4.428433333333333,
   ownProgress: 0,

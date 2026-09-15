@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenOnMyMindOnMyMind = {
   id: "01a0a59d-cfdb-7b3e-8e4a-b4b4d6ca4c02",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-on-my-mind-on-my-mind",
   ownLength: 3.159283333333333,
   ownProgress: 0,

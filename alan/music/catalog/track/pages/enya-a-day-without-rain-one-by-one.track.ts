@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const enyaADayWithoutRainOneByOne = {
   id: "01a0a5b0-1664-77ff-9c6b-405c33fd66e5",
-  type: "track",
+  type: "page-type/track",
   slug: "enya-a-day-without-rain-one-by-one",
   ownLength: 3.9444333333333335,
   ownProgress: 0,

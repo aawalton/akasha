@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenWildchildCryWolf = {
   id: "01a0a59d-c7bc-7f6d-be7b-cacead92df15",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-wildchild-cry-wolf",
   ownLength: 2.6949666666666667,
   ownProgress: 0,

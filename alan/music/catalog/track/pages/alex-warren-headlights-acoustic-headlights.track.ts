@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const alexWarrenHeadlightsAcousticHeadlights = {
   id: "01a0a59d-d4dd-7d15-ab21-ad037f80f136",
-  type: "track",
+  type: "page-type/track",
   slug: "alex-warren-headlights-acoustic-headlights",
   ownLength: 2.8868833333333335,
   ownProgress: 0,
