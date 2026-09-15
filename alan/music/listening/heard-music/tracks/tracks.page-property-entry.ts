@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const tracks = {
   id: "01a06240-340f-700b-b409-ccc0e5bff5e6",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "tracks",
   propertySlug: "tracks",
   definition: "every track a person has heard, one to a line",

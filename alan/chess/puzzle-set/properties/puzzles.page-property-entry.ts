@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const puzzles = {
   id: "01a06582-bd62-7cb1-8ecf-f95e81141aa9",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "puzzles",
   propertySlug: "puzzles",
   definition: "every puzzle a set has, one to a line",

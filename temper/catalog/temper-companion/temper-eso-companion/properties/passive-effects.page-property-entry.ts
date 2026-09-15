@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const passiveEffects = {
   id: "01a05fcf-2469-73b4-a32a-44ca09660ace",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "passive-effects",
   propertySlug: "passive-effects",
   definition: "what a companion's own passive moves, one metric to a line",

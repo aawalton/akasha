@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const castConditions = {
   id: "01a06197-3a25-77c0-86b3-5e7cc53ae0c5",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "cast-conditions",
   propertySlug: "cast-conditions",
   definition: "what must have before a companion casts a skill, one test to a line",

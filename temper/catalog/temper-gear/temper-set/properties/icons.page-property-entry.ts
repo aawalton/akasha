@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const icons = {
   id: "01a05fd1-d43b-7c0f-bb64-665ec592d68d",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "icons",
   propertySlug: "icons",
   definition: "the icon each piece of a set is shown with, one piece to a line",

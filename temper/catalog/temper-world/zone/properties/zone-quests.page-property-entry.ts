@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const zoneQuests = {
   id: "01a06167-3f9b-700a-9b12-ff06441e9392",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "zone-quests",
   propertySlug: "zone-quests",
   definition: "the quests a zone holds, one quest to a line",

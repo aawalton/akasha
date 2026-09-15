@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const currencies = {
   id: "01a0675a-f185-764c-991b-b24e3698ed52",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "currencies",
   propertySlug: "currencies",
   definition: "how much of each currency is held, one purse to a line",

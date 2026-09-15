@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const traits = {
   id: "01a0616b-2cdf-7004-88a2-5ab03de323e8",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "traits",
   propertySlug: "traits",
   definition: "the traits a research line covers, one trait to a line",

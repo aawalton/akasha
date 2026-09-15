@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const healthSamples = {
   id: "01a060fb-0410-765e-a968-4c9a3477760a",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "health-samples",
   propertySlug: "health-samples",
   definition: "every measurement Alan's phone took whose stretch began on a day, one to a line",

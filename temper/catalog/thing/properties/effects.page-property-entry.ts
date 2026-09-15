@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const effects = {
   id: "01a05fb0-3ceb-742c-998f-6122c9954a30",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "effects",
   propertySlug: "effects",
   definition: "what a thing does, one effect to a line",

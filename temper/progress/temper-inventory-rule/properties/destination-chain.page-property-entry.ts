@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const destinationChain = {
   id: "01a07283-f299-71ac-b104-933518a6706d",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "destination-chain",
   propertySlug: "destination-chain",
   definition: "where a rule puts an item, one leg to a line",

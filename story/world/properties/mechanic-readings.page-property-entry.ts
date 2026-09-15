@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const mechanicReadings = {
   id: "01a063ce-6216-7002-a04b-18f373a5a1d3",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "mechanic-readings",
   propertySlug: "mechanic-readings",
   definition: "how each name a world's text uses is read as a mechanic, one name to a line",

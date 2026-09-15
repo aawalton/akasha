@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const notifications = {
   id: "019f4a1f-0ecc-7d45-8f43-7b424b5f0477",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "notifications",
   propertySlug: "notifications",
   definition: "something pushed at a person rather than waiting for them to look",

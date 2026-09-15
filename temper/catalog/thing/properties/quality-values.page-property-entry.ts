@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const qualityValues = {
   id: "01a05fb0-3cee-76c4-aa3f-972874e23447",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "quality-values",
   propertySlug: "quality-values",
   definition: "what a thing is worth at each grade, one grade to a line",

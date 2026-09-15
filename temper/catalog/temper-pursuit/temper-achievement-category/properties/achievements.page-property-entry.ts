@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const achievements = {
   id: "01a06168-7245-7004-8aa0-eba39e83a4e6",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "achievements",
   propertySlug: "achievements",
   definition: "the achievements a heading holds, one achievement to a line",

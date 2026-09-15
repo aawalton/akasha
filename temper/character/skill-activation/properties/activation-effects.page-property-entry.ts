@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const activationEffects = {
   id: "01a05fcd-f548-76d2-9bca-20e59187c7a2",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "activation-effects",
   propertySlug: "activation-effects",
   definition: "what firing a skill does, one effect to a line",

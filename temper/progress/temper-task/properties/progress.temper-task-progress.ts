@@ -2,7 +2,7 @@ import type { TemperTaskProgress } from "akasha/temper/progress/temper-task-prog
 
 export const progress = {
   id: "01a05fd3-435e-7d0d-8c81-036d195632f1",
-  type: "temper-task-progress",
+  type: "page-type/temper-task-progress",
   slug: "progress",
   propertySlug: "progress",
   definition: "how far a task has come, one character to a line",

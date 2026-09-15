@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const chronologyAnchors = {
   id: "01a0685e-ef8a-71e6-87f4-7f7e2c65e093",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "chronology-anchors",
   propertySlug: "chronology-anchors",
   definition: "every place a chapter dates something, one place to a line",

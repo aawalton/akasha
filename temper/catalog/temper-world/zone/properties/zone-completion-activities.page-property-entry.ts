@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const zoneCompletionActivities = {
   id: "01a06167-3f9b-700c-82b9-015808eb9637",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "zone-completion-activities",
   propertySlug: "zone-completion-activities",
   definition: "the activities a zone is completed by, one activity to a line",

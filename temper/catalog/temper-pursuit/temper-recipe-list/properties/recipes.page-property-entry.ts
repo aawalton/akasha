@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const recipes = {
   id: "01a0626e-c112-752c-87ea-5aac4c49e0ee",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "recipes",
   propertySlug: "recipes",
   definition: "the recipes a list covers, one recipe to a line",

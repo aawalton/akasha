@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const cases = {
   id: "01a053eb-6b25-7c2a-a50f-f804c41457e3",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "cases",
   propertySlug: "cases",
   definition: "the labelled texts a prompt is judged by",

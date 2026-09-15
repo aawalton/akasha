@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const listens = {
   id: "01a06240-340f-7001-ad7b-818302ce884a",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "listens",
   propertySlug: "listens",
   definition: "every play Alan finished on a day, one to a line",

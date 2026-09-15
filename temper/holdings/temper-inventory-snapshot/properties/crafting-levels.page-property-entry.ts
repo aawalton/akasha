@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const craftingLevels = {
   id: "01a0675a-f185-75b8-8e9b-97a031246492",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "crafting-levels",
   propertySlug: "crafting-levels",
   definition: "how far each character has come in each craft, one craft to a line",

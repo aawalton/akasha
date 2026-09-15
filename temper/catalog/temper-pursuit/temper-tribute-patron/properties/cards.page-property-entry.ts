@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const cards = {
   id: "01a06153-0ea9-7007-944b-5acfb4c2daa1",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "cards",
   propertySlug: "cards",
   definition: "the cards a patron hands out, one card to a line",

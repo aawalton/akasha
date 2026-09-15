@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const skillEffects = {
   id: "01a06197-3a24-7e28-90dd-a1debfd59c2a",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "skill-effects",
   propertySlug: "skill-effects",
   definition: "what casting a companion's skill does, one effect to a line",

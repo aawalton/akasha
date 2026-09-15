@@ -2,7 +2,7 @@ import type { PagePropertyEntry } from "akasha/page/property-entry/page-property
 
 export const pois = {
   id: "01a06167-3f9b-700b-ab48-cb7aa724cc9c",
-  type: "page-property-entry",
+  type: "page-type/page-property-entry",
   slug: "pois",
   propertySlug: "pois",
   definition: "the points of interest a zone holds, one place to a line",
