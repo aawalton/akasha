@@ -192,15 +192,6 @@ async function shapedOf(one: Stated, refused: readonly Refused[]): Promise<strin
   return null
 }
 
-export function marked(path: string, text: string): readonly string[] {
-  const said: string[] = []
-  for (const one of statementsIn(path, text)) {
-    const split = splitAt(one)
-    if (split !== null) said.push(sayingOf(split))
-  }
-  return said
-}
-
 export async function found(
   root: string,
   path: string,
