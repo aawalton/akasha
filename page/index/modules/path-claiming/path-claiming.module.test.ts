@@ -15,6 +15,16 @@ import {
   type SidecarsBy,
   sidecarsIn,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import {
+  ADDON,
+  claimantBelow,
+  claimantNamed,
+  GROUP_MEMBERS,
+  GROUP_OWN,
+  GROUPING,
+  groupClaiming,
+  ONE_MEMBER,
+} from "akasha/page/index/modules/path-claiming/path-claiming.module.test-fixtures.ts"
 
 test("a property no page property declares to be a file is filed under no path", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", definition: "what is held" }
@@ -225,27 +235,6 @@ test("that same property is claimed under its plain name where its type holds it
   ])
 })
 
-const GROUPING = [
-  { id: "1", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
-  {
-    id: "2",
-    pageTypeSlug: "page-type",
-    slug: "module-property-group",
-    extends: ["page-type/file-property-group"],
-    properties: [
-      { pageProperty: "code-file-property/code", fixed: "ts" },
-      { pageProperty: "code-file-property/test", fixed: "ts" },
-      { pageProperty: "file-property/logs", uncommitted: true, default: "jsonl" },
-    ],
-  },
-  {
-    id: "3",
-    pageTypeSlug: "page-type",
-    slug: "check-code",
-    properties: [{ pageProperty: "module-property-group/audit" }],
-  },
-]
-
 test("a page type declaring a file property group has a file beside it for every member", () => {
   expect([...(sidecarsIn(GROUPING).get("check-code")?.besides ?? [])]).toEqual([
     ["audit.code", { held: "ts", uncommitted: false }],
@@ -257,26 +246,6 @@ test("a page type declaring a file property group has a file beside it for every
 test("a page of a file property group page type has no file of its own beside it", () => {
   expect([...(sidecarsIn(GROUPING).get("module-property-group")?.besides ?? [])]).toEqual([])
 })
-
-const GROUP_PAGE = "/repo/deep/a.check-code.ts"
-
-const GROUP_KEYS = { "audit.code": null, "audit.test": null, "audit.logs": null }
-
-const GROUP_MEMBERS = [
-  "deep/a.check-code.audit.code.ts",
-  "deep/a.check-code.audit.test.ts",
-  "deep/a.check-code.audit.logs.uncommitted.jsonl",
-]
-
-const GROUP_OWN = "deep/a.check-code.ts"
-
-const ONE_MEMBER = "deep/a.check-code.audit.test.ts"
-
-function groupClaiming(there: (at: string) => boolean = () => false): readonly string[] {
-  const value = { id: A, pageTypeSlug: "check-code", slug: "a" }
-  const filed = filedAs("check-code", GROUP_KEYS)
-  return claimsOf(value, GROUP_PAGE, "/repo", filed, sidecarsIn(GROUPING), new Map(), there)
-}
 
 test("a page carrying a group claims no member's file that is not there", () => {
   expect(groupClaiming()).toEqual([GROUP_OWN])
@@ -443,4 +412,20 @@ test("a file a page property holds is claimed under its own path", () => {
     "deep/a.module.code.ts",
     "deep/a.module.test.ts",
   ])
+})
+
+test("the folder a page names is claimed by that page, as is anything beneath it", () => {
+  expect(claimantBelow("deep/Icons")).toBe(ADDON)
+  expect(claimantBelow("deep/Icons/one.dds")).toBe(ADDON)
+  expect(claimantBelow("deep/Icons/under/one.dds")).toBe(ADDON)
+})
+
+test("a path outside that folder or over no page of that type is claimed by nothing", () => {
+  expect(claimantBelow("deep/one.dds")).toBeNull()
+  expect(claimantBelow("other/Icons/one.dds")).toBeNull()
+})
+
+test("a name a page type declares for a file claims nothing beneath that name", () => {
+  expect(claimantNamed("deep/Bindings.xml")).toBe(ADDON)
+  expect(claimantNamed("deep/Bindings.xml/one.txt")).toBeNull()
 })

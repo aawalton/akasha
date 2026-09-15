@@ -315,19 +315,28 @@ const HELD = "ts"
 
 const NO_TYPES: ReadonlySet<string> = new Set()
 
-type TypesNaming = (named: string) => ReadonlySet<string>
+type TypesNaming = {
+  readonly named: (named: string) => ReadonlySet<string>
+  readonly foldered: (named: string) => ReadonlySet<string>
+}
 
 const NAMING = new WeakMap<FilePropertiesBy, WeakMap<FoldersBy, TypesNaming>>()
 
-function namingOver(fileProperties: FilePropertiesBy, folders: FoldersBy): TypesNaming {
-  const found = new Map<string, Set<string>>()
-  const held = (named: string): Set<string> => {
+function addingTo(found: Map<string, Set<string>>): (named: string) => Set<string> {
+  return (named) => {
     const done = found.get(named)
     if (done !== undefined) return done
     const made = new Set<string>()
     found.set(named, made)
     return made
   }
+}
+
+function namingOver(fileProperties: FilePropertiesBy, folders: FoldersBy): TypesNaming {
+  const every = new Map<string, Set<string>>()
+  const deep = new Map<string, Set<string>>()
+  const held = addingTo(every)
+  const beneath = addingTo(deep)
   for (const [pageTypeSlug, carried] of fileProperties) {
     for (const fileName of carried.values()) {
       if (fileName !== null) held(fileName).add(pageTypeSlug)
@@ -335,10 +344,15 @@ function namingOver(fileProperties: FilePropertiesBy, folders: FoldersBy): Types
   }
   for (const [pageTypeSlug, carried] of folders) {
     for (const folderName of carried.values()) {
-      if (folderName !== null) held(folderName).add(pageTypeSlug)
+      if (folderName === null) continue
+      held(folderName).add(pageTypeSlug)
+      beneath(folderName).add(pageTypeSlug)
     }
   }
-  return (named) => found.get(named) ?? NO_TYPES
+  return {
+    named: (named) => every.get(named) ?? NO_TYPES,
+    foldered: (named) => deep.get(named) ?? NO_TYPES,
+  }
 }
 
 function typesNaming(fileProperties: FilePropertiesBy, folders: FoldersBy): TypesNaming {
@@ -396,6 +410,25 @@ export function pagingOf(ofType: OfType): Paging {
   }
 }
 
+const UNDER = "/"
+
+function claimedIn(
+  paging: Paging,
+  folder: string,
+  named: string,
+  naming: TypesNaming
+): string | null {
+  const whole = naming.named(named)
+  if (whole.size > 0) {
+    const found = paging(folder, whole)
+    if (found !== null) return found
+  }
+  const cut = named.indexOf(UNDER)
+  if (cut < 1) return null
+  const above = naming.foldered(named.slice(0, cut))
+  return above.size === 0 ? null : paging(folder, above)
+}
+
 export function claimantOf(
   paging: Paging,
   path: string,
@@ -411,11 +444,8 @@ export function claimantOf(
   let folder = folderOf(path)
   for (;;) {
     const named = folder === "" ? path : path.slice(folder.length + 1)
-    const types = naming(named)
-    if (types.size > 0) {
-      const found = paging(folder, types)
-      if (found !== null) return found
-    }
+    const found = claimedIn(paging, folder, named, naming)
+    if (found !== null) return found
     if (folder === "") return null
     folder = folderOf(folder)
   }

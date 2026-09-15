@@ -7,6 +7,7 @@ export const pathClaiming = {
   definition: "the paths a page's value claims, and the page a path is claimed by",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
@@ -189,6 +190,15 @@ export const pathClaiming = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A folder holding no page of that type leaves the path claimed by nothing.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A path beneath a folder a page names is claimed by that page however deep the path sits.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A name a page type declares for a file claims nothing beneath that name.",
     },
     {
       invariantKind: "invariant-kind/departure",
