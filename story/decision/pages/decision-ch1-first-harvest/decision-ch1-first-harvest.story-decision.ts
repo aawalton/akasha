@@ -2,7 +2,7 @@ import type { StoryDecision } from "akasha/story/decision/story-decision.page-ty
 
 export const decisionCh1FirstHarvest = {
   id: "01a0657d-bb96-70d2-8ff0-62287fefc2ec",
-  type: "story-decision",
+  type: "page-type/story-decision",
   slug: "decision-ch1-first-harvest",
   title: "First Harvest — Colette Vane (ch1)",
   world: "world/the-beholder",
