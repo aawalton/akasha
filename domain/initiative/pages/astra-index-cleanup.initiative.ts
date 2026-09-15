@@ -26,5 +26,11 @@ export const astraIndexCleanup = {
       workingMemory:
         "`.git/cache/parse` is 512 files at 150 MB, keyed by a digest, with a second generation beside each under `-shape-2`. `domain/plain-language/modules/parse-cache/parse-cache.module.code.ts` writes it.",
     },
+    {
+      statement:
+        "Every file a page's code imports belongs to a page, and a check refuses a new one that does not.",
+      workingMemory:
+        "341 of 10,935 import targets belong to no page: 312 under `.react-router/types/`, 27 under `+types/`, and two tracked files, `alan/web/routes.ts` and `temper/web/deploy/addon-bundle-image.ts`. A references file sits beside a page, so for these nothing answers who imports them. `alan/web/routes.ts` is imported by `alan/web/routes/no-such-route/no-such-route.route.test.ts` and by nothing else.",
+    },
   ],
 } as const satisfies Initiative
