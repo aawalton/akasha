@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const autocast = {
   id: "01a06572-95b5-7593-ac6b-93cbb70d8780",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "autocast",
   title: "Autocast",
   world: "world/the-wandering-inn",

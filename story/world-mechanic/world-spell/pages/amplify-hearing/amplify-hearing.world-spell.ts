@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const amplifyHearing = {
   id: "01a06572-95b4-7ff8-a419-f562251820c2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "amplify-hearing",
   title: "Amplify Hearing",
   world: "world/the-wandering-inn",

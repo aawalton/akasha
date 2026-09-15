@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const bindSpellDisintegrationRay = {
   id: "01a06572-95b5-709b-a875-6abefde9f42e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bind-spell-disintegration-ray",
   title: "Bind Spell: Disintegration Ray",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const autocastSpeedSpell = {
   id: "01a06572-95b5-75f1-a833-5ec254fcf692",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "autocast-speed-spell",
   title: "Autocast: Speed Spell",
   world: "world/the-wandering-inn",

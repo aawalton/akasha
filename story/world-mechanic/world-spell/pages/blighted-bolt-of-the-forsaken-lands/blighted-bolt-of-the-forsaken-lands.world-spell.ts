@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const blightedBoltOfTheForsakenLands = {
   id: "01a06572-95b6-77b4-9a99-a1ca8c641f69",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "blighted-bolt-of-the-forsaken-lands",
   title: "Blighted Bolt of the Forsaken Lands",
   world: "world/the-wandering-inn",

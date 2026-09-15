@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const auraMute = {
   id: "01a06572-95b5-73bf-aacb-f970259247cb",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "aura-mute",
   title: "Aura Mute",
   world: "world/the-wandering-inn",

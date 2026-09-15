@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const armorOfThorns = {
   id: "01a06572-95b4-7df7-a088-adc00215ce3a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "armor-of-thorns",
   title: "Armor of Thorns",
   world: "world/the-wandering-inn",

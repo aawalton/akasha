@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const battlemageSFocus = {
   id: "01a06572-95b5-72c6-aa06-338c7585287f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "battlemage-s-focus",
   title: "Battlemage’s Focus",
   world: "world/the-wandering-inn",

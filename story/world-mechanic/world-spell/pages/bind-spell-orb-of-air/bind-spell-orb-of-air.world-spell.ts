@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const bindSpellOrbOfAir = {
   id: "01a06572-95b6-7915-8ca2-eca9ebeb0b36",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bind-spell-orb-of-air",
   title: "Bind Spell: Orb of Air",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const ballLightning = {
   id: "01a06572-95b5-78b8-9534-3f74f0a4d7aa",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "ball-lightning",
   title: "Ball Lightning",
   world: "world/the-wandering-inn",

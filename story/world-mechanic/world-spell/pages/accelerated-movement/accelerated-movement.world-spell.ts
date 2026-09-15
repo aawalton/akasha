@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const acceleratedMovement = {
   id: "01a06572-95b3-78c0-9ad6-b6e05d8c8126",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "accelerated-movement",
   title: "Accelerated Movement",
   world: "world/the-wandering-inn",

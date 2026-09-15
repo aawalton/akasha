@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const bindingRopes = {
   id: "01a06572-95b6-729a-b03b-ac78f1a6bfb3",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "binding-ropes",
   title: "Binding Ropes",
   world: "world/the-wandering-inn",

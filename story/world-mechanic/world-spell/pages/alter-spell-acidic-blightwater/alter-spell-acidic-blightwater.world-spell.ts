@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const alterSpellAcidicBlightwater = {
   id: "01a06572-95b3-7a62-a9e1-440eabcf2204",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "alter-spell-acidic-blightwater",
   title: "Alter Spell: Acidic Blightwater",
   world: "world/the-wandering-inn",

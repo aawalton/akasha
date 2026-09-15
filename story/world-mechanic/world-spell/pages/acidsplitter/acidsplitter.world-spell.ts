@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const acidsplitter = {
   id: "01a06572-95b3-72e0-a7b5-68e0f83b4615",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "acidsplitter",
   title: "Acidsplitter",
   world: "world/the-wandering-inn",

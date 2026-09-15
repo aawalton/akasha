@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const arrowsOfStone = {
   id: "01a06572-95b5-7964-ac58-6cdb23549d3b",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "arrows-of-stone",
   title: "Arrows of Stone",
   world: "world/the-wandering-inn",

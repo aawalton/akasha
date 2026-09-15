@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const antigravity = {
   id: "01a06572-95b4-74a6-b8ee-ea44584233aa",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "antigravity",
   title: "Antigravity",
   world: "world/the-wandering-inn",

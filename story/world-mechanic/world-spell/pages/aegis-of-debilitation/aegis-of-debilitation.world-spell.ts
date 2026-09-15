@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const aegisOfDebilitation = {
   id: "01a06572-95b3-77a6-b91b-8c39cf620648",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "aegis-of-debilitation",
   title: "Aegis of Debilitation",
   world: "world/the-wandering-inn",

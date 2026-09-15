@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const aegisOfSaimune = {
   id: "01a06572-95b3-71f4-8d20-48f114680817",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "aegis-of-saimune",
   title: "Aegis of Saimune",
   world: "world/the-wandering-inn",

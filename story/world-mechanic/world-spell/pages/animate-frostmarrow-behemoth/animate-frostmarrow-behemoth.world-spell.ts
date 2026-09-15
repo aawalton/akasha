@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const animateFrostmarrowBehemoth = {
   id: "01a06572-95b4-723a-befd-eb5789782921",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "animate-frostmarrow-behemoth",
   title: "Animate Frostmarrow Behemoth",
   world: "world/the-wandering-inn",

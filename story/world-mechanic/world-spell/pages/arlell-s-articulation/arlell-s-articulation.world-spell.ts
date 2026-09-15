@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const arlellSArticulation = {
   id: "01a06572-95b4-78de-b272-8c6bfda301cf",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "arlell-s-articulation",
   title: "Arlell’s Articulation",
   world: "world/the-wandering-inn",

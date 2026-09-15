@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const aerialBurst = {
   id: "01a06572-95b3-7eb0-8657-1dadb2a2b5d4",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "aerial-burst",
   title: "Aerial Burst",
   world: "world/the-wandering-inn",

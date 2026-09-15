@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const bindSpellGeyserOfTheWaterSerpent = {
   id: "01a06572-95b5-7ced-9a40-9d9a9273a259",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bind-spell-geyser-of-the-water-serpent",
   title: "Bind Spell: Geyser of the Water Serpent",
   world: "world/the-wandering-inn",

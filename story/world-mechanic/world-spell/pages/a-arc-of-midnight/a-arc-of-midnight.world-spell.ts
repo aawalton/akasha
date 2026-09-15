@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const aArcOfMidnight = {
   id: "01a06572-95b2-7d86-a4bf-66fc76a04a15",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "a-arc-of-midnight",
   title: "A-Arc of Midnight",
   world: "world/the-wandering-inn",

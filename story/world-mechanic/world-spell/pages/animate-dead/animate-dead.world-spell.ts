@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const animateDead = {
   id: "01a06572-95b4-732c-aba8-c5f742f5c56a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "animate-dead",
   title: "Animate Dead",
   world: "world/the-wandering-inn",

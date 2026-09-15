@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const activateGreaterTeleportationRune = {
   id: "01a06572-95b3-7f82-820a-dd233f62552a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "activate-greater-teleportation-rune",
   title: "Activate Greater Teleportation Rune",
   world: "world/the-wandering-inn",

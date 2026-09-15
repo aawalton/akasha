@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const aThousandShootingStars = {
   id: "01a06572-95b2-71c5-8c58-65050905f48a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "a-thousand-shooting-stars",
   title: "A Thousand Shooting Stars",
   world: "world/the-wandering-inn",

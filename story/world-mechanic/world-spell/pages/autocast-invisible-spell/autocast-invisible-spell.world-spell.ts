@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const autocastInvisibleSpell = {
   id: "01a06572-95b5-70e5-9859-6e3fca36fae8",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "autocast-invisible-spell",
   title: "Autocast: Invisible Spell",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const boltOfRadianceExplosiveCharge = {
   id: "01a06572-95b6-7115-bfb6-d0cc097d4c6e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bolt-of-radiance-explosive-charge",
   title: "Bolt of Radiance: Explosive Charge",
   world: "world/the-wandering-inn",

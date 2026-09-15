@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const acheniteSMagicalShackles = {
   id: "01a06572-95b3-7fe3-8733-a82920bb7938",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "achenite-s-magical-shackles",
   title: "Achenite’s Magical Shackles",
   world: "world/the-wandering-inn",

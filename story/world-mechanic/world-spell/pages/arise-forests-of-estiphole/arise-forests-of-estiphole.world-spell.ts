@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const ariseForestsOfEstiphole = {
   id: "01a06572-95b4-7c8c-8217-22f46bd243dc",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "arise-forests-of-estiphole",
   title: "Arise, Forests of Estiphole",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const barriersOfAir = {
   id: "01a06572-95b5-7351-a3d6-3ff7efb9981b",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "barriers-of-air",
   title: "Barriers of Air",
   world: "world/the-wandering-inn",

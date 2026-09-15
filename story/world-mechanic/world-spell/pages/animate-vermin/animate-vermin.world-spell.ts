@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const animateVermin = {
   id: "01a06572-95b4-7d25-8fa4-accb0a0ee5c2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "animate-vermin",
   title: "Animate Vermin",
   world: "world/the-wandering-inn",

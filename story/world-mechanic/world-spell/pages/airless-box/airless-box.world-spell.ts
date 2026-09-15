@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const airlessBox = {
   id: "01a06572-95b3-7519-a75b-e34d87a7c489",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "airless-box",
   title: "Airless Box",
   world: "world/the-wandering-inn",

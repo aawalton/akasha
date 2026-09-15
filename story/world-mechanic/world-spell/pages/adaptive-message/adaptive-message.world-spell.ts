@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const adaptiveMessage = {
   id: "01a06572-95b3-764e-b176-f9b05c4dc057",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "adaptive-message",
   title: "Adaptive Message",
   world: "world/the-wandering-inn",

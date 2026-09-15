@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const blessingOfTheWinterWarrior = {
   id: "01a06572-95b6-7a24-b78c-b38b8895930c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "blessing-of-the-winter-warrior",
   title: "Blessing of the Winter Warrior",
   world: "world/the-wandering-inn",

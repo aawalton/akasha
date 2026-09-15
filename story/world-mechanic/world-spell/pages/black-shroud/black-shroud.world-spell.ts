@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const blackShroud = {
   id: "01a06572-95b6-7bc2-8d2b-e22c79db5ed9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "black-shroud",
   title: "Black Shroud",
   world: "world/the-wandering-inn",

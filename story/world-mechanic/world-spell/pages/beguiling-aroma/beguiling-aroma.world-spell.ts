@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const beguilingAroma = {
   id: "01a06572-95b5-725c-a883-d8b4cf0a2c40",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "beguiling-aroma",
   title: "Beguiling Aroma",
   world: "world/the-wandering-inn",
