@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  importingOf,
-  spellersIn,
-} from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
-import {
   HELD,
   THREE,
 } from "akasha/check/test/fixture/page-holding/page-holding.test-fixture.code.ts"
+import {
+  importingOf,
+  spellersIn,
+} from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -49,4 +49,9 @@ test("a body git does not keep is left out of the search, and a tracked one is n
   const withheld = "akasha/one/holder/holder.module.state.uncommitted.json"
   const said = spellersIn([TRACKED, withheld], () => HELD, MOVING, new Set())
   expect(said).toEqual([TRACKED])
+})
+
+test("a body git does not keep is left out however little of its name reads as a page's", () => {
+  const stray = "akasha/one/holder/labelled-pool.uncommitted.jsonl"
+  expect(spellersIn([TRACKED, stray], () => HELD, MOVING, new Set())).toEqual([TRACKED])
 })

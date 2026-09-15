@@ -4,7 +4,7 @@ import {
   importersOf,
   readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { uncommittedHeld } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { uncommittedSpelled } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const UNDER = "/"
 
@@ -55,7 +55,7 @@ export function spellersIn(
   const names = namesFor(moved)
   const found: string[] = []
   for (const path of paths) {
-    if (moved.has(path) || known.has(path) || uncommittedHeld(path)) continue
+    if (moved.has(path) || known.has(path) || uncommittedSpelled(path)) continue
     const text = textAt(path)
     if (text === null) continue
     if (names.some((name) => namesPath(text, name))) found.push(path)

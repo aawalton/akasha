@@ -159,6 +159,10 @@ export function uncommittedHeld(path: string): boolean {
   return sectionedIn(said)?.uncommitted === true
 }
 
+export function uncommittedSpelled(path: string): boolean {
+  return path.includes(`.${UNCOMMITTED}.`)
+}
+
 export function secretNamed(path: string): boolean {
   const said = partedIn(path)
   return said !== null && onlyIn(said) === SOPS

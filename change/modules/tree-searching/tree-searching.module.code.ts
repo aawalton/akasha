@@ -3,6 +3,7 @@ import { leftAt } from "akasha/change/modules/answer/change-answer.module.code.t
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { uncommittedSpelled } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const BYTES = new TextEncoder()
@@ -18,8 +19,6 @@ const FOUND_NOTHING = 1
 const GLOBBED = "--glob"
 
 const UNIGNORED = "--no-ignore"
-
-const PENDING = ".uncommitted."
 
 const TAKEN: readonly string[] = ["--null", "--no-config", "--hidden"]
 
@@ -69,7 +68,7 @@ function ranWith(
 function bothWays(run: (said: readonly string[]) => readonly string[]): readonly string[] {
   const found = new Set(run([]))
   for (const path of run([UNIGNORED])) {
-    if (path.includes(PENDING)) found.add(path)
+    if (uncommittedSpelled(path)) found.add(path)
   }
   return [...found]
 }

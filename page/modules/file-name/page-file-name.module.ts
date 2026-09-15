@@ -153,6 +153,14 @@ export const pageFileName = {
       statement: "A reserved section has no part.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file git leaves out of the commit spells `uncommitted` between two dots.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "That spelling is read from the name alone, whatever else the name is.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads the index or the disk.",
     },

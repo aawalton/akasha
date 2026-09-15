@@ -43,6 +43,10 @@ export const pathNaming = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "Which bodies those are is read off the name git reads, rather than parsed.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A body git does not keep is rewritten between one reading of it and the next.",
     },
     {
