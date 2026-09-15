@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const bewareOfChickenBook1 = {
   id: "019db533-f390-7a17-ab53-f44c9612fcf1",
-  type: "book",
+  type: "page-type/book",
   slug: "beware-of-chicken-book-1",
   title: "Beware of Chicken",
   status: "completed",

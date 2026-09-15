@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aThousandLiTheThirdKingdom = {
   id: "019db533-f390-75b0-a8c6-3e59afdf89c3",
-  type: "book",
+  type: "page-type/book",
   slug: "a-thousand-li-the-third-kingdom",
   title: "A Thousand Li: The Third Kingdom",
   status: "completed",

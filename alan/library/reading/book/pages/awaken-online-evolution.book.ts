@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const awakenOnlineEvolution = {
   id: "019db533-f390-788c-b4c4-458626012440",
-  type: "book",
+  type: "page-type/book",
   slug: "awaken-online-evolution",
   title: "Awaken Online: Evolution",
   status: "completed",

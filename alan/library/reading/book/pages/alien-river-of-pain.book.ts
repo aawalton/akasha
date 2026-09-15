@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const alienRiverOfPain = {
   id: "019db533-f39b-72af-bb59-f85a40d2a50d",
-  type: "book",
+  type: "page-type/book",
   slug: "alien-river-of-pain",
   title: "Alien: River of Pain",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const beastborneChroniclesVoracious = {
   id: "019db533-f390-78fb-933f-b244e29405ec",
-  type: "book",
+  type: "page-type/book",
   slug: "beastborne-chronicles-voracious",
   title: "Beastborne Chronicles: Voracious",
   status: "completed",

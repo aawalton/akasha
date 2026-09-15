@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const beastborneChroniclesMarkOfTheFounder = {
   id: "019db533-f390-7574-99cc-189eeecdc0e2",
-  type: "book",
+  type: "page-type/book",
   slug: "beastborne-chronicles-mark-of-the-founder",
   title: "Beastborne Chronicles: Mark of the Founder",
   status: "completed",

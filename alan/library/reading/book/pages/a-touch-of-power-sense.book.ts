@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aTouchOfPowerSense = {
   id: "019db533-f390-7661-bc9a-0c64628e4dd9",
-  type: "book",
+  type: "page-type/book",
   slug: "a-touch-of-power-sense",
   title: "A Touch of Power: Sense",
   status: "completed",

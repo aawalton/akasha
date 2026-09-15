@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aTreasuryOfIrishFolklore = {
   id: "019db533-f39d-7cb8-a4b3-2489caf4b993",
-  type: "book",
+  type: "page-type/book",
   slug: "a-treasury-of-irish-folklore",
   title: "A Treasury of Irish Folklore",
   status: "paused",

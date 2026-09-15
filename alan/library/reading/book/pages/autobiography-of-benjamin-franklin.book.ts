@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const autobiographyOfBenjaminFranklin = {
   id: "019db533-f39d-7b32-b023-e872a39d6f3f",
-  type: "book",
+  type: "page-type/book",
   slug: "autobiography-of-benjamin-franklin",
   title: "Autobiography of Benjamin Franklin",
   status: "completed",

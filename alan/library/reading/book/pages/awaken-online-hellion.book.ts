@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const awakenOnlineHellion = {
   id: "019db533-f390-7863-8972-a6a66f741a96",
-  type: "book",
+  type: "page-type/book",
   slug: "awaken-online-hellion",
   title: "Awaken Online: Hellion",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aThousandLiTheSecondExpedition = {
   id: "019db533-f390-762f-bc03-a9c99de5e542",
-  type: "book",
+  type: "page-type/book",
   slug: "a-thousand-li-the-second-expedition",
   title: "A Thousand Li: The Second Expedition",
   status: "completed",

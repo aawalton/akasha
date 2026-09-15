@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const arcaneAscensionABriefHistoryOfChronomancy = {
   id: "019db533-f38a-73ad-a609-94e9d211f056",
-  type: "book",
+  type: "page-type/book",
   slug: "arcane-ascension-a-brief-history-of-chronomancy",
   title: "Arcane Ascension: A Brief History of Chronomancy",
   status: "not-started",

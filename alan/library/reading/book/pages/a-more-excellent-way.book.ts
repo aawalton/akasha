@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aMoreExcellentWay = {
   id: "019db533-f39d-737e-97ba-6b4dfd78d5db",
-  type: "book",
+  type: "page-type/book",
   slug: "a-more-excellent-way",
   title: '"...A More Excellent Way"',
   status: "completed",

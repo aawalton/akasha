@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const brainRules = {
   id: "019db533-f39e-715a-8daf-30f7e04dc639",
-  type: "book",
+  type: "page-type/book",
   slug: "brain-rules",
   title: "Brain Rules",
   status: "not-started",

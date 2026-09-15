@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const awakenOnlineTarotInferno = {
   id: "019db533-f390-78b6-94b6-c197e4def0f0",
-  type: "book",
+  type: "page-type/book",
   slug: "awaken-online-tarot-inferno",
   title: "Awaken Online: Tarot: Inferno",
   status: "completed",

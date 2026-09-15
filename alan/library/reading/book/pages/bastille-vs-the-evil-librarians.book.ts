@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const bastilleVsTheEvilLibrarians = {
   id: "019db533-f39d-7308-afbc-169c56e8c4f8",
-  type: "book",
+  type: "page-type/book",
   slug: "bastille-vs-the-evil-librarians",
   title: "Bastille vs the Evil Librarians",
   status: "completed",

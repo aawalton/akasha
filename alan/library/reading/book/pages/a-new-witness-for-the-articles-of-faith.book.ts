@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aNewWitnessForTheArticlesOfFaith = {
   id: "019db533-f39d-760b-84cb-03184bb4d149",
-  type: "book",
+  type: "page-type/book",
   slug: "a-new-witness-for-the-articles-of-faith",
   title: "A New Witness for the Articles of Faith",
   status: "not-started",

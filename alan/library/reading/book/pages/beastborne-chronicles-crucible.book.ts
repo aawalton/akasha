@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const beastborneChroniclesCrucible = {
   id: "019db533-f390-7905-9d43-aa60b62e0ee9",
-  type: "book",
+  type: "page-type/book",
   slug: "beastborne-chronicles-crucible",
   title: "Beastborne Chronicles: Crucible",
   status: "completed",

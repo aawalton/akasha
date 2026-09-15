@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const allTheSkills4 = {
   id: "019db533-f390-76b9-8448-b42760cf07bf",
-  type: "book",
+  type: "page-type/book",
   slug: "all-the-skills-4",
   title: "All The Skills 4",
   status: "completed",

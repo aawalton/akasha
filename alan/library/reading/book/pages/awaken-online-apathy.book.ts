@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const awakenOnlineApathy = {
   id: "019db533-f390-787c-916f-9a3c28c1eaa9",
-  type: "book",
+  type: "page-type/book",
   slug: "awaken-online-apathy",
   title: "Awaken Online: Apathy",
   status: "completed",

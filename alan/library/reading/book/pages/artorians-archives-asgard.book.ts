@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const artoriansArchivesAsgard = {
   id: "019db533-f390-77dc-bf61-24629ddc7c75",
-  type: "book",
+  type: "page-type/book",
   slug: "artorians-archives-asgard",
   title: "Artorian's Archives: Asgard",
   status: "not-started",

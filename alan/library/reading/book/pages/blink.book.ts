@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const blink = {
   id: "019db533-f39e-7152-a1a6-e24ba6646347",
-  type: "book",
+  type: "page-type/book",
   slug: "blink",
   title: "Blink",
   status: "not-started",

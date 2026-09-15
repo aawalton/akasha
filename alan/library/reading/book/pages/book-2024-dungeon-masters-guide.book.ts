@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const book2024DungeonMastersGuide = {
   id: "019db533-f39d-7c2e-bb68-99ac060b4be9",
-  type: "book",
+  type: "page-type/book",
   slug: "book-2024-dungeon-masters-guide",
   title: "2024 Dungeon Master's Guide",
   status: "not-started",

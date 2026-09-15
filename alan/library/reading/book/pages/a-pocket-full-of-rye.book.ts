@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aPocketFullOfRye = {
   id: "019db533-f399-7b95-b8df-a25f20e1975e",
-  type: "book",
+  type: "page-type/book",
   slug: "a-pocket-full-of-rye",
   title: "A Pocket Full of Rye",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const artoriansArchivesAmanecida = {
   id: "019db533-f390-77b1-af32-352c911e3b34",
-  type: "book",
+  type: "page-type/book",
   slug: "artorians-archives-amanecida",
   title: "Artorian's Archives: Amanecida",
   status: "not-started",

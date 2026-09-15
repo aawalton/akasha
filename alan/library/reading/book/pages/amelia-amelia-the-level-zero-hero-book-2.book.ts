@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const ameliaAmeliaTheLevelZeroHeroBook2 = {
   id: "019db533-f390-7709-8b16-258d76a837ba",
-  type: "book",
+  type: "page-type/book",
   slug: "amelia-amelia-the-level-zero-hero-book-2",
   title: "Amelia: Amelia The Level Zero Hero Book 2",
   status: "not-started",

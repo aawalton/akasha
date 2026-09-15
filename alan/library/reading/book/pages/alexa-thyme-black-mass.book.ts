@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const alexaThymeBlackMass = {
   id: "019db533-f390-767a-ba91-7f3d0587fd80",
-  type: "book",
+  type: "page-type/book",
   slug: "alexa-thyme-black-mass",
   title: "Alexa Thyme: Black Mass",
   status: "completed",

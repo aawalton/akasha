@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const beneathTheDragoneyeMoonsOathboundHealer = {
   id: "019db533-f390-79f5-9a2c-e3fe2fa334f5",
-  type: "book",
+  type: "page-type/book",
   slug: "beneath-the-dragoneye-moons-oathbound-healer",
   title: "Beneath the Dragoneye Moons: Oathbound Healer",
   status: "completed",

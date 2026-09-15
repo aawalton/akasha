@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const administrativeRecords = {
   id: "019db533-f39d-7c5e-b352-8559beed64ba",
-  type: "book",
+  type: "page-type/book",
   slug: "administrative-records",
   title: "Administrative Records",
   status: "not-started",

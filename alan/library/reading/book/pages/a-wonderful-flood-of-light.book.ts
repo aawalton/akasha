@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aWonderfulFloodOfLight = {
   id: "019db533-f39d-736f-aada-13159c00e30e",
-  type: "book",
+  type: "page-type/book",
   slug: "a-wonderful-flood-of-light",
   title: "A Wonderful Flood of Light",
   status: "completed",

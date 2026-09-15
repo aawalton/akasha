@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const bobiverseWeAreLegion = {
   id: "019db533-f39a-780c-b6b0-cbe9ad550c16",
-  type: "book",
+  type: "page-type/book",
   slug: "bobiverse-we-are-legion",
   title: "Bobiverse: We Are Legion",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const alienOutOfTheShadows = {
   id: "019db533-f39b-72f2-ae1f-039cf737d964",
-  type: "book",
+  type: "page-type/book",
   slug: "alien-out-of-the-shadows",
   title: "Alien: Out of the Shadows",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const awakenOnlineCrucible = {
   id: "019db533-f386-76fa-9d08-f7e093cdd45a",
-  type: "book",
+  type: "page-type/book",
   slug: "awaken-online-crucible",
   title: "Awaken Online: Crucible",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const beneathTheDragoneyeMoonsImmortalWar = {
   id: "019db533-f390-7971-be2d-96f8a98712e6",
-  type: "book",
+  type: "page-type/book",
   slug: "beneath-the-dragoneye-moons-immortal-war",
   title: "Beneath the Dragoneye Moons: Immortal War",
   status: "completed",

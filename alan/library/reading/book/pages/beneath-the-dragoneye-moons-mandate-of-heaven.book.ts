@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const beneathTheDragoneyeMoonsMandateOfHeaven = {
   id: "019db533-f390-797b-b732-cbdd577487cc",
-  type: "book",
+  type: "page-type/book",
   slug: "beneath-the-dragoneye-moons-mandate-of-heaven",
   title: "Beneath the Dragoneye Moons: Mandate of Heaven",
   status: "completed",

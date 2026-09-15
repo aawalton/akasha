@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aMoreBeautifulQuestion = {
   id: "019db533-f39e-714a-84a9-bc7854b75b11",
-  type: "book",
+  type: "page-type/book",
   slug: "a-more-beautiful-question",
   title: "A More Beautiful Question",
   status: "not-started",

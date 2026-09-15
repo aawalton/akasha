@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const afterTheFuneral = {
   id: "019db533-f399-7c0b-b9b0-2db342c1f30d",
-  type: "book",
+  type: "page-type/book",
   slug: "after-the-funeral",
   title: "After the Funeral",
   status: "not-started",

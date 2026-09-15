@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const awakenOnlinePrecipice = {
   id: "019db533-f390-7884-a525-403ccd8912cc",
-  type: "book",
+  type: "page-type/book",
   slug: "awaken-online-precipice",
   title: "Awaken Online: Precipice",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const atomicHabits = {
   id: "019db533-f39e-712a-aa9b-0240baec3ed1",
-  type: "book",
+  type: "page-type/book",
   slug: "atomic-habits",
   title: "Atomic Habits",
   status: "not-started",

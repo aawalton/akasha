@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aMurderIsAnnounced = {
   id: "019db533-f399-7d40-b07a-9747b3fe8fed",
-  type: "book",
+  type: "page-type/book",
   slug: "a-murder-is-announced",
   title: "A Murder is Announced",
   status: "not-started",

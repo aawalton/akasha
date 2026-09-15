@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const andBabyMakesThree = {
   id: "019db533-f38a-720b-b137-7086d5b0bac1",
-  type: "book",
+  type: "page-type/book",
   slug: "and-baby-makes-three",
   title: "And Baby Makes Three",
   status: "not-started",

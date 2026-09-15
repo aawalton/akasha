@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aTouchOfPowerSiphon = {
   id: "019db533-f390-7652-a5a0-e30e45d7c2d6",
-  type: "book",
+  type: "page-type/book",
   slug: "a-touch-of-power-siphon",
   title: "A Touch of Power: Siphon",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const appointmentWithDeath = {
   id: "019db533-f399-7c6a-aff4-4b496896ddec",
-  type: "book",
+  type: "page-type/book",
   slug: "appointment-with-death",
   title: "Appointment with Death",
   status: "not-started",

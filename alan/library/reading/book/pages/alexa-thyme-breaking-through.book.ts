@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const alexaThymeBreakingThrough = {
   id: "019db533-f390-76c4-bd39-b7aed5585867",
-  type: "book",
+  type: "page-type/book",
   slug: "alexa-thyme-breaking-through",
   title: "Alexa Thyme: Breaking Through",
   status: "completed",

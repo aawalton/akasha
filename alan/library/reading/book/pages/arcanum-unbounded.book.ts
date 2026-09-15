@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const arcanumUnbounded = {
   id: "019db533-f39d-75d7-980d-7c911c4e2de9",
-  type: "book",
+  type: "page-type/book",
   slug: "arcanum-unbounded",
   title: "Arcanum Unbounded",
   status: "not-started",

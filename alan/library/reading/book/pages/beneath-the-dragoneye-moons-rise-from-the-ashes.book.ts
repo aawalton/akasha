@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const beneathTheDragoneyeMoonsRiseFromTheAshes = {
   id: "019db533-f390-792c-8de2-83ded1790a43",
-  type: "book",
+  type: "page-type/book",
   slug: "beneath-the-dragoneye-moons-rise-from-the-ashes",
   title: "Beneath the Dragoneye Moons: Rise from the Ashes",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aThousandLiTheFourthWall = {
   id: "019db533-f390-75dd-b8fe-92d68bdfedba",
-  type: "book",
+  type: "page-type/book",
   slug: "a-thousand-li-the-fourth-wall",
   title: "A Thousand Li: the Fourth Wall",
   status: "completed",

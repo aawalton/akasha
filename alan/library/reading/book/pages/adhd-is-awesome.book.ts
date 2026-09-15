@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const adhdIsAwesome = {
   id: "019db533-f39e-725c-8b02-17d186e3ea03",
-  type: "book",
+  type: "page-type/book",
   slug: "adhd-is-awesome",
   title: "ADHD Is Awesome",
   status: "not-started",

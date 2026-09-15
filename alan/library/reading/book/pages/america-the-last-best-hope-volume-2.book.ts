@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const americaTheLastBestHopeVolume2 = {
   id: "019db533-f39d-7596-9af6-dcc0da32155d",
-  type: "book",
+  type: "page-type/book",
   slug: "america-the-last-best-hope-volume-2",
   title: "America: The Last Best Hope Volume 2",
   status: "not-started",

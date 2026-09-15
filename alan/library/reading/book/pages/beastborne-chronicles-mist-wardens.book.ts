@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const beastborneChroniclesMistWardens = {
   id: "019db533-f390-793e-bef5-a734c70e824d",
-  type: "book",
+  type: "page-type/book",
   slug: "beastborne-chronicles-mist-wardens",
   title: "Beastborne Chronicles: Mist Wardens",
   status: "completed",

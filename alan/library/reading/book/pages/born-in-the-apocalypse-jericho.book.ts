@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const bornInTheApocalypseJericho = {
   id: "019db533-f390-7a37-a7c9-83fb5ff7f98d",
-  type: "book",
+  type: "page-type/book",
   slug: "born-in-the-apocalypse-jericho",
   title: "Born in the Apocalypse: Jericho",
   status: "not-started",

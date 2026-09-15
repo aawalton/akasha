@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const arcaneAscensionTheSilenceOfUnworthyGods = {
   id: "019db533-f38a-73cc-9c00-87e4df80f795",
-  type: "book",
+  type: "page-type/book",
   slug: "arcane-ascension-the-silence-of-unworthy-gods",
   title: "Arcane Ascension: The Silence of Unworthy Gods",
   status: "not-started",

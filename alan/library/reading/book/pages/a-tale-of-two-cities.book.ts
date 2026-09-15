@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const aTaleOfTwoCities = {
   id: "019db533-f39d-7c1f-b596-2fc44a252246",
-  type: "book",
+  type: "page-type/book",
   slug: "a-tale-of-two-cities",
   title: "A Tale of Two Cities",
   status: "not-started",

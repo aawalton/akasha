@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const awakenOnlineTarotEmber = {
   id: "019db533-f390-78c8-8d92-abe79e8f97d9",
-  type: "book",
+  type: "page-type/book",
   slug: "awaken-online-tarot-ember",
   title: "Awaken Online: Tarot: Ember",
   status: "completed",

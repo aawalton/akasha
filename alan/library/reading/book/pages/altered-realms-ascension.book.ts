@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const alteredRealmsAscension = {
   id: "019db533-f390-76d0-a4ef-6d553e4f354f",
-  type: "book",
+  type: "page-type/book",
   slug: "altered-realms-ascension",
   title: "Altered Realms: Ascension",
   status: "not-started",

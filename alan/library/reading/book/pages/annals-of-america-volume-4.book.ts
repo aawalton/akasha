@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const annalsOfAmericaVolume4 = {
   id: "019db533-f39d-7b03-8226-bc2ab110e4ba",
-  type: "book",
+  type: "page-type/book",
   slug: "annals-of-america-volume-4",
   title: "Annals of America Volume 4",
   status: "not-started",

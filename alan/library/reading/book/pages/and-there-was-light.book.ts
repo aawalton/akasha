@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const andThereWasLight = {
   id: "019db533-f39d-7c47-8b7f-d9d8477ba417",
-  type: "book",
+  type: "page-type/book",
   slug: "and-there-was-light",
   title: "And There Was Light",
   status: "completed",

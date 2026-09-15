@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const anOutcastInAnotherWorld2 = {
   id: "019db533-f390-7738-a1b3-b534dd245504",
-  type: "book",
+  type: "page-type/book",
   slug: "an-outcast-in-another-world-2",
   title: "An Outcast In Another World 2",
   status: "completed",

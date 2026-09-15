@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const autobiographyOfParleyPPratt = {
   id: "019db533-f39d-7c07-b7d2-6a075f3a46a3",
-  type: "book",
+  type: "page-type/book",
   slug: "autobiography-of-parley-p-pratt",
   title: "Autobiography of Parley P. Pratt",
   status: "not-started",

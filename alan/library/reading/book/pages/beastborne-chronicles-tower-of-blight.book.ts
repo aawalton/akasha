@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const beastborneChroniclesTowerOfBlight = {
   id: "019db533-f390-790e-b4d4-77bb593d07df",
-  type: "book",
+  type: "page-type/book",
   slug: "beastborne-chronicles-tower-of-blight",
   title: "Beastborne Chronicles: Tower of Blight",
   status: "completed",

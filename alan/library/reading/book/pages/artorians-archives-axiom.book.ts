@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const artoriansArchivesAxiom = {
   id: "019db533-f390-7839-8d75-63f185c32bc4",
-  type: "book",
+  type: "page-type/book",
   slug: "artorians-archives-axiom",
   title: "Artorian's Archives: Axiom",
   status: "completed",

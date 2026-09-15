@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const bobiverseHeavensRiver = {
   id: "019db533-f39a-7fcf-8199-7ab599179063",
-  type: "book",
+  type: "page-type/book",
   slug: "bobiverse-heavens-river",
   title: "Bobiverse: Heaven's River",
   status: "not-started",
