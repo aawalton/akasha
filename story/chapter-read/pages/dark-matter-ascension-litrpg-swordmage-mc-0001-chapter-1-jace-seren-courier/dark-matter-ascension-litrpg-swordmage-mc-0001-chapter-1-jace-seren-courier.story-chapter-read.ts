@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const darkMatterAscensionLitrpgSwordmageMc0001Chapter1JaceSerenCourier = {
   id: "01a06731-affc-7003-b696-5fa086c351b1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dark-matter-ascension-litrpg-swordmage-mc-0001-chapter-1-jace-seren-courier",
   title: "Chapter 1 – Jace Seren, Courier",
   story: "story-read/dark-matter-ascension-litrpg-swordmage-mc",

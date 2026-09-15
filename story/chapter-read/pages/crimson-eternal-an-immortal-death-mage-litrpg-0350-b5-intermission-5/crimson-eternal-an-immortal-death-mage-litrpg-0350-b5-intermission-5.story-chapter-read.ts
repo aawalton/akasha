@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const crimsonEternalAnImmortalDeathMageLitrpg0350B5Intermission5 = {
   id: "01a0672c-ec7e-7002-8f79-581567469da6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0350-b5-intermission-5",
   title: "B5 | Intermission 5",
   story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
