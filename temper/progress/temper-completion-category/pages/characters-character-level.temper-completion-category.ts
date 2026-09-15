@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersCharacterLevel = {
   id: "01a05fcb-e4bf-75f8-9ce6-d8a53df9e316",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-character-level",
   title: "Character Level",
   nodeId: "character-level",

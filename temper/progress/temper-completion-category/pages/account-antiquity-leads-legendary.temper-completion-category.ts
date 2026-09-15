@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const accountAntiquityLeadsLegendary = {
   id: "01a05fcb-e4ba-7e64-9cab-b46c5b0a3482",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "account-antiquity-leads-legendary",
   title: "Antiquity Leads — Legendary",
   nodeId: "antiquity-leads-legendary",

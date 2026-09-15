@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersCharacterAchievements = {
   id: "01a05fcb-e4be-7eac-a655-11822b021472",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-character-achievements",
   title: "Achievements",
   nodeId: "character-achievements",

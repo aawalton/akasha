@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersRecipes = {
   id: "01a05fcb-e4c1-790b-b1ae-0391efd1763e",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-recipes",
   title: "Crafting Recipes",
   nodeId: "recipes",

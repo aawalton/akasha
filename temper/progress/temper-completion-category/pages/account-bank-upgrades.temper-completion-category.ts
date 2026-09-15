@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const accountBankUpgrades = {
   id: "01a05fcb-e4bb-7863-b7ea-add19b041057",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "account-bank-upgrades",
   title: "Bank Upgrades",
   nodeId: "bank-upgrades",

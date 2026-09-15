@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const accountAntiquityLeadsMotifs = {
   id: "01a05fcb-e4ba-721f-9414-4a38ccc4ce92",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "account-antiquity-leads-motifs",
   title: "Antiquity Leads — Motifs",
   nodeId: "antiquity-leads-motifs",

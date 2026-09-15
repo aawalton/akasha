@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersSkillPointsPublicdungeons = {
   id: "01a05fcb-e4c4-7efc-9c7a-20ef80d9b552",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-skill-points-publicdungeons",
   title: "Public Dungeons",
   nodeId: "publicDungeons",

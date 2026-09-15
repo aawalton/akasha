@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const accountTalesOfTribute = {
   id: "01a05fcb-e4bd-772f-8c2b-4b2c2e317d76",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "account-tales-of-tribute",
   title: "Tales of Tribute",
   nodeId: "tales-of-tribute",

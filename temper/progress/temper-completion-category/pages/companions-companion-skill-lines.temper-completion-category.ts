@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const companionsCompanionSkillLines = {
   id: "01a05fcb-e4c6-75ef-8f96-4f028f7e7fd8",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "companions-companion-skill-lines",
   title: "Companion Skill Lines",
   nodeId: "companion-skill-lines",

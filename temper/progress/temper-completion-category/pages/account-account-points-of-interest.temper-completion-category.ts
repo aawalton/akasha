@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const accountAccountPointsOfInterest = {
   id: "01a05fcb-e4b7-71b4-b571-06bfc997aa7f",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "account-account-points-of-interest",
   title: "Points of Interest",
   nodeId: "account-points-of-interest",

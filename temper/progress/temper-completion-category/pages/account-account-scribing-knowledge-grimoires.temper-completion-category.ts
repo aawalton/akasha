@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const accountAccountScribingKnowledgeGrimoires = {
   id: "01a05fcb-e4b8-7c0d-afc3-5ad73a0ce9a8",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "account-account-scribing-knowledge-grimoires",
   title: "Grimoires",
   nodeId: "grimoires",

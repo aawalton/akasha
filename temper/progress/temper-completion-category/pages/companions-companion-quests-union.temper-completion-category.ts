@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const companionsCompanionQuestsUnion = {
   id: "01a05fcb-e4c6-74e5-9d6e-e38038ef521f",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "companions-companion-quests-union",
   title: "Companion Quests",
   nodeId: "companion-quests-union",

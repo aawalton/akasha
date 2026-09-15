@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const accountSubclassingSkillMorphs = {
   id: "01a05fcb-e4bd-7c1d-8a04-78c91b2500c1",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "account-subclassing-skill-morphs",
   title: "Subclassing Skill Morphs",
   nodeId: "subclassing-skill-morphs",

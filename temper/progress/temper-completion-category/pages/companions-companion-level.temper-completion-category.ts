@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const companionsCompanionLevel = {
   id: "01a05fcb-e4c6-7c1d-be13-7d8c96a4b49f",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "companions-companion-level",
   title: "Companion Level",
   nodeId: "companion-level",

@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const accountChampionPoints = {
   id: "01a05fcb-e4bb-7cd6-87a7-5652c99270e5",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "account-champion-points",
   title: "Champion Points",
   nodeId: "champion-points",

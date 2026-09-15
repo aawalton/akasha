@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersScribingKnowledge = {
   id: "01a05fcb-e4c3-7e3f-9205-bd53e4ba0784",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-scribing-knowledge",
   title: "Skill Scribing",
   nodeId: "scribing-knowledge",

@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersCompanionRapportCharacter = {
   id: "01a05fcb-e4bf-7cec-b3f1-35b9c65a87e1",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-companion-rapport-character",
   title: "Companion Rapport",
   nodeId: "companion-rapport-character",

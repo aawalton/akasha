@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersTraitResearch = {
   id: "01a05fcb-e4c5-7cd9-84bd-769444ac16f8",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-trait-research",
   title: "Crafting Traits",
   nodeId: "trait-research",

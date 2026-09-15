@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const accountSubclassingSkillLines = {
   id: "01a05fcb-e4bd-7777-823a-e444492b0f35",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "account-subclassing-skill-lines",
   title: "Subclassing Skill Lines",
   nodeId: "subclassing-skill-lines",

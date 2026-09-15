@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersSkillMorphs = {
   id: "01a05fcb-e4c3-7259-8ee3-2cd6fbf7d1a9",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-skill-morphs",
   title: "Skill Morphs",
   nodeId: "skill-morphs",

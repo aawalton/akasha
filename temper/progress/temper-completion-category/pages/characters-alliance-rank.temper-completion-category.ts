@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersAllianceRank = {
   id: "01a05fcb-e4be-7e4d-992b-7b9ec6fe2b92",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-alliance-rank",
   title: "Alliance Rank",
   nodeId: "alliance-rank",

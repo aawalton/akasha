@@ -2,7 +2,7 @@ import type { TemperCompletionCategory } from "akasha/temper/progress/temper-com
 
 export const charactersZoneCompletion = {
   id: "01a05fcb-e4c5-712f-90d1-8591a26ad11e",
-  type: "temper-completion-category",
+  type: "page-type/temper-completion-category",
   slug: "characters-zone-completion",
   title: "Zone Completion",
   nodeId: "zone-completion",
