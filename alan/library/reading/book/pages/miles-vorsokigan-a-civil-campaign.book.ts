@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const milesVorsokiganACivilCampaign = {
   id: "019db533-f39b-743d-9bca-8b1efc617794",
-  type: "book",
+  type: "page-type/book",
   slug: "miles-vorsokigan-a-civil-campaign",
   title: "Miles Vorsokigan: A Civil Campaign",
   status: "not-started",

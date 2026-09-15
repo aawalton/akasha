@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const mobyDick = {
   id: "019db533-f39d-7ab7-8690-69a7bad358cb",
-  type: "book",
+  type: "page-type/book",
   slug: "moby-dick",
   title: "Moby Dick",
   status: "not-started",

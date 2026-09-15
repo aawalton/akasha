@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const josephSmithRoughStoneRolling = {
   id: "019db533-f39d-7a2a-8f91-85be8e1ded5f",
-  type: "book",
+  type: "page-type/book",
   slug: "joseph-smith-rough-stone-rolling",
   title: "Joseph Smith Rough Stone Rolling",
   status: "not-started",

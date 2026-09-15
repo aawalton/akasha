@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const nudge = {
   id: "019db533-f39d-7f91-b919-f90bdcaafcc0",
-  type: "book",
+  type: "page-type/book",
   slug: "nudge",
   title: "Nudge",
   status: "not-started",

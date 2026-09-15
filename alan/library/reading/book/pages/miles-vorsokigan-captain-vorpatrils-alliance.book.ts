@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const milesVorsokiganCaptainVorpatrilsAlliance = {
   id: "019db533-f39b-7174-9eeb-ea8b3b07bfb8",
-  type: "book",
+  type: "page-type/book",
   slug: "miles-vorsokigan-captain-vorpatrils-alliance",
   title: "Miles Vorsokigan: Captain Vorpatril's Alliance",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const leadershipAndSelfDeception = {
   id: "019db533-f39d-7ade-b003-743385a2fc5f",
-  type: "book",
+  type: "page-type/book",
   slug: "leadership-and-self-deception",
   title: "Leadership and Self-Deception",
   status: "completed",

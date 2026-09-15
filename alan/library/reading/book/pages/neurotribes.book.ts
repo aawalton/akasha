@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const neurotribes = {
   id: "019db533-f39e-702a-b7f3-9a5763751f41",
-  type: "book",
+  type: "page-type/book",
   slug: "neurotribes",
   title: "NeuroTribes",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const murderOnTheOrientExpress = {
   id: "019db533-f399-7cea-a8cc-2fd8f40011a2",
-  type: "book",
+  type: "page-type/book",
   slug: "murder-on-the-orient-express",
   title: "Murder on the Orient Express",
   status: "not-started",

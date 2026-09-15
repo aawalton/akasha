@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const monsterHuntersInternationalMonsterHunterBloodlines = {
   id: "019db533-f39a-7f5c-aa37-daf0dc4af6af",
-  type: "book",
+  type: "page-type/book",
   slug: "monster-hunters-international-monster-hunter-bloodlines",
   title: "Monster Hunters International: Monster Hunter Bloodlines",
   status: "not-started",

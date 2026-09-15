@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const librarySystemResetDamaged = {
   id: "019db533-f391-71c2-b73f-ea7726632dd2",
-  type: "book",
+  type: "page-type/book",
   slug: "library-system-reset-damaged",
   title: "Library System Reset: Damaged",
   status: "not-started",

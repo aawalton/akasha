@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const oldKingdomSabriel = {
   id: "019db533-f39a-7d48-9ef0-af5f32a2f23b",
-  type: "book",
+  type: "page-type/book",
   slug: "old-kingdom-sabriel",
   title: "Old Kingdom: Sabriel",
   status: "not-started",

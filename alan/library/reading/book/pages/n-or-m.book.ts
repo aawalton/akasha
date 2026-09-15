@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const nOrM = {
   id: "019db533-f399-7c20-bb8e-2f4e40061c9d",
-  type: "book",
+  type: "page-type/book",
   slug: "n-or-m",
   title: "N or M?",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const journeyToZion = {
   id: "019db533-f39d-79ab-80de-51a939747d5f",
-  type: "book",
+  type: "page-type/book",
   slug: "journey-to-zion",
   title: "Journey to Zion",
   status: "not-started",

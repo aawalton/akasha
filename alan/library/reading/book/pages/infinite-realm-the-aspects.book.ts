@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const infiniteRealmTheAspects = {
   id: "019db533-f391-7a8a-a152-e7b0e351b1e9",
-  type: "book",
+  type: "page-type/book",
   slug: "infinite-realm-the-aspects",
   title: "Infinite Realm: The Aspects",
   status: "not-started",

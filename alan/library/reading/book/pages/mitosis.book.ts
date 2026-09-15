@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const mitosis = {
   id: "019db533-f39d-71f6-8858-273de10fedfe",
-  type: "book",
+  type: "page-type/book",
   slug: "mitosis",
   title: "Mitosis",
   status: "not-started",

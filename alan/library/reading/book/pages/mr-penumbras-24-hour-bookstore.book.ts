@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const mrPenumbras24HourBookstore = {
   id: "019db533-f388-7a77-9028-cf73ee567ae9",
-  type: "book",
+  type: "page-type/book",
   slug: "mr-penumbras-24-hour-bookstore",
   title: "Mr. Penumbra's 24-Hour Bookstore",
   status: "not-started",

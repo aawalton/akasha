@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const mistakesWereMadeButNotByMe = {
   id: "019db533-f39e-70f4-9c55-d825c16f2361",
-  type: "book",
+  type: "page-type/book",
   slug: "mistakes-were-made-but-not-by-me",
   title: "Mistakes Were Made (But Not By Me)",
   status: "not-started",

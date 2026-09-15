@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const perilAtEndHouse = {
   id: "019db533-f399-7cd5-af14-e4b7a4178486",
-  type: "book",
+  type: "page-type/book",
   slug: "peril-at-end-house",
   title: "Peril at End House",
   status: "not-started",

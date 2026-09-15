@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const milesVorsokiganDiplomaticImmunity = {
   id: "019db533-f39b-7164-88db-ff8394973798",
-  type: "book",
+  type: "page-type/book",
   slug: "miles-vorsokigan-diplomatic-immunity",
   title: "Miles Vorsokigan: Diplomatic Immunity",
   status: "not-started",

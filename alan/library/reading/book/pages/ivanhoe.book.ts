@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const ivanhoe = {
   id: "019db533-f39d-79d6-acfa-9ad6ac5ce45e",
-  type: "book",
+  type: "page-type/book",
   slug: "ivanhoe",
   title: "Ivanhoe",
   status: "not-started",

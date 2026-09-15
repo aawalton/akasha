@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const monsterHunterMemoirsFever = {
   id: "019db533-f39a-7e49-b477-62bd6a790577",
-  type: "book",
+  type: "page-type/book",
   slug: "monster-hunter-memoirs-fever",
   title: "Monster Hunter Memoirs: Fever",
   status: "not-started",

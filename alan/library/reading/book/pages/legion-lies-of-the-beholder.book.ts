@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const legionLiesOfTheBeholder = {
   id: "019db533-f39d-709b-9e18-37abba5470c4",
-  type: "book",
+  type: "page-type/book",
   slug: "legion-lies-of-the-beholder",
   title: "Legion: Lies of the Beholder",
   status: "not-started",

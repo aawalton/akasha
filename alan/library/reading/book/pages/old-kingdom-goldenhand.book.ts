@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const oldKingdomGoldenhand = {
   id: "019db533-f39b-70cd-b048-e348513caae0",
-  type: "book",
+  type: "page-type/book",
   slug: "old-kingdom-goldenhand",
   title: "Old Kingdom: Goldenhand",
   status: "not-started",

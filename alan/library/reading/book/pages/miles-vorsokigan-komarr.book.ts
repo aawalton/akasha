@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const milesVorsokiganKomarr = {
   id: "019db533-f39a-7f05-b2f3-f77919a502fe",
-  type: "book",
+  type: "page-type/book",
   slug: "miles-vorsokigan-komarr",
   title: "Miles Vorsokigan: Komarr",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const outOfTheDarkIntoTheLight = {
   id: "019db533-f39a-7f3b-8dbd-d412cee05b9a",
-  type: "book",
+  type: "page-type/book",
   slug: "out-of-the-dark-into-the-light",
   title: "Out of the Dark: Into the Light",
   status: "not-started",

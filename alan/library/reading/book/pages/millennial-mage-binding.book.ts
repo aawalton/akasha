@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const millennialMageBinding = {
   id: "019db533-f391-72ff-ad9a-452452c66bea",
-  type: "book",
+  type: "page-type/book",
   slug: "millennial-mage-binding",
   title: "Millennial Mage: Binding",
   status: "completed",

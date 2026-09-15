@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const littleDorrit = {
   id: "019db533-f39d-7abf-af52-0b511f269ed4",
-  type: "book",
+  type: "page-type/book",
   slug: "little-dorrit",
   title: "Little Dorrit",
   status: "not-started",

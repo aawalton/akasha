@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const legionSkinDeep = {
   id: "019db533-f38a-7c1b-8f24-2ead76493597",
-  type: "book",
+  type: "page-type/book",
   slug: "legion-skin-deep",
   title: "Legion: Skin Deep",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const milesVorsokiganCetaganda = {
   id: "019db533-f39b-7219-a7a3-7717adb3f2ec",
-  type: "book",
+  type: "page-type/book",
   slug: "miles-vorsokigan-cetaganda",
   title: "Miles Vorsokigan: Cetaganda",
   status: "not-started",

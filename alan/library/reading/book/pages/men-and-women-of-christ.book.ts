@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const menAndWomenOfChrist = {
   id: "019db533-f39d-706e-ab10-aec8e6adb6e1",
-  type: "book",
+  type: "page-type/book",
   slug: "men-and-women-of-christ",
   title: "Men and Women of Christ",
   status: "completed",

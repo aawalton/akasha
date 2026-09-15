@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const madeToStick = {
   id: "019db533-f39e-7077-a455-71c8177fff79",
-  type: "book",
+  type: "page-type/book",
   slug: "made-to-stick",
   title: "Made to Stick",
   status: "not-started",

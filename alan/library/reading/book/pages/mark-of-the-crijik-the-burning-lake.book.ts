@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const markOfTheCrijikTheBurningLake = {
   id: "019db533-f391-71a4-8f63-b2aa7ef4224d",
-  type: "book",
+  type: "page-type/book",
   slug: "mark-of-the-crijik-the-burning-lake",
   title: "Mark of the Crijik: The Burning Lake",
   status: "not-started",

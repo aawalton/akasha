@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const linksOfWaltonHistory = {
   id: "019db533-f39d-7aaf-bede-a7518b011603",
-  type: "book",
+  type: "page-type/book",
   slug: "links-of-walton-history",
   title: "Links of Walton History",
   status: "paused",

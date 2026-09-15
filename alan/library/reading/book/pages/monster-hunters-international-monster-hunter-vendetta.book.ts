@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const monsterHuntersInternationalMonsterHunterVendetta = {
   id: "019db533-f39a-7e5f-914f-86d6385bf407",
-  type: "book",
+  type: "page-type/book",
   slug: "monster-hunters-international-monster-hunter-vendetta",
   title: "Monster Hunters International: Monster Hunter Vendetta",
   status: "not-started",

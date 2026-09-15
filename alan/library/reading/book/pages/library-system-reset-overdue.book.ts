@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const librarySystemResetOverdue = {
   id: "019db533-f391-71d0-a25b-457abdb50720",
-  type: "book",
+  type: "page-type/book",
   slug: "library-system-reset-overdue",
   title: "Library System Reset: Overdue",
   status: "not-started",

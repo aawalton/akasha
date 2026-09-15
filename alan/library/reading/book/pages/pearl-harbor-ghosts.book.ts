@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const pearlHarborGhosts = {
   id: "019db533-f39d-798d-b07c-dc0cd9266c49",
-  type: "book",
+  type: "page-type/book",
   slug: "pearl-harbor-ghosts",
   title: "Pearl Harbor Ghosts",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const joshuaChamberlain = {
   id: "019db533-f39d-79c4-9f2f-cf9f4fd16e93",
-  type: "book",
+  type: "page-type/book",
   slug: "joshua-chamberlain",
   title: "Joshua Chamberlain",
   status: "completed",

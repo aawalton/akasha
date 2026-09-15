@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const perfectState = {
   id: "019db533-f39d-70ab-a06a-9fb76a7e8a14",
-  type: "book",
+  type: "page-type/book",
   slug: "perfect-state",
   title: "Perfect State",
   status: "completed",

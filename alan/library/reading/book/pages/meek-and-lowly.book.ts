@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const meekAndLowly = {
   id: "019db533-f39d-708b-9cf7-65491d8e7053",
-  type: "book",
+  type: "page-type/book",
   slug: "meek-and-lowly",
   title: "Meek and Lowly",
   status: "completed",

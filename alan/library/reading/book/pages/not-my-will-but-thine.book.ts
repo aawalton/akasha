@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const notMyWillButThine = {
   id: "019db533-f39d-70e3-9ec6-973bd9f53a42",
-  type: "book",
+  type: "page-type/book",
   slug: "not-my-will-but-thine",
   title: "Not My Will, But Thine",
   status: "completed",

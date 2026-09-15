@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const infiniteRealmTheRunesmith = {
   id: "019db533-f391-7b34-8338-52fdc40eb95d",
-  type: "book",
+  type: "page-type/book",
   slug: "infinite-realm-the-runesmith",
   title: "Infinite Realm: The Runesmith",
   status: "not-started",

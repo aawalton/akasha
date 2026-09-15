@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const murderInMesopotamia = {
   id: "019db533-f399-7d2a-8669-1b9f79c101cc",
-  type: "book",
+  type: "page-type/book",
   slug: "murder-in-mesopotamia",
   title: "Murder in Mesopotamia",
   status: "not-started",

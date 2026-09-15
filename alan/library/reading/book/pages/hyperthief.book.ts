@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const hyperthief = {
   id: "019db533-f39c-7f5c-8432-ae3745fe8782",
-  type: "book",
+  type: "page-type/book",
   slug: "hyperthief",
   title: "Hyperthief",
   status: "completed",

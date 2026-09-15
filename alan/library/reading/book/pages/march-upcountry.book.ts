@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const marchUpcountry = {
   id: "019db533-f39a-7f99-9bd4-579f74a99422",
-  type: "book",
+  type: "page-type/book",
   slug: "march-upcountry",
   title: "March Upcountry",
   status: "not-started",

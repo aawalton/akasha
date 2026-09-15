@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const infinityBladeAwakening = {
   id: "019db533-f39d-7055-a1e7-8690066a4780",
-  type: "book",
+  type: "page-type/book",
   slug: "infinity-blade-awakening",
   title: "Infinity Blade: Awakening",
   status: "completed",

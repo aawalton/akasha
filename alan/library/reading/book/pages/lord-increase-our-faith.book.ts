@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const lordIncreaseOurFaith = {
   id: "019db533-f39d-7264-aab7-f6d7cf50318d",
-  type: "book",
+  type: "page-type/book",
   slug: "lord-increase-our-faith",
   title: "Lord, Increase Our Faith",
   status: "completed",

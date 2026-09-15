@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const milesVorsokiganTheWarriorsApprentice = {
   id: "019db533-f39a-7a36-b3f6-9e6bb8074f8c",
-  type: "book",
+  type: "page-type/book",
   slug: "miles-vorsokigan-the-warriors-apprentice",
   title: "Miles Vorsokigan: The Warrior's Apprentice",
   status: "not-started",

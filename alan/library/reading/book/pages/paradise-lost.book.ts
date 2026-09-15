@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const paradiseLost = {
   id: "019db533-f39d-7a51-9743-9576b68e1c8c",
-  type: "book",
+  type: "page-type/book",
   slug: "paradise-lost",
   title: "Paradise Lost",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const outliers = {
   id: "019db533-f39e-708e-90a6-8d6b632de26e",
-  type: "book",
+  type: "page-type/book",
   slug: "outliers",
   title: "Outliers",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const milesVorsokiganShardsOfHonor = {
   id: "019db533-f39a-7c2e-9786-212cb1626383",
-  type: "book",
+  type: "page-type/book",
   slug: "miles-vorsokigan-shards-of-honor",
   title: "Miles Vorsokigan: Shards of Honor",
   status: "not-started",

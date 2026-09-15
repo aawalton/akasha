@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const menWomenAndWorthiness = {
   id: "019db533-f39e-70cc-b976-068f53d13e6e",
-  type: "book",
+  type: "page-type/book",
   slug: "men-women-and-worthiness",
   title: "Men, Women, and Worthiness",
   status: "completed",

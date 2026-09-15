@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const markOfTheCrijikBook1 = {
   id: "019db533-f391-71f3-8fce-91ad835970a8",
-  type: "book",
+  type: "page-type/book",
   slug: "mark-of-the-crijik-book-1",
   title: "Mark of the Crijik",
   status: "not-started",

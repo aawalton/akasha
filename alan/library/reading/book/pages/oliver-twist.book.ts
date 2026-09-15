@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const oliverTwist = {
   id: "019db533-f39d-7aed-b5d0-95049b81760d",
-  type: "book",
+  type: "page-type/book",
   slug: "oliver-twist",
   title: "Oliver Twist",
   status: "not-started",

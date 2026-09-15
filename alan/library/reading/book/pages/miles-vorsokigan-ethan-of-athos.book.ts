@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const milesVorsokiganEthanOfAthos = {
   id: "019db533-f39a-7fc7-9f32-5b30c44ef878",
-  type: "book",
+  type: "page-type/book",
   slug: "miles-vorsokigan-ethan-of-athos",
   title: "Miles Vorsokigan: Ethan of Athos",
   status: "not-started",

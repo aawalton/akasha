@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const milesVorsokiganFallingFree = {
   id: "019db533-f39a-7fbf-affb-fdc9ffe827aa",
-  type: "book",
+  type: "page-type/book",
   slug: "miles-vorsokigan-falling-free",
   title: "Miles Vorsokigan: Falling Free",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const levelingUpTheWorld10 = {
   id: "019db533-f391-7127-8111-f90c15c8622f",
-  type: "book",
+  type: "page-type/book",
   slug: "leveling-up-the-world-10",
   title: "Leveling Up The World 10",
   status: "completed",

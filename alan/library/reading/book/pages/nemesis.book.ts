@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const nemesis = {
   id: "019db533-f399-7b8a-a6f4-f193708a01de",
-  type: "book",
+  type: "page-type/book",
   slug: "nemesis",
   title: "Nemesis",
   status: "not-started",

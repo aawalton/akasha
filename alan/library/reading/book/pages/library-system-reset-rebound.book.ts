@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const librarySystemResetRebound = {
   id: "019db533-f391-71b2-ad1e-f1ee9d6d406b",
-  type: "book",
+  type: "page-type/book",
   slug: "library-system-reset-rebound",
   title: "Library System Reset: Rebound",
   status: "not-started",

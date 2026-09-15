@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const onWingsOfFaith = {
   id: "019db533-f39d-79eb-acb5-5462f55176ac",
-  type: "book",
+  type: "page-type/book",
   slug: "on-wings-of-faith",
   title: "On Wings of Faith",
   status: "not-started",

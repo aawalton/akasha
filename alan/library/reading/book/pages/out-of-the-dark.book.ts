@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const outOfTheDark = {
   id: "019db533-f39a-7dbe-9288-c770b5a85e1d",
-  type: "book",
+  type: "page-type/book",
   slug: "out-of-the-dark",
   title: "Out of the Dark",
   status: "not-started",

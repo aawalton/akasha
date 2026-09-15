@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const martinChuzzlewit = {
   id: "019db533-f39d-7a23-a769-e103deaa2a36",
-  type: "book",
+  type: "page-type/book",
   slug: "martin-chuzzlewit",
   title: "Martin Chuzzlewit",
   status: "not-started",

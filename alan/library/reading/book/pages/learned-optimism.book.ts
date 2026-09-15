@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const learnedOptimism = {
   id: "019db533-f39d-7fb6-9763-19cb443d0b1e",
-  type: "book",
+  type: "page-type/book",
   slug: "learned-optimism",
   title: "Learned Optimism",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const nicholasNickleby = {
   id: "019db533-f39d-7ad7-9826-052280645a61",
-  type: "book",
+  type: "page-type/book",
   slug: "nicholas-nickleby",
   title: "Nicholas Nickleby",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const librarySystemResetLimiter = {
   id: "019db533-f391-7191-956f-8d0ad2c6f286",
-  type: "book",
+  type: "page-type/book",
   slug: "library-system-reset-limiter",
   title: "Library System Reset: Limiter",
   status: "not-started",

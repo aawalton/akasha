@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const journeyToTheWestTheJourneyToTheWest2 = {
   id: "019db533-f388-7d06-9d28-fb494bfb34f2",
-  type: "book",
+  type: "page-type/book",
   slug: "journey-to-the-west-the-journey-to-the-west-2",
   title: "Journey to The West: The Journey to the West",
   status: "not-started",

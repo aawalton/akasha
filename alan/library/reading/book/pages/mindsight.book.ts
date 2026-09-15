@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const mindsight = {
   id: "019db533-f39e-70c5-93b8-e764ea3bcc4e",
-  type: "book",
+  type: "page-type/book",
   slug: "mindsight",
   title: "Mindsight",
   status: "not-started",

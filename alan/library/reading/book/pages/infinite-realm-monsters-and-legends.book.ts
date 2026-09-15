@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const infiniteRealmMonstersAndLegends = {
   id: "019db533-f391-7b4e-bab7-476f41b00745",
-  type: "book",
+  type: "page-type/book",
   slug: "infinite-realm-monsters-and-legends",
   title: "Infinite Realm: Monsters and Legends",
   status: "not-started",

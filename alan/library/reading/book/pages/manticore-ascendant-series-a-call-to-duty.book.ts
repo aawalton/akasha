@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const manticoreAscendantSeriesACallToDuty = {
   id: "019db533-f39b-744e-82c3-b2e42e931974",
-  type: "book",
+  type: "page-type/book",
   slug: "manticore-ascendant-series-a-call-to-duty",
   title: "Manticore Ascendant Series: A Call to Duty",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const ikigai = {
   id: "019db533-f39e-7019-96ff-275f8741274a",
-  type: "book",
+  type: "page-type/book",
   slug: "ikigai",
   title: "Ikigai",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const infiniteRealmTheCentennialTournament = {
   id: "019db533-f391-7b5a-b8a3-ca0d3a9aff23",
-  type: "book",
+  type: "page-type/book",
   slug: "infinite-realm-the-centennial-tournament",
   title: "Infinite Realm: The Centennial Tournament",
   status: "not-started",

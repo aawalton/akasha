@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const oldKingdomLirael = {
   id: "019db533-f39a-7ee5-887e-ed69a1388040",
-  type: "book",
+  type: "page-type/book",
   slug: "old-kingdom-lirael",
   title: "Old Kingdom: Lirael",
   status: "not-started",

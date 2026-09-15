@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const monsterHuntersInternationalMonsterHunterSiege = {
   id: "019db533-f39a-7e89-90d2-2cfcdf886eb9",
-  type: "book",
+  type: "page-type/book",
   slug: "monster-hunters-international-monster-hunter-siege",
   title: "Monster Hunters International: Monster Hunter Siege",
   status: "not-started",
