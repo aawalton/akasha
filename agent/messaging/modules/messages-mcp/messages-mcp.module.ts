@@ -9,15 +9,15 @@ export const messagesMcp = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "SIGTERM and SIGINT each end this server.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cleanup that throws or stalls does not keep this server running.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A message already claimed is left claimed, for the supervisor to weigh on resume.",
     },
