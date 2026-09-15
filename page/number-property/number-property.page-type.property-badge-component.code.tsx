@@ -7,7 +7,7 @@ import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-vari
 import {
   formatPropertyNumber,
   toNumber,
-} from "akasha/page/core/property-types/modules/number/number.module.code.ts"
+} from "akasha/page/core/property-type/modules/number/number.module.code.ts"
 import type { BadgeVariant } from "akasha/page/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import {

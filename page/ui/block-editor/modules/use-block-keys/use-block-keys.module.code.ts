@@ -3,19 +3,19 @@
 import {
   isBlankBlock,
   type RichDocument,
-} from "akasha/page/core/property-types/modules/rich-document/rich-document.module.code.ts"
+} from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
 import {
   createBlock,
   type EditorOp,
   newBlockId,
   textOf,
-} from "akasha/page/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"
 import {
   findBlock,
   findBlockPath,
   flattenBlockIds,
   getBlockAtPath,
-} from "akasha/page/core/property-types/modules/rich-document-tree/rich-document-tree.module.code.ts"
+} from "akasha/page/core/property-type/modules/rich-document-tree/rich-document-tree.module.code.ts"
 import { planEnterSplit } from "akasha/page/ui/block-editor/modules/block-type-helpers/block-type-helpers.module.code.ts"
 import type { SlashChoice } from "akasha/page/ui/block-editor/modules/slash-menu/slash-menu.module.code.tsx"
 import { type RefObject, useCallback, useState } from "react"

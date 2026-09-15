@@ -11,12 +11,12 @@ import {
   type AggregateConfig,
   type AggregateFunction,
   computeAggregate,
-} from "akasha/page/core/property-types/modules/aggregate/aggregate.module.code.ts"
+} from "akasha/page/core/property-type/modules/aggregate/aggregate.module.code.ts"
 import {
   computeRollup,
   type PageTypePropertiesMap,
   parseRollupConfig,
-} from "akasha/page/core/property-types/modules/rollup/rollup.module.code.ts"
+} from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   asPageRecord,

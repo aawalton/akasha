@@ -9,8 +9,8 @@ import {
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
-import { formatAbsoluteInstant } from "akasha/page/core/property-types/modules/instant/instant.module.code.ts"
-import type { PropertyValue } from "akasha/page/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
+import { formatAbsoluteInstant } from "akasha/page/core/property-type/modules/instant/instant.module.code.ts"
+import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { BadgeVariant } from "akasha/page/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import {

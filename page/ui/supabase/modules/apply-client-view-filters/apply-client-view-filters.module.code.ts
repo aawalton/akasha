@@ -2,7 +2,7 @@
 
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-types/modules/rollup/rollup.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { applyView } from "akasha/page/core/view/modules/apply-view/apply-view.module.code.ts"
 

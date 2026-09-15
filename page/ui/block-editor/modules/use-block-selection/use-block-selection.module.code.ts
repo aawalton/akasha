@@ -12,13 +12,13 @@ import {
   selectedInOrder,
   singleSelection,
   toggleSelection,
-} from "akasha/page/core/property-types/modules/block-selection/block-selection.module.code.ts"
-import type { RichDocument } from "akasha/page/core/property-types/modules/rich-document/rich-document.module.code.ts"
+} from "akasha/page/core/property-type/modules/block-selection/block-selection.module.code.ts"
+import type { RichDocument } from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
 import {
   type EditorOp,
   newBlockId,
-} from "akasha/page/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
-import { flattenBlockIds } from "akasha/page/core/property-types/modules/rich-document-tree/rich-document-tree.module.code.ts"
+} from "akasha/page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"
+import { flattenBlockIds } from "akasha/page/core/property-type/modules/rich-document-tree/rich-document-tree.module.code.ts"
 import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 

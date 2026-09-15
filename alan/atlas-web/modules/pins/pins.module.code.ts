@@ -1,5 +1,5 @@
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { toNumber } from "akasha/page/core/property-types/modules/number/number.module.code.ts"
+import { toNumber } from "akasha/page/core/property-type/modules/number/number.module.code.ts"
 import { z } from "zod"
 
 const LocationPinSchema = z.object({

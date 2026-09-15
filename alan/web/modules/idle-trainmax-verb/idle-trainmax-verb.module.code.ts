@@ -3,7 +3,7 @@ import {
   IDLE_TRAINMAX_VERB_ID,
 } from "akasha/alan/web/modules/idle-card-page-type/idle-card-page-type.module.code.ts"
 import { idleGameStore } from "akasha/alan/web/modules/idle-game-store/idle-game-store.module.code.ts"
-import { formatShortNumber as fmt } from "akasha/page/core/property-types/modules/number/number.module.code.ts"
+import { formatShortNumber as fmt } from "akasha/page/core/property-type/modules/number/number.module.code.ts"
 import {
   type ActionPresentation,
   type ActionVerbContext,

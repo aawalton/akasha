@@ -1,7 +1,7 @@
 "use client"
 
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import { computeFillAggregatesForPage } from "akasha/page/core/property-types/modules/aggregate/aggregate.module.code.ts"
+import { computeFillAggregatesForPage } from "akasha/page/core/property-type/modules/aggregate/aggregate.module.code.ts"
 import {
   toAggregateInputs,
   toPageDataJSON,

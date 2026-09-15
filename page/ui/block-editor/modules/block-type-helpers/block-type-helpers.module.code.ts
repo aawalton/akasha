@@ -3,12 +3,12 @@ import {
   markerFor,
   nextNumberedMarker,
   stripLeadingMarker,
-} from "akasha/page/core/property-types/modules/block-markers/block-markers.module.code.ts"
-import type { Block } from "akasha/page/core/property-types/modules/rich-document/rich-document.module.code.ts"
+} from "akasha/page/core/property-type/modules/block-markers/block-markers.module.code.ts"
+import type { Block } from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
 import {
   textOf,
   type V1BlockType,
-} from "akasha/page/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"
 
 function continuationType(type: string): V1BlockType {
   switch (type) {

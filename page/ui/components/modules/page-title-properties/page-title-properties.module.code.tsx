@@ -4,7 +4,7 @@ import type {
   PageDataJSON,
   PropertyDefinition,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import { propertyTypeRendersWhenEmpty } from "akasha/page/core/property-types/modules/registry/registry.module.code.ts"
+import { propertyTypeRendersWhenEmpty } from "akasha/page/core/property-type/modules/registry/registry.module.code.ts"
 import { selectVisibleCardProperties } from "akasha/page/ui/components/modules/card-property-columns/card-property-columns.module.code.ts"
 import {
   isEmptyValue,

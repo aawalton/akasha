@@ -1,7 +1,7 @@
 "use client"
 
-import type { RichDocument } from "akasha/page/core/property-types/modules/rich-document/rich-document.module.code.ts"
-import { flattenBlockIds } from "akasha/page/core/property-types/modules/rich-document-tree/rich-document-tree.module.code.ts"
+import type { RichDocument } from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
+import { flattenBlockIds } from "akasha/page/core/property-type/modules/rich-document-tree/rich-document-tree.module.code.ts"
 import type { FocusCaret } from "akasha/page/ui/block-editor/modules/use-block-keys/use-block-keys.module.code.ts"
 import { type RefObject, useCallback, useEffect, useRef } from "react"
 

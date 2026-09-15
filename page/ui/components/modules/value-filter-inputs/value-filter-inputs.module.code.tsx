@@ -10,7 +10,7 @@ import {
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import type { FilterOperator } from "akasha/page/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
+import type { FilterOperator } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { PageFilterDimension } from "akasha/page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"

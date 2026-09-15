@@ -4,7 +4,7 @@ import type {
   PropertyDefinition,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-types/modules/rollup/rollup.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import {
   asPageRecord,
   asPageRowList,

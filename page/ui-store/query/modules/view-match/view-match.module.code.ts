@@ -6,8 +6,8 @@ import type {
   PageCondition,
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { PropertyValue } from "akasha/page/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
-import { isBlocksValueEmpty } from "akasha/page/core/property-types/modules/rich-document/rich-document.module.code.ts"
+import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
+import { isBlocksValueEmpty } from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
 import { pageHasNonEmptyContentKey } from "akasha/page/core/schema/modules/content-tier/content-tier.module.code.ts"
 import { asRecord } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 

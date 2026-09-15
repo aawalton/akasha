@@ -1,5 +1,5 @@
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-types/modules/rollup/rollup.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import type { ViewConfig } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { FilterableRow } from "akasha/page/core/view/modules/apply-filters/apply-filters.module.code.ts"
 import { applyFilters } from "akasha/page/core/view/modules/apply-filters/apply-filters.module.code.ts"

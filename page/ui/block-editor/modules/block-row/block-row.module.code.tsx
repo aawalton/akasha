@@ -2,13 +2,13 @@
 
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Textarea } from "akasha/design/interfaces/primitives/modules/textarea/textarea.module.code.tsx"
-import { isTodoChecked } from "akasha/page/core/property-types/modules/block-markers/block-markers.module.code.ts"
-import type { ShorthandTransform } from "akasha/page/core/property-types/modules/markdown-shorthand/markdown-shorthand.module.code.ts"
-import type { Block } from "akasha/page/core/property-types/modules/rich-document/rich-document.module.code.ts"
+import { isTodoChecked } from "akasha/page/core/property-type/modules/block-markers/block-markers.module.code.ts"
+import type { ShorthandTransform } from "akasha/page/core/property-type/modules/markdown-shorthand/markdown-shorthand.module.code.ts"
+import type { Block } from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
 import type {
   HeadingLevel,
   V1BlockType,
-} from "akasha/page/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"
 import { useCoarsePointer } from "akasha/page/ui/block-editor/modules/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useTextareaInput } from "akasha/page/ui/block-editor/modules/use-textarea-input/use-textarea-input.module.code.ts"
 

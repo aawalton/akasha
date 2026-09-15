@@ -4,7 +4,7 @@ import type {
   PageDataJSON,
   PropertyDefinition,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import type { PropertyValue } from "akasha/page/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
+import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { RESERVED_PROPERTY_IDS } from "akasha/page/ui/components/modules/card-property-columns/card-property-columns.module.code.ts"
 import { PropertyRow } from "akasha/page/ui/components/modules/property-row/property-row.module.code.tsx"
 import { useMemo } from "react"

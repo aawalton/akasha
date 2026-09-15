@@ -5,7 +5,7 @@ import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/modules/b
 import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
 import { LinkBadge } from "akasha/design/interfaces/badges/modules/link-badge/link-badge.module.code.tsx"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import type { PropertyValue } from "akasha/page/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
+import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { multiRelationConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import { PageBadge } from "akasha/page/ui/components/modules/page-badge/page-badge.module.code.tsx"

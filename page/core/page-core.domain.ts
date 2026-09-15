@@ -10,7 +10,7 @@ export const pageCore = {
     "domain/page-core-filter",
     "domain/page-core-generated",
     "domain/page-core-json-patch",
-    "domain/page-core-property-types",
+    "domain/page-core-property-type",
     "domain/page-core-schema",
     "domain/page-core-view",
     "domain/page-core-view-state",

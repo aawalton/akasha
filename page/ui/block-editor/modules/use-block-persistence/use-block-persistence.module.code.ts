@@ -1,12 +1,12 @@
 "use client"
 
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
-import type { RichDocument } from "akasha/page/core/property-types/modules/rich-document/rich-document.module.code.ts"
+import type { RichDocument } from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
 import {
   applyEditorOp,
   type EditorOp,
   normalizeRichDocument,
-} from "akasha/page/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import {
   createSaveQueue,

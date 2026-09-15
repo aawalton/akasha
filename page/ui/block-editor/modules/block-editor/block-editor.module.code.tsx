@@ -4,12 +4,12 @@ import { useDebouncedCallback } from "akasha/design/interfaces/primitives/module
 import type {
   Block,
   RichDocument,
-} from "akasha/page/core/property-types/modules/rich-document/rich-document.module.code.ts"
+} from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
 import {
   applyEditorOp,
   type EditorOp,
   normalizeRichDocument,
-} from "akasha/page/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"
 import { BlockAccessoryBar } from "akasha/page/ui/block-editor/modules/block-accessory-bar/block-accessory-bar.module.code.tsx"
 import { BlockRow } from "akasha/page/ui/block-editor/modules/block-row/block-row.module.code.tsx"
 import { BlockTree } from "akasha/page/ui/block-editor/modules/block-tree/block-tree.module.code.tsx"

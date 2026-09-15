@@ -6,7 +6,7 @@ import {
   type SearchMultiSelectItem,
 } from "akasha/design/interfaces/forms/modules/search-multi-select/search-multi-select.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/interfaces/primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
-import type { FilterOperator } from "akasha/page/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
+import type { FilterOperator } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { PageFilterDimension } from "akasha/page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import { toStringArray } from "akasha/page/ui/components/modules/value-filter-inputs/value-filter-inputs.module.code.tsx"

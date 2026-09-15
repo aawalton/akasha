@@ -7,11 +7,11 @@ import type {
 import {
   formatAbsoluteInstant,
   instantToMillis,
-} from "akasha/page/core/property-types/modules/instant/instant.module.code.ts"
+} from "akasha/page/core/property-type/modules/instant/instant.module.code.ts"
 import {
   formatPropertyNumber,
   toNumber,
-} from "akasha/page/core/property-types/modules/number/number.module.code.ts"
+} from "akasha/page/core/property-type/modules/number/number.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import {
