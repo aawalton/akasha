@@ -33,7 +33,6 @@ export const agent = {
     "module/tool-access",
     "one-of-property/assignment-slug",
     "page-type/agent-settings",
-    "page-type/model-account",
     "page-type/role",
     "page-type/seat",
     "page-type/subagent",
