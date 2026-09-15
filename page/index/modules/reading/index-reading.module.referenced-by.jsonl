@@ -387,6 +387,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/modules/shadow/shadow.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/type/modules/declared-properties/declared-properties.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/type/modules/type-turning/type-turning.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addon-build/modules/addon-placing/addon-placing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.test.ts"}

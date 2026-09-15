@@ -1,10 +1,10 @@
 import {
-  idsNaming,
   listedAt,
   slugsOfType,
   typeSlugById,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 
 const PAGE = "page"
 

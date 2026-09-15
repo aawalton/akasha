@@ -10,7 +10,7 @@ export const pageTypeDescent = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Descent is walked down the reverse of `extends-type` in the edge index.",
+      statement: "Descent is walked down the reverse of `extends-type` read beside each page.",
     },
     {
       invariantKind: "invariant-kind/departure",

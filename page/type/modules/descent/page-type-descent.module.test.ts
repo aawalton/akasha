@@ -2,10 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import {
   idFiled,
   listedFiled,
-  namedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
@@ -29,7 +29,7 @@ function typed(root: string, slug: string, above: readonly string[] | null): und
   valueAlsoFiled(root, "page-type", [
     { path, value: { id, pageTypeSlug: "page-type", slug, extends: above ?? [] } },
   ])
-  for (const one of above ?? []) namedFiled(root, idOf(one), "extends-type", id, [{ path }])
+  for (const one of above ?? []) relationFiled(root, idOf(one), "extends-type", id, [{ path }])
 }
 
 test("a page type is under itself", () => {
