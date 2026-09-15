@@ -45,10 +45,7 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
-import {
-  folderFor,
-  namedForThePlural,
-} from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { folderFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { dashEachCapital } from "akasha/util/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import ts from "typescript"
 
@@ -62,8 +59,6 @@ const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const PAGE_TYPE = "page-type"
 
-const PLURAL_SLUG = "pluralSlug"
-
 const NAME = "name"
 
 const FIRST = 1
@@ -71,7 +66,6 @@ const FIRST = 1
 export type Asked = {
   readonly at: string
   readonly to: string
-  readonly plural?: string
   readonly addressesRestated?: boolean
 }
 
@@ -179,15 +173,6 @@ function underIn(
   return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
 }
 
-function pluralIn(world: World, held: Held): string {
-  const at = world.index.listedAt(PAGE_TYPE, held.pageTypeSlug)[0]?.path
-  if (at === undefined) return ""
-  const text = world.textOf(at)
-  if (text === null) return ""
-  const read = readIn(at, text)
-  return "refused" in read ? "" : (read.held.said.get(PLURAL_SLUG) ?? "")
-}
-
 function ownsIn(files: readonly string[], held: Held, beside: readonly Beside[]): boolean {
   if (beside.length === 0) return false
   const opening = `${held.slug}.${held.pageTypeSlug}.`
@@ -200,21 +185,17 @@ export function tailOf(slug: string, named: string, to: string): string | null {
   return to.startsWith(opening) && to.length > opening.length ? to.slice(opening.length) : null
 }
 
-function foldedAs(world: World, held: Held, given: Asked, folder: string): string {
+function foldedAs(held: Held, given: Asked, folder: string): string {
   const named = basename(folder)
-  if (held.pageTypeSlug !== PAGE_TYPE) {
-    const tail = tailOf(held.slug, named, given.to)
-    return tail ?? folderFor(pluralIn(world, held), held.pageTypeSlug, given.to)
-  }
-  if (given.plural === undefined || namedForThePlural(named, given.plural)) return named
-  return given.plural
+  if (held.pageTypeSlug === PAGE_TYPE) return named
+  return tailOf(held.slug, named, given.to) ?? folderFor(held.pageTypeSlug, given.to)
 }
 
 function landingIn(world: World, held: Held, given: Asked, beside: readonly Beside[]): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
   if (!ownsIn(filesIn(world.root, folder), held, beside)) return join(folder, name)
-  return join(dirname(folder), foldedAs(world, held, given, folder), name)
+  return join(dirname(folder), foldedAs(held, given, folder), name)
 }
 
 const UNDER = "/"
@@ -329,10 +310,8 @@ export function pageRenamed(world: World, given: Asked): Answer {
   const answers: Answer[] = []
   let folded = stating([])
   let seen = world
-  if (given.to === held.slug) {
-    const carries = `\`${given.to}\` is the slug this page carries`
-    if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
-    if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
+  if (given.to === held.slug && lands === given.at) {
+    return refusing(`\`${given.to}\` is the slug this page carries, in the folder that slug names`)
   }
   const moves: Move[] = [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]
   const wasFolder = dirname(given.at)
@@ -363,12 +342,7 @@ export function pageRenamed(world: World, given: Asked): Answer {
   seen = carrying(seen, carried)
   if (given.to !== held.slug) {
     const level = tailOf(held.slug, held.said.get(NAME) ?? "", given.to)
-    const said = slugRenamed(seen, {
-      at: lands,
-      to: given.to,
-      plural: given.plural,
-      name: level ?? undefined,
-    })
+    const said = slugRenamed(seen, { at: lands, to: given.to, name: level ?? undefined })
     if (said.refused !== null) return said
     answers.push(said)
     folded = gathered(answers)

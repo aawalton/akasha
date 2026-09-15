@@ -40,14 +40,6 @@ const WHOLE = `export const held = {
 } as const
 `
 
-const PLURAL = `export const held = {
-  id: "01a04a4a-0000-7000-8000-000000000008",
-  pageTypeSlug: "module",
-  slug: "held",
-  pluralSlug: "helds",
-} as const
-`
-
 function holding(body: string): (path: string) => string | null {
   return bodyAt(PAGE, body)
 }
@@ -190,49 +182,17 @@ test("the bodies are answered rather than written", () => {
   expect(text(NAMER_PAGE)).toContain(`"note": "${HELD_SLUG}"`)
 })
 
-test("a page stating a plural is refused where the plural it becomes is not said", () => {
-  const world = worldIn(scratch.rootFor("slug-renaming-"), holding(PLURAL))
-  const said = slugRenamed(world, { at: PAGE, to: KEPT })
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${PAGE}\` states a \`pluralSlug\`, so the plural it becomes is said`)
-})
-
-test("a page stating no plural is refused where one is said", () => {
-  const world = worldIn(scratch.rootFor("slug-renaming-"), holding(WHOLE))
-  const said = slugRenamed(world, { at: PAGE, to: KEPT, plural: "kepts" })
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${PAGE}\` states no \`pluralSlug\`, so no plural is said`)
-})
-
-const pluralIn = (text: (path: string) => string | null): string =>
-  (text(HELD_PAGE) ?? "").replace(
-    `"slug": "${HELD_SLUG}",`,
-    `"slug": "${HELD_SLUG}",\n  "pluralSlug": "helds",`
-  )
-
-test("the plural is stated anew beside the slug", () => {
-  const root = indexedRepo()
-  const text = textIn(root)
-  const held = pluralIn(text)
-  const world = worldIn(root, (path) => (path === HELD_PAGE ? held : text(path)))
-  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
-  expect(said.refused).toBe(null)
-  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
-  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
-})
-
-test("the plural and the export are answered here, reaching nothing", () => {
+test("the slug and the export are answered here, reaching nothing", () => {
   const reached: string[] = []
   const root = indexedRepo()
   const text = textIn(root)
-  const held = pluralIn(text)
-  const world = worldAt(root, (path) => (path === HELD_PAGE ? held : text(path)), listing(reached))
+  const world = worldAt(root, text, listing(reached))
 
-  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
+  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT })
 
   expect(said.refused).toBe(null)
   expect(reached).toEqual([])
-  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
+  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
   expect(bodyAfter(said, world, HELD_PAGE)).toContain(`export const ${KEPT} =`)
 })
 

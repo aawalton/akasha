@@ -33,14 +33,7 @@ export const slugRenaming = {
       statement:
         "A page naming this page under a key its property's slug does not spell is restated.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A plural handed in is stated beside the slug in the page's own body.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A plural the page states already is left alone rather than restated.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A name handed in is stated where the page states another name.",

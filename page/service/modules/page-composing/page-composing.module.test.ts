@@ -50,42 +50,28 @@ test("one type's keys keep the order that type declares them in", () => {
   expect(said.map((one) => one.key)).toEqual(["b", "a"])
 })
 
-test("a folder already named by the plural takes a new page under pages", () => {
-  const said = pathFor(DEVICE_TOKENS_AT, "device-tokens", "device-token", "one", false)
-  expect(said).toBe("akasha/person-system/device-tokens/pages/one.device-token.ts")
+test("a folder already named by the page type takes a new page under pages", () => {
+  const said = pathFor(DEVICE_TOKENS_AT, "device-token", "one", false)
+  expect(said).toBe("akasha/person-system/device-token/pages/one.device-token.ts")
 })
 
-test("a folder named by the plural with the opening taken off takes its pages under pages", () => {
-  const said = pathFor(
-    pageTypeAt("story-chapter-read"),
-    "story-chapters-read",
-    "story-chapter-read",
-    "one",
-    true
-  )
+test("a folder named by the page type's slug shorn of its opening takes its pages under pages", () => {
+  const said = pathFor(pageTypeAt("story-chapter-read"), "story-chapter-read", "one", true)
   expect(said).toBe("akasha/story/chapter-read/pages/one/one.story-chapter-read.ts")
 })
 
-test("a folder named by neither the type nor its plural takes a new page under the plural", () => {
-  const said = pathFor(
-    "akasha/pages-system/index/held/index.page-type.ts",
-    "indexes",
-    "index",
-    "one",
-    false
+const UNNAMED_TYPE_AT = "akasha/shard/held/shard.page-type.ts"
+
+test("a folder not named by the page type takes a new page under that type's slug", () => {
+  expect(pathFor(UNNAMED_TYPE_AT, "shard", "one", false)).toBe(
+    "akasha/shard/held/shard/one.shard.ts"
   )
-  expect(said).toBe("akasha/pages-system/index/held/indexes/one.index.ts")
 })
 
-test("a page carrying files beside it takes a folder of its own under the plural", () => {
-  const said = pathFor(
-    "akasha/pages-system/index/held/index.page-type.ts",
-    "indexes",
-    "index",
-    "one",
-    true
+test("a page carrying files beside it takes a folder of its own under that type's slug", () => {
+  expect(pathFor(UNNAMED_TYPE_AT, "shard", "one", true)).toBe(
+    "akasha/shard/held/shard/one/one.shard.ts"
   )
-  expect(said).toBe("akasha/pages-system/index/held/indexes/one/one.index.ts")
 })
 
 test("a type declaring a property held beside the page carries files beside it", () => {
@@ -110,13 +96,13 @@ test("a file the root page type declares carries none beside the page", () => {
 
 test("a new page with a file beside it is placed in a folder of its own", () => {
   const said = composing(A_NEW_FIGURE)
-  expect(pathIn(said)).toBe("akasha/figures/pages/new-figure/new-figure.figure.ts")
+  expect(pathIn(said)).toBe("akasha/figure/pages/new-figure/new-figure.figure.ts")
 })
 
 test("several pages compose into what one write puts and what it keeps", () => {
   const said = composing(A_NEW_THING)
   expect("puts" in said && said.puts.length).toBe(1)
-  expect(pathIn(said)).toBe("akasha/things/pages/new-thing.thing.ts")
+  expect(pathIn(said)).toBe("akasha/thing/pages/new-thing.thing.ts")
   expect("kept" in said && said.kept[0]?.values.lastSeenAt).toBe(AN_INSTANT)
 })
 
@@ -143,18 +129,18 @@ test("a page the index already holds keeps the identity it has", () => {
 
 test("a page the index does not hold is composed carrying no identity", () => {
   const said = composing({ ...A_CRATE, slug: "held-one" })
-  expect(pathIn(said)).toBe("akasha/crates/pages/held-one.crate.ts")
+  expect(pathIn(said)).toBe("akasha/crate/pages/held-one.crate.ts")
   expect(bodyIn(said)).not.toContain("id:")
 })
 
 test("a folder of a page's own drops the name above it from the front of the slug", () => {
-  expect(folderFor("wake-days", "wake-day", "wake-day-1970-01-01")).toBe("1970-01-01")
-  expect(folderFor("eso-days", "eso-day", "eso-day-1970-01-01")).toBe("1970-01-01")
+  expect(folderFor("wake-day", "wake-day-1970-01-01")).toBe("1970-01-01")
+  expect(folderFor("eso-day", "eso-day-1970-01-01")).toBe("1970-01-01")
 })
 
 test("a slug the name above it does not open is the folder whole", () => {
-  expect(folderFor("seats", "seat", "one")).toBe("one")
-  expect(folderFor("seats", "seat", "seat-")).toBe("seat-")
+  expect(folderFor("seat", "one")).toBe("one")
+  expect(folderFor("seat", "seat-")).toBe("seat-")
 })
 
 test("a merge keeps every key the caller does not name", () => {
@@ -275,7 +261,7 @@ test("a merge keeps a value held outside the commit beside the page rather than 
 
 test("a merge into a page the index does not hold composes that page as a new one", () => {
   const said = composing({ ...A_CRATE, slug: "held-one", merge: true })
-  expect(pathIn(said)).toBe("akasha/crates/pages/held-one.crate.ts")
+  expect(pathIn(said)).toBe("akasha/crate/pages/held-one.crate.ts")
   expect(bodyIn(said)).not.toContain("id:")
 })
 
@@ -288,7 +274,7 @@ test("a slug inside the length a page's slug holds is no refusal", () => {
 test("a slug at the length a page's slug holds composes", () => {
   const said = composing({ ...A_CRATE, slug: AT_THE_LENGTH })
   expect("refused" in said).toBe(false)
-  expect(pathIn(said)).toBe(`akasha/crates/pages/${AT_THE_LENGTH}.crate.ts`)
+  expect(pathIn(said)).toBe(`akasha/crate/pages/${AT_THE_LENGTH}.crate.ts`)
 })
 
 test("a slug one character past that length is refused", () => {
@@ -326,8 +312,8 @@ test("a merge is refused for a key the page type declares no property for", () =
 })
 
 test("the folder a page type's pages sit in is answered from that type alone", () => {
-  expect(pagesAtFor(ROOT, "thing")).toBe("akasha/things/pages")
-  expect(pagesAtFor(ROOT, "crate")).toBe("akasha/crates/pages")
+  expect(pagesAtFor(ROOT, "thing")).toBe("akasha/thing/pages")
+  expect(pagesAtFor(ROOT, "crate")).toBe("akasha/crate/pages")
 })
 
 test("that folder is the folder every new page of that type is placed under", () => {
@@ -339,24 +325,22 @@ test("a page type that is no page the index holds is refused rather than guessed
   expect(() => pagesAtFor(ROOT, "no-such-type")).toThrow("names no page type the index holds")
 })
 
-test("a page type stating no plural has its pages under the folder its own slug names", () => {
+test("a page type has its pages under the folder its own slug names", () => {
   expect(pagesAtFor(ROOT, "shard")).toBe("akasha/shard/pages")
 })
 
-test("a new page of a page type stating no plural is placed in that folder", () => {
+test("a new page of that page type is placed in that folder", () => {
   const said = composing({ pageTypeSlug: "shard", slug: "new-shard", values: { title: "one" } })
   expect(pathIn(said)).toBe("akasha/shard/pages/new-shard.shard.ts")
 })
 
 test("a folder whose name closes the slug takes its pages under pages", () => {
-  const at = "akasha/agent/seat/log-day/seat-log-day.page-type.ts"
-  expect(pagesUnder(at, "seat-log-day")).toBe("akasha/agent/seat/log-day/pages")
+  expect(pagesUnder(pageTypeAt("seat-log-day"))).toBe("akasha/agent/seat/log-day/pages")
   expect(pagesAtFor(ROOT, "shard-log-day")).toBe("akasha/shard/log-day/pages")
 })
 
-test("a folder named for the type rather than its plural takes its pages under pages", () => {
-  expect(pagesUnder("akasha/agent/seat/seat.page-type.ts", "seats")).toBe("akasha/agent/seat/pages")
-  const account = "akasha/agent/model/account/model-account.page-type.ts"
-  expect(pagesUnder(account, "model-accounts")).toBe("akasha/agent/model/account/pages")
-  expect(pagesUnder("akasha/shard/held/shard.page-type.ts", "shards")).toBe("akasha/shard/held/shards")
+test("a folder named for the page type takes its pages under pages", () => {
+  expect(pagesUnder(pageTypeAt("seat"))).toBe("akasha/agent/seat/pages")
+  expect(pagesUnder(pageTypeAt("model-account"))).toBe("akasha/agent/model/account/pages")
+  expect(pagesUnder(UNNAMED_TYPE_AT)).toBe("akasha/shard/held/shard")
 })

@@ -57,7 +57,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder already named by the plural takes its pages under `pages`.",
+      statement: "A folder already named by the page type takes its pages under `pages`.",
     },
     {
       invariantKind: "departure",
@@ -69,16 +69,11 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page type stating no plural is read for its pages as if its slug were that plural.",
+      statement: "A folder named by the page type's slug shorn of its opening is named by it.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder named by the plural with that opening taken off is named by it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A folder not named by the plural takes its pages under the plural.",
+      statement: "A folder not named by the page type takes its pages under that type's slug.",
     },
     {
       invariantKind: "departure",

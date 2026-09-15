@@ -18,10 +18,6 @@ const PAGE_TYPE = "page-type"
 
 const MORTAL = "mortal"
 
-const PLURAL = "pluralSlug"
-
-const SLUG = "slug"
-
 export type Mortalling = (root: string) => readonly string[]
 
 export type Reading = {
@@ -31,11 +27,8 @@ export type Reading = {
 export const mortalling: Mortalling = (root) => {
   const found = new Set<string>()
   for (const one of valuesOfType(root, PAGE_TYPE)) {
-    const held = one.value as Record<string, unknown>
-    const plural = held[PLURAL]
-    const named = typeof plural === "string" && plural !== "" ? plural : held[SLUG]
-    if (held[MORTAL] !== true || typeof named !== "string" || named === "") continue
-    found.add(pagesUnder(one.path, named))
+    if ((one.value as Record<string, unknown>)[MORTAL] !== true) continue
+    found.add(pagesUnder(one.path))
   }
   return [...found].sort()
 }

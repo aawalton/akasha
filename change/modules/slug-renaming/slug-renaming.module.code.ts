@@ -36,8 +36,6 @@ const PAGE_TYPE = "type"
 
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
-const PLURAL_SLUG = "pluralSlug"
-
 const ID = "id"
 
 const NAME = "name"
@@ -45,7 +43,6 @@ const NAME = "name"
 export type Asked = {
   readonly at: string
   readonly to: string
-  readonly plural?: string
   readonly name?: string
 }
 
@@ -134,13 +131,6 @@ export function slugRenamed(world: World, given: Asked): Said {
   if (slug === undefined) return refusing(`\`${given.at}\` states no \`${SLUG}\``)
   if (pageType === undefined) return refusing(`\`${given.at}\` states no \`${PAGE_TYPE_SLUG}\``)
   if (id === undefined) return refusing(`\`${given.at}\` states no \`${ID}\``)
-  const plural = said.get(PLURAL_SLUG)
-  if (plural !== undefined && given.plural === undefined) {
-    return refusing(`\`${given.at}\` states a \`${PLURAL_SLUG}\`, so the plural it becomes is said`)
-  }
-  if (plural === undefined && given.plural !== undefined) {
-    return refusing(`\`${given.at}\` states no \`${PLURAL_SLUG}\`, so no plural is said`)
-  }
   const bound = exportedAs(slug.text)
   if (boundIn(source) !== bound) {
     return refusing(`\`${given.at}\` exports no \`${bound}\`, the name its slug makes`)
@@ -170,9 +160,6 @@ export function slugRenamed(world: World, given: Asked): Said {
     spots.set(path, [...(spots.get(path) ?? []), ...held])
   }
   put(given.at, [restatedAt(source, slug, given.to)])
-  if (plural !== undefined && given.plural !== undefined && given.plural !== plural.text) {
-    put(given.at, [restatedAt(source, plural, given.plural)])
-  }
   if (name !== undefined && given.name !== undefined && given.name !== name.text) {
     put(given.at, [restatedAt(source, name, given.name)])
   }

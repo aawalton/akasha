@@ -39,13 +39,13 @@ export const HELD_THING_ID = seed("20")
 
 export const HELD_CRATE_ID = seed("22")
 
-export const DEVICE_TOKENS_AT = "akasha/person-system/device-tokens/device-token.page-type.ts"
+export const DEVICE_TOKENS_AT = "akasha/person-system/device-token/device-token.page-type.ts"
 
 const HELD_THING = "held-thing"
 
 const HELD_FIGURE = "held-figure"
 
-export const A_PORTRAIT_AT = "akasha/figures/pages/held-figure/held-figure.figure.portrait.md"
+export const A_PORTRAIT_AT = "akasha/figure/pages/held-figure/held-figure.figure.portrait.md"
 
 export const AT_THE_LENGTH: string = `held-${"a".repeat(95)}`
 
@@ -99,9 +99,9 @@ function under(folder: string, values: readonly Held[]): Readonly<Record<string,
   return found
 }
 
-const HELD_THING_AT = "akasha/things/pages/held-thing.thing.ts"
+const HELD_THING_AT = "akasha/thing/pages/held-thing.thing.ts"
 
-const THING_TYPES_AT = "akasha/things/thing.page-type.types.ts"
+const THING_TYPES_AT = "akasha/thing/thing.page-type.types.ts"
 
 export const HELD_THING_BODY = `import type { Thing } from "akasha/${THING_TYPES_AT}"
 
@@ -129,7 +129,6 @@ export const ROOT: string = indexedRepo({
     aProperty("08", "rounds", "page-property-entry"),
     aProperty("0a", "entries", "file-property"),
     aType("10", "page-property-entry", {
-      pluralSlug: "page-property-entries",
       extends: ["page-type/page-property"],
       properties: [],
     }),
@@ -142,9 +141,8 @@ export const ROOT: string = indexedRepo({
       properties: [declares("id"), declares("slug"), declares("entries", { uncommitted: true })],
     },
   ]),
-  ...under("things/", [
+  ...under("thing/", [
     aType("11", "thing", {
-      pluralSlug: "things",
       extends: ["page-type/page"],
       types: "ts",
       properties: [
@@ -157,17 +155,15 @@ export const ROOT: string = indexedRepo({
       ],
     }),
   ]),
-  ...under("crates/", [
+  ...under("crate/", [
     aType("12", "crate", {
-      pluralSlug: "crates",
       extends: ["page-type/thing"],
       types: "ts",
       properties: [declares("manifest")],
     }),
   ]),
-  ...under("figures/", [
+  ...under("figure/", [
     aType("13", "figure", {
-      pluralSlug: "figures",
       extends: ["page-type/thing"],
       types: "ts",
       properties: [declares("portrait"), declares("rounds")],
@@ -187,7 +183,7 @@ export const ROOT: string = indexedRepo({
       properties: [],
     }),
   ]),
-  ...under("crates/pages/", [
+  ...under("crate/pages/", [
     {
       id: HELD_CRATE_ID,
       pageTypeSlug: "crate",
@@ -196,7 +192,7 @@ export const ROOT: string = indexedRepo({
       title: "a crate",
     },
   ]),
-  ...under("figures/pages/held-figure/", [
+  ...under("figure/pages/held-figure/", [
     {
       id: seed("21"),
       pageTypeSlug: "figure",

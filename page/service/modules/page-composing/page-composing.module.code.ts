@@ -27,8 +27,6 @@ import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.m
 
 const PAGE_TYPE = "page-type"
 
-const PLURAL = "pluralSlug"
-
 const ID = "id"
 
 const TYPE = "type"
@@ -124,28 +122,24 @@ export function besideItsPage(root: string, carried: readonly Carried[]): boolea
   )
 }
 
-export function folderFor(plural: string, pageTypeSlug: string, slug: string): string {
-  for (const above of [plural, pageTypeSlug]) {
-    if (above === "") continue
-    const opening = `${above}-`
-    if (slug.startsWith(opening) && slug.length > opening.length) {
-      return slug.slice(opening.length)
-    }
+export function folderFor(pageTypeSlug: string, slug: string): string {
+  const opening = `${pageTypeSlug}-`
+  if (slug.startsWith(opening) && slug.length > opening.length) {
+    return slug.slice(opening.length)
   }
   return slug
 }
 
-export function namedForThePlural(named: string, plural: string): boolean {
+export function namedForTheType(named: string, typed: string): boolean {
   if (named === "") return false
-  return named === plural || plural.endsWith(`-${named}`)
+  return named === typed || typed.endsWith(`-${named}`)
 }
 
-export function pagesUnder(typeAt: string, plural: string): string {
+export function pagesUnder(typeAt: string): string {
   const above = typeAt.split("/").slice(0, -1)
   const named = above.at(-1) ?? ""
   const typed = partedIn(typeAt)?.slug ?? ""
-  const under = namedForThePlural(named, plural) || namedForThePlural(named, typed) ? PAGES : plural
-  return `${above.join("/")}/${under}`
+  return `${above.join("/")}/${namedForTheType(named, typed) ? PAGES : typed}`
 }
 
 export function pagesAtFor(root: string, pageTypeSlug: string): string {
@@ -154,19 +148,17 @@ export function pagesAtFor(root: string, pageTypeSlug: string): string {
   if (typeAt === undefined) {
     throw new Error(`\`${pageTypeSlug}\` names no page type the index holds`)
   }
-  const plural = textAt(valueAt(typeAt, root) ?? {}, PLURAL)
-  return pagesUnder(typeAt, plural ?? pageTypeSlug)
+  return pagesUnder(typeAt)
 }
 
 export function pathFor(
   typeAt: string,
-  plural: string,
   pageTypeSlug: string,
   slug: string,
   besideIt: boolean
 ): string {
-  const own = besideIt ? `/${folderFor(plural, pageTypeSlug, slug)}` : ""
-  return `${pagesUnder(typeAt, plural)}${own}/${slug}.${pageTypeSlug}.ts`
+  const own = besideIt ? `/${folderFor(pageTypeSlug, slug)}` : ""
+  return `${pagesUnder(typeAt)}${own}/${slug}.${pageTypeSlug}.ts`
 }
 
 function shownAs(held: string): string {
@@ -257,11 +249,9 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   const listed = listedAt(root, named.pageTypeSlug, named.slug)
   const held = listed.length === 1 ? listed[0]?.path : undefined
   const typing = valueAt(typeAt, root) ?? {}
-  const plural = textAt(typing, PLURAL)
   const typesAt = textAt(typing, TYPES) === HOLDS ? besideAt(typeAt, TYPES, HOLDS) : null
   const beside = held === undefined && besideItsPage(root, carried)
-  const placed = plural ?? named.pageTypeSlug
-  const at = held ?? pathFor(typeAt, placed, named.pageTypeSlug, named.slug, beside)
+  const at = held ?? pathFor(typeAt, named.pageTypeSlug, named.slug, beside)
   const was = held === undefined ? null : valueAt(held, root)
   const already: Value = named.merge === true && was !== null ? was : {}
   const outside: Value = {}

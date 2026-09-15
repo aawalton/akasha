@@ -42,7 +42,7 @@ export const pageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type owning its folder lands in the folder its new plural names.",
+      statement: "A page type owning its folder keeps the folder that page type has.",
     },
     {
       invariantKind: "departure",
