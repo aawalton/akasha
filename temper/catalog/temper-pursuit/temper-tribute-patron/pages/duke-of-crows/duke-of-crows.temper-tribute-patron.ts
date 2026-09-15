@@ -2,7 +2,7 @@ import type { TemperTributePatron } from "akasha/temper/catalog/temper-pursuit/t
 
 export const dukeOfCrows = {
   id: "01a06153-0eaa-7001-8805-706f7471901d",
-  type: "temper-tribute-patron",
+  type: "page-type/temper-tribute-patron",
   slug: "duke-of-crows",
   title: "Duke of Crows",
   category: "patrons",

@@ -2,7 +2,7 @@ import type { TemperTributePatron } from "akasha/temper/catalog/temper-pursuit/t
 
 export const grandmasterDelmeneHlaalu = {
   id: "01a06153-0eaa-7002-9772-91e6f630a0fe",
-  type: "temper-tribute-patron",
+  type: "page-type/temper-tribute-patron",
   slug: "grandmaster-delmene-hlaalu",
   title: "Grandmaster Delmene Hlaalu",
   category: "patrons",

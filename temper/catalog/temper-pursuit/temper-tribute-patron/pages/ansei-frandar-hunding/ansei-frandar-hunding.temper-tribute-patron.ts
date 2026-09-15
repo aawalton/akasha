@@ -2,7 +2,7 @@ import type { TemperTributePatron } from "akasha/temper/catalog/temper-pursuit/t
 
 export const anseiFrandarHunding = {
   id: "01a06153-0eaa-7000-a315-b4d2475a08af",
-  type: "temper-tribute-patron",
+  type: "page-type/temper-tribute-patron",
   slug: "ansei-frandar-hunding",
   title: "Ansei Frandar Hunding",
   category: "patrons",

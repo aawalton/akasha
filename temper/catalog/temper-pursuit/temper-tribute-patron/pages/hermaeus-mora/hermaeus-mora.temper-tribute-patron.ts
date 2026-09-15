@@ -2,7 +2,7 @@ import type { TemperTributePatron } from "akasha/temper/catalog/temper-pursuit/t
 
 export const hermaeusMora = {
   id: "01a06153-0eaa-7003-b8b3-4c9b151cf1bc",
-  type: "temper-tribute-patron",
+  type: "page-type/temper-tribute-patron",
   slug: "hermaeus-mora",
   title: "Hermaeus Mora",
   category: "patrons",

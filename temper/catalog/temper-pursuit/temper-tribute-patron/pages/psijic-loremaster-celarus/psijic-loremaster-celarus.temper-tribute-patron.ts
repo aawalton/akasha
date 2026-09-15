@@ -2,7 +2,7 @@ import type { TemperTributePatron } from "akasha/temper/catalog/temper-pursuit/t
 
 export const psijicLoremasterCelarus = {
   id: "01a06153-0eaa-7004-9289-9af6040b4484",
-  type: "temper-tribute-patron",
+  type: "page-type/temper-tribute-patron",
   slug: "psijic-loremaster-celarus",
   title: "Psijic Loremaster Celarus",
   category: "patrons",

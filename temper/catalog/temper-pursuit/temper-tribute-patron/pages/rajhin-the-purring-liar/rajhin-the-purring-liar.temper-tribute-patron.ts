@@ -2,7 +2,7 @@ import type { TemperTributePatron } from "akasha/temper/catalog/temper-pursuit/t
 
 export const rajhinThePurringLiar = {
   id: "01a06153-0eaa-7005-becf-7b09d996c7cc",
-  type: "temper-tribute-patron",
+  type: "page-type/temper-tribute-patron",
   slug: "rajhin-the-purring-liar",
   title: "Rajhin, the Purring Liar",
   category: "patrons",
