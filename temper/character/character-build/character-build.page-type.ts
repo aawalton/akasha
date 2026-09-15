@@ -9,6 +9,7 @@ export const characterBuild = {
   parts: [
     "number-property/build-target-count",
     "select-property/build-visibility",
+    "text-property/build-character-name",
     "text-property/build-correlation-id",
   ],
   properties: [
@@ -22,6 +23,7 @@ export const characterBuild = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "text-property/build-character-name", required: false, many: false },
   ],
   invariants: [
     {

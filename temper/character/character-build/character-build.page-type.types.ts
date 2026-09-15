@@ -1,3 +1,4 @@
+import type { BuildCharacterName } from "akasha/temper/character/character-build/properties/build-character-name.text-property.types.ts"
 import type { BuildCorrelationId } from "akasha/temper/character/character-build/properties/build-correlation-id.text-property.types.ts"
 import type { BuildTargetCount } from "akasha/temper/character/character-build/properties/build-target-count.number-property.types.ts"
 import type { BuildVisibility } from "akasha/temper/character/character-build/properties/build-visibility.select-property.types.ts"
@@ -11,4 +12,5 @@ export type CharacterBuild = TemperCharacterThing & {
   correlationId?: BuildCorrelationId
   targetCount?: BuildTargetCount
   roles?: CharacterRoles
+  characterName?: BuildCharacterName
 }

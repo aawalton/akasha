@@ -50,6 +50,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"buff-id","propertySlug":"buff-id","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"buff-name","propertySlug":"buff","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"build","propertySlug":"build","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"build-character-name","propertySlug":"character-name","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"build-command","propertySlug":"build-command","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"build-correlation-id","propertySlug":"correlation-id","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"build-hash","propertySlug":"build-hash","fileName":null,"folderName":null,"sorted":false}
