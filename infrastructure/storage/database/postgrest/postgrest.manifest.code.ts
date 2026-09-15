@@ -5,16 +5,17 @@ import {
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { postgrest } from "akasha/infrastructure/service/cluster/pages/postgrest/postgrest.service-cluster.ts"
 
-const NAMESPACE = "postgrest"
+const NAMESPACE = postgrest.namespace
 const SECRETS_NAME = "postgrest-secrets"
 const SECRETS_KEYS = ["DATABASE_URL", "PGRST_JWT_SECRET"]
-const APP_NAME = "postgrest"
-const INSTANCE_NAME = "postgrest"
+const APP_NAME = postgrest.resourceName
+const INSTANCE_NAME = postgrest.resourceName
 const COMPONENT = "api"
-const PART_OF = "postgrest"
+const PART_OF = postgrest.slug
 const MANAGED_BY = "bootstrap"
-const POSTGREST_IMAGE = "postgrest/postgrest:v12.2.3"
+const POSTGREST_IMAGE = postgrest.image
 
 const RESOURCE_LABELS = {
   app: APP_NAME,
@@ -38,12 +39,12 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "postgrest",
+      name: postgrest.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 2,
+      replicas: postgrest.replicas,
       strategy: {
         type: "RollingUpdate",
         rollingUpdate: {
@@ -66,7 +67,7 @@ function deploymentYaml(): string {
               name: "postgrest",
               image: POSTGREST_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              ports: [{ containerPort: 3000, protocol: "TCP" }],
+              ports: [{ containerPort: postgrest.containerPort, protocol: "TCP" }],
               env: [
                 {
                   name: "DATABASE_URL",
@@ -95,7 +96,7 @@ function deploymentYaml(): string {
                 },
                 { name: "PGRST_DB_POOL", value: "50" },
                 { name: "PGRST_DB_POOL_ACQUISITION_TIMEOUT", value: "10" },
-                { name: "PGRST_SERVER_PORT", value: "3000" },
+                { name: "PGRST_SERVER_PORT", value: `${postgrest.containerPort}` },
               ],
               resources: {
                 requests: { cpu: "50m", memory: "4Gi" },
@@ -109,12 +110,12 @@ function deploymentYaml(): string {
                 capabilities: { drop: ["ALL"] },
               },
               readinessProbe: {
-                httpGet: { path: "/", port: 3000 },
+                httpGet: { path: "/", port: postgrest.containerPort },
                 initialDelaySeconds: 5,
                 periodSeconds: 10,
               },
               livenessProbe: {
-                tcpSocket: { port: 3000 },
+                tcpSocket: { port: postgrest.containerPort },
                 initialDelaySeconds: 20,
                 periodSeconds: 30,
               },
@@ -131,7 +132,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "postgrest",
+      name: postgrest.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
@@ -141,8 +142,8 @@ function serviceYaml(): string {
       ports: [
         {
           name: "http",
-          port: 3000,
-          targetPort: 3000,
+          port: postgrest.containerPort,
+          targetPort: postgrest.containerPort,
           protocol: "TCP",
         },
       ],
