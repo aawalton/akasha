@@ -4,17 +4,18 @@ import {
   colocationAffinityPreferred,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { synthNamespaceServiceDeployment } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { supabaseStudio } from "akasha/infrastructure/service/cluster/pages/supabase-studio/supabase-studio.service-cluster.ts"
 import { retryTransientDdl } from "akasha/infrastructure/storage/database/modules/retry-transient-ddl/retry-transient-ddl.module.code.ts"
 
-const NAMESPACE = "supabase-studio"
-const APP_NAME = "supabase-studio"
-const INSTANCE_NAME = "supabase-studio"
+const NAMESPACE = supabaseStudio.namespace
+const APP_NAME = supabaseStudio.resourceName
+const INSTANCE_NAME = supabaseStudio.resourceName
 const COMPONENT = "dashboard"
-const PART_OF = "supabase-studio"
+const PART_OF = supabaseStudio.slug
 const MANAGED_BY = "bootstrap"
 
 const POSTGRES_META_IMAGE = "supabase/postgres-meta:v0.96.3"
-const STUDIO_IMAGE = "supabase/studio:2026.04.08-sha-205cbe7"
+const STUDIO_IMAGE = supabaseStudio.image
 const POSTGRES_IMAGE = "postgres:18"
 
 const RESOURCE_LABELS = {
@@ -105,7 +106,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "supabase-studio",
+      name: supabaseStudio.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
@@ -115,8 +116,8 @@ function serviceYaml(): string {
       ports: [
         {
           name: "http",
-          port: 3000,
-          targetPort: 3000,
+          port: supabaseStudio.containerPort,
+          targetPort: supabaseStudio.containerPort,
           protocol: "TCP",
         },
       ],
@@ -129,12 +130,12 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "supabase-studio",
+      name: supabaseStudio.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: supabaseStudio.replicas,
       strategy: { type: "Recreate" },
       selector: { matchLabels: SELECTOR_LABELS },
       template: {
@@ -225,7 +226,7 @@ function deploymentYaml(): string {
               image: STUDIO_IMAGE,
               imagePullPolicy: "IfNotPresent",
               workingDir: "/app/apps/studio",
-              ports: [{ containerPort: 3000, protocol: "TCP" }],
+              ports: [{ containerPort: supabaseStudio.containerPort, protocol: "TCP" }],
               command: ["/bin/sh", "-c", STUDIO_SHIM_SCRIPT],
               env: [
                 { name: "HOSTNAME", value: "0.0.0.0" },
@@ -295,12 +296,12 @@ function deploymentYaml(): string {
                 { name: "edge-functions", mountPath: "/app/edge-functions" },
               ],
               livenessProbe: {
-                httpGet: { path: "/api/platform/profile", port: 3000 },
+                httpGet: { path: "/api/platform/profile", port: supabaseStudio.containerPort },
                 initialDelaySeconds: 30,
                 periodSeconds: 30,
               },
               readinessProbe: {
-                httpGet: { path: "/api/platform/profile", port: 3000 },
+                httpGet: { path: "/api/platform/profile", port: supabaseStudio.containerPort },
                 initialDelaySeconds: 5,
                 periodSeconds: 10,
               },
