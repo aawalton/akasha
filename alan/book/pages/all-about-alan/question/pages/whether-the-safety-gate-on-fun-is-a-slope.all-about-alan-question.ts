@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTheSafetyGateOnFunIsASlope = {
   id: "01a077e5-3b54-70c9-b469-44f221ae6b84",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-the-safety-gate-on-fun-is-a-slope",
   topic: "all-about-alan-topic/when-something-is-fun",
   ask: "Is the safety gate on enjoyment a sharp cutoff at three or a slope, so that a little enjoyment leaks through below three?",

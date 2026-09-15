@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whichAttackBrokeMyChildhoodBelief = {
   id: "01a077e3-c002-7821-8212-56360e8c3260",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "which-attack-broke-my-childhood-belief",
   topic: "all-about-alan-topic/the-proof-that-i-am-worth-something",
   ask: "My childhood belief was attacked twice, once by the proof and once by digging up its origin. Which attack did the work, and do the two attacks compose?",

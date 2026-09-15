@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTheBorrowedReturnFades = {
   id: "01a077f1-67bd-7b5e-a73b-a7ab5186e8e9",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-the-borrowed-return-fades",
   topic: "all-about-alan-topic/why-a-holiday-costs-me",
   ask: "Does the borrowed return fade when the enjoyment I read is faint, mixed or dutiful, and is there a level below which the borrowed return stops paying at all?",

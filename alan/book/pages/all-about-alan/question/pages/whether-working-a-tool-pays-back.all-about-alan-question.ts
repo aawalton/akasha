@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherWorkingAToolPaysBack = {
   id: "01a077e7-14bb-73e1-895c-df888e061f9c",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-working-a-tool-pays-back",
   topic: "all-about-alan-topic/how-i-pick-a-sensory-tool",
   ask: "Does the effort of working a sensory tool always pay back in capacity saved, or only above a certain load?",

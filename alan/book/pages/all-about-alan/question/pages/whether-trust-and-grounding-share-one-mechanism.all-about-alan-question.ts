@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTrustAndGroundingShareOneMechanism = {
   id: "01a077ef-db06-7db5-bb25-101db6072401",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-trust-and-grounding-share-one-mechanism",
   topic: "all-about-alan-topic/which-organisations-i-trust",
   ask: "Do trusting an organisation, a person earning my trust, and grounding a belief all run on one mechanism?",

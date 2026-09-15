@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTheHourDrivesMyBrightnessRules = {
   id: "01a077e3-0a55-781f-b2f6-0fbd1fdb683d",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-the-hour-drives-my-brightness-rules",
   topic: "all-about-alan-topic/how-i-keep-light-down",
   ask: "Is the hour the real driver of my brightness rules, or does the clock represent circadian arousal, ambient light, or the visual fatigue built up by then?",

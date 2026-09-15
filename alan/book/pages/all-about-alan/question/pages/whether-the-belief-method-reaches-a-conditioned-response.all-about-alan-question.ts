@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTheBeliefMethodReachesAConditionedResponse = {
   id: "01a077eb-ffdd-7fef-847f-4a4654ae9935",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-the-belief-method-reaches-a-conditioned-response",
   topic: "all-about-alan-topic/digging-up-an-old-belief",
   ask: "Does a method that works on beliefs reach a purely physical conditioned response?",

@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whichDisapprovalIAmAtPeaceWith = {
   id: "01a077ea-c745-7cd5-b9d6-c192f4437400",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "which-disapproval-i-am-at-peace-with",
   topic: "all-about-alan-topic/where-the-scar-ends",
   ask: "Which disapproval am I at peace with?",

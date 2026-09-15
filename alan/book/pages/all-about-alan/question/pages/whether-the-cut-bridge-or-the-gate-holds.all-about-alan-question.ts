@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTheCutBridgeOrTheGateHolds = {
   id: "01a077e4-8396-73dd-af79-77f80011aa66",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-the-cut-bridge-or-the-gate-holds",
   topic: "all-about-alan-topic/when-someone-says-something-good",
   ask: "Is the cut bridge the load-bearing account of praise never landing, or is the gate at delivery, or do the cut bridge and the gate compose?",

@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherPlaysCarryOverGrowsAsIRecover = {
   id: "01a077ed-083b-7811-a884-6ae254804f00",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-plays-carry-over-grows-as-i-recover",
   topic: "all-about-alan-topic/the-version-of-me-i-have-never-met",
   ask: "Does the carry-over from play grow as my floor rises, so that the simulation slowly becomes a partial direct route?",

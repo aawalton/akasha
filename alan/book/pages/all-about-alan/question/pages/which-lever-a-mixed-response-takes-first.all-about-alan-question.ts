@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whichLeverAMixedResponseTakesFirst = {
   id: "01a077ef-73b8-7d3b-be33-2c9562f4dcb2",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "which-lever-a-mixed-response-takes-first",
   topic: "all-about-alan-topic/which-lever-reaches-a-response",
   ask: "For a response that is part belief and part reflex, which lever do I reach for first, and does rewriting the belief lighten what exposure has to do?",

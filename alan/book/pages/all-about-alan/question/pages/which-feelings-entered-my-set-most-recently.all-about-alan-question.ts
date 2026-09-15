@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whichFeelingsEnteredMySetMostRecently = {
   id: "01a077e6-4f25-7267-b856-d754c39073b3",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "which-feelings-entered-my-set-most-recently",
   topic: "all-about-alan-topic/the-feelings-i-can-name",
   ask: "Which feelings entered the set I can name most recently, and did naming work, exposure, or knowing the mechanism drive that entry?",

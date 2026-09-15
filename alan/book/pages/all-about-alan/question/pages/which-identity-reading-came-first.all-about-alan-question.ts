@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whichIdentityReadingCameFirst = {
   id: "01a077e9-f5a7-74c6-85c5-3efcf9b5ed1b",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "which-identity-reading-came-first",
   topic: "all-about-alan-topic/where-my-ethics-meets-my-rules",
   ask: "Which identity reading came first, my ethics or my sense of self, and are the two readings one insight in two hats?",

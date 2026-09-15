@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTheTwoSurvivingBondsShareSomething = {
   id: "01a077f0-64af-7d2a-b954-501f35c1497b",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-the-two-surviving-bonds-share-something",
   topic: "all-about-alan-topic/who-is-holding-the-rope",
   ask: "Do the two survivors share something, the other person's tolerance, a covenant, my own commitment rule being in play, or did it come down to who happened to keep trying?",

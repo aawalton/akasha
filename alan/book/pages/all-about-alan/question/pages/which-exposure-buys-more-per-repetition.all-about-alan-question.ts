@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whichExposureBuysMorePerRepetition = {
   id: "01a077ed-3182-7671-abdc-9b9d92105d24",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "which-exposure-buys-more-per-repetition",
   topic: "all-about-alan-topic/how-much-company-i-can-take",
   ask: "Which exposure buys me more per repetition, conversation or the costlier one?",

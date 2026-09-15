@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherPlayIsARungOrItsOwnEnd = {
   id: "01a077e8-2837-7194-a023-10e45c046063",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-play-is-a-rung-or-its-own-end",
   topic: "all-about-alan-topic/what-a-level-of-recovery-costs",
   ask: "Is play a rung on this climb, or a thing worth reaching for on its own?",

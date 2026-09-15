@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whichExposureWorksWithoutImagery = {
   id: "01a077f1-b1c1-7176-9ef9-303a8deac57d",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "which-exposure-works-without-imagery",
   topic: "all-about-alan-topic/why-a-threat-stays-fresh",
   ask: "Which kinds of exposure actually work on someone with no imagery, live, eye movement or bodywork?",

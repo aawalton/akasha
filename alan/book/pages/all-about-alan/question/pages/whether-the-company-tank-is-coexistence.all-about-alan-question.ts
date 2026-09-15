@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTheCompanyTankIsCoexistence = {
   id: "01a077e8-436c-75d6-9452-7e1e77c2ec5f",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-the-company-tank-is-coexistence",
   topic: "all-about-alan-topic/the-four-things-i-need-from-people",
   ask: "Jen wanted the company tank called coexistence. Should that tank carry her name for it, and where is her objection held?",

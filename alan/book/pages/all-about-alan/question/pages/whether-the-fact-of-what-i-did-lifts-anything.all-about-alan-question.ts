@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTheFactOfWhatIDidLiftsAnything = {
   id: "01a077f0-12fa-7943-897d-fdf2d2a85605",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-the-fact-of-what-i-did-lifts-anything",
   topic: "all-about-alan-topic/what-my-record-gives-me-back",
   ask: "Does the fact of what I did do anything beyond being nice, and does that fact lift anything?",

@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherOneStoreServesBothQuestionShapes = {
   id: "01a077e5-043e-76ec-8d6f-8d76415ece75",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-one-store-serves-both-question-shapes",
   topic: "all-about-alan-topic/what-i-gave-up-leaving-postgres",
   ask: "Does one store serve both the known-item question and the search at scale, so I never hold the data in two separate places and take the skew risk?",

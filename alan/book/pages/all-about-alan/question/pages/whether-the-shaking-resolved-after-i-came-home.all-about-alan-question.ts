@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherTheShakingResolvedAfterICameHome = {
   id: "01a077eb-1180-73f2-969a-c6f0bf5a2dbd",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-the-shaking-resolved-after-i-came-home",
   topic: "all-about-alan-topic/the-nine-months-my-body-broke",
   ask: "Did the shaking resolve after I came home, persist, or become the baseline of the decline that followed?",
