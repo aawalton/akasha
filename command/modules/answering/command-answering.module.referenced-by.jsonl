@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/model/account/modules/making/model-account-making.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/subagent/modules/landing-again/subagent-landing-again.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts"}
@@ -419,7 +420,6 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"infrastructure/service/modules/deploy-looping/deploy-looping.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"}
-{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts"}

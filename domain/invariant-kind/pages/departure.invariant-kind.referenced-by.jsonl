@@ -405,6 +405,8 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.ts","id":"01a06d7a-e9f9-7644-9ee4-9ddcf6b723ba"}
 {"propertySlug":"invariant-kind","path":"agent/seat/turn-state/seat-turn-state.page-type.ts","id":"01a06924-e882-736f-8cac-465ef2b5d799"}
 {"propertySlug":"invariant-kind","path":"agent/seat/usage/seat-usage.module.ts","id":"01a0687b-3c96-7000-be32-deed725bb134"}
+{"propertySlug":"invariant-kind","path":"agent/service-workstations/sweep-stray-processes/sweep-stray-processes.service-workstation.ts","id":"01a09cee-2585-7d35-b95e-24ea1f6ace82"}
+{"propertySlug":"invariant-kind","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
 {"propertySlug":"invariant-kind","path":"agent/settings/agent-settings.page-type.ts","id":"01a0657b-ad3f-7ce8-99f8-04da79375570"}
 {"propertySlug":"invariant-kind","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.ts","id":"01a08e0b-50f6-74fe-b9fc-1347ef93435b"}
 {"propertySlug":"invariant-kind","path":"agent/settings/pages/agents/agents.agent-settings.ts","id":"01a0657b-ad40-75af-a0a6-bb09331fb95c"}
@@ -613,6 +615,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.ts","id":"01a0a166-9b55-7421-ab40-928cc3618bd6"}
 {"propertySlug":"invariant-kind","path":"alan/harness/code-editor/window/properties/observed-at.instant-property.ts","id":"01a0a147-e5bb-7e9f-8e65-f498b08af58d"}
 {"propertySlug":"invariant-kind","path":"alan/harness/code-editor/window/properties/window-features.text-property.ts","id":"01a0a158-a6b7-7389-9d78-445ec2c88b62"}
+{"propertySlug":"invariant-kind","path":"alan/harness/code-editor/window/service-workstations/sweep-window-pages/sweep-window-pages.service-workstation.ts","id":"01a0a166-9b55-7e8f-89b6-fccdbd5cda2d"}
 {"propertySlug":"invariant-kind","path":"alan/harness/cost/cost.domain.ts","id":"01a08b96-f6dd-7d5f-b99c-f87675def793"}
 {"propertySlug":"invariant-kind","path":"alan/harness/cost/modules/color/cost-color.module.ts","id":"01a08b96-95c4-7a57-9ee3-efab04e522fc"}
 {"propertySlug":"invariant-kind","path":"alan/harness/cost/modules/reading/cost-reading.module.ts","id":"01a08b9c-abbc-7be3-b86c-29165739234a"}
@@ -2643,9 +2646,6 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts","id":"01a095be-957a-70aa-93ff-0845e49c8f73"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts","id":"01a09b0e-376c-70a6-9838-96e1f3f656a1"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts","id":"01a09b1a-31fc-7f84-8e3c-2b931fe57d4e"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-stray-processes/sweep-stray-processes.service-workstation.ts","id":"01a09cee-2585-7d35-b95e-24ea1f6ace82"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-window-pages/sweep-window-pages.service-workstation.ts","id":"01a0a166-9b55-7e8f-89b6-fccdbd5cda2d"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/web-app-deploying/web-app-deploying.service-workstation.ts","id":"01a09645-42d1-7495-89ba-aacde7d16cf8"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/workstation-deploying/workstation-deploying.service-workstation.ts","id":"01a09593-7b82-7c95-a865-8a7bfa7f269d"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/properties/accuracy-seconds.number-property.ts","id":"01a06738-9f12-7dcb-b57a-122407b359b5"}

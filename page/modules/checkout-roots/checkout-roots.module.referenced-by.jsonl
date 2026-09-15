@@ -61,6 +61,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/body/subagent-body.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.code.ts"}
@@ -131,7 +132,6 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/workstation/upscale-workstation.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.test.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/storage/backup/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/index/modules/building/index-building.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/index/modules/building/index-building.module.test.ts"}

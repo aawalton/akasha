@@ -23,7 +23,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.code.ts"
+  "akasha/agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.code.ts"
 )
 
 function watching(): () => undefined {

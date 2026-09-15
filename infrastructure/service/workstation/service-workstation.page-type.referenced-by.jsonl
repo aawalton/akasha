@@ -4,6 +4,9 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/memory-reaper/memory-reaper.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/recipient-resolver/recipient-resolver.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/sweep-log-days/sweep-log-days.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/sweep-supervisor-logs/sweep-supervisor-logs.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/service-workstations/sweep-stray-processes/sweep-stray-processes.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/collection/great-courses/service-workstations/sync/great-courses-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/collection/royal-road/service-workstations/sync/royal-road-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alan-readout/day-readout-watch-service/day-readout-watch-service.service-workstation.ts"}
@@ -12,6 +15,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/attribute/attributes-relay-service/attributes-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/capacity/relay-service/capacity-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/code-editor/data-interface/service-workstations/code-editor-data-watcher/code-editor-data-watcher.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/code-editor/window/service-workstations/sweep-window-pages/sweep-window-pages.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/cost/relay-service/cost-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/email-routing/service-workstations/persona-email-routing/persona-email-routing.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/email-watch/service-workstations/alan-email-worker/alan-email-worker.service-workstation.ts"}
@@ -43,10 +47,6 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/service-watching/service-watching.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/sweep-stray-processes/sweep-stray-processes.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/sweep-supervisor-logs/sweep-supervisor-logs.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/sweep-window-pages/sweep-window-pages.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/ttc-client/ttc-client.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/wandering-inn-sync/wandering-inn-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/web-app-deploying/web-app-deploying.service-workstation.ts"}

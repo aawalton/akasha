@@ -1,9 +1,9 @@
+{"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test.ts"}
-{"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.test-fixtures.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test.ts"}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
 {"propertySlug":"parts","path":"command/pages/agent/agent.namespace.ts","id":"01a082e0-d19a-7472-8445-857aa2d33d92"}
