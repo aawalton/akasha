@@ -2,7 +2,7 @@ import type { TemperLocationType } from "akasha/temper/catalog/temper-world/temp
 
 export const craftbag = {
   id: "019e3103-2709-7b16-9d67-e0178188caf0",
-  type: "temper-location-type",
+  type: "page-type/temper-location-type",
   slug: "craftbag",
   title: "Crafting Bag",
   key: "craftbag",
