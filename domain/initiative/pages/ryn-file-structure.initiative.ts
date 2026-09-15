@@ -26,5 +26,7 @@ export const rynFileStructure = {
     "A page type whose one page holds many of a thing keeps that plural in its slug.",
     "A proper name a plural is part of is left as it is spelled outside akasha.",
     "A plural naming one whole is a collective acting as a singular, because dropping the `s` names something else.",
+    "A folder named for what it carries is plural, because it carries many of them.",
+    "A folder named for a page takes that page's slug, which a domain names in the singular by convention.",
   ],
 } as const satisfies Initiative
