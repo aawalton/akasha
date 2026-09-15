@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const emberTemperTasks = {
   id: "01a06cac-aa56-7519-8281-5622fa42a987",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "ember-temper-tasks",
   domain: "domain/temper",
   persona: "persona/ember",

@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const theaChecksSystem = {
   id: "01a04e69-e40a-7287-a2e2-2c49c76c0dee",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "thea-checks-system",
   domain: "domain/check",
   persona: "persona/thea",

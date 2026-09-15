@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const dallaWorktrees = {
   id: "01a09c1f-6e64-7043-941a-a8f6b51cdb0b",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "dalla-worktrees",
   domain: "domain/git",
   persona: "persona/dalla",

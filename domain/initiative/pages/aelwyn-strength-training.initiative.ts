@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const aelwynStrengthTraining = {
   id: "01a07cf1-f428-7e0b-b26f-c7c657f361ba",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "aelwyn-strength-training",
   domain: "domain/fitness",
   persona: "persona/aelwyn",

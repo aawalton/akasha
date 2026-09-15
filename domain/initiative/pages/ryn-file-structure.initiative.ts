@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const rynFileStructure = {
   id: "01a09fef-e83b-7b93-9938-07b24a8de66b",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "ryn-file-structure",
   domain: "domain/file",
   persona: "persona/ryn",

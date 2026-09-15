@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const sophiaAgentStopHook = {
   id: "01a091af-b1f9-7864-84c4-4f36df8762d6",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "sophia-agent-stop-hook",
   domain: "domain/hook",
   persona: "persona/sophia",

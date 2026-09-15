@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const aineResourceManagement = {
   id: "01a09140-cf1e-779f-aeea-831ac4709019",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "aine-resource-management",
   domain: "domain/memory",
   persona: "persona/aine",

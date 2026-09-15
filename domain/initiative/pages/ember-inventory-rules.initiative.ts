@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const emberInventoryRules = {
   id: "01a095cd-5db5-7e4b-ac28-81095f7b5fd3",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "ember-inventory-rules",
   domain: "domain/temper",
   persona: "persona/ember",

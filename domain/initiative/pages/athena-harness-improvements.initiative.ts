@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const athenaHarnessImprovements = {
   id: "01a0a5d8-e7a3-725d-8312-d1544c8a9c94",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "athena-harness-improvements",
   domain: "page-type/agent",
   persona: "persona/athena",

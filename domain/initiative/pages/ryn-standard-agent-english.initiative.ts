@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const rynStandardAgentEnglish = {
   id: "01a07c11-5ffa-730d-b999-14bed1d3267f",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "ryn-standard-agent-english",
   domain: "domain/plain-language",
   persona: "persona/ryn",

@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const nimueWorkstationUpgrade = {
   id: "01a0a0db-e9da-7bd0-8c3f-a3b412e5d4dc",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "nimue-workstation-upgrade",
   domain: "domain/infrastructure",
   persona: "persona/nimue",

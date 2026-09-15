@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const akashaFolderShape = {
   id: "01a05d15-af16-7ae2-8560-03099814e73b",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "akasha-folder-shape",
   domain: "domain/akasha",
   persona: "persona/akasha",

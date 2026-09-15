@@ -2,7 +2,7 @@ import type { Initiative } from "akasha/domain/initiative/initiative.page-type.t
 
 export const dallaOffloadToCluster = {
   id: "01a0a0d3-06ac-76e2-94f9-341e7ce50da4",
-  type: "initiative",
+  type: "page-type/initiative",
   slug: "dalla-offload-to-cluster",
   domain: "domain/infrastructure",
   persona: "persona/dalla",
