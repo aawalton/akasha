@@ -2,7 +2,7 @@ import type { List } from "akasha/domain/list/list.page-type.types.ts"
 
 export const codeCommentForms = {
   id: "01a06862-a02e-7a14-ace4-e8e871253c5c",
-  type: "list",
+  type: "page-type/list",
   slug: "code-comment-forms",
   definition: "the shapes of comment a program parses",
   members: [

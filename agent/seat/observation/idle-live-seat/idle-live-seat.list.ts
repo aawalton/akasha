@@ -2,7 +2,7 @@ import type { List } from "akasha/domain/list/list.page-type.types.ts"
 
 export const idleLiveSeat = {
   id: "01a06862-a02e-7ce3-acaa-c4e902ab9c81",
-  type: "list",
+  type: "page-type/list",
   slug: "idle-live-seat",
   definition: "a seat whose process is live and whose work has stopped",
   members: [
