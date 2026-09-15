@@ -25,9 +25,7 @@ export const OTHER = "A folder git owns is walked past."
 export const scratch = scratchWorld()
 
 function statedAs(said: readonly string[]): string {
-  const each = said.map(
-    (one) => `{ decisionKind: "departure", statement: ${JSON.stringify(one)} }`
-  )
+  const each = said.map((one) => `{ decisionKind: "departure", statement: ${JSON.stringify(one)} }`)
   return `decisions: [${each.join(", ")}]`
 }
 
