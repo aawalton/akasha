@@ -389,6 +389,11 @@ export function everythingIn(root: string): Change {
   return { root, changed: everyFileInside(root), before: both, after: both }
 }
 
+export function nothingIn(root: string): Change {
+  const both = onDisk(root)
+  return { root, changed: [], before: both, after: both }
+}
+
 function isFolder(thrown: unknown): boolean {
   if (thrown === null || typeof thrown !== "object" || !("code" in thrown)) return false
   return thrown.code === "EISDIR"

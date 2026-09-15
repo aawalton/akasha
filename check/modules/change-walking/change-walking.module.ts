@@ -178,5 +178,13 @@ export const changeWalking = {
       statement:
         "A selector hands each body over as it is read rather than reading every body first.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A change naming no path is what a run judging the whole tree is opened with.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Such a change walks nothing, so a run wanting no walk pays for none.",
+    },
   ],
 } as const satisfies Module

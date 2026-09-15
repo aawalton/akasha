@@ -321,6 +321,10 @@ export function checksFor(
   return checksLeftBy(every, change).filter((one) => takesAny(one, change.changed, shadow))
 }
 
+function auditsIn(every: readonly Gathered[]): readonly Gathered[] {
+  return every.filter((one) => (one.audit ?? null) !== null)
+}
+
 function fileIn(frame: string): string {
   return frame.slice(0, frame.lastIndexOf(":", frame.lastIndexOf(":") - 1))
 }
@@ -377,7 +381,7 @@ export function judgingBy(
       if ("refused" in cast && first !== undefined) {
         return [{ path: first.page, reason: cast.refused, threw: true }]
       }
-      const running = checksFor(left, change, shadow)
+      const running = wholly === null ? checksFor(left, change, shadow) : auditsIn(left)
       if (running.length === 0 && first !== undefined && wholly === null) {
         return [{ path: first.page, reason: NONE_TAKES }]
       }

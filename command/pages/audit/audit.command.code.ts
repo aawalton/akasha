@@ -6,7 +6,7 @@ import {
   type Running,
   running,
 } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
-import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { nothingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import { checksAt, checksIn } from "akasha/check/modules/checking/checking.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
@@ -125,7 +125,7 @@ async function askedOver(
   if (named.length > 0) {
     const held = new Set(narrowed.checks)
     const chosen = every.filter((one) => held.has(one.slug))
-    const here = await ranHere(chosen, everythingIn(root), commit)
+    const here = await ranHere(chosen, nothingIn(root), commit)
     return askedAnswer({ told: here, checks, commit, also }, keeping)
   }
   const home = requireEnv("HOME")

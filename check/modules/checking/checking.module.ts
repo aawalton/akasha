@@ -53,7 +53,16 @@ export const checking = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A check no changed path is input to does not run.",
+      statement: "A check no changed path is input to does not run where no root was handed in.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A run handed a root runs the audit of every check gathered with one.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "Such a run is handed a change naming no path, and asks for no listing of its own.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -113,7 +122,7 @@ export const checking = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A check with no audit is run over the change at audit.",
+      statement: "A check with no audit judges nothing where a root was handed in.",
     },
     {
       invariantKind: "invariant-kind/departure",

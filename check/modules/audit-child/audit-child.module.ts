@@ -18,7 +18,7 @@ export const auditChild = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The change judged is every path in the tree, as an audit's change is.",
+      statement: "The change handed in names no path, the audit collecting what it judges itself.",
     },
     {
       invariantKind: "invariant-kind/departure",
