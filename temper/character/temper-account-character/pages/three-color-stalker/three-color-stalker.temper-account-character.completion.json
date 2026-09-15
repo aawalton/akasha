@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHcokAAIBihZNC4RtQt6rSLWeoiFntIhZ7SIWe0iFntKR6rSkeq2QKHqtIFD1W4AAAObayAAAAAHGAAAAACJ4ABAGoJACAMAAEgIAABgAAEIAAFTgBGAMwADIACEBhYACGSQKBGIgBlAAAQEAYAOQBAA4AAACBxl0a9RqRYkyseTLmlzJs7Po06te2fQo0qdTxVWNo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkGEMkng",
+  "buildHash": "ATQHcorAAIBihYxC4RtQt6rSLWe0i1ntItZ7SLWe0i1ntKF6rSheq1IQA1IGj1WkC56rcAAAAAAAAAAAAAAAAAAAAAAAAgDUEgBAGAACQEAAAwAACEAAApwAiAGYABkABCAwsABDJIFAjEAAygAAICAMAHIAAAcAAABA412M-U1IsSZWPJlzS5k2dn0adWvbPoUaVOp4qrI6tebPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDCGSTw",
   "gender": 1,
   "level": 50,
   "classId": 3,
@@ -4130,7 +4130,7 @@
             "name": "Werewolf Transformation",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "morph2": {
             "name": "Werewolf Berserker",
             "rank": 4
@@ -4148,7 +4148,7 @@
             "name": "Pounce",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "morph2": {
             "name": "Feral Pounce",
             "rank": 4
@@ -4166,7 +4166,7 @@
             "name": "Roar",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Deafening Roar",
             "rank": 4
@@ -4184,7 +4184,7 @@
             "name": "Hircine's Bounty",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Hircine's Fortitude",
             "rank": 4
@@ -4202,7 +4202,7 @@
             "name": "Gnash",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "morph2": {
             "name": "Bloody Gnash",
             "rank": 4
@@ -4220,7 +4220,7 @@
             "name": "Rending Claws",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "morph2": {
             "name": "Bloodclaws",
             "rank": 4
@@ -5485,7 +5485,7 @@
             "name": "Fatecarver",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "morph2": {
             "name": "Pragmatic Fatecarver",
             "rank": 4
@@ -5503,7 +5503,7 @@
             "name": "Abyssal Impact",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Tentacular Dread",
             "rank": 4
@@ -5521,7 +5521,7 @@
             "name": "The Imperfect Ring",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Fulminating Rune",
             "rank": 4
@@ -5539,7 +5539,7 @@
             "name": "Tome-Bearer's Inspiration",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "Recuperative Treatise",
             "rank": 4
@@ -5557,7 +5557,7 @@
             "name": "The Unblinking Eye",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "morph2": {
             "name": "The Languid Eye",
             "rank": 4
@@ -8596,9 +8596,9 @@
   },
   "skillPoints": {
     "groupDungeonTotal": 19,
-    "tutorial": 0,
+    "tutorial": 1,
     "skyshardPoints": 184,
-    "unassigned": 178,
+    "unassigned": 203,
     "zoneQuestTotal": 109,
     "publicDungeons": {
       "EP4": 1,
