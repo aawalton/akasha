@@ -23,6 +23,7 @@ import {
   type SeatSpawnDecider,
 } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
+import type { SessionWatchStart } from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
 import type { SeatResume } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { AgentIdHandle } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
@@ -35,7 +36,6 @@ import type {
   AgentProcess,
   InheritedProc,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
-import type { ClearRebindHooks } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { CarriedAgentName } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import {
@@ -169,7 +169,7 @@ export function assembleIterationProcess(args: {
   adoptedThisIter: boolean
   cwd: string
   configDir: string
-  startSessionWatch: ClearRebindHooks["startSessionWatch"]
+  startSessionWatch: SessionWatchStart
 }): { agentProc: AgentProcess; projDir: string } {
   const agentProc: AgentProcess = {
     process_id: args.processId,

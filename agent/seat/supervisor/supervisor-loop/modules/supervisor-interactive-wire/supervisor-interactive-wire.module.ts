@@ -4,8 +4,7 @@ export const supervisorInteractiveWire = {
   id: "01a06871-3115-7009-a94c-1cccc05f925d",
   type: "module",
   slug: "supervisor-interactive-wire",
-  definition:
-    "the per-iteration wiring of agent actions, the pre-cliff monitor and the rotation watch",
+  definition: "the per-iteration wiring of agent actions and the pre-cliff monitor",
   code: "ts",
   test: "ts",
   invariants: [
@@ -27,11 +26,7 @@ export const supervisorInteractiveWire = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Settling stops the rotation watch that iteration wired.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A watch is wired once an iteration and stopped once that iteration settles.",
+      statement: "Settling stops the pre-cliff monitor that iteration started.",
     },
     {
       invariantKind: "invariant-kind/departure",

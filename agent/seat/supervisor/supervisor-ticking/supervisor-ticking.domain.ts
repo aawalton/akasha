@@ -9,7 +9,6 @@ export const supervisorTicking = {
     "module/supervisor-guard-tick",
     "module/supervisor-heartbeat",
     "module/supervisor-heartbeat-beat",
-    "module/supervisor-rotation-watch",
     "module/supervisor-tick-saying",
   ],
 } as const satisfies Domain

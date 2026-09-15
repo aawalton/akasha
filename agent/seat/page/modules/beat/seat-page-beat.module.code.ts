@@ -13,16 +13,12 @@ import {
   removeSeatPage,
   writeSeatPage,
 } from "akasha/agent/seat/page/modules/writing/seat-page-writing.module.code.ts"
-import { rotatedOf } from "akasha/agent/seat/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
 import {
   keepTranscript,
   transcriptRecordOf,
 } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { rotatedTranscriptFor } from "akasha/agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"
-import {
-  keepSession,
-  sessionRecordOf,
-} from "akasha/agent/seat/session/seat-session.module.code.ts"
+import { keepSession, sessionRecordOf } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import { fail } from "akasha/command/modules/failing/command-failing.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -88,11 +84,6 @@ export async function beat(argv: readonly string[]): Promise<BeatReport> {
       outcome: await writeSeatPage({ ...statedOf(agentId), transcript: watching }, seat),
       seat,
     }
-  }
-
-  if (argv.includes("--clear-rotation")) {
-    if (rotatedOf(agentId) === null) return { outcome: { kind: "unchanged" }, seat }
-    return { outcome: await writeSeatPage({ ...statedOf(agentId), rotated: null }, seat), seat }
   }
 
   const stated = fallBackToHistory(

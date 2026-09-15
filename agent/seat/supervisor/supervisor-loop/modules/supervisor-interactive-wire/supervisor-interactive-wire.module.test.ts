@@ -4,17 +4,6 @@ import {
   settleIterationExit,
 } from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
 import type { InheritedProc } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
-import { watchSeatRotation } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
-
-function waited(ms: number): Promise<void> {
-  return new Promise((resolve) => {
-    setTimeout(resolve, ms)
-  })
-}
-
-function nothing(): Promise<void> {
-  return Promise.resolve()
-}
 
 function exitedCleanly(): InheritedProc {
   return {
@@ -25,55 +14,48 @@ function exitedCleanly(): InheritedProc {
   }
 }
 
-function wiringOver(stopSessionRotatedWatch: () => void): IterationWiring {
+function wiringOver(
+  cancel: (() => void) | null,
+  preCliffMonitor: { stop: () => void } | null = null
+): IterationWiring {
   return {
     actionSubsystem: { wasSupervisorKill: () => false } as never,
     pendingEvent: { value: null },
-    deferredRestart: { cancel: null },
-    preCliffMonitor: null,
-    stopSessionRotatedWatch,
+    deferredRestart: { cancel },
+    preCliffMonitor,
   }
 }
 
-test("settling stops the rotation watch that iteration wired", async () => {
+test("settling cancels the deferred restart and leaves nothing armed", async () => {
+  let cancelled = 0
+  const wiring = wiringOver(() => {
+    cancelled += 1
+  })
+
+  await settleIterationExit(wiring, exitedCleanly())
+
+  expect(cancelled).toBe(1)
+  expect(wiring.deferredRestart.cancel).toBeNull()
+})
+
+test("settling with no deferred restart armed cancels nothing", async () => {
+  const wiring = wiringOver(null)
+
+  await settleIterationExit(wiring, exitedCleanly())
+
+  expect(wiring.deferredRestart.cancel).toBeNull()
+})
+
+test("settling stops the pre-cliff monitor that iteration started", async () => {
   let stopped = 0
   await settleIterationExit(
-    wiringOver(() => {
-      stopped += 1
+    wiringOver(null, {
+      stop: () => {
+        stopped += 1
+      },
     }),
     exitedCleanly()
   )
 
   expect(stopped).toBe(1)
-})
-
-test("a second wiring does not leave the first watcher polling", async () => {
-  let firstAsked = 0
-  let secondAsked = 0
-  const stopFirst = watchSeatRotation(
-    () => {
-      firstAsked += 1
-      return null
-    },
-    nothing,
-    { pollMs: 1 }
-  )
-
-  await settleIterationExit(wiringOver(stopFirst), exitedCleanly())
-  const stopSecond = watchSeatRotation(
-    () => {
-      secondAsked += 1
-      return null
-    },
-    nothing,
-    { pollMs: 1 }
-  )
-
-  await waited(20)
-  const firstAfter = firstAsked
-  await waited(20)
-  stopSecond()
-
-  expect(firstAsked).toBe(firstAfter)
-  expect(secondAsked).toBeGreaterThan(3)
 })

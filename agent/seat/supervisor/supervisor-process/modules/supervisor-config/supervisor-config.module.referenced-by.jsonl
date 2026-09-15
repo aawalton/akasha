@@ -34,11 +34,9 @@
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor/supervisor.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind/supervisor-rebind.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-process/supervisor-process.domain.ts","id":"01a09c62-651a-7488-a701-7a1b46e37c2d"}

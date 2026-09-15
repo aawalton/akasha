@@ -34,7 +34,6 @@ export type AgentProcess = {
   mcpConfigPath: string | null
   configDir: string | null
   stopSessionWatch?: () => void
-  stopSessionRotatedWatch?: () => void
   idle?: boolean
   adopted?: boolean
 }

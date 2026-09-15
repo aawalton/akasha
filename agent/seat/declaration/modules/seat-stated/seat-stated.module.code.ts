@@ -24,10 +24,6 @@ import {
 import { backfillSeatRecord } from "akasha/agent/seat/page/modules/seat-record/seat-record.module.code.ts"
 import { pageTextOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
 import {
-  ROTATED_KEY,
-  rotatedOf,
-} from "akasha/agent/seat/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
-import {
   TRANSCRIPT_KEY,
   type TranscriptRecord,
   transcriptOf,
@@ -39,7 +35,7 @@ import {
 } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 
-const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY, ROTATED_KEY] as const
+const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY] as const
 
 export function backfillObserved(agent: string): undefined {
   for (const key of OBSERVED) backfillSeatRecord(agent, key, pageTextOf(agent, key))
@@ -57,7 +53,6 @@ export interface Stated {
   readonly initiative: InitiativeRecord | null
   readonly registration: RegistrationRecord | null
   readonly session: SessionRecord | null
-  readonly rotated: SessionRecord | null
   readonly transcript: TranscriptRecord | null
 }
 
@@ -74,7 +69,6 @@ export function statedOf(agent: string): Stated {
     initiative: initiativeOf(agent),
     registration: registrationAccountOf(agent),
     session: sessionOf(agent),
-    rotated: rotatedOf(agent),
     transcript: transcriptOf(agent),
   }
 }
@@ -150,7 +144,6 @@ export function statedNow(agent: string, attributes: declarations.Attributes, sa
       said.initiative === null ? kept("initiative", now.initiative) : { value: said.initiative },
     registration: said.registration === null ? now.registration : { value: said.registration },
     session: now.session,
-    rotated: now.rotated,
     transcript: now.transcript,
   }
 }

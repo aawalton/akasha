@@ -289,7 +289,6 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/proxy.record-property.ts","id":"01a0540c-dbbf-7215-9747-624c4ef37e06"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/re-exec-ask.text-property.ts","id":"01a05810-00ac-7843-9198-1c1fed82fd40"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/request.record-property.ts","id":"01a0542c-d18b-71bb-99a6-64c5edfe6321"}
-{"propertySlug":"invariant-kind","path":"agent/seat/properties/rotated-session-uuid.text-property.ts","id":"01a05430-9fa2-7a87-8969-26908fd82401"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/subagent-edits.file-property.ts","id":"01a08d62-417b-781b-9088-442ac476d7ae"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/subagent-reads.file-property.ts","id":"01a09cff-814a-7077-9e1f-fcf98a8e0100"}
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/subagent-refusals.file-property.ts","id":"01a08d62-5be7-74d0-8fa3-63a8fc24f035"}
@@ -311,7 +310,6 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.ts","id":"01a0683e-3dbe-7021-a398-c5d697666940"}
 {"propertySlug":"invariant-kind","path":"agent/seat/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.ts","id":"01a0683e-3dbe-7023-a794-3a24720e3484"}
 {"propertySlug":"invariant-kind","path":"agent/seat/self-healing/modules/supervisor-self-heal-install/supervisor-self-heal-install.module.ts","id":"01a06876-abda-7010-b833-f472fa23d6e8"}
-{"propertySlug":"invariant-kind","path":"agent/seat/session/modules/seat-rotated-session/seat-rotated-session.module.ts","id":"01a06949-b281-7899-b4b0-fabd503cea99"}
 {"propertySlug":"invariant-kind","path":"agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.ts","id":"01a06949-b281-7c83-952b-22f6213b7460"}
 {"propertySlug":"invariant-kind","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.ts","id":"01a071f5-4e4d-79a8-aff6-911818ba3e7e"}
 {"propertySlug":"invariant-kind","path":"agent/seat/session/seat-session.module.ts","id":"01a06949-b281-709f-96f4-45790933cf1e"}
@@ -372,7 +370,6 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.ts","id":"01a0683e-3dbe-700a-81ce-5968abd14734"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.ts","id":"01a0683e-3dbe-7014-bf13-b392ad858c1e"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.ts","id":"01a0683e-3dbe-7020-aab5-a279b45af99d"}
-{"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.ts","id":"01a0683e-3dbe-7013-ac46-7d54c415b88f"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-remote-control/modules/decide/supervisor-remote-control-decide.module.ts","id":"01a0686d-9d5e-7006-ba17-a047d0b1fdbc"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-remote-control/modules/env/supervisor-remote-control-env.module.ts","id":"01a06876-abda-700a-9970-c937e1deae9a"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.ts","id":"01a0686d-9d5e-7002-ae93-c2861807113f"}
@@ -394,7 +391,6 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.ts","id":"01a0683e-3dbe-7022-adf7-a141c00ada4a"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts","id":"01a06871-3115-7000-88a3-356a4726a3a1"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.ts","id":"01a06871-3115-7001-910f-b7d9676eca90"}
-{"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.ts","id":"01a06876-abda-700d-b81b-ac084fa897cb"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-tick-saying/supervisor-tick-saying.module.ts","id":"01a08e28-7d11-7673-83b4-5b56092efa4c"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.ts","id":"01a0a0f4-a63b-7e62-b70f-6eaed2299de7"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.ts","id":"01a0686c-f06b-700a-b0b5-cfa06c6e47bf"}

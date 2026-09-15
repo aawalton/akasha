@@ -35,7 +35,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/proxy-version.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/re-exec-ask.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/registration-account.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/rotated-session-uuid.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/start-mode.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/transcript-path.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/subagent/kind/properties/dispatched-as.text-property.ts"}

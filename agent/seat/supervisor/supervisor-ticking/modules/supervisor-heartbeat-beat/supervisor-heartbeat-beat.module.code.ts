@@ -15,7 +15,6 @@ import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
 } from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { clearRotated } from "akasha/agent/seat/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
 import { keepTranscript } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { keepSession } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
@@ -127,16 +126,6 @@ export function keepSeatTranscript(agentId: string, transcriptPath: string): und
   if (report.outcome.kind === "refused") {
     console.error(
       `${LOG} the transcript path did not reach ${report.seat ?? agentId}: ${report.outcome.detail}`
-    )
-  }
-}
-
-export function clearSeatRotation(agentId: string): undefined {
-  clearRotated(agentId)
-  const report = runBeat(["--agent", agentId, "--clear-rotation"])
-  if (report.outcome.kind === "refused") {
-    console.error(
-      `${LOG} the rotation was not cleared from ${report.seat ?? agentId}: ${report.outcome.detail}`
     )
   }
 }

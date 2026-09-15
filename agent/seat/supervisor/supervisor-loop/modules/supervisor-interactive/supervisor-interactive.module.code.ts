@@ -160,23 +160,9 @@ export async function runInteractive(
     const wiring = await wireIteration({
       agentId,
       proc,
-      selectedAccount,
-      projDir: assembled.projDir,
       agentIdHandle,
-      agentLog,
       proxy,
-      getAgentId: () => agentId,
-      getAgentProc: () => agentProc,
-      setLoopAgentId: (id) => {
-        agentId = id
-      },
-      setLoopSessionId: (id) => {
-        sessionId = id
-      },
-      rebindDeps: seams.rebindDeps,
-      startSessionWatch: seams.startSessionWatch,
     })
-    agentProc.stopSessionRotatedWatch = wiring.stopSessionRotatedWatch
 
     const exitCode = await proc.exited
     recTermios(`post-claude-exit iter=${iterationCount} ec=${exitCode}`)

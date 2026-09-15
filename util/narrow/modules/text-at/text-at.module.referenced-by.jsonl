@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/seat/fleet/modules/seat-forest/seat-forest.module.code.ts"}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts"}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
-{"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/subagent/modules/liveness/subagent-liveness.module.code.ts"}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}

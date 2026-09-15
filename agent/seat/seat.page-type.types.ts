@@ -10,7 +10,6 @@ import type { ReExecAsk } from "akasha/agent/seat/properties/re-exec-ask.text-pr
 import type { RegistrationAccount } from "akasha/agent/seat/properties/registration-account.text-property.types.ts"
 import type { Request } from "akasha/agent/seat/properties/request.record-property.types.ts"
 import type { Role } from "akasha/agent/seat/properties/role.relation-property.types.ts"
-import type { RotatedSessionUuid } from "akasha/agent/seat/properties/rotated-session-uuid.text-property.types.ts"
 import type { SeatPersona } from "akasha/agent/seat/properties/seat-persona.relation-property.types.ts"
 import type { StartMode } from "akasha/agent/seat/properties/start-mode.text-property.types.ts"
 import type { SubagentEdits } from "akasha/agent/seat/properties/subagent-edits.file-property.types.ts"
@@ -39,7 +38,6 @@ export type Seat = Agent & {
   turnWorking?: TurnWorking
   request?: Request
   reExecAsk?: ReExecAsk
-  rotatedSessionUuid?: RotatedSessionUuid
   subagentEdits?: SubagentEdits
   subagentReads?: SubagentReads
   subagentRefusals?: SubagentRefusals

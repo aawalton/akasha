@@ -179,7 +179,6 @@ export async function finalizeInteractiveExit(args: {
   const disarmCleanupBackstop = armForceExitTimer("post-loop-cleanup")
   try {
     agentProc?.stopSessionWatch?.()
-    agentProc?.stopSessionRotatedWatch?.()
 
     if (!isPendingReExec()) {
       proxy.stop()

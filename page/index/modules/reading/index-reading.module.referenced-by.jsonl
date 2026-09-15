@@ -40,7 +40,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/settings/pages/mcp-servers/mcp-servers.agent-settings.telling.code.ts"}

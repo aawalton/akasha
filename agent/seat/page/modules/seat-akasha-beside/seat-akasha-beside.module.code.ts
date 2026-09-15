@@ -23,7 +23,6 @@ export type Carried = { readonly at: readonly string[]; readonly kind: Kind }
 
 export const CARRIED: Readonly<Record<string, Carried>> = {
   "transcript-path": { at: ["transcriptPath"], kind: "text" },
-  "rotated-session-uuid": { at: ["rotatedSessionUuid"], kind: "text" },
   model: { at: ["model"], kind: "text" },
   mode: { at: ["mode"], kind: "text" },
   "context-tokens": { at: ["contextTokens"], kind: "number" },
