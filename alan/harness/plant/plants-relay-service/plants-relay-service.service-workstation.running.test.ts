@@ -27,7 +27,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/alan/harness/plants/relay-service/plants-relay-service.service-workstation.running.code.ts"
+  "akasha/alan/harness/plant/plants-relay-service/plants-relay-service.service-workstation.running.code.ts"
 )
 
 const groupedByOneRun = async (): Promise<Map<string, string[]>> => {

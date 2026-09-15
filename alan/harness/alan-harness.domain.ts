@@ -31,7 +31,7 @@ export const alanHarness = {
     "domain/mobile-cli",
     "domain/monarch",
     "domain/money",
-    "domain/plants",
+    "domain/plant",
     "domain/recurrence",
     "domain/reminder-system",
     "domain/rules-engine",

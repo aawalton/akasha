@@ -355,7 +355,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/notification-feed/modules/notifying/notifying.module.ts","id":"01a06a00-6837-71bf-b475-d3320bf5baab"}
 {"propertySlug":"invariant-kind","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.ts","id":"01a069b6-bb6b-7ec9-bdcf-8f130bb46a4d"}
 {"propertySlug":"invariant-kind","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.ts","id":"019f4a1f-0ecc-7d45-8f43-7b424b5f0477"}
-{"propertySlug":"invariant-kind","path":"alan/harness/plants/modules/reading/plants-reading.module.ts","id":"01a069bc-1aa2-7813-a0df-1f5eed5e0196"}
+{"propertySlug":"invariant-kind","path":"alan/harness/plant/modules/plants-reading/plants-reading.module.ts","id":"01a069bc-1aa2-7813-a0df-1f5eed5e0196"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/asking/readout-asking.module.ts","id":"01a061c0-e7cc-7ec9-b512-033fcde733e7"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/body/readout-body.module.ts","id":"01a05e63-1c18-7baa-a113-890ebfb04463"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/credential/readout-credential.module.ts","id":"01a054d9-d41f-796f-a2ff-b2c0fa9863a0"}

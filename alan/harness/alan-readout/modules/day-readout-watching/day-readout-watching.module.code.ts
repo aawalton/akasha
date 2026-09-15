@@ -24,7 +24,7 @@ import {
 import {
   READOUT_SLUG as PLANTS_SLUG,
   takeReading as takePlants,
-} from "akasha/alan/harness/plants/modules/reading/plants-reading.module.code.ts"
+} from "akasha/alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"
 import {
   keepSilence,
   readoutPage,

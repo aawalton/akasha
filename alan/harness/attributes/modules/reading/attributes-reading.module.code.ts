@@ -12,7 +12,7 @@ import { attributeIntelligence } from "akasha/alan/attribute/readout/attribute-i
 import { attributeStrength } from "akasha/alan/attribute/readout/attribute-strength/attribute-strength.readout.ts"
 import { attributeWisdom } from "akasha/alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
-import { askingIn } from "akasha/alan/harness/plants/modules/reading/plants-reading.module.code.ts"
+import { askingIn } from "akasha/alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"
 import type { Row } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
 import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import {
