@@ -6,7 +6,6 @@ export const graph = {
   slug: "graph",
   definition: "what follows from the pages, and what each answer rests on",
   parts: [
-    "domain/graph-closure",
     "page-type/graph-predicate",
     "module/graph-asking",
     "page-type/graph-attribute",

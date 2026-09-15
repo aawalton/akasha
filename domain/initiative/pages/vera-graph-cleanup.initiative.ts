@@ -27,12 +27,12 @@ export const veraGraphCleanup = {
     {
       statement: "What a closure costs is measured by a command, as a change and a check are.",
       workingMemory:
-        "Met. `akasha measure closure <slug> <seed>...` landed at `20c4d0f1f50`, answering seeds, nodes, edges, processor seconds, wall seconds and memory, in the shape `measure change` and `measure check` answer in. It reads cost through `check-cost` and units through `check-measuring`, so the three read alike. `graph/closure/answer-cost` is what it replaces and is still there.",
+        "Met. `akasha measure closure <slug> <seed>...` landed at `20c4d0f1f50`, answering seeds, nodes, edges, processor seconds, wall seconds and memory, in the shape `measure change` and `measure check` answer in. It reads cost through `check-cost` and units through `check-measuring`, so the three read alike. `graph/closure/answer-cost` was what it replaces and is gone.",
     },
     {
       statement: "Every closure the graph answers is quick enough to ask on every landing.",
       workingMemory:
-        "Measured by `performance/answer-cost`: out landing 555 files 292ms, in landing 1079 files 87ms, out graph-asking 143 files 52ms, in graph-asking 1102 files 65ms, out page-value-reading 31 files 20ms, in page-value-reading 3325 files 142ms. Reading a body out costs about 0.5ms a file, reading beside a page in about 0.05ms. The largest closure is 292ms against a typecheck averaging 14.8s over 3499 runs. Whether that wants a cache is Alan's to settle.",
+        "Measured by `akasha measure closure` on 2026-09-15: out over `deploy-file-closure` 479 nodes and 1568 edges in 0.137s wall, 0.484s processor; in over `page-value-reading` 3228 nodes and 9671 edges in 0.109s wall, 0.166s processor. Reading bodies out costs three times the processor for a seventh of the nodes. The largest is a tenth of a second against a typecheck averaging 14.8s. Whether that wants a cache is Alan's to settle.",
     },
   ],
   constraints: [

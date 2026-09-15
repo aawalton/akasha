@@ -360,7 +360,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"git/git.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"git/oid/oid.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"graph/attribute/graph-attribute.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"graph/closure/graph-closure.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"graph/edge/graph-edge.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"graph/graph.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"graph/node/graph-node.page-type.types.ts"}

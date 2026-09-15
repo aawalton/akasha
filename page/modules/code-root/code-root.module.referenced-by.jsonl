@@ -41,7 +41,6 @@
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"}
-{"propertySlug":"import","fileName":"code-root.module.code.ts","path":"graph/closure/answer-cost/answer-cost.performance.test.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/cluster/operation/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.test.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/cluster/operation/create-tunnel/create-tunnel.shell-script.scripting.test.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/cluster/operation/deploy-functions/deploy-functions.shell-script.scripting.test.ts"}

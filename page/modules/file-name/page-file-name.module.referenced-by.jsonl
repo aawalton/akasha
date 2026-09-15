@@ -177,7 +177,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/plain-language/modules/shape-reading/shape-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"git/modules/commit-reading/commit-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"git/modules/holding/holding.module.test.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"graph/closure/answer-cost/answer-cost.performance.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/cluster/operation/create-tunnel/create-tunnel.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.test.ts"}
