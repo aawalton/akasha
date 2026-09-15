@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0037Book4Chapter32EmbracingHerChoice = {
   id: "01a06731-aecc-7000-b627-49da03f5a8d7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0037-book-4-chapter-32-embracing-her-choice",
   title: "Book 4 - Chapter 32 - Embracing Her Choice",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

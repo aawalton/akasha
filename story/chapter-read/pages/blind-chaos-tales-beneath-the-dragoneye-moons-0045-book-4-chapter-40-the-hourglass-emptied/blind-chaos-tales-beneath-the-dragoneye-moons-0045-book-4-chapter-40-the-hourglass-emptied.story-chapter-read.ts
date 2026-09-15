@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0045Book4Chapter40TheHourglassEmptied = {
   id: "01a06731-aed7-7000-8a05-aff8ea253b88",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0045-book-4-chapter-40-the-hourglass-emptied",
   title: "Book 4 - Chapter 40 - The Hourglass, Emptied",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

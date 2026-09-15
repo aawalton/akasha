@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0260V7c7TrulyWelcomeVol5Release = {
   id: "01a06731-adc9-7003-94b6-ef96774dee67",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0260-v7c7-truly-welcome-vol-5-release",
   title: "v7c7: Truly Welcome+ Vol 5 Release",
   story: "story-read/beware-of-chicken",

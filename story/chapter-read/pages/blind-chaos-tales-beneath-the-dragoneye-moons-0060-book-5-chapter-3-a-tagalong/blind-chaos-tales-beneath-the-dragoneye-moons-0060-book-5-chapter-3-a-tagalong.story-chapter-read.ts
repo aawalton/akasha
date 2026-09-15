@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0060Book5Chapter3ATagalong = {
   id: "01a06731-aee5-7000-9e80-fa6d716faa2c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0060-book-5-chapter-3-a-tagalong",
   title: "Book 5 - Chapter 3 - A Tagalong",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

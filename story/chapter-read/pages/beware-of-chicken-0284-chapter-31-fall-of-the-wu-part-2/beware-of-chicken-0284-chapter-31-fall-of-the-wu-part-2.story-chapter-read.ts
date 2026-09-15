@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0284Chapter31FallOfTheWuPart2 = {
   id: "01a06731-add8-7000-a5db-f0ac75e6898f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0284-chapter-31-fall-of-the-wu-part-2",
   title: "Chapter 31: Fall of the Wu part 2",
   story: "story-read/beware-of-chicken",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0012Book4Chapter11FeedingThanatos = {
   id: "01a06731-aeaf-7000-9036-cd9790c5ee3e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0012-book-4-chapter-11-feeding-thanatos",
   title: "Book 4 - Chapter 11 - Feeding Thanatos",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

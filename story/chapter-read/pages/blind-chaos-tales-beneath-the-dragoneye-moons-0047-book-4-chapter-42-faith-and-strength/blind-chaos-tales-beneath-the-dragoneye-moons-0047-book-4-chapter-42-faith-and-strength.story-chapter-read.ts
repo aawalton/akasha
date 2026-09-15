@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0047Book4Chapter42FaithAndStrength = {
   id: "01a06731-aed8-7001-a392-c15fca7ecc53",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0047-book-4-chapter-42-faith-and-strength",
   title: "Book 4 - Chapter 42 - Faith and Strength",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0040Book4Chapter35LoveAndWar = {
   id: "01a06731-aed2-7000-ba3a-ea6f33e59a51",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0040-book-4-chapter-35-love-and-war",
   title: "Book 4 - Chapter 35 - Love and War",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

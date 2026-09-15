@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0034Book4Chapter29AStrategicWithdrawal = {
   id: "01a06731-aec9-7002-8dfd-55572b246d2c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0034-book-4-chapter-29-a-strategic-withdrawal",
   title: "Book 4 - Chapter 29 - A Strategic Withdrawal",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

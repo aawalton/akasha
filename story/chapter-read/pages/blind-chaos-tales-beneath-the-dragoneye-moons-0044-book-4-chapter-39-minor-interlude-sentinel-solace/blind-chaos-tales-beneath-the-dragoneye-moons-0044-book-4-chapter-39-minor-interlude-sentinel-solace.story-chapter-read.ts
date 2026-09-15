@@ -3,7 +3,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 export const blindChaosTalesBeneathTheDragoneyeMoons0044Book4Chapter39MinorInterludeSentinelSolace =
   {
     id: "01a06731-aed6-7000-968b-09aefbb3a94f",
-    type: "story-chapter-read",
+    type: "page-type/story-chapter-read",
     slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0044-book-4-chapter-39-minor-interlude-sentinel-solace",
     title: "Book 4 - Chapter 39 - Minor Interlude – Sentinel Solace – The Result of Their Legacies",
     story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

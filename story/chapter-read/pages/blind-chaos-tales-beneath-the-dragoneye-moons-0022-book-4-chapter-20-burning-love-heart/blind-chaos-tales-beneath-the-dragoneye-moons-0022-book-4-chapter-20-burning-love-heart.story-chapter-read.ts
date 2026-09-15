@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0022Book4Chapter20BurningLoveHeart = {
   id: "01a06731-aeb9-7000-bb08-fb26043e1237",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0022-book-4-chapter-20-burning-love-heart",
   title: "Book 4 - Chapter 20 - Burning Love Heart",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

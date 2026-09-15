@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0050Book4Chapter45BlindConviction = {
   id: "01a06731-aedb-7000-923c-296ce0c1cdfd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0050-book-4-chapter-45-blind-conviction",
   title: "Book 4 - Chapter 45 - Blind Conviction",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

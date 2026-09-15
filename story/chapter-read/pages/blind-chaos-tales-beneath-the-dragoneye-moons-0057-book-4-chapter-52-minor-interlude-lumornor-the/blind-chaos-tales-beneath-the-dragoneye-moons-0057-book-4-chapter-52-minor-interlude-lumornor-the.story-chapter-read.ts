@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0057Book4Chapter52MinorInterludeLumornorThe = {
   id: "01a06731-aee3-7000-afc2-077fd82d5ee4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0057-book-4-chapter-52-minor-interlude-lumornor-the",
   title: "Book 4 - Chapter 52 - Minor Interlude – Lumornor – The Pursuit of Progress",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

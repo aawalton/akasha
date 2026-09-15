@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0212V6c24AManyFacetedJewel = {
   id: "01a06731-adbb-7005-bb0a-0c96080873db",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0212-v6c24-a-many-faceted-jewel",
   title: "v6c24: A Many Faceted Jewel",
   story: "story-read/beware-of-chicken",

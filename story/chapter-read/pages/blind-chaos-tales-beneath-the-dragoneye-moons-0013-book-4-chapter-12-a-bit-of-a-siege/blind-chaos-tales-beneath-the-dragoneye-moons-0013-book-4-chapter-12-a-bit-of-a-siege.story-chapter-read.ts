@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0013Book4Chapter12ABitOfASiege = {
   id: "01a06731-aeb1-7000-8ef3-deee7e3b6564",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0013-book-4-chapter-12-a-bit-of-a-siege",
   title: "Book 4 - Chapter 12 - A Bit of a Siege",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

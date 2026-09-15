@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0018Book4Chapter16TheNightOfTheSecondSun = {
   id: "01a06731-aeb4-7001-9a2c-f2a4b17f5ec1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0018-book-4-chapter-16-the-night-of-the-second-sun",
   title: "Book 4 - Chapter 16 - The Night of the Second Sun",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

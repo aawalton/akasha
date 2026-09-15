@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0249V6c60MountainsAndHills = {
   id: "01a06731-adc5-7001-95d7-7c1a5fd3cf28",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0249-v6c60-mountains-and-hills",
   title: "v6c60: Mountains and Hills",
   story: "story-read/beware-of-chicken",

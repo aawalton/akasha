@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0046Book4Chapter41MinorInterludeAvyna = {
   id: "01a06731-aed8-7000-8bfd-0b4dd673a3f2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0046-book-4-chapter-41-minor-interlude-avyna",
   title: "Book 4 - Chapter 41 - Minor Interlude – Avyna – Absolution",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

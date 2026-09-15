@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0026Book4Chapter23MustComeDownI = {
   id: "01a06731-aebd-7000-9620-eb2cfe0918f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0026-book-4-chapter-23-must-come-down-i",
   title: "Book 4 - Chapter 23 - Must Come Down I",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

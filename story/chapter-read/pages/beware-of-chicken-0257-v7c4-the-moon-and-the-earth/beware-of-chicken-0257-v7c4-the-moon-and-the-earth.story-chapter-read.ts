@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0257V7c4TheMoonAndTheEarth = {
   id: "01a06731-adc9-7000-a857-25250f6e37d1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0257-v7c4-the-moon-and-the-earth",
   title: "v7c4: The Moon and the Earth",
   story: "story-read/beware-of-chicken",

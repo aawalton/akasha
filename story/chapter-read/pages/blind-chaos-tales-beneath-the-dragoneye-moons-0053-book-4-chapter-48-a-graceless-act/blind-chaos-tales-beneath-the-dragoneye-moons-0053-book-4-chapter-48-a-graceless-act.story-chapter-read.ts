@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0053Book4Chapter48AGracelessAct = {
   id: "01a06731-aede-7000-9539-59695119c18f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0053-book-4-chapter-48-a-graceless-act",
   title: "Book 4 - Chapter 48 - A Graceless Act",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

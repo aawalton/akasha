@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0340V7c87EndOfVolumeRoadsStretchingToTheHorizon = {
   id: "01a06731-adf0-7000-8db9-350cb5545c86",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0340-v7c87-end-of-volume-roads-stretching-to-the-horizon",
   title: "v7c87 END of volume: Roads, Stretching to the Horizon",
   story: "story-read/beware-of-chicken",

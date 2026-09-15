@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0025Book4Chapter22AMultitudeOfReunions = {
   id: "01a06731-aebc-7001-8150-b705422f5177",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0025-book-4-chapter-22-a-multitude-of-reunions",
   title: "Book 4 - Chapter 22 - A Multitude of Reunions",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

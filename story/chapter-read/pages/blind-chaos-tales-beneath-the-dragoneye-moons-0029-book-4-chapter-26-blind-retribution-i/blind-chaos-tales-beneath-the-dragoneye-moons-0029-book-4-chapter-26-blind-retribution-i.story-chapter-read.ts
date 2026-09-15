@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0029Book4Chapter26BlindRetributionI = {
   id: "01a06731-aec1-7000-b8f3-4c3f4fba8549",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0029-book-4-chapter-26-blind-retribution-i",
   title: "Book 4 - Chapter 26 - Blind Retribution I",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",

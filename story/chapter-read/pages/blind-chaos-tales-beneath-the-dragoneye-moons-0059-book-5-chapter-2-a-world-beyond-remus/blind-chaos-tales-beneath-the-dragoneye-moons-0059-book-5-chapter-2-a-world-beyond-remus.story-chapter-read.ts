@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0059Book5Chapter2AWorldBeyondRemus = {
   id: "01a06731-aee4-7000-b855-566b08ed75c2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0059-book-5-chapter-2-a-world-beyond-remus",
   title: "Book 5 - Chapter 2 - A World Beyond Remus",
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
