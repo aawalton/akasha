@@ -2,7 +2,7 @@ import type { TemperSkillLineCategory } from "akasha/temper/catalog/temper-skill
 
 export const companion = {
   id: "019e2fc7-4afa-704c-b32b-dcdacbbb127d",
-  type: "temper-skill-line-category",
+  type: "page-type/temper-skill-line-category",
   slug: "companion",
   title: "Companion",
   key: "companion",

@@ -2,7 +2,7 @@ import type { TemperSkillLineCategory } from "akasha/temper/catalog/temper-skill
 
 export const racial = {
   id: "019e2fc7-4af8-7d18-b7ae-5f611085b256",
-  type: "temper-skill-line-category",
+  type: "page-type/temper-skill-line-category",
   slug: "racial",
   title: "Racial",
   key: "racial",
