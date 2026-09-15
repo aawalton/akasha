@@ -9,15 +9,15 @@ export const supervisorHandoffEnv = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A handoff missing a single part is ignored rather than half-read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A malformed handoff is said before that handoff is ignored.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A proxy owner absent from the handoff is the session's own agent.",
     },
   ],

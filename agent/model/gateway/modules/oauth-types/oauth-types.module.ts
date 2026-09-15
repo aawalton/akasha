@@ -9,60 +9,60 @@ export const oauthTypes = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An OAuthCredential is a CredentialDoc.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A CredentialDoc names scopes as an optional field.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An OAuthCredential names scopes as a required field.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An OAuthCredential drops the `subscriptionDisabledAt` a CredentialDoc carries.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An OAuthCredential drops the `terminalAlertedAt` a CredentialDoc carries.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every AccountState field is readonly.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A CredentialPick pairs one credential with the five-hour reset in milliseconds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An AccountState has no token.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An AccountState reads the disabled flag rather than the disabled timestamp.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An OAuthCredential names its expiry `expiresAt` rather than naming the unit.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "No OAuthCredential field is readonly.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A five-hour reset is an ISO string on AccountState and milliseconds on CredentialPick.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A CredentialDoc has the disabled flag beside the disabled timestamp.",
     },
   ],

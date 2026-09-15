@@ -8,19 +8,19 @@ export const supervisorSpawnAgent = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The definitions are composed by the compose module rather than here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The compose module is imported from beside this module and its function called.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A launch given no definitions is launched with the delegation tool disallowed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty map is no definitions.",
     },
   ],

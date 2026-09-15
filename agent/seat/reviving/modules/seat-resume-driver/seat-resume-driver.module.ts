@@ -8,7 +8,7 @@ export const seatResumeDriver = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A resuming seat is driven by exactly one of these five things.",
     },
   ],

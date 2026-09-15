@@ -9,22 +9,22 @@ export const seatSpawnNameDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A composition that failed refuses the start rather than falling back to a default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A seat whose attributes name nothing and a composition that failed are different facts.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "Neither a seat whose attributes name nothing nor a failed composition mints a name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A seat spelling only the role that seat defaults to has stated nothing to be named from.",
     },

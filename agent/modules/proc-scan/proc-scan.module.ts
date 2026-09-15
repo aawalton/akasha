@@ -8,12 +8,12 @@ export const procScan = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A process names the agent that process acts under as well as the agent that process runs as.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A process naming no acting agent carries no acting agent rather than carrying its own.",
     },

@@ -9,55 +9,58 @@ export const seatAkashaHistory = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat is read from the newest commit that wrote its page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat's moment is the time of the commit that wrote that seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Values come back under the key names the old page had.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body that will not load leaves that seat out of the answer.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading of a root's history is held only while that history has not moved.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A seat page removed from akasha is in no index.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Git history is walked by the path a seat page had rather than by the seat page type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "History is walked over the folder the seats sit in now and every folder they sat in before.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A seat is named in history by the file its page is rather than by that file's folder.",
     },
-    { invariantKind: "departure", statement: "A seat page taken away holds nothing in history." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "A seat page taken away holds nothing in history.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A seat page moved is taken away at the path it left.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where more than one path could answer a seat's name, the newest path answers.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A root's history has moved where the commit that root is on has changed.",
     },
   ],

@@ -8,11 +8,11 @@ export const supervisorAskRule = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule that cannot be reached is answered with the safe value and a notice.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule that cannot be reached is never a throw the caller must catch.",
     },
   ],

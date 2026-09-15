@@ -8,11 +8,11 @@ export const supervisorBootStage = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stage still pending past its notice window says so while that stage waits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stage that throws says how long that stage ran before that stage threw.",
     },
   ],

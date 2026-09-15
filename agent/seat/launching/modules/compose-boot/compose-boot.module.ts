@@ -9,15 +9,15 @@ export const composeBoot = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A composition states who the seat is and instructs the read that loads the rest.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat whose attributes state nothing is told so and is told to read.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A composition has no path.",
     },
   ],

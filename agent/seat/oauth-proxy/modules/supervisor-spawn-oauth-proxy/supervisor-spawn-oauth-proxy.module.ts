@@ -8,27 +8,27 @@ export const supervisorSpawnOauthProxy = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A gateway busy is not a gateway dead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One health deadline serves adopting a gateway and watching one alike.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The port an adopted Claude points at is the only port a fresh gateway binds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A holder of that port belonging to another agent is left running.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The gateway's error stream goes to a file rather than to the seat's terminal.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An error stream whose file will not open is discarded rather than inherited.",
     },
   ],

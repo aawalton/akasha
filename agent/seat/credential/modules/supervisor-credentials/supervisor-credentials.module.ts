@@ -8,20 +8,20 @@ export const supervisorCredentials = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account already terminal is not pulled for again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A terminal failure is reported once rather than on every tick.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An account whose file shows a re-auth is terminal no longer and is pulled for again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pull that faults is said and the tick ends rather than the timer dying.",
     },
   ],

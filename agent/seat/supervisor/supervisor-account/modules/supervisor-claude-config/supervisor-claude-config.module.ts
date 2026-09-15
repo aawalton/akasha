@@ -9,25 +9,25 @@ export const supervisorClaudeConfig = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A declared project entry is merged into the existing entry rather than replacing that entry.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A project path is expanded against the home directory before that path is keyed on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A declaration that cannot be read leaves the account's own file untouched.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The declaration sits inside the akasha folder rather than beside an account.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That folder is found by walking up rather than by folders counted up.",
     },
   ],

@@ -8,15 +8,15 @@ export const oauthHealthLines = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A terminal refresh failure names the account whose refresh stopped.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An unrecognised error code is reported as unknown rather than dropped.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes to disk.",
     },
   ],

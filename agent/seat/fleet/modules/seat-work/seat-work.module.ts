@@ -9,17 +9,17 @@ export const seatWork = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The louder of two seats is decided by the color each is drawn in rather than by its turn state.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Two seats drawn in one color are told apart by the order the turn states are read in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A seat whose turn state named no color to read is quieter than every color the ranking names.",
     },

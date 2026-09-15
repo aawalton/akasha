@@ -8,16 +8,16 @@ export const resumeSeat = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A name a live tmux session holds refuses the revive before anything is signalled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat revived comes back in the mode that seat's page states it starts in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat whose page states no mode is revived headless.",
     },
   ],

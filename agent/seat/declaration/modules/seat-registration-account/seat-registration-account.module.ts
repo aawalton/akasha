@@ -8,11 +8,11 @@ export const seatRegistrationAccount = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat's account is whatever text its page has under the account key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page with no such text gives no account.",
     },
   ],

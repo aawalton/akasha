@@ -8,27 +8,27 @@ export const supervisorInteractiveSpawn = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every seat condition is staged before that condition is awaited.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The conditions are read together.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A model override on the options is taken over the seat's stated worker model.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A carried name that fails to bind is logged and the spawn goes on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The proxy is stopped at exit only where no re-exec is pending.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The last cleanup runs under a force-exit timer that is always disarmed.",
     },
   ],

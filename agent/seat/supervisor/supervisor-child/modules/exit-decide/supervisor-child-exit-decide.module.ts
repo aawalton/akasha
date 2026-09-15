@@ -9,16 +9,16 @@ export const supervisorChildExitDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An exit during a shutdown or a supervisor kill is deliberate rather than a crash.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An exit status that could not be observed is a crash rather than a clean stop.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A signal number is named from this host's own signal table.",
     },
   ],

@@ -9,25 +9,25 @@ export const supervisorProxyAdoptionDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No live proxy is answered with a fresh proxy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A live proxy at the version expected here is taken over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A live proxy at another version is taken over anyway while that proxy is healthy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A live proxy at another version that is unhealthy is replaced rather than taken over.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here starts or stops or reaches a proxy.",
     },
   ],

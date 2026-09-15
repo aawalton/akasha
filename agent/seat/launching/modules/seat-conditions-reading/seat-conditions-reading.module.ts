@@ -9,24 +9,24 @@ export const seatConditionsReading = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An index part way through a refresh leaves the conditions unread rather than refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A wait on such an index is said once as it opens rather than on every ask.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A wait running past its ceiling says it gave up and refuses the read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That refusal names the refresh rather than the conditions being unstated.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A throw that is no refresh reaches whoever asked without waiting.",
     },
   ],

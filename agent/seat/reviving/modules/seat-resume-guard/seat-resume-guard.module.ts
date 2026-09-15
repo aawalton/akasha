@@ -8,11 +8,11 @@ export const seatResumeGuard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat nothing is present in is restarted whatever is recorded under it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every way of restarting a seat asks this before restarting that seat.",
     },
   ],

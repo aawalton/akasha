@@ -9,15 +9,15 @@ export const seatTurnColor = {
   testFixtures: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A turn state's page is reached by that state's name as the page's slug.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No table turns a turn state's name into the name of that state's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The color reads back as the slug alone, whatever page type names it.",
     },
   ],

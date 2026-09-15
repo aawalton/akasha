@@ -8,11 +8,11 @@ export const supervisorPollAgentAction = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The actions a seat can be asked to take are spelled here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Those actions are read from the pages of the supervisor-action page type.",
     },
   ],

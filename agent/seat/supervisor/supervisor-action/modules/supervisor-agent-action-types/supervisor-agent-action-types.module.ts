@@ -8,11 +8,11 @@ export const supervisorAgentActionTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action is restart or restart-now or swap-proxy.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "This module declares no behaviour.",
     },
   ],

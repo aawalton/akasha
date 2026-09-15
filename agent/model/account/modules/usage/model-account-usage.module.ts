@@ -8,11 +8,11 @@ export const modelAccountUsage = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account carrying no reading is left out of the mean.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkout naming no account is refused rather than answered as a fleet.",
     },
   ],

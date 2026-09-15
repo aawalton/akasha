@@ -9,16 +9,16 @@ export const seatParentlessRefusal = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat a person opened needs no parent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A seat working for the fleet and naming nobody above the seat is invisible to every tree walk.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A parent stated as an empty string is no parent.",
     },
   ],

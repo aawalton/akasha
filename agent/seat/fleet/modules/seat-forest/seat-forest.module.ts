@@ -8,11 +8,11 @@ export const seatForest = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row's mode is the mode observed of the supervisor with that seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat nothing observed a mode of shows the mode that seat was started in.",
     },
   ],

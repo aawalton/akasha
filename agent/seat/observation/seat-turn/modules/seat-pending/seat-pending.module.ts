@@ -9,19 +9,19 @@ export const seatPending = {
   parts: ["module/pending-from-files", "module/pending-maintaining"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat that stopped itself is pending for having stopped itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat with a live child is pending on the child.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat that sent nothing is not awaiting a reply.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Stopping alone is allowed for a seat that stopped itself or has a live child.",
     },
   ],

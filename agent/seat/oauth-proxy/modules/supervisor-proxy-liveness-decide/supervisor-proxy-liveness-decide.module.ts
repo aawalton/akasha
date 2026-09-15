@@ -9,28 +9,28 @@ export const supervisorProxyLivenessDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One healthy check clears every failure and every respawn counted so far.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A proxy is respawned only after three checks in a row failed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Three respawns in a row that never reached health is where the supervisor gives up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A supervisor that gave up counts no further failure and acts no further.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A respawn clears the failure count and raises the respawn count.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here checks health or spawns a proxy.",
     },
   ],

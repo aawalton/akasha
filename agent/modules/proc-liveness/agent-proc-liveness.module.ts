@@ -10,20 +10,20 @@ export const agentProcLiveness = {
   testFixtures: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A process whose agent is named as no uuid stands for no agent and is passed over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent's own process is its Claude child or its supervisor and nothing else.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subagent is named on a process by the agent that process acts under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A process with no acting agent is evidence of nobody rather than of an end.",
     },
   ],

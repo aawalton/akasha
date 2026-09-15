@@ -8,19 +8,19 @@ export const supervisorAgentAction = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A restart arms an idle gate rather than signalling the child at once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A restart-now clears the request before that restart-now signals the child.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A second proxy swap while a first swap is in flight is dropped.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A kill the supervisor issued is remembered so the exit is not read as a crash.",
     },
   ],

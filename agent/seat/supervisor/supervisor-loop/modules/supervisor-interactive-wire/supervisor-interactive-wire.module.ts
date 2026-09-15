@@ -10,31 +10,31 @@ export const supervisorInteractiveWire = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pre-cliff monitor is not started where the cliff age could not be read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A proxy swap clears the requested action before the swap is triggered.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A swap does nothing where the agent id handle is empty.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Settling clears the action handler and cancels the deferred restart.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Settling stops the rotation watch that iteration wired.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A watch is wired once an iteration and stopped once that iteration settles.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An exit the rule could not classify is recorded as unexamined rather than guessed.",
     },

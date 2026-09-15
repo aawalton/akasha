@@ -8,22 +8,22 @@ export const supervisorAgent = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An expired pinned account is refused headless and re-authenticated interactively.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A pinned account with no credential falls back only where that account was not pinned.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A credential that cannot be read is a fault rather than an account that is absent.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here renews a token.",
     },
   ],

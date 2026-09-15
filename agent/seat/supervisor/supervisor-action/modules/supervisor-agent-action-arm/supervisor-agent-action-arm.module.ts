@@ -8,15 +8,15 @@ export const supervisorAgentActionArm = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A gate whose defer windows could not be read is not armed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A gate already armed is not armed a second time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The child's age is read from its process start rather than counted from arming.",
     },
   ],

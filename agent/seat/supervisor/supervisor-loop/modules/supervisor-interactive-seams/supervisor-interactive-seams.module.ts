@@ -8,11 +8,11 @@ export const supervisorInteractiveSeams = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here has behaviour.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The seam is a type alone.",
     },
   ],

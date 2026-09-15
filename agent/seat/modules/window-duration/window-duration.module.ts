@@ -8,11 +8,11 @@ export const windowDuration = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A span reaches the caller as a count of milliseconds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A span written in any other shape raises an input error naming the flag.",
     },
   ],

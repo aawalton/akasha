@@ -8,7 +8,7 @@ export const seatHandle = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A handle reaching no seat, or more than one, is refused as a fault of the call.",
     },
   ],

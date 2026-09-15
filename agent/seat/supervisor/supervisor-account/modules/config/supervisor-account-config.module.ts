@@ -8,20 +8,20 @@ export const supervisorAccountConfig = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The settings a seat spawns under are read from the seat conditions rather than the environment.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A model the vocabulary does not name is refused rather than passed through.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A window that cannot be read leaves the setting unset rather than throwing.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No account is consulted for whether the long context window may be asked for.",
     },
   ],

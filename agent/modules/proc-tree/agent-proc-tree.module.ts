@@ -10,23 +10,23 @@ export const agentProcTree = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent whose processes form one tree has outlived no tree.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tree kept is the tree with the stated keeper.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tree kept where no keeper is stated is the tree holding the newest process.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A process the caller is running in is never read as another agent's process.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The invocation a caller runs inside reaches up to the nearest agent process.",
     },
   ],

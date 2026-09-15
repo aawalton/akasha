@@ -8,11 +8,11 @@ export const supervisorChildExitRule = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stop reason the rule and the column disagree on stamps nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An unread classification is null rather than a guess at how the child stopped.",
     },
   ],

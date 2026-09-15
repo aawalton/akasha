@@ -8,15 +8,15 @@ export const supervisorDecideRules = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A question naming nothing this answers is refused rather than answered empty.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A question asking nothing is refused rather than answered with nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every rule answers only the keys the question asked for.",
     },
   ],

@@ -8,16 +8,16 @@ export const seatStatedIdentity = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat that stated no attribute and no assignment has nothing to check.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A stated identity that cannot be checked refuses the start rather than a seat without that identity.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The caller is told the words the resolving function refused with.",
     },
   ],

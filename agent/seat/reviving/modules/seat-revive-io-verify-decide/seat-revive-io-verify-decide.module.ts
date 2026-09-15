@@ -9,15 +9,15 @@ export const seatReviveIoVerifyDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat that has advanced on a single signal has advanced.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat whose every signal is silent is wedged rather than unread.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Advancement is movement after the revive rather than movement at all.",
     },
   ],

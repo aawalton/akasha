@@ -9,12 +9,12 @@ export const supervisorAdoptedClaudePort = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A port is read from the adopted child's own environment rather than from this environment.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A base url that is not loopback http names no port.",
     },
   ],

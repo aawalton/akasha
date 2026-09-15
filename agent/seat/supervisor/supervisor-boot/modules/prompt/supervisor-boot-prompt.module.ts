@@ -8,19 +8,19 @@ export const supervisorBootPrompt = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat with no agent id spawns with no authored prompt.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A composing that throws is caught and the seat spawns without a prompt.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A composition that came back empty spawns with no authored prompt.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A prompt is renamed into place so no half-written file is ever handed over.",
     },
   ],

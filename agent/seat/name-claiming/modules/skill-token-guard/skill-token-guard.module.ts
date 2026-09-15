@@ -8,7 +8,7 @@ export const skillTokenGuard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refusal names this module by its slug rather than by its path.",
     },
   ],

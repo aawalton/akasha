@@ -8,19 +8,19 @@ export const supervisorAdopt = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A child confirmed dead is not respawned in its place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A child whose liveness cannot be read is recovered with a fresh resuming spawn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An inherited child keeps the config file the prior supervisor reconciled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An adopted child is reaped by waiting on its pid rather than by a spawn handle.",
     },
   ],

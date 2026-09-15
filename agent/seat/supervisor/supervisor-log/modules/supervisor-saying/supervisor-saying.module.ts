@@ -9,15 +9,15 @@ export const supervisorSaying = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A line the console throws over is written to standard error instead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A line standard error throws over is dropped rather than thrown on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every line a saying says carries the mark that saying was made with.",
     },
   ],

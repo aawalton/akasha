@@ -8,7 +8,7 @@ export const seatTurnPending = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A write that threw says why, rather than reading as a write that changed nothing.",
     },

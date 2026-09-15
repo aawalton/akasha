@@ -8,11 +8,11 @@ export const supervisorDecideRuleInputs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A null state is read as the initial state rather than refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An optional field absent from the question stays absent in the reading.",
     },
   ],

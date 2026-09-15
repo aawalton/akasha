@@ -9,23 +9,23 @@ export const supervisorEnv = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An inherited Claude session key is stripped rather than passed to the child.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An inherited Anthropic routing key is stripped rather than passed to the child.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An inherited tool timeout wins over the timeout the seat conditions state.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Resume thresholds are handed only to a headless child.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A name the supervisor has that is neither of those keys reaches the child unchanged.",
     },

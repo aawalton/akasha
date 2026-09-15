@@ -8,15 +8,15 @@ export const spawnGuard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refusal names this module by its slug rather than by its path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page naming no process and a page naming one nobody can read are one answer.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "That answer cannot say which of the two it met, so it names neither.",
     },
   ],

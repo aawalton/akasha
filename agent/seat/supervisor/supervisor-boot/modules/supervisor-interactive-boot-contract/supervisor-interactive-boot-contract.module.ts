@@ -8,20 +8,20 @@ export const supervisorInteractiveBootContract = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here has behaviour.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every export is a type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The boot's answer names the credential subsystem's parts rather than the subsystem.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "A new thing the boot returns is stated here before the boot returns that thing.",
     },
   ],

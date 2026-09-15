@@ -8,11 +8,11 @@ export const supervisorAgentCreate = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat's identity is a uuid version 7.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A spawned agent with no parent is refused rather than seated.",
     },
   ],
