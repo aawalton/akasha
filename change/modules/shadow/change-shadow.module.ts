@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const changeShadow = {
   id: "01a07744-1311-740c-acbf-9e0092840193",
-  type: "module",
+  type: "page-type/module",
   slug: "change-shadow",
   definition: "the files and index as the answer a change gives would leave both",
   code: "ts",

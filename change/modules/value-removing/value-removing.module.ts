@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const valueRemoving = {
   id: "01a09c7d-7d5f-746f-8af0-c3635ccb603d",
-  type: "module",
+  type: "page-type/module",
   slug: "value-removing",
   definition: "the edits taking one value out of one page property in a page's body",
   code: "ts",

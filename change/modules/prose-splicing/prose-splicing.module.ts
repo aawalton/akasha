@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const proseSplicing = {
   id: "01a09c37-a726-75c9-9295-675c73b2ee02",
-  type: "module",
+  type: "page-type/module",
   slug: "prose-splicing",
   definition: "the edits restating the prose passages one page's body states",
   code: "ts",

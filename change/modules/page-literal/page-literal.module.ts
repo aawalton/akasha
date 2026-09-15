@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageLiteral = {
   id: "01a07958-2f4f-7bd9-b5c2-d794c5150eb9",
-  type: "module",
+  type: "page-type/module",
   slug: "page-literal",
   definition: "what the parser reads of the object a page's body exports",
   code: "ts",

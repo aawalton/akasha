@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const idleRevealStore = {
   id: "01a0655d-dac0-71cd-b7f9-8bf203c8774c",
-  type: "module",
+  type: "page-type/module",
   slug: "idle-reveal-store",
   definition: "the cards waiting to be revealed, held once for every component that reads them",
   code: "ts",

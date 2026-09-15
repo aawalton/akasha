@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readoutGuarding = {
   id: "01a0655e-d39a-743e-a192-9fef67057d38",
-  type: "module",
+  type: "page-type/module",
   slug: "readout-guarding",
   definition: "a readout request refused unless its device secret and its access both hold",
   code: "ts",

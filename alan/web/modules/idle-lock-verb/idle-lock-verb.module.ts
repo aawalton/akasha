@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const idleLockVerb = {
   id: "01a0655d-dabf-790f-8075-3e49fc5ff180",
-  type: "module",
+  type: "page-type/module",
   slug: "idle-lock-verb",
   definition: "a persona locked or unlocked from its card",
   code: "ts",

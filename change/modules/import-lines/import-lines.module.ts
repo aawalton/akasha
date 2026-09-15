@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const importLines = {
   id: "01a08cda-348f-7c87-89fb-04be4a6a3124",
-  type: "module",
+  type: "page-type/module",
   slug: "import-lines",
   definition: "the import lines a body carries, read and written as text",
   code: "ts",

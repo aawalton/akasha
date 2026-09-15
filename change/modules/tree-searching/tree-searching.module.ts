@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const treeSearching = {
   id: "01a0a06a-7815-7496-bab7-bcf7151d8cce",
-  type: "module",
+  type: "page-type/module",
   slug: "tree-searching",
   definition:
     "the paths a search or a listing of the tree names, with the answer a change carries laid over",

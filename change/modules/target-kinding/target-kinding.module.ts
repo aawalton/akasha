@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const targetKinding = {
   id: "01a08251-3c27-7aaa-b035-a2345ee394a0",
-  type: "module",
+  type: "page-type/module",
   slug: "target-kinding",
   definition: "the change target subtype a path is under",
   code: "ts",

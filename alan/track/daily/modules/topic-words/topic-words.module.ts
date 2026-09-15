@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const topicWords = {
   id: "01a06972-bd40-7000-9a84-aea39ed039e2",
-  type: "module",
+  type: "page-type/module",
   slug: "topic-words",
   definition: "the wisdom words Alan wrote and the learn-everything topics he updated on one day",
   code: "ts",

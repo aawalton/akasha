@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pictureAnswering = {
   id: "01a09c61-a5d9-766a-9d6d-662757fe1a24",
-  type: "module",
+  type: "page-type/module",
   slug: "picture-answering",
   definition: "what a route answers when a phone sends a picture in for its person's handler",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const propertySignatureRenaming = {
   id: "01a09c41-1b28-7033-a7fb-706359938013",
-  type: "module",
+  type: "page-type/module",
   slug: "property-signature-renaming",
   definition: "one property a type declares spelled anew wherever the checker resolves to it",
   code: "ts",

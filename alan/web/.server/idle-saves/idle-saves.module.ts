@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const idleSaves = {
   id: "01a0655e-d39b-7622-a70b-508466de5c7c",
-  type: "module",
+  type: "page-type/module",
   slug: "idle-saves",
   definition: "reading and writing one player's idle save",
   code: "ts",

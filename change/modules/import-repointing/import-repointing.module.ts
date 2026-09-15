@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const importRepointing = {
   id: "01a09b9b-449c-7564-9db1-2276ced91221",
-  type: "module",
+  type: "page-type/module",
   slug: "import-repointing",
   definition: "a body rewritten so the paths it names follow the files that moved",
   code: "ts",

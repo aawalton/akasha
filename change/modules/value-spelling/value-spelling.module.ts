@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const valueSpelling = {
   id: "01a09c7f-02d4-712d-999d-c1305ea06fcf",
-  type: "module",
+  type: "page-type/module",
   slug: "value-spelling",
   definition:
     "the literal a page body spells for one value handed in as text under the kind its property holds",

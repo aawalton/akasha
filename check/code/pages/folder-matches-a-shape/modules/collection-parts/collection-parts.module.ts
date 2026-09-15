@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const collectionParts = {
   id: "01a09ec3-da54-7a58-9554-ea6fd937fd5f",
-  type: "module",
+  type: "page-type/module",
   slug: "collection-parts",
   definition:
     "how a folder of a collection's parts is judged, whatever those parts name as holding them",

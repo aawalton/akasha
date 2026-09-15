@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const homeDniParam = {
   id: "01a0655e-d399-7f57-a5ed-36dc75b69609",
-  type: "module",
+  type: "page-type/module",
   slug: "home-dni-param",
   definition: "the home navigation item read out of a request",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const editsDropping = {
   id: "01a09280-f5bf-7819-a752-07a3d5996019",
-  type: "module",
+  type: "page-type/module",
   slug: "edits-dropping",
   definition: "the edits an answer keeps once a body rewritten where nothing may be is dropped",
   code: "ts",

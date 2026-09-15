@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dayStretches = {
   id: "01a072fc-7da3-70be-b104-0ae0ad022e37",
-  type: "module",
+  type: "page-type/module",
   slug: "day-stretches",
   definition: "the stretches of Alan's day, read as rows beside the day each is part of",
   code: "ts",

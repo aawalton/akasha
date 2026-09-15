@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const exportRenaming = {
   id: "01a09c33-ec44-72ad-8f25-59c72db27e3a",
-  type: "module",
+  type: "page-type/module",
   slug: "export-renaming",
   definition: "the edits spelling a name one body exports anew over the paths handed in",
   code: "ts",

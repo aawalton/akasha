@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const domRegistering = {
   id: "01a06558-bbb0-7002-bf4b-d065ea2a2ada",
-  type: "module",
+  type: "page-type/module",
   slug: "dom-registering",
   definition: "putting a document up before a component test runs and taking it away after",
   code: "ts",

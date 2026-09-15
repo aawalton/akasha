@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pagePropertyRenaming = {
   id: "01a09c40-38dc-7202-905e-d8da618765b4",
-  type: "module",
+  type: "page-type/module",
   slug: "page-property-renaming",
   definition: "the passages in one body where a page property's key or its slug is spelled anew",
   code: "ts",

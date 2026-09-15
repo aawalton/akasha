@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageDetailLoading = {
   id: "01a0655e-d39b-7b16-9974-8d43261a1726",
-  type: "module",
+  type: "page-type/module",
   slug: "page-detail-loading",
   definition: "what a page's detail route loads before it is drawn",
   code: "ts",

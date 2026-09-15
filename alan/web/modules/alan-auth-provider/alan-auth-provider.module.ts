@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const alanAuthProvider = {
   id: "01a0655d-dab8-75b5-b6b9-521ef16cadd1",
-  type: "module",
+  type: "page-type/module",
   slug: "alan-auth-provider",
   definition: "the signed-in account held for every component below it",
   code: "tsx",

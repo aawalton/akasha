@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const trackShape = {
   id: "01a069d7-ba37-75fb-8dbd-6f5be522dda9",
-  type: "module",
+  type: "page-type/module",
   slug: "track-shape",
   definition: "the names a day page and its two entry sidecars are filed under",
   code: "ts",

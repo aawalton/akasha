@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const codeExportCarrying = {
   id: "01a09c3d-8d88-7d7f-9070-14c87fa1b4b2",
-  type: "module",
+  type: "page-type/module",
   slug: "code-export-carrying",
   definition: "the passages carrying named exports out of one code body and into another",
   code: "ts",

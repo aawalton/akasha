@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addressRestating = {
   id: "01a09c32-ce10-789c-bc0c-792c98ca95e4",
-  type: "module",
+  type: "page-type/module",
   slug: "address-restating",
   definition: "the edits restating many pages' addresses over one reading of the bodies",
   code: "ts",

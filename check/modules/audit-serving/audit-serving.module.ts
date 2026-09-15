@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const auditServing = {
   id: "01a091e9-689c-7001-a9f4-f25090091be1",
-  type: "module",
+  type: "page-type/module",
   slug: "audit-serving",
   definition: "one check's audit run under a turn of its own, and the round running them all",
   code: "ts",

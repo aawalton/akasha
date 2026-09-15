@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deviceSecretSync = {
   id: "01a0655d-dab9-7b76-a767-7101666ee41b",
-  type: "module",
+  type: "page-type/module",
   slug: "device-secret-sync",
   definition: "the device secret minted and kept in the shell's keychain",
   code: "tsx",

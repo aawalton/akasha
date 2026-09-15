@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const audioDownloadOffer = {
   id: "01a0a081-7f6a-7653-89bb-050c3254ad45",
-  type: "module",
+  type: "page-type/module",
   slug: "audio-download-offer",
   definition: "the download a page's audio variants are offered with",
   code: "tsx",

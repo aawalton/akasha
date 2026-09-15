@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pluralGathering = {
   id: "01a0a5c5-2740-7000-ad2c-5227a60870b1",
-  type: "module",
+  type: "page-type/module",
   slug: "plural-gathering",
   definition: "the page types gathering their pages under each plural name",
   code: "ts",

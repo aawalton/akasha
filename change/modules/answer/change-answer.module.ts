@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const changeAnswer = {
   id: "01a07721-531c-732a-a072-2842893f0584",
-  type: "module",
+  type: "page-type/module",
   slug: "change-answer",
   definition: "the edits a change answers rather than writes",
   code: "ts",

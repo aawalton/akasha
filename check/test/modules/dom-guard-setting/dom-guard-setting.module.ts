@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const domGuardSetting = {
   id: "01a06558-bbb0-7003-8022-162ffcc6b8a0",
-  type: "module",
+  type: "page-type/module",
   slug: "dom-guard-setting",
   definition: "halting a component test run without a document and saying how to run it",
   code: "ts",

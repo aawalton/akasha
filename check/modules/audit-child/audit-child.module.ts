@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const auditChild = {
   id: "01a0a064-3e4a-7000-ad1d-00f2d5f33c09",
-  type: "module",
+  type: "page-type/module",
   slug: "audit-child",
   definition: "one check's audit run in a process of its own, answered into a file it is handed",
   code: "ts",

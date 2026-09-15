@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const specifierPlacing = {
   id: "01a09163-1a4e-7000-9e11-f25866bf23e0",
-  type: "module",
+  type: "page-type/module",
   slug: "specifier-placing",
   definition: "which literals of a body name a module rather than a path",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const idleCatalog = {
   id: "01a0655d-daba-7ad1-acfd-cf08e2e85882",
-  type: "module",
+  type: "page-type/module",
   slug: "idle-catalog",
   definition: "the personas the idle game may draw, as the browser has them",
   code: "ts",

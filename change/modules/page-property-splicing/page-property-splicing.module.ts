@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pagePropertySplicing = {
   id: "01a09c57-fd55-7dd2-8750-4e82ff215d07",
-  type: "module",
+  type: "page-type/module",
   slug: "page-property-splicing",
   definition: "the edits writing a page's properties, their values and the records they hold",
   code: "ts",

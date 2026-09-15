@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const domGuarding = {
   id: "01a06558-bbb0-7000-8634-6cb45e4b961e",
-  type: "module",
+  type: "page-type/module",
   slug: "dom-guarding",
   definition: "telling a component test that ran without a browser what it is missing",
   code: "ts",

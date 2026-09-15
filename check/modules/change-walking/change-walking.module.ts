@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const changeWalking = {
   id: "01a0583c-9b26-78cf-972c-3801c6b1ad94",
-  type: "module",
+  type: "page-type/module",
   slug: "change-walking",
   definition: "how a check reaches the text it judges",
   code: "ts",

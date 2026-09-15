@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const auditAsking = {
   id: "01a09239-89d9-7000-b122-2e19bbb8547e",
-  type: "module",
+  type: "page-type/module",
   slug: "audit-asking",
   definition: "a round of the audit service asked for at a commit, and what its verdicts say",
   code: "ts",

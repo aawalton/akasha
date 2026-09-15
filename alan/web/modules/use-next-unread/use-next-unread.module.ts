@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useNextUnread = {
   id: "01a0655d-dab8-7d2b-aa6d-33da0ff5db81",
-  type: "module",
+  type: "page-type/module",
   slug: "use-next-unread",
   definition: "the next unread address read into a component",
   code: "ts",

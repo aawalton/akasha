@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const alanReaderNeighbors = {
   id: "01a0655d-dab8-7e63-8ddb-c12afe09a9c4",
-  type: "module",
+  type: "page-type/module",
   slug: "alan-reader-neighbors",
   definition: "the chapters either side of the one being read",
   code: "ts",

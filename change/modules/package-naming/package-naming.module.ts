@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const packageNaming = {
   id: "01a08236-274a-7266-ab52-6e34c361587e",
-  type: "module",
+  type: "page-type/module",
   slug: "package-naming",
   definition: "a package's name where a string has it",
   code: "ts",

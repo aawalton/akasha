@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageTypeRestating = {
   id: "01a09c71-f017-713f-a7a3-8d4e8c6f13e8",
-  type: "module",
+  type: "page-type/module",
   slug: "page-type-restating",
   definition: "the page type a body states, restated with the type that body satisfies",
   code: "ts",

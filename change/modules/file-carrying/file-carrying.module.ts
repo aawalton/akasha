@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fileCarrying = {
   id: "01a0922a-d01c-7afe-a069-81d098846385",
-  type: "module",
+  type: "page-type/module",
   slug: "file-carrying",
   definition: "the edits carrying many files to new paths and following them everywhere named",
   code: "ts",

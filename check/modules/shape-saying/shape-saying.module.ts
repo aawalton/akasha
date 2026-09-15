@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const shapeSaying = {
   id: "01a04f44-705b-70b6-8537-9f2a66b2b56a",
-  type: "module",
+  type: "page-type/module",
   slug: "shape-saying",
   definition: "the files a shape means, said by the names they carry inside the folder it judges",
   code: "ts",

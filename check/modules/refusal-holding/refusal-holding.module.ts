@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const refusalHolding = {
   id: "01a09262-8dcd-7000-9ba4-db03acc57a04",
-  type: "module",
+  type: "page-type/module",
   slug: "refusal-holding",
   definition: "refusals held to a byte ceiling, and a reason shortened to say how much went",
   code: "ts",

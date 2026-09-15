@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gachaDrawContext = {
   id: "01a0655e-d39a-7d78-92a5-0e8f9375946d",
-  type: "module",
+  type: "page-type/module",
   slug: "gacha-draw-context",
   definition: "the personas and rates one draw is settled against",
   code: "ts",

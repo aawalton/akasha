@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pagesPersistenceFs = {
   id: "01a0655d-daab-78ac-a2a5-ed45c80fe2c6",
-  type: "module",
+  type: "page-type/module",
   slug: "pages-persistence-fs",
   definition: "a snapshot of pages held in the device's own file system",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const widgetTapAnswering = {
   id: "01a078aa-cea1-71ff-8aa2-0b3766623b39",
-  type: "module",
+  type: "page-type/module",
   slug: "widget-tap-answering",
   definition: "what a route answers when the app says a widget was tapped",
   code: "ts",

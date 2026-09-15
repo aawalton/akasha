@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const capacitorCors = {
   id: "01a063c9-03ff-733a-9c12-48399577ca75",
-  type: "module",
+  type: "page-type/module",
   slug: "capacitor-cors",
   definition: "the cross-origin headers a request from the native shell is answered with",
   code: "ts",

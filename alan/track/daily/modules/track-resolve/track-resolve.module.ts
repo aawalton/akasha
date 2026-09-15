@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const trackResolve = {
   id: "01a069d3-579d-76b4-9f16-dad14c0aa30d",
-  type: "module",
+  type: "page-type/module",
   slug: "track-resolve",
   definition: "settling which day a caller meant, and creating that day when there is none",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const oneTypeOnly = {
   id: "01a09c36-f538-72e2-9125-1f0b39671fa5",
-  type: "module",
+  type: "page-type/module",
   slug: "one-type-only",
   definition: "how a folder of page folders of one type is judged",
   code: "ts",

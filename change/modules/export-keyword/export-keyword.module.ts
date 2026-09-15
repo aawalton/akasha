@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const exportKeyword = {
   id: "01a09b78-e712-7e62-a475-527e244c7146",
-  type: "module",
+  type: "page-type/module",
   slug: "export-keyword",
   definition: "the `export` keyword in a body, and the names each one declares",
   code: "ts",

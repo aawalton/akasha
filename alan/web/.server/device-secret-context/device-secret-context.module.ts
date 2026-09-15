@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deviceSecretContext = {
   id: "01a0655e-d39a-7632-bb48-cb68d5895b87",
-  type: "module",
+  type: "page-type/module",
   slug: "device-secret-context",
   definition: "the account a presented device secret represents, and the refusals short of one",
   code: "ts",

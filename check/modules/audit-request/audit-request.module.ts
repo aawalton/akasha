@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const auditRequest = {
   id: "01a09277-b9e5-7000-93dc-4d36ee548c6c",
-  type: "module",
+  type: "page-type/module",
   slug: "audit-request",
   definition: "the checks an agent asked a round to run beyond the ones a phase names",
   code: "ts",

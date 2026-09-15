@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pullToRefresh = {
   id: "01a0655d-dab9-7ef1-aa03-e4a84f90aeb9",
-  type: "module",
+  type: "page-type/module",
   slug: "pull-to-refresh",
   definition: "the gesture reloading what is on screen by dragging it down",
   code: "tsx",
