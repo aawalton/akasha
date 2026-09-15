@@ -6,11 +6,5 @@ export const nimueMisc = {
   slug: "nimue-misc",
   domain: "domain/technology",
   persona: "persona/nimue",
-  intentStack: [
-    {
-      statement: "What a page states as what must be true of it is named a decision.",
-      workingMemory:
-        'Landed: `decision-group` is `decision-group`, folder and relation property with it, and the check `decision-earns-its-place` with it. Left: `decision-kind` to `decision-kind` over 5892 files, the keys `decisions` and `decisionKind`, two check pages, and the prose. That draft takes six minutes and its apply runs every test, and other seats move folders repo-wide inside that window, so it lands only in a quiet repository. Bare `"decision-kind"` in code is reached by no mechanism.\n',
-    },
-  ],
+  intentStack: [],
 } as const satisfies Initiative
