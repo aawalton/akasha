@@ -282,11 +282,16 @@ export async function launching(
   }
 
   const pane = await paneOf(how, name)
-  if (pane !== null) {
-    await how.ran(["tmux", "set-option", "-w", "-t", pane, "remain-on-exit", "on"])
+  if (pane === null) {
+    return {
+      refused:
+        `the tmux session for \`${name}\` began and holds no pane, so nothing was recorded ` +
+        "for a liveness read",
+    }
   }
+  await how.ran(["tmux", "set-option", "-w", "-t", pane, "remain-on-exit", "on"])
 
-  const said = await how.ran(["tmux", "display-message", "-p", "-t", `=${name}`, "#{pane_pid}"])
+  const said = await how.ran(["tmux", "display-message", "-p", "-t", pane, "#{pane_pid}"])
   const pid = pidIn(said.out)
   if (pid === null) {
     return {

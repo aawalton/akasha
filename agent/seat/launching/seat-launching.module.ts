@@ -113,6 +113,18 @@ export const seatLaunching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A pane pid is asked of the pane holding it rather than of the session.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Tmux answers a pane's own values as nothing where a session is named instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session holding no pane is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A session naming no pane pid is refused.",
     },
     {

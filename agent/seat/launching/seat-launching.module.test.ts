@@ -407,6 +407,30 @@ test("a launch onto a running server reports the pane pid", async () => {
   expect(calls).toContainEqual(["tmux", "set-option", "-w", "-t", "%7", "remain-on-exit", "on"])
 })
 
+test("the pane pid is asked of the pane rather than of the session", async () => {
+  const { how, calls } = fake(
+    (cmd) => {
+      if (cmd[1] === "list-panes") return answer({ out: "%7" })
+      if (cmd[1] === "display-message") return answer({ out: "4242" })
+      return answer()
+    },
+    [false, true]
+  )
+  await launching(asked(), ROOT, how)
+
+  expect(calls).toContainEqual(["tmux", "display-message", "-p", "-t", "%7", "#{pane_pid}"])
+})
+
+test("a session holding no pane is refused", async () => {
+  const { how } = fake(
+    (cmd) => (cmd[1] === "list-panes" ? answer({ code: 1 }) : answer({ out: "4242" })),
+    [false]
+  )
+  const said = await launching(asked(), ROOT, how)
+
+  expect(said).toEqual({ refused: expect.stringContaining("holds no pane") })
+})
+
 test("a launch with no server up begins one inside a scope", async () => {
   const { how, calls } = fake(
     (cmd) => {
