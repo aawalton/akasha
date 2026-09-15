@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns005955HeartOfTheJungle = {
   id: "01a06730-4fce-7743-836d-6ce99a13e84a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0059-55-heart-of-the-jungle",
   title: "55: Heart of the Jungle",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

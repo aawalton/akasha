@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0074SideStoryTheVillageOfWoodedly = {
   id: "01a06730-5041-7599-9257-15f974f989da",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0074-side-story-the-village-of-woodedly",
   title: "Side Story: The Village of Woodedly",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

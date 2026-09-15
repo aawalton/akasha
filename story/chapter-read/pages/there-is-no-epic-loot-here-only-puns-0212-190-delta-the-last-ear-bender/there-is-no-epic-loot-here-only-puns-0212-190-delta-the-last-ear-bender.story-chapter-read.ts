@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0212190DeltaTheLastEarBender = {
   id: "01a06730-54ac-7834-a777-d7c278676eed",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0212-190-delta-the-last-ear-bender",
   title: "190: Delta: The last Ear Bender",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

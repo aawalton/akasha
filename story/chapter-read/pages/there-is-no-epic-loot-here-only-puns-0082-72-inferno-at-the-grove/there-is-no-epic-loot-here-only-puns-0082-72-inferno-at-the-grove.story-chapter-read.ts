@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns008272InfernoAtTheGrove = {
   id: "01a06730-509a-7924-956b-9587d17d5635",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0082-72-inferno-at-the-grove",
   title: "72: Inferno at the Grove",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

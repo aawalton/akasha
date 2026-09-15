@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0121105DeltasDayOff = {
   id: "01a06730-51dc-7f36-9f46-560a3e4290ba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0121-105-deltas-day-off",
   title: "105: Delta's Day Off",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

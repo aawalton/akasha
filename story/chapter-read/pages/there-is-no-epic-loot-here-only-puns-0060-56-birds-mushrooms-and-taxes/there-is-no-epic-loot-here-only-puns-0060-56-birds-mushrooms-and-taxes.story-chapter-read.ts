@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns006056BirdsMushroomsAndTaxes = {
   id: "01a06730-4fce-7b92-ab25-39e6721d477f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0060-56-birds-mushrooms-and-taxes",
   title: "56: Birds, Mushrooms, and Taxes",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

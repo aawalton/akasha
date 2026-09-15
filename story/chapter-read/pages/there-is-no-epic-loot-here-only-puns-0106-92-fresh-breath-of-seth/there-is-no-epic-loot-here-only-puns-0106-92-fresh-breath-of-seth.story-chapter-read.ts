@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns010692FreshBreathOfSeth = {
   id: "01a06730-5174-7fab-ab50-d98cfa51a617",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0106-92-fresh-breath-of-seth",
   title: "92: Fresh Breath of Seth",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

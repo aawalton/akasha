@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns009382JackAndDeltaGoDownATunnel = {
   id: "01a06730-50e4-7dc2-b27a-8a5db90e95fd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0093-82-jack-and-delta-go-down-a-tunnel",
   title: "82: Jack and Delta go down a tunnel",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

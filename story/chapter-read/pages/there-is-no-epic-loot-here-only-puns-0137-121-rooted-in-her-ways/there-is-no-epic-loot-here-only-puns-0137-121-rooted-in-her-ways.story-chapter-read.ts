@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0137121RootedInHerWays = {
   id: "01a06730-523c-7bd8-a8bb-76a5a96d77b1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0137-121-rooted-in-her-ways",
   title: "121: Rooted in Her Ways",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

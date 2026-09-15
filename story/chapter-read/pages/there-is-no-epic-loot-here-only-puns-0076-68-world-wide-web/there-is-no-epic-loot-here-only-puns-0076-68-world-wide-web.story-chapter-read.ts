@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns007668WorldWideWeb = {
   id: "01a06730-5041-7484-92b0-cf3b25a40092",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0076-68-world-wide-web",
   title: "68: World Wide Web",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

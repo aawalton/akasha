@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0190170TheShattering = {
   id: "01a06730-5406-7d1c-b1a1-251d1812a051",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0190-170-the-shattering",
   title: "170: The Shattering",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

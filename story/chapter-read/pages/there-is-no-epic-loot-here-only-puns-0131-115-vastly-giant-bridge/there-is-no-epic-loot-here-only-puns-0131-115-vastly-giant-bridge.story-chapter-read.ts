@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0131115VastlyGiantBridge = {
   id: "01a06730-522d-74ac-a437-ff7d4581c992",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0131-115-vastly-giant-bridge",
   title: "115: Vastly Giant Bridge",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

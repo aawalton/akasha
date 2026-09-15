@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0175157ThisIsReferenceToAnotherMedia = {
   id: "01a06730-5379-74d6-a056-55b48060c6ac",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0175-157-this-is-reference-to-another-media",
   title: "157: This is reference to another media",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

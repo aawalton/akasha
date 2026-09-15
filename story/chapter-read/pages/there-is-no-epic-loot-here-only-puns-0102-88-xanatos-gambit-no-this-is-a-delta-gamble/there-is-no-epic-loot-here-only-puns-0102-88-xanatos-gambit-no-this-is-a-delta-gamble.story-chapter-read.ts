@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns010288XanatosGambitNoThisIsADeltaGamble = {
   id: "01a06730-5122-7c14-97b2-33f4cf05ec32",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0102-88-xanatos-gambit-no-this-is-a-delta-gamble",
   title: "88: Xanatos Gambit? No, this is a Delta Gamble!",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

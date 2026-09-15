@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0218196TheArgusStory = {
   id: "01a06730-54e1-7ab6-b120-82d9934005e8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0218-196-the-argus-story",
   title: "196: The Argus Story",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

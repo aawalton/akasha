@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns007164TheTreeOfWisdom = {
   id: "01a06730-5031-7c1e-930f-2b285cc70202",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0071-64-the-tree-of-wisdom",
   title: "64: The Tree of 'Wisdom'",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

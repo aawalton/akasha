@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0245222ConsoleGodModActivated = {
   id: "01a06730-5578-771d-905f-b532ff09e7b3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0245-222-console-god-mod-activated",
   title: "222: Console: God Mod Activated",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0240217IdiotsWithASmile = {
   id: "01a06730-5537-7439-ba0b-80ce6ef051f4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0240-217-idiots-with-a-smile",
   title: "217: Idiots with a Smile",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

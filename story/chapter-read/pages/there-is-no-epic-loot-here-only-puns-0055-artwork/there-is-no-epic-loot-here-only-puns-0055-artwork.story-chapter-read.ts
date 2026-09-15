@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0055Artwork = {
   id: "01a06730-4faf-7a90-b5f1-d7c7b9160ab7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0055-artwork",
   title: "Artwork!",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

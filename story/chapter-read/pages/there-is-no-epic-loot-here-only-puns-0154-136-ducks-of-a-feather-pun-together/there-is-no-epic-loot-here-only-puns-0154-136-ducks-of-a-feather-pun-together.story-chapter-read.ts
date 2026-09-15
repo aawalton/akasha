@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0154136DucksOfAFeatherPunTogether = {
   id: "01a06730-52c1-78b1-9044-3adcd832c7dd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0154-136-ducks-of-a-feather-pun-together",
   title: "136: Ducks of a feather, pun together",
   story: "story-read/there-is-no-epic-loot-here-only-puns",

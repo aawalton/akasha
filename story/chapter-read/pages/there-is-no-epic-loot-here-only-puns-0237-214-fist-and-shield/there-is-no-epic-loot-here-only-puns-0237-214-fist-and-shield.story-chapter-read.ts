@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thereIsNoEpicLootHereOnlyPuns0237214FistAndShield = {
   id: "01a06730-5536-75d2-b31b-832c14dd9feb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0237-214-fist-and-shield",
   title: "214: Fist and Shield",
   story: "story-read/there-is-no-epic-loot-here-only-puns",
