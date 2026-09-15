@@ -3,7 +3,7 @@
 {"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/skill-morphs-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"}

@@ -17,9 +17,9 @@ import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
   getApplicableSkillLineIds,
-} from "akasha/temper/skill-morphs-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
-import type { MorphCharacterRow } from "akasha/temper/skill-morphs-access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
-import { resolveSkillMorphs } from "akasha/temper/skill-morphs-access/modules/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
+} from "akasha/temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
+import type { MorphCharacterRow } from "akasha/temper/skill-morph-access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
+import { resolveSkillMorphs } from "akasha/temper/skill-morph-access/modules/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
 
 const RAPPORT_COMPANION_IDS: readonly number[] = companions.list
   .filter((companion) => companion.esoCompanionId !== 0)

@@ -5027,8 +5027,8 @@
 {"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/target-scopes/target-scopes.module.ts","id":"01a060db-b2be-77b7-b112-34349332a376"}
 {"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/target-types/target-types.module.ts","id":"01a060db-b2bf-7d23-9d53-a943f51ee61c"}
 {"propertySlug":"invariant-kind","path":"temper/skill-kind/temper-skill-kind.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}
+{"propertySlug":"invariant-kind","path":"temper/skill-morph-access/temper-skill-morph-access.domain.ts","id":"01a061e2-5e38-795d-b1f0-b50d142c48d5"}
 {"propertySlug":"invariant-kind","path":"temper/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}
-{"propertySlug":"invariant-kind","path":"temper/skill-morphs-access/temper-skill-morphs-access.domain.ts","id":"01a061e2-5e38-795d-b1f0-b50d142c48d5"}
 {"propertySlug":"invariant-kind","path":"temper/skill-point-finder/modules/skill-point-finder-api/skill-point-finder-api.module.ts","id":"01a060ec-5830-7970-9982-411f52b14cd8"}
 {"propertySlug":"invariant-kind","path":"temper/skill-point-finder/modules/skill-point-finder-char-list/skill-point-finder-char-list.module.ts","id":"01a060ec-5832-7174-b7a1-08495eb16e4c"}
 {"propertySlug":"invariant-kind","path":"temper/skill-point-finder/modules/skill-point-finder-colors/skill-point-finder-colors.module.ts","id":"01a060ec-5834-7ce4-b990-b2f1dfab5f22"}

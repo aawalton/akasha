@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const temperSkillMorphsAccess = {
+export const temperSkillMorphAccess = {
   id: "01a061e2-5e38-795d-b1f0-b50d142c48d5",
   type: "domain",
-  slug: "temper-skill-morphs-access",
+  slug: "temper-skill-morph-access",
   definition: "the morph progress a saved completion row carries",
   parts: [
     "module/character-skill-morph-transform",

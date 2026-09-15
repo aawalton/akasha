@@ -584,8 +584,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/settings-panel/temper-settings-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/shopping/temper-shopping.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-kind/temper-skill-kind.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph-access/temper-skill-morph-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph/temper-skill-morph.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morphs-access/temper-skill-morphs-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skills-panel/temper-skills-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skyshard/temper-skyshard.domain.ts"}
