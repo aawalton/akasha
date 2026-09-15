@@ -1111,6 +1111,8 @@
 {"propertySlug":"decision-kind","path":"alan/track/food-entry/properties/plant-grams.number-property.ts","id":"01a065a3-6e8b-7b5a-a3cc-f1016adcd288"}
 {"propertySlug":"decision-kind","path":"alan/track/location-trace/location-trace.page-type.ts","id":"01a06836-795a-76ec-95fa-2b57e5a7dc38"}
 {"propertySlug":"decision-kind","path":"alan/track/modules/landing/track-landing.module.ts","id":"01a072c2-e567-7000-a1b9-3a51eea84ed2"}
+{"propertySlug":"decision-kind","path":"alan/track/rejection/properties/rejected.boolean-property.ts","id":"01a0a69a-f9ee-7fdd-bb05-acc599a0cd9f"}
+{"propertySlug":"decision-kind","path":"alan/track/rejection/rejection.page-type.ts","id":"01a0a69b-59a5-7703-b20b-4bc445481cac"}
 {"propertySlug":"decision-kind","path":"alan/track/session-activity/session-activity.page-type.ts","id":"01a06589-d117-759e-b934-fd346ffba4fd"}
 {"propertySlug":"decision-kind","path":"alan/track/to-do/to-do.page-type.ts","id":"01a065a1-49b4-7e7c-8b95-ed10df98898c"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-capture/tracking-capture.page-type.ts","id":"01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e"}

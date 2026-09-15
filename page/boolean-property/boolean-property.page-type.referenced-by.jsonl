@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/track/daily/day/properties/listens/properties/first-listen.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/track/location-trace/properties/battery-is-charging.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/track/location-trace/properties/is-moving.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/track/rejection/properties/rejected.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-anchored-from-completion.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/fitness-coaching-note-active.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-available.boolean-property.ts"}

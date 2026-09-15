@@ -92,6 +92,7 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"readout-enabled","propertySlug":"enabled","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"reconstructed","propertySlug":"reconstructed","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"recurring","propertySlug":"recurring","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"rejected","propertySlug":"rejected","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"relationship-sms-allowed","propertySlug":"relationship-sms-allowed","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"repeats","propertySlug":"repeats","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"required","propertySlug":"required","fileName":null,"folderName":null,"sorted":false}

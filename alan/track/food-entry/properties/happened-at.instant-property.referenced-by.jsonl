@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"happened-at.instant-property.types.ts","path":"alan/track/food-entry/food-entry.page-type.types.ts"}
+{"propertySlug":"import","fileName":"happened-at.instant-property.types.ts","path":"alan/track/rejection/rejection.page-type.types.ts"}
 {"propertySlug":"page-property","path":"alan/track/food-entry/food-entry.page-type.ts","id":"01a065a3-6e8b-7516-be17-9b2737f11128"}
+{"propertySlug":"page-property","path":"alan/track/rejection/rejection.page-type.ts","id":"01a0a69b-59a5-7703-b20b-4bc445481cac"}
 {"propertySlug":"parts","path":"alan/track/food-entry/food-entry.page-type.ts","id":"01a065a3-6e8b-7516-be17-9b2737f11128"}

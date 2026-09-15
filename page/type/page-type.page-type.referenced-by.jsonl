@@ -122,6 +122,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/daily/day/day.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/food-entry/food-entry.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/location-trace/location-trace.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/rejection/rejection.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/session-activity/session-activity.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/to-do/to-do.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/tracking-capture/tracking-capture.page-type.ts"}

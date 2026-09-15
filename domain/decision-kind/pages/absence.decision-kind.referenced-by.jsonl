@@ -470,6 +470,7 @@
 {"propertySlug":"decision-kind","path":"alan/track/food-entry/food-entry.page-type.ts","id":"01a065a3-6e8b-7516-be17-9b2737f11128"}
 {"propertySlug":"decision-kind","path":"alan/track/location-trace/location-trace.page-type.ts","id":"01a06836-795a-76ec-95fa-2b57e5a7dc38"}
 {"propertySlug":"decision-kind","path":"alan/track/modules/landing/track-landing.module.ts","id":"01a072c2-e567-7000-a1b9-3a51eea84ed2"}
+{"propertySlug":"decision-kind","path":"alan/track/rejection/rejection.page-type.ts","id":"01a0a69b-59a5-7703-b20b-4bc445481cac"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-capture/tracking-capture.page-type.ts","id":"01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-entry/tracking-entry.page-type.ts","id":"01a06827-ec0c-7c96-bc4a-ca5b59f6b38f"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-field/tracking-field.page-type.ts","id":"01a06827-ec0c-79f7-864d-da0cf491975e"}

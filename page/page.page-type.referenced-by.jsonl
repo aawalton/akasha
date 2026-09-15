@@ -51,6 +51,7 @@
 {"propertySlug":"extends-type","path":"alan/track/daily/day/day.page-type.ts","id":"01a05fd8-c30f-72ee-80d9-eb1c179b8359"}
 {"propertySlug":"extends-type","path":"alan/track/food-entry/food-entry.page-type.ts","id":"01a065a3-6e8b-7516-be17-9b2737f11128"}
 {"propertySlug":"extends-type","path":"alan/track/location-trace/location-trace.page-type.ts","id":"01a06836-795a-76ec-95fa-2b57e5a7dc38"}
+{"propertySlug":"extends-type","path":"alan/track/rejection/rejection.page-type.ts","id":"01a0a69b-59a5-7703-b20b-4bc445481cac"}
 {"propertySlug":"extends-type","path":"alan/track/session-activity/session-activity.page-type.ts","id":"01a06589-d117-759e-b934-fd346ffba4fd"}
 {"propertySlug":"extends-type","path":"alan/track/to-do/to-do.page-type.ts","id":"01a065a1-49b4-7e7c-8b95-ed10df98898c"}
 {"propertySlug":"extends-type","path":"alan/track/tracking-entry/tracking-entry.page-type.ts","id":"01a06827-ec0c-7c96-bc4a-ca5b59f6b38f"}
@@ -162,6 +163,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/track/daily/day/day.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/track/food-entry/food-entry.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/track/location-trace/location-trace.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/track/rejection/rejection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/track/session-activity/session-activity.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/track/to-do/to-do.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/track/tracking-entry/tracking-entry.page-type.types.ts"}

@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/style/appearance-experiment/appearance-experiment.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/daily/day/day.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/food-entry/food-entry.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/rejection/rejection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/session-activity/session-activity.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/to-do/to-do.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/value/health/fitness/coaching/coaching-schedule/day/coaching-schedule-day.page-type.types.ts"}
@@ -171,6 +172,7 @@
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.ts","id":"01a05fd8-c30f-72c4-9102-9b3dbc179f51"}
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts","id":"01a05fd8-c30f-799b-aa06-004072744b31"}
 {"propertySlug":"page-property","path":"alan/track/food-entry/food-entry.page-type.ts","id":"01a065a3-6e8b-7516-be17-9b2737f11128"}
+{"propertySlug":"page-property","path":"alan/track/rejection/rejection.page-type.ts","id":"01a0a69b-59a5-7703-b20b-4bc445481cac"}
 {"propertySlug":"page-property","path":"alan/track/session-activity/session-activity.page-type.ts","id":"01a06589-d117-759e-b934-fd346ffba4fd"}
 {"propertySlug":"page-property","path":"alan/track/to-do/to-do.page-type.ts","id":"01a065a1-49b4-7e7c-8b95-ed10df98898c"}
 {"propertySlug":"page-property","path":"alan/value/health/fitness/coaching/coaching-schedule/day/coaching-schedule-day.page-type.ts","id":"01a0657a-e62d-71ab-9830-6a438684618d"}
