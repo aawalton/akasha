@@ -2,7 +2,7 @@ import type { ClosenessLevel } from "akasha/persona/closeness-level/closeness-le
 
 export const level5 = {
   id: "01a0540e-e430-7baf-8725-6920118116c8",
-  type: "closeness-level",
+  type: "page-type/closeness-level",
   slug: "level-5",
   definition: "Full intimacy and trust.",
   level: 5,

@@ -2,7 +2,7 @@ import type { ClosenessLevel } from "akasha/persona/closeness-level/closeness-le
 
 export const level3 = {
   id: "01a0540e-e42f-7e94-8844-b4b1afe8e3d7",
-  type: "closeness-level",
+  type: "page-type/closeness-level",
   slug: "level-3",
   definition: "Relaxed and personal: at home, loungewear, playful, unposed, close-ups.",
   level: 3,
