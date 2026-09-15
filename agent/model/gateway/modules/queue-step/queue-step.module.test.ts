@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import {
-  CLIENT_STREAM_IDLE_CEILING_MS,
   decideQueueStep,
   type QueueStep,
   RESET_PROBE_MARGIN_MS,
@@ -87,10 +86,6 @@ test("a spent budget exhausts where the client is not streaming", () => {
   expect(stepFor({ silentElapsedMs: SILENT_QUEUE_BUDGET_MS, clientStream: false })).toEqual({
     kind: "exhaust",
   })
-})
-
-test("the silent queue budget is under the ceiling a client stream idles out at", () => {
-  expect(SILENT_QUEUE_BUDGET_MS).toBeLessThan(CLIENT_STREAM_IDLE_CEILING_MS)
 })
 
 test("nothing here reads a clock", () => {

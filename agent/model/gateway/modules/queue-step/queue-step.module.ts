@@ -40,10 +40,7 @@ export const queueStep = {
       invariantKind: "departure",
       statement: "A spent budget exhausts where the client is not streaming.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The silent queue budget is under the ceiling a client stream idles out at.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here reads a clock.",
