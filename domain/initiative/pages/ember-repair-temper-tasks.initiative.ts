@@ -8,11 +8,6 @@ export const emberRepairTemperTasks = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "The watcher updates itself to the source revision it is told to run.",
-      workingMemory:
-        "The served target is b8f20f229df857590e8c51accd468fcd3f52be79, which is in neither this checkout nor the 2026-09-02 backup, so the flatten orphaned it and no fetch brings it. The watcher reads its own HEAD right, logging ve3eda7280a at 19:06:36Z. That target is version.txt baked into the watcher image at /build and copied in by temper-web's init container, so it names the commit that image was built at. The run carries on either way, so this is noise rather than an outage.",
-    },
-    {
       statement: "The rules a player automates are pages rather than one JSON blob.",
       workingMemory:
         "All 82 are pages under temper-inventory-rule, and the browser and the watcher read them there. What the pages carry matches the blob's 82 exactly: same ids, same order, same fingerprints, same sell block. The browser writes a changed rule as a page, takes away the page no rule wants, and writes nothing to the blob. The watcher exported 82 rules into 90,683 bytes of Lua, against 216 for an account with none. Left: the CLI, which wants @akasha/pages-access, and the 82 still in the blob.",
