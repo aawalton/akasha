@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const dreamleafDealer = {
   id: "01a0657e-1357-77b8-a037-9de9f61459b7",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "dreamleaf-dealer",
   title: "Dreamleaf Dealer",
   world: "world/the-wandering-inn",

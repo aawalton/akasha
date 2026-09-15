@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const dishwasher = {
   id: "01a0657e-1353-7a35-a988-293fb4f2640f",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "dishwasher",
   title: "Dishwasher",
   world: "world/the-wandering-inn",

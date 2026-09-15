@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const djinnSLegacySeeker = {
   id: "01a0657e-1354-7e40-9421-d3552c7e56ab",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "djinn-s-legacy-seeker",
   title: "Djinn’s Legacy Seeker",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const dukeOfSupremeSorcery = {
   id: "01a0657e-1358-7a7b-a40f-f440f2b2c5ba",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "duke-of-supreme-sorcery",
   title: "Duke of Supreme Sorcery",
   world: "world/the-wandering-inn",

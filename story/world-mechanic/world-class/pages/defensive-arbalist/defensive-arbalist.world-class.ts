@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const defensiveArbalist = {
   id: "01a0657e-01cf-7171-8761-6063e605d03d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "defensive-arbalist",
   title: "Defensive Arbalist",
   world: "world/the-wandering-inn",

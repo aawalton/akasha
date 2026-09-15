@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const eliteGuard = {
   id: "01a0657e-01d6-7341-8dfd-b566e7552fb2",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "elite-guard",
   title: "Elite Guard",
   world: "world/the-wandering-inn",
