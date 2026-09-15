@@ -161,6 +161,14 @@ export const checking = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "The files and index a change leaves are worked out before any check runs.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "No check is charged the working out every check at that landing reads.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A shadow that could not be worked out refuses the change before any check runs.",
     },
     {

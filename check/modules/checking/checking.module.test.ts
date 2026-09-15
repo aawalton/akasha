@@ -56,6 +56,7 @@ import {
   taking,
   UNLOADABLE_CHECK,
   untaken,
+  unworked,
   WHOLE_TREE_CHECKS_TAKE,
 } from "akasha/check/modules/checking/checking.module.test-fixtures.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -225,9 +226,10 @@ test("a check handed no root is run over the change though an audit sits beside 
   expect(said.map((one) => one.reason)).toEqual(["refused"])
 })
 
-test("one shadow is cast over the change and handed to every check that runs", async () => {
+test("one shadow is worked out before any check runs and handed to every check", async () => {
   const said = await judgedIn(SHADOW_CHECK, [ONE_TS], [ONE_TS])
   expect(said).toEqual([])
+  expect(await unworked()).toContain("could not be worked out")
 })
 
 test("a check no changed path is input to does not run", async () => {

@@ -1,3 +1,4 @@
+import { expect } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
@@ -425,6 +426,30 @@ export async function judgedAsleep(): Promise<Asleep> {
     said.push([one.slug, await one.run(sleeping.change, sleeping.shadow)])
   }
   return said
+}
+
+export async function unworked(): Promise<string> {
+  const root = rootHolding(ADMITS_CHECK, [ONE_TS])
+  let ran = false
+  const one: Gathered = {
+    ...GATHERED,
+    root,
+    run: () => {
+      ran = true
+      return []
+    },
+  }
+  const said = await judgingBy([one], "change").over({
+    root,
+    changed: [ONE_TS],
+    after: () => new Uint8Array(),
+    before: () => {
+      throw new Error("no body there")
+    },
+  })
+  expect(ran).toBe(false)
+  expect(said.map((two) => two.path)).toEqual([one.page])
+  return said[0]?.reason ?? ""
 }
 
 export function checksTakenFrom(root: string): undefined {

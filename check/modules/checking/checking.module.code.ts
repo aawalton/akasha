@@ -35,7 +35,11 @@ import {
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { type Shadow, shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import {
+  type Shadow,
+  shadowAsked,
+  shadowFor,
+} from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export type Phase = "change" | "deploy" | "audit"
@@ -369,6 +373,10 @@ export function judgingBy(
         return [{ path: first.page, reason: TAKES_EVERY_CHECK }]
       }
       const shadow = shadowAsked(change)
+      const cast = shadowFor(change)
+      if ("refused" in cast && first !== undefined) {
+        return [{ path: first.page, reason: cast.refused, threw: true }]
+      }
       const running = checksFor(left, change, shadow)
       if (running.length === 0 && first !== undefined && wholly === null) {
         return [{ path: first.page, reason: NONE_TAKES }]
