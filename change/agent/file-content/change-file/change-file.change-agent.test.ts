@@ -1,31 +1,19 @@
 import { expect, test } from "bun:test"
-import { existsSync } from "node:fs"
-import { join } from "node:path"
 import { changeFileCommand } from "akasha/change/agent/file-content/change-file/change-file.change-agent.code.ts"
 import { replayed } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
-import {
-  NOTHING_OVER,
-  type World,
-  worldAt,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
-import {
-  groupAt,
-  groupsIn,
-} from "akasha/code/module-property-group/modules/group-writing/group-writing.module.code.ts"
-import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
-import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-
-const ROOT = codeRoot()
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const AT = "akasha/one.held.ts"
 
-function worldOf(held: Readonly<Record<string, string>>): World {
+const NO_PAGES = { pageTypesIn: () => new Set<string>() } as never
+
+function worldOf(held: Readonly<Record<string, string>>, index: World["index"] = NO_PAGES): World {
   return {
     root: "/nowhere",
-    index: { pageTypesIn: () => new Set<string>() } as never,
+    index,
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
     under: () => [],
@@ -119,64 +107,57 @@ test("a passage whose fence closed with no-newline loses no second character", a
   expect(landedIn(held, said)).toBe("export const one = { a: 9, b: 2 }\n")
 })
 
-type Pair = { readonly written: string; readonly beside: string }
+const PAGE = "akasha/one.held-settings.ts"
 
-const REPO = worldAt(ROOT, () => null, running)
+const WRITTEN = "akasha/one.held-settings.harness-settings.json"
 
-function firstPair(): Pair | null {
-  const index = REPO.index
-  const reading = readingIn(ROOT)
-  for (const group of groupsIn(index)) {
-    for (const pageTypeSlug of group.pageTypeSlugs) {
-      for (const listed of index.everyOfType(pageTypeSlug)) {
-        const value = index.pageByPath(listed.path)
-        if (value === null) continue
-        const beside = groupAt(listed.path, group.slug)
-        if (beside === null) continue
-        if (!existsSync(join(ROOT, beside))) continue
-        const page = { path: listed.path, value }
-        try {
-          return { written: fileOf(reading, page, pageTypeSlug, group.propertySlug), beside }
-        } catch {}
-      }
-    }
-  }
-  return null
-}
+const BESIDE = "akasha/one.held-settings.telling.code.ts"
 
-const PAIR = firstPair() as Pair
+const PROPERTY = "akasha/harness-settings.file-property.ts"
 
-function repoWorld(held: Readonly<Record<string, string>>): World {
-  return {
-    ...REPO,
-    textOf: (path) => held[path] ?? null,
-    bodyOf: (path) => held[path] ?? null,
-    base: (path) => held[path] ?? null,
-  }
-}
+const GROUP = "akasha/telling.module-property-group.ts"
+
+const SAYING: ReadonlyMap<string, Value> = new Map([
+  [PROPERTY, { propertySlug: "harness-settings", writtenBy: "module-property-group/telling" }],
+  [GROUP, { slug: "telling", propertySlug: "telling" }],
+])
+
+const GROUPS = {
+  pageTypesIn: () => new Set<string>(),
+  kindsUnder: (of: string) => (of === "file-property" ? ["file-property"] : []),
+  everyOfType: (kind: string) => {
+    if (kind === "file-property") return [{ path: PROPERTY }]
+    if (kind === "module-property-group") return [{ path: GROUP }]
+    return []
+  },
+  pageByPath: (path: string) => SAYING.get(path) ?? null,
+  carryingOf: (named: string) =>
+    named === "file-property/harness-settings"
+      ? { carrying: [{ pageTypeSlug: "held-settings", path: PAGE, id: "held", within: null }] }
+      : { refused: "no page property carries the slug" },
+} as never
 
 test("a passage on a file a group writes is refused rather than dropped", async () => {
-  const said = await changeFileCommand(repoWorld({ [PAIR.beside]: "one two\n" }), {
-    at: PAIR.written,
+  const said = await changeFileCommand(worldOf({ [BESIDE]: "one two\n" }, GROUPS), {
+    at: WRITTEN,
     old: "two",
     new: "four",
   })
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain(PAIR.beside)
+  expect(said.refused ?? "").toContain(BESIDE)
   expect(said.refused ?? "").toContain("bodyIn")
 })
 
 test("a passage on the code a group writes from is edited as any other body is", async () => {
-  const held = { [PAIR.beside]: "one two\n" }
-  const said = await changeFileCommand(repoWorld(held), {
-    at: PAIR.beside,
+  const said = await changeFileCommand(worldOf({ [BESIDE]: "one two\n" }, GROUPS), {
+    at: BESIDE,
     old: "two",
     new: "four",
   })
 
   expect(said.refused).toBeNull()
   expect(said.edits).toEqual([
-    { kind: "replace", path: PAIR.beside, contentFrom: "two", contentTo: "four" },
+    { kind: "replace", path: BESIDE, contentFrom: "two", contentTo: "four" },
   ])
 })
