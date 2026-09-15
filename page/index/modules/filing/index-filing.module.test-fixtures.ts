@@ -1,8 +1,8 @@
 import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexShapes } from "akasha/page/index/shapes/index-shapes.index.ts"
 
 const ENDING = ".jsonl"

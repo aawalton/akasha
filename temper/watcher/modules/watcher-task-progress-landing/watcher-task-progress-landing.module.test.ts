@@ -51,8 +51,7 @@ const CHARACTER_PAGE =
 const CHARACTER_COMPLETION =
   "temper/character/temper-account-character/pages/durene/durene.temper-account-character.completion.json"
 
-const ACCOUNT_PAGE =
-  "temper/character/temper-account/pages/an-account/an-account.temper-account.ts"
+const ACCOUNT_PAGE = "temper/character/temper-account/pages/an-account/an-account.temper-account.ts"
 
 const ACCOUNT_COMPLETION =
   "temper/character/temper-account/pages/an-account/an-account.temper-account.completion.json"

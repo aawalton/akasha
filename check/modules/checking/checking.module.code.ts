@@ -19,8 +19,8 @@ import type {
   Judging,
 } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
-  type Judgement,
   checkModelsIn,
+  type Judgement,
 } from "akasha/check/modules/model-running/model-running.module.code.ts"
 import {
   diesIn,
