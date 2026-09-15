@@ -9,7 +9,7 @@ export type WorkloadClass =
   | "ci"
   | "eso-rig"
 
-export const WORKLOAD_CLASS_KEY = "alanwalton.com/workload-class" as const
+const WORKLOAD_CLASS_KEY = "alanwalton.com/workload-class" as const
 
 export function capabilitySelector(workloadClass: WorkloadClass): {
   readonly "alanwalton.com/workload-class": WorkloadClass

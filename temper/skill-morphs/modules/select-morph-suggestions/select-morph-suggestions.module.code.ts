@@ -71,7 +71,7 @@ export interface MorphSuggestionResult {
   isComplete: boolean
 }
 
-export function pickRelevantSkillLineIds(input: PickRelevantSkillLineIdsInput): readonly number[] {
+function pickRelevantSkillLineIds(input: PickRelevantSkillLineIdsInput): readonly number[] {
   const path = input.taskItemPath
   if (path !== undefined && path.length > 0) {
     return [Number(path[0])]

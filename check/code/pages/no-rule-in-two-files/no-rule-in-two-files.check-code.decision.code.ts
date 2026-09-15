@@ -111,7 +111,7 @@ export function reasonsIn(path: string, text: string, every: Saying): readonly s
   return said
 }
 
-export function refusingBy(change: Change, every: Saying): readonly Judged[] {
+function refusingBy(change: Change, every: Saying): readonly Judged[] {
   return overEachFile(change, (given) => {
     if (!textNamed(given.path)) return []
     return reasonsIn(given.path, bodyOf(given), every)

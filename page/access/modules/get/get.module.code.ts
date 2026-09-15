@@ -25,7 +25,7 @@ export type GetPageArgs = {
   select?: PageSelect
 }
 
-export function unfiledWhy(op: string, pageTypeSlug: string): string {
+function unfiledWhy(op: string, pageTypeSlug: string): string {
   return `${op}(${pageTypeSlug}): the page types \`@akasha/page-service\` lists are the page types whose pages it holds as files, and \`${pageTypeSlug}\` is not one of them. Ask for a page type it lists, or give \`${pageTypeSlug}\` a \`page-type\` page of its own.`
 }
 
@@ -117,7 +117,7 @@ const DEFAULT_LIMIT = 1000
 
 export type GetPagesQuery = Omit<GetPagesArgs, "pageTypeSlug"> & { pageTypeSlug?: string }
 
-export function shapelessWhy(pageTypeSlug: string): string {
+function shapelessWhy(pageTypeSlug: string): string {
   return `${pageTypeSlug} is file-backed but nothing states its id, so its pages cannot be read. Give the \`${pageTypeSlug}\` page type an \`id:\`.`
 }
 

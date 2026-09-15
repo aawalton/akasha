@@ -64,11 +64,11 @@ const ChapterProseHistorySchema = z.enum(CHAPTER_PROSE_HISTORY_SCOPES)
 export type ChapterProseHistory = z.infer<typeof ChapterProseHistorySchema>
 
 const CHAPTER_PROSE_TITLES = ["shown", "hidden"] as const
-export const ChapterProseTitlesSchema = z.enum(CHAPTER_PROSE_TITLES)
+const ChapterProseTitlesSchema = z.enum(CHAPTER_PROSE_TITLES)
 export type ChapterProseTitles = z.infer<typeof ChapterProseTitlesSchema>
 
 const CHAPTER_PROSE_PAST_TURNS = ["plain", "muted"] as const
-export const ChapterProsePastTurnsSchema = z.enum(CHAPTER_PROSE_PAST_TURNS)
+const ChapterProsePastTurnsSchema = z.enum(CHAPTER_PROSE_PAST_TURNS)
 export type ChapterProsePastTurns = z.infer<typeof ChapterProsePastTurnsSchema>
 
 export const GameDisplayModulesSchema = z

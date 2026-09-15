@@ -20,7 +20,7 @@ const KEYCHAIN_PASSWORD_ENV = "MACBOOK_KEYCHAIN_PASSWORD"
 
 export const KEYCHAIN_PASSWORD_SSH_ENV = "LC_MACBOOK_KEYCHAIN_PASSWORD"
 
-export const MAC_PATH_PREFIX = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
+const MAC_PATH_PREFIX = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
 
 const MAC_ENSURE_BUN = [
   "if ! command -v bun >/dev/null 2>&1; then",
@@ -68,7 +68,7 @@ const APP_VALUE_ENV: readonly (readonly [string, (app: MobileApp) => string | nu
   ],
 ]
 
-export function appValueExports(app: MobileApp): readonly string[] {
+function appValueExports(app: MobileApp): readonly string[] {
   return APP_VALUE_ENV.flatMap(([name, read]) => {
     const value = read(app)
     return value === null ? [] : [`export ${name}=${quoted(value)}`]

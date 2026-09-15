@@ -60,7 +60,7 @@ export function keepWhole(at: string, lines: readonly string[], root: string): u
   renameSync(near, at)
 }
 
-export function linesLaid(was: string | null, one: Filing): readonly string[] {
+function linesLaid(was: string | null, one: Filing): readonly string[] {
   const gone = new Set(one.went)
   const coming = new Set(one.came)
   const said: string[] = []

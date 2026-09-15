@@ -22,7 +22,7 @@ export function objectIn(given: unknown): Record<string, unknown> | null {
   return given as Record<string, unknown>
 }
 
-export function stringsIn(given: unknown): readonly string[] | null {
+function stringsIn(given: unknown): readonly string[] | null {
   if (!Array.isArray(given)) return null
   return given.every((one) => typeof one === "string") ? (given as readonly string[]) : null
 }

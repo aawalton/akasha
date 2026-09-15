@@ -38,7 +38,7 @@ export function bodyFor(change: Change, at: string): string | null {
   return changedIn(change).has(at) ? textOf(change.after(at)) : null
 }
 
-export function bodiesIn(change: Change): ReadonlyMap<string, string> {
+function bodiesIn(change: Change): ReadonlyMap<string, string> {
   const found = BODIES.get(change)
   if (found !== undefined) return found
   const made = new Map<string, string>()

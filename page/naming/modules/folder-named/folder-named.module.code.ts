@@ -20,7 +20,7 @@ export function strippedOf(named: string, above: readonly string[]): string | nu
   return strippedOf(named.slice(one.length + 1), above)
 }
 
-export function namingIn(files: readonly string[]): string | null {
+function namingIn(files: readonly string[]): string | null {
   for (const one of files) {
     const said = partedIn(one)
     if (said === null || said.sections.length > 0) continue
@@ -45,7 +45,7 @@ export function namesAbove(
   return []
 }
 
-export function underFolders(paths: readonly string[], from: string): readonly string[] {
+function underFolders(paths: readonly string[], from: string): readonly string[] {
   const found = new Set<string>()
   for (const path of paths) {
     let at = dirname(path)

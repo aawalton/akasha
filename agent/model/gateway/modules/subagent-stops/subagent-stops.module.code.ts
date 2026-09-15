@@ -39,7 +39,7 @@ function subagentPagesIn(root: string): readonly string[] {
   return everyOfType(root, SUBAGENT).map((one) => one.path)
 }
 
-export function throughRefresh(work: () => undefined): undefined {
+function throughRefresh(work: () => undefined): undefined {
   try {
     work()
   } catch (thrown) {

@@ -130,7 +130,7 @@ export function folderFor(pageTypeSlug: string, slug: string): string {
   return slug
 }
 
-export function namedForTheType(named: string, typed: string): boolean {
+function namedForTheType(named: string, typed: string): boolean {
   if (named === "") return false
   return named === typed || typed.endsWith(`-${named}`)
 }
