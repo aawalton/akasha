@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftOneWayTicketBecauseICan = {
   id: "019ea416-304d-7a6b-b3b8-2989cc393d69",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-one-way-ticket-because-i-can",
   title: "One Way Ticket (Because I Can)",
   artist: "artist/taylor-swift",

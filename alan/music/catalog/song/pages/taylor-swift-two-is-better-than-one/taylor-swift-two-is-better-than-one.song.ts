@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTwoIsBetterThanOne = {
   id: "019ea416-4505-790f-a1c7-8bf115744da6",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-two-is-better-than-one",
   title: "Two Is Better Than One",
   artist: "artist/taylor-swift",

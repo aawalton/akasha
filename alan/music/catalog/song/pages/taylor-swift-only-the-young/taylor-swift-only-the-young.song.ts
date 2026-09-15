@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftOnlyTheYoung = {
   id: "019ea416-381f-7725-a4e3-f9c7662ee2fb",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-only-the-young",
   title: "Only the Young",
   artist: "artist/taylor-swift",

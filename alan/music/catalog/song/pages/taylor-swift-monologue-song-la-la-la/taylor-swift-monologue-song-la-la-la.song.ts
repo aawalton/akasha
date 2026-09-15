@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftMonologueSongLaLaLa = {
   id: "019ea416-2eb2-7126-a42b-c7f59d731dd0",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-monologue-song-la-la-la",
   title: "Monologue Song (La La La)",
   artist: "artist/taylor-swift",

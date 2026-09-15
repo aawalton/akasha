@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftYouBelongWithMe = {
   id: "019ea416-456d-79b3-9f81-296b185f8212",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-you-belong-with-me",
   title: "You Belong with Me",
   artist: "artist/taylor-swift",

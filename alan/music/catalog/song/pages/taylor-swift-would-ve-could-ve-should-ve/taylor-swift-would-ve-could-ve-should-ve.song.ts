@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftWouldVeCouldVeShouldVe = {
   id: "019ea416-4a0e-765b-a282-841cd8c54ee7",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-would-ve-could-ve-should-ve",
   title: "Would’ve, Could’ve, Should’ve",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSnowOnTheBeach = {
   id: "019ea416-3dbf-74cb-bb79-4554c17aa1a3",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-snow-on-the-beach",
   title: "Snow on the Beach",
   artist: "artist/taylor-swift",

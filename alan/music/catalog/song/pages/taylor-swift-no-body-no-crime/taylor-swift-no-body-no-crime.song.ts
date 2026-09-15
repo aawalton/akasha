@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftNoBodyNoCrime = {
   id: "019ea416-2f19-75d4-95f9-3807d3358a72",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-no-body-no-crime",
   title: "no body, no crime",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftShakeItOff = {
   id: "019ea416-3564-7a0c-93c0-8d74d5703c1a",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-shake-it-off",
   title: "Shake It Off",
   artist: "artist/taylor-swift",

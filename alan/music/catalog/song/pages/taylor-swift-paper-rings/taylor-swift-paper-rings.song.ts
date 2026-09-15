@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftPaperRings = {
   id: "019ea416-341d-7fcf-99d5-b4ff53af99ee",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-paper-rings",
   title: "Paper Rings",
   artist: "artist/taylor-swift",

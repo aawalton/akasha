@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSmokeyBlackNights = {
   id: "019ea416-4019-74f2-8c58-c7dc1548cc60",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-smokey-black-nights",
   title: "Smokey Black Nights",
   artist: "artist/taylor-swift",

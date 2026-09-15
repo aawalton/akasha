@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftStateOfGrace = {
   id: "019ea416-362e-72fa-9d0b-c2096a0f4f15",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-state-of-grace",
   title: "State of Grace",
   artist: "artist/taylor-swift",

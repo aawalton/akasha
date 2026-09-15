@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheJokerAndTheQueen = {
   id: "019ea416-3ec2-7c2b-88e6-4ee9e073ceae",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-joker-and-the-queen",
   title: "The Joker and the Queen",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftYouAreInLove = {
   id: "019ea416-49a5-7cca-97c4-a0c26e8d659e",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-you-are-in-love",
   title: "You Are in Love",
   artist: "artist/taylor-swift",

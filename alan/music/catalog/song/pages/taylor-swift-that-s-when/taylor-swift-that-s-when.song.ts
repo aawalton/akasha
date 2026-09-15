@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftThatSWhen = {
   id: "019ea416-3082-77f0-9191-dc39751300c1",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-that-s-when",
   title: "That’s When",
   artist: "artist/taylor-swift",

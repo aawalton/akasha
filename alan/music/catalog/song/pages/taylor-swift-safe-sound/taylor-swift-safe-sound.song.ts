@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSafeSound = {
   id: "019ea416-35c9-76aa-9dfc-56f943ccfb37",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-safe-sound",
   title: "Safe & Sound",
   artist: "artist/taylor-swift",

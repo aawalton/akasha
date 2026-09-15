@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftNewYearSDay = {
   id: "019ea416-37b9-7acb-a052-1fdfeef99cb9",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-new-year-s-day",
   title: "New Year’s Day",
   artist: "artist/taylor-swift",

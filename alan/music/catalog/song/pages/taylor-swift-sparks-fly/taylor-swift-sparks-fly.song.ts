@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSparksFly = {
   id: "019ea416-2f4c-7375-9f97-4cf14a9f8378",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-sparks-fly",
   title: "Sparks Fly",
   artist: "artist/taylor-swift",

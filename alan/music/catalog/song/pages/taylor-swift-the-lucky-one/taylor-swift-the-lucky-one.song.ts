@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheLuckyOne = {
   id: "019ea416-3918-785a-bb62-5d132a77ab2b",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-lucky-one",
   title: "The Lucky One",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTisTheDamnSeason = {
   id: "019ea416-1087-7d53-be98-2db273b522f7",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-tis-the-damn-season",
   title: "‘tis the damn season",
   artist: "artist/taylor-swift",

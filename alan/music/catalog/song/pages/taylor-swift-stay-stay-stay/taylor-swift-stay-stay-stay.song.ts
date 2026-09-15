@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftStayStayStay = {
   id: "019ea416-3b45-774e-b4d8-a1eedc20ea06",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-stay-stay-stay",
   title: "Stay Stay Stay",
   artist: "artist/taylor-swift",

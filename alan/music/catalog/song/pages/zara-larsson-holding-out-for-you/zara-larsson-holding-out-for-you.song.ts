@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonHoldingOutForYou = {
   id: "019ea49d-f146-7dbd-931c-7744cdb83d94",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-holding-out-for-you",
   title: "Holding Out for You",
   artist: "artist/zara-larsson",

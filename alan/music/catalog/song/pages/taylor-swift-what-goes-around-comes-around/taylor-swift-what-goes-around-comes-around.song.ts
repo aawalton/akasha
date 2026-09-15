@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftWhatGoesAroundComesAround = {
   id: "019ea416-4adc-72c1-9c9d-8401748dac68",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-what-goes-around-comes-around",
   title: "What Goes Around... ...Comes Around",
   artist: "artist/taylor-swift",

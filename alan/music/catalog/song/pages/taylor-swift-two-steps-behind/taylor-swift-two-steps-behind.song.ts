@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTwoStepsBehind = {
   id: "019ea416-4b76-7644-9d58-0fde6820ecaf",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-two-steps-behind",
   title: "Two Steps Behind",
   artist: "artist/taylor-swift",

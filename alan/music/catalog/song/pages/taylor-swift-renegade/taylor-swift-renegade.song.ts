@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftRenegade = {
   id: "019ea416-32e9-7f35-843d-a54425580058",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-renegade",
   title: "Renegade",
   artist: "artist/taylor-swift",

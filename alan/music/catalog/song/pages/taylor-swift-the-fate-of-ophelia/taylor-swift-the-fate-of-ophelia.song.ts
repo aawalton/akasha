@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheFateOfOphelia = {
   id: "019ea416-2da5-7dd3-b9ac-dc60676e5d68",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-fate-of-ophelia",
   title: "The Fate of Ophelia",
   artist: "artist/taylor-swift",

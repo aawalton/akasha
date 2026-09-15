@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftOutOfTheWoods = {
   id: "019ea416-2fb4-74ae-b45f-d0c33c04a27a",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-out-of-the-woods",
   title: "Out of the Woods",
   artist: "artist/taylor-swift",

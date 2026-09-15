@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftWhenLoveAndHateCollide = {
   id: "019ea416-43b9-7750-8af4-af43a01a11f9",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-when-love-and-hate-collide",
   title: "When Love and Hate Collide",
   artist: "artist/taylor-swift",

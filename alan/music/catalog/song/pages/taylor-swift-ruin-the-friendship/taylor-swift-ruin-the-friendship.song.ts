@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftRuinTheFriendship = {
   id: "019ea416-34ed-712f-a34c-0d28b8a29929",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-ruin-the-friendship",
   title: "Ruin the Friendship",
   artist: "artist/taylor-swift",

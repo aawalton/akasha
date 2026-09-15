@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTimeless = {
   id: "019ea416-47de-7d35-8ae7-9bf40ac2a930",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-timeless",
   title: "Timeless",
   artist: "artist/taylor-swift",

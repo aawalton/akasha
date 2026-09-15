@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftWhoSAfraidOfLittleOldMe = {
   id: "019ea416-4ba9-78fe-8ff8-d52b1dd86cee",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-who-s-afraid-of-little-old-me",
   title: "Who’s Afraid of Little Old Me?",
   artist: "artist/taylor-swift",

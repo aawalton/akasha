@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftMastermind = {
   id: "019ea416-2526-7682-b105-33902152c3f5",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-mastermind",
   title: "Mastermind",
   artist: "artist/taylor-swift",

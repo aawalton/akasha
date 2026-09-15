@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonCanTHoldBack = {
   id: "019ea4a0-511a-73fb-8008-a4597188f4a9",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-can-t-hold-back",
   title: "Can’t Hold Back",
   artist: "artist/zara-larsson",

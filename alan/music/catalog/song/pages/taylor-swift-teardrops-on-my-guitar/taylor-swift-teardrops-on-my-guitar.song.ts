@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTeardropsOnMyGuitar = {
   id: "019ea416-3c16-7a6c-b6c7-9ad3a1890251",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-teardrops-on-my-guitar",
   title: "Teardrops on My Guitar",
   artist: "artist/taylor-swift",

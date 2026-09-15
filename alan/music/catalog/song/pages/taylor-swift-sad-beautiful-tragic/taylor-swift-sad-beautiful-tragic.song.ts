@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSadBeautifulTragic = {
   id: "019ea416-35fd-77e8-9bb7-d0893c360454",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-sad-beautiful-tragic",
   title: "Sad Beautiful Tragic",
   artist: "artist/taylor-swift",

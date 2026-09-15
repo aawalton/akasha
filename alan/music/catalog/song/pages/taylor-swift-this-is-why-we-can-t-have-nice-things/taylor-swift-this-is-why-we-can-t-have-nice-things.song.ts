@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftThisIsWhyWeCanTHaveNiceThings = {
   id: "019ea416-45f4-7c7d-8f6f-aed1b20f2e1d",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-this-is-why-we-can-t-have-nice-things",
   title: "This Is Why We Can’t Have Nice Things",
   artist: "artist/taylor-swift",

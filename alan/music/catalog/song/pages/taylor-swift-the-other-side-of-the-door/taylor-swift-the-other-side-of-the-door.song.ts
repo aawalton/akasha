@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheOtherSideOfTheDoor = {
   id: "019ea416-36ea-79a9-8043-d04c6623071c",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-other-side-of-the-door",
   title: "The Other Side of the Door",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftPictureToBurn = {
   id: "019ea416-4220-7363-ba25-a8e40f30feb0",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-picture-to-burn",
   title: "Picture to Burn",
   artist: "artist/taylor-swift",

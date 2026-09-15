@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftYouNeedToCalmDown = {
   id: "019ea416-4811-70d3-88da-cd8a136d2ba5",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-you-need-to-calm-down",
   title: "You Need to Calm Down",
   artist: "artist/taylor-swift",

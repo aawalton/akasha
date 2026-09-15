@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftWhiteBlankPage = {
   id: "019ea416-4627-7c2f-8c8b-a96936c46f3f",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-white-blank-page",
   title: "White Blank Page",
   artist: "artist/taylor-swift",

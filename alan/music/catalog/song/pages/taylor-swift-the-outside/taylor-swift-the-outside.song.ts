@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheOutside = {
   id: "019ea416-3c4a-7bd5-8411-77eabb485d6e",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-outside",
   title: "The Outside",
   artist: "artist/taylor-swift",

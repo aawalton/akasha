@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSoItGoes = {
   id: "019ea416-2ee6-7aae-9a43-6400034989e2",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-so-it-goes",
   title: "So It Goes…",
   artist: "artist/taylor-swift",

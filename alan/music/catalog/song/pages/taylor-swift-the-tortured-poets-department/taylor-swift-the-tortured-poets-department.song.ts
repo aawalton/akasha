@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheTorturedPoetsDepartment = {
   id: "019ea416-3883-78e4-89f1-f3a9cb402ee5",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-tortured-poets-department",
   title: "The Tortured Poets Department",
   artist: "artist/taylor-swift",

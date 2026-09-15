@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonEndOfTime = {
   id: "019ea4a0-daf0-786e-80eb-00b0b3504b7a",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-end-of-time",
   title: "End of Time",
   artist: "artist/zara-larsson",

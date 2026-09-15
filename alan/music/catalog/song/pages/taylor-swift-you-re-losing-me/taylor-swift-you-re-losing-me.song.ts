@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftYouReLosingMe = {
   id: "019ea416-468f-7909-9f63-6527a5a40cfa",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-you-re-losing-me",
   title: "You’re Losing Me",
   artist: "artist/taylor-swift",

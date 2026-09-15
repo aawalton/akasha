@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftWelcomeToNewYork = {
   id: "019ea416-4aaa-70c8-bebb-c4af64a7e7c6",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-welcome-to-new-york",
   title: "Welcome to New York",
   artist: "artist/taylor-swift",

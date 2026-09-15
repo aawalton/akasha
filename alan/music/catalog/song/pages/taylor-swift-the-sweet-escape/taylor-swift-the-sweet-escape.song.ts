@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheSweetEscape = {
   id: "019ea416-3752-7d77-a0f9-492e87ebf6e3",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-sweet-escape",
   title: "The Sweet Escape",
   artist: "artist/taylor-swift",

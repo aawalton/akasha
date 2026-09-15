@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonMaryDidYouKnow = {
   id: "019ea49d-e4e5-7e70-85fa-0d044c11a2ad",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-mary-did-you-know",
   title: "Mary, Did You Know?",
   artist: "artist/zara-larsson",

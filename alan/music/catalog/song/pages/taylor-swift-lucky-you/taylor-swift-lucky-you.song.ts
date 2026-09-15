@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftLuckyYou = {
   id: "019ea416-1f7d-7c02-8a05-dcd65e96805a",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-lucky-you",
   title: "Lucky You",
   artist: "artist/taylor-swift",

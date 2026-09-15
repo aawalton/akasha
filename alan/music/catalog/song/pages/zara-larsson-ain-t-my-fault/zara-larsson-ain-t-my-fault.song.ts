@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonAinTMyFault = {
   id: "019ea4a1-b4e2-7a30-8d95-8315a02d0909",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-ain-t-my-fault",
   title: "Ain’t My Fault",
   artist: "artist/zara-larsson",

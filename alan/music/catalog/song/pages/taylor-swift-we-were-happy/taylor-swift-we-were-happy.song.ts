@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftWeWereHappy = {
   id: "019ea416-475d-7259-99e7-9dab7f73769d",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-we-were-happy",
   title: "We Were Happy",
   artist: "artist/taylor-swift",

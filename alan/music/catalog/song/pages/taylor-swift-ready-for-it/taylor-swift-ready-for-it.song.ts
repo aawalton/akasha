@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftReadyForIt = {
   id: "019ea416-16e1-7053-91cd-b90df8ccc980",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-ready-for-it",
   title: "…Ready for It?",
   artist: "artist/taylor-swift",

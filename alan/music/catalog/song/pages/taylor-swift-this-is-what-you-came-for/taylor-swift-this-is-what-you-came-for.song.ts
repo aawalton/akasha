@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftThisIsWhatYouCameFor = {
   id: "019ea416-42bb-7092-b39f-980eef6735e8",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-this-is-what-you-came-for",
   title: "This Is What You Came For",
   artist: "artist/taylor-swift",

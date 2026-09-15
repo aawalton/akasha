@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheBlackDog = {
   id: "019ea416-3597-7445-b8d5-95a65138af9f",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-black-dog",
   title: "The Black Dog",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftMazelTov = {
   id: "019ea416-1d46-77fe-b488-08966668b364",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-mazel-tov",
   title: "Mazel Tov",
   artist: "artist/taylor-swift",

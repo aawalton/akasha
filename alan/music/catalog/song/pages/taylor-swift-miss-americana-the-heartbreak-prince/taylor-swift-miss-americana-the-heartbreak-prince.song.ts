@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftMissAmericanaTheHeartbreakPrince = {
   id: "019ea416-3284-7cd7-886e-e16e91e0d981",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-miss-americana-the-heartbreak-prince",
   title: "Miss Americana & the Heartbreak Prince",
   artist: "artist/taylor-swift",

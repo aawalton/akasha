@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftOpalite = {
   id: "019ea416-3f9b-7a30-9e96-f40b6ec05f9a",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-opalite",
   title: "Opalite",
   artist: "artist/taylor-swift",

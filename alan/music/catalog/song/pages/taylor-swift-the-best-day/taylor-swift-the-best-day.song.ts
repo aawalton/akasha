@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheBestDay = {
   id: "019ea416-40e9-7a5b-9a00-31dd37cbf3b3",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-best-day",
   title: "The Best Day",
   artist: "artist/taylor-swift",

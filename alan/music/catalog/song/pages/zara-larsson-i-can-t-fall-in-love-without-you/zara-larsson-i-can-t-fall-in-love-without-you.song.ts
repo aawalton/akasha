@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonICanTFallInLoveWithoutYou = {
   id: "019ea4a1-2c05-7fc6-8bac-b340fbe055cc",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-i-can-t-fall-in-love-without-you",
   title: "I Can’t Fall in Love Without You",
   artist: "artist/zara-larsson",

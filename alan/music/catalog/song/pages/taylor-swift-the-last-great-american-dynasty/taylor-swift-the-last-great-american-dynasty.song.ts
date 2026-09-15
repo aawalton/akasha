@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheLastGreatAmericanDynasty = {
   id: "019ea416-3e8d-7e80-9bc9-08acdc0d5473",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-last-great-american-dynasty",
   title: "the last great american dynasty",
   artist: "artist/taylor-swift",

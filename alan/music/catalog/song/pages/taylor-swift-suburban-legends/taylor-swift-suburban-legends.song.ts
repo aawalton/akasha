@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSuburbanLegends = {
   id: "019ea416-2e4e-7afa-bd2e-b60bf602fec7",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-suburban-legends",
   title: "Suburban Legends",
   artist: "artist/taylor-swift",

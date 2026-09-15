@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheMomentIKnew = {
   id: "019ea416-36b0-7e08-9dc6-37e339d1fa0c",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-moment-i-knew",
   title: "The Moment I Knew",
   artist: "artist/taylor-swift",

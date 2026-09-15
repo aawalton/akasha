@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSoonYouLlGetBetter = {
   id: "019ea416-37ed-76c1-b766-cba8308cef95",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-soon-you-ll-get-better",
   title: "Soon You’ll Get Better",
   artist: "artist/taylor-swift",

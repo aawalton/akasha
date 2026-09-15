@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftPhotograph = {
   id: "019ea416-371c-73ed-b723-15a5f81e6f27",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-photograph",
   title: "Photograph",
   artist: "artist/taylor-swift",

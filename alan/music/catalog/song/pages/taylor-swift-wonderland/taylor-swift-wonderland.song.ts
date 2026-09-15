@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftWonderland = {
   id: "019ea416-4bdd-78c2-8fda-8a0c4dc52a45",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-wonderland",
   title: "Wonderland",
   artist: "artist/taylor-swift",

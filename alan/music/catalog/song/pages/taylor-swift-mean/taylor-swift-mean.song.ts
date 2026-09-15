@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftMean = {
   id: "019ea416-24ed-7c0b-b4a2-59a914b49300",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-mean",
   title: "Mean",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftMidnightRain = {
   id: "019ea416-331b-7f96-8bf1-f9ac087bda7c",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-midnight-rain",
   title: "Midnight Rain",
   artist: "artist/taylor-swift",

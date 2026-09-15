@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftWhiteHorse = {
   id: "019ea416-4b42-7adf-b3c6-d61026d8303e",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-white-horse",
   title: "White Horse",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSpeakNow = {
   id: "019ea416-4251-787c-b28f-883484901cb6",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-speak-now",
   title: "Speak Now",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTheVeryFirstNight = {
   id: "019ea416-48b8-7915-9ef5-da87f3a00489",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-the-very-first-night",
   title: "The Very First Night",
   artist: "artist/taylor-swift",

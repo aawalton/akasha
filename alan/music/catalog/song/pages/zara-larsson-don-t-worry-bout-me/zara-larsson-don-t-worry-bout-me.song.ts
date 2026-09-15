@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const zaraLarssonDonTWorryBoutMe = {
   id: "019ea4a1-64b9-7078-bf4a-e830a9341147",
-  type: "song",
+  type: "page-type/song",
   slug: "zara-larsson-don-t-worry-bout-me",
   title: "Don’t Worry Bout Me",
   artist: "artist/zara-larsson",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftNashville = {
   id: "019ea416-3baf-77b0-8eec-5ec1d92e1961",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-nashville",
   title: "Nashville",
   artist: "artist/taylor-swift",

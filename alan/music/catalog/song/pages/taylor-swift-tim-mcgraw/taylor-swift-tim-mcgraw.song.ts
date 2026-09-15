@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTimMcgraw = {
   id: "019ea416-4908-7dc2-a9b2-c8f8ee46167b",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-tim-mcgraw",
   title: "Tim McGraw",
   artist: "artist/taylor-swift",

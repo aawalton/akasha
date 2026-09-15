@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftMyTearsRicochet = {
   id: "019ea416-318a-78fa-9607-abcc129f5ddd",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-my-tears-ricochet",
   title: "my tears ricochet",
   artist: "artist/taylor-swift",

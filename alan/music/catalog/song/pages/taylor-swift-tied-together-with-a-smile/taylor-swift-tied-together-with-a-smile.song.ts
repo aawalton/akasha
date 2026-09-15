@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTiedTogetherWithASmile = {
   id: "019ea416-4402-72a7-9e6b-270da6c1fd44",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-tied-together-with-a-smile",
   title: "Tied Together With a Smile",
   artist: "artist/taylor-swift",

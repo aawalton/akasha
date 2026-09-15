@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSoLongLondon = {
   id: "019ea416-3a77-7cfc-b4e9-4c2f036e9a97",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-so-long-london",
   title: "So Long, London",
   artist: "artist/taylor-swift",

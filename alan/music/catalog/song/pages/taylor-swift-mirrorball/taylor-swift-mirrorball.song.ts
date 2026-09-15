@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftMirrorball = {
   id: "019ea416-3d24-7b71-8f41-cd23dba27f16",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-mirrorball",
   title: "mirrorball",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftSilentNight = {
   id: "019ea416-3450-74db-8997-6809889ddf4e",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-silent-night",
   title: "Silent Night",
   artist: "artist/taylor-swift",

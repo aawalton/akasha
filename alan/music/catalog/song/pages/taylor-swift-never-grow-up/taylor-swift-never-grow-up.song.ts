@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftNeverGrowUp = {
   id: "019ea416-3dfa-7293-9f7c-209dae686435",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-never-grow-up",
   title: "Never Grow Up",
   artist: "artist/taylor-swift",

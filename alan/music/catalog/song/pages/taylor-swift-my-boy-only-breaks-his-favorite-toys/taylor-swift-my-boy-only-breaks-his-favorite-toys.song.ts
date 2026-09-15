@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftMyBoyOnlyBreaksHisFavoriteToys = {
   id: "019ea416-394b-7004-8756-84feff7f58bb",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-my-boy-only-breaks-his-favorite-toys",
   title: "My Boy Only Breaks His Favorite Toys",
   artist: "artist/taylor-swift",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftShouldVeSaidNo = {
   id: "019ea416-3d8a-7dc5-bac2-8cc0702f1065",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-should-ve-said-no",
   title: "Should’ve Said No",
   artist: "artist/taylor-swift",

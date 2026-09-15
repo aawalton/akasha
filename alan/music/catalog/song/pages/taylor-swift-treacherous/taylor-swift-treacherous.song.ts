@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const taylorSwiftTreacherous = {
   id: "019ea416-4a75-7b7b-9414-7d996ffd374f",
-  type: "song",
+  type: "page-type/song",
   slug: "taylor-swift-treacherous",
   title: "Treacherous",
   artist: "artist/taylor-swift",
