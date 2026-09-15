@@ -60,9 +60,5 @@ export const logDaySweeping = {
       invariantKind: "invariant-kind/departure",
       statement: "The days are what the index answers rather than a folder listed.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "An index that cannot be read refuses rather than reading as holding no day.",
-    },
   ],
 } as const satisfies Module
