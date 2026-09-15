@@ -1,8 +1,9 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
-  type AskedOf,
   colorIn,
   rowsAsked,
+  servingStore,
+  storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
@@ -16,7 +17,6 @@ import {
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
 import { loader } from "akasha/product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.code.ts"
 import { action } from "akasha/product/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()
@@ -63,25 +63,15 @@ const ANSWERED: { readouts: readonly Record<string, unknown>[] } = {
 let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
-let heldOrigin: string | undefined
 let tile: Tile
 let carried: Relaying
 let askedWith: Tile["askedWith"]
 let drawn: Tile["drawn"]
 
 beforeAll(() => {
-  store = Bun.serve({
-    port: 0,
-    fetch: async (request) => {
-      const asked = (await request.json()) as AskedOf
-      if (asked.pageTypeSlug === "readout") {
-        return Response.json({ rows: rowsAsked(ANSWERED.readouts, asked.where) })
-      }
-      return Response.json({ rows: [SCALE_ROW] })
-    },
-  })
-  heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+  store = servingStore((asked) =>
+    asked.pageTypeSlug === "readout" ? rowsAsked(ANSWERED.readouts, asked.where) : [SCALE_ROW]
+  )
   server = Bun.serve({
     port: 0,
     fetch(request) {
@@ -100,9 +90,7 @@ beforeAll(() => {
 
 afterAll(() => {
   server.stop()
-  store.stop(true)
-  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
-  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+  storeGoes(store)
 })
 
 beforeEach(() => {
