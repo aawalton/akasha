@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { importsIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
+import {
+  importingIn,
+  importsIn,
+} from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
 
 const READING = "akasha/pages-system/index/index-reading/index-reading.module.code.ts"
 
@@ -44,4 +47,20 @@ test("a specifier reaching above the repository root imports nothing", () => {
   const body = 'import { x } from "../../../away.ts"\n'
 
   expect(importsIn(body, "akasha/a.module.code.ts")).toEqual([])
+})
+
+test("an import says whether that import names a type or names code", () => {
+  const body = 'import type { One } from "./one.ts"\nimport { two } from "./two.ts"\n'
+
+  expect(importingIn(body, "akasha/a.module.code.ts")).toEqual([
+    { at: "akasha/one.ts", typed: true },
+    { at: "akasha/two.ts", typed: false },
+  ])
+})
+
+test("what a body imports is what it names a type and what it names code together", () => {
+  const body = 'import type { One } from "./one.ts"\nimport { two } from "./two.ts"\n'
+  const at = "akasha/a.module.code.ts"
+
+  expect(importsIn(body, at)).toEqual(importingIn(body, at).map((one) => one.at))
 })

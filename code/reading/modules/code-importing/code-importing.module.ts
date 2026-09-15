@@ -40,5 +40,9 @@ export const codeImporting = {
       decisionKind: "decision-kind/departure",
       statement: "What a body imports is answered here rather than worked out by a caller.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An import says whether that import names a type or names code.",
+    },
   ],
 } as const satisfies Module

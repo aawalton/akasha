@@ -146,5 +146,17 @@ export const codeSpecifier = {
       decisionKind: "decision-kind/departure",
       statement: "A naming naming a root specifier is answered before the root package's name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A specifier naming a module says whether that naming is typed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A naming TypeScript takes away before anything runs is typed, and no other is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A module named by a call is not typed, however late that call runs.",
+    },
   ],
 } as const satisfies Module

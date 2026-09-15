@@ -1,5 +1,9 @@
 import { dirname, join, relative } from "node:path"
-import { skimmedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import {
+  erasedExport,
+  erasedImport,
+  skimmedAs,
+} from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 const RELATIVE = /^\.\.?\//
@@ -22,14 +26,21 @@ export type Placed = {
   readonly text: string
 }
 
-type Taking = (node: ts.Node, took: (said: ts.Node | undefined) => undefined) => undefined
+export type Specified = Placed & {
+  readonly typed: boolean
+}
 
-function reading(path: string, text: string, takes: Taking): readonly Placed[] {
+type Taking = (
+  node: ts.Node,
+  took: (said: ts.Node | undefined, typed?: boolean) => undefined
+) => undefined
+
+function reading(path: string, text: string, takes: Taking): readonly Specified[] {
   const source = skimmedAs(path, text)
-  const found: Placed[] = []
-  const took = (node: ts.Node | undefined): undefined => {
+  const found: Specified[] = []
+  const took = (node: ts.Node | undefined, typed = false): undefined => {
     if (node === undefined || !ts.isStringLiteral(node)) return
-    found.push({ start: node.getStart(source), end: node.getEnd(), text: node.text })
+    found.push({ start: node.getStart(source), end: node.getEnd(), text: node.text, typed })
   }
   const walk = (node: ts.Node): undefined => {
     takes(node, took)
@@ -45,9 +56,10 @@ export function mocking(node: ts.CallExpression): boolean {
   return ts.isIdentifier(said.expression) && said.expression.text === "mock"
 }
 
-export function placedIn(path: string, text: string): readonly Placed[] {
+export function placedIn(path: string, text: string): readonly Specified[] {
   return reading(path, text, (node, took) => {
-    if (ts.isImportDeclaration(node) || ts.isExportDeclaration(node)) took(node.moduleSpecifier)
+    if (ts.isImportDeclaration(node)) took(node.moduleSpecifier, erasedImport(node.importClause))
+    if (ts.isExportDeclaration(node)) took(node.moduleSpecifier, erasedExport(node))
     if (
       ts.isCallExpression(node) &&
       (node.expression.kind === ts.SyntaxKind.ImportKeyword ||
@@ -58,7 +70,7 @@ export function placedIn(path: string, text: string): readonly Placed[] {
     }
     if (ts.isExternalModuleReference(node)) took(node.expression)
     if (ts.isImportTypeNode(node) && ts.isLiteralTypeNode(node.argument))
-      took(node.argument.literal)
+      took(node.argument.literal, true)
   })
 }
 

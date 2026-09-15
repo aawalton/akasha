@@ -189,3 +189,37 @@ test("a path under the folder whose first part opens with a dot opens with a dot
   expect(said).toBe("./.server/two.ts")
   expect(landingOf("akasha/a/b/one.ts", said)).toBe("akasha/a/b/.server/two.ts")
 })
+
+test("an import naming only types is typed, and one naming a value is not", () => {
+  const body =
+    'import type { One } from "./one.ts"\n' +
+    'import { type Two } from "./two.ts"\n' +
+    'import { three } from "./three.ts"\n' +
+    'import "./four.ts"\n'
+
+  expect(placedIn(AT, body).map((one) => one.typed)).toEqual([true, true, false, false])
+})
+
+test("an export naming only types is typed, and one naming a value is not", () => {
+  const body = 'export type { One } from "./one.ts"\nexport { two } from "./two.ts"\n'
+
+  expect(placedIn(AT, body).map((one) => one.typed)).toEqual([true, false])
+})
+
+test("a module named in type position is typed", () => {
+  const body = 'export type One = import("./one.ts").One\n'
+
+  expect(placedIn(AT, body).map((one) => one.typed)).toEqual([true])
+})
+
+test("a module named by a call is not typed, however late that call runs", () => {
+  const body = 'const one = await import("./one.ts")\nconst two = require("./two.ts")\n'
+
+  expect(placedIn(AT, body).map((one) => one.typed)).toEqual([false, false])
+})
+
+test("every string a body spells is read as naming no type", () => {
+  const body = 'import type { One } from "./one.ts"\nconst two = "./two.ts"\n'
+
+  expect(spelledIn(AT, body).map((one) => one.text)).toEqual(["./one.ts", "./two.ts"])
+})
