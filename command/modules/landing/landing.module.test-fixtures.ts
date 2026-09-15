@@ -3,6 +3,9 @@ import { appendFileSync, cpSync, existsSync, mkdirSync, readFileSync, writeFileS
 import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/check/modules/judging/judging.module.code.ts"
+import { excludingIndex } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
+import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import type { Stated } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import {
   NO_TEXT,
@@ -18,6 +21,7 @@ import { baseOf } from "akasha/command/modules/landing-change-composing/landing-
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { everythingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
@@ -30,9 +34,6 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
-import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
-import { excludingIndex } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
-import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { said as saying } from "akasha/util/run/modules/running/running.module.code.ts"
 
@@ -330,12 +331,15 @@ const identityAmong = (found: readonly string[]): readonly string[] =>
 
 const REAL: readonly Value[] = [textProperty, idPage, slugPage]
 
+const REAL_AT: readonly { readonly path: string; readonly value: Value }[] = REAL.map((page) => {
+  const [at, value] = thePage(page)
+  return { path: join("akasha", at), value }
+})
+
 export const CARRIED: readonly Held[] = [
   ...VOCABULARY.map(([path, body]) => ({ path, body: bytesOf(body) })),
-  ...REAL.map((page) => {
-    const [at, value] = thePage(page)
-    return { path: join("akasha", at), body: bytesOf(bodyOf(value)) }
-  }),
+  ...REAL_AT.map((one) => ({ path: one.path, body: bytesOf(bodyOf(one.value)) })),
+  ...[...shapesAmong(REAL_AT)].map(([path, whole]) => ({ path, body: bytesOf(whole) })),
 ]
 
 const TEXT = new TextDecoder()
