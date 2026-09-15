@@ -2,7 +2,7 @@ import type { Reminder } from "akasha/alan/harness/reminder-system/reminder/remi
 
 export const telnyxApprovalCheck = {
   id: "01a09549-4f3d-7cbb-a8f8-60e32af6b3fa",
-  type: "reminder",
+  type: "page-type/reminder",
   slug: "telnyx-approval-check",
   to: "persona/amy",
   from: "persona/amy",
