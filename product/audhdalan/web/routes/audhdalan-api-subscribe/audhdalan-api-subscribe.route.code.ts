@@ -1,4 +1,4 @@
-import { slugOf } from "akasha/util/slug/modules/slug-of/slug-of.module.code.ts"
+import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import { z } from "zod"
 
 const BodySchema = z.object({

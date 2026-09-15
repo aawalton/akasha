@@ -4,11 +4,11 @@ import { landTracking } from "akasha/alan/track/modules/landing/track-landing.mo
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
 import {
   composedFor,
   type Put,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export type Values = Readonly<Record<string, unknown>>
 

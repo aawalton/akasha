@@ -45,13 +45,13 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import {
   foldersUnder,
   namesAbove,
   strippedOf,
 } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 import { folderFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { dashEachCapital } from "akasha/util/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import ts from "typescript"
 
 const TYPED = ".ts"

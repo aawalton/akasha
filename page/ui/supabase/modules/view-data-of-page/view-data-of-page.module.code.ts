@@ -10,7 +10,7 @@ import {
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { pageQueryTimeIn } from "akasha/page/core/view/modules/page-query-times/page-query-times.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
+import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
 import * as z from "zod"
 
 export type PageTypeIdBySlug = (pageTypeSlug: string) => string | undefined

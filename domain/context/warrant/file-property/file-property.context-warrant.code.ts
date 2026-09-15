@@ -9,8 +9,8 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { dashEachCapital } from "akasha/util/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 
 export const PROPERTY =
   "A page states each property as the page defining it shapes it, and that page is read first."

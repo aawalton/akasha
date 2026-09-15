@@ -1,5 +1,5 @@
 import type { Page } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
-import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
+import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
 
 const HELD_SEQ = 0
 

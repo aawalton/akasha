@@ -7,8 +7,8 @@ import {
   idOfFilePage,
   slugOfFilePage,
 } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
-import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
-import { dashBetweenWords } from "akasha/util/slug/modules/dash-between-words/dash-between-words.module.code.ts"
+import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { dashBetweenWords } from "akasha/page/naming/folding/modules/dash-between-words/dash-between-words.module.code.ts"
 import { z } from "zod"
 
 const LIFTED_COLUMN = {

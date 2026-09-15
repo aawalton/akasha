@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A capital opening the name takes a dash before it as any other capital does."},{"decisionKind":"decision-kind/absence","statement":"A run of capitals is dashed letter by letter rather than read as one word."}]}
+{"definition":"a name rewritten with a dash before every capital it carries"}
+{"id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}
+{"slug":"dash-each-capital"}
+{"type":"page-type/module"}

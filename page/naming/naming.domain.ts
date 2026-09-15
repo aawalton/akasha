@@ -5,7 +5,7 @@ export const naming = {
   type: "page-type/domain",
   slug: "naming",
   definition: "how one idea's name is chosen",
-  parts: ["domain/named-for", "module/folder-named"],
+  parts: ["domain/named-for", "domain/naming-folding", "module/folder-named"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

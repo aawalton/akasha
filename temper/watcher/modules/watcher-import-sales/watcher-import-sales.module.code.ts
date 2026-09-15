@@ -1,6 +1,7 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
+import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import type { SalesPayload } from "akasha/temper/capture-sale/modules/sales-payload/sales-payload.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
@@ -11,7 +12,6 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { slugOf } from "akasha/util/slug/modules/slug-of/slug-of.module.code.ts"
 import { z } from "zod"
 
 const SALES_GLOBAL_NAME = "TemperSales_SavedVariables"

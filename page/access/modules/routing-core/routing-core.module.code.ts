@@ -1,7 +1,7 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { parsePageSeq } from "akasha/page/access/modules/parse-page-seq/parse-page-seq.module.code.ts"
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
+import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
 
 export const PROMOTED_COLUMN = {
   id: "id",

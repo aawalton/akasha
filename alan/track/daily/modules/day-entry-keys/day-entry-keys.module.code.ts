@@ -1,7 +1,7 @@
 import { dataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
-import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 const ENTRY_PROPERTY = "page-property-entry"
 

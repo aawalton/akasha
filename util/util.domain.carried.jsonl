@@ -1,6 +1,5 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"A `utils` module an addon's bundle reaches is compiled to Lua."}]}
 {"definition":"the pieces every domain reaches for and no domain claims"}
 {"id":"01a0827a-166b-7a7c-9b60-e90209b46c46"}
-{"parts":["domain/util-slug"]}
 {"slug":"util"}
 {"type":"page-type/domain"}

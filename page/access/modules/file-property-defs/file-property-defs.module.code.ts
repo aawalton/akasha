@@ -1,8 +1,8 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
+import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
 import { shapeFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
 import { z } from "zod"
 
 export type Declaration = {

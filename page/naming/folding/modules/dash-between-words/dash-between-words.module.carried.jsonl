@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A capital opening the name is lowered where no letter sits before it to dash."},{"decisionKind":"decision-kind/absence","statement":"A run of capitals holds no word break, so nothing is dashed inside it."}]}
+{"definition":"a name rewritten with a dash where one word runs into the next"}
+{"id":"01a08e73-15cd-74c8-9abf-c1974f4b4e89"}
+{"slug":"dash-between-words"}
+{"type":"page-type/module"}

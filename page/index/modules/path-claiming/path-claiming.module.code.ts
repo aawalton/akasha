@@ -34,7 +34,7 @@ import {
   typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { dashEachCapital } from "akasha/util/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
+import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
 
 export function under(repo: string, path: string): string {
   return isAbsolute(path) ? relative(repo, path) : path

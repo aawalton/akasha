@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const utilSlug = {
+export const namingFolding = {
   id: "01a08e6f-55be-71c8-8946-b4047f5a9d4c",
   type: "page-type/domain",
-  slug: "util-slug",
+  slug: "naming-folding",
   definition: "how a string is folded to the key that names it",
   parts: [
     "module/camelize-key",

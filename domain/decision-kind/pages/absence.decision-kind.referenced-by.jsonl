@@ -1494,6 +1494,10 @@
 {"propertySlug":"decision-kind","path":"page/name-format/modules/name-matching/name-matching.module.ts","id":"01a04eba-7459-7284-8c06-c79e5963387d"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/lower-uuid/lower-uuid.name-format.ts","id":"01a04eba-7459-7836-ab9f-30dd5c70d710"}
 {"propertySlug":"decision-kind","path":"page/named-folder-property/properties/folder-generated.boolean-property.ts","id":"01a0a5c3-393c-7cac-a156-052b3bc74e92"}
+{"propertySlug":"decision-kind","path":"page/naming/folding/modules/camelize-key/camelize-key.module.ts","id":"01a090e5-14b5-76c8-a2aa-3fc1519a8db3"}
+{"propertySlug":"decision-kind","path":"page/naming/folding/modules/dash-between-words/dash-between-words.module.ts","id":"01a08e73-15cd-74c8-9abf-c1974f4b4e89"}
+{"propertySlug":"decision-kind","path":"page/naming/folding/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}
+{"propertySlug":"decision-kind","path":"page/naming/folding/naming-folding.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}
 {"propertySlug":"decision-kind","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts","id":"01a05c53-bc6b-7dba-8a4d-0388f0ff1db2"}
 {"propertySlug":"decision-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"decision-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
@@ -1925,10 +1929,6 @@
 {"propertySlug":"decision-kind","path":"text/writing/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/pad-two/pad-two.module.ts","id":"01a05c8b-6039-7947-8056-77c452128ce1"}
-{"propertySlug":"decision-kind","path":"util/slug/modules/camelize-key/camelize-key.module.ts","id":"01a090e5-14b5-76c8-a2aa-3fc1519a8db3"}
-{"propertySlug":"decision-kind","path":"util/slug/modules/dash-between-words/dash-between-words.module.ts","id":"01a08e73-15cd-74c8-9abf-c1974f4b4e89"}
-{"propertySlug":"decision-kind","path":"util/slug/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}
-{"propertySlug":"decision-kind","path":"util/slug/util-slug.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}
 {"propertySlug":"decision-kind","path":"verdict/modules/shape/verdict-shape.module.ts","id":"01a05c87-a161-78d7-afb2-6becb8d2161f"}
 {"propertySlug":"decision-kind","path":"verdict/verdict.domain.ts","id":"01a05c87-a15f-79e8-9268-c8bf1735c3e6"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

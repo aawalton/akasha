@@ -5,7 +5,7 @@ import {
   nameFaultIn,
   typedAs,
 } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import { dashEachCapital } from "akasha/util/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
+import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
 
 const CODE = `${import.meta.dir}/page-export-name.module.code.ts`
 

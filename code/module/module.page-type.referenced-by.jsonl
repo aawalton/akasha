@@ -2190,6 +2190,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/name-format/modules/name-matching/name-matching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/name-format/name-format.page-type.types.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/folding/modules/camelize-key/camelize-key.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/folding/modules/dash-between-words/dash-between-words.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/folding/modules/dash-each-capital/dash-each-capital.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/folding/modules/slug-of/slug-of.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/modules/folder-named/folder-named.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/query/modules/store-page-asking/store-page-asking.module.ts"}
@@ -6672,10 +6676,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/shortened/shortened.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/today/today.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/camelize-key/camelize-key.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/dash-between-words/dash-between-words.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/dash-each-capital/dash-each-capital.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/slug-of/slug-of.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/reading-channel/reading-channel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/shape/verdict-shape.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/text/verdict-text.module.ts"}
