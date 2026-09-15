@@ -15,7 +15,7 @@ export const domainRows = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Which page types sit under `domain` is read from the index.",
+      statement: "Which page types sit under `domain` is read from beside each page type.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -72,11 +72,11 @@ export const domainRows = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The index files an edge without the place the edge was stated in.",
+      statement: "An edge sits beside a page without the place the edge was stated in.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The index is asked which personas champion a page only where a persona could.",
+      statement: "Which personas champion a page is read only where a persona could.",
     },
     {
       invariantKind: "invariant-kind/departure",

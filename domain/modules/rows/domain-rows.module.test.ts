@@ -9,7 +9,6 @@ import {
 import {
   idFiled,
   listedFiled,
-  namedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
@@ -64,7 +63,7 @@ function aType(root: string, slug: string, above: string | null = null): string 
 function typing(root: string, slug: string, above: string): undefined {
   const over = aType(root, above.slice(above.indexOf("/") + 1))
   const id = aType(root, slug, above)
-  namedFiled(root, over, "extends-type", id, [{ path: `akasha/held/${slug}.page-type.ts` }])
+  relationFiled(root, over, "extends-type", id, [{ path: `akasha/held/${slug}.page-type.ts` }])
 }
 
 function champions(root: string, id: string, her: string): undefined {
