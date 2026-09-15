@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherImportErrors = {
   id: "01a06381-35cf-7a59-98a9-0d96ea20a841",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-import-errors",
   definition:
     "the watcher's handling of a saved errors file, from reading it to logging what is new",

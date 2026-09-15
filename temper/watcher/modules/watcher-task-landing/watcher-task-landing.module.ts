@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherTaskLanding = {
   id: "01a06381-35cf-7c4d-b5f1-4ad42ef2b4cc",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-task-landing",
   definition: "a temper task's whole body written back with the keys a completion changes",
   code: "ts",

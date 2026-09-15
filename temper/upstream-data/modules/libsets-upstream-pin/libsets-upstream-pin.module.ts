@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libsetsUpstreamPin = {
   id: "01a060d0-ca28-7a33-9895-ea3ff07665be",
-  type: "module",
+  type: "page-type/module",
   slug: "libsets-upstream-pin",
   definition: "the one upstream LibSets commit temper copies its set data out of",
   code: "ts",

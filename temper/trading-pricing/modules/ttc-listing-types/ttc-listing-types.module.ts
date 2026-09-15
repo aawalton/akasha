@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const ttcListingTypes = {
   id: "01a0609b-e59e-76a0-b95d-824e1ed2c729",
-  type: "module",
+  type: "page-type/module",
   slug: "ttc-listing-types",
   definition: "the shape a search of Tamriel Trade Centre listings asks for and answers with",
   code: "ts",

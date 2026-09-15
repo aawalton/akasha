@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherErrorCursor = {
   id: "01a06370-eddf-7cec-8d3e-f564adf6f360",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-error-cursor",
   definition: "the count last carried up for each game error, kept between runs of the watcher",
   code: "ts",

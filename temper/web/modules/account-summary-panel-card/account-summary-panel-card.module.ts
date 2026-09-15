@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const accountSummaryPanelCard = {
   id: "01a06421-f74b-72e9-b673-edb9198c000a",
-  type: "module",
+  type: "page-type/module",
   slug: "account-summary-panel-card",
   definition: "each account-wide card as one row of count against total",
   code: "tsx",

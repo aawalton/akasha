@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const accountProgress = {
   id: "01a06421-f74b-7ac7-a2c3-4120a9e80006",
-  type: "module",
+  type: "page-type/module",
   slug: "account-progress",
   definition: "the account-wide progress worked out from the catalogs and the saved data",
   code: "ts",

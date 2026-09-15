@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherTaskCapture = {
   id: "01a076f7-553a-76cf-a7a6-6c6dd69f52a9",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-task-capture",
   definition: "the task capture read into whole-task completions and per-character marks",
   code: "ts",

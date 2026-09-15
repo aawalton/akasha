@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherImportTasks = {
   id: "01a06381-35cf-7769-9717-fa7f6b0898ae",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-import-tasks",
   definition: "a task capture read into completions marked on the tasks themselves",
   code: "ts",

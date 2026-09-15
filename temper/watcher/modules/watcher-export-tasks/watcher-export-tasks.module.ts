@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherExportTasks = {
   id: "01a06381-35cf-79d7-a1eb-ab708052aacb",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-export-tasks",
   definition:
     "the account's tasks written into the characters saved-variables file and into the addon's config",

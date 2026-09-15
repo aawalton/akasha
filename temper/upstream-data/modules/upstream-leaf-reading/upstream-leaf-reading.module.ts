@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const upstreamLeafReading = {
   id: "01a06282-dfc3-722f-9afd-a38cf3034d7a",
-  type: "module",
+  type: "page-type/module",
   slug: "upstream-leaf-reading",
   definition: "the leaves read off an upstream table and ruled against the leaves of the port",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionGearPriceLookup = {
   id: "01a060bf-747d-70fa-9173-c60bb80e0400",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-gear-price-lookup",
   definition: "what a piece of companion equipment of a given trait and quality costs",
   code: "ts",

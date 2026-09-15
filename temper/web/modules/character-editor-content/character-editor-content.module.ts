@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const characterEditorContent = {
   id: "01a06589-8d61-7000-ba09-7e4fd000c64c",
-  type: "module",
+  type: "page-type/module",
   slug: "character-editor-content",
   definition: "the body of the character editor",
   code: "tsx",

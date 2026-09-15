@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const classChangeConfirmationDialog = {
   id: "01a0642c-5b79-7cc5-bfab-9daf17c01a1d",
-  type: "module",
+  type: "page-type/module",
   slug: "class-change-confirmation-dialog",
   definition: "the dialog confirming a class change",
   code: "tsx",

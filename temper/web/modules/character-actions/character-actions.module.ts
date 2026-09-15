@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const characterActions = {
   id: "01a0642c-5b96-740b-bb8f-b1a8f348f53a",
-  type: "module",
+  type: "page-type/module",
   slug: "character-actions",
   definition: "the actions a character reducer takes",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const accountTributePanelCard = {
   id: "01a06421-f74b-7724-b242-e7d6d606000c",
-  type: "module",
+  type: "page-type/module",
   slug: "account-tribute-panel-card",
   definition: "the Tales of Tribute patrons and cards the account has unlocked",
   code: "tsx",

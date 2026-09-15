@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherTokenCheck = {
   id: "01a0640f-8510-7490-bf5f-876df0d09100",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-token-check",
   definition: "the account a watcher token presented to the server represents",
   code: "ts",

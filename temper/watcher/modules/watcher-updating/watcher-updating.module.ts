@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherUpdating = {
   id: "01a063c7-b025-7d65-8dfd-3914b90eaf4e",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-updating",
   definition:
     "how a watcher worker learns a newer version is deployed and advances onto that version",

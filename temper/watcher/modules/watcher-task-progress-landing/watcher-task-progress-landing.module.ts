@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherTaskProgressLanding = {
   id: "01a08258-933d-7198-bd62-1be9c3a4e475",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-task-progress-landing",
   definition: "the recomputed progress of every task landed as one commit",
   code: "ts",

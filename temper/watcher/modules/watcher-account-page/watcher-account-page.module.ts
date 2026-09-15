@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherAccountPage = {
   id: "01a06381-35cf-7609-a436-3c4f4a0d6e3a",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-account-page",
   definition: "the page for the game account a watcher import writes under, made where absent",
   code: "ts",

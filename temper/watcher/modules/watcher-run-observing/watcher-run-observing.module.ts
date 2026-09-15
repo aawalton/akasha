@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherRunObserving = {
   id: "01a06370-eddf-7f43-904c-153ff0755c99",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-run-observing",
   definition: "how each thing the watcher tries is watched and turned into a sync operation",
   code: "ts",

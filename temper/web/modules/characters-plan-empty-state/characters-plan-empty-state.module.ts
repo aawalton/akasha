@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersPlanEmptyState = {
   id: "01a0642c-5b94-7f50-a436-a26606db51d9",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-plan-empty-state",
   definition: "which empty state a characters plan shows",
   code: "ts",

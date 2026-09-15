@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherImportItemRuleVerdicts = {
   id: "01a06381-35cf-75cc-986a-2d84d969ddd4",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-import-item-rule-verdicts",
   definition:
     "the verdicts an add-on queued for an item, read from saved variables and written into rule settings",

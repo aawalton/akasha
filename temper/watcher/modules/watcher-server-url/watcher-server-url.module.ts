@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherServerUrl = {
   id: "01a063c7-b010-7ea2-b91f-d479e832a8a3",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-server-url",
   definition: "the address of the temper server the watcher carries what it read across to",
   code: "ts",

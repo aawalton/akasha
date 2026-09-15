@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionEngineMethodology = {
   id: "01a06432-b190-7883-b581-bac22dc2de71",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-engine-methodology",
   definition: "the panels saying how the companion engine works out what it recommends",
   code: "tsx",

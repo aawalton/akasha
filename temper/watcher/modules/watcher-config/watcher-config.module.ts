@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherConfig = {
   id: "01a06377-d8cc-7874-ab3c-63e6604b4df8",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-config",
   definition: "where in the game folder each file the watcher reads and writes is found",
   code: "ts",

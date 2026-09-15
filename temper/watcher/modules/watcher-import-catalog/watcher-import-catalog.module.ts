@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherImportCatalog = {
   id: "01a06381-35cf-7af7-aa60-01ed66da5e3b",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-import-catalog",
   definition:
     "a catalog capture's game build written onto every catalog domain page that capture has",

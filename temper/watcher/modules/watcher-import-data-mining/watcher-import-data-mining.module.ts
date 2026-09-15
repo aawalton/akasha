@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherImportDataMining = {
   id: "01a06381-35cf-7607-b3eb-a46870064d9c",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-import-data-mining",
   definition: "a datamining capture posted to the server, with every block read whole then emptied",
   code: "ts",

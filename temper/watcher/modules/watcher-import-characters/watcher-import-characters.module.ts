@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherImportCharacters = {
   id: "01a06381-35cf-7a07-8865-e71df4fc233b",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-import-characters",
   definition:
     "the characters a saved-variables file holds, re-encoded onto account character pages",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersDataContent = {
   id: "01a0642c-5b8e-74d3-bd53-7a1a3bf7bf10",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-data-content",
   definition: "the data the characters page has",
   code: "tsx",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const zoneEsoStubs = {
   id: "01a06038-2cc0-7af6-bdb5-7b41393a4ae3",
-  type: "module",
+  type: "page-type/module",
   slug: "zone-eso-stubs",
   definition: "the ESO functions LibZone's data file calls while it loads outside the game",
   code: "ts",

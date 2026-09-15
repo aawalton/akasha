@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherStableRead = {
   id: "01a0635b-79f7-7b16-a5de-404b96e64447",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-stable-read",
   definition: "how the watcher waits for the game to finish writing a file before reading it",
   code: "ts",

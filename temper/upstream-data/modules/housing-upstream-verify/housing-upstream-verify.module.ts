@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingUpstreamVerify = {
   id: "01a06282-dfc3-7813-b3f1-ca3f89826794",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-upstream-verify",
   definition: "the ruling on whether the ported PortToFriendsHouse data still matches upstream",
   code: "ts",

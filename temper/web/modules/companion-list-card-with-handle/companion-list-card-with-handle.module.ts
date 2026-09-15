@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionListCardWithHandle = {
   id: "01a06421-2525-732d-9ab9-5f63111bf56a",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-list-card-with-handle",
   definition: "a companion list card a drag handle is fixed to",
   code: "tsx",

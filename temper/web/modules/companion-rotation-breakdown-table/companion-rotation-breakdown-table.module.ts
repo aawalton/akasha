@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionRotationBreakdownTable = {
   id: "01a0642f-8c31-7b23-b59d-0aadb80151ff",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-rotation-breakdown-table",
   definition: "the table drawing each row of a companion's rotation breakdown",
   code: "tsx",

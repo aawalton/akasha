@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherSelfWriteGuard = {
   id: "01a0633f-8d1e-7131-89f2-3109de33dbad",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-self-write-guard",
   definition: "how the watcher tells a file it wrote itself from one the game wrote",
   code: "ts",

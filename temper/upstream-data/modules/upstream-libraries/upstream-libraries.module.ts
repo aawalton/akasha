@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const upstreamLibraries = {
   id: "01a06038-2cbf-7931-aedd-7a1b9a4637c4",
-  type: "module",
+  type: "page-type/module",
   slug: "upstream-libraries",
   definition: "which community ESO libraries temper copies data out of",
   code: "ts",

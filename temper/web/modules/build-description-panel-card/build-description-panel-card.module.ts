@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const buildDescriptionPanelCard = {
   id: "01a0642c-5b76-7e7f-9cd2-7ae443a01535",
-  type: "module",
+  type: "page-type/module",
   slug: "build-description-panel-card",
   definition: "a panel card with a build's description",
   code: "tsx",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sellPricing = {
   id: "01a060c0-0b9f-7135-8c4b-e497247c8a35",
-  type: "module",
+  type: "page-type/module",
   slug: "sell-pricing",
   definition: "what to ask for an item, and the key its market price is filed under",
   code: "ts",

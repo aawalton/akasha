@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const zoneUpstreamPort = {
   id: "01a0685a-f9b2-7000-8097-747bc58d26f6",
-  type: "module",
+  type: "page-type/module",
   slug: "zone-upstream-port",
   definition:
     "the zone names and zone geography upstream LibZone carries, copied out as TypeScript",

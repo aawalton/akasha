@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionListPanelCard = {
   id: "01a0641f-8bee-7f39-b8bb-ded72e01e394",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-list-panel-card",
   definition: "a panel card listing companions",
   code: "tsx",

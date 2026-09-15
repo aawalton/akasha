@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherDispatchHandling = {
   id: "01a063c7-b064-74a3-9ffc-0be1edaadd02",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-dispatch-handling",
   definition: "one change to a watched file turned into one dispatch of that file's content",
   code: "ts",

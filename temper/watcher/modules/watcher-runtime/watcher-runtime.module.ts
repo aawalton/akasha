@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherRuntime = {
   id: "01a0633f-8d1e-7bd8-9b34-b4ebc19498e9",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-runtime",
   definition: "whether the watcher worker runs from source or from a compiled executable",
   code: "ts",

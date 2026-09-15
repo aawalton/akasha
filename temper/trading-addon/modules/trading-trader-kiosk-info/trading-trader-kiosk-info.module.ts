@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tradingTraderKioskInfo = {
   id: "01a06160-2a5d-76e5-bad4-aeac785cc866",
-  type: "module",
+  type: "page-type/module",
   slug: "trading-trader-kiosk-info",
   definition: "what is known of the trader kiosk a player is at",
   code: "ts",

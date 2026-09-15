@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libsetsUpstreamFetch = {
   id: "01a06341-d9e8-7000-b612-9ac2472fbb2d",
-  type: "module",
+  type: "page-type/module",
   slug: "libsets-upstream-fetch",
   definition: "the checkout of pinned upstream LibSets this repository ports its set data out of",
   code: "ts",

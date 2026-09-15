@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const housingUpstreamPort = {
   id: "01a0683b-e6a3-7d85-beb0-b2d13fdf25bb",
-  type: "module",
+  type: "page-type/module",
   slug: "housing-upstream-port",
   definition: "the house library upstream PortToFriendsHouse carries, copied out as TypeScript",
   code: "ts",

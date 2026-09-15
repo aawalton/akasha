@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const companionRotationBreakdownPanelCard = {
   id: "01a0642f-8c31-7446-baa2-3fd036763c17",
-  type: "module",
+  type: "page-type/module",
   slug: "companion-rotation-breakdown-panel-card",
   definition: "a panel card with a companion's rotation breakdown",
   code: "tsx",

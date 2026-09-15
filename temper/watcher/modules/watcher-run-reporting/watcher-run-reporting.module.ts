@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherRunReporting = {
   id: "01a06381-35cf-7a90-aca5-09b5bd83b54c",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-run-reporting",
   definition:
     "one run's operations merged into the watcher enrolment page for the signed-in account",

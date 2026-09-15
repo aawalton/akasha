@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherDaemon = {
   id: "01a06039-9c89-7821-837a-8edf111d90af",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-daemon",
   definition: "the file naming the watcher worker that is running, and where that worker logs",
   code: "ts",

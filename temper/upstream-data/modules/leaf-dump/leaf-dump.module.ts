@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const leafDump = {
   id: "01a06282-dfc3-7f7d-baf2-78aa71fd248e",
-  type: "module",
+  type: "page-type/module",
   slug: "leaf-dump",
   definition: "a nested table written out as one line per leaf, and the reading telling two apart",
   code: "ts",
