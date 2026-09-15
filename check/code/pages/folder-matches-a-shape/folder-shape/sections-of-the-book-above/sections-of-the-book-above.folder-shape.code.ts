@@ -1,11 +1,13 @@
 import { dirname } from "node:path"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
-import { ofBookSections } from "akasha/check/code/pages/folder-matches-a-shape/modules/book-sections/book-sections.module.code.ts"
+import { ofCollectionParts } from "akasha/check/code/pages/folder-matches-a-shape/modules/collection-parts/collection-parts.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 
 export const HOLDS = ["sections"]
 
 const BOOK = "alan-book"
+
+const SECTIONS = ["book-section"]
 
 function typeIn(held: string): string {
   const address = addressIn(held)
@@ -25,6 +27,6 @@ export function sectionsOfTheBookAbove(standing: Standing): readonly string[] {
     said.push(`the page above is a \`${typeIn(first)}\` rather than a \`${BOOK}\``)
     return said
   }
-  said.push(...ofBookSections(standing, holding))
+  said.push(...ofCollectionParts(standing, holding, SECTIONS))
   return said
 }

@@ -6,7 +6,7 @@ export const folderMatchesAShape = {
   slug: "folder-matches-a-shape",
   definition: "the check refusing a folder matching none of the folder shapes",
   parts: [
-    "module/book-sections",
+    "module/collection-parts",
     "module/folder-grouping",
     "module/folder-naming",
     "module/one-page-only",

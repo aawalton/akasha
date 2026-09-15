@@ -1,19 +1,24 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const bookSections = {
+export const collectionParts = {
   id: "01a09ec3-da54-7a58-9554-ea6fd937fd5f",
   type: "module",
-  slug: "book-sections",
-  definition: "how a folder of book sections is judged, whatever the sections name as holding them",
+  slug: "collection-parts",
+  definition:
+    "how a folder of a collection's parts is judged, whatever those parts name as holding them",
   code: "ts",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Every page in the folder is of the `book-section` page type.",
+      statement: "Every page in the folder is of a page type handed in or extending one.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Every section names what holds them as holding it.",
+      statement: "Which page types those are is handed in rather than worked out here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every page names what holds them as holding it.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -21,15 +26,15 @@ export const bookSections = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A file that is neither a section nor a file beside one is refused.",
+      statement: "A file that is neither a page nor a file beside one is refused.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A file beside no section in this folder is refused.",
+      statement: "A file beside no page in this folder is refused.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A folder holding no section at all is refused.",
+      statement: "A folder holding no page at all is refused.",
     },
     {
       invariantKind: "invariant-kind/absence",

@@ -1,12 +1,13 @@
 import { basename, dirname } from "node:path"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
-import {
-  ofBookSections,
-  SECTION,
-} from "akasha/check/code/pages/folder-matches-a-shape/modules/book-sections/book-sections.module.code.ts"
+import { ofCollectionParts } from "akasha/check/code/pages/folder-matches-a-shape/modules/collection-parts/collection-parts.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
 const BOOK = "alan-book"
+
+const SECTION = "book-section"
+
+const SECTIONS = [SECTION]
 
 const ENDING = `.${SECTION}.ts`
 
@@ -35,6 +36,6 @@ export function sectionsOfTheSectionBeside(standing: Standing): readonly string[
     said.push(`no \`${beside}\` sits beside this folder for the folder to be named for`)
     return said
   }
-  said.push(...ofBookSections(standing, namedAs(SECTION, named, book)))
+  said.push(...ofCollectionParts(standing, namedAs(SECTION, named, book), SECTIONS))
   return said
 }

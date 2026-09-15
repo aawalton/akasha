@@ -96,5 +96,5 @@ test("a file sitting beside no section here is refused", () => {
 })
 
 test("a folder named sections holding no section is refused", () => {
-  expect(sectionsOfTheBookAbove(folder([]))).toEqual(["it holds no section"])
+  expect(sectionsOfTheBookAbove(folder([]))).toEqual(["it holds no page"])
 })
