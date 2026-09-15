@@ -1,13 +1,11 @@
 import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   buildChatDbScript,
-  buildCountUnreadSql,
   buildHandlesSql,
   type ImessageHandle,
   type ImessageMessage,
   parseHandleRows,
   parseMessageRows,
-  parseUnreadCount,
 } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
 import {
   buildContactsScript,
@@ -24,10 +22,6 @@ import { runSshCapture } from "akasha/alan/harness/ssh-access/modules/ssh-reach/
 
 export async function fetchMessages(sql: string): Promise<readonly ImessageMessage[]> {
   return parseMessageRows(await runSshCapture(MACBOOK, buildChatDbScript(sql)))
-}
-
-export async function fetchUnreadCount(): Promise<number> {
-  return parseUnreadCount(await runSshCapture(MACBOOK, buildChatDbScript(buildCountUnreadSql())))
 }
 
 async function fetchHandles(): Promise<readonly ImessageHandle[]> {

@@ -20,9 +20,6 @@ const messageRowsSchema = z.array(messageRowSchema)
 const handleRowSchema = z.object({ rowid: z.number(), id: z.string() }).strict()
 const handleRowsSchema = z.array(handleRowSchema)
 
-const unreadCountRowSchema = z.object({ unread: z.number() }).strict()
-const unreadCountRowsSchema = z.array(unreadCountRowSchema)
-
 export interface ImessageHandle {
   readonly rowid: number
   readonly id: string
@@ -131,15 +128,6 @@ export function buildHandlesSql(): string {
   return "SELECT ROWID AS rowid, id FROM handle"
 }
 
-export function buildCountUnreadSql(): string {
-  return [
-    "SELECT count(*) AS unread",
-    "FROM message m",
-    "WHERE 1 = 1",
-    ...UNREAD_PREDICATE_CLAUSES,
-  ].join("\n")
-}
-
 export function buildUnreadListSql(opts?: {
   readonly limit?: number
   readonly handleRowids?: readonly number[]
@@ -203,9 +191,4 @@ export function parseMessageRows(stdout: string): readonly ImessageMessage[] {
 
 export function parseHandleRows(stdout: string): readonly ImessageHandle[] {
   return parseJsonRows(stdout, handleRowsSchema)
-}
-
-export function parseUnreadCount(stdout: string): number {
-  const rows = parseJsonRows(stdout, unreadCountRowsSchema)
-  return rows[0]?.unread ?? 0
 }
