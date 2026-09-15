@@ -1,5 +1,15 @@
-import { linesFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import {
+  besideAdded,
+  linesFiled,
+} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import {
+  bodyOf,
+  fileNameOf,
+  ownerOf,
+  type Reference,
+  referencesAt,
+} from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const GRAPH_EDGE = "graph-edge"
@@ -26,7 +36,7 @@ export const INDEX_ID = "01a04ff4-0000-7000-8000-00000000000d"
 
 const TARGET_ID = "01a04ff4-0000-7000-8000-00000000000a"
 
-const SOURCE_ID = "01a04ff4-0000-7000-8000-00000000000b"
+export const SOURCE_ID = "01a04ff4-0000-7000-8000-00000000000b"
 
 const LOADED_ID = "01a04ff4-0000-7000-8000-000000000011"
 
@@ -64,13 +74,13 @@ export const SOURCE_AT = "akasha/held/source.page.ts"
 
 export const SIDECAR_AT = "akasha/held/target.page.code.ts"
 
-export const FIRST_AT = "akasha/held/first.ts"
+export const FIRST_AT = "akasha/held/first.page.ts"
 
-export const SECOND_AT = "akasha/held/second.ts"
+export const SECOND_AT = "akasha/held/second.page.ts"
 
-export const THIRD_AT = "akasha/held/third.ts"
+export const THIRD_AT = "akasha/held/third.page.ts"
 
-export const APART_AT = "akasha/held/apart.txt"
+export const APART_AT = "akasha/held/apart.page.txt"
 
 const TYPE_ID = "01a04ff4-0000-7000-8000-00000000000f"
 
@@ -114,8 +124,47 @@ function filedAll(root: string, at: string, said: readonly Record<string, string
   linesFiled(root, at, said)
 }
 
-export function filed(root: string, at: string, said: Record<string, string>): undefined {
+function filed(root: string, at: string, said: Record<string, string>): undefined {
   filedAll(root, at, [said])
+}
+
+function importReferences(into: string, from: readonly string[]): readonly Reference[] {
+  return from.map((one) => ({
+    propertySlug: IMPORT,
+    fileName: fileNameOf(into),
+    path: one,
+    id: null,
+  }))
+}
+
+function bodyBeside(page: string, references: readonly Reference[]): Record<string, string> {
+  const at = referencesAt(page)
+  return at === null ? {} : { [at]: bodyOf(references) }
+}
+
+export function importsFiled(root: string, into: string, from: readonly string[]): undefined {
+  filedAll(
+    root,
+    `${IMPORT}/path/${into}.jsonl`,
+    from.map((one) => ({ path: one }))
+  )
+  const owner = ownerOf(into)
+  if (owner === null) return
+  besideAdded(root, owner, importReferences(into, from))
+}
+
+export function importsBeside(into: string, from: readonly string[]): Record<string, string> {
+  const owner = ownerOf(into)
+  return owner === null ? {} : bodyBeside(owner, importReferences(into, from))
+}
+
+export function namedBeside(
+  page: string,
+  propertySlug: string,
+  from: string,
+  id: string
+): Record<string, string> {
+  return bodyBeside(page, [{ propertySlug, fileName: null, path: from, id }])
 }
 
 export const INDEX_FILED_AT = `identity/page-type/${INDEX}/slug/${HELD_INDEX}.jsonl`
@@ -177,6 +226,9 @@ export function relationWorld(lines: number, pagesExist = true): string {
       LEAF_AT,
       Array.from({ length: lines }, () => ({ path: SOURCE_AT }))
     )
+    besideAdded(root, TARGET_AT, [
+      { propertySlug: PART, fileName: null, path: SOURCE_AT, id: SOURCE_ID },
+    ])
   }
   return root
 }
@@ -192,25 +244,19 @@ function worldFor(indexName: string): string {
 
 export function importWorld(indexName: string): string {
   const root = worldFor(indexName)
-  filed(root, `${IMPORT}/path/${TARGET_AT}.jsonl`, { path: SOURCE_AT })
+  importsFiled(root, TARGET_AT, [SOURCE_AT])
   return root
 }
 
 export function reachingWorld(reaching: Readonly<Record<string, readonly string[]>>): string {
   const root = worldFor(IMPORT)
-  for (const [into, from] of Object.entries(reaching)) {
-    filedAll(
-      root,
-      `${IMPORT}/path/${into}.jsonl`,
-      from.map((one) => ({ path: one }))
-    )
-  }
+  for (const [into, from] of Object.entries(reaching)) importsFiled(root, into, from)
   return root
 }
 
 export function loadingWorld(loadedBy: string | null, typeExists = true): string {
   const root = worldFor(IMPORT)
-  filed(root, `${IMPORT}/path/${LOADED_AT}.jsonl`, { path: SOURCE_AT })
+  importsFiled(root, LOADED_AT, [SOURCE_AT])
   paged(root, TYPE_AT, {
     id: TYPE_ID,
     pageTypeSlug: PAGE_TYPE,
@@ -278,6 +324,9 @@ export function loaderWorld(names = true): string {
     filed(root, `${HELD_RELATION}/page/id/${LOADER_ID}/${LOADED_BY}/${TYPE_ID}.jsonl`, {
       path: TYPE_AT,
     })
+    besideAdded(root, LOADER_AT, [
+      { propertySlug: LOADED_BY, fileName: null, path: TYPE_AT, id: TYPE_ID },
+    ])
   }
   return root
 }

@@ -9,7 +9,6 @@ import {
   EDGE_ID,
   edgeFiledAt,
   FIRST_AT,
-  filed,
   HELD,
   HELD_LOADER,
   IMPORT,
@@ -17,6 +16,8 @@ import {
   INDEX_AT,
   INDEX_FILED_AT,
   INDEX_ID,
+  importsBeside,
+  importsFiled,
   importWorld,
   KNOWN,
   LEAF_AT,
@@ -27,6 +28,7 @@ import {
   loaderWorld,
   loadingWorld,
   MODULE,
+  namedBeside,
   PART,
   PROPERTY,
   RELATION,
@@ -35,6 +37,7 @@ import {
   SECOND_AT,
   SIDECAR_AT,
   SOURCE_AT,
+  SOURCE_ID,
   scratch,
   TARGET_AT,
   THIRD_AT,
@@ -155,9 +158,11 @@ test("a page type stating a loader is answered no differently from one stating n
 
 test("an import edge existing only in the index given is answered, and none without it", () => {
   const root = importWorld(IMPORT)
-  const over = readingLaidOver(root, {
-    [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }],
-  })
+  const over = readingLaidOver(
+    root,
+    { [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }] },
+    importsBeside(FIRST_AT, [SECOND_AT])
+  )
 
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([
     { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: AT_INDEX } },
@@ -167,8 +172,12 @@ test("an import edge existing only in the index given is answered, and none with
 
 test("an import edge the index given empties is not answered, and exists without it", () => {
   const root = importWorld(IMPORT)
-  filed(root, `${IMPORT}/path/${FIRST_AT}.jsonl`, { path: THIRD_AT })
-  const over = readingLaidOver(root, { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] })
+  importsFiled(root, FIRST_AT, [THIRD_AT])
+  const over = readingLaidOver(
+    root,
+    { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] },
+    importsBeside(TARGET_AT, [])
+  )
 
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([])
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
@@ -178,7 +187,11 @@ test("an import edge the index given empties is not answered, and exists without
 
 test("a relation edge existing only in the index given is answered, and none without it", () => {
   const root = relationWorld(0)
-  const over = readingLaidOver(root, { [LEAF_AT]: [{ path: SOURCE_AT }] })
+  const over = readingLaidOver(
+    root,
+    { [LEAF_AT]: [{ path: SOURCE_AT }] },
+    namedBeside(TARGET_AT, PART, SOURCE_AT, SOURCE_ID)
+  )
 
   expect(edgesInto(TARGET_AT, [RELATION], indexOver(over, bodiesIn(root)))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
@@ -243,9 +256,11 @@ test("a seed is part of the answer, and a seed the predicate turns away is none 
 
 test("a closure walks the edges the index it was given answers, and none it does not", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
-  const over = readingLaidOver(root, {
-    [`${IMPORT}/path/${SECOND_AT}.jsonl`]: [{ path: THIRD_AT }],
-  })
+  const over = readingLaidOver(
+    root,
+    { [`${IMPORT}/path/${SECOND_AT}.jsonl`]: [{ path: THIRD_AT }] },
+    importsBeside(SECOND_AT, [THIRD_AT])
+  )
   const every = [FIRST_AT, SECOND_AT, THIRD_AT]
 
   expect(

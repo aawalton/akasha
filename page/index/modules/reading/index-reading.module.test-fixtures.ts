@@ -243,7 +243,11 @@ export function shapeAdded(
   }
 }
 
-function besideAdded(root: string, page: string, references: readonly Reference[]): undefined {
+export function besideAdded(
+  root: string,
+  page: string,
+  references: readonly Reference[]
+): undefined {
   if (references.length === 0) return
   const at = referencesAt(page)
   if (at === null) return
@@ -326,7 +330,8 @@ export function linesFiled(root: string, at: string, lines: readonly unknown[]):
 
 export function readingLaidOver(
   root: string,
-  said: Readonly<Record<string, readonly unknown[]>>
+  said: Readonly<Record<string, readonly unknown[]>>,
+  wrote: Readonly<Record<string, string | null>> = {}
 ): Reading {
   const reading = readingIn(root)
   const filings = Object.entries(said).map(([at, lines]) => ({
@@ -334,7 +339,7 @@ export function readingLaidOver(
     came: lines.map((one) => (typeof one === "string" ? one : JSON.stringify(one))),
     went: reading.lines(at),
   }))
-  return overlaidOn(reading, filings)
+  return overlaidOn(reading, filings, new Map(Object.entries(wrote)))
 }
 
 export function everythingFiled(root: string): readonly string[] {
