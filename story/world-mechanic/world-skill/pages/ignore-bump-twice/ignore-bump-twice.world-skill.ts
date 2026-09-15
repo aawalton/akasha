@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ignoreBumpTwice = {
   id: "01a06575-981c-7ebf-85db-17ca53b67a97",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ignore-bump-twice",
   title: "Ignore Bump (Twice)",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const hexOfMalignedAim = {
   id: "01a06575-9819-71d5-b5cb-36ba98fc3126",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hex-of-maligned-aim",
   title: "Hex of Maligned Aim",
   world: "world/the-wandering-inn",

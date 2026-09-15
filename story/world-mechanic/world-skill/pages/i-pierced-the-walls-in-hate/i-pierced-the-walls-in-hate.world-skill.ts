@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const iPiercedTheWallsInHate = {
   id: "01a06575-981c-7cb2-b002-d380c094c1be",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "i-pierced-the-walls-in-hate",
   title: "I Pierced the Walls in Hate",
   world: "world/the-wandering-inn",

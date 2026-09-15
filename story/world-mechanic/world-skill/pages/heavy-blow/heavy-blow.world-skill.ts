@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const heavyBlow = {
   id: "01a06575-9819-7a27-a240-f4e0ddfee1dd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "heavy-blow",
   title: "Heavy Blow",
   world: "world/the-wandering-inn",

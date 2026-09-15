@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const hundredfoldArmsRepair = {
   id: "01a06575-981b-74f3-9e37-812659b29888",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hundredfold-arms-repair",
   title: "Hundredfold Arms Repair",
   world: "world/the-wandering-inn",

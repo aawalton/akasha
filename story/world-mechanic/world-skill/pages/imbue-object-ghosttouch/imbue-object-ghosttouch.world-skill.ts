@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const imbueObjectGhosttouch = {
   id: "01a06575-981c-766c-a0a6-fdfacb3f7042",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "imbue-object-ghosttouch",
   title: "Imbue Object: Ghosttouch",
   world: "world/the-wandering-inn",

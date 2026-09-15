@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const heWalkedAndShadowsSplit = {
   id: "01a06575-9818-70e9-8b94-8f9d0e3ee71b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "he-walked-and-shadows-split",
   title: "He Walked and Shadows Split",
   world: "world/the-wandering-inn",

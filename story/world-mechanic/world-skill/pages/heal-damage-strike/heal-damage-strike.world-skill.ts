@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const healDamageStrike = {
   id: "01a06575-9819-7c04-9a12-d36e866f7633",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "heal-damage-strike",
   title: "Heal Damage — Strike",
   world: "world/the-wandering-inn",

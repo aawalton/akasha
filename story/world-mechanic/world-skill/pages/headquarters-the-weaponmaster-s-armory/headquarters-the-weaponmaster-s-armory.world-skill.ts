@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const headquartersTheWeaponmasterSArmory = {
   id: "01a06575-9818-7ed8-9901-2ed13c7f9d75",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "headquarters-the-weaponmaster-s-armory",
   title: "Headquarters: The Weaponmaster’s Armory",
   world: "world/the-wandering-inn",

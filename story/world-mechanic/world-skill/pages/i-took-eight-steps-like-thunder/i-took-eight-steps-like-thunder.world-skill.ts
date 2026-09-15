@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const iTookEightStepsLikeThunder = {
   id: "01a06575-981c-79f7-892f-fc8eda5ce5c7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "i-took-eight-steps-like-thunder",
   title: "I Took Eight Steps Like Thunder",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const iHaveABadFeeling = {
   id: "01a06575-981b-7a5b-890b-1d993a0d3102",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "i-have-a-bad-feeling",
   title: "I Have a Bad Feeling",
   world: "world/the-wandering-inn",

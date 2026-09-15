@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const hintOfEmpathy = {
   id: "01a06575-981a-78ec-8a86-e1aefb252a6b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hint-of-empathy",
   title: "Hint of Empathy",
   world: "world/the-wandering-inn",

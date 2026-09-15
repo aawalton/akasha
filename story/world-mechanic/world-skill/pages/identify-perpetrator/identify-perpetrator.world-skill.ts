@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const identifyPerpetrator = {
   id: "01a06575-981c-7612-bcc9-fa27e0108b8b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "identify-perpetrator",
   title: "Identify Perpetrator",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const immobileRanks = {
   id: "01a06575-981c-7696-8c4d-966df44d7a47",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "immobile-ranks",
   title: "Immobile Ranks",
   world: "world/the-wandering-inn",

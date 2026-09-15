@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const iStoleLightning = {
   id: "01a06575-981c-776b-ba59-d9b89250d4c2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "i-stole-lightning",
   title: "I Stole Lightning",
   world: "world/the-wandering-inn",

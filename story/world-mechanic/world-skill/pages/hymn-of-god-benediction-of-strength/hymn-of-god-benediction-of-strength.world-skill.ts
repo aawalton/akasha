@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const hymnOfGodBenedictionOfStrength = {
   id: "01a06575-981b-73d0-8a43-81ffc245a029",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hymn-of-god-benediction-of-strength",
   title: "Hymn of God: Benediction of Strength",
   world: "world/the-wandering-inn",

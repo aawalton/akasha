@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const hobSStrength = {
   id: "01a06575-981a-70b6-93d6-f7c3b9bfc541",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hob-s-strength",
   title: "Hob’s Strength",
   world: "world/the-wandering-inn",

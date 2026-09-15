@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const hollowPointShot = {
   id: "01a06575-981a-739b-b4b1-9044fd46f188",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hollow-point-shot",
   title: "Hollow-Point Shot",
   world: "world/the-wandering-inn",

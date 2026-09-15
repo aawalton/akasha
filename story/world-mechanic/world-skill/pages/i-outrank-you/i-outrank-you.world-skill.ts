@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const iOutrankYou = {
   id: "01a06575-981c-7105-9aac-60148e1baa8d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "i-outrank-you",
   title: "I Outrank You",
   world: "world/the-wandering-inn",

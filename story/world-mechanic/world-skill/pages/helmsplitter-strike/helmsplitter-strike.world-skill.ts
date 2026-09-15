@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const helmsplitterStrike = {
   id: "01a06575-9819-7d87-b277-3b4345eee8ca",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "helmsplitter-strike",
   title: "Helmsplitter Strike",
   world: "world/the-wandering-inn",

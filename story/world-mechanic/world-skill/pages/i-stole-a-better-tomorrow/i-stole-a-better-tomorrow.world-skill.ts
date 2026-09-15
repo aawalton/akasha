@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const iStoleABetterTomorrow = {
   id: "01a06575-981c-7b98-91b3-faf27ac6567b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "i-stole-a-better-tomorrow",
   title: "I Stole a Better Tomorrow",
   world: "world/the-wandering-inn",

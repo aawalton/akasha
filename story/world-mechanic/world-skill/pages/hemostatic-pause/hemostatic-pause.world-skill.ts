@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const hemostaticPause = {
   id: "01a06575-9819-7dd1-ac2e-345f7874d514",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hemostatic-pause",
   title: "Hemostatic Pause",
   world: "world/the-wandering-inn",

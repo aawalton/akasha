@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const honestGiftExchange = {
   id: "01a06575-981a-7a19-a0fe-42cafca55954",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "honest-gift-exchange",
   title: "Honest Gift Exchange",
   world: "world/the-wandering-inn",

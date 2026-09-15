@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const hiddenPotential = {
   id: "01a06575-981a-79db-b245-eba024495d1e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hidden-potential",
   title: "Hidden Potential",
   world: "world/the-wandering-inn",

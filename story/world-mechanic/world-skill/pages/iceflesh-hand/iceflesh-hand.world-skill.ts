@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const icefleshHand = {
   id: "01a06575-981c-7838-a11e-2e3d6f2a08d2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "iceflesh-hand",
   title: "Iceflesh Hand",
   world: "world/the-wandering-inn",

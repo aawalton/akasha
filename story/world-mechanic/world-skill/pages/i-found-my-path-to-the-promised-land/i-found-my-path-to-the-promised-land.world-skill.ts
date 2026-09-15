@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const iFoundMyPathToThePromisedLand = {
   id: "01a06575-981b-72fe-955c-2ea44430ef3b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "i-found-my-path-to-the-promised-land",
   title: "I Found My Path to the Promised Land",
   world: "world/the-wandering-inn",

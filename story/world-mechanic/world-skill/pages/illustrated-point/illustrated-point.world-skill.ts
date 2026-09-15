@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const illustratedPoint = {
   id: "01a06575-981c-7f5b-afd3-83a7c52d0b3d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "illustrated-point",
   title: "Illustrated Point",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const heatResistance = {
   id: "01a06575-9819-7f8e-bb21-105877c9ed80",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "heat-resistance",
   title: "Heat Resist—",
   world: "world/the-wandering-inn",

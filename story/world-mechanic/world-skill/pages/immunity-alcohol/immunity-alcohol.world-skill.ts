@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const immunityAlcohol = {
   id: "01a06575-981d-70ce-ba6c-af84b7dcc006",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "immunity-alcohol",
   title: "Immunity: Alcohol",
   world: "world/the-wandering-inn",

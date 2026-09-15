@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const iDippedMyBladeInDestiny = {
   id: "01a06575-981b-7c03-b333-65808279d545",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "i-dipped-my-blade-in-destiny",
   title: "I Dipped My Blade in Destiny",
   world: "world/the-wandering-inn",

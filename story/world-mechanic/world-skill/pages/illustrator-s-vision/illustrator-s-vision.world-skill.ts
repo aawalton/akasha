@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const illustratorSVision = {
   id: "01a06575-981c-753b-8646-185cb7352b23",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "illustrator-s-vision",
   title: "Illustrator’s Vision",
   world: "world/the-wandering-inn",
