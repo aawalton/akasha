@@ -8,14 +8,15 @@ import {
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
 import { synthNamespaceConfigmapDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { pgbouncer } from "akasha/infrastructure/service/cluster/pages/pgbouncer/pgbouncer.service-cluster.ts"
 
-const NAMESPACE = "pgbouncer"
-const APP_NAME = "pgbouncer"
-const INSTANCE_NAME = "pgbouncer"
+const NAMESPACE = pgbouncer.namespace
+const APP_NAME = pgbouncer.resourceName
+const INSTANCE_NAME = pgbouncer.resourceName
 const COMPONENT = "database-proxy"
-const PART_OF = "pgbouncer"
+const PART_OF = pgbouncer.slug
 const MANAGED_BY = "bootstrap"
-const PGBOUNCER_IMAGE = "edoburu/pgbouncer:v1.25.1-p0"
+const PGBOUNCER_IMAGE = pgbouncer.image
 
 const NAMESPACE_LABELS = kubernetesLabels({
   name: APP_NAME,
@@ -38,7 +39,7 @@ const PGBOUNCER_INI = [
   "",
   "[pgbouncer]",
   "listen_addr = 0.0.0.0",
-  "listen_port = 5432",
+  `listen_port = ${pgbouncer.containerPort}`,
   "pool_mode = transaction",
   "default_pool_size = 50",
   "max_client_conn = 200",
@@ -77,12 +78,12 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "pgbouncer",
+      name: pgbouncer.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: pgbouncer.replicas,
       revisionHistoryLimit: 3,
       strategy: {
         type: "RollingUpdate",
@@ -103,7 +104,7 @@ function deploymentYaml(): string {
             {
               name: "pgbouncer",
               image: PGBOUNCER_IMAGE,
-              ports: [{ containerPort: 5432, protocol: "TCP" }],
+              ports: [{ containerPort: pgbouncer.containerPort, protocol: "TCP" }],
               volumeMounts: [
                 {
                   name: "config",
@@ -122,12 +123,12 @@ function deploymentYaml(): string {
                 { name: "run", mountPath: "/run" },
               ],
               readinessProbe: {
-                tcpSocket: { port: 5432 },
+                tcpSocket: { port: pgbouncer.containerPort },
                 initialDelaySeconds: 5,
                 periodSeconds: 10,
               },
               livenessProbe: {
-                tcpSocket: { port: 5432 },
+                tcpSocket: { port: pgbouncer.containerPort },
                 initialDelaySeconds: 10,
                 periodSeconds: 30,
               },
@@ -166,7 +167,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "pgbouncer",
+      name: pgbouncer.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
@@ -175,8 +176,8 @@ function serviceYaml(): string {
       selector: SELECTOR_LABELS,
       ports: [
         {
-          port: 5432,
-          targetPort: 5432,
+          port: pgbouncer.containerPort,
+          targetPort: pgbouncer.containerPort,
           protocol: "TCP",
         },
       ],
