@@ -2,7 +2,7 @@ import type { TemperVampireStage } from "akasha/temper/catalog/temper-effect/tem
 
 export const stage4 = {
   id: "019e21f4-0ab2-7090-a9e3-d24e60e0a689",
-  type: "temper-vampire-stage",
+  type: "page-type/temper-vampire-stage",
   slug: "stage-4",
   title: "Stage 4",
   key: "stage-4",
