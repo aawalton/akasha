@@ -7,4 +7,5 @@ export const kiAuthor = {
   definition: "someone who wrote a book Ki keeps",
   extends: ["page-type/ki-collection-template"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

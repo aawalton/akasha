@@ -124,4 +124,5 @@ export const domain = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -38,4 +38,5 @@ export const song = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -7,4 +7,5 @@ export const temperWeaponBar = {
   definition: "one of the two rows a character slots weapons into",
   extends: ["page-type/temper-character-thing"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -94,4 +94,5 @@ export const relationship = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

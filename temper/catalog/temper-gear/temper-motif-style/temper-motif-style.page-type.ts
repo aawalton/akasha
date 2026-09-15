@@ -17,4 +17,5 @@ export const temperMotifStyle = {
     { pageProperty: "text-property/drop-sources", required: false, many: true, maxCount: null },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

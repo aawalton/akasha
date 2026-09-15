@@ -63,4 +63,5 @@ export const module = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

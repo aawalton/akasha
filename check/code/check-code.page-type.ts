@@ -250,4 +250,5 @@ export const checkCode = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

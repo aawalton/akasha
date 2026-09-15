@@ -36,4 +36,5 @@ export const refusal = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

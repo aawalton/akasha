@@ -56,4 +56,5 @@ export const agentSettings = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

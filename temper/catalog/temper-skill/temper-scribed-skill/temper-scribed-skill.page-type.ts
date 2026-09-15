@@ -13,4 +13,5 @@ export const temperScribedSkill = {
     { pageProperty: "text-property/grimoire-id", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -83,4 +83,5 @@ export const pageProperty = {
   ],
   typeGenerator: "ts",
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

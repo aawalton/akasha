@@ -21,4 +21,5 @@ export const kiFranchise = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

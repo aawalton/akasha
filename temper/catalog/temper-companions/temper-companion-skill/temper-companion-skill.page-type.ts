@@ -86,4 +86,5 @@ export const temperCompanionSkill = {
     { pageProperty: "page-property-entry/cast-conditions", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

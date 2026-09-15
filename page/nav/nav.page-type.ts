@@ -54,4 +54,5 @@ export const nav = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

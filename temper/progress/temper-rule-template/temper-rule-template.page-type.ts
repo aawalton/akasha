@@ -23,4 +23,5 @@ export const temperRuleTemplate = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

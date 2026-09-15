@@ -13,4 +13,5 @@ export const temperRace = {
     { pageProperty: "number-property/eso-race-id", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

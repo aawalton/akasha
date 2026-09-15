@@ -53,4 +53,5 @@ export const finding = {
       statement: "A file or property close to its length limit is no finding.",
     },
   ],
+  schema: "jsonl",
 } as const satisfies PageType

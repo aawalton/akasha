@@ -14,4 +14,5 @@ export const temperVampireStage = {
     { pageProperty: "number-property/eso-vampire-stage-id", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

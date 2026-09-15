@@ -96,4 +96,5 @@ export const seatConditions = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

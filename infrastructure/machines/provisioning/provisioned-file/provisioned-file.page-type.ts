@@ -77,4 +77,5 @@ export const provisionedFile = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -28,4 +28,5 @@ export const codeFileProperty = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

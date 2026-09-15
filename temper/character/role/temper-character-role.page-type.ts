@@ -7,4 +7,5 @@ export const temperCharacterRole = {
   definition: "the part a character plays in a group",
   extends: ["page-type/temper-character-thing"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

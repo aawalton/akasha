@@ -11,4 +11,5 @@ export const temperInventoryCurrency = {
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

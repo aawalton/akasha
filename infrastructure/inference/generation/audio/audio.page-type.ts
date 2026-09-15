@@ -21,4 +21,5 @@ export const audio = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

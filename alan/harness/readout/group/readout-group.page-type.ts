@@ -37,4 +37,5 @@ export const readoutGroup = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

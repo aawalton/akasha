@@ -20,4 +20,5 @@ export const temperSkillLine = {
     { pageProperty: "text-property/skill-line-class", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

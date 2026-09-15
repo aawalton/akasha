@@ -12,4 +12,5 @@ export const temperWeaponTrait = {
     { pageProperty: "text-property/eso-trait-constant-name", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

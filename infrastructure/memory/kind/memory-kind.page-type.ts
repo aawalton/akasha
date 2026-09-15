@@ -38,4 +38,5 @@ export const memoryKind = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

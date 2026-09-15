@@ -27,4 +27,5 @@ export const temperSet = {
     { pageProperty: "text-property/set-class-id", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

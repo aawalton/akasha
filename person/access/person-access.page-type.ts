@@ -23,4 +23,5 @@ export const personAccess = {
     { pageProperty: "text-property/person-access-serves", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

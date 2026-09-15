@@ -26,4 +26,5 @@ export const unit = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

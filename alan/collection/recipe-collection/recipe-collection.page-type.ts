@@ -8,4 +8,5 @@ export const recipeCollection = {
   extends: ["page-type/collection"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -12,4 +12,5 @@ export const temperActivityCategory = {
     { pageProperty: "text-property/badge-variant", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

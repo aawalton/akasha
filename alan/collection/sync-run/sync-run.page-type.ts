@@ -46,4 +46,5 @@ export const syncRun = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

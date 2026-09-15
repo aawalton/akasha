@@ -8,4 +8,5 @@ export const worldBoon = {
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -15,4 +15,5 @@ export const directiveKind = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

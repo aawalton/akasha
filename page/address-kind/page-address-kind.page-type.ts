@@ -38,4 +38,5 @@ export const pageAddressKind = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

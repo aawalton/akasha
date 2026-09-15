@@ -33,4 +33,5 @@ export const rankProperty = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

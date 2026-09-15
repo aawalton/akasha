@@ -11,4 +11,5 @@ export const temperCompanionArmorSlot = {
     { pageProperty: "number-property/equip-type", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

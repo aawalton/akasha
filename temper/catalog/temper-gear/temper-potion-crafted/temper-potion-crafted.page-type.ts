@@ -16,4 +16,5 @@ export const temperPotionCrafted = {
     { pageProperty: "record-property/recipes", required: true, many: true, maxCount: null },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -10,4 +10,5 @@ export const recordProperty = {
     { pageProperty: "one-of-property/properties", required: true, many: true, maxCount: null },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

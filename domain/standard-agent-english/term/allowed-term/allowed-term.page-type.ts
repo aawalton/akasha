@@ -7,4 +7,5 @@ export const allowedTerm = {
   definition: "one term akasha writes",
   extends: ["page-type/term"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

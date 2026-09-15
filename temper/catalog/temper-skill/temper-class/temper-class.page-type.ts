@@ -12,4 +12,5 @@ export const temperClass = {
     { pageProperty: "number-property/eso-class-id", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

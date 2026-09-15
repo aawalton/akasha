@@ -18,4 +18,5 @@ export const temperDungeon = {
     { pageProperty: "text-property/solo-difficulty", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

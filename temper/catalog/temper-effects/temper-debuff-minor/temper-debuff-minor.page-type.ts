@@ -11,4 +11,5 @@ export const temperDebuffMinor = {
     { pageProperty: "text-property/description", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

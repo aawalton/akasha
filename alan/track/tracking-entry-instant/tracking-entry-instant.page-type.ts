@@ -7,4 +7,5 @@ export const trackingEntryInstant = {
   definition: "a tracking entry for something that happened at one moment",
   extends: ["page-type/tracking-entry"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

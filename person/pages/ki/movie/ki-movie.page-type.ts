@@ -17,4 +17,5 @@ export const kiMovie = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

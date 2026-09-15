@@ -33,4 +33,5 @@ export const temperNetWorthHour = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -14,4 +14,5 @@ export const repo = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

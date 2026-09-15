@@ -44,4 +44,5 @@ export const chessProgress = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

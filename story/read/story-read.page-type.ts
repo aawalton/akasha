@@ -61,4 +61,5 @@ export const storyRead = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

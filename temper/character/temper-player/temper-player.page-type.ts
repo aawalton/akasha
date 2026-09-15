@@ -21,4 +21,5 @@ export const temperPlayer = {
     { pageProperty: "file-property/settings", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

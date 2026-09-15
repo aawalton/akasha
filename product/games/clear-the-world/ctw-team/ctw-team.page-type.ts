@@ -35,4 +35,5 @@ export const ctwTeam = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

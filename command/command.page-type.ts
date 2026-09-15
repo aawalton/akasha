@@ -198,4 +198,5 @@ export const command = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

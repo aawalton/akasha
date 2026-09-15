@@ -12,4 +12,5 @@ export const temperArmorSlot = {
     { pageProperty: "text-property/icon", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

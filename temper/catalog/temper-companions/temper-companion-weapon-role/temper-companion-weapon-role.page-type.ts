@@ -28,4 +28,5 @@ export const temperCompanionWeaponRole = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

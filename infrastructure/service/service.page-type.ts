@@ -105,4 +105,5 @@ export const service = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

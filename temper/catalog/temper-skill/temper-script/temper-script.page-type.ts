@@ -9,4 +9,5 @@ export const temperScript = {
   parts: ["text-property/slot-type"],
   properties: [{ pageProperty: "text-property/slot-type", required: true, many: false }],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

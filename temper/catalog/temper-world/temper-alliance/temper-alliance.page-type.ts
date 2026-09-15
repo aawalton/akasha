@@ -9,4 +9,5 @@ export const temperAlliance = {
   parts: ["number-property/eso-alliance-id"],
   properties: [{ pageProperty: "number-property/eso-alliance-id", required: true, many: false }],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

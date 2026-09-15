@@ -12,4 +12,5 @@ export const textProperty = {
     { pageProperty: "relation-property/name-format", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

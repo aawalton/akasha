@@ -19,4 +19,5 @@ export const temperScribingSource = {
     { pageProperty: "text-property/zone-slugs", required: true, many: true, maxCount: null },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

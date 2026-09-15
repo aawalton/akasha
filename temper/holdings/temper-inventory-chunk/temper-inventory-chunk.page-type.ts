@@ -36,4 +36,5 @@ export const temperInventoryChunk = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

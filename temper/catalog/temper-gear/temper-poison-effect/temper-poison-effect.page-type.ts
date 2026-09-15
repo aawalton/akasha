@@ -14,4 +14,5 @@ export const temperPoisonEffect = {
     { pageProperty: "number-property/cooldown", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

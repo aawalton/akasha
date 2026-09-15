@@ -114,4 +114,5 @@ export const view = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

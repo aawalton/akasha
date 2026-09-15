@@ -19,4 +19,5 @@ export const temperSkillPoint = {
     { pageProperty: "number-property/max-value", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

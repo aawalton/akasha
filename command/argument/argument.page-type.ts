@@ -75,4 +75,5 @@ export const argument = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

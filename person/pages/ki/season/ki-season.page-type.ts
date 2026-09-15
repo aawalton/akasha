@@ -27,4 +27,5 @@ export const kiSeason = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

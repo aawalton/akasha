@@ -32,4 +32,5 @@ export const temperAchievementCategory = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

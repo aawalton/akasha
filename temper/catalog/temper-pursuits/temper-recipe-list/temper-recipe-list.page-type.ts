@@ -27,4 +27,5 @@ export const temperRecipeList = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

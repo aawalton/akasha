@@ -31,4 +31,5 @@ export const strengthExerciseImplement = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

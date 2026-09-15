@@ -35,4 +35,5 @@ export const monarchCategory = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

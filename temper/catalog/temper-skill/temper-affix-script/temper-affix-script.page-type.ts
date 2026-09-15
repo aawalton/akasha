@@ -7,4 +7,5 @@ export const temperAffixScript = {
   definition: "the script naming the bonus a scribed skill grants",
   extends: ["page-type/temper-script"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

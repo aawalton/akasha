@@ -31,4 +31,5 @@ export const show = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

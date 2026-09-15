@@ -8,4 +8,5 @@ export const graphAttribute = {
   parts: ["graph-attribute/known", "graph-attribute/property"],
   extends: ["page-type/domain"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

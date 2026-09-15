@@ -7,4 +7,5 @@ export const commonLanguageTerm = {
   definition: "one word or phrase with its ordinary sense",
   extends: ["page-type/allowed-term"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

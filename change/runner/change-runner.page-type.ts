@@ -69,4 +69,5 @@ export const changeRunner = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

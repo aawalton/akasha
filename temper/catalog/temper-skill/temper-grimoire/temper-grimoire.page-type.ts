@@ -23,4 +23,5 @@ export const temperGrimoire = {
     { pageProperty: "page-property-entry/signature-scripts", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -22,4 +22,5 @@ export const trackingEntry = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

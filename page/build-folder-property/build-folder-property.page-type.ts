@@ -33,4 +33,5 @@ export const buildFolderProperty = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -12,4 +12,5 @@ export const temperAccount = {
     { pageProperty: "text-property/world-name", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -14,4 +14,5 @@ export const temperJewelrySlot = {
     { pageProperty: "text-property/jewelry-type-id", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

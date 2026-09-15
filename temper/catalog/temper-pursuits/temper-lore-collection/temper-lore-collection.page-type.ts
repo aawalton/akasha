@@ -30,4 +30,5 @@ export const temperLoreCollection = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -19,4 +19,5 @@ export const personaAnchorImage = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -12,4 +12,5 @@ export const temperWeaponEnchant = {
     { pageProperty: "text-property/eso-enchant-constant-name", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

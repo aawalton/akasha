@@ -9,4 +9,5 @@ export const esoOptInList = {
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "file-property/tokens", required: true, many: false }],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

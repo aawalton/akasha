@@ -15,4 +15,5 @@ export const invariantGroup = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

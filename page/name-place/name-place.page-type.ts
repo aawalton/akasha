@@ -44,4 +44,5 @@ export const namePlace = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

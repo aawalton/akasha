@@ -38,4 +38,5 @@ export const proof = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

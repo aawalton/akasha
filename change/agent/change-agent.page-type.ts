@@ -33,4 +33,5 @@ export const changeAgent = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

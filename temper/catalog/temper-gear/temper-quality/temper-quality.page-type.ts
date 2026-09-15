@@ -12,4 +12,5 @@ export const temperQuality = {
     { pageProperty: "boolean-property/available", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -38,4 +38,5 @@ export const emailRule = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

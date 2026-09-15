@@ -18,4 +18,5 @@ export const franchise = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

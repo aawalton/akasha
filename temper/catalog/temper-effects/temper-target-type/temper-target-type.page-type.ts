@@ -8,4 +8,5 @@ export const temperTargetType = {
   extends: ["page-type/temper-catalog-thing"],
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

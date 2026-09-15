@@ -52,4 +52,5 @@ export const namedFolderProperty = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

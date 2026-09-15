@@ -31,4 +31,5 @@ export const componentPropertyGroup = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

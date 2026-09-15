@@ -18,4 +18,5 @@ export const temperComparisonOp = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

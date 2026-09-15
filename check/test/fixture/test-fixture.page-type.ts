@@ -90,4 +90,5 @@ export const testFixture = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -21,4 +21,5 @@ export const kiBookSeries = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

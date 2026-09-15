@@ -27,4 +27,5 @@ export const temperCatalogDomain = {
     { pageProperty: "boolean-property/dormant", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

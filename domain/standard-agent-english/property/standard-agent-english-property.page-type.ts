@@ -25,4 +25,5 @@ export const standardAgentEnglishProperty = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

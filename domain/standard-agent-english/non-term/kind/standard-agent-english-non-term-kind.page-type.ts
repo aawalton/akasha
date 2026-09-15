@@ -10,4 +10,5 @@ export const standardAgentEnglishNonTermKind = {
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

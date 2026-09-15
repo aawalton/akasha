@@ -23,4 +23,5 @@ export const fileKindDomain = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

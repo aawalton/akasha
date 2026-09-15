@@ -50,4 +50,5 @@ export const builtImage = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

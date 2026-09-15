@@ -14,4 +14,5 @@ export const temperArmorWeight = {
     { pageProperty: "text-property/skill-line-id", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -31,4 +31,5 @@ export const luaRuntimeLibrary = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

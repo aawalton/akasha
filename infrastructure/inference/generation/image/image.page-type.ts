@@ -29,4 +29,5 @@ export const image = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

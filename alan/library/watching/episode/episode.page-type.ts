@@ -32,4 +32,5 @@ export const episode = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

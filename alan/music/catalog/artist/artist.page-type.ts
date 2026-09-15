@@ -13,4 +13,5 @@ export const artist = {
     { pageProperty: "file-property/reaction", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

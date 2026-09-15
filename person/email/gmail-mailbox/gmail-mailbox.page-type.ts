@@ -28,4 +28,5 @@ export const gmailMailbox = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

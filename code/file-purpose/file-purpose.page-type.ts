@@ -28,4 +28,5 @@ export const filePurpose = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -39,4 +39,5 @@ export const storyPlayed = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

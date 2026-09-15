@@ -44,4 +44,5 @@ export const monarchMerchant = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

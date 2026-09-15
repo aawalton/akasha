@@ -151,4 +151,5 @@ export const game = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -19,4 +19,5 @@ export const generatorKind = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

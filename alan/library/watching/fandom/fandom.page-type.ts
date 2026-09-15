@@ -8,4 +8,5 @@ export const fandom = {
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

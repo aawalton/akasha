@@ -43,4 +43,5 @@ export const fitnessCoachingNote = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -56,4 +56,5 @@ export const stylesheet = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

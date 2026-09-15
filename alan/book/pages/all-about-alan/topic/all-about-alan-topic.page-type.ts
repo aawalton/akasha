@@ -47,4 +47,5 @@ export const allAboutAlanTopic = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

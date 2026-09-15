@@ -38,4 +38,5 @@ export const temperThing = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

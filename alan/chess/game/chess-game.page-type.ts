@@ -83,4 +83,5 @@ export const chessGame = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

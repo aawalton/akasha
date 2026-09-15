@@ -12,4 +12,5 @@ export const temperTargetArmor = {
     { pageProperty: "number-property/armor", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

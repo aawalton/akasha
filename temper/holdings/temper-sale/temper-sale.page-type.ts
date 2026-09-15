@@ -54,4 +54,5 @@ export const temperSale = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

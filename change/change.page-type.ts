@@ -148,4 +148,5 @@ export const change = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

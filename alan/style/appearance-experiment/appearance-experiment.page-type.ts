@@ -57,4 +57,5 @@ export const appearanceExperiment = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

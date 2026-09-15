@@ -86,4 +86,5 @@ export const temperInventorySnapshot = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

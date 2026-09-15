@@ -45,4 +45,5 @@ export const temperSkill = {
     { pageProperty: "text-property/skill-status", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

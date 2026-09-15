@@ -74,4 +74,5 @@ export const initiative = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

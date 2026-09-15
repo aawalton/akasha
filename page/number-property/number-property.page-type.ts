@@ -9,4 +9,5 @@ export const numberProperty = {
   parts: ["number-property/max"],
   properties: [{ pageProperty: "number-property/max", required: true, many: false }],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

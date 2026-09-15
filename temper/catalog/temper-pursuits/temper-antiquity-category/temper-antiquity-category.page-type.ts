@@ -25,4 +25,5 @@ export const temperAntiquityCategory = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

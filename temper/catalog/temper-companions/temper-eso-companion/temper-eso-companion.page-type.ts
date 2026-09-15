@@ -22,4 +22,5 @@ export const temperEsoCompanion = {
     { pageProperty: "page-property-entry/passive-effects", required: false, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

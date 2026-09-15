@@ -48,4 +48,5 @@ export const doctrine = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

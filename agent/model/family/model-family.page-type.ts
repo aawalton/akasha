@@ -15,4 +15,5 @@ export const modelFamily = {
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "text-property/model-name", required: true, many: false }],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

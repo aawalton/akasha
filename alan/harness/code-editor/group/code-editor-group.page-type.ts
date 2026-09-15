@@ -9,4 +9,5 @@ export const codeEditorGroup = {
   parts: ["page-type/code-editor-group-tab"],
   mortal: true,
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

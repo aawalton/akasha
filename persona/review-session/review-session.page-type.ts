@@ -40,4 +40,5 @@ export const reviewSession = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -27,4 +27,5 @@ export const proseFrame = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

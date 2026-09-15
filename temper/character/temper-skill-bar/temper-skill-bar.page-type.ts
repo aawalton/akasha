@@ -7,4 +7,5 @@ export const temperSkillBar = {
   definition: "one of the two rows a character slots skills into",
   extends: ["page-type/temper-character-thing"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

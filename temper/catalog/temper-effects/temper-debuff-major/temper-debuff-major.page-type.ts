@@ -12,4 +12,5 @@ export const temperDebuffMajor = {
     { pageProperty: "page-property-entry/effects", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

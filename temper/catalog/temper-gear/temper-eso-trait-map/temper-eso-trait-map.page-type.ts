@@ -15,4 +15,5 @@ export const temperEsoTraitMap = {
     { pageProperty: "number-property/eso-trait-num", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

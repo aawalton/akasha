@@ -29,4 +29,5 @@ export const performance = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

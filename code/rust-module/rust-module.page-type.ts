@@ -38,4 +38,5 @@ export const rustModule = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

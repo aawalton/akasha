@@ -26,4 +26,5 @@ export const calendarDateProperty = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

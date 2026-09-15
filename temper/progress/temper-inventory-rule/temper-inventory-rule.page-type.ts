@@ -51,4 +51,5 @@ export const temperInventoryRule = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

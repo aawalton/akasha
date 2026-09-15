@@ -41,4 +41,5 @@ export const changeKind = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

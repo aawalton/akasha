@@ -47,4 +47,5 @@ export const shellScript = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -66,4 +66,5 @@ export const nameFormat = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

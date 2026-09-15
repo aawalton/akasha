@@ -7,4 +7,5 @@ export const booleanProperty = {
   definition: "a page property holding true or false",
   extends: ["page-type/page-property"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

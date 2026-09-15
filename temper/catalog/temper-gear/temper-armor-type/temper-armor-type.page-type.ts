@@ -14,4 +14,5 @@ export const temperArmorType = {
     { pageProperty: "text-property/valid-slots", required: true, many: true, maxCount: null },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

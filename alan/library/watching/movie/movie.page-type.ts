@@ -26,4 +26,5 @@ export const movie = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

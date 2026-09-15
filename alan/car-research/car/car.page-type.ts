@@ -28,4 +28,5 @@ export const car = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

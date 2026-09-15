@@ -211,4 +211,5 @@ export const persona = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

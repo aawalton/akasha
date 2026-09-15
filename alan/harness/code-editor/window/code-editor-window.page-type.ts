@@ -46,4 +46,5 @@ export const codeEditorWindow = {
       uncommitted: true,
     },
   ],
+  schema: "jsonl",
 } as const satisfies PageType

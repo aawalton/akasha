@@ -27,4 +27,5 @@ export const modelProvider = {
     { pageProperty: "url-property/api-base", required: true, many: false },
     { pageProperty: "text-property/api-key", required: false, many: false, secret: true },
   ],
+  schema: "jsonl",
 } as const satisfies PageType

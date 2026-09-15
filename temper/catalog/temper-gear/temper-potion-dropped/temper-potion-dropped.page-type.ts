@@ -16,4 +16,5 @@ export const temperPotionDropped = {
     { pageProperty: "number-property/potion-seconds", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

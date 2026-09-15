@@ -210,4 +210,5 @@ export const day = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

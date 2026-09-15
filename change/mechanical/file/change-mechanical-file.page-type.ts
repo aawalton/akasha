@@ -17,4 +17,5 @@ export const changeMechanicalFile = {
   ],
   properties: [],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

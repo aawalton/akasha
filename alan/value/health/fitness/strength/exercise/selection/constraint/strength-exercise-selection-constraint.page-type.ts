@@ -24,4 +24,5 @@ export const strengthExerciseSelectionConstraint = {
     "calendar-date-property/tested-again-on",
     "strength-exercise-selection-constraint/bilateral-hinge",
   ],
+  schema: "jsonl",
 } as const satisfies PageType

@@ -38,4 +38,5 @@ export const telnyxAccount = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

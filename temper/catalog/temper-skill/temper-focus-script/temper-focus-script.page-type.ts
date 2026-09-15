@@ -7,4 +7,5 @@ export const temperFocusScript = {
   definition: "the script naming what a scribed skill does",
   extends: ["page-type/temper-script"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

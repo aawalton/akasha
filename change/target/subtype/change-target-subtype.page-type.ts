@@ -56,4 +56,5 @@ export const changeTargetSubtype = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

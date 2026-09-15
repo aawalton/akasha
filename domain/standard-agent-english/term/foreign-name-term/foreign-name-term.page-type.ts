@@ -7,4 +7,5 @@ export const foreignNameTerm = {
   definition: "one name whose sense is set outside akasha",
   extends: ["page-type/allowed-term"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -74,4 +74,5 @@ export const iosProgram = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

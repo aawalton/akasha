@@ -61,4 +61,5 @@ export const locationTrace = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

@@ -18,4 +18,5 @@ export const temperCompanionTrait = {
     { pageProperty: "boolean-property/is-reduction", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

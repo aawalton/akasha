@@ -13,4 +13,5 @@ export const temperScribingThing = {
     { pageProperty: "number-property/uesp-id", required: true, many: false },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

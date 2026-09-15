@@ -7,4 +7,5 @@ export const temperSignatureScript = {
   definition: "the script naming the turn a scribed skill takes",
   extends: ["page-type/temper-script"],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

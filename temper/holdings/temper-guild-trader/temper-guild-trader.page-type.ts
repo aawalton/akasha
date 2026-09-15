@@ -9,4 +9,5 @@ export const temperGuildTrader = {
   parts: ["number-property/kiosk-id"],
   properties: [{ pageProperty: "number-property/kiosk-id", required: true, many: false }],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

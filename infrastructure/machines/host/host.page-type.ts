@@ -51,4 +51,5 @@ export const host = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType

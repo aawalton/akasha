@@ -71,4 +71,5 @@ export const identityStatement = {
     },
   ],
   types: "ts",
+  schema: "jsonl",
 } as const satisfies PageType
