@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsSkyShards02 = {
   id: "01a06269-2af7-7c0b-bfab-7969ede0a76e",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-sky-shards-02",
   definition: "one run of the skyshard places by zone",
   code: "ts",

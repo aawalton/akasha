@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsMiningSampleTooltip = {
   id: "01a06269-2ae1-7438-ae5d-0cfd8d246c51",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-mining-sample-tooltip",
   definition: "the tooltip of each mining sample",
   code: "ts",

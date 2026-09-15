@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsAllianceColors = {
   id: "01a06269-2937-7ce3-a774-3a5b13cfecbf",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-alliance-colors",
   definition: "the colour of each alliance",
   code: "ts",

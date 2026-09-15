@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsInstruments = {
   id: "01a06269-2acb-7131-a13b-1d6645bb0430",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-instruments",
   definition: "the instrument places",
   code: "ts",

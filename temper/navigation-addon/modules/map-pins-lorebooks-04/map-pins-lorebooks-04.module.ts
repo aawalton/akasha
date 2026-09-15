@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsLorebooks04 = {
   id: "01a06269-2adb-7af5-b2e4-639376ce4554",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-lorebooks-04",
   definition: "one run of the lore book pin places by zone",
   code: "ts",

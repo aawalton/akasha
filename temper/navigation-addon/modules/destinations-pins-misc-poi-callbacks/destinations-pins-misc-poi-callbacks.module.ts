@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const destinationsPinsMiscPoiCallbacks = {
   id: "01a06269-28f5-79f9-b449-88128634a68b",
-  type: "module",
+  type: "page-type/module",
   slug: "destinations-pins-misc-poi-callbacks",
   definition: "the pin callbacks for wells, ruins, shrines and altars",
   code: "ts",

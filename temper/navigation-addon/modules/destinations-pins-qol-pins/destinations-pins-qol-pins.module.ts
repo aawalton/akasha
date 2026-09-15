@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const destinationsPinsQolPins = {
   id: "01a06269-28fc-7233-aed3-52066b08e056",
-  type: "module",
+  type: "page-type/module",
   slug: "destinations-pins-qol-pins",
   definition: "the pins for stables, docks and portals",
   code: "ts",

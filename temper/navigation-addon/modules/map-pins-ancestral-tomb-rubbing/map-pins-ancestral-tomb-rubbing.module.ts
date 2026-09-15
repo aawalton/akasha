@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsAncestralTombRubbing = {
   id: "01a06269-2a45-78cb-b5fd-e25a668190c3",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-ancestral-tomb-rubbing",
   definition: "the ancestral tomb rubbing places",
   code: "ts",

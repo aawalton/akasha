@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsAchievementItems = {
   id: "01a06269-2969-7110-ad95-fa040c01e213",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-achievement-items",
   definition: "the items whose pickup counts toward an achievement pin",
   code: "ts",

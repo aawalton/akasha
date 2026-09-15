@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsNarrow = {
   id: "01a06269-2959-75c1-a62f-e2a016557adc",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-narrow",
   definition: "what an untyped value the map pins half reads is taken to be",
   code: "ts",

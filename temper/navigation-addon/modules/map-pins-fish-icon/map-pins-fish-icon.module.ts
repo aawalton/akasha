@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsFishIcon = {
   id: "01a06269-2aa7-796f-9777-7ed391d39ca9",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-fish-icon",
   definition: "the icon of each fish",
   code: "ts",

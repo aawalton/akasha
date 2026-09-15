@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const destinationsPinsHooks = {
   id: "01a06269-28ed-739d-b0a1-0444ff5b4d54",
-  type: "module",
+  type: "page-type/module",
   slug: "destinations-pins-hooks",
   definition: "the game's point-of-interest and keep tooltips extended with destination detail",
   code: "ts",

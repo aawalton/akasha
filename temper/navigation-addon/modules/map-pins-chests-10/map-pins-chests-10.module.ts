@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsChests10 = {
   id: "01a06269-2a8f-7361-9407-35b533c0a508",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-chests-10",
   definition: "one run of the treasure chest places by zone",
   code: "ts",

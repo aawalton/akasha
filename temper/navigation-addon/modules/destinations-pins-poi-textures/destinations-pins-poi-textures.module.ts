@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const destinationsPinsPoiTextures = {
   id: "01a06269-28f9-7ced-a074-33ea593a7105",
-  type: "module",
+  type: "page-type/module",
   slug: "destinations-pins-poi-textures",
   definition: "the texture for a known or unknown point of interest by its kind",
   code: "ts",
