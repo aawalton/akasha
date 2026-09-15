@@ -2,7 +2,7 @@ import type { TemperCompanionProgress } from "akasha/temper/character/temper-com
 
 export const bastian = {
   id: "019dda20-e0ef-782c-beb0-ff89523344e3",
-  type: "temper-companion-progress",
+  type: "page-type/temper-companion-progress",
   slug: "bastian",
   title: "Bastian Hallix",
   companionId: "bastian",
