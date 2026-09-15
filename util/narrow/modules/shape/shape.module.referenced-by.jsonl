@@ -27,7 +27,6 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-notices/supervisor-resume-notices.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}

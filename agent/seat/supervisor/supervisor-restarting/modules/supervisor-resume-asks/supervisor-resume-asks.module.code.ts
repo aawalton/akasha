@@ -1,5 +1,4 @@
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { SUPERVISOR_NOTICE_PREFIX } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-notices/supervisor-resume-notices.module.code.ts"
 import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
@@ -9,6 +8,8 @@ import type {
   Infer,
   ShapeError,
 } from "akasha/util/narrow/modules/shape-core/shape-core.module.code.ts"
+
+const SUPERVISOR_NOTICE_PREFIX = "[supervisor]"
 
 const RESTART_NOTICE_DECISION = "restartNotice"
 

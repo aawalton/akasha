@@ -16,6 +16,5 @@ export const supervisorRestarting = {
     "module/supervisor-precliff-restart-rule",
     "module/supervisor-restart-notice-decide",
     "module/supervisor-resume-asks",
-    "module/supervisor-resume-notices",
   ],
 } as const satisfies Domain

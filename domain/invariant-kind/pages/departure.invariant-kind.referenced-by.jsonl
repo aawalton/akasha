@@ -382,7 +382,6 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.ts","id":"01a0683e-3dbe-701a-a109-8a13a6084415"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts","id":"01a06838-5a84-7003-a0ce-e7e92276f897"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.ts","id":"01a0686d-9d5e-7007-a87f-ae0387e800f7"}
-{"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-notices/supervisor-resume-notices.module.ts","id":"01a06876-abda-700c-8461-69cbc0108d87"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.ts","id":"01a0686d-9d5e-7003-85f7-c26e7d26b125"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts","id":"01a06838-5a84-7006-be45-2e23ffbbeeca"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.ts","id":"01a0686d-9d5e-7005-9d03-50cd047c0404"}
