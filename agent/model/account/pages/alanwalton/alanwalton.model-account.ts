@@ -2,7 +2,7 @@ import type { ModelAccount } from "akasha/agent/model/account/model-account.page
 
 export const alanwalton = {
   id: "019db533-f3b2-7818-830b-b9063ba57490",
-  type: "model-account",
+  type: "page-type/model-account",
   slug: "alanwalton",
   provider: "model-provider/anthropic",
   accountUuid: "978ace2d-4458-4ade-ad9e-400764d37813",

@@ -2,7 +2,7 @@ import type { ModelAccount } from "akasha/agent/model/account/model-account.page
 
 export const tempereso = {
   id: "019db533-f3b2-780f-ad94-08ee3332e5be",
-  type: "model-account",
+  type: "page-type/model-account",
   slug: "tempereso",
   provider: "model-provider/anthropic",
   accountUuid: "80a42386-26f2-4457-9581-639fc99fac18",

@@ -2,7 +2,7 @@ import type { ModelAccount } from "akasha/agent/model/account/model-account.page
 
 export const abby = {
   id: "01a0a118-38ef-7000-aae5-4edbf750a2ab",
-  type: "model-account",
+  type: "page-type/model-account",
   slug: "abby",
   provider: "model-provider/anthropic",
   email: "abby@alanwalton.com",
