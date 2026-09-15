@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pushRegisterBody = {
   id: "01a05b54-a907-7932-8f8a-8aed5987a345",
-  type: "module",
+  type: "page-type/module",
   slug: "push-register-body",
   definition: "the body the push registration route takes",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const globalNameDependents = {
   id: "01a06038-2cc1-77dd-90fd-2e476aa73f6c",
-  type: "module",
+  type: "page-type/module",
   slug: "global-name-dependents",
   definition: "everything reading an addon global, and whether the global may be renamed",
   code: "ts",

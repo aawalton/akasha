@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const buildPredictedRow = {
   id: "01a05cb4-fefb-7ea5-a292-762a20e202a3",
-  type: "module",
+  type: "page-type/module",
   slug: "build-predicted-row",
   definition: "the row a write is predicted to leave before the server answers",
   code: "ts",

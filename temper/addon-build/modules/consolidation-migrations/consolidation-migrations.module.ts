@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const consolidationMigrations = {
   id: "01a06038-2cc2-79bf-bf75-d6b79d64ce35",
-  type: "module",
+  type: "page-type/module",
   slug: "consolidation-migrations",
   definition: "which addon's saved variables move where when addons are folded together",
   code: "ts",

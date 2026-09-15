@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const personEnrolment = {
   id: "01a05afe-7a0e-7ae1-ad39-ba070a334a6b",
-  type: "module",
+  type: "page-type/module",
   slug: "person-enrolment",
   definition: "the person an account signing in represents",
   code: "ts",

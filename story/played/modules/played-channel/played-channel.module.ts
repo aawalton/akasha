@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const playedChannel = {
   id: "01a0a162-9b05-7d36-a284-71c3ef40b6d7",
-  type: "module",
+  type: "page-type/module",
   slug: "played-channel",
   definition: "the run play left a story, its turns of prose and the beats under them",
   code: "tsx",

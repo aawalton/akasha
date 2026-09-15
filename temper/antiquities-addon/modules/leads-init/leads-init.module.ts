@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const leadsInit = {
   id: "01a06274-b08a-713c-8263-d0c81956cd55",
-  type: "module",
+  type: "page-type/module",
   slug: "leads-init",
   definition: "the lead window's one-time setup",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chapter = {
   id: "01a06578-5721-7001-b6e6-cb205ab28c07",
-  type: "module",
+  type: "page-type/module",
   slug: "chapter",
   definition: "the conventions a Wandering Inn chapter is named and read by",
   code: "ts",

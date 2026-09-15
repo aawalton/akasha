@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gameBeside = {
   id: "01a0a160-1d33-7b41-8c07-5f9a2e6b3d18",
-  type: "module",
+  type: "page-type/module",
   slug: "game-beside",
   definition: "the game a played story shares a slug with, read with the files beside its page",
   code: "ts",

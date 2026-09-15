@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sheetPanel = {
   id: "01a0629b-6851-766f-a3b3-76b010efa64a",
-  type: "module",
+  type: "page-type/module",
   slug: "sheet-panel",
   definition: "a character sheet in three tabs, being stats, skills and items",
   code: "tsx",

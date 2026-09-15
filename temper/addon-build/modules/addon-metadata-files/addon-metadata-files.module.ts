@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMetadataFiles = {
   id: "01a061a6-a945-7667-867d-9548c3e63be1",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-metadata-files",
   definition: "where an addon's keybinds and named files are, whichever shape its folder takes",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const leadsLocations1 = {
   id: "01a06274-b08a-7a87-9605-a463c6c19261",
-  type: "module",
+  type: "page-type/module",
   slug: "leads-locations-1",
   definition: "the location hints for antiquities 18 through 77",
   code: "ts",

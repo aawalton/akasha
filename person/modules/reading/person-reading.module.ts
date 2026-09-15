@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const personReading = {
   id: "01a06949-b280-74de-b0a9-61069c314f1a",
-  type: "module",
+  type: "page-type/module",
   slug: "person-reading",
   definition: "person pages read back as who someone is, one by slug or all of them sorted",
   code: "ts",

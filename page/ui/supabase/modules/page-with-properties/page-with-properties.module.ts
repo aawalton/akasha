@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageWithProperties = {
   id: "01a05cac-2a4f-74fa-a0c3-9ea5542cdf79",
-  type: "module",
+  type: "page-type/module",
   slug: "page-with-properties",
   definition: "a page read as its id beside the properties it has",
   code: "ts",

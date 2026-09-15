@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const playedRows = {
   id: "01a0a15f-4c11-7a20-9e33-2b6f0d41c7a5",
-  type: "module",
+  type: "page-type/module",
   slug: "played-rows",
   definition: "the turns and chapters a story was played in, shaped into what a display draws",
   code: "ts",

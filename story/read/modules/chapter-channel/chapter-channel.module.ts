@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chapterChannel = {
   id: "01a0a114-877c-70bd-a3d0-f5d9ac5fe26e",
-  type: "module",
+  type: "page-type/module",
   slug: "chapter-channel",
   definition: "a story's chapters drawn in a run, marked where the newest is and where reading is",
   code: "tsx",

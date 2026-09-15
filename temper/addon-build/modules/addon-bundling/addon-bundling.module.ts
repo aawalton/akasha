@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonBundling = {
   id: "01a090c1-e5c7-7c8e-ba27-38a6f8c8a165",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-bundling",
   definition: "every distributable addon's build output packed into one archive",
   code: "ts",

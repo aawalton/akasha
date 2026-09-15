@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const hudPanel = {
   id: "01a0629b-681a-7807-9038-44257743c571",
-  type: "module",
+  type: "page-type/module",
   slug: "hud-panel",
   definition: "a game's level, attribute points and pools as labelled rows and bars",
   code: "tsx",

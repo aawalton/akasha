@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const desktopWallpaperSetting = {
   id: "01a0786b-2a28-7d50-91e5-a54586893638",
-  type: "module",
+  type: "page-type/module",
   slug: "desktop-wallpaper-setting",
   definition: "how Alan's desktop wallpaper is set to a persona's own picture",
   code: "ts",

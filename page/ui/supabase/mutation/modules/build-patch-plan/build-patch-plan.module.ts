@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const buildPatchPlan = {
   id: "01a05cb4-fefa-7607-bad3-97aa6193d933",
-  type: "module",
+  type: "page-type/module",
   slug: "build-patch-plan",
   definition: "how one page write divides into promoted columns and a JSON patch",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const auditRecordSchema = {
   id: "01a05b71-e543-7988-b1b1-86b89ad98708",
-  type: "module",
+  type: "page-type/module",
   slug: "audit-record-schema",
   definition:
     "the shape of a roll or a combat resolution as it is written into a game's audit trail",

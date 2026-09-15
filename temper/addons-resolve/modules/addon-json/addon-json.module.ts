@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonJson = {
   id: "01a06060-ec3d-70b4-aba1-0e67a09d8d91",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-json",
   definition: "the shape of the `addon.json` an addon in this repository states itself in",
   code: "ts",

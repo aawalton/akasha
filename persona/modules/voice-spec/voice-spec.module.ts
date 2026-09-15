@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const voiceSpec = {
   id: "01a05b70-a58d-78db-84fb-024bfd2939aa",
-  type: "module",
+  type: "page-type/module",
   slug: "voice-spec",
   definition: "the shape a persona's cloned voice is described by",
   code: "ts",

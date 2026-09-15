@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonRoster = {
   id: "01a06060-ec3e-72ca-8583-d3120bbc8269",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-roster",
   definition: "every addon the repository has, each with the folder that addon sits in",
   code: "ts",

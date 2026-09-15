@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const leadsUndaunted = {
   id: "01a06274-b08a-740f-a9ca-6ce4d4c10ef1",
-  type: "module",
+  type: "page-type/module",
   slug: "leads-undaunted",
   definition: "the undaunted pledge dungeons set for today",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const antiquitiesAddonGlobal = {
   id: "01a06274-b08a-7cab-9448-75cbe305e5e4",
-  type: "module",
+  type: "page-type/module",
   slug: "antiquities-addon-global",
   definition: "the name another add-on reaches this one by",
   code: "ts",

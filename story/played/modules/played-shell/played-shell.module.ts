@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const playedShell = {
   id: "01a0a164-5a91-7e83-b7f5-92c604ad817e",
-  type: "module",
+  type: "page-type/module",
   slug: "played-shell",
   definition: "the display a story played draws over its own play, with the game's panels",
   code: "tsx",

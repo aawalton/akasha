@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chapterTurns = {
   id: "01a0a10a-d1f9-7c13-b526-33d95a14d7dc",
-  type: "module",
+  type: "page-type/module",
   slug: "chapter-turns",
   definition: "the chapters of a story somebody else wrote, shaped into the turns a channel draws",
   code: "ts",

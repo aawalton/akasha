@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const questSchema = {
   id: "01a05b71-e544-7f7a-9dc9-b1677b4e1fc6",
-  type: "module",
+  type: "page-type/module",
   slug: "quest-schema",
   definition: "a quest a game is tracking and whether it is still running",
   code: "ts",

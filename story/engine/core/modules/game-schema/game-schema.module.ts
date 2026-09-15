@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gameSchema = {
   id: "01a05b71-e543-7c87-8c6e-cfaef2c52761",
-  type: "module",
+  type: "page-type/module",
   slug: "game-schema",
   definition: "what a game puts on screen, how often it looks for more, and how it alerts",
   code: "ts",

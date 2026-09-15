@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readerShell = {
   id: "01a0a114-e185-7eb0-8943-4533dfe74f46",
-  type: "module",
+  type: "page-type/module",
   slug: "reader-shell",
   definition:
     "the reader a story read draws over its own chapters, with its alerts and its channel",

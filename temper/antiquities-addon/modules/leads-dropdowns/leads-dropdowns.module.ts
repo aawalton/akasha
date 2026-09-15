@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const leadsDropdowns = {
   id: "01a06274-b08a-73b6-88fd-0642104d68e0",
-  type: "module",
+  type: "page-type/module",
   slug: "leads-dropdowns",
   definition: "the three filter menus above the lead list",
   code: "ts",

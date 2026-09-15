@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const folderOwnership = {
   id: "01a06060-ec3f-739d-a84d-9007047669a6",
-  type: "module",
+  type: "page-type/module",
   slug: "folder-ownership",
   definition: "whether a folder in the game's addons directory is the deploy's to replace",
   code: "ts",

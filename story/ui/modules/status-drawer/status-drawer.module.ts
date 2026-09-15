@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const statusDrawer = {
   id: "01a0629b-6811-75c4-926a-21d12dddeb94",
-  type: "module",
+  type: "page-type/module",
   slug: "status-drawer",
   definition: "a narrow-screen menu with a game's status panels behind one button",
   code: "tsx",

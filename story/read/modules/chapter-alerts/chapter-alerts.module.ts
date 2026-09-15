@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chapterAlerts = {
   id: "01a0a114-1db7-7ff6-a448-374b26986286",
-  type: "module",
+  type: "page-type/module",
   slug: "chapter-alerts",
   definition: "the sound and the notice a story's newest chapter raises for the person reading it",
   code: "ts",

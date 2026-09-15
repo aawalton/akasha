@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pushPermission = {
   id: "01a05b54-a909-7753-8cc3-52b02c145266",
-  type: "module",
+  type: "page-type/module",
   slug: "push-permission",
   definition: "what the app does about the push permission a device is at",
   code: "ts",

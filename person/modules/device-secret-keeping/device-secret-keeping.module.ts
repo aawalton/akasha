@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deviceSecretKeeping = {
   id: "01a05b39-f50c-7ad6-a7d4-29b6957fb929",
-  type: "module",
+  type: "page-type/module",
   slug: "device-secret-keeping",
   definition: "the account a device presenting a secret represents, and how that secret is kept",
   code: "ts",
