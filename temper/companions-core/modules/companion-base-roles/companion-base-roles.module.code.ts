@@ -73,18 +73,6 @@ export const companionBaseRoles =
 
 export type CompanionBaseRoleId = (typeof companionBaseRoles.ids)[number]
 
-export function getValidWeaponRoleIdsForBaseRoles(
-  roles: readonly CompanionBaseRoleId[]
-): readonly CompanionWeaponRoleId[] {
-  const set = new Set<CompanionWeaponRoleId>()
-  for (const roleId of roles) {
-    for (const id of companionBaseRoles.data[roleId].validWeaponRoleIds) {
-      set.add(id)
-    }
-  }
-  return [...set]
-}
-
 export function getValidTraitIdsForBaseRoles(
   roles: readonly CompanionBaseRoleId[]
 ): readonly CompanionTraitId[] {
