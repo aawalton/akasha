@@ -24,6 +24,18 @@ export const monarchClient = {
     },
     {
       invariantKind: "departure",
+      statement: "A status Monarch owns the fault for is asked again, twice, each wait longer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The thirty seconds cover every try rather than each try on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A status the caller owns the fault for is refused rather than asked again.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Transactions are drawn a page of five hundred at a time until a page comes back short.",
     },

@@ -10,6 +10,15 @@ import {
 const API_URL = "https://api.monarch.com/graphql"
 const REQUEST_TIMEOUT_MS = 30_000
 const PAGE_SIZE = 500
+const ASK_AGAIN_TIMES = 3
+const ASK_AGAIN_AFTER_MS = 500
+const ITS_OWN_FAULT = 500
+
+function waited(ms: number): Promise<undefined> {
+  return new Promise((go) => {
+    setTimeout(() => go(undefined), ms)
+  })
+}
 
 export interface MonarchAccount {
   readonly id: string
@@ -251,13 +260,19 @@ export async function monarchQuery(
 ): Promise<Record<string, unknown>> {
   const controller = new AbortController()
   const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS)
-  try {
-    const response = await fetch(API_URL, {
+  const asked = async (): Promise<Response> =>
+    await fetch(API_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json", ...auth },
       body: JSON.stringify({ operationName, query: queryText, variables }),
       signal: controller.signal,
     })
+  try {
+    let response = await asked()
+    for (let tries = 1; tries < ASK_AGAIN_TIMES && response.status >= ITS_OWN_FAULT; tries += 1) {
+      await waited(ASK_AGAIN_AFTER_MS * tries)
+      response = await asked()
+    }
     if (!response.ok) {
       throw new Error(`Monarch API ${response.status}: ${response.statusText}`)
     }
