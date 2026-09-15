@@ -9,6 +9,7 @@ import {
 import { akashaSeatsDirIn } from "akasha/agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaObservedOf } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { akashaSubagentsDirIn } from "akasha/agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts"
 import { leftWhereCodeMoved } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
@@ -27,7 +28,11 @@ function stamp(found: readonly SeatPending[]): number {
 }
 
 function storesWatched(): readonly string[] {
-  return [akashaSeatsDirIn(akashaRoot()), join(akashaRoot(), messagesDirRelPath())]
+  return [
+    akashaSeatsDirIn(akashaRoot()),
+    akashaSubagentsDirIn(akashaRoot()),
+    join(akashaRoot(), messagesDirRelPath()),
+  ]
 }
 
 function transcriptsWatched(): readonly string[] {
