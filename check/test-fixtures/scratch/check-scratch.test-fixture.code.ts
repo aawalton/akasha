@@ -82,6 +82,8 @@ export function typed(
       },
     },
   ])
+  if (above === null) return
+  relationFiled(root, `id-${above}`, EXTENDS_TYPE, `id-${slug}`, [{ path }])
 }
 
 export type Shape = {
